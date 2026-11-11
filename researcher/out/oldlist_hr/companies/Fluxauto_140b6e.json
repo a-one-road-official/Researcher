@@ -1,0 +1,1276 @@
+{
+ "name": "Fluxauto",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜商談中",
+ "researched_at": "2026-11-11T02:25:29.990609+00:00",
+ "official_url": "https://fluxauto.ai/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://startupintros.com/orgs/flux-auto",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Seed (2020)",
+    "value": "6.9 $M",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "label": "Seed (2024)",
+    "value": "6.0 $M",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$65,000",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Bengaluru North, Karnataka, India",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "Houston, TX, USA",
+    "url": "https://startupintros.com/orgs/flux-auto",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Warehouses & Factories are under pressure",
+    "url": "https://fluxauto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "New AMRs are cost-prohibitive",
+    "url": "https://fluxauto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The fleet operates autonomously across multiple shifts, and multiple operation types. Your team gets a real-time fleet dashboard to assign tasks, track progress and generate reports.",
+    "url": "https://fluxauto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Move raw materials, WIP, and finished goods between locations reliably - without tying up your limited workforce on transport tasks.",
+    "url": "https://fluxauto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No breaks, sick days, or shift premiums. Run nights and weekends at base cost.",
+    "url": "https://fluxauto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Add autonomous capacity by retrofitting more units, not hiring more drivers.",
+    "url": "https://fluxauto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We move fast. Most processes complete in under 2 weeks, and we rely heavily on your projects and past experience.",
+    "url": "https://fluxauto.ai/careers.html",
+    "pass": 1
+   },
+   {
+    "quote": "Our tests focus on the skills crucial to your success in the role. Through this process, you'll get real insight into the kind of work you'll be doing at Flux Auto.",
+    "url": "https://fluxauto.ai/careers.html",
+    "pass": 1
+   },
+   {
+    "quote": "Small team means high ownership. You don't hand things off - you see them through. When a deployment goes live, you're proud of it. When something breaks, you fix it. No silos, no blame.",
+    "url": "https://fluxauto.ai/careers.html",
+    "pass": 1
+   },
+   {
+    "quote": "Our machines share floor space with real people. We don't treat safety as simply a compliance requirement - it's a design constraint from day one, in the sensor stack, the code, and the deployment process.",
+    "url": "https://fluxauto.ai/careers.html",
+    "pass": 1
+   },
+   {
+    "quote": "Prefer to reach out directly? Email us at",
+    "url": "https://fluxauto.ai/careers.html",
+    "pass": 1
+   },
+   {
+    "quote": "Promoted by FLUX | text & edited by Natsumi Amano | photographs by Shuji Goto",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "Contact for site assessment and pricing",
+    "url": "https://ainiche.net/ja/tools/flux-auto",
+    "pass": 3
+   },
+   {
+    "quote": "そのような大企業が同じ分野に力を入れる中、競争についていけるのかと聞かれたところ、Flux Auto のCEOPranav Manpuriaは「最初からマーケットを理解し、トラックの自律運転に力を入れてきた僕たちに対して、他の企業はこの10年間車の自律運転に労力やお金をつぎ込んだ果てに、こっちのマーケットに参入してきた",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   },
+   {
+    "quote": "CEOのPranav Manpuriaは、「最終的にはレベル５までもっていきたいが、現在必要とされているのはレベル３であり、商用化が目的であるわれわれにとって、市場の需要にこたえるのが最も大事なことである」と述べている",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto: kit that bolts onto a warehouse's | Present of AI",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto was founded by Pranav Manpuria, Founder and CEO, per public sources.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "https://presentofai.com/spotlight/fluxauto.ai",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Co-founder Abhishek Gupta previously built a drone platform with custom cameras and data processing for farmers, adjacent robotics and perception experience.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Co-founder Abhishek Gupta previously built a drone platform with custom cameras and data processing systems for farmers, adjacent robotics and computer vision experience directly relevant to retrofitting vehicles with autonomy. Co-founder Pranav Manpuria's background is in a payment startup, general founder experience rather than robotics-specific.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "The product is an AI perception and navigation system that turns an ordinary forklift into a self-driving vehicle; without the AI, the retrofit kit would not function at all, making AI the core of what Flux Auto sells.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto's approach is to retrofit the vehicles a warehouse already has, adding an AI hardware and software kit that handles mapping, object detection and autonomous driving, aimed at a fraction of the cost and disruption of buying new.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse labor shortages and rising wages are a real, ongoing pressure toward automation, though no single dated regulation or event marks this specific moment.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Two signals: Flux Auto states its Odin platform is ISO 3691-4 certified, a safety standard for driverless industrial trucks that a rival would also need to clear to sell into the same regulated industrial environments, and it deploys its own proprietary retrofit hardware kit on customer vehicles rather than selling software alone, with no patents or long-term contracts stated publicly.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "One clear channel is visible: direct sales to large industrial and logistics customers, evidenced by its named customer list, with no public pricing, marketplace listing or partner programme.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Not applicable: Flux Auto installs physical hardware on a customer's own industrial vehicles through a direct sales process, not a product an individual can try.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Live product, named customers including Walmart, Daimler and Cummins",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Holds a business administration degree from Illinois Tech in Chicago and previously built a payment startup in India before co-founding Flux Auto.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Previously built a drone platform with custom cameras and data processing systems for farmers before co-founding Flux Auto.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Company and founder profile",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedIn, Pranav Manpuria",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Not shown: it needs both a valuation and an ARR figure from a company, investor or named-press source, within 12 months of each other. We do not estimate either.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "and we fix verified errors promptly, or work with us on a fuller founder Spotlight. Figures a company publishes about itself are its own claims, which we have not independently verified. Our assessment is our own view and is not negotiated. Nothing here is financial, investment, medical or legal advice.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Get the AI Hiring Index in the daily digest",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Get the AI Hiring Index data and new AI jobs in the daily digest, plus the daily Spotlight. Free, and every email has an unsubscribe link.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Founders, companies, and anyone working on an interesting product or idea with AI. Founder Spotlights are free, and we make them with you. Already in an editorial Spotlight? Write to us to correct a fact or to make the full version together.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto has spent seven years solving a single, stubborn problem: how to make a forklift drive itself. The answer, according to the Bangalore-based startup, is not to build a new robot. It is to retrofit the old one.",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto's entire strategy is built on a simple economic premise. Replacing an entire fleet of forklifts or industrial trucks is a multi-year, capital-intensive project. Retrofitting them is faster and cheaper. The company's Odin platform is a \"Universal Autonomy\" system designed to work across controlled environments like warehouses, factories, and mines [Flux Auto, retrieved 2024].",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "Founders Pranav Manpuria (CEO) and Abhishek Gupta (COO) started Flux Auto with a clear focus on aftermarket kits for trucks, not autonomous cars [The Economic Times, January 2018]. Gupta also serves as Chief Product Officer at Retool, a software company, indicating a split focus that is uncommon for a seed-stage hardware startup [LinkedIn, retrieved 2026].",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto's bet is ambitious, and its path is lined with credible competitive and execution risks. The company operates in a crowded field of autonomy specialists, each with a different approach.",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "Retrofitting is inherently a field operation. Installing kits on hundreds or thousands of vehicles across different geographies and vehicle models requires a large, skilled deployment team. Managing this scale profitably is a classic services-heavy hurdle for hardware-enabled SaaS companies.",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "The company's answer to these risks appears to be its enterprise traction. Landing Walmart and Daimler as early customers provides not just revenue, but crucial case studies to convince the next hundred warehouses.",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "The question for warehouse operators is no longer if to automate, but how. Flux Auto is betting that the most pragmatic answer is to upgrade what you already own. If the unit economics hold and the deployments stick, that retrofit wedge could open a surprisingly large door.",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "[GetLatka, retrieved 2026] GetLatka company profile |",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "[LinkedIn, retrieved 2026] Abhishek Gupta - Chief Product Officer @ Retool |",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "[Flux Auto, retrieved 2024] Flux Auto careers page |",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "AI-driven research and reporting on private companies. Every page is",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto is retrofitting AI-powered autonomy onto customers' existing vehicles without requiring fleet replacement. We have built Odin, a Universal Autonomy platform that works across industries in controlled environments like warehousing, agriculture, mining, logistics and more. This approach makes automation quicker, far more affordable, and truly scalable.",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "With projects around the world with industry leading clients, our team is solving complex real time problems across various disciplines. Join us in our journey to build the future of motion.",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto has approximately",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto was founded in 2017 by Pranav Manpuria (Founder).",
+    "url": "https://startupintros.com/orgs/flux-auto",
+    "pass": 3
+   },
+   {
+    "quote": "Modular Retrofitting Approach:",
+    "url": "https://startupintros.com/orgs/flux-auto",
+    "pass": 3
+   },
+   {
+    "quote": "Their AI-driven system provides 360° environmental awareness, dynamic path planning, and remote monitoring via a user interface, enabling safe and efficient driverless operation in controlled spaces[3].",
+    "url": "https://startupintros.com/orgs/flux-auto",
+    "pass": 3
+   },
+   {
+    "quote": "Focus on Safety and Productivity:",
+    "url": "https://startupintros.com/orgs/flux-auto",
+    "pass": 3
+   },
+   {
+    "quote": "rocketreach.co/flux-auto-profile_b4540762fc988497",
+    "url": "https://startupintros.com/orgs/flux-auto",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Warehouses & Factories are under pressure",
+    "url": "https://fluxauto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No warehouse modifications. No months-long ramp-up.",
+    "url": "https://fluxauto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lidar-based maps of your warehouse helps Odin learn your workflows, detects pallets, obstacles, and pedestrians in real time. No floor markings, stickers, tapes or infrastructure changes needed.",
+    "url": "https://fluxauto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The Flux Auto Team is deploying physical AI in warehouses and factories across forklifts, pallet jacks and tow trucks. We move fast, ship real solutions, and give our team outsized ownership.",
+    "url": "https://fluxauto.ai/careers.html",
+    "pass": 1
+   },
+   {
+    "quote": "Every warehouse, factory, and distribution centre in the world runs on manual labour that's increasingly hard to find, expensive to retain, and dangerous in tight spaces. We're the team building the technology that fixes this - and we want people who are obsessed with real-world impact, not just demos.",
+    "url": "https://fluxauto.ai/careers.html",
+    "pass": 1
+   },
+   {
+    "quote": "Our software drives real forklifts and tow trucks in live warehouses and factories. We don't spend months polishing simulations - we deploy, observe, fix, and redeploy. Everyone here can point to something real they built.",
+    "url": "https://fluxauto.ai/careers.html",
+    "pass": 1
+   },
+   {
+    "quote": "The best insights come from being in the warehouse, not in a meeting room. We talk to operators, watch how the machines behave, and build for what's actually needed - not what we assumed in a spec doc. One size does not fit all.",
+    "url": "https://fluxauto.ai/careers.html",
+    "pass": 1
+   },
+   {
+    "quote": "Flux Auto: kit that bolts onto a warehouse's | Present of AI",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "A kit that bolts onto a warehouse's existing forklifts and turns them into self-driving vehicles in about 48 hours, per the company, instead of buying new autonomous ones.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "A kit that bolts onto a warehouse's existing forklifts and turns them into self-driving vehicles in about 48 hours, per the company, instead of buying new autonomous ones. Warehouses and factories that want autonomous forklifts have traditionally had to buy entirely new, purpose-built robotic vehicles, an expensive swap for equipment that often still works fine.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto retrofits a warehouse's existing forklifts, pallet jacks and tuggers with an AI hardware and software kit to make them self-driving.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouses and factories that want to automate material movement have traditionally faced a choice: keep paying human drivers for repetitive forklift work, or spend heavily on purpose-built autonomous vehicles to replace the fleet they already own.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Labor shortages and rising wages have made automation more attractive, but the upfront cost of new autonomous equipment, plus the disruption of changing a warehouse's layout to suit it, has kept many operators on the sidelines.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto's approach is to retrofit the vehicles a warehouse already has, adding an AI hardware and software kit that handles mapping, object detection and autonomous driving, aimed at a fraction of the cost and disruption of buying new.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "For warehouse and factory operators",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse and factory automation, physical AI, autonomous material handling",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse labor shortages and rising wages are a real, ongoing pressure toward automation, though no single dated regulation or event marks this specific moment.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Two signals: Flux Auto states its Odin platform is ISO 3691-4 certified, a safety standard for driverless industrial trucks that a rival would also need to clear to sell into the same regulated industrial environments, and it deploys its own proprietary retrofit hardware kit on customer vehicles rather than selling software alone, with no patents or long-term contracts stated publicly.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "One clear channel is visible: direct sales to large industrial and logistics customers, evidenced by its named customer list, with no public pricing, marketplace listing or partner programme.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto states ISO 3691-4 certification, a safety standard for driverless industrial trucks rather than a data-security certification, plus a VAPT (vulnerability assessment and penetration testing) security check, per its site, but there is no public trust centre or linked certificate.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Not applicable: Flux Auto installs physical hardware on a customer's own industrial vehicles through a direct sales process, not a product an individual can try.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse and factory automation, physical AI, B2B",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "For an early-stage industrial hardware company, starting with a small pilot at a large account before any wider rollout is a common pattern, and not itself a red flag.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "The named customer list is public evidence Flux Auto can sell into large industrial accounts; a full fleet-wide deployment at each one is not confirmed publicly.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse and factory operators who want to automate material handling without replacing their existing vehicle fleet.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto turns the forklifts, pallet jacks and tow trucks a warehouse already owns into self-driving machines. It sells a hardware kit and an autonomy software platform called Odin. The pitch is that this costs far less than buying new robot forklifts.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouses and factories that move pallets. The company says it has automated more than 15 facilities. Customers it names include Daimler, Bajaj, Cummins and Mahindra Logistics.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Launched Odin, an autonomy platform for existing industrial vehicles.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Sells autonomous forklifts for warehouses with remote human oversight.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "The Bangalore startup's $6 million seed round backs a universal autonomy platform for existing industrial fleets, claiming a 75% cost advantage.",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto's entire strategy is built on a simple economic premise. Replacing an entire fleet of forklifts or industrial trucks is a multi-year, capital-intensive project. Retrofitting them is faster and cheaper. The company's Odin platform is a \"Universal Autonomy\" system designed to work across controlled environments like warehouses, factories, and mines [Flux Auto, retrieved 2024].",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "The company's answer to these risks appears to be its enterprise traction. Landing Walmart and Daimler as early customers provides not just revenue, but crucial case studies to convince the next hundred warehouses.",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "The question for warehouse operators is no longer if to automate, but how. Flux Auto is betting that the most pragmatic answer is to upgrade what you already own. If the unit economics hold and the deployments stick, that retrofit wedge could open a surprisingly large door.",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "[Y Combinator, retrieved 2024] Flux Auto: Physical AI for Warehouses and Factories |",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "Odin supports a variety of industrial applications, including pallet detection for forklifts, implement control for tractors, and blade control for lawn mowers, making it adaptable across sectors[7].",
+    "url": "https://startupintros.com/orgs/flux-auto",
+    "pass": 3
+   },
+   {
+    "quote": "americanbazaaronline.com/2025/03/14/flux-auto-launches-odin-a-fully-autonomous-solution-for-industrial-heavylifting-460713",
+    "url": "https://startupintros.com/orgs/flux-auto",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Thanks for reaching out. Someone from our team will email you within 48 hours with next steps and a personalised ROI estimate for your fleet.",
+    "url": "https://fluxauto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prefer to reach out directly? Email us at",
+    "url": "https://fluxauto.ai/careers.html",
+    "pass": 1
+   },
+   {
+    "quote": "Get the AI Hiring Index data and new AI jobs in the daily digest, plus the daily Spotlight. Free, and every email has an unsubscribe link.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "and we email you when new roles match.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本経済の“次の流れ”とは | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "BrandVoiceは、企業や団体のコンテンツマーケティングを行うForbes JAPANの企画広告です",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPAN BrandVoice Studio",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "「日本経済に流れを」をミッションに、AI時代における企業の戦略パートナーとして、AIトランスフォーメーション (AX) を推進するスタートアップ、FLUX",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "目まぐるしく進化するAIビジネスの最前線で、日本経済の未来をどう見ているのか",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "これらをセットで提供する会社は日本にほとんどないと自負しています",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "私は学生時代からAIに関心があり、ケンブリッジ大学と東京工業大学（現 東京科学大学）で機械学習やアルゴリズムなどの研究開発をしていました",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "現在は東京大学松尾研究室に所属し、研究開発も続けています",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIの進化の中心はアメリカと中国ですが、中国の情報にアクセスできる日本のAI系スタートアップは多くありません",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、海外パートナーや最先端モデルの開発元と技術面で協力しながら、日本のお客さまに最適なソリューションを提供することで、エンタープライズ市場に対して独自の貢献が可能です",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "ーーLiさんは東京大学松尾研究室に所属するなど、研究者としても活動しています",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "ーー「日本経済に流れを」というミッションの実現を100とした時に、今の御社の事業フェーズはどの位置にあると思いますか？",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "一方で社内に目を向けると、6月には東京ミッドタウンへオフィスを移転して延床面積は5倍に",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "そのくらいの規模になれば、日本経済にインパクトを与えるスタートラインに立てると考えています",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "今後の日本経済に対して、お二人はどのようなイメージを持っていますか？",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "日本の一番の問題は人口減少ですが、人手が必要な業務の多くも近い将来ロボットやAIが担うようになれば、問題は小さくなり、世界から日本への投資意欲や、地政学的な安定性の重要性が増していくと見ています",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "：私は日本経済に対して、楽観的な立場です",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "また、金融やAI領域で成功したアメリカや中国、ヨーロッパの友人の中には「日本に移住したい」という人が多くいます",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "そういった人材が日本に集まることで起きるインパクトも大きいはずです",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "AIの現在地とお客さまの経営課題を照らし合わせ、「日本のエンタープライズ企業にとって最適なAIトランスフォーメーション (AX）とは何か」をクリアにしていくのは、私にとっての楽しさでもあります",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "2018年5月に株式会社FLUXを創業、代表取締役就任",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "pass": 3
+   },
+   {
+    "quote": "運送会社の過労が問題となっている中、トラックの自律運転技術は日本にも需要があるのではないだろうか",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Flux Auto - Physical AI for your Legacy Fleet — Flux Auto retrofits any forklift with physical AI to fully automate operations. Zero new equipment deployed in 3 weeks. Trusted by warehouses and manufacturers worldwide.",
+    "url": "https://fluxauto.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto - AIツールレビュー | AIniche — 概要 Flux Autoは、倉庫, 農場, 鉱山などの管理された環境において、既存の商用車両を自動運転車両へと改造するレトロフィット自動運転プラットフォームです。2025年3月に産業用重機の完全自動化に向けたOdinソリューションを公式リリースし、フォークリフト、トラクター、ダンプトラックなど ...",
+    "url": "https://ainiche.net/ja/tools/flux-auto",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto: 誰よりも早く自律運転車を — Aug 23, 2018 · インド発のスタートアップ会社Flux Autoは、TeslaやGoogleよりも先に自律運転キットを開発しようとしている。彼らは、カオスで全く舗装されていないインドの道こそ、自律運転キット開発のために重要なデータを集めることができると述べている。 Flux Autoは2016年に起業し、当初の目的はトラック ...",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   },
+   {
+    "quote": "サービス | 株式会社FLUX（フラックス） — 株式会社FLUX（フラックス）のサービスについて紹介しています。事業変革支援の「FLUX Insight」、採用支援の「FLUX Agent」、マーケティング支援の「FLUX AutoStream」といったサービスを提供しています。",
+    "url": "https://flux.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto | LinkedIn — Flux Auto | 15,258 followers on LinkedIn. Physical AI for Warehouses & Factories | Flux Auto is retrofitting AI-powered autonomy onto customers' existing vehicles without requiring fleet replacement. We have built Odin, a Universal Autonomy platform that works across industries in controlled environments like warehousing, agriculture, mining, logistics and more. This approac",
+    "url": "https://in.linkedin.com/company/fluxauto",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto: kit that bolts onto a warehouse's | Present of AI — Nov 1, 2026 · Flux Auto, based in Bengaluru, retrofits a customer's existing forklifts, pallet jacks and tuggers with its own AI hardware and software kit, adding real-time mapping, object detection and, per the company, 24/7 autonomous operation, without replacing the vehicle or rebuilding the warehouse.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto's Retrofit Kit Lands the Autonomous Forklift at ... — Sep 4, 2026 · Founded in 2017, Flux Auto sells a hardware and software kit called Odin that it installs on existing material handling equipment. The promise is to convert a customer's legacy fleet into an autonomous workforce in six weeks, at a claimed 75% lower cost than buying new autonomous mobile robots (AMRs) [Flux Auto, retrieve",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto | LinkedIn — Flux Auto is retrofitting AI-powered autonomy onto customers' existing vehicles without requiring fleet replacement. We have built Odin, a Universal Autonomy platform that works across industries in controlled environments like warehousing, agriculture, mining, logistics and more.",
+    "url": "https://in.linkedin.com/company/fluxauto",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Mobility | Flux Auto — Flux builds autonomous mobility technology powered by AI to automate any vehicle, in any environment, and for any application. We are building the future of commercial and industrial mobility.",
+    "url": "https://fluxauto.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto - 2026 Company Profile, Team, Funding ... - Tracxn — Apr 5, 2026 · Flux Auto is a seed company based in Bengaluru (India), founded in 2017 by Pranav Manpuria and Abhishek Gupta. It operates as a Developer of self-driving tech for commercial vehicles. Flux Auto has raised $1.25M in funding from Y Combinator and 7percent Ventures, with a current valuation of ₹ *****. The company has 6 acti",
+    "url": "https://tracxn.com/d/companies/fluxauto/__6xXejrJJ-sTs6Gu3165HESil0bRvloZ4sMY8rIRKg9U",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto Revenue, Funding & Valuation - prospeo.ioFlux Auto: Funding, Team & Investors | Startup IntrosFlux Auto 2026 Company Profile: Valuation, Funding ...How Flux Auto hit $8.4M revenue with a 56 person team in 2024.Flux Auto — Company Profile & Funding (2026) | Indexed.vcFlux Auto Revenue 2024: $8.4M Est. - getlatka.com — Flux Auto has revenue of $3,427,121, estimated valuation of $11,000,000",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · To support its ongoing research and commercialization efforts, the enterprise has raised $130,000 in total funding to date, securing financial backing from early institutional investors including Y Combinator, Soma Capital, Metaplanet, and VentureSouq. Flux Auto was founded in 2017 by Pranav Manpuria and Abhishek Gupta.",
+    "url": "https://startupintros.com/orgs/flux-auto",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto 2026 Company Profile: Valuation, Funding ...How Flux Auto hit $8.4M revenue with a 56 person team in 2024.Flux Auto — Company Profile & Funding (2026) | Indexed.vcFlux Auto Revenue 2024: $8.4M Est. - getlatka.com — Flux Auto has 57 total employees. What industry is Flux Auto in? Flux Auto’s primary industry is Other Hardware. Is Flux Auto a private or public company? Flux Auto is a Priva",
+    "url": "https://pitchbook.com/profiles/company/183442-78",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto — Company Profile & Funding (2026) | Indexed.vc — Physical AI for your Legacy Fleet Bengaluru, India · Founded 2022 Artificial Intelligence Headquarters Bengaluru Employees 51–200 Founded 2022 Business Model B2B Website fluxauto.ai",
+    "url": "https://indexed.vc/companies/flux-auto",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "One clear channel is visible: direct sales to large industrial and logistics customers, evidenced by its named customer list, with no public pricing, marketplace listing or partner programme.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Investors listed by the company include Y Combinator, Asymmetry VC, Truesight Ventures, 7pc Ventures, Jam Fund and Soma Capital; American Bazaar reports over US$6 million raised in total, with Metaplanet also an investor; the company publishes no round-by-round breakdown",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "No public revenue or ARR figure found.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation as a multiple of ARR",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Not shown: it needs both a valuation and an ARR figure from a company, investor or named-press source, within 12 months of each other. We do not estimate either.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "We wrote this Spotlight from public material, as part of our series on the companies building with AI.",
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "The company's answer to these risks appears to be its enterprise traction. Landing Walmart and Daimler as early customers provides not just revenue, but crucial case studies to convince the next hundred warehouses.",
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Flux Auto",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Flux Auto?",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Flux Auto have?",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Flux Auto: 誰よりも早く自律運転車を Aug 23, 2018 · インド発のスタートアップ会社Flux Autoは、TeslaやGoogleよりも先に自律運転キットを開発しようとしている。彼らは、カオスで全く舗装されていないインドの道こそ、自律運転キット開発のために重要なデータを集めることができると述べている。 Flux Autoは2016年に起業し、当初の目的はトラック ...",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Flux Auto: 誰よりも早く自律運転車を｜熊田",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Auto: 誰よりも早く自律運転車を",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   },
+   {
+    "quote": "インド発のスタートアップ会社Flux Autoは、TeslaやGoogleよりも先に自律運転キットを開発しようとしている。彼らは、カオスで全く舗装されていないインドの道こそ、自律運転キット開発のために重要なデータを集めることができると述べている。",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Autoは2016年に起業し、当初の目的はトラック用の自律運転技術を商用化することであった。この点、自律運転車を開発している他の企業（Google・Uber・Tesla）とは異なるアプローチであった。この目的は未だに変わっておらず、トラックの自律運転キットに関するマーケットの知識を最大限に生かして、商品開発を行っている。",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   },
+   {
+    "quote": "しかし最近、先ほど述べた企業に加えて、VolvoやDaimlerなどの企業も自立運転トラックに力を入れ始めた。そのような大企業が同じ分野に力を入れる中、競争についていけるのかと聞かれたところ、Flux Auto のCEOPranav Manpuriaは「最初からマーケットを理解し、トラックの自律運転に力を入れてきた僕たちに対して、他の企業はこの10年間車の自律運転に労力やお金をつぎ込んだ果てに、こっちのマーケットに参入してきた。彼らがマーケットを理解するのにはまだまだ時間がかかる」と述べた。そのうえで、競争についていく十分の自信を持っていた。",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Autoと他の企業の違いは、自律運転トラックを開発しているのではなく、しっかりとマーケットのニーズを把握したうえで、トラックを自律的に運転できる用のキットを作っていることだ。",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   },
+   {
+    "quote": "現在Flux Autoが商用しようとしている自律運転システムは「レベル３」の自律運システムだそうだ。レベル5がまったく人的な操作を必要としない真の自律運転であるのに対して、レベル３は高速道路以外の道において、人的操作を必要としないレベルの自律運転である。CEOのPranav Manpuriaは、「最終的にはレベル５までもっていきたいが、現在必要とされているのはレベル３であり、商用化が目的であるわれわれにとって、市場の需要にこたえるのが最も大事なことである」と述べている。",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   },
+   {
+    "quote": "同じ目的を理由に、Flux  Autoは従来の自律運転技術に使われている光センサーではなく、カメラや他のセンサーを使うことによって、そこにかかる費用を90％削減した。",
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Flux Auto (@fluxauto) / Posts / X Flux Auto - 10 km Autonomous Driving on Indian Highway The Flux Auto Truck - Mystery Machine - driving autonomously for 10 km on Indian Highways.More footage coming soon.www.fluxauto.xyz",
+    "url": "https://x.com/fluxauto?ref=hackernoon",
+    "pass": 3
+   },
+   {
+    "quote": "#FluxAuto will target south and central American markets and ... ET SMEET_RISE Jan 1 #FluxAuto will target south and central American markets and South-East Asian countries. bit.ly/2DMF7R9 💬0 🔄7 🤍14 0 📎",
+    "url": "https://x.com/ET_RISE/status/948083939419348993",
+    "pass": 3
+   },
+   {
+    "quote": "Watch our CEO @pranavmanpuria talking about The Future of ... Flux Auto (@fluxauto). 4 likes. Watch our CEO @pranavmanpuria talking about The Future of Tech at Startup Saturday by @HeadstartBlr on the 15th of December. #fluxauto #startup #entrepreneur #entrepreneurship #autonomous #driverless #selfdriving",
+    "url": "https://x.com/fluxauto/status/1071752132150349824",
+    "pass": 3
+   },
+   {
+    "quote": "@dsilver829 if you’re in Bangalore we would love to pick your ... Flux Auto (@fluxauto). @dsilver829 if you’re in Bangalore we would love to pick your brain about self driving and a possible partnership between #FluxAuto and @udacity coffee is on us",
+    "url": "https://x.com/fluxauto/status/994120713543053312",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Flux Auto - FacebookFlux Automotive | Bath - FacebookFluxAuto Diagnostics - FacebookFlux Auto - FacebookThe Lab is Now Mobile. We are... - FluxAuto ... - FacebookFlux Auto - FacebookFlux Auto - We are excited to share that Frost & Sullivan ... Jul 31, 2020 · We are excited to share that Frost & Sullivan has featured Flux Auto as a leading autonomous vehicle company in its report on India’s Automot",
+    "url": "https://www.facebook.com/fluxdrive/",
+    "pass": 3
+   },
+   {
+    "quote": "Flux Automotive | Bath - Facebook Sep 30, 2026 · Flux Automotive, Bath. 111 followers · 29 talking about this. Flux Automotive are a BMW i3 Specialist based near Bath, Somerset. We offer fixed price servicing and attend to all common i3 ailments....",
+    "url": "https://www.facebook.com/fluxautomotive/",
+    "pass": 3
+   },
+   {
+    "quote": "FluxAuto Diagnostics - Facebook Apr 1, 2026 · FluxAuto Diagnostics. 2 followers. Mobile auto diagnostics with dealer-level tools. Unbiased ECU interrogation for the \"Golden Triangle\" (MK • NN • OX). No grease, no upsells—just objective facts....",
+    "url": "https://www.facebook.com/p/FluxAuto-Diagnostics-61575345932190/",
+    "pass": 3
+   },
+   {
+    "quote": "The Lab is Now Mobile. We are... - FluxAuto ... - Facebook Apr 4, 2026 · The Lab is Now Mobile. We are officially live! FluxAuto Diagnostics is now patrolling the \"Golden Triangle,\" bringing dealer-level vehicle interrogation directly to your driveway, office, or...",
+    "url": "https://www.facebook.com/61575345932190/posts/the-lab-is-now-mobile-we-are-officially-live-fluxauto-diagnostics-is-now-patroll/122099370572844864/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://fluxauto.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fluxauto.ai/careers.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://forbesjapan.com/articles/detail/79778",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainiche.net/ja/tools/flux-auto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://presentofai.com/spotlight/fluxauto.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in.linkedin.com/company/fluxauto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/fluxauto/__6xXejrJJ-sTs6Gu3165HESil0bRvloZ4sMY8rIRKg9U",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/flux-auto-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/flux-auto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/183442-78",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fluxauto?ref=hackernoon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ET_RISE/status/948083939419348993",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fluxauto/status/1071752132150349824",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fluxauto/status/994120713543053312",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fluxdrive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fluxautomotive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/FluxAuto-Diagnostics-61575345932190/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61575345932190/posts/the-lab-is-now-mobile-we-are-officially-live-fluxauto-diagnostics-is-now-patroll/122099370572844864/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fluxauto 日本 導入",
+   "results": [
+    "https://fluxauto.ai/",
+    "https://forbesjapan.com/articles/detail/79778",
+    "https://ainiche.net/ja/tools/flux-auto",
+    "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "https://flux.jp/service/",
+    "https://www.yomiuri.co.jp/economy/global/20261018-GYT8T00011/",
+    "https://fluxauto.ai/case-studies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fluxauto 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://fluxauto.ai/",
+    "https://in.linkedin.com/company/fluxauto",
+    "https://fluxauto.ca/",
+    "https://maymobility.com/ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fluxauto Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Fluxauto manufacturing customer case study",
+   "results": [
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://presentofai.com/spotlight/fluxauto.ai",
+    "https://startuply.vc/article/flux-auto-s-retrofit-kit-lands-the-autonomous-forklift-at-walmart-and-daimler-1t7xm3",
+    "https://in.linkedin.com/company/fluxauto",
+    "https://fluxauto.ai/case-studies",
+    "https://fluxauto.ai/",
+    "https://www.automotive-tech.com/flux-case-study"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fluxauto white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/",
+    "https://reseller.amazon.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fluxauto founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/fluxauto/__6xXejrJJ-sTs6Gu3165HESil0bRvloZ4sMY8rIRKg9U",
+    "https://prospeo.io/c/flux-auto-revenue",
+    "https://startupintros.com/orgs/flux-auto",
+    "https://pitchbook.com/profiles/company/183442-78",
+    "https://indexed.vc/companies/flux-auto",
+    "https://getlatka.com/companies/fluxauto.xyz",
+    "https://getlatka.com/companies/fluxauto.xyz/funding"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Fluxauto",
+   "results": [
+    "https://note.com/drumatrixx",
+    "https://note.com/kumada_cuebic/n/nf2e2f2904962",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/doomfist/n/n1c535e1ef5d0",
+    "https://note.com/zoeyoshi/n/n5603d939450c",
+    "https://note.com/nosuke0607/n/n09d02c47e173",
+    "https://note.com/fuddy/n/n7e3b1dc9041c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Fluxauto",
+   "results": [
+    "https://x.com/fluxauto?ref=hackernoon",
+    "https://x.com/ET_RISE/status/948083939419348993",
+    "https://x.com/fluxauto/status/1071752132150349824",
+    "https://x.com/fluxauto/status/994120713543053312",
+    "https://x.com/DAX_ST50_LINE/status/2119783420897448141",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Fluxauto",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Fluxauto",
+   "results": [
+    "https://www.facebook.com/fluxdrive/",
+    "https://www.facebook.com/fluxautomotive/",
+    "https://www.facebook.com/p/FluxAuto-Diagnostics-61575345932190/",
+    "https://www.facebook.com/61575345932190/posts/the-lab-is-now-mobile-we-are-officially-live-fluxauto-diagnostics-is-now-patroll/122099370572844864/",
+    "https://www.facebook.com/FluxAuto/posts/816574306929604/",
+    "https://www.facebook.com/FluxAuto/videos/",
+    "https://www.facebook.com/fluxdrive/posts/we-are-excited-to-share-that-frost-sullivan-has-featured-flux-auto-as-a-leading-/1820411548125148/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fluxauto note 社長",
+   "results": [
+    "https://note.com/flux_inc",
+    "https://note.com/flux_inc/m/mdcbaafdd8d84",
+    "https://flux.jp/company/",
+    "https://tracxn.com/d/companies/fluxauto/__6xXejrJJ-sTs6Gu3165HESil0bRvloZ4sMY8rIRKg9U",
+    "https://www.cbinsights.com/company/flux-auto/people",
+    "https://rocketreach.co/flux-auto-management_b4540762fc988497",
+    "https://getlatka.com/companies/fluxauto.xyz/funding"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fluxauto X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

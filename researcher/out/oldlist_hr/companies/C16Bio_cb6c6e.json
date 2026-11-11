@@ -1,0 +1,1256 @@
+{
+ "name": "C16Bio",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜返信あり",
+ "researched_at": "2026-11-11T02:27:52.539767+00:00",
+ "official_url": "https://www.c16bio.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$484,000",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$1,050,000",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "619 W 54th St., 7th Floor, New York, NY 10019, US",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "High performance ingredients without compromise, made for the world’s leading consumer goods manufacturers.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our partners are committed to developing performance-driven products that satisfy discerning customers who understand that personal health and planetary health are interconnected and essential. By incorporating C16's biomanufactured Palmless™ ingredients, they also enhance the durability and security of their supply chains, reducing reliance on imported commodities subject to volatility.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ingredients are the backbone of beauty, personal care, home care, and food products, but current sources are vulnerable to supply (and price) volatility, tariffs, and consumer and regulator pushback.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To power the next generation of consumer goods - products that are better performing and better for the planet - we developed a proprietary biomanufacturing platform to produce high value, high impact ingredients that can be scaled locally.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Torula Oil is a bioactive super-emollient that nourishes, repairs, and protects. It is packed with antioxidant carotenoids, sterols and terpenoids demonstrated to improve skin barrier function, protect against UV rays, free radicals and environmental hazards, and reduce appearance of fine lines and redness.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Clinically proven to boost the performance of UVA and UVB protection in SPF formulations, Torula Oil is beauty’s new super-ingredient.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging advanced biotechnology and working hand-in-hand with leading food manufacturers, we've developed a portfolio of targeted, designer fats and oils that are safe, high performance, and naturally produced.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're producing non-palm kernel oil, non-petroleum derived fatty alcohols, fatty acids, and triglycerides for use in home and personal care. These Palmless™ ingredients offer more secure, predictable sourcing of key performance ingredients that also meet the needs of upcoming regulations like EUDR and EUDDD sustainable sourcing.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our group of experts providing strategic insights, advice, and guidance to C16 Biosciences to help us make informed decisions and achieve our goals.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re a team of scientists, engineers, brand-builders, and entrepreneurs working to decarbonize consumer products. As individuals, we want products that are good for human health and planetary health – so we’re taking initiative to build that future.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Here, you'll find press releases, media kits, and other relevant news to help you tell our story accurately and effectively.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To unlock the potential of next-generation ingredients, C16 has developed a proprietary biomanufacturing platform to produce high value lipid ingredients that deliver on specific functional needs for manufacturers of beauty, personal and home care, and food applications.",
+    "url": "https://c16bio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Historically, natural ingredients came from either animals or plants, both of which have been linked to highly extractive practices. In contrast to traditional ingredient providers, C16 Biosciences leverages the fungal kingdom. We work with naturally occurring microorganisms, leveraging the benefits of their evolutionary improvements to make better ingredients.",
+    "url": "https://c16bio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Fermentation is a technology that has been used for centuries to convert raw materials into commercial products consumed by billions of people every day.",
+    "url": "https://c16bio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Better ingredients mean more precise profiles to drive texture, feel, and efficacy. Better ingredients mean tapping nature to unlock novel actives with higher purity – that are good for human health and planetary health.",
+    "url": "https://c16bio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology is robust, and we’ve demonstrated it. We’re manufacturing our products at industrial scale with an output capable of producing metric tons of oil per week.",
+    "url": "https://c16bio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We have formulated our oil into a variety of applications – from beauty to personal care to food – and have a roadmap to introduce additional products that expand functionality for compelling applications.",
+    "url": "https://c16bio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "C16’s platform provides the world with a powerful tool for making targeted, designer fat and oil profiles that are safe, high performing, and still natural.",
+    "url": "https://c16bio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Biobased products change the world",
+    "url": "https://c16bio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Terms & Conditions | Privacy Policy",
+    "url": "https://c16bio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Terms & Conditions | Privacy Policy",
+    "url": "https://c16bio.com/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Biosciences produces next-generation oils and fats to decarbonize the consumer products supply chain — starting with a sustainable alternative to palm oil and palm-derived ingredients. We’re developing sustainable alternatives in the products that we use every day. Join us in creating a healthier planet for natural land, for biodiversity and wildlife, and for humans.",
+    "url": "https://www.climatetechcircle.com/c16-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Harvard business case study is written by Jeffrey J. Bussgang, Olivia Hull. It deals with the challenges in the field of Entrepreneurship. The case study is 23 page(s) long and it was first published on : Oct 7, 2019",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "At Fern Fort University, we recommend that C16 Biosciences prioritize a",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "multi-pronged growth strategy",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "rapid product development",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "The main protagonists are:",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "The case study presents several key challenges and opportunities for C16 Biosciences:",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences? lab-grown palm oil represents a disruptive innovation with the potential to significantly disrupt the traditional palm oil market.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "The company holds a strong competitive advantage due to its environmentally friendly and ethical production process, aligning with growing consumer demand for sustainable products.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences requires significant funding to scale up production, build its manufacturing infrastructure, and navigate the regulatory process.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "The company must achieve profitability in a competitive market while ensuring its product remains competitive in price and quality.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "The company must optimize its fermentation process and scale up production to meet increasing demand.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences needs to develop a robust supply chain that can handle the complexities of scaling up production and ensuring consistent quality.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "The company must navigate a complex regulatory landscape to ensure its product meets all safety and labeling requirements.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "1. Rapid Product Development and Scalability:",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Prioritize Product Development:",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences should focus on further optimizing its fermentation process and achieving commercial-scale production as quickly as possible.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "The company should invest in a pilot plant to demonstrate the scalability of its technology and gather data for regulatory approval.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Implement a lean startup methodology to rapidly test and iterate on product development and market validation.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences should explore international markets with high palm oil consumption and a growing demand for sustainable products.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Explore partnerships with investors who can provide not only capital but also industry expertise and connections.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Consider a public offering (IPO) once the company has achieved significant scale and profitability to access a broader pool of capital.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "4. Branding and Marketing Strategy:",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Invest in marketing campaigns to educate consumers about the benefits of sustainable palm oil alternatives.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Utilize digital marketing channels, including social media and online advertising, to reach target audiences.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences? core competency lies in its disruptive fermentation technology, which provides a sustainable and ethical alternative to traditional palm oil.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Director, Downstream Process",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences uses innovative processes found in nature to brew sustainable alternatives to palm oil.",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "But palm oil doesn't have to be a problem. There remains an urgent need for consumers and companies alike to switch to environmentally conscious, sustainable palm oil products.",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Fermentation is a well-proven commercial process that has been used for centuries to convert raw materials into consumable commercial products consumed by billions of people every day. We believe that brewing palm oil like beer is the best and most likely path to developing a truly sustainable palm oil alternative.",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Our palm oil is sustainable -- it doesn't involve deforestation, endangering precious animal species, or forcing inhumane labor practices. The result is a world where consumers can enjoy the products they love without worrying about the dangerous practices involved in making them.",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "National Presto Industries",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences has approximately",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "High performance ingredients without compromise, made for the world’s leading consumer goods manufacturers.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We collaborate with innovative brands and manufacturers across the beauty, personal care and food sectors to deliver superior solutions to their customers who demand them.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To power the next generation of consumer goods - products that are better performing and better for the planet - we developed a proprietary biomanufacturing platform to produce high value, high impact ingredients that can be scaled locally.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging advanced biotechnology and working hand-in-hand with leading food manufacturers, we've developed a portfolio of targeted, designer fats and oils that are safe, high performance, and naturally produced.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To unlock the potential of next-generation ingredients, C16 has developed a proprietary biomanufacturing platform to produce high value lipid ingredients that deliver on specific functional needs for manufacturers of beauty, personal and home care, and food applications.",
+    "url": "https://c16bio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Historically, natural ingredients came from either animals or plants, both of which have been linked to highly extractive practices. In contrast to traditional ingredient providers, C16 Biosciences leverages the fungal kingdom. We work with naturally occurring microorganisms, leveraging the benefits of their evolutionary improvements to make better ingredients.",
+    "url": "https://c16bio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology is robust, and we’ve demonstrated it. We’re manufacturing our products at industrial scale with an output capable of producing metric tons of oil per week.",
+    "url": "https://c16bio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "[8 Steps] C16 Biosciences: Lab-Grown Palm Oil Case Study Solution",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Free C16 Biosciences: Lab-Grown Palm Oil Case Study Solution | Assignment Help",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Harvard business case study is written by Jeffrey J. Bussgang, Olivia Hull. It deals with the challenges in the field of Entrepreneurship. The case study is 23 page(s) long and it was first published on : Oct 7, 2019",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "3. Analysis of the Case Study",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "The case study presents several key challenges and opportunities for C16 Biosciences:",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences requires significant funding to scale up production, build its manufacturing infrastructure, and navigate the regulatory process.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences needs to identify and target specific market segments, including food manufacturers, cosmetics companies, and consumers seeking sustainable alternatives.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Pilot Plant Investment:",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "The company should invest in a pilot plant to demonstrate the scalability of its technology and gather data for regulatory approval.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences should seek strategic partnerships with food manufacturers, ingredient suppliers, and retailers to gain access to distribution channels and market expertise.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "The company?s target customers include food manufacturers, cosmetics companies, and consumers seeking sustainable products.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences faces competition from traditional palm oil producers and other emerging alternatives, such as plant-based oils and synthetic fats.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences should recruit a team of experienced professionals with expertise in biotechnology, manufacturing, marketing, and finance.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Pilot plant development:",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Hire an expert to write custom solution for HBR Entrepreneurhsip case study - C16 Biosciences: Lab-Grown Palm Oil",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Palm Oil Dilemma Case Study Solution",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Gotong Royong Toward Sustainable Palm Oil Case Study Solution",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Synthetic Biology Investment Opportunity Case Study Solution",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Biotech Inc Case Study Solution",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Monsanto Leadership New Environment Case Study Solution",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Risky Business Case Gm Food Case Study Solution",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Bayer Crop Science Case Study Solution",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Passion Strategy Novozymes Embrace Un Sustainable Development Goals Case Study Solution",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Bayermonsanto Challenges Mega Merger Case Study Solution",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Farming Pharmaceuticals Ventria Bioscience Controversy Plantmade Medicines Case Study Solution",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Palm oil is everywhere: it’s in our food, clothes, shampoo, and even the fuel that powers our cars. But this $61 billion industry has drastic environmental and societal costs: rainforests from Costa Rica to Indonesia are destroyed to make way for oil palm tree plantations, releasing carbon dioxide into the atmosphere and destroying habitats for people and endangered wildlife along the way.",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Torula Oil is a bioactive super-emollient that nourishes, repairs, and protects. It is packed with antioxidant carotenoids, sterols and terpenoids demonstrated to improve skin barrier function, protect against UV rays, free radicals and environmental hazards, and reduce appearance of fine lines and redness.",
+    "url": "https://c16bio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The global palm oil market is vast and growing, offering significant potential for market penetration and revenue generation.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Consider a public offering (IPO) once the company has achieved significant scale and profitability to access a broader pool of capital.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "The CRISPR-Cas9 Quarrel",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences Revenue",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At C16 Biosciences",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of C16 Biosciences?",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does C16 Biosciences have?",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences Revenue 2024: $3.8M Est.",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences revenue",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences has not published its revenue. GetLatka estimates it at about $3.8M a year (June 2024).",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences CEO, founders & employees",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Shara Ticku founded C16 Biosciences in 2018 and runs it as CEO. C16 Biosciences had 34 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is C16 Biosciences' revenue?",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates C16 Biosciences' revenue at about",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does C16 Biosciences have?",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "C16 Biosciences — We collaborate with innovative brands and manufacturers across the beauty, personal care and food sectors to deliver superior solutions to their customers who demand them. Our partners are committed to developing performance-driven products that satisfy discerning customers who understand that personal health and planetary health are interconnected and essential. By incorporating",
+    "url": "https://c16bio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "精密発酵で代替パーム油を開発するC16 Biosciencesが約5.1億円を調達... — Jan 26, 2024 · 精密発酵で代替パーム油を開発する米C16 Biosciencesは今月、食品分野への参入に向けて、ビル＆メリンダ・ゲイツ財団から350万ドル（約5億1600万円）の助成金を獲得したことを発表した。",
+    "url": "https://foodtech-japan.com/2024/01/26/c16-biosciences/",
+    "pass": 3
+   },
+   {
+    "quote": "代替パーム油開発の米C16 Biosciences、ビル＆メリンダ・ゲイツ財団か... — Jan 26, 2024 · 米国・ニューヨークを拠点とするC16 Biosciencesが、ビル＆メリンダ・ゲイツ財団から350万ドル（約5億1,900万円）の助成金を受けたことを発表しました。",
+    "url": "https://framtiden.earth/2024/01/26/c16-biosciences/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Technology — C16 Biosciences — Grown from yeast, not on trees Historically, natural ingredients came from either animals or plants, both of which have been linked to highly extractive practices. In contrast to traditional ingredient providers, C16 Biosciences leverages the fungal kingdom. We work with naturally occurring microorganisms, leveraging the benefits of their evolutionary improvement",
+    "url": "https://c16bio.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciencesの資金調達・投資家情報 | 海外スタートアップ | FIRS... — コモディティ油脂に対して現状はプレミアムな価格帯にあるため、機能性に対する価格許容度が高いプレステージ化粧品原料から市場導入を進めており、生産規模の拡大や安価な原料の活用を通じて長期的なコスト競争力の確立を目指しています。",
+    "url": "https://www.firstcvc.jp/global/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences | LinkedIn — C16 Biosciences uses innovative processes found in nature to brew sustainable alternatives to palm oil. Palm oil is everywhere: it’s in our food, clothes, shampoo, and even the fuel that powers our cars. But this $61 billion industry has drastic environmental and societal costs: rainforests from Costa Rica to Indonesia are destroyed to make way for oil palm tree planta",
+    "url": "https://jp.linkedin.com/company/c16bio",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences (@C16Bio) / X — Nov 8, 2022 · Today marks a significant milestone for C16 Biosciences— we're thrilled to announce a product collaboration with @ thepangaia and @ haeckels_, two pioneering brands in the sustainable innovation, that incorporates Palmless™ Torula oil into a new creation: the REWILD Body Block.",
+    "url": "https://x.com/C16Bio",
+    "pass": 3
+   },
+   {
+    "quote": "Climate Tech Circle | c16 Biosciences — We’re developing sustainable alternatives in the products that we use every day. Join us in creating a healthier planet for natural land, for biodiversity and wildlife, and for humans. FOUNDED 2018 WEBSITE www.c16bio.com Episode 45",
+    "url": "https://www.climatetechcircle.com/c16-bio",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences — By incorporating C16's biomanufactured Palmless™ ingredients, they also enhance the durability and security of their supply chains, reducing reliance on imported commodities subject to volatility. If you share this vision, we’d love to work with you.",
+    "url": "https://c16bio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Technology — C16 Biosciences — To unlock the potential of next-generation ingredients, C16 has developed a proprietary biomanufacturing platform to produce high value lipid ingredients that deliver on specific functional needs for manufacturers of beauty, personal and home care, and food applications.",
+    "url": "https://c16bio.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Free C16 Biosciences: Lab-Grown Palm Oil Case Study Solution ... — Fern Fort University offers comprehensive case study solutions, including writing, analysis, and consulting services. Whether you need help with strategy formulation, problem-solving, or academic compliance, their experts are equipped to assist with your assignments.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Case Template - C16 Bio.docx - MBA 800 2021 - UNC - Moeen... — 2) Manufacturing process of alternative palm oil is complicated, therefore creating high capital costs. Customer’s unwillingness to pay premium prices. The palm oil production technology developed by C16 Biosciences is applicable in the food and personal care industry.",
+    "url": "https://www.coursehero.com/file/123275797/Case-Template-C16-Biodocx/",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences Revenue, Funding & Valuation - prospeo.io — When was C16 Biosciences founded? C16 Biosciences was founded in 2018, making it 8 years old. The company has established itself as a significant player in its industry over this time.",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences Revenue 2024: $3.8M Est. - getlatka.com — Aug 10, 2026 · Who is the CEO of C16 Biosciences? Shara Ticku is the CEO of C16 Biosciences and founded the company in 2018.",
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences 2026 Company Profile: Valuation, Funding ...C16 Biosciences - 2026 Company Profile, Team, Funding ...C16 Biosciences – Overview – Funding, Revenue & Growth – 2026C16 Biosciences — Company Profile & Funding | Indexed.vcC16 Biosciences: Funding, Investors & Team (Oct 2026) — Information on valuation, funding, cap tables, investors, and executives for C16 Biosciences. Use the PitchBoo",
+    "url": "https://pitchbook.com/profiles/company/232078-96",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences - 2026 Company Profile, Team, Funding ... — Jan 30, 2026 · C16 Biosciences is a series A company based in New York City (United States), founded in 2018 by David Heller, Shara Ticku and Harry McNamara. It operates as a Biodesigning high-performance ingredients for consumer goods, enhancing health and sustainability.",
+    "url": "https://tracxn.com/d/companies/c16-biosciences/__XUvl204SDh-Tb-lRPbCO5pPHYCfsQbv9lfyaVtZYBy8",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences – Overview – Funding, Revenue & Growth – 2026 — Discover C16 Biosciences's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/c16-biosciences",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We prioritize confidentiality by using secure data encryption, access controls, and strict privacy policies. Apart from an email, we don't collect any information from the client. So there is almost zero risk of breach at our end. Our financial transactions are done by Paypal on their website so all your information is very secure.",
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "C16 Biosciences (@C16Bio) / X I will be joining @ wildtypefoods @ C16Bio and @ LizSpecht from @ GoodFoodInst to discuss leveraging cultivated meat (wild type salmon), fermentation (C16 palm oil replacement) and plant grown proteins (Nobell plant grown casein) to create a more sustainable food system.",
+    "url": "https://x.com/C16Bio",
+    "pass": 3
+   },
+   {
+    "quote": "True sustainability starts with sourcing ingredients. Learn ... C16 Biosciences (@C16Bio). True sustainability starts with sourcing ingredients. Learn more in our conversation with @Biossance on the #BiossanceCleanAcademy YouTube page https://t.co/Kf8RVdGfQN",
+    "url": "https://x.com/C16Bio/status/1307049511232118784",
+    "pass": 3
+   },
+   {
+    "quote": "'Palm oil is a massive driver of deforestation.' Shara Ticku ... Shara Ticku is now discussing how @C16Bio will solve this global issue by radically changing the approach by using micro-organisms producing platforms. 📍Frontier Stage #HTSummit",
+    "url": "https://x.com/hellotmrc/status/1466404749780127751",
+    "pass": 3
+   },
+   {
+    "quote": "Cooper Wataa (@CooperWataa532) / Posts / X Cooper Wataa CooperWataa532 Apr 25 RT @HenrySmithX89: Chudai🤠 OnlyFans.com/Kevinoney/c16 bio.link/kevinoney 0 💬 0 🔄 273",
+    "url": "https://x.com/CooperWataa532",
+    "pass": 3
+   },
+   {
+    "quote": "C16 Biosciences (@C16Bio) / X Nov 8, 2022 · I will be joining @ wildtypefoods @ C16Bio and @ LizSpecht from @ GoodFoodInst to discuss leveraging cultivated meat (wild type salmon), fermentation (C16 palm oil replacement) and plant grown proteins (Nobell plant grown casein) to create a more sustainable food system.",
+    "url": "https://x.com/C16Bio",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "C16 Biosciences - LinkedIn C16 Biosciences | 10,297 followers on LinkedIn. C16 Biosciences produces high-performance biodesigned ingredients for the personal care, home care, and food industries. | C16 Biosciences uses ...",
+    "url": "https://www.linkedin.com/company/c16bio",
+    "pass": 3
+   },
+   {
+    "quote": "Shara Ticku - C16 Biosciences | LinkedInDavid Heller - Co-Founder and COO | C16 Bio (Makers of ...C16 Biosciences is live in a new category -- the ~$11B sun ...Last week, we were in Washington DC for the annual ... - LinkedInThe Next Step in C16 Biosciences’ Mission to ... - LinkedInC16 Biosciences | C16 Biosciences - LinkedIn Experience: C16 Biosciences · Education: Harvard Business School · Loca",
+    "url": "https://www.linkedin.com/in/sharaticku",
+    "pass": 3
+   },
+   {
+    "quote": "David Heller - Co-Founder and COO | C16 Bio (Makers of ...C16 Biosciences is live in a new category -- the ~$11B sun ...Last week, we were in Washington DC for the annual ... - LinkedInThe Next Step in C16 Biosciences’ Mission to ... - LinkedInC16 Biosciences | C16 Biosciences - LinkedIn Jun 29, 2020 · Co-Founder and COO | C16 Bio (Makers of Palmless™) · Experience: C16 Biosciences · Education: Ma",
+    "url": "https://www.linkedin.com/in/david-heller-343981b2",
+    "pass": 3
+   },
+   {
+    "quote": "The Next Step in C16 Biosciences’ Mission to ... - LinkedIn OUR VERY FIRST PALMLESS PRODUCT from C16 Biosciences IS LIVE ... and ready to nourish your skin, your hair, and our planet. We started this company 4.5 years ago with an ambition to solve the palm ...",
+    "url": "https://www.linkedin.com/posts/sharaticku_the-next-step-in-c16-biosciences-mission-activity-7034188632236150784-AZx0",
+    "pass": 3
+   },
+   {
+    "quote": "Shara Ticku - C16 Biosciences | LinkedInShara Ticku - Co-Founder & Chief Executive Officer at C16 ...David Heller - Co-Founder and COO | C16 Bio (Makers of ...Shara Ticku - Co-Founder and CEO @ C16 Biosciences ... Experience: C16 Biosciences · Education: Harvard Business School · Location: New York City Metropolitan Area · 500+ connections on LinkedIn. View Shara Ticku’s profile on LinkedIn, a ...",
+    "url": "https://www.linkedin.com/in/sharaticku",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "C16 Bio - Facebook C16 Bio - Facebook ... C16 Bio",
+    "url": "https://www.facebook.com/C16-Bio-105812601797868/",
+    "pass": 3
+   },
+   {
+    "quote": "Tiffany Lee - Facebook Dreams don't work unless you do Works at C16 bioscience Studied Degree in Business Economics at Tunku Abdul Rahman University of Management and Technology Studied Diploma in Finance&Investment atUniversity of Malaya Lives in Manhattan, New York From George Town, Malaysia Divorced c16bio.com",
+    "url": "https://www.facebook.com/tiffanylee.panyo/",
+    "pass": 3
+   },
+   {
+    "quote": "New York-based C16Biosciences has... - The Beauty Buddy ... Mar 2, 2023 · Suzanne Peters The product is limited- edition and will be available for pre-order now and for purchase and shipping on March 1, and you can order here: https: //www.c16bio. com/?utm_source=BeautyBuddy",
+    "url": "https://www.facebook.com/thebeautybuddy/posts/1270977690169406/",
+    "pass": 3
+   },
+   {
+    "quote": "C16 bio-science - Facebook C16 bio-science",
+    "url": "https://www.facebook.com/C16-bio-science-107555402015295/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://c16bio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c16bio.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c16bio.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c16bio.com/partner-with-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://c16bio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foodtech-japan.com/2024/01/26/c16-biosciences/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://framtiden.earth/2024/01/26/c16-biosciences/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c16bio.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c16bio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/c16bio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cosmobio.co.jp/agency/brevitycode.asp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/c16bio_c16-is-excited-to-join-plug-and-play-japan-activity-7402388255809101824-PSSC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/C16Bio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.climatetechcircle.com/c16-bio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c16bio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bing.com/aclick?ld=e810ZDda4Amw5vzWgmzlhgNzVUCUwkohKJh_0g0EajbSpaqx4hCAoN4hyEdXQbvqzU_Hpmpnw6fCCdpKP0EdrRlscPZOtX07jRehrlzIV9UFobePW4EIfOk55Cz6NsmpLdD-i7bq5Kp5cThrhMRpHAbWZ-wnXMfcL1rDn3FwG1ynTyjsucl09q80JTq0_s0-e6tFQFy2NeWvROx5pti9X9NSoDAho&u=aHR0cHMlM2ElMmYlMmZwdWxzZS5jbGlja2d1YXJkLmNvbSUyZmJhZHMlMmZhdCUyZmFjY2xFZnhMalFZSEElMmZhc3RWTjZZWVBvM1JKJTJmYWRhanVvZkRLc29QYyUzZnRtJTNkdHQlMjZjaWQlM2Q3MTAzMTA2MzglMjZjbiUzZEVVJTI1MkZST1clMjUyMC0lMjUyMENsaW4lMjUyME9wcyUyNmFnaWQlM2QxMjUxMjQ1NTYyNzA0NjE2JTI2YWduJTNkQ0dNUCUyNTIwQ2xpbmljYWwlMjUyME1hbnVmYWN0dXJpbmclMjUyMDIwMjQlMjZhaWQlM2Q3ODIwMjk3NzQyODIwMCUyNmtpZCUzZGt3ZC03ODIwMzIxMzIyNTI5NyUzYWxvYy0zMiUyNmt3JTNkY2dtcCUyNTIwbWFudWZhY3R1cmluZyUyNm53JTNkbyUyNmR2JTNkYyUyNm10JTNkcCUyNnVybCUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGY29tbXVuaWNhdGlvbnMucXVvdGllbnRzY2llbmNlcy5jb20lMjUyRmNnbXAtY2xpbmljYWwtbWFudWZhY3R1cmluZy1zZXJ2aWNlcyUyNTNGdG0lMjUzRHR0JTI1MjZhcCUyNTNEYmFkcyUyNTI2YWFpZCUyNTNEYWRhanVvZkRLc29QYyUyNTI2Y2lkJTI1M0Q3MTAzMTA2MzglMjUyNmNuJTI1M0RFVSUyNTI1MkZST1clMjUyNTIwLSUyNTI1MjBDbGluJTI1MjUyME9wcyUyNTI2YWdpZCUyNTNEMTI1MTI0NTU2MjcwNDYxNiUyNTI2YWduJTI1M0RDR01QJTI1MjUyMENsaW5pY2FsJTI1MjUyME1hbnVmYWN0dXJpbmclMjUyNTIwMjAyNCUyNTI2YWlkJTI1M0Q3ODIwMjk3NzQyODIwMCUyNTI2a2lkJTI1M0Rrd2QtNzgyMDMyMTMyMjUyOTclMjUzQWxvYy0zMiUyNTI2a3clMjUzRGNnbXAlMjUyNTIwbWFudWZhY3R1cmluZyUyNTI2bnclMjUzRG8lMjUyNmR2JTI1M0RjJTI1MjZtdCUyNTNEcCUyNm1zY2xraWQlM2Q3MDcyMjkxMDM0NWExZGJkZDg3MzQzZTNlNmFmYjE0MQ&rlid=70722910345a1dbdd87343e3e6afb141",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.bing.com/aclick?ld=e8Zx1JZv0Pnkw16KwAdxAicTVUCUyaH-UBFzGlI0K6PqXmIqaMiRKYLwqBHnyGYQQU8Fo8WnBYMHZnceWF2xJ4rdUC45D_0xi0CFOEIBwNUQF5KK7F3lqupNXH9qO3hocfMcJrcP8AidzcEXtua5gu3ZFji_o9uOyoBE0nA3tb7NC72OvdxKDq5bR4EVrWcR6seFGeYYkd5YzlpZ7OT8Q5BNx9poo&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmYxNzUxMiUyZmNxJTNmZXZfc2lkJTNkMyUyNmV2X2xuJTNkYmlvbG9naWNzJTI1MjBjZG1vJTI2ZXZfbHglM2Rrd2QtODMzNTgxMDk3OTEwODElM2Fsb2MtMzIlMjZldl9jcnglM2QlMjZldl9tdCUzZHAlMjZldl9uJTNkbyUyNmV2X2x0eCUzZCUyNmV2X3BsJTNkJTI2ZXZfcG9zJTNkJTI2ZXZfZHZjJTNkYyUyNmV2X2R2bSUzZCUyNmV2X3BoeSUzZDUyNTQlMjZldl9sb2MlM2QlMjZldl9jeCUzZDYwMjAyMjgyMiUyNmV2X2F4JTNkMTMzMzcwOTI4ODI0OTg0MyUyNmV2X2VmaWQlM2QlM2FHJTNhcyUyNnVybCUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LnBhdGhlb24uY29tJTI1MkZ1cyUyNTJGZW4lMjUyRm91ci1jYXBhYmlsaXRpZXMlMjUyRmxhcmdlLW1vbGVjdWxlJTI1MkZiaW9sb2dpY3MuaHRtbCUyNTNGdXRtX2NhbXBhaWduJTI1M0RwYWlkLXNlYXJjaCUyNTI2dXRtX2NhbXBhaWduY2hpbGQlMjUzREJpby0oTGFyZ2UtTW9sZWN1bGUpJTI1MjUyRC1VU0ElMjUyNnV0bV9zcGVjaWFsdHklMjUzREJpb2xvZ2ljcy1NYW51ZmFjdHVyaW5nJTI1MjZ1dG1fY2FtcGFpZ25yZWdpb24lMjUzRG5vcnRoLWFtZXJpY2ElMjUyNnV0bV9zb3VyY2UlMjUzRGJpbmclMjUyNnV0bV9tZWRpdW0lMjUzRHBhaWQtc2VhcmNoJTI1MjZ1dG1fY2FtcGFpZ25hc3NldHR5cGUlMjUzRHdlYi1wYWdlJTI1MjZ1dG1fdGVybSUyNTNEYmlvbG9naWNzJTI1MjUyMGNkbW8lMjUyNktXJTI1M0RiaW9sb2dpY3MlMjUyNTIwY2RtbyUyNTI2QUclMjUzRDEzMzM3MDkyODgyNDk4NDMlMjUyNmVmX2lkJTI1M0Q4YzQ0N2RiOGRiOWIxMjA2MzMwZDE3NGIwOTZlNzMyNiUyNTNBRyUyNTNBcyUyNTI2c19rd2NpZCUyNTNEQUwhMTc1MTIhMTAhODMzNTcxNzIzNDgzMDchISEhODMzNTgxMDk3OTEwODEhITYwMjAyMjgyMiExMzMzNzA5Mjg4MjQ5ODQzJTI1MjZLVyUyNTNEYmlvbG9naWNzJTI1MjBjZG1vJTI1MjZBRyUyNTNEMTMzMzcwOTI4ODI0OTg0MyUyNTI2Q1MlMjUzREJJTyUyNm1zY2xraWQlM2Q4YzQ0N2RiOGRiOWIxMjA2MzMwZDE3NGIwOTZlNzMyNg&rlid=8c447db8db9b1206330d174b096e7326",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coursehero.com/file/123275797/Case-Template-C16-Biodocx/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/c16-biosciences-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/c16bio.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/232078-96",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/c16-biosciences/__XUvl204SDh-Tb-lRPbCO5pPHYCfsQbv9lfyaVtZYBy8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/C16Bio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/C16Bio/status/1307049511232118784",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hellotmrc/status/1466404749780127751",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CooperWataa532",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/c16bio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sharaticku",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/david-heller-343981b2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/sharaticku_the-next-step-in-c16-biosciences-mission-activity-7034188632236150784-AZx0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/C16-Bio-105812601797868/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tiffanylee.panyo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thebeautybuddy/posts/1270977690169406/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/C16-bio-science-107555402015295/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sharaticku",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/C16Bio",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "C16Bio 日本 導入",
+   "results": [
+    "https://c16bio.com/",
+    "https://foodtech-japan.com/2024/01/26/c16-biosciences/",
+    "https://framtiden.earth/2024/01/26/c16-biosciences/",
+    "https://c16bio.com/about",
+    "https://www.firstcvc.jp/global/c16bio.com",
+    "https://jp.linkedin.com/company/c16bio",
+    "https://framtiden.earth/tag/c16-biosciences/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "C16Bio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://c16bio.com/",
+    "https://jp.linkedin.com/company/c16bio",
+    "https://www.cosmobio.co.jp/agency/brevitycode.asp",
+    "https://www.prudential.co.jp/company/outline/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "C16Bio Japan",
+   "results": [
+    "https://www.linkedin.com/posts/c16bio_c16-is-excited-to-join-plug-and-play-japan-activity-7402388255809101824-PSSC",
+    "https://x.com/C16Bio",
+    "https://www.climatetechcircle.com/c16-bio",
+    "https://c16bio.com/",
+    "https://c16bio.com/about",
+    "https://jp.linkedin.com/company/c16bio",
+    "https://foodtech-japan.com/2024/01/26/c16-biosciences/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "C16Bio manufacturing customer case study",
+   "results": [
+    "https://www.bing.com/aclick?ld=e810ZDda4Amw5vzWgmzlhgNzVUCUwkohKJh_0g0EajbSpaqx4hCAoN4hyEdXQbvqzU_Hpmpnw6fCCdpKP0EdrRlscPZOtX07jRehrlzIV9UFobePW4EIfOk55Cz6NsmpLdD-i7bq5Kp5cThrhMRpHAbWZ-wnXMfcL1rDn3FwG1ynTyjsucl09q80JTq0_s0-e6tFQFy2NeWvROx5pti9X9NSoDAho&u=aHR0cHMlM2ElMmYlMmZwdWxzZS5jbGlja2d1YXJkLmNvbSUyZmJhZHMlMmZhdCUyZmFjY2xFZnhMalFZSEElMmZhc3RWTjZZWVBvM1JKJTJmYWRhanVvZkRLc29QYyUzZnRtJTNkdHQlMjZjaWQlM2Q3MTAzMTA2MzglMjZjbiUzZEVVJTI1MkZST1clMjUyMC0lMjUyMENsaW4lMjUyME9wcyUyNmFnaWQlM2QxMjUxMjQ1NTYyNzA0NjE2JTI2YWduJTNkQ0dNUCUyNTIwQ2xpbmljYWwlMjUyME1hbnVmYWN0dXJpbmclMjUyMDIwMjQlMjZhaWQlM2Q3ODIwMjk3NzQyODIwMCUyNmtpZCUzZGt3ZC03ODIwMzIxMzIyNTI5NyUzYWxvYy0zMiUyNmt3JTNkY2dtcCUyNTIwbWFudWZhY3R1cmluZyUyNm53JTNkbyUyNmR2JTNkYyUyNm10JTNkcCUyNnVybCUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGY29tbXVuaWNhdGlvbnMucXVvdGllbnRzY2llbmNlcy5jb20lMjUyRmNnbXAtY2xpbmljYWwtbWFudWZhY3R1cmluZy1zZXJ2aWNlcyUyNTNGdG0lMjUzRHR0JTI1MjZhcCUyNTNEYmFkcyUyNTI2YWFpZCUyNTNEYWRhanVvZkRLc29QYyUyNTI2Y2lkJTI1M0Q3MTAzMTA2MzglMjUyNmNuJTI1M0RFVSUyNTI1MkZST1clMjUyNTIwLSUyNTI1MjBDbGluJTI1MjUyME9wcyUyNTI2YWdpZCUyNTNEMTI1MTI0NTU2MjcwNDYxNiUyNTI2YWduJTI1M0RDR01QJTI1MjUyMENsaW5pY2FsJTI1MjUyME1hbnVmYWN0dXJpbmclMjUyNTIwMjAyNCUyNTI2YWlkJTI1M0Q3ODIwMjk3NzQyODIwMCUyNTI2a2lkJTI1M0Rrd2QtNzgyMDMyMTMyMjUyOTclMjUzQWxvYy0zMiUyNTI2a3clMjUzRGNnbXAlMjUyNTIwbWFudWZhY3R1cmluZyUyNTI2bnclMjUzRG8lMjUyNmR2JTI1M0RjJTI1MjZtdCUyNTNEcCUyNm1zY2xraWQlM2Q3MDcyMjkxMDM0NWExZGJkZDg3MzQzZTNlNmFmYjE0MQ&rlid=70722910345a1dbdd87343e3e6afb141",
+    "https://www.bing.com/aclick?ld=e8Zx1JZv0Pnkw16KwAdxAicTVUCUyaH-UBFzGlI0K6PqXmIqaMiRKYLwqBHnyGYQQU8Fo8WnBYMHZnceWF2xJ4rdUC45D_0xi0CFOEIBwNUQF5KK7F3lqupNXH9qO3hocfMcJrcP8AidzcEXtua5gu3ZFji_o9uOyoBE0nA3tb7NC72OvdxKDq5bR4EVrWcR6seFGeYYkd5YzlpZ7OT8Q5BNx9poo&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmYxNzUxMiUyZmNxJTNmZXZfc2lkJTNkMyUyNmV2X2xuJTNkYmlvbG9naWNzJTI1MjBjZG1vJTI2ZXZfbHglM2Rrd2QtODMzNTgxMDk3OTEwODElM2Fsb2MtMzIlMjZldl9jcnglM2QlMjZldl9tdCUzZHAlMjZldl9uJTNkbyUyNmV2X2x0eCUzZCUyNmV2X3BsJTNkJTI2ZXZfcG9zJTNkJTI2ZXZfZHZjJTNkYyUyNmV2X2R2bSUzZCUyNmV2X3BoeSUzZDUyNTQlMjZldl9sb2MlM2QlMjZldl9jeCUzZDYwMjAyMjgyMiUyNmV2X2F4JTNkMTMzMzcwOTI4ODI0OTg0MyUyNmV2X2VmaWQlM2QlM2FHJTNhcyUyNnVybCUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LnBhdGhlb24uY29tJTI1MkZ1cyUyNTJGZW4lMjUyRm91ci1jYXBhYmlsaXRpZXMlMjUyRmxhcmdlLW1vbGVjdWxlJTI1MkZiaW9sb2dpY3MuaHRtbCUyNTNGdXRtX2NhbXBhaWduJTI1M0RwYWlkLXNlYXJjaCUyNTI2dXRtX2NhbXBhaWduY2hpbGQlMjUzREJpby0oTGFyZ2UtTW9sZWN1bGUpJTI1MjUyRC1VU0ElMjUyNnV0bV9zcGVjaWFsdHklMjUzREJpb2xvZ2ljcy1NYW51ZmFjdHVyaW5nJTI1MjZ1dG1fY2FtcGFpZ25yZWdpb24lMjUzRG5vcnRoLWFtZXJpY2ElMjUyNnV0bV9zb3VyY2UlMjUzRGJpbmclMjUyNnV0bV9tZWRpdW0lMjUzRHBhaWQtc2VhcmNoJTI1MjZ1dG1fY2FtcGFpZ25hc3NldHR5cGUlMjUzRHdlYi1wYWdlJTI1MjZ1dG1fdGVybSUyNTNEYmlvbG9naWNzJTI1MjUyMGNkbW8lMjUyNktXJTI1M0RiaW9sb2dpY3MlMjUyNTIwY2RtbyUyNTI2QUclMjUzRDEzMzM3MDkyODgyNDk4NDMlMjUyNmVmX2lkJTI1M0Q4YzQ0N2RiOGRiOWIxMjA2MzMwZDE3NGIwOTZlNzMyNiUyNTNBRyUyNTNBcyUyNTI2c19rd2NpZCUyNTNEQUwhMTc1MTIhMTAhODMzNTcxNzIzNDgzMDchISEhODMzNTgxMDk3OTEwODEhITYwMjAyMjgyMiExMzMzNzA5Mjg4MjQ5ODQzJTI1MjZLVyUyNTNEYmlvbG9naWNzJTI1MjBjZG1vJTI1MjZBRyUyNTNEMTMzMzcwOTI4ODI0OTg0MyUyNTI2Q1MlMjUzREJJTyUyNm1zY2xraWQlM2Q4YzQ0N2RiOGRiOWIxMjA2MzMwZDE3NGIwOTZlNzMyNg&rlid=8c447db8db9b1206330d174b096e7326",
+    "https://fernfortuniversity.com/essay/entrepreneurship_case/c-biosciences-labgrown-palm-oil-93",
+    "https://www.coursehero.com/file/123275797/Case-Template-C16-Biodocx/",
+    "https://c16bio.com/about",
+    "https://c16bio.com/",
+    "https://hbsp.harvard.edu/product/820008-PDF-ENG",
+    "https://www.premiumbeautynews.com/en/c16-biosciences-bio-manufactured,21098",
+    "https://www.forbes.com/sites/johncumbers/2022/12/22/c16-biosciences-has-built-a-palm-oil-farm-in-midtown-manhattan-to-stop-global-deforestation/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "C16Bio white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://upcloud.com/partner-program/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.bing.com/aclick?ld=e8Wa0nBWxpyFGnqQ5CYTte3TVUCUxkpXU8NFs6wESCkwtyQudCnEdoE8UfjQIwYhUswRT8xdrIcniYdJ95UwLIIpegshOeqp7mdLzePDda0uMrXEYsc2SY02bIRowiSmZtY5Ldc_jlwoQo2aPppmvwCyNJB_0hfbidoJrcZb9R57ZB-qUhE269pPCXH5o-IMkXKeFsiinyva1fBO77Ro7H3-Z4dmvzDfzNQd3s6F2btYSKsu8F&u=aHR0cHMlM2ElMmYlMmZ3d3cub2Rvby5jb20lMmZpbmR1c3RyaWVzJTJmc29mdHdhcmUtcmVzZWxsZXIlM2ZuZXR3b3JrJTNkbyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE5BLUVOLUluZHVzdHJ5JTI2dXRtX3Rlcm0lM2REaWdpdGFsJTI1MjBidXNpbmVzcyUyNTIwU29mdHdhcmUlMjUyMFJlc2VsbGVydXRtX2djbGlkJTNkJTI2bXNjbGtpZCUzZGQyMDFlNjFmMGE2ZjE3ODY3MTFlOGNlY2Q5NGJmYjc2&rlid=d201e61f0a6f1786711e8cecd94bfb76",
+    "https://www.bing.com/aclick?ld=e8YNbJ91sE7wFxiwRuD9Rr-DVUCUxzf2yMokEnIgtvi-z1XLTdmgARUTlqFILcMm3cYT4_DjzqsB9gNwddHulQhSANUh-Msy5ATxmcg3c8qI73SRTnKWqu0AQ4AzZL_Ddjt2GphN86VKGc_p7NwFgZH7skOVh-T2TpAJhwG7Qw7wdbI_7etqT85W-DAz4kyylP9_mldsKjTjONh-L-UeLoMrjq-Ug&u=aHR0cHMlM2ElMmYlMmZ3d3cub2Rvby5jb20lMmZpbmR1c3RyaWVzJTJmc29mdHdhcmUtcmVzZWxsZXIlM2ZuZXR3b3JrJTNkbyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE5BLUVOLUluZHVzdHJ5JTI2dXRtX3Rlcm0lM2REaWdpdGFsJTI1MjBCdXNpbmVzcyUyNTIwU29sdXRpb24lMjUyMFNvZnR3YXJlJTI1MjBSZXNlbGxlcnV0bV9nY2xpZCUzZCUyNm1zY2xraWQlM2RmNmU5NjY2MDJlNDAxNjJiNTk1MjBjOTNmZDZiNjNhNQ&rlid=f6e966602e40162b59520c93fd6b63a5",
+    "https://www.bing.com/aclick?ld=e8iBAgvHAlL-FW2ZPArhJSfjVUCUwnW3eJmv04SzpG3CNWhp67dJ1D7H2Hj15mbxu6TolBB_-lIguP8adGSKcU6jedyOCSQEBW_f__VZJN9qzD24m-RDGQc_72jvKGCfFkgvZpQwOdWjqm1UBcHNnS6rqJ09MzPMi_5naPe_DK1Zl9ss3auRJJRuq_RLfohw_ZMrFcFXQ-p-IcO27SQ2dB7dbLAdE&u=aHR0cHMlM2ElMmYlMmZyZXBseS5pbyUyZndoaXRlbGFiZWwlMmYlM2Z1dG1fc291cmNlJTNkbWljcm9zb2Z0YWRzJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE1BLVdMX0FHJTI2dXRtX3Rlcm0lM2R3aGl0ZWxhYmVsJTI1MjBzb2x1dGlvbnMlMjZtc2Nsa2lkJTNkZjA3NjZiZDc5NWM0MTNmYzRhZGIwMTI0NDZlZmY3NGE&rlid=f0766bd795c413fc4adb012446eff74a"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "C16Bio founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/c16-biosciences-revenue",
+    "https://getlatka.com/companies/c16bio.com",
+    "https://pitchbook.com/profiles/company/232078-96",
+    "https://tracxn.com/d/companies/c16-biosciences/__XUvl204SDh-Tb-lRPbCO5pPHYCfsQbv9lfyaVtZYBy8",
+    "https://compworth.com/company/c16-biosciences",
+    "https://indexed.vc/companies/c16bio",
+    "https://fundediq.co/c16-biosciences-c16bio-com-funding/",
+    "https://www.bing.com/aclick?ld=e80UhH4eeOmOfFXffRycP-bTVUCUxBksawN9X8O4rL8MQoZzXQVOnmV7qZr6E4_VIoNcD882P4-b7aYPbumfxHulFatC44eTrh95VWn6E-eCMo4fxEyj8UOTkM26NzdNozf8EUWD7Ci6WNeFhwnlb2ksE6bYLqHq11FZJgjdFg96PGtoKTe6igA-L4p2SyLXqJdGolzeaDmzmJ81doKfMCkOIDMLs&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4NDUwMTc2ODQzNSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwOTE0NDQ3NzM1NCUyNmRzX2FfY2lkJTNkNDAwODc5NTk3JTI2ZHNfYV9jYWlkJTNkMjA4NjczMjYwNjMlMjZkc19hX2FnaWQlM2QxOTgxNDA3MjM5NDElMjZkc19hX2xpZCUzZGt3ZC0zNzA4MDQxMDQyMzYlMjYlMjZkc19lX2FkaWQlM2Q4MTAyMDQxMjE3NjM0MiUyNmRzX2VfdGFyZ2V0X2lkJTNka3dkLTgxMDIwNzE0MDUyNDY0JTNhbG9jLTMyJTI2JTI2ZHNfZV9uZXR3b3JrJTNkbyUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuZXhlZC5oYnMuZWR1JTJmc3RyYXRlZ2ljLWZpbmFuY2luZy1saWZlLXNjaWVuY2VzJTNmdXRtX2NhbXBhaWduJTNkSEJTLWV4ZWQtX0hhcnZhcmQlMmJCdXNpbmVzcyUyYlNjaG9vbF9TRU1fQmluZ19Ob24tQnJhbmRfUHJvZ3JhbV9IZWFsdGhjYXJlX0dsb2JhbF9Ob25lX0NvbWJvX0Nyb3NzJTJiRGV2aWNlX0FsbCUyNnV0bV9tZWRpdW0lM2RTRU0lMjZ1dG1fc291cmNlJTNkTUlDUk9TT0ZUJTI2dXRtX3Rlcm0lM2RiaW90ZWNoJTJidmMlMmJmdW5kaW5nJTI2Z2NsaWQlM2Q2MDlmNjJjMzAyY2MxOTgyZjZiZDA4MzBkMThmOWViZCUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZDYwOWY2MmMzMDJjYzE5ODJmNmJkMDgzMGQxOGY5ZWJk&rlid=609f62c302cc1982f6bd0830d18f9ebd"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com C16Bio",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/wise_turtle184",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://www.bing.com/aclick?ld=e8Gu99XFTAzI-YqJ_yUJJk8DVUCUwLO3a79WLYJECevXJkpE7Ra0o6C9W4lEj59gk5iBCMSklnNgvJW1ndS2qTFSlUENSjABNHKrfYuQltVot51vJLyPUAGa-y1FA1M2aSOOmSurlYDM3DA0cHOl85hw9JN8_vWuoFhCOlAU_uxAUx2cpJKXctour4g9Q7Exx2H91N_a66OmpxnWMEg7Skkv5wDRE&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWNyb2Jpb3N5c3RlbXMuY29tJTJmY2F0ZWdvcnklMmZ0YXJnZXQtcHJvdGVpbiUyZmlsLTMzJTNmbXNjbGtpZCUzZDE0NGU4YmU3N2Q4ZDFlZWM4ODM2ZTExNGFlZTk5Y2ZlJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkRkFNSUxZLi1JTC1CaW5nJTI2dXRtX3Rlcm0lM2RJTDMzJTI1MjBQcm90ZWluJTI2dXRtX2NvbnRlbnQlM2RJTC0zMw&rlid=144e8be77d8d1eec8836e114aee99cfe",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/watasei/n/nf30c5a3cd82d",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/t_words_c/n/ndfad4f7a2a16"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com C16Bio",
+   "results": [
+    "https://x.com/C16Bio",
+    "https://x.com/C16Bio/status/1307049511232118784",
+    "https://x.com/hellotmrc/status/1466404749780127751",
+    "https://x.com/CooperWataa532",
+    "https://x.com/moonprismpwrrr/status/2119142448349761720",
+    "https://x.com/NashVideoX128/status/2058270717037126103",
+    "https://x.com/kazunosuke13/status/2100032779245469697"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com C16Bio",
+   "results": [
+    "https://www.linkedin.com/company/c16bio",
+    "https://www.linkedin.com/in/sharaticku",
+    "https://www.linkedin.com/in/david-heller-343981b2",
+    "https://www.linkedin.com/posts/sharaticku_the-next-step-in-c16-biosciences-mission-activity-7034188632236150784-AZx0",
+    "https://www.linkedin.com/posts/c16bio_last-week-we-were-in-washington-dc-for-the-activity-7525184147217141760-ZrLA",
+    "https://www.linkedin.com/posts/c16bio_c16-biosciences-activity-7153796497694687233--sO2",
+    "https://www.linkedin.com/posts/sharaticku_c16-biosciences-is-live-in-a-new-category-activity-7214307041979314177-OdkL"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com C16Bio",
+   "results": [
+    "https://www.facebook.com/C16-Bio-105812601797868/",
+    "https://www.facebook.com/tiffanylee.panyo/",
+    "https://www.facebook.com/thebeautybuddy/posts/1270977690169406/",
+    "https://www.facebook.com/C16-bio-science-107555402015295/",
+    "https://www.facebook.com/thebiotechclub/posts/2281084962167006/",
+    "https://www.facebook.com/BreakthroughEnergyCoalition/posts/1134069373595393/",
+    "https://www.facebook.com/C16Music/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "C16Bio note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/sharaticku",
+    "https://www.zoominfo.com/p/Shara-Ticku/1987791103",
+    "https://c16bio.com/about",
+    "https://c16bio.com/",
+    "https://www.linkedin.com/in/david-heller-343981b2",
+    "https://www.crunchbase.com/person/shara-ticku"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "C16Bio X 投稿",
+   "results": [
+    "https://x.com/C16Bio",
+    "https://c16bio.com/press-release-1",
+    "https://c16bio.com/",
+    "https://c16bio.com/general-application",
+    "https://c16bio.com/about",
+    "https://c16bio.com/press-awards",
+    "https://c16bio.com/partner-with-us"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部38頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

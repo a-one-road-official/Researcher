@@ -1,0 +1,952 @@
+{
+ "name": "Unbox Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜商談中",
+ "researched_at": "2026-11-11T02:41:44.165403+00:00",
+ "official_url": "https://unboxrobotics.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Proven with global scale & trusted by biggest names in logistics",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet our flagship product - UnboxSort",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven results repeatedly",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Check out the measurable gains in throughput, accuracy, and operational cost reduction achieved on actual projects by our global partners.",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", reducing footprint by ~50–70%",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineered to Fit, Proven in Peak: Last-Mile Sortation at Scale in Europe",
+    "url": "https://unboxrobotics.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "One Robot Fleet, Two Sortation Modes: Primary and Secondary Sorting in a Constrained Site",
+    "url": "https://unboxrobotics.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A leading Spanish fashion retailer sorts 1,200 parcels per hour across 460 destinations within a highly compact footprint",
+    "url": "https://unboxrobotics.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Solving the Variant Density Trap: A Practical Guide to Speed, Space, and Reverse Logistics in Fashion Fulfillment",
+    "url": "https://unboxrobotics.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "We engineer next-generation intelligent robotics and AI-driven software to transform warehouse sortation and fulfillment. Our systems ensure unprecedented vertical efficiency and scalable throughput for every growing business worldwide.",
+    "url": "https://unboxrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The global e-commerce boom created a painful bottleneck: warehouses simply couldn't scale or sort fast enough without enormous space and labor costs. Founded on the belief that AI and robotics could eliminate this universal constraint, Unbox Robotics engineered a compact, high-precision swarm system to make rapid, vertical fulfillment accessible.",
+    "url": "https://unboxrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2019, Unbox Robotics builds automation systems tailored to real-world warehouse challenges. Designed and manufactured in India, our compact, modular platform combines proprietary hardware and software for fast deployment and effortless scale.",
+    "url": "https://unboxrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "If that kind of proximity to impact matters to you, keep reading.",
+    "url": "https://unboxrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Unbox Robotics is a direct place. Feedback travels fast. There are no long chains of approval before a decision gets made. If you have a point, make it, regardless of your title or tenure.",
+    "url": "https://unboxrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The team spans robotics hardware, AI and software, product, customer success, and business development. These functions sit close to each other by design. An engineer here has context on the customer problem their code is solving. A customer success person understands the fleet intelligence running the system they support. That overlap is intentional, and it keeps the work honest.",
+    "url": "https://unboxrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Benchmarked to market across engineering, product, and business roles.",
+    "url": "https://unboxrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experience across robotics, AI, supply chain, automotive R&D, and enterprise software. Based in Pune, with reach across India, Europe, and Asia.",
+    "url": "https://unboxrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are looking for people who are precise, curious, and motivated by work with real consequences.",
+    "url": "https://unboxrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "All Unbox Robotics job offers follow a formal interview process through this page or a verified recruiting partner. We will never ask candidates for payment.",
+    "url": "https://unboxrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As logistics networks become faster, denser, and more interconnected, parcel sortation has evolved from a backend operation into a strategic capability. UnboxSort enables modern fulfillment centers, sort hubs, and delivery networks to operate with speed, precision, and flexibility at scale.",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Modern fulfillment centers process thousands of parallel orders across diverse SKUs and channels. UnboxSort enables seamless order consolidation by dynamically sorting parcels into live order destinations within a compact vertical layout.",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable operations without increasing floor footprint",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Click & Collect and store pickup models require fast, store-wise consolidation without disrupting core fulfillment operations. UnboxSort enables precise store- and order-level sortation, supporting efficient preparation for pickup and handover.",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Faster preparation for in-store pickup",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Stable throughput across varying load profiles",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Returns handling is now an integral part of modern fulfillment. UnboxSort enables structured, rule-based sortation of return parcels, supporting faster downstream processing and inventory flow.",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Improved visibility across reverse logistics flows",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Retail and wholesale networks rely on predictable, store-wise order fulfillment. UnboxSort supports structured B2B workflows by consolidating parcels and cartons by store, route, or delivery schedule.",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Improved delivery workforce productivity",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "First mile dispatch determines how cleanly parcels move through the wider delivery network. UnboxSort sorts outbound parcels by carrier, route, and destination hub at the point of handover, building dispatch-ready consignments within a compact vertical footprint.",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "本サイトには A8.net 等のアフィリエイト広告が含まれます（該当箇所に「PR」と表示）",
+    "url": "https://physicalainews.jp/companies/unbox-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2019 by Pramod Ghadge and Shahid Memon, Unbox Robotics aims at enabling organisations to triumph over global supply chain challenges by revolutionising intralogistics operations via one-of-its-kind vertical robotic parcel sortation and consolidation, powered by Swarm Intelligence.",
+    "url": "https://demo.unboxrobotics.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox Robotics’ USP lies in its ability to scan, sort, and dispatch packages in less than 50-70% physical space through its innovative and compact vertical sorting robotic solution. It helps customers ramp up productivity by more than 3X — thereby enhancing end-customer experience.",
+    "url": "https://demo.unboxrobotics.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox Robotics is the worlds first 3D Robotic Parcel Sortation tech provider",
+    "url": "https://demo.unboxrobotics.com/about/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Future-ready warehouse automation engineered for space, speed and savings.",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven with global scale & trusted by biggest names in logistics",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unbox Robotics is a warehouse automation company that designs and deploys intelligent robotic systems for parcel sortation and order consolidation. Its flagship solution, UnboxSort, is a vertical robotic sortation system built to deliver high throughput, space efficiency, and operational flexibility for modern logistics and fulfillment operations.",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This makes UnboxSort more suitable for fast-growing, space-constrained warehouses.",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What types of warehouses can use UnboxSort?",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "greenfield and brownfield warehouses",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "UnboxSort is designed to scale incrementally. Operators can:",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This allows warehouses to grow capacity as demand evolves.",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study | Unbox Robotics",
+    "url": "https://unboxrobotics.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How an Italian retail brand deployed mobile-robot warehouse sortation in 6 weeks",
+    "url": "https://unboxrobotics.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Physical AI Has Reached the Warehouse Floor: What It Means for Parcel Sortation in 2026",
+    "url": "https://unboxrobotics.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to enable faster, smarter, and more reliable order fulfillment through intelligent robotics designed for the warehouses of tomorrow.",
+    "url": "https://unboxrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "To become the global leader in next-generation warehouse automation, mastering robotics and software to empower businesses and define the new standard for fulfillment efficiency.",
+    "url": "https://unboxrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We engineer next-generation intelligent robotics and AI-driven software to transform warehouse sortation and fulfillment. Our systems ensure unprecedented vertical efficiency and scalable throughput for every growing business worldwide.",
+    "url": "https://unboxrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The global e-commerce boom created a painful bottleneck: warehouses simply couldn't scale or sort fast enough without enormous space and labor costs. Founded on the belief that AI and robotics could eliminate this universal constraint, Unbox Robotics engineered a compact, high-precision swarm system to make rapid, vertical fulfillment accessible.",
+    "url": "https://unboxrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2019, Unbox Robotics builds automation systems tailored to real-world warehouse challenges. Designed and manufactured in India, our compact, modular platform combines proprietary hardware and software for fast deployment and effortless scale.",
+    "url": "https://unboxrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of a bold mission to revolutionize warehouse automation.",
+    "url": "https://unboxrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Every package that reaches its destination. Every warehouse that works smarter. Every logistics player that scales without chaos. That's what we build at Unbox Robotics.",
+    "url": "https://unboxrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Your work here runs inside live warehouses. It sorts parcels. It scales operations. It has a measurable outcome the week after you ship it.",
+    "url": "https://unboxrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You will not spend your first months on something hypothetical. The work is live and the timeline from “you built it” to “it is running in a warehouse” is short.",
+    "url": "https://unboxrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experience across robotics, AI, supply chain, automotive R&D, and enterprise software. Based in Pune, with reach across India, Europe, and Asia.",
+    "url": "https://unboxrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "If you believe in what we are building but do not see the right opening, we still want to hear from you. We keep an active network of engineers, operators, AI researchers, and supply chain thinkers interested in the future of logistics automation.",
+    "url": "https://unboxrobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "UnboxSort is designed for the way modern logistics operates: modular, adaptable, and data-driven. Across fulfillment centers, sort hubs, distribution centers, and delivery networks, UnboxSort enables operators to scale intelligently while maintaining speed, accuracy, and control.",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "UnboxSort is a modular, vertical robotic parcel sortation system that uses autonomous robots and intelligent software to sort parcels into destinations such as orders, routes, stores, or carriers. It is designed to operate in compact spaces while maintaining high accuracy and throughput.",
+    "url": "https://unboxrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Injection Point Decision: Where Sortation Belongs in the Shipper-Carrier Handoff",
+    "url": "https://unboxrobotics.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of a bold mission to revolutionize warehouse automation.",
+    "url": "https://unboxrobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Outbound sortation today must adapt continuously to changing carrier plans, dispatch waves, and delivery commitments. UnboxSort supports flexible outbound sortation by routing parcels by carrier, route, or shipment group in real time.",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Returns handling is now an integral part of modern fulfillment. UnboxSort enables structured, rule-based sortation of return parcels, supporting faster downstream processing and inventory flow.",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Returns now account for a large share of fulfillment center volume, arriving unsorted and in mixed conditions. UnboxSort automates returns sortation by routing every returned parcel to its disposition, seller, or SKU category in a single robotic pass.",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "First mile dispatch determines how cleanly parcels move through the wider delivery network. UnboxSort sorts outbound parcels by carrier, route, and destination hub at the point of handover, building dispatch-ready consignments within a compact vertical footprint.",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   },
+   {
+    "quote": "High-speed carrier-wise sortation for outbound dispatch",
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Unbox Robotics | 日本フィジカルAI新聞",
+    "url": "https://physicalainews.jp/companies/unbox-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "世界のフィジカルAIを、日本語で",
+    "url": "https://physicalainews.jp/companies/unbox-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "日本の物流は今、逃げ場のない「空間の欠乏」という巨大な岩壁に突き当たっています",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   },
+   {
+    "quote": "​2. 【日本に導入するなら】：コンビニ・都市型拠点の“物理インターネット”",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   },
+   {
+    "quote": "​この「群知能のノミ」を日本の文脈で使うなら、ターゲットは郊外の巨大拠点ではなく、私たちの生活に最も近い「都市の隙間」です",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   },
+   {
+    "quote": "日本の都市部に無数に存在する「コンビニの裏スペース」や「駅地下の空き区画」",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   },
+   {
+    "quote": "​この「都市型ロジスティクス」が日本のラストワンマイルに実装されたとき、その経済的インパクトは絶大です",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   },
+   {
+    "quote": "その小さなロボットたちが描く光の軌跡は、日本の物流を「止まらない血管」へと作り替える、希望の輪郭となるはずです",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Unbox Robotics - Redefining New Age Warehousing — What is Unbox Robotics? Unbox Robotics is a warehouse automation company that designs and deploys intelligent robotic systems for parcel sortation and order consolidation.",
+    "url": "https://unboxrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox Robotics | 日本フィジカルAI新聞 — 企業DB › Unbox Robotics Unbox Robotics シェア: X Threads Facebook LINE はてブ Bluesky リンクをコピー Unbox Robotics ・ インド インドに拠点を置く物流ロボット企業である。 倉庫内の仕分けや配送センター向けに、自律移動ロボットを活用したソリューションを提供している。",
+    "url": "https://physicalainews.jp/companies/unbox-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Unbox Robotics — Founded on the belief that AI and robotics could eliminate this universal constraint, Unbox Robotics engineered a compact, high-precision swarm system to make rapid, vertical fulfillment accessible.",
+    "url": "https://unboxrobotics.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox Robotics - Redefining New Age Warehousing — Future-ready warehouse automation engineered for space, speed and savings.",
+    "url": "https://unboxrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox Robotics - Redefining New Age Warehousing — Unbox Robotics is a warehouse automation company that designs and deploys intelligent robotic systems for parcel sortation and order consolidation. Its flagship solution, UnboxSort, is a vertical robotic sortation system built to deliver high throughput, space efficiency, and operational flexibility for modern logistics and fulfillment operations.",
+    "url": "https://unboxrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Unbox Robotics — We engineer next-generation intelligent robotics and AI-driven software to transform warehouse sortation and fulfillment. Our systems ensure unprecedented vertical efficiency and scalable throughput for every growing business worldwide.",
+    "url": "https://unboxrobotics.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "About us – Unbox Robotics — Unbox Robotics is a leading supply chain robotics technology company, specialising in robotics-based fulfilment and distribution technology for small to large e-commerce, retail and logistics enterprises.",
+    "url": "https://demo.unboxrobotics.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "UnboxSort - Swarm robotics-powered vertical parcel sorting ...Industrial Automation Products And Solutions - Unbox IndustryUnbox Robotics — Sep 4, 2022 · UnboxSort is a scalable vertical sortation system that swiftly sorts packages into multi-level racks for various handling units like chutes, bins, bags, and more. Unbox Industry offers automation products and solutions with high performance and r",
+    "url": "https://www.youtube.com/watch?v=BF5IULOZpw8",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox Robotics - 2026 Company Profile, Team, Funding ... - TracxnUnbox Robotics - 2026 Company Profile, Team, Funding ... - TracxnUnboxRobotics 2026 Company Profile: Valuation, Funding ...Unbox Robotics - 2026 Company Profile, Funding | The Company ...Unbox Robotics: Funding, Investors & Team (Oct 2026)Unbox Robotics — Funding, Revenue & Investors (2026) | Inc42Unbox Robotics: Funding, Team & Inve",
+    "url": "https://tracxn.com/d/companies/unbox-robotics/__b2SdPlacpjWiGETVrwgh2F050wXTAzNNMxmJ4eejVlA",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox Robotics - 2026 Company Profile, Team, Funding ... - Tracxn — Apr 3, 2026 · Unbox Robotics is a series B company based in Pune (India), founded in 2019 by Shahid Memon and Pramod Ghadge. It operates as a Provider of software-defined robotics system for warehouse operations.",
+    "url": "https://tracxn.com/d/companies/unboxrobotics/__b2SdPlacpjWiGETVrwgh2F050wXTAzNNMxmJ4eejVlA",
+    "pass": 3
+   },
+   {
+    "quote": "UnboxRobotics 2026 Company Profile: Valuation, Funding ...Unbox Robotics - 2026 Company Profile, Funding | The Company ...Unbox Robotics: Funding, Investors & Team (Oct 2026)Unbox Robotics — Funding, Revenue & Investors (2026) | Inc42Unbox Robotics: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and executives for UnboxRobotics. Use the Pitch",
+    "url": "https://pitchbook.com/profiles/company/309987-01",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox Robotics - 2026 Company Profile, Funding | The Company ... — Oct 19, 2026 · Unbox Robotics is a Transportation, Automotive & Logistics company based in Pune, India, founded in 2019. It has raised $13.8M across 9 funding rounds.",
+    "url": "https://www.thecompanycheck.com/company/b/unbox-robotics/r0u1jgwfzawx9zq5u",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox Robotics: Funding, Investors & Team (Oct 2026) — Unbox Robotics has raised $36.2M across 3 funding rounds on record, the most recent a Series B of $28.0M announced in Jan 2026. That round is above the $6.0M median round size for Artificial Intelligence companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/unbox-robotics-unboxrobotics-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "巨大倉庫という「ハコ」の概念を削ぎ落とす。都市の隙間に潜む群知能... Apr 13, 2026 · 再開発が進む都市部では、巨大な自動倉庫を建てるための土地も、数年の工期も残されていません。 今回、私が手に取るノミは、インドから届いた「群知能（スウォーム）」の結晶、**Unbox Robotics（アンボックス・ロボティクス）**です。",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "​巨大倉庫という「ハコ」の概念を削ぎ落とす。都市の隙間に潜む群知能の脈動｜てぐぞー｜AIと「楽しみながら生きる」40代パパ",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   },
+   {
+    "quote": "​巨大倉庫という「ハコ」の概念を削ぎ落とす。都市の隙間に潜む群知能の脈動",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   },
+   {
+    "quote": "てぐぞー｜AIと「楽しみながら生きる」40代パパ",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   },
+   {
+    "quote": "​2026年4月。日本の物流は今、逃げ場のない「空間の欠乏」という巨大な岩壁に突き当たっています。再開発が進む都市部では、巨大な自動倉庫を建てるための土地も、数年の工期も残されていません。",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   },
+   {
+    "quote": "​今回、私が手に取るノミは、インドから届いた「群知能（スウォーム）」の結晶、**Unbox Robotics（アンボックス・ロボティクス）**です。彼らが提示したのは、ハードウェアという「固定された岩」ではなく、ソフトウェアによって定義された「動的なインフラ」の彫刻でした。",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   },
+   {
+    "quote": "​1. 【元となる海外事業】：群知能型・高速仕分けロボット「Unbox Robotics」",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   },
+   {
+    "quote": "​2026年4月現在、欧米の拠点で急速にシェアを伸ばしているUnbox Roboticsが向き合っているのは、大がかりなソーター（仕分け機）や固定レールという、一度設置したら動かせない「硬直した設備」という不自由な素材です。",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   },
+   {
+    "quote": "​彼らが振るうノミは、**「手のひらサイズの群知能ロボット軍団」**です。",
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Unbox Robotics (@RoboticsUnbox) / X Unbox Robotics is building software-defined robotics platforms to enable logistics players to automate and radically improve their operations!",
+    "url": "https://x.com/roboticsunbox",
+    "pass": 3
+   },
+   {
+    "quote": "Bharat Innovates 2026 presents Unbox Robotics, a pioneering ... Jun 13, 2026 · With a vision to redefine logistics through intelligent automation, Unbox Robotics combines advanced robotics, machine learning, and data-driven optimization to solve complex operational challenges.",
+    "url": "https://x.com/BharatInnov2026/status/2065735935644319747",
+    "pass": 3
+   },
+   {
+    "quote": "At JioGenNext’s Built in India podcast, the founders of Unbox ... Apr 29, 2026 · At JioGenNext’s Built in India podcast, the founders of Unbox Robotics break down what real innovation looks like behind the scenes like constant testing and pushing limits.u2028Watch the full podcast episode here - youtu.be/Rh3ZgHBTzps",
+    "url": "https://x.com/JioGenNext/status/2049369843825307906",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Unbox Robotics | LinkedIn Unbox Robotics builds full-stack robotic systems that help retail, logistics, and eCommerce companies automate their intra-logistics operations. Powered by proprietary swarm intelligence, its...",
+    "url": "https://in.linkedin.com/company/unboxrobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox Robotics - LinkedIn Sortation, rebuilt for operators. | Unbox Robotics builds full-stack robotic systems that help retail, logistics, and eCommerce companies automate their intra-logistics operations.",
+    "url": "https://www.linkedin.com/company/unboxrobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Shahid M. - Unbox Robotics | LinkedInUnbox Robotics raises $28 million - LinkedInPramod Ghadge - Unbox Robotics | LinkedInUnbox Robotics: The Modern Fulfilment OS for Global CommerceUnbox Robotics is Building the Autonomous Fulfilment OS for ... Completed my MSc in Autonomous Robotics Engineering. Worked on various interesting project throughout my course. Jan 20, 2026 · Pune-based warehouse autom",
+    "url": "https://in.linkedin.com/in/shahidmemon",
+    "pass": 3
+   },
+   {
+    "quote": "Unbox Robotics raises $28 million - LinkedIn Jan 20, 2026 · Pune-based warehouse automation startup, Unbox Robotics has secured $28 million in a fresh funding round, The Economic Times reports.",
+    "url": "https://www.linkedin.com/news/story/unbox-robotics-raises-28-million-6901628/",
+    "pass": 3
+   },
+   {
+    "quote": "Pramod Ghadge - Unbox Robotics | LinkedIn社長の「社内では話せない」を、一緒に考える。組織と人事の意思決定...Pramod Ghadge - Co-Founder and CEO @ Unbox Robotics ...社長の「社内では話せない」を、一緒に考える。組織と人事の意思決定...Sumeet Bodhe - Founder’s Office @ Unbox Robotics | Project ...Pramod Ghadge, Pramod Ghadge, Co-Founder & CEO, Unbox ... - ITLN About At the helm of Unbox Robotics, my leadership revolves around innovation in logistics… UNBOXでは、経営者の壁打ち",
+    "url": "https://in.linkedin.com/in/pramodghadge",
+    "pass": 3
+   },
+   {
+    "quote": "Sumeet Bodhe - Founder’s Office @ Unbox Robotics | Project ... Strategy & Operations professional at Unbox Robotics, working at the intersection of business strategy, technology, and execution. I partner with leadership to drive strategic initiatives, lead...",
+    "url": "https://in.linkedin.com/in/sumeet-bodhe15",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "UnboxRobotics - FacebookIndian robotics startup Unbox Robotics has raised ... - FacebookStartupSuperb - Unbox Robotics Secures $28 Million... | FacebookInc42 - Deeptech startup Unbox Robotics has raised $28 Mn ...Logistics automation... - Antrapreneur The Business Incubator ...#Update Unbox Robotics Raises USD 28... - Entrepreneur India ...How to unbox your Beni? Just give it a gentle tear, and it",
+    "url": "https://www.facebook.com/unboxrobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Indian robotics startup Unbox Robotics has raised ... - FacebookStartupSuperb - Unbox Robotics Secures $28 Million... | FacebookInc42 - Deeptech startup Unbox Robotics has raised $28 Mn ...Logistics automation... - Antrapreneur The Business Incubator ...#Update Unbox Robotics Raises USD 28... - Entrepreneur India ...How to unbox your Beni? Just give it a gentle tear, and it’s ... Jan 26, 2026 · In",
+    "url": "https://www.facebook.com/etnow/videos/indian-robotics-startup-unbox-robotics-has-raised-approximately-rs-232-crore-in-/1197237705899977/",
+    "pass": 3
+   },
+   {
+    "quote": "StartupSuperb - Unbox Robotics Secures $28 Million... | Facebook Jan 19, 2026 · StartupSuperb Jan 19 Unbox Robotics Secures $28 Million Investment from ICICI Venture Unbox Robotics Raises $28 Million for Supply Chain Innovation Unbox Robotics Raises $28 Million for Supply Chain Innovation Unbox Robotics, a company focused on supply chain robotics technology, has successfully secured $28",
+    "url": "https://www.facebook.com/StartupSuperb/posts/unbox-robotics-secures-28-million-investment-from-icici-ventureunbox-robotics-ra/1553490963452962/",
+    "pass": 3
+   },
+   {
+    "quote": "Inc42 - Deeptech startup Unbox Robotics has raised $28 Mn ... Jan 20, 2026 · Founded in 2019 by Pramod Ghadge, the Pune-based startup builds modular robotics systems for automating warehouse and fulfillment operations for large enterprises, especially ecommerce, retail, and third-party logistics operators.",
+    "url": "https://www.facebook.com/Inc42/posts/deeptech-startup-unbox-robotics-has-raised-28-mn-about-inr-243-cr-in-its-series-/1451685236555594/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://unboxrobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unboxrobotics.com/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unboxrobotics.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unboxrobotics.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unboxrobotics.com/solutions-overview",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.amazonadvertisingevents.com/unBoxedTokyo2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://physicalainews.jp/companies/unbox-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazonadvertisingevents.com/unBoxedTokyo2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://demo.unboxrobotics.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazonadvertisingevents.com/unBoxedTokyo2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/unbox-robotics/__b2SdPlacpjWiGETVrwgh2F050wXTAzNNMxmJ4eejVlA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/unboxrobotics/__b2SdPlacpjWiGETVrwgh2F050wXTAzNNMxmJ4eejVlA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/309987-01",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/unbox-robotics/r0u1jgwfzawx9zq5u",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/roboticsunbox",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BharatInnov2026/status/2065735935644319747",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JioGenNext/status/2049369843825307906",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/unboxrobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/unboxrobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/shahidmemon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/news/story/unbox-robotics-raises-28-million-6901628/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/unboxrobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/etnow/videos/indian-robotics-startup-unbox-robotics-has-raised-approximately-rs-232-crore-in-/1197237705899977/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/StartupSuperb/posts/unbox-robotics-secures-28-million-investment-from-icici-ventureunbox-robotics-ra/1553490963452962/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Inc42/posts/deeptech-startup-unbox-robotics-has-raised-28-mn-about-inr-243-cr-in-its-series-/1451685236555594/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/pramodghadge",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/sumeet-bodhe15",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/roboticsunbox",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Unbox Robotics 日本 導入",
+   "results": [
+    "https://unboxrobotics.com/",
+    "https://www.amazonadvertisingevents.com/unBoxedTokyo2026",
+    "https://physicalainews.jp/companies/unbox-robotics",
+    "https://unboxrobotics.com/about-us",
+    "https://robotstart.info/article/2026/10/20/382539.html",
+    "https://logishift.net/2026/02/01/post-1321/",
+    "https://note.com/nifty_sheep2798/n/n832ae7f00306"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unbox Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.amazonadvertisingevents.com/unBoxedTokyo2026",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://unboxrobotics.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unbox Robotics Japan",
+   "results": [
+    "https://unboxrobotics.com/",
+    "https://unboxrobotics.com/about-us",
+    "https://demo.unboxrobotics.com/about/",
+    "https://www.amazonadvertisingevents.com/unBoxedTokyo2026",
+    "https://www.youtube.com/watch?v=BF5IULOZpw8",
+    "https://www.unboxindustry.com/",
+    "https://www.hardwareasaservice.org/companies/unbox-robotics"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unbox Robotics manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Unbox Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.arista.com/en/partner/partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unbox Robotics founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/unbox-robotics/__b2SdPlacpjWiGETVrwgh2F050wXTAzNNMxmJ4eejVlA",
+    "https://tracxn.com/d/companies/unboxrobotics/__b2SdPlacpjWiGETVrwgh2F050wXTAzNNMxmJ4eejVlA",
+    "https://pitchbook.com/profiles/company/309987-01",
+    "https://www.thecompanycheck.com/company/b/unbox-robotics/r0u1jgwfzawx9zq5u",
+    "https://fundediq.co/unbox-robotics-unboxrobotics-com-funding/",
+    "https://inc42.com/company/unbox-robotics/",
+    "https://startupintros.com/orgs/unbox-robotics"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Unbox Robotics",
+   "results": [
+    "https://note.com/boevan/n/n6956d3b53d74",
+    "https://note.com/seigo77",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/nifty_sheep2798/n/n832ae7f00306",
+    "https://note.com/boevan/n/n8faa1c67d9dd",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Unbox Robotics",
+   "results": [
+    "https://x.com/roboticsunbox",
+    "https://x.com/BharatInnov2026/status/2065735935644319747",
+    "https://x.com/JioGenNext/status/2049369843825307906",
+    "https://x.com/AgilexRobotics/status/2117208402095136773",
+    "https://x.com/unboxdailyhq/status/2087064971364684191",
+    "https://x.com/RoboticsUnbox/status/2039686712264396951",
+    "https://x.com/wegro_app/status/2003418902630682978"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Unbox Robotics",
+   "results": [
+    "https://in.linkedin.com/company/unboxrobotics",
+    "https://www.linkedin.com/company/unboxrobotics",
+    "https://in.linkedin.com/in/shahidmemon",
+    "https://www.linkedin.com/news/story/unbox-robotics-raises-28-million-6901628/",
+    "https://in.linkedin.com/in/pramodghadge",
+    "https://www.linkedin.com/pulse/unbox-robotics-modern-fulfilment-os-global-commerce-3one4-capital-adfbc/",
+    "https://www.linkedin.com/pulse/unbox-robotics-building-autonomous-fulfilment-os-global-pranav-pai-udwjc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Unbox Robotics",
+   "results": [
+    "https://www.facebook.com/unboxrobotics/",
+    "https://www.facebook.com/etnow/videos/indian-robotics-startup-unbox-robotics-has-raised-approximately-rs-232-crore-in-/1197237705899977/",
+    "https://www.facebook.com/StartupSuperb/posts/unbox-robotics-secures-28-million-investment-from-icici-ventureunbox-robotics-ra/1553490963452962/",
+    "https://www.facebook.com/Inc42/posts/deeptech-startup-unbox-robotics-has-raised-28-mn-about-inr-243-cr-in-its-series-/1451685236555594/",
+    "https://www.facebook.com/EntrepreneurInd/posts/updateunbox-robotics-raises-usd-28-mn-funding-led-by-icici-venture-and-redstart-/1199633382303034/",
+    "https://www.facebook.com/mondorobotics/videos/how-to-unbox-your-beni-just-give-it-a-gentle-tear-and-its-sorted-in-no-time-oh-d/2533213627141512/",
+    "https://www.facebook.com/Antrapreneurthebusinessincubator/posts/logistics-automation-startup-unbox-robotics-has-raised-12-mn-in-a-pre-series-a-r/1601593943378968/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unbox Robotics note 社長",
+   "results": [
+    "https://www.f6s.com/member/pramodghadge1",
+    "https://in.linkedin.com/in/pramodghadge",
+    "https://www.crunchbase.com/person/pramod-ghadge",
+    "https://in.linkedin.com/in/sumeet-bodhe15",
+    "https://www.itln.in/pramod-ghadge",
+    "https://note.com/prime_egret4636/n/na7c5b17e39df",
+    "https://jp.linkedin.com/posts/kazuyaakiyamaunbox_社長の社内では話せないを一緒に考える組織と人事の意思決定に伴走する仕事秋山和也-activity-7521805564314550272-m_IQ"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unbox Robotics X 投稿",
+   "results": [
+    "https://x.com/roboticsunbox",
+    "https://unboxrobotics.com/",
+    "https://unboxrobotics.com/about-us",
+    "https://www.instagram.com/lifeatunbox/",
+    "https://www.facebook.com/unboxrobotics/",
+    "https://www.linkedin.com/company/unboxrobotics",
+    "https://x.com/0x_fokki/status/2116289885870981296"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

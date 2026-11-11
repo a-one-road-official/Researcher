@@ -1,0 +1,1712 @@
+{
+ "name": "Tacto",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-11T02:25:28.253957+00:00",
+ "official_url": "https://www.tacto.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "17-Feb-2022 $6M $6M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "07-Sep-2020    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Tacto – The AI for Industrial Procurement",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI for Procurement in Manufacturing.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Frontier AI for Procurement",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Combines deep understanding of parts, categories, suppliers and costs with internal data and billions of external signals — powering AI agents that make better decisions and deliver measurable procurement impact.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Optimal procurement decisions across all product groups, suppliers and articles — based on cost breakdowns, drawings, benchmarks and real-time data.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize RFQ processes strategically",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "The strongest procurement teams work with Tacto.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by Tacto Intelligence – Category Leader for AI in Manufacturing Procurement",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Stronger AI. Stronger Procurement. Stronger Supply Chains. Stronger Companies. Stronger Industry. Stronger Future.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Global production sites",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Strong AI. Strong Procurement. Strong Supply Chains. Strong Companies. Strong Industry. Strong Future.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "The AI revolution is here. In manufacturing, it starts with procurement.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing competitiveness starts in procurement. It’s where thousands of materials, suppliers, prices, and markets come together. For the first time, AI can understand this complexity holistically and turn it into action — automating processes, reducing material costs, and driving product innovation. This transforms procurement into a strategic driver of business value.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "4x BME Procurement Excellence Award Winner",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "“With Tacto, we unlocked potential that previously remained hidden due to data complexity. At the same time, Tacto is accelerating our AI transformation and the lasting professionalization of procurement.”",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "\"For drawing parts, we never had a reliable price basis. Tacto has completely changed that: today we negotiate with our suppliers on equal footing.\"",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "\"Tacto gives you global transparency and one unified supplier management, built on standardized, AI-native processes.\"",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Global Procurement Director, Nedschroef",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "“Tacto’s Spend Intelligence provides total transparency into price and volume trends for our B- and C-parts – down to drawing parts. By identifying outliers, utilizing tiered-pricing requests, optimizing lot sizes, and securing new volume contracts, we’ve already realized over €700,000 in savings.”",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Procurement, VEMAG MASCHINENBAU",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "“With Tacto, we can automatically create cost models from raw material, energy and labor costs, which gives us cost transparency across all articles — this reduces the preparation effort for negotiations by around 75%.”",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "“Tacto’s AI-driven price analysis saved us a full €600,000. I immediately see prioritized alerts on savings potential – matched to our procurement strategy, with suggestions such as bundling or framework agreements.”",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Procurement, Hymer Leichtmetallbau",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Frontier AI for procurement",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Combines frontier AI, procurement expertise, and data to understand industrial complexity, optimize decisions, and reduce material costs.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "- MUSE Design Awards 2026 Product Design - Educational Tools / Teaching Aids / Learning Devices部門：Gold",
+    "url": "https://tacto-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "- A' Design Award 2025 Advertising, Marketing and Communication Design部門：Silver",
+    "url": "https://tacto-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrated Marketing - Product Branding部門：Silver",
+    "url": "https://tacto-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Karthikesh Raju, SVP Marketing",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "Interview & Text by Natsumi Amano",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": ", today announced that the company has expanded its operations in Japan and formed TactoTek KK with offices in Tokyo, from which it will serve Japan and other Asia-Pacific markets. In conjunction with expanding its presence in Japan, TactoTek has been selected to receive a Tokyo Metropolitan Government subsidy for green technology transformation.",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "With its growing presence in Japan, TactoTek will support licensees and work directly with OEMs and brands to facilitate their adoption of IMSE technology in automotive and other industries.",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": ", TactoTek SVP Sales and Business Development, has relocated to Tokyo to expand TactoTek’s market presence:",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "“With accelerating interest in our IMSE technology across market segments, we are investing in our long-term presence in Japan to support our licensees and help OEMs and brands realize the full range of benefits of IMSE technology, from design innovation and simplifying supply chains, to step-function improvements in sustainability.”",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto revolutionizes procurement with its cloud-based software, building future-proof supply chains for industrial organizations. As the central hub connecting these organizations with their supplier base, Tacto streamlines procurement processes, ensures compliant supply chains and enables efficient material sourcing at optimal conditions.",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Belimed Automation of manual and operational activities in procurement",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Hubtex achieves fast procurement transparency and savings with Tacto",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Knoll achieves transparent procurement and compliant supply chain due diligence with tacto",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "ME Mobil Elektronik achieves faster, data-driven procurement with tacto",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "SED Flow Control achieves greater procurement efficiency and cost savings with tacto",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Operational Procurement",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Schwäbische Werkzeugmaschinen achieves LkSG compliance and strategic procurement with tacto",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Direct added value through the digitalisation of procurement",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Procurement Officer",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "WEGU Holding achieves centralized procurement across three sites with tacto",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Cost optimization in purchasing through the automated connection of price indices",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Strategic Procurement",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "SED Flow Control saves 20% of supplier meeting prep time with tacto",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Ivalua was founded in 2000 on a disruptive idea: that Procurement can unlock significant strategic value from a company’s spend and supply chain. Software should empower Procurement leaders to do …",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "JAGGAER is a global leader in enterprise procurement and supplier collaboration, and the catalyst for enhancing human decision-making to accelerate business outcomes. We help organizations to manage and automate complex …",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a supply chain procurement engine for industrial organizations designed to help companies move independent procurement in a digital, efficient, and sustainable direction.",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Tacto – The AI for Industrial Procurement",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI for Procurement in Manufacturing.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Built for industrial complexity. Automating what takes time. Optimizing what drives value.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by Tacto Intelligence – Category Leader for AI in Manufacturing Procurement",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by FRONTIER AI AND MANUFACTURING EXPERTISE",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "work with Tacto. Because we combine frontier AI with deep industrial expertise.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "The AI revolution is here. In manufacturing, it starts with procurement.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing competitiveness starts in procurement. It’s where thousands of materials, suppliers, prices, and markets come together. For the first time, AI can understand this complexity holistically and turn it into action — automating processes, reducing material costs, and driving product innovation. This transforms procurement into a strategic driver of business value.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "Combines frontier AI, procurement expertise, and data to understand industrial complexity, optimize decisions, and reduce material costs.",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "MANUFACTURING LOVES TACTO",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": "“I learned early on: Profit is made in procurement. Tacto is the first to turn this principle into measurable value for manufacturers through AI.”",
+    "url": "https://www.tacto.ai/en",
+    "pass": 1
+   },
+   {
+    "quote": ".: “TactoTek’s IMSE technology is transformational: it enables design innovation for OEMs, offers meaningful advances in environmental performance, and supports creating advanced manufacturing jobs in Japan.”",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "With its growing presence in Japan, TactoTek will support licensees and work directly with OEMs and brands to facilitate their adoption of IMSE technology in automotive and other industries.",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto revolutionizes procurement with its cloud-based software, building future-proof supply chains for industrial organizations. As the central hub connecting these organizations with their supplier base, Tacto streamlines procurement processes, ensures compliant supply chains and enables efficient material sourcing at optimal conditions.",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Machinery Manufacturing",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical Manufacturing",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Furniture and Home Furnishings Manufacturing",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Machinery Manufacturing",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Machinery Manufacturing",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Equipment Manufacturing",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Motor Vehicle Parts Manufacturing",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Packaging and Containers Manufacturing",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: VEMAG Maschinenbau achieves €430,000 in savings with Tacto | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/tacto/case-study/vemag-maschinenbau-saves-430000-in-8-months-with-tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: VEMAG Maschinenbau achieves €430,000 in savings with Tacto",
+    "url": "https://www.casestudies.com/company/tacto/case-study/vemag-maschinenbau-saves-430000-in-8-months-with-tacto",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/tacto/case-study/vemag-maschinenbau-saves-430000-in-8-months-with-tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/tacto/case-study/vemag-maschinenbau-saves-430000-in-8-months-with-tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a supply chain procurement engine for industrial organizations designed to help companies move independent procurement in a digital, efficient, and sustainable direction.",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a supply chain procurement engine for industrial organizations designed to help companies move independent",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto revolutionizes procurement with its cloud-based software, building future-proof supply chains for industrial organizations.",
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本のデザインを変えるべく、2017年に帰国、2020年に共同代表の中島と共にtacto inc.設立",
+    "url": "https://tacto-inc.com/whoweare.html",
+    "pass": 3
+   },
+   {
+    "quote": "受賞にNY ADC GOLD, TOKYO ADC, TOKYO TDC, 文化庁メディア芸術祭, GOOD DESIGN AWARDなど",
+    "url": "https://tacto-inc.com/whoweare.html",
+    "pass": 3
+   },
+   {
+    "quote": "その後、桑沢デザイン研究所で2年間デザインを学び、グローバルな広告代理店やtactoで長期インターンとして実務経験を積む",
+    "url": "https://tacto-inc.com/whoweare.html",
+    "pass": 3
+   },
+   {
+    "quote": "TactoTek® 日本における事業を拡大し、東京都政府から環境技術の補助金を獲得 | コーンズテクノロジー株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "TactoTek® 日本における事業を拡大し、東京都政府から環境技術の補助金を獲�得",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "コーンズテクノロジー株式会社（本社：東京都港区、代表取締役社長 西岡和彦）が国内総代理店を務めるグローバルスマートサーフェス技術リーダーのTactoTek®社（フィンランド）は、本日、日本での事業を拡大し、東京にオフィスを置くTactoTek KKを設立し、そこから日本およびその他のアジア太平洋市場にサービスを提供することを発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本でのプレゼンスを強化する一環として、TactoTekは東京都政府からGX関連技術に関する補助金を受けることを発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "TactoTekはSusHi Tech Tokyo2024にてスマートサーフェスソリューションを展示予定です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、日本においてもいくつかのライセンス契約者や、CornesやMarklinesなどの投資家と強いビジネス関係を築いています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "コーンズテクノロジー株式会社の代表取締役専務 関信は、「TactoTekのIMSE技術は革新的です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "これによりOEMのデザイン革新が可能となり、環境性能の意義ある進歩を実現し、日本での先端製造業の雇用創出を支援します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本でのプレゼンスを強化することで、TactoTekはライセンス契約者をサポートし、自動車業界などでのIMSE技術の採用を直接OEMやブランドと協力して推進します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "TactoTekのSVPセールス兼ビジネス開発担当のSami Hyyryläinenは、市場プレゼンスの拡大のために東京に赴任し、「IMSE技術への市場の加速する関心に対応し、長期的な日本でのプレゼンスを構築し、ライセンス契約者をサポートし、OEMやブランドがIMSE技術によるデザイン革新、サプライチェーンの簡素化、持続可能性の飛躍的な向上など、全ての利点を実現する手助けをします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "IMSEソリューションの環境的利点は、東京都政府からGX関連技術に関する賞を受賞する根拠となります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "SusHi Tech Tokyo2024",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区芝3-3-10",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のデザインを変える」tacto板倉の目指す未来",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "は「日本のデザインを変える」という創業者の考えから設立した、デザインファームです",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "tacto共同創業者でデザイナーの板倉隼はアメリカでデザインを学び、約10年現地でデザイナーとして活動したのち、「日本のデジタルデザインがダサい」という危機感から帰国を決意",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "tacto株式会社 Co-Founder / Creative Director",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデザインを変えるべく、2017年に帰国",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "戦後から日本で生活していましたが、高齢でしたし、親戚も全員アメリカにいたので、連れて帰ることになりました",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "ベルビューというシアトルの隣街に住んでいましたが、当時は日本人を見たことがない人がほとんど",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "学校もアジア人は少数で、日本人は数人",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "日本とはあまり連絡をとっていなかったし、今更帰る理由もない",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージとは全く関係ない小さいアジア系の広告代理店に入りましたが、つまらなくて2カ月で退職しました",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "——その後、約5年間在籍したDeloitte Digitalを辞めて日本に戻ります",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "——最終的にヨーロッパではなく、日本に戻る選択をしたのはなぜですか？",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタルデザインがダサいと思ったからです",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "Deloitte Digitalには世界中の人がいますが、日本人デザイナーは僕だけ",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "みんなでリファレンスを出す時も、日本のデザインは一切上がってきません",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "ふと不思議に感じて日本のデジタルデザインを見てみたら、驚くほどダサかったんです",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "日本のアニメ、ゲームは世界的に評価されていて、特にゲームはデジタルデザインの一つです",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "これはヨーロッパに行っている場合じゃないと思い、日本のデザインを変えるために2017年、帰国することを決めました",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデザインは緻密ですし、細部までこだわるのは日本人デザイナーの良いところです",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "日本は美しいものづくりをする国であり、空白の美という価値観もある",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "日本の国旗なんてスーパーシンプルじゃないですか",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "侘び寂びや禅などの感覚は持っているはずなのに、そういった日本の良さがデジタルデザインでは全く生かせていない",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "——デザインに限らず、日本はユーザー視点を見失うことが多い気がします",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "日本の仕事に慣れる必要があったのと、日本でのコネクションを作ることが目的でした",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "実はDeloitte Digitalで日本の大手メガネチェーンのアプリ制作プロジェクトを手伝ったことがあり、その際に初めて日本人と働いたのですが、アメリカとの違いにびっくりしたんです",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "TactoTek® Expands Operations in Japan, Wins Tokyo Metropolitan Government Subsidy for Green Transformation Technology",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "TactoTek opens offices in Tokyo, Japan, to support licensees, OEMs, and brands.",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Metropolitan Government has awarded TactoTek a subsidy for green transformation technology.",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "TactoTek exhibits smart surface solutions at SusHi Tech Tokyo 2024.",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "Oulu, Finland and Tokyo, Japan – 16th May 2024 –",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": ", today announced that the company has expanded its operations in Japan and formed TactoTek KK with offices in Tokyo, from which it will serve Japan and other Asia-Pacific markets. In conjunction with expanding its presence in Japan, TactoTek has been selected to receive a Tokyo Metropolitan Government subsidy for green technology transformation.",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "TactoTek licenses its in-mold structural electronics (IMSE®) technology to companies that design and manufacture IMSE parts for their customers. The company has strong business relationships in Japan, including several licensees, and investors such as Cornes and Marklines.",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": ".: “TactoTek’s IMSE technology is transformational: it enables design innovation for OEMs, offers meaningful advances in environmental performance, and supports creating advanced manufacturing jobs in Japan.”",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "With its growing presence in Japan, TactoTek will support licensees and work directly with OEMs and brands to facilitate their adoption of IMSE technology in automotive and other industries.",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": ", TactoTek SVP Sales and Business Development, has relocated to Tokyo to expand TactoTek’s market presence:",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "“With accelerating interest in our IMSE technology across market segments, we are investing in our long-term presence in Japan to support our licensees and help OEMs and brands realize the full range of benefits of IMSE technology, from design innovation and simplifying supply chains, to step-function improvements in sustainability.”",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "熟成酒を“作品”に──日本酒の未来を切り拓く「AQUETHA」",
+    "url": "https://note.com/tacto_inc",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のデザインを変える」tacto板倉の目指す未来",
+    "url": "https://note.com/tacto_inc",
+    "pass": 3
+   },
+   {
+    "quote": "ヤングカンヌ日本代表に2年連続選出されカンヌライオンズで入賞したことを機に営業からクリエイティブへ転向",
+    "url": "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "pass": 3
+   },
+   {
+    "quote": "「ギョーザの永久改良に繋げていく」ことを掲げ、同じように餃子が張り付いてしまったフライパンを日本中から3000以上集め、研究",
+    "url": "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "pass": 3
+   },
+   {
+    "quote": "熟成酒を“作品”に──日本酒の未来を切り拓く「AQUETHA」",
+    "url": "https://note.com/tacto_inc/all",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のデザインを変える」tacto板倉の目指す未来",
+    "url": "https://note.com/tacto_inc/all",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "これによりOEMのデザイン革新が可能となり、環境性能の意義ある進歩を実現し、日本での先端製造業の雇用創出を支援します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本でのプレゼンスを強化することで、TactoTekはライセンス契約者をサポートし、自動車業界などでのIMSE技術の採用を直接OEMやブランドと協力して推進します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "TactoTekのSVPセールス兼ビジネス開発担当のSami Hyyryläinenは、市場プレゼンスの拡大のために東京に赴任し、「IMSE技術への市場の加速する関心に対応し、長期的な日本でのプレゼンスを構築し、ライセンス契約者をサポートし、OEMやブランドがIMSE技術によるデザイン革新、サプライチェーンの簡素化、持続可能性の飛躍的な向上など、全ての利点を実現する手助けをします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "TactoTek opens offices in Tokyo, Japan, to support licensees, OEMs, and brands.",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": ".: “TactoTek’s IMSE technology is transformational: it enables design innovation for OEMs, offers meaningful advances in environmental performance, and supports creating advanced manufacturing jobs in Japan.”",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "With its growing presence in Japan, TactoTek will support licensees and work directly with OEMs and brands to facilitate their adoption of IMSE technology in automotive and other industries.",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "“With accelerating interest in our IMSE technology across market segments, we are investing in our long-term presence in Japan to support our licensees and help OEMs and brands realize the full range of benefits of IMSE technology, from design innovation and simplifying supply chains, to step-function improvements in sustainability.”",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "tacto Inc. | Experience Design Consultancy — 札幌のブランディング会社に新卒入社後、3年勤務したのち、2023年にtactoに入社。 WEBデザインやグラフィックデザイン、CI・VIデザイン、イラストなどを手がける。 クライアントの個性を引き出せるようなコミュニケーションを心がけている。",
+    "url": "https://tacto-inc.com/whoweare.html",
+    "pass": 3
+   },
+   {
+    "quote": "tacto Inc. | Experience Design Consultancy — 弊社のWEBサイト\"tacto Inc.\"がA' Design Award 2024のWebsite and Web Design部門においてBronzeを受賞いたしました。 A’ Design Award 2023.11.7",
+    "url": "https://tacto-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TactoTek® 日本における事業を拡大し、東京都政府から環境技術の補助... — May 16, 2024 · 日本でのプレゼンスを強化することで、TactoTekはライセンス契約者をサポートし、自動車業界などでのIMSE技術の採用を直接OEMやブランドと協力し ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のデザインを変える」tacto板倉の目指す未来。｜tacto Inc. — Sep 19, 2023 · tacto共同創業者でデザイナーの板倉隼はアメリカでデザインを学び、約10年現地でデザイナーとして活動したのち、「日本のデジタルデザインがダサい」という危機感から帰国を決意。 そこにはどのような想いがあるのでしょうか。",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "京セラがTactoTekへ500万ユーロを出資、戦略的パートナーシップに参加... — Jan 9, 2025 · 京セラ株式会社の触覚伝達複合技術「HAPTIVITY® i」において技術ライセンスパートナーであるTactotek社が2025年1月8日（米国時間）にプレスリリ",
+    "url": "https://www.kyocera.co.jp/newsroom/news/2025/002631.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto – The AI for Industrial Procurement — “With Tacto, we can automatically create cost models from raw material, energy and labor costs, which gives us cost transparency across all articles — this reduces the preparation effort for negotiations by around 75%.”",
+    "url": "https://www.tacto.ai/en",
+    "pass": 3
+   },
+   {
+    "quote": "TactoTek® Expands Operations in Japan, Wins Tokyo ... — TactoTek opens offices in Tokyo, Japan, to support licensees, OEMs, and brands. Tokyo Metropolitan Government has awarded TactoTek a subsidy for green transformation technology.",
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto – The AI for Industrial Procurement — “With Tacto, we can automatically create cost models from raw material, energy and labor costs, which gives us cost transparency across all articles — this reduces the preparation effort for negotiations by around 75%.”",
+    "url": "https://www.tacto.ai/us",
+    "pass": 3
+   },
+   {
+    "quote": "tacto Inc. | Experience Design Consultancy — 私たちはフルスクラッチからエクスペリエンスデザインを構築するクリエイティブチームであり、ビジネスを予定調和から解放しポジティブなインパクトを与えるデザインコンサルティング会社です。",
+    "url": "https://tacto-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "tacto B2B Case Studies & Customer Successes — See how tacto solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/tacto",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: VEMAG Maschinenbau achieves €430,000 in savings ... — VEMAG Maschinenbau partnered with tacto (Computer Software) to solve key challenges. \"VEMAG Maschinenbau saves €430,000 in 8 months with tacto\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/tacto/case-study/vemag-maschinenbau-saves-430000-in-8-months-with-tacto",
+    "pass": 3
+   },
+   {
+    "quote": "17 tacto Case Studies, Success Stories, & Customer Stories ... — tacto has a 4.8/5 star rating. Learn what their customers think, get 17 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto – The AI for Industrial Procurement — “With Tacto, we're unlocking potential that had remained hidden due to the complexity of our data. At the same time, Tacto is accelerating our AI transformation and the lasting professionalization of our procurement function.”",
+    "url": "https://www.tacto.ai/en",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto – The AI for Industrial Procurement — Together, we’re shaping the future of procurement and American manufacturing. American manufacturing is a $3 trillion engine, and it is rebuilding itself right now. It builds the physical world – from complex machinery to life-saving medical technology. AI has been changing knowledge work for years. Now it is reaching the plant floor.",
+    "url": "https://www.tacto.ai/us",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto 2026 Company Profile: Valuation, Funding & Investors ...Tacto - 2026 Company Profile, Team, Funding, Competitors ...Tacto Revenue 2025: $11.4M Est. - getlatka.comTacto Technology – Performance Metrics & Competitor Intelligen…Tacto: Funding, Investors & Team (Nov 2026) - FundedIQTacto — Company Profile & Funding | Indexed.vcTacto: Funding, Team & Investors | Startup Intros — Information on va",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto - 2026 Company Profile, Team, Funding, Competitors ...Tacto Revenue 2025: $11.4M Est. - getlatka.comTacto Technology – Performance Metrics & Competitor Intelligen…Tacto: Funding, Investors & Team (Nov 2026) - FundedIQTacto — Company Profile & Funding | Indexed.vcTacto: Funding, Team & Investors | Startup Intros — May 15, 2026 · Tacto has raised $59.7M in funding from investors like UVC Partn",
+    "url": "https://tracxn.com/d/companies/tacto/__qKsqtHsg6R_5aTTVf4ZYM4w3gbNNc3NG3iapk6nCBtc",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto Revenue 2025: $11.4M Est. - getlatka.com — Oct 30, 2026 · How many employees does Tacto have? Tacto has 104 employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto Technology – Performance Metrics & Competitor Intelligen… — Discover Tacto Technology's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/tacto-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto: Funding, Investors & Team (Nov 2026) - FundedIQ — Tacto has raised $59.6M across 2 funding rounds on record, the most recent a Series A of $53.8M announced in Dec 2023. That round is above the $6.0M median round size for Artificial Intelligence companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/tacto-tacto-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto has 110 total employees.",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tacto’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Tacto is",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto Revenue 2025: $11.4M Est.",
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto has not published its revenue. GetLatka estimates it at about $11.4M a year (September 2025).",
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto has 104 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Tacto's revenue?",
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Tacto's revenue at about",
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tacto have?",
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Harrison Jesse Smith, Qingyuan Zheng, Yifei Li, Somya Jain, Jessica K. Hodgins",
+    "url": "https://research.facebook.com/publications/tacto-a-fast-flexible-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "tacto Inc.｜note tactoはストーリーのある体験をつくる エクスペリエンスデザインファームです。 https://tacto-inc.com/",
+    "url": "https://note.com/tacto_inc",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のデザインを変える」tacto板倉の目指す未来。｜tacto Inc. Sep 19, 2023 · tacto共同創業者でデザイナーの板倉隼はアメリカでデザインを学び、約10年現地でデザイナーとして活動したのち、「日本のデジタルデザインがダサい」という危機感から帰国を決意。 そこにはどのような想いがあるのでしょうか。",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "アイデアを盗むためのカンヌ鑑賞法｜tacto Inc. Jun 14, 2024 · 5月はカンヌライオンズを切り口に、 日経デザイン 編集長・山下奉仁さんをお招きし、tacto共同創業者の中島琢郎と共に「ビジネスに生きるクリエイティブの見方」についてディスカッションを行いました。",
+    "url": "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "pass": 3
+   },
+   {
+    "quote": "tacto Inc.の記事一覧｜note（ノート） tacto Inc.さんの記事一覧です。 生成AIと理系的思考力でアイデアを生むインターンに取材してみた",
+    "url": "https://note.com/tacto_inc/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "明日も、10年後も、誰かに届くデザインを。Design Vision 2026",
+    "url": "https://note.com/tacto_inc",
+    "pass": 3
+   },
+   {
+    "quote": "tactoのPodcast「体験採集」100回記念！印象深いベストエピソード",
+    "url": "https://note.com/tacto_inc",
+    "pass": 3
+   },
+   {
+    "quote": "熟成酒を“作品”に──日本酒の未来を切り拓く「AQUETHA」",
+    "url": "https://note.com/tacto_inc",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIと理系的思考力でアイデアを生むインターンに取材してみた",
+    "url": "https://note.com/tacto_inc",
+    "pass": 3
+   },
+   {
+    "quote": "デザインルネサンスの時代がくる？ Figma Config2024キーワード5選",
+    "url": "https://note.com/tacto_inc",
+    "pass": 3
+   },
+   {
+    "quote": "待ち遠しくなる社員旅行とは？あるデザインファームの答え",
+    "url": "https://note.com/tacto_inc",
+    "pass": 3
+   },
+   {
+    "quote": "「デザイン議論に４時間」上流工程の経験がもたらした変化",
+    "url": "https://note.com/tacto_inc",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のデザインを変える」tacto板倉の目指す未来。",
+    "url": "https://note.com/tacto_inc",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のデザインを変える」tacto板倉の目指す未来。｜tacto Inc.",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のデザインを変える」tacto板倉の目指す未来。",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "は「日本のデザインを変える」という創業者の考えから設立した、デザインファームです。",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "tacto共同創業者でデザイナーの板倉隼はアメリカでデザインを学び、約10年現地でデザイナーとして活動したのち、「日本のデジタルデザインがダサい」という危機感から帰国を決意。",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "そこにはどのような想いがあるのでしょうか。",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "板倉の過去と今、そしてtactoで目指す未来について聞いた、約1万字のロングインタビューです。",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "tacto株式会社 Co-Founder / Creative Director",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "20年間、アメリカのシアトルで生活。アメリカではシアトルに本社を持つ、Deloitte DigitalのCreative Directorとして、様々なビッグクライアントのデジタルトランスフォーメーションを手掛けた。日本のデザインを変えるべく、2017年に帰国。2020年に共同代表の中島と共にtacto設立。",
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "pass": 3
+   },
+   {
+    "quote": "アイデアを盗むためのカンヌ鑑賞法｜tacto Inc.",
+    "url": "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "pass": 3
+   },
+   {
+    "quote": "毎年6月にフランスのカンヌで行われる世界最大規模の国際的なクリエイティビティの祭典、カンヌライオンズ。",
+    "url": "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "pass": 3
+   },
+   {
+    "quote": "長らく広告の祭典でしたが、2011年より「Festival of Creativity」と名称を変更。現在は広告に限らず、ビジネスやソーシャルアクションなど、対象となるジャンルの幅は広がり続け、ビジネスケースの見本市となりつつあります。",
+    "url": "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "pass": 3
+   },
+   {
+    "quote": "作品に注目する際、表現の面白さや手法の鮮やかさに焦点が当てられることが多いですが、作品の根底にある課題やテーマを「見抜く」視点を持つことで、ビジネスにも生かすことが可能です。",
+    "url": "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "pass": 3
+   },
+   {
+    "quote": "が月1回開催する「De/sign Night」は、デザインを「ほどく」トークイベント。5月はカンヌライオンズを切り口に、",
+    "url": "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "pass": 3
+   },
+   {
+    "quote": "編集長・山下奉仁さんをお招きし、tacto共同創業者の中島琢郎と共に「ビジネスに生きるクリエイティブの見方」についてディスカッションを行いました。",
+    "url": "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "pass": 3
+   },
+   {
+    "quote": "参加倍率は5倍超と、多くの関心を集めた本イベント。残念ながら参加がかなわなかった方に向けて、内容の一部を紹介します。",
+    "url": "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "pass": 3
+   },
+   {
+    "quote": "早稲田大学卒業後、日経ホーム出版社に入社。『日経トレンディ』記者として食品・飲料、小売り業界などを担当。2007年に日経トレンディネットの創刊に参画。16年に日経トレンディ副編集長、18年に日経クロストレンド副編集長。2023年4月から現職。",
+    "url": "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "pass": 3
+   },
+   {
+    "quote": "明日も、10年後も、誰かに届くデザインを。Design Vision 2026",
+    "url": "https://note.com/tacto_inc/all",
+    "pass": 3
+   },
+   {
+    "quote": "tactoのPodcast「体験採集」100回記念！印象深いベストエピソード",
+    "url": "https://note.com/tacto_inc/all",
+    "pass": 3
+   },
+   {
+    "quote": "熟成酒を“作品”に──日本酒の未来を切り拓く「AQUETHA」",
+    "url": "https://note.com/tacto_inc/all",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIと理系的思考力でアイデアを生むインターンに取材してみた",
+    "url": "https://note.com/tacto_inc/all",
+    "pass": 3
+   },
+   {
+    "quote": "デザインルネサンスの時代がくる？ Figma Config2024キーワード5選",
+    "url": "https://note.com/tacto_inc/all",
+    "pass": 3
+   },
+   {
+    "quote": "待ち遠しくなる社員旅行とは？あるデザインファームの答え",
+    "url": "https://note.com/tacto_inc/all",
+    "pass": 3
+   },
+   {
+    "quote": "「デザイン議論に４時間」上流工程の経験がもたらした変化",
+    "url": "https://note.com/tacto_inc/all",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のデザインを変える」tacto板倉の目指す未来。",
+    "url": "https://note.com/tacto_inc/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tacto (@Tactoscope) / Posts / X Tacto (@Tactoscope) - Posts - Creator of Firebird webcomic for @SparklerMonthly , Inner Edge webcomic and a handful of short comi... | X (formerly Twitter)",
+    "url": "https://x.com/Tactoscope",
+    "pass": 3
+   },
+   {
+    "quote": "tacto (@tacto_0) / X 東京喰種が自分史上最高の漫画だと思っています。 日常垢は @tacto_1 。 tiktok29万フォロワー感謝！ → https://t.co/r8WllKXS4L 私の整体＆整骨院は下のURLから飛べます",
+    "url": "https://x.com/tacto_0",
+    "pass": 3
+   },
+   {
+    "quote": "たくと (@tacto_1) / X たくと @tacto_1 Aug 23 41歳珍しく今年2回目の体操 前半の動画は抱え込みになったやつで、後半は伸身ドッペルに挑戦するもやはり体幹が足りずすっぽ抜け (抜きも早かった) 着地で膝をやらかし負傷 これ以上無理なので即帰宅となりました 00:00",
+    "url": "https://x.com/tacto_1",
+    "pass": 3
+   },
+   {
+    "quote": "tacto Inc. / Experience design firm (@tacto_inc) / X tactoは目黒にあるデザインファームです。 お知らせや日常、デザインのことをぽつりとつぶやきます。 中の人は、デザイナー👩🦰と採用広報👩が運営中｜ Instagram：https://t.co/aM98aNBHP8 #企業公式相互フォロー",
+    "url": "https://x.com/tacto_inc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tacto - LinkedIn Powered by Tacto Intelligence, you see your procurement operations at a glance: KPIs, suppliers, and real-time order and material movements.",
+    "url": "https://www.linkedin.com/company/tactotechnology",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto: Jobs | LinkedIn Tacto | 19,718 followers on LinkedIn. Stronger AI. Stronger Procurement. Stronger Company. Stronger Future. | The world is getting more complex and dynamic than ever before.",
+    "url": "https://www.linkedin.com/company/tactotechnology/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto | LinkedIn TACTO is a technology consulting and software development company built from time -- time spent in the field, on the job, and around the globe. We are a growing team of 40+ technologists who...",
+    "url": "https://in.linkedin.com/company/tacto-in",
+    "pass": 3
+   },
+   {
+    "quote": "André Petry – Co-Founder & CEO at Tacto | LinkedInTacto Nutrição Animal | LinkedInJohannes Groll - Co-Founder & MD at Tacto | We build AI that ...TACTO AGENCIA - LinkedIn Co-Founder & CEO at Tacto · Berufserfahrung: Tacto · Ausbildung: Technische Universität München · Standort: Metropolregion München · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von... Tacto Nutrição Animal | 2.680 segui",
+    "url": "https://de.linkedin.com/in/andrepetry",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TACTO | Roma Norte - FacebookTacto | Loma Plata - FacebookTACTO: A Fast, Flexible, and Open-source Simulator for High ...Publications - Meta ResearchGrupo Senderismo Valencia y actividades de montañamaternidad y lactancia. | FacebookTacto | Lima - Facebook Este Día de Muertos, vístete como te sientas mejor. En Tacto creemos que la tradición y la comodidad van de la mano, por eso nuestras prendas e",
+    "url": "https://www.facebook.com/officialTACTO/",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto | Loma Plata - Facebook Oct 22, 2026 · En Tacto te ofrecemos la solución: espejos cortados exactamente a la medida y forma que necesitas para tu espacio. Transforma tu sala, baño o dormitorio con un espejo que se adapte perfectamente a tus paredes y a tu estilo.",
+    "url": "https://www.facebook.com/tactoglass/",
+    "pass": 3
+   },
+   {
+    "quote": "TACTO: A Fast, Flexible, and Open-source Simulator for High ... In this paper, we detail the principles that drove the implementation of TACTO and how they are reflected in its architecture.",
+    "url": "https://research.facebook.com/publications/tacto-a-fast-flexible-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Tacto - 久しぶりの投稿になりました 卒入シーズンも終わって、皆さん... 久しぶりの投稿になりました😣 卒入シーズンも終わって、皆さんほっと落ち着いた頃でしょうか。 Tactoも平日はゆっくりとした日も出てくる様になりました。 なので、少しお店を改造、、、。 ついに熊澤念願のプロジェクターがつきました！",
+    "url": "https://www.facebook.com/tacto64/posts/久しぶりの投稿になりました卒入シーズンも終わって皆さんほっと落ち着いた頃でしょうかtactoも平日はゆっくりとした日も出てくる様になりましたなので少しお店を改造/929922363787020/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・本文）": [
+   {
+    "quote": "TACTO: A Fast, Flexible, and Open-source Simulator for High-Resolution Vision-based Tactile Sensors - Meta Research",
+    "url": "https://research.facebook.com/publications/tacto-a-fast-flexible-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "TACTO: A Fast, Flexible, and Open-source Simulator for High-Resolution Vision-based Tactile Sensors",
+    "url": "https://research.facebook.com/publications/tacto-a-fast-flexible-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "IEEE Robotics and Automation Letters (RA-L)",
+    "url": "https://research.facebook.com/publications/tacto-a-fast-flexible-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Simulators perform an important role in prototyping, debugging, and benchmarking new advances in robotics and learning for control. Although many physics engines exist, some aspects of the real world are harder than others to simulate. One of the aspects that have so far eluded accurate simulation is touch sensing. To address this gap, we present TACTO – a fast, flexible, and open-source simulator",
+    "url": "https://research.facebook.com/publications/tacto-a-fast-flexible-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Featured Publications",
+    "url": "https://research.facebook.com/publications/tacto-a-fast-flexible-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "A Method for Animating Children’s Drawings of the Human Figure",
+    "url": "https://research.facebook.com/publications/tacto-a-fast-flexible-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Harrison Jesse Smith, Qingyuan Zheng, Yifei Li, Somya Jain, Jessica K. Hodgins",
+    "url": "https://research.facebook.com/publications/tacto-a-fast-flexible-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Simulation and Retargeting of Complex Multi-Character Interactions",
+    "url": "https://research.facebook.com/publications/tacto-a-fast-flexible-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tacto.ai/en",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/67e27c34f4bd1fe339f6ba94/6aa6bc889d104f28ed937699_2D11495359-140203-manufacturing-1129%20(1).avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://tacto-inc.com/whoweare.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tacto-inc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.catonetworks.com/ja/news/sase-press-release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tacto-inc.com/whoweare.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tacto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tacto/case-study/vemag-maschinenbau-saves-430000-in-8-months-with-tacto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/443068-39",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tacto/__qKsqtHsg6R_5aTTVf4ZYM4w3gbNNc3NG3iapk6nCBtc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/tacto.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/tacto-technology",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tacto_inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tacto_inc/n/ne9841305ba28",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tacto_inc/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Tactoscope",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tacto_0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tacto_1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tacto_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tactotechnology",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tactotechnology/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/tacto-in",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/andrepetry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/officialTACTO/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tactoglass/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://research.facebook.com/publications/tacto-a-fast-flexible-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/tacto_0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tacto64/posts/久しぶりの投稿になりました卒入シーズンも終わって皆さんほっと落ち着いた頃でしょうかtactoも平日はゆっくりとした日も出てくる様になりましたなので少しお店を改造/929922363787020/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tacto 日本 導入",
+   "results": [
+    "https://tacto-inc.com/whoweare.html",
+    "https://tacto-inc.com/",
+    "https://prtimes.jp/main/html/rd/p/000000097.000064519.html",
+    "https://note.com/tacto_inc/n/ne9841305ba28",
+    "https://www.kyocera.co.jp/newsroom/news/2025/002631.html",
+    "https://www.brik.co.jp/production/tacto",
+    "https://www.marklines.com/ja/release/20230616.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tacto 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.catonetworks.com/ja/news/sase-press-release/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://atc.azbil.com/",
+    "https://www.tacthome.co.jp/corporate/officelist/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://ibd-net.co.jp/businessdb-01/contractpart/10ea/ea_11/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Tacto Japan",
+   "results": [
+    "https://tacto-inc.com/whoweare.html",
+    "https://www.tacto.ai/en",
+    "https://www.tactotek.com/resources/tactotek-expands-operations-in-japan-wins-tokyo-metropolitan-government-subsidy-for-green-transformation-technology?hss_channel=lcp-2924966",
+    "https://www.tacto.ai/us",
+    "https://tacto-inc.com/",
+    "https://www.tactotek.com/",
+    "https://jp.linkedin.com/company/tacto-inc",
+    "https://ja.wikipedia.org/wiki/TCT_Japan"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Tacto manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/tacto",
+    "https://www.casestudies.com/company/tacto/case-study/vemag-maschinenbau-saves-430000-in-8-months-with-tacto",
+    "https://www.featuredcustomers.com/vendor/tacto/case-studies",
+    "https://www.tacto.ai/en",
+    "https://www.tacto.ai/us",
+    "https://www.featuredcustomers.com/vendor/tacto",
+    "https://www.linkedin.com/pulse/tactos-path-from-idea-millions-sales-go-market-strategy-tausch-3bavf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tacto white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tacto founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/443068-39",
+    "https://tracxn.com/d/companies/tacto/__qKsqtHsg6R_5aTTVf4ZYM4w3gbNNc3NG3iapk6nCBtc",
+    "https://getlatka.com/companies/tacto.ai",
+    "https://compworth.com/company/tacto-technology",
+    "https://fundediq.co/tacto-tacto-ai-funding/",
+    "https://indexed.vc/companies/tacto",
+    "https://startupintros.com/orgs/tacto"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tacto",
+   "results": [
+    "https://note.com/tacto_inc",
+    "https://note.com/tacto_inc/n/ne9841305ba28",
+    "https://note.com/tacto_inc/n/ne5dd65fb179e",
+    "https://note.com/tacto_inc/all",
+    "https://note.com/tacto_inc/n/n30a08f6b6a57?hl=en",
+    "https://note.com/tacto_inc/n/n30a08f6b6a57",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tacto",
+   "results": [
+    "https://x.com/Tactoscope",
+    "https://x.com/tacto_0",
+    "https://x.com/tacto_1",
+    "https://x.com/tacto_inc",
+    "https://x.com/tacto_0/status/2076912594628313257",
+    "https://x.com/tacto_0/status/2103648942781276513",
+    "https://x.com/tacto_0/status/2117833588737753412"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tacto",
+   "results": [
+    "https://www.linkedin.com/company/tactotechnology",
+    "https://www.linkedin.com/company/tactotechnology/jobs",
+    "https://in.linkedin.com/company/tacto-in",
+    "https://de.linkedin.com/in/andrepetry",
+    "https://br.linkedin.com/company/tacto-nutrição-animal",
+    "https://www.linkedin.com/in/johannes-groll/en",
+    "https://www.linkedin.com/company/tacto-agencia"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tacto",
+   "results": [
+    "https://www.facebook.com/officialTACTO/",
+    "https://www.facebook.com/tactoglass/",
+    "https://research.facebook.com/publications/tacto-a-fast-flexible-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/",
+    "https://business.facebook.com/groups/254307798567205/",
+    "https://www.facebook.com/tacto.peru/",
+    "https://business.facebook.com/groups/950834429220426/",
+    "https://research.facebook.com/publications/tacto-a-fast,-flexible,-and-open-source-simulator-for-high-resolution-vision-based-tactile-sensors/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tacto note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://tacto-inc.com/whoweare.html",
+    "https://ir.note.jp/en/aboutus"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tacto X 投稿",
+   "results": [
+    "https://x.com/tacto_0",
+    "https://t.co/r8WllKXkfd",
+    "https://app.tacto.ai/home",
+    "https://www.facebook.com/tacto64/posts/久しぶりの投稿になりました卒入シーズンも終わって皆さんほっと落ち着いた頃でしょうかtactoも平日はゆっくりとした日も出てくる様になりましたなので少しお店を改造/929922363787020/",
+    "https://x.com/hpj_newsroom/status/2103032930369221082",
+    "https://yorozoonews.jp/article/16980298",
+    "https://help.x.com/ja/using-x/how-to-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部38頁・検索12回）"
+ }
+}

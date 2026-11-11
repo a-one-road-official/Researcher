@@ -1,0 +1,1077 @@
+{
+ "name": "H3X",
+ "aliases": [],
+ "context": "旧営業リスト｜Aerospace｜リマイン1",
+ "researched_at": "2026-11-11T02:05:09.940270+00:00",
+ "official_url": "https://www.h3x.tech/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email:",
+    "value": "Log in to view email",
+    "url": "https://sossecinc.com/company/h3x-technologies-inc/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Address:",
+    "value": "410 S Arthur Ave, Louisville, CO, 80027",
+    "url": "https://sossecinc.com/company/h3x-technologies-inc/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "All IMD products can be used as either motors or generators.",
+    "url": "https://www.h3x.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "From the sea to the sky, our products unlock major benefits for weight-sensitive, volume-constrained, and high power applications.",
+    "url": "https://www.h3x.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "H3X is proud to design, develop, and manufacture all our products right here in the USA. We are committed to revitalizing domestic manufacturing, engineering leadership, and rapid technology innovation that once fueled the golden age of aerospace in this country.",
+    "url": "https://www.h3x.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 13, 2026",
+    "url": "https://www.h3x.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "At the core of our organization are principles that guide every action and decision we make. These values define our story, our problem-solving approach, and are the foundation for how we operate as a company.",
+    "url": "https://www.h3x.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our founders have deeply technical backgrounds and are in the trenches solving problems with the rest of the team. Their relentless dedication and passion for engineering excellence drive our mission to create industry-shifting technology and build H3X into a generational company.",
+    "url": "https://www.h3x.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "We are a full-stack engineering and manufacturing company. At our state-of-the-art 17,000 sq. ft. facility in Louisville, CO, we have an advanced in-house CNC machine shop, power electronics lab, dynamometer test cells, and a pilot production line—all designed to develop, build, and rigorously test our motors.",
+    "url": "https://www.h3x.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our team brings together the best minds from aerospace, defense, and motorsports with deep knowledge in electric machines, power electronics, material science, and advanced manufacturing. We take pride in our multidisciplinary engineering approach, relentless dedication, and Skunkworks-style execution.",
+    "url": "https://www.h3x.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "H3X is a skunkworks-style team laser-focused on building exceptional products through advanced engineering, vertical integration, and lightning-fast execution.",
+    "url": "https://www.h3x.tech/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We believe the best engineering teams are small and highly specialized, but also multidisciplinary. Integrated motor drives are complex, multi-physics systems requiring tight coordination across thermal, mechanical, electrical, and electromagnetic domains. To achieve a truly co-optimized and integrated solution, a cohesive and unified approach is necessary.",
+    "url": "https://www.h3x.tech/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Every product undergoes rigorous validation in our custom-built in-house dyno test cells. We also leverage environmental chambers to test performance across a wide range of pressures and temperatures, ensuring reliability in the harshest conditions.",
+    "url": "https://www.h3x.tech/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Small, elite team. Vertical integration. Hardware-rich test culture. Critical path focused. We’re structured to move from concept to production as fast as possible. We have gone from idea to shipping product in less than 2 months.",
+    "url": "https://www.h3x.tech/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Healthcare",
+    "url": "https://www.h3x.tech/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Full medical, dental, and vision coverage with premium plans + gym membership stipend.",
+    "url": "https://www.h3x.tech/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are an equal opportunity employer offering competitive salaries, comprehensive health benefits and equity packages.",
+    "url": "https://www.h3x.tech/open-positions",
+    "pass": 1
+   },
+   {
+    "quote": "Propulsion Technologies",
+    "url": "https://sossecinc.com/company/h3x-technologies-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "From spreadsheets to scale: H3X & Manufacturo case study",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Move from Excel/Word/manual prototype tracking to repeatable, traceable, scalable production",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "H3X's markets span commercial and defense aviation, marine, mining, oil and gas, and other mobile heavy industry sectors where motor weight and efficiency directly impact vehicle operational capability. Many of their products serve both commercial markets and defense sectors simultaneously, making them applicable across virtually any demanding real-world environment.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "The challenge: Improving revision control, traceability and build tracking",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "In their early days, H3X's documentation was kept in Excel and Word files, which made the revision control tedious and unreliable, and inventory was tracked manually. Build repeatability was surfacing as a problem despite the team not yet shipping a single customer unit.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "“Using Excel sheets and Word documents, we had no real revision control, no consolidated database of what processes we’d run. We had no traceability on the characteristics of parts and what we were using.”",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "The challenge was to modernize and streamline the documentation process in a way that would be scalable and match the complexity of H3X's manufacturing process.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "The solution: Replacing spreadsheets with a comprehensive manufacturing platform",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Eric Maciolek, Founder of H3X, performed an extensive analysis of production management solutions, including MES and ERP options, and landed on Manufacturo as the best fit for the company's needs. Manufacturo's features checked all the key requirements boxes, including embedded quality, exceptional traceability, and a structured change management process.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Usability was particularly important for H3X, since their shop floor consisted mostly of highly skilled labor. Information entered at workstations was the backbone of data throughout the production system, which in turn drove key business decisions. Their MES had to easily facilitate technicians' data entry with clear rules and workflows, with no room for ambiguity, and without extensive training.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "“What sold me on Manufacturo was the technician interface. It had to make it so easy for them to do the right thing and populate the right data—with the least amount of explanation or training.”",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership in practice",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "“The Manufacturo team has been incredibly responsive. Their help center portal is probably the best we’ve seen across our entire tech stack—clear documentation, a real feature roadmap, and visibility into what other customers are working on. I feel like our growth is aligned.”",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "The results: A full visibility into production data",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Before using Manufacturo, parts and materials were tracked over spreadsheets. Now, H3X has a live inventory master tied directly into process plans, giving them real-time visibility into what was on hand and how it was being consumed, reducing losses and improving inventory utilization across the operation.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "This data has clear value for a manufacturer producing high-value, high-variability products with material costs in constant flux. Cost overruns are visible in real time. Variance across assemblies can be analyzed. The production team has accurate numbers to work from, not estimates. Other results include:",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Reduced inventory losses and improved inventory utilization across the operation",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Pedigree applies the right level of process control to products at different maturity levels, letting H3X move fast in development while keeping full production visibility",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "R&D knowledge carries directly into production rather than being rebuilt from scratch or siloed",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Every unit fully traced, capturing actual materials consumed and labor time recorded against process steps",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "“With this level of traceability, you can get labor costs and as-built BOM cost for every product you make. Most platforms don’t allow this—they don’t have the depth of data and they make bulk assumptions. We can see the variance, we can see cost overruns, and that feeds our operations team live.”",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "One feature that H3X is taking real advantage of is pedigree. It's a mechanism that applies different levels of rigor to processes so that rules of production match engineering intent. H3X uses pedigree control to ensure the right level of process control goes into development and production, while keeping workflows and records in the same system.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "With significant supply chain exposure in materials like copper, neodymium, samarium, and cobalt, H3X must not only quickly identify and redress problems but also track how fluctuations in those material indices flow through to per-unit costs, which is something Manufacturo addresses with custom built reports.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "“Pedigree is key to allowing companies like ours to scale. If you apply the same level of controls you use on a mature product to something brand new, you’ll never build it. Manufacturo lets us move fast in development and still have the visibility we need.”",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "H3X has an ambitious growth trajectory ahead, building a dedicated manufacturing facility to support a production ramp from roughly 200 units today to 2,000 annually by 2029.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "President & Co-Founder",
+    "url": "https://growjo.com/company/H3X_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "H3X manufactures high performance integrated motor drives for electric aircraft. Our first product, the HPDM-250, is a 250kW integrated motor drive in a 15kg package.",
+    "url": "https://growjo.com/company/H3X_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Apollo.io API Pricing",
+    "url": "https://growjo.com/company/H3X_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies Company Profile: Financials, Valuation, and Growth | PrivCo",
+    "url": "https://www.privco.com/company/h3x-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "No AI Training or Automated Data Extraction.",
+    "url": "https://www.privco.com/company/h3x-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Use of this page or any content or data made available by PrivCo for scraping, crawling, indexing, caching, extracting, copying, reproducing, storing, or for training or developing any artificial intelligence or machine learning system is strictly prohibited without prior written consent. All access to and use of this page and PrivCo's services are subject to the PrivCo Terms of Use:",
+    "url": "https://www.privco.com/company/h3x-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.privco.com/terms-of-use",
+    "url": "https://www.privco.com/company/h3x-technologies",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "H3X manufactures the world's most power-dense integrated motor drives (IMDs) ranging from 30kW to 1MW+ for aerospace, defense, marine, and heavy industry.",
+    "url": "https://www.h3x.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "mining vehicles, e-fracing, industrial heat pumps, applied hvac, MW-class power generation",
+    "url": "https://www.h3x.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "H3X is proud to design, develop, and manufacture all our products right here in the USA. We are committed to revitalizing domestic manufacturing, engineering leadership, and rapid technology innovation that once fueled the golden age of aerospace in this country.",
+    "url": "https://www.h3x.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Compact Diesel Genset for Hybrid Marine and Industrial Applications",
+    "url": "https://www.h3x.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2020 by a team of engineers, H3X is an advanced technology and electric motor manufacturing company based in the greater Denver, Colorado area.",
+    "url": "https://www.h3x.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "decarbonize the marine and industrial sectors",
+    "url": "https://www.h3x.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "We are a full-stack engineering and manufacturing company. At our state-of-the-art 17,000 sq. ft. facility in Louisville, CO, we have an advanced in-house CNC machine shop, power electronics lab, dynamometer test cells, and a pilot production line—all designed to develop, build, and rigorously test our motors.",
+    "url": "https://www.h3x.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our team brings together the best minds from aerospace, defense, and motorsports with deep knowledge in electric machines, power electronics, material science, and advanced manufacturing. We take pride in our multidisciplinary engineering approach, relentless dedication, and Skunkworks-style execution.",
+    "url": "https://www.h3x.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "decarbonize the marine and industrial sectors",
+    "url": "https://www.h3x.tech/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond the mountains, Colorado offers a thriving tech and aerospace ecosystem, top-tier music and food scenes, and a culture focused on living life to the fullest. There is no better place to live, work, and play.",
+    "url": "https://www.h3x.tech/careers",
+    "pass": 1
+   },
+   {
+    "quote": "5 Industrial Way, Suite 2A",
+    "url": "https://sossecinc.com/company/h3x-technologies-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "From spreadsheets to scale: H3X & Manufacturo case study",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "High-performance electric motors, specifically integrated motor drives (IMDs) with co-optimized inverters, for aerospace, defense, marine, and heavy industry.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Grown from 20 to 60+ employees, majority in manufacturing",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "The challenge was to modernize and streamline the documentation process in a way that would be scalable and match the complexity of H3X's manufacturing process.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "The solution: Replacing spreadsheets with a comprehensive manufacturing platform",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Usability was particularly important for H3X, since their shop floor consisted mostly of highly skilled labor. Information entered at workstations was the backbone of data throughout the production system, which in turn drove key business decisions. Their MES had to easily facilitate technicians' data entry with clear rules and workflows, with no room for ambiguity, and without extensive training.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "This data has clear value for a manufacturer producing high-value, high-variability products with material costs in constant flux. Cost overruns are visible in real time. Variance across assemblies can be analyzed. The production team has accurate numbers to work from, not estimates. Other results include:",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom analytics extended through the API and data exports, turning the manufacturing record into operational intelligence across the business",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "H3X is already extending that capability further, running custom analytics through the API and data exports—turning Manufacturo's deep manufacturing record into operational intelligence that feeds decisions across the business.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "H3X has an ambitious growth trajectory ahead, building a dedicated manufacturing facility to support a production ramp from roughly 200 units today to 2,000 annually by 2029.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "The physical facility expansion is the next step in an infrastructure H3X has been constructing since 2023. By choosing Manufacturo early and configuring it to scale with them, H3X built a manufacturing foundation designed to move as fast as the business demands.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2020 by a team of engineers, H3X is an advanced technology and electric motor manufacturing company based in the greater Denver, Colorado area. Their mission is to become the world's leading supplier of advanced electric motors by 2030 to enable commercial electric aviation and regional air mobility at scale, bolster national security, and decarbonize the marine and industrial sectors.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturo is a manufacturing software platform built to unify quality, production, inventory, and compliance workflows into a single system of record. Designed for high-complexity manufacturing environments, it enables companies to move faster with fewer integrations, greater visibility, and stronger control - from prototype through scale-up and long-term lifecycle traceability.",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We want all our employees to take full advantage of everything that Colorado has to offer. Hit the slopes with a season pass to some of the best resorts in the world.",
+    "url": "https://www.h3x.tech/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Grown from 20 to 60+ employees, majority in manufacturing",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "20 → 60+ employees, same platform",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "R&D knowledge carries directly into production rather than being rebuilt from scratch or siloed",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies Revenue 2024: $7.6M Est.",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies revenue",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies has not published its revenue. GetLatka estimates it at about $7.6M a year (June 2024).",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies CEO, founders & employees",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Max Liben founded H3X Technologies in 2020 and runs it as CEO. H3X Technologies had 33 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "What is H3X Technologies' revenue?",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates H3X Technologies' revenue at about",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does H3X Technologies have?",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/H3X_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/H3X_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/H3X_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/H3X_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/H3X_Technologies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "News - H3X Technologies — News - H3X Technologies H3X Technologies https://www.h3x.tech > news",
+    "url": "https://www.h3x.tech/news",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies - LinkedIn — H3X Technologies - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/h3x-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies, Inc - SOSSEC, Inc. — H3X Technologies, Inc - SOSSEC, Inc. SOSSEC https://sossecinc.com > company > h3...",
+    "url": "https://sossecinc.com/company/h3x-technologies-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "DROP + EPOS H3X ゲーミングヘッドセット マイク付き ... — DROP + EPOS H3X ゲーミングヘッドセット マイク付き ... amazon.jp https://www.amazon.co.jp > DROP-H3X-ゲーミングヘッド...",
+    "url": "https://www.amazon.co.jp/DROP-H3X-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E3%83%AC%E3%82%B6%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E3%81%A8%E3%82%B9%E3%82%A8%E3%83%BC%E3%83%89%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/dp/B0BTKCZHHW",
+    "pass": 3
+   },
+   {
+    "quote": "Electrifying Planes, Ships, and Heavy Industry with H3X's ... — Electrifying Planes, Ships, and Heavy Industry with H3X's ... Origin Ventures https://www.originventures.com > blog",
+    "url": "https://www.originventures.com/blog/electrifying-planes-ships-and-heavy-industry-with-h3xs-electric-motors-why-we-invested-in-h3x",
+    "pass": 3
+   },
+   {
+    "quote": "From spreadsheets to scale: H3X & Manufacturo case study — From spreadsheets to scale: H3X & Manufacturo case study Manufacturo https://manufacturo.com > case-studies",
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies — H3X Technologies H3X Technologies https://www.h3x.tech",
+    "url": "https://www.h3x.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies Revenue 2024: $7.6M Est. — H3X Technologies Revenue 2024: $7.6M Est. GetLatka https://getlatka.com > companies > h3x",
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies: Revenue , Competitors, Alternatives - Growjo — H3X Technologies: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > H3X...",
+    "url": "https://growjo.com/company/H3X_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "H3X 2026 Company Profile: Valuation, Funding & Investors — H3X 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/459493-57",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies Company Profile - PrivCo — H3X Technologies Company Profile - PrivCo PrivCo https://www.privco.com > company",
+    "url": "https://www.privco.com/company/h3x-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "H3X Technologies - 2026 Company Profile & Team - Tracxn — H3X Technologies - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/h3x-technologies/__VxKVG4vxzKnJUbeIiePea0PuzsP0kBuodr_pgMFsyzU",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/H3X_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/H3X_Technologies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "H3X Technologies (@h3x_tech) / X H3X Technologies (@h3x_tech) / X X https://x.com > h3x_tech",
+    "url": "https://x.com/h3x_tech",
+    "pass": 3
+   },
+   {
+    "quote": "Şahin Latifi (@ h3x ) / X Şahin Latifi (@ h3x ) / X X https://x.com > h3x",
+    "url": "https://x.com/h3x",
+    "pass": 3
+   },
+   {
+    "quote": "GeoH3x GeoH3x X https://x.com > GeoH3x",
+    "url": "https://x.com/GeoH3x",
+    "pass": 3
+   },
+   {
+    "quote": "H3X ∆GØN on X H3X ∆GØN on X X https://x.com > status > photo",
+    "url": "https://x.com/HEXAGON_1485/status/1562466659201191937/photo/3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "H3X Technologies - LinkedIn H3X Technologies - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/h3x-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Eric Maciolek - Co-Founder, H3X - LinkedIn Eric Maciolek - Co-Founder, H3X - LinkedIn LinkedIn https://www.linkedin.com > eric-maci...",
+    "url": "https://www.linkedin.com/in/eric-maciolek731",
+    "pass": 3
+   },
+   {
+    "quote": "Jason Sylvestre - Cofounder & CEO – H3X - LinkedIn Jason Sylvestre - Cofounder & CEO – H3X - LinkedIn LinkedIn https://www.linkedin.com > jason-syl...",
+    "url": "https://www.linkedin.com/in/jason-sylvestre",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "H3X (@itsh3x) - Facebook H3X (@itsh3x) - Facebook Facebook https://www.facebook.com > Pages > Public figure > Artist",
+    "url": "https://www.facebook.com/itsh3x/",
+    "pass": 3
+   },
+   {
+    "quote": "H3X (@ h3x .girls) - Facebook H3X (@ h3x .girls) - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/h3x.girls/",
+    "pass": 3
+   },
+   {
+    "quote": "What to look for in a 2007 H3x Sport? - Facebook What to look for in a 2007 H3x Sport? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1652057001734311/posts/4234970590109593/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.h3x.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.h3x.tech/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.h3x.tech/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.h3x.tech/open-positions",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.h3c.com/jp/About_Us/News___Events/News/202204/1930979_896886_0.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/h3x-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sossecinc.com/company/h3x-technologies-inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/DROP-H3X-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E3%83%AC%E3%82%B6%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E3%81%A8%E3%82%B9%E3%82%A8%E3%83%BC%E3%83%89%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/dp/B0BTKCZHHW",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKMm_0W9jHUYBOwbDN3WiYueCSHvl94qKUkHkSm6evk3HGwcIRm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/GrowthHacking/comments/1rxruln/using_a_whitelabel_or_reseller_program_to/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/h3x.tech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/H3X_Technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/459493-57",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.privco.com/company/h3x-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/h3x_tech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/h3x",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GeoH3x",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HEXAGON_1485/status/1562466659201191937/photo/3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/h3x-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/eric-maciolek731",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jason-sylvestre",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/itsh3x/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/h3x.girls/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1652057001734311/posts/4234970590109593/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "H3X 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://trafficnews.jp/post/725198",
+    "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "https://kuruma-news.jp/post/1135272",
+    "https://ja.wikipedia.org/wiki/H3ロケット",
+    "https://assets.hbkworld.com/adobe/assets/deliver/urn:aaid:aem:800f5d15-e3ff-4010-8383-2f14e03fb184/H3X-Case-Study-Japanese.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "H3X 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.h3c.com/jp/About_Us/News___Events/News/202204/1930979_896886_0.htm",
+    "https://www.bgent.net/plus/article/7044",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.proface.com/ja/support/distributor",
+    "https://sandi.jp/news/210706_h3c",
+    "https://faq.wadax.ne.jp/s/article/554",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://www.tecreas.co.jp/ja/solutions/h3c-products",
+    "https://ja.wikipedia.org/wiki/日本サムスン"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "H3X Japan",
+   "results": [
+    "https://www.h3x.tech/news",
+    "https://www.linkedin.com/company/h3x-technologies",
+    "https://sossecinc.com/company/h3x-technologies-inc/",
+    "https://www.amazon.co.jp/DROP-H3X-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88-%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E3%83%AC%E3%82%B6%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E3%81%A8%E3%82%B9%E3%82%A8%E3%83%BC%E3%83%89%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%91%E3%83%83%E3%83%89/dp/B0BTKCZHHW",
+    "https://www.originventures.com/blog/electrifying-planes-ships-and-heavy-industry-with-h3xs-electric-motors-why-we-invested-in-h3x",
+    "https://global.jaxa.jp/projects/rockets/h3/",
+    "https://jp.weforum.org/organizations/h3x-technologies-inc",
+    "https://sustainableskies.org/h3x-four-years-later/",
+    "https://www.indeed.com/cmp/H3x-Technologies/reviews",
+    "https://ja.wikipedia.org/wiki/HEY_JAPANESE!_Do_you_believe_PEACE,LOVE_and_UNDERSTANDING?_2008_2008年、イマドキジャパニーズよ。愛と平和と理解を信じるかい?"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "H3X manufacturing customer case study",
+   "results": [
+    "https://manufacturo.com/resources/case-studies/from-spreadsheets-to-scale-how-h3x-is-building-toward-2-000-units-a-year-with-manufacturo/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKMm_0W9jHUYBOwbDN3WiYueCSHvl94qKUkHkSm6evk3HGwcIRm",
+    "https://www.h3x.tech/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.manufacturingsuccess.org/case-studies",
+    "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "https://www.tth.com/resources/case-studies",
+    "https://www.bakerhughes.com/industrial-technology/additive-manufacturing/case-study",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.h3x.tech/posts/case-study-how-h3x-is-revolutionizing-electric-aviation-with-hbks-electric-motor-testing-solutions"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "H3X white label OR reseller OR partner program",
+   "results": [
+    "https://www.intermedia.com/resellers",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.reddit.com/r/GrowthHacking/comments/1rxruln/using_a_whitelabel_or_reseller_program_to/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://liberationtek.com/web-development/white-label-reseller-hosting/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "H3X founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/h3x.tech",
+    "https://growjo.com/company/H3X_Technologies",
+    "https://pitchbook.com/profiles/company/459493-57",
+    "https://www.privco.com/company/h3x-technologies",
+    "https://tracxn.com/d/companies/h3x-technologies/__VxKVG4vxzKnJUbeIiePea0PuzsP0kBuodr_pgMFsyzU",
+    "https://www.extruct.ai/hub/h3x-tech/",
+    "https://www.linkedin.com/posts/eric-maciolek731_h3x-scales-up-its-electric-aerospace-ambitions-activity-7226597270522093568-6HNf",
+    "https://techcrunch.com/2024/08/06/h3x-scales-up-its-electric-aerospace-ambitions-with-20m-in-new-funding/",
+    "https://www.crunchbase.com/organization/h3x-technologies",
+    "https://compworth.com/company/h3x-technologies"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com H3X",
+   "results": [
+    "https://note.com/labaiueo777/n/n611c3fab1314?hl=en",
+    "https://note.com/winekabuki/n/n10101a05b63f?hl=en",
+    "https://note.com/clever_sage187/n/n821bd899be81",
+    "https://note.com/ezbeyond_1018/n/n4e11890084c1",
+    "https://note.com/spagetty/n/n9e30c7165947?hl=en",
+    "https://note.com/nansu_juku/n/n9f70b2f0e0e8",
+    "https://note.com/good_dill292/n/nfd1f05f24f3e",
+    "https://note.com/qy_research/n/n8d625898414b",
+    "https://note.com/kira_meki/n/ne074965fbb63?hl=en",
+    "https://note.com/nekopy222/m/ma8c9c7e06e5d/hashtag/%E5%8B%95%E7%94%BB%E7%94%9F%E6%88%90AI"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com H3X",
+   "results": [
+    "https://x.com/h3x_tech",
+    "https://x.com/h3x",
+    "https://x.com/GeoH3x",
+    "https://x.com/HEXAGON_1485/status/1562466659201191937/photo/3",
+    "https://x.com/hashtag/H3X0006?src=hashtag_click",
+    "https://x.com/jaywcjlove/status/2110162130314068044?lang=cs",
+    "https://x.com/SevenScissor/status/2003823147678847011",
+    "https://x.com/PinkDraconian/status/2099394845965963690",
+    "https://x.com/Cartoonhistory2/status/2117754785692528741",
+    "https://x.com/H3Xcrypto"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com H3X",
+   "results": [
+    "https://www.linkedin.com/company/h3x-technologies",
+    "https://www.linkedin.com/in/eric-maciolek731",
+    "https://www.linkedin.com/in/jason-sylvestre",
+    "https://www.linkedin.com/in/adam-freedman-",
+    "https://www.linkedin.com/in/max-liben",
+    "https://www.linkedin.com/pulse/h3x-hits-180-kw-hpdm-250-integrated-motor-drive-h3x-technologies-1c",
+    "https://www.linkedin.com/jobs/view/senior-procurement-specialist-at-h3x-technologies-4459347734",
+    "https://www.linkedin.com/posts/h3x-technologies_today-we-are-announcing-that-we-have-officially-activity-7226602948158439424-2gY0",
+    "https://www.linkedin.com/jobs/view/mechanical-engineer-advanced-manufacturing-at-h3x-technologies-4448398380",
+    "https://ca.linkedin.com/in/clintyjlee"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com H3X",
+   "results": [
+    "https://www.facebook.com/itsh3x/",
+    "https://www.facebook.com/h3x.girls/",
+    "https://www.facebook.com/groups/1652057001734311/posts/4234970590109593/",
+    "https://www.facebook.com/groups/1874568236014822/posts/3666393480165613/",
+    "https://www.facebook.com/h3xTV/",
+    "https://www.facebook.com/groups/334224214485372/posts/1183275776246874/",
+    "https://www.facebook.com/groups/334224214485372/posts/1360866961821087/",
+    "https://www.facebook.com/groups/334224214485372/posts/1452269232680859/",
+    "https://www.facebook.com/groups/630526143723491/posts/28807284115620983/",
+    "https://www.facebook.com/h3xstudio/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "H3X note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/trex_ai",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://diamond.jp/articles/-/388572",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "H3X X 投稿",
+   "results": [
+    "https://www.reddit.com/r/buildapcsales/comments/1pbuusw/headphones_drop_epos_h3x_gaming_headset_overear/",
+    "https://www.instagram.com/itsh3x/?hl=ja",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://kick.com/h3x/videos",
+    "https://www.facebook.com/h3xTV/",
+    "https://www.tiktok.com/@h3x3nthesillerfr",
+    "https://digiday.jp/platforms/what-a-bozo-move-publishers-react-to-x-update-removing-headlines-from-posts/",
+    "https://qiita.com/ju-to-sh/items/89fd342da1f9d1042b34",
+    "https://www.reddit.com/r/buildapcsales/comments/1p62miu/headphones_drop_epos_h3x_gaming_headset/?tl=ja",
+    "https://x.com/H3Xcrypto"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

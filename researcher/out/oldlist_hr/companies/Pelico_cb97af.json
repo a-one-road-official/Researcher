@@ -1,0 +1,1424 @@
+{
+ "name": "Pelico",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T02:42:34.933137+00:00",
+ "official_url": "https://www.pelico.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "12-Oct-2020 $4.33M $4.33M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/438919-30",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "379,841 $0.010000  $9.03 $9.03 1x $9.03 13.68%",
+    "url": "https://pitchbook.com/profiles/company/438919-30",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "39,312 $0.010000  $6.32 $6.32 1x $6.32 1.42%",
+    "url": "https://pitchbook.com/profiles/company/438919-30",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Parts slip, WIP stalls, the schedule moves every day. With Pelico, teams and agents model the trade-offs together and drive the decisions that protect delivery.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Finally. One shared system for planning, supply, production, quality, sales, and leadership teams to understand what’s at risk, coordinate recovery, and protect delivery.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to Pelico, we discovered that we'd be short for 100 compressors that would've blocked customer orders worth $15M.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "During training, there was a moment where it all clicked. People saw how the system actually connects supply chain and production, and you literally heard the “ahhhh” in the room.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Pelico Escalation Room is honestly one of the best collaboration tools our procurement organization has used in my almost 10 years at the company.\"",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "+ 15% workforce productivity",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Thanks to Pelico, we reduced our part shortages by 72% and improved our data quality while allowing our teams to focus on their real added value.\"",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We quickly saw we could fully rely on the Pelico platform. It caught shortages our traditional process was missing.\"",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "In production at the world's most complex manufacturers, across more than 25 countries.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for complex discrete manufacturers and industrial maintenance providers",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve program predictability by identifying risks early and aligning teams fast to protect schedule, cost, and milestone commitments.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce TAT and improve asset availability through earlier insight into findings, parts, and capacity constraints—and faster, coordinated response.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Convert record order books into on-time delivery with execution that keeps constrained supply chains, engineering changes, and competing program priorities under control.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Strengthen operational reliability across plants, depots, and fleets with connected visibility and orchestrated actions that prevent costly delays.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Safeguard brand promises with clear visibility and coordinated execution that keep high-craft production and seasonal launches on schedule.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Pelico surfaces what's coming, coordinates the response, and protects delivery.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico works hand in hand with leading technology and service providers to deliver secure, scalable, and compliant deployments — wherever you operate. Our ecosystem connects seamlessly with your existing IT environment and accelerates time-to-value across your operations.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico is a Microsoft Solutions Partner with a certified software designation for Manufacturing AI, validating production readiness, enterprise-grade security, and interoperability on the Microsoft Cloud.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Infrastructure Providers",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We operate on leading cloud platforms to simplify deployment, procurement, and billing, supporting both commercial and sovereign environments as needed.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico operates on Google Cloud, providing secure performance and global scalability for manufacturing networks. As a validated solution within the Google Cloud ecosystem, Pelico demonstrates enterprise-grade quality and compatibility. Pelico can extend deployment to Google Assured Workloads or other regulated environments when data-sovereignty requirements apply.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico is part of the NVIDIA Inception program, which supports advanced AI companies with access to specialized computing infrastructure and expertise. This partnership strengthens Pelico’s AI foundation and ensures reliable, high-performance orchestration for industrial operations.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico connects natively to SAP ERP and S/4HANA, making engineering, production, supply chain, and customer data available to operational teams in real time. Our SAP plug-and-play connector builds on your existing ERP environment to deliver instant connectivity, without heavy system changes",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico operates seamlessly within Oracle ERP environments—a proven configuration that enables real-time visibility and orchestration across planning, procurement, and production.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico integrates directly with Infor ERP to make manufacturing and supply chain data visible and actionable. The integration enables real-time decision-making across purchasing and production teams.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "works with Pelico to deploy solutions across complex, multinational environments. Together we create end-to-end visibility and measurable, enterprise-wide impact.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "brings deep supply chain management expertise to manufacturers adopting Pelico. Together, we help operations teams improve planning agility and strengthen execution control.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico is an active member of leading supply chain, aerospace, and defense associations that promote innovation, collaboration, and operational excellence across the manufacturing ecosystem.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico is a member of AIA, the Aerospace Industries Association, which represents US aerospace and defense manufacturers and suppliers. Through AIA, we take part in efforts to strengthen the industrial base and its supply chains.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico is a member of BDLI, the German Aerospace Industries Association, which represents Germany’s aviation, space, and defense sectors. BDLI co-founded Aero Excellence™, the shared maturity standard for the A&D supply chain.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "As a member of France Supply Chain, the French association of supply chain professionals, Pelico works with manufacturers, logistics leaders, and researchers to strengthen the role of supply chain in industrial competitiveness.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our product and customer operations team members are APICS-certified through the",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": ", ensuring our methodologies and customer engagements align with globally recognized best practices.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Technology providers, consulting firms, and system integrators work with Pelico to help manufacturers and MRO organizations operate with agility and deliver results at scale.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "BOMs don't hold still just because an order is confirmed. Pelico shows what each engineering change or configuration does to coverage and capacity, and what to do to protect delivery.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to a production expert",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "During training, there was a moment where it all clicked. People saw how the system actually connects supply chain and production, and you literally heard the “ahhhh” in the room.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We quickly saw we could fully rely on the Pelico platform. It caught shortages our traditional process was missing.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What Pelico gives program and production teams",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Made for: Production Planners · Buyers · Production Leads · Program Directors · VPs of Operations",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Every purchase order, work order, and customer order in its BOM tree and Gantt view, with milestones and delivery dates. Deliveries at risk are flagged while the date can still be protected.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Root-cause clustering across the program portfolio or the configuration catalog. Recurring causes get named and fixed before the next build.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "An ERP's ETO module records the engineering BOM, routings, and transactions. It doesn't recalculate coverage and capacity across every order when a change lands, or rank what to fix first. Pelico sits on top of the ERP, reads its data, and leaves the transactional records where they are.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "PLM owns the engineering BOM and the change process. Manufacturing needs to know what each change means for parts, work orders, and capacity. Pelico reads the as-engineered or as-configured BOM from your upstream systems and traces its effect on the build. It doesn't replace PLM or manage the change workflow.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "It can take the repetitive tracking off planners and buyers: following the BOM as engineering changes land, ranking supplier follow-up against live shortages, and finding the unique part that threatens a date or milestone. In Pelico, AI agents work from coverage calculated on your ERP and factory data, and planners approve each action before it goes out.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Plans change. Pelico coordinates the recovery across engineering, buyers, and the factory floor on engineer-to-order programs and configure-to-order operations.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing orchestration is an approach to execution that expects constant change",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Getting the answer usually means reconciling three ERPs and a dozen spreadsheets by hand. By the time the full picture is ready, it's already out of date.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Purchasing, production, and quality teams each use their own version of truth. Coordination runs through email threads, calls, and meetings. Fixing one constraint creates another.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "It's hard to tell what's truly at risk, or what protecting one program costs another. There’s a nagging feeling that you’re about to be blindsided.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing orchestration is an approach to operations execution that treats disruption as the normal state, not the exception. When something slips, teams know what it breaks, coordinate the response, and make the trade-offs before a delivery is at risk.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "A slipped PO shows every work order, site, and customer order it touches, across BOM levels and supplier tiers. No spreadsheets needed to bridge systems.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "When a disruption hits, planning, supply, production, quality, and customer service all see the impact at the same time. Escalations happen right where the work is, and every team follows one path to recovery, with an owner on every step.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Leaders see what's at risk, size the impact of each option, and know what protecting one program costs another.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "AI AGENTS THAT PREPARE THE NEXT MOVE",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Agents trace each disruption and propose ranked actions inside the workflow. People approve before anything reaches a system of record.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Purchasing presses the supplier for a partial shipment, production pulls forward work that doesn't need the bracket, and customer service prepares the at-risk customer for a new date.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Global manufacturers and MRO providers use Pelico to achieve:",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Production Controllers",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "It really does unlock the ability to orchestrate the work we have across functions, across teams, across priorities in a way that we just couldn't do previously.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Pelico | Manufacturing orchestration platform",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico keeps manufacturing execution on track.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing orchestration is the missing layer between the plan and the reality on the factory floor.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What is Manufacturing Orchestration?",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Global aerospace systems manufacturer",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Global aerospace and defense manufacturer",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Global heating, ventilation and air-conditioning manufacturer",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 100 aerospace & defense company",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace transmission MRO",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "LEADING HVAC EQUIPMENT manufacturer",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What is manufacturing orchestration?",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers meet the commitments they made.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "None was built to trace a late part through 10 BOM levels and 14 plants to the delivery at risk. Pelico maps the cascade — and coordinates the recovery.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Why the world’s most advanced manufacturers choose Pelico",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Deployed by operators",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "In production at the world's most complex manufacturers, across more than 25 countries.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for complex discrete manufacturers and industrial maintenance providers",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Strengthen operational reliability across plants, depots, and fleets with connected visibility and orchestrated actions that prevent costly delays.",
+    "url": "https://www.pelico.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Driving innovation and scale across the manufacturing ecosystem.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico is a Microsoft Solutions Partner with a certified software designation for Manufacturing AI, validating production readiness, enterprise-grade security, and interoperability on the Microsoft Cloud.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing orchestration",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Reliable and compliant infrastructure for mission-critical manufacturing and MRO operations.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico operates on Google Cloud, providing secure performance and global scalability for manufacturing networks. As a validated solution within the Google Cloud ecosystem, Pelico demonstrates enterprise-grade quality and compatibility. Pelico can extend deployment to Google Assured Workloads or other regulated environments when data-sovereignty requirements apply.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico is part of the NVIDIA Inception program, which supports advanced AI companies with access to specialized computing infrastructure and expertise. This partnership strengthens Pelico’s AI foundation and ensures reliable, high-performance orchestration for industrial operations.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico integrates directly with Infor ERP to make manufacturing and supply chain data visible and actionable. The integration enables real-time decision-making across purchasing and production teams.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing orchestration platform",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Helping manufacturers accelerate transformation and scale orchestration worldwide.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "collaborates with Pelico to help aerospace and defense manufacturers move from fragmented data to synchronized execution. This partnership drives measurable gains in operational performance and delivery reliability.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "supports our customers in integrating Pelico within complex IT and industrial environments. Together, we enable digital continuity and unlock value across operations.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "brings deep supply chain management expertise to manufacturers adopting Pelico. Together, we help operations teams improve planning agility and strengthen execution control.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico is an active member of leading supply chain, aerospace, and defense associations that promote innovation, collaboration, and operational excellence across the manufacturing ecosystem.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico is a member of AIA, the Aerospace Industries Association, which represents US aerospace and defense manufacturers and suppliers. Through AIA, we take part in efforts to strengthen the industrial base and its supply chains.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico is a member of BDLI, the German Aerospace Industries Association, which represents Germany’s aviation, space, and defense sectors. BDLI co-founded Aero Excellence™, the shared maturity standard for the A&D supply chain.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico actively contributes to GIFAS, the French Aerospace Industries Association, which launched Aero Excellence™ to give A&D suppliers a single maturity standard.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "As a member of AAIS, the Association of Aerospace Industries (Singapore), Pelico works alongside the MRO, manufacturing, and aftermarket companies that make Singapore a leading aerospace hub in Asia-Pacific.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "As a member of France Supply Chain, the French association of supply chain professionals, Pelico works with manufacturers, logistics leaders, and researchers to strengthen the role of supply chain in industrial competitiveness.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Technology providers, consulting firms, and system integrators work with Pelico to help manufacturers and MRO organizations operate with agility and deliver results at scale.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "OE Manufacturing for Engineer- and Configure-to-Order | Pelico",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "OE Manufacturing: Keep every build on track",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Global aerospace and defense manufacturer",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Global aerospace systems manufacturer",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Global heating, ventilation and air-conditioning manufacturer",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The OE Manufacturing solution runs on Pelico's manufacturing orchestration platform. Every build is part of a live map of dependencies.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Explore agentic AI for manufacturing",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How does manufacturing planning work with our PLM and engineering BOM?",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "PLM owns the engineering BOM and the change process. Manufacturing needs to know what each change means for parts, work orders, and capacity. Pelico reads the as-engineered or as-configured BOM from your upstream systems and traces its effect on the build. It doesn't replace PLM or manage the change workflow.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What can AI do for engineer-to-order manufacturing?",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "It can take the repetitive tracking off planners and buyers: following the BOM as engineering changes land, ranking supplier follow-up against live shortages, and finding the unique part that threatens a date or milestone. In Pelico, AI agents work from coverage calculated on your ERP and factory data, and planners approve each action before it goes out.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How can we plan engineer-to-order and configure-to-order work in the same plant?",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Plans change. Pelico coordinates the recovery across engineering, buyers, and the factory floor on engineer-to-order programs and configure-to-order operations.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Orchestration: Close the Execution Gap | Pelico",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing orchestration is an approach to execution that expects constant change",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "With manufacturing orchestration, operations keep pace in real time. Teams know the full impact of each disruption, coordinate the response, and make the right call before a delivery slips.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "What is manufacturing orchestration?",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing orchestration is an approach to operations execution that treats disruption as the normal state, not the exception. When something slips, teams know what it breaks, coordinate the response, and make the trade-offs before a delivery is at risk.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Pelico is the manufacturing orchestration platform for complex supply chains and multi-level BOMs",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "With discrete manufacturing logic built in, the platform runs on live data from existing sources. It maps dependencies through BOMs, suppliers, and sites, so teams stay in sync and the trade-offs are always clear.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Where manufacturing orchestration sits",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "What to look for in a manufacturing orchestration platform",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "BUILT FOR MANUFACTURING",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Pelico is part of the NVIDIA Inception program, which supports advanced AI companies with access to specialized computing infrastructure and expertise. This partnership strengthens Pelico’s AI foundation and ensures reliable, high-performance orchestration for industrial operations.",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our solutions are listed on the SAP Store:",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We’re listed on the INFOR Marketplace:",
+    "url": "https://www.pelico.ai/about/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The OE Manufacturing solution runs on Pelico's manufacturing orchestration platform. Every build is part of a live map of dependencies.",
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Do your buyers work shortages in due-date order, or by the revenue and delivery each one puts at risk?",
+    "url": "https://www.pelico.ai/solutions/material-coverage",
+    "pass": 1
+   },
+   {
+    "quote": "Every missing part ranked by downstream revenue and delivery impact.",
+    "url": "https://www.pelico.ai/solutions/material-coverage",
+    "pass": 1
+   },
+   {
+    "quote": "Rank shortages by what they hold back, not by due date. A late part blocking a high-value customer order matters more than an earlier one that holds nothing. Pelico ranks every shortage by the revenue and deliveries it puts at risk, so buyers and planners work the costliest one first.",
+    "url": "https://www.pelico.ai/solutions/material-coverage",
+    "pass": 1
+   },
+   {
+    "quote": "Safety stock builds because telling a customer \"no\" costs more than holding it. Pelico ties live inventory to the production it serves, so every defer, cancel, or rebalance decision carries its delivery impact.",
+    "url": "https://www.pelico.ai/solutions/inventory-optimization",
+    "pass": 1
+   },
+   {
+    "quote": "Tie each inventory decision to the production it supports. Stock covering a near-term order stays; stock with no demand behind it is a candidate to defer, cancel, or move. In Pelico, every open order carries both its cash exposure and its delivery impact.",
+    "url": "https://www.pelico.ai/solutions/inventory-optimization",
+    "pass": 1
+   },
+   {
+    "quote": "What's the best way to know if an engine can be inducted before all the parts arrive?",
+    "url": "https://www.pelico.ai/solutions/engine-mro",
+    "pass": 1
+   },
+   {
+    "quote": "Check each short part's expected arrival against the gate that needs it. If every part lands before its gate, inducting now protects the slot and the customer date. If one won't, the engine sits disassembled waiting, and deferring is usually the better call. Pelico runs that check for every engine in the queue, so you can induct, defer, or induct with risk on real dates.",
+    "url": "https://www.pelico.ai/solutions/engine-mro",
+    "pass": 1
+   },
+   {
+    "quote": "Repair priority by TAT and revenue",
+    "url": "https://www.pelico.ai/solutions/spares-component-repair",
+    "pass": 1
+   },
+   {
+    "quote": "Score every open service order on contractual TAT, customer priority, and revenue, so planners send parts to the repair that protects the most, not the oldest job.",
+    "url": "https://www.pelico.ai/solutions/spares-component-repair",
+    "pass": 1
+   },
+   {
+    "quote": "How can we prioritize repairs by TAT and revenue when the ERP allocates parts first in, first out?",
+    "url": "https://www.pelico.ai/solutions/spares-component-repair",
+    "pass": 1
+   },
+   {
+    "quote": "Most ERP and MRO systems allocate first in, first out, and they have no way to weigh a contractual TAT or an AOG against job age. Fixing it means scoring every open service order on TAT, customer priority, and revenue, then moving parts where they protect the most commitments. Pelico runs that scoring on top of your ERP, and planners approve each reallocation.",
+    "url": "https://www.pelico.ai/solutions/spares-component-repair",
+    "pass": 1
+   },
+   {
+    "quote": "Put the holds in the same list as the rest of the WIP, with the age and value of each, so customer support chases the ones blocking the most revenue first. Pelico tracks every unit waiting on quote approval and ties it to its TAT and customer, so holds stop hiding in email threads.",
+    "url": "https://www.pelico.ai/solutions/spares-component-repair",
+    "pass": 1
+   },
+   {
+    "quote": "This aerospace MRO manufacturer was losing productivity, decision quality, collaboration, and revenue to inaccurate data in its ERP. With Pelico’s manufacturing orchestration platform, it improved its data hygiene from 53% to 93% within eight weeks, and made clean data a cornerstone for daily decisions.",
+    "url": "https://www.pelico.ai/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A late supplier date never stays on one PO. Pelico's AI agents trace it through the part and the work order to the customer order it puts at risk, then bring it to the right owner with what's missing, what's blocked, and the revenue on the line. Your team acts before the delivery date slips.",
+    "url": "https://www.pelico.ai/agentic-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Ranks shortages by delivery and revenue impact. Lays out the recovery options and their trade-offs, and flags each one to the team that owns it.",
+    "url": "https://www.pelico.ai/agentic-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue secured on at-risk orders",
+    "url": "https://www.pelico.ai/agentic-ai",
+    "pass": 1
+   },
+   {
+    "quote": "A data platform harmonizes your data and leaves the decision to you, because the manufacturing logic has to be built case by case. Pelico arrives with that logic in place: supply-to-demand pegging through every BOM level, live clear-to-build status, and the trace from a late part to the customer orders at risk.",
+    "url": "https://www.pelico.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "A generic copilot is prompted over a general model. Pelico's AI agents run on the platform's manufacturing logic and carry out defined steps. Nothing is written back to a system of record without approval, and every update is scoped and traced.",
+    "url": "https://www.pelico.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/438919-30",
+    "pass": 3
+   },
+   {
+    "quote": "Harrogate, United Kingdom",
+    "url": "https://pitchbook.com/profiles/company/438919-30",
+    "pass": 3
+   },
+   {
+    "quote": ", a Private Equity-Backed company based in Harrogate, United Kingdom.",
+    "url": "https://pitchbook.com/profiles/company/438919-30",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico has 200 total employees.",
+    "url": "https://pitchbook.com/profiles/company/438919-30",
+    "pass": 3
+   },
+   {
+    "quote": "What is Pelico’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/438919-30",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Pelico is",
+    "url": "https://pitchbook.com/profiles/company/438919-30",
+    "pass": 3
+   },
+   {
+    "quote": "IT Operating system to scale you from 2 to 2000 employees",
+    "url": "https://fundediq.co/pelico-pelico-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Pelico have?",
+    "url": "https://fundediq.co/pelico-pelico-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/pelico-pelico-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/pelico-pelico-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Purchasing, production, and quality teams each use their own version of truth. Coordination runs through email threads, calls, and meetings. Fixing one constraint creates another.",
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "pass": 1
+   },
+   {
+    "quote": "Recovery plans live in email",
+    "url": "https://www.pelico.ai/solutions/material-coverage",
+    "pass": 1
+   },
+   {
+    "quote": "Put the holds in the same list as the rest of the WIP, with the age and value of each, so customer support chases the ones blocking the most revenue first. Pelico tracks every unit waiting on quote approval and ties it to its TAT and customer, so holds stop hiding in email threads.",
+    "url": "https://www.pelico.ai/solutions/spares-component-repair",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/438919-30",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Pelico team: 1 of 2 have an email address on file, 1 has a LinkedIn profile.",
+    "url": "https://fundediq.co/pelico-pelico-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/pelico-pelico-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Pelico | Manufacturing orchestration platform — Pelico’s platform maps dependencies across complex supply chains and multi-level BOMs, sees what will block the line, and coordinates action plans — all before a disruption impacts delivery.",
+    "url": "https://www.pelico.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Pelicoの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Boeing（商用部品およびC-17A輸送機重整備）、Airbus、Safran、Raytheon、Eaton、Daikinなどが採用し、世界トップ10のA&D企業の50%が導入しています（Pelico公式発表）。",
+    "url": "https://www.firstcvc.jp/global/pelico.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico | Manufacturing orchestration platform — Pelico’s manufacturing orchestration management platform empowers factory teams with the agility required to respond to supply chain disruptions and deliver on time.",
+    "url": "https://www.pelico.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Manufacturing Success Stories | Pelico — Explore real-world case studies from aerospace MRO, HVAC manufacturing, and industrial leaders who reduced part shortages, improved TAT, and boosted OTD rates.",
+    "url": "https://www.pelico.ai/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace: 7 teams onboarded in 9 months | Case study | Pelico — Read the full case study (PDF), or bring your operational reality to a demo. How a leading aerospace manufacturer onboarded 120 users across 7 teams with Pelico, cutting WIP 18% and halving logistics cycle times. Read more.",
+    "url": "https://www.pelico.ai/resources/case-studies/aerospace-manufacturer-change-management",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: a leading US-based HVAC manufacturer reduces part ... — Leading US-Based HVAC Manufacturer partnered with Pelico (Computer Software) to solve key challenges. \"Improving customer OTD while facing a strong ramp-up in production\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/pelico/case-study/improving-customer-otd-while-facing-a-strong-ramp-up-in-production",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Leading Aerospace Manufacturer achieves faster ... — Leading Aerospace Manufacturer partnered with Pelico (Computer Software) to solve key challenges. \"From the Parallel Universe of Spreadsheets to the Collaborative Management of Factory Disruptions\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/pelico/case-study/from-the-parallel-universe-of-spreadsheets-to-the-collaborative-management-of-factory-disruptions",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico customer case study — “Emails were reduced by 20% thanks to Pelico’s cross-functional collaborative platform. All teams gained around 15 hours per week as they spent less time looking for siloed information and re-oriented their focus on the implementation of prioritized mitigation actions.”",
+    "url": "https://25653703.fs1.hubspotusercontent-eu1.net/hubfs/25653703/Marketing/Case+studies/Aerospace+and+Defense/2023_Change+management+(Collins)/Pelico+||+Case+Study+Aerospace+||+Change+Management.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico 2026 Company Profile: Valuation, Funding & Investors ...Pelico - 2026 Company Profile, Team, Funding, Competitors ...Pelico: Funding, Investors & Team (Nov 2026) | FundedIQPelico – Revenue, Valuation & Top Competitors – 2026 – ParisPelico: Funding, Team & Investors | Startup IntrosPelico Revenue, Funding & Valuation - prospeo.ioPelico Revenue 2025: $17.8M Est. ARR - getlatka.com — Informati",
+    "url": "https://pitchbook.com/profiles/company/438919-30",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico - 2026 Company Profile, Team, Funding, Competitors ...Pelico: Funding, Investors & Team (Nov 2026) | FundedIQPelico – Revenue, Valuation & Top Competitors – 2026 – ParisPelico: Funding, Team & Investors | Startup IntrosPelico Revenue, Funding & Valuation - prospeo.ioPelico Revenue 2025: $17.8M Est. ARR - getlatka.com — Sep 11, 2026 · Pelico is a series B company based in Paris (France), fou",
+    "url": "https://tracxn.com/d/companies/pelico/__neYV4bIRzSZvDxrFnwgcr_hEpf8eGfqXzOL7cf4c9B8",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico: Funding, Investors & Team (Nov 2026) | FundedIQ — Pelico is a Software company in Paris, France. Raised $59.2M across 3 rounds; latest round Jul 2026. Investors, founders and funding history.",
+    "url": "https://fundediq.co/pelico-pelico-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico – Revenue, Valuation & Top Competitors – 2026 – Paris — Pelico makes progress through estimated revenue of $22.3M, team of around 100+ employees, out of Paris, demonstrating clear business goals.",
+    "url": "https://compworth.com/company/pelico",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Pelico was founded in 2019 by Tarik Benabdallah and Mamoun Alaoui. Their deep expertise in artificial intelligence, enterprise software, and industrial operations informed the company's inception.",
+    "url": "https://startupintros.com/orgs/pelico",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Pelico_ (@Pelico_art) / X Follow PostsPosts RepliesReplies RepostsReposts MediaMedia Pelico_ @Pelico_art Oct 25, 2022",
+    "url": "https://x.com/Pelico_art",
+    "pass": 3
+   },
+   {
+    "quote": "pelico (@Pelicomusic) / Posts / X pelico (@Pelicomusic) - Posts - Latest album THE WORLD TURNS | X (formerly Twitter)",
+    "url": "https://x.com/Pelicomusic",
+    "pass": 3
+   },
+   {
+    "quote": "John Pelico (@JohnPelico3tn5) / Posts / X John Pelico (@JohnPelico3tn5) - Posts - Hi | X (formerly Twitter) RT @TheBacksh0tz: Dm me for Clermont Leaks $5 cashapp #clermonttwins #gyatt #bimbo #thick #fatass",
+    "url": "https://x.com/JohnPelico3tn5",
+    "pass": 3
+   },
+   {
+    "quote": "(R9) rico pelico! (@PelicoRico) / Posts / X Yet another banger from @ShackFrost and myself with the track titled \"ALONE IN THE STREETS\" OUT NOW.......! #YOUTUBE link ⤵️ youtu.be/1PNdR_XfuKA 💬0 🔄0 🤍0 📊17 📎 (R9) rico pelico!PelicoRico Feb 11",
+    "url": "https://x.com/PelicoRico",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Pelico - LinkedIn Pelico is the Manufacturing Orchestration Platform that keeps delivery on track. We connect to the systems teams already use, including ERP, MES, planning tools, and supplier data.",
+    "url": "https://www.linkedin.com/company/pelico-io",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico - LinkedIn Pelico is an easy-to-deploy supply chain operations management platform that gives factory teams the agility and resilience to quickly respond to any supply chain disruptions and act fast to ...",
+    "url": "https://www.linkedin.com/products/pelico-io-pelico/",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico - LinkedIn Pelico is an easy-to-deploy supply chain operations management platform that gives factory teams the agility and resilience to quickly respond to any supply chain disruptions and act fast to...",
+    "url": "https://uk.linkedin.com/company/pelico-io",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico - LinkedIn Pelico is an easy-to-deploy supply chain operations management platform that gives factory teams the agility and resilience to quickly respond to any supply chain disruptions and act fast to...",
+    "url": "https://nl.linkedin.com/company/pelico-io",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Pelico - FacebookPélico - FacebookGeo Pelico - FacebookPelico Farms | Lake Charles LA - FacebookPelico Photography - FacebookPelico upholstery | Salina KS - FacebookEtson Pelico (@etson.pelico) • Facebook, Connect with friends Oct 30, 2025 · Pelico. 688 likes · 1 talking about this. Pelico are an Indie/Folk/Rock band from York, England. Combining influences from 60's pop to 21st century Folk. Péli",
+    "url": "https://www.facebook.com/pelicomusic/",
+    "pass": 3
+   },
+   {
+    "quote": "Geo Pelico - Facebook Oct 14, 2026 · Geo Pelico. 4,665 followers · 43 talking about this. Trabajador y me gusta jugar soccer todos los dias",
+    "url": "https://www.facebook.com/geo.pelico/",
+    "pass": 3
+   },
+   {
+    "quote": "Pelico Farms | Lake Charles LA - Facebook Jul 4, 2026 · #pelicofarms 🎄 Season’s Greetings from Pelico Farms Smokehouse and Mexican Grill! 🍴 Wishing you and your family joy, warmth, and the best flavors of the season.",
+    "url": "https://www.facebook.com/p/Pelico-Farms-61555419036769/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.pelico.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/about/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/solutions/oe-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/manufacturing-orchestration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/solutions/material-coverage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/solutions/inventory-optimization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/solutions/program-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/solutions/quality-for-execution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/solutions/engine-mro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/solutions/spares-component-repair",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/solutions/agentic-orchestration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/agentic-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pelico.ai/platform",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6aaa59e54a05ed5fedb02372/6acf77624b931683339e7606_oe-manufacturing-icon.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6aaa59e54a05ed5fedb02372/6acf7a71cfa605aac9ed0249_386699b46aed6ac007905ae51e104c97_oe-manufacturing-icon_label.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6aaa59e54a05ed5fedb02372/6ad201003a7072c1bf980084_OE%20manufacturing.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6aaa59e54a05ed5fedb02372/6ad74a094a15c450047b6762_Manufacturing%20orchestration.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/pelico.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pellicojapan.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DCFvZF4z5_7/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%98%A0%E7%94%BB%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E8%A6%A7%E3%83%BB%E6%98%A0%E7%94%BB%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E8%A6%A7%E3%83%BB%E6%98%A0%E7%94%BB%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E8%A6%A7",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/pellicojapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/pellico_japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.pellico.net/boutiques",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/pelico/case-study/improving-customer-otd-while-facing-a-strong-ramp-up-in-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/pelico/case-study/from-the-parallel-universe-of-spreadsheets-to-the-collaborative-management-of-factory-disruptions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/1390590848697838/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/796523762150777/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/438919-30",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/pelico/__neYV4bIRzSZvDxrFnwgcr_hEpf8eGfqXzOL7cf4c9B8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/pelico-pelico-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/pelico",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Pelico_art",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Pelicomusic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JohnPelico3tn5",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PelicoRico",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/pelico-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/pelico-io-pelico/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/pelico-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/company/pelico-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pelicomusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/geo.pelico/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Pelico-Farms-61555419036769/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Pelico_art",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pelico 日本 導入",
+   "results": [
+    "https://www.pelico.ai/",
+    "https://www.firstcvc.jp/global/pelico.ai",
+    "https://pellicojapan.jp/",
+    "https://www.instagram.com/p/DCFvZF4z5_7/",
+    "https://senken.co.jp/posts/pellico-241028",
+    "https://store.aman.ne.jp/blogs/pellico_news/241106_2",
+    "https://ftnews.jp/RC/17724866"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pelico 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/映画会社の一覧・映画会社の一覧・映画会社の一覧",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://pellicojapan.jp/collection",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pelico Japan",
+   "results": [
+    "https://www.pelico.ai/",
+    "https://www.facebook.com/pellicojapan/",
+    "https://www.instagram.com/pellico_japan/",
+    "https://www.pellico.net/boutiques",
+    "https://pellicojapan.jp/",
+    "https://pellicojapan.jp/collection",
+    "https://www.aman.ne.jp/en/brands/pellico/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pelico manufacturing customer case study",
+   "results": [
+    "https://www.pelico.ai/resources/case-studies",
+    "https://www.pelico.ai/resources/case-studies/aerospace-manufacturer-change-management",
+    "https://www.casestudies.com/company/pelico/case-study/improving-customer-otd-while-facing-a-strong-ramp-up-in-production",
+    "https://www.casestudies.com/company/pelico/case-study/from-the-parallel-universe-of-spreadsheets-to-the-collaborative-management-of-factory-disruptions",
+    "https://25653703.fs1.hubspotusercontent-eu1.net/hubfs/25653703/Marketing/Case+studies/Aerospace+and+Defense/2023_Change+management+(Collins)/Pelico+||+Case+Study+Aerospace+||+Change+Management.pdf",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/pelico_leading-aerospace-manufacturer012_949539.pdf",
+    "https://catalogartifact.azureedge.net/publicartifacts/pelico1683725378473.8146b11c-b71f-4166-bd1e-9086e7da153b-fda28ca2-a959-4b9c-893a-f580e7f95e71/Artifacts/Documents/supportdoc1.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pelico white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.pelico.ai/",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://www.facebook.com/groups/796523762150777/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.youtube.com/@resellerrevenue",
+    "https://www.t-mobile.com/business/partner-recruitment"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pelico founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/438919-30",
+    "https://tracxn.com/d/companies/pelico/__neYV4bIRzSZvDxrFnwgcr_hEpf8eGfqXzOL7cf4c9B8",
+    "https://fundediq.co/pelico-pelico-ai-funding/",
+    "https://compworth.com/company/pelico",
+    "https://startupintros.com/orgs/pelico",
+    "https://prospeo.io/c/pelico-revenue",
+    "https://getlatka.com/companies/pelico.ai"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Pelico",
+   "results": [
+    "https://note.com/",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/lithe_allium4803",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Pelico",
+   "results": [
+    "https://x.com/Pelico_art",
+    "https://x.com/Pelicomusic",
+    "https://x.com/JohnPelico3tn5",
+    "https://x.com/PelicoRico",
+    "https://x.com/1NekoPelico",
+    "https://x.com/JohnPelico3tn5/status/2119851508120592625",
+    "https://help.x.com/zh-cn/managing-your-account"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Pelico",
+   "results": [
+    "https://www.linkedin.com/company/pelico-io",
+    "https://www.linkedin.com/products/pelico-io-pelico/",
+    "https://uk.linkedin.com/company/pelico-io",
+    "https://nl.linkedin.com/company/pelico-io",
+    "https://uk.linkedin.com/company/pelico-io/jobs",
+    "https://www.linkedin.com/company/pelico-io/jobs",
+    "https://www.linkedin.com/in/arturczarnecki"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Pelico",
+   "results": [
+    "https://www.facebook.com/pelicomusic/",
+    "https://www.facebook.com/pelicomusica/",
+    "https://www.facebook.com/geo.pelico/",
+    "https://www.facebook.com/p/Pelico-Farms-61555419036769/",
+    "https://www.facebook.com/p/Pelico-Photography-61556685036436/",
+    "https://www.facebook.com/p/Pelico-upholstery-100086265702584/",
+    "https://www.facebook.com/etson.pelico/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pelico note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.com/sadaaki",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pelico X 投稿",
+   "results": [
+    "https://x.com/Pelico_art",
+    "https://www.pelico.ai/",
+    "https://help.x.com/ja/forms/safety-and-sensitive-content/private-information",
+    "https://liberty-net.jp/toukou/",
+    "https://help.x.com/ja/rules-and-policies/intimate-media",
+    "https://youravhost.net/tag/投稿",
+    "https://help.x.com/ja/rules-and-policies/adult-content"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}

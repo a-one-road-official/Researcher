@@ -8,7 +8,7 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-09T09:59:37.201369+00:00",
+ "researched_at": "2026-11-11T01:56:58.815630+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -102,93 +102,93 @@
     "first_seen": "2026-11-09"
    }
   ],
-  "一次情報の探し方": [
+  "実例": [
    {
-    "quote": "：求人情報の急増、規制当局への提出書類の変化、SNS上の感情の変化など、公開情報に現れる小さな兆候をAIが検出し、分析官に示す",
+    "quote": "エージェントは、Shodan、Censys、Maltego、VirusTotal、MISPといった外部ツールを自分で選んで呼び出し、結果を見て推論を更新し、目的を達成するか停止条件に達するまで作業を繰り返す(Palmieri et al., 2026)",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "この論文の主題は国防の調達、組織改革、訓練、採用という公共行政上の課題であり、作戦の技術的な詳細は扱っていない",
+    "quote": "同プロジェクトは「AIはツールの呼び出しを指示するだけで、実際のプログラムは利用者側のコードが実行するため、幻覚による調査結果は構造的に生じない」という原則を掲げる(OpenOSINT, 2026)",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "Massive社の分類は、金融犯罪と暗号資産の追跡分析をOSINTツールの独立した分野として位置づけ、Chainalysisなどの事業者を挙げるとともに、2025年の不正な暗号資産取引が409億ドルに上るという統計を引いている(Turner, 2026)",
+    "quote": "国内の事例では、公開情報と企業情報を大規模なデータベース上で名寄せして整理し、営業活動に活かす取り組みにより、年間約1,300時間の情報収集の工数削減が報告されている(ユーソナー, 2023)",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "2025年2月から5月の軍の調達文書にはDeepSeekへの言及が150件以上あり、兵器工業集団傘下の兵器科学研究院の特許は、公開情報、人的情報、信号情報、地理空間情報、技術情報のデータで軍用大規模言語モデルを訓練し、情報サイクルの全段階を支援する構想を示している(Insikt Group, 2025)",
+    "quote": "情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "この段階では「人間とAIの協働モデル」を明示的な設計原則として採用し、AIが収集と優先順位づけを、人間が検証と意思決定を担う役割分担を制度化する(Palmieri et al., 2026)",
+    "quote": "第二に、HavocSecが挙げる事例(銀行がフィッシング用ドメイン3件を47分で特定、ジャーナリストが47のボットアカウントを特定)は、AIを用いたOSINTの効果が調査の速さに最もはっきり現れることを示している(HavocSec, 2026)",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "本稿の調査範囲では、日本の公的機関が生成AIのインテリジェンス活用に関する公式方針や倫理原則を公表した文書は確認できなかった",
+    "quote": "GCHQの倫理文書は、AIを自ら判断する主体ではなく、人間の分析官が審査するためのデータを抽出する「拡張知能」と位置づけ、データ、設計、結果の各段階で偏りを抑えることを求めている(GCHQ, 2021)",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "https://aclanthology.org/2023.eval4nlp-1.7.pdf",
+    "quote": "2.3.3 イスラエルの事例と証拠の限界",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf",
+    "quote": "イスラエルの事例が示しているのは、AIが信号情報、計測・痕跡情報、人的情報の境界を溶かす統合運用の可能性である",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "https://www.cimic-coe.org/wp-content/uploads/2025/03/factsheet-ai.pdf",
+    "quote": "衛星、無人機、電波の傍受によって収集能力が飛躍的に高まった結果、「情報が多すぎると情報が死ぬ」という処理能力の限界が課題になっていると指摘する",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "https://assets.recordedfuture.com/insikt-report-pdfs/2025/ta-cn-2025-0617.pdf",
+    "quote": "企業での応用としては、農業関連企業が衛星のスペクトルデータで広い地域の作物の収量を評価し、商品取引や供給計画に活かす事例や、競合他社の工場周辺の熱の放出や環境データを観察して生産量や稼働率を推定する「間接計測」の手法がある",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "https://www.defense.gouv.fr/sites/default/files/drm/Esprit%20d%C3%A9fense%20n%C2%B0%2017%20-%20Automne%202025-24-43.pdf",
+    "quote": "Khalid & Witmer(2025)は、大規模言語モデルを使った帰納的な主題分析に関する12本の研究を体系的に検討し、モデルの結果は人間の分析とおおむね一致するものの、わずかなプロンプトの違いで出力が大きく変わる再現性の低さが最大の限界だと結論づけた",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf",
+    "quote": "Schulhoff他(2024)が第6章で示した事例研究は、支援を求める文章の中から自殺の危険を示す「切迫した絶望感」を検出するという課題に対し、プロンプトの設計を繰り返し改善していく過程を詳しく記している",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "https://docs.house.gov/meetings/BA/BA10/20230427/115822/HHRG-118-BA10-Wstate-NelsonB-20230427.pdf",
+    "quote": "公開情報を大量に取り込むOSINTエージェントはこの攻撃に構造的に弱く、敵対勢力が公開情報源に仕込んだ指示によって分析結果が操作されうる",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "https://cdn.asp.events/CLIENT_Defence__8EE24275_D70D_4386_936BB8991B847FF8/sites/Navy-Leaders-2022/media/libraries/cne24-presentations/Day-3-UDSA-1115-OPTION-1-_PUBLIC_CNE_NATO_Data_and_AI_Policies.pdf",
+    "quote": "データ、設計、結果の各段階で偏りを抑えること、必要性と比例性を評価すること、多様な人材でチームを構成すること、説明可能なAI技術を使うことが掲げられている",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
    },
    {
-    "quote": "https://www.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "quote": "2.8.2 中国の事例が示す対照的な型",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
@@ -286,6 +286,98 @@
     "first_seen": "2026-11-09"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "：求人情報の急増、規制当局への提出書類の変化、SNS上の感情の変化など、公開情報に現れる小さな兆候をAIが検出し、分析官に示す",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この論文の主題は国防の調達、組織改革、訓練、採用という公共行政上の課題であり、作戦の技術的な詳細は扱っていない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Massive社の分類は、金融犯罪と暗号資産の追跡分析をOSINTツールの独立した分野として位置づけ、Chainalysisなどの事業者を挙げるとともに、2025年の不正な暗号資産取引が409億ドルに上るという統計を引いている(Turner, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2025年2月から5月の軍の調達文書にはDeepSeekへの言及が150件以上あり、兵器工業集団傘下の兵器科学研究院の特許は、公開情報、人的情報、信号情報、地理空間情報、技術情報のデータで軍用大規模言語モデルを訓練し、情報サイクルの全段階を支援する構想を示している(Insikt Group, 2025)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "この段階では「人間とAIの協働モデル」を明示的な設計原則として採用し、AIが収集と優先順位づけを、人間が検証と意思決定を担う役割分担を制度化する(Palmieri et al., 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "本稿の調査範囲では、日本の公的機関が生成AIのインテリジェンス活用に関する公式方針や倫理原則を公表した文書は確認できなかった",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://aclanthology.org/2023.eval4nlp-1.7.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.cimic-coe.org/wp-content/uploads/2025/03/factsheet-ai.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://assets.recordedfuture.com/insikt-report-pdfs/2025/ta-cn-2025-0617.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.defense.gouv.fr/sites/default/files/drm/Esprit%20d%C3%A9fense%20n%C2%B0%2017%20-%20Automne%202025-24-43.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://docs.house.gov/meetings/BA/BA10/20230427/115822/HHRG-118-BA10-Wstate-NelsonB-20230427.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://cdn.asp.events/CLIENT_Defence__8EE24275_D70D_4386_936BB8991B847FF8/sites/Navy-Leaders-2022/media/libraries/cne24-presentations/Day-3-UDSA-1115-OPTION-1-_PUBLIC_CNE_NATO_Data_and_AI_Policies.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "https://www.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "本稿は、世界の主要な情報機関が生成AI(大規模言語モデル、エージェント型AI、マルチモーダルAI)をどのように実際の業務に取り入れているかを調べ、その知見を実務向けにまとめたものである",
@@ -373,98 +465,6 @@
    },
    {
     "quote": "GCHQが自らの防御にエージェント型AIを組み込もうとしているように、企業も自社ネットワークの防御に同じ技術を使うことができる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "エージェントは、Shodan、Censys、Maltego、VirusTotal、MISPといった外部ツールを自分で選んで呼び出し、結果を見て推論を更新し、目的を達成するか停止条件に達するまで作業を繰り返す(Palmieri et al., 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "同プロジェクトは「AIはツールの呼び出しを指示するだけで、実際のプログラムは利用者側のコードが実行するため、幻覚による調査結果は構造的に生じない」という原則を掲げる(OpenOSINT, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "国内の事例では、公開情報と企業情報を大規模なデータベース上で名寄せして整理し、営業活動に活かす取り組みにより、年間約1,300時間の情報収集の工数削減が報告されている(ユーソナー, 2023)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "第二に、HavocSecが挙げる事例(銀行がフィッシング用ドメイン3件を47分で特定、ジャーナリストが47のボットアカウントを特定)は、AIを用いたOSINTの効果が調査の速さに最もはっきり現れることを示している(HavocSec, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "GCHQの倫理文書は、AIを自ら判断する主体ではなく、人間の分析官が審査するためのデータを抽出する「拡張知能」と位置づけ、データ、設計、結果の各段階で偏りを抑えることを求めている(GCHQ, 2021)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2.3.3 イスラエルの事例と証拠の限界",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "イスラエルの事例が示しているのは、AIが信号情報、計測・痕跡情報、人的情報の境界を溶かす統合運用の可能性である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "衛星、無人機、電波の傍受によって収集能力が飛躍的に高まった結果、「情報が多すぎると情報が死ぬ」という処理能力の限界が課題になっていると指摘する",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "企業での応用としては、農業関連企業が衛星のスペクトルデータで広い地域の作物の収量を評価し、商品取引や供給計画に活かす事例や、競合他社の工場周辺の熱の放出や環境データを観察して生産量や稼働率を推定する「間接計測」の手法がある",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Khalid & Witmer(2025)は、大規模言語モデルを使った帰納的な主題分析に関する12本の研究を体系的に検討し、モデルの結果は人間の分析とおおむね一致するものの、わずかなプロンプトの違いで出力が大きく変わる再現性の低さが最大の限界だと結論づけた",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Schulhoff他(2024)が第6章で示した事例研究は、支援を求める文章の中から自殺の危険を示す「切迫した絶望感」を検出するという課題に対し、プロンプトの設計を繰り返し改善していく過程を詳しく記している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "公開情報を大量に取り込むOSINTエージェントはこの攻撃に構造的に弱く、敵対勢力が公開情報源に仕込んだ指示によって分析結果が操作されうる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "データ、設計、結果の各段階で偏りを抑えること、必要性と比例性を評価すること、多様な人材でチームを構成すること、説明可能なAI技術を使うことが掲げられている",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2.8.2 中国の事例が示す対照的な型",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-09"
@@ -525,17 +525,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/gifted_myrtle162/n/n62f441b49230",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/sky2022sky/n/nf20d1f96509d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.risu-japan.com/math-weakness/know-weakness-reason/no-number-concept/",
+    "url": "https://note.com/gifted_myrtle162/n/n62f441b49230",
     "status": "ok",
     "method": "http"
    },
@@ -545,17 +540,22 @@
     "method": "http"
    },
    {
+    "url": "https://www.risu-japan.com/math-weakness/know-weakness-reason/no-number-concept/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://pc-clinic.co.jp/keyboard-numbers-not/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURSdktuYmJ3EAE!2m1!1s0x0:0xecc6a9d7bdbb4e77!3m1!1s2@1:CIHM0ogKEICAgIDRvKnbbw%7CCgsIw_OEogYQsLzqbQ%7C?hl=ja",
+    "url": "https://medi-face.co.jp/mental_disorders/general/symptoms/numerical-obsession/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://designing-for-dementia.jp/database/dysfunction/st-7/",
+    "url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURSdktuYmJ3EAE!2m1!1s0x0:0xecc6a9d7bdbb4e77!3m1!1s2@1:CIHM0ogKEICAgIDRvKnbbw%7CCgsIw_OEogYQsLzqbQ%7C?hl=ja",
     "status": "ok",
     "method": "http"
    },
@@ -575,9 +575,19 @@
     "method": ""
    },
    {
-    "url": "https://www.jpn-geriat-soc.or.jp/publications/other/pdf/clinical_practice_geriatrics_49_555.pdf",
+    "url": "https://urawasanatorium.com/2024/07/28/suuryou1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mhlw-grants.niph.go.jp/system/files/1999/000115/199900166A/199900166A0005.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://note.com/bunsekiya_tech/n/na479fc9a2e9b",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://note.com/gemba_ax_lab/n/n6c0e203869de",
@@ -585,22 +595,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.onamae.com/business/article/304525/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://digitalidentity.co.jp/blog/generative-ai/hallucination.html",
-    "status": "http_500",
-    "method": "http"
-   },
-   {
     "url": "https://trullion.com/blog/ai-hallucination-in-accounting-and-audit/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://arxiv.org/html/2508.03860v2",
     "status": "ok",
     "method": "http"
    },
@@ -610,17 +605,22 @@
     "method": ""
    },
    {
+    "url": "https://arxiv.org/html/2508.03860v2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://nextflywebdesign.com/blog/how-to-fact-check-generated-content/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.textsight.ai/blog/what-is-ai-hallucination-how-to-detect/",
+    "url": "https://www.prdaily.com/4-fact-checking-tips-for-the-age-of-misinformation-and-ai-hallucinations/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://chatfin.ai/blog/how-to-use-ai-to-fix-ai-hallucinations-caused-2-3b-in-trading-losses/",
+    "url": "https://www.textsight.ai/blog/what-is-ai-hallucination-how-to-detect/",
     "status": "ok",
     "method": "http"
    }
@@ -637,8 +637,8 @@
     "https://note.com/ai_tofumaru/n/nd9674100ea80",
     "https://note.com/everprogress/n/nc066813442e3",
     "https://note.com/ideal_slug1407/n/nccfb669ad562",
-    "https://note.com/gtminami/n/n677cf70d10a2",
     "https://note.com/csfive/n/n5c9abde2a13e",
+    "https://note.com/gtminami/n/n677cf70d10a2",
     "https://note.com/yuukimattari/n/n652a612d3564"
    ],
    "engines": [
@@ -654,12 +654,12 @@
     "https://note.com/t_note_memo/n/n5f463357da7f",
     "https://www.asahi.com/articles/ASV8P2WD5V8PUTFL018M.html",
     "https://note.com/xba_business/n/nd6700454dd34",
-    "https://note.com/gifted_myrtle162/n/n62f441b49230",
     "https://note.com/sky2022sky/n/nf20d1f96509d",
+    "https://note.com/gifted_myrtle162/n/n62f441b49230",
     "https://note.com/ryo_hsl/n/nb3dd0a5c55e3",
     "https://www.toyo.ac.jp/link-toyo/social/mental-health-malfunction/",
-    "https://note.com/my_cherry/n/n70e61ac0c5b9",
-    "https://x.com/Cafepoporon/status/2117767226980012056"
+    "https://note.com/cheeky_jacana360/n/n711c1900a4bb",
+    "https://www.youtube.com/watch?v=mDkRV4D58kg"
    ],
    "engines": [
     "ddgs:google",
@@ -671,32 +671,15 @@
    "query": "数字の幻覚・出どころの無い数字の点検（報告書の数字を元の表へ1つずつ戻す突き合わせ・数字の台帳・AIの書いた数字の照合の手順・4-126） やり方",
    "results": [
     "https://www.asahi.com/articles/ASV8P2WD5V8PUTFL018M.html",
+    "https://www.toyo.ac.jp/link-toyo/social/mental-health-malfunction/",
     "https://www.risu-japan.com/math-weakness/know-weakness-reason/no-number-concept/",
-    "https://www.toyo.ac.jp/link-toyo/social/mental-health-malfunction/",
     "https://pc-clinic.co.jp/keyboard-numbers-not/",
-    "https://www.youtube.com/watch?v=2HfLC1fyS8o",
+    "https://medi-face.co.jp/mental_disorders/general/symptoms/numerical-obsession/",
     "https://g.co/kgs/auXqBg",
-    "https://designing-for-dementia.jp/database/dysfunction/st-7/",
-    "https://kitakoshigaya-mental.com/blog/%E5%B9%BB%E8%A6%9A%E3%81%AE%E5%8E%9F%E5%9B%A0%E3%81%AF%EF%BC%9F%E7%97%87%E7%8A%B6%E3%82%84%E7%99%BA%E7%97%87%E3%81%97%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AE%E5%AF%BE%E5%87%A6%E6%B3%95%E3%82%92%E8%A7%A3/"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 8
-  },
-  {
-   "query": "数字の幻覚・出どころの無い数字の点検（報告書の数字を元の表へ1つずつ戻す突き合わせ・数字の台帳・AIの書いた数字の照合の手順・4-126） 事例",
-   "results": [
-    "https://www.asahi.com/articles/ASV8P2WD5V8PUTFL018M.html",
-    "https://shi-so.com/column/3666",
-    "https://www.youtube.com/watch?v=2HfLC1fyS8o",
-    "https://www.toyo.ac.jp/link-toyo/social/mental-health-malfunction/",
-    "https://jp.linkedin.com/pulse/when-numbers-arent-how-show-impact-anyway-philip-briscoe-mkide?tl=ja",
     "https://www.youtube.com/shorts/pehteqgdAlY",
+    "https://kitakoshigaya-mental.com/blog/%E5%B9%BB%E8%A6%9A%E3%81%AE%E5%8E%9F%E5%9B%A0%E3%81%AF%EF%BC%9F%E7%97%87%E7%8A%B6%E3%82%84%E7%99%BA%E7%97%87%E3%81%97%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AE%E5%AF%BE%E5%87%A6%E6%B3%95%E3%82%92%E8%A7%A3/",
     "https://designing-for-dementia.jp/database/dysfunction/st-7/",
-    "https://note.com/xba_business/n/nd6700454dd34",
-    "https://www.jpn-geriat-soc.or.jp/publications/other/pdf/clinical_practice_geriatrics_49_555.pdf",
-    "https://note.com/gemba_ax_lab/n/n6c0e203869de"
+    "https://mke3idiot.hateblo.jp/entry/2026/10/02/090000"
    ],
    "engines": [
     "ddgs:google",
@@ -705,17 +688,37 @@
    "n_hits": 16
   },
   {
+   "query": "数字の幻覚・出どころの無い数字の点検（報告書の数字を元の表へ1つずつ戻す突き合わせ・数字の台帳・AIの書いた数字の照合の手順・4-126） 事例",
+   "results": [
+    "https://www.asahi.com/articles/ASV8P2WD5V8PUTFL018M.html",
+    "https://shi-so.com/column/3666",
+    "https://www.toyo.ac.jp/link-toyo/social/mental-health-malfunction/",
+    "https://jp.linkedin.com/pulse/when-numbers-arent-how-show-impact-anyway-philip-briscoe-mkide?tl=ja",
+    "https://www.youtube.com/shorts/pehteqgdAlY",
+    "https://urawasanatorium.com/2024/07/28/suuryou1/",
+    "https://www.youtube.com/watch?v=cmWm2P3tdnQ",
+    "https://mhlw-grants.niph.go.jp/system/files/1999/000115/199900166A/199900166A0005.pdf",
+    "https://note.com/bunsekiya_tech/n/na479fc9a2e9b",
+    "https://www.youtube.com/watch?v=mDkRV4D58kg"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
    "query": "number fact-checking trace every figure back to source table hallucinated numbers audit newsroom",
    "results": [
     "https://trullion.com/blog/ai-hallucination-in-accounting-and-audit/",
-    "https://arxiv.org/html/2508.03860v2",
     "https://www.facebook.com/jhunter101/posts/an-ai-made-up-analytics-data-for-3-monthsnobody-noticedthis-is-what-happens-when/3894907220810161/",
+    "https://arxiv.org/html/2508.03860v2",
     "https://nextflywebdesign.com/blog/how-to-fact-check-generated-content/",
+    "https://www.prdaily.com/4-fact-checking-tips-for-the-age-of-misinformation-and-ai-hallucinations/",
     "https://www.textsight.ai/blog/what-is-ai-hallucination-how-to-detect/",
-    "https://chatfin.ai/blog/how-to-use-ai-to-fix-ai-hallucinations-caused-2-3b-in-trading-losses/",
-    "https://levystreet.com/learn/checking-ai-answers-against-sources/",
-    "https://www.youtube.com/watch?v=A1Ey1yBcdRg",
-    "https://www.linkedin.com/pulse/ai-hallucinations-just-cost-you-14200-per-employee-dfosc",
+    "https://gst.touro.edu/blogs/articles/akiva/hallucination-fact-check-your-ai-coworker.php",
+    "https://www.niemanlab.org/2022/12/the-year-of-the-fact-check-no-really/",
+    "https://www.forbes.com/sites/technology/article/how-to-fact-check-ai/",
     "https://joshwp.com/chatgpt-hallucination-statistics/"
    ],
    "engines": [
@@ -739,42 +742,22 @@
     "https://note.com/yuukimattari/n/n652a612d3564"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
   },
   {
    "query": "site:x.com 数字の幻覚・出どころの無い数字の点検（報告書の数字を元の表へ1つずつ戻す突き合わせ・数字の台帳・AIの書いた数字の照合の手順・4-126）",
-   "results": [
-    "https://x.com/ds100jp/status/2103388053129888134",
-    "https://x.com/Smallstep_Play/status/2108024289161249130",
-    "https://x.com/trkrtps_mh2/status/2053727971027099684",
-    "https://x.com/factlogue/status/2118260667455254618",
-    "https://x.com/takekan/status/2056620999194648993",
-    "https://x.com/akari_worlds/status/2105118470736404497",
-    "https://x.com/neru4oo/status/2118285442051420661"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:linkedin.com 数字の幻覚・出どころの無い数字の点検（報告書の数字を元の表へ1つずつ戻す突き合わせ・数字の台帳・AIの書いた数字の照合の手順・4-126）",
-   "results": [
-    "https://in.linkedin.com/company/career-fixx",
-    "https://id.linkedin.com/in/bestnusantarapersada",
-    "https://in.linkedin.com/jobs/freelance-photographer-jobs-chennai",
-    "https://jp.linkedin.com/pulse/unveiling-data-hallucinations-when-numbers-mislead-shawndra-tobias-u8skc?tl=ja",
-    "https://jp.linkedin.com/pulse/why-we-must-rethink-how-detect-ai-hallucinations-call-rijk-vonk-b20qe?tl=ja",
-    "https://www.linkedin.com/pulse/aiモデルの信頼性に関する新たな研究幻覚問題とその課題-netko-solution-jdu9c",
-    "https://www.linkedin.com/feed/update/urn:li:activity:7437437185303195648/"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:facebook.com 数字の幻覚・出どころの無い数字の点検（報告書の数字を元の表へ1つずつ戻す突き合わせ・数字の台帳・AIの書いた数字の照合の手順・4-126）",
@@ -783,9 +766,9 @@
     "https://www.facebook.com/waraeru88/videos/2000年間も数学者が探し続けている存在しないかもしれない幻の数字の謎がヤバすぎる-数学-雑学-ミステリー-面白/856560377475211/",
     "https://www.facebook.com/aihasegawa1010/posts/その数字出どころは添えられていますか-マイクロスコープの保有率は全国で34こうした数字がサイトに載っているのを拝見することがあります載せてはいけないというわけで/28780971658220155/",
     "https://www.facebook.com/akiyama.moriyuki/posts/チームみらいの得票率は666この数字で出どころがわかる人にはわかる/25924991550488103/",
-    "https://www.facebook.com/utsumindocumentaly/videos/177-数値化される物がだけが科学でありそれ以外は全てオカルト-現代人は数字や物質など目に見えるものだけを科学と信じそれ以外をオカルトとして切り捨てていますしか/1564062868476027/",
     "https://www.facebook.com/SuKattoHell/posts/4と6の間にいるのに5ではありません答えは何でしょう娘が夕食中に突然私たち家族に謎の問題を出してきたこれが分かる人はiq180らしいよそう言って見せてきたのはた/1464654542508215/",
-    "https://www.facebook.com/ijigenfile/posts/523836427826707/"
+    "https://www.facebook.com/utsumindocumentaly/videos/177-数値化される物がだけが科学でありそれ以外は全てオカルト-現代人は数字や物質など目に見えるものだけを科学と信じそれ以外をオカルトとして切り捨てていますしか/1564062868476027/",
+    "https://www.facebook.com/reel/425940403293058/"
    ],
    "engines": [
     "ddgs:google"
@@ -797,34 +780,34 @@
    "results": [
     "https://note.com/comix_ceo162230/n/nb10ce42b8773",
     "https://note.com/taxcom/n/n4b4e3514ac72",
-    "https://note.com/t_note_memo/n/n5f463357da7f",
-    "https://www.asahi.com/articles/ASV8P2WD5V8PUTFL018M.html",
-    "https://note.com/globis_mba/n/nb74c2c01df1b",
-    "https://note.com/omochi17/n/n5cc637d6af1e",
-    "https://toyokeizai.net/articles/-/770936?display=b",
+    "https://note.com/human_fennel1152/all",
     "https://note.com/kodaiando/n/n6d833763fe4d",
-    "https://www.youtube.com/watch?v=Bl6P-v2rrF8",
+    "https://www.asahi.com/articles/ASV8P2WD5V8PUTFL018M.html",
+    "https://note.com/t_note_memo/n/n5f463357da7f",
+    "https://business.nikkei.com/atcl/gen/19/00585/112100006/",
+    "https://toyokeizai.net/articles/-/770936?display=b",
+    "https://note.com/limber_hound8202/n/n0e2dc40acfe2",
     "https://note.jp/n/n147d6ef47c22"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "数字の幻覚・出どころの無い数字の点検（報告書の数字を元の表へ1つずつ戻す突き合わせ・数字の台帳・AIの書いた数字の照合の手順・4-126） X 投稿",
    "results": [
+    "https://note.com/sane_mink364/n/n963e7cbc19d0",
     "https://x.com/trickcal_jp/article/2117542310758207749/media/2117504721053429760",
     "https://www.youtube.com/watch?v=QAI6GqQiU6g",
     "https://www.threads.com/@meta.ai/post/DZ9conmgqOY/%E7%AA%81%E7%84%B6%E7%9C%8B%E5%88%B0%E5%88%A5%E4%BA%BA%E9%A0%AD%E4%B8%8A%E6%9C%89%E6%95%B8%E5%AD%97%E9%80%99%E7%A8%AE%E8%A6%96%E8%A6%BA%E8%AE%8A%E5%8C%96%E5%8F%AF%E8%83%BD%E6%9C%83%E8%AE%93%E4%BA%BA%E5%BE%88%E4%B8%8D%E5%AE%89%E5%BB%BA%E8%AD%B0%E4%BD%A0%E5%84%98%E5%BF%AB%E5%92%8C%E7%B2%BE%E7%A5%9E%E7%A7%91%E9%86%AB%E5%B8%AB%E6%88%96%E8%BA%AB%E5%BF%83%E7%A7%91%E5%B0%88%E6%A5%AD%E4%BA%BA%E5%93%A1%E8%AB%87%E8%AE%93%E5%B0%88%E6%A5%AD%E8%A9%95%E4%BC%B0%E6%9C%80%E5%AE%89%E5%85%A8%E5%9C%A8%E5%8F%B0%E7%81%A3%E5%8F%AF%E4%BB%A5%E6%92%A5%E6%89%93%E8%A1%9B%E7%94%9F%E7%A6%8F%E5%88%A9%E9%83%A8%E5%AE%89%E5%BF%83%E5%B0%88%E7%B7%9A1925%E6%88%96%E7%94%9F%E5%91%BD%E7%B7%9A199/?hl=ja",
     "https://www.reddit.com/r/MachineLearning/comments/1tens5n/backlash_against_arxivs_proposed_1_year_ban_is/?tl=ja",
     "https://www.youtube.com/shorts/Md0T9tC2S_E",
     "http://twitter.com/404hzl",
-    "https://note.com/cheeky_jacana360/n/n711c1900a4bb",
-    "https://www.j-cast.com/2019/05/08356966.html?p=all",
-    "https://x.com/akari_worlds/status/2105118470736404497",
-    "https://x.com/kakinotane_life/status/2116636354180481149"
+    "https://youtu.be/ge488k-7eEI",
+    "https://x.com/kakinotane_life/status/2116636354180481149",
+    "https://x.com/bonjin009/status/2114969025696723420"
    ],
    "engines": [
     "ddgs:google",
@@ -836,14 +819,14 @@
    "query": "number fact-checking trace every figure back to source table hallucinated numbers audit newsroom site:linkedin.com",
    "results": [
     "https://www.linkedin.com/top-content/communication/combating-disinformation/fact-checking-in-news-production/",
-    "https://www.linkedin.com/in/mike-stucka",
     "https://www.linkedin.com/posts/lorrainesotas_did-you-know-aspe-is-the-rulebook-most-of-activity-7513251831792230400-NHzz",
+    "https://www.linkedin.com/in/mike-stucka",
     "https://www.linkedin.com/in/ebsmartin",
+    "https://uk.linkedin.com/in/markriley",
     "https://www.linkedin.com/in/todd-smith-5115b5",
-    "https://www.linkedin.com/in/roopsinghsood",
     "https://uk.linkedin.com/in/alex-dolia-866b9958",
+    "https://www.linkedin.com/in/roopsinghsood",
     "https://sg.linkedin.com/in/ketan-wani-5187a820",
-    "https://www.linkedin.com/in/wallingalex",
     "https://www.linkedin.com/directory/articles/j"
    ],
    "engines": [
@@ -854,468 +837,7 @@
   }
  ],
  "missing": {},
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "競合仮説分析、悪魔の代弁者、レッドチーム分析などが含まれる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "市場規模や性能に関する推計は情報源によって大きく食い違う",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "どちらも、集めた情報を処理してから分析官に渡すという一方通行の流れを、分析官が生のデータと対話しながら仮説を組み立てる双方向の流れに変えている",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "画像に埋め込まれた位置情報(EXIF)に頼らず、建築様式、植生、標識といった見た目の手がかりから撮影場所を推定する(GeoSeer, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "研究は収集と分析に偏り、検証と報告の段階が手薄である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "同論文はこの状況を「幻覚と検証の隔たり」と名づけ、当面もっとも安全な形として、大規模言語モデルが収集と優先順位づけを担い、分析官が検証と意思決定の責任を持つ、人間とAIの協働モデルを提案している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "AIに事実を作らせるのではなく、検証可能な外部ツールの選択と連鎖だけを任せ、事実そのものは決定論的なツールの出力から得る",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この「生成と検証の分離」は、幻覚と検証の隔たりに対する設計段階の答えであり、情報機関にも企業にも応用できる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "第一に、OSINTが法執行機関の情報素材の約80%を占めるという推計(nullsec.news, 2026)が示すように、公開情報を処理する力が、組織の情報能力の大半を決める時代に入っている",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "モサドのAI計画を論じた個人の分析記事も、本文を確認できておらず、内容を検証できていない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "本稿はこれを報道に基づく推定と位置づけ、確認できた事実とは区別する",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "大規模言語モデルは、組織の構造や過去の報告内容を与えれば筋の通った偽情報を量産できるため、AI時代には情報源の検証がこれまで以上に重要になる(Mulligan, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "技術面では、DRMが軍事情報のデータを統合するAI搭載アプリ「エスクリム」を、DRSDが防諜のために異なる種類のデータを突き合わせる「シルシド」を開発し、DGSEも内製の生成AIを整備している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "：求人情報の急増、規制当局への提出書類の変化、SNS上の感情の変化など、公開情報に現れる小さな兆候をAIが検出し、分析官に示す",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この論文の主題は国防の調達、組織改革、訓練、採用という公共行政上の課題であり、作戦の技術的な詳細は扱っていない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Massive社の分類は、金融犯罪と暗号資産の追跡分析をOSINTツールの独立した分野として位置づけ、Chainalysisなどの事業者を挙げるとともに、2025年の不正な暗号資産取引が409億ドルに上るという統計を引いている(Turner, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2025年2月から5月の軍の調達文書にはDeepSeekへの言及が150件以上あり、兵器工業集団傘下の兵器科学研究院の特許は、公開情報、人的情報、信号情報、地理空間情報、技術情報のデータで軍用大規模言語モデルを訓練し、情報サイクルの全段階を支援する構想を示している(Insikt Group, 2025)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この段階では「人間とAIの協働モデル」を明示的な設計原則として採用し、AIが収集と優先順位づけを、人間が検証と意思決定を担う役割分担を制度化する(Palmieri et al., 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "本稿の調査範囲では、日本の公的機関が生成AIのインテリジェンス活用に関する公式方針や倫理原則を公表した文書は確認できなかった",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "https://aclanthology.org/2023.eval4nlp-1.7.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "https://www.cimic-coe.org/wp-content/uploads/2025/03/factsheet-ai.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "https://assets.recordedfuture.com/insikt-report-pdfs/2025/ta-cn-2025-0617.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "https://www.defense.gouv.fr/sites/default/files/drm/Esprit%20d%C3%A9fense%20n%C2%B0%2017%20-%20Automne%202025-24-43.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "https://docs.house.gov/meetings/BA/BA10/20230427/115822/HHRG-118-BA10-Wstate-NelsonB-20230427.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "https://cdn.asp.events/CLIENT_Defence__8EE24275_D70D_4386_936BB8991B847FF8/sites/Navy-Leaders-2022/media/libraries/cne24-presentations/Day-3-UDSA-1115-OPTION-1-_PUBLIC_CNE_NATO_Data_and_AI_Policies.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "https://www.dni.gov/files/documents/ICD/ICD-203.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "確証バイアスを増幅するため、分析の場面では幻覚と並ぶ危険をなす",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "構造化分析技法(SATs)：分析官の認知バイアスを抑えるために情報機関が発展させてきた一連の手法",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "第四に、公開資料の中には本文を確認できないものや、著者や日付の記載に誤りがあるものが少なくない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "同論考は元CIA工作担当官による規範的な考察であり、現在の運用を記述したものではない点に注意が必要である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Block他(2023)の実験が示すように、大規模言語モデルは分析記録の要約で数値計算を誤り、指示文中の語句に引きずられる傾向があり、要約の忠実さは保証されない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "同誌はまた、ウクライナ戦争の教訓として、侵攻を予測できなかった「合理性バイアス」(相手が合理的に行動するという思い込み)と、米国が情報を意図的に機密解除した前例のない戦略を挙げている(Ministère des Armées, 2025b)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "この「合理性バイアス」の指摘は、後述する構造化分析技法において、生成AIに相手の非合理的な行動の仮説も立てさせる必要があることを示している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "信号情報の市場規模については、情報源による推計の差が大きいため、推計の信頼性に注意が必要である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "CIAをはじめとする情報機関は、認知バイアスを抑えるために、競合仮説分析(ACH)、主要な前提の点検、悪魔の代弁者、代替未来分析、レッドチーム分析といった構造化分析技法を使ってきた",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "事実の誤りは少なかったが、文脈のつながりの誤りや同じ語句の繰り返しが残り、モデルは数値の計算を誤り、指示文中の語句に引きずられ、すべての操作を目標に関係するものとみなす傾向を示した",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "構造化分析技法は認知バイアスに対処するために発展してきたが、生成AIは二種類の新しいバイアスを持ち込む",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "メトレウェリが「アルゴリズムは人々の偏見に迎合する」と警告したとおり(Dunton, 2025)、迎合性は確証バイアスを増幅し、構造化分析技法が抑えようとしてきたまさにその偏りを強める",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "CIAの公刊誌に載った論考も、質の高いAIを使う人ほど注意を怠りがちになり、利用者がAIの偏りを吸収して使うのをやめた後も保ち続けるという研究を引いて、この危険を警告している(Brown, 2024)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "報告書は、幻覚、イデオロギー上の偏り、データの漏洩、敵対勢力によるディープフェイクといったリスクがPLA側でも認識されていると指摘し、結果として起こりうることを「大幅な改善」から「重大な失敗」までの六つのシナリオに整理している(Insikt Group, 2025; Recorded Future, 2025)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "同時に、報告書自身が、開発や販売にあたる主体は有効性を誇張する動機を持つと注意を促していることは、中国側の能力を評価する際にも情報源の格付けが必要であることを示している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "本稿は、世界の主要な情報機関が生成AI(大規模言語モデル、エージェント型AI、マルチモーダルAI)をどのように実際の業務に取り入れているかを調べ、その知見を実務向けにまとめたものである",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エージェント型AI：人間が与えた目標に対し、必要な手順を自ら組み立て、外部の道具を呼び出して多段階の作業を進めるAI",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Khalid & Witmer(2025)は、大規模言語モデルを用いた主題分析の手順を四段階に整理した",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エージェント型AIはこれをさらに進め、収集、処理、分析の三つの段階を自律的に行き来する(Palmieri et al., 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "：theHarvester、SpiderFoot、OSINT Framework",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "エージェント型の例としてOpenOSINTがある",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "対話型の実行環境、ウェブ画面、コマンドライン、MCPサーバーの四つの使い方がある(OpenOSINT, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2.2.3 「エージェント型OSINT」という質的な転換",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "CIAの公刊誌に載った近年の論考は、ソーシャルメディアなどの公開データと業務上の記録を大規模言語モデルに読み込ませ、協力者との対話で使うべき言葉や避けるべき話題、相手が示しそうな反論を事前に助言させる使い方を提案している(Mulligan, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "GCHQ長官のアン・キースト＝バトラーは、2026年5月27日にブレッチリー・パークで行った第1回GCHQ年次講演で、国家サイバーセキュリティセンター(NCSC)がエージェント型AIを組み込んだ国家規模のサイバー防衛能力を開発中であることを明らかにした",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2021年の「拡張知能」から2026年の「エージェント型AIによる機械の速さでの防御」への移行は、後述する導入計画の第一段階から第四段階までを、一つの機関が5年間で歩んだ例といえる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2.4.2 フランスDGSEの統合型モデル",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "GCHQが自らの防御にエージェント型AIを組み込もうとしているように、企業も自社ネットワークの防御に同じ技術を使うことができる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "エージェントは、Shodan、Censys、Maltego、VirusTotal、MISPといった外部ツールを自分で選んで呼び出し、結果を見て推論を更新し、目的を達成するか停止条件に達するまで作業を繰り返す(Palmieri et al., 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "同プロジェクトは「AIはツールの呼び出しを指示するだけで、実際のプログラムは利用者側のコードが実行するため、幻覚による調査結果は構造的に生じない」という原則を掲げる(OpenOSINT, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "国内の事例では、公開情報と企業情報を大規模なデータベース上で名寄せして整理し、営業活動に活かす取り組みにより、年間約1,300時間の情報収集の工数削減が報告されている(ユーソナー, 2023)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "第二に、HavocSecが挙げる事例(銀行がフィッシング用ドメイン3件を47分で特定、ジャーナリストが47のボットアカウントを特定)は、AIを用いたOSINTの効果が調査の速さに最もはっきり現れることを示している(HavocSec, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "GCHQの倫理文書は、AIを自ら判断する主体ではなく、人間の分析官が審査するためのデータを抽出する「拡張知能」と位置づけ、データ、設計、結果の各段階で偏りを抑えることを求めている(GCHQ, 2021)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2.3.3 イスラエルの事例と証拠の限界",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "イスラエルの事例が示しているのは、AIが信号情報、計測・痕跡情報、人的情報の境界を溶かす統合運用の可能性である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "衛星、無人機、電波の傍受によって収集能力が飛躍的に高まった結果、「情報が多すぎると情報が死ぬ」という処理能力の限界が課題になっていると指摘する",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "企業での応用としては、農業関連企業が衛星のスペクトルデータで広い地域の作物の収量を評価し、商品取引や供給計画に活かす事例や、競合他社の工場周辺の熱の放出や環境データを観察して生産量や稼働率を推定する「間接計測」の手法がある",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Khalid & Witmer(2025)は、大規模言語モデルを使った帰納的な主題分析に関する12本の研究を体系的に検討し、モデルの結果は人間の分析とおおむね一致するものの、わずかなプロンプトの違いで出力が大きく変わる再現性の低さが最大の限界だと結論づけた",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Schulhoff他(2024)が第6章で示した事例研究は、支援を求める文章の中から自殺の危険を示す「切迫した絶望感」を検出するという課題に対し、プロンプトの設計を繰り返し改善していく過程を詳しく記している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "公開情報を大量に取り込むOSINTエージェントはこの攻撃に構造的に弱く、敵対勢力が公開情報源に仕込んだ指示によって分析結果が操作されうる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "データ、設計、結果の各段階で偏りを抑えること、必要性と比例性を評価すること、多様な人材でチームを構成すること、説明可能なAI技術を使うことが掲げられている",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "2.8.2 中国の事例が示す対照的な型",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-09T09:59:37.201369+00:00"
 }

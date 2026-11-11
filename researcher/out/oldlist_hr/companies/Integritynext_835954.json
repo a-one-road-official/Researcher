@@ -1,0 +1,1544 @@
+{
+ "name": "Integritynext",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-11T02:15:18.947576+00:00",
+ "official_url": "https://integritynext.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$129,000",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$108,300,000",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Schillerstraße 23A, 1st floor, Munich, Bavaria 80336, DE",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Built for Speed. Proven at Scale.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IntegrityNext is the supply chain sustainability intelligence & orchestration platform that embeds sustainability into the operating model of your supply chain, allowing you to align sustainability goals with business outcomes across the supply chain and shift from reactive to proactive strategy execution.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the work that slows sustainability down - supplier data collection, assessments, compliance checks, and reporting - so teams spend less time chasing inputs and more time executing. AI-assisted assessments plus automated product compliance workflows reduce manual effort while keeping outputs audit-ready.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive Risk Mitigation​",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn sustainability and compliance signals into early warnings and clear next steps, before issues become disruptions, fines, or reputational hits. A governed risk layer continuously evaluates supplier and product signals, applies expert prioritization, and triggers alerts, assessments, and actions with humans in control.​",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved Supplier Performance​",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve supplier performance with risk-based, data-driven engagement that focuses effort where it matters most, reducing supplier fatigue. Prioritize suppliers intelligently, target outreach with evidence-backed insights, and drive measurable progress across your supplier base.​",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect sustainability execution to outcomes: efficiency, cost, risk reduction, resilience, and growth. Track progress across suppliers and products, build an ROI narrative that stands up to stakeholder scrutiny.​",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore our comprehensive suite of solutions designed to help you meet global sustainability demands across every aspect of your supply chain. From due diligence to decarbonization, we empower you to drive positive impact while staying ahead of evolving regulatory requirements.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable Procurement",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Embed sustainability into procurement decisions across the entire supplier lifecycle. IntegrityNext helps you identify risks, engage suppliers in improvement plans, and integrate sustainability into sourcing, contracting, and supplier management—turning procurement into a driver of sustainability impact and business value.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet growing due diligence obligations under laws like the EU Supply Chain Act (CSDDD), Germany’s Supply Chain Act, France’s Duty of Vigilance Law, and more. IntegrityNext enables end-to-end compliance by identifying environmental and human rights risks, engaging suppliers, and providing multi-tier transparency and audit-ready documentation.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Forced Labor Prevention",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent forced labor-linked goods from entering your supply chain. IntegrityNext enables compliance with laws like the UFLPA and upcoming EU Forced Labor Regulation through supplier screening, traceability, and risk-based due diligence—so you can take credible, proactive action to protect your business, ensure responsible sourcing, and uphold human rights.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Measure, track, and reduce emissions across your supply chain. IntegrityNext helps you collect company- and product-level carbon data, engage suppliers on reduction targets, and ensure compliance with frameworks like SBTi and regulations like CBAM—accelerating climate action and Scope 3 reduction at scale.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure compliance with ESG and product-level regulations on EUDR, conflict minerals, hazardous substances, chemicals, batteries, and more. IntegrityNext automates supplier data collection and streamlines reporting—reducing administrative burden while safeguarding market access.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline your non-financial reporting with structured ESG data and automated disclosures. IntegrityNext provides end-to-end CSRD compliance, automated GRI reporting, and ISSB alignment—covering double materiality and value chain impacts to meet today’s sustainability reporting expectations.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gartner® 2026 Market Guide for Sustainable Procurement Applications",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the key trends shaping sustainable procurement: from AI-driven risk management to evolving regulations like EUDR and CBAM. Discover how to evaluate vendors, improve supplier engagement, and build a future-ready program, plus see why IntegrityNext is recognized as a Representative Vendor.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Without IntegrityNext, we’d have to send out Microsoft forms, Word documents, spreadsheets… consolidating all that information would not be possible without a",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "understand product and supplier structures",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Procurement & Sustainability,",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in procurement sustainability and one in global sustainability to manage questionnaires and scoring.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Measuring Product-Level Emissions - How to Turn PCFs into a Strategic Advantage",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Carbon Footprints (",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We collaborate with leading software providers and integration partners to streamline processes and seamlessly connect the IntegrityNext platform to existing IT.",
+    "url": "https://integritynext.com/about-us/partners",
+    "pass": 1
+   },
+   {
+    "quote": "embed IntegrityNext data into their products, ensuring sustainability data is available across critical business processes.",
+    "url": "https://integritynext.com/about-us/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our Business Partners combine their expertise with ours to offer powerful, efficient solutions to customers. They connect us with organizations that benefit from our platform, while we deliver the cutting-edge technology and support they need. Together, we help companies optimize supplier management, mitigate risk, and promote sustainable practices.",
+    "url": "https://integritynext.com/about-us/partners",
+    "pass": 1
+   },
+   {
+    "quote": "IntegrityNext collaborates with esteemed sustainability partners, combining their specialized expertise with the robust capabilities of our platform. This powerful synergy provides customers with the tools and insights to drive impactful sustainability initiatives.",
+    "url": "https://integritynext.com/about-us/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers benefit from a holistic approach, gaining access to knowledge from leaders in various sustainability fields.",
+    "url": "https://integritynext.com/about-us/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our certification and audit partners help companies credibly demonstrate compliance and sustainability performance. Through independent assessments and seals, they provide transparency and build trust across the supply chain.",
+    "url": "https://integritynext.com/about-us/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Meet the Celonis EUDR Manager: a joint solution by IntegrityNext, Ventum, and Celonis that brings end-to-end deforestation compliance directly into operational workflows. Automating supplier onboarding, risk assessments, and due diligence reporting — all inside the Celonis environment.",
+    "url": "https://integritynext.com/about-us/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Joining the IntegrityNext Partner Ecosystem offers numerous benefits: expand your service offerings, access industry expertise, receive marketing support, and network with like-minded professionals. Join us in promoting global supply chain sustainability!",
+    "url": "https://integritynext.com/about-us/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing supply chains, particularly in the production of steel and other metals, electronics, chemicals, or plastics, are major sources of carbon emissions. Leveraging ESG tech solutions can help track and reduce Scope 3 emissions, transition to renewable energy, and drive decarbonization.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Addressing Risks in Resource Extraction and Processing",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Lower-tier supply chains are rife with ESG risks, including forced labor, poor working conditions, and weak environmental standards in mining and metal production.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Phasing Out Hazardous Chemicals and Ensuring Product Safety",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The widespread use of hazardous chemicals in manufacturing poses risks to worker safety and environmental health. Advanced ESG platforms support compliance with safety standards and regulations, facilitate the shift to safer alternatives, and ensure product safety throughout the value chain, including the use phase.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Promoting Circular Design and Material Efficiency",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Adopting circular product design and alternative raw materials can reduce resource consumption and dependency, minimize waste, and strengthen supply chain resilience. ESG solutions provide visibility into material flows and supplier practices, enabling manufacturers to embrace sustainability and meet customer demand for eco-friendly products.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable supply chain practices not only mitigate risks but also provide a competitive edge in customer bids and contracting processes. ESG tools empower manufacturers to align supply chains with sustainability goals, enhancing resilience while creating positive downstream impacts for customers.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform offers a comprehensive suite of sustainability solutions to meet your industry needs. Combining the world’s largest sustainable supply chain network, AI-powered insights and automation, and built-in ESG expertise covering over 40 topics, we ensure that your sustainability efforts are tailored to your industry - giving you a competitive edge and driving meaningful impact.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturers face significant risks related to labor rights violations, unethical raw material sourcing, and environmental degradation. Our due diligence solutions ensure compliance with regulations like the EU’s CSDDD, offering proactive risk management tools to monitor and address ESG risks in supply chains.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainability reporting is essential to demonstrate efforts to reduce environmental impacts and meet the requirements of frameworks such as the CSRD or GRI. Our platform streamlines reporting processes by providing transparent ESG data, enabling companies to align with stakeholder expectations and regulatory standards.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing processes are highly carbon-intensive, with significant emissions stemming from raw material extraction and processing, production, and transportation. We help you monitor embedded carbon and reduce",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "and driving progress toward sustainability targets.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Raw materials like timber, rubber, and renewable feedstocks used in manufacturing are often tied to deforestation and biodiversity loss. Our solutions ensure compliance with the EUDR, promote sustainable sourcing, and minimize environmental harm throughout the value chain.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers often operate complex, multi-tier supply chains that demand transparency to mitigate ESG risks and improve resilience. Our advanced visibility tools help you map suppliers, track compliance, and enhance supply chain sustainability while reducing operational vulnerabilities.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Product & Material Compliance",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance with product-specific regulations – including REACH, RoHS and the Conflict Minerals Regulation in the EU, as well as the TSCA and Dodd-Frank Act in the United States – is critical for manufacturers. We help you simplify these processes, ensuring adherence to global standards and supporting the development of safer and more sustainable products.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "“At Jungheinrich we are continuously looking to increase the share of our sustainable spend. IntegrityNext provides us with the supplier data we need to analyze how we’re doing and where to improve.”",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Procurement Performance and Development",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Jungheinrich wanted to systematically assess its suppliers and collect data to determine whether they meet the company’s sustainability requirements and to identify potential for optimization and track progress. Furthermore, Jungheinrich needed reliable data to determine and increase the share of its sustainable spend as well as support.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The company also uses its own IntegrityNext profile to increase transparency and report publicly about sustainability performance to clients and investors",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainability Xpress Newsletter",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainability Xpress - Edition 11/2026",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "In this month’s edition of Sustainability Xpress, we cover a wide range of policy developments and industry news, including the finalization of sustainability reporting standards under the CSRD, plans to expand CBAM, the EU’s Climate Resilience Framework, the first global management standard for the SDGs, and a wrap-up of the COP17 biodiversity conference.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "With IntegrityNext, SSI SCHÄFER assesses more than 10,000 suppliers for sustainability risks and achieves an 85% response rate for A-tier supplier evaluations. Integration with its procurement platform Mercanis, completed in just four weeks, embeds risk insights into purchasing decisions, streamlining due diligence and supporting strategic supplier management.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "From precision manufacturing to global finance, leading organizations rely on IntegrityNext to gain visibility, manage risk, and drive sustainability at scale.",
+    "url": "https://integritynext.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "With IntegrityNext, SSI SCHÄFER assesses more than 10,000 suppliers for sustainability risks and achieves an 85% response rate for A-tier supplier evaluations. Integration with its procurement platform Mercanis, completed in just four weeks, embeds risk insights into purchasing decisions, streamlining due diligence and supporting strategic supplier management.",
+    "url": "https://integritynext.com/customers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Product carbon footprints (PCFs) are no longer a nice-to-have. Customers ask for them, regulators are starting to, and most manufacturers still build them by hand. In this article, George Karapetyan uses his grandmother's baklava to explain how a product carbon footprint is calculated, why PCF data is so hard to get, and where AI actually helps.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain sustainability in the manufacturing industry",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Optimizing supply chains for sustainability, resilience, and compliance in manufacturing.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How IntegrityNext Helps Manufacturing Sustainability",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Industry Leaders Trust IntegrityNext",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing supply chains, particularly in the production of steel and other metals, electronics, chemicals, or plastics, are major sources of carbon emissions. Leveraging ESG tech solutions can help track and reduce Scope 3 emissions, transition to renewable energy, and drive decarbonization.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The widespread use of hazardous chemicals in manufacturing poses risks to worker safety and environmental health. Advanced ESG platforms support compliance with safety standards and regulations, facilitate the shift to safer alternatives, and ensure product safety throughout the value chain, including the use phase.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Adopting circular product design and alternative raw materials can reduce resource consumption and dependency, minimize waste, and strengthen supply chain resilience. ESG solutions provide visibility into material flows and supplier practices, enabling manufacturers to embrace sustainability and meet customer demand for eco-friendly products.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable supply chain practices not only mitigate risks but also provide a competitive edge in customer bids and contracting processes. ESG tools empower manufacturers to align supply chains with sustainability goals, enhancing resilience while creating positive downstream impacts for customers.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturers face significant risks related to labor rights violations, unethical raw material sourcing, and environmental degradation. Our due diligence solutions ensure compliance with regulations like the EU’s CSDDD, offering proactive risk management tools to monitor and address ESG risks in supply chains.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing processes are highly carbon-intensive, with significant emissions stemming from raw material extraction and processing, production, and transportation. We help you monitor embedded carbon and reduce",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Raw materials like timber, rubber, and renewable feedstocks used in manufacturing are often tied to deforestation and biodiversity loss. Our solutions ensure compliance with the EUDR, promote sustainable sourcing, and minimize environmental harm throughout the value chain.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers often operate complex, multi-tier supply chains that demand transparency to mitigate ESG risks and improve resilience. Our advanced visibility tools help you map suppliers, track compliance, and enhance supply chain sustainability while reducing operational vulnerabilities.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance with product-specific regulations – including REACH, RoHS and the Conflict Minerals Regulation in the EU, as well as the TSCA and Dodd-Frank Act in the United States – is critical for manufacturers. We help you simplify these processes, ensuring adherence to global standards and supporting the development of safer and more sustainable products.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Jungheinrich uses the IntegrityNext solution to collect comparable sustainability data of the top spend suppliers. The collected data is then exported to the business warehouse and used for various analyses across all categories and regions.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Product carbon footprints (PCFs) are no longer a nice-to-have. Customers ask for them, regulators are starting to, and most manufacturers still build them by hand. In this article, George Karapetyan uses his grandmother's baklava to explain how a product carbon footprint is calculated, why PCF data is so hard to get, and where AI actually helps.",
+    "url": "https://integritynext.com/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "From precision manufacturing to global finance, leading organizations rely on IntegrityNext to gain visibility, manage risk, and drive sustainability at scale.",
+    "url": "https://integritynext.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "As a leading manufacturer of machine tools, DMG MORI pushes digitization at all levels. The company uses IntegrityNext to drive supply chain sustainability and automate procurement processes.",
+    "url": "https://integritynext.com/esg-solutions/german-supply-chain-act-lksg",
+    "pass": 1
+   },
+   {
+    "quote": "Product carbon footprints (PCFs) are no longer a nice-to-have. Customers ask for them, regulators are starting to, and most manufacturers still build them by hand. In this article, George Karapetyan uses his grandmother's baklava to explain how a product carbon footprint is calculated, why PCF data is so hard to get, and where AI actually helps.",
+    "url": "https://integritynext.com/esg-solutions/german-supply-chain-act-lksg",
+    "pass": 1
+   },
+   {
+    "quote": "Product carbon footprints (PCFs) are no longer a nice-to-have. Customers ask for them, regulators are starting to, and most manufacturers still build them by hand. In this article, George Karapetyan uses his grandmother's baklava to explain how a product carbon footprint is calculated, why PCF data is so hard to get, and where AI actually helps.",
+    "url": "https://integritynext.com/esg-solutions/norwegian-transparency-act-nta",
+    "pass": 1
+   },
+   {
+    "quote": "Product carbon footprints (PCFs) are no longer a nice-to-have. Customers ask for them, regulators are starting to, and most manufacturers still build them by hand. In this article, George Karapetyan uses his grandmother's baklava to explain how a product carbon footprint is calculated, why PCF data is so hard to get, and where AI actually helps.",
+    "url": "https://integritynext.com/esg-solutions/swiss-supply-chain-act-vsotr",
+    "pass": 1
+   },
+   {
+    "quote": "Product carbon footprints (PCFs) are no longer a nice-to-have. Customers ask for them, regulators are starting to, and most manufacturers still build them by hand. In this article, George Karapetyan uses his grandmother's baklava to explain how a product carbon footprint is calculated, why PCF data is so hard to get, and where AI actually helps.",
+    "url": "https://integritynext.com/esg-solutions/corporate-sustainability-due-diligence-directive-csddd",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers processing raw materials from affected supply chains",
+    "url": "https://integritynext.com/esg-solutions/eudr-deforestation-regulation",
+    "pass": 1
+   },
+   {
+    "quote": "Conflict minerals like tin, tantalum, tungsten, and gold (3TG) and high-risk minerals – such as cobalt, mica, lithium, and nickel – are essential to a wide range of industries, from electronics and aerospace to automotive and cosmetics.",
+    "url": "https://integritynext.com/esg-solutions/conflict-minerals",
+    "pass": 1
+   },
+   {
+    "quote": "Applies to all types of batteries – including portable, industrial, and automotive – and covers cobalt, lithium, nickel, natural graphite, and 3TG.",
+    "url": "https://integritynext.com/esg-solutions/conflict-minerals",
+    "pass": 1
+   },
+   {
+    "quote": "Capacitors for electronics, medical devices, and aerospace superalloys",
+    "url": "https://integritynext.com/esg-solutions/conflict-minerals",
+    "pass": 1
+   },
+   {
+    "quote": "Jewelry, electronics, and aerospace applications",
+    "url": "https://integritynext.com/esg-solutions/conflict-minerals",
+    "pass": 1
+   },
+   {
+    "quote": "Rechargeable batteries, aerospace superalloys, and catalysts",
+    "url": "https://integritynext.com/esg-solutions/conflict-minerals",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics, cosmetics, and automotive manufacturing",
+    "url": "https://integritynext.com/esg-solutions/conflict-minerals",
+    "pass": 1
+   },
+   {
+    "quote": "The EUFLR does not impose direct obligations on companies (“economic operators”), but they must provide proof of adequate due diligence if requested.",
+    "url": "https://integritynext.com/esg-solutions/eu-forced-labor-regulation",
+    "pass": 1
+   },
+   {
+    "quote": "product and supply chain mapping, supplier and manufacturer details, production location data, and documentation of due diligence and remediation measures.",
+    "url": "https://integritynext.com/esg-solutions/eu-forced-labor-regulation",
+    "pass": 1
+   },
+   {
+    "quote": "SB 261 (climate-related financial risk), enforcement paused by the Ninth Circuit",
+    "url": "https://integritynext.com/esg-solutions/california-climate-disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Sustainability Leaders Worldwide",
+    "url": "https://integritynext.com/esg-solutions/corporate-carbon-footprint",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Sustainability Leaders Worldwide",
+    "url": "https://integritynext.com/esg-solutions/carbon-border-adjustment-mechanism-cbam",
+    "pass": 1
+   },
+   {
+    "quote": "Used by 500+ leading procurement teams across the globe.",
+    "url": "https://integritynext.com/esg-solutions/carbon-border-adjustment-mechanism-cbam",
+    "pass": 1
+   },
+   {
+    "quote": "IntegrityNext - Automotive supply chain sustainability",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Empowering automotive supply chains to achieve regulatory compliance, decarbonization, and ethical sourcing.",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "How IntegrityNext Helps Automotive Sustainability",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "The automotive industry has a significant ecological footprint and relies heavily on upstream value creation. Key concerns include greenhouse gas (",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Industry Leaders Trust IntegrityNext",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "The automotive industry's lower-tier supply chains are rife with environmental and social challenges, including deforestation, hazardous chemicals, and poor labor conditions. ESG tech solutions can help monitor and address risks in material sourcing for components like steel, aluminum, glass, rubber, and leather, ensuring responsible practices and regulatory compliance.",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Addressing the Carbon Footprint of Automotive Manufacturing",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle production is energy- and resource-intensive, driving emissions throughout the value chain. Automotive companies can leverage ESG platforms to track and reduce carbon emissions, implement resource-efficient practices, and align with regulatory decarbonization targets.",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Global regulations on vehicle emissions and sustainable manufacturing are tightening, driven by initiatives such as EU exhaust standards, zero-emissions targets for new vehicles, and circularity requirements. ESG solutions help automotive companies maintain compliance, streamline reporting, and prepare for future legislative changes.",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "The automotive industry faces significant risks in lower-tier supply chains, especially in raw material sourcing for components like cobalt, lithium, mica, and natural rubber. These risks include child labor, hazardous chemicals, and environmental degradation. Our solutions ensure compliance with regulations like the",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "With upstream activities like material processing, battery manufacturing, and vehicle production accounting for the bulk of the industry’s carbon footprint, decarbonizing supply chains is a top priority. We provide tools to monitor and reduce Scope 3 emissions, supporting compliance with frameworks like the",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "and helping automotive companies achieve net-zero goals.",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive supply chains involve materials like natural rubber and leather, which are often tied to deforestation and biodiversity loss. Our",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Achieving visibility across multi-tier supply chains is essential for managing risks and ensuring compliance in the automotive sector. Our pioneering AI-driven solutions help you monitor lower-tier suppliers, mitigate environmental and social risks, and build resilient and sustainable value chains.",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "and RoHS, and rules on conflict minerals, such as the U.S. Dodd-Frank Act, is critical for safe and sustainable vehicle manufacturing. Our platform streamlines compliance processes, ensuring you can meet complex regulatory requirements while reducing risks tied to hazardous substances and unethical sourcing.",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "As a direct supplier to premium car manufacturers such as Audi, BMW, Jaguar Landrover, Mercedes-Benz, Porsche and Tesla, Dräxlmaier must meet high sustainability standards for its entire supply chain.",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Product carbon footprints (PCFs) are no longer a nice-to-have. Customers ask for them, regulators are starting to, and most manufacturers still build them by hand. In this article, George Karapetyan uses his grandmother's baklava to explain how a product carbon footprint is calculated, why PCF data is so hard to get, and where AI actually helps.",
+    "url": "https://integritynext.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Product carbon footprints (PCFs) are no longer a nice-to-have. Customers ask for them, regulators are starting to, and most manufacturers still build them by hand. In this article, George Karapetyan uses his grandmother's baklava to explain how a product carbon footprint is calculated, why PCF data is so hard to get, and where AI actually helps.",
+    "url": "https://integritynext.com/industries/building-construction",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics manufacturers must address scrutiny of their environmental and social impacts, including hazardous substances, working conditions, and emissions. We simplify compliance with frameworks like the CSRD and GRI by offering robust data collection and reporting tools, enabling you to track progress and showcase sustainability efforts effectively.",
+    "url": "https://integritynext.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "The electronics industry faces significant Scope 3 emissions, driven by energy-intensive manufacturing processes and upstream material extraction and processing. We enable you to monitor and reduce embedded carbon, ensuring compliance with regulations such as the EU’s",
+    "url": "https://integritynext.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "is essential for electronics manufacturers. Our solutions streamline compliance by tracking hazardous materials and conflict minerals, including tin, tantalum, tungsten, and gold (3TGs), ensuring adherence to global standards and supporting ethical and sustainable product development.",
+    "url": "https://integritynext.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Product carbon footprints (PCFs) are no longer a nice-to-have. Customers ask for them, regulators are starting to, and most manufacturers still build them by hand. In this article, George Karapetyan uses his grandmother's baklava to explain how a product carbon footprint is calculated, why PCF data is so hard to get, and where AI actually helps.",
+    "url": "https://integritynext.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical manufacturing is energy-and carbon-intensive, call for significant emissions reductions to meet global climate targets. Supply chain ESG platforms can help track",
+    "url": "https://integritynext.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical production is highly carbon-intensive, particularly in feedstock processing and manufacturing. We help you monitor embedded carbon and reduce Scope 3 emissions, aligning with regulatory standards and supporting the adoption of renewable energy and low-carbon alternatives.",
+    "url": "https://integritynext.com/industries/chemicals",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Connect sustainability execution to outcomes: efficiency, cost, risk reduction, resilience, and growth. Track progress across suppliers and products, build an ROI narrative that stands up to stakeholder scrutiny.​",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At Infineon, acting in an environmentally and socially responsible way is an integral part of how we do business. Through our collaboration with IntegrityNext, we are further enhancing transparency in our supplier network, whilst offering our suppliers an efficient and smooth process to share their sustainability performance with us and the IntegrityNext network.",
+    "url": "https://integritynext.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://integritynext.com/about-us/our-company",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of a mission-driven company helping businesses build more transparent and sustainable supply chains. At IntegrityNext, your work directly contributes to tackling critical global challenges, empowering organizations to act responsibly and sustainably.",
+    "url": "https://integritynext.com/about-us/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As one of IntegrityNext’s first employees, I’ve grown alongside the company—from our early days to leading impactful projects now. It’s been an incredible journey, and I’m grateful for every step.",
+    "url": "https://integritynext.com/about-us/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Revenue Operations Manager (m/f/d)",
+    "url": "https://integritynext.com/about-us/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Applies to SEC-listed companies that manufacture or contract to manufacture products requiring 3TG for functionality or production.",
+    "url": "https://integritynext.com/esg-solutions/conflict-minerals",
+    "pass": 1
+   },
+   {
+    "quote": "Filter for high-risk entities, including those listed under the UFLPA in the United States or flagged by NGOs and watchlists",
+    "url": "https://integritynext.com/esg-solutions/eu-forced-labor-regulation",
+    "pass": 1
+   },
+   {
+    "quote": "What if only part of a product is non-compliant?",
+    "url": "https://integritynext.com/esg-solutions/eu-forced-labor-regulation",
+    "pass": 1
+   },
+   {
+    "quote": "SB 253, the Climate Corporate Data Accountability Act, requires business entities formed under US law with more than $1 billion in total annual revenue that do business in California to disclose their greenhouse gas emissions every year. It covers public and private companies. The California Air Resources Board (CARB) runs the program.",
+    "url": "https://integritynext.com/esg-solutions/california-climate-disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "US business entities with more than $1 billion total annual revenue that do business in California, public or private",
+    "url": "https://integritynext.com/esg-solutions/california-climate-disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "From 2026, Scope 1 and 2 data is expected to carry limited assurance. Documented sources make that work easier.",
+    "url": "https://integritynext.com/esg-solutions/california-climate-disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "The statute covers partnerships, corporations, limited liability companies and other business entities formed under US law with more than $1 billion in total annual revenue that do business in California. Whether a specific company is covered depends on its facts, including CARB’s definition of “doing business in California.”",
+    "url": "https://integritynext.com/esg-solutions/california-climate-disclosure",
+    "pass": 1
+   },
+   {
+    "quote": "Close the data gaps, find the suppliers carrying the largest footprints, and measure reduction over time. Reported data where suppliers have it, benchmarked estimates where they do not, labelled apart so nothing is mistaken for the other.",
+    "url": "https://integritynext.com/esg-solutions/corporate-carbon-footprint",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritise the suppliers that carry the largest share of the footprint",
+    "url": "https://integritynext.com/esg-solutions/corporate-carbon-footprint",
+    "pass": 1
+   },
+   {
+    "quote": "Which CN/TARIC Codes and Origins Carry the Cost",
+    "url": "https://integritynext.com/esg-solutions/carbon-border-adjustment-mechanism-cbam",
+    "pass": 1
+   },
+   {
+    "quote": "Outliers listed, so engagement goes where it changes the forecast",
+    "url": "https://integritynext.com/esg-solutions/carbon-border-adjustment-mechanism-cbam",
+    "pass": 1
+   },
+   {
+    "quote": "The extraction and processing of raw materials such as minerals, metals, and timber carry risks of habitat destruction, pollution, and community displacement. ESG tech solutions can enable supply chain transparency, helping companies monitor and mitigate these risks while ensuring responsible sourcing practices.",
+    "url": "https://integritynext.com/industries/building-construction",
+    "pass": 1
+   },
+   {
+    "quote": "The IntegrityNext data feeds seamlessly into Clariant’s risk management system, where sustainability risks can then be viewed as part of the holistic risk analysis and the team can take follow-up measures.",
+    "url": "https://integritynext.com/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Annual Revenue 4,8 bn €*",
+    "url": "https://www.integritynext.com/files/content/Insights/Customer%20Cases/Downloads/case-study-jungheinrich.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Connect sustainability execution to outcomes: efficiency, cost, risk reduction, resilience, and growth. Track progress across suppliers and products, build an ROI narrative that stands up to stakeholder scrutiny.​",
+    "url": "https://www.integritynext.com/",
+    "pass": 3
+   },
+   {
+    "quote": "At Infineon, acting in an environmentally and socially responsible way is an integral part of how we do business. Through our collaboration with IntegrityNext, we are further enhancing transparency in our supplier network, whilst offering our suppliers an efficient and smooth process to share their sustainability performance with us and the IntegrityNext network.",
+    "url": "https://www.integritynext.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://whitepaper.integritynext.com/about-us/our-company",
+    "pass": 3
+   },
+   {
+    "quote": "At Infineon, acting in an environmentally and socially responsible way is an integral part of how we do business. Through our collaboration with IntegrityNext, we are further enhancing transparency in our supplier network, whilst offering our suppliers an efficient and smooth process to share their sustainability performance with us and the IntegrityNext network.",
+    "url": "https://insights.integritynext.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext has 160 total employees.",
+    "url": "https://pitchbook.com/profiles/company/231081-58",
+    "pass": 3
+   },
+   {
+    "quote": "What is IntegrityNext’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/231081-58",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for IntegrityNext is",
+    "url": "https://pitchbook.com/profiles/company/231081-58",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext Revenue",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At IntegrityNext",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of IntegrityNext?",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does IntegrityNext have?",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "IntegrityNext is the trusted partner for companies striving to meet ESG requirements efficiently and drive sustainable value and impact. Contact us to discuss your specific requirements and goals.",
+    "url": "https://integritynext.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IntegrityNext is the trusted partner for companies striving to meet ESG requirements efficiently and drive sustainable value and impact. Contact us to discuss your specific requirements and goals.",
+    "url": "https://www.integritynext.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/231081-58",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Become a Partner and Join Our Mission",
+    "url": "https://integritynext.com/about-us/partners",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "IntegrityNextとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — IntegrityNextを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。 類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！",
+    "url": "https://www.capterra.jp/software/162944/integritynext",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext を使用している企業 (68) | TheirStack.com — IntegrityNext を使用している 68 社のリストをダウンロードできます。 このリストには、業界、企業規模、所在地、資金調達ラウンド、収益数値などの豊富なデータが含まれています。",
+    "url": "https://theirstack.com/ja/technology/integritynext",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext - All-in-one Supply Chain Sustainability Management — IntegrityNext enables end-to-end compliance by identifying environmental and human rights risks, engaging suppliers, and providing multi-tier transparency and audit-ready documentation.",
+    "url": "https://www.integritynext.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EQT、IntegrityNextに約140億円の出資を実施 - ESG Journal — Mar 28, 2023 · 3月23日、プライベートエクイティおよびベンチャーキャピタル投資家のEQTグループは、同社のEQT Growthファンドがサプライチェーン持続可能性ソフトウェア新興企業のIntegrityNextに1億ユーロ（約140億円）を投資することを発表した。",
+    "url": "https://esgjournaljapan.com/world-news/26885",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | IntegrityNext — With IntegrityNext, we have streamlined our sustainability assessments and established an efficient, standardized process for supplier data sharing. This allows us to embed sustainability more deeply and drive greater impact across the semiconductor supply chain.",
+    "url": "https://www.integritynext.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext - All-in-one Supply Chain Sustainability Management — IntegrityNext is the leading solution for supply chain sustainability management trusted by companies across all industries and sizes. Monitor your supply chain for environmental, social and governance standards to reduce risks and improve performance.",
+    "url": "https://www.integritynext.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | IntegrityNext — With IntegrityNext, we’ve automated our due diligence processes and transformed ESG risk management across our supply chain into a strategic decision-making tool.",
+    "url": "https://www.integritynext.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "EQT、IntegrityNextに約140億円の出資を実施 - ESG Journal — Mar 28, 2023 · 共同創業者のMartin Berr-Sorokin（CEO）、Simon Jaehnig（CRO）、Nick Heine（COO）が2016年に立ち上げたIntegrityNextは、企業がより透明で持続可能なサプライチェーンを構築し、企業がサプライヤーと連携してサプライチェーンの持続性を高めることを目的に、幅広いESGテーマでソフトウェアプラットフォームを提供している。 同社は、200社以上の顧客にサービスを提供し、190カ国以上の約100万社のサプライヤーを監視している。",
+    "url": "https://esgjournaljapan.com/world-news/26885",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext - Our Company — At IntegrityNext, quality and information security are top priorities. We are dedicated to maintaining efficient business processes supported by rigorous security practices.",
+    "url": "https://whitepaper.integritynext.com/about-us/our-company",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | IntegrityNext — From precision manufacturing to global finance, leading organizations rely on IntegrityNext to gain visibility, manage risk, and drive sustainability at scale.",
+    "url": "https://insights.integritynext.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext - » Resources » — Learn how Grünenthal, a world leader in pain management, uses IntegrityNext to implement the German Supply Chain Act by identifying ESG-sensitive suppliers, monitoring risks, conducting assessments, and managing action plans – all within one platform.",
+    "url": "https://www.integritynext.com/resources/category/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext - All-in-one Supply Chain Sustainability Management — Independent study validates IntegrityNext’s role in enabling continuous supplier risk intelligence, audit-ready compliance, and more resilient supply chains. The company leverages IntegrityNext to streamline and scale supply chain due diligence, enhance transparency, and advance decarbonization.",
+    "url": "https://www.integritynext.com/",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext B2B Case Studies & Customer Successes — See how IntegrityNext solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/integritynext",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext Case Study: Swisslog – Meeting customer demands ... — Swisslog (Logistics and Supply Chain) partnered with IntegrityNext (Information Technology and Services) to solve key challenges. \"Meeting customer demands for future-proof and sustainable solutions\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/integritynext/case-study/meeting-customer-demands-for-future-proof-and-sustainable-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext - 2026 Company Profile, Team, Funding ... - TracxnIntegrityNext 2026 Company Profile: Valuation, Funding ...IntegrityNext – Valuation, Revenue & Market Scope – 2026IntegrityNext Revenue, Funding & Valuation - prospeo.ioIntegrityNext Revenue 2025: $17.5M Est. - getlatka.comIntegrityNext: Funding, Investors & Team (Oct 2026) | FundedIQEQT Growth invests EUR 100 million in IntegrityNext",
+    "url": "https://tracxn.com/d/companies/integritynext/__W6075WDrHs1fI9bP3xVlA7kM2-OR-pSQg2qUZJUscJI",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext 2026 Company Profile: Valuation, Funding ...IntegrityNext – Valuation, Revenue & Market Scope – 2026IntegrityNext Revenue, Funding & Valuation - prospeo.ioIntegrityNext Revenue 2025: $17.5M Est. - getlatka.comIntegrityNext: Funding, Investors & Team (Oct 2026) | FundedIQEQT Growth invests EUR 100 million in IntegrityNext, a | EQT — Information on valuation, funding, acquisitions, inv",
+    "url": "https://pitchbook.com/profiles/company/231081-58",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext – Valuation, Revenue & Market Scope – 2026 — Discover IntegrityNext's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/integritynext",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext Revenue, Funding & Valuation - prospeo.ioIntegrityNext Revenue 2025: $17.5M Est. - getlatka.comIntegrityNext: Funding, Investors & Team (Oct 2026) | FundedIQEQT Growth invests EUR 100 million in IntegrityNext, a | EQT — IntegrityNext has revenue of $20,000,000, estimated valuation of $64,000,000, $108,300,000 in total funding. Find contacts and company information on Prospeo. Oct 7, ",
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext Revenue 2025: $17.5M Est. - getlatka.com — Oct 7, 2026 · IntegrityNext is a Third Party & Supplier Risk Management Software company based in Munich, founded in 2016.",
+    "url": "https://getlatka.com/companies/integritynext.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "IntegrityNext (@integrity_next) / X Headquartered in Künselsau, Germany and with over 400 allied companies worldwide, the Würth Group is a world market leader in the manufacturing of fastening and assembly materials. The Würth Group uses IntegrityNext to assess its suppliers environmental and social practices.",
+    "url": "https://x.com/integrity_next",
+    "pass": 3
+   },
+   {
+    "quote": "Integrity next level (@Integritynext) / Posts / X 0 📎 Integrity next level Integritynext Apr 1 We at INTEGRITY NEXT LEVEL congratulate the President-elect Muhammadu Buhari & VP elect and the entire winning team @AkinwunmiAmbode 💬 0",
+    "url": "https://x.com/IntegrityNext",
+    "pass": 3
+   },
+   {
+    "quote": "\"#IntegrityNext\" - Results on X | Live Posts & Updates Results for \"#IntegrityNext\" on X (Twitter). Find the latest posts, discussions, and updates about #IntegrityNext. 20 results found.",
+    "url": "https://x.com/hashtag/IntegrityNext",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext (@integrity_next) / X We at IntegrityNext are thrilled and honoured that @EqtGrowth has placed its trust in our company and we look forward to working together towards our goal of building more sustainable, transparent and resilient supply chains.",
+    "url": "https://x.com/integrity_next",
+    "pass": 3
+   },
+   {
+    "quote": "Integrity next level (@Integritynext) / Posts / X Jan 30, 2015 · 0 📎 Integrity next level Integritynext Apr 1 #Lagos2015 1.The need for @AkinwunmiAmbode to meet the electorates personally beyond party jamborees2.The interest of cocooned non-indigenes 💬 0",
+    "url": "https://x.com/IntegrityNext",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by IntegrityNext (@integrity_next) / X Unser #sustainability und #compliance - Profil bei @integrity_next ist jetzt für Euch aktiv. 👉 app.integritynext.com/profiles/fbea2… Wir zeigen darüber auf einem Blick, welche Standards #GLSGermany zum aktuellen Zeitpunkt erfüllt. 📦",
+    "url": "https://x.com/integrity_next/reposts",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "IntegrityNext - LinkedIn IntegrityNext is a leading global provider of supply chain sustainability software that helps companies turn supplier risk and regulatory complexity into measurable business value.",
+    "url": "https://www.linkedin.com/company/integritynext/",
+    "pass": 3
+   },
+   {
+    "quote": "IntegrityNext - LinkedIn IntegrityNext is an interdisciplinary team of sustainability experts, procurement professionals and software developers. We use state-of-the-art technology and our years of experience in ...",
+    "url": "https://www.linkedin.com/products/integritynext",
+    "pass": 3
+   },
+   {
+    "quote": "Product Manager (m/f/d) Carbon at IntegrityNext — England ... Nov 3, 2026 · As a Product Manager (m/f/d) with Carobon focus at IntegrityNext, you will turn product strategy into meaningful solutions that deliver measurable value for our customers. Working closely with our Product Lead, Engineering, Design, and Sustainability Experts, you will take ownership of your product's journey from discovery",
+    "url": "https://uk.linkedin.com/jobs/view/product-manager-m-f-d-carbon-at-integritynext-4486058779",
+    "pass": 3
+   },
+   {
+    "quote": "Steve Cobley - IntegrityNext | LinkedInMartin Berr-Sorokin – IntegrityNext Co-founder / Chairman of ...Nick Heine – IntegrityNext | LinkedInBastian Stroucken - IntegrityNext, the Largest Global Network ... Specialties: eCommerce, Supply Chain, Clustering, Collaboration, Social Media in… · Experience: IntegrityNext · Location: Saughall · 500+ connections on LinkedIn. View Steve Cobley’s profile on.",
+    "url": "https://uk.linkedin.com/in/stevecobley",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "IntegrityNext - Facebook Oct 12, 2018 · Sehen Sie heute IntegrityNext als Teil der Start-Up Pitches von >>Disrupting Procurement<< \"Nachhaltigkeit & Compliance von Lieferanten überwachen – skalierbar, digital, Social Media in Echtzeit\"",
+    "url": "https://www.facebook.com/IntegrityNext-280478509059273/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://integritynext.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/about-us/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/about-us/our-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/about-us/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/esg-solutions/german-supply-chain-act-lksg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/esg-solutions/norwegian-transparency-act-nta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/esg-solutions/swiss-supply-chain-act-vsotr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/esg-solutions/corporate-sustainability-due-diligence-directive-csddd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/esg-solutions/eudr-deforestation-regulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/esg-solutions/conflict-minerals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/esg-solutions/eu-forced-labor-regulation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/esg-solutions/california-climate-disclosure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/esg-solutions/corporate-carbon-footprint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/esg-solutions/carbon-border-adjustment-mechanism-cbam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/industries/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/industries/building-construction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/industries/electronics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://integritynext.com/industries/chemicals",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.integritynext.com/files/content/Insights/Customer%20Cases/Downloads/case-study-jungheinrich.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://integritynext.com/esg-solutions/files/content/Insights/Customer%20Cases/Downloads/case-study-dmg-mori.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://integritynext.com/files/content/About%20us/Partnerlogos/IntegrityNext_Partner_Celonis.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://integritynext.com/files/content/About%20us/Partnerlogos/IntegrityNext_Partner_Coupa.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://integritynext.com/files/content/About%20us/Partnerlogos/IntegrityNext_Partner_Ivalua.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://integritynext.com/files/content/About%20us/Partnerlogos/IntegrityNext_Partner_SAP.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.capterra.jp/software/162944/integritynext",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://theirstack.com/ja/technology/integritynext",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.integritynext.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://esgjournaljapan.com/world-news/26885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.integritynext.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.integritynext.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://esgjournaljapan.com/world-news/26885",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitepaper.integritynext.com/about-us/our-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.integritynext.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.integritynext.com/resources/category/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.integritynext.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/integritynext",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.integritynext.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/integritynext/__W6075WDrHs1fI9bP3xVlA7kM2-OR-pSQg2qUZJUscJI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/231081-58",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/integritynext",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/integritynext-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/integrity_next",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IntegrityNext",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/IntegrityNext",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/integritynext/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/integritynext",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/jobs/view/product-manager-m-f-d-carbon-at-integritynext-4486058779",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/stevecobley",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/IntegrityNext-280478509059273/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/integrity_next",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IntegrityNext",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/integrity_next/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Integritynext 日本 導入",
+   "results": [
+    "https://www.capterra.jp/software/162944/integritynext",
+    "https://theirstack.com/ja/technology/integritynext",
+    "https://www.integritynext.com/",
+    "https://esgjournaljapan.com/world-news/26885",
+    "https://www.integritynext.com/customers",
+    "https://www.sap.com/japan/products/spend-management/partners/integrity-next-gmbh-integritynext-platform.html",
+    "https://www.dmgmori.co.jp/corporate/ir/ir_library/pdf/2024_ir_governance_j.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Integritynext 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://intertekjp.com/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Integritynext Japan",
+   "results": [
+    "https://www.integritynext.com/",
+    "https://www.integritynext.com/customers",
+    "https://esgjournaljapan.com/world-news/26885",
+    "https://whitepaper.integritynext.com/about-us/our-company",
+    "https://www.capterra.jp/software/162944/integritynext",
+    "https://jp.linkedin.com/company/integritynext",
+    "https://www.sap.com/japan/products/spend-management/partners/integrity-next-gmbh-integritynext-platform.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Integritynext manufacturing customer case study",
+   "results": [
+    "https://insights.integritynext.com/customers",
+    "https://www.integritynext.com/resources/category/case-study",
+    "https://www.integritynext.com/",
+    "https://www.casestudies.com/company/integritynext",
+    "https://www.casestudies.com/company/integritynext/case-study/meeting-customer-demands-for-future-proof-and-sustainable-solutions",
+    "https://www.featuredcustomers.com/vendor/integritynext/case-studies",
+    "https://insights.integritynext.com/files/content/Resources/Case+Study/IntegrityNext_Case+Study_HBK_EN.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Integritynext white label OR reseller OR partner program",
+   "results": [
+    "https://www.integritynext.com/",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.nextiva.com/company/partners",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Integritynext founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/integritynext/__W6075WDrHs1fI9bP3xVlA7kM2-OR-pSQg2qUZJUscJI",
+    "https://pitchbook.com/profiles/company/231081-58",
+    "https://compworth.com/company/integritynext",
+    "https://prospeo.io/c/integritynext-revenue",
+    "https://getlatka.com/companies/integritynext.com",
+    "https://fundediq.co/integritynext-integritynext-com-funding/",
+    "https://eqtgroup.com/news/eqt-growth-invests-eur-100-million-in-integritynext-a-sustainability-software-platform-dedicated-to-making-supply-chains-more-transparent-and-compliant-2023-03-23"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Integritynext",
+   "results": [
+    "https://note.com/cool_egret2728/n/nb0e4337eeab7?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4",
+    "https://note.com/xbackup/n/n7fcfa27a9bb8",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Integritynext",
+   "results": [
+    "https://x.com/integrity_next",
+    "https://x.com/IntegrityNext",
+    "https://x.com/hashtag/IntegrityNext",
+    "https://x.com/",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/w_t_laziness/status/2119259791927447752",
+    "https://x.com/mochi_geso/status/2118693912806400297"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Integritynext",
+   "results": [
+    "https://www.linkedin.com/company/integritynext/",
+    "https://www.linkedin.com/products/integritynext",
+    "https://uk.linkedin.com/jobs/view/product-manager-m-f-d-carbon-at-integritynext-4486058779",
+    "https://uk.linkedin.com/in/stevecobley",
+    "https://de.linkedin.com/in/berr-sorokin",
+    "https://de.linkedin.com/in/nickheine",
+    "https://nl.linkedin.com/in/bastian-stroucken-89b344"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Integritynext",
+   "results": [
+    "https://www.facebook.com/IntegrityNext-280478509059273/",
+    "https://www.facebook.com/IntegrityNext/",
+    "https://www.facebook.com/IntegrityTN/",
+    "https://www.facebook.com/ConsultWithIntegrity/",
+    "https://www.facebook.com/IntegrityMG/",
+    "https://www.facebook.com/NextHomeIG/",
+    "https://www.facebook.com/barneteurope/photos/for-a-sustainable-supply-chainintegritynext-provides-companies-with-an-esg-risk-/1040706147319008/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Integritynext note 社長",
+   "results": [
+    "https://www.integritynext.com/about-us/press/detail/integritynext-strengthens-leadership-team-with-two-key-appointments-to-fuel-next-phase-of-global-growth",
+    "https://www.integritynext.com/about-us/press/detail/integritynext-expands-us-presence-co-founder-simon-jaehnig-named-president-of-integrity-next-inc",
+    "https://finance.yahoo.com/news/integritynext-appoints-bruno-teuber-chief-164200481.html?fr=sycsrp_catchall",
+    "https://www.citybiz.co/article/796650/integritynext-appoints-bruno-teuber-as-chief-executive-officer/",
+    "https://aijourn.com/integritynext-appoints-bruno-teuber-as-chief-executive-officer/",
+    "https://sustainabilitymag.com/news/who-is-the-new-ceo-at-sustainability-software-integritynext",
+    "https://app.dealroom.co/news/feed/integritynext-names-bruno-teuber-as-ceo-as-founder-transitions-to-board-chair-role-1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Integritynext X 投稿",
+   "results": [
+    "https://x.com/integrity_next",
+    "https://x.com/IntegrityNext",
+    "https://x.com/integrity_next/reposts",
+    "https://www.integritynext.com/",
+    "https://x.com/hashtag/IntegrityNext",
+    "https://helpdesk.integritynext.com/hc/zh-cn/articles/360018443680-如何回答评估",
+    "https://helpdesk.integritynext.com/hc/zh-cn"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部35頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部35頁・検索12回）"
+ }
+}

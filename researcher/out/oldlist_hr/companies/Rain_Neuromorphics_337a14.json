@@ -1,0 +1,1019 @@
+{
+ "name": "Rain Neuromorphics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜商談中",
+ "researched_at": "2026-11-11T02:18:52.999653+00:00",
+ "official_url": "https://rain.ai",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://startupintros.com/orgs/rain-ai",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Redwood City, CA, USA",
+    "url": "https://startupintros.com/orgs/rain-ai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Leading expert in In-memory compute, Professor and Chair of Electrical and Computer Engineering at Georgia Tech.",
+    "url": "https://rain.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Work with us to solve the most important problems in artificial intelligence.",
+    "url": "https://rain.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "GroqやTenstorrentなどのアクセラレーターが主に特定の演算の高速化に注力しているのに対し、Rain AIは「Equilibrium Propagation（EqProp）」技術を活用し、エッジデバイス内でもハードウェアレベルの「エネルギー効率に優れた直接学習（On-device training）」を実現できる点が独自の強みです",
+    "url": "https://ainiche.net/ja/tools/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "Equilibrium Propagation（EqProp）に基づくオンデバイス直接学習",
+    "url": "https://ainiche.net/ja/tools/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "技術面では独自のアルゴリズム（EqProp）を使用しているため、既存のPyTorchやTensorFlowモデルを完全に移植するためのコンパイラおよび",
+    "url": "https://ainiche.net/ja/tools/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "今回の投資ラウンドは、Prosperity 7 Venturesが既存の投資家（Buckley Ventures、Gaingels、Loup Ventures、Metaplanet、Pioneer Fundなど）と共に主導したものである",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphicsのニューラルプロセシングユニット（NPU）は、新しい学習アルゴリズム「Equilibrium Propagation」と新たなアナログチップアーキテクチャを組み合わせたものである",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、アナログ計算は一部のPIM（Processor in Memory）チップに用いられているが、そうした手法ではネットワーク層同士の間にエネルギーを大量に消費するADCやDACが必要になる",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "SynSenseとPropheseeは、Propheseeのイメージセンサー「Metavision」とSynsenseのニューロモーフィックプロセッサ「DYNAP-CNN」を統合したイベントベースの単一チップイメージセンサーを共同開発している",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニューロモーフィックコンピューティングIP（Intellectual Property）のベンダーである米BrainChipは、2021年10月に米国カリフォルニア州サンタクララで開催され 「Linley Fall Processor Conference」で、同社のニューロモーフィックプロセッサSoC（System on Chip）「Akida」の開発キットを発表した",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "2nm微細化の効果は絶大、Apple新スマホチップ「A20 Pro」分解",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics: We build artificial intelligence processors inspired by the brain. | Y Combinator",
+    "url": "https://www.ycombinator.com/companies/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "We build artificial intelligence processors inspired by the brain.",
+    "url": "https://www.ycombinator.com/companies/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "Sam Altman-Backed Rain AI Hires Apple Chip Vet to Lead Hardware - Bloomberg",
+    "url": "https://www.ycombinator.com/companies/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "Research Breakthrough Promises End-to-End Analog Chips for AI Computation",
+    "url": "https://www.ycombinator.com/companies/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "Has submenu. Press right arrow to enter the submenu, up and down to navigate between items, left arrow or escape to close it.",
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "pass": 3
+   },
+   {
+    "quote": "Add to Preferred Sources",
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sam Altman, President of Y Combinator, speaks at the Wall Street Journal Digital Conference in Laguna Beach",
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sam Altman, a well-known investor and AI researcher in Silicon Valley who is an early backer of Rain, told Reuters by e-mail that the company's \"neuromorphic approach could vastly reduce the costs of creating powerful AI models and will hopefully one day help to enable true artificial general intelligence.\"",
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rain's chip is designed by adding a circuit called a memristor on top of silicon wafers. Memristors, originally designed by HP Labs about a decade ago, serve as 'artificial synapses' that allow for the processing and memory to happen in the same place, making it possible to run AI algorithms much faster and more energy-efficiently than existing digital AI chips, said Wilson.",
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "pass": 3
+   },
+   {
+    "quote": "The funds raised will be used to expand the engineering team as Rain takes its prototype chip to the next stage of development, said Wilson.",
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "pass": 3
+   },
+   {
+    "quote": "The latest funding round was led by Prosperity 7 Ventures, a venture capital fund of Aramco Ventures.",
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rockstar touts GTA 6 PS5 Pro",
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "pass": 3
+   },
+   {
+    "quote": "Musk praises Claude Opus 5.5",
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware platforms die without software ecosystems—Rain's technical achievements were irrelevant because developers couldn't easily port models. Modern founders must solve the software problem FIRST...",
+    "url": "https://www.loot-drop.io/startup/2409-rain-ai",
+    "pass": 3
+   },
+   {
+    "quote": "The AI inference market is genuinely massive and growing exponentially. By 2025, global AI chip revenue exceeds $70B annually, with inference representing 60%+ of...",
+    "url": "https://www.loot-drop.io/startup/2409-rain-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Neuromorphic chip design represents the absolute apex of hardware complexity: analog circuit design at 5nm process nodes, novel memory architectures, thermal management, and yield...",
+    "url": "https://www.loot-drop.io/startup/2409-rain-ai",
+    "pass": 3
+   },
+   {
+    "quote": "22nm FD-SOI process (lower cost than 5nm, better power efficiency than bulk CMOS)",
+    "url": "https://www.loot-drop.io/startup/2409-rain-ai",
+    "pass": 3
+   },
+   {
+    "quote": "RISC-V control processor for flexibility and IP freedom",
+    "url": "https://www.loot-drop.io/startup/2409-rain-ai",
+    "pass": 3
+   },
+   {
+    "quote": "We build artificial intelligence processors inspired by the brain.",
+    "url": "https://reforgers.com/startups/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Co-founded by Jack Kendall, who also leads as CEO, Rain AI’s inception stemmed from his personal mission to construct an artificial brain. His interdisciplinary background, encompassing physics, neuroscience, and computing, provided the foundational insight. This specific vision drives the company’s development of novel hardware, pushing the boundaries of AI capabilities.",
+    "url": "https://startupintros.com/orgs/rain-ai",
+    "pass": 3
+   },
+   {
+    "quote": "(If you’d like, I can: 1) produce a one‑page investor‑style memo with risks and milestones; 2) compare Rain’s technical claims against specific competitors such as Groq, Cerebras, or conventional GPU vendors; or 3) fetch the latest press and funding developments beyond these sources.)",
+    "url": "https://startupintros.com/orgs/rain-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Neuromorphic computers are designed to mimic the human brain and are particularly excellent at brain-like information processing and learning functions. This makes them suitable for efficiently processing large amounts of data and performing pattern recognition and complex decision-making. They are extremely useful for AI applications, especially in neural network training and deep learning.",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI plans to purchase neuromorphic processing units",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI has signed a contract to purchase $51 million worth of brain-like chips from Rain Neuromorphics, which is developing neuromorphic processing units (NPUs). These chips are designed to mimic the functions of the human brain and are expected to increase computational power in AI training by 100 times and energy efficiency by 10,000 times.",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By enabling flexible and efficient computation like the human brain, NPUs can make AI model training faster and more efficient. This is expected to improve the ability of AI systems to solve complex problems and perform more advanced learning and reasoning.",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Meanwhile, Microsoft has developed a supercomputer for OpenAI, and this supercomputer runs on Microsoft Azure. This supercomputer was designed for OpenAI to use in training more powerful AI models and to accelerate the development of OpenAI's technology.",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "（英国）- IPU（Intelligence Processing Unit）",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   },
+   {
+    "quote": "また、フランスのKalrayは、MPPA（Massively Parallel Processor Array）アーキテクチャを採用し、多数のコアを並列動作させることで、リアルタイム性と低遅延が要求される自律走行車や航空宇宙向けの処理において独自の強みを発揮している",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   },
+   {
+    "quote": "FPGA（Field Programmable Gate Array）市場は、米国のAMD（旧Xilinx）とIntel（旧Altera）が支配的だが、欧州は特定の高精度・高信頼性が求められるニッチ領域、および「eFPGA（組み込みFPGA）」というIPビジネスにおいて独自のプレゼンスを発揮している",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Electronic Supply & Manufacturing China",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rain AI | Failed Startup Case Study",
+    "url": "https://www.loot-drop.io/startup/2409-rain-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Industrials -> Manufacturing and Robotics",
+    "url": "https://reforgers.com/startups/rain-neuromorphics",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "アナログAIチップのRain Neuromorphics、2500万ドル調達：製品開発促進とスタッフ拡充に - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクス入門（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan×EDN Japan統合電子版",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "【翻訳：青山麻由子、編集：EE Times Japan】",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITmediaはアイティメディア株式会社の登録商標です",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "Armは日本のソフトバンクグループの傘下にあるものの、その設計思想と主要なエンジニアリング拠点は依然として英国ケンブリッジにあり、世界のモバイル・コンピューティングおよび組込みシステムのデファクトスタンダードとして機能している",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Rain Neuromorphics - AIツールレビュー | AIniche — 概要 Rain Neuromorphics（現 Rain AI）は、メモリスタ・ナノワイヤ技術とDigital In-Memory Compute（DIMC）アーキテクチャを組み合わせた、脳模倣型AIプロセッサ（NPU）を開発する企業です。",
+    "url": "https://ainiche.net/ja/tools/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "Rain AI — About Blog Careers Contact Us We’re building the most energy efficient hardware for AI. Learn More © 2024 Rain Neuromorphics Inc. All rights reserved. | Terms & Privacy",
+    "url": "https://rain.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "アナログAIチップのRain Neuromorphics、2500万ドル調達Products — Rain AIサム・アルトマンの新しい投資先は人間の脳さながらなAIチップ类脑芯片编年史 (三) 希望：Open AI 投资的 Rain Neuromorphic 给我们...Rain AI: Funding, Team & Investors | Startup Intros — Feb 15, 2022 · 本格的なアナログAI（人工知能）チップの開発に取り組む新興企業Rain Neuromorphicsは、シリーズAの投資ラウンドで2500万米ドルを調達した。 この資金は製品開発の他、エンジニアならびにサポートスタッフを3倍にすることに投じられる予定だ。 We offer IP licensing opportunities for Rain’s digital in-memory co",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics: We build artificial intelligence ... — We build artificial intelligence processors inspired by the brain. . Founded in by Juan Claudio Nino, Gordon Hirsch Wilson, and Jack Kendall, Rain Neuromorphics has 12 employees based in San Francisco.",
+    "url": "https://www.ycombinator.com/companies/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "アナログAIチップのRain Neuromorphics、2500万ドル調達：製品開発促...Rain AI - Crunchbase Company Profile & Fundingデル・テクノロジーズ株式会社 企業情報 | Dell 日本Chip designer mimicking brain, backed by Sam Altman, gets $25 ... — Feb 15, 2022 · 本格的なアナログAI（人工知能）チップの開発に取り組む新興企業Rain Neuromorphicsは、シリーズAの投資ラウンドで2500万米ドルを調達した。この資金は製品開発の他、エンジニアならびにサポートスタッフを3倍にすることに投じられる予定だ。 Rain AI is a semiconductor company specializing in developing energy-",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rain AI - Crunchbase Company Profile & Fundingデル・テクノロジーズ株式会社 企業情報 | Dell 日本Chip designer mimicking brain, backed by Sam Altman, gets $25 ... — Rain AI is a semiconductor company specializing in developing energy-efficient hardware for artificial intelligence (AI) applications. Rain AI focuses on creating neuromorphic chips inspired by the human brain's architecture. The company's hardware is desig",
+    "url": "https://www.crunchbase.com/organization/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "Chip designer mimicking brain, backed by Sam Altman, gets $25 ... — Feb 2, 2022 · Rain Neuromorphics Inc., a startup designing chips that mimic the way the brain works and aims to serve companies using artificial intelligence (AI) algorithms, said on Wednesday it raised $25 million. Gordon Wilson, CEO and co-founder of Rain, said that while most AI chips on the market today are digital, his compan",
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics — Rain Neuromorphics A nanotechnology revolution for artificial intelligence",
+    "url": "http://rain-neuromorphics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics: We build artificial intelligence ... — We build artificial intelligence processors inspired by the brain. At Rain Neuromorphics, we envision a future where every device possesses a dynamic and continuously learning AI brain. Neural Networks are the most powerful engines behind today's AI, but simulations require massive amounts of power and time to learn all of the synaptic con",
+    "url": "https://www.ycombinator.com/companies/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "アナログAIチップのRain Neuromorphics、2500万ドル調達：製品開発促... — Feb 15, 2022 · 本格的なアナログAI（人工知能）チップの開発に取り組む新興企業Rain Neuromorphicsは、シリーズAの投資ラウンドで2500万米ドルを調達した。 この資金は製品開発の他、エンジニアならびにサポートスタッフを3倍にすることに投じられる予定だ。",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rain AI | Failed Startup Case Study — Rain AI (originally Rain Neuromorphics) was a deep-tech semiconductor startup building neuromorphic AI chips designed to mimic brain architecture for ultra-efficient AI inference.",
+    "url": "https://www.loot-drop.io/startup/2409-rain-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How Rain Neuromorphics Built Its Success - reforgers.com — Explore Rain Neuromorphics' innovative AI processors inspired by the brain: neuromorphic hardware, spiking neurons, and the Memristive Nanowire Neural Network.",
+    "url": "https://reforgers.com/startups/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics – Company Profile & Market Insights – 2026 — Rain Neuromorphics’s operational efficiency results in $310.1K revenue per employee. Rain Neuromorphics has received total funding worth $67M. Rain Neuromorphics has scaled its team to over 100+ members. In the last year, Rain Neuromorphics added 29% more employees to its staff.",
+    "url": "https://compworth.com/company/rain-neuromorphics",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics Revenue 2024: $1.8M Est. ARR — Aug 10, 2026 · Rain Neuromorphics Valuation, Funding Rounds Rain Neuromorphics's most recent disclosed valuation is $5.4M. No funding has been reported for Rain Neuromorphics yet.",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics - Crunchbase Company Profile & Funding — Rain AI develops neuromorphic processors and in-memory compute technology that apply brain-inspired architectures to artificial intelligence workloads. The company focuses on analog in-memory compute designs that integrate memory and processing to reduce data movement and power consumption.",
+    "url": "https://www.crunchbase.com/organization/rain-neuromorphics-fdf8",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Has submenu. Press right arrow to enter the submenu, up and down to navigate between items, left arrow or escape to close it.",
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "pass": 3
+   },
+   {
+    "quote": "The AI inference market is genuinely massive and growing exponentially. By 2025, global AI chip revenue exceeds $70B annually, with inference representing 60%+ of...",
+    "url": "https://www.loot-drop.io/startup/2409-rain-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics Revenue 2024: $1.8M Est.",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics revenue",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics has not published its revenue. GetLatka estimates it at about $1.8M a year (June 2024).",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics CEO, founders & employees",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Gordon Hirsch Wilson founded Rain Neuromorphics and runs it as CEO. Rain Neuromorphics had 12 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rain Neuromorphics' revenue?",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Rain Neuromorphics' revenue at about",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Rain Neuromorphics have?",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Rain AI's investors include Art Lee, Daniel Gross, Jaan Tallinn, Jeff Rothschild, Oliver Cameron, Scott Gray, 01 Advisors, Kevin Hartz, Alumni Ventures, Array Ventures, Asylum Ventures, Baukunst.",
+    "url": "https://startupintros.com/orgs/rain-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Brain-mimicking chips to arrive as early as next year. OpenAI has already signed a purchase agreement｜Zun-Beho",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Brain-mimicking chips to arrive as early as next year. OpenAI has already signed a purchase agreement",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "フランス／Grenoble・Sophia Antipolis",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   },
+   {
+    "quote": "また、フランスのKalrayは、MPPA（Massively Parallel Processor Array）アーキテクチャを採用し、多数のコアを並列動作させることで、リアルタイム性と低遅延が要求される自律走行車や航空宇宙向けの処理において独自の強みを発揮している",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   },
+   {
+    "quote": "FPGA（Field Programmable Gate Array）市場は、米国のAMD（旧Xilinx）とIntel（旧Altera）が支配的だが、欧州は特定の高精度・高信頼性が求められるニッチ領域、および「eFPGA（組み込みFPGA）」というIPビジネスにおいて独自のプレゼンスを発揮している",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Sam Altman, a well-known investor and AI researcher in Silicon Valley who is an early backer of Rain, told Reuters by e-mail that the company's \"neuromorphic approach could vastly reduce the costs of creating powerful AI models and will hopefully one day help to enable true artificial general intelligence.\"",
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Rain Neuromorphics｜yamaken910 - note（ノート） Feb 18, 2020 · Rain Neuromorphics社は、従来のプロセッサでニューラルネットワークをシミュレートするのではなく、ニューラルネットワーク専用に設計された新しいプロセッサアーキテクチャであるMemristive Nanowire Neural Network（メモリスティブ・ナノワイヤ・ニューラル ...",
+    "url": "https://note.com/yamaken910/n/n4a2b687c1999",
+    "pass": 3
+   },
+   {
+    "quote": "Brain-mimicking chips to arrive as early as next year. OpenAI ... OpenAI has signed a contract to purchase $51 million worth of brain-like chips from Rain Neuromorphics, which is developing neuromorphic processing units (NPUs).",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "EUの半導体企業一覧｜scra - note（ノート） Feb 9, 2026 · Innatera （オランダ）- ニューロモーフィック推論チップ Rain Neuromorphics （英国）- ニューロモーフィックチップ SynSense （スイス）- ニューロモーフィックセンサ XMOS （英国）- リアルタイムオーディオ/IoTチップ Picocom （英国）- Open RAN 5Gチップ",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Rain Neuromorphics｜yamaken910",
+    "url": "https://note.com/yamaken910/n/n4a2b687c1999",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics社は、従来のプロセッサでニューラルネットワークをシミュレートするのではなく、ニューラルネットワーク専用に設計された新しいプロセッサアーキテクチャであるMemristive Nanowire Neural Network（メモリスティブ・ナノワイヤ・ニューラル・ネットワーク：MN3）として知られるAIチップを開発する企業です。",
+    "url": "https://note.com/yamaken910/n/n4a2b687c1999",
+    "pass": 3
+   },
+   {
+    "quote": "MN3は、他の最先端のハードウェアアーキテクチャと比較して、演算時間、消費電力、ネットワークサイズの点で優れたスケーラビリティを実現しています。",
+    "url": "https://note.com/yamaken910/n/n4a2b687c1999",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、Rain Neuromorphics社は10億を超えるニューロンを持つニューラルアーキテクチャを構築および学習させることができ、真の脳スケールインテリジェンスに近づけることができます。",
+    "url": "https://note.com/yamaken910/n/n4a2b687c1999",
+    "pass": 3
+   },
+   {
+    "quote": "本社：米国／カリフォルニア州レッドウッドシティ",
+    "url": "https://note.com/yamaken910/n/n4a2b687c1999",
+    "pass": 3
+   },
+   {
+    "quote": "http://rain-neuromorphics.com/",
+    "url": "https://note.com/yamaken910/n/n4a2b687c1999",
+    "pass": 3
+   },
+   {
+    "quote": "Brain-mimicking chips to arrive as early as next year. OpenAI has already signed a purchase agreement｜Zun-Beho",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Brain-mimicking chips to arrive as early as next year. OpenAI has already signed a purchase agreement",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "According to a New Scientist article written by James Woodford on December 12, 2023, a neuromorphic supercomputer called DeepSouth, which has the capability to fully simulate the synapses of the human brain, is scheduled to begin operation in Australia in 2024. This supercomputer can perform 228 trillion synaptic operations per second, which is said to be comparable to the estimated number of oper",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Computers optimized for AI",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Neuromorphic computers are designed to mimic the human brain and are particularly excellent at brain-like information processing and learning functions. This makes them suitable for efficiently processing large amounts of data and performing pattern recognition and complex decision-making. They are extremely useful for AI applications, especially in neural network training and deep learning.",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Differences from quantum computers",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Quantum computers use quantum bits (qubits) to process information. This allows them to solve certain types of computational problems that are difficult for conventional computers (such as prime factorization of large numbers, complex optimization problems, and quantum simulations) at very high speeds. While quantum computers may be much faster than current supercomputers for specific problems, th",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Therefore, it cannot be said unconditionally that DeepSouth is \"superior\" to quantum computers. Each system is optimized for different types of problems. Regarding AI applications, neuromorphic systems like DeepSouth could be extremely useful, particularly in the fields of neural network training and deep learning, but quantum computers are also expected to play an important role in AI research in",
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. プロセッサ（CPU/SoC/アプリケーションプロセッサ）",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   },
+   {
+    "quote": "（ギリシャ）- 超低消費電力GPU/プロセッサ",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   },
+   {
+    "quote": "2. AIチップ / GPU / GPGPU",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   },
+   {
+    "quote": "（英国）- IPU（Intelligence Processing Unit）",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   },
+   {
+    "quote": "3. メモリ（Memory/Storage）",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   },
+   {
+    "quote": "（英国→現Renesas傘下）- フラッシュメモリコントローラ",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   },
+   {
+    "quote": "（ドイツ）- XMC、AURIX、PSoCシリーズ",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   },
+   {
+    "quote": "（オランダ）- Kinetis、LPCシリーズ",
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Jens Ahlström (@jensahlstrom) / Posts / X Rain Neuromorphics Tapes Out Demo Chip for Analog AI - EE Times www.eetimes.com 💬 0 🔄 0 🤍 1",
+    "url": "https://x.com/jensahlstrom",
+    "pass": 3
+   },
+   {
+    "quote": "Lord Au (@Fibonarchery) / Posts / X Lord Au (@Fibonarchery) - Posts - Dad, Comedian, Artist, Editor, Co-Founder Rain Neuromorphics Inc, Gardener, Bitcoin Pioneer, Stockma... | X (formerly Twitter)",
+    "url": "https://x.com/Fibonarchery",
+    "pass": 3
+   },
+   {
+    "quote": "Jens Ahlström (@jensahlstrom) on X Rain Neuromorphics Tapes Out Demo Chip for Analog AI - EE Times www.eetimes.com 💬0 🔄0 🤍1 📊23 📎",
+    "url": "https://x.com/jensahlstrom/status/1731720206047674826",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Rain Neuromorphics | San Francisco CA - FacebookRain Neuromorphics found a way to connect old phones together ...Gordon Hirsch Wilson - Facebook路克社 - Rain Neuromorphics... | Facebook3Dev Computers - Rain Neuromorphics, a startup designing...Gordon Wilson, CEO and co-founder of... - InsightFinder, Inc ...Today News - Rain Neuromorphics, a startup designing chips... Sep 6, 2018 · Rain Neuromorphics,",
+    "url": "https://www.facebook.com/rainneuromorphics/",
+    "pass": 3
+   },
+   {
+    "quote": "Rain Neuromorphics found a way to connect old phones together ... May 12, 2026 · Rain Neuromorphics found a way to connect old phones together into a distributed computing network that handles AI workloads, data processing, and edge computing tasks, eliminating the need for massive server farms while giving millions of discarded devices a second life. They didn’t invent new technology. They rethou",
+    "url": "https://www.facebook.com/UniversalBasicKnowledge/videos/rain-neuromorphics-found-a-way-to-connect-old-phones-together-into-a-distributed/1312951487566262/",
+    "pass": 3
+   },
+   {
+    "quote": "Gordon Hirsch Wilson - Facebook Nov 5, 2025 · Digital creator · San Francisco, CA · Rain Neuromorphics · University of Florida All",
+    "url": "https://www.facebook.com/gordonhw/",
+    "pass": 3
+   },
+   {
+    "quote": "路克社 - Rain Neuromorphics... | Facebook Dec 6, 2023 · Rain Neuromorphics Inc.這家2017年創立、最近很受矚目的新創公司，聯電前董事長兼總經理胡國強在裡面擔任董事顧問已近6年。 未來，這家的晶片量產會投片聯電嗎？ 新聞截圖取自新頭殼、信傳媒。",
+    "url": "https://www.facebook.com/alpha2beta/posts/rain-neuromorphics-inc這家2017年創立最近很受矚目的新創公司聯電前董事長兼總經理胡國強在裡面擔任董事顧問已近6年未來這家的晶片量產會投片/783978090411194/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Gordon Wilson - Founder | Storyteller | Connector | LinkedInRain Neuromorphics | Alpha ProfilesHow Rain Neuromorphics hit $1.8M revenue with a 12 person ... Jan 1, 2009 · At Rain, we envision a future where every device possesses an efficient and continuously learning artificial brain. Sep 2, 2026 · View Rain Neuromorphics's evidence-backed Company Profile, including identity, leadership, governan",
+    "url": "https://www.linkedin.com/in/gordonhirschwilson",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://rain.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rain.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rain.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ainiche.net/ja/tools/rain-neuromorphics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/rain-neuromorphics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/rain-neuromorphics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://rain-neuromorphics.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ainiche.net/ja/tools/rain-neuromorphics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/rain-neuromorphics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loot-drop.io/startup/2409-rain-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neuromorphiccore.ai/insights/rain-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reforgers.com/startups/rain-neuromorphics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bing.com/aclick?ld=e8WV-sUwIoQ8R6SJaenZ_b6DVUCUwe_Q_KKA8f6PV95iGOnyVZ6rrpIA-hoOFukfgNRL3BsLDk0nN3tVMF8N_LvLyS-_C1N6u0RrXC8RBzaxyzV2gTS_sU5MmffQ-mtsv8jRHc7SxHgJ29XM8BK4Jvocuns0PKNwgUUjfzUICz3lF6yXCXaBAUIfv5mNV1a0q_QGg8DOX8vMmxKvzBXjgZoNWuNbQ&u=aHR0cHMlM2ElMmYlMmZyZXBseS5pbyUyZndoaXRlbGFiZWwlMmYlM2Z1dG1fc291cmNlJTNkbWljcm9zb2Z0YWRzJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE1BLVdMX0FHJTI2dXRtX3Rlcm0lM2R3aGl0ZSUyNTIwbGFiZWwlMjUyMHNvbHV0aW9ucyUyNm1zY2xraWQlM2Q4ZTcyNzAzOTdlMjkxZTdhMWY3YjFhY2FhZWY0NmM4NA&rlid=8e7270397e291e7a1f7b1acaaef46c84",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/rain-neuromorphics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/rain-neuromorphics.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/rain-neuromorphics-fdf8",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/rain-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamaken910/n/n4a2b687c1999",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/scra/n/n77a9027260b3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/jensahlstrom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Fibonarchery",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/jensahlstrom/status/1731720206047674826",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rainneuromorphics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/UniversalBasicKnowledge/videos/rain-neuromorphics-found-a-way-to-connect-old-phones-together-into-a-distributed/1312951487566262/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gordonhw/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/alpha2beta/posts/rain-neuromorphics-inc這家2017年創立最近很受矚目的新創公司聯電前董事長兼總經理胡國強在裡面擔任董事顧問已近6年未來這家的晶片量產會投片/783978090411194/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gordonhirschwilson",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rain Neuromorphics 日本 導入",
+   "results": [
+    "https://ainiche.net/ja/tools/rain-neuromorphics",
+    "https://rain.ai/",
+    "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "https://rain.ai/products",
+    "https://zhuanlan.zhihu.com/p/671328276",
+    "https://startupintros.com/orgs/rain-ai",
+    "https://note.com/akikito/n/nb1e899753bff"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rain Neuromorphics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.ycombinator.com/companies/rain-neuromorphics",
+    "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "https://www.crunchbase.com/organization/rain-neuromorphics",
+    "https://tech.yahoo.com/science/articles/chip-designer-mimicking-brain-backed-081324389.html",
+    "https://rain.ai/",
+    "https://rain.ai/about",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rain Neuromorphics Japan",
+   "results": [
+    "http://rain-neuromorphics.com/",
+    "https://rain.ai/products",
+    "https://ainiche.net/ja/tools/rain-neuromorphics",
+    "https://www.ycombinator.com/companies/rain-neuromorphics",
+    "https://eetimes.itmedia.co.jp/ee/articles/2202/15/news067.html",
+    "https://finance.yahoo.com/quote/RAIN/?fr=sycsrp_catchall",
+    "https://rain.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rain Neuromorphics manufacturing customer case study",
+   "results": [
+    "https://www.loot-drop.io/startup/2409-rain-ai",
+    "https://neuromorphiccore.ai/insights/rain-ai/",
+    "https://rain.ai/products",
+    "https://reforgers.com/startups/rain-neuromorphics",
+    "https://startupintros.com/orgs/rain-ai",
+    "http://rain-neuromorphics.com/",
+    "https://rain.ai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rain Neuromorphics white label OR reseller OR partner program",
+   "results": [
+    "https://www.bing.com/aclick?ld=e8WV-sUwIoQ8R6SJaenZ_b6DVUCUwe_Q_KKA8f6PV95iGOnyVZ6rrpIA-hoOFukfgNRL3BsLDk0nN3tVMF8N_LvLyS-_C1N6u0RrXC8RBzaxyzV2gTS_sU5MmffQ-mtsv8jRHc7SxHgJ29XM8BK4Jvocuns0PKNwgUUjfzUICz3lF6yXCXaBAUIfv5mNV1a0q_QGg8DOX8vMmxKvzBXjgZoNWuNbQ&u=aHR0cHMlM2ElMmYlMmZyZXBseS5pbyUyZndoaXRlbGFiZWwlMmYlM2Z1dG1fc291cmNlJTNkbWljcm9zb2Z0YWRzJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE1BLVdMX0FHJTI2dXRtX3Rlcm0lM2R3aGl0ZSUyNTIwbGFiZWwlMjUyMHNvbHV0aW9ucyUyNm1zY2xraWQlM2Q4ZTcyNzAzOTdlMjkxZTdhMWY3YjFhY2FhZWY0NmM4NA&rlid=8e7270397e291e7a1f7b1acaaef46c84",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://nebius.com/nebius-partner-program",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Rain Neuromorphics founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/rain-neuromorphics",
+    "https://getlatka.com/companies/rain-neuromorphics.com",
+    "https://www.crunchbase.com/organization/rain-neuromorphics-fdf8",
+    "https://startupintros.com/orgs/rain-ai",
+    "https://tracxn.com/d/companies/rain/__sKp9sqv2Nc690RoqfetuWtJafOBJ1FxqqhVp9VM2WtM",
+    "https://www.crunchbase.com/organization/rain-neuromorphics",
+    "https://getlatka.com/companies/rain-neuromorphics.com/team"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rain Neuromorphics",
+   "results": [
+    "https://note.com/yamaken910/n/n4a2b687c1999",
+    "https://note.com/akikito/n/n1beb26a832e8?hl=en",
+    "https://note.com/scra/n/n77a9027260b3",
+    "https://note.com/akikito/n/nb1e899753bff",
+    "https://note.com/akikito/n/nb1e899753bff?hl=ko",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rain Neuromorphics",
+   "results": [
+    "https://x.com/neuromorphics",
+    "https://x.com/jensahlstrom",
+    "https://x.com/Fibonarchery",
+    "https://x.com/jensahlstrom/status/1731720206047674826",
+    "https://x.com/silvercitybella",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://x.com/Lumos634587"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rain Neuromorphics",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Rain Neuromorphics",
+   "results": [
+    "https://www.facebook.com/rainneuromorphics/",
+    "https://www.facebook.com/UniversalBasicKnowledge/videos/rain-neuromorphics-found-a-way-to-connect-old-phones-together-into-a-distributed/1312951487566262/",
+    "https://www.facebook.com/gordonhw/",
+    "https://www.facebook.com/alpha2beta/posts/rain-neuromorphics-inc這家2017年創立最近很受矚目的新創公司聯電前董事長兼總經理胡國強在裡面擔任董事顧問已近6年未來這家的晶片量產會投片/783978090411194/",
+    "https://www.facebook.com/3DevComputers/posts/rain-neuromorphics-a-startup-designing-chips-that-mimic-the-way-the-brain-works-/1147834406042817/",
+    "https://www.facebook.com/LatestTdNews/posts/335854325131382/",
+    "https://www.facebook.com/InsightFinderIncorporated/posts/gordon-wilson-ceo-and-co-founder-of-rain-neuromorphics-shares-how-to-re-create-a/258847809787673/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rain Neuromorphics note 社長",
+   "results": [
+    "https://www.bloomberg.com/profile/person/25254047",
+    "https://peoplereign.io/gordon-wilson-ceo-and-co-founder-of-rain-neuromorphics-shares-how-to-re-create-a-carbon-based-brain-on-a-silicon-chip/",
+    "https://www.linkedin.com/in/gordonhirschwilson",
+    "https://registry.alpha.ac/companies/rain-neuromorphics",
+    "https://getlatka.com/companies/rain-neuromorphics.com/team",
+    "https://rain.ai/about",
+    "https://people.equilar.com/bio/person/jack-kendall-rain-neuromorphics/43578735"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rain Neuromorphics X 投稿",
+   "results": [
+    "https://rain.ai/",
+    "https://x-sou.com/ja/u/prettypupcakez",
+    "https://x.com/raincclemon/status/2119718825604362549",
+    "http://rain-neuromorphics.com/",
+    "https://rain.ai/products",
+    "https://ainiche.net/ja/tools/rain-neuromorphics",
+    "https://x.com/Rain0n3/status/2119034566556233889"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

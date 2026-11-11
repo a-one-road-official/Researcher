@@ -1,0 +1,518 @@
+{
+ "name": "Rivelinrobotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-11T02:04:32.495418+00:00",
+ "official_url": "https://rivelinrobotics.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Production makes near-net shape parts. Post-processing creates the bottleneck.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual de-platforming and finishing expose operators to HSE risk while creating a production chokepoint that limits throughput and capacity planning.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual post-processing inflates unit cost, extends lead times, and makes process validation harder, slowing the path to production sign-off.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NetShape® scans each part, adapts to its real geometry, and drives finishing with robotic precision. The same intelligence runs across every Rivelin platform.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Adaptive scanning, toolpath control, and finishing intelligence in one compact production microfactory.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rivelin Robotics Appoints Chris Harland as COO to Drive Scalable Growth in Precision Finishing",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Announcement · 25 Apr 2024",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rivelin Robotics Provides In-depth Insight into Project CAMPFIRE",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As the lead partner of an Innovate UK funded project, Rivelin Robotics is working to deliver a complete digital post processing solution for the automated finishing of flight parts, orthopaedic implants and gas turbine components produced using metal additive manufacturing (AM) processes.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rivelin Robotics Leads Innovate UK Project CAMPFIRE to Deliver Automated Post Processing Solutions for Regulated Industries",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rivelin Robotics is sharing how it is leading a funded Innovate UK project that is set to deliver automated finishing of flight parts, orthopaedic implants and gas turbine components produced using metal AM processes.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Evolution of AM: How Automation Redefines Post-Processing Standards",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It is hard to argue against the observable disruption that AM technologies have caused to traditional manufacturing. However, one of the major hurdles for wider AM adoption for production remains at the post-processing stage. This article considers how new automated solutions are moving the dial.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "71 (IR) Squadron undergoing training with Rivelin personnel",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Rise Of Automation in Metal AM Post-Processing — Transforming the Industry with Precision and Efficiency",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Across the continually evolving manufacturing landscape, the integration of automation solutions continues to move quickly. For metal Additive Manufacturing (AM) processes the same is true. However, the post processing of metal parts, which is critical for successful outcomes, has been largely overlooked causing serious bottlenecks in the process chain — until now.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by industry leading organisations",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual de-platforming and finishing expose operators to HSE risk while creating a production chokepoint that limits throughput and capacity planning.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply finishing-aware control with standard industrial tools, but with robotic repeatability and traceability.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Adaptive scanning, toolpath control, and finishing intelligence in one compact production microfactory.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are delighted to welcome Chris Harland as our new Chief Operating Officer at Rivelin Robotics. With extensive experience in industrial scaling, aerospace (Airbus & Safran), and automotive manufacturing...",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As the lead partner of an Innovate UK funded project, Rivelin Robotics is working to deliver a complete digital post processing solution for the automated finishing of flight parts, orthopaedic implants and gas turbine components produced using metal additive manufacturing (AM) processes.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rivelin Robotics is sharing how it is leading a funded Innovate UK project that is set to deliver automated finishing of flight parts, orthopaedic implants and gas turbine components produced using metal AM processes.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It is hard to argue against the observable disruption that AM technologies have caused to traditional manufacturing. However, one of the major hurdles for wider AM adoption for production remains at the post-processing stage. This article considers how new automated solutions are moving the dial.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Across the continually evolving manufacturing landscape, the integration of automation solutions continues to move quickly. For metal Additive Manufacturing (AM) processes the same is true. However, the post processing of metal parts, which is critical for successful outcomes, has been largely overlooked causing serious bottlenecks in the process chain — until now.",
+    "url": "https://www.rivelinrobotics.com/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rivelinrobotics.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rivelinrobotics.com/.netlify/images?url=https%3A%2F%2Fimages.ctfassets.net%2Fbjia12x471fb%2F5I3OIMUqV1G3lXISdaq33c%2F33ec06355d216ac1307f97c30e904332%2Frivelin_logos_rivelin_logo-idevice_gr-drk_4x.png&w=1200&fit=contain&q=82",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rivelinrobotics.com/.netlify/images?url=%2Fcustomer-logos%2F3t-am.webp&w=1200&fit=contain&q=82",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rivelinrobotics.com/.netlify/images?url=%2Fcustomer-logos%2Facequia.webp&w=1200&fit=contain&q=82",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rivelinrobotics.com/.netlify/images?url=%2Fcustomer-logos%2Fattenborough-medical.png&w=1200&fit=contain&q=82",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.allrecipes.com/recipe/34690/crab-fried-rice/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://thewoksoflife.com/crab-fried-rice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hot-thai-kitchen.com/crab-fried-rice-2/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myforkinglife.com/crab-fried-rice/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://chartrow.com/visuals/sector-periodic-table",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tradeonpurpose.com/resources/tools/sector-returns-by-year",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.spglobal.com/en/research-insights/market-insights/have-defensive-sectors-stood-the-test-of-time-in-global-markets",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.konekoresearch.com/p/s-and-p-sector-returns-in-the-2000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Kia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kia.com/us/en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.findlaykia.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dolanrenokia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.steelsoldiers.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.steelsoldiers.com/forums/generators.55/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.steelsoldiers.com/forums/cucv.47/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.steelsoldiers.com/forums/vehicles-for-sale.125/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://info.questco.net/resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://questco.net/client-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://questco.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.questco.net/hubfs/_Client+Resource+Center/Questco+Employee+Onboarding+2025.pdf?hsLang=en",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.amazon.com/t-shirts/s?k=t-shirts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teepublic.com/t-shirts",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.com/Mens-T-Shirts/b?node=1045624",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hometownapparel.com/towns/florida/homosassa",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rivelinrobotics 日本 導入",
+   "results": [
+    "https://www.allrecipes.com/recipe/34690/crab-fried-rice/",
+    "https://thewoksoflife.com/crab-fried-rice/",
+    "https://hot-thai-kitchen.com/crab-fried-rice-2/",
+    "https://www.myforkinglife.com/crab-fried-rice/",
+    "https://jessicasrecipes.com/crab-fried-rice-recipe/",
+    "https://www.foodnetwork.com/recipes/crab-fried-rice-21670585",
+    "https://www.seriouseats.com/thai-style-fried-rice-crab-recipe",
+    "https://www.recipesbynora.com/crab-fried-rice/",
+    "https://www.foodnetwork.com/fnk/recipes/crab-fried-rice-8343992",
+    "https://tasteasianfood.com/crab-fried-rice/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Rivelinrobotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://chartrow.com/visuals/sector-periodic-table",
+    "https://plutux.ai/resources/tools/sector-returns-by-year",
+    "https://www.spglobal.com/en/research-insights/market-insights/have-defensive-sectors-stood-the-test-of-time-in-global-markets",
+    "https://www.konekoresearch.com/p/s-and-p-sector-returns-in-the-2000",
+    "https://einvestingforbeginners.com/historical-sp-500-industry-weights-20-years/",
+    "https://historyofmarket.com/en/",
+    "https://novelinvestor.com/sector-performance/",
+    "https://gas-stationsnearme.com/",
+    "https://gasstations-nearme.com/",
+    "https://www.bp.com/en-US/products-and-services/find-a-station"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Rivelinrobotics Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Kia",
+    "https://www.kia.com/us/en",
+    "https://www.findlaykia.com/",
+    "https://www.dolanrenokia.com/",
+    "https://www.kiafinance.com/",
+    "https://www.dolanrenokia.com/new-inventory/index.htm",
+    "https://www.caranddriver.com/kia",
+    "https://www.dolanautogroup.com/new-inventory/kia-for-sale-reno-nv.htm",
+    "https://www.kbb.com/kia/",
+    "https://worldwide.kia.com/en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Rivelinrobotics manufacturing customer case study",
+   "results": [
+    "https://www.steelsoldiers.com/",
+    "https://www.steelsoldiers.com/forums/generators.55/",
+    "https://www.steelsoldiers.com/forums/cucv.47/",
+    "https://www.steelsoldiers.com/forums/vehicles-for-sale.125/",
+    "https://www.steelsoldiers.com/forums/the-deuce.20/",
+    "https://www.steelsoldiers.com/forums/m151.26/",
+    "https://www.steelsoldiers.com/threads/dana-diagnostic-tool.177799/",
+    "https://www.steelsoldiers.com/forums/generator-and-electrical-tms.121/",
+    "https://www.steelsoldiers.com/threads/doghead-starter-relay-modifcation.60960/",
+    "https://www.steelsoldiers.com/forums/parts-for-sale.126/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Rivelinrobotics white label OR reseller OR partner program",
+   "results": [
+    "https://info.questco.net/resources",
+    "https://questco.net/client-portal",
+    "https://questco.net/",
+    "https://info.questco.net/hubfs/_Client+Resource+Center/Questco+Employee+Onboarding+2025.pdf?hsLang=en",
+    "https://quest.clientspace.net/Next/Login",
+    "https://questco.net/about-questco",
+    "https://questco.net/why-questco",
+    "https://questco.net/about-questco/careers",
+    "https://www.linkedin.com/company/questco-companies/",
+    "https://remotepeople.com/providers/questco-review/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Rivelinrobotics founded funding employees revenue",
+   "results": [
+    "https://www.amazon.com/t-shirts/s?k=t-shirts",
+    "https://www.teepublic.com/t-shirts",
+    "https://www.amazon.com/Mens-T-Shirts/b?node=1045624",
+    "https://www.hometownapparel.com/towns/florida/homosassa",
+    "https://www.walmart.com/browse/clothing/mens-t-shirts/5438_133197_6286551_3187021",
+    "https://www.etsy.com/market/tshirts",
+    "https://www.trueclassictees.com/",
+    "https://www.macys.com/shop/mens/clothing/shirts/t-shirts?id=30423",
+    "https://oldnavy.gap.com/browse/men/t-shirts?cid=5249",
+    "https://www.walmart.com/browse/clothing/t-shirts/5438_5992927_6591620"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:note.com Rivelinrobotics",
+   "results": [
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/",
+    "https://account.microsoft.com/account-checkup",
+    "https://myaccount.microsoft.com/login",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://www.microsoft.com/en-us/",
+    "https://account.microsoft.com/account",
+    "https://myaccount.microsoft.com/",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://apps.microsoft.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Rivelinrobotics",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Rivelinrobotics",
+   "results": [
+    "https://calendar.google.com/",
+    "https://en.wikipedia.org/wiki/Laser-induced_breakdown_spectroscopy",
+    "https://www.thermofisher.com/us/en/home/industrial/spectroscopy-elemental-isotope-analysis/portable-analysis-material-id/industrial-elemental-radiation-solutions/how-does-libs-work.html",
+    "https://www.keyence.com/products/microscope/digital-microscope/imaging-techniques/libs.jsp",
+    "https://www.worldoftest.com/articles/libs-analyzers-explained/",
+    "https://www.appliedspectra.com/technology/what-is-libs",
+    "https://serc.carleton.edu/msu_nanotech/methods/libs.html",
+    "https://www.avantes.com/applications/cases/laser-induced-breakdown-spectroscopy-applications-in-the-physical-sciences/",
+    "https://hha.hitachi-hightech.com/en/blogs-events/blogs/2018/01/03/what-is-libs/",
+    "https://www.libsgrill.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "site:facebook.com Rivelinrobotics",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Rivelinrobotics note 社長",
+   "results": [
+    "https://www.detroitlions.com/",
+    "https://www.detroitlions.com/news/",
+    "https://shop.detroitlions.com/detroit-lions/t-14046864+z-9723586-51128511",
+    "https://shop.detroitlions.com/",
+    "https://www.detroitlions.com/game-day/power-hour",
+    "https://www.detroitlions.com/team/players-roster/",
+    "https://www.detroitlions.com/cheerleaders/",
+    "https://www.detroitlions.com/team/depth-chart",
+    "https://www.detroitlions.com/fans/mobile-app",
+    "https://www.detroitlions.com/news/2026-detroit-lions-training-camp-preview-linebacker-campbell-barnes-rodriguez"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Rivelinrobotics X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/2025_Los_Angeles_Rams_season",
+    "https://www.therams.com/team/players-roster/",
+    "https://www.pro-football-reference.com/teams/ram/2025_roster.htm",
+    "https://www.footballdb.com/teams/nfl/los-angeles-rams/roster/2025",
+    "https://www.pro-football-reference.com/teams/ram/2025.htm",
+    "https://www.therams.com/photos/2025-rams-53-man-roster",
+    "https://www.espn.com/nfl/team/roster/_/name/lar/los-angeles-rams",
+    "https://nfldraftbuzz.com/NFL-roster/Rams/2025",
+    "https://fantasyteamadvice.com/nfl/teams/los-angeles-rams/roster/2025",
+    "https://www.statmuse.com/nfl/team/los-angeles-rams-53/roster/2025"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部24頁・検索12回）"
+ }
+}

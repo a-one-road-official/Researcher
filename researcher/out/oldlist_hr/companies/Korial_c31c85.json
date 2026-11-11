@@ -1,0 +1,1418 @@
+{
+ "name": "Korial",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-11T02:16:36.716198+00:00",
+ "official_url": "https://www.korial.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "12-Jan-2021 $2.44M $2.44M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/453436-57",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Korial | Formerly Energy Robotics - Enterprise AI for Industrial Operations",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Korial is the enterprise artificial intelligence platform that makes fully autonomous industrial operations possible - across any asset, any device, any environment, and any scale.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By unifying robots, drones, sensors, and data into one AI operating layer, it continuously turns raw telemetry into verified insight and orchestrated action that improves safety, reliability and efficiency.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improving Operational Efficiency",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering with Leading Enterprises",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Korial is the new name for Energy Robotics - marking our evolution from powering individual robots and drones to orchestrating autonomy as an enterprise-scale AI platform.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI heart of Korial – unified industrial intelligence across platform, operations, and data. It fuses an LLM, agentic workflows, embedded skills, device and site supervision, robot control, and self-reinforcing intelligence. Live telemetry becomes actionable insight, automated decisions, and ever improving autonomous operations.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Korial’s optional integration backbone for APIs and enterprise data exchange. It streams inspection data, telemetry, metadata, and verified insight between Korial and external IT/OT systems, so enterprises can embed Korial physical AI directly into existing workflows, reporting stacks, and governance processes.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect mission‑critical operations with industrial‑grade support, structured onboarding, and a continuous success partnership. Ensures the platform, the fleet, and your organization mature together toward greater autonomous capability and measurable ROI.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Korial is proven in the field with deployments across some of the largest and most complex industrial facilities worldwide. From tank farms and refineries to specialty chemical plants, customers use Korial to standardize governance, improve response times, and keep people out of harm’s way.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At Evonik, Korial delivers a continuous, high‑quality asset condition dataset, so engineers spend less time on routine rounds and more time improving process performance and reliability.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By decoupling intelligence from the underlying hardware, E.ON’s grid operators preserve hardware flexibility while gaining a repeatable blueprint for scaling autonomous inspection as grid renewal accelerates.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are proud to have put a mixed fleet of autonomous inspection robots and a drone into operation. The different models give us the flexibility we need to inspect a large number of inspection points automatically.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Process Technologies",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We produce the energy of today and develop the energy of tomorrow. Our goal here is to generate more value with fewer emissions, and robotic inspections are helping us achieve that goal.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join leading enterprise organisations leveraging Korial to achieve operational autonomy.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Korial builds the intelligence layer for autonomous industrial operations. Our strategic partners bring it to operators in every major industrial market - pairing deep local expertise with one enterprise AI platform.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our strategic partners are resellers, integrators, and specialist service providers across the world's major industrial regions. They bring Korial to market locally - combining their engineering, inspection, and digital-transformation expertise with Korial’s enterprise AI capabilities to take operators from a single deployment to enterprise-wide autonomous operations.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "The result is a single global standard, delivered with local presence: faster deployments, trusted support in-region, and one intelligence layer unifying every device, every site, and every mission - wherever in the world operations run.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "From global services leaders to specialist regional integrators, our partners pair deep local expertise with one enterprise AI platform - bringing autonomous operations to operators across every major industrial market.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Bilfinger is an international industrial services provider spanning the full value chain, from engineering to maintenance and asset performance. As a Korial reseller partner, Bilfinger embeds the Enterprise AI Platform within its digital services portfolio - bringing autonomous inspection to oil and gas operators worldwide.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the Indra group, Minsait is a global digital-transformation leader with deep reach across regulated industries. As a Korial reseller partner, Minsait brings the enterprise AI platform to industrial operators worldwide - accelerating the shift from fragmented pilots to scaled autonomous inspection.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting & Training",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Petrogenium brings deep downstream expertise across refining, petrochemicals, and gas processing, with a consulting and training heritage rooted in operational excellence. Paired with Korial's Enterprise AI Platform, that expertise turns inspection and operational data into measurable gains in energy efficiency, process safety, and asset performance.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "A Grupo Álava company, Preditec brings established predictive-maintenance and condition-monitoring expertise to the Iberian market. As a Korial partner, it delivers AI-powered autonomous inspection to industrial operators throughout Spain and Portugal.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "A leading industrial IoT provider and system integrator, YCL Technology brings deep expertise across oil and gas, chemicals, and power and utilities in Taiwan. As a Korial reseller partner, it pairs trusted local support with the Korial enterprise AI platform to accelerate digital transformation across the region.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Australia-based Chironix brings deep hardware expertise and a strong on-the-ground footprint across key APAC markets. Korial provides the enterprise software layer that turns data from individual devices into orchestrated, enterprise-wide autonomous operations - taking deployments from a single device to an entire operation.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join leading enterprise organisations leveraging Korial to achieve operational autonomy.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "In this future, a unified platform directs a heterogeneous fleet of robots, drones, and sensors as a single intelligent entity. It continuously collects data, identifies issues, resolves anomalies, and optimizes production 24/7 across the asset lifecycle.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "By decoupling dull, dirty, dangerous, and remote industrial work from human dependency, we reduce risk, drive unprecedented efficiency, and maximize ROI for essential services and critical infrastructure worldwide.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to get people out of hazardous environments and away from dull, dirty, and dangerous tasks. Korial provides a single operating layer that lets industrial leaders govern, deploy, and scale autonomous operations with confidence across sites, fleets, and vendors.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Every day, we focus first on safety - making autonomy auditable and dependable in mission‑critical environments so people and assets stay protected. We embed industrial AI into existing IT and OT systems rather than working around them, and convert fragmented data into verifiable operational insight and action.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "This is how we move autonomy out of manual rounds and into the core of industrial operations, without compromising human or asset safety.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The industrial robotics market has reached a bottleneck. Hardware has matured, but enterprise adoption remains challenged. Operations leaders are forced to manage disconnected silos and multiple proprietary clouds, creating a fragmented “robot zoo” that cannot scale.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "By decoupling intelligence from hardware, we provide the architectural standard required to orchestrate complex operations across any environment. Raw data becomes a unified operational backbone: one place to supervise robot and drone fleets, govern autonomy, and embed industrial AI into the enterprise.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "\"The hardest problems in industrial operations aren’t about better robots - they’re about turning every device, every signal, and every site into one intelligent system that lets people focus on what really matters. That’s what we’re building at Korial",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "AI is not a badge or a bolt‑on; it is the core of what makes Korial impactful at scale. We invest in intelligence that can ingest universal data streams, orchestrate complex missions, and continuously improve, so customers are ready for the next decade of autonomous operations.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering with Leading Enterprises",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Join leading enterprise organisations leveraging Korial to achieve operational autonomy.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Korial Showcases Enterprise AI at the Energy Drone & Robotics Summit",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "At the Energy Drone & Robotics Summit in Houston, Korial put its enterprise AI platform directly in the hands of industry leaders.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How AI Data Processing is Shaping Large-Scale Industrial Operations",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Insights on how the integration of AI data processing in industrial inspection has streamlined operations and improved efficiency.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Proven ROI Across the World's Most Demanding Industrial Environments",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Korial delivers the quantifiable business outcomes required by global industrial leaders to justify enterprise‑wide transformation. With over 1m autonomous inspections completed to date, we have helped decouple critical infrastructure operations from human constraints in some of the most hazardous and complex facilities on earth",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming the Industrial Enterprise",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how Korial provides a unified architectural standard that survives hardware refresh cycles, standardizes enterprise governance, and elevates boots on the ground into strategic operators.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "At Evonik, Korial delivers a continuous, high‑quality asset condition dataset, so engineers spend less time on routine rounds and more time improving process performance and reliability.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "By decoupling intelligence from the underlying hardware, E.ON’s grid operators preserve hardware flexibility while gaining a repeatable blueprint for scaling autonomous inspection as grid renewal accelerates.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Korial converts fragmented robot and drone activities into a single, enterprise‑grade autonomy layer - coordinating routes, capturing evidence, validating readings, detecting anomalies, and triggering workflows, while continuously strengthening asset health, operational reliability, and the safety of human teams.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Proven autonomy at industrial scale across mixed fleets",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Join leading enterprise organisations leveraging Korial to achieve operational autonomy.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Korial is the enterprise artificial intelligence platform that makes fully autonomous industrial operations possible.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous inspection for high-risk, hazardous-area facilities, proven in ATEX Zone 1.",
+    "url": "https://www.korial.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Process safety and operational continuity across complex chemical processing environments.",
+    "url": "https://www.korial.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Operations leaders across every sector face the same challenge: disconnected systems, proprietary data silos, and a heavy reliance on manual inspection. The hardware differs from one industry to the next, but the fragmentation is the same, and so is the cost.",
+    "url": "https://www.korial.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Korial gives enterprises with diverse, distributed assets one standard for autonomous inspection. The same platform directs robots and drones from any supported manufacturer, in any environment, and brings every finding into one trusted record. One platform, one standard, and one source of truth serve every facility you run.",
+    "url": "https://www.korial.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "As enterprises scale autonomous inspection across business units, relying on each manufacturer's own cloud creates security risks and gaps in governance. Whether the environment is an ATEX Zone 1 refinery or a sprawling chemical complex, inspection data can't stay trapped inside the system that captured it.",
+    "url": "https://www.korial.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Korial solves that fragmentation by keeping the intelligence in the platform rather than the hardware. It brings together data from mixed fleets of robots and drones, turns it into one trusted record, and gives the enterprise a single, governed platform built to meet strict data-sovereignty, safety, and continuity requirements.",
+    "url": "https://www.korial.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Whatever the sector, the return is the same shape: fragmentation replaced by one standard, manual exposure replaced by autonomy, and operational intelligence that compounds in value across the entire enterprise.",
+    "url": "https://www.korial.com/solutions",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Korial | Formerly Energy Robotics - Enterprise AI for Industrial Operations",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "for Industrial Operations",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Korial is the enterprise artificial intelligence platform that makes fully autonomous industrial operations possible - across any asset, any device, any environment, and any scale.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Korial combines four interoperable components into a single AI platform that commands autonomous industrial operations across devices, assets, sites, and systems. Together they unify intelligence, integration, simulation, and continuity, so each deployment compounds into more reliable, governable, and scalable autonomy.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI heart of Korial – unified industrial intelligence across platform, operations, and data. It fuses an LLM, agentic workflows, embedded skills, device and site supervision, robot control, and self-reinforcing intelligence. Live telemetry becomes actionable insight, automated decisions, and ever improving autonomous operations.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect mission‑critical operations with industrial‑grade support, structured onboarding, and a continuous success partnership. Ensures the platform, the fleet, and your organization mature together toward greater autonomous capability and measurable ROI.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Korial is proven in the field with deployments across some of the largest and most complex industrial facilities worldwide. From tank farms and refineries to specialty chemical plants, customers use Korial to standardize governance, improve response times, and keep people out of harm’s way.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By decoupling intelligence from the underlying hardware, E.ON’s grid operators preserve hardware flexibility while gaining a repeatable blueprint for scaling autonomous inspection as grid renewal accelerates.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Merck, one of Europe's first adopters of Boston Dynamics Spot for industrial inspection, needed to replace manual monitoring of its maintenance-intensive thermal exhaust treatment facilities.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The pilot with Korial and Boston Dynamics shows the state of the art in autonomous robotics. We are convinced that robots like Spot can efficiently and reliably support remotely supervised missions at our plants.",
+    "url": "https://www.korial.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Korial builds the intelligence layer for autonomous industrial operations. Our strategic partners bring it to operators in every major industrial market - pairing deep local expertise with one enterprise AI platform.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Korial builds the intelligence layer for autonomous industrial operations. To put our platform to work in every region and every industry, we partner with the organizations that already hold the local relationships, the domain depth, and the delivery capability operators trust.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our strategic partners are resellers, integrators, and specialist service providers across the world's major industrial regions. They bring Korial to market locally - combining their engineering, inspection, and digital-transformation expertise with Korial’s enterprise AI capabilities to take operators from a single deployment to enterprise-wide autonomous operations.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "From global services leaders to specialist regional integrators, our partners pair deep local expertise with one enterprise AI platform - bringing autonomous operations to operators across every major industrial market.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Bilfinger is an international industrial services provider spanning the full value chain, from engineering to maintenance and asset performance. As a Korial reseller partner, Bilfinger embeds the Enterprise AI Platform within its digital services portfolio - bringing autonomous inspection to oil and gas operators worldwide.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the Indra group, Minsait is a global digital-transformation leader with deep reach across regulated industries. As a Korial reseller partner, Minsait brings the enterprise AI platform to industrial operators worldwide - accelerating the shift from fragmented pilots to scaled autonomous inspection.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "A Grupo Álava company, Preditec brings established predictive-maintenance and condition-monitoring expertise to the Iberian market. As a Korial partner, it delivers AI-powered autonomous inspection to industrial operators throughout Spain and Portugal.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "CNIAS extends autonomous operations into high-growth energy markets across West Africa and South America. Partnering with Korial, it brings AI-driven inspection and emissions management to operators in regions where reliable, scalable monitoring delivers outsized impact.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "A leading industrial IoT provider and system integrator, YCL Technology brings deep expertise across oil and gas, chemicals, and power and utilities in Taiwan. As a Korial reseller partner, it pairs trusted local support with the Korial enterprise AI platform to accelerate digital transformation across the region.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Liberating Industrial Operations from the Limits of Human Capacity",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The dull, dirty, and dangerous parts of industrial work should not depend on people walking the same routes day after day. Korial orchestrates robots, drones, and the data they generate - monitoring, diagnosing, and acting autonomously - so your teams move from ground‑level execution to strategic operations.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We see a future where critical industrial facilities orchestrate themselves, liberating operations from the limits of human capacity.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "By decoupling dull, dirty, dangerous, and remote industrial work from human dependency, we reduce risk, drive unprecedented efficiency, and maximize ROI for essential services and critical infrastructure worldwide.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to get people out of hazardous environments and away from dull, dirty, and dangerous tasks. Korial provides a single operating layer that lets industrial leaders govern, deploy, and scale autonomous operations with confidence across sites, fleets, and vendors.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Every day, we focus first on safety - making autonomy auditable and dependable in mission‑critical environments so people and assets stay protected. We embed industrial AI into existing IT and OT systems rather than working around them, and convert fragmented data into verifiable operational insight and action.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "This is how we move autonomy out of manual rounds and into the core of industrial operations, without compromising human or asset safety.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The industrial robotics market has reached a bottleneck. Hardware has matured, but enterprise adoption remains challenged. Operations leaders are forced to manage disconnected silos and multiple proprietary clouds, creating a fragmented “robot zoo” that cannot scale.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "By decoupling intelligence from hardware, we provide the architectural standard required to orchestrate complex operations across any environment. Raw data becomes a unified operational backbone: one place to supervise robot and drone fleets, govern autonomy, and embed industrial AI into the enterprise.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "\"The hardest problems in industrial operations aren’t about better robots - they’re about turning every device, every signal, and every site into one intelligent system that lets people focus on what really matters. That’s what we’re building at Korial",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Korial is the intelligence and control system behind autonomous industrial operations. Our values govern how we build, how we speak, and how we partner with the teams who run critical infrastructure.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial inspection and operations are not a side bet for us; they are core to what we do. We do not dabble in adjacent markets or chase trends. We build the platform that moves the field forward, at the heart of essential services and critical infrastructure.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Because industrial inspection doesn’t happen in a demo. It happens in refineries, chemical plants, power stations and offshore platforms. What we build has to work there, every single day.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We design for the humans behind the operations. Every decision considers the operators, engineers, and leaders who rely on Korial to do their jobs safely and well. Our customers, their teams, and our own people are treated with the same level of respect and care.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Industrial Operations Customer Stories | Korial",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How AI Data Processing is Shaping Large-Scale Industrial Operations",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Insights on how the integration of AI data processing in industrial inspection has streamlined operations and improved efficiency.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Proven ROI Across the World's Most Demanding Industrial Environments",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Korial delivers the quantifiable business outcomes required by global industrial leaders to justify enterprise‑wide transformation. With over 1m autonomous inspections completed to date, we have helped decouple critical infrastructure operations from human constraints in some of the most hazardous and complex facilities on earth",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming the Industrial Enterprise",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how Korial provides a unified architectural standard that survives hardware refresh cycles, standardizes enterprise governance, and elevates boots on the ground into strategic operators.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "By decoupling intelligence from the underlying hardware, E.ON’s grid operators preserve hardware flexibility while gaining a repeatable blueprint for scaling autonomous inspection as grid renewal accelerates.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Merck, one of Europe's first adopters of Boston Dynamics Spot for industrial inspection, needed to replace manual monitoring of its maintenance-intensive thermal exhaust treatment facilities.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Proven autonomy at industrial scale across mixed fleets",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Korial is the enterprise artificial intelligence platform that makes fully autonomous industrial operations possible.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Korial makes autonomous inspection possible across any asset, any environment, and any continent. By freeing inspection from manual rounds and from each manufacturer's own software, the platform replaces fragmented, sector-specific tools with one standard way of working.",
+    "url": "https://www.korial.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Korial gives enterprises with diverse, distributed assets one standard for autonomous inspection. The same platform directs robots and drones from any supported manufacturer, in any environment, and brings every finding into one trusted record. One platform, one standard, and one source of truth serve every facility you run.",
+    "url": "https://www.korial.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "As enterprises scale autonomous inspection across business units, relying on each manufacturer's own cloud creates security risks and gaps in governance. Whether the environment is an ATEX Zone 1 refinery or a sprawling chemical complex, inspection data can't stay trapped inside the system that captured it.",
+    "url": "https://www.korial.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The pilot with Korial and Boston Dynamics shows the state of the art in autonomous robotics. We are convinced that robots like Spot can efficiently and reliably support remotely supervised missions at our plants.",
+    "url": "https://www.korial.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Most operations also run a mix of robots, drones, and systems from different manufacturers, each with its own interface, data format, and cloud. There's no single view, no consistent standard, and no easy way to scale what works at one site to the next.",
+    "url": "https://www.korial.com/solutions/oil-and-gas",
+    "pass": 1
+   },
+   {
+    "quote": "Korial solves both problems. One platform directs robots and drones from any supported manufacturer, inspects hazardous areas far more often than manual rounds allow, and brings every finding into one trusted record, ready to flow into the maintenance systems your teams already use.",
+    "url": "https://www.korial.com/solutions/oil-and-gas",
+    "pass": 1
+   },
+   {
+    "quote": "In the field, AI skills read every gauge, check every valve, and analyze every thermal and gas reading as it's captured. When a reading crosses a limit, operators get a severity-ranked alert with the image and data behind it, so the most serious issues get addressed first.",
+    "url": "https://www.korial.com/solutions/oil-and-gas",
+    "pass": 1
+   },
+   {
+    "quote": "Because the intelligence sits in the platform rather than the hardware, you can add robots and drones from different manufacturers without adding another system to manage. Missions are built and proven in simulation before deployment, so less time is spent correcting them in hazardous areas.",
+    "url": "https://www.korial.com/solutions/oil-and-gas",
+    "pass": 1
+   },
+   {
+    "quote": "The routine, hazardous rounds that once sent people into the plant, now run as autonomous inspection missions.",
+    "url": "https://www.korial.com/solutions/oil-and-gas",
+    "pass": 1
+   },
+   {
+    "quote": "Korial confirms the state of critical assets automatically, checking valve positions, RCU switch states, and whether tamper seals are in place. Consistent, machine-checked verification reduces the risk of human error in safety-critical checks across the plant.",
+    "url": "https://www.korial.com/solutions/oil-and-gas",
+    "pass": 1
+   },
+   {
+    "quote": "Regular condition monitoring and remote visibility across vast, dispersed networks of energy assets. Robots and drones run inspection missions across your substations, plants, and renewable sites, capturing thermal and visual data and reading gauges, while one team sees the condition of every asset in one place.",
+    "url": "https://www.korial.com/solutions/energy-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Korial runs autonomous inspection in some of the most demanding industrial environments in the world, including ATEX Zone 1 hazardous areas, with more than a million inspections completed. The same platform brings that capability to the dispersed, high-voltage infrastructure utilities manage.",
+    "url": "https://www.korial.com/solutions/energy-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "In the field, AI skills analyze every thermal image, read every gauge, and check every reading against its history as it's captured. When something crosses a limit, operators get a severity-ranked alert with the image and data behind it, so crews go where they're actually needed.",
+    "url": "https://www.korial.com/solutions/energy-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Because the intelligence sits in the platform rather than the hardware, you can add robots and drones from different manufacturers without adding another system to manage, and apply one standard across every site you run.",
+    "url": "https://www.korial.com/solutions/energy-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Generation Plant Inspection",
+    "url": "https://www.korial.com/solutions/energy-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Korial brings every deployment across your footprint, from substations to renewable sites, onto one map and into one view. Operators assess the condition of distant infrastructure without sending a crew to reach it.",
+    "url": "https://www.korial.com/solutions/energy-and-utilities",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Our strategic partners are resellers, integrators, and specialist service providers across the world's major industrial regions. They bring Korial to market locally - combining their engineering, inspection, and digital-transformation expertise with Korial’s enterprise AI capabilities to take operators from a single deployment to enterprise-wide autonomous operations.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Smart NDT brings specialist non-destructive testing and inspection expertise to the Italian oil and gas market. As a Korial reseller partner, it pairs that domain depth with AI-powered autonomous inspection and digital asset management for safer, more efficient operations.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Bilfinger is an international industrial services provider spanning the full value chain, from engineering to maintenance and asset performance. As a Korial reseller partner, Bilfinger embeds the Enterprise AI Platform within its digital services portfolio - bringing autonomous inspection to oil and gas operators worldwide.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the Indra group, Minsait is a global digital-transformation leader with deep reach across regulated industries. As a Korial reseller partner, Minsait brings the enterprise AI platform to industrial operators worldwide - accelerating the shift from fragmented pilots to scaled autonomous inspection.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "A leading industrial IoT provider and system integrator, YCL Technology brings deep expertise across oil and gas, chemicals, and power and utilities in Taiwan. As a Korial reseller partner, it pairs trusted local support with the Korial enterprise AI platform to accelerate digital transformation across the region.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "This architectural shift - from isolated OEM tools to a governed enterprise platform – has eliminated data silos, accelerated decision‑making, and enabled operators to manage a heterogeneous fleet from a single software environment.",
+    "url": "https://www.korial.com/customer-stories/shell-rheinland",
+    "pass": 1
+   },
+   {
+    "quote": "Korial & Smart NDT: Strategic Reseller Partnership | Korial",
+    "url": "https://www.korial.com/resources/updates/energy-robotics-and-smart-ndt-form-strategic-reseller-partnership-korial",
+    "pass": 1
+   },
+   {
+    "quote": "Korial & Smart NDT Form Strategic Reseller Partnership",
+    "url": "https://www.korial.com/resources/updates/energy-robotics-and-smart-ndt-form-strategic-reseller-partnership-korial",
+    "pass": 1
+   },
+   {
+    "quote": "solutions, welcomes Smart NDT as its newest reseller partner, strengthening footprint in the Italian market. Smart NDT, a respected distributor of non-destructive testing (NDT) products, IoT sensors, drones, and robotics will now offer Korial's enterprise AI platform to its oil & gas customers.",
+    "url": "https://www.korial.com/resources/updates/energy-robotics-and-smart-ndt-form-strategic-reseller-partnership-korial",
+    "pass": 1
+   },
+   {
+    "quote": "Key Highlights of the Reseller Partnership",
+    "url": "https://www.korial.com/resources/updates/energy-robotics-and-smart-ndt-form-strategic-reseller-partnership-korial",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Part of the Indra group, Minsait is a global digital-transformation leader with deep reach across regulated industries. As a Korial reseller partner, Minsait brings the enterprise AI platform to industrial operators worldwide - accelerating the shift from fragmented pilots to scaled autonomous inspection.",
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Drones survey photovoltaic arrays autonomously, using thermal analysis to surface hotspots and thermal variances across large installations, so crews go straight to the panels that need attention.",
+    "url": "https://www.korial.com/solutions/energy-and-utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.korial.com/company/our-team",
+    "pass": 1
+   },
+   {
+    "quote": "Bringing more than 25 years of experience leading go‑to‑market teams across high‑growth SaaS and technology companies, Andy focuses on building and scaling commercial teams that deliver consistent, long‑term revenue growth.",
+    "url": "https://www.korial.com/company/our-team",
+    "pass": 1
+   },
+   {
+    "quote": "Less than 500 employees",
+    "url": "https://www.korial.com/company/book-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "500-1,000 employees",
+    "url": "https://www.korial.com/company/book-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "1,001-5,000 employees",
+    "url": "https://www.korial.com/company/book-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "5,001-10,000 employees",
+    "url": "https://www.korial.com/company/book-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "10,001+ employees",
+    "url": "https://www.korial.com/company/book-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Evonik, a global leader in specialty chemicals, needed a scalable way to monitor a test facility where analog gauges, elevated pipework, and narrow corridors create persistent inspection challenges.",
+    "url": "https://www.korial.com/customer-stories/evonik",
+    "pass": 1
+   },
+   {
+    "quote": "Critical gauges, temperature points, and flow indicators are distributed across narrow corridors, elevated platforms, and densely packed pipework, increasing the effort required to maintain a reliable, high‑frequency inspection regime.",
+    "url": "https://www.korial.com/customer-stories/evonik",
+    "pass": 1
+   },
+   {
+    "quote": "For E.ON’s grid, that somebody was increasingly hard to find, and the drive time alone was eating hours that engineers could not get back. Three subsidiaries - E.DIS, Bayernwerk, and Avacon - independently arrived at the same answer: autonomous mobile robots running on one platform from Korial.",
+    "url": "https://www.korial.com/customer-stories/e-on",
+    "pass": 1
+   },
+   {
+    "quote": "Three subsidiaries that had arrived at the same answer independently now share a common way to run autonomous mobile robots on the Korial platform. Each grid operator can deploy robots that navigate substations autonomously, read gauges and indicators, and log everything they see.",
+    "url": "https://www.korial.com/customer-stories/e-on",
+    "pass": 1
+   },
+   {
+    "quote": "At Shell’s largest facility in Germany, inspection teams depended on manual rounds through hazardous and Ex zones, introducing human latency into environments where every delay carries material safety and financial risk.",
+    "url": "https://www.korial.com/customer-stories/shell-rheinland",
+    "pass": 1
+   },
+   {
+    "quote": "At Shell Rheinland, the ExR‑2 tracked robot performs inspection tasks in Ex zones, Boston Dynamics’ Spot navigates stairs and narrow areas in non‑hazardous environments, and a drone monitors tank roofs and hard‑to‑reach structures from the air.",
+    "url": "https://www.korial.com/customer-stories/shell-rheinland",
+    "pass": 1
+   },
+   {
+    "quote": "The Obervermuntwerk II (OVW II) hydroelectric power plant is controlled entirely from a remote operations centre - yet routine inspection still required employees to make the journey to site, regardless of season or conditions.",
+    "url": "https://www.korial.com/customer-stories/illwerke-vkw",
+    "pass": 1
+   },
+   {
+    "quote": "Equipped with LiDAR, optical cameras, and thermal imaging, Spot follows predefined autonomous routes through the facility - navigating narrow corridors, ascending and descending stairs, and completing full inspection circuits with repeat accuracy. The Korial platform orchestrates these missions, processes the sensor data Spot collects, and surfaces actionable insight to remote operators.",
+    "url": "https://www.korial.com/customer-stories/illwerke-vkw",
+    "pass": 1
+   },
+   {
+    "quote": "As part of this agreement, Smart NDT integrates Korial's advanced inspection automation within its portfolio, complementing NDT products and services. This move empowers Italian customers to drive digitalization in asset management, boost operational safety, and implement predictive maintenance across critical sites.",
+    "url": "https://www.korial.com/resources/updates/energy-robotics-and-smart-ndt-form-strategic-reseller-partnership-korial",
+    "pass": 1
+   },
+   {
+    "quote": "A major thank you goes out to every member of the Korial team who participated, supported, and contributed to making this event so memorable. We look forward to carrying this momentum and collaborative energy forward into our upcoming engineering and commercial milestones.",
+    "url": "https://www.korial.com/resources/updates/jpmorganchase-corporate-challenge",
+    "pass": 1
+   },
+   {
+    "quote": "auditable, and Korial’s platform now carries",
+    "url": "https://www.mindinventory.com/portfolio/korial-autonomous-industrial-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "How do you scale a platform when workloads arrive in step",
+    "url": "https://www.mindinventory.com/portfolio/korial-autonomous-industrial-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "), an agentic AI platform for healthcare revenue cycle",
+    "url": "https://www.mindinventory.com/portfolio/korial-autonomous-industrial-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/453436-57",
+    "pass": 3
+   },
+   {
+    "quote": ", a Corporate Backed or Acquired company based in Mendon, UT.",
+    "url": "https://pitchbook.com/profiles/company/453436-57",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/453436-57",
+    "pass": 3
+   },
+   {
+    "quote": "Korial has 87 total employees.",
+    "url": "https://pitchbook.com/profiles/company/453436-57",
+    "pass": 3
+   },
+   {
+    "quote": "What is Korial’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/453436-57",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Korial is",
+    "url": "https://pitchbook.com/profiles/company/453436-57",
+    "pass": 3
+   },
+   {
+    "quote": "👥 104 employees",
+    "url": "https://www.gritt.io/company/korialhq/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Korial | Formerly Energy Robotics - Enterprise AI for ... — Korial is the new name for Energy Robotics - marking our evolution from powering individual robots and drones to orchestrating autonomy as an enterprise-scale AI platform.",
+    "url": "https://www.korial.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Korial & Chironix Strategic Partnership in APAC | Korial — Jun 25, 2026 · We are thrilled to announce a major milestone in our global expansion strategy: Korial has entered into a new strategic partnership with Chironix to accelerate the deployment of scalable, autonomous operations across the Asia-Pacific (APAC) region.",
+    "url": "https://www.korial.com/resources/updates/korial-chironix-strategic-partnership-in-apac",
+    "pass": 3
+   },
+   {
+    "quote": "About Korial | Company & Mission — AI is not a badge or a bolt‑on; it is the core of what makes Korial impactful at scale. We invest in intelligence that can ingest universal data streams, orchestrate complex missions, and continuously improve, so customers are ready for the next decade of autonomous operations.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Press Release | Energy Robotics Rebrands to Korial | Korial — May 4, 2026 · Korial enters the market with substantial operational credibility built under the Energy Robotics name. The platform has completed more than one million autonomous missions, saved over 35,000 human labor hours, and supported more than 100 deployments across five continents.",
+    "url": "https://www.korial.com/resources/updates/energy-robotics-rebrands-as-korial",
+    "pass": 3
+   },
+   {
+    "quote": "Updates from Korial | News About Our Company, people, product ... — New partnerships, technology milestones, industry recognition, and Korial company news as it happens. From strategic alliances expanding our global reach to the funding and awards that mark our progress, this is the place to follow our journey.",
+    "url": "https://www.korial.com/resources/updates",
+    "pass": 3
+   },
+   {
+    "quote": "About Korial | Company & Mission — Korial is the intelligence and control system behind autonomous industrial operations. Our values govern how we build, how we speak, and how we partner with the teams who run critical infrastructure.",
+    "url": "https://www.korial.com/company/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Korial | Autonomous Intelligence for Industrial Operations — Korial is an enterprise AI platform designed for autonomous industrial operations. Formerly known as Energy Robotics, the company helps industrial businesses automate inspections, monitoring, and operational workflows using robots, drones, sensors, and AI-powered intelligence.",
+    "url": "https://robotcenter.co.uk/korial/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Industrial Operations Customer Stories | Korial — Ready to transform your operations? Join leading enterprise organisations leveraging Korial to achieve operational autonomy.",
+    "url": "https://www.korial.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "A Shared Robot Platform for E.ON | Korial — Three subsidiaries that had arrived at the same answer independently now share a common way to run autonomous mobile robots on the Korial platform. Each grid operator can deploy robots that navigate substations autonomously, read gauges and indicators, and log everything they see.",
+    "url": "https://www.korial.com/customer-stories/e-on",
+    "pass": 3
+   },
+   {
+    "quote": "Korial Autonomous Inspection AI Case Study | MindInventory — How MindInventory engineered Korial's hardware-agnostic platform for autonomous industrial inspection — mixed-fleet coordination, Unreal Engine 5 digital twin simulation, and governed agentic AI. Live at Shell, BP, Evonik, and Merck.",
+    "url": "https://www.mindinventory.com/portfolio/korial-autonomous-industrial-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Korial Autonomous Inspection AI Case Study | MaxLevels — How MaxLevels engineered Korial's hardware-agnostic platform for autonomous industrial inspection. Live at Shell, BP, Evonik and Merck.",
+    "url": "https://www.maxlevels.net/portfolio/korial-autonomous-industrial-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Korial 2026 Company Profile: Valuation, Funding & Investors ...Korial — investors & funding | gritt.ioKorial - 2026 Company Profile, Funding & Competitors - TracxnKorial — Funding, Investors & Team | SeedtableKorial - Products, Competitors, Financials, Employees ...Koral - Crunchbase Company Profile & FundingKoral: Funding, Team & Investors | Startup Intros — Jan 12, 2021 · Information on valuatio",
+    "url": "https://pitchbook.com/profiles/company/453436-57",
+    "pass": 3
+   },
+   {
+    "quote": "Korial — investors & funding | gritt.io — When did Korial last raise funding? The most recent investment in Korial recorded on gritt.io was in October 2025. What industry is Korial in? Korial operates in Software Development. Find similar Software Development investors on gritt.io.",
+    "url": "https://www.gritt.io/company/korialhq/",
+    "pass": 3
+   },
+   {
+    "quote": "Korial - 2026 Company Profile, Funding & Competitors - Tracxn — Explore Korial's in-depth company profile, including funding details, key investors, and competitors.",
+    "url": "https://tracxn.com/d/companies/korial/__SZba9dDBCQRbP28FiB9MiquigjlcFVKUMFbqf1amK80",
+    "pass": 3
+   },
+   {
+    "quote": "Korial — Funding, Investors & Team | Seedtable — Aug 29, 2026 · What changed at Korial recently — detected automatically from funding, hiring and leadership data.",
+    "url": "https://seedtable.com/companies/energy-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Korial - Products, Competitors, Financials, Employees ... — It primarily serves sectors that require infrastructure management and operational autonomy, such as oil and gas, chemical plants, and power stations. Korial was formerly known as Energy Robotics. It was founded in 2019 and is based in Darmstadt, Germany.",
+    "url": "https://www.cbinsights.com/company/energy-robotics",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/453436-57",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Korial (@KorialHQ) / Posts / X Energy Robotics is now Korial! What began as one autonomous robot in a refinery has become an enterprise AI platform connecting robots, drones, cameras, and critical sites at scale.",
+    "url": "https://x.com/KorialHQ",
+    "pass": 3
+   },
+   {
+    "quote": "Korial (@Korialtraz) / Posts / X Korial (@Korialtraz) - Posts - | X (formerly Twitter) Bien evidemment 🎉🎉🎉 ️ salut youtube",
+    "url": "https://x.com/Korialtraz",
+    "pass": 3
+   },
+   {
+    "quote": "mosthated.korial (@yomama1867671) / Posts / X mosthated.korial (@yomama1867671) - Posts - | X (formerly Twitter) I wanna have a 3sum 😩😩😭",
+    "url": "https://x.com/yomama1867671",
+    "pass": 3
+   },
+   {
+    "quote": "Korial Kendricks (@AfterDarkMoney) / X Korial Kendricks @AfterDarkMoney Im a car hear me roar raaaa and I go bump in the night also lol Vallejo afterdarkmoney.com",
+    "url": "https://x.com/AfterDarkMoney",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Korial | LinkedIn Korial is the enterprise artificial intelligence platform that makes fully autonomous industrial operations possible – across any asset, any device, any environment, and any scale.",
+    "url": "https://de.linkedin.com/company/korialhq",
+    "pass": 3
+   },
+   {
+    "quote": "Korial | Formerly Energy Robotics - Enterprise AI for ... It’s what we’ve been building at Energy Robotics, and it’s what, from May 4th, we’ll continue to build as Korial. The robots bring the data. The platform turns it into decisions.",
+    "url": "https://www.linkedin.com/posts/korialhq_korial-formerly-energy-robotics-enterprise-activity-7458099958400020481-qJJR",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Robotics is now Korial! | Korial | 17 comments - LinkedIn Energy Robotics is now Korial. The Enterprise AI Platform for Industrial Autonomous Operations in Critical Infrastructure, robots, drones, cameras, and AI, connected and coordinated at scale ...",
+    "url": "https://www.linkedin.com/posts/korialhq_energy-robotics-is-now-korial-activity-7457120606971461632-Vurt",
+    "pass": 3
+   },
+   {
+    "quote": "Morgan Males - Enabling autonomous operations through ...Jānis Dirveiks - Korial | LinkedInTyron J. – Operations & Deployment Lead @ Korial ...Jon Steinberg - Enterprise Sales Leader | Industrial AI ... At Korial, I work with enterprise O&G orgs to address isolated, non-repeatable inspection data in high-risk environments. Korial orchestrates autonomous inspections, processes data instantly,... · ",
+    "url": "https://uk.linkedin.com/in/morgan-males",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Andre Korial - FacebookAndre Korial - FacebookAndre Korial - So you mean to tell me out of all his ...Korial Group - FacebookAndre Korial - I’m so DETROIT!!!! Tag someone that is from ...Korial Ko (@korial.ko) • Facebook, Connect with friendsKorial Willing - Facebook Mar 1, 2026 · This isn’t just underwear — it’s a statement. 🔥 The bold red & white ANDRE KORIAL Jockstrap Built to support. Designed",
+    "url": "https://www.facebook.com/ANDREKORIAL/",
+    "pass": 3
+   },
+   {
+    "quote": "Andre Korial - Facebook The ANDRE KORIAL SIGNATURE knitwear collection isn’t just fashion — it’s presence. Clean lines, rich textures, and masculine elegance crafted for the man who knows exactly who he is.",
+    "url": "https://www.facebook.com/andre.korial.79/",
+    "pass": 3
+   },
+   {
+    "quote": "Andre Korial - So you mean to tell me out of all his ... Jul 6, 2026 · Andre Korial Sabrina Sixone that’s what I’m saying and when I was a teen like this, my mom will talk to all of us and tell us to watch each other back. Don’t get in no trouble and make sure y’all get back home safe.",
+    "url": "https://www.facebook.com/andre.korial.79/posts/so-you-mean-to-tell-me-out-of-all-his-friends-who-he-was-with-at-the-island-that/1552897863131576/",
+    "pass": 3
+   },
+   {
+    "quote": "Korial Group - FacebookAndre Korial - I’m so DETROIT!!!! Tag someone that is from ...Korial Ko (@korial.ko) • Facebook, Connect with friendsKorial Willing - Facebook Sep 25, 2026 · Ven a realizarte tu primera ecografia, en Korial Group te esperamos. 📲3002452648 #perinatologia #pereiracapitaldeleje #santarosadecabal #dosquebradas #cartago I’m so DETROIT!!!! Tag someone that is from DETROIT Korial K",
+    "url": "https://www.facebook.com/KorialGroupSAS/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.korial.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/enterprise-ai-platform/strategic-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/solutions/oil-and-gas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/solutions/energy-and-utilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/solutions/chemicals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/company/our-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/company/book-a-demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/resources/perspectives/how-ai-data-processing-is-redefining-large-scale-industries-korial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/customer-stories/evonik",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/customer-stories/e-on",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/customer-stories/shell-rheinland",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/customer-stories/illwerke-vkw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/customer-stories/merck",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/resources/updates/energy-robotics-and-smart-ndt-form-strategic-reseller-partnership-korial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/resources/updates/jpmorganchase-corporate-challenge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.korial.com/resources/updates/korial-chironix-strategic-partnership-in-apac",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/69cba68755c8be38e980bc65/6a033610cdd96c3a42a762cb_Korial-SmartNDT-partnership.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Kuril_Islands_dispute",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/History_of_Japan%E2%80%93Korea_relations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/soda-lime/case-study/koral-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindinventory.com/portfolio/korial-autonomous-industrial-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/453436-57",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gritt.io/company/korialhq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/korial/__SZba9dDBCQRbP28FiB9MiquigjlcFVKUMFbqf1amK80",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://seedtable.com/companies/energy-robotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/KorialHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Korialtraz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yomama1867671",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AfterDarkMoney",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/korialhq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/korialhq_korial-formerly-energy-robotics-enterprise-activity-7458099958400020481-qJJR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/korialhq_energy-robotics-is-now-korial-activity-7457120606971461632-Vurt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/morgan-males",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ANDREKORIAL/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/andre.korial.79/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/andre.korial.79/posts/so-you-mean-to-tell-me-out-of-all-his-friends-who-he-was-with-at-the-island-that/1552897863131576/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KorialGroupSAS/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Korial 日本 導入",
+   "results": [
+    "https://www.korial.com/",
+    "https://www.korial.com/resources/updates/korial-chironix-strategic-partnership-in-apac",
+    "https://www.korial.com/company/about-us",
+    "https://www.korial.com/resources/updates/energy-robotics-rebrands-as-korial",
+    "https://www.korial.com/resources/updates",
+    "https://aws.amazon.com/jp/blogs/news/tokyo-steel-kiro-case-study/",
+    "https://global.toyota/jp/newsroom/corporate/43749686.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Korial 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.chori.co.jp/english/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Korial Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Kuril_Islands_dispute",
+    "https://en.wikipedia.org/wiki/History_of_Japan–Korea_relations",
+    "https://www.korial.com/",
+    "https://www.korial.com/company/about-us",
+    "https://robotcenter.co.uk/korial/",
+    "https://www.andrekorial.com/",
+    "https://www.youtube.com/watch?v=3YyqLkBziXw"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Korial manufacturing customer case study",
+   "results": [
+    "https://www.korial.com/customer-stories",
+    "https://www.korial.com/customer-stories/e-on",
+    "https://www.casestudies.com/company/soda-lime/case-study/koral-customer-case-study",
+    "https://www.mindinventory.com/portfolio/korial-autonomous-industrial-ai/",
+    "https://www.maxlevels.net/portfolio/korial-autonomous-industrial-ai/",
+    "https://www.casestudies.com/company/energy-robotics/case-study/eon-saves-35000-hours-with-energy-robotics",
+    "https://f4.fund/startups/korial"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Korial white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.canva.com/partners/reseller/",
+    "https://learn.microsoft.com/en-us/partner-center/enroll/indirect-reseller-eligibility-requirements"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Korial founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/453436-57",
+    "https://www.gritt.io/company/korialhq/",
+    "https://tracxn.com/d/companies/korial/__SZba9dDBCQRbP28FiB9MiquigjlcFVKUMFbqf1amK80",
+    "https://seedtable.com/companies/energy-robotics",
+    "https://www.cbinsights.com/company/energy-robotics",
+    "https://www.crunchbase.com/organization/koral",
+    "https://startupintros.com/orgs/koral"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Korial",
+   "results": [
+    "https://note.com/uzura_note_lab/n/n3c3e0210f8af",
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/weiden_haus_lab/n/n9a53e02f8bdf",
+    "https://note.com/tmg500/n/n4feb3787f0e8",
+    "https://note.com/powerpoint_jp/n/n13417981793d",
+    "https://note.com/riko200702/n/n1d27f4bdf353"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Korial",
+   "results": [
+    "https://x.com/KorialHQ",
+    "https://x.com/Korialtraz",
+    "https://x.com/yomama1867671",
+    "https://x.com/AfterDarkMoney",
+    "https://x.com/lenakorial",
+    "https://x.com/Korialstrazz/status/2089327278589169836",
+    "https://help.x.com/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Korial",
+   "results": [
+    "https://de.linkedin.com/company/korialhq",
+    "https://www.linkedin.com/posts/korialhq_korial-formerly-energy-robotics-enterprise-activity-7458099958400020481-qJJR",
+    "https://www.linkedin.com/posts/korialhq_energy-robotics-is-now-korial-activity-7457120606971461632-Vurt",
+    "https://uk.linkedin.com/in/morgan-males",
+    "https://ee.linkedin.com/in/janisdirveiks",
+    "https://de.linkedin.com/in/tyron-jardine",
+    "https://es.linkedin.com/in/jonsteinberg98"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Korial",
+   "results": [
+    "https://www.facebook.com/ANDREKORIAL/",
+    "https://www.facebook.com/andre.korial.79/",
+    "https://www.facebook.com/andre.korial.79/posts/so-you-mean-to-tell-me-out-of-all-his-friends-who-he-was-with-at-the-island-that/1552897863131576/",
+    "https://www.facebook.com/KorialGroupSAS/",
+    "https://www.facebook.com/korial.ko/",
+    "https://www.facebook.com/p/Korial-Willing-61594989305301/",
+    "https://www.facebook.com/andre.korial.79/posts/im-so-detroit-tag-someone-that-is-from-detroit/1666752835079411/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Korial note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/koala_president",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n10ae3b3f8acd",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://note.jp/n/n37b7187040b8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Korial X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部28頁・検索12回）"
+ }
+}

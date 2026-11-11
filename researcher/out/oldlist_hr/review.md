@@ -1371,16 +1371,83 @@
 - 「Japanese Patent 7225501.」（https://aml3d.com/about-us）
 - 「Japanese Patent 7225501.」（https://aml3d.com/industries/manufacturing）
 
+## Beyond Aero（https://www.beyond-aero.com/）
+- 「航空工学と起業を学んだ若きCEO、エロア・ギヨタン（Eloa Guillotin）氏に、技術の核心と、水素を国家戦略に掲げる日本との連携の可能性を聞いた」（https://techblitz.com/startup-interview/beyond-aero/）
+- 「日本市場に見る3つの接点」（https://techblitz.com/startup-interview/beyond-aero/）
+- 「―日本は水素を国家戦略の柱の一つとしています」（https://techblitz.com/startup-interview/beyond-aero/）
+
+## Carbonchain（https://www.carbonchain.com）
+- 「Green x Digital Consortium launches PACT-based resources for carbon data management in Japanese context.」（https://www.carbon-transparency.org/case-studies）
+- 「Cision Ltd.の子会社として、Cisionクラウドベースコミュニケーション製品、世界最大のマルチチャネル、多文化コンテンツ普及ネットワークと包括的なワークフローツールおよびプラットフォームを組み合わせることで、様々な組織のストーリーを支えています」（https://kyodonewsprwire.jp/release/202411129730）
+
+## Chef Robotics（https://www.chefrobotics.ai/）
+- 「Chef Roboticsの導入事例と日本での相談｜食品の盛付けロボット（米国・2019年）｜GAMATCH」（https://ga-match.co.jp/ai-catalog/chef-robotics/）
+- 「調理済み食品の文化を持つ日本にも強い関心が」（https://techblitz.com/startup-interview/chef-robotics/）
+- 「―今後、日本市場への展開を考えていますか」（https://techblitz.com/startup-interview/chef-robotics/）
+
+## Equispheres（https://equispheres.com）
+- 「Spain, China, South Africa and Japan. Martinrea’s vision is making lives better by being」（https://equispheres.com/wp-content/uploads/Passive-Cooling-Case-Study.pdf）
+- 「日本語で読みたい方は、」（https://optinews.info/2023/11/13/equispheres/）
+
 ## Fourgrowers（https://fourgrowers.com）
 - 「同社が開発したトマト収穫ロボットは、日本のファナック製ロボットアームをベースに、独自のAI視覚システムを統合」（https://techblitz.com/startup-interview/four-growers/）
 - 「「人間と同等」の収穫スピードを実現し、既に北米、欧州、豪州で数千万個もの収穫実績を積み上げており、日本からの熱烈なオファーも届き始めているという」（https://techblitz.com/startup-interview/four-growers/）
 - 「オランダのTTA、日本のデンソーといった大手企業もこの領域に取り組んでいますが、収穫スピードと、一株あたりの収穫完了率において、私たちは業界をリードしている自負があります」（https://techblitz.com/startup-interview/four-growers/）
 - 「スイスの農薬・種苗会社シンジェンタの子会社シンジェンタ・シーズと戦略的提携を結び、ロボットが収穫しやすい品種のブリーディング（育種）から共同で進める垂直統合型のモデルを構築」（https://techblitz.com/startup-interview/four-growers/）
 
+## Freemelt（https://freemelt.com）
+- 「Swedish manufacturer secures an order from Fusion for Energy for Japan's JT-60SA tokamak」（https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/）
+- 「. The parts are destined for JT-60SA, a European-Japanese fusion program and the world’s largest superconducting tokamak, located in Naka, Japan.」（https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/）
+- 「Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an i…」（https://freemelt.com/）
+
 ## Getsomatic（https://getsomatic.com）
 - 「ユーキャンロボット(Youcan Robot) ポケットロボット 簡単 英語 おしゃべり ロボット おもちゃ 知育玩具 コミュニケーションロボット 誕生日プレゼント 子供 【日本語パッケージ 日本語説明書】 (白)」（https://posfie.com/@cari_ura/p/uSqcWMs）
 - 「人口減少社会で、テクノロジーが実体験として一番進むのは日本かもしれません」（https://posfie.com/@cari_ura/p/uSqcWMs）
 - 「Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...」（https://www.firstcvc.jp/global/getsomatic.com）
+
+## Mavenagi（https://www.mavenagi.com）
+- 「✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新」（https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5）
+- 「Sami Shalabi, Maven AGI | theCUBE + NYSE Wired: AI Factories - Data Centers of the Future - YouTube」（https://www.youtube.com/watch?v=0eeN-kXDJYc）
+
+## Physicsx（https://www.physicsx.ai）
+- 「もし日本に生まれなかったら？「80億分の1」で体験する別の人生」（https://techcreate.balubo.jp/articles/physicsx-300m-series-c-large-physics-model-2026-06）
+- 「本稿では、この技術が日本の製造業に与える影響を考察します」（https://seisan-navi.com/20260608-aiphysicsx24/）
+- 「これは、日本の製造業が長年追求してきた「すり合わせ開発」の強みを、デジタルの力でさらに高度化するアプローチとも捉えられます」（https://seisan-navi.com/20260608-aiphysicsx24/）
+- 「次の1〜2年の数字が上場の可能性を左右する」（https://techcreate.balubo.jp/articles/physicsx-300m-series-c-large-physics-model-2026-06）
+
+## Seurat（https://www.seurat.com）
+- 「Japanese Medical Care」（https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/）
+- 「２０２２年から改めて日本で研究活動を再開することになりました」（https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/）
+- 「Seurat’s Science of Color Meets Japan’s Universities | Japan.co.jp」（https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html）
+
+## Tekton Dynamics（https://www.tekton-dynamics.com）
+- 「YC の会社ページに本人が掲載している情報（日本語訳は AI 翻訳」（https://ycpedia.com/companies/tekton-dynamics）
+
+## Contraforce（https://www.contraforce.com/）
+- 「. However, the game's plot and setting are unrelated to both previous and succeeding entries, as the villains in the game are human terrorists instead of an alien menace. The game was scheduled to be released in Japan under the title of」（https://en.wikipedia.org/wiki/Contra_Force）
+- 「in Japan, the game was still localized for the North American market as a spinoff of the」（https://en.wikipedia.org/wiki/Contra_Force）
+- 「(Family Computer) (in Japanese). Level/area:」（https://en.wikipedia.org/wiki/Contra_Force）
+
+## Unbox Robotics（https://unboxrobotics.com/）
+- 「Unbox Robotics | 日本フィジカルAI新聞」（https://physicalainews.jp/companies/unbox-robotics）
+- 「世界のフィジカルAIを、日本語で」（https://physicalainews.jp/companies/unbox-robotics）
+- 「日本の物流は今、逃げ場のない「空間の欠乏」という巨大な岩壁に突き当たっています」（https://note.com/nifty_sheep2798/n/n832ae7f00306）
+
+## Albedo（https://albedo.com/）
+- 「Infrared Image captured by Clarity-1, Rural scene Japan, 2025」（https://albedo.com/）
+
+## Dawn Industries（https://www.dawnxr.com）
+- 「Everyday packaging that everyone picks up at convenience stores and supermarkets. Did you know that behind the scenes, two Japanese materials manufacturers have sparked a quiet innovation?」（https://note.com/super_ixia591/n/n89a44a99a959?hl=en）
+- 「And in fact, these two companies that achieved this innovation have an interesting commonality beyond their technology. Both are historic Japanese materials manufacturers with "Toyo" (Oriental) in their company names.」（https://note.com/super_ixia591/n/n89a44a99a959?hl=en）
+- 「The two companies introduced here are separate entities with no capital relationship, but both are top runners bearing the name "Toyo" that have supported Japanese industrial history.」（https://note.com/super_ixia591/n/n89a44a99a959?hl=en）
+
+## dConstruct Technologies（https://dconstruct.co/）
+- 「同社の顧客には、Boustead Projects、シンガポールの Defence Science and Technology Agency、East Japan Railway Company Group の JRE Ventures、SBS Transit、SoftBank Robotics Singapore が含まれる」（https://news.lavx.hu/ja/article/dconstruct-ga-1-oku-2500-man-doru-o-chotatsu-shingaporu-no-robotikusu-akuserareta-ga-hatsu-no-seika-o-ageru）
+- 「シンガポールの清掃ロボットメーカーである同社は現在、ダラス、アムステルダム、チェンナイに子会社を持ち、40カ国以上で事業を展開している」（https://news.lavx.hu/ja/article/dconstruct-ga-1-oku-2500-man-doru-o-chotatsu-shingaporu-no-robotikusu-akuserareta-ga-hatsu-no-seika-o-ageru）
+
+## Ati Motors（https://atirobotics.ai）
+- 「Ati Motors | 日本フィジカルAI新聞」（https://physicalainews.jp/companies/ati-motors）
+- 「世界のフィジカルAIを、日本語で」（https://physicalainews.jp/companies/ati-motors）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

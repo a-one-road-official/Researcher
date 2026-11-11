@@ -1,0 +1,428 @@
+{
+ "name": "Axomind",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜商談中",
+ "researched_at": "2026-11-11T02:16:26.975849+00:00",
+ "official_url": "https://www.axomind.co/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Design In, Product Out.",
+    "url": "https://www.axomind.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Axomind was selected from a global pool of applicants as one of ten finalists in Automate's annual startup competition recognizing the most promising companies in robotics and automation. Finalists pitch live at the",
+    "url": "https://www.axomind.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Member of NVIDIA Inception Program",
+    "url": "https://www.axomind.co/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Axomind | AI-Powered Factory Automation",
+    "url": "https://www.axomind.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Reliability-first Factory Automation",
+    "url": "https://www.axomind.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Making every factory an autonomous factory.",
+    "url": "https://www.axomind.co/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "And angel investors from current and former employees of:",
+    "url": "https://www.axomind.co/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.axomind.co/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.axomind.co/assets/Axomind_hero-MEN35LMy.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/2025_NCAA_Division_I_FBS_football_rankings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/2025_NCAA_Division_I_FBS_football_season",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncaa.com/standings/football/fbs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncaa.com/rankings/football/fbs/associated-press",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://denver.eater.com/maps/best-pizza-denver",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tripadvisor.com/Restaurants-g33388-c31-Denver_Colorado.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.westword.com/food-drink/best-pizza-denver-13407817/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstindenver.com/guides/the-best-pizza-in-denver-2026-a-locals-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etsy.com/market/custom_embroidery_baby_blanket",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://evernestbaby.com/products/evernest-personalized-baby-blanket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etsy.com/market/personalized_embroidered_baby_blanket",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://elegantbaby.com/collections/personalized-baby-blankets-i",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://steamcommunity.com/app/990080/discussions/0/3771239453238049587/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://screenrant.com/hogwarts-legacy-shadow-relic-sebastian-quest-choice/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://game8.co/games/Hogwarts-Legacy/archives/405217",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/HarryPotterGame/comments/13w3fvh/spoiler_alert_hogwarts_legacy_killing_curse/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=aGc4_7ic4oI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=FJfKv11szZ8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://genius.com/Wiz-khalifa-hella-os-freestyle-lyrics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://soundcloud.com/dluuzia/wiz-khalifa-hella-os",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imdb.com/title/tt0116629/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.imdb.com/title/tt0085724/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pro.imdb.com/login/ap",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.imdb.com/title/tt0116629/characters/nm0004356",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Axomind 日本 導入",
+   "results": [
+    "https://en.wikipedia.org/wiki/2025_NCAA_Division_I_FBS_football_rankings",
+    "https://en.wikipedia.org/wiki/2025_NCAA_Division_I_FBS_football_season",
+    "https://www.ncaa.com/standings/football/fbs",
+    "https://www.ncaa.com/rankings/football/fbs/associated-press",
+    "https://www.sports-reference.com/cfb/years/2025-standings.html",
+    "https://www.footballdb.com/college-football/standings.html?yr=2025",
+    "https://www.topendsports.com/sport/college-football/standings.htm",
+    "https://fbschedules.com/ap-top-25-final-rankings-released-for-2025-college-football-season/",
+    "https://sportsdata.usatoday.com/football/ncaaf/ap-poll",
+    "https://www.collegefootballpoll.com/rankings/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Axomind 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://denver.eater.com/maps/best-pizza-denver",
+    "https://www.tripadvisor.com/Restaurants-g33388-c31-Denver_Colorado.html",
+    "https://www.westword.com/food-drink/best-pizza-denver-13407817/",
+    "https://www.firstindenver.com/guides/the-best-pizza-in-denver-2026-a-locals-guide",
+    "https://denverpizzaco.com/",
+    "https://www.yelp.com/search?cflt=pizza&find_loc=denver,+co",
+    "https://www.yelp.com/search?find_desc=pizza+denver+colorado&find_loc=Denver,+CO",
+    "https://www.tastingtable.com/1552513/best-pizza-denver/",
+    "https://www.beaujos.com/locations/denver/",
+    "https://www.theinfatuation.com/denver/guides/the-best-pizza-places-in-denver"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Axomind Japan",
+   "results": [
+    "https://www.etsy.com/market/custom_embroidery_baby_blanket",
+    "https://evernestbaby.com/products/evernest-personalized-baby-blanket",
+    "https://www.etsy.com/market/personalized_embroidered_baby_blanket",
+    "https://elegantbaby.com/collections/personalized-baby-blankets-i",
+    "https://www.softminkyblankets.com/products/custom-minky-blankets",
+    "https://www.personalizationmall.com/Embroidered-Blankets-a2055.lp",
+    "https://www.personalizationmall.com/Personalized-Baby-Blankets-Pillows-d1156.dept",
+    "https://www.thingsremembered.com/Personalized-Custom-Embroidered-Baby-Blankets-p27138.prod",
+    "https://bunniesbythebay.com/collections/personalized-blankets",
+    "https://namelynewborns.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Axomind manufacturing customer case study",
+   "results": [
+    "https://steamcommunity.com/app/990080/discussions/0/3771239453238049587/",
+    "https://screenrant.com/hogwarts-legacy-shadow-relic-sebastian-quest-choice/",
+    "https://game8.co/games/Hogwarts-Legacy/archives/405217",
+    "https://www.reddit.com/r/HarryPotterGame/comments/13w3fvh/spoiler_alert_hogwarts_legacy_killing_curse/",
+    "https://steamcommunity.com/app/990080/discussions/0/3823032344630522995/",
+    "https://www.reddit.com/r/hogwartslegacyJKR/comments/111xl99/can_you_learn_killing_curse_after_finishing_main/",
+    "https://gameplayask.blog/should-sebastian-leave-the-relic-hogwarts-legacy",
+    "https://expertbeacon.com/can-you-miss-learning-avada-kedavra/",
+    "https://game8.co/games/Hogwarts-Legacy/archives/404640",
+    "https://www.polygon.com/hogwarts-legacy-guide/23599230/avada-kedavra-killing-unforgivable-curse-quest-sebastian-sallow-consequences-shadow-relic/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Axomind white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=aGc4_7ic4oI",
+    "https://www.youtube.com/watch?v=FJfKv11szZ8",
+    "https://genius.com/Wiz-khalifa-hella-os-freestyle-lyrics",
+    "https://soundcloud.com/dluuzia/wiz-khalifa-hella-os",
+    "https://www.wordunscrambler.net/jumble-solver.aspx?word=~+hella.o",
+    "https://www.hella.com/en/Newsroom-229/",
+    "https://www.billboard.com/music/rb-hip-hop/wiz-khalifa-adele-hello-freestyle-weed-6858162/",
+    "https://music.youtube.com/watch?v=7K_516U54kg&list=PL5n_AKRoukk1TCnpm783Bs5dWCbCZpc32",
+    "https://music.youtube.com/watch?v=FJfKv11szZ8",
+    "https://www.azlyrics.com/lyrics/wizkhalifa/hellaosfreestyle.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Axomind founded funding employees revenue",
+   "results": [
+    "https://www.imdb.com/title/tt0116629/",
+    "https://www.imdb.com/title/tt0085724/",
+    "https://pro.imdb.com/login/ap",
+    "https://www.imdb.com/title/tt0116629/characters/nm0004356",
+    "https://www.imdb.com/title/tt1628841/mediaindex/",
+    "https://www.imdb.com/title/tt1628841",
+    "https://www.imdb.com/title/tt0116629/fullcredits/",
+    "https://www.imdb.com/es-es/title/tt0116629/",
+    "https://www.imdb.com/title/tt0116629/awards/",
+    "https://www.imdb.com/title/tt0116629/trivia/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:note.com Axomind",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Axomind",
+   "results": [
+    "https://mychart.confluencehealth.org/MyChart/app/providers/RoscoeChanMD/WP-24-2BXWwp3P-2BEJL5qgNy4FJwQw-3D-3D-244tWJPYVypSXF-2Bhbmt5l5NkxzrBB3UJV-2BnNqIE3Pdldk-3D",
+    "https://mychart.confluencehealth.org/MyChart/app/providers/AshleyGarrisonPA-C/WP-24LAHU86krnsA7DUYTz2P-2FtA-3D-3D-24f7VchsTIADBceng9TOMs-2B035CUyWYjb5ZxpfJwCX6NA-3D",
+    "https://careers.confluencehealth.org/signup/jobs/categories",
+    "https://careers.confluencehealth.org/careers-home/jobs/locations",
+    "https://api.confluencehealth.org/APIHC/TASS/WebPortal/Main/MsgYesNo.htm",
+    "https://www.confluencehealth.org/leadership/",
+    "https://www.confluencehealth.org/services/medical-imaging/",
+    "https://musewebtest.confluencehealth.org/muse/",
+    "https://epiclink.confluencehealth.org/epiccarelink/common/MsgPage.asp",
+    "https://epiclink.confluencehealth.org/EpicCareLink/common/bye_msg.asp?bm=2"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "site:linkedin.com Axomind",
+   "results": [
+    "https://www.synonyms.com/antonyms/hate+",
+    "https://www.thesaurus.com/browse/+hate",
+    "https://www.wordhippo.com/what-is/the-opposite-of/hatred.html",
+    "https://www.everydictionary.com/antonym-generator",
+    "https://englishgrammarhere.com/opposite-words/opposite-of-hate-antonyms-of-hate-meaning-and-example-sentences/",
+    "https://www.merriam-webster.com/thesaurus/hate!",
+    "https://www.powerthesaurus.org/hate/antonyms",
+    "https://promova.com/antonyms-of/hate",
+    "https://antonym.wordhippo.com/",
+    "https://www.merriam-webster.com/thesaurus/hates"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:facebook.com Axomind",
+   "results": [
+    "https://en.wikipedia.org/wiki/Balthazar_(restaurant)",
+    "https://resy.com/cities/new-york-ny/venues/balthazar-nyc",
+    "https://ny.eater.com/dining-report/408085/balthazar-review-nyc-restaurant-keith-mcnally-bistro",
+    "https://balthazarny.com/",
+    "https://balthazarny.com/menus/",
+    "https://www.yelp.com/biz/balthazar-new-york-2",
+    "https://www.tripadvisor.com/Restaurant_Review-g60763-d423353-Reviews-Balthazar-New_York_City_New_York.html",
+    "https://www.cntraveler.com/restaurants/new-york/balthazar",
+    "https://www.opentable.com/r/balthazar",
+    "https://nycaller.com/balthazar-nyc/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Axomind note 社長",
+   "results": [
+    "https://support.microsoft.com/en-us/support/get-help/about-get-help",
+    "https://support.microsoft.com/en-us/windows/how-to-get-help-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+    "https://support.microsoft.com/ja-jp/support/get-help/about-get-help",
+    "https://support.microsoft.com/zh-cn/windows/experience/how-to-get-help-in-windows",
+    "https://support.microsoft.com/vi-vn/windows/experience/how-to-get-help-in-windows",
+    "https://support.microsoft.com/pt-br/windows/como-obter-ajuda-no-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+    "https://support.microsoft.com/pt-br/windows/experience/how-to-get-help-in-windows",
+    "https://support.microsoft.com/it-it/windows/come-ottenere-assistenza-in-windows-711b6492-0435-0038-8706-7c6b0feb200a",
+    "https://support.microsoft.com/it-it/support/get-help/about-get-help",
+    "https://support.microsoft.com/ja-jp/windows/experience/how-to-get-help-in-windows"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Axomind X 投稿",
+   "results": [
+    "https://www.alvinisd.net/page/campus-hours-district-calendar",
+    "https://www.alvinisd.net/article/2635417",
+    "https://www.alvinisd.net/",
+    "https://www.alvinisd.net/documents/campus-hours-&-district-calendar/438624",
+    "https://www.texasschoolcalendar.com/alvin-isd/2026-2027/",
+    "https://cdn.texasschools.us/printables/alvin-isd-calendar-2025-2026.pdf",
+    "https://www.alvinisd.net/article/1966656",
+    "https://www.educounty.net/printable/texas/alvin-isd-calendar-26-27.pdf",
+    "https://www.alvinisd.net/o/adapt/article/2635454",
+    "https://publicschoolscalendar.com/alvin-isd-calendar-2026-2027/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部24頁・検索12回）"
+ }
+}

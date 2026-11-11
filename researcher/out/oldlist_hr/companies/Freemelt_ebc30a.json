@@ -1,0 +1,1298 @@
+{
+ "name": "Freemelt",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜リマイン1",
+ "researched_at": "2026-11-11T01:59:09.438572+00:00",
+ "official_url": "https://freemelt.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Freemelt’s modular printers, designed for industrial applications, support complex geometries and high-performance materials, such as tungsten for defense and energy applications and titanium for medical implants",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial 3D printer setting the industry standard for serial production",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Step into the future of metal 3D printing with",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ONE is designed to make materials not yet known to mankind. Materials that engineers dream about. Materials that give us lighter, stronger and more efficient products.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt offers a complete product portfolio supporting you from early material and process development through application development, into a seamless transition to serial production within industries such as medtech, orthopedic implants, energy, defense, and beyond.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Titanium alloy is a key material in orthopedic implants due to its strength, lightness, biocompatibility, and corrosion resistance. Freemelt’s E-PBF technology enhances titanium implant production by enabling complex geometries like solid cores with porous surfaces, and efficient stacking to boost productivity.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tungsten’s heat resistance and density are vital for Fusion Energy, Defense, and medical X-ray equipment. Freemelt’s E-PBF technology overcomes the challenges of tungsten’s high melting point and brittleness, producing dense, crack-free parts with minimal oxygen uptake, opening new possibilities.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Copper’s conductivity is essential for advanced heat and electrical systems, particularly in electric vehicles. Freemelt’s E-PBF technology excels where traditional 3D printing falls short, optimizing copper’s microstructure for electromagnetic applications through superior vacuum quality and spot melting technology.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt secures ITER-related qualification project from Alsymex",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an i…",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt resolves on a fully guaranteed rights issue of approximately SEK 152 million",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt Holding AB (publ) (”Freemelt” or the ”Company”) hereby announces that the Board of Directors, subject to approval by an extraordinary general meeti…",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt Announces Preliminary Financial Information for the Third Quarter of 2026",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt Holding AB (publ) (“Freemelt” or the “Company”) hereby announces preliminary financial information relating to the Company’s order intake, or…",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2017 by seven engineers from Arcam, Freemelt’s strong technical foundation drives our innovation and product development. Combining deep expertise with strong financial leadership, our team is well-equipped to execute on Freemelt’s growth strategy.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "A Productivity partner, Empowering industry visionaries to make a difference at scale",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt’s collaborative approach empowers ambitious leaders to drive meaningful change in their industries. By sharing technology and knowledge, Freemelt aims to make a lasting, positive impact on society, with a vision that scales globally and in manufacturing.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt collaborates with trusted partners to extend our impact and support customers from development to full-scale production. Together, we combine groundbreaking technology with local expertise to enable innovation at scale.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s said that ideas make the world go round. But an idea is only valuable if it can be made a reality. And with so many unprecedented challenges facing us – from climate change to a fast-growing, aging population, and a rapidly changing geopolitical landscape – there’s no time to lose. We need real solutions. Now.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "We do this by eliminating barriers and changing perceptions. Whether it’s through our open source approach, advanced additive manufacturing technology or deep manufacturing expertise, we specialize in removing the intermediate steps that can slow things down. Letting you fast-forward from initial idea to full-scale production.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "WEARAM – The Competence Center for the implementation of Additive Technologies and Services in the World of Industry and the Production Value Chain.",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "significantly reduces the time between builds and contributes to increased productivity.”",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“Electron beam processes have the unique ability to maintain multiple small melt zones simultaneously using a single powerful electron beam. This enables scalability of 3D printing that is not possible with laser-based systems.” “The Freemelt",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“Freemelt has identified a key market need: Early development of raw materials, parameters, and building strategies for 3D printing in powder bed with electron beam.” “The flexibility and accessibility of this system make it ideal for contributing to the goal of AMPF to develop from early concepts for new materials and manufacturing strategies to their commercial application.”",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Aaron Stebner, adjunct professor At the Georgia Institute of Technology",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "As already experienced users of electron beam printers, we are very excited about how Freemelt",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "ONE can improve and simplify our work.” “Our choice of Freemelt",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "ONE is because the 3D printer is specially designed and adapted for research and development of new materials. We look forward to the new improved research opportunities.”",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Mohsen Taheri Andani, incoming assistant professor of mechanical engineering",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "ONE to develop methods in 3D printing and for the development of existing and new materials.",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“We have chosen Freemelt ONE because its open architecture will give us full control over the manufacturing process and allow us to fully explore the potential of E-PBF technology. We will use this system for research in process development and optimization, in-situ monitoring and control, as well as design of new materials and structures.”",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Wenda Tan, Assistant Professor of Mechanical Engineering",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“As researcher with more than 20 years of experience in the field of PBF-LB, the development of the exciting PBF-EB process was the next step in expanding our expertise at the Ruhr-University Bochum.” “We choose Freemelt",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "ONE for the open software structure which allows us a significantly high degree of freedom, which is very helpful both in basic research and in the realization of innovative application projects.”",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Jan Sehrt, University professor at Ruhr-University Bochum",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "machine is designed for serial production, and with its unique features, it is an optimal choice for tungsten manufacturing.",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "’s diode gun maintains a stable beam spot size throughout the full power range (0 to 6 kW). This consistency is crucial for tungsten processing because a high beam power is a great advantage for reaching high productivity in this process that requires a powder bed temperature above 1200 °C.",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "2. Active water cooling for enhanced productivity",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "Productivity is further enhanced by e",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "’s dockable build module system. Each module is a self-contained unit that includes both the build tank and the powder feeding system. With dual modules, one is used for production while the other module is prepared for the next build in a standalone turnaround station. This feature significantly minimizes machine downtime between builds and increases overall productivity.",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "4. Superior vacuum quality for clean processing",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "Tungsten’s sensitivity to oxygen makes a controlled environment essential. Tungsten contaminated by oxygen is prone to cracking.",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "mbar. This ultra-clean environment prevents oxygen contamination and even purifies tungsten during processing, achieving oxygen levels as low as single ppm, which is critical for superior material quality.",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "software, offers significant advantages over traditional line melting. By rapidly creating submillimeter melt pools, spot melting evenly distributes heat, reducing residual stress and the risk of macroscopic swelling. Moreover, the ability to customize spot melting patterns allows for site-specific microstructure tailoring, a promising development for future E-PBF applications.",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "6. In-situ process monitoring for quality assurance",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "sets a new standard for productivity and material quality in tungsten manufacturing, supporting applications ranging from defense to energy and medical technology.",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "Electron beam powder bed fusion processing of pure tungsten",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "machine is enabling serial production of titanium orthopedic implants.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2023, the market returned to pre-pandemic growth rates, showing a growing demand for various orthopedic devices. By 2032, the orthopedic implant market is expected to reach $86 billion, growing at a compound annual growth rate (CAGR) of 5%",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": ". Meanwhile, the 3D printed orthopedic implant market is projected to grow even faster, with an expected CAGR of 16%, reaching $7 billion by the same year",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": ". Several global healthcare companies are at the forefront of this expansion, including, Zimmer Biometh, Stryker, and DePuy Synthes (a Johnson & Johnson company), where Stryker alone has manufactured over 2 million 3D printed implants since 2013",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive manufacturing has the potential to revolutionize orthopedic implant production, creating new opportunities for innovation and efficiency.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Printed in a Freemelt machine",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt enables serial production of orthopedic implants with e",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "-iM machine is set to revolutionize the orthopedic implant industry with its advanced capabilities tailored for serial production. Unlike conventional manufacturing and competing additive manufacturing technologies, the e",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "-iM excels in producing complex, high-quality implants at scale. Its modular design and quick turnaround capabilities allow manufacturers to efficiently scale up production while maintaining exceptional precision and accuracy.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "-iM enables continuous, high-efficiency production. This is ideal for scaling up operations and maximizing output while keeping operational costs low.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "A separate turnaround station ensures that the preparation and removal of builds can be done ergonomically and without blocking the melt station. This minimizes downtime, thus enhancing overall productivity.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "-iM features a high-power electron beam that allows for faster melting and quicker build rates, crucial for industrial serial production.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "-iM’s compact build chamber, combined with active cooling, substantially increases productivity. These unique features make e",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Transform manufacturing",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt’s modular printers, designed for industrial applications, support complex geometries and high-performance materials, such as tungsten for defense and energy applications and titanium for medical implants",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial 3D printer setting the industry standard for serial production",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Empower your development work, accelerate your innovation, and redefine the possibilities of additive manufacturing.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt offers a complete product portfolio supporting you from early material and process development through application development, into a seamless transition to serial production within industries such as medtech, orthopedic implants, energy, defense, and beyond.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The implant workhorse",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Titanium alloy is a key material in orthopedic implants due to its strength, lightness, biocompatibility, and corrosion resistance. Freemelt’s E-PBF technology enhances titanium implant production by enabling complex geometries like solid cores with porous surfaces, and efficient stacking to boost productivity.",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We exist to transform manufacturing",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt’s collaborative approach empowers ambitious leaders to drive meaningful change in their industries. By sharing technology and knowledge, Freemelt aims to make a lasting, positive impact on society, with a vision that scales globally and in manufacturing.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "That’s where we come in. At Freemelt, we use the power of additive manufacturing to help turn your initial spark of inspiration into a fully functional, three-dimensional solution. Faster, more sustainably and cost-effectively than you ever could before.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "We do this by eliminating barriers and changing perceptions. Whether it’s through our open source approach, advanced additive manufacturing technology or deep manufacturing expertise, we specialize in removing the intermediate steps that can slow things down. Letting you fast-forward from initial idea to full-scale production.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "There’s a world of challenges out there just waiting to be solved. Let’s all work together to take them on and transform manufacturing – for good.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "A leader in the digital transformation of the manufacturing industry and academia.",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Dr. Sandra DeVincent Wolf, Executive Director of the Next Manufacturing Center at Carnegie Mellon",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Scaling up and industrializing new technologies and ideas through collaboration between industry and academia",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“Freemelt has identified a key market need: Early development of raw materials, parameters, and building strategies for 3D printing in powder bed with electron beam.” “The flexibility and accessibility of this system make it ideal for contributing to the goal of AMPF to develop from early concepts for new materials and manufacturing strategies to their commercial application.”",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "The Center for Additive Manufacturing and logistics CAMAL will use Freemelt",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“We have chosen Freemelt ONE because its open architecture will give us full control over the manufacturing process and allow us to fully explore the potential of E-PBF technology. We will use this system for research in process development and optimization, in-situ monitoring and control, as well as design of new materials and structures.”",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Elevating tungsten manufacturing-Six reasons to choose e¯MELT® - Freemelt",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "Elevating tungsten manufacturing-Six reasons to choose e¯MELT",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "This advancement has increased the interest in tungsten across various industries, including medical X-ray equipment, rocket engine components, defense ammunition, and components for fusion energy power plants.",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "machine is designed for serial production, and with its unique features, it is an optimal choice for tungsten manufacturing.",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "sets a new standard for productivity and material quality in tungsten manufacturing, supporting applications ranging from defense to energy and medical technology.",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal AM Magazine – Mastering tungsten manufacturing with BPF-EB Additive manufacturing",
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive manufacturing, enabling innovation in the orthopedic implant industry - Freemelt",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive manufacturing, enabling innovation in the orthopedic implant industry",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "This article covers the benefits of additive manufacturing in the orthopedic implant industry, market potential, and how Freemelt’s e",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "machine is enabling serial production of titanium orthopedic implants.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2023, the market returned to pre-pandemic growth rates, showing a growing demand for various orthopedic devices. By 2032, the orthopedic implant market is expected to reach $86 billion, growing at a compound annual growth rate (CAGR) of 5%",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": ". Meanwhile, the 3D printed orthopedic implant market is projected to grow even faster, with an expected CAGR of 16%, reaching $7 billion by the same year",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": ". Several global healthcare companies are at the forefront of this expansion, including, Zimmer Biometh, Stryker, and DePuy Synthes (a Johnson & Johnson company), where Stryker alone has manufactured over 2 million 3D printed implants since 2013",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": ". These industry leaders are continually advancing their offerings, and manufacturing techniques such as additive manufacturing to address the evolving demands of the healthcare sector.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "The benefits of additive manufacturing for orthopedic implants",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive manufacturing has the potential to revolutionize orthopedic implant production, creating new opportunities for innovation and efficiency.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt enables serial production of orthopedic implants with e",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "-iM machine is set to revolutionize the orthopedic implant industry with its advanced capabilities tailored for serial production. Unlike conventional manufacturing and competing additive manufacturing technologies, the e",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "-iM excels in producing complex, high-quality implants at scale. Its modular design and quick turnaround capabilities allow manufacturers to efficiently scale up production while maintaining exceptional precision and accuracy.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "-iM features a high-power electron beam that allows for faster melting and quicker build rates, crucial for industrial serial production.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "-iM optimal for manufacturing of orthopedic implants.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "As the demand for orthopedic implants increases, driven by aging populations and advancements in medical treatments, the industry is gradually shifting toward more innovative manufacturing methods. Freemelt’s e",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "-iM, with its advanced E-PBF technology, supports this transition by offering improved efficiency and cost-effectiveness, setting a new standard for serial production of orthopedic implants.",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Orthopedic Implants Market Share, Size, Growth 2032 | MRFR (marketresearchfuture.com)",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printed Orthopedic Implants Market Size [2032] (businessresearchinsights.com)",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Stryker 3D printed over 2 million Tritanium implants since 2013 (voxelmatters.com)",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "eMELT-iM: The Industrial 3D printer for serial production",
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Freemelt to supply tungsten components for world's largest fusion reactor | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Additive Manufacturing",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Swedish manufacturer secures an order from Fusion for Energy for Japan's JT-60SA tokamak",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt said the order validated its expanded industrial platform and its ambition to become a leading European platform for qualified advanced metal component manufacturing. The company delivers the components through its Manufacturing business area, working with established partners across the value chain from raw material to finished, qualified parts.",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM 2025",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt restructures around new metal component manufacturing business | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business.md",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Additive Manufacturing",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt restructures around new metal component manufacturing business",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Additive Manufacturing",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   },
+   {
+    "quote": ", a Swedish manufacturer of electron beam powder bed fusion (E-PBF) metal 3D printing systems, has restructured its business into two units, adding component manufacturing services alongside its existing machine sales.",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   },
+   {
+    "quote": ", said the new structure separated Production Systems, which serves customers building their own additive manufacturing capacity, from Manufacturing, a line supplying qualified metal components directly to customers in medtech, defense, fusion and other industrial sectors.",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Freemelt has received an order from Alsymex, a subsidiary of the French technology group ALCEN and a strategic supplier to the ITER fusion energy project. The order represents an i…",
+    "url": "https://freemelt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We do this by eliminating barriers and changing perceptions. Whether it’s through our open source approach, advanced additive manufacturing technology or deep manufacturing expertise, we specialize in removing the intermediate steps that can slow things down. Letting you fast-forward from initial idea to full-scale production.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   },
+   {
+    "quote": "Dr. Ola L. A. Harrysson at NC State University",
+    "url": "https://freemelt.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "The order carries a base value of 55 million Swedish kronor ($5.7 million), with additional options that could raise the total contract value to 84 million kronor ($8.7 million). Deliveries are scheduled over a two-year period through 2028, with most of the components shipping in 2027.",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt tripled net sales last year, part of which was driven by another F4E order",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo CMO Sienna Hwang on the…",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt reaffirmed its target of $103.3 million (SEK 1 billion) in annual order intake by 2030 and set a new goal of reaching positive EBITDA by 2028. The company said it expected more than half of its revenue to come from recurring sources.",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Tripo CMO Sienna Hwang on the…",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt Holding AB (publ) ( FREEM.ST) stock earnings and revenue | Digrin",
+    "url": "https://www.digrin.com/stocks/detail/FREEM.ST/earnings",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Among our partners, Jiuli plays an important role as a reseller, expanding access to Freemelt’s solutions in new markets.",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Swedish manufacturer secures an order from Fusion for Energy for Japan's JT-60SA tokamak",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": ". The parts are destined for JT-60SA, a European-Japanese fusion program and the world’s largest superconducting tokamak, located in Naka, Japan.",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "協力の一環として、Jiuliは中国、台湾、香港においてFreemeltの販売代理店を務めます",
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/freemelt%E3%81%AF%E4%B8%AD%E5%9B%BD%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%BB%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%B8%E3%81%AE%E5%8F%82%E5%85%A5%E3%81%AE%E3%81%9F%E3%82%81%E3%81%ABjiuli-2/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Freemelt — Freemelt Freemelt https://freemelt.com",
+    "url": "https://freemelt.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt はProxima Fusions StellaratorプロジェクトAlphaに ... — Freemelt はProxima Fusions StellaratorプロジェクトAlphaに ... 3Druck.com https://3druck.com > ホーム > 産業",
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/freemelt%E3%81%AF%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%9E%E3%83%BB%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%86%E3%83%A9%E3%83%88%E3%83%BC%E3%83%AB%E3%83%BB/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt to supply tungsten components for world's largest ... — Freemelt to supply tungsten components for world's largest ... VoxelMatters https://www.voxelmatters.com > free...",
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt business — Freemelt business Freemelt https://freemelt.com > freemelt-business",
+    "url": "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt to Test Whether 3D Printing Can Improve Heat ... — Freemelt to Test Whether 3D Printing Can Improve Heat ... 3D Printing Industry https://3dprintingindustry.com > news",
+    "url": "https://3dprintingindustry.com/news/freemelt-to-test-whether-3d-printing-can-improve-heat-resistant-metal-parts-for-defense-255752/",
+    "pass": 3
+   },
+   {
+    "quote": "We are freemelt — We are freemelt Freemelt https://freemelt.com > we-are-freemelt",
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt 、中国3Dプリント分野への市場参入でJiuliと提携 — Freemelt 、中国3Dプリント分野への市場参入でJiuliと提携 3Druck.com https://3druck.com > ホーム > 産業",
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/freemelt%E3%81%AF%E4%B8%AD%E5%9B%BD%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%BB%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%B8%E3%81%AE%E5%8F%82%E5%85%A5%E3%81%AE%E3%81%9F%E3%82%81%E3%81%ABjiuli-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt receives F4E order with a base value of SEK 55 ... — Freemelt receives F4E order with a base value of SEK 55 ... Freemelt https://freemelt.com > mfn_news_en",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-order-with-a-base-value-of-sek-55-million-to-manufacture-fusion-components/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt AB - LinkedIn — Freemelt AB - LinkedIn LinkedIn https://www.linkedin.com > freemelt-ab",
+    "url": "https://www.linkedin.com/company/freemelt-ab/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt AB - Big Science Sweden — Freemelt AB - Big Science Sweden Big Science Sweden https://www.bigsciencesweden.se > fr...",
+    "url": "https://www.bigsciencesweden.se/suppliers-partners/freemelt-ab/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers - Freemelt — Customers - Freemelt Freemelt https://freemelt.com > customers",
+    "url": "https://freemelt.com/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt restructures around new metal component ... — Freemelt restructures around new metal component ... VoxelMatters https://www.voxelmatters.com > free...",
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt as an investment — Freemelt as an investment Freemelt https://freemelt.com > ... > The Share",
+    "url": "https://freemelt.com/investors/the-share/freemelt-as-an-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt - 2026 Company Profile & Team - Tracxn — Freemelt - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/freemelt/__8K851evb8z04yZQG6gPf5FFN2nFWNFz-1e9wOqjatOc",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt - Interview with CEO Daniel Gidlund on ... - YouTube — Freemelt - Interview with CEO Daniel Gidlund on ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Mbj2HRUt5I8",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt Holding AB (publ) ( FREEM.ST) - Stock Earnings — Freemelt Holding AB (publ) ( FREEM.ST) - Stock Earnings Digrin https://www.digrin.com > ... > Earnings",
+    "url": "https://www.digrin.com/stocks/detail/FREEM.ST/earnings",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt Holding AB (publ) publishes the 2025 Annual Report — Freemelt Holding AB (publ) publishes the 2025 Annual Report Freemelt https://freemelt.com > mfn_news_en",
+    "url": "https://freemelt.com/mfn_news_en/freemelt-holding-ab-publ-publishes-the-2025-annual-report/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Dirac Delta on X: \"Thoughts on Freemelt e-beam 3d printing ... Dirac Delta on X: \"Thoughts on Freemelt e-beam 3d printing ... X https://x.com > @DeltaClimbs",
+    "url": "https://x.com/DeltaClimbs/status/2119339177737326693",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt : Upplysning – oklart hur mycket som är bindande - X Freemelt : Upplysning – oklart hur mycket som är bindande - X X https://x.com > @AFV_magasin",
+    "url": "https://x.com/AFV_magasin/status/2118249792044171756",
+    "pass": 3
+   },
+   {
+    "quote": "Placera on X: \" Freemelt fyller kassan efter orderlyftet https://t ... Placera on X: \" Freemelt fyller kassan efter orderlyftet https://t ... X https://x.com > @placerase",
+    "url": "https://x.com/placerase/status/2117954848872104228",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Freemelt AB - LinkedIn Freemelt AB - LinkedIn LinkedIn Sverige https://se.linkedin.com > freemelt-ab",
+    "url": "https://se.linkedin.com/company/freemelt-ab",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt enters Chapter 3: From technology to industrial ... Freemelt enters Chapter 3: From technology to industrial ... LinkedIn https://www.linkedin.com > pulse > fr...",
+    "url": "https://www.linkedin.com/pulse/freemelt-enters-chapter-3-from-technology-industrial-daniel-gidlund-fcmjf",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Manufacturing Operations - Freemelt | Daniel Gidlund Head of Manufacturing Operations - Freemelt | Daniel Gidlund LinkedIn https://www.linkedin.com > posts > d...",
+    "url": "https://www.linkedin.com/posts/danielgidlund_head-of-manufacturing-operations-freemelt-activity-7492266604580212736-EAER",
+    "pass": 3
+   },
+   {
+    "quote": "Freemelt AB's Post - LinkedIn Freemelt AB's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > fr...",
+    "url": "https://www.linkedin.com/posts/freemelt-ab_freemelt-3dprinting-additivemanufacturing-activity-7503357567914651648-wYQd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Bogo free melt offer 2026 - Facebook Bogo free melt offer 2026 - Facebook Facebook https://www.facebook.com > lovemelty > posts",
+    "url": "https://www.facebook.com/lovemelty/posts/-get-a-bogo-free-melt-experience-our-unique-melt-combinations-from-the-classic-f/1764970358971476/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Melt the Ice finger hat pattern on Ravelry - Facebook Free Melt the Ice finger hat pattern on Ravelry - Facebook Facebook https://www.facebook.com > ... > Ravelry | Facebook",
+    "url": "https://www.facebook.com/groups/107315198354/posts/10163118951358355/",
+    "pass": 3
+   },
+   {
+    "quote": "Sugar- Free Melt -in-Your-Mouth Cake - Facebook Sugar- Free Melt -in-Your-Mouth Cake - Facebook Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/LowCalDelightsRecipes/videos/sugar-free-melt-in-your-mouth-cake/1485345336339175/",
+    "pass": 3
+   },
+   {
+    "quote": "BOGO FREE MELT ! Savor our gourmet grilled cheese, like the ... BOGO FREE MELT ! Savor our gourmet grilled cheese, like the ... Facebook https://www.facebook.com > lovemelty > posts",
+    "url": "https://www.facebook.com/lovemelty/posts/-bogo-free-melt-savor-our-gourmet-grilled-cheese-like-the-famous-bbq-brisket-cra/1764963628972149/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://freemelt.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/we-are-freemelt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/knowledge/elevating-tungsten-manufacturing-six-reasons-to-choose-e-melt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/knowledge/additive-manufacturing-enabling-innovation-in-the-orthopedic-implant-industry-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freemelt.com/knowledge/the-most-persistent-myth-about-electron-beam-powder-bed-fusion-smoke/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://freemelt.com/app/uploads/menu_customers.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/freemelt%E3%81%AF%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%9E%E3%83%BB%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%86%E3%83%A9%E3%83%88%E3%83%BC%E3%83%AB%E3%83%BB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/freemelt%E3%81%AF%E4%B8%AD%E5%9B%BD%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%BB%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%B8%E3%81%AE%E5%8F%82%E5%85%A5%E3%81%AE%E3%81%9F%E3%82%81%E3%81%ABjiuli-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/freemelt-ab/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKDhLK1uOHmK51--TSBErON8-MTEWgeTPep4lylvbzG1roD_NX_",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proto3000.com/resources/case_studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/freemelt/__8K851evb8z04yZQG6gPf5FFN2nFWNFz-1e9wOqjatOc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Mbj2HRUt5I8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.digrin.com/stocks/detail/FREEM.ST/earnings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/DeltaClimbs/status/2119339177737326693",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AFV_magasin/status/2118249792044171756",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/placerase/status/2117954848872104228",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/company/freemelt-ab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/freemelt-enters-chapter-3-from-technology-industrial-daniel-gidlund-fcmjf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/danielgidlund_head-of-manufacturing-operations-freemelt-activity-7492266604580212736-EAER",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/freemelt-ab_freemelt-3dprinting-additivemanufacturing-activity-7503357567914651648-wYQd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lovemelty/posts/-get-a-bogo-free-melt-experience-our-unique-melt-combinations-from-the-classic-f/1764970358971476/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/107315198354/posts/10163118951358355/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LowCalDelightsRecipes/videos/sugar-free-melt-in-your-mouth-cake/1485345336339175/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lovemelty/posts/-bogo-free-melt-savor-our-gourmet-grilled-cheese-like-the-famous-bbq-brisket-cra/1764963628972149/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/danielgidlund_head-of-manufacturing-operations-freemelt-activity-7492266604580212736-EAER",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Freemelt 日本 導入",
+   "results": [
+    "https://freemelt.com/",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/freemelt%E3%81%AF%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%9E%E3%83%BB%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%86%E3%83%A9%E3%83%88%E3%83%BC%E3%83%AB%E3%83%BB/",
+    "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "https://3dprintingindustry.com/news/freemelt-to-test-whether-3d-printing-can-improve-heat-resistant-metal-parts-for-defense-255752/",
+    "https://idarts.co.jp/3dp/nuclear-amrc-freemelt-3d-printed-tungsten-parts/?srsltid=AYCX9vJfKEtuX0-P5wrZsSuLrraZGNm_izaqtVsHr0cr9g1XNtJKsdeO",
+    "https://www.youtube.com/watch?v=ULo_dNEHg4w&vl=ja",
+    "https://jampt.jp/",
+    "https://nsc.jp.nipponsanso.com/jp/our_technology/news/?itemid=6&dispmid=945",
+    "https://freemelt.com/mfn_news_en/freemelt-is-granted-a-patent-in-japan-for-cathode-technology/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Freemelt 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://freemelt.com/",
+    "https://freemelt.com/we-are-freemelt/",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/freemelt%E3%81%AF%E4%B8%AD%E5%9B%BD%E3%81%AE3d%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%82%BB%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%B8%E3%81%AE%E5%8F%82%E5%85%A5%E3%81%AE%E3%81%9F%E3%82%81%E3%81%ABjiuli-2/",
+    "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "https://fusiontechnology.co.jp/access/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://form.3fit.net/service/",
+    "https://nakayama-meps.co.jp/company/list.html",
+    "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "https://ja.wikipedia.org/wiki/秦英之"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Freemelt Japan",
+   "results": [
+    "https://freemelt.com/mfn_news_en/freemelt-receives-f4e-order-with-a-base-value-of-sek-55-million-to-manufacture-fusion-components/",
+    "https://www.linkedin.com/company/freemelt-ab/",
+    "https://freemelt.com/",
+    "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "https://www.bigsciencesweden.se/suppliers-partners/freemelt-ab/",
+    "https://rapid2026.smallworldlabs.com/co/freemelt",
+    "https://www.youtube.com/watch?v=PPcFioWlU7U",
+    "https://www.epma.com/freemelt-ab/",
+    "https://tracxn.com/d/companies/freemelt/__8K851evb8z04yZQG6gPf5FFN2nFWNFz-1e9wOqjatOc",
+    "https://freemelt.com/mfn_news_en/freemelt-is-granted-a-patent-in-japan-for-cathode-technology/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Freemelt manufacturing customer case study",
+   "results": [
+    "https://freemelt.com/customers/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKDhLK1uOHmK51--TSBErON8-MTEWgeTPep4lylvbzG1roD_NX_",
+    "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "https://proto3000.com/resources/case_studies/",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://formlabs.com/blog/formlabs-wenext-advanced-manufacturing-case-study/",
+    "https://www.linkedin.com/company/freemelt-ab/",
+    "https://thevirtualfoundry.com/manufacturing-using-3d-printing/",
+    "https://freemelt.com/investors/freemelt_as_an_investment/market-potential/",
+    "https://freemelt.com/mfn_news_en/freemelt-receives-an-order-from-an-industrial-customer-in-north-america/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Freemelt white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.newprint.ca/reseller-program?srsltid=AYCX9vLd7vLho-nKUDlRncsQSouhlmdSKmjtivTGTxt1QbHcDRxWqPef",
+    "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://www.reddit.com/r/startups/comments/w857z8/b2b_white_label_saas_reselling/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Freemelt founded funding employees revenue",
+   "results": [
+    "https://freemelt.com/investors/the-share/freemelt-as-an-investment/",
+    "https://tracxn.com/d/companies/freemelt/__8K851evb8z04yZQG6gPf5FFN2nFWNFz-1e9wOqjatOc",
+    "https://www.youtube.com/watch?v=Mbj2HRUt5I8",
+    "https://www.digrin.com/stocks/detail/FREEM.ST/earnings",
+    "https://freemelt.com/mfn_news_en/freemelt-holding-ab-publ-publishes-the-2025-annual-report/",
+    "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "https://www.investing.com/news/transcripts/earnings-call-transcript-freemelt-q2-2026-orders-hit-record-as-sales-fall-93CH-4851093",
+    "https://storage.mfn.se/269578e4-86e9-4ea4-8661-95936494a5db/freemelt-enters-into-agreement-with-leading-chinese-industrial-company.pdf",
+    "https://www.tradingview.com/symbols/OMXSTO-FREEM/",
+    "https://freemelt.com/investors/financial-reports/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Freemelt",
+   "results": [
+    "https://note.com/f_museumbu/n/n71683751d0b0",
+    "https://note.com/miraku_0321/n/n5d7e9b7453d0/comments?hl=en-US",
+    "https://note.com/aqua_join/n/n4d03b1480786?hl=en",
+    "https://note.com/maecheck/n/ne089f3bd06dc",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/maxmatsuura/n/n5184b760199e",
+    "https://note.com/novasolver/n/nab98fb6a5fb8?hl=en",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Freemelt",
+   "results": [
+    "https://x.com/DeltaClimbs/status/2119339177737326693",
+    "https://x.com/Redeye_/status/2118716506200571942",
+    "https://x.com/AFV_magasin/status/2118249792044171756",
+    "https://x.com/placerase/status/2117954848872104228",
+    "https://x.com/Nyemissioner/status/2117363004383613186",
+    "https://x.com/AFV_magasin/status/2117931863830311326",
+    "https://x.com/krispykreme/status/1550873383306412044",
+    "https://x.com/nittinpatil",
+    "https://x.com/fabbing",
+    "https://x.com/napoleon21st/status/2066567427744522675"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Freemelt",
+   "results": [
+    "https://se.linkedin.com/company/freemelt-ab",
+    "https://www.linkedin.com/pulse/freemelt-enters-chapter-3-from-technology-industrial-daniel-gidlund-fcmjf",
+    "https://www.linkedin.com/posts/danielgidlund_head-of-manufacturing-operations-freemelt-activity-7492266604580212736-EAER",
+    "https://www.linkedin.com/posts/freemelt-ab_freemelt-3dprinting-additivemanufacturing-activity-7503357567914651648-wYQd",
+    "https://uk.linkedin.com/in/jonathan-wright-96507054",
+    "https://se.linkedin.com/jobs/view/join-freemelt-as-our-hr-office-manager%21-at-freemelt-ab-4123591889",
+    "https://www.linkedin.com/posts/freemelt-ab_freemelt-3dprinting-additivemanufacturing-activity-7524371673429766144-hEHy",
+    "https://www.linkedin.com/posts/danielgidlund_freemelt-enters-chapter-3-from-technology-activity-7519105212834521088-XCxv",
+    "https://www.linkedin.com/posts/big-science-sweden_congratulations-to-freemelt-ab-on-your-sek-activity-7504066456901353472-Z3n6",
+    "https://www.linkedin.com/posts/freemelt-ab_freemelt-freemelt-additivemanufacturing-activity-7401912358337425408-_naw"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Freemelt",
+   "results": [
+    "https://www.facebook.com/lovemelty/posts/-get-a-bogo-free-melt-experience-our-unique-melt-combinations-from-the-classic-f/1764970358971476/",
+    "https://www.facebook.com/groups/107315198354/posts/10163118951358355/",
+    "https://www.facebook.com/LowCalDelightsRecipes/videos/sugar-free-melt-in-your-mouth-cake/1485345336339175/",
+    "https://www.facebook.com/lovemelty/posts/-bogo-free-melt-savor-our-gourmet-grilled-cheese-like-the-famous-bbq-brisket-cra/1764963628972149/",
+    "https://www.facebook.com/SavorEasy/videos/flourless-almond-cake-gluten-free/805478298517593/",
+    "https://www.facebook.com/groups/107315198354/posts/10163220244513355/",
+    "https://www.facebook.com/lovemelty/posts/-eagle-mountain-get-a-bogo-free-melt-enjoy-our-take-on-nostalgic-comfort-food-to/1776157667852745/",
+    "https://www.facebook.com/Soundbiteburgersph/posts/thursday-plans-sorted-buy-any-2-burger-meals-and-well-throw-in-a-free-melt-sessi/122115077583213047/",
+    "https://www.facebook.com/LowCalDelightsRecipes/posts/sugar-free-melt-in-your-mouth-cake-wonderful-polish-cakea-delicate-two-layer-cak/122175938168612084/",
+    "https://www.facebook.com/groups/greaterpittsburghceliacsupport/posts/3534039440132331/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Freemelt note 社長",
+   "results": [
+    "https://freemelt.com/investors/freemelt_as_an_investment/freemelt-business/",
+    "https://www.youtube.com/watch?v=Mbj2HRUt5I8",
+    "https://www.linkedin.com/posts/danielgidlund_head-of-manufacturing-operations-freemelt-activity-7492266604580212736-EAER",
+    "https://note.com/fusion_ltd/m/m72ded779aa56",
+    "https://freemelt.com/",
+    "https://www.voxelmatters.com/freemelt-to-supply-tungsten-components-for-worlds-largest-fusion-reactor/",
+    "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "https://storage.mfn.se/269578e4-86e9-4ea4-8661-95936494a5db/freemelt-enters-into-agreement-with-leading-chinese-industrial-company.pdf",
+    "https://note.com/shi3zblog/n/n8a9e2f511b01",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Freemelt X 投稿",
+   "results": [
+    "https://freemelt.com/",
+    "https://www.youtube.com/@freemelt",
+    "https://www.voxelmatters.com/freemelt-restructures-around-new-metal-component-manufacturing-business/",
+    "https://www.fabbaloo.com/news/freemelts-unusual-new-metal-3d-printer-features",
+    "https://freemelt.com/e%C2%AF-melt-id/",
+    "https://www.youtube.com/watch?v=Mbj2HRUt5I8",
+    "https://se.linkedin.com/company/freemelt-ab",
+    "https://3dprintingindustry.com/news/freemelt-to-test-whether-3d-printing-can-improve-heat-resistant-metal-parts-for-defense-255752/",
+    "https://eurohiddengemstocks.substack.com/p/hidden-gem-deep-dive-freemelt-the",
+    "https://freemelt.com/media/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部27頁・検索12回）"
+ }
+}

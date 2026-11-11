@@ -1,0 +1,1184 @@
+{
+ "name": "Brightpick",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T02:31:17.049723+00:00",
+ "official_url": "https://brightpick.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Your browser does not video playback.",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering proven results for enterprise customers",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“ The system combines nicely with our existing processes, doesn’t have any complicated building or layout requirements and is",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "to our existing warehouse processes. Their solution enabled us to practically eliminate our picking labor and reduce picking costs. ”",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cut costs, ship more orders and improve customer service.",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Knuspr automates order buffering and dispatch",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Knuspr, one of Germany’s fastest-growing e-grocers, uses Brightpick robots to automate post-pick order buffering, consolidation, and dispatch, enabling 3-hour delivery in Munich..",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Why the fastest-moving products are the hardest to automate",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "MotionTech UK designs, manufactures, integrates, and supports complete automation systems. Built on decades of expertise from L-A-C Logistics Automation, Holloway Control Systems, and AMH Material Handling, Motiontech provides a single, coordinated partner focused on solving complex operational challenges.",
+    "url": "https://brightpick.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing and ROI - Brightpick",
+    "url": "https://brightpick.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore flexible pricing options for Autopicker and Gridpicker based on your warehouse needs, scale, and throughput requirements.",
+    "url": "https://brightpick.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible pricing to match your operation",
+    "url": "https://brightpick.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Optional on-site support and preventative maintenance",
+    "url": "https://brightpick.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom pricing based on system size and throughput",
+    "url": "https://brightpick.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "A detailed breakdown of pricing, ROI, and business impact based on real-world customer deployments of our solutions.",
+    "url": "https://brightpick.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "(step-by-step process to go live)",
+    "url": "https://brightpick.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "(pricing and labor benchmarks vs other systems)",
+    "url": "https://brightpick.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Superior Communications uses robotic workforce to hit 3,500 picks per hour with just two pickers",
+    "url": "https://brightpick.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick helps German e-grocer Knuspr unlock 3-hour delivery in Munich",
+    "url": "https://brightpick.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "One of Europe’s largest e-grocers chooses Brightpick solution for Prague fulfillment center",
+    "url": "https://brightpick.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "With over 250 employees and a decade of development, Brightpick’s award-winning AI robots empower companies to overcome today’s most pressing supply chain challenges.",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "To solve this, our team of passionate roboticists put their heads together and created Brightpick, a truly innovative and game-changing approach to order fulfillment.",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": ", driving new levels of productivity and efficiency.",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "“ The system combines nicely with our existing processes, doesn’t have any complicated building or layout requirements and is",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "to our existing warehouse processes. Their solution enabled us to practically eliminate our picking labor and reduce picking costs. ”",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Ivana is responsible for financial excellence and reporting at Brightpick. Prior to this role, she was Director of Finance and Operations at Photoneo since 2018. Before joining Photoneo, Ivana was Finance Team Lead at IBM. She earned a MS in Economics from the University of Economics in Bratislava.",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick Autopicker wins Best Product Award at LogiMAT",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not video playback.",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore flexible pricing options for Autopicker and Gridpicker based on your warehouse needs, scale, and throughput requirements.",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible pricing to match your operation",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Optional on-site support and preventative maintenance",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom pricing based on system size and throughput",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Autopicker can reliably pick a wide range of real warehouse items without custom training, from medical devices and chilled groceries to polybagged apparel. Trained on over a billion picks, the robot fleet keeps learning from every pick to improve accuracy over time.",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Its AI-powered Time-Space Planning predicts fleet activity, avoids congestion, and keeps throughput high.",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Superior Communications uses robotic workforce to hit 3,500 picks per hour with just two pickers - Brightpick",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Open this article in your preferred AI tool and ask it to summarize the key points.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "By clicking the subscribe button you agree to our terms of use and have read and understood our privacy policy.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Superior Communications uses robotic workforce to hit 3,500 picks per hour with just two pickers",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Superior Communications is a leading North American distributor of mobile accessories, serving major wireless carriers, OEMs, and big-box retailers. With end-to-end services from product design and manufacturing to logistics and retail support, the company has a long track record of adapting to market needs.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Superior has historically operated out of two distribution centers in Tennessee. To improve operational control, simplify workflows, and reduce operating costs, the company set out to consolidate both facilities into a single warehouse.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "To maximize efficiency across different SKU profiles, the system also combines two assisted picking workflows. Around 10% of picks are completed at a goods-to-person picking station, while the remaining 17% are processed through a Fast Lane station, where an operator picks fast-moving SKUs from pallets and places them directly onto the robots.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "By replacing the legacy conveyor infrastructure with Brightpick’s dense robotic fulfillment system, Superior reduced the operational footprint required for fulfillment. The entire solution now fits within just 25,000 square feet, helping create the space needed to consolidate operations into one facility.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Superior purchased the system through Brightpick’s robots-as-a-service model, allowing the company to scale automation flexibly while minimizing upfront capital investment. This approach helped reduce deployment risk, preserve capital, and accelerate time to ROI.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "After implementing Brightpick, Superior is in the process of consolidating two distribution centers into one automated facility to achieve significant cost savings while creating a more efficient, scalable fulfillment operation.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The Brightpick system also improved picking accuracy, helping Superior reduce errors and streamline quality control before dispatch. With fewer manual touches and more reliable robotic picking, orders can now be processed faster and with greater consistency.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our main goal is always to improve the customer experience, and Brightpick has helped us do that. We can now pick faster, flex up more easily during demand peaks, improve order accuracy, and reduce our cost to serve. It gives us the scalability and efficiency we need to keep delivering for our customers.”",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce the operational footprint and consolidate two facilities into one",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Preserve long-term flexibility with a system that can be reconfigured, expanded, or moved as business needs change",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "April 29, 2026",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Pros and cons of different robotics solutions for order fulfillment",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Open this article in your preferred AI tool and ask it to summarize the key points.",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "By clicking the subscribe button you agree to our terms of use and have read and understood our privacy policy.",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": ", a leading provider of AI-powered robotic automation for warehouses, today announced a strategic partnership with",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": ", a major U.S. retailer and distributor of automotive replacement parts, accessories, and service items, to deploy advanced automation technology across their distribution centers. Through this partnership, Brightpick’s robotic solutions will improve overall warehouse performance to support NAPA’s nationwide store network.",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick and NAPA first collaborated in 2025 on a pilot project, which has been running successfully. NAPA then signed an agreement with Brightpick for an additional site in early 2026, with the potential for future installations at other locations. The first project under this agreement will include more than 100 Brightpick robots to support high-volume processing.",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "“This demonstrates our ability to easily scale our automation solutions with large enterprise customers – including Fortune 500 companies like NAPA – in multiple locations. We’re excited to support NAPA’s operations and value their continued investment in our technology across their national network.”",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "“This collaboration supports our goal of continuously improving how we serve our customers. Brightpick’s expertise in warehouse automation will help optimize our store network’s handling, replenishment, and overall performance to support the growing demand for fast and reliable auto parts delivery. We look forward to a long partnership with Brightpick.”",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick’s solutions will be tailored to perform seamlessly in NAPA’s warehouse environments, utilizing the company’s goods-to-person robots to integrate with existing technologies. Leveraging intelligent software and data-driven insights, Brightpick’s robots will enable faster processing, improved accuracy, and greater throughput for NAPA’s store network. For more updates, follow Brightpick on",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not video playback.",
+    "url": "https://brightpick.ai/autopicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Goods-to-Person picking stations for non-robotically-pickable items. Robots present 8 totes at once in a continuous flow. Associates stay active with ergonomic movement, picking 600+ order lines per hour.",
+    "url": "https://brightpick.ai/autopicker/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Brightpick - Warehouse automation made easy",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI robots automate every step of warehouse order fulfillment – enabling true 24/7 lights-out operations.",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "robots doing work in customer warehouses",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Orchestrated by Brightpick Intuition, our AI-powered warehouse execution software that acts as the digital brain of the warehouse",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Modular shelving that is simple to install and scale in any warehouse environment",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "to our existing warehouse processes. Their solution enabled us to practically eliminate our picking labor and reduce picking costs. ”",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about warehouse automation",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Best robotic warehouse systems for high throughput fulfillment",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Why mobile manipulators are taking over warehouses",
+    "url": "https://brightpick.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "TREW is a U.S.-based warehouse automation manufacturer and systems integrator. The company designs, builds, installs and supports material handling solutions combining robotics, conveyors, sortation and intelligent warehouse software. Following its acquisition of Intelligrated from Honeywell, Trew has become one of the largest integrators in North America.",
+    "url": "https://brightpick.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore flexible pricing options for Autopicker and Gridpicker based on your warehouse needs, scale, and throughput requirements.",
+    "url": "https://brightpick.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Starting from a minimum of 15 robots per warehouse",
+    "url": "https://brightpick.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick Enters Automotive Market in Strategic Partnership with NAPA",
+    "url": "https://brightpick.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick was founded on the belief that warehouse automation could be smarter, faster, and more cost-effective. Too much time and money were being wasted on rigid systems that offered limited labor savings and underwhelming performance.",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "to our existing warehouse processes. Their solution enabled us to practically eliminate our picking labor and reduce picking costs. ”",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Dr. Jan Zizka is the CEO and co-founder of Brightpick. A technology visionary, Jan sets Brightpick’s strategy and is closely involved in developing new robot and AI technologies. He has filed over 20 patents ranging from 3D sensing methods to mobile robotics and is a recognized expert in the field of AI, machine vision and warehouse automation.",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Reimagining warehouse robotics – a podcast with Brightpick CEO Jan Zizka",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform your warehouse with AI robots that think, move, and work like humans",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Match your warehouse with the right system",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximum flexibility for any warehouse needs",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore flexible pricing options for Autopicker and Gridpicker based on your warehouse needs, scale, and throughput requirements.",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Starting from a minimum of 15 robots per warehouse",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Autopicker can reliably pick a wide range of real warehouse items without custom training, from medical devices and chilled groceries to polybagged apparel. Trained on over a billion picks, the robot fleet keeps learning from every pick to improve accuracy over time.",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The keys to your warehouse",
+    "url": "https://brightpick.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Superior Communications is a leading North American distributor of mobile accessories, serving major wireless carriers, OEMs, and big-box retailers. With end-to-end services from product design and manufacturing to logistics and retail support, the company has a long track record of adapting to market needs.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Superior has historically operated out of two distribution centers in Tennessee. To improve operational control, simplify workflows, and reduce operating costs, the company set out to consolidate both facilities into a single warehouse.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“The flexibility to expand, reconfigure, and move the system was a major selling point for us. If we relocate in the future, we know we can easily move the system to a new warehouse. That gives us a clear path to long-term scalability without being locked into expensive fixed infrastructure.”",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "How we minimize risk when automating your warehouse: lessons from the field",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "How good data makes running a warehouse easier",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick Enters Automotive Market in Strategic Partnership with NAPA - Brightpick",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick Enters Automotive Market in Strategic Partnership with NAPA",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": ", a leading provider of AI-powered robotic automation for warehouses, today announced a strategic partnership with",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": ", a major U.S. retailer and distributor of automotive replacement parts, accessories, and service items, to deploy advanced automation technology across their distribution centers. Through this partnership, Brightpick’s robotic solutions will improve overall warehouse performance to support NAPA’s nationwide store network.",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our partnership with NAPA is a huge milestone as it marks our first customer in the automotive sector and largest U.S. customer to date,”",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Given the scale and complexity of NAPA’s operations, Brightpick’s robotic solutions will be a critical component in maintaining service levels and operational efficiency, while fortifying NAPA’s leadership position in the automotive aftermarket.",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "“This collaboration supports our goal of continuously improving how we serve our customers. Brightpick’s expertise in warehouse automation will help optimize our store network’s handling, replenishment, and overall performance to support the growing demand for fast and reliable auto parts delivery. We look forward to a long partnership with Brightpick.”",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick’s solutions will be tailored to perform seamlessly in NAPA’s warehouse environments, utilizing the company’s goods-to-person robots to integrate with existing technologies. Leveraging intelligent software and data-driven insights, Brightpick’s robots will enable faster processing, improved accuracy, and greater throughput for NAPA’s store network. For more updates, follow Brightpick on",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick Launches Autopicker 2.0, the First Multi-Purpose Warehouse Robot to Match Human-Level Performance",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform your warehouse with AI robots that think, move, and work like humans",
+    "url": "https://brightpick.ai/autopicker/",
+    "pass": 1
+   },
+   {
+    "quote": "The perfect warehouse worker",
+    "url": "https://brightpick.ai/autopicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Autopicker is a multi-purpose robot built to automate a wide range of warehouse workflows, from picking and replenishment to sortation and buffering. It moves seamlessly between tasks and workstations, working like a human – but faster, more consistent, and without breaks.",
+    "url": "https://brightpick.ai/autopicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick Autopickers robotically pick and consolidate orders directly in the warehouse aisles. The robots do not need to travel back and forth to centralized picking stations, which means faster picking and higher throughput.",
+    "url": "https://brightpick.ai/autopicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators pick items directly from pallets or cases and place them in the robot’s order tote",
+    "url": "https://brightpick.ai/autopicker/",
+    "pass": 1
+   },
+   {
+    "quote": ", they operate flawlessly in complete darkness, turning your warehouse into a truly",
+    "url": "https://brightpick.ai/autopicker/",
+    "pass": 1
+   },
+   {
+    "quote": "The system is compatible with virtually any warehouse environment, including",
+    "url": "https://brightpick.ai/autopicker/",
+    "pass": 1
+   },
+   {
+    "quote": "The system requires no safety fencing and is fully accessible to trained technicians at all times. And in the rare event of a major disruption, such as a power outage, your inventory remains fully accessible, with no risk of it being trapped inside a closed system.",
+    "url": "https://brightpick.ai/autopicker/",
+    "pass": 1
+   },
+   {
+    "quote": "as standard. Our remote technicians proactively monitor your system and can step in to resolve issues in real time.",
+    "url": "https://brightpick.ai/autopicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver more throughput from your warehouse than you thought possible",
+    "url": "https://brightpick.ai/gridpicker/",
+    "pass": 1
+   },
+   {
+    "quote": "A new standard for warehouse automation",
+    "url": "https://brightpick.ai/gridpicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Gridpicker is a multi-purpose AI robot that automates a wide range of warehouse tasks, from picking and replenishment to sortation and buffering. As the fastest warehouse robot ever created, it delivers up to 2x the throughput of a human picker.",
+    "url": "https://brightpick.ai/gridpicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Finished orders are routed out of the system for packing, shipping, or dispatch. Gridpicker can also buffer completed orders before release, helping warehouses sequence work around carrier cut-offs and operational priorities.",
+    "url": "https://brightpick.ai/gridpicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Items that cannot be picked robotically are automatically routed to a Goods-to-Person station. This gives operators a simple fallback process while keeping the rest of the operation automated.",
+    "url": "https://brightpick.ai/gridpicker/",
+    "pass": 1
+   },
+   {
+    "quote": "5x your warehouse",
+    "url": "https://brightpick.ai/gridpicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock the full potential of your warehouse and dramatically increase shipping volume from the same footprint. Achieve throughput of up to",
+    "url": "https://brightpick.ai/gridpicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Store more inventory within your existing space and reduce the need for costly warehouse expansions. Match the storage density of cube systems while using",
+    "url": "https://brightpick.ai/gridpicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Gridpicker runs on modular shelving that can be installed in weeks and tailored to any warehouse layout. As your operation grows, new aisles can be added instantly, without affecting performance or stopping the system.",
+    "url": "https://brightpick.ai/gridpicker/",
+    "pass": 1
+   },
+   {
+    "quote": "as standard. Our remote technicians proactively monitor your system and can step in to resolve issues in real time.",
+    "url": "https://brightpick.ai/gridpicker/",
+    "pass": 1
+   },
+   {
+    "quote": "If the first attempt fails, the robot switches to a larger VLA model hosted on each warehouses’s on-site server, which combines a 3B-parameter backbone and 300M-parameter action expert and increases overall pick success to over 99.7%.",
+    "url": "https://brightpick.ai/intuition-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick Intuition orchestrates our entire robot fleet with precision, controlling every movement and fulfillment workflow across your warehouse.",
+    "url": "https://brightpick.ai/intuition-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Before Brightpick was founded in 2021, our team had already spent years working on robotic manipulation at Photoneo. That work saw the team deploy more than 1,000 robotic picking cells in industrial environments and factories.",
+    "url": "https://brightpick.ai/intuition-ai/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "TREW is a U.S.-based warehouse automation manufacturer and systems integrator. The company designs, builds, installs and supports material handling solutions combining robotics, conveyors, sortation and intelligent warehouse software. Following its acquisition of Intelligrated from Honeywell, Trew has become one of the largest integrators in North America.",
+    "url": "https://brightpick.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "With over 250 employees and a decade of development, Brightpick’s award-winning AI robots empower companies to overcome today’s most pressing supply chain challenges.",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Brightpick’s journey began in 2013 when PhD students Jan Zizka, Michal Maly and Tomas Kovacovsky partnered to create Photoneo, a pioneer in 3D vision and robotic software. Photoneo swiftly became a global leader and was acquired by Zebra Technologies (NASDAQ: ZBRA) in early 2025.",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging their experience from Photoneo, the same team founded sister company Brightpick in 2021, aiming to develop the world’s most advanced robotic fulfillment solution. Today, Brightpick boasts a team of over 250 employees across the US and Europe, many of whom bring their expertise from Photoneo.",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Before co-founding Brightpick, Jan co-founded and led Photoneo, a leader in 3D vision and robotic software which was acquired by Zebra Technologies (NASDAQ: ZBRA) in 2025. He earned a PhD in Computer Vision from Comenius University, during which he also did research on computational cameras and optics at the Massachusetts Institute of Technology (MIT).",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer and Co-founder",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Before Brightpick, Andrey held several investment and M&A roles, including as an investor at Blackstone, where he was part of BSOF, a $15 billion multi-strategy fund.",
+    "url": "https://brightpick.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re seeking curious minds from diverse disciplines and backgrounds to join our team of 200+ employees across our offices in the U.S. and Slovakia.",
+    "url": "https://brightpick.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Superior Communications is a leading North American distributor of mobile accessories, serving major wireless carriers, OEMs, and big-box retailers. With end-to-end services from product design and manufacturing to logistics and retail support, the company has a long track record of adapting to market needs.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“This demonstrates our ability to easily scale our automation solutions with large enterprise customers – including Fortune 500 companies like NAPA – in multiple locations. We’re excited to support NAPA’s operations and value their continued investment in our technology across their national network.”",
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Fast-moving SKUs are picked directly from cases or pallets into order totes carried by the robots. This simplifies replenishment and eliminates the need to decant and put away fast movers into storage.",
+    "url": "https://brightpick.ai/autopicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Finished orders are routed out of the system for packing, shipping, or dispatch. Gridpicker can also buffer completed orders before release, helping warehouses sequence work around carrier cut-offs and operational priorities.",
+    "url": "https://brightpick.ai/gridpicker/",
+    "pass": 1
+   },
+   {
+    "quote": "Oftentimes robots carry automatic gripper exchangers, enabling them to select the best suction cup for each given item.",
+    "url": "https://brightpick.ai/intuition-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Each robot carries one or more order totes and picks items into them within the storage area. Most mobile manipulators also include human-in-the-loop fallbacks for items they cannot pick autonomously.",
+    "url": "https://brightpick.ai/resources/pros-and-cons-of-different-warehouse-automation-and-robotics-solutions-for-order-fulfillment/",
+    "pass": 1
+   },
+   {
+    "quote": "Directed picking AMRs do not improve storage density compared with manual picking. Human pickers still need to operate within the storage area and pick directly from shelves, which limits how high shelves can go and how narrow each aisle can be.",
+    "url": "https://brightpick.ai/resources/pros-and-cons-of-different-warehouse-automation-and-robotics-solutions-for-order-fulfillment/",
+    "pass": 1
+   },
+   {
+    "quote": "What the AI bubble narrative gets wrong",
+    "url": "https://brightpick.ai/resources/pros-and-cons-of-different-warehouse-automation-and-robotics-solutions-for-order-fulfillment/",
+    "pass": 1
+   },
+   {
+    "quote": "What the AI bubble narrative gets wrong",
+    "url": "https://brightpick.ai/blog/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Superior Communications is a leading North American distributor of mobile accessories, serving major wireless carriers, OEMs, and big-box retailers. With end-to-end services from product design and manufacturing to logistics and retail support, the company has a long track record of adapting to market needs.",
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://brightpick.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/resources/superior-communications-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/brightpick-napa-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/autopicker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/gridpicker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/intuition-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/resources/pros-and-cons-of-different-warehouse-automation-and-robotics-solutions-for-order-fulfillment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/resources/most-commonly-asked-questions-about-gridpicker/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/intuition-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://brightpick.ai/blog/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.beachfrontinn.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.beachfrontinn.com/rooms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.beachfrontinn.com/specials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.beachfrontinn.com/amenities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lamar.houstonisd.org/our-family-students/school-event-calendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hs.lamarschools.org/apps/events/index.jsp?id=0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hs.lamarschools.org/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://lamarschools.org/apps/news/show_news.jsp?REC_ID=846065&id=0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.yahoo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/FFCommish/comments/3n54yt/push_trade_through_on_yahoo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/Scams/comments/145eq3r/yahoo_data_breach_settlement/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1b3rvfo/how_has_yahoo_survived_all_these_years/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/fr-be/contactus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nz.seek.com/copy-editor-jobs/in-Christchurch-Canterbury",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://stephaniecullenediting.com/home",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nz.jooble.org/jobs-copy-editor/Christchurch,-Canterbury",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.truelancer.com/copy-editing-freelancers-in-christchurch",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.bingweeklyquiz.com/bing-homepage-quiz/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/BingHomepageQuiz/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/BingQuizAnswers/hot/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/MicrosoftRewards/comments/r9ag3r/bing_homepage_quiz/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Brightpick 日本 導入",
+   "results": [
+    "https://www.beachfrontinn.com/",
+    "https://www.beachfrontinn.com/rooms",
+    "https://www.beachfrontinn.com/specials",
+    "https://www.beachfrontinn.com/amenities",
+    "https://www.beachfrontinn.com/about",
+    "https://www.beachfrontinn.com/gallery",
+    "https://www.beachfrontinn.com/pet-friendly",
+    "https://www.beachfrontinn.com/location-contact",
+    "https://www.beachfrontinn.com/specials/summer-sale",
+    "https://www.beachfrontinn.com/specials/bfcm"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Brightpick 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://lamar.houstonisd.org/our-family-students/school-event-calendar",
+    "https://hs.lamarschools.org/apps/events/index.jsp?id=0",
+    "https://hs.lamarschools.org/",
+    "https://lamarschools.org/apps/news/show_news.jsp?REC_ID=846065&id=0",
+    "https://www.aisd.net/lamar-high-school/activities/calendar/",
+    "https://lhs.dcsdschools.org/about-us/calendar",
+    "https://www.instagram.com/p/DGyVSPYORDP/",
+    "https://www.lamarschools.org/apps/events/event.jsp?eREC_ID=3922706&d=2023-04-15&id=0",
+    "https://www.lamarschool.com/student-life/school-calendar",
+    "https://www.instagram.com/p/DPkg6tugHve/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Brightpick Japan",
+   "results": [
+    "https://www.yahoo.com/",
+    "https://www.reddit.com/r/FFCommish/comments/3n54yt/push_trade_through_on_yahoo/",
+    "https://www.reddit.com/r/Scams/comments/145eq3r/yahoo_data_breach_settlement/",
+    "https://www.reddit.com/r/NoStupidQuestions/comments/1b3rvfo/how_has_yahoo_survived_all_these_years/",
+    "https://www.reddit.com/r/90s/comments/ztyn6q/do_you_remember_playing_on_yahoo_games/",
+    "https://www.reddit.com/r/datarecovery/comments/1bobhvv/cannot_recover_deleted_yahoo_emails/",
+    "https://www.reddit.com/r/YahooFantasy/comments/ck1bmc/is_there_a_way_to_set_the_draft_order_manually/",
+    "https://www.reddit.com/r/chrome/comments/j3wn3w/chrome_has_defaulted_all_searches_to_yahoo_help/",
+    "https://www.reddit.com/r/chrome/comments/15kyyrl/pc_chrome_google_chrome_keeps_changing_to_yahoo/",
+    "https://www.reddit.com/r/fantasyfootball/comments/m9304/yahoos_trading_rules_are_confusing_me_help/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Brightpick manufacturing customer case study",
+   "results": [
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/fr-be/contactus/",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://support.microsoft.com/es-ar/contactus/",
+    "https://support.microsoft.com/en-us/edge/",
+    "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/new-microsoft-certified-azure-ai-apps-and-agents-developer-associate/4494126"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Brightpick white label OR reseller OR partner program",
+   "results": [
+    "https://nz.seek.com/copy-editor-jobs/in-Christchurch-Canterbury",
+    "https://stephaniecullenediting.com/home",
+    "https://nz.jooble.org/jobs-copy-editor/Christchurch,-Canterbury",
+    "https://www.truelancer.com/copy-editing-freelancers-in-christchurch",
+    "https://www.starofservice.co.nz/dir/canterbury/christchurch/christchurch/editing",
+    "https://nz.jooble.org/jobs-copy-editor",
+    "https://www.truelancer.com/editing-freelancers-in-christchurch",
+    "https://answers.microsoft.com/?dg=microsoft.public.office.developer.com.add_ins&tid=a2b03383-8be8-40b8-98b2-192a3192f888&cat=en_US_fd2c131b-df16-48e2-99f7-c5bc7172f2d7&lang=en&cr=US",
+    "https://answers.microsoft.com/en-us/feedback/forum/all/mass-spam-reports-august-19-25-2019/c86e32b7-dcc7-4db4-beb7-a901bc57e18e",
+    "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã¢â‚¬Å“ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡/55dd8522-1caa-4ae4-80b4-3d0fe4944f22"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 27
+  },
+  {
+   "query": "Brightpick founded funding employees revenue",
+   "results": [
+    "http://www.bingweeklyquiz.com/bing-homepage-quiz/",
+    "https://www.reddit.com/r/BingHomepageQuiz/about/",
+    "https://www.reddit.com/r/BingQuizAnswers/hot/",
+    "https://www.reddit.com/r/MicrosoftRewards/comments/r9ag3r/bing_homepage_quiz/",
+    "https://www.reddit.com/r/MicrosoftRewards/comments/13h8rgb/bing_homepage_quiz_for_sunday_14_may_2023/",
+    "https://www.reddit.com/r/MicrosoftRewards/comments/r8qjk5/bing_homepage_quiz/",
+    "https://www.reddit.com/r/EveryDayBingQuiz/about/",
+    "https://www.reddit.com/r/BingHomepageQuiz/comments/z5c3mr/us_microsoft_rewards_bing_homepage_quiz_11262022/",
+    "https://www.reddit.com/r/MicrosoftRewards/comments/1c3iarz/bing_homepage_quiz_not_working/",
+    "https://www.reddit.com/r/MicrosoftRewards/comments/r8i6lc/bing_homepage_quiz_task_not_triggering/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "site:note.com Brightpick",
+   "results": [
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/",
+    "https://account.microsoft.com/account-checkup",
+    "https://myaccount.microsoft.com/login",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://www.microsoft.com/en-us/",
+    "https://account.microsoft.com/account",
+    "https://myaccount.microsoft.com/",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://mysignins.microsoft.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Brightpick",
+   "results": [
+    "https://www.amazon.com/humidifier-1200-square-feet/s?k=humidifier+for+1200+square+feet",
+    "https://www.amazon.com/Whole-House-Humidifiers-Humidifier-Humidistat-Industrial/dp/B0BB2BTGB3",
+    "https://appliancemind.com/best-humidifiers-for-1200-square-feet/",
+    "https://purelivinggear.com/best-humidifiers-for-1200-square-feet/",
+    "https://www.homedepot.com/b/Heating-Venting-Cooling-Humidifiers/Large-Greater-than-1000-sq-ft/N-5yc1vZc4lvZ1z0u4i9",
+    "https://qualityhomeaircare.com/best-1200-sq-ft-humidifier/",
+    "https://buildbetterhome.org/best-1200-sq-ft-humidifier/",
+    "https://www.homedepot.com/p/AIRCARE-TOWER-2-Gal-Cool-Mist-Evaporative-Whole-House-Humidifier-for-1-200-sq-ft-Titanium-D46-720/202621612",
+    "https://hoomerly.com/best-humidifiers-for-1200-square-feet/",
+    "https://www.bobvila.com/reviews/best-humidifiers-for-large-rooms/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "site:linkedin.com Brightpick",
+   "results": [
+    "https://www.skynewsarabia.com/breaking-news-الأخبار-العاجلة",
+    "https://www.alarabiya.net/arab-and-world",
+    "https://news-ajel.com/ar",
+    "https://news.google.com/?hl=ar&ceid=SA:ar",
+    "https://www.aljazeera.net/",
+    "https://news.google.com/?hl=ar",
+    "https://www.skynewsarabia.com/",
+    "https://www.alarabiya.net/",
+    "https://www.bbc.com/arabic",
+    "https://www.aljazeera.net/news/breaking"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Brightpick",
+   "results": [
+    "https://hindi.news24online.com/",
+    "https://www.jansatta.com/latest-news/",
+    "https://hindi.news18.com/news/",
+    "https://hindi.news18.com/",
+    "https://www.bbc.com/hindi",
+    "https://www.aajtak.in/",
+    "https://hindi.news24online.com/latest-news/",
+    "https://www.jansatta.com/",
+    "https://www.jagran.com/",
+    "https://www.indiatv.in/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Brightpick note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Willis_Tower",
+    "https://www.willistower.com/experience",
+    "https://www.willistower.com/",
+    "https://theskydeck.com/plan-a-visit/",
+    "https://theskydeck.com/",
+    "https://www.britannica.com/topic/Willis-Tower",
+    "https://illustrarch.com/articles/78300-willis-tower-chicago.html",
+    "https://buildingsdb.com/IL/chicago/willis-tower/",
+    "https://museumsexplorer.com/willis-tower/",
+    "https://www.architecture.org/online-resources/buildings-of-chicago/willis-tower"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Brightpick X 投稿",
+   "results": [
+    "https://learn.microsoft.com/en-us/answers/questions/5720314/******@e-mails-microsoft-com",
+    "https://learn.microsoft.com/en-us/troubleshoot/azure/general/email-domains-support-agent",
+    "https://learn.microsoft.com/en-us/answers/questions/2345507/is-this-email-a-scam",
+    "https://learn.microsoft.com/en-us/answers/questions/1277206/is-microsoft-noreply@microsoft-com-is-a-legit-emai",
+    "https://learn.microsoft.com/en-us/answers/questions/4650193/is-this-email-a-legitimate-one",
+    "https://learn.microsoft.com/en-us/answers/questions/4149790/email-from-microsoft",
+    "https://learn.microsoft.com/en-us/troubleshoot/azure/general/welcome-general",
+    "https://learn.microsoft.com/en-us/answers/questions/1337083/is-******@email-microsoft-com-legit-email",
+    "https://learn.microsoft.com/en-us/answers/questions/1376401/is-******@e-mail-microsoft-com-legit-email-address",
+    "https://learn.microsoft.com/en-us/answers/questions/5531340/is-this-a-legitimate-e-mail-from-microsoft"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

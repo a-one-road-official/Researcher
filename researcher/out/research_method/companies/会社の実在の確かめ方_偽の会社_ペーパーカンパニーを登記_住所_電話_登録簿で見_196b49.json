@@ -8,18 +8,13 @@
  ],
  "context": "会社の確かめ",
  "kind": "market",
- "researched_at": "2026-11-09T09:59:32.407472+00:00",
+ "researched_at": "2026-11-11T02:09:24.047816+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/tyousachuo/n/n2a9acfee3ed1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/high_city/n/n5a6c0a20116b",
+    "url": "https://note.com/konosho/n/n4464324f7443",
     "status": "ok",
     "method": "http"
    },
@@ -29,44 +24,24 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/akomaru_cos/n/n65146d167457",
+    "url": "https://note.com/joyous_swift3677/n/n2739f5209b6b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/joshima_s/n/nf7b375482338",
+    "url": "https://note.com/trex_ai/n/na01d10327073",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/high_city/n/nc599b930874f",
+    "url": "https://note.com/joshima_s/n/n1adfe91dd30e",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/konosho/n/n4464324f7443",
+    "url": "https://note.com/mizu_no_ke/n/ne6550ed94b2c",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://note.com/tag/%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E5%85%AC%E8%A1%A8%E3%82%B5%E3%82%A4%E3%83%88",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/yusukemori_ravi/n/nec7aa3f95388",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://lawplayer.com/jp/company/8120001201354",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.help-note.com/hc/ja/articles/8118454302745-note-pro%E6%B3%95%E4%BA%BA%E5%90%91%E3%81%91-%E8%AA%8D%E8%A8%BC%E3%83%9E%E3%83%BC%E3%82%AF%E3%81%AE%E7%94%B3%E8%AB%8B",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://www.g-search.or.jp/column/compliance/company-realitycheck/",
@@ -74,57 +49,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.houjin-bangou.nta.go.jp/",
+    "url": "https://shokubalog.com/articles/kaisha-jitsuzai-tosan-kakunin",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://biz.trustdock.io/column/houjin3point",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ekyc.nexway.co.jp/blog/62",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://kawashima-kaigo.jp/q012-kaisha-jitsuzai/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://maonline.jp/articles/houjin-number",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.yumesolar.jp/column/trustworthy-company/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.riskeyes.jp/hansha-check-column/21",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://corporate.ai-con.lawyer/articles/corporate-legal/3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ekyc.nexway.co.jp/blog/75",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://biz.moneyforward.com/establish/basic/88844/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.fam-overseas.com/ja/casestudies/case-japan-corporate-registry-check/",
+    "url": "https://mekiki-mansion.com/2026/10/03/verify-sales-company-identity/",
     "status": "ok",
     "method": "http"
    },
@@ -134,34 +64,59 @@
     "method": "http"
    },
    {
-    "url": "https://www.sigma360.com/how-to-identify-a-shell-company-and-the-associated-red-flags/",
+    "url": "https://stellamano.jp/guide/overseas-company-research/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://gijn.org/stories/tracking-shell-companies-secret-owners/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.flagright.com/post/the-role-of-shell-companies-in-money-laundering",
+    "url": "https://shokubalog.com/articles/kaisha-kensakushitemodetekonai",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ondato.com/blog/shell-companies/",
+    "url": "https://catalog.monex.co.jp/article/?p=49892",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://gfintegrity.org/issue/anonymous-shell-companies/",
+    "url": "https://www.fam-overseas.com/ja/casestudies/case-japan-corporate-registry-check/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.fincen.gov/system/files/shared/LLCAssessment_FINAL.pdf",
+    "url": "https://www.g-search.or.jp/column/compliance/company-check/",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
+   },
+   {
+    "url": "https://fedlaws.org/how-to-verify-a-business-is-real-records-licenses-and-filings/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docurensic.com/blog/how-to-verify-a-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://veridion.com/insights/articles/verifying-company-status-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enigma.com/resources/knowledge/shell-company-detection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companydata.com/company-register/usa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entitycodes.org/guides/how-to-verify-a-business/",
+    "status": "ok",
+    "method": "http"
    }
   ]
  },
@@ -169,95 +124,145 @@
   {
    "query": "会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125） site:note.com",
    "results": [
-    "https://note.com/tyousachuo/n/n2a9acfee3ed1",
-    "https://note.com/high_city/n/n5a6c0a20116b",
+    "https://note.com/konosho/n/n4464324f7443",
     "https://note.com/alarmbox/n/n691d597160ae",
-    "https://note.com/akomaru_cos/n/n65146d167457",
-    "https://note.com/joshima_s/n/nf7b375482338",
-    "https://note.com/high_city/n/nc599b930874f",
-    "https://note.com/alarmbox/n/nac3c7540da35",
-    "https://note.com/_soutao/n/nea20e9c16e9e",
-    "https://note.com/alarmbox/n/n6ad3ae076ade",
-    "https://note.com/uehara_kaikei/n/nc8177bd82e96"
+    "https://note.com/joyous_swift3677/n/n2739f5209b6b",
+    "https://note.com/trex_ai/n/na01d10327073",
+    "https://note.com/joshima_s/n/n1adfe91dd30e",
+    "https://note.com/mizu_no_ke/n/ne6550ed94b2c",
+    "https://note.com/tyousachuo/n/n2a9acfee3ed1"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125） note",
    "results": [
     "https://note.com/konosho/n/n4464324f7443",
-    "https://note.com/tag/%E6%B3%95%E4%BA%BA%E7%95%AA%E5%8F%B7%E5%85%AC%E8%A1%A8%E3%82%B5%E3%82%A4%E3%83%88",
-    "https://note.com/yusukemori_ravi/n/nec7aa3f95388",
-    "https://note.com/tyousachuo/n/n2a9acfee3ed1",
-    "https://lawplayer.com/jp/company/8120001201354",
-    "https://www.help-note.com/hc/ja/articles/8118454302745-note-pro%E6%B3%95%E4%BA%BA%E5%90%91%E3%81%91-%E8%AA%8D%E8%A8%BC%E3%83%9E%E3%83%BC%E3%82%AF%E3%81%AE%E7%94%B3%E8%AB%8B",
     "https://www.g-search.or.jp/column/compliance/company-realitycheck/",
-    "https://www.facebook.com/kycc.co.jp/posts/note%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%8F%8D%E7%A4%BE%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%84%E3%83%BC%E3%83%AB%E8%87%AA%E7%A4%BE%E3%81%AB%E5%90%88%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%AF%E3%81%A9%E3%81%A3%E3%81%A1%E5%8F%8D%E7%A4%BE%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%82%92%E5%8A%B9%E7%8E%87%E5%8C%96%E3%81%97%E3%81%9F%E3%81%84%E3%81%91%E3%82%8C%E3%81%A9%E3%81%A9%E3%81%AE%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E9%81%B8%E3%81%B9%E3%81%B0%E3%81%84%E3%81%84%E3%81%8B%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84%E3%81%A8%E3%81%8A%E6%82%A9%E3%81%BF%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%97%E3%83%A9%E6%B3%95%E5%8B%99%E6%8B%85%E5%BD%93%E8%80%85/1877302774400041/",
-    "https://note.jp/n/naf3775e93a58",
-    "https://shokubalog.com/articles/kaisha-jitsuzai-tosan-kakunin"
+    "https://shokubalog.com/articles/kaisha-jitsuzai-tosan-kakunin",
+    "https://mekiki-mansion.com/2026/10/03/verify-sales-company-identity/",
+    "https://mylena-tantei.com/verification-of-the-existence-of-business-partners/",
+    "https://stellamano.jp/guide/overseas-company-research/",
+    "https://shokubalog.com/articles/kaisha-kensakushitemodetekonai",
+    "https://tanchihack.com/jistuzai-kaisha-shiraberu/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing",
+    "ddgs:google"
    ],
-   "n_hits": 14
+   "n_hits": 8
   },
   {
    "query": "会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125） やり方",
    "results": [
-    "https://www.houjin-bangou.nta.go.jp/",
-    "https://www.youtube.com/watch?v=EiPc_g4he2g",
+    "https://catalog.monex.co.jp/article/?p=49892",
     "https://www.g-search.or.jp/column/compliance/company-realitycheck/",
-    "https://biz.trustdock.io/column/houjin3point",
-    "https://ekyc.nexway.co.jp/blog/62",
-    "https://kawashima-kaigo.jp/q012-kaisha-jitsuzai/",
-    "https://maonline.jp/articles/houjin-number",
-    "https://www.yumesolar.jp/column/trustworthy-company/",
-    "https://creww.me/media/factoring/gyosha-kakunin/",
-    "https://shokubalog.com/articles/kaisha-jitsuzai-tosan-kakunin"
+    "https://shokubalog.com/articles/kaisha-jitsuzai-tosan-kakunin",
+    "https://mylena-tantei.com/verification-of-the-existence-of-business-partners/",
+    "https://mekiki-mansion.com/2026/10/03/verify-sales-company-identity/",
+    "https://shokubalog.com/articles/kaisha-kensakushitemodetekonai",
+    "https://stellamano.jp/guide/overseas-company-research/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125） 事例",
    "results": [
-    "https://biz.trustdock.io/column/houjin3point",
+    "https://www.fam-overseas.com/ja/casestudies/case-japan-corporate-registry-check/",
     "https://www.g-search.or.jp/column/compliance/company-realitycheck/",
-    "https://maonline.jp/articles/houjin-number",
-    "https://www.riskeyes.jp/hansha-check-column/21",
-    "https://www.yumesolar.jp/column/trustworthy-company/",
-    "https://corporate.ai-con.lawyer/articles/corporate-legal/3",
-    "https://www.youtube.com/watch?v=EiPc_g4he2g",
-    "https://ekyc.nexway.co.jp/blog/75",
-    "https://biz.moneyforward.com/establish/basic/88844/",
-    "https://www.fam-overseas.com/ja/casestudies/case-japan-corporate-registry-check/"
+    "https://mylena-tantei.com/verification-of-the-existence-of-business-partners/",
+    "https://shokubalog.com/articles/kaisha-jitsuzai-tosan-kakunin",
+    "https://mekiki-mansion.com/2026/10/03/verify-sales-company-identity/",
+    "https://stellamano.jp/guide/overseas-company-research/",
+    "https://www.g-search.or.jp/column/compliance/company-check/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "verify company exists ghost firm shell company investigative journalism registry address checks",
    "results": [
-    "https://www.sigma360.com/how-to-identify-a-shell-company-and-the-associated-red-flags/",
-    "https://www.youtube.com/watch?v=P4gqA9Lo68Y",
-    "https://gijn.org/stories/tracking-shell-companies-secret-owners/",
-    "https://www.flagright.com/post/the-role-of-shell-companies-in-money-laundering",
-    "https://ondato.com/blog/shell-companies/",
-    "https://gfintegrity.org/issue/anonymous-shell-companies/",
-    "https://www.fincen.gov/system/files/shared/LLCAssessment_FINAL.pdf",
-    "https://www.qcckyc.com/blog-detail/shell-company-detection",
-    "https://corpgov.law.harvard.edu/2021/02/04/the-end-of-the-anonymous-shell-company-in-the-united-states/"
+    "https://fedlaws.org/how-to-verify-a-business-is-real-records-licenses-and-filings/",
+    "https://docurensic.com/blog/how-to-verify-a-company",
+    "https://veridion.com/insights/articles/verifying-company-status-us",
+    "https://www.enigma.com/resources/knowledge/shell-company-detection",
+    "https://companydata.com/company-register/usa/",
+    "https://entitycodes.org/guides/how-to-verify-a-business/",
+    "https://www.sigma360.com/how-to-identify-a-shell-company-and-the-associated-red-flags/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125）",
+   "results": [
+    "https://biz.note.com/n/ne6a1264eb028",
+    "https://note.com/konosho/n/n4464324f7443",
+    "https://note.com/joyous_swift3677/n/n2739f5209b6b",
+    "https://note.com/alarmbox/n/n691d597160ae",
+    "https://note.com/tyousachuo/n/n2a9acfee3ed1",
+    "https://note.com/joshima_s/n/n1adfe91dd30e",
+    "https://note.com/trex_ai/n/na01d10327073"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125）",
+   "results": [
+    "https://x.com/sgk_1114/status/2118191580498862387",
+    "https://x.com/y__fixer/status/2120158359706128402",
+    "https://x.com/sakibarai_navi/status/2076905416282476981",
+    "https://x.com/xb_bittensor/status/2118237021416386670",
+    "https://x.com/Charlie_no_site/article/2109753090828345521",
+    "https://x.com/masashiigarashi/status/2110390181148893379",
+    "https://x.com/KP_kansahoumu/status/2020801153756532826"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125）",
+   "results": [
+    "https://es.linkedin.com/in/robin-mooldijk",
+    "https://in.linkedin.com/in/nisa-sehr",
+    "https://jp.linkedin.com/posts/shiromegane_評価のされ方に納得できなくて転職するなら-次の会社の評価の仕組みを面接で聞く-activity-7525520134392664064-xqXs",
+    "https://jp.linkedin.com/posts/紀行-下津-a464ab418_第11回会社に入って最初に確かめたいこと-もし私が新しい会社に経営に-activity-7495403102360047616-UOQ-",
+    "https://www.linkedin.com/posts/hiroaki-mori-05406940_広告の取引条件を書く主体が媒体や買い付け用システムに加えて広告主自身の代理人にまで-activity-7520635554514812928-WnuG",
+    "https://www.linkedin.com/pulse/aiで守る側も強くなる中小企業のためのセキュリティツールの選び方-淳-上野-dwo5c/",
+    "https://de.linkedin.com/in/maximilian-bigelmayr-aaa580196"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125）",
+   "results": [
+    "https://www.facebook.com/goldcompass79/posts/gold-compass-knowledge-libraryvolume-100%E9%87%91%E3%81%AE%E8%A9%90%E6%AC%BA%E5%81%BD%E3%82%B5%E3%82%A4%E3%83%88%E3%81%8B%E3%82%89%E8%BA%AB%E3%82%92%E5%AE%88%E3%82%8B%E3%81%AB%E3%81%AF%E4%BD%95%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B%E7%9B%B8%E6%89%8B%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%81%8B%E3%82%89%E9%9B%A2%E3%82%8C%E5%88%A5%E3%81%AE%E5%85%AC%E5%BC%8F%E7%B5%8C%E8%B7%AF%E3%81%A7/122130751107395150/",
+    "https://www.facebook.com/secom.jp/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E6%9C%80%E8%BF%91%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%99%E3%81%BE%E3%81%97%E3%81%9F%E8%A9%90%E6%AC%BA%E6%89%8B%E5%8F%A3%E3%81%AE%E6%B3%A8%E6%84%8F%E5%96%9A%E8%B5%B7%E6%83%85%E5%A0%B1%E3%82%92%E3%82%88%E3%81%8F%E7%9B%AE%E3%81%AB%E3%81%97%E3%81%BE%E3%81%99%E3%81%94%E6%B3%A8%E6%84%8F%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AA%E3%82%8A%E3%81%99%E3%81%BE%E3%81%97%E3%81%AE%E6%89%8B%E5%8F%A3%E3%81%AF%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%84sms%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8/2768584996536443/",
+    "https://www.facebook.com/ntvnews24/videos/%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E3%83%83%E4%BA%8C%E6%AE%B5%E9%9A%8E%E5%BC%8F%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%BC%E3%83%AB%E5%A2%97%E5%8A%A0-%E9%80%81%E4%BF%A1%E5%85%83%E3%82%92%E8%87%AA%E7%A4%BE%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%81%AB%E5%81%BD%E8%A3%85%E3%82%82-%E6%96%B0%E3%81%9F%E3%81%AA%E6%89%8B%E5%8F%A3%E7%B6%9A%E3%80%85%E5%AF%BE%E7%AD%96%E3%81%AF-news-every%E3%81%AE%E6%A3%AE%E5%9C%AD%E4%BB%8B%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%8C%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AE%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E6%83%85%E5%A0%B1%E3%82%92%E3%81%8A/886586277820530/",
+    "https://www.facebook.com/secom.jp/photos/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF050%E3%81%8B%E3%82%89%E5%A7%8B%E3%81%BE%E3%82%8B%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7%E3%81%A7%E3%81%AE%E3%83%AF%E3%83%B3%E5%88%87%E3%82%8A%E3%81%AB%E3%81%94%E6%B3%A8%E6%84%8F%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E6%B6%88%E8%B2%BB%E8%80%85%E5%BA%81%E3%81%8C%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B%E4%BC%9A%E7%A4%BE%E3%81%AB%E4%BC%BC%E3%81%9F%E7%A4%BE%E5%90%8D%E3%81%A7%E6%9E%B6%E7%A9%BA%E8%AB%8B%E6%B1%82%E8%A9%90%E6%AC%BA%E3%82%92%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E6%89%8B%E5%8F%A3%E3%81%A8%E3%81%97%E3%81%A6%E6%B3%A8%E6%84%8F%E3%82%92%E5%91%BC%E3%81%B3%E6%8E%9B%E3%81%91%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99050%E3%81%8B/1520952897966332/",
+    "https://www.facebook.com/intcorpratkk/videos/%E8%A9%90%E6%AC%BA%E3%83%A1%E3%83%BC%E3%83%AB/4497366567250296/",
+    "https://www.facebook.com/kumashoko/posts/%E5%A4%A7%E4%BA%BA%E6%B0%97%E8%AC%9B%E5%B8%AB%E3%81%AE%E9%BB%92%E6%9C%A8%E7%BE%8E%E7%94%B1%E7%B4%80%E6%B0%8F%E3%81%AB%E3%82%88%E3%82%8Bbreak%E7%94%9F%E6%88%90ai-de-%E4%BA%8B%E6%A5%AD%E9%9D%A9%E5%91%BD-play-is-over-in-winter%E9%96%8B%E5%82%AC%E5%90%88%E8%A8%80%E8%91%89%E3%82%92%E7%94%9F%E6%88%90ai%E3%81%A8%E5%85%B1%E5%89%B5%E3%81%B8-%E7%8F%BE%E5%A0%B4%E3%81%AE%E7%9F%A5%E6%81%B5%E3%82%92%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95/1522015883302046/",
+    "https://www.facebook.com/kagoshimacity.kouhou/posts/%E3%81%8A%E7%B1%B3%E3%81%AE%E8%A9%90%E6%AC%BA%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%94%E6%B3%A8%E6%84%8F%EF%B8%8F%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B%E4%BA%8B%E6%A5%AD%E8%80%85%E3%82%92%E8%A3%85%E3%81%A3%E3%81%9F%E3%81%8A%E7%B1%B3%E3%81%AE%E8%A9%90%E6%AC%BA%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E7%9B%B8%E8%AB%87%E3%81%8C%E5%AF%84%E3%81%9B%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%9C%80%E5%A4%A740%E5%89%B2%E5%BC%95%E3%81%AA%E3%81%A9%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E5%BA%83%E5%91%8A%E3%81%8B%E3%82%89%E6%B3%A8%E6%96%87%E3%81%97%E3%81%9F%E3%81%8C%E5%95%86%E5%93%81%E3%81%8C%E5%B1%8A%E3%81%8B%E3%81%AA%E3%81%84%E6%94%B9%E3%82%81%E3%81%A6%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E3%81%A8/1022330116656147/",
+    "https://www.facebook.com/satoshi.kishimoto1/posts/11%E6%9C%88%E3%81%AE%E7%99%BA%E6%B3%A8%E5%89%8D%E3%81%AB%E5%8F%96%E5%BC%95%E5%85%88%E3%81%B8%E3%81%AE%E3%81%97%E3%82%8F%E5%AF%84%E3%81%9B%E3%82%92%E7%82%B9%E6%A4%9C%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81%E3%81%8C10%E6%9C%8830%E6%97%A511%E6%9C%88%E3%81%AE%E3%81%97%E3%82%8F%E5%AF%84%E3%81%9B%E9%98%B2%E6%AD%A2%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E3%82%92%E5%85%AC%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%8E%A1%E7%94%A8%E5%B0%82%E7%94%A8%E3%81%AE%E5%88%B6%E5%BA%A6%E3%81%A7%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8C%E6%8E%A1%E7%94%A8%E5%8F%97%E5%85%A5%E3%82%8C%E6%BA%96%E5%82%99/10246171700089581/",
+    "https://www.facebook.com/matsuo.akihito/posts/%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E3%81%AE%E8%91%97%E6%9B%B8%E3%81%AB%E6%9E%B6%E7%A9%BA%E3%81%AE%E5%88%A4%E4%BE%8Bai%E3%81%AE%E5%9B%9E%E7%AD%94%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%9B%E3%81%9A%E6%8E%A1%E7%94%A8%E7%B5%B6%E7%89%88%E5%9B%9E%E5%8F%8E%E3%81%B8%E4%BB%8A%E6%97%A510%E6%9C%8812%E6%97%A5yahoo%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%9F%E6%AF%8E%E6%97%A5%E6%96%B0%E8%81%9E%E3%81%AE%EF%BC%99%E6%97%A5%E4%BB%98%E8%A8%98%E4%BA%8B%E3%82%92%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E3%81%8C%E6%9B%B8%E3%81%84%E3%81%9F%E6%B2%96%E7%B8%84%E6%88%A6/28798782686408558/"
    ],
    "engines": [
     "yahoo_jp"
@@ -265,125 +270,45 @@
    "n_hits": 9
   },
   {
-   "query": "site:note.com 会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125）",
-   "results": [
-    "https://note.com/tyousachuo/n/n2a9acfee3ed1",
-    "https://note.com/akomaru_cos/n/n65146d167457",
-    "https://note.com/high_city/n/n167fb1c1f4ca",
-    "https://note.com/_soutao/n/nea20e9c16e9e",
-    "https://note.com/uehara_kaikei/n/nc8177bd82e96",
-    "https://note.com/takayuki_sase/n/n5691eec1bfe7",
-    "https://note.com/replus_ad/n/n1d0efb7e0e74",
-    "https://note.com/joshima_s/n/n43f448960fcd",
-    "https://note.com/s_line/n/nc621590e2063",
-    "https://note.com/bizpla_keiei/n/n57266fc94efa"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
-  },
-  {
-   "query": "site:x.com 会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125）",
-   "results": [
-    "https://x.com/kochi_police/status/2118622001418088628",
-    "https://x.com/NakajimaKaichi/status/2119059041741951469",
-    "https://x.com/sugawara11/status/2056306299772571933",
-    "https://x.com/tks/status/2110904600597578078",
-    "https://x.com/ktknd/article/2103345450824917337",
-    "https://x.com/cospa_inc/status/2113543550067687741",
-    "https://x.com/PokeParkKANTOjp/status/1965248800680722706",
-    "https://x.com/zakiryo1533/status/2113042814552752433",
-    "https://x.com/MakeAI_CEO/article/2080166594915742012",
-    "https://x.com/BIOT_jp/status/2103922566914301961"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "site:linkedin.com 会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125）",
-   "results": [
-    "https://jp.linkedin.com/pulse/your-screening-passing-people-who-dont-exist-veremark-hij0c?tl=ja",
-    "https://jp.linkedin.com/pulse/ai-reality-check-212-where-value-created-stefan-petzov-zjyfc?tl=ja",
-    "https://jp.linkedin.com/pulse/when-ai-sees-what-your-procurement-team-cant-andrew-zhyvolovych-0ixpf?tl=ja",
-    "https://jp.linkedin.com/pulse/great-gtm-reality-check-2025-whats-actually-working-vs-stefan-repin-drrde?tl=ja",
-    "https://jp.linkedin.com/posts/jnmatsumoto_linkedin%E3%81%AB%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%8C%E3%81%AA%E3%81%84%E4%BA%BA%E3%81%AF%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E4%B8%8A%E3%81%A7%E5%AD%98%E5%9C%A8%E3%81%97%E3%81%AA%E3%81%84%E3%81%AE%E3%82%82%E5%90%8C%E3%81%98%E3%81%93%E3%82%8C%E3%81%AF%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%8F-activity-7427968965836029952-kNRh",
-    "https://jp.linkedin.com/pulse/polished-perspective-cultivating-confidence-clarity-purnell-jr--m9nqe?tl=ja",
-    "https://jp.linkedin.com/company/visasq-inc",
-    "https://jp.linkedin.com/pulse/how-avoid-sounding-like-every-other-company-your-industry-vicki-young-qui4e?tl=ja",
-    "https://jp.linkedin.com/pulse/why-you-should-regularly-review-your-linkedin-profile-haurey-jr--zr7pe?tl=ja",
-    "https://lc.linkedin.com/company/758-vacancies"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "site:facebook.com 会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125）",
-   "results": [
-    "https://www.facebook.com/goldcompass79/posts/gold-compass-knowledge-libraryvolume-100%E9%87%91%E3%81%AE%E8%A9%90%E6%AC%BA%E5%81%BD%E3%82%B5%E3%82%A4%E3%83%88%E3%81%8B%E3%82%89%E8%BA%AB%E3%82%92%E5%AE%88%E3%82%8B%E3%81%AB%E3%81%AF%E4%BD%95%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B%E7%9B%B8%E6%89%8B%E3%81%AE%E8%A1%A8%E7%A4%BA%E3%81%8B%E3%82%89%E9%9B%A2%E3%82%8C%E5%88%A5%E3%81%AE%E5%85%AC%E5%BC%8F%E7%B5%8C%E8%B7%AF%E3%81%A7/122130751107395150/",
-    "https://www.facebook.com/secom.jp/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E6%9C%80%E8%BF%91%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%99%E3%81%BE%E3%81%97%E3%81%9F%E8%A9%90%E6%AC%BA%E6%89%8B%E5%8F%A3%E3%81%AE%E6%B3%A8%E6%84%8F%E5%96%9A%E8%B5%B7%E6%83%85%E5%A0%B1%E3%82%92%E3%82%88%E3%81%8F%E7%9B%AE%E3%81%AB%E3%81%97%E3%81%BE%E3%81%99%E3%81%94%E6%B3%A8%E6%84%8F%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AA%E3%82%8A%E3%81%99%E3%81%BE%E3%81%97%E3%81%AE%E6%89%8B%E5%8F%A3%E3%81%AF%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%84sms%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8/2768584996536443/",
-    "https://www.facebook.com/ntvnews24/videos/%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%A9%E3%83%83%E4%BA%8C%E6%AE%B5%E9%9A%8E%E5%BC%8F%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%BC%E3%83%AB%E5%A2%97%E5%8A%A0-%E9%80%81%E4%BF%A1%E5%85%83%E3%82%92%E8%87%AA%E7%A4%BE%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%81%AB%E5%81%BD%E8%A3%85%E3%82%82-%E6%96%B0%E3%81%9F%E3%81%AA%E6%89%8B%E5%8F%A3%E7%B6%9A%E3%80%85%E5%AF%BE%E7%AD%96%E3%81%AFnews-every%E3%81%AE%E6%A3%AE%E5%9C%AD%E4%BB%8B%E3%82%AD%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%8C%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AE%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E6%83%85%E5%A0%B1%E3%82%92%E3%81%8A%E4%BC%9D/886586277820530/",
-    "https://www.facebook.com/intcorpratkk/videos/%E8%A9%90%E6%AC%BA%E3%83%A1%E3%83%BC%E3%83%AB/4497366567250296/",
-    "https://www.facebook.com/secom.jp/photos/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF050%E3%81%8B%E3%82%89%E5%A7%8B%E3%81%BE%E3%82%8B%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7%E3%81%A7%E3%81%AE%E3%83%AF%E3%83%B3%E5%88%87%E3%82%8A%E3%81%AB%E3%81%94%E6%B3%A8%E6%84%8F%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E6%B6%88%E8%B2%BB%E8%80%85%E5%BA%81%E3%81%8C%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B%E4%BC%9A%E7%A4%BE%E3%81%AB%E4%BC%BC%E3%81%9F%E7%A4%BE%E5%90%8D%E3%81%A7%E6%9E%B6%E7%A9%BA%E8%AB%8B%E6%B1%82%E8%A9%90%E6%AC%BA%E3%82%92%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E6%89%8B%E5%8F%A3%E3%81%A8%E3%81%97%E3%81%A6%E6%B3%A8%E6%84%8F%E3%82%92%E5%91%BC%E3%81%B3%E6%8E%9B%E3%81%91%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99050%E3%81%8B/1520952897966332/",
-    "https://www.facebook.com/3rgroup.jp/posts/%E5%BD%93%E7%A4%BE%E3%82%92%E5%90%8D%E4%B9%97%E3%82%8B%E8%A9%90%E6%AC%BA%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%94%E6%B3%A8%E6%84%8F%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%B9%B3%E7%B4%A0%E3%82%88%E3%82%8A%E5%BD%93%E7%A4%BEec%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%81%94%E5%88%A9%E7%94%A8%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E8%AA%A0%E3%81%AB%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E3%81%9F%E3%81%B3%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%AB%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%92%E8%A3%85%E3%81%A3%E3%81%9F%E8%A9%90%E6%AC%BA%E3%82%B5%E3%82%A4%E3%83%88%E6%A8%AA%E6%B5%9C%E9%AB%98/3237179126349067/",
-    "https://www.facebook.com/kumashoko/posts/%E5%A4%A7%E4%BA%BA%E6%B0%97%E8%AC%9B%E5%B8%AB%E3%81%AE%E9%BB%92%E6%9C%A8%E7%BE%8E%E7%94%B1%E7%B4%80%E6%B0%8F%E3%81%AB%E3%82%88%E3%82%8Bbreak%E7%94%9F%E6%88%90ai-de-%E4%BA%8B%E6%A5%AD%E9%9D%A9%E5%91%BD-play-is-over-in-winter%E9%96%8B%E5%82%AC%E5%90%88%E8%A8%80%E8%91%89%E3%82%92%E7%94%9F%E6%88%90ai%E3%81%A8%E5%85%B1%E5%89%B5%E3%81%B8-%E7%8F%BE%E5%A0%B4%E3%81%AE%E7%9F%A5%E6%81%B5%E3%82%92%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%BB%95/1522015883302046/",
-    "https://www.facebook.com/kagoshimacity.kouhou/posts/%E3%81%8A%E7%B1%B3%E3%81%AE%E8%A9%90%E6%AC%BA%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%94%E6%B3%A8%E6%84%8F%EF%B8%8F%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B%E4%BA%8B%E6%A5%AD%E8%80%85%E3%82%92%E8%A3%85%E3%81%A3%E3%81%9F%E3%81%8A%E7%B1%B3%E3%81%AE%E8%A9%90%E6%AC%BA%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E7%9B%B8%E8%AB%87%E3%81%8C%E5%AF%84%E3%81%9B%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%9C%80%E5%A4%A740%E5%89%B2%E5%BC%95%E3%81%AA%E3%81%A9%E3%81%AE%E3%83%8D%E3%83%83%E3%83%88%E5%BA%83%E5%91%8A%E3%81%8B%E3%82%89%E6%B3%A8%E6%96%87%E3%81%97%E3%81%9F%E3%81%8C%E5%95%86%E5%93%81%E3%81%8C%E5%B1%8A%E3%81%8B%E3%81%AA%E3%81%84%E6%94%B9%E3%82%81%E3%81%A6%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B%E3%81%A8/1022330116656147/",
-    "https://www.facebook.com/carryup.zero/posts/108-%E5%AE%BF%E6%B3%8A%E6%A5%AD%E3%81%A7%E6%97%A5%E6%9C%AC%E5%B0%B1%E8%81%B7%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99%E3%81%AA%E3%82%89%E8%89%AF%E3%81%84%E4%BA%BA%E6%9D%90%E7%B4%B9%E4%BB%8B%E4%BC%9A%E7%A4%BE%E3%81%AE%E8%A6%8B%E5%88%86%E3%81%91%E6%96%B9%E3%81%A8%E7%99%BB%E9%8C%B2%E3%81%8B%E3%82%89%E5%86%85%E5%AE%9A%E3%81%BE%E3%81%A7%E3%81%AE%E6%B5%81%E3%82%8C%E6%97%A5%E6%9C%AC%E3%81%A7%E5%83%8D%E3%81%8D%E3%81%9F%E3%81%84%E3%81%A8%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%A7%E8%AA%BF%E3%81%B9%E3%82%8B%E3%81%A8%E8%81%9E%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AE%E3%81%AA%E3%81%84%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%BA%83%E5%91%8A%E3%81%8C%E3%81%84%E3%81%8F%E3%81%A4%E3%82%82%E5%87%BA%E3%81%A6%E3%81%8D/1708406484404111/",
-    "https://www.facebook.com/nobuo.kusumoto.1/posts/こんな会社実在するのかな会社なんてコスト削減しかもいちばんやりやすい人件費を削ることしか考えてないよね/28617369417954160/"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
    "query": "会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125） note 社長",
    "results": [
     "https://note.com/sota_katagiri/n/nf7262a86d15a",
-    "https://note.com/kazuyuki_tachi/n/n2915e4f702c6",
     "https://note.com/standage/n/n1ec9248b11b2",
+    "https://note.com/kazuyuki_tachi/n/n2915e4f702c6",
     "https://note.jp/n/neb4da3c9a8b5",
     "https://x.com/sadaaki",
     "https://www.selva-i.co.jp/article/archives/3224",
-    "https://note.com/y_shiozaki/n/n7354226862ab",
-    "https://note.com/ai_audit/n/n96fdd860431d",
-    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://note.com/ai_shacho/n/n4f9f55532375",
+    "https://note.vs-group.jp/n/n5a70762a18e3",
     "https://note.com/joyous_swift3677/n/n2739f5209b6b"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 16
   },
   {
    "query": "会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125） X 投稿",
    "results": [
     "https://eltes-solution.jp/column/digitalrisk-57",
-    "https://www.nttcoms.com/service/social/column/20220131/",
-    "https://gaiax-socialmedialab.jp/post-46022/",
     "https://help.x.com/ja/forms/authenticity/impersonation/my-company-brand-or-org",
+    "https://www.nttcoms.com/service/social/column/20220131/",
     "https://yosca.jp/sns-marketing/13172/",
     "https://unitedanimals.co.jp/archives/blog/2762",
-    "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91x%E6%97%A7twitter%E4%BC%81%E6%A5%AD%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F%E5%8A%B9%E6%9E%9C%E7%9A%84%E3%81%AA/",
     "https://note.com/news_bybp/n/nfc14a33eb34c",
+    "https://www.yumesolar.jp/column/trustworthy-company/",
+    "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91x%E6%97%A7twitter%E4%BC%81%E6%A5%AD%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%A8%E3%81%AF%EF%BC%9F%E5%8A%B9%E6%9E%9C%E7%9A%84%E3%81%AA/",
     "https://sinis-x.tetemarche.co.jp/blog/2023-february",
     "https://tanchihack.com/jistuzai-kaisha-shiraberu/"
    ],
    "engines": [
+    "ddgs:bing",
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
   },
   {
    "query": "verify company exists ghost firm shell company investigative journalism registry address checks site:linkedin.com",
@@ -391,29 +316,29 @@
     "https://www.linkedin.com/top-content/healthcare/healthcare-fraud-detection/investigative-fraud-reporting-methods/",
     "https://uk.linkedin.com/in/gillian-schonrock-883589",
     "https://www.linkedin.com/in/dataeditor",
-    "https://www.linkedin.com/pulse/how-shell-front-companies-used-modern-conflict-james-tennant-9lopc",
     "https://www.linkedin.com/posts/sayarilabs_new-sayari-ukraines-arma-case-study-activity-7508536961473822720-Wju0",
-    "https://www.linkedin.com/in/karen-alexander-4994978",
+    "https://www.linkedin.com/in/leasureinvestigations",
     "https://uk.linkedin.com/in/kevin-braine-0ba9092",
+    "https://uk.linkedin.com/in/leticia-marotti-466a35144",
+    "https://www.linkedin.com/pulse/how-shell-front-companies-used-modern-conflict-james-tennant-9lopc",
     "https://uk.linkedin.com/company/frauded",
-    "https://www.linkedin.com/in/michael-caamano-31515398",
-    "https://uk.linkedin.com/in/leticia-marotti-466a35144"
+    "https://www.linkedin.com/in/shannonleighcarroll"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ21頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ21頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ21頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ21頁・検索12回）",
+  "実例": "記載なし（読んだ21頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-09T09:59:32.407472+00:00"
 }

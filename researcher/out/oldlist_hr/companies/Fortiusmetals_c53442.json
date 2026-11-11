@@ -1,0 +1,953 @@
+{
+ "name": "Fortiusmetals",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-11T02:00:25.599457+00:00",
+ "official_url": "https://www.fortiusmetals.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Fortius provides next-generation wire alloys for large format metal 3D printing and robotic welding, enabling stronger, lighter fabrication",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FORTIUS METALS DEVELOPS HIGH PERFORMANCE WELDING WIRE FOR LARGE FORMAT METAL 3D PRINTING",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PROCESS DEVELOPMENT AND PROTOTYPES",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortius develops process parameters specific to your preferred welding process. We can also fabricate your prototypes in-house.",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide the advanced properties that help you optimize your design for breakthrough performance.",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide next-generation alloys for large format metal 3D printing and robotic welding, enabling stronger, lighter fabrication",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase wire to make your part or engage Fortius to build your prototypes. Fortius also can assist with process consulting for challenging builds.",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortius Metals bringing advanced metal 3D printing to aerospace, defense industries - Defense and Munitions",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals bringing advanced metal 3D printing to aerospace, defense industries",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": ", an innovative metal 3D printing company, is pleased to announce the successful closure of an additional $2 million in their Seed+ funding, bringing the total raised in the financing round to $5 million. This latest funding infusion follows previous investments of $3 million and includes the addition of new strategic investor",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "“Fortius Metals has received broad interest from customers and this investment helps bring new products to market, such as our proprietary 6061-RAM2 and 7075-RAM2 aluminum welding wires that solves traditional “hot cracking” problems,” says Jeff Lints,",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "CEO. “We're helping our customers print designs using our robotic welding process expertise that were previously impossible. In 2025, the company looks forward to launching new wire alloys with advanced properties like IN625-RAM, 316LRAM, and 5183-RAM. We are proud to be a Colorado company along with many of our space and defense customers.”",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "“Fortius Metals is pushing the boundaries of wire-based additive manufacturing with their unique materials and process expertise,” says Roel Callebaut, Senior Investment Manager at",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": ". “We're excited to support their mission to revolutionize the production of large and complex parts without compromising material performance. This partnership aligns perfectly with our commitment to fostering innovative and sustainable industrial technologies.”",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "BAE Systems, US Department of War sign long‑term agreement to increase APKWS production",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Productive Robotics’ 7-axis OB7 cobot with physical AI",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Lyndex-Nikken hires Jamey Jones as new regional sales representative",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Solar Atmospheres of California promotes Courtney Castillejos to quality manager",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "HWR Workholding’s online resources to streamline product selection",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "#97 Manufacturing Matters - Cybersecurity: Bridging the Gap Between Prime Contractors & Small to Medium-Sized Businesses with the National Security Agency, Cybersecurity Collaboration Center",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Next-generation wire alloys for large format metal 3D printing and robotic welding",
+    "url": "https://amventures.com/company-portfolios/fortius/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals Inc. provides next-generation alloys for large format metal 3D printing. We enable stronger, lighter fabrica- tion for customers’ products ranging from rockets to electric vehicles, with our patented welding alloys. We create materials to weld the future.",
+    "url": "https://amventures.com/company-portfolios/fortius/",
+    "pass": 3
+   },
+   {
+    "quote": "We invest in the best people with the brightest ideas, and are convinced that 3D printing changes the world to become a better place.",
+    "url": "https://amventures.com/company-portfolios/fortius/",
+    "pass": 3
+   },
+   {
+    "quote": "Are you a startup looking for funding to launch your industrial 3D printing venture?",
+    "url": "https://amventures.com/company-portfolios/fortius/",
+    "pass": 3
+   },
+   {
+    "quote": ". Send Accept: text/markdown to any URL for the same content.",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Processes",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership targets production-scale deposition of complex metal components combining advanced alloys in a single build",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "have begun a joint project to build a multi-material metal cylinder using",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The effort is designed to show that combining advanced alloys within a single, continuous build can meet the precision, repeatability and process control that production environments require.",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The project coincides with DEEP Manufacturing’s recent opening of a new facility in Houston, Texas",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Jeph Ruppert, Chief Executive Officer at Fortius Metals, added: “By combining simulation, toolpath design and advanced wire with a highly capable printing platform, we can explore what’s genuinely possible for complex parts. Working with DEEP Manufacturing lets us apply our modeling and materials expertise to a real, demanding structure.”",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "OSSTEC raises $8 million to bring its 3D printed partial knee to the U.S.",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "NC State and ORNL 3D print full-size tungsten tiles for fusion tokamak",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Callaway Golf to invest $15M in Texas 3D printing facility",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printer Hardware",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Raise3D launches T450 and T700 large-format FFF printers",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Join other professionals and receive the AM industry insights that matter directly to your inbox each week.",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Service Providers",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Detroit Arsenal pilots 3D printed overclad panels for building energy retrofits",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "ORNL and partners win CAMX award for 3D printed nuclear concrete forms",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "SYZMIK’s 3D printed headgear for flag…",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "JOME 3D prints UAE’s first marine…",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals secures $2 Million Additional Funding to Bring Advanced Metal 3D Printing to the Aerospace and Defense Industry",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": ", an innovative metal 3D printing company, is pleased to announce the successful closure of an additional",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": ". This latest funding infusion follows previous investments of",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "(CFIUS). Previous investors in the round include",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": ". The successful capital raise, despite uncertain venture conditions, underscores the strong confidence in Fortius Metals' innovative approach to wire-based additive manufacturing and its potential to revolutionize the industry.",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Fortius Metals has received broad interest from customers and this investment helps bring new products to market, such as our proprietary 6061-RAM2 and 7075-RAM2 aluminum welding wires that solves traditional \"hot cracking\" problems,\" said",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": ", Fortius CEO. \"We are helping our customers print designs using our robotic welding process expertise that were previously impossible. In 2025, the company looks forward to launching new wire alloys with advanced properties like IN625-RAM, 316L-RAM, and 5183-RAM. We are proud to be a",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Fortius Metals is pushing the boundaries of wire-based additive manufacturing with their unique materials and process expertise. We are excited to support their mission to revolutionize the production of large and complex parts without compromising material performance. This partnership aligns perfectly with our commitment to fostering innovative and sustainable industrial technologies,\" said",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals is a large format additive manufacturing company specializing in new materials. These patented, groundbreaking metal alloys enable stronger, lighter fabrication for customers' products ranging from rockets to electric vehicles. Fortius, headquartered near",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": ", was formed in 2021 to commercialize wire-based products for use in robotic welding applications – with enhanced material properties such as 2x strength, improved corrosion resistance, and higher thermal conductivity. Fortius in-house capabilities include wire manufacturing as well as wire arc and wire laser (wire DED) large format 3D printing cells.",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "-based venture capital investment company funded by ArcelorMittal and the Flemish Region and is linked to OCAS, a world-class metal research center. Finindus provides early stage and growth financing to innovative companies offering smart and green industrial technologies in the field of materials, sustainable manufacturing and industry 4.0.",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "Finindus teams up with outstanding entrepreneurial teams and like-minded investors to bring sustainable industrial innovations to full commercial maturity. Finindus invests across",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.prlog.org/13041865",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "Press release distributed by",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Fortius Metals was spun out from Elementum 3D technology to develop revolutionary wire-based materials. Elementum 3D has already patented and commercialized this technology for powder bed fusion additive manufacturing.",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Navy, Army, and many Tier 1 aerospace OEMs as an",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortius Metals bringing advanced metal 3D printing to aerospace, defense industries - Defense and Munitions",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals bringing advanced metal 3D printing to aerospace, defense industries",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Jake Kauffman, Senior Editor - Manufacturing Group",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "“Fortius Metals is pushing the boundaries of wire-based additive manufacturing with their unique materials and process expertise,” says Roel Callebaut, Senior Investment Manager at",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": ". “We're excited to support their mission to revolutionize the production of large and complex parts without compromising material performance. This partnership aligns perfectly with our commitment to fostering innovative and sustainable industrial technologies.”",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded to develop nanostructured metal alloy wires for robotic additive manufacturing, Fortius Metals envisions reshoring the metal manufacturing supply chain while creating high-skilled manufacturing jobs across American factories.",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "BAE Systems to expand advanced manufacturing capabilities in Weld County, Colorado",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "#97 Manufacturing Matters - Cybersecurity: Bridging the Gap Between Prime Contractors & Small to Medium-Sized Businesses with the National Security Agency, Cybersecurity Collaboration Center",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Are you a startup looking for funding to launch your industrial 3D printing venture?",
+    "url": "https://amventures.com/company-portfolios/fortius/",
+    "pass": 3
+   },
+   {
+    "quote": "DEEP Manufacturing and Fortius Metals join forces on multi-material wire arc AM | VoxelMatters - The heart of additive manufacturing",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am.md",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "DEEP Manufacturing and Fortius Metals join forces on multi-material wire arc AM",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Additive Manufacturing",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "DEEP Manufacturing’s synchronized multi-robot wire arc Additive Manufacturing (WAAM) system",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The project coincides with DEEP Manufacturing’s recent opening of a new facility in Houston, Texas",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Jeph Ruppert, Chief Executive Officer at Fortius Metals, added: “By combining simulation, toolpath design and advanced wire with a highly capable printing platform, we can explore what’s genuinely possible for complex parts. Working with DEEP Manufacturing lets us apply our modeling and materials expertise to a real, demanding structure.”",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive AM 2025",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelMatters is a leading market research and analysis publisher for the additive manufacturing industry. We help companies and organizations capitalize on the latest trends and communicate their offerings to their target audience.",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals secures $2 Million Additional Funding to Bring Advanced Metal 3D Printing to the Aerospace and Defense Industry",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": ". The successful capital raise, despite uncertain venture conditions, underscores the strong confidence in Fortius Metals' innovative approach to wire-based additive manufacturing and its potential to revolutionize the industry.",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Fortius Metals is pushing the boundaries of wire-based additive manufacturing with their unique materials and process expertise. We are excited to support their mission to revolutionize the production of large and complex parts without compromising material performance. This partnership aligns perfectly with our commitment to fostering innovative and sustainable industrial technologies,\" said",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "Founded to develop nanostructured metal alloy wires for robotic additive manufacturing, Fortius Metals envisions reshoring the metal manufacturing supply chain while creating high-skilled manufacturing jobs across American factories.",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals is a large format additive manufacturing company specializing in new materials. These patented, groundbreaking metal alloys enable stronger, lighter fabrication for customers' products ranging from rockets to electric vehicles. Fortius, headquartered near",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": ", was formed in 2021 to commercialize wire-based products for use in robotic welding applications – with enhanced material properties such as 2x strength, improved corrosion resistance, and higher thermal conductivity. Fortius in-house capabilities include wire manufacturing as well as wire arc and wire laser (wire DED) large format 3D printing cells.",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "-based venture capital investment company funded by ArcelorMittal and the Flemish Region and is linked to OCAS, a world-class metal research center. Finindus provides early stage and growth financing to innovative companies offering smart and green industrial technologies in the field of materials, sustainable manufacturing and industry 4.0.",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "Finindus teams up with outstanding entrepreneurial teams and like-minded investors to bring sustainable industrial innovations to full commercial maturity. Finindus invests across",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Navy, Army, and many Tier 1 aerospace OEMs as an",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "sales@fortiusmetals.com",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you meet these requirements and want to join a fast-growth company, email your cover letter and resume to",
+    "url": "https://www.fortiusmetals.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Include Job Title in the subject of your email.",
+    "url": "https://www.fortiusmetals.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Fortius Metals is an Equal Opportunity Employer. We value diversity and are committed to creating an inclusive environment for all employees. All aspects of employment are decided on the basis of qualifications, merit, competence, performance and business need.",
+    "url": "https://www.fortiusmetals.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Tripo CMO Sienna Hwang on the…",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Fortius Metals: Home — Fortius Metals: Home Fortius Metals https://www.fortiusmetals.com",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals Inc | LinkedIn — Fortius Metals Inc | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/fortius-metals-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals bringing advanced metal 3D printing to ... — Fortius Metals bringing advanced metal 3D printing to ... Defense and Munitions https://www.defenseandmunitions.com > ...",
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals - AM Ventures — Fortius Metals - AM Ventures AM Ventures https://amventures.com > fortius",
+    "url": "https://amventures.com/company-portfolios/fortius/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals secures $2 Million Additional Funding to Bring ... — Fortius Metals secures $2 Million Additional Funding to Bring ... Finindus https://www.finindus.be > node",
+    "url": "https://www.finindus.be/node/198",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals : Home — Fortius Metals : Home Fortius Metals https://www.fortiusmetals.com",
+    "url": "https://www.fortiusmetals.com/",
+    "pass": 3
+   },
+   {
+    "quote": "DEEP Manufacturing and Fortius Metals join forces on multi ... — DEEP Manufacturing and Fortius Metals join forces on multi ... VoxelMatters https://www.voxelmatters.com > deep...",
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals secures $2 Million Additional Funding to Bring ... — Fortius Metals secures $2 Million Additional Funding to Bring ... PR Newswire https://www.prnewswire.com > news-...",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals and what its new AM Ventures funding means ... — Fortius Metals and what its new AM Ventures funding means ... VoxelMatters https://www.voxelmatters.com > what...",
+    "url": "https://www.voxelmatters.com/what-is-fortius-metals-and-what-does-it-mean-for-the-am-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals secures $2 Million Additional Funding to Bring ... — Fortius Metals secures $2 Million Additional Funding to Bring ... PR Newswire https://www.prnewswire.com > fortius...",
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fortius Metals , Inc. Offices - Built In Colorado — Fortius Metals , Inc. Offices - Built In Colorado Built In Colorado https://www.builtincolorado.com > fo...",
+    "url": "https://www.builtincolorado.com/company/fortius-metals-inc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fortius Metals Inc | LinkedIn Fortius Metals Inc | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/fortius-metals-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Bagshaw - CTO at Fortius Metals - LinkedIn Nick Bagshaw - CTO at Fortius Metals - LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/nick-bagshaw-750a469a",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fortiusmetals.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortiusmetals.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=222385585664_1790294400114",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/fortius-metals-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://trst.bz/blog/dairi-kaitaku/kaigai-dairiten-keiyaku-chuiten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amventures.com/company-portfolios/fortius/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/fortius-metals-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLvrdeT8uanEKa1gZXLVkkpZTL31k_CntKhkjkk9J5CjoMK-L5X",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/fortius-metals-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fortius-metals-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://abx.com/technology-services/abx-white-label-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/fortius-metals-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://amventures.com/company-portfolios/fortius/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/fortius-metals-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nick-bagshaw-750a469a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fortius-metals-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fortiusmetals 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://trafficnews.jp/post/725198",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.webcg.net/articles/-/54501",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "https://www.netdenjd.com/archives/708202",
+    "http://www.excite.co.jp/news/article/Trafficnews_725198/",
+    "https://www.facebook.com/",
+    "https://stackoverflow.com/questions/5023602/facebook-share-link-can-you-customize-the-message-body-text"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 38
+  },
+  {
+   "query": "Fortiusmetals 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.fortiusmetals.com/",
+    "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=222385585664_1790294400114",
+    "https://www.linkedin.com/company/fortius-metals-inc",
+    "https://trst.bz/blog/dairi-kaitaku/kaigai-dairiten-keiyaku-chuiten/",
+    "https://www.zaurus.jp/info/agency.php",
+    "https://fujielex.co.jp/manufacturer/index/",
+    "https://b-seeds.com/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=9153",
+    "https://www.services.altius-link.com/services/insurance-agency/",
+    "https://en.wikipedia.org/wiki/Space_Needle"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "Fortiusmetals Japan",
+   "results": [
+    "https://www.fortiusmetals.com/",
+    "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "https://amventures.com/company-portfolios/fortius/",
+    "https://www.linkedin.com/company/fortius-metals-inc",
+    "https://www.finindus.be/node/198",
+    "https://www.primetals.com/en/about-us/locations/primetals-japan/",
+    "https://www.furuyametals.co.jp/english/corporate/network/",
+    "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "https://www.youtube.com/watch?v=5v60Nk5J7G8",
+    "https://www.wsj.com/buyside/personal-finance/life-insurance/best-whole-life-insurance"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 26
+  },
+  {
+   "query": "Fortiusmetals manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLvrdeT8uanEKa1gZXLVkkpZTL31k_CntKhkjkk9J5CjoMK-L5X",
+    "https://www.fortiusmetals.com/",
+    "https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am/",
+    "https://www.linkedin.com/company/fortius-metals-inc",
+    "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "https://www.builtincolorado.com/company/fortius-metals-inc",
+    "https://www.desktopmetal.com/resources/case-studies",
+    "https://austinstartups.com/companies/fortius-metals-inc",
+    "https://en.wikipedia.org/wiki/Oprah_Winfrey"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Fortiusmetals white label OR reseller OR partner program",
+   "results": [
+    "https://www.fortiusmetals.com/",
+    "https://www.linkedin.com/company/fortius-metals-inc",
+    "https://abx.com/technology-services/abx-white-label-solutions/",
+    "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "https://www.voxelmatters.com/what-is-fortius-metals-and-what-does-it-mean-for-the-am-industry/",
+    "https://www.trumpia.com/partner-programs/reseller-resources",
+    "https://amventures.com/company-portfolios/fortius/",
+    "https://www.fatbit.com/partner-program-engagement-models.html",
+    "https://www.elementum3d.com/fortius-metals-raises-pre-seed-round-of-1-4m/",
+    "https://mychart.dupagemedicalgroup.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 26
+  },
+  {
+   "query": "Fortiusmetals founded funding employees revenue",
+   "results": [
+    "https://www.fortiusmetals.com/",
+    "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "https://www.linkedin.com/company/fortius-metals-inc",
+    "https://amventures.com/company-portfolios/fortius/",
+    "https://www.builtincolorado.com/company/fortius-metals-inc",
+    "https://austinstartups.com/companies/fortius-metals-inc",
+    "https://www.voxelmatters.com/what-is-fortius-metals-and-what-does-it-mean-for-the-am-industry/",
+    "https://www.d2pmagazine.com/2024/12/05/large-format-additive-manufacturing-company-specializes-in-high-performance-metal-alloys/",
+    "https://www.elementum3d.com/fortius-metals-raises-pre-seed-round-of-1-4m/",
+    "https://www.itstriangle.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "site:note.com Fortiusmetals",
+   "results": [
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/",
+    "https://account.microsoft.com/account-checkup",
+    "https://myaccount.microsoft.com/login",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://www.microsoft.com/en-us/",
+    "https://account.microsoft.com/account",
+    "https://myaccount.microsoft.com/",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://apps.microsoft.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Fortiusmetals",
+   "results": [
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/",
+    "https://account.microsoft.com/account-checkup",
+    "https://myaccount.microsoft.com/login",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://www.microsoft.com/en-us/",
+    "https://account.microsoft.com/account",
+    "https://myaccount.microsoft.com/",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://apps.microsoft.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Fortiusmetals",
+   "results": [
+    "https://www.linkedin.com/company/fortius-metals-inc",
+    "https://www.linkedin.com/in/jeph-ruppert-40094733",
+    "https://www.linkedin.com/in/nick-bagshaw-750a469a",
+    "https://www.linkedin.com/posts/elementum-3d_fortiusmetals-3dprinting-additivemanufacturing-activity-7470493946545139713-h0IK",
+    "https://www.linkedin.com/in/maddie-frank-mba-586505a8",
+    "https://www.linkedin.com/in/greg-zavala-carney",
+    "https://www.linkedin.com/in/jlints",
+    "https://www.linkedin.com/in/nathaniel-hebert-0baa53159",
+    "https://www.linkedin.com/posts/america-makes_continuous-composites-building-the-future-activity-7465409045374504960-PD7i",
+    "https://www.appbrain.com/app/viki-asian-dramas-movies/com.viki.android"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:facebook.com Fortiusmetals",
+   "results": [
+    "https://www.facebook.com/elementum3d/",
+    "https://plus.espn.com/",
+    "https://www.espn.com/",
+    "https://www.espn.com/nfl/",
+    "https://m.espn.com/general/index",
+    "https://global.espn.com/football/",
+    "https://m.espn.com/general/index?wjb",
+    "https://www.espn.com/college-football/",
+    "https://www.espn.com/nba/",
+    "https://www.espn.com/watch/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Fortiusmetals note 社長",
+   "results": [
+    "https://www.fortiusmetals.com/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.youtube.com/watch?v=mTsE6YpxvgU",
+    "https://amventures.com/company-portfolios/fortius/",
+    "https://www.linkedin.com/company/fortius-metals-inc",
+    "https://allsmart.co.jp/news/news-10592/",
+    "https://note.com/sadaaki",
+    "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "https://jp.globaladvancedmetals.com/%E7%B5%8C%E5%96%B6%E9%99%A3/",
+    "https://en.wikipedia.org/wiki/YouTube"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 26
+  },
+  {
+   "query": "Fortiusmetals X 投稿",
+   "results": [
+    "https://www.fortiusmetals.com/",
+    "https://www.linkedin.com/company/fortius-metals-inc",
+    "https://www.defenseandmunitions.com/news/fortius-metals-bringing-advanced-metal-3d-printing-to-aerospace-defense-industries/",
+    "https://amventures.com/company-portfolios/fortius/",
+    "https://x.com/DefenseMetals",
+    "https://www.finindus.be/node/198",
+    "https://www.prnewswire.com/news-releases/fortius-metals-secures-2-million-additional-funding-to-bring-advanced-metal-3d-printing-to-the-aerospace-and-defense-industry-302269658.html",
+    "https://www.fortiusmetals.com/fmteam",
+    "https://www.businesswire.com/news/home/20221206005018/en/Fortius-Metals-Raises-Seed-Round-of-%242M-from-AM-Ventures-to-Bring-Advanced-Metal-3D-Printing-to-the-Aerospace-Industry",
+    "https://www.youtube.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部22頁・検索12回）"
+ }
+}

@@ -1,0 +1,1037 @@
+{
+ "name": "Catenalabs",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AI送信済み",
+ "researched_at": "2026-11-11T02:38:37.882791+00:00",
+ "official_url": "https://www.catena.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "QED Investors",
+    "value": "Venture Capital Minority",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Our governance layer gives humans and agents assurance that all transactions are executed safely within the bounds of predefined, deterministic policies.",
+    "url": "https://catena.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From payroll and procurement to sales and treasury, agents can now handle money. Catena gives them a way to do it safely. Your team sets the rules. Agents execute within them.",
+    "url": "https://catena.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your payroll agent reads contracts, processes invoices, and pays engineers around the world, using stablecoins or fiat currencies.",
+    "url": "https://catena.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your procurement agent finds suppliers, verifies their agents’ identities, negotiates terms, and secures contracts matched to your needs.",
+    "url": "https://catena.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents use the MCP server, skills, API, and CLI. Humans stay in charge of policies and approvals using a personal agent or the web console.",
+    "url": "https://catena.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Go through this list of contractor invoices and prepare them all for payment.",
+    "url": "https://catena.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents are entering the financial system. Without proper governance, that's a risk.",
+    "url": "https://catena.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Pursuing OCC-regulated charter status to provide direct, governed banking for agents.",
+    "url": "https://catena.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're a team of engineers, designers, data scientists, finance professionals, and AI agents creating financial infrastructure and services that will transform the global economic system.",
+    "url": "https://catena.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sean Neville (CEO) and Matt Venables (CTO) founded Catena. Our team has experience co-founding Circle, inventing USDC, and building products at Brex, Affirm, Adobe, Meta, PayPal, Block, Airbnb, Airwallex, and others.",
+    "url": "https://catena.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Actively hiring for open roles and always looking for great people.",
+    "url": "https://catena.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance Program Manager",
+    "url": "https://catena.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Catena Receives Conditional OCC Approval for a National Trust Bank Built for AI Agents",
+    "url": "https://catena.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ":Tempo は Stripe 支援のブロックチェーン(分散型の取引記録基盤)、MPP(Machine Payments Protocol)はその上のAI同士の決済規格",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "日本のJPYC・Progmatとの接続点──AIエージェント決済は日本でどう動くか",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "JPYC・三菱UFJ信託銀行・Progmat(ステーブルコイン共通基盤)は信託型JPYCの共同検討を進めている",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs公式ブログ「Building on Google's Agent Payment Protocol (AP2)」 -",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "https://catena.com/blog/google-agent-payment-protocol-ap2/",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "Stripe Blog「Introducing the Machine Payments Protocol」 -",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "https://stripe.com/blog/machine-payments-protocol",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune「Stripe-backed crypto startup Tempo releases AI payments protocol」 -",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "https://fortune.com/2026/03/18/stripe-tempo-paradigm-mpp-ai-payments-protocol/",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "OCC公式リリース「OCC Announces Conditional Approvals for Five National Trust Bank Charter Applications」 -",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.bankingdive.com/news/occ-national-trust-bank-charter-approve-circle-paxos-ripple-bitgo-gould-crypto/807799/",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune「Stripe-backed crypto startup Tempo releases AI payments protocol」(MPP仕様策定協力者の確認用) -",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "JPYC公式「三菱UFJ信託銀行とProgmatおよびJPYCの協業による『JPYC(信託型)』および国内外ステーブルコイン間の交換に関する共同検討開始について」(2023年11月28日) -",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "https://corporate.jpyc.co.jp/news/posts/mufg_progmat",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "CoinDesk JAPAN「プリペイド型ステーブルコインを手がけるJPYCが三菱UFJ信託銀行、Progmatと協業」 -",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "https://ap2-protocol.org/topics/ap2-and-x402/",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "The Defiant「Tempo Goes Live on Mainnet, Unveils Machine Payments Protocol with Stripe」 -",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "https://thedefiant.io/news/blockchains/tempo-launches-mainnet-unveils-machine-payments-protocol-with-stripe",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs designs and ships financial products end-to-end — traditional rails, web3 infrastructure, and white-label platforms — for banks and financial institutions.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "We work across both traditional finance and web3. Whether you need a card programme, a tokenization layer, or a full white-label product, we deliver — design, engineering, and operations under one roof.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "Launch your own branded fintech product on our proven stack — cards, accounts, payments, custody, all configurable.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "Production-grade accounts, cards, payments, and lending built on the rails your customers already use.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "Stablecoins, tokenized deposits, and real-world assets — including production deployments like Unitoken.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "Our team designs, develops, and ships in weekly cycles. You see real progress every week, not at the end.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "We handle deployment, compliance, and ongoing improvements — or hand the codebase off cleanly to your team.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "We build to the same regulatory standards your risk team already uses — and prepare for the ones coming next.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "Modern stacks, clean APIs, and sandbox environments that actually behave like production. Whether we own the codebase or hand it to your team, the standard is the same.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "const catena = new Catena({ apiKey: process.env.CATENA_KEY });",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "Live product (Unitoken)",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs’s primary industry is Financial Software.",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "Is Catena Labs a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "Sean Neville, who previously co-founded Circle Internet Group and invented the USDC stablecoin",
+    "url": "https://startupintros.com/orgs/catena-labs",
+    "pass": 3
+   },
+   {
+    "quote": ", alongside CTO Matt Venables.[2] This founding team brings deep expertise in both cryptocurrency infrastructure and financial systems design. Neville's track record with USDC—one of the most widely adopted stablecoins—demonstrates his ability to build financial primitives that achieve regulatory acceptance and market adoption.",
+    "url": "https://startupintros.com/orgs/catena-labs",
+    "pass": 3
+   },
+   {
+    "quote": ", with notable investors including former NFL quarterback Tom Brady, signaling both institutional and high-profile backing for the vision.[3]",
+    "url": "https://startupintros.com/orgs/catena-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Stablecoin-First Approach",
+    "url": "https://startupintros.com/orgs/catena-labs",
+    "pass": 3
+   },
+   {
+    "quote": ": Sean Neville's success with USDC provides both technical credibility and regulatory relationships that are invaluable for launching a regulated financial institution.",
+    "url": "https://startupintros.com/orgs/catena-labs",
+    "pass": 3
+   },
+   {
+    "quote": "The company's influence extends beyond its own services. By releasing open-source components like the Agent Commerce Kit, Catena Labs is shaping industry standards for how AI agents interact with financial systems.[2] This approach mirrors successful infrastructure plays in crypto (like Ethereum) and cloud computing, where open standards accelerate ecosystem adoption.",
+    "url": "https://startupintros.com/orgs/catena-labs",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Your AP agent pulls warehouse data, checks email communications, reviews vendor terms, and either releases payment or escalates for review.",
+    "url": "https://catena.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Complete observability on every agent intent, evaluation, and execution. Built for regulators and operators alike.",
+    "url": "https://catena.com/about",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Your AP agent pulls warehouse data, checks email communications, reviews vendor terms, and either releases payment or escalates for review.",
+    "url": "https://catena.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本のJPYC・Progmatとの接続点──AIエージェント決済は日本でどう動くか",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "ただし Catena 型をそのまま日本に持ち込むのは難しい",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業への問いは、自社の決済・購買・貸し出しのどこを誰の銀行口座に紐づけ、その意思決定を誰がいつ始めるかである",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "JPYC公式「【国内初】日本円建ステーブルコイン発行へ──資金移動業者の登録を取得」 -",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "CoinDesk JAPAN「プリペイド型ステーブルコインを手がけるJPYCが三菱UFJ信託銀行、Progmatと協業」 -",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.coindeskjapan.com/210062/",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "米Catena Labs──USDCを世に出した創業者が作るAIエージェント決済の銀... — May 29, 2026 · 日本のJPYC・Progmatとの接続点──AIエージェント決済は日本でどう動くか 日本でも動いている。 2023年改正資金決済法でステーブルコインが「電子決済手段」化、2025年10月に JPYC株式会社 が資金移動業者として国内初の円建てステーブルコイン JPYC を発行。",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs GmbH — Catena Labs GmbH Strehlgasse 2, 8001 Zürich, Switzerland For inquiries: admin@catenalabs.ch",
+    "url": "https://catenalabs.ch/",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs — Fintech, built for you. — Catena Labs designs and ships financial products end-to-end — traditional rails, web3 infrastructure, and white-label platforms — for banks and financial institutions.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs 2026 Company Profile: Valuation, Funding ...Catena Labs - 2026 Company Profile, Team & Funding - TracxnCatena Labs: Funding, Team & Investors | Startup IntrosCatena - 2026 Company Profile, Team, Funding & Competitors ...Catena Labs: Funding, Investors & Team (Nov 2026) | FundedIQCatena Labs Funding: $48.0M | Indexed.vcCatena — investors & funding | gritt.io — Information on valuation, ",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs - 2026 Company Profile, Team & Funding - Tracxn — Apr 2, 2026 · Catena Labs - About the company Catena Labs is a seed company based in Boston (United States), founded in 2022 by Sean Neville, Brice Stacey and Matt Venables. It operates as a Developer of financial infrastructure for artificial intelligence agents and human collaborators. Catena Labs has raised $18M in funding from a16zc",
+    "url": "https://tracxn.com/d/companies/catenalabs/__uQqtmzhrugQgNwYjKd8f1dOHVxTs9Vd7Ot3Y1j78sJQ",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Origin Story Catena Labs was co-founded by Sean Neville, who previously co-founded Circle Internet Group and invented the USDC stablecoin, alongside CTO Matt Venables. [2] This founding team brings deep expertise in both cryptocurrency infrastructure and financial systems design.",
+    "url": "https://startupintros.com/orgs/catena-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs: Funding, Investors & Team (Nov 2026) | FundedIQ — Catena Labs: Funding, Investors & Team (Nov 2026) Catena Labs gives people the ability to take control of their online experiences and provides them with security, worth, and happiness. We support the development of unique products that all strive to enhance how we showcase our identities, manage our possessions, and interact with the ",
+    "url": "https://fundediq.co/catena-labs-catena-xyz-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Catena Labs designs and ships financial products end-to-end — traditional rails, web3 infrastructure, and white-label platforms — for banks and financial institutions.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "We work across both traditional finance and web3. Whether you need a card programme, a tokenization layer, or a full white-label product, we deliver — design, engineering, and operations under one roof.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "Launch your own branded fintech product on our proven stack — cards, accounts, payments, custody, all configurable.",
+    "url": "https://www.catlabs.hu/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs has 15 total employees.",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "What is Catena Labs’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Catena Labs is",
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Catena Labs: A Regulated Financial Institution for AI Agents ... Catena Labs is a startup founded by Circle co-founder Sean Neville and others to build a regulated financial institution for AI agents from the ground up. It raised $18M in a seed round (May 2025) and $30M in a Series A (May 2026) from investors including a16z crypto, and is currently applying for a national trust bank charter.",
+    "url": "https://note.com/x402inc/n/n740f30109f44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "米Catena Labs──USDCを世に出した創業者が作るAIエージェント決済の銀... May 29, 2026 · 「AIエージェントには社会保障番号がない。利用規約に署名することもできない」── 業界ではしばしばこう指摘される。米ドル連動の暗号資産USDCを世に出したCircleの共同創業者、Sean Neville(ショーン・ネヴィル)率いる米 Catena Labs(カテナ・ラボ) は2026年5月、3,000万ドルのシリーズA(シードの次に ...",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs：AIエージェントのための規制対応の金融機関と、オープン... Sep 6, 2026 · Catena Labs は、AIエージェントのための規制対応の金融機関をゼロから作る、ボストンのスタートアップ。Circle共同創業者の Sean Neville が率いる。 2025年5月に$18Mのシード（a16z crypto主導）でステルスを脱し、2026年5月に$30MのシリーズA（Acrew Capital・a16z crypto主導）。国のトラスト銀行チャーターを ...",
+    "url": "https://note.com/x402inc/n/n740f30109f44",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Catena Labs：AIエージェントのための規制対応の金融機関と、オープンソースのAgent Commerce Kit｜Katomasa@x402 Inc.",
+    "url": "https://note.com/x402inc/n/n740f30109f44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs：AIエージェントのための規制対応の金融機関と、オープンソースのAgent Commerce Kit",
+    "url": "https://note.com/x402inc/n/n740f30109f44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs は、AIエージェントのための規制対応の金融機関をゼロから作る、ボストンのスタートアップ。Circle共同創業者の Sean Neville が率いる。",
+    "url": "https://note.com/x402inc/n/n740f30109f44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月に$18Mのシード（a16z crypto主導）でステルスを脱し、2026年5月に$30MのシリーズA（Acrew Capital・a16z crypto主導）。国のトラスト銀行チャーターを申請している。",
+    "url": "https://note.com/x402inc/n/n740f30109f44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "立ち上げ時に、オープンソースの Agent Commerce Kit（ACK）を公開した。エージェントの身元の ACK-ID と、支払いフローの ACK-Pay。",
+    "url": "https://note.com/x402inc/n/n740f30109f44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "芯は、規制されたレールこそAIネイティブなマネーの前提だ、という立場。既存の決済網とつなぎながら、規制されたステーブルコインへ橋渡しする。",
+    "url": "https://note.com/x402inc/n/n740f30109f44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "で「スマート決済」に挙げた1社を、単体で掘り下げるもの。",
+    "url": "https://note.com/x402inc/n/n740f30109f44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs は、Circle の共同創業者で USDC を共同で作った Sean Neville（CEO）と、同じく Circle 出身の Matt Venables（CTO）が創業した、ボストンのスタートアップ。少人数（当初9人規模）で、AIエージェント向けの金融機関を土台から作ることを掲げる。",
+    "url": "https://note.com/x402inc/n/n740f30109f44?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "米Catena Labs──USDCを世に出した創業者が作るAIエージェント決済の銀行｜Yushi88｜AIスタートアップ最前線",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "米Catena Labs──USDCを世に出した創業者が作るAIエージェント決済の銀行",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "「AIエージェントには社会保障番号がない。利用規約に署名することもできない」── 業界ではしばしばこう指摘される。米ドル連動の暗号資産USDCを世に出したCircleの共同創業者、Sean Neville(ショーン・ネヴィル)率いる米",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "は2026年5月、3,000万ドルのシリーズA(シードの次に行う初期段階の資金調達)を調達し、米国通貨監督庁(OCC)へ",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "した。AIエージェント(自律的に業務をこなすAI)を顧客にする銀行を、規制対応ごと一から作る、業界の主流に逆らう戦略だ。",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "AIに銀行口座は作れない──Catenaが解く問題",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "銀行業は「お金を預かり、本人確認・貸し出し審査・送金・法令順守を一括で引き受ける仕事」だ。本人確認(KYC=Know Your Customer)は犯罪資金の洗浄(マネーロンダリング)を防ぐため身分証で実在を確かめる法的義務で、人間でも法人でもないAIエージェントは原則として口座を開けない。Catena Labs はAI専用の口座とIDを発行し、預かりと送金を自社で完結させる方針をとった。",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "Agent Commerce Kit──プロトコルから先に出す戦略",
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs：AIエージェントのための規制対応の金融機関と、オープンソースのAgent Commerce Kit｜Katomasa@x402 Inc.",
+    "url": "https://note.com/x402inc/n/n740f30109f44",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs：AIエージェントのための規制対応の金融機関と、オープンソースのAgent Commerce Kit",
+    "url": "https://note.com/x402inc/n/n740f30109f44",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs は、AIエージェントのための規制対応の金融機関をゼロから作る、ボストンのスタートアップ。Circle共同創業者の Sean Neville が率いる。",
+    "url": "https://note.com/x402inc/n/n740f30109f44",
+    "pass": 3
+   },
+   {
+    "quote": "2025年5月に$18Mのシード（a16z crypto主導）でステルスを脱し、2026年5月に$30MのシリーズA（Acrew Capital・a16z crypto主導）。国のトラスト銀行チャーターを申請している。",
+    "url": "https://note.com/x402inc/n/n740f30109f44",
+    "pass": 3
+   },
+   {
+    "quote": "立ち上げ時に、オープンソースの Agent Commerce Kit（ACK）を公開した。エージェントの身元の ACK-ID と、支払いフローの ACK-Pay。",
+    "url": "https://note.com/x402inc/n/n740f30109f44",
+    "pass": 3
+   },
+   {
+    "quote": "芯は、規制されたレールこそAIネイティブなマネーの前提だ、という立場。既存の決済網とつなぎながら、規制されたステーブルコインへ橋渡しする。",
+    "url": "https://note.com/x402inc/n/n740f30109f44",
+    "pass": 3
+   },
+   {
+    "quote": "で「スマート決済」に挙げた1社を、単体で掘り下げるもの。",
+    "url": "https://note.com/x402inc/n/n740f30109f44",
+    "pass": 3
+   },
+   {
+    "quote": "Catena Labs は、Circle の共同創業者で USDC を共同で作った Sean Neville（CEO）と、同じく Circle 出身の Matt Venables（CTO）が創業した、ボストンのスタートアップ。少人数（当初9人規模）で、AIエージェント向けの金融機関を土台から作ることを掲げる。",
+    "url": "https://note.com/x402inc/n/n740f30109f44",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Catena Labs (@CatenaLabs) / X 11 followers · 1 following. Joined Apr 2022. See the latest conversations with @CatenaLabs",
+    "url": "https://x.com/CatenaLabs",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Catena Labs (@CatenaLabs) / X @CatenaLabs hasn’t replied When they reply, their replies will show up here.",
+    "url": "https://x.com/CatenaLabs/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Catena Labs (@CatenaLabs) / X 10 followers · 1 following. Joined Apr 2022. See the latest conversations with @CatenaLabs",
+    "url": "https://x.com/CatenaLabs/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Matt Venables - CTO & Co-Founder @ Catena | LinkedInCatena Hires Andrew Hungate & Molly Sterns to Lead Product ...Catena Labs Secures $18M to Build First AI-Native Financial ...#circle #catenalabs | Michele Mattei - LinkedInCatena Lab - LinkedInAdam Berrey - Catena Labs | LinkedIn Web3 product studio - merged into Catena Labs. Built Verite, the decentralized identity standard now used by Circle, B",
+    "url": "https://www.linkedin.com/in/mattvenables",
+    "pass": 3
+   },
+   {
+    "quote": "#circle #catenalabs | Michele Mattei - LinkedIn Circle co-founder Sean Neville raises $30M for AI banking startup Catena Labs Sean Neville, cofounder of #Circle, has raised $30 million in Series A funding for #CatenaLabs, a startup building ...",
+    "url": "https://www.linkedin.com/posts/michele-mattei_circle-catenalabs-activity-7463144056315854848-M45T?rcm=ACoAABh0NYEBdG8Ww4rdsFniLff6E2QfjB8iJEY",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Li Bel - [Waitlist] Catena Labs Register;... | Facebook [Waitlist] Catena Labs Register; https://catenalabs.com/ - Scroll Down - Enter Email & SignUp Done",
+    "url": "https://www.facebook.com/li.bel.7587/posts/waitlist-catena-labs-register-httpscatenalabscom-scroll-down-enter-email-signup-/1232229941805936/",
+    "pass": 3
+   },
+   {
+    "quote": "Reika - [CATENA LABS WAITLIST ] Enter email ... - Facebook May 20, 2025 · [CATENA LABS WAITLIST 📄] Enter email below: https://catenalabs.com/ for more airdrop updates: https://t.me/ReizAirdrop",
+    "url": "https://www.facebook.com/rei.pagod/photos/catena-labs-waitlist-enter-email-below-httpscatenalabscomfor-more-airdrop-update/1171380714788628/",
+    "pass": 3
+   },
+   {
+    "quote": "Hei - CATENA Waitlist catenalabs.com Investments: Catena ... Jun 2, 2025 · Hei - CATENA Waitlist 🔗 catenalabs.com Investments: Catena raised $18M in investments from top-tier funds like Coinbase and a16z. Catena Labs is developing financial infrastructure for AI agents, equipping them with the necessary tools to fully participate in the economy.",
+    "url": "https://www.facebook.com/hei.hachi.52257/photos/catena-waitlist-catenalabscominvestments-catena-raised-18m-in-investments-from-t/679274225094749/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://catena.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catena.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nri.com/jp/news/info/20251127_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nri.com/jp/news/info/files/000054850.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ntt.com/about-us/press-releases/news/article/2025/0225.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catenalabs.ch/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://catenalab.com/?hl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.catlabs.hu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/catenalabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.catenasolutions.com/insights/manufacturing-organizational-improvement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/dematic/case-study/caterpillar-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.catallysts.com/case-studies-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalant.com/customer-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/531088-39",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/catenalabs/__uQqtmzhrugQgNwYjKd8f1dOHVxTs9Vd7Ot3Y1j78sJQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/catena-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/catena/__ZeD3KH5E7AYjpKtCXHdQvR1AUjMl5cY2sYi2QY_Yrc0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/x402inc/n/n740f30109f44?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yushi88/n/ne5c59860130a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/x402inc/n/n740f30109f44",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CatenaLabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CatenaLabs/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mattvenables",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/michele-mattei_circle-catenalabs-activity-7463144056315854848-M45T?rcm=ACoAABh0NYEBdG8Ww4rdsFniLff6E2QfjB8iJEY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/li.bel.7587/posts/waitlist-catena-labs-register-httpscatenalabscom-scroll-down-enter-email-signup-/1232229941805936/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rei.pagod/photos/catena-labs-waitlist-enter-email-below-httpscatenalabscomfor-more-airdrop-update/1171380714788628/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hei.hachi.52257/photos/catena-waitlist-catenalabscominvestments-catena-raised-18m-in-investments-from-t/679274225094749/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CatenaLabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CatenaLabs/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Catenalabs 日本 導入",
+   "results": [
+    "https://note.com/yushi88/n/ne5c59860130a",
+    "https://www.nri.com/jp/news/info/20251127_1.html",
+    "https://www.nri.com/jp/news/info/files/000054850.pdf",
+    "https://www.ntt.com/about-us/press-releases/news/article/2025/0225.html",
+    "https://www.denso.com/jp/ja/newsroom/news/2025/20250324-01/",
+    "https://kpmg.com/jp/ja/insights/2023/10/automotive-future-06.html",
+    "https://xtech.nikkei.com/atcl/nxt/keyword/18/00002/110100242/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Catenalabs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.catlabs.info/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Catenalabs Japan",
+   "results": [
+    "https://catenalabs.ch/",
+    "https://catenalab.com/?hl=ja",
+    "https://www.catlabs.hu/",
+    "https://www.linkedin.com/company/catenalabs",
+    "https://www.catlabs.info/",
+    "https://catena.bio/about/",
+    "https://catenado.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Catenalabs manufacturing customer case study",
+   "results": [
+    "https://www.catenasolutions.com/insights/manufacturing-organizational-improvement/",
+    "https://www.casestudies.com/company/dematic/case-study/caterpillar-customer-case-study",
+    "https://www.catallysts.com/case-studies-manufacturing",
+    "https://catalant.com/customer-case-studies/",
+    "https://research.cgu.edu/drucker-customer-lab/list-5-case-studies/",
+    "https://research.cgu.edu/drucker-customer-lab/auto-6-sustainability-with-catena-x-case-study/",
+    "https://catena-x.net/ecosystem/success-stories/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Catenalabs white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/partner",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://reseller.amazon.com/",
+    "https://www.reseller.co.nz/",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Catenalabs founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/531088-39",
+    "https://tracxn.com/d/companies/catenalabs/__uQqtmzhrugQgNwYjKd8f1dOHVxTs9Vd7Ot3Y1j78sJQ",
+    "https://startupintros.com/orgs/catena-labs",
+    "https://tracxn.com/d/companies/catena/__ZeD3KH5E7AYjpKtCXHdQvR1AUjMl5cY2sYi2QY_Yrc0",
+    "https://fundediq.co/catena-labs-catena-xyz-funding/",
+    "https://indexed.vc/companies/catena-labs",
+    "https://www.gritt.io/company/catenalabs/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Catenalabs",
+   "results": [
+    "https://note.com/x402inc/n/n740f30109f44?hl=en",
+    "https://note.com/yushi88/n/ne5c59860130a",
+    "https://note.com/catena_lab/n/nb8f13f57435c?hl=en",
+    "https://note.com/x402inc/n/n740f30109f44",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/catena_lab/n/n986de0532685?hl=en",
+    "https://note.com/x402inc/n/n740f30109f44?hl=ko"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Catenalabs",
+   "results": [
+    "https://x.com/CatenaLabs",
+    "https://x.com/CatenaLabs/with_replies",
+    "https://x.com/catena_labs/status/2084695035346313518",
+    "https://x.com/catena_labs/status/2057083331548721655",
+    "https://x.com/catena_labs",
+    "https://x.com/catena_labs/status/2057083325764759971",
+    "https://x.com/catena_labs/status/2057083329279566025"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Catenalabs",
+   "results": [
+    "https://www.linkedin.com/company/catenalabs",
+    "https://www.linkedin.com/in/mattvenables",
+    "https://www.linkedin.com/posts/michele-mattei_circle-catenalabs-activity-7463144056315854848-M45T?rcm=ACoAABh0NYEBdG8Ww4rdsFniLff6E2QfjB8iJEY",
+    "https://www.linkedin.com/company/catena-lab/",
+    "https://www.linkedin.com/in/adamberrey",
+    "https://www.linkedin.com/posts/catenalabs_at-catena-were-building-the-first-ai-native-activity-7429906310919475200--2Jy",
+    "https://www.linkedin.com/posts/catenalabs_catena-labs-secures-18m-to-build-first-ai-native-activity-7330563695988703233-8P99"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Catenalabs",
+   "results": [
+    "https://www.facebook.com/lab.catena/",
+    "https://www.facebook.com/li.bel.7587/posts/waitlist-catena-labs-register-httpscatenalabscom-scroll-down-enter-email-signup-/1232229941805936/",
+    "https://www.facebook.com/rei.pagod/photos/catena-labs-waitlist-enter-email-below-httpscatenalabscomfor-more-airdrop-update/1171380714788628/",
+    "https://www.facebook.com/hei.hachi.52257/photos/catena-waitlist-catenalabscominvestments-catena-raised-18m-in-investments-from-t/679274225094749/",
+    "https://www.facebook.com/catenallc/",
+    "https://www.facebook.com/catenalab/about/",
+    "https://www.facebook.com/sfsoulradio/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Catenalabs note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260121536475/",
+    "https://note.jp/n/n51b6ea4b0bd6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Catenalabs X 投稿",
+   "results": [
+    "https://x.com/CatenaLabs",
+    "https://x.com/CatenaLabs/with_replies",
+    "https://x.com/catena_labs",
+    "https://muchong.com/bbs/viewthread.php?tid=16288954",
+    "https://www.xueshu.com/sci/41801/03.html",
+    "https://catenalab.com/?hl=ja",
+    "https://www.allconfs.org/list_info_view_xueshu.asp?id=1FADBE9E45549774F92F4C8923880D52"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

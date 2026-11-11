@@ -1,0 +1,363 @@
+{
+ "name": "HAIDLMEIR",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜失注",
+ "researched_at": "2026-11-11T02:33:13.408081+00:00",
+ "official_url": "https://www.haidlmair.at/en",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "HAIDLMAIR | Productivity for Sustainability",
+    "url": "https://www.haidlmair.at/en",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.twilio.com/legal/privacy",
+    "url": "https://www.haidlmair.at/en",
+    "pass": 1
+   },
+   {
+    "quote": "Social media - further information:",
+    "url": "https://www.haidlmair.at/en",
+    "pass": 1
+   },
+   {
+    "quote": "HAIDLMAIR - PRODUCTIVITY FOR SUSTAINABILITY",
+    "url": "https://www.haidlmair.at/en",
+    "pass": 1
+   },
+   {
+    "quote": "Productivity for Sustainability",
+    "url": "https://www.haidlmair.at/en",
+    "pass": 1
+   },
+   {
+    "quote": "At HAIDLMAIR you get quality, competent and individual advice and know-how from a single source. Our \"One Stop Shop for Higher Productivity\" offers an \"all-round carefree package\".",
+    "url": "https://www.haidlmair.at/en",
+    "pass": 1
+   },
+   {
+    "quote": "After delivery, HAIDLMAIR International Service and Mould Monitoring round off the product range perfectly.",
+    "url": "https://www.haidlmair.at/en",
+    "pass": 1
+   },
+   {
+    "quote": "The roots of HAIDLMAIR have always been in metalworking. Metal products have been manufactured at the Nußbach site for over 100 years. First it was agricultural machinery, now it is high-performance injection moulds for a wide variety of product areas.",
+    "url": "https://www.haidlmair.at/en",
+    "pass": 1
+   },
+   {
+    "quote": "Service is a top priority for us, so our responsibility does not end with the shipment of the tool. The tools are fully tested at our premises before delivery, in your presence, to ensure the optimum mould design. We guarantee you a certain number of shots and are of course always at your disposal should optimisation of the tool be necessary at any time during production.",
+    "url": "https://www.haidlmair.at/en",
+    "pass": 1
+   },
+   {
+    "quote": "We will process your request as soon as possible and get in contact with you!",
+    "url": "https://www.haidlmair.at/en",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "In recent years, we have expanded our mould making competencies with additional technologies. We are now able to offer services in the areas of computed tomography scanning, measurement technology and additive manufacturing. We have combined these services in HAIDLMAIR Advanced Technologies.",
+    "url": "https://www.haidlmair.at/en",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.haidlmair.at/en",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.haidlmair.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.sw.siemens.com/ja-JP/case-study-haidlmair/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.haidlmair.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.haidlmair.com/de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/haidlmair",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prolim.com/case-study/nx-cam/haidlmair-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.camlogic.com/media/rte/pdf/NX+CAM+Haidlmair+Case+Study.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/company/siemens-plm/case-study/injection-molding-tool-maker-saves-time-enhances-quality-and-eliminates-errors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/founded",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptonline.com/articles/haidlmair-aims-to-remake-moldmaking-with-speed-technology-and-efficiency",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "HAIDLMEIR 日本 導入",
+   "results": [
+    "https://www.haidlmair.com/en/",
+    "https://www.haidlmair.at/en/company/",
+    "https://www.haidlmair.at/en/products/",
+    "https://resources.sw.siemens.com/ja-JP/case-study-haidlmair/",
+    "https://www.plm.automation.siemens.com/media/global/ja/Siemens-SW-Haidlmair-CS-40676-81482_tcm57-75477.pdf",
+    "https://jp.linkedin.com/company/haidlmair",
+    "https://www.ptonline.com/suppliers/haidlmair"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HAIDLMEIR 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.haidlmair.at/en/products/",
+    "https://www.haimer.com/en",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HAIDLMEIR Japan",
+   "results": [
+    "https://www.haidlmair.at/en/company/",
+    "https://www.haidlmair.com/en/",
+    "https://www.haidlmair.at/en/products/",
+    "https://www.haidlmair.com/de/",
+    "https://www.haimer.com/jp",
+    "https://www.htm-zrt.com/en/homepage/",
+    "https://www.ptonline.com/articles/haidlmair-aims-to-remake-moldmaking-with-speed-technology-and-efficiency"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HAIDLMEIR manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/haidlmair",
+    "https://www.prolim.com/case-study/nx-cam/haidlmair-case-study/",
+    "https://www.camlogic.com/media/rte/pdf/NX+CAM+Haidlmair+Case+Study.pdf",
+    "https://www.casestudies.com/company/siemens-plm/case-study/injection-molding-tool-maker-saves-time-enhances-quality-and-eliminates-errors",
+    "https://www.hpe.com/psnow/doc/a50009172enw",
+    "https://www.hpe.com/psnow/downloadDoc/Customized+storage+for+custom+mold+Haidlmair+-+Case+Study+(English)-a50009172enw.pdf?id=a50009172enw&isFutureVersion=true&ver=1&form=false&preview=false&hf=regular&isLinearized=false&contentDisposition=attachment",
+    "https://resources.sw.siemens.com/en-US/case-study-haidlmair/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HAIDLMEIR white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.vizrt.com/partner-program/",
+    "https://reseller.amazon.com/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HAIDLMEIR founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/founded",
+    "https://www.haidlmair.at/media/i2xl2pek/haidlmair-group-surpasses-the-100-million-revenue-mark_us.pdf",
+    "https://www.ptonline.com/articles/haidlmair-aims-to-remake-moldmaking-with-speed-technology-and-efficiency",
+    "https://www.haidlmair.at/en/company/",
+    "https://www.zoominfo.com/c/haidlmair/427086040",
+    "https://craft.co/haidlmair",
+    "https://www.haidlmair.com/en/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com HAIDLMEIR",
+   "results": [
+    "https://note.com/contest/ワークライクバランス",
+    "https://note.com/aki_aoba/n/n9479f4d663fb",
+    "https://note.com/maxmatsuura/n/n04f20fbdce8e",
+    "https://note.com/tmg500/n/n4feb3787f0e8",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/guaran/n/ne1da1b216a7a",
+    "https://note.com/salaryman_fire/n/nd44b4fa3a2b5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com HAIDLMEIR",
+   "results": [
+    "https://x.com/ObscureSupercar/status/1983901705105178745",
+    "https://x.com/longtermtec",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/u_qrou/status/2003121211644276912",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/plasticsnews/status/1258366393201950721",
+    "https://x.com/BrimsCr7/status/2116416491205607831"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com HAIDLMEIR",
+   "results": [
+    "https://www.linkedin.com/company/haidlmair",
+    "https://at.linkedin.com/in/udo-strutzenberger-442948273",
+    "https://at.linkedin.com/in/mario-haidlmair",
+    "https://www.linkedin.com/posts/mario-haidlmair_were-currently-building-our-new-us-facility-activity-7482325874349043712-0J7W",
+    "https://it.linkedin.com/posts/carlo-latorre_haidlmair-acquisisce-il-75-di-euro-stampi-activity-7515707856566919168-v4k4",
+    "https://www.linkedin.com/in/dennis-vasbinder-6240251b",
+    "https://www.linkedin.com/posts/haidlmair_this-marks-the-beginning-of-a-new-chapter-activity-7467946879184736256-vqko"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com HAIDLMEIR",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "HAIDLMEIR note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://www.haidlmair.at/en/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HAIDLMEIR X 投稿",
+   "results": [
+    "https://x.com/",
+    "https://www.haidlmair.com/en/",
+    "https://www.haidlmair.at/en/company/",
+    "https://www.haidlmair.at/en",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://x.com/tgs_recommend",
+    "https://cyzd.top/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部17頁・検索12回）"
+ }
+}

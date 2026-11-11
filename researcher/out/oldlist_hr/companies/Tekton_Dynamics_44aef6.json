@@ -1,0 +1,658 @@
+{
+ "name": "Tekton Dynamics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-11T02:21:36.495477+00:00",
+ "official_url": "https://www.tekton-dynamics.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We handle the integration. You upload the jobs to your robot — and it welds. No teach pendant, no programming, no roboticist.",
+    "url": "https://tekton-dynamics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The robot plans the path, adapts to the part in front of it, and welds like an expert, every shift. No teach pendant, no programming.",
+    "url": "https://tekton-dynamics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tekton Dynamics joins the MTC's AURA programme",
+    "url": "https://tekton-dynamics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tekton Dynamics exists to put these tools into every manufacturer's hands, so the power to invent and build at scale is not a privilege of the few.",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "To advance industry and secure supply chains, every economy must answer the work that no longer attracts a human workforce. We build AI for the dull, dirty, and dangerous — offloading the hazardous and the mundane to intelligent machines, so manufacturers can compete globally while creating new, purposeful jobs locally. The future of making remains human-centric, accessible, and boundless.",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "20+ years · AI · robotics · production engineering",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "PhD and PostDoc in Machine Learning, Oxford University. Previously the Alan Turing Institute and McKinsey & Co.",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Former co-founder & CTO of an AI startup, with a decade of software engineering experience at LinkedIn, Etsy, and Frame.io shipping production interfaces.",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotics Researcher, Cambridge University. Previously robotics engineer and hardware lead at a UK robotics company.",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We tackle the hardest problems in industrial AI and robotics.",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We hire for trajectory, not checklists.",
+    "url": "https://tekton-dynamics.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Every engineer spends time on the shop floor — at our own industrial lab and at our customers. The hardest problems in industrial AI are the ones you only see standing right by the cell.",
+    "url": "https://tekton-dynamics.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We optimize for one thing: how fast a problem gets solved. Only results matter.",
+    "url": "https://tekton-dynamics.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We dive into first principles, question every assumption, and embrace heterodox thinking on the hardest technical problems.",
+    "url": "https://tekton-dynamics.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous improvement is non-negotiable. Direct feedback with candor and kindness — low egos, high trust, high growth.",
+    "url": "https://tekton-dynamics.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Some of our best hires arrived with their own job description.",
+    "url": "https://tekton-dynamics.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Tekton Dynamics joins the MTC's AURA programme",
+    "url": "https://tekton-dynamics.com/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Tekton Dynamics at the Defence Procurement Conference 2026",
+    "url": "https://tekton-dynamics.com/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Identity and operating footprint",
+    "url": "https://roboticsregistry.net/companies/tekton-dynamics",
+    "pass": 3
+   },
+   {
+    "quote": "Public job board · 2026-10-26",
+    "url": "https://roboticsregistry.net/companies/tekton-dynamics",
+    "pass": 3
+   },
+   {
+    "quote": "Hiring is an operating signal, not deployment evidence. Roles are refreshed from the company’s public careers system.",
+    "url": "https://roboticsregistry.net/companies/tekton-dynamics",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "A new industrial era · a labor crisis · the answer to both",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We are at the start of a new industrial era — rapid innovation and advanced manufacturing made possible by AI and robotics.",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Tekton Dynamics exists to put these tools into every manufacturer's hands, so the power to invent and build at scale is not a privilege of the few.",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "To advance industry and secure supply chains, every economy must answer the work that no longer attracts a human workforce. We build AI for the dull, dirty, and dangerous — offloading the hazardous and the mundane to intelligent machines, so manufacturers can compete globally while creating new, purposeful jobs locally. The future of making remains human-centric, accessible, and boundless.",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We tackle the hardest problems in industrial AI and robotics.",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Every engineer spends time on the shop floor — at our own industrial lab and at our customers. The hardest problems in industrial AI are the ones you only see standing right by the cell.",
+    "url": "https://tekton-dynamics.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "規模を問わず、すべてのmanufacturerがintelligent robotsを使ってあらゆるものを発明・製造できるようにすることを目指す",
+    "url": "https://ycpedia.com/companies/tekton-dynamics",
+    "pass": 3
+   },
+   {
+    "quote": "現在のindustrial robotsは高速だが、「盲目」だ",
+    "url": "https://ycpedia.com/companies/tekton-dynamics",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、industrial robotsが対象を見て、推論し、複雑な作業をサブミリメートルの精度で実行できるようにする、独自のvision systemとAI modelを開発している",
+    "url": "https://ycpedia.com/companies/tekton-dynamics",
+    "pass": 3
+   },
+   {
+    "quote": "AIとroboticsが支えるadvanced manufacturingによる、新たなindustrial revolutionが始まっている",
+    "url": "https://ycpedia.com/companies/tekton-dynamics",
+    "pass": 3
+   },
+   {
+    "quote": "すべてのmanufacturerがこうしたツールを使えるようにし、この規模で発明・製造する力が一部の企業だけの特権にならないようにすることで、その変革をリードする",
+    "url": "https://ycpedia.com/companies/tekton-dynamics",
+    "pass": 3
+   },
+   {
+    "quote": "We'll be at the MTC's Robotics & Automation Conference in Coventry — because advancing Britain's industrial base means pointing physical AI at one of its hardest labour shortages: welding.",
+    "url": "https://tekton-dynamics.com/news/",
+    "pass": 3
+   },
+   {
+    "quote": "We're in Birmingham this week to make a simple case: a resilient industrial base starts with closing the welding skills gap.",
+    "url": "https://tekton-dynamics.com/news/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Some of our best hires arrived with their own job description.",
+    "url": "https://tekton-dynamics.com/careers/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tekton Dynamics — The AI control layer for welding robots. — Tekton Dynamics builds the AI control layer that turns any robot into an autonomous expert welder. Automate welding even on high-mix products — no programming needed.",
+    "url": "https://tekton-dynamics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mission & Team — Tekton Dynamics — To empower every manufacturer, no matter their scale, to invent and build anything using intelligent robots. The team and values behind Tekton Dynamics.",
+    "url": "https://tekton-dynamics.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Tekton Dynamics - YCpedia — Tekton DynamicsのFounder兼CEO。 University of Oxfordで機械学習のPhDとPostdocを修了した。 Postdoc在籍中には、Alan Turing Instituteと英国国防省から授与された50万ドル超の研究助成金のプロジェクトリーダーも務めた。 それ以前はMcKinseyでコンサルタントとして働いていた。",
+    "url": "https://ycpedia.com/companies/tekton-dynamics",
+    "pass": 3
+   },
+   {
+    "quote": "News — Tekton Dynamics — Jun 8, 2026 · We're in Birmingham this week to make a simple case: a resilient industrial base starts with closing the welding skills gap. The robotic hardware was never the bottleneck. The robotic intelligence to run it on real, high-mix work was. New work, shipped and shared.",
+    "url": "https://tekton-dynamics.com/news/",
+    "pass": 3
+   },
+   {
+    "quote": "TEKTON DYNAMICS 2026 Company Profile: Valuation, Funding ...Tekton Dynamics — Physical AI software · The Modern Robotics ...Tekton Dynamics company information, funding & investors ...Tekton – Revenue Estimate & Market Landscape – 2026Tekton Revenue, Funding & ValuationTekton Dynamics — Founded 2024 | Indexed.vcTekton 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuat",
+    "url": "https://pitchbook.com/profiles/company/541153-99",
+    "pass": 3
+   },
+   {
+    "quote": "Tekton Dynamics — Physical AI software · The Modern Robotics ... — Jul 5, 2026 · Tekton Dynamics is a perception, devtools physical ai software headquartered in London, GB, founded 2023. $6M cited funding. Citation-first dossier: robots, deployments, funding rounds, hiring — every fact source-linked.",
+    "url": "https://roboticsregistry.net/companies/tekton-dynamics",
+    "pass": 3
+   },
+   {
+    "quote": "Tekton Dynamics company information, funding & investors ... — Tekton Dynamics, ai control layer that turns industrial robots into autonomous expert welders. Here you'll find information about their funding, investors and team.",
+    "url": "https://app.dealroom.co/companies/tekton_dynamics",
+    "pass": 3
+   },
+   {
+    "quote": "Tekton Revenue, Funding & ValuationTekton Dynamics — Founded 2024 | Indexed.vcTekton 2026 Company Profile: Valuation, Funding & Investors ... — Tekton has revenue of $20,000,000, estimated valuation of $64,000,000. Find contacts and company information on Prospeo. It lists 1–10 employees. Every product and vendor across these categories, with where each signal came from. Create a free account with",
+    "url": "https://prospeo.io/c/tekton-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "YC の会社ページに本人が掲載している情報（日本語訳は AI 翻訳",
+    "url": "https://ycpedia.com/companies/tekton-dynamics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tekton Dynamics (@tekton_dynamics) / X Jan 3, 2024 · AI control layer for welding robots | YC W24 Follow us on LinkedIn: linkedin.com/company/tekton…",
+    "url": "https://x.com/tekton_dynamics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tekton Dynamics (YC W24) - LinkedIn AI control layer for welding robots | YC W24 | www.tekton-dynamics.com | Our mission is to empower every manufacturer, no matter their scale, to invent and build anything using intelligent...",
+    "url": "https://www.linkedin.com/company/tekton-dynamics",
+    "pass": 3
+   },
+   {
+    "quote": "Tekton Dynamics (YC W24) - LinkedIn AI control layer for welding robots | YC W24 | www.tekton-dynamics.com | Our mission is to empower every manufacturer, no matter their scale, to invent and build anything using intelligent...",
+    "url": "https://uk.linkedin.com/company/tekton-dynamics",
+    "pass": 3
+   },
+   {
+    "quote": "Max Ahrens - CEO & Founder @ Tekton Dynamics (YC W24 ...Tekton Dynamics joins the MTC's AURA programme - LinkedInSimon White - Tekton Dynamics (YC W24) | LinkedInWelcome to Innvotek and Tekton Dynamics | Tekton Dynamics (YC ...Tekton Dynamics at the Defence Procurement Conference 2026 ... CEO & Founder @ Tekton Dynamics (YC W24) | PhD in AI @ Oxford | ex Turing Institute | ex McKinsey · Experience",
+    "url": "https://uk.linkedin.com/in/maximilianahrens",
+    "pass": 3
+   },
+   {
+    "quote": "Tekton Dynamics joins the MTC's AURA programme - LinkedIn Tekton Dynamics (YC W24) is joining AURA, the robotics and physical AI accelerator of the MTC - Manufacturing Technology Centre.",
+    "url": "https://www.linkedin.com/posts/tekton-dynamics_tekton-dynamics-joins-the-mtcs-aura-programme-activity-7505929172251238400-tjVZ",
+    "pass": 3
+   },
+   {
+    "quote": "Max Ahrens - CEO & Founder @ Tekton Dynamics (YC W24 ...note 役員一覧 | 取締役7名の経歴と選任賛成比率加藤貞顕 - WikipediaTekton Dynamics - YCpediaTekton Dynamics $500K Seed Funding (2024) | Investors ... CEO & Founder @ Tekton Dynamics (YC W24) | PhD in AI @ Oxford | ex Turing Institute | ex McKinsey · Experience: Tekton Dynamics (YC W24) · Location: London · 500+ connections on LinkedIn.... Oct 12, 2026 · 2000年4月にアスキー",
+    "url": "https://uk.linkedin.com/in/maximilianahrens",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TEKTON - FacebookThey are not done. ⚡ Nissan comes back strong with a solid ...Tekton - Ever seen a center channel like this? This custom ...Tekton Encore Speakers – Massive Soundstage & Incredible ...Tekton Services, LLC - FacebookNissan Tekton Set for 2026 Debut: A New Challenger to the ... Oct 23, 2026 · We design and CNC-cut each foam organizer in our Grand Rapids, Michigan, manufacturing faci",
+    "url": "https://www.facebook.com/tektontools/",
+    "pass": 3
+   },
+   {
+    "quote": "They are not done. ⚡ Nissan comes back strong with a solid ... Nov 1, 2026 · They are not done. ⚡ Nissan comes back strong with a solid product: Nissan Tekton. A well-rounded SUV engineered for unmatched driving dynamics, delivering segment-leading power, sharp handling, and...",
+    "url": "https://www.facebook.com/rngnissanup/videos/they-are-not-done-nissan-comes-back-strong-with-a-solid-product-nissan-tekton-a-/1850484606089515/",
+    "pass": 3
+   },
+   {
+    "quote": "Tekton - Ever seen a center channel like this? This custom ... Dec 13, 2024 · Ever seen a center channel like this? This custom Ulfberht packs dual 15\" drivers for massive power and dynamics. What movie would you want to...",
+    "url": "https://www.facebook.com/photo/?fbid=1396920121690276",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tekton-dynamics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tekton-dynamics.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tekton-dynamics.com/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.issoh.co.jp/tech/details/15574/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tekton-dynamics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ripla.co.jp/blog/system/tekton-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000193546.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tekton-dynamics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tekton-dynamics.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ycpedia.com/companies/tekton-dynamics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prsguitars.jp/products/bolt-on/tekton-floyd-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tekton-dynamics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tekton-dynamics.com/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/payload/case-study/how-tekton-retooled-with-payload",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tektonlabs.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/541153-99",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://roboticsregistry.net/companies/tekton-dynamics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.dealroom.co/companies/tekton_dynamics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/tekton",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tekton_dynamics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tekton-dynamics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/tekton-dynamics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/maximilianahrens",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tekton-dynamics_tekton-dynamics-joins-the-mtcs-aura-programme-activity-7505929172251238400-tjVZ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tektontools/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rngnissanup/videos/they-are-not-done-nissan-comes-back-strong-with-a-solid-product-nissan-tekton-a-/1850484606089515/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/photo/?fbid=1396920121690276",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/maximilianahrens",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tekton_dynamics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tekton Dynamics 日本 導入",
+   "results": [
+    "https://www.issoh.co.jp/tech/details/15574/",
+    "https://tekton-dynamics.com/",
+    "https://www.ripla.co.jp/blog/system/tekton-companies/",
+    "https://prtimes.jp/main/html/rd/p/000000001.000193546.html",
+    "https://transcarweb.com/2607-nissan-tekton-1st-wp/",
+    "https://carview.yahoo.co.jp/article/detail/7e3f62b33a60f7548d41ed74b5fa03105f7457d3/",
+    "https://www.jetro.go.jp/biznews/2026/09/1317bdd3e05caf4d.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tekton Dynamics 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tekton Dynamics Japan",
+   "results": [
+    "https://tekton-dynamics.com/",
+    "https://tekton-dynamics.com/about/",
+    "https://ycpedia.com/companies/tekton-dynamics",
+    "https://www.prsguitars.jp/products/bolt-on/tekton-floyd-2026",
+    "https://tekton.jp/",
+    "https://presentofai.com/spotlight/tekton-dynamics.com",
+    "https://www.linkedin.com/company/tekton-dynamics"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tekton Dynamics manufacturing customer case study",
+   "results": [
+    "https://tekton-dynamics.com/",
+    "https://tekton-dynamics.com/news/",
+    "https://www.casestudies.com/company/payload/case-study/how-tekton-retooled-with-payload",
+    "https://www.tektonlabs.com/case-studies",
+    "https://cd.foundation/case-studies/tekton-case-studies/",
+    "https://www.microsoft.com/en-us/dynamics-365/blog/content-type/customer-stories/",
+    "https://www.urban.vc/portfolio-130/tekton"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tekton Dynamics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/partner",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.spectrum.com/",
+    "https://reseller.amazon.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tekton Dynamics founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/541153-99",
+    "https://roboticsregistry.net/companies/tekton-dynamics",
+    "https://app.dealroom.co/companies/tekton_dynamics",
+    "https://compworth.com/company/tekton",
+    "https://prospeo.io/c/tekton-revenue",
+    "https://indexed.vc/companies/tekton-dynamics",
+    "https://pitchbook.com/profiles/company/438463-63"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tekton Dynamics",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/sekasu/n/n985d4263a09c",
+    "https://note.com/abeshi/n/n0506b291db8a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tekton Dynamics",
+   "results": [
+    "https://x.com/tekton_dynamics",
+    "https://x.com/",
+    "https://x.com/aakash_rewari/status/2106959956679524423",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Marlayna29/status/2115433590150606880"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tekton Dynamics",
+   "results": [
+    "https://www.linkedin.com/company/tekton-dynamics",
+    "https://uk.linkedin.com/company/tekton-dynamics",
+    "https://uk.linkedin.com/in/maximilianahrens",
+    "https://www.linkedin.com/posts/tekton-dynamics_tekton-dynamics-joins-the-mtcs-aura-programme-activity-7505929172251238400-tjVZ",
+    "https://uk.linkedin.com/in/simon-white-8a4a7533",
+    "https://www.linkedin.com/posts/tekton-dynamics_welcome-to-innvotek-and-tekton-dynamics-activity-7505879483195756544-hfrq",
+    "https://www.linkedin.com/posts/tekton-dynamics_tekton-dynamics-at-the-defence-procurement-activity-7470749282954940416-kq8g"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tekton Dynamics",
+   "results": [
+    "https://www.facebook.com/mashableindia/videos/they-are-not-done-nissan-comes-back-strong-with-a-solid-product-tekton-a-well-ro/2072585200281713/",
+    "https://www.facebook.com/tektontools/",
+    "https://www.facebook.com/rngnissanup/videos/they-are-not-done-nissan-comes-back-strong-with-a-solid-product-nissan-tekton-a-/1850484606089515/",
+    "https://www.facebook.com/photo/?fbid=1396920121690276",
+    "https://www.facebook.com/marketplace/item/2394603401052974/",
+    "https://www.facebook.com/tektonservicesllc/",
+    "https://www.facebook.com/Carbike360/videos/nissan-tekton-set-for-2026-debut-a-new-challenger-to-the-hyundai-cretanissan-is-/1630753565033989/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tekton Dynamics note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://tekton-dynamics.com/about/",
+    "https://tekton-dynamics.com/news/",
+    "https://uk.linkedin.com/in/maximilianahrens",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://ycpedia.com/companies/tekton-dynamics",
+    "https://fundup.ai/recently-funded-startups/company/2310341cc0a5bd88dabc0ab1aab7fce8610e294f8efd680089ceee927bd24187/tekton-dynamics"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tekton Dynamics X 投稿",
+   "results": [
+    "https://x.com/tekton_dynamics",
+    "https://tekton-dynamics.com/",
+    "https://tekton-dynamics.com/news/",
+    "https://presentofai.com/spotlight/tekton-dynamics.com",
+    "https://ycpedia.com/companies/tekton-dynamics",
+    "https://note.com/munou_ac/n/n3489f9572885",
+    "https://x.com/ohshie1973/status/2120255613045514518"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

@@ -1,0 +1,478 @@
+{
+ "name": "Distran",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-11T02:46:58.486862+00:00",
+ "official_url": "https://distran.swiss/en/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Identify compressed air and gas losses.",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Pressurized gas leaks generate ultrasound, inaudible to humans but detectable even in noisy environments.",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators can pinpoint leaks in real time and evaluate their severity, helping prioritize maintenance and determine whether it is safe to approach.",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time acoustic video of a gas leak with estimated flow rate (3200 L/h)",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Any pressurized gas leak generates ultrasound that can be detected and localized.",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Estimate leak rates instantly to prioritize maintenance actions.",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Perform reliable inspections with minimal training.",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect gas, air and vacuum leaks across large assets to improve plant availability and reduce downtime.",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven in mission-critical environments",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Why operators use Distran acoustic cameras",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "1. Gas leaks generate ultrasonic sound that stands out from industrial noise",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Operators can pinpoint leaks in real time and evaluate their severity, helping prioritize maintenance and determine whether it is safe to approach.",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading industrial operators worldwide",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Used across critical industrial applications",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect gas and vacuum leaks across a wide range of gases in hazardous environments without exposing operators.",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect gas, air and vacuum leaks across large assets to improve plant availability and reduce downtime.",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Used in demanding applications including aerospace and hydrogen systems where reliability is critical.",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultrasonic Gas Leak Detection Cameras for Industrial Safety | Distran",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Using an array of microphones, Distran cameras capture ultrasound and convert it into a visual image, showing exactly where the leak is located.",
+    "url": "https://distran.swiss/en/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://distran.swiss/en/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://assets.tina.io/8b38d00a-5930-44d9-9487-e2b8fdd05edb/customers/total-energies.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.tina.io/8b38d00a-5930-44d9-9487-e2b8fdd05edb/customers/shell.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.tina.io/8b38d00a-5930-44d9-9487-e2b8fdd05edb/customers/basf.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.tina.io/8b38d00a-5930-44d9-9487-e2b8fdd05edb/customers/air-liquide.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kirklands.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kirklands.com/custserv/store.jsp?storeName=Waxahachie+Marketplace",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.kirklands.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.kirklands.com/Kirkland-s-Home-and-Beyond--Inc--to-Revitalize-Bed-Bath-Beyond-Brand-with-Neighborhood-Store-Strategy-Through-New-Strategic-Partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bhg.com/how-to-get-rid-of-gnats-7561914",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodhousekeeping.com/home/a73727018/how-to-get-rid-of-gnats-in-house/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wikihow.com/Use-Home-Remedies-to-Get-Rid-of-Gnats",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.entomologist.net/how-to-get-rid-of-flies-and-nats-in-the-home.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loc8nearme.com/pennsylvania/butler/sams-club/508746/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corporate.walmart.com/about/samsclub",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.samsclub.com/club/4859-butler-pa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.samsclub.com/are-you-human?url=Lw==&uuid=7ec0b87e-dd7a-11f1-a495-35744d31af50&vid=&g=b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.packersproshop.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.packersproshop.com/green-bay-packers-mens",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.walmart.com/blocked?url=L2Jyb3dzZS9zcG9ydHMtb3V0ZG9vcnMvZ3JlZW4tYmF5LXBhY2tlcnMtdGVhbS1zaG9wLzQxMjVfMTA2Mzk4NF8xNDIzNDU1Xzg5NjUzODI=&uuid=8c94d2e7-dd7a-11f1-8973-a8a0dca23079&vid=&g=b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nflshop.com/green-bay-packers/t-25596865+z-9688504-2982296067",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://outlook.live.com/mail/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.avvo.com/legal-answers/where-to-serve-subpoenas-on-hotmail-and-outlook--2128445.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.avvo.com/legal-answers/i-would-like-to-withdraw-my-signature-from-a-contr-4870801.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.microsoft.com/ja-jp/answers/questions/b45f8dde-aa4a-4598-ab6e-21a67f8b6ec2/%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A3%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%82%C2%A0%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%C2%A2%C3%A2%E2%82%AC%C5%BE%C3%82%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%E2%80%9A%C3%82%C2%AC%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A3%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%E2%80%9A%C3%82%C2%AC%C3%83%C6%92%C3%A2%E2%82%AC%C2%A6%C3%83%E2%80%9A%C3%82%C2%A1%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A9%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A3%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%82%C2%A0%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%C2%A2%C3%A2%E2%82%AC%C5%BE%C3%82%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%82%C2%B9%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%E2%80%9A%C3%82%C2%A0%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A3%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%9A%C3%82%C2%A2%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%E2%80%9A%C3%82%C2%AC%C3%83%C6%92%C3%A2%E2%82%AC%C2%A6%C3%83%E2%80%9A%C3%82%C2%A1%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%AE%C3%83%C6%92%C3%86%E2%80%99%C3%83%E2%80%A0%C3%A2%E2%82%AC%E2%84%A2%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A3%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%82%C2%A0%C3%83%C6%92%C3%82%C2%A2%C3%83%C2%A2%C3%A2%E2%82%AC%C5%A1%C3%82%C2%AC%C3%83%C2%A2%C3%A2%E2%82%AC%C5%BE%C3%82%C2%A2%C3%83%C6%92%C3%86%E2%80%99%C3%83%C2%A2%C3%A2%E2%80%9A%C2%AC%C3%85%C2%A1%C3%83%C6%92%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%9A%C3%82%C2%A3?forum=windows-all&referrer=answers",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Distran 日本 導入",
+   "results": [
+    "https://www.kirklands.com/",
+    "https://www.kirklands.com/custserv/store.jsp?storeName=Waxahachie+Marketplace",
+    "https://ir.kirklands.com/",
+    "https://ir.kirklands.com/Kirkland-s-Home-and-Beyond--Inc--to-Revitalize-Bed-Bath-Beyond-Brand-with-Neighborhood-Store-Strategy-Through-New-Strategic-Partnership",
+    "https://www.kirklands.com/thumbnail/Art-Wall-Decor/Art/Framed-Art/pc/2283/c/2293/2669.uts",
+    "https://www.kirklands.com/thumbnail/Art-Wall-Decor/Art/Canvas-Art/pc/2283/c/2293/2673.uts",
+    "https://www.kirklands.com/category/Home-Decor-Pillows/Pillows/pc/2284/2307.uts",
+    "https://www.kirklands.com/custserv/custserv.jsp",
+    "https://www.kirklands.com/custserv/store.jsp?storeName=L.+Street+Marketplace",
+    "https://www.kirklands.com/category/Sales/Home-Decor-SALE/pc/2330/2746.uts"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Distran 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bhg.com/how-to-get-rid-of-gnats-7561914",
+    "https://www.goodhousekeeping.com/home/a73727018/how-to-get-rid-of-gnats-in-house/",
+    "https://www.wikihow.com/Use-Home-Remedies-to-Get-Rid-of-Gnats",
+    "https://blog.entomologist.net/how-to-get-rid-of-flies-and-nats-in-the-home.html",
+    "https://www.thisoldhouse.com/pest-control/how-to-get-rid-of-gnats",
+    "https://www.marthastewart.com/causes-of-indoor-gnats-11755067",
+    "https://www.bcpestcontrol.com/how-to-get-rid-of-gnats-in-your-house/",
+    "https://www.thespruce.com/how-to-get-rid-of-gnats-in-kitchen-11972384",
+    "https://housewifehowtos.com/clean/how-to-get-rid-of-gnats-in-homes/",
+    "https://www.treehugger.com/how-to-repel-gnats-naturally-4864050"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Distran Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Distran manufacturing customer case study",
+   "results": [
+    "https://www.loc8nearme.com/pennsylvania/butler/sams-club/508746/",
+    "https://corporate.walmart.com/about/samsclub",
+    "https://www.samsclub.com/club/4859-butler-pa",
+    "https://www.samsclub.com/",
+    "https://www.storeopeninghours.com/sams-club-butler-pa",
+    "https://www.storelocators.com/store-lists/sams_club/pennsylvania",
+    "https://www.theweeklyad.com/samsclub-butler-pa/",
+    "https://credit.syf.com/commonredirect/sams/commonlogin.html",
+    "https://links.samsclub.com/Homepage",
+    "https://links.samsclub.com/welcome"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Distran white label OR reseller OR partner program",
+   "results": [
+    "https://www.packersproshop.com/",
+    "https://www.packersproshop.com/green-bay-packers-mens",
+    "https://www.walmart.com/browse/sports-outdoors/green-bay-packers-team-shop/4125_1063984_1423455_8965382",
+    "https://www.nflshop.com/green-bay-packers/t-25596865+z-9688504-2982296067",
+    "https://www.dickssportinggoods.com/f/green-bay-packers-apparel-gear",
+    "https://www.packers.com/",
+    "https://www.amazon.com/green-bay-packers-apparel/s?k=green+bay+packers+apparel"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Distran founded funding employees revenue",
+   "results": [
+    "https://www.outlook.com/",
+    "https://www.avvo.com/legal-answers/where-to-serve-subpoenas-on-hotmail-and-outlook--2128445.html",
+    "https://www.avvo.com/legal-answers/i-would-like-to-withdraw-my-signature-from-a-contr-4870801.html",
+    "https://www.answers.microsoft.com/ja-jp/windows/forum/all/ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Â¹ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£/b45f8dde-aa4a-4598-ab6e-21a67f8b6ec2",
+    "https://www.avvo.com/attorneys/98938-wa-shannon-mcminimee-34628.html",
+    "https://www.avvo.com/attorneys/24450-va-sandra-drewniak-1809232.html",
+    "https://www.avvo.com/attorneys/02780-ma-amber-cohen-1933761.html",
+    "https://www.avvo.com/legal-answers/is-this-a-scam-i-don-t-remember-ever-encountering--6139508.html",
+    "https://www.avvo.com/attorneys/ma-edward-rice-1335512.html",
+    "https://www.avvo.com/attorneys/98370-wa-justus-kandoll-4236578.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "site:note.com Distran",
+   "results": [
+    "https://www.walmart.com/c/kp/iridescent-christmas-decorations",
+    "https://www.walmart.com/c/kp/iridescent-christmas-decorations-outdoor",
+    "https://www.amazon.com/iridescent-christmas/s?k=iridescent+christmas",
+    "https://www.amazon.com/iridescent-christmas-decorations/s?k=iridescent+christmas+decorations",
+    "https://www.craftoutlet.com/collections/iridescent-christmas",
+    "https://www.etsy.com/market/iridescent_christmas_decorations",
+    "https://www.target.com/s/iridescent+christmas+decorations",
+    "https://www.etsy.com/market/iridescent_christmas",
+    "https://www.tasteofhome.com/collection/prismatic-christmas-decor/",
+    "https://www.ebay.com/shop/christmas-iridescent?_nkw=christmas+iridescent"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 27
+  },
+  {
+   "query": "site:x.com Distran",
+   "results": [
+    "https://en.wikipedia.org/wiki/ElgooG",
+    "https://elgoog.im/",
+    "https://nixomagazine.com/elgoog/",
+    "https://www.wikiwand.com/en/ElgooG",
+    "https://elgoog.im/pacman/",
+    "https://elgoog.info/",
+    "https://elgoog.eu/nl/",
+    "https://elgoog.me/",
+    "https://www.elegoo.com/",
+    "https://elgoog.im/gravity/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Distran",
+   "results": [
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://support.microsoft.com/es-ar/contactus/",
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/fr-be/contactus/",
+    "https://support.microsoft.com/en-us/edge/",
+    "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Distran",
+   "results": [
+    "https://www.wzzm13.com/article/entertainment/events/list-2026-veterans-day-events-in-west-michigan/69-bb9d8968-714e-44b5-9010-37fbfbd262e6",
+    "https://president.umich.edu/news-communications/messages-to-the-community/honoring-our-veterans/",
+    "https://ro.umich.edu/calendars",
+    "https://smtd.umich.edu/event/11-november-2024-2/",
+    "https://vets.umich.edu/events/veterans-week-2026",
+    "https://www.mlive.com/news/ann-arbor/2026/11/veterans-day-2026-celebrations-planned-in-and-around-ann-arbor.html",
+    "https://vets.umich.edu/",
+    "https://record.umich.edu/tags/veterans-week/",
+    "https://hr.umich.edu/working-u-m/my-employment/holidays-season-days",
+    "https://www.mlive.com/news/ann-arbor/2025/11/these-veterans-day-2025-events-are-planned-at-the-university-of-michigan.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Distran note 社長",
+   "results": [
+    "https://en.m.wikipedia.org/wiki/Matt_Gaetz",
+    "https://en.m.wikipedia.org/wiki/Florida's_1st_congressional_district",
+    "https://congress.net/is-matt-gaetz-still-in-congress-why-he-resigned/",
+    "https://www.usatoday.com/story/news/politics/2026/10/15/matt-gaetz-sex-trafficking-lawsuit-allegations/92267015007/",
+    "https://www.britannica.com/biography/Matt-Gaetz",
+    "https://people.com/matt-gaetz-and-wife-ginger-are-expecting-second-baby-12247164",
+    "https://www.npr.org/2024/12/23/nx-s1-5233060/matt-gaetz-ethics-report-released",
+    "https://www.bbc.com/news/articles/c99r2m4y2zro",
+    "https://www.linkedin.com/in/mark-gaetz-a99a9b19",
+    "https://www.independent.co.uk/news/world/americas/us-politics/matt-gaetz-civil-suit-sex-trafficking-b3067642.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Distran X 投稿",
+   "results": [
+    "https://www.reddit.com/r/TemuThings/",
+    "https://www.reddit.com/r/malefashionadvice/comments/15egmvq/is_temu_legit_anyone_get_clothes_from_there/",
+    "https://www.zhihu.com/question/2018033406588531343",
+    "https://www.zhihu.com/question/551822950",
+    "https://www.reddit.com/r/privacy/comments/17x4qd4/temu_appthey_got_me/",
+    "https://www.reddit.com/r/quilting/comments/17sqp55/your_opinion_on_temu_fabrics/",
+    "https://www.zhihu.com/question/554281380",
+    "https://www.reddit.com/r/3Dprinting/comments/17owq9e/has_anyone_tried_filament_from_temu/",
+    "https://www.reddit.com/r/newzealand/comments/130fsg9/temu_anyone_tried_it/",
+    "https://www.zhihu.com/question/562312081"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）"
+ }
+}

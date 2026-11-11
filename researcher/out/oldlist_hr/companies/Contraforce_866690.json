@@ -1,0 +1,1001 @@
+{
+ "name": "Contraforce",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜商談中",
+ "researched_at": "2026-11-11T02:13:44.218969+00:00",
+ "official_url": "https://www.contraforce.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Start in Manual mode. Set approval rules. Raise autonomy when your team is ready.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The only lever is headcount, and security talent is the hardest headcount to hire and keep. Most teams absorb the cost in hours, quality, or burnout long before anyone measures it.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow one incident from detection to client report, across every customer you protect.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every customer you protect, every tool they run, every action your team takes. One ContraForce console sits at the center.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Some incidents need more than a verdict. Agents close what the evidence supports and recommend the response for the rest. Your approval rules decide what runs on its own.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revoke the sessions, scan the endpoint, lock the account. Once approved, each action runs in sequence on the right tenant and lands in the audit trail.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents run the delivery loop end to end: triage, investigation, response, tuning, ticket, report. Your analysts review outcomes instead of producing them.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your standard operating procedures (SOPs) become executable workflows with approval gates at every level. Expand autonomy across every workspace, and every action lands in the audit trail.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Approval gates on every consequential action",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track investigations, token usage, and spend per workspace in one place. Forecast the cycle before it closes and set spend controls, so delivery cost never surprises you.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents watch which detections fire, which resolve as noise, and draft the rule change with the evidence behind it. Compress 2 to 3 month tuning cycles into days. Nothing reaches a customer environment without your approval.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compress months of tuning into 40 days or less. Start delivering on day two instead of month three. Every week you save is a week of coverage and revenue captured earlier.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A monthly plan plus a flat rate per incident a Security Delivery Agent processes. No per-user or per-endpoint math. The economics work the same on client one hundred as they do on client one.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“So far the results have been fantastic. The amount of detail it provides is really good. We can take that data and share it with our customers, showing them what happened, and it just wows them.”",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Measured results. Not marketing claims.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An operating model where Security Delivery Agents run the work of security, governed by humans, across every environment you protect.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce is the Agentic Security Delivery Platform for MSSPs, MSPs, and security operations teams. ContraForce Security Delivery Agents run the entire delivery loop on the Microsoft Security platform: triage, investigation, response, tuning, ticket, report. Gamebooks enforce the same procedure across every client, so your team reviews outcomes instead of producing them.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce is built for MSSPs and MSPs delivering security across their customers' XDR and SIEM tools, including providers launching a managed security service without first building a SOC. ContraForce bills you, the provider, never your customers, so you keep the customer relationship and set your own price. In-house security operations teams use it too.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce connects to each customer's security tools and runs every customer from one multitenant control plane. When an incident lands, a Security Delivery Agent triages and investigates it, takes or recommends a response, tunes the detection, updates the ticket, and writes the report under your Gamebooks. Your analysts keep the judgment calls and approve anything reserved for a human.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Will ContraForce act in my customers' environments without my approval?",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce takes response actions only where you allow them. Security Delivery Agents can start by investigating and recommending, with your analysts approving every action. You set approval gates per customer workspace, and an attributable audit trail records every action and approval. When the verdicts hold up on your own incidents, expand autonomy one Gamebook at a time.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce leaves your customers' logs and telemetry in their own SIEM or XDR and queries them in place. It stores the incident records, verdicts, and evidence its agents produce in a United States, United Kingdom, or European Union deployment. ContraForce does not train or fine-tune AI models on customer data and is independently audited to SOC 2 Type II.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How does ContraForce pricing work?",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce pricing is a monthly plan plus pay-as-you-go investigations, starting at $249 per month. ContraForce hosts and operates the platform, so there is no infrastructure to deploy. Plans are month-to-month and annual billing is discounted. No bundles, no included runs, and no overage tiers.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce gives service providers the Security Delivery Agents, enforced standard operating procedures (SOPs), and fleet-wide control plane to deliver managed security across every customer environment, profitably, from day one.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Every customer you serve is being told they need managed detection and response. They're asking you for it - and they'd rather buy it from the provider they already trust.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Most providers see two paths. Outsource to a white-label SOC, and someone else runs the delivery: their SOPs, their analysts, their black box - and a slice of your margin and your customer relationship goes with it. Or hire and build: new roles, new risk, and months of cost before the first dollar of security revenue.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Gamebooks turn your SOPs into executable, governed workflows. Every incident follows the same process, approval thresholds gate high-risk actions with human-in-the-loop review, and every decision lands in the audit trail.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Built for the service provider",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "A monthly plan plus a flat rate per incident processed, and Security Delivery Agents that cut the analyst hours behind every incident. No per-user or per-endpoint charges - the margin math works at client one hundred the same way it works at client one.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Evidence, decisions, approvals, and actions stay reviewable.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Thousands of clients, audit-ready governance, and data residency by default. ContraForce operates inside each customer environment, so logs stay in-region and every incident produces exportable evidence.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "The vendor, in practice",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Load your SOPs into Gamebooks. Set approval thresholds, escalation paths, and environment-specific rules.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Most providers are fully operational in under a week.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing from $249/mo",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Published monthly plans plus flat per-incident processing. Model costs against your workspace and incident volume.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "No. You don't need a SOC team at all. Security Delivery Agents autonomously handle the full incident response lifecycle: triage, investigation, enrichment, and response. For actions that require permissions on customer assets (account disablement, device isolation, etc.), your team can approve them or let the agents run autonomously.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce is purpose-built for multi-environment delivery. The control plane gives your team visibility and operational control across every customer environment from a single interface. Standard operating procedures (SOPs) can be applied globally or customized per environment.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Delegated access solves who can see what, and it stops there. GDAP and Lighthouse give you multi-environment visibility and access delegation. ContraForce automates the work on top: triage, investigation, response, standard operating procedure (SOP) enforcement, and ticketing. Access tools show what is happening across your environments; ContraForce does the security delivery work autonomously.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce uses a federated access model: it operates inside each customer environment, in their region. Logs and telemetry never leave the customer environment. No log duplication. No third-party data custody. This reduces your compliance surface and removes the data residency objections that slow procurement.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The control plane and reporting layer support private-label deployments. Your customers see your service, not ours.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "What does onboarding look like?",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Most providers are operational within a week. Connect customer environments, configure Gamebooks, activate agents. ContraForce provides onboarding support to ensure your team is delivering fast.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce puts Security Delivery Agents on your Microsoft Sentinel and Defender XDR, triaging, investigating, and responding under standard operating procedures (SOPs) you set. Your analysts lead the calls; the agents carry the volume.",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "The usual fixes don’t hold. Hiring analysts is slow and expensive, the market is dry, and every hire still needs sleep. Bolting on SOAR automates the paths you already thought of and breaks the moment reality doesn’t match the script. Outsourcing to an MDR hands your environment to someone else’s black box.",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Gamebooks turn your SOPs into executable, governed workflows. Every incident is handled the same way, high-risk actions gate on human approval, and every decision lands in an audit trail your auditors can actually read.",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "that can’t hire its way out",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Evidence, decisions, approvals, and actions stay reviewable.",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Every incident produces exportable evidence, what fired, what the agent did, who approved what. Audit prep stops being a fire drill.",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Months to hire + ramp",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "The vendor, in practice",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Load your runbooks into Gamebooks. Set approval thresholds, escalation paths, and the actions agents can take on their own.",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "How incidents, evidence, approvals, and response actions move through the delivery loop.",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "No. It replaces the repetitive work your analysts shouldn’t be doing, triage, enrichment, documentation, ticketing. Your team focuses on complex investigations and the decisions that need judgment. Agents escalate to a human wherever your approval gates require it.",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Security Delivery Agents run continuously against your standard operating procedures (SOPs). Off-hours alerts get the same triage and investigation as business hours, and only escalate a human when your gates say so, so you get around-the-clock coverage without a follow-the-sun team.",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Those gate on human-in-the-loop approval by default. You decide which actions agents can take autonomously and which wait for sign-off, and every action is logged and attributed.",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "SOAR automates the paths you scripted and stalls when reality does not match the script. Security Delivery Agents investigate, they gather evidence, correlate, and reason toward a conclusion on alerts nobody scripted, while still enforcing your standard operating procedures (SOPs) and approval gates.",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce Pricing for MSPs and MSSPs: From $249/mo",
+    "url": "https://www.contraforce.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce pricing for MSPs and MSSPs",
+    "url": "https://www.contraforce.com/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by security delivery teams securing every size business.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stages in the game are the Warehouse, Harbor, Mati Building, Aircraft Rumble, and lastly, the Blue Group Headquarters.",
+    "url": "https://en.wikipedia.org/wiki/Contra_Force",
+    "pass": 3
+   },
+   {
+    "quote": "ContraForce AI Case Study: Workflow automation | AIUseCaseHub",
+    "url": "https://www.aiusecasehub.com/case/contraforce-builds-ai-agents-to-automate-soc-incident-triage-and",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The ticket carries the evidence into your PSA. The client report shows what happened and what your team did about it.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stand up managed detection and response offerings in days, not quarters. The platform replaces the SOC build-out, not the analyst. Capture the security revenue your team has been walking away from.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compress months of tuning into 40 days or less. Start delivering on day two instead of month three. Every week you save is a week of coverage and revenue captured earlier.",
+    "url": "https://www.contraforce.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most providers see two paths. Outsource to a white-label SOC, and someone else runs the delivery: their SOPs, their analysts, their black box - and a slice of your margin and your customer relationship goes with it. Or hire and build: new roles, new risk, and months of cost before the first dollar of security revenue.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike MDR vendors, ContraForce doesn't sit between you and your customer. You run the delivery. You set the SOPs. You keep the relationship and the recurring revenue.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "ContraForce puts Security Delivery Agents on your Microsoft Sentinel and Defender XDR, triaging, investigating, and responding under standard operating procedures (SOPs) you set. Your analysts lead the calls; the agents carry the volume.",
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the Microsoft Intelligent Security Association ecosystem of independent software vendors building integrated solutions with Microsoft security products.",
+    "url": "https://www.contraforce.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "There are no public openings listed today.",
+    "url": "https://www.contraforce.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "in North America. It is part of the",
+    "url": "https://en.wikipedia.org/wiki/Contra_Force",
+    "pass": 3
+   },
+   {
+    "quote": "Dragon Warrior 4",
+    "url": "https://en.wikipedia.org/wiki/Contra_Force",
+    "pass": 3
+   },
+   {
+    "quote": "services to listed companies",
+    "url": "https://cdn.prod.website-files.com/6290f98c568302d7a3f2442c/67f6c1d6b6f0d97bca803981_ContraForce_CaseStudy_Zirilio_V01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Drone as a First Responder (DFR) technology giving first responders a live view before they arrive",
+    "url": "https://fundediq.co/contraforce-contraforce-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does ContraForce have?",
+    "url": "https://fundediq.co/contraforce-contraforce-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/contraforce-contraforce-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/contraforce-contraforce-com-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Most providers see two paths. Outsource to a white-label SOC, and someone else runs the delivery: their SOPs, their analysts, their black box - and a slice of your margin and your customer relationship goes with it. Or hire and build: new roles, new risk, and months of cost before the first dollar of security revenue.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Your customers. Your brand.",
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Productize delivery under your own brand with committed investigation rates.",
+    "url": "https://www.contraforce.com/pricing",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "sales@contraforce.com",
+    "url": "https://www.contraforce.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise or custom pricing → sales@contraforce.com",
+    "url": "https://www.contraforce.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise is for organizations that need more than Scale: a custom workspace allowance, committed investigation rates included, contractual SLAs, Enterprise support with a TAM and QBRs, and a dedicated CSM. Contact sales@contraforce.com for an Enterprise quote.",
+    "url": "https://www.contraforce.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "account team. Every time I send an email they respond really quickly with feedback,",
+    "url": "https://cdn.prod.website-files.com/6290f98c568302d7a3f2442c/67f6c1d6b6f0d97bca803981_ContraForce_CaseStudy_Zirilio_V01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the ContraForce team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/contraforce-contraforce-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/contraforce-contraforce-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ContraForce | Agentic Security Delivery for MSPs and MSSPs — ContraForce, the Agentic Security Delivery Platform for MSPs and MSSPs, triages, investigates, and responds for your clients on Defender XDR and Sentinel.",
+    "url": "https://www.contraforce.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contra Force - Wikipedia — Contra Force was originally planned to be released in Japan under the title of Arc Hound in 1991 and originally did not have any ties to the Contra series.",
+    "url": "https://en.wikipedia.org/wiki/Contra_Force",
+    "pass": 3
+   },
+   {
+    "quote": "Press Releases and Announcements | ContraForce — Sep 3, 2026 · Littlefish Group has announced a strategic partnership with ContraForce, strengthening its Managed Security Operations Centre with AI-powered threat investigation and response capabilities.",
+    "url": "https://www.contraforce.com/press",
+    "pass": 3
+   },
+   {
+    "quote": "ContraForce — Jazz | Mount Pleasant, SC",
+    "url": "http://www.contraforceband.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ZIRILIO Uses ContraForce to Scale - cdn.prod.website-files.com — Using the ContraForce Platform, the team in ZIRILIO’s SOC has been able to manage incidents at scale and easily respond to their threat intelligence findings by pushing the policies they need.",
+    "url": "https://cdn.prod.website-files.com/6290f98c568302d7a3f2442c/67f6c1d6b6f0d97bca803981_ContraForce_CaseStudy_Zirilio_V01.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ContraForce AI Case Study: Workflow automation | AIUseCaseHub — Jun 20, 2026 · 01 ContraForce built a multi-tenant Security Delivery Platform around Microsoft Sentinel, Defender XDR, Entra ID, and Microsoft Foundry. 02 Its Gamebooks no-code layer orchestrates incident response across tenants.",
+    "url": "https://www.aiusecasehub.com/case/contraforce-builds-ai-agents-to-automate-soc-incident-triage-and",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Security at scale: How ContraForce powers AI-driven ... — For end-customers who need an expert Microsoft security partner, ContraForce enables the partner and end-customer to connect through the platform and begin collaborating quickly on service delivery together.",
+    "url": "https://www.microsoft.com/en/customers/story/25855-contraforce-microsoft-defender/",
+    "pass": 3
+   },
+   {
+    "quote": "ContraForce 2026 Company Profile: Valuation, Funding ...ContraForce - 2025 Company Profile, Funding & Competitors ...ContraForce: $3.73M Funding, 20 Employees & Latest News | MandosContraForce: Funding, Investors & Team (Nov 2026) | FundedIQContraForce — Company Profile & Funding | Indexed.vcContraForce — investors & funding | gritt.ioContraForce - Crunchbase Company Profile & Funding — Informatio",
+    "url": "https://pitchbook.com/profiles/company/460253-35",
+    "pass": 3
+   },
+   {
+    "quote": "ContraForce - 2025 Company Profile, Funding & Competitors ... — May 2, 2025 · ContraForce - Provider of IT security managed services. Raised a total funding of $5.38M over 3 rounds from 3 investors. Founded by Stan Golubchik and Ricky Melendez in the year 2020. ContraForce has 1016 competitors.",
+    "url": "https://tracxn.com/d/companies/contraforce/__NxDkt4MXT0aovh_wz_qWjUHtbG85rmwmSixxFbx_GUs",
+    "pass": 3
+   },
+   {
+    "quote": "ContraForce: $3.73M Funding, 20 Employees & Latest News | Mandos — Oct 11, 2026 · ContraForce is a cybersecurity company specializing in Security Operations, founded in 2021 and headquartered in McKinney, United States. It has raised $3.73M in equity across 2 priced rounds, employs about 20 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/contraforce",
+    "pass": 3
+   },
+   {
+    "quote": "ContraForce: Funding, Investors & Team (Nov 2026) | FundedIQ — ContraForce has raised $5.3M across 2 funding rounds on record, the most recent a Seed of $3.3M announced in Oct 2024. That round is below the $12M median round size for Privacy and Security companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/contraforce-contraforce-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "ContraForce — Company Profile & Funding | Indexed.vc — ContraForce is an Artificial Intelligence company based in McKinney, United States, founded in 2021. It has raised $5.3M in total across 2 rounds, most recently a $3.3M Seed round in Oct 2024.",
+    "url": "https://indexed.vc/companies/contraforce",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": ". However, the game's plot and setting are unrelated to both previous and succeeding entries, as the villains in the game are human terrorists instead of an alien menace. The game was scheduled to be released in Japan under the title of",
+    "url": "https://en.wikipedia.org/wiki/Contra_Force",
+    "pass": 3
+   },
+   {
+    "quote": "in Japan, the game was still localized for the North American market as a spinoff of the",
+    "url": "https://en.wikipedia.org/wiki/Contra_Force",
+    "pass": 3
+   },
+   {
+    "quote": "(Family Computer) (in Japanese). Level/area:",
+    "url": "https://en.wikipedia.org/wiki/Contra_Force",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). June 28, 1991. Archived from",
+    "url": "https://en.wikipedia.org/wiki/Contra_Force",
+    "pass": 3
+   },
+   {
+    "quote": "Video games developed in Japan",
+    "url": "https://en.wikipedia.org/wiki/Contra_Force",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Contra_Force",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Contra_Force",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Vilayeti Ghee (@contRAforce) / X 46 followers · 479 following. India. Joined Mar 2010. See the latest conversations with @contRAforce",
+    "url": "https://x.com/contRAforce",
+    "pass": 3
+   },
+   {
+    "quote": "\"#contraforce\" - Results on X | Live Posts & Updates Results for \"#contraforce\" on X (Twitter). Find the latest posts, discussions, and updates about #contraforce. 20 results found.",
+    "url": "https://x.com/hashtag/contraforce",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Vilayeti Ghee (@contRAforce) / X 46 followers · 479 following. India. Joined Mar 2010. See the latest conversations with @contRAforce",
+    "url": "https://x.com/contRAforce/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "Stan Golubchik (@StanGolubchik) / Posts / X ContraForce's Co-Founder and CTO sat down to outline the top compliance frameworks and corresponding security monitoring and incident response requirements for each.",
+    "url": "https://x.com/stangolubchik",
+    "pass": 3
+   },
+   {
+    "quote": "infidelity on X: \"Hello everyone! Here is the first beta of ... Hello everyone! Here is the first beta of my Contra Force port to the SNES. The only thing that is missing, are the orchestral DPCM samples for all the bgm tracks. Those will be converted to BRR samples. This port is playable start to finish. Enjoy! archive.org/download/contr…",
+    "url": "https://x.com/infidelity_nes/status/1999907865658835050",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ContraForce - LinkedIn Every tenant you add is more work, and the customer expects the price to fall as you grow. ContraForce is an Agentic Security Delivery Platform for providers running security on Microsoft...",
+    "url": "https://www.linkedin.com/company/contraforce",
+    "pass": 3
+   },
+   {
+    "quote": "Stan Golubchik - ContraForce | LinkedInContraForce Security Delivery Platform - LinkedInRicky Melendez - CTO & Co-Founder at ContraForce | LinkedInContraForce Launches Security Platform with Microsoft - LinkedInContraForce launches Agentic Security Delivery PlatformContraForce Leverages Azure AI for Enterprise-Grade MXDR · Experience: ContraForce · Education: Y Combinator · Location: Dallas-Fort W",
+    "url": "https://www.linkedin.com/in/stan-golubchik",
+    "pass": 3
+   },
+   {
+    "quote": "ContraForce Security Delivery Platform - LinkedIn ContraForce Security Delivery Platform—a true orchestration layer where service providers and security teams can deploy their own, tenant‑aware agents across every tenant to deliver security ...",
+    "url": "https://www.linkedin.com/products/contraforce--selfservice/",
+    "pass": 3
+   },
+   {
+    "quote": "Ricky Melendez - CTO & Co-Founder at ContraForce | LinkedInContraForce Launches Security Platform with Microsoft - LinkedInContraForce launches Agentic Security Delivery PlatformContraForce Leverages Azure AI for Enterprise-Grade MXDR CTO & Co-Founder at ContraForce · Experience: ContraForce · Education: The University of Texas at Austin · Location: Austin, Texas Metropolitan Area · 500+ connectio",
+    "url": "https://www.linkedin.com/in/ricky-melendez-9707a7b2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ContraForce - FacebookContraForce - FacebookContraForce | FacebookContraForce - Salty Swirl 2027 tickets are now on sale ...ContraForce on Reels - FacebookContraForce Tips (@contraforce.tips) - FacebookCONTRAFORCE & caller Charlotte Crittenden - Facebook Nov 3, 2026 · **On the Floor:** Contra Force is encouraging dancers to join the **Rocky Horror Chorus Line / Transylvanian Party Guests**! Think ",
+    "url": "https://www.facebook.com/contraforceband/",
+    "pass": 3
+   },
+   {
+    "quote": "ContraForce - Facebook Feb 7, 2023 · ContraForce provides free security monitoring for anyone in the education space, whether you're K12, higher-ed, EdTech, or anything in between. Reach out to us to get started.",
+    "url": "https://www.facebook.com/Contraforcecyber/",
+    "pass": 3
+   },
+   {
+    "quote": "ContraForce | Facebook Jul 27, 2025 · Thanks to ContraForce , caller Dave Winston, and all the dancers! Super fun Sat night! Next dances are 8/13 and 8/16 朗",
+    "url": "https://www.facebook.com/story.php/?story_fbid=1312863050842773&id=100063572711272",
+    "pass": 3
+   },
+   {
+    "quote": "ContraForce - Salty Swirl 2027 tickets are now on sale ... Sep 18, 2026 · **On Stage:** Contra Force will be rocking out in full costume as iconic characters from Transylvania! **On the Floor:** Contra Force is encouraging dancers to join the **Rocky Horror Chorus Line / Transylvanian Party Guests**! Think sleek black tie meets spooky, eccentric glam. All costume choices are welcome!!",
+    "url": "https://www.facebook.com/contraforceband/posts/salty-swirl-2027-tickets-are-now-on-sale-a-contra-dance-weekend-in-wilmington-no/1688581989937542/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.contraforce.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.contraforce.com/solutions/service-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.contraforce.com/solutions/security-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.contraforce.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.contraforce.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.contraforce.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Contra_Force",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybernews.com/security/japanese-cloud-cyberattack-railways-police-495-organizations-idcf/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bing.com/aclick?ld=e8yma9qULD2ttFvHTIocaKdjVUCUxv5_5749idh8hPvXcOggYDT9RVx__YCf--r1WWrVCFdCOw4SPylr0DX8hLqu5Vw0HDdFYHSGKebOFEZ54ZMyRpTIxxI2E5OPBk6TRbBUPPEgzVBE2uxwVVbRuqHMAmoApWHnQMmF_rE-9G5mrRj7XL3uKYvHvopC9tc9PyPVUzFYmbO8qPeGS-snR4a-2UoXs&u=aHR0cHMlM2ElMmYlMmZwcm92aWRlbmNlaGsuY29tJTJmJTNmdXRtX3Rlcm0lM2Rjb250cmFjdCUyNTIwbWFudWZhY3R1cmluZyUyNTIwY29tcGFuaWVzJTI2dXRtX2NhbXBhaWduJTNkJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkcHBjJTI2aHNhX2FjYyUzZDk4NzQyNzIzMjclMjZoc2FfY2FtJTNkNDkwNjI4MTMxJTI2aHNhX2dycCUzZDEyNDEzNTAzNDkzNTc3MTElMjZoc2FfYWQlM2QlMjZoc2Ffc3JjJTNkbyUyNmhzYV90Z3QlM2Rrd2QtNzc1ODUzMTI4MzUwMjYlMjZoc2Ffa3clM2Rjb250cmFjdCUyNTIwbWFudWZhY3R1cmluZyUyNTIwY29tcGFuaWVzJTI2aHNhX210JTNkYiUyNmhzYV9uZXQlM2RhZHdvcmRzJTI2aHNhX3ZlciUzZDMlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlN2JjYW1wYWlnbm5hbWUlN2QlMjZ1dG1fdGVybSUzZGNvbnRyYWN0JTI1MjBtYW51ZmFjdHVyaW5nJTI1MjBjb21wYW5pZXMlMjZ1dG1fY29udGVudCUzZCU3YmFkZ3JvdXBuYW1lJTdkJTI2dXRtX2RldmljZSUzZGMlMjZ1dG1fbmV0d29yayUzZG8lMjZnY2xpZCUzZCUyNm1zY2xraWQlM2Q5NmJlMzkzNTI4NTIxY2I4M2ZiNDUzYzZlNzlhNjA4Yg&rlid=96be393528521cb83fb453c6e79a608b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6290f98c568302d7a3f2442c/67f6c1d6b6f0d97bca803981_ContraForce_CaseStudy_Zirilio_V01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.aiusecasehub.com/case/contraforce-builds-ai-agents-to-automate-soc-incident-triage-and",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/460253-35",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/contraforce/__NxDkt4MXT0aovh_wz_qWjUHtbG85rmwmSixxFbx_GUs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mandos.io/data/companies/contraforce",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/contraforce-contraforce-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/contRAforce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/contraforce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/contRAforce/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/stangolubchik",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/contraforce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/stan-golubchik",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/contraforce--selfservice/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ricky-melendez-9707a7b2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/contraforceband/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Contraforcecyber/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/story.php/?story_fbid=1312863050842773&id=100063572711272",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/contraforceband/posts/salty-swirl-2027-tickets-are-now-on-sale-a-contra-dance-weekend-in-wilmington-no/1688581989937542/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/contraforce",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/infidelity_nes/status/1999907865658835050",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Contraforce 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Contraforce 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://www.contraforce.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.bing.com/aclick?ld=e8qvxERFnZmD0I8JfSavG22zVUCUyecUAEgTJPJiwZYu5y_2TjwE7oeOadfzbB_H1qrYE8e0z2HDYs78xe_v4yAmRr5ozv5Hh2y408zmHzlzJkuPuI-Dg73Eo-TNCpSn2cKdUeo9lBRjIvUm28A6PKIHH4-NWcwpWNGf6Z-GTdsdEsH01mrFnc99Q2gGxejrCrg_h7WQ&u=aHR0cHMlM2ElMmYlMmZ0cmFkZWludC5jb20lMmZpbnNpZ2h0cyUyZmdsb2JhbC10cmFkZS1kYXRhLXBsYXRmb3JtLXByb21vdGlvbiUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nU0VNX2NvbXBldGl0b3JBUEFDJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV90ZXJtJTNkcGFuaml2YSUyNm1zY2xraWQlM2Q1MzgzZDZmMmEyODQxMzhkZThmN2JjMDE2ZGZiZjFhZA&rlid=5383d6f2a284138de8f7bc016dfbf1ad",
+    "https://www.bing.com/aclick?ld=e8GyKh-xFedi1iVAeff2-PHDVUCUyH9uytNwQh0w9wSoQw3bWRiHcduFiVc9yIQES6-Ed0do4IOOu1EycabvLWQTa45aU9eSMHlsMP3-O7ecBiZWmdc5_ntJsmsDXdB8rL9D2FnLCihzK2KYliG34Y6E57zwCfTaA0ea39VAXPczRq7DVzM33NbWYOerEA7Vd5jlOAOQ&u=aHR0cHMlM2ElMmYlMmZ0cmFkZWludC5jb20lMmZpbnNpZ2h0cyUyZmdsb2JhbC10cmFkZS1kYXRhLXBsYXRmb3JtLXByb21vdGlvbiUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nU0VNX2NvbXBldGl0b3JBUEFDJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV90ZXJtJTNkcGFuaml2YSUyNm1zY2xraWQlM2QwMzY1NWZkMDFlOWExNDNlOGZhZDM1MjNkMTFjMjZlNw&rlid=03655fd01e9a143e8fad3523d11c26e7"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Contraforce Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Contra_Force",
+    "https://www.contraforce.com/",
+    "https://www.contraforce.com/press",
+    "https://cybernews.com/security/japanese-cloud-cyberattack-railways-police-495-organizations-idcf/",
+    "http://www.contraforceband.com/",
+    "https://nintendo.fandom.com/wiki/Contra_Force",
+    "https://altarofgaming.com/game/contra-force/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Contraforce manufacturing customer case study",
+   "results": [
+    "https://www.bing.com/aclick?ld=e8yma9qULD2ttFvHTIocaKdjVUCUxv5_5749idh8hPvXcOggYDT9RVx__YCf--r1WWrVCFdCOw4SPylr0DX8hLqu5Vw0HDdFYHSGKebOFEZ54ZMyRpTIxxI2E5OPBk6TRbBUPPEgzVBE2uxwVVbRuqHMAmoApWHnQMmF_rE-9G5mrRj7XL3uKYvHvopC9tc9PyPVUzFYmbO8qPeGS-snR4a-2UoXs&u=aHR0cHMlM2ElMmYlMmZwcm92aWRlbmNlaGsuY29tJTJmJTNmdXRtX3Rlcm0lM2Rjb250cmFjdCUyNTIwbWFudWZhY3R1cmluZyUyNTIwY29tcGFuaWVzJTI2dXRtX2NhbXBhaWduJTNkJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkcHBjJTI2aHNhX2FjYyUzZDk4NzQyNzIzMjclMjZoc2FfY2FtJTNkNDkwNjI4MTMxJTI2aHNhX2dycCUzZDEyNDEzNTAzNDkzNTc3MTElMjZoc2FfYWQlM2QlMjZoc2Ffc3JjJTNkbyUyNmhzYV90Z3QlM2Rrd2QtNzc1ODUzMTI4MzUwMjYlMjZoc2Ffa3clM2Rjb250cmFjdCUyNTIwbWFudWZhY3R1cmluZyUyNTIwY29tcGFuaWVzJTI2aHNhX210JTNkYiUyNmhzYV9uZXQlM2RhZHdvcmRzJTI2aHNhX3ZlciUzZDMlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlN2JjYW1wYWlnbm5hbWUlN2QlMjZ1dG1fdGVybSUzZGNvbnRyYWN0JTI1MjBtYW51ZmFjdHVyaW5nJTI1MjBjb21wYW5pZXMlMjZ1dG1fY29udGVudCUzZCU3YmFkZ3JvdXBuYW1lJTdkJTI2dXRtX2RldmljZSUzZGMlMjZ1dG1fbmV0d29yayUzZG8lMjZnY2xpZCUzZCUyNm1zY2xraWQlM2Q5NmJlMzkzNTI4NTIxY2I4M2ZiNDUzYzZlNzlhNjA4Yg&rlid=96be393528521cb83fb453c6e79a608b",
+    "https://www.contraforce.com/",
+    "https://cdn.prod.website-files.com/6290f98c568302d7a3f2442c/67f6c1d6b6f0d97bca803981_ContraForce_CaseStudy_Zirilio_V01.pdf",
+    "https://www.aiusecasehub.com/case/contraforce-builds-ai-agents-to-automate-soc-incident-triage-and",
+    "https://www.microsoft.com/en/customers/story/25855-contraforce-microsoft-defender/",
+    "https://www.contraforce.com/press",
+    "https://www.microsoft.com/en-us/startups/blog/contraforce-democratizing-cybersecurity-for-the-frontline/",
+    "https://cdn.prod.website-files.com/6290f98c568302d7a3f2442c/6799061e98a99c7e8df21b2e_ContraForce_CaseStudy_CybaVerse.pdf",
+    "https://www.bing.com/aclick?ld=e8wwda7QuOGHWrqcyNfrKzZTVUCUzyPzj0Gj29ixXmjdA7ddM2HGxsPZoULPxX-PslCos6ooSwhAwLNqGzIANNVx4s_plQ4gJ4S-sfUUg8MAPQGA-M8nLUdEZ3zb7nDg7LYpEhuG2hcQ4GQGln7gP3R2hTM_n0zTyhEx-Mspsg4rvLHwTHwyWBPr_t61Ehe7hmQ7khXiPOeHUUBTUniNkGGPsZzT0&u=aHR0cHMlM2ElMmYlMmZ3d3cubmljZS5jb20lMmZscHMlMmZ0cmVuZHMtZ2FydG5lci1jaGVja2xpc3QlM2Z1dG1fY2FtcGFpZ24lM2ROTF9RMTI2X0VOX1BMVF9HTE9CXzI2MDE1MV9DTFBfMjAyNi1DWC1UcmVuZHMtR2FydG5lci1DaGVja2xpc3QlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY29udGVudCUzZDA1MzY4MjYlMjZ1dG1fZGV0YWlsJTNkZGVudHN1LWFsbC11c19jYS1jeF90cmVuZHMlMjZtc2Nsa2lkJTNkNjE5YzY1MDYwMGYyMWVmZmZkNDkwZmY1Y2YzYWY3M2ElMjZ1dG1fdGVybSUzZGN4JTI1MjBiZXN0JTI1MjBwcmFjdGljZXM&rlid=619c650600f21efffd490ff5cf3af73a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Contraforce white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Contraforce founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/460253-35",
+    "https://tracxn.com/d/companies/contraforce/__NxDkt4MXT0aovh_wz_qWjUHtbG85rmwmSixxFbx_GUs",
+    "https://mandos.io/data/companies/contraforce",
+    "https://fundediq.co/contraforce-contraforce-com-funding/",
+    "https://indexed.vc/companies/contraforce",
+    "https://www.gritt.io/company/contraforce/",
+    "https://www.crunchbase.com/organization/contraforce"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Contraforce",
+   "results": [
+    "https://note.com/shirane_note001/n/nea3fec4cc1b1?hl=en",
+    "https://note.com/seigo77",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/dapper_gibbon350/n/nd248cf61a076",
+    "https://note.com/good_tapir4150/n/n545c5c69f7e2",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Contraforce",
+   "results": [
+    "https://x.com/contRAforce",
+    "https://x.com/hashtag/contraforce",
+    "https://x.com/contRAforce/reposts",
+    "https://x.com/stangolubchik",
+    "https://x.com/infidelity_nes/status/1999907865658835050",
+    "https://x.com/infidelity_nes/status/2113767858463453185",
+    "https://x.com/force17312/status/2020835149538341034"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Contraforce",
+   "results": [
+    "https://www.linkedin.com/company/contraforce",
+    "https://www.linkedin.com/in/stan-golubchik",
+    "https://www.linkedin.com/products/contraforce--selfservice/",
+    "https://www.linkedin.com/in/ricky-melendez-9707a7b2",
+    "https://www.linkedin.com/posts/contraforce_the-contraforce-secuirty-delivery-platform-activity-7396175973647319040-YonT",
+    "https://www.linkedin.com/posts/contraforce_announcing-preview-access-contraforces-activity-7361444370333552642-ck-x",
+    "https://www.linkedin.com/posts/contraforce_microsoft-security-at-scale-how-contraforce-activity-7432065531924373504-2-rw"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Contraforce",
+   "results": [
+    "https://www.facebook.com/contraforceband/",
+    "https://www.facebook.com/Contraforcecyber/",
+    "https://www.facebook.com/story.php/?story_fbid=1312863050842773&id=100063572711272",
+    "https://www.facebook.com/contraforceband/posts/salty-swirl-2027-tickets-are-now-on-sale-a-contra-dance-weekend-in-wilmington-no/1688581989937542/",
+    "https://www.facebook.com/contraforceband/videos/1739799567008484/",
+    "https://www.facebook.com/contraforce.tips/photos/",
+    "https://www.facebook.com/events/pinnacle-pavilion-the-barn-pickens-sc-29671/contraforce-caller-charlotte-crittenden/1020300917452699/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Contraforce note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Contraforce X 投稿",
+   "results": [
+    "https://x.com/hashtag/contraforce",
+    "https://www.contraforce.com/",
+    "https://www.contraforce.com/blog",
+    "https://x.com/infidelity_nes/status/1999907865658835050",
+    "https://www.msn.com/ja-jp/news/other/これ-ai画像じゃないんだぜ-青森県に実在する-幻想世界-に3-5万人驚がく/ar-AA2haWoZ",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://www.itmedia.co.jp/news/article/2608/19/2000000632/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

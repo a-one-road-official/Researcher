@@ -1,0 +1,836 @@
+{
+ "name": "⭐️Werk24",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン2",
+ "researched_at": "2026-11-11T02:14:27.248453+00:00",
+ "official_url": "https://werk24.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Werk24 reads engineering drawings like an experienced manufacturing engineer. Pick your job.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering · Procurement",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Forward the email. Werk24 matches each drawing to its position and prepares ERP-ready values.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "When you need something none of the products does, Werk24's engineers build it on the same engine.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prüfprotokoll QF-07",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“The precision of our cost calculation strongly relies on Werk24's PMI extraction.”",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Quality, engineering, order processing and master data each have their own feature, in one Studio, under one account.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "ERP-ready values prepared for every position.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Define your part families (\"geometries\") and the variables you need for each: dimensions with units, materials, tolerances, yes/no properties, counts.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Werk24 reads thousands of drawings and keeps monitoring its own results.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Production · €590 / month",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "When no product does the job, we build it.",
+    "url": "https://werk24.io/custom-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Four projects, four companies, one engine.",
+    "url": "https://werk24.io/custom-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "A precision-components maker",
+    "url": "https://werk24.io/custom-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We agree what is read, where it goes, and the price.",
+    "url": "https://werk24.io/custom-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing | Werk24 — PMI Extraction & RFQ Feasibility",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Quality, engineering and procurement share one account.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "These cannot be changed on Pay as You Go. Move to Production to choose them.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "€590 includes the same defaults. Each upgrade is an add-on, priced below.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Book only what your process needs.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Only on Production, on top of the €590 base. On Pay as You Go every setting stays at its included default.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority, ≤ 1 min p99",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Express, ≤ 10 s p99",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How many of your requests are processed at the same time. Your traffic never queues behind another customer's.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "ERP write-back, feasibility checks against your machines, special extractions: built by Werk24's engineers on the same engine, priced after scoping.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing, answered",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "They are not on the price list yet. Talk to an engineer and we'll set them up for you.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When does Production make sense?",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pay as You Go has no term. Production is month to month: cancel to the end of any month, and the cancellation takes effect at the end of the billing month.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, in the browser demo: it reads your own drawing with no code, no signup and no card. An API key needs a card: Pay as You Go checks it with €1, credited to you in full, and Production is paid at checkout.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Laserhub lifts quoting speed and pricing accuracy with Werk24’s engineering-grade PMI extraction",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "accuracy on price-driving features",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "“The precision of our cost calculation strongly relies on Werk24’s PMI extraction — and we encounter almost no files where the tolerances of threads are not correctly extracted from technical drawings.”",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "Online manufacturers compete on speed, accuracy, and throughput. Laserhub’s engineers were spending 30–90 minutes per drawing interpreting PDFs, transcribing PMI, and normalizing units — time that should have gone into pricing strategy and customer value.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "tight tolerances, special threads, or roughness calls could be missed under time pressure",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "fast quotes with precise, transparent cost drivers",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "Werk24 reads",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": ". We extract title-block metadata and feature data like dimensions, upper/lower tolerances, GD&T, threads, and surface roughness.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "that matches Laserhub’s pricing fields",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "so payloads drop straight into the pricing engine.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "REST API + webhooks for lights-out processing",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser doesn’t support HTML5 video.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time extraction: RFQ intake → Werk24 JSON → Laserhub pricing fields.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "Full integration: custom schema mapping drops directly into the pricing engine.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "MP4 video",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "rollout to pricing; optional quality gate for high-impact features",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "No labeled training data required — unless you request a custom quality gate.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "95% out of the box, 98% after onboarding; up to 99% with custom quality gates.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "higher cost precision",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "Normalized tolerances & units reduce misreads.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "Clean APIs, predictable JSON, confidence scores, and webhooks. Go from PDF to production in hours, not weeks.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "print(read_drawing_sync(get_test_drawing(), [AskMetaData()]))",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "Tip: Use webhooks/callbacks for dark processing and confidence thresholds.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "\"manufacturing_process\": \"\",",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "\"projection_method\": {",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "Forward an incoming order or RFQ by email. Werk24 matches every drawing to its order position and prepares ERP-ready values, which a person reviews before they go into the ERP.",
+    "url": "https://werk24.io/studio/order-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Per position, prepared for your ERP fields.",
+    "url": "https://werk24.io/studio/order-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Not on the Studio price list yet.",
+    "url": "https://werk24.io/studio/order-desk",
+    "pass": 1
+   },
+   {
+    "quote": "SAP, Microsoft Dynamics, proAlpha, abas and others. Tell us yours on the call.",
+    "url": "https://werk24.io/studio/order-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Order Desk is not on the price list yet.",
+    "url": "https://werk24.io/studio/order-desk",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Werk24 reads engineering drawings like an experienced manufacturing engineer. Pick your job.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A measuring sheet for the shop floor or the CMM (QIF Plans).",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A German plastics manufacturer",
+    "url": "https://werk24.io/custom-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Laserhub Case Study: Drawing Data Extraction | Werk24",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "Online manufacturers compete on speed, accuracy, and throughput. Laserhub’s engineers were spending 30–90 minutes per drawing interpreting PDFs, transcribing PMI, and normalizing units — time that should have gone into pricing strategy and customer value.",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "\"manufacturing_process\": \"\",",
+    "url": "https://werk24.io/case-studies/laserhub",
+    "pass": 1
+   },
+   {
+    "quote": "Werk24 reads 2D engineering drawings like an experienced manufacturing engineer, so the people who work with them can get their jobs done.",
+    "url": "https://werk24.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Plastics Case Study: CNC Feasibility Automation | Werk24",
+    "url": "https://werk24.io/case-studies/plastics-company-feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "Plastics manufacturer reduces NCRs and protects margins with Werk24’s feasibility gates",
+    "url": "https://werk24.io/case-studies/plastics-company-feasibility-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "\"manufacturing_process\": \"\",",
+    "url": "https://werk24.io/case-studies/plastics-company-feasibility-analysis",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every change listed and classified, e.g. \"⌀20 H7 → ⌀20 H6 · tolerance tightened\".",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Every thread and standard part across an assembly, listed for planning and purchasing.",
+    "url": "https://werk24.io/custom-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Every drawing is encrypted at rest under a Werk24-managed key; this is how narrowly the key is scoped beyond that. End-to-end, only you hold the key, so after the read we cannot open the drawing or the result files.",
+    "url": "https://werk24.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Injection-molded parts arrive with diverse drawings: mixed units, varying tolerance policies, and finish notes buried in PDFs. Manual reading slowed intake and created quality exposure — tight tolerances, special finishes, or threads were occasionally missed, becoming costly NCRs later.",
+    "url": "https://werk24.io/case-studies/plastics-company-feasibility-analysis",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Forward the email. Werk24 matches each drawing to its position and prepares ERP-ready values.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Forward an incoming order or RFQ by email: the order document, its drawings and any specifications.",
+    "url": "https://werk24.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Forward an incoming order or RFQ by email. Werk24 matches every drawing to its order position and prepares ERP-ready values, which a person reviews before they go into the ERP.",
+    "url": "https://werk24.io/studio/order-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Forward the email. Review the positions. Done.",
+    "url": "https://werk24.io/studio/order-desk",
+    "pass": 1
+   },
+   {
+    "quote": "The order or RFQ document, its drawings and any specifications, in one email.",
+    "url": "https://werk24.io/studio/order-desk",
+    "pass": 1
+   },
+   {
+    "quote": "Forward the email. Get ERP-ready values for every position to review.",
+    "url": "https://werk24.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "info@werk24.io",
+    "url": "https://werk24.io/careers",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://werk24.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/custom-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/case-studies/laserhub",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/studio/order-desk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/studio/part-geometries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/schedule-call",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://werk24.io/case-studies/plastics-company-feasibility-analysis",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://emojipedia.org/star",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emojiterra.com/white-medium-star/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://symbolsdb.com/star-symbol",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emojipedia.org/star",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emojiterra.com/white-medium-star/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://symbolsdb.com/star-symbol",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emojipedia.org/star",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emojiterra.com/white-medium-star/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://symbolsdb.com/star-symbol",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emojipedia.org/star",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emojiterra.com/white-medium-star/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://symbolsdb.com/star-symbol",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emojis.wiki/star/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emojipedia.org/star",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emojiterra.com/white-medium-star/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emojipedia.org/star",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emojiterra.com/white-medium-star/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://symbolsdb.com/star-symbol",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "⭐️Werk24 日本 導入",
+   "results": [
+    "https://emojipedia.org/star",
+    "https://emojiterra.com/white-medium-star/",
+    "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "https://symbolsdb.com/star-symbol",
+    "https://smallzstory.com/star-emoji/",
+    "https://emojis.wiki/star/",
+    "https://emojidb.org/star-emojis",
+    "https://emojigraph.org/star/",
+    "https://emoji-copy-paste.com/topics/star-emojis",
+    "https://emojiguide.org/star"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "⭐️Werk24 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://emojipedia.org/star",
+    "https://emojiterra.com/white-medium-star/",
+    "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "https://symbolsdb.com/star-symbol",
+    "https://smallzstory.com/star-emoji/",
+    "https://emojis.wiki/star/",
+    "https://emojidb.org/star-emojis",
+    "https://emojigraph.org/star/",
+    "https://emoji-copy-paste.com/topics/star-emojis",
+    "https://emojiguide.org/star"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "⭐️Werk24 Japan",
+   "results": [
+    "https://emojipedia.org/star",
+    "https://emojiterra.com/white-medium-star/",
+    "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "https://symbolsdb.com/star-symbol",
+    "https://smallzstory.com/star-emoji/",
+    "https://emojis.wiki/star/",
+    "https://emojidb.org/star-emojis",
+    "https://emojigraph.org/star/",
+    "https://emoji-copy-paste.com/topics/star-emojis",
+    "https://emojiguide.org/star"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "⭐️Werk24 manufacturing customer case study",
+   "results": [
+    "https://emojipedia.org/star",
+    "https://emojiterra.com/white-medium-star/",
+    "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "https://symbolsdb.com/star-symbol",
+    "https://smallzstory.com/star-emoji/",
+    "https://emojis.wiki/star/",
+    "https://emojidb.org/star-emojis",
+    "https://emojigraph.org/star/",
+    "https://emoji-copy-paste.com/topics/star-emojis",
+    "https://emojiguide.org/star"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "⭐️Werk24 white label OR reseller OR partner program",
+   "results": [
+    "https://emojis.wiki/star/",
+    "https://emojipedia.org/star",
+    "https://emojiterra.com/white-medium-star/",
+    "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "https://symbolsdb.com/star-symbol",
+    "https://smallzstory.com/star-emoji/",
+    "https://emojidb.org/star-emojis",
+    "https://emojigraph.org/star/",
+    "https://emoji-copy-paste.com/topics/star-emojis",
+    "https://emojiguide.org/star"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "⭐️Werk24 founded funding employees revenue",
+   "results": [
+    "https://emojipedia.org/star",
+    "https://emojiterra.com/white-medium-star/",
+    "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "https://symbolsdb.com/star-symbol",
+    "https://smallzstory.com/star-emoji/",
+    "https://emojis.wiki/star/",
+    "https://emojidb.org/star-emojis",
+    "https://emojigraph.org/star/",
+    "https://emoji-copy-paste.com/topics/star-emojis",
+    "https://emojiguide.org/star"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com ⭐️Werk24",
+   "results": [
+    "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "https://emojis.wiki/star/",
+    "https://emojipedia.org/star",
+    "https://emojiterra.com/white-medium-star/",
+    "https://emoji-copy-paste.com/topics/star-emojis",
+    "https://symbolsdb.com/star-symbol",
+    "https://smallzstory.com/star-emoji/",
+    "https://emojidb.org/star-emojis",
+    "https://emojigraph.org/star/",
+    "https://emojiguide.org/star"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com ⭐️Werk24",
+   "results": [
+    "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "https://emojis.wiki/star/",
+    "https://emojipedia.org/star",
+    "https://emojiterra.com/white-medium-star/",
+    "https://emoji-copy-paste.com/topics/star-emojis",
+    "https://symbolsdb.com/star-symbol",
+    "https://smallzstory.com/star-emoji/",
+    "https://emojidb.org/star-emojis",
+    "https://emojigraph.org/star/",
+    "https://emojiguide.org/star"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com ⭐️Werk24",
+   "results": [
+    "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "https://emojis.wiki/star/",
+    "https://emojipedia.org/star",
+    "https://emojiterra.com/white-medium-star/",
+    "https://emoji-copy-paste.com/topics/star-emojis",
+    "https://symbolsdb.com/star-symbol",
+    "https://smallzstory.com/star-emoji/",
+    "https://emojidb.org/star-emojis",
+    "https://emojigraph.org/star/",
+    "https://emojiguide.org/star"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com ⭐️Werk24",
+   "results": [
+    "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "https://emojis.wiki/star/",
+    "https://emojipedia.org/star",
+    "https://emojiterra.com/white-medium-star/",
+    "https://emoji-copy-paste.com/topics/star-emojis",
+    "https://symbolsdb.com/star-symbol",
+    "https://smallzstory.com/star-emoji/",
+    "https://emojidb.org/star-emojis",
+    "https://emojigraph.org/star/",
+    "https://emojiguide.org/star"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "⭐️Werk24 note 社長",
+   "results": [
+    "https://emojipedia.org/star",
+    "https://emojiterra.com/white-medium-star/",
+    "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "https://symbolsdb.com/star-symbol",
+    "https://smallzstory.com/star-emoji/",
+    "https://emojis.wiki/star/",
+    "https://emojidb.org/star-emojis",
+    "https://emojigraph.org/star/",
+    "https://emoji-copy-paste.com/topics/star-emojis",
+    "https://emojiguide.org/star"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "⭐️Werk24 X 投稿",
+   "results": [
+    "https://emojipedia.org/star",
+    "https://emojiterra.com/white-medium-star/",
+    "https://www.iemoji.com/view/emoji/586/animals-nature/star",
+    "https://symbolsdb.com/star-symbol",
+    "https://smallzstory.com/star-emoji/",
+    "https://emojis.wiki/star/",
+    "https://emojidb.org/star-emojis",
+    "https://emojigraph.org/star/",
+    "https://emoji-copy-paste.com/topics/star-emojis",
+    "https://emojiguide.org/star"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

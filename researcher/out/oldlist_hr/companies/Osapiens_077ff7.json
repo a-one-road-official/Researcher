@@ -1,0 +1,1034 @@
+{
+ "name": "Osapiens",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-11T02:07:36.285395+00:00",
+ "official_url": "https://osapiens.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "HQ Country",
+    "value": "",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   },
+   {
+    "label": "HQ City",
+    "value": "Montreal Cologne",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "osapiens is the AI platform for compliance and supplier intelligence to help companies manage risk and become more resilient. We help companies verify their products, know their suppliers, trace their goods, own their footprint, and report with confidence, all on a single AI platform.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "From EUDR to CSRD, PPWR, EPR, DPP and more",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprises and SMEs around the world run on the osapiens HUB.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Regulations are evolving constantly. So are we. Join our experts as they unpack the latest regulatory changes, industry trends and practical strategies to stay ahead of it all.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "EUDR and Your Customs Process: Are You Ready for What Changes?",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Is your customs process ready for EUDR? Join our webinar to understand how due diligence connects to customs declarations, what EU and non-EU businesses need to prepare, and how to spot gaps before they disrupt your shipments. Get practical insights and answers to your questions in our live Q&A.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "pre-built reporting templates",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "platform for product compliance",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Move from measuring emissions to managing them across operations, products and suppliers.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Meet every product regulation from a single record – DPP, PPWR and whatever comes next.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Proof that commodities are deforestation-free, with geolocation for every plot of land and a due diligence statement per import.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "How JELD-WEN Europe uses the osapiens HUB for EUDR to standardize compliance processes and build a future-ready supply chain across 13 countries.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "As one of Europe’s leading manufacturers of doors and windows, JELD-WEN Europe operates more than 30 sites across 13 countries, with wood as a core sourcing commodity. Its complex, multi-tier supplier network and diverse system landscape make EUDR compliance an enterprise-wide challenge - from plot-level traceability and supplier data to risk assessment and audit-ready documentation.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Orchestrating EUDR Compliance at Enterprise Scale: Enhancing transparency in Bayer's Supply Chain",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Texidea shows how the EU Deforestation Regulation’s requirements can be implemented efficiently and in a legally compliant manner, with clear processes and digital support from osapiens.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The EU Packaging and Packaging Waste Regulation introduces new requirements for companies placing packaged products on the EU market.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "A practical FAQ guide answering the 9 most common PPWR compliance questions – from manufacturer roles and labeling to EPR registration and legacy packaging.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Netto ApS & Co. KG replaced manual Excel-based processes across more than 1,000 suppliers with a fully automated compliance platform using the osapiens HUB.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "As a leading European construction and building services provider GOLDBECK digitized and automated its supply chain compliance processes using the osapiens HUB. This ensures efficient risk assessment, centralized data management, and long-term compliance with regulatory requirements such as the German Supply Chain Due Diligence Act (LkSG).",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The Supplier Risk Management Guide explores how organizations can move from fragmented, reactive risk handling to a continuous, data-driven approach that strengthens resilience and compliance.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "WEIG, an owner-managed group in the paper and board industry, used the osapiens HUB to implement LkSG, EUDR, and whistleblower processes on time and on a single platform.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The Schunk Group replaced fragmented IT systems with a central platform for CSRD, EU Taxonomy, and Corporate Carbon Footprint using the osapiens HUB — saving effort and eliminating the need for external consulting.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "A Reporting Cockpit consolidates sustainability data across the organization, transforming fragmented processes into reliable, audit-ready reporting. By unlocking insights and streamlining workflows, companies can turn compliance into a driver for strategy, competitiveness, and sustainable growth.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The Carbon Border Adjustment Mechanism (CBAM) requires importers of certain carbon intensive goods to report embedded emissions and fulfill strict declarant obligations for products entering the EU market.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "As one of the world's leading companies in filling and packaging technology, OPTIMA packaging group GmbH relies on the osapiens HUB to efficiently meet LkSG, CBAM, and CSRD requirements. The central platform solution automates ESG processes, reduces manual effort, and ensures seamless transparency across the entire supply chain.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "IAM for AI: 4 Steps to Secure and Futureproof Agentic Systems",
+    "url": "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "pass": 3
+   },
+   {
+    "quote": "How we use AI in practice | AI Summit 2026 | Norges Bank Investment Management",
+    "url": "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "pass": 3
+   },
+   {
+    "quote": "Discover osapiens HUB: the AI-powered ESG platform that helps companies achieve compliance, automate processes, and ensure transparency across their value chain. Easily tackle ESG challenges like risk identification and reporting requirements (EUDR, CSRD, CSDDD, CBAM, EU Taxonomy, etc.) while making an impact by promoting long-term sustainability.",
+    "url": "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "pass": 3
+   },
+   {
+    "quote": "The HUB’s dashboard provides users with easy access to key metrics and progress reports, making ESG data management straightforward and transparent. This allows for better communication of sustainability efforts to stakeholders, investors, and regulatory bodies, enhancing corporate reputation and demonstrating commitment to sustainable practices.",
+    "url": "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, the osapiens HUB supports the seamless integration of third-party data and existing company systems, which helps improve the overall efficiency of ESG processes. By integrating the latest technologies, such as blockchain for traceability or IoT for real-time data collection, the platform ensures that companies remain at the forefront of innovation in ESG compliance.",
+    "url": "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "pass": 3
+   },
+   {
+    "quote": "turn regulatory complexity, data and AI into practical solutions. Meet the partners driving this new era on",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Tieto is a leading technology consulting service provider with a strong global brand presence and international capabilities. The company delivers mission-critical solutions to its customers through its specialized software businesses: Tieto Caretech, Tieto Banktech, Tieto Indtech, and Tieto Tech Consulting.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Impact Strategies is a strategic consulting firm dedicated to reshaping economic growth — with sustainability as a success factor and digitalization as an accelerator. As part of Gofore Group, we help organizations master the \"Twin Transformation\": turning regulatory requirements like CSRD, EUDR, and the Digital Product Passport into genuine competitive advantage, not just compliance.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "At the Summit on Sustainability 2026, we are proud to be part of a community that shares this conviction — because compliance keeps you in the game, but strategy decides who leads.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "As an osapiens Gold Partner, we combine expertise in EUDR, CSRD and Due Diligence, as well as maintenance & service processes. We show you how to integrate these in one environment – the osapiens HUB!",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Koenig & Bauer Coding specializes in innovative coding and marking systems, offering tailored solutions and automated integrations. With a wide range of technologies, we serve diverse industries by delivering precise, reliable, and efficient product marking and packaging solutions.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "AuraVeo transforms products into evolving brand experiences.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Products are no longer static. Through storytelling, AI and real-time interaction, AuraVeo enables brands to create dynamic consumer experiences directly through the product itself.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Viva con Agua places water at the center. With joy, creativity and positive activism, we are committed to ensuring that people have safe access to clean drinking water. As a non-profit organization and international network of people and organizations, we pursue a clear vision:",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Together, we strengthen water, sanitation, and hygiene projects and work closely with local and international partner organizations to make the future possible with water.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Prospitalia is a leading service provider in the healthcare sector, supporting hospitals in making sustainable and cost-efficient purchasing decisions. By consolidating volumes, leveraging strong negotiation power, and offering digital solutions, we help secure better prices and strengthen supply reliability in the healthcare market.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "In 1866, our founders had a bold vision to reduce the impact of technological risks and protect people, assets and the environment. 160 years later, sustainability and safety continue to be the backbone of our mission.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Welthungerhilfe is one of the largest private aid organisations in Germany, independent of politics and religion. It was established in 1962, as the German section of the “Freedom from Hunger Campaign”.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "The Food Security Standard (FSS) considers the Right to adequate Food in agricultural production. Applying the FSS in sustainability certification systems ensures that farmers, workers, and neighbouring communities are food secure. The FSS is jointly managed by Welthungerhilfe and Meo Carbon Solutions.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Based in Huesca, Spain, we offer global support and implementation services. Our expertise in supply chain and traceability is backed by a strong focus on quality, adaptability, and application maintenance. We work with both small and large companies, addressing their unique challenges. Our clients value our personalized services and are willing to provide references.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Markant offers suppliers and retailers in the food retail, wholesale, drugstore and specialist retail sectors numerous services along the entire value chain. We optimize cross-company processes and create efficient solutions in the areas of payment services, finance and security, article master data and market analyses.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "We are holistically developing Mannheim as a startup hotspot. Cultural urban development and creative industries are just as important as the promotion of tech and medical technology companies or international startups.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Open-mindedness, entrepreneurial spirit, an exciting cultural landscape and nightlife, and one key advantage: the city is compact - and NEXT MANNHEIM provides strong support for founders with direct access to investors, international networks, small and medium-sized businesses and industry.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "food.net:z is Baden-Württemberg’s unique network for companies across the entire food value chain—from farm to shelf. Members include global players, SMEs, start-ups, organic pioneers, tech firms, and public institutions, covering production, processing, retail, logistics, services, research, and administration.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "As a local network, we drive the digitization of industries, promote the activation of regional value chains, and facilitate the connection between businesses, research entities, and municipalities for the development of a cohesive industrial ecosystem that fosters resilience and sustainability.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "The ZUKE Green Community offers an exchange platform for more sustainability in the inpatient healthcare sector. Like-minded companies and hospital staff benefit from knowledge transfer, networking and practical projects.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Pentagon Whistleblower Wes Bryant: Impeach Hegseth. He's a \"Clear & Present Danger\" to Democracy",
+    "url": "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "pass": 3
+   },
+   {
+    "quote": "Trump Goes on 60 Minutes & Promotes Stephen Miller, Boebert Loses, Zohran Schools Fox: A Closer Look",
+    "url": "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "pass": 3
+   },
+   {
+    "quote": "Product Master Data Management (PMDM)",
+    "url": "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "pass": 3
+   },
+   {
+    "quote": "Osapiens Review: Features, Benefits and Pricing | KEY ESG",
+    "url": "https://www.keyesg.com/article/osapiens-review",
+    "pass": 3
+   },
+   {
+    "quote": "Osapiens Review: Features, Benefits and Pricing",
+    "url": "https://www.keyesg.com/article/osapiens-review",
+    "pass": 3
+   },
+   {
+    "quote": "Osapiens positions itself as an AI-enabled, cloud-based platform designed to improve operational efficiency and support regulatory compliance. Through its modular “Osapiens HUB,” the company combines supply chain visibility, sustainability compliance, and maintenance management within a single ecosystem.",
+    "url": "https://www.keyesg.com/article/osapiens-review",
+    "pass": 3
+   },
+   {
+    "quote": "This review examines Osapiens’ core capabilities, pricing structure and suitability for enterprises and investment-backed organisations. It also outlines where structural differences emerge when compared with KEY ESG.",
+    "url": "https://www.keyesg.com/article/osapiens-review",
+    "pass": 3
+   },
+   {
+    "quote": "Osapiens is a Germany-based software provider offering a modular platform focused on operational compliance, supply chain management and sustainability reporting. Its core product, the Osapiens HUB, integrates sustainability compliance tools with supply chain visibility and maintenance management capabilities.",
+    "url": "https://www.keyesg.com/article/osapiens-review",
+    "pass": 3
+   },
+   {
+    "quote": ". It supports compliance with CSRD, EUDR, CBAM, NIS2 and related directives. Native SAP integration plays a central role in its positioning, connecting sustainability and compliance processes with enterprise resource planning systems.",
+    "url": "https://www.keyesg.com/article/osapiens-review",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "trusted by industry leaders",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "As one of Europe’s leading manufacturers of doors and windows, JELD-WEN Europe operates more than 30 sites across 13 countries, with wood as a core sourcing commodity. Its complex, multi-tier supplier network and diverse system landscape make EUDR compliance an enterprise-wide challenge - from plot-level traceability and supplier data to risk assessment and audit-ready documentation.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "A practical FAQ guide answering the 9 most common PPWR compliance questions – from manufacturer roles and labeling to EPR registration and legacy packaging.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Helwit, a fast-growing nicotine pouch brand, used the osapiens HUB to establish EU Track & Trace compliance as a scalable part of its growth strategy. Download Case Study Now",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The GRI Standards are a voluntary framework for sustainability reporting used by more than 14,000 organizations in over 100 countries, structured in Universal, Sector, and Topic Standards.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "EU Battery Regulation compliance for manufacturers and importers: carbon footprint declarations, Digital Battery Passport, and supply chain due diligence in one platform.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Another major benefit of the osapiens HUB is its adaptability. Whether a company operates in manufacturing, consumer goods, technology, logistics, or any other sector, the platform can be tailored to meet industry-specific requirements. This flexibility makes it a versatile tool that can scale with the needs of any organization, from small businesses to multinational corporations.",
+    "url": "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "pass": 3
+   },
+   {
+    "quote": "Tieto Tech Consulting supports organizations in the public sector, energy, manufacturing (including automotive), telecommunications, and financial services with the seamless integration of innovative technologies into data platform ecosystems. For more information, visit",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "As a local network, we drive the digitization of industries, promote the activation of regional value chains, and facilitate the connection between businesses, research entities, and municipalities for the development of a cohesive industrial ecosystem that fosters resilience and sustainability.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "For asset-intensive industries, integrating maintenance management with compliance processes can reduce operational disruption and eliminate paper-based workflows. Mobile functionality supports field technicians and on-site teams.",
+    "url": "https://www.keyesg.com/article/osapiens-review",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing, Execution and Plant Maintenance for Coca Cola",
+    "url": "https://osapiens-cmms.com/webinars-and-events/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how industrial maintenance is evolving in the age of AI in our on-demand session with Fraunhofer IML. Building on the findings of the Industrial Maintenance in Transition report, this session explores what it takes to shift from reactive routines to predictive, data-driven operations.",
+    "url": "https://osapiens-cmms.com/webinars-and-events/",
+    "pass": 3
+   },
+   {
+    "quote": "fTRACE is a supply chain data platform enabling secure transmission of shipment documents and compliance records between manufacturers and logistics providers.…",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "fTRACE is a supply chain data platform enabling secure transmission of shipment documents and compliance records between manufacturers and logistics providers. Headquartered in Barcelona, Spain, it integrates with SAP and Oracle systems for real-time tracking of 1 million consignments annually across automotive and electronics sectors.",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "Augury is a Brooklyn-headquartered company founded in 2011 providing AI solutions for industrial machine health and process optimization. The platform ingests vibration, sound, and operational data from equipment to predict failures and streamline performance. Augury integrates with manufacturing systems at sites for food, chemical, and consumer goods producers across the United States and Europe.",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Helwit, a fast-growing nicotine pouch brand, used the osapiens HUB to establish EU Track & Trace compliance as a scalable part of its growth strategy. Download Case Study Now",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The Voluntary Sustainability Reporting Standard for SMEs helps non-listed SMEs share sustainability information with business partners and financial institutions.",
+    "url": "https://osapiens.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Partners at SoS.26 are part of what defines this new era bringing together expertise, technology and",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "KPMG is an organization of independent member firms with more than 276,000 employees in 138 countries and territories.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Impact Strategies is a strategic consulting firm dedicated to reshaping economic growth — with sustainability as a success factor and digitalization as an accelerator. As part of Gofore Group, we help organizations master the \"Twin Transformation\": turning regulatory requirements like CSRD, EUDR, and the Digital Product Passport into genuine competitive advantage, not just compliance.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "At the Summit on Sustainability 2026, we are proud to be part of a community that shares this conviction — because compliance keeps you in the game, but strategy decides who leads.",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Its positioning aligns closely with organisations that view sustainability compliance as part of broader operational risk management.",
+    "url": "https://www.keyesg.com/article/osapiens-review",
+    "pass": 3
+   },
+   {
+    "quote": "201-500 Employees",
+    "url": "https://www.planhat.com/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "Book a 30-minute call to discover why Planhat is the #1 platform for capturing demand, converting revenue and compounding customer value — from pipeline to lifetime.",
+    "url": "https://www.planhat.com/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "Move customers from closed-won to full adoption. Unify teams, data, and workflows to accelerate time-to-value and set a predictable baseline for lifelong revenue growth.",
+    "url": "https://www.planhat.com/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "Create a shared operating layer where revenue, product, and Customer Success teams work from the exact same commercial context. Unify account records, cross-functional workflows, and embedded agents to reduce operational drag and set a predictable baseline for lifelong revenue growth.",
+    "url": "https://www.planhat.com/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in Mannheim in 2018, osapiens works with an international team of more than 600 employees and serves over 2,500 customers worldwide.",
+    "url": "https://osapiens-cmms.com/webinars-and-events/",
+    "pass": 3
+   },
+   {
+    "quote": "Become part of the fastest growing maintenance software company in Europe.",
+    "url": "https://osapiens-cmms.com/webinars-and-events/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "Latest Acquisitions by",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "acquisitions and their M&A valuation multiples.",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens competitors include listed companies like Presight AI and SenseTime Group, and private ones like Sisense, GWI, Braintrust and DataStory.",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "Is osapiens publicly listed?",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "How many companies has osapiens acquired?",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens has acquired 2 companies, including",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "HUB Store - osapiens — HUB Store - osapiens osapiens https://osapiens.com > ... > Platform",
+    "url": "https://osapiens.com/ja/platform/hub-store",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens 1D+ - Google Play のアプリ — osapiens 1D+ - Google Play のアプリ Google Play https://play.google.com > store > apps > details > id=com....",
+    "url": "https://play.google.com/store/apps/details?id=com.osapiens.operations.oneidplus&hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens 株式会社の会社概要とプレスリリース — osapiens 株式会社の会社概要とプレスリリース 全国企業データベース https://companydata.tsujigawa.com > company2",
+    "url": "https://companydata.tsujigawa.com/company2/4010401201811/",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens — osapiens osapiens https://osapiens.com > ...",
+    "url": "https://osapiens.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens HUB | one platform for sustainable growth - YouTube — osapiens HUB | one platform for sustainable growth - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens | World Economic Forum - 世界経済フォーラム — osapiens | World Economic Forum - 世界経済フォーラム World Economic Forum https://jp.weforum.org > organizations > osapiens",
+    "url": "https://jp.weforum.org/organizations/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "Compliance, Sustainability & Operations Solutions - osapiens — Compliance, Sustainability & Operations Solutions - osapiens osapiens https://osapiens.com > solutions",
+    "url": "https://osapiens.com/en/solutions",
+    "pass": 3
+   },
+   {
+    "quote": "SoS.26 Partner - osapiens — SoS.26 Partner - osapiens osapiens https://event.osapiens.com > partner",
+    "url": "https://event.osapiens.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Osapiens Review: Features, Benefits and Pricing - KEY ESG — Osapiens Review: Features, Benefits and Pricing - KEY ESG KEY ESG https://www.keyesg.com > article > os...",
+    "url": "https://www.keyesg.com/article/osapiens-review",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens HUB Reviews & Ratings 2026 | Gartner Peer Insights — osapiens HUB Reviews & Ratings 2026 | Gartner Peer Insights Gartner https://www.gartner.com > product",
+    "url": "https://www.gartner.com/reviews/product/osapiens-hub",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Your Maintenance Operations | osapiens — Manage Your Maintenance Operations | osapiens osapiens CMMS https://osapiens-cmms.com",
+    "url": "https://osapiens-cmms.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Resources Overview - osapiens — Resources Overview - osapiens osapiens https://osapiens.com > resources-over...",
+    "url": "https://osapiens.com/en/resources-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Osapiens - Planhat — Osapiens - Planhat Planhat https://www.planhat.com > osapiens",
+    "url": "https://www.planhat.com/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "Webinars, Events & Recordings - osapiens CMMS — Webinars, Events & Recordings - osapiens CMMS osapiens CMMS https://osapiens-cmms.com > webinar...",
+    "url": "https://osapiens-cmms.com/webinars-and-events/",
+    "pass": 3
+   },
+   {
+    "quote": "Osapiens , ERM Partner to Provide Joint Sustainability Data ... — Osapiens , ERM Partner to Provide Joint Sustainability Data ... ESG Today https://www.esgtoday.com > osapiens...",
+    "url": "https://www.esgtoday.com/osapiens-erm-partner-to-provide-joint-sustainability-data-and-advisory-offering/",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens Secures $120M Funding from Goldman Sachs — osapiens Secures $120M Funding from Goldman Sachs osapiens https://osapiens.com > ... > Resources",
+    "url": "https://osapiens.com/en/resources/company-news/2026/osapiens-raises-120-million-funding-round-led-by-growth-equity-at-goldman-sachs-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens's Competitors, Revenue , Number of Employees ... — osapiens's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > osapiens",
+    "url": "https://www.owler.com/company/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens Valuation, Funding & Investors - Multiples.vc — osapiens Valuation, Funding & Investors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens — Unicorn company profile - Dealroom — osapiens — Unicorn company profile - Dealroom Dealroom https://dealroom.co > osapiens",
+    "url": "https://dealroom.co/companies/osapiens/",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens - Crunchbase Company Profile & Funding — osapiens - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > osapiens",
+    "url": "https://www.crunchbase.com/organization/osapiens",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us to see our powerful software platform in action.",
+    "url": "https://www.keyesg.com/article/osapiens-review",
+    "pass": 3
+   },
+   {
+    "quote": "Just during our first month of using the platform we saved more than 100 hours by automating pricing notification, winback, CSM change and campaign emails.”",
+    "url": "https://www.planhat.com/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "“Just during our first month of using the platform we saved more than 100 hours by automating pricing notification, winback, CSM change and campaign emails.”",
+    "url": "https://www.planhat.com/osapiens",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "osapiens - LinkedIn osapiens - LinkedIn LinkedIn https://de.linkedin.com > osapiens",
+    "url": "https://de.linkedin.com/company/osapiens",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens HUB for CSRD - LinkedIn osapiens HUB for CSRD - LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/osapiens-hub-for-csrd/",
+    "pass": 3
+   },
+   {
+    "quote": "osapiens ' Post - LinkedIn osapiens ' Post - LinkedIn LinkedIn https://www.linkedin.com > posts > os...",
+    "url": "https://www.linkedin.com/posts/osapiens_the-osapiens-hub-store-is-here-as-an-osapiens-activity-7525467319830056960-z6En",
+    "pass": 3
+   },
+   {
+    "quote": "James DeBragga's Post - osapiens - LinkedIn James DeBragga's Post - osapiens - LinkedIn LinkedIn https://www.linkedin.com > posts > ja...",
+    "url": "https://www.linkedin.com/posts/james-debragga-716600_im-excited-to-share-that-ive-joined-osapiens-activity-7437570740826062848-L_KC",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "osapiens | Mannheim - Facebook osapiens | Mannheim - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/osapiensHUB/",
+    "pass": 3
+   },
+   {
+    "quote": "Osapiens Appoints Stephan de Barse as President - Facebook Osapiens Appoints Stephan de Barse as President - Facebook Facebook https://www.facebook.com > ESGToday > posts > osapien...",
+    "url": "https://www.facebook.com/ESGToday/posts/osapiens-appoints-stephan-de-barse-as-president-esgdata-sustainabilitydata-softw/1575349514612257/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://osapiens.com/en",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://esgjournaljapan.com/world-news/49991",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.osapiens.operations.oneidplus&hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.weforum.org/organizations/osapiens",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://event.osapiens.com/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.keyesg.com/article/osapiens-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gartner.com/reviews/product/osapiens-hub",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planhat.com/osapiens",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKTCqBKwPdiuY35dW-qUsyceW-h6y-QUYi5Z9qbtga1o048JDl-",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osapiens-cmms.com/webinars-and-events/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.esgtoday.com/osapiens-erm-partner-to-provide-joint-sustainability-data-and-advisory-offering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/osapiens",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/osapiens",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/companies/osapiens/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/osapiens",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/osapiens-hub-for-csrd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/osapiens_the-osapiens-hub-store-is-here-as-an-osapiens-activity-7525467319830056960-z6En",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/osapiensHUB/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ESGToday/posts/osapiens-appoints-stephan-de-barse-as-president-esgdata-sustainabilitydata-softw/1575349514612257/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/james-debragga-716600_im-excited-to-share-that-ive-joined-osapiens-activity-7437570740826062848-L_KC",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Osapiens 日本 導入",
+   "results": [
+    "https://osapiens.com/ja/platform/hub-store",
+    "https://esgjournaljapan.com/world-news/49991",
+    "https://play.google.com/store/apps/details?id=com.osapiens.operations.oneidplus&hl=ja",
+    "https://www.stellantis.jp/",
+    "https://companydata.tsujigawa.com/company2/4010401201811/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.youtube.com/watch?v=z49S-ZKeF6M",
+    "https://car.watch.impress.co.jp/docs/news/1381335.html",
+    "https://osapiens.com/",
+    "https://esgjournaljapan.com/world-news/50361"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Osapiens 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://osapiens.com/en",
+    "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "https://jp.weforum.org/organizations/osapiens",
+    "https://osapiens.com/en/solutions",
+    "https://esgjournaljapan.com/world-news/49991",
+    "https://blitzportal.com/startups/osapiens-AK5JqJJj",
+    "https://compalyze.co.jp/company/4010401201811",
+    "https://companydata.tsujigawa.com/company2/4010401201811/",
+    "https://osapiens.com/en/about-us",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Osapiens Japan",
+   "results": [
+    "https://event.osapiens.com/partner",
+    "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "https://www.keyesg.com/article/osapiens-review",
+    "https://www.gartner.com/reviews/product/osapiens-hub",
+    "https://osapiens-cmms.com/",
+    "https://procureconconnect.wbresearch.com/sponsors/osapiens",
+    "https://jp.weforum.org/organizations/osapiens",
+    "https://guptadeepak.com/grc-compass/vendors/osapiens/",
+    "https://builtin.com/company/osapiens",
+    "https://osapiens.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Osapiens manufacturing customer case study",
+   "results": [
+    "https://osapiens.com/en/resources-overview",
+    "https://www.planhat.com/osapiens",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKTCqBKwPdiuY35dW-qUsyceW-h6y-QUYi5Z9qbtga1o048JDl-",
+    "https://osapiens-cmms.com/webinars-and-events/",
+    "https://www.youtube.com/watch?v=j4oQtJoegfI",
+    "https://osapiens.com/en/media/files/customer-case-studies/osapiens-case-study-cocacola-hellenic-en",
+    "https://www.codeandco.com/case-studies/tech-product-dd/armira-growth-osapiens/",
+    "https://www.g2.com/products/osapiens/reviews",
+    "https://www.linkedin.com/posts/osapiens_customer-success-at-osapiens-activity-7394011091900510211-UeGr",
+    "https://osapiens.com/en/media/files/customer-case-studies/osapiens-case-study-schunk-en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Osapiens white label OR reseller OR partner program",
+   "results": [
+    "https://osapiens.com/en",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.esgtoday.com/osapiens-erm-partner-to-provide-joint-sustainability-data-and-advisory-offering/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "https://event.osapiens.com/partner",
+    "https://www.reddit.com/r/startups/comments/w857z8/b2b_white_label_saas_reselling/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Osapiens founded funding employees revenue",
+   "results": [
+    "https://osapiens.com/en/resources/company-news/2026/osapiens-raises-120-million-funding-round-led-by-growth-equity-at-goldman-sachs-alternatives",
+    "https://www.owler.com/company/osapiens",
+    "https://multiples.vc/private-comps/osapiens",
+    "https://dealroom.co/companies/osapiens/",
+    "https://www.crunchbase.com/organization/osapiens",
+    "https://www.prnewswire.com/news-releases/osapiens-secures-us-100-million-financing-and-becomes-a-unicorn-with-investment-from-blackrock--and-temasek-founded-decarbonization-partners-302660112.html",
+    "https://www.linkedin.com/posts/hugorauch_just-in-europe-has-a-new-climate-tech-unicorn-activity-7417164412110897152-wt7Y",
+    "https://growjo.com/company/osapiens",
+    "https://equityzen.com/company/osapiens/",
+    "https://compworth.com/company/osapiens"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Osapiens",
+   "results": [
+    "https://note.com/noted_powercurve/n/n88e53e8c6c5a",
+    "https://note.com/stagerace/n/ndff8516d6974"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "site:x.com Osapiens",
+   "results": [
+    "https://x.com/tecnoempleo/status/2120101449195819334",
+    "https://x.com/Emprendedores/status/2118389695260369179",
+    "https://x.com/disruptoresee/status/2119507367301710105",
+    "https://x.com/CopperbergAB",
+    "https://x.com/disruptoresee/status/2119332048439492639",
+    "https://x.com/OneStopESG_",
+    "https://x.com/disruptoresee/status/2119778131900764551",
+    "https://x.com/GLOBALGAP",
+    "https://x.com/Martin_Bethke",
+    "https://x.com/Osapiens"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Osapiens",
+   "results": [
+    "https://de.linkedin.com/company/osapiens",
+    "https://www.linkedin.com/posts/stephandebarse-driving-digital-transformation_today-im-announcing-my-next-move-ive-joined-activity-7452264121921740813-bDJh",
+    "https://www.linkedin.com/products/osapiens-hub-for-csrd/",
+    "https://www.linkedin.com/posts/osapiens_the-osapiens-hub-store-is-here-as-an-osapiens-activity-7525467319830056960-z6En",
+    "https://www.linkedin.com/in/alberto-zamora-22295212",
+    "https://de.linkedin.com/in/daniel0schwarz/en",
+    "https://www.linkedin.com/posts/stephandebarse-driving-digital-transformation_osapiens-compliance-ai-activity-7522933419518021632-b5Nw",
+    "https://de.linkedin.com/in/surendhanasekaran",
+    "https://de.linkedin.com/in/christophrechsteiner",
+    "https://www.linkedin.com/company/osapiens"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Osapiens",
+   "results": [
+    "https://www.facebook.com/osapiensHUB/",
+    "https://www.facebook.com/ESGToday/posts/osapiens-appoints-stephan-de-barse-as-president-esgdata-sustainabilitydata-softw/1575349514612257/",
+    "https://www.facebook.com/MBIgeodata/posts/geopolitical-risks-dont-stop-at-national-borders-so-why-should-risk-assessments-/1821413816653721/",
+    "https://www.facebook.com/groups/168499696519299/",
+    "https://www.facebook.com/GUC.Official/posts/we-are-proud-to-celebrate-the-outstanding-achievement-of-our-2023-met-graduates-/1302454608735370/",
+    "https://www.facebook.com/DisruptoresEE/posts/a-zamora-osapiens-nunca-ha-sido-tan-f%C3%A1cil-ser-emprendedor-como-ahora/1604994311666193/",
+    "https://www.facebook.com/ESGToday/posts/esg-todays-top-stories-this-weeko-uk-to-introduce-supply-chain-human-rights-due-/1581915450622330/",
+    "https://www.facebook.com/OTRbyPneusNews/posts/dunlop-aircraft-tyres-punta-su-osapiens-hub-la-piattaforma-ai-di-osapiens-aziend/1111265461447309/",
+    "https://www.facebook.com/StadtverwaltungMannheim/posts/-unicorn-aus-mannheim-starkes-signal-f%C3%BCr-innovation-wirtschaftseltenes-exemplar-/1284693563689001/",
+    "https://www.facebook.com/mafinex/videos/meet-alberto-from-osapiensosapiens-is-a-fast-growing-company-that-focuses-on-ope/452090879081649/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Osapiens note 社長",
+   "results": [
+    "https://osapiens.com/en/about-us",
+    "https://www.linkedin.com/posts/james-debragga-716600_im-excited-to-share-that-ive-joined-osapiens-activity-7437570740826062848-L_KC",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://esgjournaljapan.com/world-news/49991",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://hutzper.com/news/notice/n261025/",
+    "https://osapiens.com/en/events-webinars/customer-exclusive-webinars/2026/welcome-to-osapiens-get-to-know-us",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Osapiens X 投稿",
+   "results": [
+    "https://osapiens.com/en/platform/hub-store",
+    "https://www.youtube.com/watch?v=gmRybxdXHkM",
+    "https://www.keyesg.com/article/osapiens-review",
+    "https://www.youtube.com/channel/UCv8Q4MwkjfCRjZIhwfpos2Q/videos",
+    "https://pefc.org/cms/b999fadb-8521-4d4f-8d3c-4688f57fdced/news/10001145/the-osapiens-holistic-software-solution-for-eu-deforestation-regulation",
+    "https://osapiens.com/en/events-overview",
+    "https://play.google.com/store/apps/details?id=com.osapiens.operations.oneidplus",
+    "https://jp.weforum.org/organizations/osapiens",
+    "https://x.com/osapiens_",
+    "https://osapiens.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

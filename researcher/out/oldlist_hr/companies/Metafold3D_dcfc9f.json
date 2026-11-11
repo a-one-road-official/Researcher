@@ -1,0 +1,995 @@
+{
+ "name": "Metafold3D",
+ "aliases": [],
+ "context": "旧営業リスト｜AM / Additive Manufacturing｜リマイン1",
+ "researched_at": "2026-11-11T02:01:13.037659+00:00",
+ "official_url": "https://www.metafold3d.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Spreadsheet stackups depend on who builds them.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering hours lost to brittle spreadsheet workflows",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fit problems found after design freeze",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find fit risks while changes are practical",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect the launch schedule",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "StackUp 3D is an AI-friendly approach to tolerance analysis that protects your need for engineering certainty.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Geometry and math drive the calculations. The same study inputs produce the same results.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The washer spans an adapter and a sprocket. Compare their tolerance envelopes to see how locating inputs affect the local gap.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Washer / sprocket interface",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The assumed variation consumes the local gap. Check the locating relationships before setting production tolerances.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If time constraints prevent analysis today, bring those missed checks into the evaluation. Their value is in the design decisions they inform; it is not counted as savings from work you never performed.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "StackUp 3D supports early design decisions. Detailed GD&T and release-stage verification remain part of your engineering process.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deterministic geometry and mathematical calculations. The same study inputs produce the same results, without a trained model.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "StackUp 3D is a desktop application for STEP assemblies. Deployment, training and integration requirements are scoped with your team.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with a demo and a discussion of your fit question. A hands-on evaluation on your own assembly establishes the technical scope and business value before an annual enterprise license.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One fit question that matters to your program",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our contact form is provided by HubSpot and requires Marketing consent. You can enable it here, or email us without changing your preferences.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hybrid · Toronto preferred · Open to candidates across Canada",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Dimensional Engineer — Product Development",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Hybrid, Toronto preferred",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Metafold | Hybrid, Toronto preferred",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Metafold is building a fundamentally better way to do tolerance analysis. We’re looking for a seasoned dimensional engineer to join a team with deep expertise in geometry, mathematics, and software—and bring practical tolerance analysis expertise to the development of exceptional engineering tools.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You’ll contribute directly to product development, work closely with customers, and represent Metafold in technical conversations throughout the sales cycle. This role suits someone who combines strong engineering judgment with the ability to present clearly, build relationships, and get people working toward a shared goal.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You’ll bring dimensional engineering expertise to a collaborative product team, applying experience from real products and production environments to next-generation tolerance analysis software.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Contribute to product direction: bring a practitioner’s judgment to product priorities, workflows, and capabilities, working closely with our geometry and software teams.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Lead technical work: perform and review tolerance and variation analyses, investigate dimensional issues, and recommend practical design or process improvements.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Validate performance: develop representative engineering cases, assess modeling assumptions, and evaluate results against established methods and measurement data.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build customer relationships: understand engineering challenges, lead productive technical discussions, and translate customer feedback into actionable insights.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Support the sales cycle: deliver compelling demonstrations and presentations, scope technical evaluations, and explain the engineering and business value of Metafold’s approach.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Substantial professional experience in dimensional engineering, geometry assurance, or mechanical engineering with significant responsibility for tolerancing and variation analysis.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A record of independently resolving dimensional problems in product development and production. You can explain the decisions you made and the results they delivered.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Practical understanding of manufacturing processes, inspection data, and process capability.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Proficiency with CAD software and experience working with mechanical parts and assemblies.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Working knowledge of FEA and engineering simulation software, including model setup, assumptions, boundary conditions, and interpretation of results.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Excellent presentation and interpersonal skills. You can lead a room, communicate complex ideas clearly, and build credibility with engineers, managers, and prospective customers.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A collaborative approach: you listen carefully, share knowledge, welcome constructive challenge, and take responsibility for shared outcomes.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This is a senior role requiring demonstrated field experience applying dimensional engineering methods to real products. Coursework and certifications should be supported by practical experience.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A degree in mechanical engineering or a related discipline, or equivalent practical experience.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics or electromechanical product experience, particularly connectors, enclosures, precision assemblies, or electronics packaging.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experience improving engineering tools or workflows, or collaborating with software development teams.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This is a hybrid position, with a preference for candidates based in Toronto. We will also consider strong candidates elsewhere in Canada, with working arrangements discussed during the hiring process.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Introductory interview: discuss your experience, interests, and what you’re looking for, and learn about Metafold and the role.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 22, 2026",
+    "url": "https://github.com/metafold3d",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold 3D secures $500,000 from Active Impact Investments to build 3D printing’s “missing piece” | BetaKit",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold 3D secures $500,000 from Active Impact Investments to build 3D printing’s “missing piece”",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "wants to make it easier for manufacturers to design and 3D print complex parts.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Armed with $500,000 CAD in pre-seed funding from Vancouver-based cleantech investor",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "In the United States, manufacturing and transportation account for a significant proportion of carbon emissions, according to the",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Environmental Protection Agency",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": ". The environmental impact of 3D printing—a form of additive manufacturing—is",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "than that of traditional manufacturing, in part because the process allows manufacturers to 3D print parts and goods locally, rather than shipping them from around the world.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold aims to enable incumbent producers to widely adopt 3D printing. The environmental and sustainability implications of this idea helped the startup land Active Impact as an investor, through the firm’s",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "“We really identified this bottleneck at the design side,” said Ross. “There are hardware manufacturers who have these factories of 3D printers, and they’re ready to manufacture things, but there aren’t enough people designing things for 3D printing, because it’s hard.”",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "As Active Impact founder and managing partner Mike Winterfield puts it, Metafold aims to provide “missing middleware” to connect traditional design software to 3D printers.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "“There’s lots of great design software out there, there’s actually greatly improved hardware out there … but there isn’t an easy way to get your designs from traditional software over to that hardware,” Winterfield told BetaKit in an interview.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold sees potential in targeting manufacturers using 3D printing to manufacture “frontier technologies” in the cleantech, aerospace, and medical sectors.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Ross expressed excitement about having Active Impact as a backer, describing the firm as “a great fit” for Metafold due to its cleantech focus, and the expertise it brings on the sales and fundraising fronts, given Metafold’s particularly technical founding team.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Aspect Biosystems raises $26 million CAD in Series A for 3D printing of human tissues",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "The startup’s pre-seed round, which it raised via SAFE, represents Metafold’s first venture funding to date. The company aims to raise a larger seed round in 2023.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold also marks Active Impact’s first investment in a 3D printing company. For Active Impact, which typically invests larger sums in early-stage companies with more employees, revenue, and established customers, the firm’s decision to take on a higher degree of risk and invest in Metafold at this stage is unusual.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "StackUp 3D supports early design decisions. Detailed GD&T and release-stage verification remain part of your engineering process.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your fit question. We’ll follow up to arrange a demo.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This is a hybrid position, with a preference for candidates based in Toronto. We will also consider strong candidates elsewhere in Canada, with working arrangements discussed during the hiring process.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This role suits someone who enjoys understanding how things work, translating technical concepts into working software, and carrying a feature through to completion.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This organization has no public members. You must be a member to see who’s a part of this organization.",
+    "url": "https://github.com/metafold3d",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold also marks Active Impact’s first investment in a 3D printing company. For Active Impact, which typically invests larger sums in early-stage companies with more employees, revenue, and established customers, the firm’s decision to take on a higher degree of risk and invest in Metafold at this stage is unusual.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold 3D: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Metafold_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Metafold_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Metafold_3D",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Metafold_3D",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Metafold_3D",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "No email needed to calculate.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our contact form is provided by HubSpot and requires Marketing consent. You can enable it here, or email us without changing your preferences.",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email info@metafold3d.com",
+    "url": "https://www.metafold3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Metafold_3D",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Metafold_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for email updates",
+    "url": "https://creativedestructionlab.com/companies/metafold-3d/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Practical understanding of manufacturing processes, inspection data, and process capability.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You’ll join a team with deep expertise in geometry, mathematics, and software, working on challenging problems with direct applications in manufacturing. There is substantial work ahead, and you’ll have the opportunity to own meaningful features, see your work reach customers, and grow alongside experienced colleagues.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Several years of professional software development experience, including contributions to software used by customers or other engineering teams.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experience developing software for CAD, CAE, simulation, robotics, manufacturing, or other technical applications.",
+    "url": "https://www.metafold3d.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Idea behind Metafold was spun out of co-founders’ consulting work with a major sportswear manufacturer.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "wants to make it easier for manufacturers to design and 3D print complex parts.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "In the United States, manufacturing and transportation account for a significant proportion of carbon emissions, according to the",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": ". The environmental impact of 3D printing—a form of additive manufacturing—is",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "than that of traditional manufacturing, in part because the process allows manufacturers to 3D print parts and goods locally, rather than shipping them from around the world.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "“We really identified this bottleneck at the design side,” said Ross. “There are hardware manufacturers who have these factories of 3D printers, and they’re ready to manufacture things, but there aren’t enough people designing things for 3D printing, because it’s hard.”",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold sees potential in targeting manufacturers using 3D printing to manufacture “frontier technologies” in the cleantech, aerospace, and medical sectors.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Ross emphasized Metafold’s expertise in lattices and metamaterials as a differentiator. The CEO also highlighted that unlike Metafold’s offering—which manufacturers can integrate into their existing tools—other available products are often tied to specific pieces of hardware.",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimately, Ross is bullish on the long-term potential of combining manufacturing with a focus on geometry. “I think 3D printing will be impactful on the lives of everyone through these kinds of frontier technologies that are under development now,” she said. “I’m just excited to be supporting people who are pushing these boundaries.”",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold 3D is a Toronto-based B2B SaaS startup that drives new applications for industrial 3D printing through its cloud-native Design for Additive Manufacturing platform. Metafold helps engineers develop remarkable new products in aerospace, medical, automotive and consumer goods, and bring those products to market more quickly than leading alternatives.",
+    "url": "https://creativedestructionlab.com/companies/metafold-3d/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Metafold 3D - LinkedIn — Metafold 3D - LinkedIn LinkedIn https://ca.linkedin.com > metafold3d",
+    "url": "https://ca.linkedin.com/company/metafold3d",
+    "pass": 3
+   },
+   {
+    "quote": "StackUp 3D | Tolerance Analysis for Early Design | Metafold — StackUp 3D | Tolerance Analysis for Early Design | Metafold StackUp 3D https://www.metafold3d.com",
+    "url": "https://www.metafold3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold 3D (@ metafold3d ) • Instagram photos and videos — Metafold 3D (@ metafold3d ) • Instagram photos and videos Instagram https://www.instagram.com > metafol...",
+    "url": "https://www.instagram.com/metafold3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold 3D - GitHub — Metafold 3D - GitHub GitHub https://github.com > metafold3d",
+    "url": "https://github.com/metafold3d",
+    "pass": 3
+   },
+   {
+    "quote": "METAFOLD 3D - Autodesk App Store — METAFOLD 3D - Autodesk App Store Autodesk https://marketplace.autodesk.com > p...",
+    "url": "https://marketplace.autodesk.com/publisher-profile/1c57d945-1317-4a49-a497-e920768bc2c8",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold 3D — Metafold 3D StackUp 3D https://www.metafold3d.com",
+    "url": "https://www.metafold3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold 3D secures $500,000 from Active Impact Investments ... — Metafold 3D secures $500,000 from Active Impact Investments ... BetaKit https://betakit.com > ...",
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold 3D: Revenue , Competitors, Alternatives - Growjo — Metafold 3D: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company",
+    "url": "https://growjo.com/company/Metafold_3D",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold 3D - Creative Destruction Lab — Metafold 3D - Creative Destruction Lab Creative Destruction Lab https://creativedestructionlab.com > c...",
+    "url": "https://creativedestructionlab.com/companies/metafold-3d/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Daniel Hambleton (@Mesh_Geometry) / X I am thrilled to *finally* be able to announce a stealth startup I’ve been working on with @ Mesh_Geometry & @ tom_reslinski!!! We created a #3Dprinting technology specifically to print complex geometry like #lattices and high surface area #metamaterials. metafold3d.com",
+    "url": "https://x.com/Mesh_Geometry",
+    "pass": 3
+   },
+   {
+    "quote": "Active Impact Investments (@active_impact) / X Spun out of its co-founders’ consulting work with a major sportswear manufacturer, @ active_impact -backed @ Metafold3D aims to help address the bottleneck at the design side of 3D printing.",
+    "url": "https://x.com/active_impact",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Metafold 3D - LinkedIn Metafold 3D - LinkedIn LinkedIn https://ca.linkedin.com > metafold3d",
+    "url": "https://ca.linkedin.com/company/metafold3d",
+    "pass": 3
+   },
+   {
+    "quote": "Elissa Ross - Mathematician / CEO at Metafold 3D / Solving ... Elissa Ross - Mathematician / CEO at Metafold 3D / Solving ... LinkedIn https://ca.linkedin.com > elissa-ross",
+    "url": "https://ca.linkedin.com/in/elissa-ross",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold 3D: How we use geometry to solve manufacturing ... Metafold 3D: How we use geometry to solve manufacturing ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/tom-reslinski_at-metafold-3d-we-think-about-geometry-a-activity-7316185563013750784-clJy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Metafold3D - Facebook Jun 2, 2021 · Metafold3D. 9 likes. Shape Matters. Metafold3D offers large scale 3D printing solutions for research and industrial applications.",
+    "url": "https://www.facebook.com/pages/Metafold3D/108000128162432/",
+    "pass": 3
+   },
+   {
+    "quote": "Metafold Engineering - FacebookMetafold - Think bigger. Store smarter. ⬆️ Why expand your ...Metafold - Did You Know? You can double your storage ...3DPrint.com - MESH Consultants, Metafold3D, 3DoodlerWhy are warehouses essential in... - Metafold Engineering ...Machine Design - In a chat with #Metafold3D's Dr. Elissa... Metafold Engineering is an undisputed leader in providing Storage Solutions an",
+    "url": "https://www.facebook.com/metafoldengineering/",
+    "pass": 3
+   },
+   {
+    "quote": "3DPrint.com - MESH Consultants, Metafold3D, 3Doodler Facebook Facebook Facebook Facebook Facebook Facebook Facebook Facebook 3DPrint.com portdoSsen24l2Al702p02,f605457ic5iachrm07ta6t06l11221m09m5 · Shared with Public MESH Consultants, Metafold3D, 3Doodler 3dprint.com 3DPOD Episode 102: 3D Printing Metamaterials with METAFOLD CEO Elissa Ross - 3DPrint.com | The Voice of 3D Printing / Additive ...",
+    "url": "https://www.facebook.com/3dprintcom/posts/1982566655248195/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine Design - In a chat with #Metafold3D's Dr. Elissa... Aug 16, 2023 · In a chat with #Metafold3D 's Dr. Elissa Ross, #MachineDesign learns the technology behind the company's #computation engine, its impact on key markets and its commitment to #sustainability.",
+    "url": "https://www.facebook.com/MachineDesignMagazine/posts/in-a-chat-with-metafold3ds-dr-elissa-ross-machinedesign-learns-the-technology-be/693548929476337/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.metafold3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metafold3d.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/018shiryo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://carislife.hatenablog.com/entry/20260305/1772636400",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/44671",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autocar.jp/post/795678",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/ja/industrial/software/partnerships/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3fit.net/news/1065/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/company/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recmbus-3dprint.com/check/agency.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/metafold3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/metafold3d/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://github.com/metafold3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLd7phxNFbVzuqW3RxBHkxgHLmrhS5SUAB8aOFtfkrRl5qpoTIu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/manufacturing-using-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/metafold3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Metafold_3D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/metafold3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://creativedestructionlab.com/companies/metafold-3d/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Mesh_Geometry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/active_impact",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/metafold3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/elissa-ross",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tom-reslinski_at-metafold-3d-we-think-about-geometry-a-activity-7316185563013750784-clJy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/Metafold3D/108000128162432/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/metafoldengineering/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3dprintcom/posts/1982566655248195/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MachineDesignMagazine/posts/in-a-chat-with-metafold3ds-dr-elissa-ross-machinedesign-learns-the-technology-be/693548929476337/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/metafold3d",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Metafold3D 日本 導入",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/018shiryo.pdf",
+    "https://carislife.hatenablog.com/entry/20260305/1772636400",
+    "https://www.webcg.net/articles/-/44671",
+    "https://www.autocar.jp/post/795678",
+    "http://www.3ds.com/jp/company/news-media/press-releases-detail/release//single/4762/?cHash=82357412fbaecefe69f65ba813b94af8",
+    "https://newscast.jp/smart/news/5157155",
+    "https://drivejapan.co.jp/news/2",
+    "https://www.tegakari.net/2025/10/alphafold3_guide/",
+    "https://www.materialise.com/ja",
+    "https://www.bing.com/aclick?ld=e8_CwJm_UGeSiwHZu-MH1RITVUCUxX0kEStZLf2lp0uDpyX4qAwCGzgabqChCkoYhT_rkSsejgIvgRNpOtnEPfsHGhDUg0JNeg1cq7a1w364MfkCXafR3FRdp3zjYnOQ5X5uDLErmv21lJI_dfq9YUAMwNCCRerfnX_0hbAEewXNPtkpVeMYRZeJ0KELHMnr3DAO-Csw&u=aHR0cHMlM2ElMmYlMmZzdHVkaW8udHJpcG8zZC5haSUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZDUyNDUzNzIwNCUyNnV0bV9hZGdyb3VwJTNkMTMxODMxNzQyMDkzNTI4NSUyNnV0bV9jb250ZW50JTNkZ2VuZXJhdGl2ZSUyNTIwM2QlMjUyMG1vZGVsJTI2bXNjbGtpZCUzZDgyNzQ2NzcyYWJhMTE3NjkxMDc4MGQ4MTY3Y2QzMjlh&rlid=82746772aba1176910780d8167cd329a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Metafold3D 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.materialise.com/ja/industrial/software/partnerships/reseller",
+    "https://3fit.net/news/1065/",
+    "https://formlabs.com/jp/company/partners/",
+    "https://www.recmbus-3dprint.com/check/agency.html",
+    "https://news.sharelab.jp/3dp-news/ir/appletree-markforged-agencycontract-230602/",
+    "https://metoree.com/companies/680/distributors/",
+    "https://www.plan-b.co.jp/blog/ad/65125/",
+    "https://prtimes.jp/main/html/rd/p/000000005.000087646.html",
+    "https://www.elysium-global.com/ja/about/resellers/",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Metafold3D Japan",
+   "results": [
+    "https://ca.linkedin.com/company/metafold3d",
+    "https://www.metafold3d.com/",
+    "https://www.instagram.com/metafold3d/",
+    "https://github.com/metafold3d",
+    "https://marketplace.autodesk.com/publisher-profile/1c57d945-1317-4a49-a497-e920768bc2c8",
+    "https://creativedestructionlab.com/companies/metafold-3d/",
+    "https://www.metafold3d.com/contact",
+    "https://www.ngen.ca/collaboration/metafold",
+    "https://www.meta.com/blog/experience-life-in-tokyo-from-eight-unique-perspectives-in-tokyo-origami-available-now-on-the-oculus-quest-platform/?srsltid=AYCX9vID9njg3Eyw3SKJNCS9t1HeI1bbstjjUvs2h8CyUK_6ZnDtCPgG",
+    "https://www.bing.com/aclick?ld=e81l75qMgzHJOlaKtXn0JvGTVUCUzNxiRW8eGv6_GAybGbb-vfbCUYrv6CaXd_SS5JxrRgKjGLfkfDDz4MaHvNU-pSfpGGAdPLpfzPo5JkICPGuZpCT6RCpSMLTYPHbFkrZ3vlFpJwYJbccDs65xtrV_-vpUPHjtjf2zgdBDgUAdKXfrEhPUtyvItYzptFqBQnUnSTsvNQ05aBWfkg807s96j8-DA&u=aHR0cHMlM2ElMmYlMmZzdHVkaW8udHJpcG8zZC5haSUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZDUyNDgyNzQ4MSUyNnV0bV9hZGdyb3VwJTNkMTMyNDkxNDU4MDkyMDkyMyUyNnV0bV9jb250ZW50JTNkdHJpcG8zZCUyNm1zY2xraWQlM2RkNWEzYzA0M2ExNmMxNDIzNjI1ZWFhYjA2ZGU3NTU0Yg&rlid=d5a3c043a16c1423625eaab06de7554b"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Metafold3D manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLd7phxNFbVzuqW3RxBHkxgHLmrhS5SUAB8aOFtfkrRl5qpoTIu",
+    "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://thevirtualfoundry.com/manufacturing-using-3d-printing/",
+    "https://markforged.com/resources/case-studies",
+    "https://additivemanufacturinguk.org.uk/case-studies/",
+    "https://www.aon3d.com/category/case-study/",
+    "https://www.youtube.com/watch?v=Up_Vb9nmuwQ",
+    "https://www.desktopmetal.com/resources/case-studies",
+    "https://www.bing.com/aclick?ld=e8te3P1_kcaWbm95Aoa2QWKTVUCUyweQmVLGIAFAxKN1cPNXkEdFw6cf6Ak3I_VuL5tZYtNkYQbuG1f795KoJeoa5YOSEOqZshSRpOsnzE--fDYGG9cRebjPmNFQRSCWKB4ky_OwcfG0NSyG_mYP09-LCiniAbg29Ohfg7u11pwfXb-0UzkmkKlD_TIHlK0CY0Env1ynU9jQyl1Gqmicp1QkMmjEg&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2FwdGVycmEuY29tJTJmc2VtLWNvbXBhcmUtYiUyZm1hbnVmYWN0dXJpbmctc29mdHdhcmUlMmYlM2ZoZWFkbGluZSUzZE1hbnVmYWN0dXJpbmclMjUyMFNvbHV0aW9ucyUyNmFjY291bnRfY2FtcGFpZ25faWQlM2Q2OTgxMzU2MzklMjZhY2NvdW50X2FkZ3JvdXBfaWQlM2QxMjUxMjQ1NTM0NTQ3NzM2JTI2dGFyZ2V0JTNkbWFudWZhY3R1cmluZyUyNTIwc29sdXRpb25zJTI2YWRfaWQlM2QlMjZtYXRjaHR5cGUlM2RwJTI2dXRtX3NvdXJjZSUzZHBzLWJpbmclMjZ1dG1fbWVkaXVtJTNkcHBjJTI2dXRtX2NhbXBhaWduJTNkJTNhMSUzYUNBUCUzYTIlM2FDT00lM2EzJTNhQWxsJTNhNCUzYUlOVEwlM2E1JTNhQkFVJTNhNiUzYVNPRiUzYTclM2FEZXNrdG9wJTNhOCUzYUJSJTNhOSUzYU1hbnVmYWN0dXJpbmclMjZuZXR3b3JrJTNkbyUyNm1zY2xraWQlM2Q5Nzk1N2M3Yjk2NWIxYThhMDBhNjE2ODg1YWNiYTY3ZA&rlid=97957c7b965b1a8a00a616885acba67d"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Metafold3D white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://webinone.com/reseller-program",
+    "https://ca.linkedin.com/company/metafold3d",
+    "https://www.metafold3d.com/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.reddit.com/r/startups/comments/w857z8/b2b_white_label_saas_reselling/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.deel.com/blog/introducing-deel-white-label/",
+    "https://www.bing.com/aclick?ld=e8Kr8uRhimtZVvVcLUzfrG7TVUCUwSHh_7_6FHH2irY5Pme2AGiP5sGgvuPrxdKpKqXDBP-AukSTD0mX4dI26Gt_3GmilX2cSKenftp8sX1otsHCuFeS56jMTK0anupYsFeF20IVkWq9z_YiaAGqrkV0c8SftZhLibxiimZdxAv4esSpJudQ5PoOgvhqTa-92qyeuZZIA4BXJlXEV_4JoklD4YJFs&u=aHR0cHMlM2ElMmYlMmZ3d3cub2Rvby5jb20lMmZpbmR1c3RyaWVzJTJmc29mdHdhcmUtcmVzZWxsZXIlM2ZuZXR3b3JrJTNkbyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE5BLUVOLUluZHVzdHJ5JTI2dXRtX3Rlcm0lM2REaWdpdGFsJTI1MjBCdXNpbmVzcyUyNTIwU29sdXRpb24lMjUyMFNvZnR3YXJlJTI1MjBSZXNlbGxlcnV0bV9nY2xpZCUzZCUyNm1zY2xraWQlM2RjZDMyM2ExYzBlMzcxNzA5NGZjZjUwZWZjMjk3ODI5ZQ&rlid=cd323a1c0e3717094fcf50efc297829e"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Metafold3D founded funding employees revenue",
+   "results": [
+    "https://betakit.com/metafold-3d-secures-500000-from-active-impact-investments-to-build-3d-printings-missing-piece/",
+    "https://growjo.com/company/Metafold_3D",
+    "https://ca.linkedin.com/company/metafold3d",
+    "https://creativedestructionlab.com/companies/metafold-3d/",
+    "https://www.metafold3d.com/",
+    "https://tracxn.com/d/companies/metafold/__ddv2VC7pARQbiwsAYotdIU5hvLgshviBh6gX-zEBilA",
+    "https://buildindigital.com/toronto-start-up-raises-1-8m-to-boost-industrialisation-of-3d-printing/",
+    "https://www.differential.vc/news/metafold-closes-seed-funding",
+    "https://www.ngen.ca/collaboration/metafold",
+    "https://compworth.com/company/metafold-3d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Metafold3D",
+   "results": [
+    "https://note.com/eager_tiger5557",
+    "https://note.com/makusan/n/n1b1f47757961",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/shibusawa_tribox/n/n8e6c120cb7b9",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/torikarafever/n/na1a38be675e6"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Metafold3D",
+   "results": [
+    "https://x.com/_AlecJacobson",
+    "https://x.com/Mesh_Geometry",
+    "https://x.com/active_impact",
+    "https://www.bing.com/aclick?ld=e8zV3Oh2grVJyE4xuEIGVCGTVUCUy2jmLvFdf4ysbSUj7u37K7ptfLtfekVk85zoVYWhqyYWaY7hbLWIbPQ-HXlCOXxLtvQ3D1UwMVGpEpyZIQ40n--Ggm6tCbIt3CKQ3H8pGzrGnGxX4KsBB41J3xlKuCcoeOkcTX4rH0c3WnVoNO36mdHImDAHbS5RSL7F8yan119D3VMM1BtalAcV99DGZzw0U&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmYzMDg1JTJmY3ElM2Zldl9zaWQlM2QxMCUyNmV2X2xuJTNkM2QlMjUyMGFzc2V0cyUyNTIwZnJlZSUyNmV2X2x0eCUzZCUyNmV2X2x4JTNka3dkLTc5MjM0MTc5NDkyNDkwJTNhbG9jLTMyJTI2ZXZfY3J4JTNkNzkyMzM3NzA4Nzg0ODclMjZldl9tdCUzZHAlMjZldl9kdmMlM2RjJTI2ZXZfcGh5JTNkNTI1NCUyNmV2X2xvYyUzZCUyNmV2X2N4JTNkNTA2MjMyMDc1JTI2ZXZfYXglM2QxMjY3NzM4NjIwMzM4NjYzJTI2ZXZfZXglM2QlMjZldl9lZmlkJTNkN2QxNTBiY2FiZTIzMTk0MWU1ODA2MTM5NzI5YWFhMjUlM2FHJTNhcyUyNnVybCUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGc3RvY2suYWRvYmUuY29tJTI1MkZjYSUyNTJGM2QtYXNzZXRzJTI1M0ZlZl9pZCUyNTNEN2QxNTBiY2FiZTIzMTk0MWU1ODA2MTM5NzI5YWFhMjUlMjUzQUclMjUzQXMlMjUyNnNfa3djaWQlMjUzREFMITMwODUhMTAhNzkyMzM3NzA4Nzg0ODchISEhNzkyMzQxNzk0OTI0OTAhITUwNjIzMjA3NSExMjY3NzM4NjIwMzM4NjYzJTI1MjZhc19jaGFubmVsJTI1M0RzZW0lMjUyNmFzX2NhbXBjbGFzcyUyNTNEbm9uYnJhbmQlMjUyNmFzX2NhbXBhaWduJTI1M0RDQV9DUFJPX1NUT0NLX05PTkJSQU5EX1JPSV9DT1JFX1NUT0NLLTNEX1NUT0NLX1BIUkFTRV9DUk9TU19TRUFSQ0hfbmFfQk5HX0VOJTI1MjZhc19zb3VyY2UlMjUzRGJpbmclMjUyNmFzX2NhbXB0eXBlJTI1M0RhY3F1aXNpdGlvbiUyNTI2c2RpZCUyNTNETFozMlNTUUQlMjUyNm12JTI1M0RzZWFyY2glMjUyNm12MiUyNTNEcGFpZHNlYXJjaCUyNTI2YXNfYXVkaWVuY2UlMjUzRGNvcmUlMjZtc2Nsa2lkJTNkN2QxNTBiY2FiZTIzMTk0MWU1ODA2MTM5NzI5YWFhMjU&rlid=7d150bcabe231941e5806139729aaa25",
+    "https://x.com/MetafoldGames",
+    "https://x.com/wheelissa",
+    "https://x.com/ViviVVitch/status/2076799980484854152",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/boosygang/status/2119461098155868282"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Metafold3D",
+   "results": [
+    "https://ca.linkedin.com/company/metafold3d",
+    "https://ca.linkedin.com/in/elissa-ross",
+    "https://ca.linkedin.com/in/tom-reslinski",
+    "https://www.linkedin.com/posts/tom-reslinski_at-metafold-3d-we-think-about-geometry-a-activity-7316185563013750784-clJy",
+    "https://ca.linkedin.com/in/obada-albaba",
+    "https://ca.linkedin.com/in/daniel-hambleton-87217724",
+    "https://www.linkedin.com/posts/metafold3d_most-simulations-force-a-footwear-designer-activity-7511078628844122113-p2OS",
+    "https://www.linkedin.com/pulse/digital-tooling-defining-adoption-additive-elissa-ross-nljzc",
+    "https://ca.linkedin.com/jobs/view/intermediate-software-developer-%E2%80%94-geometry-engineering-applications-at-metafold-3d-4486075647",
+    "https://www.linkedin.com/posts/metafold3d_additive-manufacturing-software-metafold-activity-6979167340047298560-gX8u"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Metafold3D",
+   "results": [
+    "https://www.facebook.com/pages/Metafold3D/108000128162432/",
+    "https://www.facebook.com/metafoldengineering/",
+    "https://www.facebook.com/3dprintcom/posts/1982566655248195/",
+    "https://www.facebook.com/MachineDesignMagazine/posts/in-a-chat-with-metafold3ds-dr-elissa-ross-machinedesign-learns-the-technology-be/693548929476337/",
+    "https://www.facebook.com/metafoldengineering/photos/-did-you-knowyou-can-double-your-storage-capacity-without-expanding-your-floor-s/1188913879705386/",
+    "https://www.facebook.com/metafoldengineering/photos/think-bigger-store-smarter-️why-expand-your-warehouse-outward-when-you-can-grow-/1428016855795086/",
+    "https://www.facebook.com/metafoldengineering/posts/-why-are-warehouses-essential-in-the-supply-chainbecause-every-smooth-delivery-s/1207176167879157/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metafold3D note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://dimension-note.jp/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.metafold3d.com/",
+    "https://x.com/sadaaki",
+    "https://ca.linkedin.com/company/metafold3d",
+    "https://note.com/yosuke77",
+    "https://www.youtube.com/watch?v=H6YAMk-zS-8",
+    "https://ca.linkedin.com/in/daniel-hambleton-87217724"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Metafold3D X 投稿",
+   "results": [
+    "https://www.metafold3d.com/",
+    "https://ca.linkedin.com/company/metafold3d",
+    "https://github.com/metafold3d",
+    "https://www.instagram.com/metafold3d/",
+    "https://creativedestructionlab.com/fr/companies/metafold-3d/",
+    "https://x.com/madoka_exedra/status/1926958526649323808",
+    "https://www.metafold3d.com/contact",
+    "https://www.venturelab.ca/portfolio/metafold",
+    "https://x.com/metafold3d",
+    "https://api-docs.metafold3d.com/develop.yaml"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

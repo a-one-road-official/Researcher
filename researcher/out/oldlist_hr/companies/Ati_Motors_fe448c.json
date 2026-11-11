@@ -1,0 +1,1439 @@
+{
+ "name": "Ati Motors",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送付済み",
+ "researched_at": "2026-11-11T02:37:23.860244+00:00",
+ "official_url": "https://atirobotics.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Routes, priorities, and handoffs decided in real time, and the system gets smarter with every shift.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "One AI agent manages all fleets and learns as it orchestrates. Routes adapt, priorities shift, and the system gets smarter with every cycle — without requiring human intervention.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yokohama orchestrates 10,000+ daily material-handling activities across a mega-facility producing 4,000 tires a day — powered by Ati Robotics AMRs and cloud-based inventory management.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The RaaS model gives your operation access to Ati's full AMR platform with no capital expenditure — no hardware risk, no depreciation, no lengthy approval cycle. You get immediate, measurable returns. We're confident enough in our technology and deployment process to put our entire business model behind it.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati integrates into multi-vendor fleets from day one — working alongside robots from any other manufacturer. No rip-and-replace, no proprietary lock-in. Your entire floor, coordinated by one platform.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "11 Apr 2026",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Dr. Rengarajan Seshadri, VP Strategic Relationship, represented Ati at the CII National Conference on Advanced Manufacturing in Kolkata. A meaningful exchange on the future of manufacturing, collaboration, and innovation.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "01 Apr 2026",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AMR Channel Partner Program | Ati Robotics",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati Robotics is rapidly expanding across North America and globally. We're looking for experienced system integrators and distributors to bring proven autonomous material handling to the factories and warehouses that need it most.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati Robotics is transforming industrial automation with autonomous mobile robots built for modern factories and warehouses. Approved vendor for over 50 major manufacturers — including 15 Fortune 500 companies — with deployments running across North America, India, and Southeast Asia. Partner with us and take your customers to the next level of material flow automation.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Offer your clients proven autonomous mobile robots — tuggers, pallet movers, and lifters — engineered for the high-frequency, high-variability material flows that manual labor can't sustain. Set your portfolio apart with automation that actually deploys.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Tap into new revenue streams by providing automation solutions across manufacturing, warehousing, and logistics. The North American AMR market is accelerating — Ati gives you the platform, the credibility, and the customers to compete from day one.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Partner Support",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Technical training, sales enablement, marketing resources, and dedicated implementation support — everything your team needs to scope deployments confidently, close deals faster, and deliver outstanding outcomes for your customers.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Joint marketing campaigns, early access to new products, and dedicated partner program resources tailored to your business. You build the relationships — we back you with the infrastructure to win and scale them.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "We work with two types of partners — each with a distinct path to the Ati partner program.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Specialists in automation, robotics, and industrial solutions looking to add a proven AMR platform to their offering. If you scope, integrate, and deploy automation for manufacturing and logistics customers — Ati is built to fit your workflow.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Established distributors ready to represent and promote Ati Robotics products in your region. We're building a partner network with genuine geographic coverage — if you have the relationships and the reach, we want to talk.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati Robotics is hiring engineers, operators, and builders across India, the US, Mexico, and Southeast Asia. If you want to work on autonomous systems that run in real factories — not simulations — this is where that work gets done.",
+    "url": "https://www.atirobotics.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "First-Principles Engineering",
+    "url": "https://www.atirobotics.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike many other places, at Ati you reason from first principles to build systems. We don't believe in taking mature subsystems and simply putting them together. When you're pushing boundaries, every component is pushed beyond limits and often the subsystems you need don't exist. They have to be built from the ground up.",
+    "url": "https://www.atirobotics.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We review every application and reach out to candidates we think are a strong fit — even if there's no open role that matches perfectly right now. Send us your resume and tell us what you're building toward.",
+    "url": "https://www.atirobotics.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Each solution family is built for a defined operational task, giving you predictable deployment timelines, measurable throughput improvements, and a repeatable ROI model.",
+    "url": "https://www.atirobotics.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "High-frequency trailer-to-floor and floor-to-line delivery without forklifts. Built for routes where volume is predictable and labor demand is constant.",
+    "url": "https://www.atirobotics.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Open-standard protocol for multi-vendor AMR communication and WMS integration",
+    "url": "https://www.atirobotics.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic path planning prevents congestion across shared zones and intersections",
+    "url": "https://www.atirobotics.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati solutions are proven across automotive, pharmaceutical, food & beverage, consumer goods, heavy equipment, and energy. Find the configuration that fits your production environment.",
+    "url": "https://www.atirobotics.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by Ati Intelligence, the Sherpa navigates complex environments with precision — adapting, learning, and making real-time decisions to optimize material movement while ensuring compliance and safety. Whether moving trolleys between production zones, across buildings, or in outdoor yard environments, the Sherpa integrates into existing operations without floor modification.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "The RaaS model gives your operation access to Ati's full AMR platform with no capital expenditure — no hardware risk, no depreciation, no lengthy approval cycle. You get immediate, measurable returns. We're confident enough in our technology and deployment process to put our entire business model behind it.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Wherever materials move on a schedule, Ati Tugging fits — automotive assembly, food production, consumer goods, and heavy industrial facilities.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Tugging handles your routes. Ati also handles pallets, flexible loads, and the software coordination layer that ties it all together.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Most Tugging deployments go from kick-off to production operation in 4 weeks or less. Our team handles route mapping, robot configuration, and operator training on-site. There's no infrastructure modification required — we design around your existing floor layout and workflow.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Fleet Manager supports standard API integrations with SAP, Oracle, Infor, and most warehouse management systems. For organizations using our Material Orchestration platform, the integration layer connects directly to production orders and inventory events — so material movement responds to real demand, not manual scheduling.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Every Ati robot runs on the same proprietary intelligence stack. Purpose-built for industrial environments, continuously improved across our global fleet, and engineered to handle the real conditions of the shop floor.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Trained in simulation, deployed on the floor without retraining.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Docking driven by Machine Vision",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Walk us through your routes, your payloads, and your shift schedule. We'll show you exactly where Ati Tugging fits — and what the payback looks like before you commit.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "The Pallet Mover is built for a defined operational pattern — consistent, high-capacity pallet transport up to 3,300 lbs (1,500 kg) with precision in-place turning for confined areas.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "Fleet Manager coordinates multiple Pallet Movers across simultaneous routes — resolving conflicts in real time and providing complete floor visibility across your deployment.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "Forklifts are powerful but expensive to operate, dangerous in shared spaces, and unavailable when you need them most. The Sherpa Pallet Mover replaces predictable, repetitive pallet routes with autonomous AMRs that run continuously — from receiving dock to production floor to staging area — with high-speed operation up to 1.5 m/s and a wide range of payload types.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "The Sherpa Pivot engages standard payloads with modular mono fork and trailing unit attachments — adaptable to different load types without special pallet configurations or fixture changes.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomously lifts and transports pallets up to 3,300 lbs (1,500 kg) using LiDAR, cameras, and dynamic obstacle avoidance. Precision in-place turning for tight spaces.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "Maneuverable AMR with modular mono fork and trailing unit attachments. Adaptable to dynamic environments with precision navigation and up to 1,100 lbs (500 kg) capacity.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "Coordinates multi-robot pallet routes, resolves conflicts in real time, and provides complete floor visibility across your entire AMR deployment.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "The RaaS model gives your operation access to Ati's full AMR platform with no capital expenditure — no hardware risk, no depreciation, no lengthy approval cycle. You get immediate, measurable returns. We're confident enough in our technology and deployment process to put our entire business model behind it.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "Every Ati robot runs on the same proprietary intelligence stack. Purpose-built for industrial environments, continuously improved across our global fleet, and engineered to handle the real conditions of the shop floor.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "Trained in simulation, deployed on the floor without retraining.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Docking driven by Machine Vision",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "The Sherpa Mecha and Sherpa Lifter 500 handle pallets, trolleys, racks, and mixed loads in tight, complex environments where standard AMRs and forklifts can't operate effectively. Configurable. Precise. Built for the most demanding material handling scenarios.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Lifting & Handling is organized around the loads and environments that demand more adaptability — constrained aisles, mixed load types, and complex workflows.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "The Sherpa Lifter 500 enhances warehouse efficiency by transporting pallets and bins effortlessly — with precision in-place turning for confined areas and reliable operation up to 1.2 m/s. Where larger equipment can't reach, the Lifter delivers autonomous, repeatable material movement with no facility modifications required.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Narrow aisles, high-density storage, and constrained production spaces are where Lifting & Handling performs best. No floor modification, no aisle widening — natural navigation adapts to your facility.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose-built platforms for the loads and environments that demand the most adaptability.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous fork-under pallet handling for mixed load types and high-frequency routes. Precise pickup and drop-off in tight spaces with no fixed infrastructure or floor modification required.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Compact, right-sized lifter for standard pallet and bin loads up to 1,100 lbs (500 kg), with 3D LiDAR natural navigation and an 8-hour full-shift runtime.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "The RaaS model gives your operation access to Ati's full AMR platform with no capital expenditure — no hardware risk, no depreciation, no lengthy approval cycle. You get immediate, measurable returns. We're confident enough in our technology and deployment process to put our entire business model behind it.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for narrow-aisle environments from 1.2 m. Precision in-place turning enables navigation in storage and production areas inaccessible to forklifts.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Full-shift battery operation with swappable packs for continuous multi-shift production environments. Opportunity charging available for gap-filling routes.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Certified for shared human-robot environments under ISO 3691-4. Laser safety scanners with configurable protective zones for all operational speeds.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Agentic Material Orchestration for Factories | Ati Robotics",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The Material Orchestration System for Today's Factory",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing complexity is outpacing human capacity to manage it. Ati Robotics sits above your ERP and MES, combining factory-hardened robots, real-time shop-floor data, and AI agents that coordinate material movement and get smarter with every shift.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory-hardened AMRs carry out every move, dispatched and coordinated from a single system.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From automotive assembly to pharmaceutical distribution, Ati robots are already running in facilities like yours — at Fortune 500 scale and mid-market speed.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory-hardened AMRs and seamless equipment integration. Every robot, conveyor handoff, and material handler coordinated as a single physical system.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Manufacturing Operations",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Yokohama Case Study",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati integrates into multi-vendor fleets from day one — working alongside robots from any other manufacturer. No rip-and-replace, no proprietary lock-in. Your entire floor, coordinated by one platform.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Dr. Rengarajan Seshadri, VP Strategic Relationship, represented Ati at the CII National Conference on Advanced Manufacturing in Kolkata. A meaningful exchange on the future of manufacturing, collaboration, and innovation.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Building AMRs that work reliably in real factory conditions takes more than good technology. It takes the right tradeoffs. Dr. Naveen Arulselvan, CTO, breaks down the 4S playbook we use when engineering for the factory floor.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati Robotics is rapidly expanding across North America and globally. We're looking for experienced system integrators and distributors to bring proven autonomous material handling to the factories and warehouses that need it most.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati Robotics is transforming industrial automation with autonomous mobile robots built for modern factories and warehouses. Approved vendor for over 50 major manufacturers — including 15 Fortune 500 companies — with deployments running across North America, India, and Southeast Asia. Partner with us and take your customers to the next level of material flow automation.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Tap into new revenue streams by providing automation solutions across manufacturing, warehousing, and logistics. The North American AMR market is accelerating — Ati gives you the platform, the credibility, and the customers to compete from day one.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Specialists in automation, robotics, and industrial solutions looking to add a proven AMR platform to their offering. If you scope, integrate, and deploy automation for manufacturing and logistics customers — Ati is built to fit your workflow.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Help Build the Factory That Builds Everything.",
+    "url": "https://www.atirobotics.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati Robotics is hiring engineers, operators, and builders across India, the US, Mexico, and Southeast Asia. If you want to work on autonomous systems that run in real factories — not simulations — this is where that work gets done.",
+    "url": "https://www.atirobotics.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Your work won't sit in a lab. Our robots already transform operations for 50+ global manufacturers, including Fortune 500 leaders.",
+    "url": "https://www.atirobotics.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "— trained on real factory data, tuned to your site.",
+    "url": "https://www.atirobotics.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati solutions are proven across automotive, pharmaceutical, food & beverage, consumer goods, heavy equipment, and energy. Find the configuration that fits your production environment.",
+    "url": "https://www.atirobotics.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The Sherpa Tug family handles high-frequency trolley routes across manufacturing facilities and warehouses — autonomously, reliably, and without infrastructure changes. Up to 10,000 lbs (4,600 kg). Full-shift operation. Natural navigation.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "The Sherpa is an AI-driven AMR engineered for the manufacturing and warehousing environments where material movement is most demanding. Natural navigation, flexible hitching, and full-stack fleet orchestration — built to integrate from day one.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "— trained on real factory data, tuned to your site.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO 3691-4 certified with industrial-duty enclosures, swappable batteries, and temperature ranges that match real manufacturing environments.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Wherever materials move on a schedule, Ati Tugging fits — automotive assembly, food production, consumer goods, and heavy industrial facilities.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Customer · Automotive Manufacturing",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "The Sherpa 10K handles up to 10,000 lbs (4,600 kg) towing capacity, making it suitable for heavy manufacturing and automotive applications. The Sherpa XT Lite covers lighter-duty tugging scenarios up to 3,300 lbs (1,500 kg). Both operate on the same Fleet Manager platform, so you can mix configurations in a single deployment as your needs evolve.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Fleet Manager supports standard API integrations with SAP, Oracle, Infor, and most warehouse management systems. For organizations using our Material Orchestration platform, the integration layer connects directly to production orders and inventory events — so material movement responds to real demand, not manual scheduling.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Every Ati robot runs on the same proprietary intelligence stack. Purpose-built for industrial environments, continuously improved across our global fleet, and engineered to handle the real conditions of the shop floor.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Builds and navigates structured lanes in mixed-traffic plants.",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "The Sherpa Pallet Mover streamlines warehouse and manufacturing operations by autonomously lifting and transporting pallets. Utilizing LiDAR sensors, cameras, and mapping technology, it dynamically navigates while avoiding obstacles — with no infrastructure modifications required.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "— trained on real factory data, tuned to your site.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "Pallet Movement deployments run across automotive, food & beverage, consumer goods, and heavy equipment facilities where forklift dependency creates risk or bottleneck.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "Every Ati robot runs on the same proprietary intelligence stack. Purpose-built for industrial environments, continuously improved across our global fleet, and engineered to handle the real conditions of the shop floor.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "Builds and navigates structured lanes in mixed-traffic plants.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "The Sherpa Lifter 500 is a compact, 3D LiDAR natural navigation AMR — configurable for pallet, bin, and conveyor-transfer applications. The Sherpa Mecha brings next-generation humanoid robotics into real-world manufacturing environments. Together, they handle the material types and spaces that standard AMRs can't reach.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "The Sherpa Lifter 500 enhances warehouse efficiency by transporting pallets and bins effortlessly — with precision in-place turning for confined areas and reliable operation up to 1.2 m/s. Where larger equipment can't reach, the Lifter delivers autonomous, repeatable material movement with no facility modifications required.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "— trained on real factory data, tuned to your site.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Compact, adaptive, and built to work in the tightest and most variable spaces on your floor — from narrow pharma aisles to complex automotive sub-assembly cells.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Next-generation humanoid AMR designed for real-world manufacturing tasks. Ati's deep mobile robotics expertise applied to the humanoid platform — built for industrial integration, not demonstrations.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Lifting & Handling is built for the most constrained environments — pharmaceutical cleanrooms, consumer goods warehouses, automotive sub-assembly, and energy facilities.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Every Ati robot runs on the same proprietary intelligence stack. Purpose-built for industrial environments, continuously improved across our global fleet, and engineered to handle the real conditions of the shop floor.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Builds and navigates structured lanes in mixed-traffic plants.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "The Factory Already Has a Brain. It Doesn't Have a Nervous System.",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "The Coordination Layer Your Factory Is Missing.",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "Factories have ERP for planning and MES for execution. What they've never had is an intelligent layer that coordinates the actual movement of material across the floor in real time. That's the gap Ati fills — with a full-stack platform that combines physical robots with software that understands your plant and acts on it.",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory-hardened AMRs and seamless equipment integration. Every robot, conveyor handoff, and material handler coordinated as a single physical system — not a collection of independent machines.",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "— trained on real factory data, tuned to your site.",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati Flow is the operating system for material movement. It brings four capabilities that most factories run as separate systems into one coordinated layer — the foundation the rest of Ati Orchestration is built on.",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing execution — scheduling, WIP tracking, quality",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "The decision layer that coordinates AMRs, conveyors, lifts, and ERP systems as one unified factory. Eight live automation flows running at global sites today.",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "Configure routes, resolve alerts, and pull shift reports in plain language. Copilot handles execution, always proposing before it acts — operators stay in control.",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "The Ati Copilot lets operators interact with the system like a colleague, not a software tool. Set up new routes, adjust priorities, and pull shift reports — all via a conversational interface that drafts changes and asks before it acts.",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "REST API and webhook support for custom integrations, third-party WMS, reporting tools, and legacy plant systems.",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "Every Ati robot runs on the same proprietary intelligence stack. Purpose-built for industrial environments, continuously improved across our global fleet, and engineered to handle the real conditions of the shop floor.",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "Builds and navigates structured lanes in mixed-traffic plants.",
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "pass": 1
+   },
+   {
+    "quote": "AMR for Manufacturing | Ati Robotics",
+    "url": "https://www.atirobotics.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati Robotics operates across automotive, pharmaceutical, food and beverage, consumer goods, heavy equipment, and energy sectors — deployed in 70+ facilities globally. Every deployment starts with your workflow, not a product brochure.",
+    "url": "https://www.atirobotics.ai/industries/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Factory-hardened AMRs carry out every move, dispatched and coordinated from a single system.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From automotive assembly to pharmaceutical distribution, Ati robots are already running in facilities like yours — at Fortune 500 scale and mid-market speed.",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Customer",
+    "url": "https://www.atirobotics.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati Robotics is transforming industrial automation with autonomous mobile robots built for modern factories and warehouses. Approved vendor for over 50 major manufacturers — including 15 Fortune 500 companies — with deployments running across North America, India, and Southeast Asia. Partner with us and take your customers to the next level of material flow automation.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Tap into new revenue streams by providing automation solutions across manufacturing, warehousing, and logistics. The North American AMR market is accelerating — Ati gives you the platform, the credibility, and the customers to compete from day one.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Your work won't sit in a lab. Our robots already transform operations for 50+ global manufacturers, including Fortune 500 leaders.",
+    "url": "https://www.atirobotics.ai/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Customers",
+    "url": "https://www.atirobotics.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Customers",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Customer · Automotive Manufacturing",
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "pass": 1
+   },
+   {
+    "quote": "Two platforms, one outcome — pallets arrive where they're needed, when they're needed, without a forklift in sight.",
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "pass": 1
+   },
+   {
+    "quote": "Compact, adaptive, and built to work in the tightest and most variable spaces on your floor — from narrow pharma aisles to complex automotive sub-assembly cells.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Narrow aisles, high-density storage, and constrained production spaces are where Lifting & Handling performs best. No floor modification, no aisle widening — natural navigation adapts to your facility.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for narrow-aisle environments from 1.2 m. Precision in-place turning enables navigation in storage and production areas inaccessible to forklifts.",
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Customers",
+    "url": "https://www.atirobotics.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Most facilities find that the right starting point is a workflow question — what moves, how often, and at what cost when it doesn't arrive on time. Ati maps deployments to those workflows, not to a product catalog.",
+    "url": "https://www.atirobotics.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Call-based replenishment depends on operators noticing shortages before they become stoppages. Ati runs on schedule- or sensor-triggered dispatch — materials arrive at the right station, in the right sequence, before the line runs dry. No radio calls, no waiting, no variance.",
+    "url": "https://www.atirobotics.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "High-payload towing for WIP trolleys, material carts, and supply runs between production suites. The Sherpa XT Lite and Sherpa 10K run timed routes that eliminate manual material carriers in controlled environments.",
+    "url": "https://www.atirobotics.ai/industries/medical-and-pharma/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual material handling in food environments creates compliance exposure and throughput gaps. Ati robots run timed routes from cold storage, ingredient rooms, and receiving docks — arriving on schedule, logging every movement, and keeping your operators out of restricted production zones where they shouldn't be. Deployed in 4 weeks with no infrastructure changes.",
+    "url": "https://www.atirobotics.ai/industries/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Inbound raw materials move from the receiving dock to ingredient storage and staging areas autonomously — synchronized with the production schedule so ingredients arrive at the right time without manual coordination or dock congestion.",
+    "url": "https://www.atirobotics.ai/industries/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Loaded and empty PCB magazines moved between SMT, assembly, and test stations on production schedule. Runs synchronize to line takt so boards arrive ready when the next cell calls for them, and empties clear before they stack up.",
+    "url": "https://www.atirobotics.ai/industries/consumer-goods/",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy equipment facilities don't end at the factory walls. Yard transport between buildings, component storage areas, and outdoor staging is part of the operation. Ati's outdoor-rated platform operates in real industrial conditions — not just controlled indoor environments.",
+    "url": "https://www.atirobotics.ai/industries/heavy-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "High-payload towing for large component trolleys, WIP carriers, and cross-facility transport runs. The Sherpa 10K handles the inbound and inter-station movement that keeps large-frame assembly stations supplied on schedule.",
+    "url": "https://www.atirobotics.ai/industries/heavy-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Customers",
+    "url": "https://www.atirobotics.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "First AMR deployments in automotive and manufacturing facilities across India — validating the platform at scale with Fortune 500 customers including Airbus, Valeo, and Brose.",
+    "url": "https://www.atirobotics.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of the rebrand, the company is also moving to atirobotics.ai - a new domain that signals the central role AI plays across the Ati platform, from fleet intelligence and predictive analytics to the AI agents that coordinate material flow in real time.",
+    "url": "https://www.atirobotics.ai/resources/blogs/ati-motors-becomes-ati-robotics/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "AMR Channel Partner Program | Ati Robotics",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Become an Ati Robotics Channel Partner.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Joint marketing campaigns, early access to new products, and dedicated partner program resources tailored to your business. You build the relationships — we back you with the infrastructure to win and scale them.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "We work with two types of partners — each with a distinct path to the Ati partner program.",
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Rebranded as Ati Robotics to reflect the full scope of what we've built — a complete autonomous material handling platform spanning hardware, software orchestration, and the intelligence layer that connects them.",
+    "url": "https://www.atirobotics.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Head - Channel Partnerships & Growth",
+    "url": "https://www.atirobotics.ai/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Two decades of multi-industry expertise spanning business development and channel partnerships, with deep operational experience in B2B landscapes.",
+    "url": "https://www.atirobotics.ai/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Ati Motors today announced it is rebranding as Ati Robotics, reflecting the company’s evolution in offering a full-stack material orchestration platform that combines autonomous robotics, real-time tracking, and AI agents to deliver structured automation aligned to real factory workflows.",
+    "url": "https://www.atirobotics.ai/resources/blogs/ati-motors-becomes-ati-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "As part of the rebrand, the company is also moving to atirobotics.ai - a new domain that signals the central role AI plays across the Ati platform, from fleet intelligence and predictive analytics to the AI agents that coordinate material flow in real time.",
+    "url": "https://www.atirobotics.ai/resources/blogs/ati-motors-becomes-ati-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "At Crisp Photography, we create high-impact corporate films and case studies that bring your brand’s achievements to li",
+    "url": "https://www.youtube.com/watch?v=5l3eUylgRVo",
+    "pass": 3
+   },
+   {
+    "quote": "At Crisp Photography, we create high-impact corporate films and case studies that bring your brand’s achievements to life.",
+    "url": "https://www.youtube.com/watch?v=5l3eUylgRVo",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Ati Motors | 日本フィジカルAI新聞",
+    "url": "https://physicalainews.jp/companies/ati-motors",
+    "pass": 3
+   },
+   {
+    "quote": "世界のフィジカルAIを、日本語で",
+    "url": "https://physicalainews.jp/companies/ati-motors",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ati Motors Becomes Ati Robotics — Apr 22, 2026 · Ati Motors today announced it is rebranding as Ati Robotics, reflecting the company’s evolution in offering a full-stack material orchestration platform that combines autonomous robotics, real-time tracking, and AI agents to deliver structured automation aligned to real factory workflows.",
+    "url": "https://www.atirobotics.ai/resources/blogs/ati-motors-becomes-ati-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors | 日本フィジカルAI新聞 — ホーム › 企業DB › Ati Motors Ati Motors シェア: X Threads Facebook LINE はてブ Bluesky リンクをコピー Ati Motors ・ インド Ati Motorsはインドに拠点を置く物流ロボット企業である。 同社は倉庫や工場などの産業現場向けに、自律走行搬送ロボット（AMR）を開発・提供して ...",
+    "url": "https://physicalainews.jp/companies/ati-motors",
+    "pass": 3
+   },
+   {
+    "quote": "インド発ロボットスタートアップの急成長、Ati MotorsがシリーズBで2,... — Jan 27, 2025 · ロボットは日本が世界的な競争力を持つ分野だ。 インドのソフトウェア技術と日本の製造技術を組み合わせることで、新たな価値創造が期待できる。 成長するインドのロボット産業は、日本企業にとっても重要な機会となりそうだ。",
+    "url": "https://plus91times.com/article/28012025-1",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors Becomes Ati Robotics — Apr 22, 2026 · Founded in 2017, Ati recognized early that what manufacturers need is not just machines - but structured automation applied with intention and aligned to real workflows. Today the company delivers exactly that across manufacturing and warehousing factories worldwide.",
+    "url": "https://www.atirobotics.ai/resources/blogs/ati-motors-becomes-ati-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Mobile Robots for Factories | Ati Robotics — Ati Motors builds a full range of purpose-built Autonomous Mobile Robots for material handling in manufacturing and warehousing. Every robot in the Sherpa lineup is engineered for a specific task — all running on a shared fleet intelligence platform.",
+    "url": "https://www.atirobotics.ai/products/",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors Market in Japan | Report - IndexBox - Prices, Size ... — Jul 12, 2026 · In 2026, total consumption of Ati Motors in Japan is estimated to represent a significant share of the Asia‑Pacific market for precision motion products, with demand supported by ongoing capital investments in semiconductor fabs, electric vehicle component lines, and smart‑factory retrofits.",
+    "url": "https://www.indexbox.io/store/japan-ati-motors-market-analysis-forecast-size-trends-and-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors Pvt. Ltd | Customer Success Story | SimScale — Over 80 simulations were run for various case studies and iterations. SimScale helped Ati motors understand and iterate on the design process, since it is easy to use with things like automatic meshing and interfacing.",
+    "url": "https://www.simscale.com/customers/ati-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors Case Study - YouTubeCase Study: Ati Motors develops a new autonomous cargo ...Corporate Case Study Video by Crisp Photography | ATI Motors ...B2B Case Studies: How Ati Motors Uses Software & ServicesAti Motors Becomes Ati RoboticsAti Motors outlines strategies for integrating AMRs into ... — One of our corporate video wherein we showcase how Ati Motors successfully implemented automatio",
+    "url": "https://www.youtube.com/watch?v=lRkPvMBJh4o",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Ati Motors develops a new autonomous cargo ... — Ati Motors, a startup developing an autonomous cargo vehicle, needed to create a new chassis while minimizing the time and cost of manual testing. To speed up design iteration and improve portability, the team used SimScale alongside Onshape to evaluate chassis concepts through CAE simulation.",
+    "url": "https://www.casestudies.com/company/simscale/case-study/ati-motors-uses-simscale-to-develop-chassis-design-for-their-new-and-innovative-autonomous-cargo-vehicle",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Case Study Video by Crisp Photography | ATI Motors ...B2B Case Studies: How Ati Motors Uses Software & ServicesAti Motors Becomes Ati RoboticsAti Motors outlines strategies for integrating AMRs into ... — Sep 15, 2025 · This video showcases how we captured ATI Motors’ automation success at Ceat’s Nagpur plant—Asia’s largest tyre manufacturing unit for 2- & 3-wheelers. Our storytelling hi",
+    "url": "https://www.youtube.com/watch?v=5l3eUylgRVo",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Ati Motors Uses Software & Services — Explore case studies featuring Ati Motors as the customer — learn how vendors and partners helped Ati Motors solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/ati-motors",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors - 2026 Company Profile & Team - Tracxn — May 6, 2026 · Ati Motors is a series B company based in Bengaluru (India), founded in 2017 by Vinay V, Saurabh Chandra and Saad Nasser. It operates as a Manufacturer of autonomous mobile robots for material movement and productivity.",
+    "url": "https://tracxn.com/d/companies/atimotors/__3l5T4nfW2A5TcMcS51jM6gdxfwaFqPl6tDDPHXHyoQA",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors ARR, revenue, valuation and headcount (2026) — Ati Motors is an autonomous mobile robot (AMR) company based in Bengaluru, India, with a significant presence in Rochester Hills, Michigan. Founded in 2017, the company specializes in industrial material movement…",
+    "url": "https://lounge.ai/arr/ati-motors",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors: funding rounds, valuation, investors and revenue — Oct 26, 2026 · Ati Motors is an autonomous mobile robot (AMR) company based in Bengaluru, India, with a significant presence in Rochester Hills, Michigan. Founded in 2017,…",
+    "url": "https://lounge.ai/companies/ati-motors",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors – Industry Ranking & Company Valuation – 2026 — Ati Motors's estimated revenue per employee stands at $313.1K. Ati Motors has raised a total of $35.5M in funding. Ati Motors's current valuation is estimated to be $409.5M. Ati Motors currently has a workforce of over 400+. Over the past year, Ati Motors expanded its team size by 49%.",
+    "url": "https://compworth.com/company/ati-motors",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors Revenue 2025: $136.5M Est. - getlatka.com — Oct 30, 2026 · Ati Motors makes autonomous electric vehicles for material movement in industrial environments like factories, warehouses, etc., focusing on automation and intelligent design.",
+    "url": "https://getlatka.com/companies/atimotors.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ati Robotics (@atirobotics) / X We're proud to announce that we are officially rebranding Ati Motors to Ati Robotics. The change reflects our evolution in offering a full-stack material orchestration platform that combines autonomous robotics, real-time tracking, & AI agents to deliver structured automation.",
+    "url": "https://x.com/atirobotics",
+    "pass": 3
+   },
+   {
+    "quote": "atimotors (@atimotors) / X 0 followers · 0 following. Bucuresti. Joined Dec 2009. See the latest conversations with @atimotors",
+    "url": "https://x.com/ATIMotors",
+    "pass": 3
+   },
+   {
+    "quote": "@ati_motors | X The latest posts from @ati_motors",
+    "url": "https://x.com/ati_motors",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ati Motors - LinkedIn Ati Motors | 16,886 followers on LinkedIn. The Material Orchestration System for Today's Factory | Ati Robotics makes autonomous electric vehicles for material movement in industrial...",
+    "url": "https://www.linkedin.com/company/ati-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors | LinkedIn Ati Motors | 17,009 followers on LinkedIn. The Material Orchestration System for Today's Factory | Ati Robotics makes autonomous electric vehicles for material movement in industrial...",
+    "url": "https://in.linkedin.com/company/ati-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors Rebrands to Ati Robotics, Expands Automation ... Visit our new website to see the central role AI plays across the Ati platform, from fleet intelligence and predictive analytics to the AI agents that coordinate material flow in real time.",
+    "url": "https://www.linkedin.com/posts/atirobotics_from-the-ati-motors-page-archive-originally-activity-7483868194290696192-cESV",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors: Jobs | LinkedIn Ati Motors | 17,016 followers on LinkedIn. The Material Orchestration System for Today's Factory | Ati Robotics makes autonomous electric vehicles for material movement in industrial...",
+    "url": "https://in.linkedin.com/company/ati-robotics/jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ati Robotics - Facebook Jun 22, 2026 · Ati Motors is built for exactly that. Autonomous movement without fixed paths, massive infra changes, or operational disruption. Just intelligent AMRs built to scale, optimize workflows, and deliver real ROI where it matters most. This isn’t the future being tested. It’s the future already at work. . . .",
+    "url": "https://www.facebook.com/Ati-Motors-61551807945356/",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors Pvt Ltd - Facebook Ati Motors Pvt Ltd",
+    "url": "https://www.facebook.com/Ati-Motors-Pvt-Ltd-115880069812602/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.atirobotics.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/company/partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/solutions/tugging/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/solutions/pallet-movement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/solutions/lifting-and-handling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/solutions/orchestration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/industries/automotive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/industries/medical-and-pharma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/industries/food-beverage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/industries/consumer-goods/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/industries/heavy-equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/industries/energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/company/leadership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.atirobotics.ai/assets/images/logos/Ati-Robotics-dark-version-02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.atirobotics.ai/assets/images/logos/Ati-Robotics-Light-version-02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.atirobotics.ai/assets/images/logos/Airbus.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.atirobotics.ai/assets/images/logos/Harley.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.atirobotics.ai/resources/blogs/ati-motors-becomes-ati-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://physicalainews.jp/companies/ati-motors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suzuken0331/n/neb64cfc0ebc6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ati.novanta.com/ja/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accuratetechnologies.com/Locations/ati-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ati.novanta.com/ja/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.atirobotics.ai/resources/blogs/ati-motors-becomes-ati-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atirobotics.ai/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.accuratetechnologies.com/Locations/ati-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ati-ia.com/ja-JP/index.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/customers/ati-motors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=lRkPvMBJh4o",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/simscale/case-study/ati-motors-uses-simscale-to-develop-chassis-design-for-their-new-and-innovative-autonomous-cargo-vehicle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=5l3eUylgRVo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/1390590848697838/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/atimotors/__3l5T4nfW2A5TcMcS51jM6gdxfwaFqPl6tDDPHXHyoQA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://lounge.ai/arr/ati-motors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lounge.ai/companies/ati-motors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/ati-motors",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/atirobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ATIMotors",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ati-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/ati-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/atirobotics_from-the-ati-motors-page-archive-originally-activity-7483868194290696192-cESV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/ati-robotics/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Ati-Motors-61551807945356/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Ati-Motors-Pvt-Ltd-115880069812602/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ati_motors",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/atirobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ati Motors 日本 導入",
+   "results": [
+    "https://www.atirobotics.ai/resources/blogs/ati-motors-becomes-ati-robotics/",
+    "https://physicalainews.jp/companies/ati-motors",
+    "https://note.com/suzuken0331/n/neb64cfc0ebc6",
+    "https://ati.novanta.com/ja/about/",
+    "https://plus91times.com/article/28012025-1",
+    "https://hoppindia.hoppin.co.jp/archive/6029/",
+    "https://global.honda/jp/news/2026/4260305b.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ati Motors 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.accuratetechnologies.com/Locations/ati-japan",
+    "https://ati.novanta.com/ja/partners/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.isdproducts.com/ati-1",
+    "https://www.yusaki-japan.com/atiindustrialautomation",
+    "https://atij.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Ati Motors Japan",
+   "results": [
+    "https://www.atirobotics.ai/resources/blogs/ati-motors-becomes-ati-robotics/",
+    "https://www.atirobotics.ai/products/",
+    "https://www.accuratetechnologies.com/Locations/ati-japan",
+    "https://www.ati-ia.com/ja-JP/index.aspx",
+    "https://www.indexbox.io/store/japan-ati-motors-market-analysis-forecast-size-trends-and-insights/",
+    "https://www.prnewswire.com/news-releases/ati-motors-becomes-ati-robotics-302749630.html",
+    "https://ati.novanta.com/ja/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ati Motors manufacturing customer case study",
+   "results": [
+    "https://www.simscale.com/customers/ati-motors/",
+    "https://www.youtube.com/watch?v=lRkPvMBJh4o",
+    "https://www.casestudies.com/company/simscale/case-study/ati-motors-uses-simscale-to-develop-chassis-design-for-their-new-and-innovative-autonomous-cargo-vehicle",
+    "https://www.youtube.com/watch?v=5l3eUylgRVo",
+    "https://www.casestudies.com/customer/ati-motors",
+    "https://www.atirobotics.ai/resources/blogs/ati-motors-becomes-ati-robotics/",
+    "https://roboticsandautomationnews.com/2025/09/15/bridging-the-gap-integrating-amrs-in-brownfield-manufacturing-environments/94431/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ati Motors white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://www.facebook.com/groups/2356868454775088/",
+    "https://www.unifyr.com/blog/the-reseller-channel-how-and-why-to-use-it",
+    "https://blog.vendoo.co/reselling-101-how-to-become-a-reseller-start-making-a-profit"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ati Motors founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/atimotors/__3l5T4nfW2A5TcMcS51jM6gdxfwaFqPl6tDDPHXHyoQA",
+    "https://lounge.ai/arr/ati-motors",
+    "https://lounge.ai/companies/ati-motors",
+    "https://compworth.com/company/ati-motors",
+    "https://getlatka.com/companies/atimotors.com",
+    "https://prospeo.io/c/ati-motors-revenue",
+    "https://www.indianstartuptimes.com/startup-deep-dive/ati-motors-deep-dive/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ati Motors",
+   "results": [
+    "https://note.com/kentabright",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/geoscience16",
+    "https://note.com/wise_turtle184",
+    "https://note.com/diparururun",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/fond_clam2634/n/n32188962fa92"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ati Motors",
+   "results": [
+    "https://x.com/atirobotics",
+    "https://x.com/atimotor",
+    "https://x.com/ATIMotors",
+    "https://x.com/Atimotor8858",
+    "https://x.com/PhoenixMotorInc",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/PicturesFoIder/status/2118185223867560198"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ati Motors",
+   "results": [
+    "https://www.linkedin.com/company/ati-robotics",
+    "https://in.linkedin.com/company/ati-robotics",
+    "https://www.linkedin.com/posts/atirobotics_from-the-ati-motors-page-archive-originally-activity-7483868194290696192-cESV",
+    "https://in.linkedin.com/company/ati-robotics/jobs",
+    "https://th.linkedin.com/company/ati-robotics",
+    "https://www.linkedin.com/posts/ati-motors_founded-in-2017-ati-motors-has-transformed-activity-7303054430646468612-SGYY",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7452736544597250048/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ati Motors",
+   "results": [
+    "https://www.facebook.com/Ati-Motors-61551807945356/",
+    "https://www.facebook.com/Ati-Motors-Pvt-Ltd-115880069812602/",
+    "https://apps.facebook.com/marketplace/phoenix/classifieds/",
+    "https://business.facebook.com/groups/maseratiownersclubuk/",
+    "https://apps.facebook.com/marketplace/phoenix/",
+    "https://business.facebook.com/groups/actualidad.informatica/",
+    "https://www.facebook.com/p/Atimotors-61583141035682/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ati Motors note 社長",
+   "results": [
+    "https://jp.investing.com/news/insider-trading-news/article-93CH-1532416",
+    "https://www.atirobotics.ai/resources/blogs/ati-motors-becomes-ati-robotics/",
+    "https://www.cbinsights.com/company/ati-motors/people",
+    "https://inc42.com/company/ati-motors/people/",
+    "https://manufacturing-matters.com/episode-124-saurabh-chandra-founder-ceo-of-ati-motors/",
+    "https://www.linkedin.com/posts/ati-motors_unlock-new-perspectives-as-saurabh-chandra-activity-7249356832891150336-ARaF",
+    "https://www.vccircle.com/blumebacked-deeptech-startup-ati-motors-secures-series-a-funding"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ati Motors X 投稿",
+   "results": [
+    "https://x.com/ati_motors",
+    "https://x.com/atirobotics",
+    "https://www.atirobotics.ai/resources/blogs/ati-motors-becomes-ati-robotics/",
+    "https://sanjaya.atimotors.com/login",
+    "https://www.instagram.com/ati_motors_/",
+    "https://www.youtube.com/watch?v=0fBcudJaf5I",
+    "https://help.x.com/ja/using-x/how-to-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部34頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

@@ -1,0 +1,323 @@
+{
+ "name": "株式会社様",
+ "aliases": [],
+ "context": "PBF=yes 装置=DMG森精機;EBM;JAM-5200;JAM-5200EBM;日本電子;電子ビーム金属3D 出典=https://digital-business.exa-corp.co.jp/cases/pim-jeol.html",
+ "researched_at": "2026-11-11T02:02:30.472974+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/account/tips/topic_159.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kurosaka-office.com/blog/capital-and-composition-of-officers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osakacpa.com/shihonkin-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doho.co.jp/3d-print-business/service-install/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/9277/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%A9%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alesia.jp/investing-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vision-cash.com/cf/ac/shareholders-of-a-subsidiary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keiriplus.jp/tips/kanren_kankei_ko_chigai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zaimani.com/financial-indicators/sales-per-employee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/010705/pdf/0019004-098_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://stgy-souzoku.com/company-size-judgment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "株式会社様 会社概要 資本金 設立",
+   "results": [
+    "https://www.mizuhobank.co.jp/corporate/account/tips/topic_159.html",
+    "https://kurosaka-office.com/blog/capital-and-composition-of-officers/",
+    "https://osakacpa.com/shihonkin-company/",
+    "https://www.freee.co.jp/kb/kb-launch/capital/",
+    "https://koyano-cpa.gr.jp/nobiyo-kaikei/column/9545/",
+    "https://www.moj.go.jp/MINJI/minji06_00134.html",
+    "https://www.morifuku.jp/settlementofaccounts/capital/",
+    "https://www.ht-tax.or.jp/kigyou-guide/capital",
+    "https://www.utokyo-ipc.co.jp/ja/column/flow-of-establishing-company/",
+    "https://ueno.law/topics/株式会社の設立とは？発起人・資本金や設立の手/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "株式会社様 金属3Dプリンタ 導入",
+   "results": [
+    "https://doho.co.jp/3d-print-business/service-install/",
+    "https://metoree.com/categories/9277/",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://jampt.jp/column/column_453/",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/%E8%A3%BD%E4%BD%9C/",
+    "http://www.j-tic.co.jp/R60510.html",
+    "https://j3d.co.jp/",
+    "https://www.marubeni-idigio.com/insight-hub/metal3dprinter_desktopmetal_case/",
+    "https://doho.co.jp/3d-print-business/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "株式会社様 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%A9%9F/",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://metoree.com/categories/5523/",
+    "https://www.youtube.com/watch?v=ivc3-sOKMWc",
+    "https://hightech-metal-japan.com/3d-printer/",
+    "https://www.iri-tokyo.jp/service/search/mech-h26-metal-am",
+    "https://j3d.co.jp/feature/%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E7%A9%8D%E5%B1%A4/",
+    "https://www.kmkogyo.co.jp/technology/index.html",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "株式会社様 株主 出資 親会社",
+   "results": [
+    "https://www.alesia.jp/investing-company/",
+    "https://vision-cash.com/cf/ac/shareholders-of-a-subsidiary/",
+    "https://keiriplus.jp/tips/kanren_kankei_ko_chigai/",
+    "https://fundbook.co.jp/column/business/parent-company/",
+    "https://www.businesslawyers.jp/practices/761",
+    "https://www.daiichihoki.co.jp/homu/homukomadoq2.html?srsltid=AYCX9vIVtEu1SzTyqYosCnDHQKYJFJ8-TSopm8IMBpUMbEd_ody-Vnw6",
+    "https://keiyaku-watch.jp/media/hourei/oyakokaisya/",
+    "https://ma-la.co.jp/m-and-a/affiliated-company/",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E8%B5%B7%E6%A5%AD%E6%94%AF%E6%8F%B4/%E5%AD%90%E4%BC%9A%E7%A4%BE-%E9%96%A2%E9%80%A3%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B-%E5%88%A5%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8-%E5%88%A5%E4%BC%9A%E7%A4%BE%E3%82%92%E8%A8%AD%E7%AB%8B%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AB%E2%91%A0%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%81%99%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%8B%E2%91%A1%E7%A4%BE%E9%95%B7%E5%87%BA%E8%B3%87%E3%81%A7%E8%A8%AD%E7%AB%8B%E3%81%99%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%8B/",
+    "https://ja.wikipedia.org/wiki/株主"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "株式会社様 売上高 従業員数",
+   "results": [
+    "https://zaimani.com/financial-indicators/sales-per-employee/",
+    "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/010705/pdf/0019004-098_1.pdf",
+    "https://stgy-souzoku.com/company-size-judgment/",
+    "https://bixid.net/Blog/Article/20220908",
+    "https://sp-21.co.jp/study/scatter-1-sales/",
+    "https://tenshoku.mynavi.jp/knowhow/caripedia/212/",
+    "https://housefoods-group.com/company/numbers.html",
+    "https://www.canon-its.co.jp/corporate/about/corporate-data",
+    "https://zukaikeizai.com/ranking/revper/",
+    "https://yuho-nenshu.com/ranking/sales-per-employee"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:note.com 株式会社様",
+   "results": [
+    "https://note.com/chang__ika/n/n9ff830f0c67a",
+    "https://note.com/atsushiweb1/n/nc2d0e0150ec4",
+    "https://note.com/atsushiweb1/n/ncc30856b672a",
+    "https://note.com/gakumon88/n/nd96738c0b7dd",
+    "https://note.com/2911/n/n92ed925fc969",
+    "https://note.com/bright_panda569/n/n1eacd4d5c62c",
+    "https://note.com/bright_panda569/n/n66d5263978dc",
+    "https://note.com/cleave_official/n/n10ac89ee474f",
+    "https://note.com/bright_panda569/n/n54b875b914f3",
+    "https://note.com/bright_panda569/n/n2e7359486db2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 株式会社様",
+   "results": [
+    "https://x.com/cityueda/status/2094273979037155795",
+    "https://x.com/visselkobe/status/2075537427628732913",
+    "https://x.com/Jubiloiwata_YFC/status/2072175866206203919",
+    "https://x.com/mayor_takahashi/status/2106360298894758232",
+    "https://x.com/OfficialThespa/status/2114915657599098955",
+    "https://x.com/Jubiloiwata_YFC/status/2118146780139495678",
+    "https://x.com/_sz__k/status/2097681675480375481",
+    "https://x.com/communecojp/status/2086659390330085382",
+    "https://x.com/55tegevajaro/status/2083509119655489680",
+    "https://x.com/OfficialThespa/status/2114885353836617877"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:linkedin.com 株式会社様",
+   "results": [
+    "https://jp.linkedin.com/posts/yuzuru-fukuda-21382b5_%E5%A4%A7%E6%88%90%E5%BB%BA%E8%A8%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%A7%98-%E4%BA%8B%E4%BE%8B-activity-7180726399031279616-Mkr3",
+    "https://www.linkedin.com/posts/werner-baumbach_%E3%83%88%E3%83%A9%E3%82%B9%E3%82%B3%E4%B8%AD%E5%B1%B1%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-activity-7075077656668467200-NNcR",
+    "https://jp.linkedin.com/posts/hewlett-packard-enterprise_%E3%81%8A%E5%AE%A2%E6%A7%98%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B-tdk%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%A7%98-activity-7015875135618351104-18Ot",
+    "https://www.linkedin.com/posts/masayuki-goto-b5602224a_%E5%91%B3%E3%81%AE%E7%B4%A0%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%81%A7%E7%A4%BE%E5%86%85%E8%AC%9B%E6%BC%94%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F-space-medical-accelerator-activity-7125677958643503105-7AQS",
+    "https://www.linkedin.com/posts/yu-asano-6878571a6_kddi%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98-meet-my-copilot-activity-7302327284693090305-RPxN",
+    "https://jp.linkedin.com/posts/quollio_%E3%81%8A%E5%AE%A2%E6%A7%98%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8Bkddi%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%81%AE%E4%BA%8B%E4%BE%8B%E3%82%92%E5%85%AC%E9%96%8B-activity-7142770595808681986-KajK",
+    "https://jp.linkedin.com/posts/hewlett-packard-enterprise_hpe-%E4%BA%8B%E4%BE%8B-%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%A7%98-activity-7295366068896739329-m4Ih"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 株式会社様",
+   "results": [
+    "https://www.facebook.com/Digiban.co.jp/posts/projects%E5%A4%A7%E5%88%86%E3%83%88%E3%83%A8%E3%83%9A%E3%83%83%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E6%A7%98categoryrecruitment-branding-web-design-brand-movie%E4%BC%81%E6%A5%AD%E3%81%AE%E3%82%89%E3%81%97%E3%81%95%E3%82%92%E8%A1%A8/1543441194471167/",
+    "https://www.facebook.com/CEATEC.official/posts/%EF%B8%8F%E3%81%84%E3%82%88%E3%81%84%E3%82%88%E6%98%8E%E6%97%A5%E9%96%8B%E5%B9%95%EF%B8%8F%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98ceatec-2026-%E5%B1%95%E7%A4%BA%E3%83%96%E3%83%BC%E3%82%B9%E3%81%AE%E8%A6%8B%E3%81%A9%E3%81%93%E3%82%8D%E3%82%92%E5%85%AC%E9%96%8B%E2%91%A0-booth-information-%E6%97%A5%E6%9C%AC%E9%9B%BB%E6%B0%97%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9B%E3%83%BC%E3%83%AB8-8h2/1512174270938072/",
+    "https://www.facebook.com/efforttamada/posts/%E6%9C%AC%E6%97%A5%E3%81%AF%E5%BC%8A%E7%A4%BE%E3%81%8A%E5%AE%A2%E6%A7%98%E5%B1%B1%E4%B9%9D%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%81%8C%E3%81%8A%E8%B6%8A%E3%81%97%E3%81%8F%E3%81%A0%E3%81%95%E3%82%8A%E6%84%9F%E8%AC%9D%E7%8A%B6%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E5%A4%A7%E5%A4%89%E6%9C%89%E9%9B%A3%E3%81%8F%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E4%B8%80%E5%90%8C%E3%81%95%E3%82%89%E3%81%AB%E8%BA%AB%E3%81%AE%E5%BC%95%E3%81%8D%E7%B7%A0%E3%81%BE%E3%82%8B%E6%80%9D%E3%81%84%E3%81%A7%E3%81%97%E3%81%9F%E4%BB%8A%E5%BE%8C%E3%82%82%E5%BC%95%E7%B6%9A%E3%81%8D%E5%AE%89%E5%85%A8%E6%9C%80%E5%84%AA%E5%85%88%E3%81%A7%E5%8A%AA%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%BE%E3%81%84%E3%82%8A%E3%81%BE/1374252078052246/",
+    "https://www.facebook.com/CEATEC.official/videos/%EF%B8%8F%E3%81%84%E3%82%88%E3%81%84%E3%82%88%E6%98%8E%E6%97%A5%E9%96%8B%E5%B9%95%EF%B8%8Fapresia-systems%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98ceatec-2026-%E5%B1%95%E7%A4%BA%E3%83%96%E3%83%BC%E3%82%B9%E3%81%AE%E8%A6%8B%E3%81%A9%E3%81%93%E3%82%8D%E3%82%92%E5%85%AC%E9%96%8B-booth-information-ciaj%E3%82%AA%E3%83%BC/1394283876212138/",
+    "https://www.facebook.com/CEATEC.official/videos/%E3%82%BD%E3%83%8B%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98ceatec-2026-%E5%B1%95%E7%A4%BA%E3%83%96%E3%83%BC%E3%82%B9%E3%81%AE%E8%A6%8B%E3%81%A9%E3%81%93%E3%82%8D%E3%82%92%E5%85%AC%E9%96%8B-booth-information-%E3%82%BD%E3%83%8B%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9B%E3%83%BC%E3%83%AB4-8h450%E7%A4%BE%E4%BC%9A%E8%AA%B2/1689717716124070/",
+    "https://www.facebook.com/andpad/videos/andpad%E3%83%88%E3%83%83%E3%83%97%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AB%E8%81%9E%E3%81%8F-%E6%AD%A6%E5%B7%9E%E3%82%AC%E3%82%B9%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%982026%E5%B9%B4%E3%81%AB%E5%89%B5%E6%A5%AD100%E5%91%A8%E5%B9%B4%E3%82%92%E8%BF%8E%E3%81%88%E3%81%9F%E5%9C%B0%E5%9F%9F%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%9F%E9%83%BD%E5%B8%82%E3%82%AC%E3%82%B9%E4%BC%9A%E7%A4%BE%E6%AD%A6%E5%B7%9E%E3%82%AC%E3%82%B9%E6%A7%98%E6%99%AE%E6%AE%B5%E3%81%AE%E6%A5%AD%E5%8B%99%E5%86%85%E5%AE%B9%E3%82%84%E4%BB%95%E4%BA%8B%E3%81%AE%E3%82%84%E3%82%8A%E3%81%8C%E3%81%84andp/4312032352393894/",
+    "https://www.facebook.com/andpad/videos/andpad%E3%83%88%E3%83%83%E3%83%97%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AB%E8%81%9E%E3%81%8F-%E3%82%86%E3%81%86%E3%81%8D%E7%B7%8F%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98andpad-award-2026%E3%81%A7dx%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC%E9%83%A8%E9%96%80%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E5%A4%A7%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%9F%E3%82%86%E3%81%86%E3%81%8D%E7%B7%8F%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E7%B5%90%E5%9F%8E-%E4%BC%B8%E5%A4%AA/1647367136964199/",
+    "https://www.facebook.com/iwateATCSENMAYA/posts/2026103-9%E6%9C%8810%E6%97%A5%E5%B2%A9%E6%89%8B%E3%83%88%E3%83%A8%E3%82%BF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%83%8D%E3%83%83%E3%83%84%E3%83%88%E3%83%A8%E3%82%BF%E7%9B%9B%E5%B2%A1%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%83%88%E3%83%A8%E3%82%BF%E3%82%AB%E3%83%AD%E3%83%BC%E3%83%A9%E5%8D%97%E5%B2%A9%E6%89%8B%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%81%AE%E3%81%94%E5%8D%94%E5%8A%9B%E3%81%AB%E3%82%88%E3%82%8A%E3%83%88%E3%83%A8%E3%82%BFhv%E8%AC%9B%E7%BF%92%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E8%AC%9B%E7%BF%92%E3%81%A7%E3%81%AFhv%E3%83%90/1721961079936547/",
+    "https://www.facebook.com/61582378903950/posts/%E5%AF%8C%E5%A3%AB%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%82%88%E3%82%8A%E5%85%A8%E5%9B%BD%E3%81%AE%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%A62025%E5%B9%B4%E5%BA%A6%E3%81%AE%E4%BB%95%E5%85%A5%E3%82%8C%E5%AE%9F%E7%B8%BE%E3%82%84%E8%A4%87%E5%90%88%E6%A9%9F%E8%A8%AD%E7%BD%AE%E5%8F%B0%E6%95%B0%E3%81%AA%E3%81%A9%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%84%E3%81%A6%E8%A1%A8%E5%BD%B0%E3%81%95%E3%82%8C%E3%82%8B%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB/122149993557079296/",
+    "https://www.facebook.com/61593208779908/posts/%E9%83%BD%E6%A9%9F%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%82%88%E3%82%8A%E5%9C%9F%E3%81%AE%E3%81%86%E8%A2%8B%E3%81%AE%E3%81%94%E5%AF%84%E9%99%84%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-%E4%BB%A4%E5%92%8C8%E5%B9%B48%E6%9C%88%E5%8D%83%E8%91%89%E8%B1%AA%E9%9B%A8%E3%81%B8%E3%81%AE%E3%81%94%E6%94%AF%E6%8F%B4%E3%81%A8%E3%81%97%E3%81%A6%E9%83%BD%E6%A9%9F%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%82%88%E3%82%8A%E5%9C%9F%E3%81%AE%E3%81%86%E8%A2%8B%E3%82%92%E3%81%94%E5%AF%84%E9%99%84%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E9%83%BD%E6%A9%9F%E5%B7%A5%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%A7%98%E3%81%AB%E3%81%AF/122119935093440292/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "株式会社様 note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://x.com/sadaaki",
+    "https://dot.asahi.com/articles/-/292205?page=1",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n56b48da27f29",
+    "https://shachomeikan.jp/corporations/22713",
+    "https://note.com/kazuyuki_tachi/n/n2915e4f702c6",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "株式会社様 X 投稿",
+   "results": [
+    "https://www.comnico.jp/we-love-social/twitter-how-to-open-accounts",
+    "https://lynq-company.jp/2026/10/28/x-business-account-how-to-operate/",
+    "https://growthseed.jp/experts/sns/twitter-operation/",
+    "https://note.com/goodcomms/n/ncf68a56f87e2",
+    "https://zeal-security.jp/blog/xaccount_startguide/",
+    "https://malna.co.jp/blog/x-kigyou-account-jirei/",
+    "https://necfru.com/blog/marketing/%E4%BC%81%E6%A5%AD%E3%81%ABx%E5%85%AC%E5%BC%8F%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AF%E5%BF%85%E8%A6%81%E3%81%8B%EF%BC%9F%E2%94%80%E2%94%80%E6%8C%81%E3%81%A4%E3%81%B9%E3%81%8D/",
+    "https://cybercats.jp/5-golden-rules-for-official-x-corporate-accounts-to-drive-business-profit/",
+    "https://www.sharecoto.co.jp/twitterlab/function/operation-system/",
+    "https://x.com/cover_corp/status/1998689278726123795"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "金属AM装置の保有（型番・製造元・台数・導入年）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "用途・客の産業": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "資本金・株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）"
+ }
+}

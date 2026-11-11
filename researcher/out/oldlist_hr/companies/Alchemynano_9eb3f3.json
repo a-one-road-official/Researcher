@@ -1,0 +1,734 @@
+{
+ "name": "Alchemynano",
+ "aliases": [],
+ "context": "旧営業リスト｜Advanced Materials｜AI送信済み",
+ "researched_at": "2026-11-11T02:23:12.536852+00:00",
+ "official_url": "https://www.alchemynano.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Solutions powered by state-of-the-art materials & processes in nanocoating technology.",
+    "url": "https://www.alchemynano.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting what matters.",
+    "url": "https://www.alchemynano.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineered from the nanoscale up to protect our troops and critical safety systems in our cars.",
+    "url": "https://www.alchemynano.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting the safety systems that keep us safe.",
+    "url": "https://www.alchemynano.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The automotive industry is being transformed by advancements in sensor technology. We are building solutions to protect those sensors and keep drivers safe on the road.",
+    "url": "https://www.alchemynano.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced detection technologies are eroding the element of surprise. We are developing next-generation camouflage materials to keep our troops safe.",
+    "url": "https://www.alchemynano.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our solutions are already transforming industries with category-best products.",
+    "url": "https://www.alchemynano.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are solving complex technical problems with enormous commercial potential.",
+    "url": "https://www.alchemynano.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Alchemy was founded in 2013 by Nanotechnology Engineering graduates from the University of Waterloo. We started our journey with an intent to commercialize an innovation in sprayable anti-frost coatings and through a combination of iterative development, market research, and focused efforts, have expanded our technological infrastructure to include our current innovations.",
+    "url": "https://www.alchemynano.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "At Alchemy, every innovation is born with a target application in mind. We focus on massive problems that require a fundamental upstream innovation in nanotechnology and get to work on building a ready-to-use solution.",
+    "url": "https://www.alchemynano.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We believe commercializing end products over components is the key to building the powerhouse we're aiming for.",
+    "url": "https://www.alchemynano.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our ExoShield product line is sold worldwide directly by Alchemy and through licensed distributors.",
+    "url": "https://www.alchemynano.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Become our resident expert in your field and develop your technical, professional, and personal skills in real time.",
+    "url": "https://www.alchemynano.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting critical sensor systems in vehicles.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "power features like parking assistance, proximity detection, and self-parking technologies.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Our innovations are already powering solutions like ExoShield that protect the windshield and the optical sensors behind it. ExoShield is helping vehicle owners save thousands of dollars in replacement costs and insurance companies reduce claim severity & frequency.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Our Automotive Products",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Premium Windshield Protection",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "World's most durable windshield protection film for any passenger vehicle.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy-duty windshield protection for off-roading and industrial vehicles.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "ExoShield Windshield Protection Film",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Windshield protection for every driver.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "The Next Generation of Windshield Protection",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "ExoShield GT3 reduces the probability of a stone chip by six times at highway speeds.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "ExoShield is the longest lasting and most durable windshield protection available.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "I took a rock last week that scared the heck out of me and without a question it would have cracked prior to the ExoShield installation.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Future Automotive Products",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to learn more about installing or distributing our automotive products.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting our troops with next-generation camouflage.",
+    "url": "https://www.alchemynano.com/defence",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-spectral detection platforms are eroding the element of surprise and first strike advantage.",
+    "url": "https://www.alchemynano.com/defence",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting what matters most.",
+    "url": "https://www.alchemynano.com/defence",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions to protect glazings in aerial and land vehicles.",
+    "url": "https://www.alchemynano.com/defence",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage ExoShield ULTRA to protect glazings from stone chips that compromise their ballistic integrity and protect troops in vehicles from glass fragments.",
+    "url": "https://www.alchemynano.com/defence",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage ExoShield GT3 to protect helicopter glazings from debris damage due to ground effect airflow and minimize maintenance costs.",
+    "url": "https://www.alchemynano.com/defence",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "Based out of Waterloo, ON, Alchemy is a nanotechnology company that specializes in innovative and sustainable lines of protective windshield films.",
+    "url": "https://www.gritt.io/company/alchemynano/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The automotive industry is being transformed by advancements in sensor technology. We are building solutions to protect those sensors and keep drivers safe on the road.",
+    "url": "https://www.alchemynano.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Automotive Solutions",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive safety is increasingly reliant on sensors.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Our Automotive Products",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy-duty windshield protection for off-roading and industrial vehicles.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Future Automotive Products",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to learn more about installing or distributing our automotive products.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Next-generation coatings platform with truly industrial potential. Powered by advanced nanoparticle technologies. Adaptable to most fabrics and rigid substrates.",
+    "url": "https://www.alchemynano.com/defence",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Industry Leading Warranty.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "All ExoShield purchases come with our best-in-class 2 years / unlimited mileage warranty.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Alchemy Nano Revenue 2024: $3.8M Est.",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "Alchemy Nano has not published its revenue. GetLatka estimates it at about $3.8M a year (June 2024).",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "Alchemy Nano CEO, founders & employees",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "Khanjan Desai founded Alchemy Nano in 2013 and runs it as CEO. Alchemy Nano had 25 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Alchemy Nano's revenue?",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Alchemy Nano's revenue at about",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Alchemy Nano have?",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "👥 16 employees",
+    "url": "https://www.gritt.io/company/alchemynano/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us to learn more about installing or distributing our automotive products.",
+    "url": "https://www.alchemynano.com/automotive",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Investors - alchemynano.com — Where can I find Alchemy’s Investor Presentation? Alchemy's Investor Presentation is available for review or download on the Investor Page of Alchemy's website. https://www.alchemynano.com/investors",
+    "url": "https://www.alchemynano.com/investors",
+    "pass": 3
+   },
+   {
+    "quote": "Investors - alchemynano.com — Recent Press Recent announcements, milestones, and media coverage related to Alchemy’s technology platforms, partnerships, and market expansion.",
+    "url": "https://www.alchemynano.com/investors",
+    "pass": 3
+   },
+   {
+    "quote": "Investors - alchemynano.com — Our solutions are built around proprietary nanotechnologies designed to enhance durability, manage thermal signatures, and improve material performance in demanding environments.",
+    "url": "https://www.alchemynano.com/investors",
+    "pass": 3
+   },
+   {
+    "quote": "Alchemy Nano - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 10, 2026 · Alchemy Nano is a series A company based in Kitchener (Canada), founded in 2013 by Khanjan Desai and Chong Shen. It operates as a Nanotechnology-based thin film solutions for auto applications.",
+    "url": "https://tracxn.com/d/companies/alchemynano/__Jmxkc48zU9a8t1T6HWssnTI1rXD2YEk8n3ZpPArFhuw",
+    "pass": 3
+   },
+   {
+    "quote": "Alchemy Nano Revenue 2024: $3.8M Est. - getlatka.com — Aug 10, 2026 · Who is the CEO of Alchemy Nano? Khanjan Desai is the CEO of Alchemy Nano and founded the company in 2013.",
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "pass": 3
+   },
+   {
+    "quote": "Alchemy Labs (Other Materials) 2026 Company Profile: Stock ...Alchemy — investors & funding | gritt.ioAlchemy - Overview, News & Similar companies | ZoomInfo.com — Dec 16, 2022 · What is the size of Alchemy Labs (Other Materials)? Alchemy Labs (Other Materials) has 29 total employees. What industry is Alchemy Labs (Other Materials) in? Alchemy Labs (Other Materials)’s primary industry is Other Che",
+    "url": "https://pitchbook.com/profiles/company/87720-13",
+    "pass": 3
+   },
+   {
+    "quote": "Alchemy Nano $6M Funding (2025) | Investors & Contacts ... — Alchemy is a nanotechnology company dedicated to creating advanced coatings and films that address critical challenges in both automotive and defense. By applying cutting-edge science and engineering, we turn novel materials into practical products that deliver real-world impact.",
+    "url": "https://fundup.ai/recently-funded-startups/company/b0hHNHvXQo8o7Xj2FhfX/alchemy-nano",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "A man can #dream, but Neverfrost can make it happen. RT to ... Alchemy (@AlchemyNano). A man can #dream, but Neverfrost can make it happen. RT to help us win $15k at #kickstartkw so we can deliver!",
+    "url": "https://x.com/AlchemyNano/status/423957174839042048",
+    "pass": 3
+   },
+   {
+    "quote": "#alchemyband - Search / X TopTopLatestPeoplePeopleMediaMediaListsLists AⱠ₵ⱧɆ₥Ɏ₥₳₦ @Alchemyman1 Alchemista Extraordinaire | Tech & AI Enthusiast 🤖 | $DOG 🐕 | Personal growth through AI | Building the future one prompt at a time | NFA Alchemy @AlchemyNano",
+    "url": "https://x.com/hashtag/alchemyband?f=user",
+    "pass": 3
+   },
+   {
+    "quote": "@alchemynano | X The latest posts from @alchemynano",
+    "url": "https://x.com/alchemynano",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Alchemy - LinkedIn Website http://www.alchemynano.com Industry Manufacturing Company size 11-50 employees Headquarters Kitchener, Ontario",
+    "url": "https://ca.linkedin.com/company/alchemynano",
+    "pass": 3
+   },
+   {
+    "quote": "#alchemynano #departmentofwarstedprogram #bosssilencers # ... ESS (Eye Safety Systems), KÄGWERKS, ADS, Inc., Marathon Targets, Alien Gear Holsters, GSM Outdoors, Conflict Kinetics Corporation, #AlchemyNano, American Rheinmetall, #DepartmentofWarSTEDProgram...",
+    "url": "https://www.linkedin.com/posts/marine-gunner-association_alchemynano-departmentofwarstedprogram-activity-7495134315316449280-U6tU",
+    "pass": 3
+   },
+   {
+    "quote": "Alchemy: Scaling Nanotech with FedDev Ontario Support - LinkedIn The results? Global expansion, job creation and a boost to Canada’s innovation economy. Learn how Alchemy is shaping the future of nanotech: www.alchemynano.com #SmallBusinessWeek #SBW2025",
+    "url": "https://www.linkedin.com/posts/federal-economic-development-agency-for-southern-ontario_smallbusinessweek-sbw2025-activity-7387141110651015168-OEBk",
+    "pass": 3
+   },
+   {
+    "quote": "Amogha Ravindra - Director of R&D - LinkedInFederal Economic Development Agency for Southern Ontario ...#datexa #alchemynano #exoshield #exoshield #defence #aviation ... Director of R&D | Nanotechnology & Advanced Coatings | Automotive & Defense Innovation | Technology Commercialization & IP Strategy · I am a strategic R&D leader specializing in nanotechnology, advanced coatings, and high-performa",
+    "url": "https://ca.linkedin.com/in/amogha-ravindra",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.alchemynano.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alchemynano.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alchemynano.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alchemynano.com/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alchemynano.com/defence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alchemynano.com/company/customers",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news046.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sikagisi-no-tobira.com/articles/sprintray-nano-regional-availability-20261015.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.alchemy_japan_limited_liability_company.7f1f87e57eac9cd9fd29622a606d11a7.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "http://alchemyinvents.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bing.com/aclick?ld=e8_Hx7DQ8eT_k8IXXJgeREPjVUCUxEj2TryaOxMr1giD-rDKMoQ3SYB-5LunnQM7I-TNdTbGBW_rqZjrqO2xj02GUgz_c9DctvJYVBCoWpp3BADB3_55skLniiKRo9MUeJqB6EEL9_bVL2SlufgdRyIT5rDYbEuWLlhHTEDRvK1VRNtMMF76JAi_TygHPl8xcItHmbIloQ2dGRgUCo6AT7V9wZ1Gk&u=aHR0cHMlM2ElMmYlMmZ3d3cub2Rvby5jb20lMmZpbmR1c3RyaWVzJTJmc29mdHdhcmUtcmVzZWxsZXIlM2ZuZXR3b3JrJTNkbyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE5BLUVOLUluZHVzdHJ5JTI2dXRtX3Rlcm0lM2REaWdpdGFsJTI1MjBCdXNpbmVzcyUyNTIwU29sdXRpb24lMjUyMFNvZnR3YXJlJTI1MjBSZXNlbGxlcnV0bV9nY2xpZCUzZCUyNm1zY2xraWQlM2QwODZjNDhjYWI3ZWUxMjBlODZkYzIyMzk2NWVjYTI2NA&rlid=086c48cab7ee120e86dc223965eca264",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/alchemynano/__Jmxkc48zU9a8t1T6HWssnTI1rXD2YEk8n3ZpPArFhuw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/alchemynano.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/87720-13",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gritt.io/company/alchemynano/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AlchemyNano/status/423957174839042048",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/alchemyband?f=user",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/alchemynano",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/marine-gunner-association_alchemynano-departmentofwarstedprogram-activity-7495134315316449280-U6tU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/federal-economic-development-agency-for-southern-ontario_smallbusinessweek-sbw2025-activity-7387141110651015168-OEBk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/amogha-ravindra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/alchemynano",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Alchemynano 日本 導入",
+   "results": [
+    "https://www.alchemynano.com/investors",
+    "https://www.alchemynano.com/",
+    "https://monoist.itmedia.co.jp/mn/articles/2609/25/news046.html",
+    "https://www.sikagisi-no-tobira.com/articles/sprintray-nano-regional-availability-20261015.html",
+    "https://trafficnews.jp/post/721548",
+    "https://www.jetro.go.jp/news/releases/2025/2fe6c0a812944822.html",
+    "https://jbpress.ismedia.jp/articles/-/97339"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alchemynano 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.alchemynano.com/investors",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.alchemynano.com/",
+    "https://newfundcap.com/company/alchemy",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alchemynano Japan",
+   "results": [
+    "https://www.dnb.com/business-directory/company-profiles.alchemy_japan_limited_liability_company.7f1f87e57eac9cd9fd29622a606d11a7.html",
+    "https://www.alchemynano.com/investors",
+    "http://alchemyinvents.jp/",
+    "https://www.alchemynano.com/",
+    "https://newfundcap.com/company/alchemy",
+    "https://www.prnewswire.com/news-releases/namesilo-technologies-corp-increases-investment-in-cutting-edge-nanotechnology-powered-industrial-coatings-company-302115083.html",
+    "https://uwaterloo.ca/news/made-by-waterloo-alchemy-nanotechnology"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alchemynano manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Alchemynano white label OR reseller OR partner program",
+   "results": [
+    "https://www.bing.com/aclick?ld=e8_Hx7DQ8eT_k8IXXJgeREPjVUCUxEj2TryaOxMr1giD-rDKMoQ3SYB-5LunnQM7I-TNdTbGBW_rqZjrqO2xj02GUgz_c9DctvJYVBCoWpp3BADB3_55skLniiKRo9MUeJqB6EEL9_bVL2SlufgdRyIT5rDYbEuWLlhHTEDRvK1VRNtMMF76JAi_TygHPl8xcItHmbIloQ2dGRgUCo6AT7V9wZ1Gk&u=aHR0cHMlM2ElMmYlMmZ3d3cub2Rvby5jb20lMmZpbmR1c3RyaWVzJTJmc29mdHdhcmUtcmVzZWxsZXIlM2ZuZXR3b3JrJTNkbyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE5BLUVOLUluZHVzdHJ5JTI2dXRtX3Rlcm0lM2REaWdpdGFsJTI1MjBCdXNpbmVzcyUyNTIwU29sdXRpb24lMjUyMFNvZnR3YXJlJTI1MjBSZXNlbGxlcnV0bV9nY2xpZCUzZCUyNm1zY2xraWQlM2QwODZjNDhjYWI3ZWUxMjBlODZkYzIyMzk2NWVjYTI2NA&rlid=086c48cab7ee120e86dc223965eca264",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://reseller.amazon.com/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "https://partners.spectrum.com/",
+    "https://www.bing.com/aclick?ld=e8JtwoB3ATOlhMgW9CY_svxDVUCUwTIrY1AVQI-gLvPHR8fMx8Vb7scMDAD7-pJn-mqN5e7eqFp10P_zFY2sQ05eR_a9_M9p5on_6XWN_J7rp2iTZJHuC6LS6Vt5mgB_iT5bie5alpyiS7CykzRUDN8lWXfxP1EmnIGIJRTB_MISXwekwScxU9ylJtiA9W1AQFYrFR_ZXv7UfHi5I93Bz9zw18TFw&u=aHR0cHMlM2ElMmYlMmZyZXBseS5pbyUyZndoaXRlbGFiZWwlMmYlM2Z1dG1fc291cmNlJTNkbWljcm9zb2Z0YWRzJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE1BLVdMX0FHJTI2dXRtX3Rlcm0lM2R3aGl0ZSUyNTIwbGFiZWwlMjUyMHNvbHV0aW9ucyUyNm1zY2xraWQlM2Q2ODlhMWJmMTA1NjQxMWJhZWFlOTcxMDJkNzY2NWMwZg&rlid=689a1bf1056411baeae97102d7665c0f",
+    "https://www.bing.com/aclick?ld=e8B-58mwd_mlfNAVZOIH4f4DVUCUxFrrbBH8X6bm6Fp5KspeC4sl_OKUCO3OmDQsuhGdSsRsCs1fni6eJOly4hGqwFGB5nazPQ0alDZw7q9E7O90nQUwZVlVsneR3Iv61--PaGLhZflEWfRm9AJ6hPcz40AbCry3SgiFUn3VCvM3xeyq7vAC3D93O29qRo0tH_DToRQJITXcn03iJPw3XVwSf6ifY&u=aHR0cHMlM2ElMmYlMmZyZWFsaXplLmNvbSUyZmxhbmRpbmclMmZwZXJmb3JtYW5jZS1hZmZpbGlhdGVzJTJmJTNmZGV2aWNlJTNkYyUyNm1hdGNodHlwZSUzZHAlMjZtc2Nsa2lkJTNkYWU5MzkzZjRiMjE0MTU0OTFhOTZmOTA3NjAxNmRkZDclMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RVUyUyNTIwJTI1N0MlMjUyMGVuJTI1MjAlMjU3QyUyNTIwU2VhcmNoJTI1MjAlMjU3QyUyNTIwR2VuZXJpY3MlMjUyMCUyNTdDJTI1MjBMZWFkJTI1MjAlMjU3QyUyNTIwRGVza3RvcCUyNTIwJTI1N0MlMjUyMEFMTF9BJTI1MjAlMjU3QyUyNTIwQWxsJTI1MjBTZWdtZW50cyUyNnV0bV90ZXJtJTNkYWZmaWxpYXRlJTI1MjBzZWxsaW5nJTI2dXRtX2NvbnRlbnQlM2ROU19BZmZpbGlhdGUlMjUyME1hcmtldGluZw&rlid=ae9393f4b21415491a96f9076016ddd7"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Alchemynano founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/alchemynano/__Jmxkc48zU9a8t1T6HWssnTI1rXD2YEk8n3ZpPArFhuw",
+    "https://getlatka.com/companies/alchemynano.com",
+    "https://pitchbook.com/profiles/company/87720-13",
+    "https://www.gritt.io/company/alchemynano/",
+    "https://fundup.ai/recently-funded-startups/company/b0hHNHvXQo8o7Xj2FhfX/alchemy-nano",
+    "https://www.alchemynano.com/investors",
+    "https://www.zoominfo.com/c/alchemy/416221606"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Alchemynano",
+   "results": [
+    "https://note.com/katakuri22/n/nd8b6a5ea717e?hl=en",
+    "https://note.com/katakuri22/n/n60ed6980a314?hl=en",
+    "https://note.com/katakuri22/n/n24be43cbca59?hl=en",
+    "https://note.com/katakuri22/n/nc4121240c4bd?hl=en",
+    "https://www.bing.com/aclick?ld=e8BcbJ8MxbKN1i764enKMyFDVUCUwZNE82VdUC2VjqeOcKDqlcSxOA1Nx0Yz42c2QHZIPxcRP03VxMI7j8CaFaThJMxaho5jF3z7UGN101TqT-C8U8rEF3OQfwtydN_zmVpqINhR6Y84Y65bkFJSMhI7Tv3cDId2bdgwMZPs_7Me62Vjapb3NhKAKPbVZObASxwieFVCvPYwq3kd8tRdgbgKVKAjQ&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmYzMDg1JTJmY3ElM2Zldl9zaWQlM2QxMCUyNmV2X2xuJTNkbm90ZSUyNTIwc3VtbWFyaXplciUyNmV2X2x0eCUzZCUyNmV2X2x4JTNka3dkLTc5MDk2NzYxNzAzNjM3JTNhbG9jLTMyJTI2ZXZfY3J4JTNkNzkwOTYzMzg2MDc1NTMlMjZldl9tdCUzZHAlMjZldl9kdmMlM2RjJTI2ZXZfcGh5JTNkNTI1NCUyNmV2X2xvYyUzZCUyNmV2X2N4JTNkNTA2MjQyODY2JTI2ZXZfYXglM2QxMjY1NTM5NjQ5MTUxOTI1JTI2ZXZfZXglM2QlMjZldl9lZmlkJTNkNTFkMTNjN2NhZTYwMTRjZGQxNTM1NjhmN2MyMjNiYTYlM2FHJTNhcyUyNnVybCUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LmFkb2JlLmNvbSUyNTJGYWNyb2JhdCUyNTJGb25saW5lJTI1MkZhaS1zdW1tYXJ5LWdlbmVyYXRvci5odG1sJTI1M0ZzZGlkJTI1M0RGSFJMWjNQSyUyNTI2bXYlMjUzRHNlYXJjaCUyNTI2bXYyJTI1M0RwYWlkc2VhcmNoJTI1MjZlZl9pZCUyNTNENTFkMTNjN2NhZTYwMTRjZGQxNTM1NjhmN2MyMjNiYTYlMjUzQUclMjUzQXMlMjUyNnNfa3djaWQlMjUzREFMITMwODUhMTAhNzkwOTYzMzg2MDc1NTMhISEhNzkwOTY3NjE3MDM2MzchITUwNjI0Mjg2NiExMjY1NTM5NjQ5MTUxOTI1JTI2bXYlM2RzZWFyY2glMjZtdjIlM2RwYWlkc2VhcmNoJTI2bXNjbGtpZCUzZDUxZDEzYzdjYWU2MDE0Y2RkMTUzNTY4ZjdjMjIzYmE2&rlid=51d13c7cae6014cdd153568f7c223ba6",
+    "https://www.bing.com/aclick?ld=e8w27wu9mNq5DzLumTSdSeEDVUCUwXj0dqcTmmW4-WnQz_-No1oc3JjIZxcB9sWAoUv4bcu2vMQ_d9VhhkhQH6s3HplGpwsbD_fAK-mlHQKVbvz3i52bn1H0ouLBvKxCBJyEVPIgOh3ZtEKSMWvTomwLmprtXrp8EELFYyarikGSun8IFCaP2oM5aMgQoz8NLiMoXPcKXbyirCrWrZ3O4ouQigxFY&u=aHR0cHMlM2ElMmYlMmZjb25uZWN0LmFjc3B1YnMub3JnJTJmbmFub3NjaWVuY2UlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RJQzAwMV9TVDAwMDJEX1QwMDc2NzlfYWNzam5sXzAyMjZfRE1TX05hbm9zY2llbmNlX1N1Ym1pc3Npb25fTVNfQWRfUHJvZ3JhbSUyNnNyYyUzZElDMDAxX1NUMDAwMkRfVDAwNzY3OV9hY3NqbmxfMDIyNl9ETVNfTmFub3NjaWVuY2VfU3VibWlzc2lvbl9NU19BZF9Qcm9ncmFtJTI2bXNjbGtpZCUzZDkwYjM1NjQwNTU0YzE3NzIxMzg1M2NiMzg3MGUyMzEz&rlid=90b35640554c177213853cb3870e2313",
+    "https://note.com/katakuri22/n/nbdc96954ae44?hl=en",
+    "https://note.com/katakuri22/n/n231693b6128a?hl=en",
+    "https://note.com/katakuri22/n/n39cbb40624d9?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Alchemynano",
+   "results": [
+    "https://x.com:2096/AlchemyNano",
+    "https://x.com/lovecIubrry/status/2117772267228713081",
+    "https://x.com/AlchemyNano/status/423957174839042048",
+    "https://x.com/hashtag/alchemyband?f=user",
+    "https://x.com/Chong_Shen",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/monushi_nazo/status/2119675149540901116"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Alchemynano",
+   "results": [
+    "https://ca.linkedin.com/company/alchemynano",
+    "https://www.linkedin.com/posts/marine-gunner-association_alchemynano-departmentofwarstedprogram-activity-7495134315316449280-U6tU",
+    "https://www.linkedin.com/posts/federal-economic-development-agency-for-southern-ontario_smallbusinessweek-sbw2025-activity-7387141110651015168-OEBk",
+    "https://ca.linkedin.com/in/amogha-ravindra",
+    "https://pl.linkedin.com/posts/piotr-kaczmarek-25076185_datexa-alchemynano-exoshield-activity-7490681776684740608--ehT",
+    "https://dm.linkedin.com/company/federal-economic-development-agency-for-southern-ontario",
+    "https://www.linkedin.com/posts/alchemynano_we-recently-launched-a-video-to-introduce-activity-6291650165396824064-diEW"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Alchemynano",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Alchemynano note 社長",
+   "results": [
+    "https://www.alchemynano.com/investors",
+    "https://fundup.ai/recently-funded-startups/company/b0hHNHvXQo8o7Xj2FhfX/alchemy-nano",
+    "https://www.alchemynano.com/",
+    "https://tracxn.com/d/companies/alchemynano/__Jmxkc48zU9a8t1T6HWssnTI1rXD2YEk8n3ZpPArFhuw",
+    "https://newfundcap.com/company/alchemy",
+    "https://www.f6s.com/company/alchemy-nano",
+    "https://getlatka.com/companies/alchemynano.com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alchemynano X 投稿",
+   "results": [
+    "https://x.com/alchemynano",
+    "https://www.alchemynano.com/investors",
+    "https://www.alchemynano.com/innovations",
+    "https://www.alchemynano.com/press",
+    "https://www.bing.com/aclick?ld=e8qiqLQtsKCKsMURreXBxVoDVUCUzWOqwi9U-zmxzFVwp4xi00LFiENEvieMtJPxooG7rHxJ6qdYXzoZWGkHqp4WCWnFxOGDiqpynzobO5o1ymRJgOIOzcQFIzC74EcH75ZCnh4Jcd4rxMHY_KTbc60qaNTZ-JOcsrjoSyeNrPsdwV2d11j2sb1GxkCeIsyQRZ--nZjA&u=aHR0cHMlM2ElMmYlMmZjb25uZWN0LmFjc3B1YnMub3JnJTJmbmFub3NjaWVuY2UlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RJQzAwMV9TVDAwMDJEX1QwMDc2NzlfYWNzam5sXzAyMjZfRE1TX05hbm9zY2llbmNlX1N1Ym1pc3Npb25fTVNfQWRfUHJvZ3JhbSUyNnNyYyUzZElDMDAxX1NUMDAwMkRfVDAwNzY3OV9hY3NqbmxfMDIyNl9ETVNfTmFub3NjaWVuY2VfU3VibWlzc2lvbl9NU19BZF9Qcm9ncmFtJTI2bXNjbGtpZCUzZDUxNTkwODk5ZmJlNjEwMmVkOTM3NjI2YTI5N2Q3ZmI3&rlid=51590899fbe6102ed937626a297d7fb7",
+    "https://www.alchemynano.com/",
+    "https://news.livedoor.com/article/detail/32710275/",
+    "https://uwaterloo.ca/news/made-by-waterloo-alchemy-nanotechnology"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部22頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部22頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部22頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部22頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部22頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部22頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部22頁・検索12回）"
+ }
+}

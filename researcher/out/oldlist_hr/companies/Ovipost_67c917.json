@@ -1,0 +1,468 @@
+{
+ "name": "Ovipost",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜商談中",
+ "researched_at": "2026-11-11T02:22:19.657536+00:00",
+ "official_url": "https://ovipost.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Florida's #1 Live Insect Producer - Crickets, Superworms, Mealworms and More!",
+    "url": "https://www.ovipost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Press the space key then arrow keys to make a selection.",
+    "url": "https://www.ovipost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Florida's #1 Live Insect Producer - Crickets, Superworms, Mealworms and More!",
+    "url": "https://www.ovipost.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We are Ovipost. We farm bugs. You probably have questions.",
+    "url": "https://www.ovipost.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Bugs and worms are perfect. They eat garbage and turn it into clean protein. They are the world’s best upcycling machines and - if we do it right - will save the planet.",
+    "url": "https://www.ovipost.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Here’s the thing: insect farming is really hard. There are a million things that can go wrong every day. And over the years, we have seen a LOT. We have snuck live crickets into hotel bathrooms. If you can imagine a ridiculous unpredictable challenge, we have faced it and we have solved it. We’re scrappy like that.",
+    "url": "https://www.ovipost.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Press the space key then arrow keys to make a selection.",
+    "url": "https://www.ovipost.com/pages/about-us",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ovipost - Live Crickets and Superworms",
+    "url": "https://www.ovipost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device",
+    "url": "https://www.ovipost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Press the space key then arrow keys to make a selection.",
+    "url": "https://www.ovipost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are Ovipost. We farm bugs. You probably have questions.",
+    "url": "https://www.ovipost.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Fanatical, insane people. We weren’t built for normal life. We hate being bored and we love adventure. As a result, each of us wove a weird, windy path to Ovipost.",
+    "url": "https://www.ovipost.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We bet. Life at Ovipost sounds like a trip.",
+    "url": "https://www.ovipost.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device",
+    "url": "https://www.ovipost.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Press the space key then arrow keys to make a selection.",
+    "url": "https://www.ovipost.com/pages/about-us",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ovipost.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ovipost.com/pages/about-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/1003",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://singlefamily.fanniemae.com/media/7896/display",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://singlefamily.fanniemae.com/delivering/uniform-mortgage-data-program/uniform-residential-loan-application",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investopedia.com/ask/answers/041916/what-1003-mortgage-application-form.asp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcpenney.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcpenney.com/signin",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synchrony.com/partner/jcpenney",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcpenney.com/g/shop-all-products?id=cat1007450013",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Sonic_screwdriver",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sonicscrewdriver.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artstation.com/artwork/g0aqQK",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.artstation.com/artwork/P6XlDL",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idealista.pt/comprar-casas/barcelos/com-apartamentos",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idealista.pt/comprar-casas/barcelos/com-apartamentos,banho-1/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imovirtual.com/pt/resultados/comprar/apartamento/braga/barcelos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supercasa.pt/comprar-casas/barcelos/com-apartamentos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.christianity.com/trivia/question/fill-in-the-blanks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.christianity.com/trivia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.christianity.com/trivia/millionquestion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.christianity.com/trivia/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remaker.ai/features/ai-remove-object/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://timesofindia.indiatimes.com/world/us/ai-tool-to-undress-women-grok-under-fire-for-generating-non-consensual-sexualised-images-musk-pokes-fun/articleshow/126321063.cms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sky.com/story/x-to-block-grok-ai-from-undressing-images-of-real-people-13494449",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mimicpc.com/ja/workflows/image-54674461411590145",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ovipost 日本 導入",
+   "results": [
+    "https://en.wikipedia.org/wiki/1003",
+    "https://singlefamily.fanniemae.com/media/7896/display",
+    "https://singlefamily.fanniemae.com/delivering/uniform-mortgage-data-program/uniform-residential-loan-application",
+    "https://www.investopedia.com/ask/answers/041916/what-1003-mortgage-application-form.asp",
+    "https://sf.freddiemac.com/tools-learning/uniform-mortgage-data-program/ulad",
+    "https://www.amerisave.com/glossary/what-is-a-uniform-residential-loan-application-your-complete-guide-for",
+    "https://www.ezloandocs.com/what-is-a-1003-in-mortgage/",
+    "https://www.zeitro.com/blog/1003-form",
+    "https://www.ibanklnb.com/Resources/be9e3ca1-5566-4c88-b327-5c1c611ff0f5/Loan+Application+Fillable.pdf?TrackID=Loan+Application+Fillable.pdf",
+    "https://diversifiedresourcenetwork.org/TCC/tutorials/home_buying/loan_application_mobile/presentation_content/external_files/How+to+Complete+the+Form+1003.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Ovipost 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jcpenney.com/",
+    "https://www.jcpenney.com/signin",
+    "https://www.synchrony.com/partner/jcpenney",
+    "https://www.jcpenney.com/g/shop-all-products?id=cat1007450013",
+    "https://www.jcpenney.com/locations/locations",
+    "http://js.jcpenney.com/",
+    "https://www.jcpenney.com/d/clearance",
+    "https://www.jcpcreditcard.com/",
+    "https://dt-test4.jcpenney.com/m/customer-service?dpAkamaiOverride=1",
+    "https://jcpenney.syf.com/accounts/login/register"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 27
+  },
+  {
+   "query": "Ovipost Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Sonic_screwdriver",
+    "https://sonicscrewdriver.com/",
+    "https://www.artstation.com/artwork/g0aqQK",
+    "https://www.artstation.com/artwork/P6XlDL",
+    "https://jofish.artstation.com/projects/g0aqQK",
+    "https://www.pinterest.com/ideas/sonic-screwdriver-concept-art/955192030392/",
+    "https://sonicscrewdriver.com/eleven-hero",
+    "https://forum.tardis.guide/t/the-sonic-screwdriver-archive/10654",
+    "https://l0rd_m1sc.artstation.com/projects/A9wm9W",
+    "https://www.reddit.com/r/doctorwho/comments/i6rch4/sonic_screwdriver_concept_art/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Ovipost manufacturing customer case study",
+   "results": [
+    "https://www.idealista.pt/comprar-casas/barcelos/com-apartamentos",
+    "https://www.idealista.pt/comprar-casas/barcelos/com-apartamentos,banho-1/",
+    "https://www.imovirtual.com/pt/resultados/comprar/apartamento/braga/barcelos",
+    "https://supercasa.pt/comprar-casas/barcelos/com-apartamentos",
+    "https://casa.sapo.pt/Apartamentos/Barcelos/",
+    "https://casa.sapo.pt/comprar-apartamentos/barcelos/",
+    "https://www.olx.pt/imoveis/apartamento-casa-a-venda/q-barcelos/",
+    "https://www.olx.pt/imoveis/apartamento-casa-a-venda/q-apartamentos-a-venda-em-barcelos/",
+    "https://remax.pt/pt/comprar/apartamento/barcelos",
+    "https://imoveis.mitula.pt/apartamentos-barcelos"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Ovipost white label OR reseller OR partner program",
+   "results": [
+    "https://www.christianity.com/trivia/question/fill-in-the-blanks/",
+    "https://www.christianity.com/trivia/",
+    "https://www.christianity.com/trivia/millionquestion/",
+    "https://www.christianity.com/trivia/category/",
+    "https://www.christianity.com/trivia/jeopardy/",
+    "https://www.christianity.com/trivia/bibleball/",
+    "https://www.christianity.com/trivia/question/books-of-the-bible/",
+    "https://www.christianity.com/trivia/question/people/",
+    "https://www.christianity.com/trivia/question/name-the-book/",
+    "https://www.christianity.com/trivia/question/new-testament/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Ovipost founded funding employees revenue",
+   "results": [
+    "https://remaker.ai/features/ai-remove-object/",
+    "https://timesofindia.indiatimes.com/world/us/ai-tool-to-undress-women-grok-under-fire-for-generating-non-consensual-sexualised-images-musk-pokes-fun/articleshow/126321063.cms",
+    "https://news.sky.com/story/x-to-block-grok-ai-from-undressing-images-of-real-people-13494449",
+    "https://www.mimicpc.com/workflows/image-54674461411590145",
+    "https://www.facebook.com/WIONews/videos/apps-are-using-ai-to-undress-women/1512876506233100/",
+    "https://www.xjoy.ai/",
+    "https://www.golem.de/news/nudify-ki-entkleidungs-apps-verzeichnen-starkes-wachstum-2312-180196.html",
+    "https://www.greenbot.com/recommends/candy-ai-1684/",
+    "https://www.reddit.com/r/ChatGPT/comments/1gzfli7/aifaceswap_latest_update_100_free_ai_clothes/",
+    "https://news.sky.com/story/app-used-to-undress-women-taken-offline-by-its-creators-11750896"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com Ovipost",
+   "results": [
+    "https://www.eanesisd.net/dept/finearts",
+    "https://www.eanesisd.net/district/connect",
+    "https://www.eanesisd.net/ats/school/schedule",
+    "https://www.eanesisd.net/academics/district-curriculum/elementary",
+    "https://www.eanesisd.net/dept/health/medication",
+    "https://www.eanesisd.net/dept/hr/subs/pay",
+    "https://www.eanesisd.net/district/graduateprofile",
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 27
+  },
+  {
+   "query": "site:x.com Ovipost",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Ovipost",
+   "results": [
+    "https://support.google.com/chrome/answer/95346?hl=tr&co=GENIE.Platform=Desktop",
+    "https://support.google.com/chrome/?hl=en",
+    "https://support.google.com/chrome/answer/95346?hl=nl&co=GENIE.Platform=Desktop",
+    "https://support.google.com/chrome/answer/16738344?hl=pt-BR",
+    "https://support.google.com/chrome/answer/95346?hl=da-dk&co=GENIE.Platform=Desktop",
+    "https://support.google.com/chrome/answer/95346?hl=fi&co=GENIE.Platform=Android",
+    "https://support.google.com/chrome/answer/16737628?hl=ko",
+    "https://support.google.com/a/users/answer/9310451?hl=en",
+    "https://support.google.com/chrome/answer/95346?hl=en&co=GENIE.Platform=iOS",
+    "https://support.google.com/chrome/answer/95346?hl=it-419&co=GENIE.Platform=Desktop"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Ovipost",
+   "results": [
+    "https://sv.wikipedia.org/wiki/Kategori:Svenska_bagare",
+    "https://sv.wikipedia.org/wiki/Svenska_köket",
+    "https://allafragor.com/qna/59413/vilken-skalbagge-aer-stoerst-i-sverige",
+    "https://www.bagerier.com/kanda-bagerier",
+    "https://robbansbasta.se/har-ar-landets-basta-bagerier-och-bagare/",
+    "https://pimpmytarta.se/svenska-bakverk/",
+    "https://sv.phongnhaexplorer.com/fos/mat/vilka-bakverk-ar-fran-sverige.html",
+    "https://www.vagabond.se/europa/sverige/sveriges-basta-hantverksbagerier",
+    "https://press.tv4.se/post/har-ar-alla-som-deltar-i-hela-kandis-sverige-bakar",
+    "https://bonappetit.se/inspiration/veckans-inspiration-svenska-bagerier-att-alska"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Ovipost note 社長",
+   "results": [
+    "https://www.classiccharlestoncondos.com/albemarle",
+    "https://www.albemarlecharlestonhoa.com/home/",
+    "https://searchrealestate.co/charleston-sc/albemarle-condos-for-sale-west-ashley/",
+    "https://www.homes.com/building/the-albemarle-charleston-sc/b-9x3vbv5jje2tk/",
+    "https://albemarlecondoscharlestonsc.hoamanagementsites.com/",
+    "https://www.apartments.com/the-albemarle-charleston-sc/l1cgbse/",
+    "https://jamesschiller.com/charleston-sc-condos-villas/albemarle-west-ashley-for-sale/",
+    "https://homesforsalelistings.net/real-estate/sc/charleston/luxury-properties/condos/the-albemarle",
+    "https://www.shjune.com/charleston/albemarle/",
+    "https://www.zillow.com/homedetails/498-Albemarle-Rd-UNIT-409-Charleston-SC-29407/68397382_zpid/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Ovipost X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/YouTube",
+    "https://www.youtube.com/",
+    "https://www.facebook.com/youtube/",
+    "https://about.youtube/",
+    "https://x.com/YouTube",
+    "https://blog.youtube/",
+    "https://www.youtube.com/youtube",
+    "https://www.britannica.com/topic/YouTube",
+    "https://accounts.google.com/InteractiveLogin?service=youtube",
+    "https://www.youtube.com/feed"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

@@ -8,8 +8,64 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-09T10:17:14.383913+00:00",
+ "researched_at": "2026-11-11T02:04:33.628274+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "GitHub - Quartz/bad-data-guide: An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. · GitHub",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "It's very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it's important that methods used be transparent. It's rare that you'll know exactly how a dataset was gathered, but indications of a problem can include numbers that",
+    "url": "https://github.com/Quartz/bad-data-guide",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Create a document (a Word document, a spreadsheet, comments in the Excel workbook, you choose what you prefer) and write down all the steps you have taken while working with the data. You must do this for two main reasons:",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Your editor and expert sources will be able to check your work and follow all the steps you took to get to your results.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "☑ When you access or request data, always get the methodology",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Get the methodology. If they won’t give it to you, that’s a red flag.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Beware of nonscientific methods: Web surveys, man on the street or other self-selection.",
+    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "実例": [
    {
     "quote": "Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number",
@@ -126,26 +182,6 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Beware any data that purport to represent something that you could not possibly know. It's not data. It's somebody's estimate and it's probably wrong. Then again...it could be a story, so ask an expert to check it out.",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "失敗・落とし穴": [
    {
     "quote": "You cannot possibly review every dataset you encounter for all of these problems. If you try to do that you will never get anything published. However, by familiarizing yourself with the kinds of issues you are likely to encounter you will have a better chance of identifying an issue before it causes you to make a mistake.",
@@ -196,58 +232,22 @@
     "first_seen": "2026-11-08"
    }
   ],
-  "手順・やり方": [
+  "突き合わせ・推定": [
    {
-    "quote": "GitHub - Quartz/bad-data-guide: An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. · GitHub",
+    "quote": "). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is",
     "url": "https://github.com/Quartz/bad-data-guide",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.",
+    "quote": "Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.",
     "url": "https://github.com/Quartz/bad-data-guide",
     "pass": 3,
     "first_seen": "2026-11-08"
    },
    {
-    "quote": "Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number",
+    "quote": "Beware any data that purport to represent something that you could not possibly know. It's not data. It's somebody's estimate and it's probably wrong. Then again...it could be a story, so ask an expert to check it out.",
     "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "It's very easy for false assumptions, errors or outright falsehoods to be introduced into these data collection processes. For this reason it's important that methods used be transparent. It's rare that you'll know exactly how a dataset was gathered, but indications of a problem can include numbers that",
-    "url": "https://github.com/Quartz/bad-data-guide",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Create a document (a Word document, a spreadsheet, comments in the Excel workbook, you choose what you prefer) and write down all the steps you have taken while working with the data. You must do this for two main reasons:",
-    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Your editor and expert sources will be able to check your work and follow all the steps you took to get to your results.",
-    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "☑ When you access or request data, always get the methodology",
-    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Get the methodology. If they won’t give it to you, that’s a red flag.",
-    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Beware of nonscientific methods: Web surveys, man on the street or other self-selection.",
-    "url": "https://miguelpaz.github.io/checklist-to-work-with-data.html",
     "pass": 3,
     "first_seen": "2026-11-08"
    }
@@ -297,17 +297,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/cheeky_sable461/n/ndffe1c26d009",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/miyachi0730/n/ne7afd109f6cd",
     "status": "ok",
     "method": "http"
    },
    {
+    "url": "https://note.com/cheeky_sable461/n/ndffe1c26d009",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/phione04/n/nfc7bd41820ad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90",
     "status": "ok",
     "method": "http"
    },
@@ -322,22 +327,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://azby.fmworld.net/support/repair/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E5%93%81%E8%B3%AA",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/how-to-data-cleaning",
+    "url": "https://note.com/primalcolors/n/n995575d5fcb8",
     "status": "ok",
     "method": "http"
    },
@@ -347,7 +342,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.ai-lab.app/994/",
+    "url": "https://data-viz-lab.com/analyticalmethod-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.microsoft.com/ja-jp/access/modify-or-change-the-data-type-setting-for-a-field",
     "status": "ok",
     "method": "http"
    },
@@ -357,17 +357,12 @@
     "method": "http"
    },
    {
-    "url": "https://uribo.github.io/practical-ds/03/handling-missing-data.html",
+    "url": "https://www.gixo.jp/blog/508/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dataaicareer.com/data-analysis-pitfalls/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nttdata-value.co.jp/case/certain-telecommunications",
+    "url": "https://www.ai-lab.app/994/",
     "status": "ok",
     "method": "http"
    },
@@ -392,7 +387,12 @@
     "method": "http"
    },
    {
-    "url": "https://primenumber.com/blog/data-silo-challenges-and-solutions-case-studies/",
+    "url": "https://ari-jp.blog/posts/data-utilization-failure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proactive.jp/resources/columns/data-driven-success/",
     "status": "ok",
     "method": "http"
    },
@@ -422,7 +422,7 @@
     "method": "http"
    },
    {
-    "url": "https://docs.github.com/ja/code-security/tutorials/secure-your-organization/prevent-data-leaks",
+    "url": "https://github.com/propublica",
     "status": "ok",
     "method": "http"
    }
@@ -436,12 +436,12 @@
     "https://note.com/codesco/n/nb93842b67be9",
     "https://note.com/ren_webstep/n/n94ecdd35475b",
     "https://note.com/yusuke_motoyama/n/n40a63005fc19",
-    "https://note.com/cheeky_sable461/n/ndffe1c26d009",
     "https://note.com/miyachi0730/n/ne7afd109f6cd",
+    "https://note.com/cheeky_sable461/n/ndffe1c26d009",
     "https://note.com/ibnet_ir/n/n2bb8cb311f73",
-    "https://note.com/fromhddtossd/n/nd0c5edc5c4c4",
+    "https://note.com/lofty_gnu3873/n/n2c8051ade48c",
     "https://note.com/kauche/n/n2d3cc9123812",
-    "https://note.com/lofty_gnu3873/n/n2c8051ade48c"
+    "https://note.com/watawatan1984/n/na4203eab768d"
    ],
    "engines": [
     "ddgs:google",
@@ -453,18 +453,18 @@
    "query": "悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108） note",
    "results": [
     "https://note.com/phione04/n/nfc7bd41820ad",
+    "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90",
     "https://note.com/ku2t/n/n73300b122872",
     "https://note.com/shun0718/n/nc8c36a17391d",
-    "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90",
     "https://azby.fmworld.net/support/repair/",
-    "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E5%93%81%E8%B3%AA",
+    "https://note.com/primalcolors/n/n995575d5fcb8",
     "https://dataaicareer.com/data-analysis-pitfalls/",
-    "https://www.integrate.io/jp/blog/how-to-make-bad-data-healthier-ja/",
-    "https://note.com/jimurecipe/n/n004912306155",
-    "https://note.com/qiqumo/n/n9ffe4b0998ed"
+    "https://note.com/skobayashi/n/nbf9e42c47b53",
+    "https://note.com/qiqumo/n/n9ffe4b0998ed",
+    "https://note.com/ms_article/n/n2657b04baa4b"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -472,36 +472,36 @@
   {
    "query": "悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108） やり方",
    "results": [
-    "https://data-viz-lab.com/how-to-data-cleaning",
+    "https://www.youtube.com/watch?v=kO_qiHXTyro",
     "https://www.datarobot.com/jp/blog/inbalanceddata/",
-    "https://www.youtube.com/watch?v=fAOKGbtfoNk",
-    "https://www.ai-lab.app/994/",
-    "https://www.skillupai.com/blog/ai-knowledge/data-analysis-methods/",
-    "https://uribo.github.io/practical-ds/03/handling-missing-data.html",
-    "https://dataaicareer.com/data-analysis-pitfalls/",
+    "https://data-viz-lab.com/analyticalmethod-list",
     "https://support.microsoft.com/ja-jp/access/modify-or-change-the-data-type-setting-for-a-field",
+    "https://www.skillupai.com/blog/ai-knowledge/data-analysis-methods/",
     "https://www.gixo.jp/blog/508/",
-    "https://bizzrepo.com/blog/data-cleansing-excel/"
+    "https://www.ai-lab.app/994/",
+    "https://dataaicareer.com/data-analysis-pitfalls/",
+    "https://www.playstation.com/ja-jp/support/hardware/repairs/?srsltid=AYCX9vIocegba-DyHIukhg9Y8uR_99DNL6zmzuM2pv7op_yoKc4lyW5m",
+    "https://tomedataanalyst.com/date-cleaning/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108） 事例",
    "results": [
-    "https://www.nttdata-value.co.jp/case/certain-telecommunications",
     "https://www.tdse.jp/blog/tech/8223/",
     "https://www.nttdata-kansai.co.jp/media/099/",
     "https://data-viz-lab.com/8-examples-of-data-conversion",
     "https://kuroco.team/blog-data-jireishu/",
-    "https://primenumber.com/blog/data-silo-challenges-and-solutions-case-studies/",
-    "https://gri.jp/media/entry/37390",
     "https://ari-jp.blog/posts/data-utilization-failure",
-    "https://it.impress.co.jp/articles/-/8755",
-    "https://data-viz-lab.com/how-to-data-cleaning"
+    "https://proactive.jp/resources/columns/data-driven-success/",
+    "https://dataaicareer.com/data-analysis-pitfalls/",
+    "https://www.integrate.io/jp/blog/how-to-make-bad-data-healthier-ja/",
+    "https://custle.hatenablog.com/entry/2019/11/10/113746",
+    "https://data-viz-lab.com/data-quality"
    ],
    "engines": [
     "ddgs:google",
@@ -517,11 +517,11 @@
     "https://github.com/propublica/guides",
     "https://miguelpaz.github.io/checklist-to-work-with-data.html",
     "https://github.com/datopian/bad-data",
+    "https://github.com/propublica",
     "https://docs.github.com/code-security/getting-started/best-practices-for-preventing-data-leaks-in-your-organization",
-    "https://learn.github.com/well-architected/governance/checklist",
     "https://www.facebook.com/GitHub/videos/using-the-new-github-issues-for-project-tracking/1306248919812204/",
     "https://gitprotect.io/resources.html",
-    "https://www.linkedin.com/pulse/top-14-github-data-risks-loss-scenarios-how-prevent-them-0mbzf"
+    "https://www.bugcrowd.com/resources/levelup/github-recon-and-sensitive-data-exposure-module/"
    ],
    "engines": [
     "ddgs:google",
@@ -536,12 +536,12 @@
     "https://note.com/codesco/n/nb93842b67be9",
     "https://note.com/ren_webstep/n/n94ecdd35475b",
     "https://note.com/yusuke_motoyama/n/n40a63005fc19",
-    "https://note.com/cheeky_sable461/n/ndffe1c26d009",
     "https://note.com/miyachi0730/n/ne7afd109f6cd",
+    "https://note.com/cheeky_sable461/n/ndffe1c26d009",
     "https://note.com/ibnet_ir/n/n2bb8cb311f73",
-    "https://note.com/kauche/n/n2d3cc9123812",
     "https://note.com/lofty_gnu3873/n/n2c8051ade48c",
-    "https://note.com/datamix/n/n91732510623b"
+    "https://note.com/kauche/n/n2d3cc9123812",
+    "https://note.com/watawatan1984/n/na4203eab768d"
    ],
    "engines": [
     "ddgs:google",
@@ -553,18 +553,18 @@
    "query": "site:x.com 悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108）",
    "results": [
     "https://x.com/flashagt",
+    "https://x.com/Ts_Network/status/2119730885977383173",
     "https://x.com/HaitouKing0205/status/2108091652539908285",
     "https://x.com/fujikururi/status/2117180695466725502",
     "https://x.com/tetumemo/status/2115806117188325613",
-    "https://x.com/kumazawacotalow/status/2117597880018178343",
     "https://x.com/sumika45379/status/2107455808090821086",
     "https://x.com/SuguruKun_ai/article/2076856036712186270",
+    "https://x.com/kumazawacotalow/status/2117597880018178343",
     "https://x.com/ClaudeCode_love/status/2064226860096250126",
-    "https://x.com/Akki_AI7/status/2109835529634320761",
     "https://x.com/uchita_success/status/2065745668539650494"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -575,12 +575,12 @@
     "https://jp.linkedin.com/pulse/mutable-vs-immutable-data-types-choosing-right-one-manish-joshi?tl=ja",
     "https://jp.linkedin.com/pulse/data-blind-spot-why-good-systems-produce-bad-stefano-stef-masiello-1xyvc?tl=ja",
     "https://jp.linkedin.com/pulse/data-cleaning-fundamentals-part-3-handling-missing-david-langer-5tkxc?tl=ja",
-    "https://jp.linkedin.com/pulse/support-has-data-problem-fix-first-prove-value-next-tom-sweeny-s9xfe?tl=ja",
-    "https://jp.linkedin.com/pulse/when-use-mean-median-mode-handling-missing-values-data-ahmed-tebje?tl=ja",
     "https://www.linkedin.com/help/linkedin/answer/a187046/talent-insights-?lang=ja-JP",
-    "https://jp.linkedin.com/pulse/why-red-isnt-always-bad-useful-rethinking-metrics-mindsets-graban-88xvc?tl=ja",
+    "https://jp.linkedin.com/pulse/when-use-mean-median-mode-handling-missing-values-data-ahmed-tebje?tl=ja",
+    "https://jp.linkedin.com/pulse/most-expensive-data-pipeline-one-you-have-fix-twice-rautaray-70bzc?tl=ja",
     "https://jp.linkedin.com/pulse/power-asking-questions-enhancing-analyst-stakeholder-emeklioglu-biqef?tl=ja",
-    "https://id.linkedin.com/in/farhannur-priambodo-063ba8317/ja",
+    "https://jp.linkedin.com/pulse/support-has-data-problem-fix-first-prove-value-next-tom-sweeny-s9xfe?tl=ja",
+    "https://jp.linkedin.com/pulse/how-we-built-robust-ecosystem-dataset-development-duolingo-kzjte?tl=ja",
     "https://jp.linkedin.com/pulse/how-reframe-data-governance-practical-guide-leaders-who-tlmqc?tl=ja"
    ],
    "engines": [
@@ -592,35 +592,34 @@
   {
    "query": "site:facebook.com 悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108）",
    "results": [
-    "https://www.facebook.com/dialoguebar/posts/%E6%80%9D%E3%81%86%E3%81%8C%E3%81%BE%E3%81%BE%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E7%BE%A4%E3%82%92%E4%B8%80%E5%9B%9E%E6%95%B4%E7%90%86%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%84%E3%81%86%E3%81%AE%E3%81%A7%E3%81%A9%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8C%E3%81%A9%E3%81%AE%E9%83%A8%E5%88%86%E3%82%92%E6%8B%85%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B%E3%82%92%E8%80%83%E3%81%88%E7%9B%B4%E3%81%97%E3%81%A6%E9%85%8D%E7%BD%AE%E3%82%92%E6%B1%BA%E3%82%81%E3%81%A6%E9%85%8D%E7%BD%AE%E3%81%94%E3%81%A8%E3%81%AB%E5%BD%B9%E5%89%B2%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E6%95%B4%E5%82%99%E3%82%92%E3%81%97/26524973230446480/",
     "https://www.facebook.com/RakutenMobile/videos/%E6%96%B0web-cm%E5%85%AC%E9%96%8B%E5%AE%89%E3%81%95%E3%81%A7%E5%BC%B7%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E4%BD%95%E3%81%8C%E6%82%AA%E3%81%84%E6%A2%B6%E8%A3%95%E8%B2%B4%E3%81%95%E3%82%93%E3%81%AB%E3%81%94%E5%87%BA%E6%BC%94%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E6%A5%BD%E5%A4%A9%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E6%9C%80%E5%BC%B7%E5%AE%B6%E6%97%8F%E5%89%B2%E3%81%AE%E6%96%B0web-cm%E3%81%8C%E5%85%AC%E9%96%8B%E4%B8%AD%EF%B8%8F%E6%9C%80%E5%BC%B7%E5%AE%B6%E6%97%8F%E5%89%B2%E3%81%AE%E8%A9%B3%E7%B4%B0%E3%81%AFhttpsxgdh1je/907329675473026/",
-    "https://www.facebook.com/drdataokayama/",
-    "https://www.facebook.com/100063501731219/videos/%E3%81%93%E3%82%93%E3%81%AA%E3%81%8A%E5%9B%B0%E3%82%8A%E3%81%94%E3%81%A8%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E7%94%BB%E9%9D%A2%E3%81%8C%E5%89%B2%E3%82%8C%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E6%9C%80%E8%BF%91%E9%9B%BB%E6%B1%A0%E3%81%AE%E6%B8%9B%E3%82%8A%E3%81%8C%E6%97%A9%E3%81%84%E5%85%85%E9%9B%BB%E3%81%97%E3%81%A6%E3%82%82%E5%8F%8D%E5%BF%9C%E3%81%8C%E3%81%AA%E3%81%84%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%95%E6%98%A0%E3%82%89%E3%81%AA%E3%81%84%E8%AA%BF%E5%AD%90%E3%81%8C%E6%82%AA%E3%81%84%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%81%AF%E6%AF%8E%E6%97%A5%E4%BD%BF%E3%81%86%E3%82%82%E3%81%AE%E3%81%A0%E3%81%8B%E3%82%89%E3%81%93%E3%81%9D%E7%AA%81%E7%84%B6%E8%B5%B7/1137823171902651/",
-    "https://www.facebook.com/icrackedjapan/posts/2026%E5%B9%B410%E6%9C%881%E6%97%A5%E6%9C%A8%E3%82%88%E3%82%8A%E5%85%A8%E5%9B%BD%E3%81%AEicracked-store%E3%81%A7iphone-16-%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%AE%E4%BF%AE%E7%90%86%E3%81%8C%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E9%AB%98%E5%93%81%E8%B3%AA%E3%81%AA%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E4%BF%AE%E7%90%86%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99/1734398415359873/",
+    "https://www.facebook.com/dialoguebar/posts/%E6%80%9D%E3%81%86%E3%81%8C%E3%81%BE%E3%81%BE%E3%81%AB%E6%A7%8B%E7%AF%89%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E7%BE%A4%E3%82%92%E4%B8%80%E5%9B%9E%E6%95%B4%E7%90%86%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%84%E3%81%86%E3%81%AE%E3%81%A7%E3%81%A9%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8C%E3%81%A9%E3%81%AE%E9%83%A8%E5%88%86%E3%82%92%E6%8B%85%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B%E3%82%92%E8%80%83%E3%81%88%E7%9B%B4%E3%81%97%E3%81%A6%E9%85%8D%E7%BD%AE%E3%82%92%E6%B1%BA%E3%82%81%E3%81%A6%E9%85%8D%E7%BD%AE%E3%81%94%E3%81%A8%E3%81%AB%E5%BD%B9%E5%89%B2%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E6%95%B4%E5%82%99%E3%82%92%E3%81%97/26524973230446480/",
     "https://www.facebook.com/help/instagram/381579045265733?locale=ja_JP",
-    "https://www.facebook.com/help/289066827791446?locale=ja_JP",
     "https://www.facebook.com/YatsushiroCity/videos/1630240365207647/",
+    "https://www.facebook.com/drdataokayama/",
     "https://ja-jp.facebook.com/business/help/606443329504150",
-    "https://www.facebook.com/hinasapo/posts/%EF%B8%8F%E5%9C%B0%E5%8C%BA%E5%90%8D%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B%E5%9C%B0%E5%9B%B3%E3%81%A8%E4%B8%80%E8%A6%A7%E7%8F%A0%E6%B4%B2%E5%B8%82%E7%89%88%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F%E3%81%B2%E3%81%AA%E3%81%95%E3%81%BD%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E5%9C%B0%E5%8C%BA%E5%88%86%E3%81%91%E3%83%9E%E3%83%83%E3%83%97%E5%9C%B0%E5%8C%BA%E3%81%A8%E8%A1%8C%E6%94%BF%E5%8C%BA%E7%94%BB%E3%81%AE%E4%B8%80%E8%A6%A7%E7%8F%A0%E6%B4%B2%E5%B8%82%E7%89%88%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%EF%B8%8F-%E5%9C%B0%E5%85%83%E3%81%AE%E6%96%B9%E3%81%8B%E3%82%89%E7%94%BA%E5%90%8D%E3%82%92%E3%81%8D%E3%81%84%E3%81%A6%E3%82%82%E3%81%A9%E3%81%AE%E3%81%82%E3%81%9F%E3%82%8A/122182581854215907/"
+    "https://www.facebook.com/help/289066827791446?locale=ja_JP",
+    "https://developers.facebook.com/documentation/ads-commerce/marketing-api/bidding/overview/billing-events",
+    "https://www.facebook.com/YatsushiroCity/posts/11%E6%9C%8810%E6%97%A5%E7%81%AB%E5%B0%8F%E9%87%8E%E5%B8%82%E9%95%B7%E3%81%8B%E3%82%89%E5%B8%82%E6%B0%91%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%B8%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E5%85%AC%E9%96%8B%E3%81%97%E3%81%BE%E3%81%99/1651449753688300/",
+    "https://developers.facebook.com/m/developer-tutorials/?locale=ja_JP"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108） note 社長",
    "results": [
-    "https://note.com/comix_ceo162230/n/nd497ca00342a",
-    "https://note.com/comix_ceo162230/n/n8ec43d9b90b1",
-    "https://note.com/comix_ceo162230/n/neddaad0bc02d",
-    "https://note.com/ai_shacho/n/n35078db5169e",
     "https://note.com/comix_ceo162230/n/nbf98f370e634",
-    "https://note.com/ren_aikatsuyou26/n/n0b0152216935",
-    "https://www.youtube.com/watch?v=wKLzAj_YRxA",
-    "https://webtan.impress.co.jp/e/2020/06/05/36169",
     "https://note.com/phione04/n/nfc7bd41820ad",
+    "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90",
+    "https://note.com/ku2t/n/n73300b122872",
+    "https://note.com/shun0718/n/nc8c36a17391d",
+    "https://note.com/comix_ceo162230/n/nd497ca00342a",
+    "https://jp.plaud.ai/?srsltid=AYCX9vLQFqYA2NynUBIaroJ4OpdRYo5Lo9aOAvgDwl3yd0o-k_5hwCLA",
+    "https://ja.exploratory.io/note/6412637879363595/5147932562192300/note_content/note.html",
+    "https://www.youtube.com/watch?v=zoBfLSMvIfI",
     "https://data-viz-lab.com/data-dirty"
    ],
    "engines": [
@@ -633,15 +632,15 @@
    "query": "悪いデータの型と直し方の一覧（Quartz の bad-data-guide の GitHub 版・ProPublica の Guide to bulletproofing your data・既定の日付・先頭のゼロ・合計の不一致・4-108） X 投稿",
    "results": [
     "https://cacco.co.jp/frauddetection/media/for-consumers/20134/",
-    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vJgpaUO3I33NwMCWdFIc0F2-rW5w4XotM1SH9wckJnP9Ndpn0KP",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vLQZLC96waAHjS6H-28VbGUT_qSwemG0noVXv4bp8c6f_2UQSm8",
     "https://help.x.com/ja/using-x/edit-post",
+    "https://apps.apple.com/jp/app/x/id333903271",
     "https://note.com/aikachan_ai/n/nb85992f9c0b6",
-    "https://d-m-f.jp/blog/0035-2/",
     "https://sogyotecho.jp/x-algorithm/",
-    "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
     "https://hep.eiz.jp/x-twitter/fix-twitter-problems/",
-    "https://note.com/x_unyou/n/n24058026021f",
-    "https://note.com/eightlab/n/nca38b0692103"
+    "https://sns.userlocal.jp/column/how-to-twitter-analytics/",
+    "https://www.careerkoumei.jp/articles/x-toukou-kakikata-complete-guide",
+    "https://note.com/x_unyou/n/n24058026021f"
    ],
    "engines": [
     "ddgs:bing",
@@ -651,13 +650,23 @@
   },
   {
    "query": "Quartz bad data guide github ProPublica bulletproofing data guide checklist site:linkedin.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.linkedin.com/posts/mark-farrington_github-quartzbad-data-guide-an-exhaustive-activity-6430474539934765056-yEiY",
+    "https://www.linkedin.com/posts/samer-hayel-36ba68a7_github-quartzbad-data-guide-an-exhaustive-activity-7315609297445359616-fdfX",
+    "https://www.linkedin.com/posts/jhon-gomez-higuera-96711a102_github-quartzbad-data-guide-an-exhaustive-activity-7065800612679970816-2hYF",
+    "https://www.linkedin.com/advice/0/whats-your-strategy-handling-bad-data-skills-data-analytics",
+    "https://www.linkedin.com/advice/0/whats-your-strategy-dealing-bad-data-skills-data-analysis",
+    "https://www.linkedin.com/pulse/how-build-bullet-proof-data-teams-maaike-siegel",
+    "https://www.linkedin.com/posts/lizmassey68_great-opportunity-im-particularly-intrigued-activity-7517930472493092864-TO_D"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-08T16:00:56.176873+00:00"
 }

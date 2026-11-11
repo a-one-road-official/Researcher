@@ -1,0 +1,1560 @@
+{
+ "name": "Slip Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T02:29:20.606856+00:00",
+ "official_url": "https://www.sliprobotics.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "10-Feb-2022 $5.39M $6.39M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/443277-91",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "22-Feb-2021 $1M $1M  Completed Product Development",
+    "url": "https://pitchbook.com/profiles/company/443277-91",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2.1",
+    "value": "2,773,805 $0.000010 8% $1.82 $1.82 1x $1.82 8%",
+    "url": "https://pitchbook.com/profiles/company/443277-91",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "2,968,747 $0.000010 8% $0.35 $0.35 1x $0.35 8.57%",
+    "url": "https://pitchbook.com/profiles/company/443277-91",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$66,600,000",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$27,000",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Atlanta, Georgia, United States",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose-built for the realities of dock operations. No compromises, no complexity.",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Handles pallets, parcels, non-stackables, and oversized loads.",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compress load and unload time to minutes",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Handles up to 20,000 lb payloads",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Robots stay with the freight end-to-end. Best for predictable, high-volume shuttle routes.",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dock automation for just-in-time production",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Move heavy payloads safely and efficiently",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision handling for aerospace logistics",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer product touches",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nissan uses SlipBots at their Mississippi facility to create fast, predictable trailer turns between the parts warehouse and the manufacturing line.",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "Manual dock processes created delays and variability",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "Nissan's dock operations relied on manual loading and unloading processes that were time-intensive and difficult to scale. Trailers often spent extended periods at the dock, increasing driver dwell time and introducing variability into inbound logistics.",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "High product handling increasing damage risk",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "SlipBots compressed trailer turn times from 45 minutes to just 5 minutes, dramatically reducing dwell time and keeping inbound and outbound flows predictable. The system required no infrastructure changes and minimal training, allowing teams to begin operating immediately.",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "By reducing product touches and eliminating the need for people or forklifts inside trailers, Nissan simplified dock workflows while improving safety and consistency across operations.",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "Operational immediately. No dock modifications, no IT integration, no production disruption during implementation.",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "\"SlipBots made our loading process much easier. We reduced offloading time from 45 minutes to 5, which saves us both time and money every day.\"",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer Product Touches",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "Manual loading couldn't keep pace with production",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Valeo's Seymour, Indiana facility manufactures automotive components for major OEMs worldwide. With just-in-time production requirements and strict delivery windows, dock operations were a critical bottleneck.",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional forklift-based loading took 30+ minutes per trailer, tying up dock doors and creating delivery delays. With limited dock capacity and growing production volumes, Valeo needed a solution that could dramatically increase throughput without expanding their footprint.",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Dock congestion affecting production flow",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Valeo deployed SlipBots at the end of production lines, where associates load product directly onto the bots. Once filled, operators use SlipBots to autonomously transport the products onto trailers, which are then shipped to an offsite warehouse.",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Implementation was completed in days, not months. SlipBots required no infrastructure changes, no IT integration, and minimal training. Valeo's team was able to begin operating the system immediately, compressing trailer load and unload times from over 30 minutes to just 5 minutes and unlocking a sixfold increase in dock throughput.",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "By reducing product touches and removing forklifts from trailers, Valeo significantly streamlined dock operations while improving safety. Forklift traffic around the dock dropped dramatically, accident risk was reduced, and handling became more consistent. The simplicity of deployment and operation allowed Valeo to see measurable returns within the first week of use.",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Full deployment completed in under 4 weeks. No dock modifications, no IT integration, no production disruption.",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Product damage reduction",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Robots stay with the freight end-to-end. Best for predictable, high-volume shuttle routes.",
+    "url": "https://www.sliprobotics.com/platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Oversized loads up to 40 ft",
+    "url": "https://www.sliprobotics.com/platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Attachments and SlipCarriers handle pallets, parcels, and oversized loads.",
+    "url": "https://www.sliprobotics.com/platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Slip adapts to the unique requirements of your vertical. From automotive manufacturing to furniture distribution, we've proven results across sectors.",
+    "url": "https://www.sliprobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Dock automation for just-in-time production",
+    "url": "https://www.sliprobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Move heavy payloads safely and efficiently",
+    "url": "https://www.sliprobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Precision handling for aerospace logistics",
+    "url": "https://www.sliprobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Process 1,200+ parcels per hour",
+    "url": "https://www.sliprobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Move long loads and heavy materials",
+    "url": "https://www.sliprobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer product touches",
+    "url": "https://www.sliprobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Realize disproportionately high-value for stakeholders. Every solution we build must deliver transformative ROI.",
+    "url": "https://www.sliprobotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We're proud to be supported by leading venture capital firms who share our vision for transforming logistics.",
+    "url": "https://www.sliprobotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "First SlipBot prototype completed and tested.",
+    "url": "https://www.sliprobotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "SlipBot commercial launch and scale production begins.",
+    "url": "https://www.sliprobotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "SlipBot+ Product Line",
+    "url": "https://www.sliprobotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Expanded product line with enhanced capabilities launched.",
+    "url": "https://www.sliprobotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We're building the future of logistics automation. Join us if you want to work on hard problems that matter.",
+    "url": "https://www.sliprobotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Slip Robotics brings fast, predictable dock automation to heavy industrial operations. SlipBot supports payloads up to 12,000 lbs, SlipLift up to 20,000 lbs—without changing how freight is staged or handled upstream.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Loads up to 40 feet",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy machinery and industrial components push equipment to its limits. Oversized loads often exceed standard pallet dimensions, require specialized handling, and demand extreme payload capacities that traditional dock automation cannot support.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy loads also mean higher stakes. Forklift incidents with industrial freight cause serious injury, and coordinating multiple forklifts extends loading times while production waits. Slip brings autonomous dock operations to heavy industrial environments, handling payloads up to 20,000 lbs and oversized loads up to 40 feet.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Built for heavy payloads",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "SlipBot supports payloads up to 12,000 pounds using standardized carriers and fixtures. For heavier freight, SlipLift extends autonomous loading capability up to 20,000 pounds without changing dock infrastructure.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "SlipBot+XL enables autonomous movement of long, oversized, or overhanging loads that do not fit standard palletized workflows. Custom fixtures secure the freight while the robot handles movement and positioning inside enclosed trailers.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Safety improvements at the dock",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Slip removes people from trailers during loading and unloading and eliminates forklifts inside trailers. Robots handle precise movement while operators remain on the dock, reducing exposure to heavy loads, tight spaces, and uneven trailer surfaces.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Trailers load and unload in five minutes, keeping production supplied and outbound freight moving without expanding dock space or adding labor. Manufacturers gain higher throughput, more predictable schedules, and improved resilience during peak demand.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Can SlipBot handle loads longer than standard pallets?",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "How does Slip improve safety in heavy manufacturing?",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Slip supports heavy payloads, oversized freight, and safer dock operations in industrial manufacturing environments.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SlipBots serve manufacturing, distribution, and retail operations across verticals.",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Manufacturing",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision handling for aerospace logistics",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive manufacturing transformation",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Manufacturing",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "Nissan transforms automotive dock operations",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "Nissan uses SlipBots at their Mississippi facility to create fast, predictable trailer turns between the parts warehouse and the manufacturing line.",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive manufacturing",
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Manufacturing",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Valeo reduced loading time from 30 minutes to 5 with 26 SlipBots deployed at their Seymour, Indiana manufacturing facility.",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Valeo's Seymour, Indiana facility manufactures automotive components for major OEMs worldwide. With just-in-time production requirements and strict delivery windows, dock operations were a critical bottleneck.",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Valeo deployed SlipBots at the end of production lines, where associates load product directly onto the bots. Once filled, operators use SlipBots to autonomously transport the products onto trailers, which are then shipped to an offsite warehouse.",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive manufacturing",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   },
+   {
+    "quote": "Slip adapts to the unique requirements of your vertical. From automotive manufacturing to furniture distribution, we've proven results across sectors.",
+    "url": "https://www.sliprobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Manufacturing",
+    "url": "https://www.sliprobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Precision handling for aerospace logistics",
+    "url": "https://www.sliprobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "See how industry leaders transformed their dock operations with SlipBots. From automotive manufacturing to furniture distribution, our customers achieve measurable ROI.",
+    "url": "https://www.sliprobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Manufacturing",
+    "url": "https://www.sliprobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive manufacturing transformation",
+    "url": "https://www.sliprobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "First commercial deployment with automotive manufacturer.",
+    "url": "https://www.sliprobotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our headquarters in Norcross, Georgia houses our engineering, manufacturing, and operations teams. We deploy and support SlipBots across North America.",
+    "url": "https://www.sliprobotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy Industrial Manufacturing",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous dock operations for heavy industrial manufacturing",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Slip Robotics brings fast, predictable dock automation to heavy industrial operations. SlipBot supports payloads up to 12,000 lbs, SlipLift up to 20,000 lbs—without changing how freight is staged or handled upstream.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Standard automation can't handle industrial weight",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy machinery and industrial components push equipment to its limits. Oversized loads often exceed standard pallet dimensions, require specialized handling, and demand extreme payload capacities that traditional dock automation cannot support.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy loads also mean higher stakes. Forklift incidents with industrial freight cause serious injury, and coordinating multiple forklifts extends loading times while production waits. Slip brings autonomous dock operations to heavy industrial environments, handling payloads up to 20,000 lbs and oversized loads up to 40 feet.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Slip removes people from trailers during loading and unloading and eliminates forklifts inside trailers. Robots handle precise movement while operators remain on the dock, reducing exposure to heavy loads, tight spaces, and uneven trailer surfaces.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "No operators in trailers",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Returnable packaging at industrial scale",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy industrial manufacturers often rely on large returnable racks, frames, and containers. Slip supports returnable packaging workflows by allowing fully staged racks or fixtures to be loaded and unloaded autonomously in minutes.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Supports closed-loop logistics between suppliers and plants",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy industrial docks are often older, space constrained, or shared across multiple workflows. Slip delivers faster trailer turns without requiring facility modifications, fixed automation, or dedicated lanes.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Trailers load and unload in five minutes, keeping production supplied and outbound freight moving without expanding dock space or adding labor. Manufacturers gain higher throughput, more predictable schedules, and improved resilience during peak demand.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "How does Slip improve safety in heavy manufacturing?",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize heavy industrial dock operations",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Slip supports heavy payloads, oversized freight, and safer dock operations in industrial manufacturing environments.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace manufacturing and MRO operations depend on precision, traceability, and control at every step of material movement. Slip Robotics brings predictable, autonomous dock operations to aerospace facilities without disrupting existing processes.",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing and MRO support",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Aerospace Docks",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Manual loading introduces unnecessary handling, variability, and risk in environments where mistakes are costly. Slip Robotics brings predictable, autonomous dock operations to aerospace facilities without disrupting existing processes.",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace freight is often high value, sensitive, and difficult to replace. Slip enables components to be staged securely on SlipBots or SlipCarriers before loading begins. Autonomous loading moves the entire load into the trailer in minutes without forklifts, ramps, or manual maneuvering inside the vehicle.",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Supporting manufacturing and MRO operations",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "In manufacturing environments, Slip helps ensure inbound materials arrive on schedule and outbound assemblies move reliably between facilities. In MRO operations, autonomous loading supports frequent movements of engines, components, and tooling between repair stations, suppliers, and customers.",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing support",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Security and access control are critical in aerospace facilities. Slip removes unnecessary personnel from trailers and limits dock activity to defined, observable workflows. Robots handle movement while operators remain on the dock, reducing uncontrolled access and improving oversight.",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace operations require both speed and care. Slip delivers trailer loading and unloading in five minutes while maintaining precise control over movement and positioning.",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "This allows facilities to increase throughput without sacrificing quality, safety, or compliance. The result is faster dock turns, reduced handling risk, and more reliable material flow across aerospace networks.",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "How does Slip protect high-value aerospace components?",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Can Slip support both manufacturing and MRO operations?",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Does Slip work in secure aerospace facilities?",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Improve aerospace dock operations",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Slip supports precision, security, and predictable dock performance in aerospace manufacturing and MRO environments.",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "In many furniture warehouses, eight to ten workers load a single trailer by hand, staging products on dollies and waiting in line to place items inside. Slip enables swarm unloading by removing the single-entry trailer bottleneck. Furniture is loaded onto the autonomous loading robots from any side, allowing multiple operators to work in parallel.",
+    "url": "https://www.sliprobotics.com/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "15 SlipBots deployed across warehouse operations",
+    "url": "https://www.sliprobotics.com/case-studies/four-hands",
+    "pass": 1
+   },
+   {
+    "quote": "Four Hands deployed 15 SlipBots across multiple facilities in Austin, Texas. Instead of staging freight on the floor, operators load products directly onto SlipBots. Once filled, SlipBots autonomously load freight into trailers for transfer to other warehouses.",
+    "url": "https://www.sliprobotics.com/case-studies/four-hands",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive manufacturing",
+    "url": "https://www.sliprobotics.com/case-studies/four-hands",
+    "pass": 1
+   },
+   {
+    "quote": "Construction/Aerospace",
+    "url": "https://www.sliprobotics.com/compare",
+    "pass": 1
+   },
+   {
+    "quote": "SlipBot's safety systems are designed and tested to meet industrial automation safety standards.",
+    "url": "https://www.sliprobotics.com/company/safety",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "SlipBot uses +Rack and +XL modules for specialized freight. SlipLift utilizes SlipCarriers for pallets and parcels.",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Attachments & SlipCarriers",
+    "url": "https://www.sliprobotics.com/platforms",
+    "pass": 1
+   },
+   {
+    "quote": "SlipBot uses + attachments for specialized freight. SlipLift utilizes SlipCarriers for flexible staging.",
+    "url": "https://www.sliprobotics.com/platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Attachments and SlipCarriers handle pallets, parcels, and oversized loads.",
+    "url": "https://www.sliprobotics.com/platforms",
+    "pass": 1
+   },
+   {
+    "quote": "SlipBot supports payloads up to 12,000 pounds using standardized carriers and fixtures. For heavier freight, SlipLift extends autonomous loading capability up to 20,000 pounds without changing dock infrastructure.",
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace freight is often high value, sensitive, and difficult to replace. Slip enables components to be staged securely on SlipBots or SlipCarriers before loading begins. Autonomous loading moves the entire load into the trailer in minutes without forklifts, ramps, or manual maneuvering inside the vehicle.",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "In manufacturing environments, Slip helps ensure inbound materials arrive on schedule and outbound assemblies move reliably between facilities. In MRO operations, autonomous loading supports frequent movements of engines, components, and tooling between repair stations, suppliers, and customers.",
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Furniture damage most often occurs during manual trailer loading and unloading. Forklifts maneuvering in tight trailers, repeated repositioning, and inconsistent stacking all increase the risk of scuffs, crushed corners, and concealed damage. Slip removes these risk points by staging furniture directly onto robotic carriers and moving entire loads into and out of trailers autonomously.",
+    "url": "https://www.sliprobotics.com/industries/furniture",
+    "pass": 1
+   },
+   {
+    "quote": "Speed at the dock directly supports product quality. By minimizing time spent loading and unloading, Slip reduces temperature fluctuations and unnecessary handling. Products spend less time exposed, trailers recover temperature faster, and deliveries arrive in better condition.",
+    "url": "https://www.sliprobotics.com/industries/food-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Trailers were loaded and unloaded entirely by hand. Each trailer required 8-10 employees and up to 90 minutes of labor, creating bottlenecks at the dock and significant physical strain on workers. Products also had to be moved between multiple buildings, adding unnecessary handling and compounding inefficiencies.",
+    "url": "https://www.sliprobotics.com/case-studies/four-hands",
+    "pass": 1
+   },
+   {
+    "quote": "Compare SlipBot and SlipLift platforms, plus SlipCarriers and attachments to find the perfect fit for your dock operations.",
+    "url": "https://www.sliprobotics.com/compare",
+    "pass": 1
+   },
+   {
+    "quote": "SlipCarriers & Attachments",
+    "url": "https://www.sliprobotics.com/compare",
+    "pass": 1
+   },
+   {
+    "quote": "SlipLift utilizes SlipCarriers for flexible staging. SlipBot uses + attachments for specialized freight.",
+    "url": "https://www.sliprobotics.com/compare",
+    "pass": 1
+   },
+   {
+    "quote": "SlipCarriers are decoupled payload systems that SlipLift utilizes for flexible staging. Stage freight on SlipCarriers while SlipLift operates for continuous throughput.",
+    "url": "https://www.sliprobotics.com/compare",
+    "pass": 1
+   },
+   {
+    "quote": "Fulfillment centers must process high daily volumes, respond to demand spikes, and keep last-mile deliveries moving on schedule. When dock operations slow down, order cutoffs slip, carriers wait, and customer expectations are missed.",
+    "url": "https://www.sliprobotics.com/industries/online-retail",
+    "pass": 1
+   },
+   {
+    "quote": "Parcel volume is the core challenge of online retail. Thousands of individual packages must move through the dock every shift, often under tight outbound deadlines. Slip enables parcels to be staged into SlipCarriers at the dock and transferred into trailers autonomously with SlipLifts, turning parcel loading into a parallel process instead of a sequential one.",
+    "url": "https://www.sliprobotics.com/industries/online-retail",
+    "pass": 1
+   },
+   {
+    "quote": "Parcel-heavy operations benefit from SlipCarrier Bin, which enables high-throughput, swarm-based parcel loading",
+    "url": "https://www.sliprobotics.com/industries/online-retail",
+    "pass": 1
+   },
+   {
+    "quote": "Larger items like furniture and bulky goods are handled with SlipCarrier Tray, which stages freight as a single unit for fast, controlled loading",
+    "url": "https://www.sliprobotics.com/industries/online-retail",
+    "pass": 1
+   },
+   {
+    "quote": "By compressing trailer load and unload times, Slip helps construction suppliers dispatch materials on schedule and reduce variability in jobsite deliveries. Faster dock turns support tighter routing, better sequencing, and more dependable arrivals at the site.",
+    "url": "https://www.sliprobotics.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "role in maintaining production flow, ensuring parts arrive exactly when needed to support continuous",
+    "url": "https://www.sliprobotics.com/downloads/slip-robotics-nissan-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/443277-91",
+    "pass": 3
+   },
+   {
+    "quote": "Slip Robotics has 85 total employees.",
+    "url": "https://pitchbook.com/profiles/company/443277-91",
+    "pass": 3
+   },
+   {
+    "quote": "What is Slip Robotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/443277-91",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Slip Robotics is",
+    "url": "https://pitchbook.com/profiles/company/443277-91",
+    "pass": 3
+   },
+   {
+    "quote": "Slip Robotics Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Slip Robotics Revenue",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Slip Robotics",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The secret is SlipBot, a rugged and beautifully \"simple\" Automated Loading Robot (ALR) platform that carries 20 pallets per minute in/out of any trailer at any dock -- with no dock modifications, no special trailers, no IT integration, and no Wi-Fi required. It just works.",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Slip seamlessly automates a process, not *just* a vehicle. The SlipBot RaaS (robots-as-a-service) network delivers 10x improvements in safety, speed, and savings across the supply chain. Slip's experienced team and field-proven SlipBots already power 24/7 production manufacturing and logistics operations for multiple Fortune 500 customers, and we're just getting started.",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Slip Robotics?",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Slip Robotics generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Slip Robotics have?",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "└ The company currently has over 50 employees, with 10 commercial customers and hundreds of robots operating in the field.",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "-[If you have more engineers in the office than robots generating revenue in the field, it is not a real business.]",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Valeo's Seymour, Indiana facility manufactures automotive components for major OEMs worldwide. With just-in-time production requirements and strict delivery windows, dock operations were a critical bottleneck.",
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Slip works across any operation with dock loading requirements. Contact us to discuss your specific needs.",
+    "url": "https://www.sliprobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "LET’S TALK INFO@SLIPROBOTICS.COM | 404.446.2846 | SLIPROBOTICS.COM",
+    "url": "https://www.sliprobotics.com/downloads/slip-robotics-nissan-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "LET’S TALK INFO@SLIPROBOTICS.COM | 404.446.2846 | SLIPROBOTICS.COM",
+    "url": "https://www.sliprobotics.com/downloads/slip-robotics-valeo-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/443277-91",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Slip Robotics | Load and unload any truck in 5 minutes — Slip Robotics provides automated loading robots (ALRs) that transform dock operations. SlipBots load and unload any truck in 5 minutes—10x faster, safer, with no IT integration required.",
+    "url": "https://www.sliprobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SlipBot卡车自动装卸机器人获2800万美元融资 | 前途科技 — Slip Robotics 表示，这笔资金将帮助其“加速物流中最劳动密集型环节的变革”。 该公司计划扩大其团队以支持快速增长，增加部署并增强其产品供应。 此外，Slip 表示，它正在投资持续的商业增长以及研发，重点是为客户提供更大的价值。",
+    "url": "https://accesspath.com/robotics/5942446",
+    "pass": 3
+   },
+   {
+    "quote": "スリップロボティクス | 日本フィジカルAI新聞 — Slip Roboticsは、米国を拠点とする物流ロボット企業である。 トラックへの積み下ろし作業を自動化するロボットを開発しており、倉庫や配送センターでの荷物の搬送効率向上を目指している。",
+    "url": "https://physicalainews.jp/companies/slip-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Slip Robotics Automated Loading Robot - R2 Labs — Slip Robotics developed robots that enable anyone to autonomously load and unload any truck in five minutes without the need for complex IT integration or dock modifications. Operators remain safely on the dock throughout the process, improving both safety and operational efficiency.",
+    "url": "https://r2-labs.io/caseStudy-slipRobotics.html",
+    "pass": 3
+   },
+   {
+    "quote": "DCVC | Slip Robotics — For decades, truck trailers have been loaded and unloaded by forklift operators, an intricate operation that can take 30 to 60 minutes per truckload, idling truckers for much of their workday.",
+    "url": "https://www.dcvc.com/companies/slip-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Slip Robotics as the Customer — Explore case studies featuring Slip Robotics as the customer — learn how vendors and partners helped Slip Robotics solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/slip-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Slip Robotics boosts freight reliability and ... — As a result, Slip Robotics saved 90% in debugging time, increased fleet uptime by 30%, and sped up issue resolution by 5x, enabling them to scale their operations with greater reliability. View this case study…",
+    "url": "https://www.casestudies.com/company/foxglove/case-study/how-slip-robotics-improved-autonomous-freight-reliability-using-foxglove",
+    "pass": 3
+   },
+   {
+    "quote": "Slip Robotics Valeo Case Study - YouTubeCase Study: Four Hands increases truck loading/unloading ...Slip Robotics Automated Loading Robot - R2 Labs — Oct 15, 2024 · Valeo, a global automotive parts manufacturer, has optimized its dock operations by partnering with Slip Robotics. Feb 18, 2025 · According to a case study, deploying SlipBots across multiple facilities drove a 4x increase in throughpu",
+    "url": "https://www.youtube.com/watch?v=vhD75u2SI_M",
+    "pass": 3
+   },
+   {
+    "quote": "Slip Robotics 2026 Company Profile: Valuation, Funding ...Slip Robotics – Funding, Acquisitions & Key Rivals – 2026Slip Robotics - 2025 Company Profile, Team, Funding ... - TracxnSlip Robotics Revenue, Funding & Valuation - prospeo.ioSlip Robotics: Funding, Investors & Team (Oct 2026) | FundedIQSlip Robotics: Funding, Team & Investors | Startup IntrosSlip Robotics - Crunchbase Company Profile & Fu",
+    "url": "https://pitchbook.com/profiles/company/443277-91",
+    "pass": 3
+   },
+   {
+    "quote": "Slip Robotics – Funding, Acquisitions & Key Rivals – 2026 — Discover Slip Robotics's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/slip-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Slip Robotics - 2025 Company Profile, Team, Funding ... - TracxnSlip Robotics Revenue, Funding & Valuation - prospeo.ioSlip Robotics: Funding, Investors & Team (Oct 2026) | FundedIQSlip Robotics: Funding, Team & Investors | Startup IntrosSlip Robotics - Crunchbase Company Profile & Funding — Sep 4, 2025 · Slip Robotics is a series B company based in Atlanta (United States), founded in 2019 by John",
+    "url": "https://tracxn.com/d/companies/slip-robotics/__7VTjZsU9FMzVo2TmNOnNqkQvltmBq7PCe_9y8lqFhRc",
+    "pass": 3
+   },
+   {
+    "quote": "Slip Robotics Revenue, Funding & Valuation - prospeo.io — Slip Robotics has revenue of $2,100,000, estimated valuation of $6,800,000, $66,600,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Slip Robotics: Funding, Investors & Team (Oct 2026) | FundedIQ — Slip Robotics has raised $44.0M across 3 funding rounds on record, the most recent a Series B of $28.0M announced in Dec 2024. That round is above the $10M median round size for Hardware companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/slip-robotics-sliprobotics-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Logistics x Robotics startup Slip-Robo completes funding to ... Jan 15, 2025 · This time, we introduce Slip-Robotics, which develops autonomous mobile pallets that can quickly load and unload goods in warehouses and logistics facilities.",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "物流xロボのSlip-Roboが資金調達完了、事業展開加速へ Jan 16, 2025 · ・12/17に自律搬送パレット/運用PFを展開するSlip-Roboticsは2800万ドルの調達を完了したとリリース、これまでの総調達は4500万ドルに └Series-BでDCVCが主導、既存投資家としてEve Atlas/Tech Square Ventures/Hyde Park Venture Partners/Overline/Pathbreaker Venturesが参加して完了。",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Logistics x Robotics startup Slip-Robo completes funding to accelerate business expansion｜Suzuken0331",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Logistics x Robotics startup Slip-Robo completes funding to accelerate business expansion",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, we introduce Slip-Robotics, which develops autonomous mobile pallets that can quickly load and unload goods in warehouses and logistics facilities. They recently completed a $28 million Series B funding round and will use the capital for further product development and expansion to address labor shortages and improve operational efficiency by enabling the transport of goods without the ",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・On 12/17, Slip-Robotics, which develops autonomous transport pallets and operational platforms, announced the completion of a $28 million funding round, bringing their total funding to date to $45 million.",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "└ The Series B round was led by DCVC, with participation from existing investors including Eve Atlas, Tech Square Ventures, Hyde Park Venture Partners, Overline, and Pathbreaker Ventures.",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "└ The company currently has over 50 employees, with 10 commercial customers and hundreds of robots operating in the field.",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・The funds raised will be used for hiring, expansion, and strengthening the product delivery system. CBO Jordan Thunders commented as follows:",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "-[Our success is not just about the product, but about the success of our method for scaling.]",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "物流xロボのSlip-Roboが資金調達完了、事業展開加速へ｜Suzuken0331",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "pass": 3
+   },
+   {
+    "quote": "物流xロボのSlip-Roboが資金調達完了、事業展開加速へ",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "pass": 3
+   },
+   {
+    "quote": "今回は倉庫/物流施設での商品積み下ろしを迅速に行える自律移動型パレットを展開するSlip-Roboticsを紹介です。最近Series-Bで2,800万ドルの調達を完了、フォークリフトなしでの商品移送を可能とすることで人手不足対応や業務効率化を実現すべく更なる製品開発/展開拡大を行います。",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "pass": 3
+   },
+   {
+    "quote": "・12/17に自律搬送パレット/運用PFを展開するSlip-Roboticsは2800万ドルの調達を完了したとリリース、これまでの総調達は4500万ドルに",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "pass": 3
+   },
+   {
+    "quote": "└Series-BでDCVCが主導、既存投資家としてEve Atlas/Tech Square Ventures/Hyde Park Venture Partners/Overline/Pathbreaker Venturesが参加して完了。",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "pass": 3
+   },
+   {
+    "quote": "└現在50人強の従業員を抱え、10社の商業顧客/現場での数百台のロボ稼働が実現されている",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "pass": 3
+   },
+   {
+    "quote": "・今回の調達資金は人員増強/展開拡大/製品デリバリ体制強化に充当、CBOのJordan Thunders氏は下記のようにコメント",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "pass": 3
+   },
+   {
+    "quote": "-[当社の成功は製品だけでなく、規模拡大への方法が成功した]",
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#SlipRobotics\" - Results on X | Live Posts & Updates Slip Robotics strives to make the freight unloading process as easy as possible. With our robots, there's no need to modify your loading docks, trailers, or any IT integration needed.",
+    "url": "https://x.com/hashtag/SlipRobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Overline (@OverlineVC) / Posts / X Slip Robotics | Load and unload any truck in 5 minutes www.sliprobotics.com",
+    "url": "https://x.com/OverlineVC",
+    "pass": 3
+   },
+   {
+    "quote": "@SlipRobotics | X The latest posts from @SlipRobotics",
+    "url": "https://x.com/SlipRobotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Meet Dennis Siedlak, CTO and co-founder of Slip Robotics, one ... Oct 14, 2025 · That support has helped grow Slip Robotics from a new company in 2020 to where they are today – multiple Fortune 500 customers, significant capital raised, a facility in Norcross that manufacturers their fleet of robots, and more!",
+    "url": "https://www.facebook.com/atdcgt/videos/meet-dennis-siedlak-cto-and-co-founder-of-slip-robotics-one-of-our-17-graduating/1130460445929290/",
+    "pass": 3
+   },
+   {
+    "quote": "DeliverEvents - We're delighted to welcome Slip Robotics ... Aug 5, 2026 · We're delighted to welcome Slip Robotics to the DELIVER America 2026 community. Slip delivers autonomous, 5-minute loading and unloading across freight...",
+    "url": "https://www.facebook.com/DeliverEvents/posts/were-delighted-to-welcome-slip-robotics-to-the-deliver-america-2026-communitysli/1642965114506313/",
+    "pass": 3
+   },
+   {
+    "quote": "Slip Robotics to occupy 42,548 square... - intelligence360.io Oct 31, 2023 · Norcross, Georgia -- According to state and local development sources, Slip Robotics plans to build out 42,548 square feet of new space in Norcross. The company plans to occupy the new space at 1346 Oakbrook",
+    "url": "https://www.facebook.com/intelligence360.io/posts/slip-robotics-to-occupy-42548-square-feet-of-space-in-norcross-georgia-intellige/827737282687216/",
+    "pass": 3
+   },
+   {
+    "quote": "What if loading a truck took... - Partnership Gwinnett | Facebook Apr 6, 2026 · bottlenecks in logistics. But their innovation goes beyond the product. By building smarter deployment systems, real-time monitoring, and scalable training programs, Slip Robotics is setting a new standard for how automation",
+    "url": "https://www.facebook.com/PartnershipGwinnett/posts/what-if-loading-a-truck-took-minutesnot-hours-meet-our-next-2026-movers-makers-f/1360939449409015/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sliprobotics.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/industries/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sliprobotics.com/case-studies/nissan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/case-studies/valeo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/platforms",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/industries",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/case-studies",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/company",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/industries/heavy-mfg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/industries/aerospace",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/industries/furniture",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/industries/food-beverage",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/industries/food-service-distribution",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/case-studies/four-hands",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/compare",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/industries/online-retail",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/industries/construction",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/company/safety",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sliprobotics.com/platforms/slipbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sliprobotics.com/platforms/sliplift",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sliprobotics.com/downloads/slip-robotics-nissan-case-study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sliprobotics.com/downloads/slip-robotics-valeo-case-study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sliprobotics.com/assets/brand/logos/slip-robotics-primary-logo-dark.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sliprobotics.com/assets/brand/badges/customers/customer-logo-nissan.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sliprobotics.com/assets/brand/logos/slip-robotics-primary-logo-light.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sliprobotics.com/assets/brand/badges/customers/customer-logo-valeo.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accesspath.com/robotics/5942446",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.mynavi.jp/techplus/article/20261019-5155447/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://r2-labs.io/caseStudy-slipRobotics.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.slip-robotics.com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/customer/slip-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/foxglove/case-study/how-slip-robotics-improved-autonomous-freight-reliability-using-foxglove",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=vhD75u2SI_M",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/groups/2356868454775088/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/443277-91",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/slip-robotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/slip-robotics/__7VTjZsU9FMzVo2TmNOnNqkQvltmBq7PCe_9y8lqFhRc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/slip-robotics-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/SlipRobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OverlineVC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/atdcgt/videos/meet-dennis-siedlak-cto-and-co-founder-of-slip-robotics-one-of-our-17-graduating/1130460445929290/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DeliverEvents/posts/were-delighted-to-welcome-slip-robotics-to-the-deliver-america-2026-communitysli/1642965114506313/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/intelligence360.io/posts/slip-robotics-to-occupy-42548-square-feet-of-space-in-norcross-georgia-intellige/827737282687216/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PartnershipGwinnett/posts/what-if-loading-a-truck-took-minutesnot-hours-meet-our-next-2026-movers-makers-f/1360939449409015/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SlipRobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Slip Robotics 日本 導入",
+   "results": [
+    "https://www.sliprobotics.com/",
+    "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "https://accesspath.com/robotics/5942446",
+    "https://news.mynavi.jp/techplus/article/20261019-5155447/",
+    "https://physicalainews.jp/companies/slip-robotics",
+    "https://36kr.jp/502923/",
+    "https://www.meti.go.jp/press/2026/11/20261111001.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Slip Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Slip Robotics Japan",
+   "results": [
+    "https://www.sliprobotics.com/",
+    "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "https://r2-labs.io/caseStudy-slipRobotics.html",
+    "https://www.slip-robotics.com/",
+    "https://www.dcvc.com/companies/slip-robotics/",
+    "https://land.sliprobotics.com/speed",
+    "https://physicalainews.jp/companies/slip-robotics"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Slip Robotics manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/slip-robotics",
+    "https://www.sliprobotics.com/",
+    "https://www.casestudies.com/company/foxglove/case-study/how-slip-robotics-improved-autonomous-freight-reliability-using-foxglove",
+    "https://www.youtube.com/watch?v=vhD75u2SI_M",
+    "https://www.robotics247.com/article/case_study_four_hands_increases_truck_loading_unloading_speed_with_slip_robotics",
+    "https://r2-labs.io/caseStudy-slipRobotics.html",
+    "https://www.sliprobotics.com/downloads/slip-robotics-four-hands-case-study.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Slip Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.facebook.com/groups/2356868454775088/",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://play.google.com/store/apps/details?id=com.selfshop.reseller&hl=en-US",
+    "https://www.youtube.com/@resellerrevenue"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Slip Robotics founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/443277-91",
+    "https://compworth.com/company/slip-robotics",
+    "https://tracxn.com/d/companies/slip-robotics/__7VTjZsU9FMzVo2TmNOnNqkQvltmBq7PCe_9y8lqFhRc",
+    "https://prospeo.io/c/slip-robotics-revenue",
+    "https://fundediq.co/slip-robotics-sliprobotics-com-funding/",
+    "https://startupintros.com/orgs/slip-robotics",
+    "https://www.crunchbase.com/organization/slip-robotics"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Slip Robotics",
+   "results": [
+    "https://note.com/suzuken0331/n/n4a4fd2639559?hl=en",
+    "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "https://note.com/beloved_tomoka/all",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/akira_umapro",
+    "https://note.com/guaran/n/ne1da1b216a7a",
+    "https://note.com/powerpoint_jp/n/naeca0198ed37"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Slip Robotics",
+   "results": [
+    "https://x.com/hashtag/SlipRobotics",
+    "https://x.com/DimkatG/status/2109696236995346827",
+    "https://x.com/YueminMao/status/2042597091592098071",
+    "https://x.com/OverlineVC",
+    "https://x.com/rohanpaul_ai/status/2085910823134982242",
+    "https://x.com/kimmonismus/status/2120270122732687469",
+    "https://x.com/techsignalil/status/2119303197982642349"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Slip Robotics",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Slip Robotics",
+   "results": [
+    "https://www.facebook.com/atdcgt/videos/meet-dennis-siedlak-cto-and-co-founder-of-slip-robotics-one-of-our-17-graduating/1130460445929290/",
+    "https://www.facebook.com/DeliverEvents/posts/were-delighted-to-welcome-slip-robotics-to-the-deliver-america-2026-communitysli/1642965114506313/",
+    "https://www.facebook.com/intelligence360.io/posts/slip-robotics-to-occupy-42548-square-feet-of-space-in-norcross-georgia-intellige/827737282687216/",
+    "https://www.facebook.com/PartnershipGwinnett/posts/what-if-loading-a-truck-took-minutesnot-hours-meet-our-next-2026-movers-makers-f/1360939449409015/",
+    "https://www.facebook.com/oshcut/posts/check-out-our-partners-at-slip-robotics-slip-robotics-state-of-the-art-robotic-s/808635114497753/",
+    "https://www.facebook.com/sliprobotics/",
+    "https://www.facebook.com/chriskunadrive/videos/what-if-unloading-a-semi-trailer-took-less-than-5-minutesat-automate-2026-i-spok/1699562868020794/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Slip Robotics note 社長",
+   "results": [
+    "https://www.bloomberg.com/profile/person/24932265",
+    "https://www.sliprobotics.com/",
+    "https://alscglobal.automotivelogistics.media/speakers/detail/event/automotive-logistics-and-supply-chain-global-2026/speaker/chris-smith-new6842e158642a3287060618/",
+    "https://neuron.com/profile/101796773/christopher-smith",
+    "https://www.youtube.com/watch?v=KkQI0FKHZlM",
+    "https://www.crunchbase.com/person/christopher-smith-697f",
+    "https://people.equilar.com/bio/person/christopher-smith-slip-robotics-inc/42552885"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Slip Robotics X 投稿",
+   "results": [
+    "https://www.sliprobotics.com/",
+    "https://x.com/SlipRobotics",
+    "https://note.com/suzuken0331/n/n4a4fd2639559",
+    "https://www.instagram.com/sliprobotics/",
+    "https://www.slip-robotics.com/",
+    "https://physicalainews.jp/companies/slip-robotics",
+    "https://land.sliprobotics.com/speed"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部27頁・検索12回）"
+ }
+}

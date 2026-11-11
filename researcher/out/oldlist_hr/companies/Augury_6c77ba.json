@@ -1,0 +1,1679 @@
+{
+ "name": "Augury",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T02:46:48.735696+00:00",
+ "official_url": "https://www.augury.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "06-Oct-2014    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/82952-56",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$155M",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Industrial AI for Uptime & Productivity | Augury",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your production isn’t the problem.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve spent 15+ years making sure our solutions work as hard as you do, so you can increase production efficiency, maximize uptime, and plan work proactively.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Siloed data, systems without priorities",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict, plan, prevent",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive intelligence alerts your team to exactly what's failing, how urgent it is, and what to do.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive insights catch issues early, AI agents take action, and your day runs on your terms.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI Workforce",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI that covers your entire production line, from first alert to final decision. So every day ends on target and ahead of tomorrow’s plan.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive maintenance",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Augury continuously monitors, connects data, and provides clear direction your team can trust and act on.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The right alerts and notifications are ranked, so you can prioritize work on what matters.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lower costs, higher output, production targets hit. Every outcome supports more predictable operations.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your team, backed by our production experts.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "On-demand training and support",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Access 150+ Knowledge Center articles and 20+ hours of technical training",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join manufacturers who trust Augury to drive more uptime, predictability, and savings across their operations.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It really has proven, time and time again, to be an eye-opening tool that’s saved us time, energy, money, and it’s easy for mechanics to understand. The whole concept, the whole tool — it’s all there.”",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Process Engineering and R&D Director",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prominent Wood Products Company",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This is the technology of the future, and the products we make here are the products of the future – and if you’re going to make the products of the future, you can’t use the technology of the past.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Machine health touches every one of Circulus’ core values. Machine health creates an environment of predictability and reliability, it hits home on the safety aspect of our business where we’re not putting people in unneeded situations.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The State of Production Health 2026",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Augury was recently named a Leader in the 2025 Verdantix Green Quadrant for Industrial AI Analytics Software—one of only 9 vendors out of 19 evaluated to earn this distinction. But what does that actually mean for manufacturers trying to cut through vendor marketing and find PdM solutions that deliver real results?",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See your Industrial AI Workforce in action.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Augury’s Machine Health Solutions integrate seamlessly with CMMS/EAM systems and service partners, unifying factory operations so you can optimize production at scale.",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive maintenance delivered through OEM-integrated experiences.",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Work with distributors and service providers you trust to accelerate Machine Health deployment.",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sync Machine Health findings with your enterprise systems. Augury is designed to fit easily into your operation without adding friction.",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I request a custom Augury integration for my specific enterprise platform?",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Augury prioritizes fast time-to-value over long integration cycles. While timelines for implementation depend on complexity, most integrations follow these benchmarks:",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": ": Augury pulls data from your existing systems to increase diagnostic precision",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Providing prescriptive details",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Augury is designed to publish insights to your historians and SCADA layers via industry-standard protocols like REST APIs. This process surfaces critical machine data exactly where your operators already work, including plant floor and enterprise systems.",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Augury ensure integrations are secure and compliant with enterprise IT standards?",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Security, compliance, and scalability are core principles for every Augury integration. Our architecture includes:",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Industry-standard encryption and authentication protocols",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade monitoring and reliability",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "At PepsiCo, we’re always looking to improve our operational excellence. And specifically, we wanted to reduce our unplanned downtime.",
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "pass": 1
+   },
+   {
+    "quote": "highlights PepsiCo and the efficiencies they’re gaining with predictive maintenance.",
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "pass": 1
+   },
+   {
+    "quote": "2021 Innovation issue features PepsiCo and their focus on reliable production.",
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "pass": 1
+   },
+   {
+    "quote": "There was improved performance in terms of reduced unexpected breakdowns, interruptions, and incremental costs for replacement parts on the monitored assets.",
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to this enhanced productivity, importantly, it has enabled a better work experience for our associates so they can focus on delivering quality products for consumers.",
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "pass": 1
+   },
+   {
+    "quote": "The innovation organization for PepsiCo celebrates the production achievements they’ve experienced with their focus on machine health",
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize your production and maximize ROI—take the next step",
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "pass": 1
+   },
+   {
+    "quote": "Prescriptive AI machine diagnostics to predict and prevent industrial machine failure and improve machine performance.",
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "pass": 1
+   },
+   {
+    "quote": "Prescriptive AI process optimization to achieve new levels of production efficiency, yield, and sustainability (previously known as Seebo).",
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "pass": 1
+   },
+   {
+    "quote": "Solve Problems Faster, With AI That Knows Your Plant",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify issues early, get clear next steps, and let agents take approved action, all built on an Industrial Context Graph your experts can inspect and verify.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Augury’s Industrial Context Graph maps relationships across OT and IT data, assets, processes, and expert knowledge. Every agentic action, insight, and diagnosis builds on that connected picture, so recommendations fit your plant and can continuously improve.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": ", creating a trusted foundation for AI agents and approved workflows.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Your experts can review AI recommendations, correct what’s wrong, and confirm what’s right, and every change flows back in. AI agents and insights work from that same knowledge, giving you an Industrial AI Workforce that acts on what your team knows to be true.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Inspect the evidence behind each finding, validate the knowledge agents use, and improve future investigations",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven in 800+ facilities, models are tuned to each plant to detect anomalies, classify faults, and find optimizations.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents investigate issues and recommend next steps within approved workflows, keeping automation under your control.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "“Augury’s contribution to the industrial profile demonstrates the power of open ecosystems.”",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "The Industrial AI Workforce runs on Google Cloud, with Gemini powering the reasoning layer. Augury’s OKF Industrial Profile extends Google Cloud’s Open Knowledge Format to make plant context open, portable, and auditable.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Put that knowledge to work with an Industrial AI Workforce you can scale with confidence.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "An Industrial Context Graph is a human-readable semantic model of relationships among equipment, processes, materials, operating conditions, and operational knowledge. It lets experts inspect, verify, and correct the context AI agents use.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Augury connects operational and enterprise data, then adds shared context for teams and agents. Underlying systems remain systems of record, and AI agents can act across multiple systems and agentic workflows.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial AI for Uptime & Productivity | Augury",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI Agents That Work for You.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We started by keeping your machines healthy. Now, AI agents built for every role in your operations take that same intelligence further, so your plants hit targets and stay ahead.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI Workforce",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI that covers your entire production line, from first alert to final decision. So every day ends on target and ahead of tomorrow’s plan.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Our intelligence is built on years of real industrial data, validated across thousands of machines, and trained on real manufacturing operations. Not one customer, not one use case,",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your operational data, history, and industrial knowledge across your plant",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous monitoring across every asset, in industrial environments",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial systems and sources connected for the full picture",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team supports you wherever you are in your Industrial AI journey, from the first sensor deployed to every alert that follows.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI validated by real industrial customers.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join manufacturers who trust Augury to drive more uptime, predictability, and savings across their operations.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Global manufacturers trust Augury",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What Makes an Industrial AI Analytics Leader? 5 Questions About New Green Quadrant Study",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Augury was recently named a Leader in the 2025 Verdantix Green Quadrant for Industrial AI Analytics Software—one of only 9 vendors out of 19 evaluated to earn this distinction. But what does that actually mean for manufacturers trying to cut through vendor marketing and find PdM solutions that deliver real results?",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See your Industrial AI Workforce in action.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prescriptive AI machine diagnostics to predict and prevent industrial machine failure and improve machine performance.",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Slipping yield, hidden bottlenecks, or uneven plant performance?",
+    "url": "https://www.augury.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Connected Ecosystem for Factory Performance",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Augury’s Machine Health Solutions integrate seamlessly with CMMS/EAM systems and service partners, unifying factory operations so you can optimize production at scale.",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How Augury connects to your plant’s operating systems",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Share data across your historians, SCADA layers, and dashboards. Augury ingests system context and publishes findings where your operators work.",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Augury is designed to publish insights to your historians and SCADA layers via industry-standard protocols like REST APIs. This process surfaces critical machine data exactly where your operators already work, including plant floor and enterprise systems.",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "PepsiCo's AI Innovations Boost Manufacturing Efficiency | Augury",
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "pass": 1
+   },
+   {
+    "quote": "Prescriptive AI machine diagnostics to predict and prevent industrial machine failure and improve machine performance.",
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "pass": 1
+   },
+   {
+    "quote": "Slipping yield, hidden bottlenecks, or uneven plant performance?",
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "pass": 1
+   },
+   {
+    "quote": "Solve Problems Faster, With AI That Knows Your Plant",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify issues early, get clear next steps, and let agents take approved action, all built on an Industrial Context Graph your experts can inspect and verify.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Augury’s Industrial Context Graph maps relationships across OT and IT data, assets, processes, and expert knowledge. Every agentic action, insight, and diagnosis builds on that connected picture, so recommendations fit your plant and can continuously improve.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Augury’s Industrial Context Engine",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Context Graph",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Your experts can review AI recommendations, correct what’s wrong, and confirm what’s right, and every change flows back in. AI agents and insights work from that same knowledge, giving you an Industrial AI Workforce that acts on what your team knows to be true.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Built to understand your plant. Designed to scale your AI.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Your team knows how your plants run. Augury puts that knowledge behind Industrial AI you can inspect, control, and roll out to every site.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Plant-tuned machine learning",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven in 800+ facilities, models are tuned to each plant to detect anomalies, classify faults, and find optimizations.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "“Augury’s contribution to the industrial profile demonstrates the power of open ecosystems.”",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Head of Manufacturing Industry, Google Cloud",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "The Industrial AI Workforce runs on Google Cloud, with Gemini powering the reasoning layer. Augury’s OKF Industrial Profile extends Google Cloud’s Open Knowledge Format to make plant context open, portable, and auditable.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Augury’s machine insights integrate into AVEVA CONNECT, combining machine health with AVEVA’s operational context to enrich the Industrial Context Graph agents reason over.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Your plant runs on what your people know. Now your AI does too.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Put that knowledge to work with an Industrial AI Workforce you can scale with confidence.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "What is an Industrial Context Graph?",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "An Industrial Context Graph is a human-readable semantic model of relationships among equipment, processes, materials, operating conditions, and operational knowledge. It lets experts inspect, verify, and correct the context AI agents use.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Augury replace existing plant systems?",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Who controls manufacturing agents’ actions?",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "A manufacturing agent is an AI system that uses industrial data and context to investigate issues, identify likely causes, and support operational workflows. It operates within the thresholds, approvals, and operating constraints you define. Every action remains traceable.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Prescriptive AI machine diagnostics to predict and prevent industrial machine failure and improve machine performance.",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Slipping yield, hidden bottlenecks, or uneven plant performance?",
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "pass": 1
+   },
+   {
+    "quote": "Grounded in your production data, batch history, SOPs, and even the tribal knowledge your best operators carry, the Operations Agent shows you what it’s reviewing, why it reached its conclusion, and which data points back up every recommendation.",
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Voice record operational knowledge through a mobile app, then translate it into a Standardized Knowledge Base that grounds the AI in how your plant actually runs.",
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI Workforce",
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "The Operations Agent works alongside other role-based agents to bring you 30% more productivity at scale. Augury’s Industrial AI Workforce was designed for the plant floor and engineered for outcomes.",
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Built on 15+ years of real industrial machine data, the Industrial AI Workforce connects operational insights and automates parts of issue detection and response, so teams keep production moving with less stress.",
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the Industrial AI Workforce",
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Using Manufacturing AI Agents for Real-Time Process Optimization",
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Role-Based AI Agents for Manufacturing: Accelerating Operational Performance",
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "4 Technology Pillars to Achieve Process Optimization in Manufacturing",
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Prescriptive AI machine diagnostics to predict and prevent industrial machine failure and improve machine performance.",
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Slipping yield, hidden bottlenecks, or uneven plant performance?",
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Predictive maintenance delivered through OEM-integrated experiences.",
+    "url": "https://www.augury.com/partners/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Grounded in your production data, batch history, SOPs, and even the tribal knowledge your best operators carry, the Operations Agent shows you what it’s reviewing, why it reached its conclusion, and which data points back up every recommendation.",
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond CMMS, Augury connects with cloud and industrial data platforms, historians, and Supervisory Control and Data Acquisition (SCADA) systems via industry-standard protocols, surfacing",
+    "url": "https://www.augury.com/machine-health/",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer emergency callouts, which carry premium labor and expedited parts costs",
+    "url": "https://www.augury.com/machine-health/",
+    "pass": 1
+   },
+   {
+    "quote": "Shorter troubleshooting cycles as teams arrive with diagnosed faults, not symptoms",
+    "url": "https://www.augury.com/machine-health/",
+    "pass": 1
+   },
+   {
+    "quote": "The Cordant Edge Gateway carries ATEX, IECEx, and CSA certifications with an IP66/67 NEMA 4X enclosure. Outdoor-ready and built for classified environments.",
+    "url": "https://www.augury.com/machine-health-solutions/hazardous/",
+    "pass": 1
+   },
+   {
+    "quote": "-In North America, the relevant standards are NEC/CEC Class/Division ratings. The Ranger Pro sensor carries approvals including Class I, Division 1, Groups A, B, C, D, T4 and Class II, Division 1, Groups F, G T135°C, making it suitable for the most demanding environments where explosive gases and combustible dusts*",
+    "url": "https://www.augury.com/machine-health-solutions/hazardous/",
+    "pass": 1
+   },
+   {
+    "quote": "Part of Augury’s Machine Health 360, expanding coverage and control to more assets and more environments",
+    "url": "https://www.augury.com/machine-health-solutions/machine-health-ultra-low/",
+    "pass": 1
+   },
+   {
+    "quote": "The new Halo Hub 1.0 is designed for simultaneous analog signal acquisition from Augury’s proprietary wired sensors. It is a fully integrated unit that combines 24-bit analog-to-digital signal conversion and acquisition, wifi and cellular connectivity, and power supply.",
+    "url": "https://www.augury.com/machine-health-solutions/machine-health-ultra-low/",
+    "pass": 1
+   },
+   {
+    "quote": "Cellular Carrier Approvals",
+    "url": "https://www.augury.com/machine-health-solutions/machine-health-ultra-low/",
+    "pass": 1
+   },
+   {
+    "quote": "Augury customers are Fortune 500 companies",
+    "url": "https://www.augury.com/use-cases/industries/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 food and beverage company uses Augury",
+    "url": "https://www.augury.com/use-cases/industries/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Consumer packaged goods (CPG) manufacturing covers a lot of ground–from toothpaste, diapers, and cosmetics to yogurt, chips, and beer. But while diverse in products, CPG organizations all face similar challenges–but some companies are driving deep changes in the industry. Consider just a few shifts happening in CPG: Barriers to enter the market are lower than…",
+    "url": "https://www.augury.com/use-cases/industries/consumer-packaged-goods/",
+    "pass": 1
+   },
+   {
+    "quote": "You’re new to manufacturing. What made you say yes to Augury? A few things came together. First, I wanted to join a global company that was expanding its footprint, because that’s work I’ve done before and love doing. Augury’s roots in Israel were part of the draw, too. I admire the pace, intellect, and resilience…",
+    "url": "https://www.augury.com/blog/customers-partners/bbc-features-pepsico-and-augury-turning-snack-making-sounds-into-actionable-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Building On What They Have A sleeping giant is waking up… While largely twinned with that least digital of industries, construction, more and more leaders in the building supplies industry are now ready to leverage the power of innovation. They realize if they don’t act now, they will only lose more opportunities (i.e., revenue). Of…",
+    "url": "https://www.augury.com/use-cases/industries/glass/",
+    "pass": 1
+   },
+   {
+    "quote": "同社は170社超のグローバル製造業と、Fortune 500の20社超が利用していると公表しています",
+    "url": "https://mfg-ai.com/vendors/augury-industrial-ai-workforce",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/82952-56",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (2)",
+    "url": "https://pitchbook.com/profiles/company/82952-56",
+    "pass": 3
+   },
+   {
+    "quote": "Augury’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/82952-56",
+    "pass": 3
+   },
+   {
+    "quote": "To view Augury’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/82952-56",
+    "pass": 3
+   },
+   {
+    "quote": "Augury has 348 total employees.",
+    "url": "https://pitchbook.com/profiles/company/82952-56",
+    "pass": 3
+   },
+   {
+    "quote": "What is Augury’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/82952-56",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Augury is",
+    "url": "https://pitchbook.com/profiles/company/82952-56",
+    "pass": 3
+   },
+   {
+    "quote": "Augury Revenue 2025: $155M Est., $1B Valuation",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "Augury has not published its revenue. GetLatka estimates it at about $155M a year (June 2025).",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "Augury founders & employees",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "Saar Yoskovitz founded Augury in 2011. Augury has 357 employees (November 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Augury's revenue?",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Augury's revenue at about",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Augury have?",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "1 Change the Narrative",
+    "url": "https://note.com/dailymtgresearch/n/n63fcda6df0f9?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Augury（Industrial AI Workforce）（Augury）の特徴・用途・日本での提供状況 | MFG-AI",
+    "url": "https://mfg-ai.com/vendors/augury-industrial-ai-workforce",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サオスの実務者が、貴社の現場とデータに合わせた進め方をご提案します",
+    "url": "https://mfg-ai.com/vendors/augury-industrial-ai-workforce",
+    "pass": 3
+   },
+   {
+    "quote": "日本での提供体制や、自社設備への適合性も別途確認が必要である",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本で使う場合は、日本語での支援、現地作業、部品の手配を誰が担うかも確認事項になる",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "海外の導入事例があることと、自社拠点で同じ支援を受けられることは別である",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "に質問集と日本語のExcel記入例を用意している",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Augury（Industrial AI Workforce）（Augury）の特徴・用途・日本での... — Augury（Industrial AI Workforce）（Augury／米国）は予知保全・設備保全に分類される製造業向けAIの製品・サービスです。 用途、提供形態、対応業種、価格の公開状況、日本での提供体制を一次情報にもとづき整理しました。",
+    "url": "https://mfg-ai.com/vendors/augury-industrial-ai-workforce",
+    "pass": 3
+   },
+   {
+    "quote": "Augury、機械故障を75%削減 - doit.com — AuguryはGoogle Cloudを基盤にAIとIoTを組み合わせ、製造機械の信頼性向上と環境負荷の低減を実現しています。 IoTプラットフォーム全体をGoogle Cloudへ移行し、マイクロサービスにGKE、機械学習の特徴量処理にBigQueryを採用。",
+    "url": "https://www.doit.com/ja/customers/augury",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AI for Uptime & Productivity | Augury — See your Industrial AI Workforce in action. Schedule a demo and learn how Augury improves your operations, from day one to global scale.",
+    "url": "https://www.augury.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI 予知保全（設備の故障予測）比較2026｜Augury・Uptake・SparkCogni... — Aug 4, 2026 · Augury（オーグリー）は、 モーターやポンプなど回転する機械にセンサーを取り付け、振動や温度から不調の兆しを読んで診断する ことに力点を置く予知保全の基盤です。",
+    "url": "https://radineer.asia/aisaas/blog/ai-predictive-maintenance-platforms-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全AIの3社を、同じ問いで比べる｜GPU Human — Oct 8, 2026 · 私は、丸の数よりも「導入した翌朝、誰が何をするのか」が見える比較にしたい。 今回は、設備保全を支援するAugury社、Nanoprecise社、Infinite Uptime社の公開資料を、同じ問いで読む。",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046",
+    "pass": 3
+   },
+   {
+    "quote": "Augury | LinkedIn — Our mission is to transform how people and machines work together to push the boundaries of human productivity. A leading Industrial AI company, Augury helps the world’s manufacturers leverage...",
+    "url": "https://jp.linkedin.com/company/augury-systems",
+    "pass": 3
+   },
+   {
+    "quote": "augury in Japanese? How to use augury in Japanese. Learn Japanese — Oct 30, 2026 · Now that you have learned and understood the common ways of saying augury in Japanese is \"占い\", it's time to learn how to say augury in Japanese. This will hopefully give you a little motivation to study Japanese today.",
+    "url": "https://wikilanguages.net/Japanese/augury.html",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AI leader | Augury — Augury helps manufacturers improve uptime and productivity with predictive maintenance, AI agents, and human expertise.",
+    "url": "https://www.augury.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "How to say augury in Japanese - WordHippo — Need to translate \"augury\" to Japanese? Here are 17 ways to say it.",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-e59a81aa91722ab760f47fd9ec560021090f2745.html",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories with Augury — Read our latest success stories and case studies.",
+    "url": "https://www.augury.com/success-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Augury: Manufacturing Case Studies & Profile — Add documented customer results to your profile by submitting a case study. Augury provides AI-powered machine health and process health solutions that help manufacturers eliminate unplanned downtime, improve process efficiency, and optimize production quality.",
+    "url": "https://aiformanufacturing.org/augury",
+    "pass": 3
+   },
+   {
+    "quote": "Augury Case Study: Large Home Appliance, Refrigerator ... — Large Home Appliance, Refrigerator Manufacturing Company (Manufacturing) partnered with Augury (Computer Software) to solve key challenges. \"Large Home Appliance, Refrigerator Manufacturing Company - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/augury/case-study/large-home-appliance-refrigerator-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Multi-Billion Dollar Tissue Company Achieves ... — Augury helped the company make nearly 1,000 machine health improvements, avoid more than $23M in downtime and other costs, and achieve ROI in as little as 1–6 months per site, with many sites reaching time to value in 30 days.",
+    "url": "https://www.casestudies.com/company/augury/case-study/how-a-global-leader-in-paper-tissue-products-is-transforming-their-business-with-insight-driven-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Augury Case Study — Download our Case Study to learn how ICL, a leader in unique materials, mitigated $1MM+ in avoided downtime costs, machine repairs, and production loss within the first 10 months.",
+    "url": "https://info.augury.com/augury-icl-case-study.html",
+    "pass": 3
+   },
+   {
+    "quote": "Augury – Company Profile & Market Insights – 2026 — Augury is a New York City AI company founded in 2012 that provides machine health and performance insights to industrial partners. It reports $155.1M revenue, a $1B valuation, and $369M total funding.",
+    "url": "https://compworth.com/company/augury",
+    "pass": 3
+   },
+   {
+    "quote": "Augury 2026 Company Profile: Valuation, Funding & Investors ...Augury - 2026 Company Profile, Team, Funding & Competitors ...Augury Revenue 2025: $155M Est., $1B Valuation - getlatka.comAugury - Overview, News & Similar companies | ZoomInfo.comAugury Information - RocketReachAugury Funding History: $352.0M | Indexed.vc — Information on valuation, funding, cap tables, investors, and executives for ",
+    "url": "https://pitchbook.com/profiles/company/82952-56",
+    "pass": 3
+   },
+   {
+    "quote": "Augury - 2026 Company Profile, Team, Funding & Competitors ...Augury Revenue 2025: $155M Est., $1B Valuation - getlatka.comAugury - Overview, News & Similar companies | ZoomInfo.comAugury Information - RocketReachAugury Funding History: $352.0M | Indexed.vc — Mar 13, 2026 · Augury has raised $369M in funding from investors like First Round Capital, Insight Partners and Qualcomm Ventures, with a cu",
+    "url": "https://tracxn.com/d/companies/augury/__iOV893NXKKTI5Darz3kvXAj8PV501-NfsCBZH0sB0JA",
+    "pass": 3
+   },
+   {
+    "quote": "Augury Revenue 2025: $155M Est., $1B Valuation - getlatka.com — Nov 24, 2025 · Augury 2025 estimated revenue: $155M (up from $75M in 2024). Valuation: $1B. Total funding: $155M across 3 rounds. 357 employees. Updated Nov 24, 2025.",
+    "url": "https://getlatka.com/companies/augury.com",
+    "pass": 3
+   },
+   {
+    "quote": "Augury - Overview, News & Similar companies | ZoomInfo.com — Compare insights from companies similar to Augury, focusing on performance, financial data, growth rates, and unique benchmarks to identify key industry trends and opportunities.",
+    "url": "https://www.zoominfo.com/c/augury-inc/346038542",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/82952-56",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Comparing 3 Equipment Maintenance AI Companies with the Same ... This time, I will read the public materials of Augury, Nanoprecise, and Infinite Uptime, which support equipment maintenance, using the same questions. This is to organize what each company explains they provide, not to rank the performance or price of actual machines.",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI is not just about robots｜GPU Human - note（ノート） Sep 21, 2026 · In this article, we will look at Augury, a company founded in Israel. Using their technology for capturing equipment status as an entry point, we want to look at the value of industrial AI from a perspective other than 'robot movement'.",
+    "url": "https://note.com/gpuhuman/n/n708bf33ebcbc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Jund Dragons, Rakdos Wizards and Jace Planeswalkers ... If Augury is that second spell while Whale is already in play, Whale's trigger resolves before Augury and you can proliferate twice. Add time counters to Whale only while it still has one. The deck's mana must support four colors, and planeswalkers need time and board protection to generate value.",
+    "url": "https://note.com/dailymtgresearch/n/n63fcda6df0f9?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "設備保全AIの3社を、同じ問いで比べる｜GPU Human",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "設備の異常や故障の兆候を捉えるAIを調べると、どの企業も頼もしく見える。センサー、AI診断、ダッシュボード。比較表に丸を付けていくと、全社が優勝してしまうこともある。ただ、同じ機能名が並んでいても、現場に届く情報や、その後に人が担う仕事まで同じとは限らない。私は、丸の数よりも「導入した翌朝、誰が何をするのか」が見える比較にしたい。",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、設備保全を支援するAugury社、Nanoprecise社、Infinite Uptime社の公開資料を、同じ問いで読む。各社が何を提供すると説明しているかを整理するもので、実機の性能評価や価格の順位付けではない。日本での提供体制や、自社設備への適合性も別途確認が必要である。",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "設備保全とは、設備の状態を確認し、必要な点検や修理につなげる仕事である。今回の対象は、その判断を支えるAIだ。AIが故障の兆候を知らせることと、修理作業まで自動で終えることは分けて考える。比較の出発点として、「工場のモーターやポンプの状態を把握し、突発的な停止を減らすための点検計画に使いたい」という仮の用途を置く。これは読み方を示すための想定であり、実際の案件や導入実績ではない。",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "この用途に対し、各社の資料から次の4点を拾っていく。",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "対象：どの設備や故障を扱うと説明しているか。",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "対応：診断を誰が確認し、現場は何をするか。",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "費用：必要な構成と支援が、どこまで見積もりに含まれるか。",
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AIの主役は、ロボットだけではない｜GPU Human",
+    "url": "https://note.com/gpuhuman/n/n708bf33ebcbc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "工場のAIと聞くと、器用に動くロボットアームを思い浮かべるかもしれない。けれど、腕を持たず、部品も運ばず、それでも現場を支えるAIがある。例えば、いつも回っているモーターの変化を捉え、点検や修理を考える材料を届ける技術である。新しい機械を動かすだけでなく、今ある機械をどう使い続けるかにも、AIの出番はある。",
+    "url": "https://note.com/gpuhuman/n/n708bf33ebcbc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、イスラエルで創業したAugury（オーグリー）社を取り上げる。設備の状態を捉える技術を入口に、産業AIの価値を「ロボットの動き」以外から見てみたい。",
+    "url": "https://note.com/gpuhuman/n/n708bf33ebcbc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "によると、同社は2011年にイスラエルで創業した。ここで注目するのは、同社がMachine Healthと呼ぶ、設備の状態把握や診断を支える領域である。同社の",
+    "url": "https://note.com/gpuhuman/n/n708bf33ebcbc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "では、モーター、ポンプ、ファン、コンプレッサーなどの回転機械を対象例として挙げ、振動、温度、超音波、磁場のセンサーデータを用いると説明している。必要なセンサーや対象範囲は、個別の構成で確認する必要がある。ロボットアームが物をつかむ技術と、モーターの状態を診断する技術は、役割が違う。本記事では後者を、製造現場を支える産業AIとして扱う。現場にあるAIをすべて、自律的に動作するロボットと同じものに分類するわけではない。",
+    "url": "https://note.com/gpuhuman/n/n708bf33ebcbc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、同じ仕事をしているはずのポンプで、振動の傾向が変わったとする。何かが傷んだのか、運転条件が変わったのか、それとも測定側の問題なのか。変化を見つけることと、理由を判断することの間には距離がある。Augury社の",
+    "url": "https://note.com/gpuhuman/n/n708bf33ebcbc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "は、データ収集、クラウド上での診断、保全に役立つ結果の提供という流れを示している。数値を表示するだけでなく、問題の診断や修理の推奨につなぐという説明である。この違いは、体温計と診察の違いに少し似ている。ただし、機械の故障を何でも見抜く万能な診断ではない。何を測り、どの状態まで判断できるかという範囲がある。",
+    "url": "https://note.com/gpuhuman/n/n708bf33ebcbc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "で、毎分1〜150回転の低速回転機械向けに、超音波センシングを使う監視・診断ソリューションを紹介した。これは発表時点の製品説明であり、すべての低速設備や故障に対応できることの証明ではない。導入する側にとって重要なのは、「AI搭載か」だけではない。自社の機械、回転速度、負荷、設置環境が、説明されている対象に入るかである。",
+    "url": "https://note.com/gpuhuman/n/n708bf33ebcbc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Jund Dragons, Rakdos Wizards and Jace Planeswalkers | Standard & Brawl｜Daily MTG Research",
+    "url": "https://note.com/dailymtgresearch/n/n63fcda6df0f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Jund Dragons, Rakdos Wizards and Jace Planeswalkers | Standard & Brawl",
+    "url": "https://note.com/dailymtgresearch/n/n63fcda6df0f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Watch our Standard Jund Dragon Sacrifice video:",
+    "url": "https://note.com/dailymtgresearch/n/n63fcda6df0f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.youtube.com/watch?v=gKqlW3aFCZI",
+    "url": "https://note.com/dailymtgresearch/n/n63fcda6df0f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Three lists offer different ways to turn a small resource into a larger turn. In Standard, Jund spends Treasures on Dragons while Rakdos uses cheap spells to multiply damage. In Brawl, Jace turns card selection and proliferate into a planeswalker engine. Each section explains a concrete play, its conditions and the complete credited recipe.",
+    "url": "https://note.com/dailymtgresearch/n/n63fcda6df0f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We examined the first 20 organic video results for each of two YouTube searches, MTG and Magic:TheGathering, with Today, Video and Popularity filters. After deduplication and relevance checks, 26 of 30 watch pages were Magic uploads in the November 5 10:02:54 UTC through November 6 10:02:54 UTC window. These three videos ranked seventh, tenth and sixteenth by observed views in that sample. This is",
+    "url": "https://note.com/dailymtgresearch/n/n63fcda6df0f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Jund Dragon Sacrifice — Standard",
+    "url": "https://note.com/dailymtgresearch/n/n63fcda6df0f9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Standard · Recipe by CovertGoBlue · Source video uploaded November 05, 16:00:19 UTC. Rank 7 with 25,896 views, observed November 06, 10:04:11 UTC in the documented search sample.",
+    "url": "https://note.com/dailymtgresearch/n/n63fcda6df0f9?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Augury (@augurysys) / X Visit booth 33 where the Augury team is ready to show how leading food and beverage companies use Augury to prevent unplanned downtime and ensure product quality.",
+    "url": "https://x.com/augurysys",
+    "pass": 3
+   },
+   {
+    "quote": "Augury (@AuguryTheGame) / X Dodging enemy attacks in a multiplayer action RPG that's called AUGURY. Augury on Steam (steampowered.com) #gaming #game #games #videogames #actionrpg #action #rpg #voxel #voxelart #fun #difficultgame #difficultgames #fungames #fungame #gameplay #actionrpg",
+    "url": "https://x.com/AuguryTheGame",
+    "pass": 3
+   },
+   {
+    "quote": "augury (@auguryz) / X It's funny to see the same old reactionary panic posting. We've had way wilder updates over the years which eventually got accepted as the standard. This too shall be fine. (Also, lowkey happy there will be lesser random smoke spamming.) 259 augury @auguryz Mar 10",
+    "url": "https://x.com/auguryz",
+    "pass": 3
+   },
+   {
+    "quote": "@augury9 | X The latest posts from @augury9",
+    "url": "https://x.com/augury9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Augury - LinkedIn A leading Industrial AI company, Augury helps the world’s manufacturers leverage real-time production insights and data to drive new levels of efficiency.",
+    "url": "https://www.linkedin.com/company/augury-systems",
+    "pass": 3
+   },
+   {
+    "quote": "Augury - LinkedIn For 15 years, Augury has been listening to machines. Over a billion hours of machine readings. Insights that have helped manufacturers keep lines running and production on track.",
+    "url": "https://www.linkedin.com/products/augury-systems-augury/",
+    "pass": 3
+   },
+   {
+    "quote": "Augury - LinkedInAugury Healthcare - LinkedInAugury: Jobs | LinkedInSaar Yoskovitz - Co-Founder and Executive Chairman @ Augury ...Elan Greenberg - CEO, Augury | LinkedIn A leading Industrial AI company, Augury helps the world’s manufacturers leverage real-time production insights and data to drive new levels of efficiency. At Augury Healthcare, we believe better healthcare experiences begin with ",
+    "url": "https://il.linkedin.com/company/augury-systems",
+    "pass": 3
+   },
+   {
+    "quote": "Augury Healthcare - LinkedIn At Augury Healthcare, we believe better healthcare experiences begin with strong relationships. Founded by practising clinicians and led by experienced healthcare operators, Augury is a...",
+    "url": "https://ca.linkedin.com/company/augury-healthcare",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Augury | New York NY - FacebookAugury - FacebookAugury Investing - FacebookAUGURY - FacebookAugury - FacebookYou’re in Love” was written and produced by Glen Ballard with ...What does your Augury RSM actually do? Diego explains - Facebook Oct 16, 2026 · Augury, New York. 3,407 followers · 2 talking about this · 3 were here. Our mission is to transform how people and machines work together to push ",
+    "url": "https://www.facebook.com/augurysys/",
+    "pass": 3
+   },
+   {
+    "quote": "Augury - FacebookAugury Investing - FacebookAUGURY - FacebookAugury - FacebookYou’re in Love” was written and produced by Glen Ballard with ...What does your Augury RSM actually do? Diego explains - Facebook Sep 17, 2026 · ‼️🔥Trois-Rivières Metalfest🔥‼️ Augury a pris d'assaut la scène de Trois-Rivières. Oct 11, 2026 · Augury Investing. 26,028 followers · 1 talking about this. Augury is an independ",
+    "url": "https://www.facebook.com/augury/",
+    "pass": 3
+   },
+   {
+    "quote": "Augury Investing - Facebook Oct 11, 2026 · Augury Investing. 26,028 followers · 1 talking about this. Augury is an independent research platform for individual investors to find high-quality...",
+    "url": "https://www.facebook.com/AuguryInvesting/",
+    "pass": 3
+   },
+   {
+    "quote": "AUGURY - Facebook AUGURY. 479 likes. Established in the summer of 2021, amidst a global pandemic — AUGURY LTD is an independently run c",
+    "url": "https://www.facebook.com/augury.ltd/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.augury.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/success-stories/pepsicos-manufacturing-innovation-leads-to-tangible-roi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/solutions/ai-architecture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/solutions/operations-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/machine-health/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/machine-health-solutions/cr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/machine-health-solutions/hazardous/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/machine-health-solutions/machine-health-ultra-low/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/machine-health-solutions/se/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/machine-health-solutions/auguscope/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/use-cases/industries/food-and-beverage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/use-cases/industries/consumer-packaged-goods/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/use-cases/industries/chemicals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/use-cases/industries/building-materials-cement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/use-cases/industries/metals-mining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/blog/customers-partners/bbc-features-pepsico-and-augury-turning-snack-making-sounds-into-actionable-insights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/use-cases/industries/pulp-and-paper/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/use-cases/industries/glass/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.augury.com/use-cases/industries/pharmaceuticals/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://info.augury.com/rs/644-UHX-540/images/Augury-ICL-Success-Story.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://info.augury.com/Augury-Building-Materials-Case-Study.html",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.augury.com/wp-content/themes/wp-pro-kit/assets/images/bottom-cta-partners-bg-top.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.augury.com/wp-content/themes/wp-pro-kit/assets/images/bottom-cta-partners-bg-left.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.augury.com/wp-content/uploads/2023/04/Snacks-manufacturing-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.augury.com/wp-content/themes/airfleet/theme/imported/operations-agent/assets/Using-Manufacturing-AI-Agents-1024x535.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mfg-ai.com/vendors/augury-industrial-ai-workforce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.doit.com/ja/customers/augury",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://radineer.asia/aisaas/blog/ai-predictive-maintenance-platforms-comparison-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/augury-systems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://wikilanguages.net/Japanese/augury.html",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://aiformanufacturing.org/augury",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/augury/case-study/large-home-appliance-refrigerator-manufacturing-company-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/augury/case-study/how-a-global-leader-in-paper-tissue-products-is-transforming-their-business-with-insight-driven-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/augury",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/82952-56",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/augury/__iOV893NXKKTI5Darz3kvXAj8PV501-NfsCBZH0sB0JA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/augury.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gpuhuman/n/n708bf33ebcbc?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dailymtgresearch/n/n63fcda6df0f9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/augurysys",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AuguryTheGame",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/auguryz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/augury-systems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/augury-systems-augury/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/augury-systems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/augury-healthcare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/augurysys/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/augury/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AuguryInvesting/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/augury.ltd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/augury9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/auguryz",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Augury 日本 導入",
+   "results": [
+    "https://mfg-ai.com/vendors/augury-industrial-ai-workforce",
+    "https://www.doit.com/ja/customers/augury",
+    "https://www.augury.com/",
+    "https://radineer.asia/aisaas/blog/ai-predictive-maintenance-platforms-comparison-2026/",
+    "https://note.com/gpuhuman/n/n64abcc25e046",
+    "https://carview.yahoo.co.jp/news/detail/448b8a840be6e9bb385d51160322ca431783105a/",
+    "https://kuruma-news.jp/post/1131871"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Augury 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Augury Japan",
+   "results": [
+    "https://www.augury.com/",
+    "https://jp.linkedin.com/company/augury-systems",
+    "https://wikilanguages.net/Japanese/augury.html",
+    "https://www.augury.com/about/",
+    "https://www.wordhippo.com/what-is/the/japanese-word-for-e59a81aa91722ab760f47fd9ec560021090f2745.html",
+    "https://glosbe.com/en/ja/augury",
+    "https://www.aibase.com/ja/news/15556"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Augury manufacturing customer case study",
+   "results": [
+    "https://www.augury.com/success-stories/",
+    "https://aiformanufacturing.org/augury",
+    "https://www.casestudies.com/company/augury/case-study/large-home-appliance-refrigerator-manufacturing-company-customer-case-study",
+    "https://www.casestudies.com/company/augury/case-study/how-a-global-leader-in-paper-tissue-products-is-transforming-their-business-with-insight-driven-manufacturing",
+    "https://info.augury.com/augury-icl-case-study.html",
+    "https://www.featuredcustomers.com/vendor/augury/case-studies",
+    "https://www.augury.com/our-customers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Augury white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Augury founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/augury",
+    "https://pitchbook.com/profiles/company/82952-56",
+    "https://tracxn.com/d/companies/augury/__iOV893NXKKTI5Darz3kvXAj8PV501-NfsCBZH0sB0JA",
+    "https://getlatka.com/companies/augury.com",
+    "https://www.zoominfo.com/c/augury-inc/346038542",
+    "https://rocketreach.co/augury-profile_b5eeb3b7f42e7680",
+    "https://indexed.vc/companies/augury"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Augury",
+   "results": [
+    "https://note.com/gpuhuman/n/n64abcc25e046?hl=en",
+    "https://note.com/gpuhuman/n/n708bf33ebcbc?hl=en",
+    "https://note.com/dailymtgresearch/n/n63fcda6df0f9?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/5tyon/n/n7dd06cbefd15",
+    "https://note.com/maxmatsuura/n/n5184b760199e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Augury",
+   "results": [
+    "https://x.com/augurysys",
+    "https://x.com:8443/augury",
+    "https://x.com/AuguryTheGame",
+    "https://x.com/auguryz",
+    "https://x.com/AugurySim",
+    "https://x.com/hashtag/augury",
+    "https://x.com/linneaugury/status/2120214418223235322"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Augury",
+   "results": [
+    "https://www.linkedin.com/company/augury-systems",
+    "https://www.linkedin.com/products/augury-systems-augury/",
+    "https://il.linkedin.com/company/augury-systems",
+    "https://ca.linkedin.com/company/augury-healthcare",
+    "https://www.linkedin.com/company/augury-systems/jobs",
+    "https://www.linkedin.com/in/saaryoskovitz",
+    "https://www.linkedin.com/in/elan-greenberg"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Augury",
+   "results": [
+    "https://www.facebook.com/augurysys/",
+    "https://www.facebook.com/augury/",
+    "https://www.facebook.com/AuguryInvesting/",
+    "https://www.facebook.com/augury.ltd/",
+    "https://www.facebook.com/auguryarts/",
+    "https://www.facebook.com/augurysys/videos/what-does-your-augury-rsm-actually-do-diego-explains/1099190889438385/",
+    "https://www.facebook.com/theaugury/videos/youre-in-love-was-written-and-produced-by-glen-ballard-with-the-group-wilson-phi/1445853454161852/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Augury note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.augury.com/media-center/press/augury-appoints-new-executive-team-to-scale-industrial-ai-category-leadership/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.augury.com/blog/author/saar-yoskovitz/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Augury X 投稿",
+   "results": [
+    "https://www.auguryx.ai/",
+    "https://x.com/augury9",
+    "https://www.augury.com/",
+    "https://x.com/auguryz",
+    "https://www.augury.com/access-our-knowledge-base/",
+    "https://app.augury.com/",
+    "https://sananeblog.com/x-twitter-automation/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像6件／外部36頁・検索12回）"
+ }
+}

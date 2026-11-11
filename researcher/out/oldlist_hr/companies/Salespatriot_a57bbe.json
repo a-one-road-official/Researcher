@@ -1,0 +1,1271 @@
+{
+ "name": "Salespatriot",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-11T02:12:30.794505+00:00",
+ "official_url": "https://www.salespatriot.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "28-Oct-2025 $5M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/747390-52",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Jan-2025    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/747390-52",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Supply Chain AI for critical enterprise | SalesPatriot",
+    "url": "https://salespatriot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data is scattered across twelve systems. Records get lost and executives lack visibility. Enterprise workflows are time consuming because data isn't",
+    "url": "https://salespatriot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Teams are stuck between their email, ERP, CRM, marketplaces, and spreadsheets instead of winning business and protecting margin.",
+    "url": "https://salespatriot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous workflows for teams managing complex, multi-source procurement operations.",
+    "url": "https://salespatriot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For the first time, we have real visibility into what we're winning, what we're losing, and why. With SalesPatriot we've tripled our bids, streamlined processes and see meaningful growth across the board”",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "President · Echelon Supply & Service",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "Transactional volume - processed by hand",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "Five people. $20M in annual revenue. The process ran — but supplier coverage was incomplete, margin visibility was limited, and the team had no clear picture of what they were missing or why.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "Manual RFQ Processing",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "SalesPatriot engineers work alongside the sourcing and sales teams to document the full DLA workflow — from 4am RFQ downloads to bid submission — across every system and every handoff",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "The platform begins automatically analyzing incoming DLA solicitations, identifying relevant manufacturers, and mapping them to known supplier relationships. The manual morning review process is replaced.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "No change in headcount. Productivity increased exponentially, producing more revenue with the same team working fewer hours.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "\"For the first time, we have real visibility into what we're winning, what we're losing, and why. With SalesPatriot we've tripled our bids, streamlined processes and see meaningful growth across the board”",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "Echelon didn’t throw bodies at the problem. They built a smarter engine.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "S&K, the tribally owned sustainment company supporting more than 100 partner nations and every U.S. military service, will deploy SalesPatriot’s AI across its MRO enterprise",
+    "url": "https://salespatriot.com/blog/sk-aerospace-and-salespatriot-partner",
+    "pass": 1
+   },
+   {
+    "quote": "“S&K has spent two decades sustaining the aircraft that American and allied airpower depends on. By pairing their expertise with SalesPatriot’s AI-powered software, our partnership is unifying data across the enterprise to keep more aircraft available for the warfighter and more of S&K’s people on the problems that matter most,” said Nelson Ray, Co-Founder and CEO of SalesPatriot.",
+    "url": "https://salespatriot.com/blog/sk-aerospace-and-salespatriot-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Distributors and OEMs where a customer, a prime or the DLA sends a list of part numbers and somebody has to source it, price it and win it.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "If your customers send lists of part numbers and your team prices them by hand, we should talk.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "High-line-count RFQs with grade, thread and finish callouts priced on your contracts.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Component RFQs priced across franchised lines, brokers and portals, with availability and lead time.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Bid packages and takeoffs priced line by line, with SPA and contract pricing applied.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Your procurement team deserves better tools.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "See what near-autonomous procurement looks like.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Parts, services and AOG buys sourced against approved vendors, ordered and tracked, with the AOG lane kept separate.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Different parts, same three problems",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "ERP, email, portals, spreadsheets and someone's memory.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "ERP, supplier portals, email, spreadsheets — none of them talk to each other.",
+    "url": "https://salespatriot.com/industries/defense",
+    "pass": 1
+   },
+   {
+    "quote": "Unified procurement data",
+    "url": "https://salespatriot.com/industries/defense",
+    "pass": 1
+   },
+   {
+    "quote": "AI-driven quote generation pulling pricing, availability, and compliance data in real time.",
+    "url": "https://salespatriot.com/industries/defense",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered analysis of reliability, pricing trends, and risk across your network.",
+    "url": "https://salespatriot.com/industries/defense",
+    "pass": 1
+   },
+   {
+    "quote": "High-line-count RFQs with grade, thread and finish callouts priced on your contracts.",
+    "url": "https://salespatriot.com/industries/distribution",
+    "pass": 1
+   },
+   {
+    "quote": "Component RFQs priced across franchised lines, brokers and portals, with availability and lead time.",
+    "url": "https://salespatriot.com/industries/distribution",
+    "pass": 1
+   },
+   {
+    "quote": "Bid packages and takeoffs priced line by line, with SPA and contract pricing applied.",
+    "url": "https://salespatriot.com/industries/distribution",
+    "pass": 1
+   },
+   {
+    "quote": "Process standardization",
+    "url": "https://salespatriot.com/industries/distribution",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time dashboards showing cost, performance, and bottlenecks across procurement.",
+    "url": "https://salespatriot.com/industries/distribution",
+    "pass": 1
+   },
+   {
+    "quote": "Our engineers onsite. We understand your team, we solve your problems.",
+    "url": "https://salespatriot.com/industries/distribution",
+    "pass": 1
+   },
+   {
+    "quote": "See what near-autonomous procurement looks like.",
+    "url": "https://salespatriot.com/industries/distribution",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement | SalesPatriot",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Semi-autonomous workflows for teams managing complex, multi-source procurement operations.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "80% of procurement is still manual.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Data moves between ERP, email, and spreadsheets by hand. Every day.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "No single view of supplier pricing, availability, or reliability.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Vantage reads your POs, receipts and RFQs and scores every vendor on spend, on-time delivery, lead time against quote, RFQ response and price variance. Ask any question and the dashboard answers with the chart behind it.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Where is price variance highest?",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "+6% vs prior",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "−3.1 pts vs prior",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "+4.2 days vs prior",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "+5.6 hrs vs prior",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase price variance",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "+0.6 pts vs prior",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Industries · Procurement",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "For procurement teams inside large enterprises: aerospace, airlines and heavy manufacturing.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Parts, services and AOG buys sourced against approved vendors, ordered and tracked, with the AOG lane kept separate.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing trends, reliability scoring, and risk analysis across your entire network.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time dashboards showing cost, performance, and bottlenecks across procurement.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Our engineers onsite. We understand your team, we solve your problems.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Process standardization",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Your procurement team deserves better tools.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "See what near-autonomous procurement looks like.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain and distribution still run on email threads, PDFs, and legacy systems stitched together over decades, even as the scale, speed, and complexity of modern industries accelerate. The gap isn't theoretical. It's operational, and widening.",
+    "url": "https://salespatriot.com/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "S&K Aerospace and SalesPatriot Partner to Transform Sustainment Operations for U.S. and Allied Forces with AI",
+    "url": "https://salespatriot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The platform begins automatically analyzing incoming DLA solicitations, identifying relevant manufacturers, and mapping them to known supplier relationships. The manual morning review process is replaced.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "S&K Aerospace and SalesPatriot Partner to Transform Sustainment Operations for U.S. and Allied Forces with AI | SalesPatriot",
+    "url": "https://salespatriot.com/blog/sk-aerospace-and-salespatriot-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase requests turned into sourced, compliant POs for aerospace OEMs and MROs; supplier communication and expediting handled.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase requests to POs across thousands of parts and suppliers for heavy equipment, rail and industrial manufacturers.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "For distributors of critical parts, from bearings and fasteners to aerospace hardware.",
+    "url": "https://salespatriot.com/industries/distribution",
+    "pass": 1
+   },
+   {
+    "quote": "For procurement teams inside large enterprises: aerospace, airlines and heavy manufacturing.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase requests turned into sourced, compliant POs for aerospace OEMs and MROs; supplier communication and expediting handled.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase requests to POs across thousands of parts and suppliers for heavy equipment, rail and industrial manufacturers.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "SalesPatriot exists to close that gap. We build the AI operating system for complex procurement and distribution across defense, aerospace, and industrial sectors, ingesting fragmented data and turning manual workflows into semi-autonomous processes.",
+    "url": "https://salespatriot.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Brings cutting-edge AI research into high-impact industrial applications.",
+    "url": "https://salespatriot.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're assembling an elite team of engineers, operators, and builders who want to solve hard problems inside critical enterprises.",
+    "url": "https://salespatriot.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "America's industrial base runs on systems built in the 1980s.",
+    "url": "https://salespatriot.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Billions of dollars in critical components — F-35 parts, industrial assemblies, electronics, bolts, and hoses — still move through email threads, Excel spreadsheets, and disconnected ERPs.",
+    "url": "https://salespatriot.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": ", the AI-powered operating system for defense and aerospace distributors and OEMs, today announced a strategic partnership with",
+    "url": "https://salespatriot.com/blog/salespatriot-announces-strategic-partnership-with-maven-engineering-corporation",
+    "pass": 1
+   },
+   {
+    "quote": ", a manufacturer and distributor of precision machined parts that has supplied the defense and rail industries since 1946. Under the partnership, Maven will adopt SalesPatriot across its distribution business to quote faster, pursue more opportunities, and serve its customers with greater speed and accuracy.",
+    "url": "https://salespatriot.com/blog/salespatriot-announces-strategic-partnership-with-maven-engineering-corporation",
+    "pass": 1
+   },
+   {
+    "quote": "SalesPatriot is the AI-powered operating system for defense, aerospace, industrial and electronics distributors and OEMs. The company is based in San Francisco, CA and is backed by Silicon Valley’s leading investors, including Y Combinator, CRV and Pear VC. Learn more at salespatriot.com.",
+    "url": "https://salespatriot.com/blog/salespatriot-announces-strategic-partnership-with-maven-engineering-corporation",
+    "pass": 1
+   },
+   {
+    "quote": "S&K Aerospace and SalesPatriot Partner to Transform Sustainment Operations for U.S. and Allied Forces with AI",
+    "url": "https://salespatriot.com/blog/salespatriot-announces-strategic-partnership-with-maven-engineering-corporation",
+    "pass": 1
+   },
+   {
+    "quote": "SalesPatriot deploys supply chain superintelligence into distribution, original equipment manufacturing, and procurement. By embedding AI in the teams that run quote to cash workflows, we turn email chains, ERPs, websites, spreadsheets, and portals into a unified transactional layer, so critical parts reach the production line faster.",
+    "url": "https://www.ycombinator.com/companies/salespatriot",
+    "pass": 3
+   },
+   {
+    "quote": "Helping manufacturers win DoD RFQ solicitations. Full-stack & Sales",
+    "url": "https://www.ycombinator.com/companies/salespatriot",
+    "pass": 3
+   },
+   {
+    "quote": ", a Polish-American startup developing a next-generation procurement platform for defense and aerospace components, has raised",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot’s funding comes amid a surge of investor interest in procurement and defense-related technologies across Europe. In 2025 alone, several European startups raised capital to automate sourcing and manufacturing processes:",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "– €2M for manufacturing SaaS",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "While these firms target general enterprise procurement, SalesPatriot stands out as the only startup focused exclusively on defense and aerospace, and one of few operating from Poland, a rising defense-tech hub in Central Europe.",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": ", SalesPatriot was born out of frustration with slow, outdated procurement systems still used by major defense contractors.",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "In just over a year, SalesPatriot has landed contracts with major distributors including Jamaica Bearings Group, AllClear Aerospace, and STATZ Corporation.",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Investors view SalesPatriot as a key enabler of Western industrial resilience.",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": ", General Partner at CRV. “SalesPatriot is building the procurement engine for the next generation of defense manufacturers.”",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Over the next 18 months, SalesPatriot aims to dominate the defense sector, enter commercial aviation, and expand into European and Asian procurement markets. Long-term, the company envisions becoming the trusted infrastructure layer for all mission-critical supply chains — spanning defense, aerospace, and energy.",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "As the West races to strengthen its defense-industrial base, Poland’s SalesPatriot could play a pivotal role — turning procurement software into a strategic weapon of readiness.",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "UVID DroneTech 2026 brings Israeli defense manufacturers, military officials and international delegations to Tel Aviv on November 12, focusing on autonomous systems, counter-UAS technologies and European industry cooperation.",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "How Romania Is Becoming Europe’s New Defense Manufacturing Hub",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Romania is emerging as a major European defense manufacturing center, attracting Rheinmetall, Hanwha Aerospace and Otokar. Billions in military contracts are driving new factories, but industrial challenges and procurement scrutiny remain.",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Teams are stuck between their email, ERP, CRM, marketplaces, and spreadsheets instead of winning business and protecting margin.",
+    "url": "https://salespatriot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SalesPatriot engineers were on-site at Echelon from day one, mapping handoff and systems before writing a line of code. The platform was built around Echelon's existing ERP, email and workflow.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "SalesPatriot engineers connect Echelon's ERP, email, and supplier data into a single unified structure — consolidating years of fragmented sourcing history into one accessible and actionable layer.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "Contract-specific RFQ emails — including FAT requirements, PLT, packaging instructions, and delivery terms — generate automatically. Supplier RFQ emails are sent completely autonomously. Supplier responses are parsed by AI and routed directly into the workflow and assigned to the relevant rep.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "The complete bid pipeline is live. The team reviews quotes, evaluates suppliers, and submits bids — without manual data entry, without drafting emails, without cross-system coordination.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "More outreach, and better outreach. Supplier contacts mapped automatically and RFQ emails generated with contract-specific requirements—vendors respond faster.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "More supplier emails → more vendor quotes → more bids submitted → more revenue captured. SalesPatriot didn’t optimize one step in the chain. It accelerated the entire thing.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "\"We used to start at 4am just to keep up. Someone had to pull the DIBBS solicitations, scan every line by hand, figure out who to email. Now that's done before anyone walks in the door. We show up and we're already ahead.\"",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "ERP, email, portals, spreadsheets and someone's memory.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "ERP, supplier portals, email, spreadsheets — none of them talk to each other.",
+    "url": "https://salespatriot.com/industries/defense",
+    "pass": 1
+   },
+   {
+    "quote": "Copying data between systems. Chasing suppliers by email. Generating RFQs by hand. Your team's time goes to work that adds zero value.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Data moves between ERP, email, and spreadsheets by hand. Every day.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": "Supply chain and distribution still run on email threads, PDFs, and legacy systems stitched together over decades, even as the scale, speed, and complexity of modern industries accelerate. The gap isn't theoretical. It's operational, and widening.",
+    "url": "https://salespatriot.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Quoting, sourcing and procuring parts today still means navigating RFQs, emails, disconnected systems, and days of manual coordination. What should take hours takes weeks, limiting throughput and slowing the entire supply chain.",
+    "url": "https://salespatriot.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Billions of dollars in critical components — F-35 parts, industrial assemblies, electronics, bolts, and hoses — still move through email threads, Excel spreadsheets, and disconnected ERPs.",
+    "url": "https://salespatriot.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "SalesPatriot deploys supply chain superintelligence into distribution, original equipment manufacturing, and procurement. By embedding AI in the teams that run quote to cash workflows, we turn email chains, ERPs, websites, spreadsheets, and portals into a unified transactional layer, so critical parts reach the production line faster.",
+    "url": "https://www.ycombinator.com/companies/salespatriot",
+    "pass": 3
+   },
+   {
+    "quote": "Ray, a former Aurora Defense Group engineer, witnessed firsthand how teams lost time managing quotes and purchase orders across spreadsheets and email chains. CTO",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/747390-52",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Five people. $20M in annual revenue. The process ran — but supplier coverage was incomplete, margin visibility was limited, and the team had no clear picture of what they were missing or why.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "No change in headcount. Productivity increased exponentially, producing more revenue with the same team working fewer hours.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "More supplier emails → more vendor quotes → more bids submitted → more revenue captured. SalesPatriot didn’t optimize one step in the chain. It accelerated the entire thing.",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 1
+   },
+   {
+    "quote": "SalesPatriot Revenue 2025: $1.9M Est.",
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot has not published its revenue. GetLatka estimates it at about $1.9M a year (September 2025).",
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot employees",
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot has 17 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is SalesPatriot's revenue?",
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates SalesPatriot's revenue at about",
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SalesPatriot have?",
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/747390-52",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot has 10 total employees.",
+    "url": "https://pitchbook.com/profiles/company/747390-52",
+    "pass": 3
+   },
+   {
+    "quote": "What is SalesPatriot’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/747390-52",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SalesPatriot is",
+    "url": "https://pitchbook.com/profiles/company/747390-52",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Distributors and OEMs where a customer, a prime or the DLA sends a list of part numbers and somebody has to source it, price it and win it.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase requests turned into sourced, compliant POs for aerospace OEMs and MROs; supplier communication and expediting handled.",
+    "url": "https://salespatriot.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase requests turned into sourced, compliant POs for aerospace OEMs and MROs; supplier communication and expediting handled.",
+    "url": "https://salespatriot.com/industries/procurement",
+    "pass": 1
+   },
+   {
+    "quote": ", the AI-powered operating system for defense and aerospace distributors and OEMs, today announced a strategic partnership with",
+    "url": "https://salespatriot.com/blog/salespatriot-announces-strategic-partnership-with-maven-engineering-corporation",
+    "pass": 1
+   },
+   {
+    "quote": "SalesPatriot is the AI-powered operating system for defense, aerospace, industrial and electronics distributors and OEMs. The company is based in San Francisco, CA and is backed by Silicon Valley’s leading investors, including Y Combinator, CRV and Pear VC. Learn more at salespatriot.com.",
+    "url": "https://salespatriot.com/blog/salespatriot-announces-strategic-partnership-with-maven-engineering-corporation",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SalesPatriot : Supply Chain AI for critical enterprise — SalesPatriot : Supply Chain AI for critical enterprise SalesPatriot https://salespatriot.com",
+    "url": "https://salespatriot.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot raises $5M to modernize procurement for ... — SalesPatriot raises $5M to modernize procurement for ... LinkedIn https://www.linkedin.com > posts > y-...",
+    "url": "https://www.linkedin.com/posts/y-combinator_salespatriot-yc-w25-has-raised-5-million-activity-7388982924165033985-V4gs",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot : Supply chain superintelligence for distribution ... — SalesPatriot : Supply chain superintelligence for distribution ... Y Combinator https://www.ycombinator.com > sales...",
+    "url": "https://www.ycombinator.com/companies/salespatriot",
+    "pass": 3
+   },
+   {
+    "quote": "Warsaw's SalesPatriot Raises €4.2 M to Modernize Defense ... — Warsaw's SalesPatriot Raises €4.2 M to Modernize Defense ... adriadefense.com https://www.adriadefense.com > wars...",
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Warsaw-based SalesPatriot raises €4.2 million to modernise ... — Warsaw-based SalesPatriot raises €4.2 million to modernise ... EU-Startups https://www.eu-startups.com > 2025/10",
+    "url": "https://www.eu-startups.com/2025/10/warsaw-based-salespatriot-raises-e4-2-million-to-modernise-defense-procurement-and-expand-into-europe/",
+    "pass": 3
+   },
+   {
+    "quote": "Echelon Supply & Service + SalesPatriot — Echelon Supply & Service + SalesPatriot SalesPatriot https://salespatriot.com > case-studies",
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot's Post - LinkedIn — SalesPatriot's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > sa...",
+    "url": "https://www.linkedin.com/posts/salespatriot_today-were-launching-our-case-study-with-activity-7470859930175139840-yDqH",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot podcast with Augie Fabela from Aurora Defense ... — SalesPatriot podcast with Augie Fabela from Aurora Defense ... SalesPatriot https://salespatriot.com > blog > sales...",
+    "url": "https://salespatriot.com/blog/salespatriot-podcast-with-augie-fabela-from-aurora-defense-group-(hosted-by-nelson-ray)",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot Revenue 2025: $1.9M Est. - GetLatka — SalesPatriot Revenue 2025: $1.9M Est. - GetLatka GetLatka https://getlatka.com > salespatriot",
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot - Valuation, Funding & Investors - PitchBook — SalesPatriot - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/747390-52",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot - Crunchbase Company Profile & Funding — SalesPatriot - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > salesp...",
+    "url": "https://www.crunchbase.com/organization/salespatriot",
+    "pass": 3
+   },
+   {
+    "quote": "Polish-American startup SalesPatriot raises $5M to ... - Vestbee — Polish-American startup SalesPatriot raises $5M to ... - Vestbee Vestbee https://vestbee.com > insights > articles",
+    "url": "https://vestbee.com/insights/articles/sales-patriot-raises-5-m",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SalesPatriot (YC W25) (@ salespatriot _) / X SalesPatriot (YC W25) (@ salespatriot _) / X X https://x.com > salespatriot_",
+    "url": "https://x.com/salespatriot_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SalesPatriot - LinkedIn SalesPatriot - LinkedIn LinkedIn https://www.linkedin.com > salespatriot",
+    "url": "https://www.linkedin.com/company/salespatriot",
+    "pass": 3
+   },
+   {
+    "quote": "Maciej Szymczyk - Co-founder @ SalesPatriot (YC W25) Maciej Szymczyk - Co-founder @ SalesPatriot (YC W25) LinkedIn https://www.linkedin.com > maciej-sz...",
+    "url": "https://www.linkedin.com/in/maciej-szymczyk",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot raises $5M to modernize procurement for ... SalesPatriot raises $5M to modernize procurement for ... LinkedIn https://www.linkedin.com > posts > y-...",
+    "url": "https://www.linkedin.com/posts/y-combinator_salespatriot-yc-w25-has-raised-5-million-activity-7388982924165033985-V4gs",
+    "pass": 3
+   },
+   {
+    "quote": "Nelson Ray - SalesPatriot - LinkedIn Nelson Ray - SalesPatriot - LinkedIn LinkedIn https://www.linkedin.com > nelson-ray",
+    "url": "https://www.linkedin.com/in/nelson-ray",
+    "pass": 3
+   },
+   {
+    "quote": "SalesPatriot raises $5M to modernize defense procurement ... SalesPatriot raises $5M to modernize defense procurement ... LinkedIn https://www.linkedin.com > posts > b...",
+    "url": "https://www.linkedin.com/posts/ben-rhodes-kropf-26b617217_today-were-proud-to-announce-that-salespatriot-activity-7388978301463179264-u5LG",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Maciej Szymczyk, co-founder Sales Patriot , obala mity i mówi ... Maciej Szymczyk, co-founder Sales Patriot , obala mity i mówi ... Facebook https://www.facebook.com > mamstartup > posts > maciej...",
+    "url": "https://www.facebook.com/mamstartup/posts/maciej-szymczyk-co-founder-sales-patriot-obala-mity-i-m%C3%B3wi-jak-przetrwa%C4%87-a-nawet/1232636482206620/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://salespatriot.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salespatriot.com/blog/sk-aerospace-and-salespatriot-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salespatriot.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salespatriot.com/industries/defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salespatriot.com/industries/distribution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salespatriot.com/industries/procurement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salespatriot.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salespatriot.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salespatriot.com/blog/salespatriot-announces-strategic-partnership-with-maven-engineering-corporation",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pagerduty.co.jp/topics/8565/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forefrontinternational.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/%E6%B5%B7%E5%A4%96%E4%BB%A3%E7%90%86%E5%BA%97%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digima-japan.com/knowhow/united_states/d-globalbusiness-250205.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salespatriot.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_salespatriot-yc-w25-has-raised-5-million-activity-7388982924165033985-V4gs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/salespatriot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/salespatriot_today-were-launching-our-case-study-with-activity-7470859930175139840-yDqH",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.salesforce.com/customer-stories/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.blueprism.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wishpond.com/latest-press-release/wishpond-launches-new-white-label-reseller-program-for-salescloser-ai-empowering-businesses-with-ai-powered-sales-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/blog/white-label-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-label.com/blog/white-label-saas-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/salespatriot.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_salespatriot-yc-w25-has-raised-5-million-activity-7388982924165033985-V4gs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/747390-52",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/salespatriot",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/salespatriot_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/salespatriot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/maciej-szymczyk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_salespatriot-yc-w25-has-raised-5-million-activity-7388982924165033985-V4gs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nelson-ray",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mamstartup/posts/maciej-szymczyk-co-founder-sales-patriot-obala-mity-i-m%C3%B3wi-jak-przetrwa%C4%87-a-nawet/1232636482206620/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/maciej-szymczyk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/salespatriot_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ben-rhodes-kropf-26b617217_today-were-proud-to-announce-that-salespatriot-activity-7388978301463179264-u5LG",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Salespatriot 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.webcg.net/articles/-/54501",
+    "https://trafficnews.jp/post/725198",
+    "https://www.stellantis-campaign.jp/",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.facebook.com/jeepyokohamakonanofficial/videos/stellantis_jp-%E3%81%AF%E6%98%A8%E6%97%A511%E6%9C%883%E6%97%A5ram-%E3%83%A9%E3%83%A0%E3%81%AE%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AB%E5%B0%8E%E5%85%A5%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%82%E3%82%8B%E3%81%A8%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9Fram-/2537611416760787/",
+    "https://salespatriot.com/",
+    "https://salespatriot.com/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Salespatriot 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.pagerduty.co.jp/topics/8565/",
+    "https://www.forefrontinternational.com/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/%E6%B5%B7%E5%A4%96%E4%BB%A3%E7%90%86%E5%BA%97%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.digima-japan.com/knowhow/united_states/d-globalbusiness-250205.php",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://winactor.biz/reseller/?limit=1000",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://tigereye.ai/partners/",
+    "https://note.com/8click/n/n2830b16a8056",
+    "https://salespatriot.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Salespatriot Japan",
+   "results": [
+    "https://salespatriot.com/",
+    "https://www.linkedin.com/posts/y-combinator_salespatriot-yc-w25-has-raised-5-million-activity-7388982924165033985-V4gs",
+    "https://www.ycombinator.com/companies/salespatriot",
+    "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "https://www.eu-startups.com/2025/10/warsaw-based-salespatriot-raises-e4-2-million-to-modernise-defense-procurement-and-expand-into-europe/",
+    "https://salespatriot.com/about",
+    "https://www.linkedin.com/company/salespatriot",
+    "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+    "https://www.promptloop.com/directory/what-does-salespatriot-com-do",
+    "https://finance.yahoo.com/technology/ai/articles/k-aerospace-partners-salespatriot-modernize-220900742.html?fr=sycsrp_catchall"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Salespatriot manufacturing customer case study",
+   "results": [
+    "https://salespatriot.com/case-studies/echelon-supply-service-salespatriot",
+    "https://www.linkedin.com/posts/salespatriot_today-were-launching-our-case-study-with-activity-7470859930175139840-yDqH",
+    "https://www.salesforce.com/customer-stories/",
+    "https://www.blueprism.com/resources/case-studies/",
+    "https://salespatriot.com/blog/salespatriot-podcast-with-augie-fabela-from-aurora-defense-group-(hosted-by-nelson-ray)",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.ycombinator.com/companies/salespatriot",
+    "https://c3.ai/customers",
+    "https://www.youtube.com/watch?v=8GyLy8NuuYk",
+    "https://salespatriot.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Salespatriot white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://wishpond.com/latest-press-release/wishpond-launches-new-white-label-reseller-program-for-salescloser-ai-empowering-businesses-with-ai-powered-sales-solutions/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://salesrep.com/resellers",
+    "https://www.linkedin.com/company/salespatriot",
+    "https://salespatriot.com/blog/sk-aerospace-and-salespatriot-partner",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://wayfront.com/blog/white-label-reseller-programs",
+    "https://salespatriot.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Salespatriot founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/salespatriot.com",
+    "https://www.linkedin.com/posts/y-combinator_salespatriot-yc-w25-has-raised-5-million-activity-7388982924165033985-V4gs",
+    "https://pitchbook.com/profiles/company/747390-52",
+    "https://www.crunchbase.com/organization/salespatriot",
+    "https://vestbee.com/insights/articles/sales-patriot-raises-5-m",
+    "https://salespatriot.com/about",
+    "https://www.thesaasnews.com/news/salespatriot-raises-5-million-seed-round/",
+    "https://www.therecursive.com/salespatriot-seed-ai-defense-procurement-crv/",
+    "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "https://salespatriot.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:note.com Salespatriot",
+   "results": [
+    "https://note.com/lucid_lynx8370/n/nb5c8376251db"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:x.com Salespatriot",
+   "results": [
+    "https://x.com/salespatriot_",
+    "https://x.com/wirtualnapolska/status/2100231985448820872",
+    "https://x.com/Everlier",
+    "https://x.com/DaveBlundin",
+    "https://x.com/Jaaneek",
+    "https://salespatriot.com/",
+    "https://salespatriot.com/about",
+    "https://www.ycombinator.com/companies/salespatriot",
+    "https://finance.yahoo.com/technology/ai/articles/k-aerospace-partners-salespatriot-modernize-220900742.html?fr=sycsrp_catchall",
+    "https://jobs.ashbyhq.com/salespatriot/53626ad9-af69-4ee1-a947-ba2ef4a433a7"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Salespatriot",
+   "results": [
+    "https://www.linkedin.com/company/salespatriot",
+    "https://www.linkedin.com/in/maciej-szymczyk",
+    "https://www.linkedin.com/posts/y-combinator_salespatriot-yc-w25-has-raised-5-million-activity-7388982924165033985-V4gs",
+    "https://www.linkedin.com/in/nelson-ray",
+    "https://www.linkedin.com/in/ben-rhodes-kropf-26b617217",
+    "https://www.linkedin.com/posts/ben-rhodes-kropf-26b617217_today-were-proud-to-announce-that-salespatriot-activity-7388978301463179264-u5LG",
+    "https://www.linkedin.com/posts/salespatriot_how-distributors-can-use-ai-to-build-their-activity-7481472783110127616-wsXe",
+    "https://www.linkedin.com/in/antonideja",
+    "https://www.linkedin.com/posts/nelson-ray_what-is-the-key-to-growth-for-a-defense-distributor-activity-7487858180761403392-M34N",
+    "https://salespatriot.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Salespatriot",
+   "results": [
+    "https://www.facebook.com/luxembourgtimes/posts/-at-just-23-luxembourger-vijay-pathak-is-making-waves-in-silicon-valley-after-se/1481996807265276/",
+    "https://www.facebook.com/berkeleymet/posts/another-day-another-group-of-met-students-shaping-the-future-with-their-vision-c/1093435049147388/",
+    "https://www.facebook.com/100061088959707/posts/built-for-the-big-lifts-when-the-job-demands-reach-control-and-serious-lifting-p/1753047526741529/",
+    "https://www.facebook.com/mamstartup/posts/maciej-szymczyk-co-founder-sales-patriot-obala-mity-i-m%C3%B3wi-jak-przetrwa%C4%87-a-nawet/1232636482206620/",
+    "https://www.facebook.com/100061088959707/posts/another-day-calls-for-another-lift-check-out-these-behind-the-scenes-of-a-traile/937255541654069/",
+    "https://www.facebook.com/100061088959707/posts/the-right-crane-the-right-setup-the-right-crew-from-equipment-handling-to-heavy-/1735796755133273/",
+    "https://www.facebook.com/berkeleyengineering/posts/didyouknow-a-team-of-uc-berkeley-students-emerged-as-the-victor-out-of-531-teams/1503397635169353/",
+    "https://www.facebook.com/a6k.be/posts/%EF%B8%8Fwhen-brieuc-delbart-began-talking-with-vehicle-manufacturers-he-noticed-that-th/1560830712708293/",
+    "https://www.facebook.com/NIEdlachaosuwszkole/posts/maciej-szymczyk-niesamowity-19-latek-we-wrze%C5%9Bniu-trafi%C5%82-na-list%C4%99-forbes-30-under/1144599407777516/",
+    "https://salespatriot.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Salespatriot note 社長",
+   "results": [
+    "https://www.linkedin.com/in/maciej-szymczyk",
+    "https://note.com/ai_shacho",
+    "https://hutzper.com/news/notice/n261025/",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.youtube.com/watch?v=uAkUmCBiuxA",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/mediologic/n/n546a774eba14",
+    "https://salespatriot.com/",
+    "https://salespatriot.com/about"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Salespatriot X 投稿",
+   "results": [
+    "https://x.com/salespatriot_",
+    "https://salespatriot.com/",
+    "https://www.linkedin.com/posts/ben-rhodes-kropf-26b617217_today-were-proud-to-announce-that-salespatriot-activity-7388978301463179264-u5LG",
+    "https://www.adriadefense.com/warsaws-salespatriot-raises-eu4-2m-to-modernize-defense-procurement-and-expand-across-europe/",
+    "https://www.eu-startups.com/2025/10/warsaw-based-salespatriot-raises-e4-2-million-to-modernise-defense-procurement-and-expand-into-europe/",
+    "https://salespatriot.com/about",
+    "https://xpost-pro.com/",
+    "https://www.salesplayx.com/",
+    "https://www.ycombinator.com/companies/salespatriot",
+    "https://finance.yahoo.com/technology/ai/articles/k-aerospace-partners-salespatriot-modernize-220900742.html?fr=sycsrp_catchall"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

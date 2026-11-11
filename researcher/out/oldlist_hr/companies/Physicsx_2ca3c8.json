@@ -1,0 +1,1463 @@
+{
+ "name": "Physicsx",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-11T02:19:40.767294+00:00",
+ "official_url": "https://www.physicsx.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We're bringing frontier AI to industrial engineering, transforming how the world's most complex products and systems are designed, built, and operated.",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore more possibilities. Push the boundaries of performance. Build what was previously out of reach.",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering has always moved the world forward. But the challenges of tomorrow demand more than incremental progress.",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The PhysicsX platform unifies simulation, physics AI, data, and engineering applications in one foundation, built for the full product lifecycle and integrated with the tools engineers already use.",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to put frontier intelligence in the hands of engineering pioneers, empowering them to take on problems previously considered too complex, too costly, or beyond reach.",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Come work on problems that matter.",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX and GB1 Unveil New AI-Powered Approach to America’s Cup Yacht Design at NVIDIA GTC Berlin",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“These boats are very high-dimensional as a design problem. There's an incredible number of states the boat can sail in: If you multiply all of these variables together, you end up with this enormous array of permutations and combinations in the design space,” said Nick Holroyd, Head of Design at GB1.",
+    "url": "https://www.physicsx.ai/resources/engineering-at-the-speed-of-ai-inside-the-physicsx-and-gb1-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Success isn't determined by one breakthrough. It's the product of thousands of engineering decisions, each balancing complex and often competing objectives.",
+    "url": "https://www.physicsx.ai/resources/engineering-at-the-speed-of-ai-inside-the-physicsx-and-gb1-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform enables GB1’s aerodynamics engineers to train Large Physics Models on simulation and experimental data, allowing them to predict physical behavior in seconds rather than hours or days, analyzing multiple dimensions of physics simultaneously. Instead of evaluating dozens of design options, teams can explore",
+    "url": "https://www.physicsx.ai/resources/engineering-at-the-speed-of-ai-inside-the-physicsx-and-gb1-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "“The America's Cup represents an incredibly high complexity domain — it's exactly where we want to play. The whole idea here is to implement software that is going to change the pace of innovation. Which is what we're doing a lot of other contexts, but it's at the heart of our partnership with GB1,” said Jacomo Corbo, CEO & Co-Founder of PhysicsX.",
+    "url": "https://www.physicsx.ai/resources/engineering-at-the-speed-of-ai-inside-the-physicsx-and-gb1-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Together, we're building AI-native workflows that enable engineers to iterate faster, explore larger design spaces, and make better-informed decisions throughout the development process.",
+    "url": "https://www.physicsx.ai/resources/engineering-at-the-speed-of-ai-inside-the-physicsx-and-gb1-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "“GB1 really care about that last 0.1% of performance. And, that's the bar for us. The PhysicsX platform is an AI-native platform purpose-built for engineering, and with GB1, we've built an aerodynamics simulation and design optimization workflow that's opening doors that the team just haven't had the time to explore previously,” said David Wheater, Technical Director at PhysicsX.",
+    "url": "https://www.physicsx.ai/resources/engineering-at-the-speed-of-ai-inside-the-physicsx-and-gb1-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "The result is a fundamentally different way of approaching engineering: one that prioritizes exploration, learning, and rapid iteration.",
+    "url": "https://www.physicsx.ai/resources/engineering-at-the-speed-of-ai-inside-the-physicsx-and-gb1-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "The aerodynamics engineering challenges facing Britain's America's Cup team may be unique, but the underlying opportunity is universal. Every organization designing the next-generation hardware that powers the world's most critical industrial sectors faces increasing pressure to build faster while managing growing complexity.",
+    "url": "https://www.physicsx.ai/resources/engineering-at-the-speed-of-ai-inside-the-physicsx-and-gb1-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "“Working with Jacomo and Dave and the team at PhysicsX has just really been a joy. The contribution they're making is really impressive. The technology is unbelievable. It's a real game changer,” said Sir Ben Ainslie, Team Principal at GB1.",
+    "url": "https://www.physicsx.ai/resources/engineering-at-the-speed-of-ai-inside-the-physicsx-and-gb1-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "We are bringing that same ambition to AI, which is critical to Fortescue’s future. We see significant potential in applying physics AI to high-value industrial problems across our business.",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "This partnership is focused on solving real-world challenges, from improving production and operations to accelerating research and development. By combining PhysicsX’s capabilities with our operational experience and data, we can test solutions faster and focus on applications with the potential to deliver practical value and strong returns.”",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "The company is building a new AI-native simulation software stack that brings the power of physics AI to every stage of the engineering lifecycle. PhysicsX partners with leading organizations across aerospace & defense, automotive & heavy machinery, semiconductors & electronics, process industries, and energy & infrastructure, supporting them on some of their most critical and complex challenges.",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Headquartered in the United Kingdom, PhysicsX has offices in London, New York, and Singapore, with a growing presence in the San Francisco Bay Area.",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "For press inquiries, contact press@physicsx.ai",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "At Fortescue, our purpose is to accelerate decarbonisation on a global scale, rapidly and profitably. We have a strong record of delivering complex projects, and our future starts with mining excellence and extends across metals, technology, infrastructure and energy.",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "We are pursuing disciplined growth opportunities that will shape Fortescue’s next chapter. As our business develops globally, our commitment to building thriving communities expands with us. Delivering positive social and economic change through training, employment and business development opportunities remains a key focus.",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX is a frontier AI company transforming industrial engineering. We bring together deep expertise in AI, physics, and engineering to tackle some of industry's most complex challenges — building technology that fundamentally changes how products and physical systems are designed, manufactured, and operated.",
+    "url": "https://www.physicsx.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The world's most important industries are facing a new level of complexity. Products and systems are becoming more sophisticated, performance demands are rising, and development timelines are shrinking.",
+    "url": "https://www.physicsx.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Yet engineering remains constrained by computational methods and workflows that limit how much can be explored, understood, and achieved. The next leap in industrial innovation demands a fundamentally different approach.",
+    "url": "https://www.physicsx.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our teams work alongside customers to translate cutting-edge research into practical applications, and build capabilities that scale across products, programs, and organizations.",
+    "url": "https://www.physicsx.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're here go beyond incremental improvements to existing processes — and expand the boundaries of engineering itself.",
+    "url": "https://www.physicsx.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We hire people who want to work on the hardest problems in industry — and give them the environment, tools, and mission to do it.",
+    "url": "https://www.physicsx.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The PhysicsX platform is already embedded in the workflows of some of the world’s most sophisticated engineering organizations, solving high-stakes, real-world problems in factories, foundries, control rooms, and flight decks.",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "AI is transforming engineering across commercial aerospace, defense, and space, accelerating development, improving performance, reducing costs, and increasing production rates. From aerodynamics, propulsion, and low observability to manufacturing, quality, and predictive maintenance, PhysicsX is redefining how aircraft, spacecraft, and defense systems are designed, built, and operated.",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "• Unit process optimization",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical, mining, and oil & gas processes are governed by physics spanning molecules, deposits, and entire plants. The PhysicsX platform connects these scales to optimize from atoms to systems. Physical parameters derived from atomistic simulations and real-world data feed continuum models of individual process units, which are combined to enable system-level optimization.",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Physics AI accelerates complex simulations to sub-second predictions across all lengthscales, unlocking new possibilities for process development, scale-up, and control.",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "• Novel materials property prediction",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "• Process design and scale-up, from reactors to leaching",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "• Blade casting yield and quality improvement",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX and GB1 Unveil New AI-Powered Approach to America’s Cup Yacht Design at NVIDIA GTC Berlin",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "We bring together exceptional minds to solve some of industry's hardest problems. They challenge convention, go deep, and turn frontier AI research into technology that delivers real-world impact.",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're looking for people with the curiosity to question what's possible, the rigor to prove bold ideas, and the ambition to build beyond today's limits.",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We believe the world’s biggest breakthroughs come from solving its hardest engineering challenges. We build solutions that improve performance, accelerate the energy transition, reduce waste, and avoid harmful technologies, helping shape a more resilient and sustainable physical world.",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Research develops the Large Physics Models and methods that sit around them to make them practical and powerful, pioneering new approaches to modeling the physical world. This includes both advances on established techniques and entirely new foundations for how advanced industries design, build, and innovate.",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product.n is building the core PhysicsX platform that empowers data scientists, ML engineers, and simulation engineers to create, train, and deploy physics-informed models. Our platform is the core software that powers the work and impact of PhysicsX, from the cloud infrastructure that runs our Large Physics Models to the intuitive interfaces engineers across customer organizations use every day.",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Ops ensures PhysicsX moves fast and scales smart. From Strategy and Finance to Marketing & Comms, Legal, and IT — this team builds the systems that support global execution. They’re the ones turning big goals into daily momentum, keeping the broader team focused, aligned, and ready to grow.",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Principal Engineer - Field Engineering",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Strategy & Program Manager - Strategy & Programs",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Every day here brings new challenges that push me to think differently and expand my skills. I love the opportunity to solve complex, unfamiliar problems and turn frontier tech into solutions that unlock new opportunities for our customers. It’s an environment where I’m constantly learning, growing, and going beyond what I thought was possible.”",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Engineer - Field Engineering",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "An open discussion about your experience, motivations, and the kinds of problems you enjoy solving.",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "An opportunity to demonstrate how you approach practical challenges. Depending on the role, this might involve pair programming, a take-home exercise, or a collaborative technical discussion.",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Technical deep-dive/Behavioral interview",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "What can I expect from the interview process at PhysicsX?",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Are interviews conducted remotely or in person?",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We use a combination of virtual and in-person interviews. Wherever possible, we aim to include at least one in-person conversation, giving you the opportunity to meet potential colleagues and experience our working environment firsthand. If you have specific requirements or need adjustments, let our Talent team know, and we'll work with you to accommodate them.",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "How can I best prepare for my interviews?",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Can I use AI tools during the interview process?",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "AI is at the heart of what we do. But during our interviews, we want to understand your individual capabilities, experience, and approach to solving problems. Unless explicitly permitted, the use of AI tools, including LLMs and interview scripting tools, is not allowed during interviews or assessments. We'll communicate any role-specific guidance on permitted tools and resources in advance.",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We recommend applying for one position at a time, focusing on the opportunity that best matches your skills and interests. Our Talent team will also consider your profile for other relevant openings and may suggest an alternative role if there's a strong fit.",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "What is your approach to hybrid and flexible working?",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Can I request reasonable adjustments during the recruitment process?",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "We're bringing frontier AI to industrial engineering, transforming how the world's most complex products and systems are designed, built, and operated.",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Frontier AI is breaking the boundaries of what engineers can imagine, design, and achieve, unlocking a new era of industrial innovation.",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform embeds superintellingence directly into industrial engineering workflows, expanding what teams can explore, understand, and achieve, while continuously growing more powerful with every deployment.",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive & Heavy Machinery",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX and Fortescue Expand Partnership to Accelerate Industrial Innovation with AI",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX, a frontier AI company transforming industrial engineering, and Fortescue, a global metals, energy, and technology company building and deploying renewable energy and zero-emissions technologies at industrial scale, today announced an expanded strategic partnership to accelerate industrial innovation through frontier AI.",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX Launches Asia-Pacific Hub in Singapore to Scale AI-Powered Industrial Engineering Across the Region",
+    "url": "https://www.physicsx.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The aerodynamics engineering challenges facing Britain's America's Cup team may be unique, but the underlying opportunity is universal. Every organization designing the next-generation hardware that powers the world's most critical industrial sectors faces increasing pressure to build faster while managing growing complexity.",
+    "url": "https://www.physicsx.ai/resources/engineering-at-the-speed-of-ai-inside-the-physicsx-and-gb1-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX - PhysicsX and Fortescue Expand Partnership to Accelerate Industrial Innovation with AI",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX and Fortescue Expand Partnership to Accelerate Industrial Innovation with AI",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "New multi-year agreement will deepen the companies' collaboration across real-world industrial challenges, from mining operations to research and development.",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX, a frontier AI company transforming industrial engineering, and Fortescue, a global metals, energy, and technology company building and deploying renewable energy and zero-emissions technologies at industrial scale, today announced an expanded strategic partnership to accelerate industrial innovation through frontier AI.",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX will work alongside Fortescue's engineering and technology teams to integrate the platform into existing workflows, build internal expertise, and embed physics AI into long-term industrial innovation.",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "We are bringing that same ambition to AI, which is critical to Fortescue’s future. We see significant potential in applying physics AI to high-value industrial problems across our business.",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "The agreement reflects a broader shift in industrial AI, from general-purpose tools focused on information and workflow automation toward technologies capable of understanding and optimizing real-world critical systems.",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX is the AI company for industrials, on a mission to put frontier intelligence in the hands of engineering pioneers and accelerate hardware innovation by transforming how industrial engineering and manufacturing are done.",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "The company is building a new AI-native simulation software stack that brings the power of physics AI to every stage of the engineering lifecycle. PhysicsX partners with leading organizations across aerospace & defense, automotive & heavy machinery, semiconductors & electronics, process industries, and energy & infrastructure, supporting them on some of their most critical and complex challenges.",
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX is a frontier AI company transforming industrial engineering. We bring together deep expertise in AI, physics, and engineering to tackle some of industry's most complex challenges — building technology that fundamentally changes how products and physical systems are designed, manufactured, and operated.",
+    "url": "https://www.physicsx.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Yet engineering remains constrained by computational methods and workflows that limit how much can be explored, understood, and achieved. The next leap in industrial innovation demands a fundamentally different approach.",
+    "url": "https://www.physicsx.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We combine frontier AI research, an end-to-end platform, and deep domain expertise to bring an engineering superintelligence into real-world industrial workflows.",
+    "url": "https://www.physicsx.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The PhysicsX platform is already embedded in the workflows of some of the world’s most sophisticated engineering organizations, solving high-stakes, real-world problems in factories, foundries, control rooms, and flight decks.",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "AI is transforming engineering across commercial aerospace, defense, and space, accelerating development, improving performance, reducing costs, and increasing production rates. From aerodynamics, propulsion, and low observability to manufacturing, quality, and predictive maintenance, PhysicsX is redefining how aircraft, spacecraft, and defense systems are designed, built, and operated.",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "• Yield and throughput optimization for casting, composites, and additive manufacturing",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive & Heavy Machinery",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "• Giga-casting design and manufacturing",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "• Operational digital twins for smart manufacturing",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical, mining, and oil & gas processes are governed by physics spanning molecules, deposits, and entire plants. The PhysicsX platform connects these scales to optimize from atoms to systems. Physical parameters derived from atomistic simulations and real-world data feed continuum models of individual process units, which are combined to enable system-level optimization.",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "The energy transition demands innovation. The PhysicsX platform enables companies to significantly accelerate design, manufacturing, and operations across energy generation, storage, transmission, as well as low-carbon technology (e.g., electrolyzers and carbon capture units) to reduce CAPEX and OPEX.",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "• Transformer design and manufacturing optimization",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX and Fortescue Expand Partnership to Accelerate Industrial Innovation with AI",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX, a frontier AI company transforming industrial engineering, and Fortescue, a global metals, energy, and technology company building and deploying renewable energy and zero-emissions technologies at industrial scale, today announced an expanded strategic partnership to accelerate industrial innovation through frontier AI.",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "PhysicsX Launches Asia-Pacific Hub in Singapore to Scale AI-Powered Industrial Engineering Across the Region",
+    "url": "https://www.physicsx.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Processed Materials（先端素材）やAerospace & Defense（航空宇宙・防衛）への展開も加速しており、",
+    "url": "https://techcreate.balubo.jp/articles/physicsx-300m-series-c-large-physics-model-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX Announces $300M Series C to Accelerate Physics AI for Industrial Engineering — PhysicsX（2026年6月8日）",
+    "url": "https://techcreate.balubo.jp/articles/physicsx-300m-series-c-large-physics-model-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "Startup PhysicsX Hits $2.4 Billion Valuation to Provide AI for Manufacturing — Bloomberg（2026年6月8日）",
+    "url": "https://techcreate.balubo.jp/articles/physicsx-300m-series-c-large-physics-model-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX's $300M Series C signals growing VC bet on industrial AI — PitchBook（2026年6月8日）",
+    "url": "https://techcreate.balubo.jp/articles/physicsx-300m-series-c-large-physics-model-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced industry giants are among those poised to drive technological change in this new era. Advanced industries’ spend on AI tooling and infrastructure is growing rapidly, with discrete and process manufacturing alone forecasted to make up",
+    "url": "https://www.generalcatalyst.com/stories/our-investment-in-physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "as key impediments to the greater adoption of AI-based simulation. Our conversations with PhysicsX’s customers gave us unwavering confidence that they can build an enduring business trusted by advanced industry leaders.",
+    "url": "https://www.generalcatalyst.com/stories/our-investment-in-physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "We believe PhysicsX will enable extraordinary change in advanced industry engineering—the combined opportunity in aerospace, medical devices, additive manufacturing, electric vehicles, motorsport, and renewables is enormous. We are energized to partner with Robin, Jacomo, and the entire team and look forward to sharing more about their impactful work soon.",
+    "url": "https://www.generalcatalyst.com/stories/our-investment-in-physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX: The AI-Powered Engineering Platform Revolutionising Industrial Design",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "is transforming how industries approach complex engineering challenges, combining artificial intelligence with physics simulations to accelerate design and manufacturing processes across critical sectors.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": ": PhysicsX has attracted backing from top-tier venture capital (Atomico), industrial giants (Siemens, Applied Materials), and sovereign wealth funds (Temasek), alongside technology partnerships with NVIDIA and AWS, showcasing broad confidence across investor types and validating its technology approach.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Defence and Industrial Tailwinds",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": ": The valuation benefits from converging trends including increased defence spending amid geopolitical tensions, European reindustrialisation efforts, and growing adoption of AI in traditional manufacturing sectors, positioning PhysicsX at the intersection of multiple high-growth markets.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "company that has developed an AI-native engineering platform designed to revolutionise the design, manufacturing, and operation of complex physical systems. Founded in 2019 and headquartered in",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Ai.rplane: Revolutionising Aerospace Design",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2024, PhysicsX launched LGM-Aero, the first Large Geometry Model for aerospace engineering, along with Ai.rplane, a publicly accessible reference application unveiled at AWS re:Invent 2024. This represents a major breakthrough in how aircraft designs are created and evaluated.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "In one seamless operation, the technology creates novel designs, predicts lift, drag, stability, structural stress and other attributes for each shape, then optimises the design according to the user’s preferences. When used in industrial applications, this workflow reduces development time from months to hours.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX partners with organisations in critical sectors, including aerospace and defence, automotive, semiconductors, materials production, and energy and renewables, to solve high-stakes engineering challenges.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defence",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": ": Building on the founders’ Formula 1 heritage, PhysicsX supports automotive manufacturers in optimising everything from engine performance to vehicle aerodynamics and structural integrity. In August 2025, PhysicsX published a case study on AI-driven brake cooling optimisation, demonstrating how the platform reduces development time and cost.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": ": As chip designs become increasingly complex, PhysicsX’s platform helps semiconductor companies simulate and optimise manufacturing processes and chip architectures more efficiently.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "This latest funding takes PhysicsX’s total capital raised to approximately $170 million and represents a major milestone in the company’s growth trajectory. The diverse investor base, spanning venture capital, industrial strategics, and sovereign wealth, demonstrates the broad appeal of PhysicsX’s technology across different stakeholder groups.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "European Reindustrialisation",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": ": Co-founder Jacomo Corbo noted a “real inflection and an increased appetite to engage from customers in Europe, certainly in aerospace and defence, but also in sectors like automotive and in materials,” reflecting “a general European and western awakening that it’s time to reindustrialise”.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": ": As artificial intelligence moves beyond pure software applications into physical industries, companies like PhysicsX, which bridge the digital and physical worlds, are increasingly seen as critical infrastructure for the next generation of industrial competitiveness.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Corbo has emphasised the strategic importance of the company’s European base: “We see a massive opportunity and imperative for our technology across the European industrials base, and we’ve high conviction that this is the right time to build a company like ours out of Europe”.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": ": With a strong foothold in aerospace, defence, and automotive, PhysicsX has opportunities to expand into adjacent sectors such as construction, consumer electronics, and healthcare equipment manufacturing.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX | AI Simulation Platform Case Study",
+    "url": "https://www.rely.design/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "Being under an NDA, this case study will focus on publically available information and my process while omiting metrics and detailed design work.",
+    "url": "https://www.rely.design/physicsx",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“These boats are very high-dimensional as a design problem. There's an incredible number of states the boat can sail in: If you multiply all of these variables together, you end up with this enormous array of permutations and combinations in the design space,” said Nick Holroyd, Head of Design at GB1.",
+    "url": "https://www.physicsx.ai/resources/engineering-at-the-speed-of-ai-inside-the-physicsx-and-gb1-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "次の1〜2年の数字が上場の可能性を左右する",
+    "url": "https://techcreate.balubo.jp/articles/physicsx-300m-series-c-large-physics-model-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": ": Since its Series A funding in 2023, the company has grown to over 150 employees and more than quadrupled revenue in two years, demonstrating the maturation of its technology and strong market adoption across advanced industries.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": ": Scaling from 150 to potentially several hundred employees whilst maintaining quality will require continued success in attracting engineers who combine deep physics knowledge with AI expertise, a relatively rare skill set.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "Aily Labs Raises $80 Million: How This AI Decision Platform Is Transforming Fortune 500 Operations",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "My day to day collaborating with expert engineers to design seamless cross-tool orchestration as part of an AI simulation platform.",
+    "url": "https://www.rely.design/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX: Employees, Headcount Growth, Org Chart, Layoffs & H1B (2026) | 6figr",
+    "url": "https://6figr.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX is a London-based AI company founded in 2019, specializing in AI-driven solutions for physics simulations and engineering design. With a team of 140 employees and $32 million in Series A funding led by General Catalyst, the company focuses on high-fidelity simulations to enhance industrial innovation in sectors such as aerospace, energy, and automotive.",
+    "url": "https://6figr.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue ~$1M",
+    "url": "https://6figr.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX went from 17 employees in Oct 2024 to 84 in Sep 2026. Apr to Sep 2026: 20 people joined, 3 left.",
+    "url": "https://6figr.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "The department split adds up all the years listed above. FY2026 alone: 6 filings.",
+    "url": "https://6figr.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "190 employees",
+    "url": "https://6figr.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "180 employees",
+    "url": "https://6figr.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does PhysicsX have?",
+    "url": "https://6figr.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX has about 84 employees, up 3.7% over the 3 months to Sep 2026.",
+    "url": "https://6figr.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "What is PhysicsX's revenue per employee?",
+    "url": "https://6figr.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX makes about $12K in revenue per employee, based on $1M annual revenue and 84 employees.",
+    "url": "https://6figr.com/company/physicsx",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "もし日本に生まれなかったら？「80億分の1」で体験する別の人生",
+    "url": "https://techcreate.balubo.jp/articles/physicsx-300m-series-c-large-physics-model-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、この技術が日本の製造業に与える影響を考察します",
+    "url": "https://seisan-navi.com/20260608-aiphysicsx24/",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本の製造業が長年追求してきた「すり合わせ開発」の強みを、デジタルの力でさらに高度化するアプローチとも捉えられます",
+    "url": "https://seisan-navi.com/20260608-aiphysicsx24/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsXの台頭は、日本の製造業に対していくつかの重要な示唆を与えています",
+    "url": "https://seisan-navi.com/20260608-aiphysicsx24/",
+    "pass": 3
+   },
+   {
+    "quote": "✅ 日本の製造業にとっての意味──トヨタ・ソニーは動くか",
+    "url": "https://note.com/startup_dd/n/n808622ad18e5",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@troy-technical.jp",
+    "url": "https://troy-technical.jp/physicsx%E7%A4%BE%E3%80%81%E7%94%A3%E6%A5%AD%E5%B7%A5%E5%AD%A6%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E6%95%B0%E6%97%A5%E3%81%8B%E3%82%89%E6%95%B0%E7%A7%92/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "PhysicsX — The PhysicsX platform unifies simulation, physics AI, data, and engineering applications in one foundation, built for the full product lifecycle and integrated with the tools engineers already use.",
+    "url": "https://www.physicsx.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX3億ドル調達、物理シミュレーション秒単位化へ | TechCreate — Jun 9, 2026 · 従来は有限要素解析（FEA）ソフトウェアで数時間をかけてシミュレーションを走らせ、設計変更のたびに同じ時間を費やしていた。 PhysicsXのAIモデルはこのプロセスを「秒単位」に短縮し、1日で数百パターンの設計候補を検証できるようにする。",
+    "url": "https://techcreate.balubo.jp/articles/physicsx-300m-series-c-large-physics-model-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX社、産業工学シミュレーションを数日から数秒に短縮するAI技... — Jun 13, 2026 · PhysicsXの技術は、AIが産業界の基盤となるインフラの一部として、設計から製造までのバリューチェーン全体にわたるイノベーションを加速する強力な事例となることが期待されます。",
+    "url": "https://troy-technical.jp/physicsx社、産業工学シミュレーションを数日から数秒/",
+    "pass": 3
+   },
+   {
+    "quote": "F1出身エンジニアが創業したPhysicsX、評価額2,400億円を突破。AIで「... — Jun 11, 2026 · F1出身の創業者たちが描く「産業AI」の未来 PhysicsXを創業したのは、CEOのジャコモ・コルボ（Jacomo Corbo）氏と、会長のロビン・トゥルーイ（Robin Tuluie）氏だ。 二人は共にF1レースのエンジニアリング界でキャリアを積んだ経験を持つ 。",
+    "url": "https://www.studioglobal.ai/ja/discover/answers/what-key-details-were-announced-in-the-6a2a8592c325685be090fda3",
+    "pass": 3
+   },
+   {
+    "quote": "英国発AIスタートアップPhysicsX、評価額24億ドルに。製造業の物理シ... — Jun 8, 2026 · 同社は物理シミュレーションをAIで高速化・高度化するソリューションを提供し、その企業価値は24億ドル（約3,780億円）に達しました。 本稿では、この技術が日本の製造業に与える影響を考察します。 物理法則を理...",
+    "url": "https://seisan-navi.com/20260608-aiphysicsx24/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX | Careers — At PhysicsX, we take on the toughest challenges where science, engineering, and AI collide. We’re looking for people who are fully committed to our mission.",
+    "url": "https://www.physicsx.ai/careers",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX | LinkedIn — We are building a new software stack to deliver deep AI enablement across the entire engineering lifecycle. PhysicsX partners with leading organizations in aerospace & defense, automotive,...",
+    "url": "https://jp.linkedin.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "英国発AIスタートアップPhysicsX、評価額24億ドルに。製造業の物理シ... — Jun 8, 2026 · 英国のスタートアップPhysicsXが、製造業の設計・開発プロセスを革新するAI技術で注目を集めています。 同社は物理シミュレーションをAIで高速化・高度化するソリューションを提供し、その企業価値は24億ドル（約3,780億円）に達しました。",
+    "url": "https://seisan-navi.com/20260608-aiphysicsx24/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Investment in PhysicsX - General Catalyst — We believe PhysicsX will enable extraordinary change in advanced industry engineering—the combined opportunity in aerospace, medical devices, additive manufacturing, electric vehicles, motorsport, and renewables is enormous.",
+    "url": "https://www.generalcatalyst.com/stories/our-investment-in-physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "Deals Digest: SG's Temasek backs PhysicsX; Japan's NYK ... — Jun 24, 2025 · Singapore state investor Temasek has backed the $135 million Series B financing round of PhysicsX, a UK-based AI company.",
+    "url": "https://www.dealstreetasia.com/stories/temasek-physicsx-nyk-kadmos-446777",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX — We’re partnering with GB1, Britain’s America’s Cup Challenger, to transform how the team uses simulation — deploying the PhysicsX platform to shift computationally intensive workflows to AI inference, evaluate thousands of design possibilities, iterate faster, and optimize aerodynamic performance.",
+    "url": "https://www.physicsx.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX - Real-Time Intelligence in the Foundry: AI for ... — PhysicsX partnered with a leading aerospace manufacturer to reimagine this process. Together, we deployed AI-driven defect prediction and casting mold optimization tools directly into the production environment, enabling real-time quality control, higher yields, and faster throughput.",
+    "url": "https://www.physicsx.ai/resources/real-time-intelligence-in-the-foundry-ai-for-casting-quality-and-efficiency",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX: The AI-Powered Engineering Platform Revolutionising ... — Nov 14, 2025 · As PhysicsX approaches unicorn status and expands its customer base, the company faces the challenge of scaling its platform whilst maintaining the precision and reliability that critical industries demand.",
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX | AI Simulation Platform Case Study - rely.design — My mission I joined PhysicsX to take on the simulation management and orchestration tool known as Simulation Workbench (or SimWB). Not only does it facilitate 2D/3D simulation analysis, it also helps users track their previous simulation work with smart labelling and a data lineage interface.",
+    "url": "https://www.rely.design/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "How PhysicsX is transforming engineering with physics AI — Feb 24, 2026 · PhysicsX, the fast-growing London-based tech company founded by former F1 engineers and AI researchers, is helping reshape the physical world faster than ever before through its pioneering application of physics AI.",
+    "url": "https://ukstories.microsoft.com/features/from-months-to-seconds-how-physicsx-is-transforming-engineering-with-physics-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX – Strategic Position & Company Metrics – 2026 — Discover PhysicsX's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX 2026 Company Profile: Valuation, Funding & Investors ...PhysicsX ARR, revenue, valuation and headcount (2026)PhysicsX: Employees, Headcount Growth, Org Chart, Layoffs ...PhysicsX Revenue 2025: $62.7M Est. - getlatka.comPhysicsX - 2026 Company Profile, Team, Funding, Competitors ...PhysicsX - PhysicsX Raises $135M Series B to Usher in a New ... — Information on valuation, funding, cap tabl",
+    "url": "https://pitchbook.com/profiles/company/529644-70",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX ARR, revenue, valuation and headcount (2026) — PhysicsX serves industries such as aerospace, automotive, semiconductors, materials, and energy, where engineering teams use its software to support design exploration, performance analysis, and decision-making across the product lifecycle.",
+    "url": "https://lounge.ai/arr/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX: Employees, Headcount Growth, Org Chart, Layoffs ... — With a team of 140 employees and $32 million in Series A funding led by General Catalyst, the company focuses on high-fidelity simulations to enhance industrial innovation in sectors such as aerospace, energy, and automotive.",
+    "url": "https://6figr.com/company/physicsx",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX Revenue 2025: $62.7M Est. - getlatka.com — Oct 30, 2026 · PhysicsX is a deeptech company with roots in numerical physics and Formula One, dedicated to accelerating hardware innovation at the speed of software. It builds AI-driven simulation software for engineering and manufacturing across advanced industries.",
+    "url": "https://getlatka.com/companies/physicsx.ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AI時代に人間の直感は生き残れるか？アメリカズカップの答え PhysicsX Aug 12, 2026 · それが、 PhysicsX社 と提携して導入した「物理AI（Physics AI）」です 。 しかし、ここで注目すべきは「AIがどれほど凄いか」という技術自慢ではありません。",
+    "url": "https://note.com/humble_dog9839/n/n4869afd1ca70",
+    "pass": 3
+   },
+   {
+    "quote": "AI技術を工場に活用しようとするスタートアップ｜TechSage Mar 12, 2025 · 2. PhysicsX（フィジックスエックス） 近年注目を集めているスタートアップです 事業内容: AIを活用して、複雑な製品やプロセスの設計、製造、運用を改善するソリューションを提供しています。",
+    "url": "https://note.com/tomohiro2866/n/n54e714733071",
+    "pass": 3
+   },
+   {
+    "quote": "数週間かかるシミュレーションを\"数秒\"に。フィジクスXの$300M調達が... 今日は、この「シミュレーションのボトルネック」をAIで破壊し、数週間の作業を数秒に圧縮するロンドン発のディープテックスタートアップ 「フィジクスX（PhysicsX）」を解剖する。",
+    "url": "https://note.com/startup_dd/n/n808622ad18e5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "AI時代に人間の直感は生き残れるか？アメリカズカップの答え PhysicsX｜tyo",
+    "url": "https://note.com/humble_dog9839/n/n4869afd1ca70",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代に人間の直感は生き残れるか？アメリカズカップの答え PhysicsX",
+    "url": "https://note.com/humble_dog9839/n/n4869afd1ca70",
+    "pass": 3
+   },
+   {
+    "quote": "Is AI this America's Cup's Secret Weapon?",
+    "url": "https://note.com/humble_dog9839/n/n4869afd1ca70",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX - PhysicsX Joins Forces with GB1 to Power Britain’s America’s Cup Challenge",
+    "url": "https://note.com/humble_dog9839/n/n4869afd1ca70",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX - Engineering at the Speed of AI: Inside the PhysicsX and GB1 Partnership",
+    "url": "https://note.com/humble_dog9839/n/n4869afd1ca70",
+    "pass": 3
+   },
+   {
+    "quote": "the Louis Vuitton 38th America’s Cup",
+    "url": "https://note.com/humble_dog9839/n/n4869afd1ca70",
+    "pass": 3
+   },
+   {
+    "quote": "The Louis Vuitton 38th America’s Cup Preliminary Regatta Naples",
+    "url": "https://note.com/humble_dog9839/n/n4869afd1ca70",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX - PhysicsX Announces $300M Series C to Accelerate Physics AI for Industrial Engineering",
+    "url": "https://note.com/humble_dog9839/n/n4869afd1ca70",
+    "pass": 3
+   },
+   {
+    "quote": "AI技術を工場に活用しようとするスタートアップ｜TechSage",
+    "url": "https://note.com/tomohiro2866/n/n54e714733071",
+    "pass": 3
+   },
+   {
+    "quote": "AI技術を工場に活用しようとするスタートアップ",
+    "url": "https://note.com/tomohiro2866/n/n54e714733071",
+    "pass": 3
+   },
+   {
+    "quote": "1. Orbital Materials（オービタル・マテリアルズ）",
+    "url": "https://note.com/tomohiro2866/n/n54e714733071",
+    "pass": 3
+   },
+   {
+    "quote": "DeepMindの元シニア研究者によって設立されました",
+    "url": "https://note.com/tomohiro2866/n/n54e714733071",
+    "pass": 3
+   },
+   {
+    "quote": "ニュージャージー州プリンストンおよびロンドンに拠点を持っています",
+    "url": "https://note.com/tomohiro2866/n/n54e714733071",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIを活用して新たな高度な材料の発見と開発を行っています、 独自のAIファウンデーションモデル「Linus」は、自然言語の指示に基づいて3Dの分子構造を生成することが可能です",
+    "url": "https://note.com/tomohiro2866/n/n54e714733071",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Web Services（AWS）と提携し、データセンター向けの炭素除去素材のパイロットプロジェクトを2025年に開始予定です",
+    "url": "https://note.com/tomohiro2866/n/n54e714733071",
+    "pass": 3
+   },
+   {
+    "quote": "2. PhysicsX（フィジックスエックス）",
+    "url": "https://note.com/tomohiro2866/n/n54e714733071",
+    "pass": 3
+   },
+   {
+    "quote": "数週間かかるシミュレーションを\"数秒\"に。フィジクスXの$300M調達が示す「産業AI」の爆発点｜Startup DD｜海外スタートアップ解剖",
+    "url": "https://note.com/startup_dd/n/n808622ad18e5",
+    "pass": 3
+   },
+   {
+    "quote": "数週間かかるシミュレーションを\"数秒\"に。フィジクスXの$300M調達が示す「産業AI」の爆発点",
+    "url": "https://note.com/startup_dd/n/n808622ad18e5",
+    "pass": 3
+   },
+   {
+    "quote": "Startup DD｜海外スタートアップ解剖",
+    "url": "https://note.com/startup_dd/n/n808622ad18e5",
+    "pass": 3
+   },
+   {
+    "quote": "航空機のエンジン部品の設計シミュレーションには、1回あたり数時間から数日かかる。",
+    "url": "https://note.com/startup_dd/n/n808622ad18e5",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアはその間、待つしかない。計算リソースが限られるため、テストできるデザインのバリエーションは数パターンに絞られる。何千もの設計候補から最適解を探す「本来やるべきこと」は、物理的に不可能だった。",
+    "url": "https://note.com/startup_dd/n/n808622ad18e5",
+    "pass": 3
+   },
+   {
+    "quote": "」をAIで破壊し、数週間の作業を数秒に圧縮するロンドン発のディープテックスタートアップ",
+    "url": "https://note.com/startup_dd/n/n808622ad18e5",
+    "pass": 3
+   },
+   {
+    "quote": "本拠地：ロンドン, 英国（ニューヨーク・シンガポールにも拠点）",
+    "url": "https://note.com/startup_dd/n/n808622ad18e5",
+    "pass": 3
+   },
+   {
+    "quote": "創業者：Jacomo Corbo（CEO）& Robin Tuluie（会長）",
+    "url": "https://note.com/startup_dd/n/n808622ad18e5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "PhysicsX.ai (@PhysicsxAI) / X We’re at #NeurIPS this week. We’re currently hiring #MLengineers and #datascientists working on physics simulation. If you’re interested, do ping us by DM or else at applications@physicsx.ai. #hiring #MLE #DS #physics #equationsforabetterworld",
+    "url": "https://x.com/physicsxai",
+    "pass": 3
+   },
+   {
+    "quote": "Aman Thakkar on X: \"PhysicsX: Inside the $2.4 Billion Bet on ... PhysicsX is the clear category leader in physics AI for industrials by capital, credibility, and ambition, and the Series C validates strong commercial momentum.",
+    "url": "https://x.com/aman_dpmx/status/2104322087498506699",
+    "pass": 3
+   },
+   {
+    "quote": "\"#PhysicsX\" - Results on X | Live Posts & Updates Results for \"#PhysicsX\" on X (Twitter). Find the latest posts, discussions, and updates about #PhysicsX. 20 results found.",
+    "url": "https://x.com/hashtag/PhysicsX",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "PhysicsX - LinkedIn PhysicsX is the AI company for industrials, on a mission to put frontier intelligence in the hands of engineering pioneers and accelerate hardware innovation by transforming how industrial ...",
+    "url": "https://www.linkedin.com/company/physicsx/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX: Jobs | LinkedIn Build Beyond. | PhysicsX is the AI company for industrials, on a mission to put frontier intelligence in the hands of engineering pioneers and accelerate hardware innovation by transforming how...",
+    "url": "https://www.linkedin.com/company/physicsx/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Robin Tuluie Ph.D. - Founder and Chairman at PhysicsX | LinkedInJacomo Corbo - PhysicsX | LinkedInMilan Korbel - @PhysicsX, Managing Director, APAC | LinkedInAlexander Dreismann - PhysicsX | LinkedInMark Huntington, PhD - PhysicsX | LinkedIn Robin is the visionary Founder and Chairman of PhysicsX, a company at the forefront of deep learning and simulation solutions that redefine engineering and ad",
+    "url": "https://uk.linkedin.com/in/robin-tuluie-ph-d-195b7533b",
+    "pass": 3
+   },
+   {
+    "quote": "Jacomo Corbo - PhysicsX | LinkedInMilan Korbel - @PhysicsX, Managing Director, APAC | LinkedInAlexander Dreismann - PhysicsX | LinkedInMark Huntington, PhD - PhysicsX | LinkedIn Experience: PhysicsX · Education: Harvard University · Location: London · 500+ connections on LinkedIn. View Jacomo Corbo’s profile on LinkedIn, a professional community of 1 billion members. Nov 4, 2019 · @PhysicsX, Manag",
+    "url": "https://uk.linkedin.com/in/jacomo-corbo",
+    "pass": 3
+   },
+   {
+    "quote": "Robin Tuluie Ph.D. - Founder and Chairman at PhysicsX | LinkedInJacomo Corbo - PhysicsX | LinkedInDeeptech unicorn PhysicsX opens regional hub in S’pore to ...Startup PhysicsX Hits $2.4 Billion Valuation to Provide AI ...AI startup PhysicsX founder on the “risk aversion” holding ... Robin is the visionary Founder and Chairman of PhysicsX, a company at the forefront of deep learning and simulation ",
+    "url": "https://uk.linkedin.com/in/robin-tuluie-ph-d-195b7533b",
+    "pass": 3
+   },
+   {
+    "quote": "Jacomo Corbo - PhysicsX | LinkedInDeeptech unicorn PhysicsX opens regional hub in S’pore to ...Startup PhysicsX Hits $2.4 Billion Valuation to Provide AI ...AI startup PhysicsX founder on the “risk aversion” holding ... Experience: PhysicsX · Education: Harvard University · Location: London · 500+ connections on LinkedIn. View Jacomo Corbo’s profile on LinkedIn, a professional community of 1 billi",
+    "url": "https://uk.linkedin.com/in/jacomo-corbo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "PhysicsX - Facebook Jun 20, 2026 · PhysicsX, Saint Petersburg. 1,296 followers. Physics Made Simple Space • Science • Amazing Facts New Viral Videos Every Day",
+    "url": "https://www.facebook.com/p/PhysicsX-61591074422227/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX - Facebook Sep 13, 2026 · PhysicsX. 25 followers · 4 talking about this. I am an experienced Statistics expert",
+    "url": "https://www.facebook.com/p/PhysicsX-61590859808678/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX - Facebook Sep 19, 2021 · PhysicsX. 2,733 likes. PhysicsX provides education to the students which can not afford coaching classes fee.This page incl",
+    "url": "https://www.facebook.com/PhysicsX-101189164755732/",
+    "pass": 3
+   },
+   {
+    "quote": "PhysicsX on AWS | PhysicsX is revolutionizing engineering ... PhysicsX is revolutionizing engineering with AI. ️🔋From planes & automobiles to semiconductors & renewable energy solutions: this startup is...",
+    "url": "https://www.facebook.com/AWSStartUps/videos/physicsx-on-aws/1054214362817481/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.physicsx.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.physicsx.ai/resources/engineering-at-the-speed-of-ai-inside-the-physicsx-and-gb1-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.physicsx.ai/resources/physicsx-and-fortescue-expand-partnership-to-accelerate-industrial-innovation-with-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.physicsx.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.physicsx.ai/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.physicsx.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://techcreate.balubo.jp/articles/physicsx-300m-series-c-large-physics-model-2026-06",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://troy-technical.jp/physicsx%E7%A4%BE%E3%80%81%E7%94%A3%E6%A5%AD%E5%B7%A5%E5%AD%A6%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E6%95%B0%E6%97%A5%E3%81%8B%E3%82%89%E6%95%B0%E7%A7%92/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.studioglobal.ai/ja/discover/answers/what-key-details-were-announced-in-the-6a2a8592c325685be090fda3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/physicsx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://seisan-navi.com/20260608-aiphysicsx24/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.generalcatalyst.com/stories/our-investment-in-physicsx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rely.design/physicsx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.superantispyware.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/physicsx",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/529644-70",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://lounge.ai/arr/physicsx",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://6figr.com/company/physicsx",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/humble_dog9839/n/n4869afd1ca70",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tomohiro2866/n/n54e714733071",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_dd/n/n808622ad18e5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/physicsxai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aman_dpmx/status/2104322087498506699",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/PhysicsX",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/physicsx/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/physicsx/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/robin-tuluie-ph-d-195b7533b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/jacomo-corbo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/PhysicsX-61591074422227/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/PhysicsX-61590859808678/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PhysicsX-101189164755732/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AWSStartUps/videos/physicsx-on-aws/1054214362817481/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/robin-tuluie-ph-d-195b7533b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/jacomo-corbo",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Physicsx 日本 導入",
+   "results": [
+    "https://www.physicsx.ai/",
+    "https://techcreate.balubo.jp/articles/physicsx-300m-series-c-large-physics-model-2026-06",
+    "https://troy-technical.jp/physicsx社、産業工学シミュレーションを数日から数秒/",
+    "https://www.studioglobal.ai/ja/discover/answers/what-key-details-were-announced-in-the-6a2a8592c325685be090fda3",
+    "https://seisan-navi.com/20260608-aiphysicsx24/",
+    "https://note.com/lagless/n/n84ce118a81d4",
+    "https://note.com/startup_dd/n/n808622ad18e5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Physicsx 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.physicsx.ai/careers",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Physicsx Japan",
+   "results": [
+    "https://www.physicsx.ai/",
+    "https://jp.linkedin.com/company/physicsx",
+    "https://seisan-navi.com/20260608-aiphysicsx24/",
+    "https://www.generalcatalyst.com/stories/our-investment-in-physicsx",
+    "https://www.dealstreetasia.com/stories/temasek-physicsx-nyk-kadmos-446777",
+    "https://www.physicsx.ai/about",
+    "https://www.jps.or.jp/english/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Physicsx manufacturing customer case study",
+   "results": [
+    "https://www.physicsx.ai/",
+    "https://www.physicsx.ai/resources/real-time-intelligence-in-the-foundry-ai-for-casting-quality-and-efficiency",
+    "https://eutechfuture.com/artificial-intelligence/physicsx-the-ai-powered-engineering-platform-revolutionising-industrial-design/",
+    "https://www.rely.design/physicsx",
+    "https://ukstories.microsoft.com/features/from-months-to-seconds-how-physicsx-is-transforming-engineering-with-physics-ai/",
+    "https://www.businesstimes.com.sg/startups-tech/startups/temasek-backed-startup-physicsx-hits-us2-4-billion-valuation-provide-ai-manufacturing",
+    "https://promofect.com/case-studies/physicsx/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Physicsx white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.iqreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.verkada.com/partners/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Physicsx founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/physicsx",
+    "https://pitchbook.com/profiles/company/529644-70",
+    "https://lounge.ai/arr/physicsx",
+    "https://6figr.com/company/physicsx",
+    "https://getlatka.com/companies/physicsx.ai",
+    "https://tracxn.com/d/companies/physicsx/__hok5fdWTydefwCO1e175XVPJRWdbtq9y2OjcJDzTacs",
+    "https://www.physicsx.ai/newsroom/physicsx-raises-135m-series-b-to-usher-in-a-new-era-of-ai-native-engineering-and-manufacturing"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Physicsx",
+   "results": [
+    "https://note.com/humble_dog9839/n/n4869afd1ca70",
+    "https://note.com/tomohiro2866/n/n54e714733071",
+    "https://note.com/startup_dd/n/n808622ad18e5",
+    "https://note.com/physics_news/n/n451d5030c029?hl=en",
+    "https://note.com/jolly_holly8541/n/n106cec2638c1?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/physics_news/n/nd2e170e9efff?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Physicsx",
+   "results": [
+    "https://x.com/physicsxai",
+    "https://x.com/aman_dpmx/status/2104322087498506699",
+    "https://x.com/hashtag/PhysicsX",
+    "https://x.com/PhysicsExpvf",
+    "https://x.com/physicsvids_",
+    "https://x.com/PhysicsExpvf/status/2109616255393214677",
+    "https://x.com/PhysicsExpvf/status/2120110807052931169"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Physicsx",
+   "results": [
+    "https://www.linkedin.com/company/physicsx/",
+    "https://www.linkedin.com/company/physicsx/jobs/",
+    "https://uk.linkedin.com/in/robin-tuluie-ph-d-195b7533b",
+    "https://uk.linkedin.com/in/jacomo-corbo",
+    "https://au.linkedin.com/in/milan-korbel",
+    "https://sg.linkedin.com/in/alexander-dreismann-5b3875b9",
+    "https://www.linkedin.com/in/markdhuntington"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Physicsx",
+   "results": [
+    "https://www.facebook.com/p/PhysicsX-61591074422227/",
+    "https://www.facebook.com/p/PhysicsX-61590859808678/",
+    "https://www.facebook.com/PhysicsX-101189164755732/",
+    "https://www.facebook.com/AWSStartUps/videos/physicsx-on-aws/1054214362817481/",
+    "https://www.facebook.com/siliconrepublic/posts/physicsx-an-ai-company-for-industrials-has-announced-an-oversubscribed-300m-seri/1592078189594765/",
+    "https://www.facebook.com/thephysicsgirl/",
+    "https://www.facebook.com/physicsOlympiadBDPHOA/photos/feynmans-physics-x-the-class-that-wasnt-a-classback-in-his-caltech-days-richard-/122108555397010364/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Physicsx note 社長",
+   "results": [
+    "https://www.physicsx.ai/resources/physicsx-strengthens-leadership-team-for-next-phase-of-growth-with-appointment-of-chris-wigley-as-coo",
+    "https://www.physicsx.ai/newsroom/jacomo-corbo-joins-physicsx-as-co-ceo",
+    "https://uk.linkedin.com/in/robin-tuluie-ph-d-195b7533b",
+    "https://uk.linkedin.com/in/jacomo-corbo",
+    "https://www.straitstimes.com/business/deeptech-unicorn-physicsx-opens-regional-hub-in-spore-to-scale-ai-powered-industrial-engineering",
+    "https://www.bloomberg.com/news/articles/2026-06-08/startup-physicsx-hits-2-4-billion-valuation-to-provide-ai-for-manufacturing",
+    "https://sifted.eu/articles/physicsx-european-defence-tech"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Physicsx X 投稿",
+   "results": [
+    "https://www.physicsx.ai/",
+    "https://www.physicsx.ai/resources/physicsx-launches-asia-pacific-hub-in-singapore-to-scale-ai-powered-industrial-engineering-across-the-region",
+    "https://nova.platform.physicsx.ai/",
+    "https://journals.aps.org/prx/authors",
+    "https://journals.aps.org/prx/",
+    "https://www.xueshu.com/sci/47829/03.html",
+    "https://www.peipusci.com/news/5817.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

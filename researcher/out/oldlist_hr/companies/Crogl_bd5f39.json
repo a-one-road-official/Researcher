@@ -1,0 +1,840 @@
+{
+ "name": "Crogl",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-11T02:36:20.357389+00:00",
+ "official_url": "https://www.crogl.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Crogl: AI for Enterprise Security",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Enterprise Security",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI for security teams who build, demand sovereignty, and require predictable pricing.",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "▶ Watch the full video",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", whether Crogl runs in your private cloud or as an",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy on-premises, in your private cloud, or fully air-gapped. Crogl runs inside your infrastructure, so no data leaves your environment. LLMs never see the secrets behind your connectors. All of Crogl's work is logged, auditable, and retained according to your policies, and all of the work you do is documented in Crogl and in your ticketing or case management system. Ready for an auditor.",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By using LLMs with a governable harness and a semantic knowledge graph, Crogl can reason through analysis while staying consistent and deterministic. You can leverage best practices and exercise your own intuition to drive the best operational outcomes for your security teams.",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Analyze what you want, when you want. Whether you're reviewing 10 alerts or 10,000, and whether you have 10 analysts or 100, Crogl's pricing stays predictable and transparent. No per-alert, per-investigation, or per-user fees. No hidden costs. No surprises.",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for Real SOC Problems",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Crogl can investigates every alert your team receives, from the routine to the unprecedented. It can help you hunt faster and share your findings.",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From AI threats, cloud alerts to on-prem compliance violations. Crogl queries your SIEM, EDR, identity provider, and threat intelligence feeds in native format. Federated search ensures comprehensive coverage.",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "pricing stays predictable while analyst hours move from triage to the threats that matter.",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing stays predictable, and analyst hours move to the threats that matter.",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Previously: 24+ hours per report",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Critical infrastructure protecting the grid. A missed alert or a delayed analysis isn't a performance issue. It's an operational risk.",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Previously: hundreds uninvestigated every day",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Previously: ~1 hour per investigation",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Practitioners sharing what actually works in the SOC. No vendor pitches.",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "About Crogl | AI for Enterprise Security",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Crogl is a security company founded by practitioners who spent careers at the world's most demanding security environments - national laboratories, global banks, and the companies that built the tools SOC teams depend on. They didn't set out to build another security product. They set out to solve the problem they'd spent years watching go unsolved.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Security analysts are among the most skilled professionals in any organization. They solve complex problems under pressure, with incomplete data and limited time. The problem has never been their capability. It's been the volume of work standing between their expertise and the threats that actually matter.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We exist to make security teams more effective. Every product decision, every feature, every interaction is measured against one question: does this help the people defending their organizations?",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We build with the future in mind, adopting the best tools, architectures, and approaches available. We don't preserve legacy for comfort. We move forward because the threats do.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The name Crogl was built to reflect the three foundational principles that guide everything we build. The same three principles that define what it means to run a world-class security operation.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "reasoning, rationale, process",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Knowledge without reasoning produces data, not decisions. Crogl's agentic AI reasons across what it knows, follows your organization's workflows, and arrives at findings that a skilled analyst would recognize as their own.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Governance. Data. Process. These three concepts are not just our name, they are the architecture of every investigation Crogl performs.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Former security research leader at Splunk and Databricks. Spent time inside a Fortune 500 financial services institution as an end user to understand SOC pain firsthand. Founded Crogl to solve the problem he'd watched go unsolved for a decade.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple time revenue leader for enterprise IT and Security solutions, Ryan joined Crogl from Zilla Security (acquired by CYBR) and previously led sales for Device42 (acquired by FRSH). At Crogl, Ryan leads sales, partnerships, and customer success.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Former AI engineering leader at Splunk, Databricks, and Mandiant. Started his career at IBM Research building the data systems that became industry infrastructure. At Crogl, he leads the AI that makes autonomous investigation possible.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Crogl has raised $30M from investors with deep roots in enterprise security and data infrastructure.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Crogl is growing. If you're a security practitioner who wants to work on problems that matter or an organization ready to transform your SOC, we want to hear from you.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Enterprise Security",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Start free. The download runs on-premises, in your own cloud, or fully air-gapped. Upgrade to Enterprise when your team needs scale.",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use your own enterprise LLM service",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Both plans run the same Crogl. Enterprise unlocks the controls for AI-driven business critical security operations.",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "SIEMs, EDRs, identity providers, ticketing, threat intel.",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How analysts prove who they are.",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise LLM service",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You keep using Crogl. The free tier is a single-user install with unlimited skills and all connectors, and it runs on-premises, in your private cloud, or fully air-gapped. Crogl Enterprise adds what SOC teams need at scale, including autonomous triage, unlimited users, OIDC SSO, RBAC, audit log export, and dedicated support with 24/7 SLAs.",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Is Crogl secure and private?",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Crogl is customer managed, not a SaaS. You control all data, including logs, session history, and every autonomous and user-driven analysis. Crogl runs on-premises, in your private cloud, or fully air-gapped, and nothing leaves your environment. LLMs never see the secrets behind your connectors.",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Does Crogl run in air-gapped or on-premises environments?",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, including the free download. Crogl runs on-premises, in your private cloud, or fully air-gapped, including model inference on open weight models hosted on your own GPUs. There is no reduced-feature on-prem edition, and nothing leaves your environment. A Department of War deployment runs Crogl air-gapped and classified.",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You can go from download to first investigations within minutes. Install Crogl on a workstation, connect your data sources with the included connectors, and run an investigation against real alerts. There is no schema normalization phase or playbook authoring sprint before the first investigation runs.",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Download now. Or talk to us about an enterprise deployment.",
+    "url": "https://www.crogl.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Enterprise Security",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Deploys on-premises, in a private or government cloud, or",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": ", with no reduced-feature on-prem edition.",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": ": open weight models such as Google Gemma 4 31B on your own GPUs, or the LLM you have already approved.",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "In production at a major US electric utility, which investigates every CRISP advisory in under an hour, down from more than 24 hours per report.",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Of SOC respondents say their SOC protects an air-gapped network (2026 State of SecOps, independent research by Ponemon Institute, commissioned by Crogl)",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Sovereign by design. Proven in production.",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "On-premises, private cloud, government cloud, or fully air-gapped. There is no reduced-feature on-prem edition.",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Run open weight models such as Google Gemma 4 31B or NVIDIA Nemotron 3 Ultra on your own GPUs, or bring the LLM you already approved.",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Selected from more than 50 proposals to anchor the AI-Enterprise Enabled Security Operations Center program with World Wide Technology, supporting more than 700,000 users.",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "A new KEV entry lands. Prove where you're exposed, and name what you couldn't check.",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Identity checks at hire, tied to access months later.",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "No. Crogl runs fully air-gapped, including model inference on open weight models hosted on your own GPUs. It deploys on-premises, in a private cloud, in a government cloud, or fully disconnected, and there is no reduced-feature on-prem edition. A Department of War deployment investigates 1,000+ alerts a day with Crogl in an air-gapped, classified environment.",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Which AI models does Crogl run on-premises?",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A Fortune 500 financial services institution investigates across data lakes in minutes, down from about an hour.",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 financial services institution",
+    "url": "https://www.crogl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Knowledge without reasoning produces data, not decisions. Crogl's agentic AI reasons across what it knows, follows your organization's workflows, and arrives at findings that a skilled analyst would recognize as their own.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Former security research leader at Splunk and Databricks. Spent time inside a Fortune 500 financial services institution as an end user to understand SOC pain firsthand. Founded Crogl to solve the problem he'd watched go unsolved for a decade.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple time revenue leader for enterprise IT and Security solutions, Ryan joined Crogl from Zilla Security (acquired by CYBR) and previously led sales for Device42 (acquired by FRSH). At Crogl, Ryan leads sales, partnerships, and customer success.",
+    "url": "https://www.crogl.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Deployed in air-gapped federal environments, critical infrastructure, and Fortune 500 financial services institutions.",
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Audit season arrives and the evidence sits across six systems, with half of it in an analyst's memory. Crogl documents every investigation as it runs, so the trail is complete, the records map to SOC 2, ISO 27001, and NIST, and the gaps close before an auditor asks.",
+    "url": "https://www.crogl.com/solutions/audit-readiness",
+    "pass": 1
+   },
+   {
+    "quote": "Security teams investigate threats every day. But when auditors arrive, the documentation tells a different story. Alerts closed without notes. Investigations without evidence. Decisions without rationale. The work happened, but the proof didn't follow.",
+    "url": "https://www.crogl.com/solutions/audit-readiness",
+    "pass": 1
+   },
+   {
+    "quote": "When auditors arrive, the documentation is already there. SOC 2, ISO 27001, NIST CSF, NIST AI RMF, MITRE ATT&CK, CMMC. Crogl's investigation records map directly to the evidence your compliance team needs. No scramble. No gaps.",
+    "url": "https://www.crogl.com/solutions/audit-readiness",
+    "pass": 1
+   },
+   {
+    "quote": "No. Crogl logs every query, result, and determination in real time as the investigation runs, with timestamps and full provenance. The record is written to your ticketing system automatically, so there is no after-the-fact report writing. When auditors arrive, the documentation already exists for every alert, not only the ones an analyst had time to write up.",
+    "url": "https://www.crogl.com/solutions/audit-readiness",
+    "pass": 1
+   },
+   {
+    "quote": "Deployed in air-gapped federal environments, critical infrastructure, and Fortune 500 financial services institutions.",
+    "url": "https://www.crogl.com/solutions/audit-readiness",
+    "pass": 1
+   },
+   {
+    "quote": "We're a small team solving a large problem. Every person at Crogl works directly on technology that's deployed in some of the world's most demanding security environments, federal agencies, critical infrastructure, Fortune 500 enterprises.",
+    "url": "https://www.crogl.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Authority Magazine interviews Crogl CEO Monzy Merza on how AI systems can overcome real competency barriers in cybersecurity — and what it takes to move from promising demos to operationally reliable security AI.",
+    "url": "https://www.crogl.com/resources/press",
+    "pass": 1
+   },
+   {
+    "quote": "From the nuclear weapons lab to leading security at Splunk, Databricks, and a Fortune 500 financial services institution — Monzy Merza joins Inside the Silicon Mind to share the moment that led to Crogl, why 399 out of 400 alerts don’t matter, and how AI is turning weeks of threat analysis into minutes.",
+    "url": "https://www.crogl.com/resources/press",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Sovereign AI for utilities, water, pipelines, the Defense Industrial Base, and federal. Every investigation runs inside your boundary.",
+    "url": "https://www.crogl.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Crogl users configure the language model and provider used by the Crogl agent.",
+    "url": "https://www.crogl.com/resources/blog/multi-model-support-security-operations",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "We're a small team solving a large problem. Every person at Crogl works directly on technology that's deployed in some of the world's most demanding security environments, federal agencies, critical infrastructure, Fortune 500 enterprises.",
+    "url": "https://www.crogl.com/careers",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Don't see the right role? Email us at",
+    "url": "https://www.crogl.com/careers",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.crogl.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crogl.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crogl.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crogl.com/solutions/critical-infrastructure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crogl.com/solutions/audit-readiness",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crogl.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crogl.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crogl.com/resources/press",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crogl.com/resources/blog/multi-model-support-security-operations",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.crogl.com/_next/image?url=%2Fimages%2Flogos%2Fsplunk.png&w=1080&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.crogl.com/_next/image?url=%2Fimages%2Flogos%2Fsentinel.png&w=1200&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.crogl.com/images/logos/crowdstrike.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.crogl.com/_next/image?url=%2Fimages%2Flogos%2Fservicenow.png&w=1080&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.imdb.com/title/tt4574334/plotsummary/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.imdb.com/title/tt4574334/episodes/?season=2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pro.imdb.com/title/tt4574334/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.imdb.com/title/tt4574334/episodes/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://alaskanhomehealth.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alaskanhomehealth.com/health-care-about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medicarelist.com/home-health/alaskan-home-health-inc-anchorage-ak/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chamberofcommerce.com/business-directory/alaska/anchorage/home-health-care-service/2023877749-alaskan-home-health-inc",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Microsoft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://account.microsoft.com/account",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xsmn.info/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Microsoft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calculatorsoup.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calculatorsoup.com/calculators/health/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calculatorsoup.com/calculators/construction/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calculatorsoup.com/calculators/statistics/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.minecraftskins.com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.minecraftforum.net/forums/minecraft-java-edition/discussion/2894454-skin-wont-work-on-minecraft-1-5-2",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/skins/1217908-how-to-manually-change-your-minecraft-skins",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/skins/2846632-is-there-way-to-flatten-a-1-8-skin-or-convert-it",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Crogl 日本 導入",
+   "results": [
+    "https://www.imdb.com/title/tt4574334/plotsummary/",
+    "https://www.imdb.com/title/tt4574334/episodes/?season=2",
+    "https://pro.imdb.com/title/tt4574334/",
+    "https://www.imdb.com/title/tt4574334/episodes/",
+    "https://www.imdb.com/pt/title/tt4574334/",
+    "https://www.imdb.com/es/title/tt27486290/",
+    "https://www.imdb.com/title/tt1468737/",
+    "https://www.imdb.com/es-es/title/tt4574334/",
+    "https://www.imdb.com/title/tt4574334/ratings/",
+    "https://www.imdb.com/title/tt4574334/?xs=1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Crogl 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://alaskanhomehealth.com/",
+    "https://alaskanhomehealth.com/health-care-about-us",
+    "https://www.medicarelist.com/home-health/alaskan-home-health-inc-anchorage-ak/",
+    "https://www.chamberofcommerce.com/business-directory/alaska/anchorage/home-health-care-service/2023877749-alaskan-home-health-inc",
+    "https://npino.com/home-health/1336540624-alaskan-home-health,-inc/",
+    "https://npiprofile.com/npi/1336540624",
+    "https://www.ehealthscores.com/care-lttcxpfcsp-alaskan-home-health,-inc-anchorage.html",
+    "https://www.healthcare4ppl.com/home-health/alaska/anchorage/alaskan-home-health-inc-27034.html",
+    "https://www.mylivingchoice.com/property/alaskan-home-health-inc",
+    "https://healthcarecomps.com/home-health/ak/027034/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "Crogl Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us/",
+    "https://www.microsoft.com/",
+    "https://account.microsoft.com/account",
+    "https://account.microsoft.com/account-checkup",
+    "https://myaccount.microsoft.com/",
+    "https://myaccount.microsoft.com/login",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://apps.microsoft.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Crogl manufacturing customer case study",
+   "results": [
+    "https://xsmn.info/",
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us/",
+    "https://www.microsoft.com/",
+    "https://account.microsoft.com/account",
+    "https://account.microsoft.com/account-checkup",
+    "https://myaccount.microsoft.com/",
+    "https://myaccount.microsoft.com/login",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://m365.cloud.microsoft/?origindomain=Office"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Crogl white label OR reseller OR partner program",
+   "results": [
+    "https://www.calculatorsoup.com/",
+    "https://www.calculatorsoup.com/calculators/health/index.php",
+    "https://www.calculatorsoup.com/calculators/construction/index.php",
+    "https://www.calculatorsoup.com/calculators/statistics/index.php",
+    "https://www.calculatorsoup.com/calculators/math/percentage.php",
+    "https://www.calculatorsoup.com/calculators/math/fractions.php",
+    "https://www.calculatorsoup.com/calculators/time/index.php",
+    "https://www.calculatorsoup.com/calculators/math/math.php",
+    "https://www.calculatorsoup.com/calculators/math/fractionscalculators.php",
+    "https://www.calculatorsoup.com/calculators/construction/tank.php"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Crogl founded funding employees revenue",
+   "results": [
+    "http://www.minecraftskins.com/",
+    "https://www.minecraftforum.net/forums/minecraft-java-edition/discussion/2894454-skin-wont-work-on-minecraft-1-5-2",
+    "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/skins/1217908-how-to-manually-change-your-minecraft-skins",
+    "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/skins/2846632-is-there-way-to-flatten-a-1-8-skin-or-convert-it",
+    "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/skins/2598508-how-to-get-a-skin-in-beta",
+    "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3150500-back2beta-1-7-9-mod-for-beta-1-7-3",
+    "https://www.minecraftforum.net/forums/minecraft-java-edition/discussion/188873-why-does-my-skin-keep-changing-to-default",
+    "https://www.minecraftforum.net/forums/support/java-edition-support/2706612-cant-see-other-players-skin",
+    "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/skins/3116699-skin-file-folder-location",
+    "https://www.minecraftforum.net/forums/minecraft-java-edition/discussion/3117355-upload-one-skin-head-to-another-skins-body"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:note.com Crogl",
+   "results": [
+    "https://www.linkedin.com/in/jaime-alaniz-951b9a41",
+    "https://ar.linkedin.com/in/martín-ortiz-28177a1aa",
+    "https://ni.linkedin.com/in/jairo-alaniz-escorcia-04780121a",
+    "https://mx.linkedin.com/in/jaime-alanis-gutiérrez-7154731a",
+    "https://ar.linkedin.com/in/julio-mantilla-7b897768",
+    "https://www.linkedin.com/in/abarbe",
+    "https://ni.linkedin.com/in/francisco-jose-gomez-alaniz-76a54722b",
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/",
+    "https://account.microsoft.com/account-checkup"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 27
+  },
+  {
+   "query": "site:x.com Crogl",
+   "results": [
+    "https://tools.usps.com/tracking/tracking_home.cfm",
+    "https://www.17track.net/EN",
+    "https://www.ups.com/track?SERVICE&loc=en_US",
+    "https://www.fedex.com/en-us/tracking.html",
+    "https://tools.usps.com/go/TrackConfirmAction_input?qtc_tLabels1=Enter+tracking+number",
+    "https://parcelsapp.com/en/tracking",
+    "https://track.global/en",
+    "https://www.17track.net/en/tracking",
+    "https://www.dhl.com/us-en/home/tracking.html",
+    "https://m.usps.com/m/TrackConfirmAction_input"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "site:linkedin.com Crogl",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Crogl",
+   "results": [
+    "https://www.bbc.com/hindi",
+    "https://www.bbc.com/hindi/articles/cp8mvg34e6do",
+    "https://www.bbc.com/hindi/topics/c2lej0594knt",
+    "https://www.bbc.com/hindi/topics/cwr9j8g1kj9t",
+    "https://www.bbc.com/hindi/podcasts/p09ds7zx",
+    "https://www.bbc.com/hindi/live/clygl2rgre4t",
+    "https://www.bbc.com/hindi/live/india-66413937",
+    "https://www.bbc.com/hindi/topics/ckdxnkz7607t",
+    "https://www.bbc.com/hindi/topics/c9wpm0en87xt",
+    "https://www.bbc.com/hindi/podcasts/p0fmrg25"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Crogl note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Microsoft",
+    "https://www.microsoft.com/en-us/",
+    "https://www.microsoft.com/",
+    "https://account.microsoft.com/account",
+    "https://account.microsoft.com/account-checkup",
+    "https://myaccount.microsoft.com/",
+    "https://myaccount.microsoft.com/login",
+    "https://support.microsoft.com/en-us/accounts-billing/subscriptions/sign-in-to-microsoft-365",
+    "https://m365.cloud.microsoft/?origindomain=Office",
+    "https://apps.microsoft.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Crogl X 投稿",
+   "results": [
+    "https://www.beatintel.io/lists/best-rb-songs-of-all-time",
+    "https://www.musicgrotto.com/best-rnb-songs/",
+    "https://music.youtube.com/playlist?list=OLAK5uy_lbTQ__Ye9H_rvokmmaYz1oBJCoCSzHwbo",
+    "https://globalmusicvibe.com/songs/rb-songs-of-all-time/",
+    "https://www.youtube.com/playlist?list=PLGBuKfnErZlCzVQQauMRAM2bSlKFVtFna",
+    "https://rateyourmusic.com/charts/top/song/all-time/g:rhythm-and-blues/",
+    "https://m.youtube.com/watch?v=_Y2t5gl4rBg",
+    "https://middermusic.com/best-rnb-songs/",
+    "https://www.gemtracks.com/resources/song-genres/view-genres.php?genre=rhythm+and+blues",
+    "https://toptunetales.com/top-100-rb-songs-of-all-time/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部24頁・検索12回）"
+ }
+}

@@ -1,0 +1,744 @@
+{
+ "name": "Albedo",
+ "aliases": [],
+ "context": "旧営業リスト｜Aerospace / Satellite Manufacturing｜送付済み",
+ "researched_at": "2026-11-11T02:28:34.903730+00:00",
+ "official_url": "https://albedo.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Proximity Drives Performance",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proximity proven. Performance delivered.",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What used to require billion-dollar bespoke satellites in LEO happens now with more affordable, proliferated systems in VLEO.",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "4x improvement in Resolution & closing RF links",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "16x improvement in active signal returns",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When higher orbits are compromised, VLEO keeps working. Assured reconstitution.",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "proliferated and Exquisite capability",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-resolution EO/IR and RF observation enabled by proximity—delivering sharper detail, higher sensitivity, and enhanced capabilities across the EM spectrum.",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock R⁴-class performance gains across radar, lidar, MTI, and other active sensing missions, enabling smaller apertures, lower transmit power, and improved detection and tracking fidelity.",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Time-critical detection, tracking, and fire-control from a resilient altitude with proximity-boosted SNR. Faster time to intercept for tight engagement windows.",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VLEO’s proximity provides a distinct vantage for space domain awareness. High maneuverability supports proximity operations, sustained custody, and control from a strategically advantaged orbit.",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose-built for VLEO. Low-drag designs with atomic oxygen mitigated, autonomous station-keeping. Low jitter precision with CMG-enabled agility. We built the recipe for any mission in VLEO—not the other way around.",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform supports diverse mission types and payloads. Our payload options can be configured for a range of remote sensing applications. Full-stack services for payload integration, launch, and mission ops.",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Flight-Proven. Deep expertise of the unique VLEO environment—from drag dynamics to orbital mechanics. A mission partner with demonstrated on-orbit heritage.",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "April 7, 2026",
+    "url": "https://albedo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to make space usable and valuable—not just reachable. We built the only flight-proven platform for Very Low Earth Orbit, turning what was once considered impossible into operational infrastructure.",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "“It’s rare to find a team this strong where you also have the freedom to move quickly to solve hard problems.”",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Mechanical Architect",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Software Engineer & Ground Technical Product Manager",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Mission Design Engineer",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Production",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Stress / Dynamics Engineer",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Principal GNC Software Engineer",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Lead, Technical Program Management",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive medical insurance: health, dental, vision, mental health",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Challenging technical problems that need solving",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "The proportion reflected is not only determined by properties of the surface itself, but also by the spectral and angular distribution of solar radiation reaching the Earth's surface.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "climate process where a change in the area of",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "The albedo in visible light ranges from about 0.9 to 0.95 for fresh snow to about 0.04 for charcoal, one of the darkest substances. Deeply shadowed cavities can achieve an effective albedo approaching the zero of a",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "This is far higher than for the ocean primarily because of the contribution of clouds.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "as well as a substantial increase in global warming. However, the link to climate change has not been explored to date and it is unclear whether or not this represents an ongoing trend.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "can be approximated by the proportionate sum of two terms:",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "being the proportion of direct radiation from a given solar angle, and",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "being the proportion of diffuse illumination, the actual albedo",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "This formula is important because it allows the albedo to be calculated for any given illumination conditions from a knowledge of the intrinsic properties of the surface.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "to \"the physical properties of the land surface can perturb the climate by altering the Earth's radiative energy balance\" even on a small scale or when undetected by satellites.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": ", has been proposed as a",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "Efforts toward widespread implementation of PDRCs may focus on maximizing the albedo of surfaces from very low to high values, so long as a thermal emittance of at least 90% can be achieved.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "counterparts, which have lower insolation. Because insolation plays such a big role in the heating and cooling effects of albedo, high insolation areas like the tropics will tend to show a more pronounced fluctuation in local temperature when local albedo changes.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "results. A layer of snowfall increases local albedo, reflecting away sunlight, leading to local cooling. In principle, if no outside temperature change affects this area (e.g., a warm",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": ", the citizens have been protecting their glaciers with large white tarpaulins to slow down the ice melt. These large white sheets are helping to reject the rays from the sun and defecting the heat. Although this method is very expensive, it has been shown to work, reducing snow and ice melt by 60%.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "(a-Si:H) and crystalline silicon (c-Si)-based compared to traditional spectral-integrated albedo predictions. Research showed impacts of over 10% for vertically (90°) mounted systems, but such effects were substantially lower for systems with lower surface tilts.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "An analysis on the bias due to the specular reflectivity of 22 commonly occurring surface materials (both human-made and natural) provided effective albedo values for simulating the performance of seven photovoltaic materials mounted on three common photovoltaic system topologies: industrial (solar farms), commercial flat rooftops and residential pitched-roof applications.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "results in reduced albedo. Initially, this reduction may lead to moderate global warming over a span of approximately 20 years, but it is expected to transition into significant cooling thereafter.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "(early morning, late afternoon, and near the poles). However, as mentioned above, waviness causes an appreciable reduction. Because light specularly reflected from water does not usually reach the viewer, water is usually considered to have a very low albedo in spite of its high reflectivity at high angles of incident light.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "and thereby change cloud properties) is less certain.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "can be used to infer much about their properties. The study of albedos, their dependence on wavelength, lighting angle (\"phase angle\"), and variation in time composes a major part of the astronomical field of",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": ". For small and far objects that cannot be resolved by telescopes, much of what we know comes from the study of their albedos. For example, the absolute albedo can indicate the surface ice content of outer",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "properties, whereas unusually high radar albedo is indicative of high metal content in",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "Such a dark surface is thought to be indicative of a primitive and heavily",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Infrared Image captured by Clarity-1, Rural scene Japan, 2025",
+    "url": "https://albedo.com/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing Specialist",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "In 2021, scientists reported that Earth dimmed by ~0.5% over two decades (1998–2017) as measured by earthshine using modern photometric techniques. This may have both been co-caused by",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "An analysis on the bias due to the specular reflectivity of 22 commonly occurring surface materials (both human-made and natural) provided effective albedo values for simulating the performance of seven photovoltaic materials mounted on three common photovoltaic system topologies: industrial (solar farms), commercial flat rooftops and residential pitched-roof applications.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "Variation in summer albedo across both forest types is associated with maximum rates of photosynthesis because plants with high growth capacity display a greater fraction of their foliage for direct interception of incoming radiation in the upper canopy.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "on planting forests. They found that new forests in tropical and midlatitude areas tended to cool; new forests in high latitudes (e.g., Siberia) were neutral or perhaps warming.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "Those components of the received echo that return from first-surface reflections (as from a smooth or mirror-like surface) are dominated by the OC component as there is a reversal in polarization upon reflection. If the surface is rough at the wavelength scale or there is significant penetration into the regolith, there will be a significant SC component in the echo caused by multiple scattering.",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "\"Albedo changes caused by future urbanization contribute to global warming\"",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "\"Including CO2-emission equivalence of changes in land surface albedo in life cycle assessment. Methodology and case study on greenhouse agriculture\"",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“Albedo isn't a place where you clock in and disappear. Your voice will have a real impact and you'll have a world-class team that's always pushing the limits of what's possible. You're not a cog in a wheel, you're part of what's driving the mission forward.”",
+    "url": "https://albedo.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "can be used to infer much about their properties. The study of albedos, their dependence on wavelength, lighting angle (\"phase angle\"), and variation in time composes a major part of the astronomical field of",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "Graf, Alexander; Wohlfahrt, Georg; Aranda-Barranco, Sergio; Arriga, Nicola; Brümmer, Christian; Ceschia, Eric; Ciais, Philippe; Desai, Ankur R.; Di Lonardo, Sara; Gharun, Mana; Grünwald, Thomas; Hörtnagl, Lukas; Kasak, Kuno; Klosterhalfen, Anne; Knohl, Alexander (25 August 2023).",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Albedo - Wikipedia — Unless given for a specific wavelength (spectral albedo), albedo refers to the entire spectrum of solar radiation. [4] Due to measurement constraints, it is often given for the spectrum in which most solar energy reaches the surface (between 0.3 and 3 μm).",
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "Albedo | Overlord Wiki | Fandom — Albedo (アルベド) is the Overseer of the Guardians of the Great Tomb of Nazarick. She is in charge of the general management and supervision of the activities done by the seven Floor Guardians, meaning that she ranks above the other NPCs in Nazarick.",
+    "url": "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "pass": 3
+   },
+   {
+    "quote": "Albedo - NASA Earthdata — Nov 2, 2026 · Albedo is a measure of the percentage of sunlight that a surface reflects. Different parts of Earth’s surface have different albedos. Fresh snow can have an albedo up to 0.9, meaning that it reflects 90% of the sunlight that hits it.",
+    "url": "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "pass": 3
+   },
+   {
+    "quote": "Albedo | Definition & Examples | Britannica — Albedo, fraction of light that is reflected by a body or surface. It is commonly used in astronomy to describe the reflective properties of planets, satellites, and asteroids.",
+    "url": "https://www.britannica.com/science/albedo",
+    "pass": 3
+   },
+   {
+    "quote": "ALBEDO Definition & Meaning - Merriam-Webster — Aug 25, 2026 · The meaning of ALBEDO is reflective power; specifically : the fraction of incident radiation (such as light) that is reflected by a surface or body (such as the moon or a cloud).",
+    "url": "https://www.merriam-webster.com/dictionary/albedo",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://albedo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://albedo.com/company",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/698b6b05059ac15fa9f34b65/698d1e41ede5aa07cb490bba_677afcedf2ea80221d1fe26eba14163e_logos.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/science/albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/science/albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/science/albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/science/albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/science/albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Albedo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.britannica.com/science/albedo",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Albedo 日本 導入",
+   "results": [
+    "https://en.wikipedia.org/wiki/Albedo",
+    "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "https://www.britannica.com/science/albedo",
+    "https://www.merriam-webster.com/dictionary/albedo",
+    "https://genshin-impact.fandom.com/wiki/Albedo",
+    "https://mynasadata.larc.nasa.gov/mini-lessonactivity/what-albedo",
+    "https://www.worldatlas.com/what-is-albedo.html",
+    "https://villains.fandom.com/wiki/Albedo_(Overlord)",
+    "https://albedo.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Albedo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://en.wikipedia.org/wiki/Albedo",
+    "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "https://www.britannica.com/science/albedo",
+    "https://www.merriam-webster.com/dictionary/albedo",
+    "https://genshin-impact.fandom.com/wiki/Albedo",
+    "https://mynasadata.larc.nasa.gov/mini-lessonactivity/what-albedo",
+    "https://www.worldatlas.com/what-is-albedo.html",
+    "https://villains.fandom.com/wiki/Albedo_(Overlord)",
+    "https://albedo.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Albedo Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Albedo",
+    "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "https://www.britannica.com/science/albedo",
+    "https://www.merriam-webster.com/dictionary/albedo",
+    "https://genshin-impact.fandom.com/wiki/Albedo",
+    "https://mynasadata.larc.nasa.gov/mini-lessonactivity/what-albedo",
+    "https://www.worldatlas.com/what-is-albedo.html",
+    "https://villains.fandom.com/wiki/Albedo_(Overlord)",
+    "https://albedo.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Albedo manufacturing customer case study",
+   "results": [
+    "https://en.wikipedia.org/wiki/Albedo",
+    "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "https://www.britannica.com/science/albedo",
+    "https://www.merriam-webster.com/dictionary/albedo",
+    "https://genshin-impact.fandom.com/wiki/Albedo",
+    "https://mynasadata.larc.nasa.gov/mini-lessonactivity/what-albedo",
+    "https://www.worldatlas.com/what-is-albedo.html",
+    "https://villains.fandom.com/wiki/Albedo_(Overlord)",
+    "https://albedo.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Albedo white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Albedo",
+    "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "https://www.britannica.com/science/albedo",
+    "https://www.merriam-webster.com/dictionary/albedo",
+    "https://genshin-impact.fandom.com/wiki/Albedo",
+    "https://mynasadata.larc.nasa.gov/mini-lessonactivity/what-albedo",
+    "https://www.worldatlas.com/what-is-albedo.html",
+    "https://villains.fandom.com/wiki/Albedo_(Overlord)",
+    "https://albedo.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Albedo founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Albedo",
+    "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "https://www.britannica.com/science/albedo",
+    "https://www.merriam-webster.com/dictionary/albedo",
+    "https://genshin-impact.fandom.com/wiki/Albedo",
+    "https://mynasadata.larc.nasa.gov/mini-lessonactivity/what-albedo",
+    "https://www.worldatlas.com/what-is-albedo.html",
+    "https://villains.fandom.com/wiki/Albedo_(Overlord)",
+    "https://albedo.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com Albedo",
+   "results": [
+    "https://en.wikipedia.org/wiki/Albedo",
+    "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "https://www.britannica.com/science/albedo",
+    "https://www.merriam-webster.com/dictionary/albedo",
+    "https://genshin-impact.fandom.com/wiki/Albedo",
+    "https://mynasadata.larc.nasa.gov/mini-lessonactivity/what-albedo",
+    "https://www.worldatlas.com/what-is-albedo.html",
+    "https://villains.fandom.com/wiki/Albedo_(Overlord)",
+    "https://albedo.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Albedo",
+   "results": [
+    "https://en.wikipedia.org/wiki/Albedo",
+    "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "https://www.britannica.com/science/albedo",
+    "https://www.merriam-webster.com/dictionary/albedo",
+    "https://genshin-impact.fandom.com/wiki/Albedo",
+    "https://mynasadata.larc.nasa.gov/mini-lessonactivity/what-albedo",
+    "https://www.worldatlas.com/what-is-albedo.html",
+    "https://villains.fandom.com/wiki/Albedo_(Overlord)",
+    "https://albedo.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Albedo",
+   "results": [
+    "https://en.wikipedia.org/wiki/Albedo",
+    "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "https://www.britannica.com/science/albedo",
+    "https://www.merriam-webster.com/dictionary/albedo",
+    "https://genshin-impact.fandom.com/wiki/Albedo",
+    "https://mynasadata.larc.nasa.gov/mini-lessonactivity/what-albedo",
+    "https://www.worldatlas.com/what-is-albedo.html",
+    "https://villains.fandom.com/wiki/Albedo_(Overlord)",
+    "https://albedo.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Albedo",
+   "results": [
+    "https://en.wikipedia.org/wiki/Albedo",
+    "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "https://www.britannica.com/science/albedo",
+    "https://www.merriam-webster.com/dictionary/albedo",
+    "https://genshin-impact.fandom.com/wiki/Albedo",
+    "https://mynasadata.larc.nasa.gov/mini-lessonactivity/what-albedo",
+    "https://www.worldatlas.com/what-is-albedo.html",
+    "https://villains.fandom.com/wiki/Albedo_(Overlord)",
+    "https://albedo.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Albedo note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Albedo",
+    "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "https://www.britannica.com/science/albedo",
+    "https://www.merriam-webster.com/dictionary/albedo",
+    "https://genshin-impact.fandom.com/wiki/Albedo",
+    "https://mynasadata.larc.nasa.gov/mini-lessonactivity/what-albedo",
+    "https://www.worldatlas.com/what-is-albedo.html",
+    "https://villains.fandom.com/wiki/Albedo_(Overlord)",
+    "https://albedo.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Albedo X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/Albedo",
+    "https://overlordmaruyama.fandom.com/wiki/Albedo",
+    "https://www.earthdata.nasa.gov/topics/land-surface/albedo",
+    "https://www.britannica.com/science/albedo",
+    "https://www.merriam-webster.com/dictionary/albedo",
+    "https://genshin-impact.fandom.com/wiki/Albedo",
+    "https://mynasadata.larc.nasa.gov/mini-lessonactivity/what-albedo",
+    "https://www.worldatlas.com/what-is-albedo.html",
+    "https://villains.fandom.com/wiki/Albedo_(Overlord)",
+    "https://albedo.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部24頁・検索12回）"
+ }
+}

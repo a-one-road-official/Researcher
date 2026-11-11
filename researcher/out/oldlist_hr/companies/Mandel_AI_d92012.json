@@ -1,0 +1,1401 @@
+{
+ "name": "Mandel AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Manufacturing Network / Procurement｜送付済み",
+ "researched_at": "2026-11-11T02:25:17.251582+00:00",
+ "official_url": "https://mandel.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "16-Mar-2026 $4.21M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/534580-21",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/534580-21",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$1,000,000",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/mandel-ai",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://startupintros.com/orgs/mandel-ai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Mandel runs sourcing and ordering from RFQ through invoice, coordinating suppliers, updating your ERP, and bringing your team the decisions that need approval.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "RFQ-2084 · New production order",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Drawing attached. Use our approved suppliers.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "RFQ prepared for approved suppliers",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your buyers spend the day chasing replies, checking documents, and updating records. The supplier decisions you hired them to make keep waiting.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Match the price and quantity to what was agreed.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose better terms for the next production run.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mandel prepares the claim, follows it through with the supplier, and confirms the credit against the agreement.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mandel arranges a replacement for your buyer to approve.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The supplier has delayed 800 collars beyond the production date. Mandel requests quotes from approved alternatives, brings the buyer a comparison, and arranges the replacement after approval.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Example of a backorder resolved with buyer approval",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Approved alternatives",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Waiting for your approval",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Approved by your buyer",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mandel reads the supplier’s reply against the PO and production need date. A six-week delay needs a recovery plan.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mandel requests quotes from approved suppliers, follows up on missing terms, and compares landed cost and arrival dates.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact approved suppliers. Check certification before recommending.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "You approve the replacement.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "An alternative can deliver before the build, for $1,840 more. Mandel brings you the comparison and asks for approval.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A supplier substitution needs buyer approval.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "After approval, Mandel arranges the replacement, cancels the backordered line, and updates the ERP with the confirmation attached.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SAP promise date updated",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Playbooks set the steps and approvals for each job. Mandel applies your supplier instructions as it works and keeps the documents, decisions, and result together in the case.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Send RFQs to approved suppliers.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How this supplier quotes prices",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Handle more production orders without adding to your buyers’ follow-up work",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A machine needs all its bought-in parts to come together. Your buyer is still comparing quotes, chasing acknowledgements, and checking each promised delivery against the build.",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Send RFQs to your approved suppliers. Follow up for missing prices, lead times, and terms.",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "After approval, issue the order and check the acknowledgement against the agreed price, quantity, and date.",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Chase open commitments, track split shipments, and prepare options when a delivery misses the build date.",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Your buyer chooses the supplier and approves extra spend. Engineering approves substitutions and revision changes. Mandel handles the permitted follow-through.",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Agreed price through to final invoice",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Count accepted price corrections and credits once. Keep detected discrepancies separate.",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A procurement buyer handover that keeps open orders moving",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Reconcile ordered, promised, dispatched, received, and usable quantities across split deliveries, shortages, returns, and approved cancellations.",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Start with purchased parts or production supplies where buyers still handle quotes and supplier replies by hand. Connect the need dates, specifications, and approved suppliers for that work.",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A production ramp means more open lines, not just more suppliers. Someone still has to refresh quotes, confirm scheduled deliveries, and get changes back into the production plan.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Approved part and revision",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Request current price and lead time from approved sources. Surface expiry, tooling charges, and non-cancellable terms.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Current terms ready for buyer approval",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Chase unconfirmed dates and follow changes through. Prepare sourcing or expedite options when a build is at risk.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Collect required supplier documents and reconcile receipts and invoices against the approved order.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "The buyer owns sourcing and spend. Engineering and quality approve substitutions, technical acceptance, and release. Access and action limits are agreed for each program.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Track each scheduled delivery. Treat a protected build milestone as an operational outcome, not an assumed saving.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Verified price and term corrections",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery, project-based manufacturing, and metal processing.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Work a PO amendment through approval, supplier acknowledgement, implementation, and read-back without accepting stale or conflicting revisions.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Route drawing, specification, and material questions to the right owner, then carry the approved answer through to a revised supplier response.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Begin with a permitted commercial supplier lane. Agree data-access restrictions before connecting documents; exclude restricted programs and technical data unless explicitly cleared.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Mandel handles supplier follow-through from purchase request to invoice, while your team retains control of supplier approval, quality decisions, and release.",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Terms and availability ready for approval",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Compare price, quantity, date, and stated shelf life with the order. Ask the supplier to clarify differences.",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Your team owns supplier qualification, product suitability, quality acceptance, and release. Mandel does not make clinical or dispensing decisions or operate outside agreed data permissions.",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery, project-based manufacturing, and metal processing.",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Assemble an evidence pack for a price, rebate, shortage, or other agreed supplier claim with clear coverage, calculations, and next steps.",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Route drawing, specification, and material questions to the right owner, then carry the approved answer through to a revised supplier response.",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Start with an agreed set of suppliers and permitted purchasing records. Set data boundaries, document requirements, and approval owners before connecting the workflow.",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery, project-based manufacturing, and metal processing.",
+    "url": "https://www.mandel.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Choose a supplier lane, define the work and approval limits, and establish a baseline. Expand when the completed work and verified results justify it.",
+    "url": "https://www.mandel.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Mandel runs the supplier work behind your catalogue: sourcing, order confirmations, price changes, invoice checks, and contractual credits.",
+    "url": "https://www.mandel.ai/industries/distribution",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Aircraft and component manufacturing. Aftermarket distribution.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial sourcing and price-list-led retail buying.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmaceutical wholesale and medical-device manufacturing.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mandel works with Outlook, Gmail, SAP, Oracle, NetSuite, PDFs, spreadsheets, portals, EDI, and other systems already used by procurement and supply chain teams.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing | Mandel AI",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "industrial manufacturing",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Aircraft and component manufacturing, aftermarket distribution.",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial distributors, retail buying teams, and e-commerce.",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace | Mandel AI",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Aircraft & component manufacturing",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery, project-based manufacturing, and metal processing.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial distributors, retail buying teams, and e-commerce.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmaceutical wholesale and medical-device manufacturing.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Medical-device manufacturing",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial distributors, retail buying teams, and e-commerce.",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery, project-based manufacturing, and metal processing.",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://www.mandel.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery, project-based manufacturing, and metal processing.",
+    "url": "https://www.mandel.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Aircraft and component manufacturing, aftermarket distribution.",
+    "url": "https://www.mandel.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial distributors, retail buying teams, and e-commerce.",
+    "url": "https://www.mandel.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmaceutical wholesale and medical-device manufacturing.",
+    "url": "https://www.mandel.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial & MRO distribution",
+    "url": "https://www.mandel.ai/industries/distribution",
+    "pass": 1
+   },
+   {
+    "quote": "Aircraft and component manufacturing, aftermarket distribution.",
+    "url": "https://www.mandel.ai/industries/distribution",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmaceutical wholesale and medical-device manufacturing.",
+    "url": "https://www.mandel.ai/industries/distribution",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturer part number",
+    "url": "https://www.mandel.ai/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial distributors, retail buying teams, and e-commerce.",
+    "url": "https://www.mandel.ai/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://www.mandel.ai/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery, project-based manufacturing, and metal processing.",
+    "url": "https://www.mandel.ai/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Aircraft and component manufacturing, aftermarket distribution.",
+    "url": "https://www.mandel.ai/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://www.mandel.ai/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery, project-based manufacturing, and metal processing.",
+    "url": "https://www.mandel.ai/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmaceutical wholesale and medical-device manufacturing.",
+    "url": "https://www.mandel.ai/industries/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial distributors, retail buying teams, and e-commerce.",
+    "url": "https://www.mandel.ai/industries/chemicals",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The parts arrived without their quality documents.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mandel arranges a replacement for your buyer to approve.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The supplier has delayed 800 collars beyond the production date. Mandel requests quotes from approved alternatives, brings the buyer a comparison, and arranges the replacement after approval.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mandel requests quotes from approved suppliers, follows up on missing terms, and compares landed cost and arrival dates.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "After approval, Mandel arranges the replacement, cancels the backordered line, and updates the ERP with the confirmation attached.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Route drawing, specification, and material questions to the right owner, then carry the approved answer through to a revised supplier response.",
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Carry each purchase through with its agreed terms and required documents",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Orders with required details before arrival",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Route drawing, specification, and material questions to the right owner, then carry the approved answer through to a revised supplier response.",
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Mandel carries work from request through invoice, adapting to the build schedules, quote deadlines, commercial terms, and documents your operation depends on.",
+    "url": "https://www.mandel.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Ask the commercial owner to identify the applicable agreement and whether the change has been accepted under the team's process. If negotiation is still open, classify the file as proposed and prepare an impact review without updating live agreed prices. If only part of the list is accepted, record that scope at row or material-group level.",
+    "url": "https://www.mandel.ai/blog/supplier-price-list-changes",
+    "pass": 1
+   },
+   {
+    "quote": "For earlier invoices, a retrospective review may be warranted only if the agreement supports it. Use the",
+    "url": "https://www.mandel.ai/blog/supplier-price-list-changes",
+    "pass": 1
+   },
+   {
+    "quote": "PO A was placed October 29 for 500 units, arriving November 5. It remains at $12, totaling $6,000, because the rule uses order date rather than receipt date.",
+    "url": "https://www.mandel.ai/blog/supplier-price-list-changes",
+    "pass": 1
+   },
+   {
+    "quote": "Supplier corrections arriving after the update need a new review. Identify which transactions used the earlier version and assign any resulting order or invoice work. Keep those actions linked to the price-list change so the same issue does not have to be rediscovered downstream.",
+    "url": "https://www.mandel.ai/blog/supplier-price-list-changes",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/534580-21",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI has 8 total employees.",
+    "url": "https://pitchbook.com/profiles/company/534580-21",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mandel AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/534580-21",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Mandel AI is",
+    "url": "https://pitchbook.com/profiles/company/534580-21",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Mandel AI",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Mandel AI?",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mandel AI have?",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI Revenue 2024: $15M Est.",
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI has not published its revenue. GetLatka estimates it at about $15M a year (June 2024).",
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI CEO, founders & employees",
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Gospodinov founded Mandel AI in 2023 and runs it as CEO. Mandel AI had 8 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mandel AI's revenue?",
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Mandel AI's revenue at about",
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mandel AI have?",
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Achieved $15M revenue in 2024 with a lean 8-person team, indicating operational efficiency and strong market fit[1][2].",
+    "url": "https://startupintros.com/orgs/mandel-ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "For Kacin, put RFQ lines in the email. Don’t attach a separate RFQ document.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "RFQ lines in the email · No separate RFQ attachment",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "RFQ sent in Kacin’s required email format.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with a historical replay. Mandel runs against past supplier emails and transactions without sending a message or changing the ERP. Then you choose one workflow, set the rules, and put it live.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Suppliers keep using the email, portal, or EDI connection they already use. Mandel works across those channels instead of asking every supplier to learn a new one.",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Is our email data secure?",
+    "url": "https://www.mandel.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your email to continue.",
+    "url": "https://demo-us.mandel.ai/signin?redirect_url=%2F",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/534580-21",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel surfaces supply chain disruptions and supplier updates with email AI",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel surfaces supply chain disruptions and supplier updates with email AI. We use AI agents that proactively extract data and email suppliers for order updates, building a real-time self updating supply chain source of truth.",
+    "url": "https://startupintros.com/orgs/mandel-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI uniquely automates procurement workflows from quote to delivery, including proactive data extraction from supplier emails and real-time order monitoring.",
+    "url": "https://startupintros.com/orgs/mandel-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Seamlessly connects enterprise resource planning systems with email and messaging channels to surface supplier updates.",
+    "url": "https://startupintros.com/orgs/mandel-ai",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI Coordination Layer for Supply Chain | Mandel AI — Teach Mandel how your team works. Playbooks set the steps and approvals for each job. Mandel applies your supplier instructions as it works and keeps the documents, decisions, and result together in the case. Select an instruction to see how Mandel applies it.",
+    "url": "https://www.mandel.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AIの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Y Combinatorのポートフォリオに掲載される海外スタートアップMandel AIの企業プロフィール。 Mandel AIは、製造業や流通業向けに直接資材（direct-materials）の調達・購買オペレーションを自律的に調整・実行するAIプラットフォームを開発・提供する企業である。",
+    "url": "https://www.firstcvc.jp/global/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "AI Coordination Layer for Supply Chain | Mandel AI — AI Coordination Layer for Supply Chain. Mandel runs sourcing and ordering from RFQ through invoice, coordinating suppliers, updating your ERP, and bringing your team the decisions that need approval.",
+    "url": "https://www.mandel.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI — Mandel AI Loading…",
+    "url": "https://demo-us.mandel.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Gospodinov - CEO @ Mandel AI | AI for Supply Chain ... — In this episode, Scott Luton and Rick McDonald welcome Nick Gospodinov of Mandel AI to discuss how AI agents can automate supplier communication, catch disruptions, and reduce manual work while...",
+    "url": "https://www.linkedin.com/in/nick-gospodinov",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator が支援する Mandel AI が世界のサプライチェーンを自動... — Mar 26, 2026 · このスタートアップは、メーカーがサプライヤーの調整を管理し、混乱を検出し、調達を自動化するのに役立つ AI サプライ チェーン コーディネーターを開発し、今日でもほとんどの産業サプライ チェーンを実行しているスプレッドシートと電子メール チェーンを置き換えました。 このプラットフォームは既存の電子メールおよび ERP システムの上に位置し、専用の AI エージェントを使用してサプライヤーとの通信を読み取り、重要なデータを抽出し、発注確認書や請求書などの文書を照合し、自律的に行 動して、サプライヤーのフォローアップ、矛盾の報告、会社定義のルールに従って問題のエスカレーションを行います。",
+    "url": "https://www3.to/y-combinator-が支援する-mandel-ai-が世界のサプライチェーンを自/",
+    "pass": 3
+   },
+   {
+    "quote": "Use cases | Mandel AI — Start with the follow-ups, discrepancies, or claims taking up your team’s day. Mandel works them through, from the first message to the confirmed result. Mandel sends RFQs and follows up with approved suppliers so you can compare complete quotes and choose the supplier.",
+    "url": "https://www.mandel.ai/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial manufacturing | Mandel AI — Start with the work on your desk. Bring a supplier request, an open order, and the documents behind it. We’ll map what Mandel can run, what stays with your team, and how to measure the return. Walk through your workflow",
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI 2026 Company Profile: Valuation, Funding ...Mandel AI Revenue, Funding & Valuation - prospeo.ioMandel AI Revenue 2024: $15M Est. - getlatka.comMandel AI: Funding, Team & Investors | Startup IntrosMandel AI — Company Profile, Funding & InvestorsMandel AI — Company Profile & Funding | Indexed.vcMandel AI Funding History, Valuation and Investors - aVenture — Information on valuation, fundin",
+    "url": "https://pitchbook.com/profiles/company/534580-21",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI Revenue, Funding & Valuation - prospeo.io — Mandel AI has revenue of $684,440, estimated valuation of $2,200,000, $1,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI Revenue 2024: $15M Est. - getlatka.com — Oct 30, 2026 · Mandel AI is a Procurement Software company based in San Francisco, founded in 2023.",
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Early traction was marked by rapid revenue growth to $15 million within a year, driven by the startup’s focus on integrating AI to create a real-time, self-updating supply chain source of truth that connects ERP systems with supplier email data [1].",
+    "url": "https://startupintros.com/orgs/mandel-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI — Company Profile, Funding & Investors — Mandel AI company profile with HQ in San Francisco, United States, founded 2023. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/mandel-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mandel AI (@mndl_ai) / Posts / X Location: San Francisco, CA Website: https://www.mandel.ai/ Joined: Sep 15, 2022 0 Posts 0 Following",
+    "url": "https://x.com/mndl_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Josh Mandel, MD on X: \"2026 AI Agents vs. 2022 FHIR ... physician, programmer, and would-be pâtissier/poet. Chief Scientist at @ AledadeACO and Architect for @ SMARTHealthIT. Bsky: josh.mandel.md",
+    "url": "https://x.com/JoshCMandel/status/2113311466409369885",
+    "pass": 3
+   },
+   {
+    "quote": "MANDELA on X: \"ei chale no be AI??? \" / X ei chale no be AI???😳 09 Nov 2026 12:19:56",
+    "url": "https://x.com/n_mandelaaa/status/2119766937920270627",
+    "pass": 3
+   },
+   {
+    "quote": "Mandel AI (@mndl_ai) / Posts / X Sep 15, 2022 · Location: San Francisco, CA Website: https://www.mandel.ai/ Joined: Sep 15, 2022 0 Posts 0 Following",
+    "url": "https://x.com/mndl_ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mandel AI - LinkedIn Mandel fixes that. We're an AI supply chain coordinator that reads every supplier email, extracts the data that matters - POs, quotes, delivery dates, pricing - and catches disruptions before...",
+    "url": "https://bg.linkedin.com/company/mandel-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Alex B. - Founder - Mandel AI | Unlocking efficient supply ...Kanimozhi Ezhil - English Translator at Mandel AI | LinkedIn4 Y Combinator AI Tools Transforming Operations & Supply ...Jordan Mandel - AI Transformation & Leadership Development ... Founder - Mandel AI | Unlocking efficient supply chains. Let's grow together, everything is possible 519 7148! · Location: Sofia · 500+ connections on Link",
+    "url": "https://bg.linkedin.com/in/alex-b-440022bb",
+    "pass": 3
+   },
+   {
+    "quote": "Kanimozhi Ezhil - English Translator at Mandel AI | LinkedIn4 Y Combinator AI Tools Transforming Operations & Supply ...Jordan Mandel - AI Transformation & Leadership Development ... English Translator at Mandel AI · Experience: Mandel AI · Location: Ranipet. View Kanimozhi Ezhil’s profile on LinkedIn, a professional community of 1 billion members. 4 Y Combinator AI Tools Transforming Operations &",
+    "url": "https://in.linkedin.com/in/kanimozhi-ezhil-baa2b8347",
+    "pass": 3
+   },
+   {
+    "quote": "4 Y Combinator AI Tools Transforming Operations & Supply ... 4 Y Combinator AI Tools Transforming Operations & Supply Chain Recently discovered these YC-backed startups solving critical operational challenges: 1️⃣ Mandel AI AI agents that automate...",
+    "url": "https://pe.linkedin.com/feed/update/urn:li:activity:7324418725321805825/",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Gospodinov - CEO @ Mandel AI | AI for Supply Chain ...Mandel AI Org Chart, Leadership & Team (2026) | InsideOrgAI Coordination Layer for Supply Chain | Mandel AIMandel AI raises €3.6M Seed - Nick Gospodinov, round details ...Nick Gospodinov: Profile, Experience & Investments | Startup ...Nick Gospodinov - Crunchbase Person Profilenoteの歴代社長 - the-shashi.com CEO @ Mandel AI | AI for Supply Chai",
+    "url": "https://www.linkedin.com/in/nick-gospodinov",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mandel Ai - Facebook Mandel Ai is on Facebook. Join Facebook to connect with Mandel Ai and others you may know. Facebook gives people the power to share and makes the world...",
+    "url": "https://www.facebook.com/mandel.ai.7/",
+    "pass": 3
+   },
+   {
+    "quote": "Think Again Lab - Team Mandel’s Descendents ... - Facebook Space biology meets AI! 🧠 Mandel’s Descendents built an AI-powered bioscience hub that unifies NASA’s NBISC, NSLSL, and OSDR datasets — making it easier for researchers to explore how life adapts to space environments. 🚀 👨💻 Team Members: Hemanshu Kant Chourshiya | Dhrub Dubey | Gaumick Hazra | Carla Garcia",
+    "url": "https://www.facebook.com/thinkagainlab/posts/-team-mandels-descendentsspace-biology-meets-ai-mandels-descendents-built-an-ai-/1271805741624691/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mandel.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandel.ai/industries/aerospace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandel.ai/industries/regulated-direct-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandel.ai/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandel.ai/industries/distribution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandel.ai/industries/electronics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandel.ai/industries/chemicals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandel.ai/blog/supplier-price-list-changes",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mandel.ai/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Findustry-manufacturing.3cfy7wmc7wlfn.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.mandel.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/mandel.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/article/35253419/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jomon.group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taimen-eigyo.com/words/so-dairiten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandel.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/mandel.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://demo-us.mandel.ai/signin?redirect_url=%2F",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/in/nick-gospodinov",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mandel.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandel.ai/use-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mandel.ai/industries/industrial-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/534580-21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/mandel-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/mandel.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/mandel-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mndl_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JoshCMandel/status/2113311466409369885",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/n_mandelaaa/status/2119766937920270627",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bg.linkedin.com/company/mandel-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bg.linkedin.com/in/alex-b-440022bb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/kanimozhi-ezhil-baa2b8347",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/feed/update/urn:li:activity:7324418725321805825/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mandel.ai.7/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thinkagainlab/posts/-team-mandels-descendentsspace-biology-meets-ai-mandels-descendents-built-an-ai-/1271805741624691/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nick-gospodinov",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mndl_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mandel AI 日本 導入",
+   "results": [
+    "https://www.mandel.ai/",
+    "https://www.firstcvc.jp/global/mandel.ai",
+    "https://japan.zdnet.com/article/35253419/",
+    "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "https://note.com/lucky_hornet941/n/n30e4f9e0d292",
+    "https://aikurabe.com/stats/ai-adoption-japan/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mandel AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://jomon.group/",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/91/",
+    "https://www.mkikuchi-law.com/17785461217883",
+    "https://en.wikipedia.org/wiki/List_of_artificial_intelligence_companies",
+    "https://en.wikipedia.org/wiki/Wonka's_The_Golden_Ticket",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Mandel AI Japan",
+   "results": [
+    "https://www.mandel.ai/",
+    "https://www.firstcvc.jp/global/mandel.ai",
+    "https://demo-us.mandel.ai/",
+    "https://www.linkedin.com/in/nick-gospodinov",
+    "https://www3.to/y-combinator-が支援する-mandel-ai-が世界のサプライチェーンを自/",
+    "https://mandel-ai.org/product",
+    "https://www.linkedin.com/company/mandel-ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mandel AI manufacturing customer case study",
+   "results": [
+    "https://www.mandel.com/case-studies",
+    "https://www.mandel.ai/use-cases",
+    "https://www.mandel.ai/industries/industrial-manufacturing",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://aiformanufacturing.org/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.linkedin.com/company/mandel-ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mandel AI white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-enhances-global-Partner-Program-to-accelerate-AI-agent-innovation/default.aspx",
+    "https://www.namesilo.com/reseller",
+    "https://blog.vendoo.co/reselling-101-how-to-become-a-reseller-start-making-a-profit"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mandel AI founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/534580-21",
+    "https://prospeo.io/c/mandel-ai-revenue",
+    "https://getlatka.com/companies/mandel.ai",
+    "https://startupintros.com/orgs/mandel-ai",
+    "https://acquirezy.com/organization/mandel-ai",
+    "https://indexed.vc/companies/mandel-ai",
+    "https://aventure.vc/companies/mandel-ai-san-francisco-ca-us/fundraising"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mandel AI",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/日付シート",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/dandy_hyena2541/n/n9da9aa1ccb03",
+    "https://note.com/ai_kyoko/n/n8923c81f16e7",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mandel AI",
+   "results": [
+    "https://x.com/mndl_ai",
+    "https://x.com/JoshCMandel/status/2113311466409369885",
+    "https://x.com/n_mandelaaa/status/2119766937920270627",
+    "https://x.com/MandelDuck/status/2120095902853439556",
+    "https://x.com/MandelDuck/status/2120095448295690653",
+    "https://x.com/shmkkr",
+    "https://x.com/MandelDuck/status/2117260530360451173"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mandel AI",
+   "results": [
+    "https://bg.linkedin.com/company/mandel-ai",
+    "https://bg.linkedin.com/in/alex-b-440022bb",
+    "https://in.linkedin.com/in/kanimozhi-ezhil-baa2b8347",
+    "https://pe.linkedin.com/feed/update/urn:li:activity:7324418725321805825/",
+    "https://ca.linkedin.com/in/jordanmandel22",
+    "https://www.linkedin.com/company/mandel-ai",
+    "https://www.linkedin.com/company/mendel-ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mandel AI",
+   "results": [
+    "https://www.facebook.com/mandel.ai.7/",
+    "https://www.facebook.com/MoMandel/videos/ai-is-the-future-of-comedy-standupcomedy-standup-comedian-ai/2575934706180327/",
+    "https://www.facebook.com/thinkagainlab/posts/-team-mandels-descendentsspace-biology-meets-ai-mandels-descendents-built-an-ai-/1271805741624691/",
+    "https://www.facebook.com/bentmandrel/videos/ai-used-to-generate-backgrounds/1071139445371593/",
+    "https://www.facebook.com/mandel.allblack/posts/️-you-just-unlocked-unlimited-free-travel-for-life-but-theres-one-catch-you-can-/10244800882657630/",
+    "https://www.facebook.com/OfficialHowieMandel/videos/marcus-lemonis-says-people-over-50-should-worry-about-ai/1832078104657114/",
+    "https://www.facebook.com/mandellumproductions/videos/i-stand-with-artists-who-want-to-hold-these-ai-engineers-accountable-to-the-arti/521424096689838/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mandel AI note 社長",
+   "results": [
+    "https://www.linkedin.com/in/nick-gospodinov",
+    "https://www.insideorg.com/org/mandel-ai",
+    "https://www.mandel.ai/",
+    "https://www.fundedstartupsdaily.com/company/mandel-ai/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://startupintros.com/people/nick-gospodinov",
+    "https://www.crunchbase.com/person/nick-gospodinov"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mandel AI X 投稿",
+   "results": [
+    "https://x.com/mndl_ai",
+    "https://www.mandel.ai/",
+    "https://demo.mandel.ai/",
+    "https://wm.mandel.ai/",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://zhuanlan.zhihu.com/p/1928469220200523089",
+    "https://digirise.ai/chaen-ai-lab/x/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部35頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部35頁・検索12回）"
+ }
+}

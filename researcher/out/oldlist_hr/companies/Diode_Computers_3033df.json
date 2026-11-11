@@ -1,0 +1,1199 @@
+{
+ "name": "Diode Computers",
+ "aliases": [],
+ "context": "旧営業リスト｜Electronics Manufacturing / PCB｜送付済み",
+ "researched_at": "2026-11-11T02:21:21.437092+00:00",
+ "official_url": "https://diode.computer/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$26,400,000",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2024",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We source every part and assemble your boards in-house in Brooklyn, from prototypes to production.",
+    "url": "https://www.diode.computer/",
+    "pass": 1
+   },
+   {
+    "quote": "A description, block diagram or KiCad project",
+    "url": "https://www.diode.computer/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated Slack, priority support and hardware bring-up",
+    "url": "https://www.diode.computer/",
+    "pass": 1
+   },
+   {
+    "quote": "RP2040 CMSIS-DAP Debug Probe",
+    "url": "https://www.diode.computer/",
+    "pass": 1
+   },
+   {
+    "quote": "• 市場定義と提供価値: 従来のEDAソフトウェア販売モデルにとどまらず、AI自動設計と部品調達・製造連携を垂直統合した「Services as a Product」（設計・製造ワンストップ受託モデル）を提供しています",
+    "url": "https://www.firstcvc.jp/global/diode.computer",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes Predict Midterm Tracker",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes Daily Briefing Video Series",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Built Different Editorial Video Series",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "The Future Of: Disaster Proofing Our World Video Series",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "C-Suite Unscripted Editorial Video Series",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "In The Room: Securing The Enterprise Video Series",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "From AI Ambition To Enterprise Execution",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "The Enterprise AI Shortcut: Why Co-Innovation Is Setting A New Speed For Adopting and Operationalizing AI",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "The Toughest Problems Are Never Solved Alone",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "How Chief Marketing Officers Are Scaling AI At Speed — While Preserving Brand Trust",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Meeting The Moment In Enterprise: AI As AI Spending Surged 110%, Underlying Systems Didn’t Keep Up",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Inside Smooth Technology: A Cash Back Content Series",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "The Pursuit - Forbes Video Series",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "The One Who Changed Everything - Forbes Video Series",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Connectivity",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Intelligence",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Hedge Funds & Private Equity",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes Global Properties",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Pregnancy & Postpartum",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "0% APR Credit Cards",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Student Loans",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Applicant tracking Systems",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Project Management Software",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Cheapest Internet Providers",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest High Speed Internet Providers",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Is Diode Computers a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Take a closer look at how Diode Computers uses Cofactr to bridge the gap between PCB design and sourcing—automating BOM workflows, accelerating procurement, and bringing real-time visibility to their supply chain.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "is a New York based hardware startup founded during Y Combinator’s Summer 2024 batch. The company recently closed an $11.4M Series A and works primarily with robotics, aerospace, and medical device companies that value fast iteration and U.S.-based manufacturing.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Diode treats printed circuit boards as code rather than static drawings, using AI models to design, modify, and validate boards in days instead of months. The company designs and manufactures boards for customers in cutting edge markets like robots and autonomous vehicles, aiming to make hardware development feel closer to modern software workflows.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "As founder and CEO Davide Asnaghi often explains, the motivation is practical, “Electronics is where software meets the real world.”",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Diode’s promise to customers depends on more than fast design. Once an AI-generated board is ready, it still needs to be built, and that means sourcing hundreds of components accurately, repeatedly, and with minimal friction.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Even when a PCB design is complete, a bill of materials can be difficult to act on. Parts may be unavailable, mismatched, or constrained by lead times that are incompatible with customer schedules. Without tight feedback between design and sourcing, engineers can unknowingly create boards that look correct but stall in procurement.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Manual procurement workflows did not scale",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Before deeper automation, placing an order required significant hands-on work. Matching parts, handling exceptions, and preparing kits through traditional interfaces could take one to two hours per order. As demand increased, that time cost became a bottleneck.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Lack of programmatic visibility",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Diode integrated Cofactr directly into its internal platform using the Cofactr API, treating sourcing, kitting, and inventory as programmable infrastructure rather than a separate downstream step.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Once Diode’s AI agents complete a PCB design, the resulting bill of materials is evaluated for sourceability. Parts that are unavailable or constrained can be flagged early, allowing engineers or models to adjust the design before it ever reaches procurement.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "From there, Diode’s system can push a validated BOM directly into Cofactr. Programs and kits are created automatically, with shipping destinations tied to the specific build. Instead of navigating multiple tools, Diode’s team can trigger procurement from inside their own dashboard.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Just as important, Diode pulls information back from Cofactr. Order status, supplier data, shipping progress, and costs are all visible programmatically. That data feeds internal tracking, customer updates, and future automation.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Orders that previously took one to two hours to process through manual workflows now take roughly three to five minutes in most cases. More importantly, that time savings compounds as volume increases.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Because sourcing feedback is connected to design, Diode avoids building boards that cannot be manufactured on schedule. Customers get clearer timelines, fewer surprises, and faster iteration cycles.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "As the company grows, Diode expects Cofactr to remain a core part of that system. Programmatic access to sourcing, kitting, and inventory data creates the foundation for deeper automation, from earlier cost modeling to more dynamic production planning.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "As Zach puts it, “The closer sourcing data sits to the design process, the fewer surprises you get later. That’s where this really starts to compound.”",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "For Diode’s customers, the benefits show up as speed and confidence. Faster design cycles mean products reach testing and deployment sooner. Clear sourcing data reduces the risk of late-stage delays that can derail schedules or investor expectations.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Internally, Diode’s team spends less time chasing parts and more time improving the product. Investors gain visibility into a manufacturing model that scales without linear increases in operational headcount. Suppliers receive cleaner, more predictable orders.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Raspberry Pi CM5 Carrier Board",
+    "url": "https://www.diode.computer/",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/diode.computer",
+    "pass": 3
+   },
+   {
+    "quote": "Home Warranty Companies",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers has 8 total employees.",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "What is Diode Computers’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Diode Computers is",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "As the company grows, Diode expects Cofactr to remain a core part of that system. Programmatic access to sourcing, kitting, and inventory data creates the foundation for deeper automation, from earlier cost modeling to more dynamic production planning.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers Revenue",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Diode Computers",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Diode Computers?",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Diode Computers have?",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Diode Computers have?",
+    "url": "https://fundediq.co/diode-computers-diode-computer-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/diode-computers-diode-computer-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/diode-computers-diode-computer-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Into this space has entered a company with only three employees. 'CopperPilot' operates split between Bengaluru, India, and Texas. It has been less than a year since its founding. Its funding amount has not been disclosed. Its X account has had zero posts since it was opened in February 2026.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The registered corporation is CopperPilot, Inc. in Houston, Texas, with its development base in Bengaluru. According to company information on job sites, the number of employees is listed as three.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Following their narrative, it reads as if their core motivation was not a 'market analysis-driven' entry, but rather the fragmentation they felt themselves in the field of PCB design.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What EDA vendors talk about as case studies are things like an automotive parts supplier with 900 billion yen in revenue shortening design tasks from days to minutes. These are impressive results, but they come with prerequisites: an enterprise-level EDA contract and a dedicated team standing by to verify the output.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I will be honest. CopperPilot's pricing, revenue, and funding amount have not been disclosed at this time. The answer here is that it 'does not exist yet'.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Flux's approach is a useful reference. In addition to generating designs, Flux is attempting to incorporate parts procurement and connections to manufacturing. They are placing their revenue point not on the design tool itself, but on the commercial flow that follows. Diode Computers goes even further, taking on the actual design and manufacturing of the boards themselves.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Where CopperPilot will place its revenue point has not yet been revealed. This is a point to observe moving forward.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Their current customer acquisition channel is on the first rung of the ladder.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At a stage with neither funding nor name recognition, the only asset is 'proof that it actually works.' They keep producing generated results rather than pitch decks. Moreover, they have narrowed their channel down to just one (LinkedIn) and discarded the rest.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, this is not yet a success story. Almost everything in this article is a 'declaration' and a 'demo.' Revenue, user numbers, and funding amounts have not been verified. There is a normal possibility that they will be gone in a year.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Designing printed circuit boards is challenging. Davide Asnaghi and Lenny Khazan founded Diode Computers to make doing so a more seamless process -- providing users with rigorously tested designs using AI, and automatically sending designs to the factory. It has raised more than $14.5 million.",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "More from Forbes 30 Under 30 - Manufacturing & Industry 2026 List",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an AI-based manufacturing software designed to automate hardware design.",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "is a New York based hardware startup founded during Y Combinator’s Summer 2024 batch. The company recently closed an $11.4M Series A and works primarily with robotics, aerospace, and medical device companies that value fast iteration and U.S.-based manufacturing.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Diode plans to continue tightening the loop between design, sourcing, and manufacturing. The long-term goal is for boards to be sourceable by design, with availability and constraints visible as early as possible.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Internally, Diode’s team spends less time chasing parts and more time improving the product. Investors gain visibility into a manufacturing model that scales without linear increases in operational headcount. Suppliers receive cleaner, more predictable orders.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "In a landscape where hardware development often lags behind software, Diode’s approach shows what is possible when design, sourcing, and manufacturing are treated as a single system.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers is a New York–based hardware startup that treats printed circuit boards like software, using AI-driven workflows to accelerate design, validation, and manufacturing for complex hardware teams.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Direct integration prevents delays by identifying unavailable or constrained components early, allowing engineers to adjust designs before procurement issues stall manufacturing schedules.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics, aerospace, and medical device companies benefit most, gaining faster iteration cycles, clearer timelines, and reduced risk of late-stage manufacturing surprises.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how Farcast improved manufacturing efficiency and saved valuable time with Cofactr’s unified supply chain platform.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing rules built into the compiler",
+    "url": "https://yespress.io/diode-computers-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Matches every component to distributor and manufacturer catalog items with real-time cost and availability data.",
+    "url": "https://yespress.io/diode-computers-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Design & manufacturing",
+    "url": "https://yespress.io/diode-computers-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace & defense engineering teams",
+    "url": "https://yespress.io/diode-computers-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Diode builds an AI-powered, code-first platform for designing and manufacturing custom printed circuit boards, taking projects from spec to delivered board in days instead of months.",
+    "url": "https://yespress.io/diode-computers-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware teams in physical AI, robotics, aerospace, and defense - including named customers Physical Intelligence and Saronic - use Diode for fast, verified board design and manufacturing.",
+    "url": "https://yespress.io/diode-computers-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Diode helps companies to design and manufacture electronics faster and cheaper. We use AI to validate printed circuit board designs and detect mistakes before manufacturing.",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers is a software utilizing artificial intelligence to streamline and cost-effectively automate electronics manufacturing processes.",
+    "url": "https://fundediq.co/diode-computers-diode-computer-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "That is why they index and reference datasheets rather than pulling them from the model's memory. They cross-reference footprints with manufacturer drawings. They run DRC constantly rather than as a final hurdle. They issue errata before the board is burned, not after. They are focusing their efforts on the process of making the output trustworthy, rather than on the design itself.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What EDA vendors talk about as case studies are things like an automotive parts supplier with 900 billion yen in revenue shortening design tasks from days to minutes. These are impressive results, but they come with prerequisites: an enterprise-level EDA contract and a dedicated team standing by to verify the output.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "CopperPilot points to those who are not in that room: the hardware startup founder running things solo on KiCad; the IoT team of three sharing Altium; the embedded engineer with a manufacturing deadline next Friday.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Flux's approach is a useful reference. In addition to generating designs, Flux is attempting to incorporate parts procurement and connections to manufacturing. They are placing their revenue point not on the design tool itself, but on the commercial flow that follows. Diode Computers goes even further, taking on the actual design and manufacturing of the boards themselves.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And this field is not a place for amateurs. It only works when three people who understand circuit design, the internals of EDA tools, the structure of data sheets, and manufacturing constraints are all present. An idea like 'streamlining XX with AI' won't get you even a millimeter forward.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Diode Computers team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/diode-computers-diode-computer-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/diode-computers-diode-computer-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Diode Computersの資金調達・投資家情報 | 海外スタートアップ | FIRS... — 会社概要 Diode Computersは、人工知能技術とコード主導の独自ツールチェーンを活用し、プリント回路基板（PCB）の設計・検証から部品調達、米国内での製造受託までをエンドツーエンドで提供する米国発のハードウェアスタートアップです。",
+    "url": "https://www.firstcvc.jp/global/diode.computer",
+    "pass": 3
+   },
+   {
+    "quote": "DIODE COMPUTERS, INC. — DIODE COMPUTERS, INC. Custom circuit boards, designed and manufactured with AI Build a board → Book a call",
+    "url": "https://www.diode.computer/",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers - Forbes — Dec 2, 2025 · Diode Computers is on Forbes' 2026 30 Under 30 - Manufacturing & Industry list. Read more about Diode Computers, their experience, their asset summary, and more here.",
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Diode Computers. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator出身の起業家 Davide Asnaghi氏が来日。Tokyo Founders’ ... — そんな中、米ニューヨーク拠点のスタートアップ Diode Computers, Inc. は、AIを駆使し、PCB設計を“日単位”で完結する仕組みを構築しています。",
+    "url": "https://www.jiji.com/jc/article?k=000000012.000172016&g=prt",
+    "pass": 3
+   },
+   {
+    "quote": "Diode — DIODE COMPUTERS, INC. Custom circuit boards, designed and manufactured with AI",
+    "url": "https://www.diode.computer/",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers - Cofactr — Mar 17, 2026 · Take a closer look at how Diode Computers uses Cofactr to bridge the gap between PCB design and sourcing—automating BOM workflows, accelerating procurement, and bringing real-time visibility to their supply chain.",
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers, Inc. - Circuit Boards Designed and ... — Diode builds an AI-powered, code-first platform for designing and manufacturing custom printed circuit boards, taking projects from spec to delivered board in days instead of months.",
+    "url": "https://yespress.io/diode-computers-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers, Inc. - LinkedIn — Diode helps companies to design and manufacture electronics faster and cheaper. We use AI to validate printed circuit board designs and detect mistakes before manufacturing them in-house.",
+    "url": "https://www.linkedin.com/company/diode-inc",
+    "pass": 3
+   },
+   {
+    "quote": "DIODE COMPUTERS, INC. — We take your board from idea to assembled hardware. Design, fab and assembly, all in one place. Your requirements become a schematic and layout, written as code that our AI agent and engineers can check. Every design is checked against the fab's rules before boards are made.",
+    "url": "https://www.diode.computer/",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers 2026 Company Profile: Valuation, Funding ...Diode Computers Revenue, Funding & Valuation - prospeo.ioDiode Computers: Funding, Investors & Team (Oct 2026)Diode Computers - Company Profile, Full Acquisitions List ...Diode Computers, Inc. Revenue 2025: $330K Est. - getlatka.comDiodes (DIOD) Revenue 2005-2026 - Stock AnalysisDiode Computers company details | Seedtable — Information on",
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers Revenue, Funding & Valuation - prospeo.io — Diode Computers has revenue of $598,885, estimated valuation of $2,000,000, $26,400,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers: Funding, Investors & Team (Oct 2026) — Diode Computers has raised $25.9M across 2 funding rounds on record, the most recent a Series A of $11.4M announced in Jul 2025. That round is above the $8.0M median round size for Consumer Electronics companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/diode-computers-diode-computer-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers - Company Profile, Full Acquisitions List ... — Diode Computers company profile on Acquirezy: HQ in New York, United States, founded 2024. Explore its full acquisitions history, funding rounds, investors, key people and contacts.",
+    "url": "https://acquirezy.com/organization/diode-computers",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers, Inc. Revenue 2025: $330K Est. - getlatka.com — Oct 30, 2026 · Diode Computers, Inc. is a PCB Design Software company based in New York, founded in 2024.",
+    "url": "https://getlatka.com/companies/diode.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "A rival has already raised 5.5 billion yen. Yet, a 3-person ... Quilter has raised about 6 billion yen, and Diode Computers about 2.1 billion yen. Into this space has entered a company with only three employees. 'CopperPilot' operates split between Bengaluru, India, and Texas. It has been less than a year since its founding. Its funding amount has not been disclosed.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "A rival has already raised 5.5 billion yen. Yet, a 3-person company is taking on the 'Cursor for hardware'｜小籠包",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A rival has already raised 5.5 billion yen. Yet, a 3-person company is taking on the 'Cursor for hardware'",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The cumulative funding for Flux, a predecessor in the same field, is approximately 5.5 billion yen. Quilter has raised about 6 billion yen, and Diode Computers about 2.1 billion yen.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Into this space has entered a company with only three employees. 'CopperPilot' operates split between Bengaluru, India, and Texas. It has been less than a year since its founding. Its funding amount has not been disclosed. Its X account has had zero posts since it was opened in February 2026.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even so, the Indian startup media outlet Inc42 selected it as one of the '30 companies to watch' in August 2026. I will break down what they are expected to achieve.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. What does the company do?",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "CopperPilot is an AI copilot for hardware design engineers.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In a nutshell, they are trying to bring the shift that occurred in software development—where 'AI writes the code'—into PCB design. They describe themselves as the 'Cursor for hardware design'.",
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Diode Computers, Inc. (@diodeinc) / X May 31, 2024 · Diode Computers is automating circuit board design using AI. They're working with Fortune 100 companies and fast-growing startups to design and manufacture their circuit boards faster than ever. businessinsider.com/ai-circuit-boa…",
+    "url": "https://x.com/diodeinc",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers, Inc. on X: \"We’re proud to announce our $11. ... Jul 24, 2025 · We’re proud to announce our $11.4 million Series A, led by @a16z, with the continued support of @ycombinator, @caffeinatedcap and @BoxGroup. We are working with Fortune 100 companies and fast growing startups to design and manufacture their circuit boards faster than ever.",
+    "url": "https://x.com/diodeinc/status/1948060912042082799",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers, Inc. on X: \"In many ways, it feels like ... Oct 28, 2026 · Diode Computers, Inc. on X: \"In many ways, it feels like zabie has been working with us ever since she lead the investment in diode last year. Incredible news all around\"",
+    "url": "https://x.com/diodeinc/status/2115571355697725609",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers, Inc. on X: \"I guess our CTO has time for ... Jun 5, 2026 · Post Diode Computers, Inc. @diodeinc I guess our CTO has time for side quests with the internal review agent... @ comma_ai comma",
+    "url": "https://x.com/diodeinc/status/2063037198837125600",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers, Inc. (@diodeinc) / X May 31, 2024 · We sat down with @sdianahu to talk about diode and the technical challenges we had to solve to run a PCB compiler on air gapped systems. If you think running rust in the browser with web assembly and edge routing algorithms are fun: come work with us",
+    "url": "https://x.com/diodeinc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Diode Computers, Inc. - LinkedIn Diode Computers, Inc. | 4,632 followers on LinkedIn. AI automated PCB design and manufacturing | Diode helps companies to design and manufacture electronics faster and cheaper.",
+    "url": "https://www.linkedin.com/company/diode-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Davide Asnaghi - CEO @ Diode Computers, Inc. | LinkedInDiode Computers raises $11.4M for AI-powered PCB design.Lenny Khazan - CTO @ Diode Computers, Inc. | LinkedInWe’re proud to announce our $11.4 million Series A, led by ...Diode Computers raises $11.4M in Series A for AI-driven PCB ...Craig Chen - Diode Computers, Inc. | LinkedIn May 20, 2019 · CEO @ Diode Computers, Inc. · Building something n",
+    "url": "https://www.linkedin.com/in/d-asnaghi",
+    "pass": 3
+   },
+   {
+    "quote": "Diode Computers raises $11.4M for AI-powered PCB design. Diode Computers, Inc. just raised $11.4M in Series A funding to speed up the design and production of circuit boards.",
+    "url": "https://www.linkedin.com/posts/y-combinator_diode-computers-inc-just-raised-114m-activity-7353927432124411905-Dumj",
+    "pass": 3
+   },
+   {
+    "quote": "Lenny Khazan - CTO @ Diode Computers, Inc. | LinkedInWe’re proud to announce our $11.4 million Series A, led by ...Diode Computers raises $11.4M in Series A for AI-driven PCB ...Craig Chen - Diode Computers, Inc. | LinkedIn CTO @ Diode Computers, Inc. · Experience: Diode Computers, Inc. · Education: Yale University · Location: Brooklyn · 500+ connections on LinkedIn. Huge thanks to our customers w",
+    "url": "https://www.linkedin.com/in/lennykhazan",
+    "pass": 3
+   },
+   {
+    "quote": "Lenny Khazan - CTO @ Diode Computers, Inc. | LinkedInDavide Asnaghi - CEO @ Diode Computers, Inc. | LinkedInDiode Computers, Inc.: Automate circuit board design using AI ...Diode Computers, Inc. on X: \"In many ways, it feels like ...DIODE COMPUTERS, INC.Diode Computers, Inc. Leadership Team, Executives & Contacts CTO @ Diode Computers, Inc. · Experience: Diode Computers, Inc. · Education: Yale Uni",
+    "url": "https://www.linkedin.com/in/lennykhazan",
+    "pass": 3
+   },
+   {
+    "quote": "Davide Asnaghi - CEO @ Diode Computers, Inc. | LinkedInDiode Computers, Inc.: Automate circuit board design using AI ...Diode Computers, Inc. on X: \"In many ways, it feels like ...DIODE COMPUTERS, INC.Diode Computers, Inc. Leadership Team, Executives & Contacts May 20, 2019 · CEO @ Diode Computers, Inc. · Building something new, stay tuned · Experience: Diode Computers, Inc. · Education: Universit",
+    "url": "https://www.linkedin.com/in/d-asnaghi",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.diode.computer/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/diode.computer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.diode.computer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forbes.com/profile/diode-computers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.diode.computer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yespress.io/diode-computers-inc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/diode-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.godaddy.com/help/get-started-with-basic-and-pro-reseller-7454",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/620727-22",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/diode-computers-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/diode-computers-diode-computer-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/diode-computers",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/diodeinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/diodeinc/status/1948060912042082799",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/diodeinc/status/2115571355697725609",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/diodeinc/status/2063037198837125600",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/diode-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/d-asnaghi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_diode-computers-inc-just-raised-114m-activity-7353927432124411905-Dumj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lennykhazan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lennykhazan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/d-asnaghi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/diodeinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/diodeinc/status/2115571355697725609",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Diode Computers 日本 導入",
+   "results": [
+    "https://www.firstcvc.jp/global/diode.computer",
+    "https://www.diode.computer/",
+    "https://www.forbes.com/profile/diode-computers/",
+    "https://pitchbook.com/profiles/company/620727-22",
+    "https://www.jiji.com/jc/article?k=000000012.000172016&g=prt",
+    "https://asi.tokyo/2026/05/26/リアルなハードウェアを構築するためにclaudeを使用/",
+    "https://www.mapion.co.jp/news/release/000000012.000172016-all/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Diode Computers 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.diode.computer/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.diodes.com/zh/about/contact-us/contact-sales",
+    "https://www.anthropic.com/news/opening-our-tokyo-office",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Diode Computers Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Diode Computers manufacturing customer case study",
+   "results": [
+    "https://www.cofactr.com/case-studies/how-diode-computers-connected-pcb-design-directly-to-sourcing-with-cofactr",
+    "https://yespress.io/diode-computers-inc",
+    "https://www.linkedin.com/company/diode-inc",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.diode.computer/",
+    "https://blog.diode.computer/series-a-announcement",
+    "https://www.youtube.com/watch?v=B8DbMJ1Zr4I"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Diode Computers white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.godaddy.com/help/get-started-with-basic-and-pro-reseller-7454",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.namesilo.com/reseller",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Diode Computers founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/620727-22",
+    "https://prospeo.io/c/diode-computers-revenue",
+    "https://fundediq.co/diode-computers-diode-computer-funding/",
+    "https://acquirezy.com/organization/diode-computers",
+    "https://getlatka.com/companies/diode.com",
+    "https://stockanalysis.com/stocks/diod/revenue/",
+    "https://seedtable.com/companies/diode-computers/details"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Diode Computers",
+   "results": [
+    "https://note.com/classroom_talk/n/n8906e3c3e71d?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/aqseed/n/nf6ba4ac4f2d9?hl=en",
+    "https://note.com/yappagomadango/n/n0251faded28f?hl=en",
+    "https://note.com/81_kii/n/n15d9924678ca?hl=en",
+    "https://note.com/clare_millandone/n/n030747dbead9?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Diode Computers",
+   "results": [
+    "https://x.com/diodeinc",
+    "https://x.com/diodeinc/status/1948060912042082799",
+    "https://x.com/diodeinc/status/2115571355697725609",
+    "https://x.com/diodeinc/status/2063037198837125600",
+    "https://x.com/diodeinc/status/1863063307126464745",
+    "https://x.com/diodeinc/status/1852116192737267908",
+    "https://x.com/diodeinc/status/2065145862926344285"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Diode Computers",
+   "results": [
+    "https://www.linkedin.com/company/diode-inc",
+    "https://www.linkedin.com/in/d-asnaghi",
+    "https://www.linkedin.com/posts/y-combinator_diode-computers-inc-just-raised-114m-activity-7353927432124411905-Dumj",
+    "https://www.linkedin.com/in/lennykhazan",
+    "https://www.linkedin.com/posts/ee-herald_aidriven-pcbdesign-diodecomputers-activity-7354425652873228290-QceF",
+    "https://www.linkedin.com/in/craigxchen",
+    "https://www.linkedin.com/posts/diode-inc_were-proud-to-announce-our-114-million-activity-7353826619746148352-H-pF"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Diode Computers",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Diode Computers note 社長",
+   "results": [
+    "https://blog.diode.computer/series-a-announcement",
+    "https://www.linkedin.com/in/lennykhazan",
+    "https://www.linkedin.com/in/d-asnaghi",
+    "https://www.ycombinator.com/companies/diode-computers-inc",
+    "https://x.com/diodeinc/status/2115571355697725609",
+    "https://www.diode.computer/",
+    "https://getlatka.com/companies/diode.com/contacts"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Diode Computers X 投稿",
+   "results": [
+    "https://x.com/diodeinc",
+    "https://x.com/diodeinc/status/2115571355697725609",
+    "https://www.diode.computer/",
+    "https://app.diode.computer/",
+    "https://www.linkedin.com/company/diode-inc",
+    "https://www.amazon.com/clp/B0FHWVMX2L",
+    "https://diode.run/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

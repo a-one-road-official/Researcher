@@ -1,0 +1,1384 @@
+{
+ "name": "Spanflug",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜返信あり",
+ "researched_at": "2026-11-11T02:08:27.033681+00:00",
+ "official_url": "https://www.spanflug.de/en/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Spanflug – Procure easily. Manufacture efficiently.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Procure easily. Manufacture efficiently.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "We connect supply and demand quickly and efficiently on our manufacturing platform. By combining intelligent algorithms, AI, platform technology and manufacturing expertise, we are able to significantly simplify the otherwise time-consuming and complex procurement process for custom machined parts. This allows us to reduce the workload for purchasers and suppliers by up to 90%.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Procure custom parts easily, quickly and reliably",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "As a CNC machine shop, you can use our automated quoting software Spanflug MAKE to calculate precise manufacturing times and costs, and simplify your entire quoting process. You can also become a manufacturing partner in our network and increase your revenue without any sales effort of your own.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to the high degree of automation, procurement at Weppler Filter is efficient, with our professional customer service team at their side if support is needed.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "CERATIZIT is proud to partner with Spanflug. We are impressed with Spanflug’s innovative strength and outstanding combination of leading technology and immediate practical applicability. Solutions like these make companies more efficient and competitive and create sustainable added value for the machining industry.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Our intelligent part analysis understands the part and the manufacturing process and helps users like Schwab to answer customer inquiries more quickly.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Based on the CAD models and technical drawings we uploaded, we were able to calculate manufacturing times and costs for simple and complex turned and milled parts for the entire project in one go.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Especially companies that want to develop innovative solutions quickly, like Juri, benefit from our fast process.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "More steel, more choice, real-time prices: EHG Stahl.Metall is Spanflug’s new material partner. Up-to-date prices and availability for stocks from E…",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "As a partner in the CICAM project, Spanflug helped develop a calculation model for hybrid manufacturing: reliable cost prediction for parts built with…",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "CERATIZIT’s ToolSelect now integrates with our quoting software: how machine shops plan the complete tooling solution during quoting, cut work prepara…",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual calculation and quote creation still take too much time in machining companies, profit, and business. Five scenarios illustrate when automated …",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Would you like to see how easy it is to use the Spanflug solutions and how quickly you can benefit as a purchaser or CNC machine shop? Try it out for yourself or simply book a product demo with our sales team.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Would you like to get to know our solutions quickly and easily? In our webinars, our experts regularly speak on current topics related to the efficient procurement of custom machined parts and automated quoting.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Suitable orders and well-prepared technical data",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "One professional partner for all orders",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Simple, efficient order processing and procurement of stocks",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "You can accept and process orders quickly and conveniently at a fixed price via Spanflug. You decide which and how many orders you would like to manufacture for us.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Procuring stocks (optional)",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "You have the option of ordering the stocks on which the price calculation was based quickly and easily from the material partners connected to the Spanflug price platform. This saves you a lot of time in procurement and you can reliably procure the stocks at the calculated price.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "You have your production site in the EU.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "You are open to digital processes and aim to future-proof your business.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "There are no auctions on the Spanflug platform and you do not have to write quotes for orders. If there is a suitable order on the Spanflug platform, we will inform you. You will receive all the information you need to process an order and ship the parts. If the order matches your production plan, simply click on “Accept order”. We won’t waste your valuable time with quotes that come to nothing.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Procure custom parts efficiently and easily",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Spanflug BUY is the platform for the efficient procurement of custom machined parts. By combining automation, intelligent algorithms, and a network of more than 8,000 machines, we find the optimal solution for each of your manufacturing tasks. In this way, we can relieve your purchasers, reduce overall costs by up to 35%, and ensure on-time delivery of your parts with the quality you need.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Our end-to-end digital and automated processes, from quoting to order processing and delivery, reduce the workload for customers and suppliers by up to 90%, ensuring maximum efficiency. From prototypes to large part packages and series – Spanflug accelerates the entire process from idea to delivered part and sustainably reduces ancillary procurement costs.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Express delivery from 5 working days",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive technical range (turning, milling, sheet metal fabrication, assemblies and more)",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Feedback from our project RFQ team within 24 hours",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing processes",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Realize your entire project with a single reliable supplier. With our comprehensive manufacturing expertise, we will find a tailor-made solution for your requirements.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "You can procure custom machined parts from over 70 materials via the Spanflug platform. We offer additional materials via our project RFQs.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "We also take care of the post-treatment of your custom machined parts. We offer over 30 post-treatment processes for heat treatment, surface finishing and special coatings.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform connects purchasers with best matched manufacturers through our AI-supported order placement, significantly reducing part costs. Through digitalization and automation, ancillary procurement costs are reduced to a minimum. This results in total cost savings of up to 35%.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "You will receive a quote for turned parts, milled parts and sheet metal parts within seconds. Even for larger project RFQs, we quickly and reliably find the best solution for you within our network. This eliminates the need for time-consuming inquiries to multiple suppliers and allows you to complete the process immediately.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "With automated processes, we accelerate the entire order processing and deliver your parts in as little as 5 working days. This shortens development cycles and gives you the flexibility to respond more quickly to market changes and position yourself for the future in global competition.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent part analysis and precise calculation",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "An innovative, AI-supported manufacturing algorithm understands your parts, ensuring maximum precision in costing, optimized order placement, and simplified work preparation. This reduces the complexity of the entire procurement process and minimizes economic risks.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Personal customer advisor and professional support",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Our manufacturing experts are available to assist you throughout the process and ensure that your orders are executed reliably.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Highest data protection standard",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "We attach great importance to the protection of your sensitive data, which we process exclusively on ISO 27001-certified servers in the EU. Data is only passed on to third parties after an order has been placed with the supplier commissioned to manufacture your component, or only to a few selected partners for project inquiries.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "The automated quotation and order process that we have experienced with Spanflug has made our day-to-day business much easier. At the push of a button, we receive prices and delivery times that are in line with the market. We can always rely on both quality and deadlines.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "with parts procurement with Spanflug BUY.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Spanflug takes a lot of pressure off us compared to the conventional process. The simple upload of part data in batches and also getting batch prices at the push of a button helps significantly with the calculation of even larger projects. This enables us to also get quotes for our products out to our customers more quickly, helping us to improve our service to them.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing processes – Spanflug",
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing processes",
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "pass": 1
+   },
+   {
+    "quote": "Work with just one single reliable supplier for your project. Our extensive manufacturing expertise, which extends beyond our focus area of turning and milling, enables us to cover the typical custom parts demand in mechanical engineering. We will find a tailor-made solution also for your requirements.",
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant quotes and project RFQs",
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "pass": 1
+   },
+   {
+    "quote": "3D printing",
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "pass": 1
+   },
+   {
+    "quote": "All common processes as a project RFQ",
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "pass": 1
+   },
+   {
+    "quote": "More about project RFQs",
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you have specific questions about our solutions, the manufacturing processes, materials or post-treatments we offer? You don’t have to search any longer. Simply send us your questions using our contact form or book a demo appointment for our solutions. Our team of experts will get back to you as soon as possible.",
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "pass": 1
+   },
+   {
+    "quote": "Spanflug Technologies GmbH is a Munich-based technology company that provides an intelligent platform for the efficient procurement of manufactured parts.",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "The aim of our intelligent manufacturing platform for individual drawing parts is to digitally network supply and demand, automate time-consuming and costly workflows and thus make procurement and manufacturing processes as quick and easy as possible for purchasers and suppliers.",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "Technology as the key to fast, efficient processes",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "Both sides, the purchasers sourcing parts as well as the CNC machine shops benefit from these efficient, digital processes. They can increase their efficiency, calculate and plan with more precise data and position themselves more competitively.",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyers get access to flexibly scalable manufacturing capacities and become more agile. Our manufacturing partners can improve the utilization of their machines, compensate for fluctuations and build up an additional, attractive source of revenue.",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "We connect supply and demand quickly and efficiently on our manufacturing platform. By combining intelligent algorithms, AI, platform technology and manufacturing expertise, we are able to significantly simplify the otherwise time-consuming and complex procurement process for custom machined parts. This allows us to reduce the workload for purchasers and suppliers by up to 90%.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "As a CNC machine shop, you can use our automated quoting software Spanflug MAKE to calculate precise manufacturing times and costs, and simplify your entire quoting process. You can also become a manufacturing partner in our network and increase your revenue without any sales effort of your own.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a manufacturing partner",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Our intelligent part analysis understands the part and the manufacturing process and helps users like Schwab to answer customer inquiries more quickly.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Based on the CAD models and technical drawings we uploaded, we were able to calculate manufacturing times and costs for simple and complex turned and milled parts for the entire project in one go.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "As an aerospace startup from Lake Constance, we have been happy Spanflug customers almost since our founding. We know that Spanflug can be relied on even and especially for time-sensitive orders.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing partners in the Spanflug network receive suitable orders without having to create quotes.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "As a partner in the CICAM project, Spanflug helped develop a calculation model for hybrid manufacturing: reliable cost prediction for parts built with…",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a manufacturing partner - Spanflug",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase sales as manufacturing partner",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "As a manufacturing partner of Spanflug, you will receive suitable orders, without having to write quotes. The sales effort from customer contact to quoting is eliminated for you. The manufacturing partnership is free of charge.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "We currently work with around 400 qualified and audited partners in the EU and are constantly expanding our network. We focus on quality over quantity. Around 95% of our manufacturing partners come from Germany and Austria.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimized utilization of your manufacturing capacity",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "As a manufacturing partner at Spanflug, you will receive orders without having to write quotes. We will inform you by e-mail when a suitable order has been activated for you.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing and shipping orders",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "After manufacturing the part, you pack and ship it to the customers.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a manufacturing partner",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Here you will find answers to the most frequently asked questions about the manufacturing partnership with Spanflug. If you have any further questions, we will be happy to assist you.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "How do I become a manufacturing partner of Spanflug?",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up with Spanflug and select the option “Apply as a manufacturing partner”.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Is it worthwhile for me to become a manufacturing partner?",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Spanflug BUY is the platform for the efficient procurement of custom machined parts. By combining automation, intelligent algorithms, and a network of more than 8,000 machines, we find the optimal solution for each of your manufacturing tasks. In this way, we can relieve your purchasers, reduce overall costs by up to 35%, and ensure on-time delivery of your parts with the quality you need.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Reliable manufacturing in the network",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing processes",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Realize your entire project with a single reliable supplier. With our comprehensive manufacturing expertise, we will find a tailor-made solution for your requirements.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform connects purchasers with best matched manufacturers through our AI-supported order placement, significantly reducing part costs. Through digitalization and automation, ancillary procurement costs are reduced to a minimum. This results in total cost savings of up to 35%.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "An innovative, AI-supported manufacturing algorithm understands your parts, ensuring maximum precision in costing, optimized order placement, and simplified work preparation. This reduces the complexity of the entire procurement process and minimizes economic risks.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Our manufacturing experts are available to assist you throughout the process and ensure that your orders are executed reliably.",
+    "url": "https://spanflug.de/buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing processes – Spanflug",
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing processes",
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "pass": 1
+   },
+   {
+    "quote": "Work with just one single reliable supplier for your project. Our extensive manufacturing expertise, which extends beyond our focus area of turning and milling, enables us to cover the typical custom parts demand in mechanical engineering. We will find a tailor-made solution also for your requirements.",
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you have specific questions about our solutions, the manufacturing processes, materials or post-treatments we offer? You don’t have to search any longer. Simply send us your questions using our contact form or book a demo appointment for our solutions. Our team of experts will get back to you as soon as possible.",
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "pass": 1
+   },
+   {
+    "quote": "The aim of our intelligent manufacturing platform for individual drawing parts is to digitally network supply and demand, automate time-consuming and costly workflows and thus make procurement and manufacturing processes as quick and easy as possible for purchasers and suppliers.",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyers get access to flexibly scalable manufacturing capacities and become more agile. Our manufacturing partners can improve the utilization of their machines, compensate for fluctuations and build up an additional, attractive source of revenue.",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent algorithms, AI and manufacturing expertise",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "Thousands of customers from a wide range of industries procure their manufactured parts via Spanflug, or use our quoting software. They trust in our manufacturing expertise and innovative technology and Spanflug as a reliable partner.",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "At Spanflug, he is responsible for manufacturing and sales.",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "At Spanflug, we offer applicants the opportunity to develop and market innovative solutions that simplify day-to-day work in the manufacturing industry and make companies more efficient. You find more information about Spanflug as an employer and our vacancies on our careers page.",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "Read news about our digital manufacturing platform, our software solutions and the company, our press releases and blog articles here.",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "As a partner in the CICAM project, Spanflug helped develop a calculation model for hybrid manufacturing: reliable cost prediction for parts built with…",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing capabilities",
+    "url": "https://spanflug.de/book-meeting-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a manufacturing partner",
+    "url": "https://spanflug.de/book-meeting-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase sales as a manufacturing partner",
+    "url": "https://spanflug.de/book-meeting-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing processes",
+    "url": "https://spanflug.de/book-meeting-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "into its manufacturing platform. With 150 additional material grades and approximately 20,000 items, the new stock partner helped to grow the material database behind Spanflug’s solutions in the areas of steel, stainless steel, and non-ferrous metals significantly, particularly for tubes and bars.",
+    "url": "https://spanflug.de/ehg-expands-spanflug-material-portfolio/",
+    "pass": 1
+   },
+   {
+    "quote": "For manufacturers: Quoting based on real-world data and predictable process planning with Spanflug MAKE",
+    "url": "https://spanflug.de/ehg-expands-spanflug-material-portfolio/",
+    "pass": 1
+   },
+   {
+    "quote": "As a partner in the CICAM project, Spanflug helped develop a calculation model for hybrid manufacturing: reliable cost prediction for parts built with WAAM and CNC.",
+    "url": "https://spanflug.de/cicam-research-project-circular-economy/",
+    "pass": 1
+   },
+   {
+    "quote": "How precise costing for hybrid manufacturing supports circular economy",
+    "url": "https://spanflug.de/cicam-research-project-circular-economy/",
+    "pass": 1
+   },
+   {
+    "quote": "The industry impact: only when the cost of a hybrid part is known in advance can manufacturers see whether this approach really is the most economical one, and choose the process that uses less material and takes less time. That is the promise of hybrid manufacturing, made tangible: parts produced at lower cost, with far less wasted raw material, making manufacturing more sustainable as a result.",
+    "url": "https://spanflug.de/cicam-research-project-circular-economy/",
+    "pass": 1
+   },
+   {
+    "quote": "WAAM as the basis for hybrid manufacturing",
+    "url": "https://spanflug.de/cicam-research-project-circular-economy/",
+    "pass": 1
+   },
+   {
+    "quote": "Most machined parts begin as a solid block of material. For many geometries, a significant share of it is removed during milling. Wire arc additive manufacturing (WAAM) follows the opposite principle: a part is built-up layer by layer, adding only the material required and close to the final contour.",
+    "url": "https://spanflug.de/cicam-research-project-circular-economy/",
+    "pass": 1
+   },
+   {
+    "quote": "These strengths make WAAM valuable across many industries, from aerospace and automotive to energy and general manufacturing. Typical use cases include:",
+    "url": "https://spanflug.de/cicam-research-project-circular-economy/",
+    "pass": 1
+   },
+   {
+    "quote": "Without a reliable prediction of what a given combination costs, it is not possible to identify the most efficient approach or assess the viability of the hybrid route. A central objective of CICAM was to establish the basis for a hybrid manufacturing cost prediction model. Spanflug took over responsibility for this task.",
+    "url": "https://spanflug.de/cicam-research-project-circular-economy/",
+    "pass": 1
+   },
+   {
+    "quote": "Spanflug has many years of experience in determining manufacturing times and costs for metal parts based on 3D models. Within CICAM, the technology company examined how this expertise, developed for conventional CNC machining, could be extended to additive as well as hybrid manufacturing, and what would be required to make the algorithms applicable to these new process chains.",
+    "url": "https://spanflug.de/cicam-research-project-circular-economy/",
+    "pass": 1
+   },
+   {
+    "quote": "Together, these contributions make hybrid manufacturing a real business decision, not just a technical option. Its costs, time, material use, and quality can now be assessed before a single part is made. Precise calculation is therefore not an academic exercise, but the basis for efficient and resource saving manufacturing.",
+    "url": "https://spanflug.de/cicam-research-project-circular-economy/",
+    "pass": 1
+   },
+   {
+    "quote": "With our software solution, machine shops can automatically calculate precise manufacturing times and costs and streamline the entire quoting process. Learn more or try it out – it is free to start.",
+    "url": "https://spanflug.de/cicam-research-project-circular-economy/",
+    "pass": 1
+   },
+   {
+    "quote": "How much time do machinists really save by automating the quoting process?",
+    "url": "https://spanflug.de/webinars/",
+    "pass": 1
+   },
+   {
+    "quote": "Here’s what the machine shops that use our quoting software or increase their sales as a manufacturing partner in our network are saying.",
+    "url": "https://spanflug.de/references/",
+    "pass": 1
+   },
+   {
+    "quote": "As an aerospace startup from Lake Constance, we have been happy Spanflug customers almost since our founding. We know that Spanflug can be relied on even and especially for time-sensitive orders.",
+    "url": "https://spanflug.de/references/",
+    "pass": 1
+   },
+   {
+    "quote": "The ordering process at Spanflug is extremely fast and uncomplicated. We were able to get a quote and order in an instant, even on December 24. Spanflug opens up completely new possibilities in development. You can check the manufacturing costs of a part directly during the design phase, optimize the part accordingly and place the order directly.",
+    "url": "https://spanflug.de/references/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "As a CNC machine shop, you can use our automated quoting software Spanflug MAKE to calculate precise manufacturing times and costs, and simplify your entire quoting process. You can also become a manufacturing partner in our network and increase your revenue without any sales effort of your own.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "No sales effort for customer acquisition and quoting",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "With Spanflug, you can tap into an additional, attractive source of revenue and create the basis for long-term growth.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "The next step is to arrange an online meeting to get to know each other. During this meeting, we will discuss the next steps with you.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Buyers get access to flexibly scalable manufacturing capacities and become more agile. Our manufacturing partners can improve the utilization of their machines, compensate for fluctuations and build up an additional, attractive source of revenue.",
+    "url": "https://spanflug.de/about-spanflug/",
+    "pass": 1
+   },
+   {
+    "quote": "Become part of our team and work with us to develop and market innovative solutions that simplify day-to-day work in the manufacturing industry and make companies more competitive!",
+    "url": "https://spanflug.de/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Once the final details have been clarified, you will receive your contract and become part of the Spanflug team. Your team lead will provide you with all the necessary information regarding your start date and your first day at work.",
+    "url": "https://spanflug.de/career/",
+    "pass": 1
+   },
+   {
+    "quote": "The machine shop makes good use of the time until the stocks arrive: employees program the machine and do work preparation. “In the best case scenario, we can even beat the delivery date,” describes Grabacz. Every Spanflug customer who urgently needs the part or the small series will be grateful for every day that the delivery arrives earlier. This way, all three parties benefit.",
+    "url": "https://spanflug.de/reference/grabacz-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Since March 2025 Lucas Giering is part of the management team at Spanflug Technologies GmbH alongside Adrian Lewis and Markus Westermeier. As Chief Pr…",
+    "url": "https://spanflug.de/news/",
+    "pass": 3
+   },
+   {
+    "quote": "Since launching in 2019, Spanflug has doubled its revenue yearly by adding features like",
+    "url": "https://www.mastt2040.eu/project/spanflug/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/325447-21",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug has 70 total employees.",
+    "url": "https://pitchbook.com/profiles/company/325447-21",
+    "pass": 3
+   },
+   {
+    "quote": "What is Spanflug’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/325447-21",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Spanflug is",
+    "url": "https://pitchbook.com/profiles/company/325447-21",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/spanflug",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Spanflug is basically our digital sales colleague. Free of charge, because these orders are sent to our e-mail inbox virtually automatically.",
+    "url": "https://spanflug.de/",
+    "pass": 1
+   },
+   {
+    "quote": "As a manufacturing partner at Spanflug, you will receive orders without having to write quotes. We will inform you by e-mail when a suitable order has been activated for you.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "We will be happy to answer your questions about the benefits and requirements. Contact us or apply directly. Contact us or apply directly.",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us if you have more questions",
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Alternatively, you are welcome to contact us at any time. You can reach us as follows:",
+    "url": "https://spanflug.de/book-meeting-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Spanflug is basically our digital sales colleague. Free of charge, because these orders are sent to our e-mail inbox virtually automatically.",
+    "url": "https://spanflug.de/references/",
+    "pass": 1
+   },
+   {
+    "quote": "Alternatively, you can also send us your inquiry by email to",
+    "url": "https://spanflug.de/project-rfqs/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team will check your request and get back to you within 24 hours. If necessary, we will clarify any technical and commercial issues and then find the best price for your individual requirements in our network. You will typically receive your quote by e-mail within 2 working days.",
+    "url": "https://spanflug.de/project-rfqs/",
+    "pass": 1
+   },
+   {
+    "quote": "For each project, you have a personal contact for all technical and commercial questions – from the quotation phase through to delivery. If you are happy with our offer, you can place your order directly online or by e-mail.",
+    "url": "https://spanflug.de/project-rfqs/",
+    "pass": 1
+   },
+   {
+    "quote": "As an interesting side effect, Grabacz praises the fact that Spanflug allows him to focus more on its core competence – machining: “Spanflug basically works for us as a digital sales colleague. Free of charge, because these orders are sent to our e-mail inbox virtually automatically.”",
+    "url": "https://spanflug.de/reference/grabacz-manufacturing-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "{{ errors.first('email') }}",
+    "url": "https://en.industryarena.com/spanflug/products",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/325447-21",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Spanflug – Procure easily. Manufacture efficiently. — Would you like to see how easy it is to use the Spanflug solutions and how quickly you can benefit as a purchaser or CNC machine shop? Try it out for yourself or simply book a product demo with our sales team.",
+    "url": "https://spanflug.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "News – Spanflug — Get all the news about our digital manufacturing platform, our software solutions and Spanflug as a company. You also find our press releases and blog articles on this page.",
+    "url": "https://spanflug.de/en/news/",
+    "pass": 3
+   },
+   {
+    "quote": "CERATIZIT invests in platform provider Spanflug | CERATIZIT — Munich / Mamer, 4 November 2024 The CERATIZIT Group has acquired a minority stake in Spanflug Technologies GmbH. This was announced by both companies on November 4th, 2024. The strategic investment is intended to promote synergies in product development, sales and internationalisation.",
+    "url": "https://ceratizit.com/int/en/news-and-media/news-and-press-releases/2024/spanflug.html",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug Technologies - LinkedIn 日本 — Its mission is to make the procurement of custom parts as fast and simple as possible for both buyers and suppliers. To achieve this, Spanflug efficiently connects supply and demand through a...",
+    "url": "https://jp.linkedin.com/company/spanflug",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug – Procure easily. Manufacture efficiently. — Spanflug's manufacturing platform networks purchasers and contract manufacturers quickly and efficiently and reduces costs by 90%.",
+    "url": "https://spanflug.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug – Procure easily. Manufacture efficiently. — Learn more about Spanflug as a company, our founding history, what our customers say about our solutions, and career opportunities at Spanflug.",
+    "url": "https://spanflug.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "About Spanflug — Since founding Spanflug, he has been responsible for software architecture, web development, and dev-ops. What interests him about Spanflug is the interface between mechanical engineering and computer science.",
+    "url": "https://spanflug.de/en/about-spanflug/",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug Technologies | LinkedIn — Its mission is to make the procurement of custom parts as fast and simple as possible for both buyers and suppliers. To achieve this, Spanflug efficiently connects supply and demand through a...",
+    "url": "https://jp.linkedin.com/company/spanflug",
+    "pass": 3
+   },
+   {
+    "quote": "Products - Spanflug — Spanflug Products - Spanflug is your online store for turning and milling. Upload CAD file, calculate price, order components, delivery from 6 working days.",
+    "url": "https://en.industryarena.com/spanflug/products",
+    "pass": 3
+   },
+   {
+    "quote": "About us - Spanflug — Spanflug connects buyers and manufacturers of custom machined parts on its intelligent manufacturing platform and simplifies and accelerates procurement and quoting processes.",
+    "url": "https://en.industryarena.com/spanflug/aboutus",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug References – Experiences of our customers — Thousands of customers from a wide range of industries rely on Spanflug. Here, some of our customers report on their experience with Spanflug and its solutions.",
+    "url": "https://spanflug.de/references/",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug References – Experiences of our customers — Here, some of our customers speak about their experience with Spanflug and how our solutions help their companies to become more efficient and competitive. Read what our customers say about how our fast, automated processes have saved them efforts and money when procuring custom machined parts.",
+    "url": "https://spanflug.de/en/references/",
+    "pass": 3
+   },
+   {
+    "quote": "MASTT2040 Case Study: Spanflug — The future Spanflug, a spin-off of the Technical University of Munich, focuses on technology development to automate accurate quote generation, benefiting both customers and manufacturers. The platform boasts 40,000 users, 6,000 CNC machines, 300 partners, and nearly 1 million calculated parts.",
+    "url": "https://www.mastt2040.eu/project/spanflug/",
+    "pass": 3
+   },
+   {
+    "quote": "#spanflugmake #millpol #automation #manufacturing - LinkedIn — We are excited to share our newest case study featuring our Polish customer MILLPOL: “Effective automation of the quoting process.”",
+    "url": "https://www.linkedin.com/posts/spanflug-international_spanflugmake-millpol-automation-activity-7406671946756669441-CSSd",
+    "pass": 3
+   },
+   {
+    "quote": "Quoting made easy for CNC manufacturers with Spanflug MAKE — Introducing Spanflug MAKE, enables machine shops to generate quotes automatically based on CAD models and 2D drawings, drastically reducing the time and effort involved.",
+    "url": "https://vimeo.com/1008829390",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug 2026 Company Profile: Valuation, Funding & Investors ...Spanflug - Products, Competitors, Financials, Employees ...Spanflug - Crunchbase Company Profile & FundingSpanflug Technologies – Competitor List & Expansion Signals – …Spanflug Technologies GmbH - ImplisenseSpanflug Technologies GmbH, Munich, Germany - North DataSpanflug Technologies - Overview, News & Similar companies ... — Inform",
+    "url": "https://pitchbook.com/profiles/company/325447-21",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug - Products, Competitors, Financials, Employees ... — Spanflug serves customers looking to purchase parts and machining companies aiming to enhance their quoting and work preparation processes. It was founded in 2017 and is based in Munich, Germany.",
+    "url": "https://www.cbinsights.com/company/spanflug",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug - Crunchbase Company Profile & FundingSpanflug Technologies – Competitor List & Expansion Signals – …Spanflug Technologies GmbH - ImplisenseSpanflug Technologies GmbH, Munich, Germany - North DataSpanflug Technologies - Overview, News & Similar companies ... — Spanflug is a spin-off from the Institute for Machine Tools and Industrial Management (iwb) of the Technical University of Munich ",
+    "url": "https://www.crunchbase.com/organization/spanflug",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug Technologies – Competitor List & Expansion Signals – … — Revenue, valuation, and funding figures for Spanflug Technologies are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/spanflug-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug Technologies GmbH - Implisense — Oct 2, 2025 · The key figures on balance sheet total, revenue, profit and number of employees were generated by a fully automatic extraction from published annual financial statements. The summarized balance sheet helps to check the economic situation of important customers, suppliers and competitors.",
+    "url": "https://implisense.com/en/companies/spanflug-technologies-gmbh-muenchen-DE0JXIALG406",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Spanflug Technologies (@spanflug) / Posts / X Spanflug betreibt eine Fertigungsplattform für CNC-Dreh- und Frästeile, die Kunden und Lieferanten einen vollständig automatisierten Beschaffungsprozess bietet.",
+    "url": "https://x.com/spanflug",
+    "pass": 3
+   },
+   {
+    "quote": "Spanflug Technologies (@spanflug) / Posts / X Feb 8, 2018 · Spanflug betreibt eine Fertigungsplattform für CNC-Dreh- und Frästeile, die Kunden und Lieferanten einen vollständig automatisierten Beschaffungsprozess bietet.",
+    "url": "https://x.com/spanflug",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Spanflug Technologies - LinkedIn Spanflug Technologies GmbH is a technology company based in Munich. Its mission is to make the procurement of custom parts as fast and simple as possible for both buyers and suppliers.",
+    "url": "https://www.linkedin.com/company/spanflug",
+    "pass": 3
+   },
+   {
+    "quote": "#spanflug #manufacturing #internationalization #globalgrowth ... Spanflug ist in den letzten Monaten international stark gewachsen. Immer mehr unserer Kunden, Partner und Kollegen befinden sich in allen Teilen Europas und darüber hinaus.",
+    "url": "https://www.linkedin.com/posts/spanflug_spanflug-manufacturing-internationalization-activity-7467475847797465088-1qsZ",
+    "pass": 3
+   },
+   {
+    "quote": "Lucas Giering – CPO at Spanflug - LinkedInMarie-Christin Sticht – Operations Assistant @Spanflug ...Billy Hopkins - Spanflug Technologies | LinkedInBen Smulders - Spanflug Technologies | LinkedInHeinrich Wettstein – Geschäftsführer Spanflug AG ... Bei Spanflug entwickle ich Lösungen, die Hürden abbauen, Potenziale freisetzen und unseren Kunden helfen, in einem sich rasant verändernden Fertigungsum",
+    "url": "https://de.linkedin.com/in/lucas-giering/de",
+    "pass": 3
+   },
+   {
+    "quote": "Marie-Christin Sticht – Operations Assistant @Spanflug ...Billy Hopkins - Spanflug Technologies | LinkedInBen Smulders - Spanflug Technologies | LinkedInHeinrich Wettstein – Geschäftsführer Spanflug AG ... Meine Aufgabe ist es, meinem Team den Rücken frei zu halten. Dabei stehe ich in engem Austausch mit den Kund:innen, den über 200 Produktionspartner:innen im Spanflug-Netzwerk sowie unseren... · ",
+    "url": "https://de.linkedin.com/in/marie-christin-sticht-683077214",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "spanflug - Facebook Mar 10, 2022 · - spanflug - Spanflug Technologies hat das Angebot auf der Fertigungsplattform Spanflug entscheidend erweitert und bietet eine Auswahl der 20 gängigsten Oberflächen- und Wärmebehandlungen sowie Beschichtungen an, z. B. Eloxieren, Brünieren, Härten, Verzinken und viele weitere.",
+    "url": "https://www.facebook.com/spanflug/",
+    "pass": 3
+   },
+   {
+    "quote": "4CF - ⚙️ Spanflug as our featured #MASTT2040 case study ... Dec 5, 2024 · ⚙️ Spanflug as our featured #MASTT2040 case study! 🔎 @Spanflug Technologies operates a specialized manufacturing platform for turning and milling...",
+    "url": "https://www.facebook.com/4CFuture/posts/️-spanflug-as-our-featured-mastt2040-case-study-spanflug-technologies-operates-a/1178866230907606/",
+    "pass": 3
+   },
+   {
+    "quote": "spanflug - spanflug updated their status. | Facebook Mar 10, 2022 · Themen genauso spannend wie wir? Und ganz wichtig: Du hast Lust als Teil unseres großartigen Teams von Tag 1 an tatkräftig mit anzupacken und Projekte eigenverantwortlich zu übernehmen? Dann suchen wir genau Dich! Wir freuen uns auf Deine Bewerbung! Alle weiteren Infos findest Du unter spanflug. de/Karriere",
+    "url": "https://www.facebook.com/spanflug/posts/4921116711310523/",
+    "pass": 3
+   },
+   {
+    "quote": "spanflug - Wir sind ein schnell wachsendes Startup aus ... Jan 11, 2021 · Themen genauso spannend wie wir? Und ganz wichtig: Du hast Lust als Teil unseres großartigen Teams von Tag 1 an tatkräftig mit anzupacken und Projekte eigenverantwortlich zu übernehmen? Dann suchen wir genau Dich! Wir freuen uns auf Deine Bewerbung! Alle weiteren Infos findest Du unter spanflug. de/Karriere",
+    "url": "https://www.facebook.com/spanflug/posts/wir-sind-ein-schnell-wachsendes-startup-aus-münchen-und-haben-uns-vorgenommen-di/3613997542022453/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://spanflug.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/become-manufacturing-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/buy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/resources/manufacturing_processes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/about-spanflug/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/book-meeting-buy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/ehg-expands-spanflug-material-portfolio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/cicam-research-project-circular-economy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/webinars/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/references/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/project-rfqs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/reference/grabacz-manufacturing-partner/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://spanflug.de/wp-content/uploads/2022/10/Fertigungspartner-im-Spanflug-Netzwerk-werden.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://spanflug.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ceratizit.com/int/en/news-and-media/news-and-press-releases/2024/spanflug.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/spanflug",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/about-spanflug/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/spanflug",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.industryarena.com/spanflug/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/references/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spanflug.de/references/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastt2040.eu/project/spanflug/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/spanflug-international_spanflugmake-millpol-automation-activity-7406671946756669441-CSSd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/325447-21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/spanflug",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/spanflug",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/spanflug-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/spanflug",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/spanflug",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/spanflug_spanflug-manufacturing-internationalization-activity-7467475847797465088-1qsZ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/lucas-giering/de",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/marie-christin-sticht-683077214",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/spanflug/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/4CFuture/posts/️-spanflug-as-our-featured-mastt2040-case-study-spanflug-technologies-operates-a/1178866230907606/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/spanflug/posts/4921116711310523/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/spanflug/posts/wir-sind-ein-schnell-wachsendes-startup-aus-münchen-und-haben-uns-vorgenommen-di/3613997542022453/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/spanflug",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Spanflug 日本 導入",
+   "results": [
+    "https://spanflug.de/en/",
+    "https://spanflug.de/en/news/",
+    "https://ceratizit.com/int/en/news-and-media/news-and-press-releases/2024/spanflug.html",
+    "https://jp.linkedin.com/company/spanflug",
+    "https://www.bing.com/aclick?ld=e8EOsMXhj9W3o1BJXQzLxEHzVUCUxQwASN4ueCmNr6LMNIh5YpRfDvgSxGTPtioVEbv1mWvXTj5GkJSkBZ9FglIesWHx0UNOZXeYbr4u_0vf5j8x3bmObrntNkUCbmNbsyQOf9NsQ7cI_tbXnP865KrSzYCvfTRvSYjhr6Gy2n5jMG2cBQfxUoQf_mr6ekSGY0z5iKXmQNB77ixni0KYPNlwZihHo&u=aHR0cHMlM2ElMmYlMmZhaS1mb3JnZS50ZHNlLmpwJTJmJTNmbXNjbGtpZCUzZDY4NGI4Y2Q1NWJlYjEzZmZlYzRjZTYyNjk1ZDQ5MjFk&rlid=684b8cd55beb13ffec4ce62695d4921d",
+    "https://global.honda/jp/news/2026/4260305b.html",
+    "https://car-repo.jp/blog-entry-u-s-made-re-imported-vehicles-in-the-japanese-market-in-20262027.html",
+    "https://response.jp/article/2026/10/06/417434.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Spanflug 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://spanflug.de/en/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spanflug Japan",
+   "results": [
+    "https://spanflug.de/en/",
+    "https://spanflug.de/en/about-spanflug/",
+    "https://jp.linkedin.com/company/spanflug",
+    "https://en.industryarena.com/spanflug/products",
+    "https://en.industryarena.com/spanflug/aboutus",
+    "https://events.sme.org/event/the-manufacturing-technology-east-event-2025/exhibitor/RXhoaWJpdG9yXzIxOTY5Nzc=",
+    "https://pitchbook.com/profiles/company/325447-21"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spanflug manufacturing customer case study",
+   "results": [
+    "https://spanflug.de/references/",
+    "https://spanflug.de/en/references/",
+    "https://www.mastt2040.eu/project/spanflug/",
+    "https://www.linkedin.com/posts/spanflug-international_spanflugmake-millpol-automation-activity-7406671946756669441-CSSd",
+    "https://vimeo.com/1008829390",
+    "https://eustartup.news/startup-showcase-spanflug-revolutionizes-the-manufacturing-industry-with-instant-pricing-for-custom-cnc-machined-parts/",
+    "https://www.youtube.com/@spanflug-technologies/videos"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spanflug white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://reseller.amazon.com/",
+    "https://partners.spectrum.com/",
+    "https://www.bing.com/aclick?ld=e83hhsdDPLMV1ZW-9kvvESkjVUCUwZ2EByx4FEvf6qdLUhEAzhKZGKE7CXvLFr71fcdneoQU2ly3rpHwG1O-OGZHCs_dhdgakT6yantBu_oQV_2QTe_WoxkMZCp_0hnT7RdCupu4BuPJ0INIdLYctb-sO9gn-TuSqVEnckc6BRHuHuKqu4bKzJaCzRC-F29ye0S0cPew&u=aHR0cHMlM2ElMmYlMmZyZXBseS5pbyUyZndoaXRlbGFiZWwlMmYlM2Z1dG1fc291cmNlJTNkbWljcm9zb2Z0YWRzJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE1BLVdMX0FHJTI2dXRtX3Rlcm0lM2R3aGl0ZWxhYmVsJTI1MjBzb2x1dGlvbnMlMjZtc2Nsa2lkJTNkOWZhMDUzZTE4YzQ1MTQ1MDIzMTYzOTEyNDJmMGNlODQ&rlid=9fa053e18c4514502316391242f0ce84",
+    "https://resellervendors.mysellauth.com/",
+    "https://www.bing.com/aclick?ld=e8Gw3DAgmQe46k9axMrNl8QzVUCUxL0hWMfB2oxEtTE_ip5CMNqiflUFxk7PdhvNd6HTOCmjmodAzPQ-aRuO4j65CtD_z28DArl22vMDgh_dLm8ZxkcX0nlyJGno9owqrZv9t1h1zqLUdC8IsQXjxXfwi9CvDlZxVpTVLvqUovB0mI8z-HycB0WXDptBmpOoM0vWwiYb69SwQDhhUIt0gBoZcMhMo&u=aHR0cHMlM2ElMmYlMmZvcGVuc3JzLmNvbSUyZmNhbXBhaWducyUyZmJlY29tZS1hLWRvbWFpbi1yZXNlbGxlciUyZiUzZnRkX2NhbXBhaWduJTNkdHJ1ZSUyNnRkX2NhbXBhaWduX25hbWUlM2RvcGVuc3JzX2JpbmdfYWRzJTI2dGRfY2FtcGFpZ25fc291cmNlJTNkYWQlMjZ0ZF9jYW1wYWlnbl9tZWRpdW0lM2RiaW5nJTI2dGRfY2FtcGFpZ25fY29udGVudCUzZHNlYXJjaF9jYW1wYWlnbiUyNm1hdGNodHlwZSUzZHAlMjZkZXZpY2UlM2RjJTI2bXNjbGtpZCUzZDUwMzZhZjM1YzE2ZTE0OGVlMGNiYzVjNjBmZDIzZDc2JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkT3BlblNSUyUyNTIwU2VhcmNoJTI2dXRtX3Rlcm0lM2R3aGl0ZSUyNTIwbGFiZWwlMjUyMGRvbWFpbiUyNTIwcmVzZWxsZXIlMjZ1dG1fY29udGVudCUzZERvbWFpbi1DZW50cmljJTI1MjBPcGVuU1JT&rlid=5036af35c16e148ee0cbc5c60fd23d76",
+    "https://www.bing.com/aclick?ld=e8wWIs_rP-AZ9LJztdZuBzyDVUCUw2VLwXiEg_JSfLgmFwEjPf7wPFrJm7yR2IExrcjH-M6_uHugUcpff8E3iPGSRz_cou5OaSfSTEVNAkTIZvegy7rpu1d6mFxSPKLA3ujzdurhJXs-CT8jw5aNepswvCiRipZlRArtW7fYgudj3_1EPH1YsVFRgHafPzl18LrcSsnBSLANE9riYIGLldxgD1Z7g&u=aHR0cHMlM2ElMmYlMmZyZXBseS5pbyUyZndoaXRlbGFiZWwlMmYlM2Z1dG1fc291cmNlJTNkbWljcm9zb2Z0YWRzJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE1BLVdMX0FHJTI2dXRtX3Rlcm0lM2R3aGl0ZSUyNTIwbGFiZWwlMjUyMHNvZnR3YXJlJTI2bXNjbGtpZCUzZDdkY2I2NmYyZTRmMDExZmFlMjA3MGMwMTJhNGNjNzVk&rlid=7dcb66f2e4f011fae2070c012a4cc75d"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Spanflug founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/325447-21",
+    "https://www.cbinsights.com/company/spanflug",
+    "https://www.crunchbase.com/organization/spanflug",
+    "https://compworth.com/company/spanflug-technologies",
+    "https://implisense.com/en/companies/spanflug-technologies-gmbh-muenchen-DE0JXIALG406",
+    "https://www.northdata.com/Spanflug+Technologies+GmbH,+München/HRB+297480",
+    "https://www.zoominfo.com/c/spanflug-technologies-gmbh/473779175"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Spanflug",
+   "results": [
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/hunter_5160/n/neb1bf44afe25",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kisaragi_ririka/n/n1d3b26e3ffed",
+    "https://note.com/yukaidanaaa/n/n2fde1a41e975",
+    "https://note.com/kgsi/n/n20675aad7e1b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Spanflug",
+   "results": [
+    "https://x.com/spanflug",
+    "https://x.com/cowboylikelovee/status/2117973836855693402",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/BuzzingPop/status/2117864405064892847",
+    "https://x.com/PicturesFoIder/status/2118185223867560198"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Spanflug",
+   "results": [
+    "https://www.linkedin.com/company/spanflug",
+    "https://www.linkedin.com/posts/spanflug_spanflug-manufacturing-internationalization-activity-7467475847797465088-1qsZ",
+    "https://de.linkedin.com/in/lucas-giering/de",
+    "https://de.linkedin.com/in/marie-christin-sticht-683077214",
+    "https://uk.linkedin.com/in/billy-hopkins-023302183",
+    "https://nl.linkedin.com/in/ben-smulders",
+    "https://ch.linkedin.com/in/heinrich-wettstein-18283362"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Spanflug",
+   "results": [
+    "https://www.facebook.com/spanflug/",
+    "https://www.facebook.com/4CFuture/posts/️-spanflug-as-our-featured-mastt2040-case-study-spanflug-technologies-operates-a/1178866230907606/",
+    "https://www.facebook.com/spanflug/posts/4921116711310523/",
+    "https://www.facebook.com/spanflug/posts/wir-sind-ein-schnell-wachsendes-startup-aus-münchen-und-haben-uns-vorgenommen-di/3613997542022453/",
+    "https://www.facebook.com/munichstartup/posts/spanflug-individuelle-fertigungsteile-für-die-industrie-bestof2021/3141945076091531/",
+    "https://www.facebook.com/a1kommunikation/photos/-spanflug-technologies-gmbh-spanflug-auf-der-metav-sofortpreise-für-cnc-bauteile/3007711289239009/",
+    "https://www.facebook.com/a1kommunikation/posts/-spanflug-spanflug-technologies-hat-das-angebot-auf-der-fertigungsplattform-span/3658797790797019/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spanflug note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.crunchbase.com/person/markus-westermeier",
+    "https://www.cbinsights.com/company/spanflug/people",
+    "https://theorg.com/org/spanflug/org-chart/markus-westermeier",
+    "https://spanflug.de/en/",
+    "https://ensun.io/company/spanflug-682f2b17e06b572b49405bab-managed",
+    "https://www.marketscreener.com/insider/MARKUS-WESTERMEIER-A36DGF/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spanflug X 投稿",
+   "results": [
+    "https://x.com/spanflug",
+    "https://spanflug.de/en/",
+    "https://www.instagram.com/spanflug/",
+    "https://spanflug.de/en/news/",
+    "https://www.facebook.com/spanflug/",
+    "https://ameblo.jp/se11085472/entry-12983916081.html",
+    "https://www.chichi-pui.com/users/FacialDreams/?age_limit=R18&p=4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部34頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

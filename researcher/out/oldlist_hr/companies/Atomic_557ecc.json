@@ -1,0 +1,1985 @@
+{
+ "name": "Atomic",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory Software / MES / Industrial Data｜送付済み",
+ "researched_at": "2026-11-11T02:34:02.911419+00:00",
+ "official_url": "https://atomic.industries",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The goal of Atomic is to move customers from design to production faster than anyone on earth. Our superpower is mold making, and our entire operation is AI-native.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The OS for Production",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "single, software-defined process",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional manufacturing relies on expert intuition and iterative trial and error. Atomic replaces this with physics first engineering, using simulation and automation to compress design cycles and reduce downstream risk.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Our software stack models molten plastic flow, thermal behavior, and structural response to inform tooling and process decisions before metal is cut, and continues to improve as production data comes online.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Early manufacturability signals derived from simulation and domain constraints. Highlights potential risk areas and informs tooling and process decisions, with human review where required.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Closed-Loop Improvement",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Production outcomes are captured and fed back into our models to refine future designs, processes, and assumptions over time.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Capabilities",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Atomic combines vertical integration with advanced volume production. Our facility features a fleet of heavy-tonnage presses and precision tooling capabilities to scale from concept to mass market.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Equipped with 1000T, 1400T, and 2000T presses for mass production of large-format automotive body panels and defense components.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal 3D Printing",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Velo3D Sapphire printers enable conformal cooling channels in molds, drastically reducing cycle times and improving part density.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The 20th century was defined by mass production. The 21st century will be defined by",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Atomic's AI drives design, simulation, and executes the production process.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Defined Production",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "From quoting all the way to final quality checks, Atomic has a software backbone that improves with every part we make.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "General Engineering Applicant",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Process Technician – Injection Molding",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Government Programs & Special Projects",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "From design to production,",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "http://www.japc.co.jp/news/press/2010/pdf/230311-2.pdf",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "SPring-8",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.jaea.go.jp/02/press2010/p11013101/index.html",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.jaea.go.jp/02/press2011/p11050201/index.html",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.jaea.go.jp/02/press2013/p13092601/",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "Preparations to invade Japan",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle Preparations subsection",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Organization and training",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Proposed demonstration",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "12 Allied prisoners of war",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "8–13 Allied prisoners of war",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "prepared for a costly",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ". This undertaking was preceded by a",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "had produced two types of atomic bombs: \"",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "on 26 July 1945, the alternative being \"prompt and utter destruction\". The Japanese government",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ". Supporters argue that the atomic bombings were necessary to bring an end to the war with minimal casualties and ultimately prevented a greater loss of life on both sides, and also assert that the demonstration of atomic weaponry created the",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "in the interest of preventing a nuclear war. Conversely, critics argue that the bombings were unnecessary for the war's end and were a",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "German nuclear weapons program",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "would develop atomic weapons first, especially among scientists who were refugees from Nazi Germany and other fascist countries, were expressed in the",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "to Roosevelt in 1939. This prompted preliminary research in the United States in late 1939.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Progress was slow until the arrival of the British",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Consequently, the work was accelerated, first as a pilot program, and finally in the agreement by Roosevelt to turn the work over to the",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "to construct the production facilities necessary to produce uranium-235 and",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "The work of the Manhattan Project took place at dozens of sites across the United States, and even some outside of its borders. It would ultimately cost over US$2",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "to organize and head the project's",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese nuclear weapon program",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ", but it lacked the human, mineral, and financial resources of the Manhattan Project, and never made much progress towards developing an atomic bomb.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ". Worried by the losses sustained, President",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "In April 1945, American forces",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Supreme Council for the Direction of the War",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Representatives of the Empire of Japan stand aboard",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "prior to signing of the Instrument of Surrender",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "on 26 July 1945—the alternative being \"prompt and utter destruction\".",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", also known as the \"Big Six\") were privately making entreaties to the publicly neutral",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "to mediate peace on terms more favorable to the Japanese. While maintaining a sufficient level of diplomatic engagement with the Japanese to give them the impression they might be willing to mediate, the Soviets were covertly preparing to attack Japanese forces in",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ") in fulfillment of promises they had secretly made to the US and the UK at the",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". Sixteen hours later, American president",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Traditional manufacturing is fragmented, slow, and opaque. Atomic unifies the entire stack into a",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional manufacturing relies on expert intuition and iterative trial and error. Atomic replaces this with physics first engineering, using simulation and automation to compress design cycles and reduce downstream risk.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Equipped with 1000T, 1400T, and 2000T presses for mass production of large-format automotive body panels and defense components.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuilding the Industrial Base",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team combines computational physicists, veteran toolmakers, and engineers from SpaceX, Google, and Detroit's manufacturing floor, united by a single mission: make hard things easy to make.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Today our focus is plastics, across automotive, consumer, aerospace, and defense.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "We're looking for obsessively curious individuals to help us build the future of manufacturing.",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Engineer",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Manufacturing Associate (Nights–3rd Shift)",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": ", assumed command in January 1945 and initially continued to use the same precision bombing tactics, with equally unsatisfactory results. The attacks initially targeted key industrial facilities but much of the Japanese manufacturing process was carried out in small workshops and private homes.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "from the Manhattan Project. The Target Committee met in Washington on 27 April; at Los Alamos on 10 May, where it was able to talk to the scientists and technicians there; and finally in Washington on 28 May, where it was briefed by Tibbets and",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "), the site of one of Japan's largest munitions plants;",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ", an embarkation port and industrial center that was the site of a major military headquarters;",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ", a port with industrial facilities including steel and aluminum plants and an oil refinery; and",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ", a major industrial center. The target selection was subject to the following criteria:",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "On 30 May, Stimson asked Groves to remove Kyoto from the target list due to its historical, religious and cultural significance, but Groves pointed to its military and industrial significance.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "At the time of its bombing, Hiroshima was a city of industrial and military significance. A number of military units were located nearby, the most important of which was the headquarters of",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "It supported a large war industry, manufacturing parts for planes and boats, for bombs, rifles, and handguns.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "buildings. Outside the center, the area was congested by a dense collection of small timber workshops set among Japanese houses. A few larger industrial plants lay near the outskirts of the city. The houses were constructed of timber with tile roofs, and many of the industrial buildings were also built around timber frames. The city as a whole was highly susceptible to fire damage.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "primarily because it lacked the aircraft manufacturing industry that was the XXI Bomber Command's priority target. On 3 July, the Joint Chiefs of Staff placed it off limits to bombers, along with Kokura, Niigata and Kyoto.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Prefectural Industrial Promotional Hall",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "The city of Nagasaki had been one of the largest seaports in southern Japan, and was of great wartime importance because of its wide-ranging industrial activity, including the production of",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Shipyards, Electrical Shipyards, Arms Plant, and Steel and Arms Works, which employed about 90 percent of the city's labor force, and accounted for 90 percent of the city's industry.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Although an important industrial city, Nagasaki had been spared from firebombing because its geography made it difficult to locate at night with",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ", was dropped over the city's industrial valley. It exploded 47 seconds later at 11:02",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "northwest of the planned hypocenter. By a bizarre coincidence, Fat Man detonated almost directly over the factory that had made the torpedoes used in the Japanese",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Of 7,500 Japanese employees who worked inside the Mitsubishi Munitions plant, including \"mobilized\" students and regular workers, 6,200 were killed. Some 17,000–22,000 others who worked in other war plants and factories in the city died as well.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "The Nagasaki Arsenal was destroyed in the blast. About 58 percent of the Mitsubishi Arms Plant and about 78 percent of the Mitsubishi Steel Works were damaged. The Mitsubishi Electric Works, on the border of the main destruction zone, suffered only 10 percent structural damage.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "At Los Alamos, technicians worked 24 hours straight to cast",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "While during the preimplantation period, that is one to ten days following",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "\" can cause complications of implantation and death of the",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "The government of Japan recognizes about one percent of these as having illnesses caused by radiation.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ". Hiroshima Prefectural Industrial Promotion Hall, the closest surviving building to the location of the bomb's detonation, was designated the",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ". There were no children in the school building at the time as the building was being used for the payroll department of the Mitsubishi Arms Factory, but 138 of the 158 people inside, mostly civilian payroll staff, died.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "In a 1 June report, the Committee concluded that the bomb should be used as soon as possible against a war plant surrounded by workers' homes and that no warning or demonstration should be given.",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "used by the Japanese Foreign Office to encode high-level diplomatic correspondence. As a result, messages between",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "used by the Emperor in the Rescript, made the recording very difficult to understand for most listeners.",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial production",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "German pre–World War II industrial co-operation",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "JAERI's initial mandate, as outlined in the Basic Law, focused exclusively on basic and applied research into atomic energy for peaceful purposes, such as power generation and industrial applications, while explicitly prohibiting development for military weapons to align with international non-proliferation norms and Japan's constitutional pacifism.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "Seismic PSA methodologies, including assessments for plants on quaternary deposits, supported revisions to design guides and safety goals by the Nuclear Safety Commission, prioritizing validated low-probability outcomes over speculative high-consequence scenarios.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "These initiatives contributed to broader IAEA-coordinated training on radioisotope uses in medicine, food preservation, and industrial processes, promoting radiation's role in enhancing agricultural productivity and public health.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "Technology transfer to the nuclear industry involved disseminating engineering knowledge through JAERI's Nuclear Engineering School, which trained personnel and supported the commercialization of reactor technologies, as quantified by the increasing output capacities of Japanese-built nuclear power plants incorporating transferred innovations.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "This applied focus ensured that research outcomes informed practical deployments, bridging laboratory advancements with industrial-scale implementations.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "Empirical data from operational reactors demonstrated nuclear's superiority for baseload needs, with capacity factors averaging 70-80% in mature Japanese plants prior to 2011, far exceeding intermittent renewables like solar (typically under 15% in Japan due to weather patterns) or wind (around 20%), thus ensuring consistent power without the storage costs required for variable sources.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "This reliability buffered against supply interruptions, as nuclear plants operated continuously for 12-18 months per cycle, supporting industrial stability in a nation where blackouts could cascade through densely interconnected grids.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "JAERI played a key role in responding to the 1999 criticality accident at the nearby JCO fuel processing plant in Tokai-mura, where its neutron monitoring posts detected elevated levels at distances of 1.7 km and 2.0 km, enabling rapid dose assessments.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "world-nuclear.org/information-library/safety-and-security/safety-of-plants/safety-of-nuclear-power-reactors",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Interactive Case Study: Gem City Engineering And Manufacturing – Gem City Engineering And Manufacturing - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/atomic-interactive/case-study/gem-city-engineering-and-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Gem City Engineering And Manufacturing - Customer Case Study",
+    "url": "https://www.casestudies.com/company/atomic-interactive/case-study/gem-city-engineering-and-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Gem City Engineering And Manufacturing used Atomic Interactive",
+    "url": "https://www.casestudies.com/company/atomic-interactive/case-study/gem-city-engineering-and-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/atomic-interactive/case-study/gem-city-engineering-and-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Gem City Engineering And Manufacturing",
+    "url": "https://www.casestudies.com/company/atomic-interactive/case-study/gem-city-engineering-and-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/atomic-interactive/case-study/gem-city-engineering-and-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Case Study: Damson Mechanical Ltd – Damson Mechanical Ltd - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/atomic/case-study/damson-mechanical-ltd-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Damson Mechanical Ltd - Customer Case Study",
+    "url": "https://www.casestudies.com/company/atomic/case-study/damson-mechanical-ltd-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Damson Mechanical Ltd used Atomic",
+    "url": "https://www.casestudies.com/company/atomic/case-study/damson-mechanical-ltd-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/atomic/case-study/damson-mechanical-ltd-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/atomic/case-study/damson-mechanical-ltd-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by CIOs and IT teams at fast-growing modern enterprises",
+    "url": "https://www.atomicwork.com/customers",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Warren, Michigan",
+    "url": "https://atomic.industries/",
+    "pass": 1
+   },
+   {
+    "quote": ", and other injuries, compounded by illness and malnutrition. Despite Hiroshima's sizable military garrison, estimated at 24,000 troops, some 90% of the dead were civilians.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Progress was slow until the arrival of the British",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ", where bomb design work was carried out.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ", assumed command in January 1945 and initially continued to use the same precision bombing tactics, with equally unsatisfactory results. The attacks initially targeted key industrial facilities but much of the Japanese manufacturing process was carried out in small workshops and private homes.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ", the aim of the air offensive against Japan was to destroy the enemy's war industries, kill or disable civilian employees of these industries, and",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "thousand cubic metres (1,156,000 US barrels)",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "thousand cubic metres (604,000 US barrels)",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "The \"Tinian Joint Chiefs\": Captain William S. Parsons (left), Rear Admiral William R. Purnell (center), and Brigadier General Thomas F. Farrell (right)",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the missions over Japan were flown by single unescorted bombers with a single payload to accustom the Japanese to this pattern. They also simulated actual atomic bombing runs, including the directions of ingress and egress with respect to the wind. Tibbets himself was barred from flying most missions over Japan for fear that he might be captured and interrogated.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "The 509th Composite Group had an authorized strength of 225 officers and 1,542 enlisted men, almost all of whom eventually deployed to Tinian. In addition to its authorized strength, the 509th had attached to it on Tinian 51 civilian and military personnel from",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "B-29s. These aircraft were specially adapted to carry nuclear weapons, and were equipped with",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "but the passengers were not permitted to leave the dock area. An advance party of the air echelon, consisting of 29 officers and 61 enlisted men, flew by C-54 to",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "In April 1945, Marshall asked Groves to nominate specific targets for bombing for final approval by himself and Stimson. Groves formed a Target Committee, chaired by himself, that included Farrell, Major John A. Derry,",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Extant sources show that while Stimson was personally familiar with Kyoto, this was the result of a visit decades after his marriage when he was governor-general of the Philippines,",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "remained ineffective. In general, the Japanese regarded the leaflet messages as truthful, with many Japanese choosing to leave major cities. The leaflets caused such concern that the government ordered the arrest of anyone caught in possession of a leaflet.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Three versions were printed of a leaflet listing 11 or 12 cities targeted for firebombing; a total of 33 cities listed. With the text of this leaflet reading in Japanese \"...",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Hiroshima was not listed.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Additional bombs will be delivered on the above targets as soon as made ready by the project staff. Further instructions will be issued concerning targets other than those listed above.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ", and arrived on Tinian on 26 July.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "in a magnesium field carrying case designed for the purpose by",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "320th Troop Carrier Squadron",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "on 26 July, and arrived at North Field 28 July. Three Fat Man high-explosive pre-assemblies, designated F31, F32, and F33, were picked up at Kirtland on 28 July by three B-29s, two from the 393rd Bombardment Squadron plus one from the 216th Army Air Force Base Unit, and transported to North Field, arriving on 2 August.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ", which carried instrumentation, and a then-nameless aircraft later called",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "and set course for Japan. The aircraft arrived over Hiroshima in clear visibility at",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "During the night of 5–6 August, Japanese early warning radar detected the approach of numerous American aircraft headed for the southern part of Japan. Radar detected 65 bombers headed for",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ", the only major warships in somewhat fighting order were six aircraft carriers, four cruisers, and one battleship, of which many were heavily damaged and none could be fueled adequately. Although 19",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "reports that the Japanese destroyed, hid or falsified most of their secret wartime documents before General MacArthur arrived.\"",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", part of a plan to invade the Japanese home islands. General Marshall supported the entry of the",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Allied intentions on issues of utmost importance to the Japanese, including whether Hirohito was to be regarded as one of those who had \"misled the people of Japan\" or even a war criminal, or alternatively, whether the Emperor might become part of a \"peacefully inclined and responsible government\" were thus left unstated.",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan's ambassador to Switzerland, observed that \"unconditional surrender\" applied only to the military and not to the government or the people, and he pleaded that it should be understood that the careful language of Potsdam appeared \"to have occasioned a great deal of thought\" on the part of the signatory governments—\"they seem to have taken pains to",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "... our time to proceed with arrangements of ending the war before the enemy lands on the Japanese mainland is limited, on the other hand it is difficult to decide on concrete peace conditions here at home all at once.\"",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "In the middle of the meeting, shortly after 11:00, news arrived that",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", the chief secretary to Suzuki's Cabinet, had warned Suzuki, and he escaped minutes before the would-be assassins arrived. After setting fire to Suzuki's home, they went to the estate of",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "At dawn, Tanaka learned that the palace had been invaded. He went there and confronted the rebellious officers, berating them for acting contrary to the spirit of the Japanese army. He convinced them to return to their barracks.",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "MacArthur arrived in Tokyo on 30 August, and immediately decreed several laws: No Allied personnel were to assault Japanese people. No Allied personnel were to eat the scarce Japanese food. Flying the",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Part of the mass flypast on 2 September, over the",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "During the ceremony, US aircraft carriers and aircraft patrolled offshore, as there were fears of a kamikaze attack by Japanese pilots; no such attack occurred. The ceremony concluded with a flypast of over 800 US military aircraft, both from the carriers and including 462 land-based",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". The American Experience: Truman. PBS.org. Sourced to The Harry S. Truman Library, \"Army press notes,\" box 4, Papers of Eben A. Ayers.",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Barrett, David Dean (7 April 2020).",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Truman, Harry S.",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Harry S. Truman Library and Museum (1 September 1945).",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Fast Carriers; The Forging of an Air Navy",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "By fiscal year 1999, the annual budget reached 27 billion yen, with 89% sourced from the STA and the remainder from collaborations or internal revenues, enabling investments in infrastructure and personnel exceeding 2,000 researchers.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Atomic Energy Research Institute (JAERI) conducted extensive research on severe accident phenomena in light water reactors (LWRs) as part of Japan's five-year nuclear safety research plan from fiscal year 1996 to 2000, aiming to quantify safety margins and validate accident management measures through experimental and analytical approaches.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "These findings, derived from post-irradiation examinations, underscored the robustness of fuel designs under beyond-design-basis scenarios, countering assumptions of inevitable progression to core melt by highlighting probabilistic barriers like defense-in-depth.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "However, the demonstrated positive returns, including $760 billion in LWR-related revenue from 1970 to 2000, underscore long-term dividends in energy security for resource-poor Japan, where nuclear reduced import vulnerabilities and stabilized costs against volatile fossil prices.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "This process involved the direct absorption of JAERI's approximately 3,000 personnel, research assets, and operational facilities into JAEA, alongside JNC's contributions, resulting in a combined workforce of about 4,400 employees.",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "With Atomicwork, we are transforming the digital workplace experience at Zuora. Our employees now enjoy instant support, seamless information access, and automated service workflows—all via Slack. This partnership is driving faster resolutions, enhanced productivity, and a smarter, more connected workplace",
+    "url": "https://www.atomicwork.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "The narrator is Professor Lebedev, who appeared in DLC #1.",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From there, you use the new 'Whip' ability to descend to the first floor in an elevator that isn't moving. From there, you move while using the Whip, hack a Bumblebee around the area where the parade was held in the opening, travel through the air, and arrive at the seaside near the Pavlov Complex, where you discarded the Beta Connector at the end of the main game.",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And so, he arrives at the Triton Complex.",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I go to Block B, NORA is screaming in front of a bed-like machine. Then, Terenty arrives to deliver the body of the twin (Left). It's the one Granny Zina went to Chelomey to retrieve.",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is listed as A.V. Lebedev, which does not match the employee list.",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1979年Deborah Harry & Jimmy Destri作",
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "pass": 3
+   },
+   {
+    "quote": "Deborah Harry が歌う主人公の彼氏は、今夜はきっと「原子爆弾のように強力に」なるのでしょう",
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "pass": 3
+   },
+   {
+    "quote": "よくスリーブを見ますと、Deborah Harry のブロンドの髪の毛の背後で、何だかブロンド色の（原子）爆弾が爆発している（つまり性行為によってBlondieの頭は爆発する）ように見えます（と同時に、熊かなんかの頭が見えるようでもありますが）",
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "：日本原電の本社が入居しているビル（住友不動産秋葉原北ビル）の",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Atomic Power Company",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "日本に商用原子力発電を導入するために、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "日本原子力発電は、1957年5月に、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "岡部実までは『日本原子力発電三十年史』による",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "処理施設で「日本原子力発電（株）東海発電所」「放射性廃棄物」等と記載されたドラム缶が発見された",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "日本原子力発電株式会社 第69期決算公告",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "』（PDF）（プレスリリース）日本原子力発電、2011年3月11日",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "」『日本経済新聞』2014年6月21日",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "『ドキュメント東京電力企画室』文春文庫 文藝春秋 1986年",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "30周年記念事業企画委員会 編『日本原子力発電三十年史』日本原子力発電、1989年",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "- 東電タウンプランニング - 東電ハミングワーク - 東京電設サービス -",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "- 東電ユークエスト - 東京熱エネルギー -",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "https://ja.wikipedia.org/w/index.php?title=日本原子力発電&oldid=111071829",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "1957年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "日本原子力研究開発機構 - Wikipedia",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Atomic Energy Agency",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "（にほんげんしりょくけんきゅうかいはつきこう、英：Japan Atomic Energy Agency、略称：",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "10月に独立行政法人日本原子力研究開発機構として設立",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "日本国外の機関との協力のため、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "元は日本原子力研究所の計算科学技術推進センターで、",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "、日本原子力研究開発機構",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "国立研究開発法人日本原子力研究開発機構法 第二十八条",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "“日本原子力研究開発機構様の新スーパーコンピュータシステムが稼働”",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "「国立大学法人東京大学と独立行政法人日本原子力研究開発機構との計算科学研究協力に関する覚書」の締結について（お知らせ）",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "日本原子力研究開発機構改革計画の提出について",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "https://ja.wikipedia.org/w/index.php?title=日本原子力研究開発機構&oldid=111238941",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "pass": 3
+   },
+   {
+    "quote": "社内ナレッジ検索のオープンソースを実測で比較（ライセンス・日本語対応・更新）",
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "OSSを自分で立てて日本語化する代わりに、日本語で作った当社の製品を自社のサーバーに置く方法もあります",
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、この土台に対して日本語化、画面や項目の変更、権限、帳票、既存システムとの連携を加えて、御社の業務に合う状態にします",
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "atomicには日本語のファイルがありません",
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "機能の一覧、日本語ファイルの実測、同じ分類のOSSとの比べ方など、技術者向けの情報は",
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "atomicの日本語化・改修・導入（バイブOSS）を、御社のお客様に販売できます",
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス、日本語対応、規模を比べて選べます",
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "かかるのはサーバー代と、日本語化や自社向けの変更にかかる費用です",
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "判定は、GitHubの公開ファイル一覧から日本語ロケールの実ファイルを数えた結果です（配布用のビルド成果物は除外）",
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語化が必要な場合は、当社がその作業を含めて導入します",
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "この用途に使えるオープンソースとして公開されており、当社ではこれを土台に日本語化と自社向けの変更を行って導入します",
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "atomicとは｜機能・ライセンス・日本語対応（実測） | Kurage",
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "OSSを自分で立てて日本語化する代わりに、日本語で作った当社の製品を自社のサーバーに置く方法もあります",
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "このページはatomicそのものの情報（機能、日本語ファイルの実測、ライセンス、同じ分類のOSSとの比較）です",
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "atomicのリポジトリに日本語ロケールのファイルは見つかりませんでした",
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で運用するには日本語化から着手する必要があります",
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "GitHubの公開ファイル一覧から、日本語ロケールに当たるファイルを数えた結果です",
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語ファイルなし（0ファイル）",
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "atomicのライセンスと技術構成を確認した上で、標準機能を活かしながら、日本語表現、画面、項目、権限、通知、外部連携などを業務に合わせて変更します",
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "同じカテゴリから、スター数・ライセンス・日本語対応を並べました",
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "このページは、名古屋のシステム開発会社・株式会社エクスブリッジが運営しています",
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社エクスブリッジ（EXBRIDGE, Inc.）",
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "Preparations to invade Japan",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese realization of the bombing",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Plans for more atomic attacks on Japan",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Surrender of Japan and subsequent occupation",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "1945 attacks in Japan during WWII",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "over the Japanese cities of",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "invasion of the Japanese mainland",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "that devastated 64 Japanese cities, including an",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Imperial Japanese Armed Forces",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本原子力発電 - Wikipedia — 日本原子力発電株式会社 （にほんげんしりょくはつでん、 英語: The Japan Atomic Power Company）は、 茨城県 那珂郡 東海村 と 福井県 敦賀市 に 原子力発電所 を持つ 卸電気事業者。設立は1957年で、東海村にある 東海発電所 は日本最初の商業用原子炉である。略称として 原電 （げんでん）または ...",
+    "url": "https://ja.wikipedia.org/wiki/日本原子力発電",
+    "pass": 3
+   },
+   {
+    "quote": "日本原子力研究開発機構 - Wikipedia — 国立研究開発法人日本原子力研究開発機構 （にほんげんしりょくけんきゅうかいはつきこう、英：Japan Atomic Energy Agency、略称： 原子力機構 、 JAEA）は、 原子力 に関する研究と技術開発を行う 国立研究開発法人 たる 独立行政法人 である。 ヤマハ発動機 RMAX G1に専用の放射線測定システムを ...",
+    "url": "https://ja.wikipedia.org/wiki/日本原子力研究開発機構",
+    "pass": 3
+   },
+   {
+    "quote": "atomicで社内ナレッジ検索｜業務での使い方と導入 — Oct 21, 2026 · atomicを社内ナレッジ検索の業務にどう使うかと、導入の進め方をまとめました。セマンティックなつながりを持つ、セルフホスト型の個人知識ベースです。名古屋のシステム開発会社が日本語化から導入まで行います。",
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "atomicの日本語導入・OSSカスタマイズ | Kurage — セマンティックなつながりを持つ、セルフホスト型の個人知識ベースです。 日本語対応・ライセンス・導入情報に加え、バイブコーディングによる自社向けOSSカスタマイズとサーバー導入を案内します。",
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic bombings of Hiroshima and Nagasaki - Wikipedia — On 6 and 9 August 1945, the United States detonated two atomic bombs over the Japanese cities of Hiroshima and Nagasaki, respectively, during the final days of World War II. The aerial bombings killed 150,000 to 246,000 people, most of whom were civilians, and remain the first and only uses of nuclear weapons in an armed conflict.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   },
+   {
+    "quote": "Surrender of Japan - Wikipedia — The role of the atomic bombings in Japan's unconditional surrender, and the ethics of the two attacks, is debated. The state of war formally ended when the Treaty of San Francisco came into force on 28 April 1952. Four years later, Japan and the Soviet Union signed the Soviet–Japanese Joint Declaration of 1956, formally ending their state of war.",
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Atomic Energy Research Institute — The Japan Atomic Energy Research Institute (JAERI) was a semi-governmental Japanese organization established in 1956 to conduct research and development in nuclear energy, encompassing fission reactor technology, fuel cycle studies, radiation applic…",
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Japan — ATOMICフリースキーチームが一丸となって企画したお客様感謝祭を今年も野沢温泉スキー場で行いました。 今年の2日間は、新たなゲストライダーやコンテンツを加えて存分に山を楽しんでもらえるように色々なプログラムをご用意いたしました。",
+    "url": "https://atomicsnow.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "The Atomic Bombings of Japan - The National WWII Museum — The Atomic Bombings of Japan By August 1945, the Japanese Empire was on the verge of defeat but still refused to surrender. However, a new weapon, unlike any other, would soon help lead to the end of World War II and have ripple effects for decades to come.",
+    "url": "https://www.nationalww2museum.org/war/topics/atomic-bombings-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Gem City Engineering And Manufacturing - Customer Case Study — Gem City Engineering And Manufacturing partnered with Atomic Interactive to solve key challenges. \"Gem City Engineering And Manufacturing - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/atomic-interactive/case-study/gem-city-engineering-and-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Damson Mechanical Ltd - Customer Case Study — Damson Mechanical Ltd partnered with Atomic to solve key challenges. \"Damson Mechanical Ltd - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/atomic/case-study/damson-mechanical-ltd-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Industries — Atomic Industries is the 21st century mass production company — AI-native mold making and injection molding, from design to production faster than anyone on earth. Detroit, USA.",
+    "url": "https://atomic.industries/",
+    "pass": 3
+   },
+   {
+    "quote": "Success stories of customers who love us | Atomicwork — Enterprise service teams of varying sizes and industries like finance, manufacturing, education, high-tech, etc. trust Atomicwork to automate their service management processes.",
+    "url": "https://www.atomicwork.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Switlik — Boost Efficiency & Cut Errors in Custom ...Case Study: Lingerie Manufacturer — Develop Products 20X ...Customers Powered by Atomic Can Send 300,000 Action Cards ... — Case Study: Switlik. Boost Efficiency & Cut Errors in Custom Drysuits with Automation. Six Atomic partnered with Switlik to revolutionise their custom drysuit production process. Utilising AI and 3D configurator",
+    "url": "https://www.sixatomic.com/case-studies/switlik",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic - 2026 Company Profile, Team, Funding & Competitors ...Atomic – Company Insights & Financial Strength – 2026Supply chain startup Atomic raises $12.5M to ex... | PluangAtomic - 2026 Company Profile, Team, Funding & Competitors ...Atomic 2026 Company Profile: Valuation, Funding & Investors ...Atomic (Salt Lake City) 2026 Company Profile: Valuation ...Atomic – Competitor List & Expansion Signa",
+    "url": "https://tracxn.com/d/companies/atomic/__af3gvk0UaUpKUZ0qzqprG9LRMXud4Mx5CRQP0pFxZzM",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic – Company Insights & Financial Strength – 2026 — Discover Atomic's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/atomic",
+    "pass": 3
+   },
+   {
+    "quote": "Supply chain startup Atomic raises $12.5M to ex... | Pluang — Sep 29, 2026 · Atomic, a supply chain startup founded by former Tesla employees, secured $12.5 million in Series A funding to grow its AI-powered platform that optimizes inventory decisions. The software, which evolved from Tesla’s 2018 Model 3 production challenges, now autonomously manages purchasing for large customers such as DoorDa",
+    "url": "https://pluang.com/en/news-feed/startup-atomic-raih-pendanaan-12-5-juta-dolar-otomatisasi-rantai-pasok",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic - 2026 Company Profile, Team, Funding & Competitors ...Atomic 2026 Company Profile: Valuation, Funding & Investors ...Atomic (Salt Lake City) 2026 Company Profile: Valuation ...Atomic – Competitor List & Expansion Signals – 2026 — Oct 16, 2026 · Atomic is a series C company based in San Francisco (United States), founded in 2020 by Nick Budincich. It operates as a Wealth management solution",
+    "url": "https://tracxn.com/d/companies/atomic/__KEcibhYsfgjU3YnVnx5_0Q5nSjsXQMznX3GrZdzcg6Y",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Atomic. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/791776-90",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "This was a widely broadcast speech picked up by Japanese news agencies.",
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "atomicとは？mutexなしで安全に値を更新する方法【C++】 Jun 10, 2026 · マルチスレッドプログラミングでは、複数のスレッドが同じ変数を同時に更新すると「競合（Race Condition）」が発生することがあります。 通常は mutex を使って排他制御を行いますが、単純な変数の更新であれば atomic を使うことで安全に処理できます。",
+    "url": "https://note.com/kazumaru0125/n/n5a54ab04f251",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Heart - A Thorough Explanation of the Enchantment ... Jan 28, 2025 · On January 28, 2025, Atomic Heart DLC #3, Atomic Heart - Enchantment Under the Sea, was released.I will be writing a thorough story explanation, covering the main game → DLC #1 → DLC #2.Before the thorough story explanation, I have even written a summary of the events leading up to the release.",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "12. Blondie：Atomic の歌詞と歌のタイトル｜Fabien Tabard Jun 5, 2025 · 「atomic bomb」とは、唯一の被爆国の国民である我々が聞くとドキッとしますが、ここでは明らかに誉め言葉・肯定的な言葉で、あえて日本語に訳しますと「原子爆弾のように、強力だ」とでもなるのでしょうか。これを聴いて、「Blondieのatomicという言葉も、きっと同様の意味に違いない」と ...",
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Heart - Trapped in Limboのストーリー徹底解説&攻略&感想 Feb 12, 2024 · 2024/02/06に、Atomic HeartのDLC #2、「Atomic Heart - Trapped in Limbo」が発売されました。ようやく全クリしたので、ストーリー徹底解説をあげます 本編とDLC #1は下記でストーリー徹底解説を書きました 後述しますが、プレイ時間は20時間ぐらいになりました。 細かいことを見たいのであれば、スキップを ...",
+    "url": "https://note.com/torotoronotoro/n/n0de059ac5fcc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "atomicとは？mutexなしで安全に値を更新する方法【C++】｜かずまる",
+    "url": "https://note.com/kazumaru0125/n/n5a54ab04f251",
+    "pass": 3
+   },
+   {
+    "quote": "atomicとは？mutexなしで安全に値を更新する方法【C++】",
+    "url": "https://note.com/kazumaru0125/n/n5a54ab04f251",
+    "pass": 3
+   },
+   {
+    "quote": "マルチスレッドプログラミングでは、複数のスレッドが同じ変数を同時に更新すると「競合（Race Condition）」が発生することがあります。",
+    "url": "https://note.com/kazumaru0125/n/n5a54ab04f251",
+    "pass": 3
+   },
+   {
+    "quote": "通常は mutex を使って排他制御を行いますが、単純な変数の更新であれば",
+    "url": "https://note.com/kazumaru0125/n/n5a54ab04f251",
+    "pass": 3
+   },
+   {
+    "quote": "atomic は複数のスレッドから同時にアクセスされても、",
+    "url": "https://note.com/kazumaru0125/n/n5a54ab04f251",
+    "pass": 3
+   },
+   {
+    "quote": "例えば以下のようなコードを考えてみましょう。",
+    "url": "https://note.com/kazumaru0125/n/n5a54ab04f251",
+    "pass": 3
+   },
+   {
+    "quote": "一見問題なさそうですが、複数スレッドから実行すると、",
+    "url": "https://note.com/kazumaru0125/n/n5a54ab04f251",
+    "pass": 3
+   },
+   {
+    "quote": "となり、本来2増えるはずが1しか増えない場合があります。",
+    "url": "https://note.com/kazumaru0125/n/n5a54ab04f251",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Heart - A Thorough Explanation of the Enchantment Under the Sea Story｜トロ沼",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Heart - A Thorough Explanation of the Enchantment Under the Sea Story",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On January 28, 2025, Atomic Heart DLC #3,",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Heart - Enchantment Under the Sea",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I will be writing a thorough story explanation, covering the main game → DLC #1 → DLC #2.",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Before the thorough story explanation, I have even written a summary of the events leading up to the release.",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "DLC #3, is the total playtime roughly 30 hours?",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Looking at other people's streams, it's about 10 hours, and that's about how long it took me to reach the final boss.",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "12. Blondie：Atomic の歌詞と歌のタイトル｜Fabien Tabard",
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "pass": 3
+   },
+   {
+    "quote": "12. Blondie：Atomic の歌詞と歌のタイトル",
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "pass": 3
+   },
+   {
+    "quote": "1979年Deborah Harry & Jimmy Destri作。原題は「Atomic」, 邦題は「銀河のアトミック」です。性的な内容を連想させる歌で、簡単な単語だけの歌詞に特に興味を引く部分はありません。長い間何も考えずにこの歌を聴いてきましたが、邦題の「銀河のアトミック」と「atomic」という単語には、以前から軽い違和感を抱いてきました。",
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "pass": 3
+   },
+   {
+    "quote": "Uh-huh, make me tonight, tonight, make it right",
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "pass": 3
+   },
+   {
+    "quote": "Uh-huh, make me tonight, tonight, tonight",
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "pass": 3
+   },
+   {
+    "quote": "Oh, uh-huh, make it magnificent, tonight, right",
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "pass": 3
+   },
+   {
+    "quote": "Oh, your hair is beautiful, oh, tonight",
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "pass": 3
+   },
+   {
+    "quote": "Tonight, make it magnificent, tonight, make me tonight",
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Heart - Trapped in Limboのストーリー徹底解説&攻略&感想｜トロ沼",
+    "url": "https://note.com/torotoronotoro/n/n0de059ac5fcc",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Heart - Trapped in Limboのストーリー徹底解説&攻略&感想",
+    "url": "https://note.com/torotoronotoro/n/n0de059ac5fcc",
+    "pass": 3
+   },
+   {
+    "quote": "2024/02/06に、Atomic HeartのDLC #2、",
+    "url": "https://note.com/torotoronotoro/n/n0de059ac5fcc",
+    "pass": 3
+   },
+   {
+    "quote": "「Atomic Heart - Trapped in Limbo」",
+    "url": "https://note.com/torotoronotoro/n/n0de059ac5fcc",
+    "pass": 3
+   },
+   {
+    "quote": "が発売されました。ようやく全クリしたので、ストーリー徹底解説をあげます",
+    "url": "https://note.com/torotoronotoro/n/n0de059ac5fcc",
+    "pass": 3
+   },
+   {
+    "quote": "本編とDLC #1は下記でストーリー徹底解説を書きました",
+    "url": "https://note.com/torotoronotoro/n/n0de059ac5fcc",
+    "pass": 3
+   },
+   {
+    "quote": "後述しますが、プレイ時間は20時間ぐらいになりました。",
+    "url": "https://note.com/torotoronotoro/n/n0de059ac5fcc",
+    "pass": 3
+   },
+   {
+    "quote": "細かいことを見たいのであれば、スキップを活用しつつぜひ配信アーカイブを見てください",
+    "url": "https://note.com/torotoronotoro/n/n0de059ac5fcc",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "It was said since DLC #1 that this \"LEBEDEV SERGEI ALEXEYEVICH\" is Professor Lebedev, but the initials of the person who seems to be Professor Lebedev in the emails of this game are different.",
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Atomic (@At0micRL) / X Atomic @At0micRL Rocket League Player for @ ShopifyRebels 🇻🇪 twitch.tv/Atomic Born August 12 Joined November 2018 490 Following",
+    "url": "https://x.com/At0micRL",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic - Crypto Wallet (@AtomicWallet) / X Atomic Wallet Extension 1.7.5 is here > Keep your wallet always open in split view > Get instant security alerts on suspicious sites before you sign any transaction > MATIC support is now updated to POL after migration",
+    "url": "https://x.com/AtomicWallet",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Industries (@atomic_inc) / X Atomic is reinventing mass production by teaching machines tool & die making.",
+    "url": "https://x.com/atomic_inc",
+    "pass": 3
+   },
+   {
+    "quote": "AtomicHub (@AtomicHub) / X Atomic and @XPRNetwork go way back; the atomicassets smart contract has been deployed on XPR for over 4 years! Now the family is reunited. Investing energy building in this vibrant community is a no-brainer. Next stop: #AtomicAssets 2.0 upgrade, blends, packs, games, and more!⚛️",
+    "url": "https://x.com/AtomicHub",
+    "pass": 3
+   },
+   {
+    "quote": "ぺん (@Atomicx_designs) / X 5日間限定の無料券チャレンジ (^^) 今日は冷凍生フルーツスティック無料の1日目です♪ 1）このアカウントをフォロー 2）この投稿をリポスト 3）抽選で毎日1万名様に無料券！ 結果は自動でお知らせ",
+    "url": "https://x.com/Atomicx_designs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Atomic - LinkedIn Atomic | 29,711 followers on LinkedIn. #weareskiing | WELCOME TO SKIING Atomic was born in the Austrian Alps in 1955. Founder Alois Rohrmoser handcarved race skis that would give an edge to the ...",
+    "url": "https://www.linkedin.com/company/atomicskiing",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic - LinkedIn Atomic | 27,703 followers on LinkedIn. Come build with us. | Atomic is the venture studio that pioneered the model of starting companies by pairing founders with the best ideas, teams, and ...",
+    "url": "https://www.linkedin.com/company/atomic-vc",
+    "pass": 3
+   },
+   {
+    "quote": "Andrew Pickering - ATOMICON Founder (one of Europe’s largest ...Paris Mcilwrath - Planning and Trading Director @ Atomic 212º ...Niall Dowling - Atomic | LinkedInGrowth Marketer (Meta Ads) | Paid Social for E-comm ...Lucy Noonan - Atomic Consultancy | LinkedIn ATOMICON Founder (one of Europe’s largest business conferences for entrepreneurs, 2000+ attendees) | Co-founder, ATOMIC - We Run the Best E",
+    "url": "https://uk.linkedin.com/in/andrewpickering1",
+    "pass": 3
+   },
+   {
+    "quote": "Paris Mcilwrath - Planning and Trading Director @ Atomic 212º ...Niall Dowling - Atomic | LinkedInGrowth Marketer (Meta Ads) | Paid Social for E-comm ...Lucy Noonan - Atomic Consultancy | LinkedIn Planning and Trading Director @ Atomic 212º | 2026 NGEN Mentor Program · As a Planning and Trading Director at Atomic 212°, specialising in media strategy, planning, buying and implementation across ATL ",
+    "url": "https://au.linkedin.com/in/parismcilwrath",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ATOMIC SKIING - FacebookAtomic - FacebookAtomic Antiques | Madison WI - FacebookAtomic - FacebookAtomic - FacebookATOMIC - FacebookAtomic Coffee Bar | Davenport IA - Facebook Oct 15, 2026 · ATOMIC SKIING. 244,629 followers · 1,616 talking about this. From the piste to powder, distant backcountry peaks, Atomic exists to drive skiing forward. Apr 9, 2026 · Atomic. 134,753 likes · 18 talking about th",
+    "url": "https://www.facebook.com/ATOMICSKIING/",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic - FacebookAtomic Antiques | Madison WI - FacebookAtomic - FacebookAtomic - FacebookATOMIC - FacebookAtomic Coffee Bar | Davenport IA - Facebook Apr 9, 2026 · Atomic. 134,753 likes · 18 talking about this. Atomic is an American entertainment and media company headquartered in Manhattan Beach CA. Atomic Antiques, Madison. 6,529 followers · 159 talking about this · 496 were here. We are a prem",
+    "url": "https://www.facebook.com/AtomicProduction/",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic Antiques | Madison WI - FacebookAtomic - FacebookAtomic - FacebookATOMIC - FacebookAtomic Coffee Bar | Davenport IA - Facebook Atomic Antiques, Madison. 6,529 followers · 159 talking about this · 496 were here. We are a premier vintage goods store in the Madison area. We sell top quality antique to MCM decor. Atomic. 22,671 followers · 131 talking about this. Atomic Fishing | Australian‑des",
+    "url": "https://www.facebook.com/AtomicofMadison/",
+    "pass": 3
+   },
+   {
+    "quote": "Atomic - FacebookAtomic - FacebookATOMIC - FacebookAtomic Coffee Bar | Davenport IA - Facebook Atomic. 22,671 followers · 131 talking about this. Atomic Fishing | Australian‑designed tackle from lures to rods & line. Proven performance that works together — for explosive results Oct 22, 2026 · The Atomic Top Twenty comprise the most liked, streamed and engaged tracks on the platform. Congratulatio",
+    "url": "https://www.facebook.com/AtomicTackle/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://atomic.industries/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exbridge.jp/ai-system/atomic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kurage.exbridge.jp/oss/atomic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atomicsnow.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/atomic-interactive/case-study/gem-city-engineering-and-manufacturing-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/atomic/case-study/damson-mechanical-ltd-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atomicwork.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/atomic/__af3gvk0UaUpKUZ0qzqprG9LRMXud4Mx5CRQP0pFxZzM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/atomic",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pluang.com/en/news-feed/startup-atomic-raih-pendanaan-12-5-juta-dolar-otomatisasi-rantai-pasok",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/atomic/__KEcibhYsfgjU3YnVnx5_0Q5nSjsXQMznX3GrZdzcg6Y",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kazumaru0125/n/n5a54ab04f251",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/torotoronotoro/n/n0de059ac5fcc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/At0micRL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AtomicWallet",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/atomic_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AtomicHub",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/atomicskiing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/atomic-vc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/andrewpickering1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/parismcilwrath",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ATOMICSKIING/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AtomicProduction/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AtomicofMadison/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AtomicTackle/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Atomicx_designs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Atomic 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本原子力発電",
+    "https://ja.wikipedia.org/wiki/日本原子力研究開発機構",
+    "https://exbridge.jp/ai-system/atomic/",
+    "https://kurage.exbridge.jp/oss/atomic/",
+    "https://www.japc.co.jp/project/overseas.html",
+    "https://www.jaif.or.jp/information/iaea-global-nuclear-power-development-outlook-2026",
+    "https://www.jaea.go.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Atomic 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.asm.com/japan",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Atomic Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+    "https://en.wikipedia.org/wiki/Surrender_of_Japan",
+    "https://grokipedia.com/page/japan_atomic_energy_research_institute",
+    "https://atomicsnow.jp/",
+    "https://www.nationalww2museum.org/war/topics/atomic-bombings-japan",
+    "https://www.history.com/articles/bombing-of-hiroshima-and-nagasaki",
+    "https://www.jaif.or.jp/en/",
+    "https://www.cfr.org/articles/the-bombing-of-hiroshima"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Atomic manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/atomic-interactive/case-study/gem-city-engineering-and-manufacturing-customer-case-study",
+    "https://www.casestudies.com/company/atomic/case-study/damson-mechanical-ltd-customer-case-study",
+    "https://atomic.industries/",
+    "https://www.atomicwork.com/customers",
+    "https://www.sixatomic.com/case-studies/switlik",
+    "https://www.sixatomic.com/case-studies/project-one",
+    "https://d1.awsstatic.com/partner-network/partner_marketing_web_team/Atomic-io-case-study.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Atomic white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.unifyr.com/atlas/reseller",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Atomic founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/atomic/__af3gvk0UaUpKUZ0qzqprG9LRMXud4Mx5CRQP0pFxZzM",
+    "https://compworth.com/company/atomic",
+    "https://pluang.com/en/news-feed/startup-atomic-raih-pendanaan-12-5-juta-dolar-otomatisasi-rantai-pasok",
+    "https://tracxn.com/d/companies/atomic/__KEcibhYsfgjU3YnVnx5_0Q5nSjsXQMznX3GrZdzcg6Y",
+    "https://pitchbook.com/profiles/company/791776-90",
+    "https://pitchbook.com/profiles/company/338654-89",
+    "https://compworth.com/company/atomicvc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Atomic",
+   "results": [
+    "https://note.com/kazumaru0125/n/n5a54ab04f251",
+    "https://note.com/torotoronotoro/n/n4e2f0001b08d?hl=en",
+    "https://note.com/fabien_tabard/n/nfd38a3b84188",
+    "https://note.com/torotoronotoro/n/n0de059ac5fcc",
+    "https://note.com/torotoronotoro/n/n0ccf2ffe08a8",
+    "https://note.com/foxbyte/n/n2a84681f8d2d",
+    "https://note.com/morinokabu/n/n06b99b218c6d?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Atomic",
+   "results": [
+    "https://x.com/At0micRL",
+    "https://x.com/AtomicWallet",
+    "https://x.com/atomic_inc",
+    "https://x.com/AtomicHub",
+    "https://x.com/AtomicSsb",
+    "https://x.com/atomicappdev/status/2119789010318971292",
+    "https://x.com/AtomicGamingUS"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Atomic",
+   "results": [
+    "https://www.linkedin.com/company/atomicskiing",
+    "https://www.linkedin.com/company/atomic-vc",
+    "https://uk.linkedin.com/in/andrewpickering1",
+    "https://au.linkedin.com/in/parismcilwrath",
+    "https://ie.linkedin.com/in/nialldowling",
+    "https://ca.linkedin.com/jobs/view/growth-marketer-meta-ads-paid-social-for-e-comm-personal-brands-remote-us-🚀-at-atomic-remote-jobs-4444017286",
+    "https://uk.linkedin.com/in/lucy-noonan"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Atomic",
+   "results": [
+    "https://www.facebook.com/ATOMICSKIING/",
+    "https://www.facebook.com/AtomicProduction/",
+    "https://www.facebook.com/AtomicofMadison/",
+    "https://www.facebook.com/AtomicTackle/",
+    "https://www.facebook.com/AtomicMusicAus/",
+    "https://www.facebook.com/AtomicDesignInc/",
+    "https://www.facebook.com/atomiccoffeebar/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Atomic note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Atomic X 投稿",
+   "results": [
+    "https://www.instagram.com/atomicx_official/",
+    "https://www.instagram.com/atomicxmedia_/",
+    "https://x.com/Atomicx_designs",
+    "https://atomic.fanbox.cc/posts",
+    "https://x.com/armytom/status/2114286966946902324",
+    "https://miraitoblog.com/x-post-scheduling/",
+    "https://dojin.dmm.co.jp/help/twitter"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

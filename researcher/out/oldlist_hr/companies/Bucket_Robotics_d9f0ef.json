@@ -1,0 +1,649 @@
+{
+ "name": "Bucket Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Quality / Inspection / Metrology｜AI送信済み",
+ "researched_at": "2026-11-11T02:38:18.528544+00:00",
+ "official_url": "https://www.bucket.bot/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Bucket Robotics | Inspection Infrastructure for Production & Sustainment",
+    "url": "https://www.bucket.bot/",
+    "pass": 1
+   },
+   {
+    "quote": "production & sustainment",
+    "url": "https://www.bucket.bot/",
+    "pass": 1
+   },
+   {
+    "quote": "Our flagship vision product. See how Bucket Vision helps teams inspect parts, verify assemblies, and capture evidence they can act on.",
+    "url": "https://www.bucket.bot/",
+    "pass": 1
+   },
+   {
+    "quote": "Piece counts in trays, kits and bins, plus printed and engraved text on curved or reflective surfaces.",
+    "url": "https://www.bucket.bot/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with one inspection workflow, in production or sustainment.",
+    "url": "https://www.bucket.bot/",
+    "pass": 1
+   },
+   {
+    "quote": "A time-boxed pilot on a real part, in a real environment, with acceptance criteria defined upfront. At the end, you have data to make a decision — not a proposal to review.",
+    "url": "https://www.bucket.bot/",
+    "pass": 1
+   },
+   {
+    "quote": "MVPro Media — Synthetic Data Comes of Age: How Bucket Robotics is Changing the Economics of Machine Vision",
+    "url": "https://www.bucket.bot/",
+    "pass": 1
+   },
+   {
+    "quote": "Transferred to second workcell with no retraining",
+    "url": "https://www.bucket.bot/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Manufacturing",
+    "url": "https://www.bucket.bot/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "That experience stuck with me. So much of what makes a factory work lives with the people who know it best. They know the equipment, the material, and the difference between a part that looks a little unusual and one that’s actually a problem.",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "You shouldn’t have to become an AI expert to use this technology. Your knowledge of the process is where we start.",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "Then, prepare for variation",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "Practice before the defect shows up.",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "Happy to talk about synthetic data, cold-start inspection, or what we’re learning in production and sustainment. We’ll get back to you quickly.",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Metal produces cast metal components for industrial and public-sector customers, including legacy parts where historical inspection data is limited or nonexistent. These environments are representative of many real manufacturing and sustainment settings: textured metal surfaces, constrained lighting, and the need to validate quality before full production ramps.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "Bucket conducted an onsite field validation to evaluate whether CAD-trained visual inspection could be trusted immediately on real production parts—without prior defect imagery, workflow changes, or infrastructure upgrades.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "The Problem: Cold-Start Inspection in Cast Metal",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "Most inspection systems require weeks or months of data collection before they can be trusted. Digital Metal wanted to understand whether inspection confidence could be established earlier—before large datasets exist and without disrupting existing processes.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "This field evaluation was designed to answer three questions: Can CAD-trained inspection models run reliably on real cast metal parts under non-ideal conditions? Can meaningful inspection signal be obtained immediately, without prior defect imagery? And can this be done using the customer's existing inspection setup and workflow?",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "Bucket deployed a portable inspection system trained primarily on CAD-derived synthetic data. Part CAD was provided the evening before the onsite visit. An initial inspection model was generated in approximately 35 minutes, without access to real defect imagery.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "The system was deployed using Digital Metal's existing light box and inspection environment. No changes were made to lighting hardware, fixturing, or inspection process.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "Once onsite, Bucket moved directly from setup to live inference. Time from arrival to first inference was approximately 4 minutes. Over the course of approximately 35 minutes, the team collected around 500 images across 4 unique cast parts.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "All inference was run onsite on customer-bound parts, under real production constraints.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "Key outcomes included immediate, stable inference without prior defect imagery; rapid deployment using existing customer hardware; successful inspection under variable lighting conditions; and continuous operation despite loss of building network connectivity.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "CAD-derived priors are sufficient to bootstrap real inspection in cast metal environments. Deployment friction matters more than model tuning during early validation stages.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "Inspection trust can be established early, even before production metrics or yield optimization are possible. Operational resilience—local inference and network independence—is critical in real facilities.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "This validation reflects conditions common in tooling validation and early production ramp, legacy manufacturing and sustainment environments, brownfield facilities with constrained inspection infrastructure, and public-sector and industrial programs where historical defect data is sparse.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "This engagement focused on feasibility, deployment readiness, and early inspection confidence on customer-bound parts. It was not intended to measure long-term production metrics, yield improvement, or scrap reduction.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "The Problem with Starting at Finished Parts",
+    "url": "https://www.bucket.bot/customer-stories/finalrev",
+    "pass": 1
+   },
+   {
+    "quote": "Most automated inspection gets pointed at production parts — after the tooling has already been cut, after the fixture has already been qualified, after the process is supposedly locked. By then, you're catching symptoms.",
+    "url": "https://www.bucket.bot/customer-stories/finalrev",
+    "pass": 1
+   },
+   {
+    "quote": "CAD ingestion was direct: we pulled the model, identified functional surfaces programmatically, and generated inspection regions from geometry. No manual image labeling. No \"train on 500 defect examples first.\"",
+    "url": "https://www.bucket.bot/customer-stories/finalrev",
+    "pass": 1
+   },
+   {
+    "quote": "That's the real gap, honestly. Not sensor physics. Human-to-human communication about how to configure the rig. It's a mundane problem, but it's the one that actually blocks deployments.",
+    "url": "https://www.bucket.bot/customer-stories/finalrev",
+    "pass": 1
+   },
+   {
+    "quote": "In a later pilot at finalREV, the same approach — adaptive inspection anchored to CAD — reduced false positives on reflective composite surfaces by approximately 85%. Stable across lighting shifts and finish variation.",
+    "url": "https://www.bucket.bot/customer-stories/finalrev",
+    "pass": 1
+   },
+   {
+    "quote": "We're not publishing full production metrics yet; processes are still stabilizing. But the early signal is clear: inspection that tracks the part definition holds up. Inspection built on brittle image heuristics doesn't.",
+    "url": "https://www.bucket.bot/customer-stories/finalrev",
+    "pass": 1
+   },
+   {
+    "quote": "Tooling inspection is where most vision systems quietly fail. It's low-volume, high-revision, and unglamorous — so vendors skip it and hope nobody notices until production.",
+    "url": "https://www.bucket.bot/customer-stories/finalrev",
+    "pass": 1
+   },
+   {
+    "quote": "This engagement focused on tooling inspection during facility ramp. Deeper technical breakdowns coming as the process matures.",
+    "url": "https://www.bucket.bot/customer-stories/finalrev",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "A system operators, engineers, and quality teams can trust every day.",
+    "url": "https://www.bucket.bot/",
+    "pass": 1
+   },
+   {
+    "quote": "Bucket Robotics is developed through hands-on work with manufacturing, robotics, and defense sustainment teams.",
+    "url": "https://www.bucket.bot/",
+    "pass": 1
+   },
+   {
+    "quote": "Tier 1 automotive supplier",
+    "url": "https://www.bucket.bot/",
+    "pass": 1
+   },
+   {
+    "quote": "Global industrial components manufacturer",
+    "url": "https://www.bucket.bot/",
+    "pass": 1
+   },
+   {
+    "quote": "Next-generation drone components manufacturer",
+    "url": "https://www.bucket.bot/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotics / Industrial Components",
+    "url": "https://www.bucket.bot/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://www.bucket.bot/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Manufacturing",
+    "url": "https://www.bucket.bot/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "My first lessons came from the factory floor.",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "I started my engineering career in quality inspection at Michelin. It was the kind of place where very sophisticated automation worked alongside machines from the 1940s. It’s a familiar story for a lot of manufacturing.",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "That experience stuck with me. So much of what makes a factory work lives with the people who know it best. They know the equipment, the material, and the difference between a part that looks a little unusual and one that’s actually a problem.",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "I kept thinking about the folks back at the plant.",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "I kept wondering why we weren’t using those same tools back in factories.",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "A factory can automate an enormous amount and still depend on someone looking at each part to decide whether it’s good. That’s difficult work. No two scratches look quite alike. A change in finish can be harmless or meaningful. And the defect you most need to catch might be one you’ve hardly ever seen.",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing gave this new chapter its starting point: real parts, demanding conditions, and people who needed answers they could trust. The questions carry on long after a part leaves the factory. How has it changed? What needs attention? Can it keep doing its job?",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "That’s what we’re building at Bucket: understanding that follows the part, wherever the work takes it. Manufacturing is where we began. There’s a whole lifetime beyond it.",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Metal produces cast metal components for industrial and public-sector customers, including legacy parts where historical inspection data is limited or nonexistent. These environments are representative of many real manufacturing and sustainment settings: textured metal surfaces, constrained lighting, and the need to validate quality before full production ramps.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "This validation reflects conditions common in tooling validation and early production ramp, legacy manufacturing and sustainment environments, brownfield facilities with constrained inspection infrastructure, and public-sector and industrial programs where historical defect data is sparse.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   },
+   {
+    "quote": "Soft jaws are revised constantly, designed in CAD, and almost never formally inspected. The typical workflow is eyeball-and-feel, maybe a few caliper checks on critical datums. That's not because machinists are careless — it's because traditional inspection systems can't keep pace with how often tooling changes.",
+    "url": "https://www.bucket.bot/customer-stories/finalrev",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Manufacturing gave this new chapter its starting point: real parts, demanding conditions, and people who needed answers they could trust. The questions carry on long after a part leaves the factory. How has it changed? What needs attention? Can it keep doing its job?",
+    "url": "https://www.bucket.bot/about",
+    "pass": 1
+   },
+   {
+    "quote": "Once onsite, Bucket moved directly from setup to live inference. Time from arrival to first inference was approximately 4 minutes. Over the course of approximately 35 minutes, the team collected around 500 images across 4 unique cast parts.",
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.bucket.bot/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bucket.bot/customer-stories",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bucket.bot/about",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bucket.bot/customer-stories/digital-metal",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bucket.bot/customer-stories/finalrev",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Bucket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.com/bucket/s?k=bucket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.com/buckets/s?k=buckets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Bucket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.com/bucket/s?k=bucket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.com/buckets/s?k=buckets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Bucket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.com/bucket/s?k=bucket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.com/buckets/s?k=buckets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Bucket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.com/bucket/s?k=bucket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.com/buckets/s?k=buckets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Bucket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.com/bucket/s?k=bucket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.com/buckets/s?k=buckets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Bucket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.com/bucket/s?k=bucket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.com/buckets/s?k=buckets",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Bucket Robotics 日本 導入",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bucket",
+    "https://www.amazon.com/bucket/s?k=bucket",
+    "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "https://www.amazon.com/buckets/s?k=buckets",
+    "https://www.merriam-webster.com/dictionary/bucket",
+    "https://www.lowes.com/pl/paint-supplies/buckets-bucket-accessories/buckets/4294625955",
+    "https://www.tractorsupply.com/tsc/catalog/buckets-pails-tubs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bucket Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bucket",
+    "https://www.amazon.com/bucket/s?k=bucket",
+    "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "https://www.amazon.com/buckets/s?k=buckets",
+    "https://www.merriam-webster.com/dictionary/bucket",
+    "https://www.lowes.com/pl/paint-supplies/buckets-bucket-accessories/buckets/4294625955",
+    "https://www.tractorsupply.com/tsc/catalog/buckets-pails-tubs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bucket Robotics Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bucket",
+    "https://www.amazon.com/bucket/s?k=bucket",
+    "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "https://www.amazon.com/buckets/s?k=buckets",
+    "https://www.merriam-webster.com/dictionary/bucket",
+    "https://www.lowes.com/pl/paint-supplies/buckets-bucket-accessories/buckets/4294625955",
+    "https://www.tractorsupply.com/tsc/catalog/buckets-pails-tubs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bucket Robotics manufacturing customer case study",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bucket",
+    "https://www.amazon.com/bucket/s?k=bucket",
+    "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "https://www.amazon.com/buckets/s?k=buckets",
+    "https://www.merriam-webster.com/dictionary/bucket",
+    "https://www.lowes.com/pl/paint-supplies/buckets-bucket-accessories/buckets/4294625955",
+    "https://www.tractorsupply.com/tsc/catalog/buckets-pails-tubs"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bucket Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bucket",
+    "https://www.amazon.com/bucket/s?k=bucket",
+    "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "https://www.amazon.com/buckets/s?k=buckets",
+    "https://www.merriam-webster.com/dictionary/bucket",
+    "https://www.lowes.com/pl/paint-supplies/buckets-bucket-accessories/buckets/4294625955",
+    "https://www.tractorsupply.com/tsc/catalog/buckets-pails-tubs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bucket Robotics founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bucket",
+    "https://www.amazon.com/bucket/s?k=bucket",
+    "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "https://www.amazon.com/buckets/s?k=buckets",
+    "https://www.merriam-webster.com/dictionary/bucket",
+    "https://www.lowes.com/pl/paint-supplies/buckets-bucket-accessories/buckets/4294625955",
+    "https://www.tractorsupply.com/tsc/catalog/buckets-pails-tubs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Bucket Robotics",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bucket",
+    "https://www.amazon.com/bucket/s?k=bucket",
+    "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "https://www.amazon.com/buckets/s?k=buckets",
+    "https://www.merriam-webster.com/dictionary/bucket",
+    "https://www.lowes.com/pl/paint-supplies/buckets-bucket-accessories/buckets/4294625955",
+    "https://www.tractorsupply.com/tsc/catalog/buckets-pails-tubs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Bucket Robotics",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Bucket Robotics",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bucket",
+    "https://www.amazon.com/bucket/s?k=bucket",
+    "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "https://www.amazon.com/buckets/s?k=buckets",
+    "https://www.merriam-webster.com/dictionary/bucket",
+    "https://www.lowes.com/pl/paint-supplies/buckets-bucket-accessories/buckets/4294625955",
+    "https://www.tractorsupply.com/tsc/catalog/buckets-pails-tubs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Bucket Robotics",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bucket",
+    "https://www.amazon.com/bucket/s?k=bucket",
+    "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "https://www.amazon.com/buckets/s?k=buckets",
+    "https://www.merriam-webster.com/dictionary/bucket",
+    "https://www.lowes.com/pl/paint-supplies/buckets-bucket-accessories/buckets/4294625955",
+    "https://www.tractorsupply.com/tsc/catalog/buckets-pails-tubs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bucket Robotics note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bucket",
+    "https://www.amazon.com/bucket/s?k=bucket",
+    "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "https://www.amazon.com/buckets/s?k=buckets",
+    "https://www.merriam-webster.com/dictionary/bucket",
+    "https://www.lowes.com/pl/paint-supplies/buckets-bucket-accessories/buckets/4294625955",
+    "https://www.tractorsupply.com/tsc/catalog/buckets-pails-tubs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Bucket Robotics X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/Bucket",
+    "https://www.amazon.com/bucket/s?k=bucket",
+    "https://www.homedepot.com/b/The-Home-Depot/Bucket/N-5yc1vZ724Z1z0n3ir",
+    "https://www.amazon.com/buckets/s?k=buckets",
+    "https://www.merriam-webster.com/dictionary/bucket",
+    "https://www.lowes.com/pl/paint-supplies/buckets-bucket-accessories/buckets/4294625955",
+    "https://www.tractorsupply.com/tsc/catalog/buckets-pails-tubs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

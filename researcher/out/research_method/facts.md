@@ -797,6 +797,7 @@
   - 「」と呼ばれる拡張機能に対応しており、業務プロセスごとのルールや手順をスキルとして定義すれば、AIにドメイン固有のタスクを任せられるようになります」（https://note.com/masakikono/n/n0f7faa03a113）
   - 「提案書から報告書まで13ステップを順に進め、各ステップ完了後に人間のレビューを挟みます」（https://note.com/masakikono/n/n0f7faa03a113）
 - 突き合わせ・推定：
+  - 「健康リスクAI予測から効果シミュレーション、人的資本経営指標策定への試み — AIで健康投資の効果検証を支える経営へ —」（https://www.dir.co.jp/business/case/index.html）
   - 「キックオフのゴールは、現状仮説として考えている結論の初期共有とプロジェクトの進め方の合意」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
   - 「マネジャー「まだ仮説ベースですが、」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
   - 「市場は今後2週間で調査・深堀をしていきますが、概ね現状の仮説とズレない想定です」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
@@ -811,8 +812,8 @@
   - 「デスクリサーチとインタビューで検証していく」（https://note.com/masakikono/n/n0f7faa03a113）
   - 「生成AIの台頭により、データ分析や仮説構築の一部がAIに代替されつつあり、純粋な戦略ファームにとっての差別化がより問われる時代になっている」（https://note.com/domonjo01/n/nb4e1275569ed）
   - 「生成AIによって「データ分析・仮説構築」の部分がAIに代替されつつある中で、純粋な戦略ファームの差別化が問われている」（https://note.com/domonjo01/n/nb4e1275569ed）
-  - 「「5年後にどんなスキルを持っていたいか」から逆算して領域を選ぶと、ミスマッチが減る」（https://note.com/domonjo01/n/nb4e1275569ed）
 - 一次情報の探し方：
+  - 「ニュースリリース、会社情報、採用、パブリシティ（書籍・刊行物）など」（https://www.dir.co.jp/business/case/index.html）
   - 「情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
   - 「特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
   - 「資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります」（https://note.kotora.jp/n/nc550a05c2c32?gs=3ec88e0a01f91a5df5b1f67b5a88a41f）
@@ -827,8 +828,8 @@
   - 「決算発表のタイミングに合わせてレポートが更新され、投資判断や目標株価の見直しが行われます」（https://investmentbridge.co.jp/business/ir-consulting/column/analyst-report/）
   - 「情報の収集には、既存の資料や統計データを活用する【デスクリサーチ】と、実地訪問やインタビューを通じて一次情報を取得する【フィールドリサーチ】の2種類があります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
   - 「特定のサイト内を検索する「site:」や、ファイル形式を指定する「filetype:pdf」などのテクニックは、必要な情報へ最短距離でアクセスするために極めて有効です」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
-  - 「資料作成においては、結論を最初に提示し、それを裏付ける根拠を配置する「ピラミッド構造」の採用が基本となります」（https://note.kotora.jp/n/nc550a05c2c32?gs=1d365b6097dc345200562619c5414e2d）
 - 失敗・落とし穴：
+  - 「市場調査コンサルティング企業に依頼した際によく起きる失敗として、「調査してみたが、結局わかりきった事実しか得られなかった」というケースがあります」（https://www.macromill.com/service/column/entry-112/）
   - 「人間が調べると、知っている領域や過去の経験に引っ張られがちですが、AIにはそのバイアスがないぶん、情報収集がフラットです」（https://note.com/masakikono/n/n0f7faa03a113）
   - 「【心理学×社会心理学的バイアス】人はなぜ不合理な行動をとるのか？」（https://biz-con.plus/skillup-researchprocess/）
   - 「心理学において、偏見や思い込み、誤解などを指す言葉として『 バイアス 』が様々なシーンで使われます」（https://biz-con.plus/skillup-researchprocess/）
@@ -843,7 +844,6 @@
   - 「また、性別やライフスタイルの異なる消費者を同一グループに混ぜないように注意しよう」（https://note.com/lpkojitaku/n/n34c9eadcab84）
   - 「今後、企業支援をする際にもＷｅｂ広告だけでなく経営全体を改善できるコンサルタントでない限り、仕事がＡｉに持っていかれるのは間違いないと思います」（https://note.com/lpkojitaku/n/n34c9eadcab84）
   - 「入社後すぐにアナリストとして任されることが多い「デスクリサーチ」を例に方法と注意すべきポイントを解説」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
-  - 「次世代のマテハン「物流ロボット」を解説！導入のメリットと注意点」（https://note.rallygrowth.co.jp/recommend/consultant-research/）
 - 実例：
   - 「具体的にイメージを持っていただけるよう、ケーススタディのような形でご説明します」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
   - 「先ほど台湾かタイがいいとおっしゃっていたけど、例えば、台湾なんてうちは全く手を出したことがないんだよなあ」（https://note.com/taticodesportivo/n/nf0af68bfab8c）
@@ -5060,21 +5060,21 @@
 ## 競合・非上場の売上の調べ方を手順で書いた実務記事（公開情報の組み合わせ・推定の式・失敗例）（how to research competitor revenue private company step by step sources）
 - 文脈：推定
 - 手順・やり方：
-  - 「官報で決算公告を出す手続き5ステップ｜2026年最新の流れと費用」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「官報での決算公告手続きを5ステップで徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告の官報閲覧ガイド｜無料で他社の公告を調べる5つの方法【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告を官報で閲覧する5つの方法を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「インターネット版官報・官報検索サービス・官報決算データベースの使い方と2025年電子化の影響を比較表付きで紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「一般社団法人の決算公告の閲覧方法とは？官報・電子公告・掲示を徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告のやり方｜3つの方法の選び方と手続きの流れ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告のやり方は官報・電子公告・日刊新聞の3通り」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「定款の確認方法から申し込み・掲載後の確認・費用目安まで、会社法440条に基づく手順を実務担当者向けに一連の流れで整理しました」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告で売上高を確認する方法｜大会社と中小企業の違いを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「一般社団法人が電子公告で決算公告を行う方法｜手順・費用・株式会社との違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「一般社団法人の決算公告を電子公告で行う方法を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「一般法人法128条の義務、定款変更・URL登記の手順、電磁的開示との違い、株式会社との違いまで実務担当者向けに網羅します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告の記載事項とは？必須項目と公告方法別の違いを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算公告に必ず記載すべき事項を、会社の区分・公告方法（官報/新聞/電子公告）別に整理」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
+  - 「官報で非上場会社の決算公告を調べる方法｜電子官報・DBの活用法まで解説 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「官報で非上場会社の決算公告を調べる方法｜電子官報・DBの活用法まで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「本記事では「官報 決算公告 非上場」というニーズに応えるため、電子官報・有料データベース・民間サービスを使い分けて非上場会社の決算公告を調べる方法を、実務担当者向けに体系的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「定款に公告方法の定めがない場合は官報が自動適用」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「官報で非上場会社の決算公告を調べる3つの方法」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「方法1：電子官報（kanpou.go.jp）— 最もシンプルな無料検索」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「方法2：官報情報検索サービス（国立印刷局）— 過去の官報を調べたい場合」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「方法3：民間データベース・官報AIサービス」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「会社法939条4項は「公告方法についての定款の定めがないときは、公告方法は官報に掲載する方法とする」と定めています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「つまり、定款に電子公告や日刊新聞公告の方法を定めていない会社は、自動的に「官報」が公告方法になります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「設立時に定款をひな形通り作った中小企業の多くは公告方法を「官報」と定めているか、もしくは定めていない状態で放置していることが多く、その結果、決算公告は官報に掲載することになります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「非上場会社の決算公告を官報で調べるには、主に以下の3つの方法があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「ここまで「他社の決算公告を調べる」視点で解説してきましたが、ここでは逆に「自社の決算公告を官報に掲載する側」の手順を整理します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「自社の決算公告をどの方法で行うかを検討している方のために、官報と電子公告の主な違いを整理します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「官報で決算公告を探す方法｜無料サービスから有料データベースまで徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
 - 突き合わせ・推定：
   - 「A defensible estimate whose assumptions you can show and defend」（https://www.flares.tech/sources/competitor-revenue）
   - 「Data provider estimates」（https://www.flares.tech/sources/competitor-revenue）
@@ -5092,22 +5092,24 @@
   - 「Write Filed, Stated or Estimated next to every number, every time. This single habit does more for the credibility of a competitive report than any amount of extra research.」（https://www.flares.tech/sources/competitor-revenue）
   - 「Do not publish an estimate in a way that implies it is audited. Stating a modelled figure as fact about a named company is a reputational and, in some jurisdictions, a legal risk.」（https://www.flares.tech/sources/competitor-revenue）
 - 一次情報の探し方：
-  - 「Notice how the reliability column collapses toward the bottom. That is not a flaw in the research, it is the actual shape of the problem: outside a filing obligation, nobody knows a private company’s revenue except the company.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Re-check on their filing calendar」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Filing obligations, thresholds and the level of detail vary by country and by company size, and small companies can often file abridged accounts that omit the profit and loss statement. But the accounts themselves are public, searchable, and free or nearly free in most jurisdictions.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Filed accounts, free. Employee numbers are a mandatory disclosure even in abridged small-company filings.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Published annual financial statements for companies above the filing thresholds.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「A brand often trades through several legal entities, each filing separately. Search the register for the operating entity name from the footer of their website or their terms of service, and check whether a group parent files consolidated accounts. Using one national subsidiary’s revenue as the whole company is one of the most common errors in this work.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「publish varies enormously by jurisdiction, and so does how old a perfectly compliant filing is allowed to be.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Filed accounts often cover a fiscal year ending mid-calendar, and a European filing is in euros or pounds. Converting at today’s rate rather than the period average quietly moves the number.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Company registers and regulatory filings exist precisely so that anyone can read them. Reading them, downloading them and republishing figures from them with attribution is entirely legitimate. The constraints are narrow and worth stating plainly.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Revenue data arrives on a schedule, which makes it one of the easier things to keep fresh: set the review for when the next accounts or quarterly report is actually due rather than an arbitrary date. Between filings, the things that move your estimate are」（https://www.flares.tech/sources/competitor-revenue）
-  - 「So the job to automate here is not the number but the events between filings. That is what a」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Flares watches funding news, filings and public claims, then tells you which ones change the picture.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「For a listed company, yes, exactly: audited revenue appears in its quarterly and annual filings. For a private company it depends entirely on where it is incorporated. In most of Europe private companies must file annual accounts that become public, so the answer is often yes there too. In the US, a private company has no general obligation to publish revenue, so anything you find is an estimate.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「SEC EDGAR for US-listed companies, the national business register for private European companies (Companies House in the UK, the Bundesanzeiger in Germany, and the equivalents reachable through the EU's business-registers portal), and the company's own investor page. All are free. The paid databases mostly resell and model on top of these same filings.」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Many do, and this is the single most under-used fact in competitor research. Filing thresholds and the level of detail vary by country and company size, and small companies can often file abridged accounts, but a filed set of accounts in a national register is a genuine audited figure rather than a model. Always check the register before you resort to estimating.」（https://www.flares.tech/sources/competitor-revenue）
+  - 「官報で非上場会社の決算公告を調べる方法｜電子官報・DBの活用法まで解説 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「官報で非上場会社の決算公告を調べる方法｜電子官報・DBの活用法まで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「取引先の財務状況を調べたい、競合他社の規模感を把握したい——そう思ったとき、上場会社であれば有価証券報告書や決算短信をIR情報サイトですぐに確認できます」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「しかし非上場会社の場合、開示情報は限られており、公式に入手できる財務データとして頼りになるのが「官報に掲載された決算公告」です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「非上場の株式会社であっても、会社法440条に基づく決算公告の義務は上場・非上場を問わず課せられています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「その結果、多くの非上場会社が官報（国が発行する公文書）に貸借対照表またはその要旨を掲載しています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「ただし、官報は検索に慣れていないと目的の決算公告にたどり着くのが難しいのも事実です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「本記事では「官報 決算公告 非上場」というニーズに応えるため、電子官報・有料データベース・民間サービスを使い分けて非上場会社の決算公告を調べる方法を、実務担当者向けに体系的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「非上場会社にも決算公告義務がある——会社法440条の基本」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「定款に公告方法の定めがない場合は官報が自動適用」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「官報で非上場会社の決算公告を調べる3つの方法」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「方法1：電子官報（kanpou.go.jp）— 最もシンプルな無料検索」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「方法2：官報情報検索サービス（国立印刷局）— 過去の官報を調べたい場合」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「方法3：民間データベース・官報AIサービス」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「官報の決算公告に何が書いてあるのか——記載内容と「見方」」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
 - 失敗・落とし穴：
+  - 「注意点として、電子官報は無料ですが、2004年7月1日より前に掲載されたものは閲覧できません」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「官報決算公告のタイミングを完全解説｜定時総会後の申込スケジュールと注意点」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
   - 「Common Mistakes to Avoid」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
   - 「Common Mistakes to Avoid」（https://targetcompanyresearch.com/how-to-find-a-companys-revenue-complete-2026-guide/）
   - 「30%以上なら比較的安定、10%未満は要注意」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
@@ -5121,24 +5123,22 @@
   - 「In this guide, we’ll cover 12 sources, show how to match them to a decision, and explain how to stay ethical, measure results, and avoid common mistakes.」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
   - 「What common mistakes make competitive intelligence sources useless?」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
   - 「Personal bias and scattered records」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
-  - 「Better answers come from curiosity, clear questions, and a customer-first frame. The biggest mistake is getting defensive because the topic is a competitor. People sense that tension and share less.」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
-  - 「Most failures come from process, not from missing information. These mistakes show up most often:」（https://www.questionpro.com/blog/competitive-intelligence-sources/）
 - 実例：
+  - 「その結果、多くの非上場会社が官報（国が発行する公文書）に貸借対照表またはその要旨を掲載しています」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「設立時に定款をひな形通り作った中小企業の多くは公告方法を「官報」と定めているか、もしくは定めていない状態で放置していることが多く、その結果、決算公告は官報に掲載することになります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「4. 検索結果から対象の掲載号を選択し、PDF形式で本文を確認」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「そのため「いくら売り上げているのか」「利益が出ているのか」という最も知りたい情報が官報からは得られないケースが多い点は理解しておく必要があります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「違反に対する過料は法務局が職権で科すものですが、実態として積極的に摘発されているケースは少なく、義務を知らないまま未公告の状態が続いているケースがあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「大会社以外の中小企業では、貸借対照表の要旨を2枠で掲載するケースが最も多く、税込で75,000〜85,000円程度が一般的な費用感です」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「ただし、債務超過=即倒産ではなく、メインバンクの支援がある場合や事業再生中の場合などは継続しているケースもあります」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「食べチョクの決算公告はどこで見れる？運営会社ビビッドガーデンの実例で解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
+  - 「内容・調べ方・合同会社USJとの違いを実例で解説し、自分で調べる手順も紹介します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-hijojo-kensaku/）
   - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「決算公告での当期純損失・貸倒引当金の表記例、由来となった大正時代の慣習、（）表記との違いまで実例つきで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
   - 「Since private company data is inherently uncertain, presenting a range (for example, $8–10 million) is more honest and useful than a single false-precision figure.」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
   - 「Practical Example: Putting It All Together」（https://targetcompanyresearch.com/how-to-estimate-a-private-company's-revenue-(2026)/）
   - 「Estimate customer count from logo walls, review volume and case studies, then multiply by a price you have already verified. Show your working, because the assumptions are what a reader will want to argue with.」（https://www.flares.tech/sources/competitor-revenue）
   - 「This is the method worth learning properly, because it is the only estimate whose assumptions you can defend line by line. Estimate the customer count from named logos, review volume, case studies and any figure they publish, then multiply by an average contract value you derived from」（https://www.flares.tech/sources/competitor-revenue）
-  - 「Inven finds companies that are similar to your example company and provides their funding data, growth rate, headcount, ownership and geographical data. It has financial data with over 43M+ legal entities, with information on revenue, EBIT and balance sheet data. These data points will help you in defining the revenues of private companies both in the US and globally.」（https://www.inven.ai/articles/how-to-find-revenue-estimates-for-private-companies）
-  - 「A commonly used shortcut is to estimate revenue based on the number of employees and average industry revenue-per-employee ratios. For example, if a software company has 100 employees and the industry average revenue per employee is $200,000, a rough estimate would put annual revenue around $20 million.」（https://targetcompanyresearch.com/how-to-find-a-companys-revenue-complete-2026-guide/）
-  - 「Learn the PESTLE analysis framework with real industry examples. Evaluate Political, Economic, Social, Technological, Legal & Environmental factors.」（https://vantainsights.com/insights/competitive-analysis-framework）
-  - 「まず会社法の仕組みから確認し、次に「会社の規模×公告方法」別の早見表で売上高がわかるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「中小企業の取引先を調べる場面では、相手が大会社に該当しないケースが大半であり、決算公告に売上高が載っていないのはむしろ標準的な状態といえます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「筆者が実際に取引先候補の決算公告を官報検索で調べた際も、売上高がわからないことに最初は戸惑いましたが、純資産と当期純利益の2つを数期分並べて見るだけで「純資産が毎期着実に増えている＝利益を出し続けている会社」だと判断でき、結果的に与信判断には十分でした」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「決算書を開示していない企業でも、取材に基づく売上高（推定値を含む）が収録されているケースが多く、与信調査の定番手段です」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-uriagedaka-nai/）
-  - 「例えば会社が買収の影響を説明しているなら、売上増加をそのまま既存事業の顧客獲得力と捉えないようにします」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
-  - 「実在企業の調査結果やDSSの実績ではありません」（https://www.delight-solutions.co.jp/column/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%88%86%E6%9E%90%E6%89%8B%E6%B3%95/competitor-sales-research/）
 
 ## 大学図書館・統計局の e-Stat の使い方の手引き（統計コード・ファイルとデータベース・注記・API）（e-Stat user guide university library statistics code database API）
 - 文脈：統計
@@ -6029,8 +6029,8 @@
   - 「AI SPREADSHEET AND SCRAPING TOOLS | PDF CHAT」（https://journaliststoolbox.ai/ai-driven-data-tools/）
 - 実例：
   - 「Examples of AI use with charts.」（https://journaliststoolbox.ai/ai-driven-data-tools/）
-- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
 
 ## 名寄せの精度の測り方（正解の組・精度・再現率・F1・混入と落としの重み）（entity resolution evaluation precision recall F1 ground truth pairs）
 - 文脈：同一性
@@ -10765,11 +10765,11 @@
 
 ## 相手国の言語と政府ドメイン・ファイル形式で一次文書を探す逆方向の検索と、専門の書き手を推薦リストでたどる方法（調査報道・OSINT・GIJN）-求人 -就活（find hidden documents foreign language government domain filetype reverse search find experts newsletter recommendations OSINT）
 - 文脈：一次情報の探し方
-- 手順・やり方：記載なし（読んだ15頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ15頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ15頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
-- 実例：記載なし（読んだ15頁・検索12回）
+- 手順・やり方：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 実例：記載なし（読んだ17頁・検索12回）
 
 ## 要約・翻訳の段で1件の事例が「複数」「相次ぐ」に広がる誇張と日付の混同を原文照合で見つける手順（別のモデル・人での照合）-求人 -就活（detect overgeneralization single case to multiple in summaries date confusion verify against original text）
 - 文脈：検証
@@ -11610,6 +11610,7 @@
   - 「どちらの場合も、記録がないことだけを理由に結論を出さず、3つを突き合わせます」（https://www.eternalstudent.jp/category/IT）
   - 「データベースは、データを書き換える前に「これから何をするか」をログに書き、障害の後はログと実際のデータを突き合わせて、途中で止まった処理を完了させるか取り消します（Mohan et al., 1992）」（https://www.eternalstudent.jp/category/IT）
 - 一次情報の探し方：
+  - 「EDINETで取引先の有価証券報告書を探す」（https://vaynexis.jp/ai）
   - 「Acrobatで横向きにスキャンされたPDFを回転して保存す」（https://vaynexis.jp/ai）
   - 「採用した版（タグまたはコミット）と導入日を記録した」（https://www.eternalstudent.jp/category/IT）
   - 「この周辺作業をまとめて委任できれば、社長は顧客との対話、採用、事業の方向づけ、最終判断といった、本人にしかできない仕事へ時間を戻せます」（https://note.com/comix_ceo162230/n/nefa267965ecf）
@@ -11624,7 +11625,6 @@
   - 「請求書PDFの支払予定一覧は、取引先、請求日、支払期限、金額、税区分、振込先、承認状況を抽出し、重複請求と読み取り不明を検出します」（https://note.com/comix_ceo162230/n/nefa267965ecf）
   - 「社長は、単価改定、外注先の再編、採用のどれに投資するかを決める」（https://note.com/comix_ceo162230/n/nefa267965ecf）
   - 「第9章 人事・採用・組織づくり──「人を見る仕事」を雑にしないために使う」（https://note.com/comix_ceo162230/n/nefa267965ecf）
-  - 「人事では、採用の合否、評価、配置、処遇をAIに決めさせません」（https://note.com/comix_ceo162230/n/nefa267965ecf）
 - 失敗・落とし穴：
   - 「この書き込みに失敗したら、遷移しない」（https://www.eternalstudent.jp/category/IT）
   - 「失敗したら作業を始めずに止まり、記録できなかったことを報告する」（https://www.eternalstudent.jp/category/IT）
@@ -16499,11 +16499,11 @@
 
 ## 会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125）（verify company exists ghost firm shell company investigative journalism registry address checks）
 - 文脈：会社の確かめ
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125）（statistics method change continuity reporting reference values Japan wage statistics）
 - 文脈：統計の読み方

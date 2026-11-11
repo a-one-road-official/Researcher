@@ -1,0 +1,794 @@
+{
+ "name": "camfer",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜AI送信済み",
+ "researched_at": "2026-11-11T02:09:29.392194+00:00",
+ "official_url": "https://www.camfer.dev/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "first principles. Passion and ability to build are the main metrics we're tracking, so advanced degrees are not explicity required.",
+    "url": "https://camfer.dev/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Product and Machine Design Software",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Camfer 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "Camfer’s primary industry is Multimedia and Design Software.",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "Is Camfer a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "Camfer is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "・The video covers a Y Combinator hackathon using o1.",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Summary by Gemini 1.5 Pro",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The video segment is from 10:23 onwards. It seems it was introduced in this video because it likely placed highly in the Y Combinator hackathon using o1.",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As for what it actually is, in the video it is described as",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "it essentially opens up solid works for you and and then just starts like clicking around in the UI pretending to be a person nice",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I also tried entering the same text into o1-preview, but it didn't start the calculations.",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(10:58) They actually built it—initially, they were going to build this as a plugin for SolidWorks, but they went for the even harder technical approach, which was, 'No, this is just an executable that runs on the desktop,' and it essentially opens up SolidWorks for you and then just starts clicking around in the UI, pretending to be a person.",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gemini 1.5 Proによる要約",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "pass": 3
+   },
+   {
+    "quote": "it essentially opens up solid works for you and and then just starts like clicking around in the UI pretending to be a person nice",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "pass": 3
+   },
+   {
+    "quote": "自分もo1-previewに同じ文章を入れてみましたが、計算をはじめてはくれませんでした",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "If you're interested in a position that isn't listed here, please reach out to us at",
+    "url": "https://camfer.dev/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "camfer Revenue 2024: $1M Est.",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "camfer has not published its revenue. GetLatka estimates it at about $1M a year (June 2024).",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "camfer CEO, founders & employees",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Arya Bastani founded camfer in 2024 and runs it as CEO. camfer had 3–5 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "What is camfer's revenue?",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates camfer's revenue at about",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does camfer have?",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Camfer has 7 total employees.",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "What is Camfer’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Camfer is",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "・Introduces a case study of airfoil design using OpenAI o1.",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello, I'm Martin. I heard about a story where an airfoil was designed in the famous CAD software SolidWorks using OpenAI o1, so I looked into it. I think this is an interesting case study in design that I haven't heard much about.",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "camfer Revenue 2024: $1M Est. - GetLatka — camfer Revenue 2024: $1M Est. - GetLatka GetLatka https://getlatka.com > camfer",
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Camfer 2026 Company Profile: Valuation, Funding & Investors — Camfer 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "pass": 3
+   },
+   {
+    "quote": "Camfer - Crunchbase Company Profile & Funding — Camfer - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > camfer",
+    "url": "https://www.crunchbase.com/organization/camfer",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "“ camfer ”: Automating Wing Design with OpenAI o1 - note “ camfer ”: Automating Wing Design with OpenAI o1 - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI o1を用いて翼の設計を自動で行う「camfer」：AIとCADの融合 Nov 29, 2024 · ・SolidWorksのコパイロットのように機能する。 ・ユーザーが条件を入力するチャットボックス（camfer）がある。 ・単なるプラグインではなく、UI上で自動クリック操作を行う。 ・数学の計算においてo1が偏微分方程式を解く機能を持つ。",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "“camfer”: Automating Wing Design with OpenAI o1: The Fusion of AI and CAD｜Martin",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“camfer”: Automating Wing Design with OpenAI o1: The Fusion of AI and CAD",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Summary of this article",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Introduces a case study of airfoil design using OpenAI o1.",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・The video covers a Y Combinator hackathon using o1.",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Functions like a co-pilot for SolidWorks.",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Features a chat box (camfer) where users input conditions.",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・It is not just a plugin; it performs automatic click operations on the UI.",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI o1を用いて翼の設計を自動で行う「camfer」：AIとCADの融合｜Martin",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI o1を用いて翼の設計を自動で行う「camfer」：AIとCADの融合",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "pass": 3
+   },
+   {
+    "quote": "・OpenAI o1を用いた翼型デザインの事例を紹介。",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "pass": 3
+   },
+   {
+    "quote": "・動画はY Combinatorのo1を使用したハッカソンの内容。",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "pass": 3
+   },
+   {
+    "quote": "・SolidWorksのコパイロットのように機能する。",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "pass": 3
+   },
+   {
+    "quote": "・ユーザーが条件を入力するチャットボックス（camfer）がある。",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "pass": 3
+   },
+   {
+    "quote": "・単なるプラグインではなく、UI上で自動クリック操作を行う。",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "pass": 3
+   },
+   {
+    "quote": "・数学の計算においてo1が偏微分方程式を解く機能を持つ。",
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "camfer (@camfer_inc) / X camfer (@camfer_inc) / X X https://x.com > camfer_inc",
+    "url": "https://x.com/camfer_inc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "camfer - LinkedIn camfer - LinkedIn LinkedIn https://www.linkedin.com > camferinc",
+    "url": "https://www.linkedin.com/company/camferinc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Camfer Fernando (@Rockstarens) - Facebook Camfer Fernando (@Rockstarens) - Facebook Facebook https://www.facebook.com > Rockstarens",
+    "url": "https://www.facebook.com/Rockstarens/",
+    "pass": 3
+   },
+   {
+    "quote": "Zury CamFer (@zury. camfer ) - Facebook Zury CamFer (@zury. camfer ) - Facebook Facebook https://www.facebook.com > ... > Zury CamFer",
+    "url": "https://www.facebook.com/zury.camfer/albums/111622144079207/",
+    "pass": 3
+   },
+   {
+    "quote": "Camoché Beathea Camfer (@camoche. camfer .7) - Facebook Camoché Beathea Camfer (@camoche. camfer .7) - Facebook Facebook https://www.facebook.com > ... > Website > Personal blog",
+    "url": "https://www.facebook.com/camoche.camfer.7/",
+    "pass": 3
+   },
+   {
+    "quote": "Camoché Beathea Camfer is at Bossa Worcester. - Facebook Camoché Beathea Camfer is at Bossa Worcester. - Facebook Facebook https://www.facebook.com > camoche.camfer.7 > posts",
+    "url": "https://www.facebook.com/camoche.camfer.7/posts/2969815863367112/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://camfer.dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://camfer.dev/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.alekvs.com/ja/chamfering-101-a-complete-guide-to-definition-types-and-uses/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://blog.caddare.com/autocad/command/chamfer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp-help.graebert.com/%E9%9D%A2%E5%8F%96%E3%82%8A%EF%BC%BBchamfer%EF%BC%BD%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chiggofactory.com/ja/differences-and-uses-of-chamfers-and-fillets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=uojJCIK7Iys",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%B3%E3%82%BA%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://camera-wiki.org/wiki/Schmidt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://camerajapan.nl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/camerajapanfestival/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Camera_Japan_Festival",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/camerajapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.emerald.com/eemcs/article/doi/10.1108/EEMCS-12-2023-0454/1219938/Mangalam-Organics-Limited-making-camphor-grow",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/751437490/CamphorTablet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketresearchfuture.com/reports/camphor-market/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.slideshare.net/slideshow/start-camphor-manufacturing-business-192307914/192307914",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.campaigner.com/partner-program/resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelpartner.com/white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/camfer.dev",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/700070-95",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/camfer",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/camber/__QUd5gTIeKDn4sulyH-mHw2Rrgwt8hqUueTQhOmElrvA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/camfer_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/camferinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Rockstarens/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zury.camfer/albums/111622144079207/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/camoche.camfer.7/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/camoche.camfer.7/posts/2969815863367112/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "camfer 日本 導入",
+   "results": [
+    "https://www.alekvs.com/ja/chamfering-101-a-complete-guide-to-definition-types-and-uses/",
+    "https://blog.caddare.com/autocad/command/chamfer",
+    "https://jp-help.graebert.com/%E9%9D%A2%E5%8F%96%E3%82%8A%EF%BC%BBchamfer%EF%BC%BD%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/",
+    "https://chiggofactory.com/ja/differences-and-uses-of-chamfers-and-fillets/",
+    "https://www.rapiddirect.com/ja/blog/fillet-vs-chamfer/",
+    "https://help.solidworks.com/2026/japanese/solidworks/fworks/c_Chamfers.htm",
+    "https://www.youtube.com/watch?v=tXnf_VKS3K8",
+    "https://docs.vectric.com/docs/V12.5/Aspire/JPN/Help/form/ChamferStrategy/",
+    "https://www.firstcvc.jp/global/camfer.dev",
+    "https://camfer.dev/blog/the-story-so-far/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "camfer 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.youtube.com/watch?v=uojJCIK7Iys",
+    "https://ja.wikipedia.org/wiki/レンズメーカー",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://camera-wiki.org/wiki/Schmidt",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://job.mynavi.jp/28/pc/search/corp77451/outline.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "camfer Japan",
+   "results": [
+    "https://camerajapan.nl/",
+    "https://www.instagram.com/camerajapanfestival/",
+    "https://en.wikipedia.org/wiki/Camera_Japan_Festival",
+    "https://www.facebook.com/camerajapan/",
+    "https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/camera-japan-festival",
+    "https://ja.wikipedia.org/wiki/CAFE_JAPAN",
+    "https://en.wikipedia.org/wiki/Camphora_officinarum",
+    "https://camfer.dev/",
+    "https://www.camfer.co/",
+    "https://camfer.dev/blog/the-story-so-far/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "camfer manufacturing customer case study",
+   "results": [
+    "https://www.emerald.com/eemcs/article/doi/10.1108/EEMCS-12-2023-0454/1219938/Mangalam-Organics-Limited-making-camphor-grow",
+    "https://www.scribd.com/document/751437490/CamphorTablet",
+    "https://www.marketresearchfuture.com/reports/camphor-market/companies",
+    "https://www.slideshare.net/slideshow/start-camphor-manufacturing-business-192307914/192307914",
+    "https://nstfdc.tribal.gov.in/(S(2mf41ptm0hluze5ethvo14x3))/UploadData/pdf/camphor(1).pdf",
+    "https://www.linkedin.com/pulse/camphor-tablets-markets-comprehensive-analysis-5m5je",
+    "https://myb2bidea.com/idea/how-to-start-camphor-business",
+    "https://brandchanakya.in/digital-marketing-for-camphor-kapoor-manufacturing/",
+    "https://www.openpr.com/news/4292388/synthetic-camphor-powder-manufacturing-plant-setup-2025",
+    "https://www.camfer.com/projects"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "camfer white label OR reseller OR partner program",
+   "results": [
+    "https://www.campaigner.com/partner-program/resellers/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://whitelabelpartner.com/white-label-reseller-programs/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.kamatera.com/products/reseller-hosting/",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://heldsway.com/blog/best-white-label-affiliate-marketing-software",
+    "https://partnerkin.com/en/c/125",
+    "https://botsailor.com/blog/how-to-become-a-white-label-reseller-start-your-business-with-botsailors-white-label-reseller-program",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "camfer founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/camfer.dev",
+    "https://pitchbook.com/profiles/company/700070-95",
+    "https://www.crunchbase.com/organization/camfer",
+    "https://tracxn.com/d/companies/camber/__QUd5gTIeKDn4sulyH-mHw2Rrgwt8hqUueTQhOmElrvA",
+    "https://founderpath.com/blog/the-top-10-firms-that-buy-saas-companies",
+    "https://www.ycombinator.com/companies/camfer",
+    "https://www.camber.health/company",
+    "https://growjo.com/company/Camber",
+    "https://www.linkedin.com/company/camberhealth",
+    "https://prospeo.io/c/camfer-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com camfer",
+   "results": [
+    "https://note.com/martins_day/n/n4adbf8f8e57c?hl=en",
+    "https://note.com/martins_day/n/n1bd3511cca3b?hl=ko",
+    "https://note.com/martins_day/n/n4adbf8f8e57c",
+    "https://note.com/uzura_note_lab/n/n3c3e0210f8af",
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/watarutida/n/n75017e960add",
+    "https://note.com/nice_pony7618/n/ne7ca5e10ec57",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com camfer",
+   "results": [
+    "https://x.com/camfer_inc",
+    "https://x.com/4rKrot",
+    "https://x.com/rialjorge/status/1008672596840407040"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "site:linkedin.com camfer",
+   "results": [
+    "https://www.linkedin.com/company/camferinc",
+    "https://www.linkedin.com/in/arya-bastani",
+    "https://www.linkedin.com/in/rothvann",
+    "https://www.linkedin.com/posts/carolinemccloskey_how-to-build-the-future-sam-altman-activity-7260683379153547266-tCFw",
+    "https://www.linkedin.com/company/drymerge",
+    "https://www.linkedin.com/posts/manuelrdao_every-physical-product-in-the-world-starts-activity-7520895780304510979-L0-o",
+    "https://www.linkedin.com/in/clarkpeng",
+    "https://www.linkedin.com/company/outerport",
+    "https://www.linkedin.com/company/daylightxyz",
+    "https://www.linkedin.com/company/preferred-chamfer-inc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com camfer",
+   "results": [
+    "https://www.facebook.com/Rockstarens/",
+    "https://www.facebook.com/zury.camfer/albums/111622144079207/",
+    "https://www.facebook.com/camoche.camfer.7/",
+    "https://www.facebook.com/camoche.camfer.7/posts/2969815863367112/",
+    "https://www.facebook.com/queen.bardii/posts/10ebf9b7/1479316557466933/",
+    "https://www.facebook.com/p/Phoenix-Camfer-100064106164763/",
+    "https://www.facebook.com/camoche.camfer.7/posts/4232df6e/2964494483899250/",
+    "https://www.facebook.com/wilen.camposagrado/videos/cavincrewdemotime/1000742343093717/",
+    "https://www.facebook.com/camfer.camfer/",
+    "https://www.facebook.com/public/Camfer/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "camfer note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.com/chotokucamera",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/chotokucamera/n/n40723f20a732",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "camfer X 投稿",
+   "results": [
+    "https://developer.android.com/media/camera/camerax/video-capture?hl=ja",
+    "https://play.google.com/store/apps/details?id=com.twentythreebytes.calculatorscientific&hl=ja",
+    "https://developer.android.com/blog/posts/introducing-camera-x-powerful-video-recording-and-pro-level-image-capture?hl=ja",
+    "https://www.reddit.com/r/androiddev/comments/11asboh/camerax_vs_camera2_library_development/?tl=ja",
+    "https://help.x.com/ja/using-x/posting-gifs-and-pictures",
+    "https://developer.android.com/blog/posts/introducing-camera-x-1-5-powerful-video-recording-and-pro-level-image-capture?hl=ja",
+    "https://play.google.com/store/apps/details?id=dev.zwander.cameraxinfo&hl=ja",
+    "https://x.com/camfer_inc",
+    "https://x.com/camfer007",
+    "https://x.com/CamFer_12"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

@@ -1,0 +1,1074 @@
+{
+ "name": "Seurat",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-11T02:03:43.782076+00:00",
+ "official_url": "https://www.seurat.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Start with your manufacturing process.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Domestic Metal Parts Manufacturing with Area Printing®",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seurat is an American-born and built contract manufacturer that produces metal parts at production volume using Area Printing®, a laser-based metal additive manufacturing process that prints an entire area of each layer in a single pulse and requires no part-specific tooling. Area Printing is a seismic shift that finally makes reshoring high-volume metal manufacturing possible. Seurat serves",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As a contract manufacturer, Seurat prints your metal parts for you, providing serial production of high-volume, industrial-scale parts from its facility in Wilmington, Massachusetts. That frees you to focus on your business without compromises between high fidelity and high throughput, between design and costs, and between production and planet.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best of all, Seurat's Area Printing is about more than the plans you have now—it’s about innovations you haven’t even dreamed up yet. See what happens when you Scale Your Possible.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Area Printing's strongest advantages sit where conventional manufacturing is weakest: tooling, post-processing, supply chain flexibility, and sustainability.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seurat's distributed contract manufacturing model is built for American supply chain resilience. By printing metal parts domestically at volume, customers eliminate single-source offshore dependencies and gain on-demand surge capacity without adding CapEx. That's why leading OEMs, defense-aligned investors, and top-tier venture firms are backing Seurat to reshape how the world makes metal parts.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are proud to have investment partners from both",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "• Capricorn Investment Group",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated computing is unlocking new capabilities within the manufacturing industry, while creating a path toward sustainability. Seurat’s green approach to manufacturing will help transform industry standards.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cubit Capital invests in courageous leaders building businesses that confront meaningful problems. James and the team at Seurat have endeavored to change metal manufacturing as we know it and introduce the next era of scalable 3D metal printing. We are thrilled to join the world-class team in this mission.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seurat’s 3D metal printing process can enable the auto industry to produce parts for series production with flexibility, quality, and speed. Seurat’s local factory deployment model provides the industry with a solution to near-shore manufacturing and to increase the resiliency of supply chains. We're excited to be a part of that.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Area Printing® Technology is a game changer in Additive Manufacturing. Conservatively speaking the technology offers the potential for Siemens Energy to increase the throughput of Additive Manufacturing parts by a factor of 10 over the next years.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about how we partner with you to produce the parts you need.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring leaders that are excited to transform manufacturing and make a lasting impact on the world.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The personal data you have voluntarily supplied is collected, stored and processed in adherence with Seurat Technologies’ Privacy Policy which has been recognized by the European Data Protection Authority as providing adequate protection to personal data.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "project = \"sample\" については、サンプル識別のようなものと考えて大丈夫です",
+    "url": "https://qiita.com/Refine/items/e92c4a62fb23e9ed87f0",
+    "pass": 3
+   },
+   {
+    "quote": "object <- CreateSeuratObject(counts = object.data, assay = \"RNA\", project = \"example\")",
+    "url": "https://qiita.com/Refine/items/e92c4a62fb23e9ed87f0",
+    "pass": 3
+   },
+   {
+    "quote": "# 線形次元削減(Principal Component Analysis: PCA)",
+    "url": "https://qiita.com/Refine/items/e92c4a62fb23e9ed87f0",
+    "pass": 3
+   },
+   {
+    "quote": "# 非線形次元削減(Uniform Manifold Approximation and Projection: UMAP)",
+    "url": "https://qiita.com/Refine/items/e92c4a62fb23e9ed87f0",
+    "pass": 3
+   },
+   {
+    "quote": "https://cran.r-project.org/",
+    "url": "https://labo-code.com/bioinformatics/seurat-1/",
+    "pass": 3
+   },
+   {
+    "quote": "pbmc <- CreateSeuratObject(counts = pbmc.data, project = \"pbmc3k\", min.cells = 3, min.features = 200)",
+    "url": "https://labo-code.com/bioinformatics/seurat-1/",
+    "pass": 3
+   },
+   {
+    "quote": "ASUS PRIME X870-P CSM WIFI",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "ASUS PRIME X870-P WIFI-CSM",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Dell Precision M4800",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Gell Beads in Emulsion",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Gene Expression Omnibus",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Generative Pretrained Transformer",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "GoPro7",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "libproj19",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Macbook Pro 13 inch early 2011",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Macbook Pro 15 inch Mid 2015",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "neuroprotective effect",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "overrepresentation analysis",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Boost Override",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "pri=32767",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "BPCells・presto・glmGamPoi",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "BPCells・presto・glmGamPoi・Signac・seurat-data・seurat-wrappers・azimuthのうち、知っている限りでは、SingacとAzimuth以外はSeuratで使用されるので、ここでインストールしなくても、結局どこかの時点でインストールすることになる",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Macbook Pro 15 inch (Mid 2015)に入ったDebian 9でSTARのGenome Indexを作成する",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat's artistic personality combined qualities that are usually thought of as opposed and incompatible: on the one hand, his extreme and delicate sensibility, on the other, a passion for logical abstraction and an almost mathematical precision of mind.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": ", was a former legal official who had become wealthy from speculating in property, and his mother, Ernestine Faivre, was from Paris.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": ", and followed a conventional academic training, drawing from casts of antique sculpture and copying drawings by old masters.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "After a year of infantry training with the 19th Line Regiment, stationed at",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "Although influenced in its use of color and light tone by Impressionism, the painting with its smooth, simplified textures and carefully outlined, rather sculptural figures, shows the continuing impact of his neoclassical training; the critic",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat also departed from the Impressionist ideal by preparing for the work with a number of drawings and oil sketches before starting on the canvas in his studio.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "painting, much of which he spent in the park sketching in preparation for the work. There are about 60 studies for the large painting, including a smaller version,",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "When Madeleine became pregnant, the couple moved to a studio at 39 passage de l'Élysée-des-Beaux-Arts (now rue André Antoine). There she gave birth to their son, who was named Pierre-Georges, on 16 February 1890.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "At the time of Seurat's death, Madeleine was pregnant with a second child who died during or shortly after birth.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "Chevreul was perhaps the most important influence on artists at the time; his great contribution was producing a colour wheel of primary and intermediary hues. Chevreul was a French",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": ". During his restorations he noticed that the only way to restore a section properly was to take into account the influence of the colours around the missing",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "; he could not produce the right hue unless he recognized the surrounding",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": ". Chevreul discovered that two colours juxtaposed, slightly overlapping or very close together, would have the effect of another colour when seen from a distance. The discovery of this phenomenon became the basis for the pointillist technique of the Neo-Impressionist painters.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "properties and symbolic meaning of lines and colour. There remains controversy over the extent to which Henry's ideas were adopted by Seurat.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat took to heart the colour theorists' notion of a scientific approach to painting. He believed that a painter could use colour to create harmony and emotion in art in the same way that a musician uses",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "and variation to create harmony in music. He theorized that the scientific application of colour was like any other natural law, and he was driven to prove this conjecture. He thought that the knowledge of perception and optical laws could be used to create a new language of art based on its own set of",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "'s work had been greatly influential during the highly expressionistic phase of",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat in his few years of activity, was able, with his observations on irradiation and the effects of contrast, to create afresh without any guiding tradition, to complete an esthetic system with a new technical method perfectly adapted to its expression.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "\"With the advent of monochromatic Cubism in 1910–1911,\" writes art historian Robert Herbert, \"questions of form displaced color in the artists' attention, and for these Seurat was more relevant. Thanks to several exhibitions, his paintings and drawings were easily seen in Paris, and reproductions of his major compositions circulated widely among the Cubists.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "The concept was well established among the French artists that painting could be expressed mathematically, in terms of both color and form; and this mathematical expression resulted in an independent and compelling \"objective truth\", perhaps more so than the objective truth of the object represented.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Seurat | High-Volume Metal Parts Manufacturing in the US",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with your manufacturing process.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Domestic Metal Parts Manufacturing with Area Printing®",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seurat is an American-born and built contract manufacturer that produces metal parts at production volume using Area Printing®, a laser-based metal additive manufacturing process that prints an entire area of each layer in a single pulse and requires no part-specific tooling. Area Printing is a seismic shift that finally makes reshoring high-volume metal manufacturing possible. Seurat serves",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", and manufacturers that need",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As a contract manufacturer, Seurat prints your metal parts for you, providing serial production of high-volume, industrial-scale parts from its facility in Wilmington, Massachusetts. That frees you to focus on your business without compromises between high fidelity and high throughput, between design and costs, and between production and planet.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale Your Possible with future-ready metal contract manufacturing.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Area Printing's strongest advantages sit where conventional manufacturing is weakest: tooling, post-processing, supply chain flexibility, and sustainability.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seurat's distributed contract manufacturing model is built for American supply chain resilience. By printing metal parts domestically at volume, customers eliminate single-source offshore dependencies and gain on-demand surge capacity without adding CapEx. That's why leading OEMs, defense-aligned investors, and top-tier venture firms are backing Seurat to reshape how the world makes metal parts.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerated computing is unlocking new capabilities within the manufacturing industry, while creating a path toward sustainability. Seurat’s green approach to manufacturing will help transform industry standards.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cubit Capital invests in courageous leaders building businesses that confront meaningful problems. James and the team at Seurat have endeavored to change metal manufacturing as we know it and introduce the next era of scalable 3D metal printing. We are thrilled to join the world-class team in this mission.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seurat’s 3D metal printing process can enable the auto industry to produce parts for series production with flexibility, quality, and speed. Seurat’s local factory deployment model provides the industry with a solution to near-shore manufacturing and to increase the resiliency of supply chains. We're excited to be a part of that.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Area Printing® Technology is a game changer in Additive Manufacturing. Conservatively speaking the technology offers the potential for Siemens Energy to increase the throughput of Additive Manufacturing parts by a factor of 10 over the next years.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring leaders that are excited to transform manufacturing and make a lasting impact on the world.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", made in 1883–84 before he turned 25, shows men and boys resting beside the Seine northwest of central Paris. Factory chimneys and a railway bridge line the distance. Clothing, boots and posture suggest that several figures belong to the working or lower-middle classes. Across the water, a top-hatted man and parasol-carrying woman pass in a boat.",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat Technologies is an advanced contract manufacturer specializing in metal components, leveraging its proprietary Area Printing® technology. This innovative process enables serial production of high-volume, industrial-scale parts, delivering both high fidelity and significant throughput. It facilitates the efficient reshoring of demanding industrial manufacturing applications.",
+    "url": "https://startupintros.com/orgs/seurat",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2015 by James DeMuth, Seurat’s genesis originates from his co-invention of its core technology at Livermore Labs. DeMuth's insight centered on scaling 3D metal printing beyond prototyping, making it viable for mass production and widespread industrial adoption.",
+    "url": "https://startupintros.com/orgs/seurat",
+    "pass": 3
+   },
+   {
+    "quote": "The company serves industrial clients, notably in automotive and energy sectors, seeking high-volume metal parts. Seurat's vision is to transform global manufacturing by providing a profitable, rapid, and resilient supply chain through localized Area Printing® factories, thereby empowering industrial innovation by overcoming existing additive manufacturing limitations.",
+    "url": "https://startupintros.com/orgs/seurat",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Seurat's distributed contract manufacturing model is built for American supply chain resilience. By printing metal parts domestically at volume, customers eliminate single-source offshore dependencies and gain on-demand surge capacity without adding CapEx. That's why leading OEMs, defense-aligned investors, and top-tier venture firms are backing Seurat to reshape how the world makes metal parts.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "world-class OEMs and venture firms.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Seurat’s 3D metal printing process can enable the auto industry to produce parts for series production with flexibility, quality, and speed. Seurat’s local factory deployment model provides the industry with a solution to near-shore manufacturing and to increase the resiliency of supply chains. We're excited to be a part of that.",
+    "url": "https://www.seurat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HDF5Array",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": ". The full work is also part of the permanent collection of the Art Institute of Chicago.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": ", NY: Harry N. Abrams, 1986",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "Georges Seurat died in 1891 at only 31, but his wager still feels contemporary: a complex truth can be built from discrete observations, and the viewer is not a passive receiver but part of the instrument. That makes his Divisionist language unusually suited to a university edition about cells, mutations, microbes, signals, algorithms, ecosystems and the people who connect them.",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fénéon names Neo-Impressionism; ridicule and recognition arrive together.",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": ", made in 1883–84 before he turned 25, shows men and boys resting beside the Seine northwest of central Paris. Factory chimneys and a railway bridge line the distance. Clothing, boots and posture suggest that several figures belong to the working or lower-middle classes. Across the water, a top-hatted man and parasol-carrying woman pass in a boat.",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "Grid cells, energy carriers, tilt angles and modeled conditions",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "This is an editorial advantage, not a claim of diagnostic accuracy. The illustrations must not be mistaken for microscopy, pathology or the researchers’ actual experimental output. Captions and alt text should identify them as newsroom illustrations. The article must carry the evidentiary burden; the image carries orientation, mood and a memorable conceptual map.",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat’s restraint helps. His most powerful figures are often still, frontal or in profile. Emotion comes through arrangement and color rather than anatomical distortion. For medical stories, that composure prevents spectacle. Brightness can communicate discovery without turning illness into entertainment.",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "No such studio existed. The anachronism is the argument. Seurat’s 19th-century desire to connect creation and scientific analysis has been carried into a 21st-century research landscape. The observatory dome and laboratory glassware turn color theory outward—from the physiology of seeing toward the scales at which universities now investigate life, computation, climate and the universe.",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Japanese Medical Care",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "２０２２年から改めて日本で研究活動を再開することになりました",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat’s Science of Color Meets Japan’s Universities | Japan.co.jp",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN.co.jp · TODAY’S ART CHOICE",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "An intentionally imagined meeting of studio and laboratory: separated points become cells, molecules, animals, constellations and a spectrum before resolving into one field of knowledge. Illustration: Japan.co.jp AI Newsroom, Georges Seurat–inspired scientific pointillism.",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "TOKYO — Bradley L. Bartz with AI / Japan.co.jp / July 26, 2026",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese audiences encounter Seurat inside a much older circuit of exchange. Ukiyo-e had helped European artists rethink cropping, flat color and composition in the 19th century. European modernism then entered Japan through exhibitions, reproductions, study abroad and the development of",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "“Pointillism” and “Divisionism” are related but not interchangeable. This report uses “scientific pointillism” for Japan.co.jp’s contemporary illustrative system and distinguishes it from Seurat’s physical materials, historical works and evolving technique.",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pola Museum of Art, Pointillism and Fauvism in Japan",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Paintings & Sculptures",
+    "url": "https://www.polamuseum.or.jp/en/collection/artist/Georges+Seurat/",
+    "pass": 3
+   },
+   {
+    "quote": "1285 Kozukayama, Sengokuhara, Hakone, Kanagawa, 250-0631 Japan",
+    "url": "https://www.polamuseum.or.jp/en/collection/artist/Georges+Seurat/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Seurat 5.3.0版, Seurat Object の中身解説と参照方法 ~ RStudio のコ... — Nov 11, 2025 · Seurat、楽しんでますか？ 今回は、Seurat を始めたての人に向けて、最新: version 5.3.0 時点における Seurat Object の構造と中身の参照方法を、基本的な流れを解説しつつ紹介します。 ※ この記事は、Seurat のチュートリアルを一通り読んでいることを想定してい ...",
+    "url": "https://qiita.com/Refine/items/e92c4a62fb23e9ed87f0",
+    "pass": 3
+   },
+   {
+    "quote": "シングルセルシーケンス解析ツールSeuratの基本的な使い方 - Qiita — Sep 15, 2022 · 1. Seuratのインストール まず、RにSeuratをインストールしないといけません。 Seuratの他にHdf5ファイルを読み込むためのhdf5rもインストールしましょう。 インストールのコマンドは以下です。 1.1 Biocondaでインストール（おすすめ）",
+    "url": "https://qiita.com/amufaamo/items/c185e7ff88c90b443946",
+    "pass": 3
+   },
+   {
+    "quote": "【scRNA-seq】Seuratを用いてscRNA-seq解析を始める方法（前編）【Seu... — Nov 13, 2022 · 今回はscRNA-seqのRパッケージであるSeuratのハンズオンに取り組むことで、scRNA-seqを始める前準備を行おうと思います。 本記事はSeuratのハンズオンに則って行いますので、Seuratの使い方の概要を理解することが可能です。 ぜひ取り組んでみましょう。",
+    "url": "https://labo-code.com/bioinformatics/seurat-1/",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat v.5をインストールする│基礎医学生物学研究者のブログ — Apr 6, 2024 · 2022年から改めて日本で研究活動を再開することになりました。 このブログでは日頃の研究活動から学んだことや考えたことを記録していこうと思います。 多くが愚痴になってしまうかもしれません。",
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5をインストールする/",
+    "pass": 3
+   },
+   {
+    "quote": "シングルセルRNA-seq解析の始め方：Dockerを使ったSeuratの環境構築！... — Dec 20, 2023 · ということでdockerを使った環境構築について紹介したいと思います。 以下 「dockerって何？ 」と「実際の導入例」についてご紹介します。 ＊この記事は，macまたはLinuxマシンを前提に書いております。",
+    "url": "https://note.com/koheikumegawa/n/n50200a747eef",
+    "pass": 3
+   },
+   {
+    "quote": "Georges Seurat - Wikipedia — He devised the painting techniques known as chromoluminarism and pointillism and used conté crayon for drawings on paper with a rough surface.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat’s Science of Color Meets Japan’s Universities | Japan ... — Jul 26, 2026 · Japan’s museums continue to place Neo-Impressionism inside the history of modern color. The Pola Museum of Art in Hakone has exhibited Seurat, Signac and the passage from Pointillism toward Fauvism under the idea of color that sparks, glitters and shines.",
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "pass": 3
+   },
+   {
+    "quote": "Georges Seurat | COLLECTION | Pola Museum of Art — 1285 Kozukayama, Sengokuhara, Hakone, Kanagawa, 250-0631 Japan Google Map TEL 0460-84-2111 Open Daily from 9:00AM to 5:00PM (*Last admission 4:30PM) CONTACT",
+    "url": "https://www.polamuseum.or.jp/en/collection/artist/Georges+Seurat/",
+    "pass": 3
+   },
+   {
+    "quote": "Getting Started with Seurat - Satija Lab — Seurat v6 We highlight the new features and improvements introduced in Seurat v6.",
+    "url": "https://satijalab.org/seurat/articles/get_started",
+    "pass": 3
+   },
+   {
+    "quote": "Georges SEURAT - Hiroshima Museum of Art — Georges SEURAT 1859-1891 A French painter known as one of Neo-Impressionists. He pursued scientifically the technique of the Impressionists using the pointillism. He had a big role that diffused the pointillism, but he died too early at 31 years old.",
+    "url": "https://www.hiroshima-museum.jp/en/collection/eu/seurat.html",
+    "pass": 3
+   },
+   {
+    "quote": "White Papers on Metal Manufacturing | Seurat — Seurat's white papers and case studies cover metal additive manufacturing, Area Printing, and what it takes to rebuild U.S. manufacturing capacity. Each one has its own page with a summary and key findings, plus the full PDF to download.",
+    "url": "https://www.seurat.com/white-papers",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat | High-Volume Metal Parts Manufacturing in the US — Seurat's distributed contract manufacturing model is built for American supply chain resilience. By printing metal parts domestically at volume, customers eliminate single-source offshore dependencies and gain on-demand surge capacity without adding CapEx.",
+    "url": "https://www.seurat.com/",
+    "pass": 3
+   },
+   {
+    "quote": "(Seurat) Navigating Case Study q1 2024 | PDF - Scribd — make small manufacturing volumes less economically [Seurat] Navigating Case Study q1 2024 - Free download as PDF File (.pdf), Text File (.txt) or read online for free.",
+    "url": "https://www.scribd.com/document/766302381/Seurat-Navigating-Case-Study-q1-2024",
+    "pass": 3
+   },
+   {
+    "quote": "(Seurat) Case Study - UAT - Q2 2022 | PDF - Scribd — In 2022, Seurat will bring its Gen 1 Area Printing system to market, enabling printing speeds of 3 kg per hour and delivering finished components for less than $300/kg.",
+    "url": "https://www.scribd.com/document/665030782/Seurat-Case-Study-UAT-Q2-2022",
+    "pass": 3
+   },
+   {
+    "quote": "Next Generation Additive Manufacturing | HPC4EnergyInnovation ... — The page details how high-performance computing expertise from Lawrence Livermore National Laboratory helped Seurat Technologies accelerate the commercialization of its advanced laser powder bed fusion metal printing technology.",
+    "url": "https://hpc4energyinnovation.llnl.gov/success-stories/next-generation-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat Technologies – Estimated Net Worth, Growth & Competitor… — Seurat Technologies Revenue & Valuation With growing operations, Seurat Technologies reportedly earns $15M per year. Seurat Technologies anticipates $89.8K in revenue per employee. The total funding raised by Seurat Technologies is $191M.",
+    "url": "https://compworth.com/company/seurat-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Seurat has raised $174.5M across 4 funding rounds. Most recently, it raised $99.0M Seurat Technologies - Series C in October 2023. Seurat Technologies is an advanced contract manufacturer specializing in metal components, leveraging its proprietary Area Printing® technology.",
+    "url": "https://startupintros.com/orgs/seurat",
+    "pass": 3
+   },
+   {
+    "quote": "Investor Overview | Seurat Technologies — Seurat Technologies is building a new metal manufacturing asset class in America, backed by NVIDIA, Porsche, GM Ventures, Siemens Energy, and Honda.",
+    "url": "https://www.seurat.com/for-investors",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat Raises $99M Series C Led by NVIDIA and Capricorn — Oct 30, 2023 · In all, Seurat has LOIs from six customers totaling 4,000 tons of material and over $750 million in projected revenue over the next several years. This business growth showcases the demand for change in the status quo of manufacturing. Seurat has over 275 patents and trademarks, granted and pending.",
+    "url": "https://www.seurat.com/single-post/seurat-technologies-raises-99m-to-deploy-local-printing-factories-decarbonize-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat Technologies 2026 Company Profile: Valuation, Funding ...Seurat Technologies: Funding, Investors & Team (Oct 2026)Seurat Technologies — Funding, Investors & Team | Seedtable — Information on valuation, funding, cap tables, investors, and executives for Seurat Technologies. Use the PitchBook Platform to explore the full profile. Seurat Technologies is a Hardware company in Wilmington, United",
+    "url": "https://pitchbook.com/profiles/company/154284-94",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Seurat Technologies (@SeuratTech) / Posts / X Yasaman Sargol, #semiconductor scientist at Seurat, was interviewed on what it takes to create a successful career in #manufacturing. Hear how she is contributing to building a brighter future for all.",
+    "url": "https://x.com/SeuratTech",
+    "pass": 3
+   },
+   {
+    "quote": "Georges Seurat on X: \"Man standing, leaning on a stick # ... Man standing, leaning on a stick #artbots #seurat 08 Nov 2026 03:45:27",
+    "url": "https://x.com/artistseurat/status/2119275080102425063",
+    "pass": 3
+   },
+   {
+    "quote": "Art Deco SJ on X: \"MAISON-ATELIER LURÇAT, 1925 4 Villa Seurat ... MAISON-ATELIER LURÇAT, 1925 4 Villa Seurat, Paris, France 🇫🇷 Architect: André Lurçat. Built in 1925 as a house-studio for his brother, the artist Jean Lurçat (1892–1966), this building was the first to be constructed in Villa Seurat, an artists’ enclave near Montparnasse. ⬇️",
+    "url": "https://x.com/SonjaJo82306956/status/2118974073728573500",
+    "pass": 3
+   },
+   {
+    "quote": "Georges Seurat on X: \"The Stone Breaker #artbots #seurat\" / X The Stone Breaker #artbots #seurat 01 Nov 2026 11:32:32",
+    "url": "https://x.com/artistseurat/status/2116855909825564706",
+    "pass": 3
+   },
+   {
+    "quote": "Georges Seurat (@artistseurat) / Posts / X Oct 10, 2015 · Georges Seurat (@artistseurat) - Posts - Georges Pierre Seurat was a 19th century French Post-Impressionist artist. #artbots by @nuwaves_f... | X (formerly Twitter)",
+    "url": "https://x.com/artistseurat",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Seurat Technologies - LinkedIn Transforming manufacturing for people and our planet. | Seurat is an American-born and built 3D-printed metal parts contract manufacturer. We don’t sell printers—we deliver finished parts.",
+    "url": "https://www.linkedin.com/company/seurat-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Seurat Therapeutics, Inc - LinkedIn Seurat Therapeutics, Inc | 288 followers on LinkedIn. Seurat Therapeutics is focused on developing medication to safely and effectively treat and prevent migraines.",
+    "url": "https://www.linkedin.com/company/seurat-therapeutics-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Oliver Bartley - Dr Oliver Bartley | Computational Biologist ...Davide Maccarrone - PhD Researcher in Molecular Medicine ...Justine SEURAT - Chargée de projets communication ... - LinkedIn#cpg #purposemarketing #genz #brandsforgood | Seurat Group Core expertise: - Computational biology: single cell/nuclei RNAseq analysis (R, Seurat, HPC/Linux, AI-integrated pipelines) - Cell culture: ESC/iPSC cult",
+    "url": "https://uk.linkedin.com/in/oliver-bartley-62052a70",
+    "pass": 3
+   },
+   {
+    "quote": "Justine SEURAT - Chargée de projets communication ... - LinkedIn Chargée de projets communication & événements | +6 ans d’expérience | Communication stratégique & opérationnelle · Experience: Musée des archives de Salvador Dalí · Education: Umiros · Location:...",
+    "url": "https://ca.linkedin.com/in/seuratjustine",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "GEORGES SEURAT (1859–1891) — THE ... - Facebook Oct 6, 2026 · simply mixing colours together on the palette, Seurat placed distinct touches of colour side by side, allowing them to combine visually in the viewer’s eye. His most famous work, **“A Sunday Afternoon on the Island of La Grande Jatte,”** was created between **1884 and 1886**. The monumental composition became one of the defining works o",
+    "url": "https://www.facebook.com/61594552916262/videos/1089717693920920/",
+    "pass": 3
+   },
+   {
+    "quote": "When French artist Georges Seurat's studio was inventoried ... When French artist Georges Seurat's studio was inventoried after his death on 29th March 1891, “A Man Leaning on a Parapet” was recorded as 'panel no....",
+    "url": "https://www.facebook.com/myopenmuseum/videos/when-french-artist-georges-seurats-studio-was-inventoried-after-his-death-on-29t/2530684250748976/",
+    "pass": 3
+   },
+   {
+    "quote": "Georges Seurat, the French artist who transformed painting ... Sep 27, 2026 · Seurat did not live a long life, but he created an entirely new art movement—Pointillism—which is truly amazing. I think it must be much more difficult to express yourself through painting with tiny dots.",
+    "url": "https://www.facebook.com/61590180370821/videos/1606132537880985/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.seurat.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://static.wixstatic.com/media/62cee7_8a0acc061fd849e78d14dbe8cb931cb3~mv2.png/v1/fill/w_103,h_106,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/seurat_area-printing_risk-reduction_icon.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://static.wixstatic.com/media/953c5a_8d8f2ea807734adea3907ddab0d45cd4~mv2.jpg/v1/crop/x_837,y_0,w_1914,h_1913/fill/w_414,h_414,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/%5Bseurat%5D%20Alpha%20System%20Q4%202023-5_edited_j.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://qiita.com/Refine/items/e92c4a62fb23e9ed87f0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/amufaamo/items/c185e7ff88c90b443946",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labo-code.com/bioinformatics/seurat-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kts-research-blog.com/2024/04/06/seurat-v-5%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polamuseum.or.jp/en/collection/artist/Georges+Seurat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://satijalab.org/seurat/articles/get_started",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/766302381/Seurat-Navigating-Case-Study-q1-2024",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/665030782/Seurat-Case-Study-UAT-Q2-2022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/seurat-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/seurat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SeuratTech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/artistseurat/status/2119275080102425063",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SonjaJo82306956/status/2118974073728573500",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/artistseurat/status/2116855909825564706",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/seurat-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/seurat-therapeutics-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/oliver-bartley-62052a70",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/seuratjustine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61594552916262/videos/1089717693920920/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/myopenmuseum/videos/when-french-artist-georges-seurats-studio-was-inventoried-after-his-death-on-29t/2530684250748976/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61590180370821/videos/1606132537880985/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/artistseurat",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Seurat 日本 導入",
+   "results": [
+    "https://qiita.com/Refine/items/e92c4a62fb23e9ed87f0",
+    "https://qiita.com/amufaamo/items/c185e7ff88c90b443946",
+    "https://labo-code.com/bioinformatics/seurat-1/",
+    "https://kts-research-blog.com/2024/04/06/seurat-v-5をインストールする/",
+    "https://note.com/koheikumegawa/n/n50200a747eef",
+    "https://carislife.hatenablog.com/entry/20261110/1794304800",
+    "https://bestcarweb.jp/news/entame/1669612"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seurat 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.selecture.co.jp/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seurat Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Georges_Seurat",
+    "https://japan.co.jp/e/reports/todays-art-choice-Georges-Seurat-inspired-scientific-pointillism-2026-hero.html",
+    "https://www.polamuseum.or.jp/en/collection/artist/Georges+Seurat/",
+    "https://satijalab.org/seurat/articles/get_started",
+    "https://www.hiroshima-museum.jp/en/collection/eu/seurat.html",
+    "https://satijalab.org/seurat/articles/spatial_vignette"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "Seurat manufacturing customer case study",
+   "results": [
+    "https://www.seurat.com/white-papers",
+    "https://www.seurat.com/",
+    "https://www.scribd.com/document/766302381/Seurat-Navigating-Case-Study-q1-2024",
+    "https://www.scribd.com/document/665030782/Seurat-Case-Study-UAT-Q2-2022",
+    "https://hpc4energyinnovation.llnl.gov/success-stories/next-generation-additive-manufacturing",
+    "https://3dprint.com/290156/seurat-to-go-green-with-metal-3d-printing-depot-powered-by-wind-and-solar/",
+    "https://3dprint.com/288331/21m-round-fuels-2-million-points-of-metal-3d-printing-light-from-seurat/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seurat white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seurat founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/seurat-technologies",
+    "https://startupintros.com/orgs/seurat",
+    "https://www.seurat.com/for-investors",
+    "https://www.seurat.com/single-post/seurat-technologies-raises-99m-to-deploy-local-printing-factories-decarbonize-manufacturing",
+    "https://pitchbook.com/profiles/company/154284-94",
+    "https://fundediq.co/seurat-technologies-seuratech-com-funding/",
+    "https://seedtable.com/companies/seurat-technologies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Seurat",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Seurat",
+   "results": [
+    "https://x.com/SeuratTech",
+    "https://x.com/artistseurat/status/2119275080102425063",
+    "https://x.com/SonjaJo82306956/status/2118974073728573500",
+    "https://x.com/artistseurat/status/2116855909825564706",
+    "https://x.com/MyriamSeurat",
+    "https://x.com/dreamwieber/status/2119525355014980004",
+    "https://x.com/SeuratArt"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Seurat",
+   "results": [
+    "https://www.linkedin.com/company/seurat-technologies",
+    "https://www.linkedin.com/company/seurat-therapeutics-inc",
+    "https://uk.linkedin.com/in/oliver-bartley-62052a70",
+    "https://ca.linkedin.com/in/seuratjustine",
+    "https://pe.linkedin.com/posts/seurat-group_cpg-purposemarketing-genz-activity-7198310143665614848-qgvN",
+    "https://in.linkedin.com/in/devanshivaghela",
+    "https://it.linkedin.com/in/davidemaccarrone"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Seurat",
+   "results": [
+    "https://www.facebook.com/61594552916262/videos/1089717693920920/",
+    "https://www.facebook.com/myopenmuseum/videos/when-french-artist-georges-seurats-studio-was-inventoried-after-his-death-on-29t/2530684250748976/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/61590180370821/videos/1606132537880985/",
+    "https://www.facebook.com/TheCourtauld/videos/the-last-summer-of-seurats-life-spent-on-the-normandy-coast-explore-georges-seur/2039805013547919/",
+    "https://www.facebook.com/61588981208180/videos/2268136414029029/",
+    "https://business.facebook.com/groups/75104585153/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seurat note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seurat X 投稿",
+   "results": [
+    "https://x.com/artistseurat",
+    "https://zhuanlan.zhihu.com/p/714294089",
+    "https://zhuanlan.zhihu.com/p/2043068869288490980",
+    "https://satijalab.org/seurat/articles/get_started.html",
+    "https://blog.csdn.net/coffeeii/article/details/130955116",
+    "https://cloud.tencent.com/developer/article/2490257",
+    "https://satijalab.org/seurat/articles/spatial_vignette"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部32頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部32頁・検索12回）"
+ }
+}

@@ -1,0 +1,1486 @@
+{
+ "name": "Silicon Box",
+ "aliases": [],
+ "context": "旧営業リスト｜Semiconductors / Electronics｜拒否",
+ "researched_at": "2026-11-11T02:16:41.463378+00:00",
+ "official_url": "https://www.1p-semicon.com/",
+ "identified_by": "search:ddgs:google:Silicon Box 日本",
+ "profile": {},
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "【#半導体】【フォトレジスト】日本の主要企業・銘柄一覧",
+    "url": "https://www.1p-semicon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【#半導体】【搬送装置】日本の主要企業・銘柄一覧",
+    "url": "https://www.1p-semicon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "概要本記事では、日本で新たに設立されたメモリー半導体の新会社「SAIMEMORY株式会社」（サイメモリ）についてまとめています",
+    "url": "https://www.1p-semicon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省、情報処理の促進に関する法律に基づき、Rapidus株式会社を選定 [#ラピダスメモ]",
+    "url": "https://www.1p-semicon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "経済産業省ニュースリリース2025年11月21日情報処理の促進に関する法律に基づき、Rapidus株式会社を選定しました （METI/経済産業省）概要「情報処理の促進に関する法律*1」に基づき、「指定高速情報処理用半導体*2の生産施設の設置...",
+    "url": "https://www.1p-semicon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ニュース概要GaNウエハー用研磨パッドの開発に成功 ～高速通信 (5G･6G) 向け半導体の生産性向上に貢献～ | ノリタケ株式会社 ノリタケ株式会社 (以下 ノリタケ) は2025年8月20日、高速通信向けなどに用いられる窒化ガリウム (...",
+    "url": "https://www.1p-semicon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "謎の半導体企業Silicon Boxの立地戦略の深掘りと、日本が選ばれるための考察｜あめむ",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "謎の半導体企業Silicon Boxの立地戦略の深掘りと、日本が選ばれるための考察",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "4. では、日本が選ばれるには——投資と改革の論点",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "以上を踏まえ、日本が次のSilicon Box級の後工程投資を呼び込むには何が必要か",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "日本の構造課題（工場運営コストの高さ、人材不足、産業用地不足、意思決定の遅さ）を突き合わせて考察します",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "日本もTSMC熊本などで手厚い助成を実績化していますが、後工程スタートアップ向けには制度がなお前工程・大企業偏重に見えます",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "日本はTSMCの先進パッケージング拠点観測やラピダス後工程などの動きはあるものの、",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "（材料・装置の国内サプライヤーが強いという日本の優位と結びつける）を明示すべきです",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "日本の弱点として繰り返し指摘されるのが高い運営コスト（特に電力）と産業用地不足です",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "台湾の「日本の半分未満の投資期間・コスト」という指摘は、日本の遅さの裏返しです",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "EUが人材育成に特化した資金を投入しているように、日本も後工程エンジニア育成と、",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "「誰がアジアの新工場を動かすのか」という問いで日本は言語・コミュニケーション規範・労働慣行の差が障壁と指摘されており、この文化的・制度的摩擦の低減が現実の分かれ目になります",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "日本も資本集約型ディープテックに、",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "日本が選ばれるには、断片的な補助ではなく「補助の規模と割合、電力・用地の物理条件、意思決定スピード、人材の国際性、成長資金の厚み」を",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "日本には材料・装置の産業基盤という他国にない強みがあり、それを誘致の中核メッセージに据えられれば十分に競争力を持ち得ます",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "iPhone優勢の日本でも不利なし？Google純正タグPixel Tagを試す",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "【Amazon.co.jp限定】 伊藤園 磨かれて、澄みきった日本の水 2L 8本 ラベルレス [ ケース ] [ 水 ] [ ペットボトル ] [ 箱買い ] [ ストック ] [ 水分補給 ]",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年最新モデル Windows11 Pro Office搭載 ノートパソコン 14インチ 新品 日本語キーボード メモリ 8GB SSD 128GB 256GB 512GB Webカメラ WiFi Bluetooth 選べるカラー 14型 薄型 軽量 初心者 学習向け PC ピンク シルバー ブルー",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "【11/11までP5倍＆1000円OFFクーポン】 今だけの超特価！中古パソコン 中古 ノートパソコン Office付き 人気商品 初期設定済み すぐ使える 日本人サポート Windows11 Pro 店長おまかせA4ノート Core i5 8GB 15.6インチ 中古 パソコン ノートパソコン",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "角川まんが学習シリーズ 日本の歴史 5大特典つき全16巻+別巻5冊セット [ 山本 博文 ]",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "角川まんが学習シリーズ 日本の歴史 全16巻+別巻5冊定番セット [ 山本 博文 ]",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "A Deep Dive into the Location Strategy of Mysterious Semiconductor Firm Silicon Box and Considerations for Japan to be Chosen｜あめむ",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Deep Dive into the Location Strategy of Mysterious Semiconductor Firm Silicon Box and Considerations for Japan to be Chosen",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "4. So, how can Japan be chosen—points of investment and reform",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Based on the above, what is needed for Japan to attract the next Silicon Box-class back-end investment? We will examine this by confronting Japan's structural issues (high factory operating costs, labor shortages, lack of industrial land, and slow decision-making).",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Italy demonstrated a level of \"about 40% subsidy for initial investment.\" Japan has also achieved a track record of generous subsidies with TSMC Kumamoto, but the system still appears skewed toward front-end and large companies for back-end startups. Rather than one-off equipment subsidies,",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The world's competitive axis is shifting from miniaturization to packaging. Although Japan has seen moves such as observations of TSMC's advanced packaging base and Rapidus's back-end processes, it should clearly state",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(linking to Japan's advantage of having strong domestic suppliers of materials and equipment). A mindset that turns the assets of back-end consortia like JOINT2 into external weapons for attraction is required.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's weaknesses are repeatedly pointed out as high operating costs (especially electricity) and a shortage of industrial land. Although back-end processes do not consume as much power as mega-fabs,",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Singapore is valued for the speed of its systems. The observation that Taiwan has 'less than half the investment period and cost of Japan' is a reflection of Japan's slowness.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Just as the EU is investing funds specialized in human resource development, Japan also needs to train back-end engineers and",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Regarding the question of 'who will run the new factory in Asia,' it is pointed out that differences in language, communication norms, and labor practices are barriers for Japan, and reducing this cultural and institutional friction will be the deciding factor in reality.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Singapore, government-backed and private credit flexibly supplied even non-dilutive funding. Whether Japan can also provide",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For Japan to be chosen, it depends on whether it can present 'the scale and ratio of subsidies, physical conditions of power and land, decision-making speed, internationality of human resources, and depth of growth capital'",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan has an industrial base of materials and equipment that other countries do not have, and if it can make that the core message of its attraction efforts, it can be sufficiently competitive.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "SAIMEMORYは、ソフトバンクの100%出資子会社と...",
+    "url": "https://www.1p-semicon.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", as part of project backed by the Italian ministry of industry. The project was expected to create at least 1600 new jobs directly, with additional jobs created indirectly to support construction of the facility and supply and logistics for the plant.",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "Carroll, Jim (2024-01-07).",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "シンガポールの未上場半導体企業「Silicon Box」とは？",
+    "url": "https://www.investlingo.jp/content/2uyNbqXgC36bUn3pEcJegdaQdBF",
+    "pass": 3
+   },
+   {
+    "quote": "「Sutardja博士は、マーベル・テクノロジー（NASDAQ:",
+    "url": "https://www.investlingo.jp/content/2uyNbqXgC36bUn3pEcJegdaQdBF",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに上のリリースが出る前日には、Marvellが2016年度のForm 10-K(年次決算書)の提出が遅れ、上場廃止になる可能性が通告されたことが",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": ". Regarding the question of 'who will run the new factory in Asia,' it is pointed out that differences in language, communication norms, and labor practices are barriers for Japan, and reducing this cultural and institutional friction will be the deciding factor in reality.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": ", the company provides backend infrastructure needed for enabling",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "Considered as a pioneer in the field, Silicon Box functions like an OSAT but also provides design consulting services for companies looking to transition from traditional packaging schemes to high powered alternatives.",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "Chiplets, the company explains, enable \"dramatically better performance, smaller device sizes, and improved device reliability\". According to the company, its sub-5-micron proprietary fabrication method has given it the \"ability to package chiplets with the shortest interconnections\" and \"the world's first standardised large-format production for chiplet integration\".",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "After 40 years of pursuing their professional specialization, Han in advanced packaging, Sutardja in design, and Dai in business management, the co-founders reunited in 2021 to establish Silicon Box.",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": ", as part of project backed by the Italian ministry of industry. The project was expected to create at least 1600 new jobs directly, with additional jobs created indirectly to support construction of the facility and supply and logistics for the plant.",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "\"An emerging player makes a promising entry into Europe – An interview with Silicon Box\"",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "\"Semiconductor start-up Silicon Box opens $2.65 billion factory in S'pore, set to hire 1,200 people\"",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "Privately held companies of Singapore",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "域内自給率を高めたいEUの政策的優先度が高く、Silicon Box側は供給不足時に欧州を優先する「European priority order」や、想定超過利益をイタリアと分け合う条項まで受け入れています",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "この記事の続きを読むには「Pro Plan」にアップグレードする必要があります",
+    "url": "https://www.investlingo.jp/content/2uyNbqXgC36bUn3pEcJegdaQdBF",
+    "pass": 3
+   },
+   {
+    "quote": "Impress Watchシリーズ 人気記事",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "【レビュー】ボタンが足りないなら増やせばいいじゃない！最大23ボタンの「Naga V3 Pro」",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "【コラム】それってミニPCでは？Core i5と32GBを積んだ4ベイNAS「Beelink ME Pro 4-Bay」",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "【1500円OFFクーポン】【WEBカメラ＋テンキー付き+DVDドライブ】ノートパソコン 中古パソコン 15.6インチ SSD128GB メモリ8GB Celeron 第6世代 Microsoft Office付き Windows11 HP Probook 450 G3 ノートパソコン 中古ノート PC SSD1TB メモリ16GB",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年最新モデル Windows11 Pro Office搭載 ノートパソコン 14インチ 新品 日本語キーボード メモリ 8GB SSD 128GB 256GB 512GB Webカメラ WiFi Bluetooth 選べるカラー 14型 薄型 軽量 初心者 学習向け PC ピンク シルバー ブルー",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "【11/11までP5倍＆1000円OFFクーポン】 今だけの超特価！中古パソコン 中古 ノートパソコン Office付き 人気商品 初期設定済み すぐ使える 日本人サポート Windows11 Pro 店長おまかせA4ノート Core i5 8GB 15.6インチ 中古 パソコン ノートパソコン",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "【11世代 Core i5】Dell Vostro 15 3500 Core i5 メモリ8GB SSD256GB HDD500GB Full-HD 15.6型 15.6インチ Windows11 Pro Webカメラ 無線LAN Wi-Fi6 Bluetooth テンキー WPS Office付き オフィス ノートパソコン 中古パソコン 90日保証 【中古】【現物画像】",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "送料無料 1年保証 第8世代 Core i3 富士通 | ESPRIMO Q558/V | Windows11 | 極小 デスクトップ | 中古パソコン | Core i3 8100T 3.1GHz | MEM:8GB | SSD:256GB | DVD-ROM | 無線LAN:なし | Win11Pro64Bit | 電源ケーブル付属",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "【HP大決算祭り ～11/11（水）9:59まで】【HP公式】モニター 新品 フルHD HP Series 3 Pro 324pv 23.8 インチFHD VA モニター VA 23.8型 角度調整 VESA 100Hz 液晶HDMI VGA PS5 Nintendo Switch 3年保証 転送不可 (型番: 9U5C1AA)",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "【HP公式】モニター 新品 フルHD HP Series 3 Pro 322pe 21.45インチFHDモニター IPS 21.5型 角度調整 VESA 100Hz 液晶 HDMI VGA PS5 Switch 3年保証 転送不可 (型番：AK2F1UT）",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "I-O DATA アイ・オー・データ 5年保証 3辺フレームレス&広視野角ADSパネル 23.8型ワイド液晶 ブラック 24インチ相当 PCモニター LCD-A241DB LCDA241DB 【NE直】",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "Impress Business Library",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "Impress Group Publication Information",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Ships 500M Units at High Yield, Expands Production Capacity for Panel-Level Packaging",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box addresses performance, scalability and cost challenges in wafer-level and monolithic chip architectures by enabling chiplet-based semiconductors on a large panel-level manufacturing scheme. The company is the only advanced packaging provider producing exclusively at panel-scale with commercially viable yields.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "Early customers across a broad range of device applications from multi-chip AI training products to simple devices requiring fast production ramp up and massive scale are already taking advantage of Silicon Box’s technology, proving the long-conjectured value propositions associated with panel-level packaging and a chiplet approach to chip system design.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Ships 1 Billion Units, 2 Billion Year-End Production Target",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "Learning Under Pressure with Curiosity and Resilience",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "In this edition of Spotlight in the Box, we chat with Joab about what it’s like to stay agile and resilient as an intern, transitioning roles to support shifting business priorities.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "April 30, 2026",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "Leslie's journey shows how perseverance and a growth mindset in a startup environment, with big-company advantages like Silicon Box, provide many opportunities to identify areas for improvement and build new things.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Announces It Joins Imec Automotive Chiplet Program to Strengthen Chip Supply Chains for Next-Generation Vehicles",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "April 15, 2026",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Ships 100M Units, Proves Advanced Panel-Level Packaging Ready for AI, HPC era",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "To mark the significance of Father’s Day, Silicon Box asked three of our working fathers – Suresh, Meng Keat and Andy --- to share how fatherhood has transformed their lives personally and professionally.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Ships 100M Units, Proves Advanced Panel-Level Packaging Ready for AI, HPC era",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "Record-Breaking Yield and Factory Progress",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "One of the more remarkable aspects of Silicon Box’s 100-million-unit shipment milestone, is that the production facility has exceeded co-founder and CEO, Dr. BJ Han, and his technical leadership team’s long term track record for industry leading yield which was 99.7% at wafer scale.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "The Tampines factory had its grand opening in July 2023, with mass production starting later that year. In 2024, the facility achieved ISO 9001:2015 certification, followed by ISO 14001:2015 and ISO 45001:2018 certifications in 2025. These certifications underscore Silicon Box’s commitment to quality and customer satisfaction, employee well-being and sustainability management, respectively.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box's 100-million-unit production milestone demonstrates that the company is on track to achieve its capacity and production targets at its flagship facility, with full capacity installation expected by 2028. Meanwhile, the",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "company’s second manufacturing facility, to be located in Novara, Piedmont, Italy, is expected to begin production in 2028.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "The planned site which is larger than Singapore is expected to replicate production capacity and bring native test capability to Europe. The new plant will establish a full semiconductor value chain from design to final manufacturing and test, to serve sectors such as artificial intelligence (AI), high-performance computing (HPC), automotive, mobile, Internet of Things, and robotics.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "“As the only independent semiconductor packaging company possessing the current capability to enable chiplet architectures with high interconnection density at panel scale in mass production, our collaborations are yielding industry leading results for early customers at a low cost especially in advanced automotive, robotics, high-performance computing and AI applications,” said Mike Han.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "“At the same time, the benefits of our solutions and the economics of our large-format manufacturing scheme allow a broader range of customers and device applications to reap the benefits of the most advanced packaging methods. These same customers and applications might find that the cost is prohibitive and capacity hard to come by with other providers.”",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Ships 1 Billion Units, 2 Billion Year-End Production Target",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Ships 500M Units at High Yield, Expands Production Capacity for Panel-Level Packaging",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "Learning Under Pressure with Curiosity and Resilience",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "In this edition of Spotlight in the Box, we chat with Joab about what it’s like to stay agile and resilient as an intern, transitioning roles to support shifting business priorities.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "April 30, 2026",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "Leslie's journey shows how perseverance and a growth mindset in a startup environment, with big-company advantages like Silicon Box, provide many opportunities to identify areas for improvement and build new things.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Announces It Joins Imec Automotive Chiplet Program to Strengthen Chip Supply Chains for Next-Generation Vehicles",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "April 15, 2026",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "To mark the significance of Father’s Day, Silicon Box asked three of our working fathers – Suresh, Meng Keat and Andy --- to share how fatherhood has transformed their lives personally and professionally.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "이 공장은 EU 역내 최초의 동종 첨단 패키징 거점(first-of-a-kind)입니다. 역내 자급률을 높이려는 EU의 정책적 우선순위가 높고, Silicon Box 측은 공급 부족 시 유럽을 우선하는 'European priority order'나 예상 초과 이익을 이탈리아와 나누는 조항까지 수용했습니다. 즉",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "1. Premise: Who is Silicon Box?",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, let's grasp the big picture. Silicon Box is a startup founded in Singapore in 2021 by heavyweights in the semiconductor packaging field: Marvell co-founder BJ Han, the late Sehat Sutardja, and Weili Dai. The company's core technology is a foundry specializing in \"back-end (BEOL)\" processes, specifically",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a key point. While public attention tends to focus on front-end processes (miniaturization of circuit formation like TSMC), Silicon Box is betting on a shift in industrial structure:",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"As miniaturization approaches physical and economic limits, the breakthrough for performance, cost, and scalability is shifting to back-end packaging (technology that integrates multiple chiplets at high density).\"",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Silicon Box's logo on its factory in Tampines, Singapore",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box's factory in Tampines, Singapore",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "On July 22, 2022, Silicon Box's first manufacturing facility broke ground. Construction was completed in 11 months.",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2023, it opened a new factory in Singapore that cost US$2 billion to construct. The factory, which is located in",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "and has an area of 73,000 square meters, will manufacture semiconductor chiplet interconnections. According to the company, the factory will employ 1,200 additional persons in Singapore.",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2024, the company stated that it would invest EUR 3.2 billion in a new manufacturing plant in northern",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": ", as part of project backed by the Italian ministry of industry. The project was expected to create at least 1600 new jobs directly, with additional jobs created indirectly to support construction of the facility and supply and logistics for the plant.",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "\"Semiconductor start-up Silicon Box opens $2.65 billion factory in S'pore, set to hire 1,200 people\"",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "\"Silicon Box opens $2 billion advanced semiconductor manufacturing factory in Singapore\"",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "\"Singapore Boosts Semiconductor Sector with $2 Billion Factory by Silicon Box #SiliconBox\"",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "\"Silicon Box to invest $3.5 billion in new chip plant in Italy\"",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "\"Singapore's Silicon Box to build $3.5b AI chip factory in Italy\"",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "\"Singaporean chiplet maker Silicon Box plans €3.2 billion Italian plant\"",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "\"Start-up Silicon Box's semiconductor factory to create up to 1,200 jobs, boosting Singapore's manufacturing hub status\"",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box addresses performance, scalability and cost challenges in wafer-level and monolithic chip architectures by enabling chiplet-based semiconductors on a large panel-level manufacturing scheme. The company is the only advanced packaging provider producing exclusively at panel-scale with commercially viable yields.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Announces It Joins Imec Automotive Chiplet Program to Strengthen Chip Supply Chains for Next-Generation Vehicles",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "20 Tampines Industrial Avenue 3, Singapore 529580",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "Record-Breaking Yield and Factory Progress",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "The Tampines factory had its grand opening in July 2023, with mass production starting later that year. In 2024, the facility achieved ISO 9001:2015 certification, followed by ISO 14001:2015 and ISO 45001:2018 certifications in 2025. These certifications underscore Silicon Box’s commitment to quality and customer satisfaction, employee well-being and sustainability management, respectively.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "Expansion of Manufacturing Capacity on Track",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "company’s second manufacturing facility, to be located in Novara, Piedmont, Italy, is expected to begin production in 2028.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "The planned site which is larger than Singapore is expected to replicate production capacity and bring native test capability to Europe. The new plant will establish a full semiconductor value chain from design to final manufacturing and test, to serve sectors such as artificial intelligence (AI), high-performance computing (HPC), automotive, mobile, Internet of Things, and robotics.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "“As the only independent semiconductor packaging company possessing the current capability to enable chiplet architectures with high interconnection density at panel scale in mass production, our collaborations are yielding industry leading results for early customers at a low cost especially in advanced automotive, robotics, high-performance computing and AI applications,” said Mike Han.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "“At the same time, the benefits of our solutions and the economics of our large-format manufacturing scheme allow a broader range of customers and device applications to reap the benefits of the most advanced packaging methods. These same customers and applications might find that the cost is prohibitive and capacity hard to come by with other providers.”",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box, a global leader in chiplet integration and advanced semiconductor packaging, has shipped 500 million units from its flagship Singapore factory, a fivefold increase since October last year, while maintaining industry-beating yield.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Announces It Joins Imec Automotive Chiplet Program to Strengthen Chip Supply Chains for Next-Generation Vehicles",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "20 Tampines Industrial Avenue 3, Singapore 529580",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "This is a key point. While public attention tends to focus on front-end processes (miniaturization of circuit formation like TSMC), Silicon Box is betting on a shift in industrial structure:",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The surge in demand for AI/HPC is fueling this, and in fact, the flagship Singapore factory has shipped over 250 million units cumulatively as of Q1 2026 with near-perfect yields.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Founder network and existing industrial clusters.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3. Why Italy (Novara) was chosen for the European factory",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This factory is the first advanced packaging base of its kind in the EU (first-of-a-kind). The EU's policy priority to increase regional self-sufficiency is high, and Silicon Box has even accepted a \"European priority order\" to prioritize Europe during supply shortages and clauses to share excess profits with Italy. In other words, it is a transaction structure where",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Europe is a promising demand area for back-end packaging, such as automotive (ADAS/EV) and industrial equipment. Novara is near Milan, and a \"domino effect\" of clustering is underway, including STMicro's Catania (5 billion euro investment) and Aixtron in Piedmont, providing existing know-how and infrastructure.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Based on the above, what is needed for Japan to attract the next Silicon Box-class back-end investment? We will examine this by confronting Japan's structural issues (high factory operating costs, labor shortages, lack of industrial land, and slow decision-making).",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(3) Resolving the 'physical bottlenecks' of power costs and industrial land.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's weaknesses are repeatedly pointed out as high operating costs (especially electricity) and a shortage of industrial land. Although back-end processes do not consume as much power as mega-fabs,",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Regarding the question of 'who will run the new factory in Asia,' it is pointed out that differences in language, communication norms, and labor practices are barriers for Japan, and reducing this cultural and institutional friction will be the deciding factor in reality.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan has an industrial base of materials and equipment that other countries do not have, and if it can make that the core message of its attraction efforts, it can be sufficiently competitive.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Silicon Box - Wikipedia — Silicon Box Pte Ltd is an independent advanced packaging and integration BEOL semiconductor company headquartered in Singapore. Founded in 2021 by Byung Joon Han, Sehat Sutardja and Weili Dai, the company provides backend infrastructure needed for enabling chiplet adoption. Considered as a pioneer in the field, Silicon Box functions like an OSAT but also provides design c",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "pass": 3
+   },
+   {
+    "quote": "謎の半導体企業Silicon Boxの立地戦略の深掘りと、日本が選ばれるため... — Aug 30, 2026 · 4. では、日本が選ばれるには——投資と改革の論点 以上を踏まえ、日本が次のSilicon Box級の後工程投資を呼び込むには何が必要か。 日本の構造課題（工場運営コストの高さ、人材不足、産業用地不足、意思決定の遅さ）を突き合わせて考察します。",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Boxとは？チップレット・先端実装と情報開示の論点 — Mar 29, 2025 · 2025年3月時点のSilicon Box分析。チップレット向け先端パッケージング、シンガポールとイタリアの施設計画を整理します。半導体アナリストが、事業の特徴と情報開示上の課題を検討します。",
+    "url": "https://www.investlingo.jp/content/2uyNbqXgC36bUn3pEcJegdaQdBF",
+    "pass": 3
+   },
+   {
+    "quote": "【大原雄介の半導体業界こぼれ話】謎の半導体企業「Silicon Box」 - P... — Jul 27, 2023 · ロイター通信は7月20日、シンガポールのSilicon Boxが半導体工場を同国に開設したことを報じた(写真1)。ちなみにこの会社の設立は2021年5月19日だ ...",
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Ships 100M Units, Proves Advanced Panel-Level ... — Oct 15, 2025 · SINGAPORE, 15 October 2025 – Silicon Box, a global leader in chiplet integration and advanced semiconductor packaging, announced it has shipped 100-million-units from its flagship factory in Singapore’s Tampines Wafer Park. The state-of-the-art facility, which began mass production in late 2023, produces advanced panel-",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Ships 500M Units at High Yield, Expands ... — Aug 5, 2026 · Silicon Box, a global leader in chiplet integration and advanced semiconductor packaging, has shipped 500 million units from its flagship Singapore factory, a fivefold increase since October last year, while maintaining industry-beating yield.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Ships 100M Units, Proves Advanced Panel-Level ... — Oct 15, 2025 · Silicon Box is an advanced semiconductor packaging company, specializing in cutting-edge integration technology and manufacturing processes. We offer solutions that enable chiplet architecture, as well as high performance, affordable alternatives to traditional packaging schemes.",
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Ships 100M Units, Proves Advanced Panel-Level ... — Oct 15, 2025 · About Silicon box Silicon Box is an advanced semiconductor packaging company, specializing in cutting-edge integration technology and manufacturing processes. We offer solutions that enable chiplet architecture, as well as high performance, affordable alternatives to traditional packaging schemes.",
+    "url": "https://chiplet-marketplace.com/insights/news/silicon-box-ships-100m-units",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box - 2026 Company Profile, Funding & Investors | The ... — Oct 17, 2026 · Silicon Box is a Technology company based in Singapore (Singapore) founded in 2021 by Sehat Sutardja, Byung Joon Han, and Weili Dai. Chiplet interconnection products are developed for semiconductor integration services. Silicon Box has raised $657.6 million across 8 funding rounds from investors including Ares Manag",
+    "url": "https://www.thecompanycheck.com/company/b/silicon-box/6bd229wlgd53q00es",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Silicon Box. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/521737-03",
+    "pass": 3
+   },
+   {
+    "quote": "SILICON BOX – Valuation, Revenue & Market Scope – 2026 — Discover SILICON BOX's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/silicon-box",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box — Company Profile, Funding & Investors — Silicon Box company profile with $1.72B raised across 4 funding rounds, HQ in Singapore, Central Region, founded 2021. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/silicon-box",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box Revenue 2025: $56.6M Est. - getlatka.com — Sep 10, 2026 · Silicon Box 2025 estimated revenue: $56.6M. 178 employees. Founded 2021. HQ: Singapore. Updated Sep 10, 2026.",
+    "url": "https://getlatka.com/companies/silicon-box.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "謎の半導体企業Silicon Boxの立地戦略の深掘りと、日本が選ばれるため... Aug 30, 2026 · 4. では、日本が選ばれるには——投資と改革の論点 以上を踏まえ、日本が次のSilicon Box級の後工程投資を呼び込むには何が必要か。 日本の構造課題（工場運営コストの高さ、人材不足、産業用地不足、意思決定の遅さ）を突き合わせて考察します。",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "수수께끼의 반도체 기업 Silicon Box의 입지 전략 심층 분석과 일본이... 1. 전제: Silicon Box란 무엇인가먼저 전체적인 모습을 파악해 보겠습니다. Silicon Box는 2021년 싱가포르에서 창업한 스타트업으로, 창업자는 Marvell 공동 창업자인 BJ Han, 고(故) Sehat Sutardja, Weili Dai 등 반도체 패키징 분야의 거물들입니다. 동사의 핵심 기술은 패널 레벨 패키징(PLP)과 칩렛 통합(SiPlet®)이라는 ...",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "A Deep Dive into the Location Strategy of Mysterious ... 1. Premise: Who is Silicon Box? First, let's grasp the big picture. Silicon Box is a startup founded in Singapore in 2021 by heavyweights in the semiconductor packaging field: Marvell co-founder BJ Han, the late Sehat Sutardja, and Weili Dai. The company's core technology is a foundry specializing ...",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "謎の半導体企業Silicon Boxの立地戦略の深掘りと、日本が選ばれるための考察｜あめむ",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "謎の半導体企業Silicon Boxの立地戦略の深掘りと、日本が選ばれるための考察",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "1. 前提：Silicon Boxとは何者か",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "まず全体像を押さえておきます。Silicon Boxは2021年にシンガポールで創業したスタートアップで、創業者はMarvell共同創業者のBJ Han氏、故Sehat Sutardja氏、Weili Dai氏という半導体パッケージング分野の重鎮です。同社の中核技術は",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "パネルレベルパッケージング（PLP）とチップレット統合（SiPlet®）",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "という「後工程（バックエンド／BEOL）」に特化したファウンドリです。",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "ここが重要な論点です。世間の注目は前工程（TSMCのような回路形成の微細化）に集まりがちですが、Silicon Boxが賭けているのは",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "「微細化が物理・経済の限界に近づく中、性能・コスト・スケーラビリティの突破口は後工程のパッケージング（複数のチップレットを高密度に統合する技術）に移る」",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "pass": 3
+   },
+   {
+    "quote": "수수께끼의 반도체 기업 Silicon Box의 입지 전략 심층 분석과 일본이 선택받기 위한 고찰｜あめむ",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "수수께끼의 반도체 기업 Silicon Box의 입지 전략 심층 분석과 일본이 선택받기 위한 고찰",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "1. 전제: Silicon Box란 무엇인가",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "먼저 전체적인 모습을 파악해 보겠습니다. Silicon Box는 2021년 싱가포르에서 창업한 스타트업으로, 창업자는 Marvell 공동 창업자인 BJ Han, 고(故) Sehat Sutardja, Weili Dai 등 반도체 패키징 분야의 거물들입니다. 동사의 핵심 기술은",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "패널 레벨 패키징(PLP)과 칩렛 통합(SiPlet®)",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "이라는 '후공정(백엔드/BEOL)'에 특화된 파운드리입니다.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "여기가 중요한 논점입니다. 세상의 주목은 전공정(TSMC와 같은 회로 형성의 미세화)에 쏠리기 쉽지만, Silicon Box가 베팅하고 있는 것은",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "미세화가 물리적·경제적 한계에 다다르는 가운데, 성능·비용·확장성의 돌파구는 후공정 패키징(여러 칩렛을 고밀도로 통합하는 기술)으로 옮겨간다",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "A Deep Dive into the Location Strategy of Mysterious Semiconductor Firm Silicon Box and Considerations for Japan to be Chosen｜あめむ",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Deep Dive into the Location Strategy of Mysterious Semiconductor Firm Silicon Box and Considerations for Japan to be Chosen",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Premise: Who is Silicon Box?",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, let's grasp the big picture. Silicon Box is a startup founded in Singapore in 2021 by heavyweights in the semiconductor packaging field: Marvell co-founder BJ Han, the late Sehat Sutardja, and Weili Dai. The company's core technology is a foundry specializing in \"back-end (BEOL)\" processes, specifically",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Panel Level Packaging (PLP) and Chiplet Integration (SiPlet®)",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a key point. While public attention tends to focus on front-end processes (miniaturization of circuit formation like TSMC), Silicon Box is betting on a shift in industrial structure:",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"As miniaturization approaches physical and economic limits, the breakthrough for performance, cost, and scalability is shifting to back-end packaging (technology that integrates multiple chiplets at high density).\"",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The surge in demand for AI/HPC is fueling this, and in fact, the flagship Singapore factory has shipped over 250 million units cumulatively as of Q1 2026 with near-perfect yields.",
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Silicon Box Announces It Joins Imec Automotive Chiplet ... 🐇 (@1p_semicon). 6 likes. Silicon Box Announces It Joins Imec Automotive Chiplet Program to Strengthen Chip Supply Chains for Next-Generation Vehicles https://t.co ...",
+    "url": "https://x.com/1p_semicon/status/2044527152591417756",
+    "pass": 3
+   },
+   {
+    "quote": "Adolfo Urso on X: \"Il progetto #SiliconBox ci pone all ... Un grazie particolare a Silicon Box per aver scelto il nostro Paese, sempre più affidabile e attrattivo. È quanto ho ribadito oggi al Teatro Coccia di Novara, in occasione della presentazione di Vulcan Project, il progetto che porterà in Piemonte il primo stabilimento europeo di Silicon Box, specializzato nelle fasi di back-end, packaging ",
+    "url": "https://x.com/adolfo_urso/status/2119832508787282190",
+    "pass": 3
+   },
+   {
+    "quote": "stuffedinabox on X: \"@NatCon2022 Georgia is about to speed ... @NatCon2022 Georgia is about to speed run California levels of dysfunction but without the backstop of hollywood and silicon valley wealth. And the ladies leading it all hate white people, so it might be more like South Africa.",
+    "url": "https://x.com/stuffedinabox/status/2119923368304460121",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SILICON BOX - LinkedIn Silicon Box is an advanced semiconductor packaging company, specializing in cutting-edge integration technology and manufacturing processes. We offer solutions that enable chiplet architecture, as ...",
+    "url": "https://www.linkedin.com/company/silicon-box/",
+    "pass": 3
+   },
+   {
+    "quote": "SILICON BOX: Jobs | LinkedIn SILICON BOX | 34,007 followers on LinkedIn. @ forefront semiconductor integration | Silicon Box is an advanced semiconductor packaging company, specializing in cutting-edge integration technology ...",
+    "url": "https://www.linkedin.com/company/silicon-box/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "BJ Han - Silicon Box Pte Ltd | LinkedInEngineer, AI and Automation (Fresh Graduate) at SILICON BOX ...SILICON BOX A NOVARA: 3,2 MILIARDI DI INVESTIMENTI E 1.600 ...Silicon Box Inc - LinkedInMike Han - SILICON BOX | LinkedIn Singapore 7K followers 500+ connections See your mutual connections Silicon Box Pte Ltd Columbia University in the City of New York Blog Apply for Engineer, AI and Automation (",
+    "url": "https://sg.linkedin.com/in/bj-han-8909594",
+    "pass": 3
+   },
+   {
+    "quote": "Engineer, AI and Automation (Fresh Graduate) at SILICON BOX ... Apply for Engineer, AI and Automation (Fresh Graduate) at SILICON BOX in Tampines, East Region, Singapore. Full-time Entry level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://sg.linkedin.com/jobs/view/engineer-ai-and-automation-fresh-graduate-at-silicon-box-4479322901",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Silicon Box - Facebook Silicon Box is on Facebook. Join Facebook to connect with Silicon Box and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/silicon.box/",
+    "pass": 3
+   },
+   {
+    "quote": "Silicon Box | Corvallis OR - Facebook Jun 3, 2025 · Silicon Box, Corvallis. 23 followers. STEM Activities for Kids",
+    "url": "https://www.facebook.com/profile.php/?id=100068211086627",
+    "pass": 3
+   },
+   {
+    "quote": "Momentous Event, Silcon Box’ First Gala Night. #siliconbox # ... May 16, 2026 · Momentous Event, Silcon Box’ First Gala Night. #siliconbox #longserviceawards #dnd",
+    "url": "https://www.facebook.com/al.caparas.9/videos/momentous-event-silcon-box-first-gala-night-siliconbox-longserviceawards-dnd/1316795300398369/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.1p-semicon.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Silicon_Box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investlingo.jp/content/2uyNbqXgC36bUn3pEcJegdaQdBF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.box.com/ja-jp/partners/channel-program",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silabs.com/about-us/find-a-distributor",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://semiconbox.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://naikesilicone.com/about-us/customer-cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wjsilicone.com/landingpage/customer-cases.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/silicon-box/6bd229wlgd53q00es",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/521737-03",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/silicon-box",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/silicon-box",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/amenomu/n/nf9787cd2e483",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=ko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/1p_semicon/status/2044527152591417756",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/adolfo_urso/status/2119832508787282190",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/stuffedinabox/status/2119923368304460121",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/silicon-box/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/silicon-box/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/in/bj-han-8909594",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/jobs/view/engineer-ai-and-automation-fresh-graduate-at-silicon-box-4479322901",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/silicon.box/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=100068211086627",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/al.caparas.9/videos/momentous-event-silcon-box-first-gala-night-siliconbox-longserviceawards-dnd/1316795300398369/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Silicon Box",
+   "results": [
+    "https://en.wikipedia.org/wiki/Silicon_Box",
+    "https://grokipedia.com/page/silicon-box",
+    "https://www.silicon-box.com/about",
+    "https://www.linkedin.com/company/silicon-box/",
+    "https://www.amazon.com/silicone-storage-containers/s?k=silicone+storage+containers",
+    "https://www.amazon.com/silicone-box/s?k=silicone+box",
+    "https://pitchbook.com/profiles/company/521737-03",
+    "https://www.silicon-box.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "株式会社Silicon Box",
+   "results": [
+    "https://en.wikipedia.org/wiki/Silicon_Box",
+    "https://www.silicon-box.com/about",
+    "https://www.investlingo.jp/content/2uyNbqXgC36bUn3pEcJegdaQdBF",
+    "https://www.linkedin.com/company/silicon-box/",
+    "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "https://www.silicon-box.com/",
+    "https://www.jetro.go.jp/biz/areareports/2025/a319bfe382a21f76.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silicon Box 株式会社",
+   "results": [
+    "https://en.wikipedia.org/wiki/Silicon_Box",
+    "https://www.silicon-box.com/about",
+    "https://www.investlingo.jp/content/2uyNbqXgC36bUn3pEcJegdaQdBF",
+    "https://www.linkedin.com/company/silicon-box/",
+    "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "https://www.silicon-box.com/",
+    "https://www.jetro.go.jp/biz/areareports/2025/a319bfe382a21f76.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ｓｉｌｉｃｏｎ　Ｂｏｘ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "SiliconBox",
+   "results": [
+    "https://en.wikipedia.org/wiki/Silicon_Box",
+    "https://www.linkedin.com/company/thesiliconbox",
+    "https://grokipedia.com/page/silicon-box",
+    "https://www.silicon-box.com/",
+    "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "https://www.linkedin.com/company/silicon-box/",
+    "https://pitchbook.com/profiles/company/521737-03",
+    "https://www.prysmcapital.com/company/silicon-box"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Silicon Box Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Silicon_Box",
+    "https://www.silicon-box.com/about",
+    "https://www.investlingo.jp/content/2uyNbqXgC36bUn3pEcJegdaQdBF",
+    "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "https://www.linkedin.com/company/silicon-box/",
+    "https://www.silicon-box.com/",
+    "https://www.jetro.go.jp/biznews/2026/04/2dd69d31c0d99ab2.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silicon Box 日本",
+   "results": [
+    "https://en.wikipedia.org/wiki/Silicon_Box",
+    "https://note.com/amenomu/n/nf9787cd2e483",
+    "https://www.silicon-box.com/about",
+    "https://www.investlingo.jp/content/2uyNbqXgC36bUn3pEcJegdaQdBF",
+    "https://www.1p-semicon.com/?p=2045",
+    "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "https://www.silicon-box.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silicon Box 日本 導入",
+   "results": [
+    "https://en.wikipedia.org/wiki/Silicon_Box",
+    "https://note.com/amenomu/n/nf9787cd2e483",
+    "https://www.investlingo.jp/content/2uyNbqXgC36bUn3pEcJegdaQdBF",
+    "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "https://www.silicon-box.com/",
+    "https://www.jetro.go.jp/biz/areareports/2025/a319bfe382a21f76.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silicon Box 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.box.com/ja-jp/partners/channel-program",
+    "https://www.silabs.com/about-us/find-a-distributor",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://semiconbox.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://jpmktg.winbond.com/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silicon Box Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Silicon Box manufacturing customer case study",
+   "results": [
+    "https://www.silicon-box.com/silicon-box-ships-500m-units-at-high-yield-expands-production-capacity-for-panel-level-packaging",
+    "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "https://naikesilicone.com/about-us/customer-cases/",
+    "https://www.wjsilicone.com/landingpage/customer-cases.html",
+    "https://chiplet-marketplace.com/insights/news/silicon-box-ships-100m-units",
+    "https://sbr.com.sg/manufacturing/exclusive/silicon-box-breaks-bottleneck-in-chiplet-packaging-sub-5-micron-technology",
+    "https://www.yolegroup.com/player-interviews/an-emerging-player-makes-a-promising-entry-into-europe-an-interview-with-silicon-box/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silicon Box white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.namesilo.com/reseller"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silicon Box founded funding employees revenue",
+   "results": [
+    "https://www.thecompanycheck.com/company/b/silicon-box/6bd229wlgd53q00es",
+    "https://pitchbook.com/profiles/company/521737-03",
+    "https://compworth.com/company/silicon-box",
+    "https://acquirezy.com/organization/silicon-box",
+    "https://getlatka.com/companies/silicon-box.com",
+    "https://www.silicon-box.com/silicon-box-celebrates-fourth-anniversary-with-rapid-growth-new-milestones",
+    "https://www.zoominfo.com/c/silicon-box-pte-ltd/5000010921"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Silicon Box",
+   "results": [
+    "https://note.com/amenomu/n/nf9787cd2e483",
+    "https://note.com/amenomu/n/nf9787cd2e483?hl=ko",
+    "https://note.com/tag/日付シート",
+    "https://note.com/amenomu/n/nf9787cd2e483?hl=en",
+    "https://note.com/dopodomani/n/n5a6a85ce71b4",
+    "https://note.com/kannsou_dustbox/n/n560c8384d4bf",
+    "https://note.com/ikedanob/n/nc094e82438b1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Silicon Box",
+   "results": [
+    "https://x.com/1p_semicon/status/2044527152591417756",
+    "https://x.com/adolfo_urso/status/2119832508787282190",
+    "https://x.com/stuffedinabox/status/2119923368304460121",
+    "https://x.com/hashtag/silicone",
+    "https://x.com/Beelinkofficial/status/2093608010329301002",
+    "https://x.com/0xKnzo/status/2063991406092283947",
+    "https://x.com/msdev/status/2061852720672432422"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Silicon Box",
+   "results": [
+    "https://www.linkedin.com/company/silicon-box/",
+    "https://www.linkedin.com/company/silicon-box/jobs/",
+    "https://sg.linkedin.com/in/bj-han-8909594",
+    "https://sg.linkedin.com/jobs/view/engineer-ai-and-automation-fresh-graduate-at-silicon-box-4479322901",
+    "https://it.linkedin.com/posts/l-opinionista_silicon-box-a-novara-32-miliardi-di-investimenti-activity-7525939991575683072-CAgS",
+    "https://www.linkedin.com/company/siliconbox",
+    "https://www.linkedin.com/in/youngmichaelhan"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Silicon Box",
+   "results": [
+    "https://www.facebook.com/silicon.box/",
+    "https://www.facebook.com/profile.php/?id=100068211086627",
+    "https://business.facebook.com/groups/420998959012948/",
+    "https://www.facebook.com/al.caparas.9/videos/momentous-event-silcon-box-first-gala-night-siliconbox-longserviceawards-dnd/1316795300398369/",
+    "https://www.facebook.com/WeTheItalians/posts/italy-approves-37-billion-silicon-box-chip-plant-to-strengthen-europes-semicondu/1140164595075694/",
+    "https://www.facebook.com/DealStreetAsiaSG/posts/silicon-box-a-singapore-based-semiconductor-design-and-device-integration-servic/1123456279786764/",
+    "https://www.facebook.com/LaVoceNovara/videos/la-visita-a-novara-del-ministro-delle-imprese-e-del-made-in-italy-adolfo-urso-no/1733664944571905/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silicon Box note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Silicon_Box",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://siliconvalleyinvestclub.com/companies/silicon-box/",
+    "https://siliconvalleyinvestclub.com/id/companies/siliconbox/",
+    "https://www.silicon-box.com/team",
+    "https://www.silicon-box.com/",
+    "https://sg.linkedin.com/in/bj-han-8909594"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silicon Box X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/Silicon_Box",
+    "https://www.silicon-box.com/silicon-box-ships-100m-units-proves-advanced-panel-level-packaging-ready-for-ai-hpc-era",
+    "https://www.investlingo.jp/content/2uyNbqXgC36bUn3pEcJegdaQdBF",
+    "https://pc.watch.impress.co.jp/docs/column/tidbit/1518871.html",
+    "https://startup.genisisiq.com/zh/silicon-box-409baf/",
+    "https://www.silicon-box.com/",
+    "https://x.com/Im_silicon/status/2107491177402605672"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索19回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索19回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索19回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索19回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索19回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索19回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索19回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索19回）"
+ }
+}

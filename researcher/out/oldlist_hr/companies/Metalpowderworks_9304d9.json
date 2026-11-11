@@ -1,0 +1,416 @@
+{
+ "name": "Metalpowderworks",
+ "aliases": [],
+ "context": "旧営業リスト｜Materials / Components｜商談中",
+ "researched_at": "2026-11-11T02:20:59.507042+00:00",
+ "official_url": "https://metalpowderworks.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Metal Powder Works (MPW) provides a safe, high-yield, defect-free process that produces metal powders in small batch sizes, highly suitable for advanced manufacturing applications. The no-melt MPW technology maintains the microstructure and temper of the bar stock material, with no new porosity in the powder.",
+    "url": "https://www.metalpowderworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solid-State Processing",
+    "url": "https://www.metalpowderworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No melting or phase change, improving shelf life and stability.",
+    "url": "https://www.metalpowderworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Flexibility",
+    "url": "https://www.metalpowderworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scaling of the process is neither lead-time or capital-intensive.",
+    "url": "https://www.metalpowderworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy-Efficient Process",
+    "url": "https://www.metalpowderworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal Powder Works Limited (ASX:MPW) is headquartered in Pittsburgh, USA, and specializes in the production of high-quality metal powders for additive manufacturing and other advanced applications. MPW has developed a patented, non-thermal powder production process known as DirectPowder™. The MPW process represents the first true innovation in powder manufacturing in over 50 years.",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Over the years, Chris has had the opportunity to experience the AM industry as a designer, machine operator, and customer. This experience provides a uniquely valuable perspective to his current role at MPW, where we believe we can address some of the final roadblocks to AM adoption: material cost, selection, and quality.",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• First powder produced and patents filed",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• Facility established in Austin, Texas for pilot production",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• Project awards with UC Davis and Carnegie Mellon University for the Department of Energy",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• Successful printing trial of MPW 7075-T6 in Powder Bed Fusion and Cold Spray AM technologies",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• Commissioned 2nd production cell",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• Approved patents issued on DirectPowder™ process",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• Made 2X the material than the previous year",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• Expanded product offerings in Aluminum and Copper alloys",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• Featured in AM Media with a profile of MPW",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• Named Material Company of the Year by the 3D Printing Industry Awards",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• Expanded product offerings to 20+ unique powder alloys",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• More than doubled production capacity of each DirectPowder™ machine – and tripled the size of the fleet from 2 to 6",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "• Established strategic collaboration with Titomic in Cold Spray",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Metal Powder Works | High-Quality Metal Powders for Advanced Manufacturing",
+    "url": "https://www.metalpowderworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal Powder Works (MPW) provides a safe, high-yield, defect-free process that produces metal powders in small batch sizes, highly suitable for advanced manufacturing applications. The no-melt MPW technology maintains the microstructure and temper of the bar stock material, with no new porosity in the powder.",
+    "url": "https://www.metalpowderworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal Powder Works Limited (ASX:MPW) is headquartered in Pittsburgh, USA, and specializes in the production of high-quality metal powders for additive manufacturing and other advanced applications. MPW has developed a patented, non-thermal powder production process known as DirectPowder™. The MPW process represents the first true innovation in powder manufacturing in over 50 years.",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "• Listed on the Australian Securities Exchange (ASX)",
+    "url": "https://www.metalpowderworks.com/about-us",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.metalpowderworks.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metalpowderworks.com/about-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.hotels.com/",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://www.booking.com/hotel/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.expedia.com/Hotels",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.booking.com/city/us/washington.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hawaii.infinitecampus.org/campus/portal/students/hawaii.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infinitecampus.com/login",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://admia.infinitecampus.org/campus/portal/students/adm.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infinitecampus.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zone.msn.com/en/games/spades",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zone.msn.com/en/games/texttwist2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zone.msn.com/en/games/microsoft-bubble",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zone.msn.com/en/games/plinko-game",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Metalpowderworks 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Metalpowderworks 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.hotels.com/",
+    "https://www.booking.com/hotel/index.html",
+    "https://www.expedia.com/Hotels",
+    "https://www.booking.com/city/us/washington.html",
+    "https://www.trivago.com/",
+    "https://www.kayak.com/hotels",
+    "https://www.priceline.com/hotels",
+    "https://www.wyndhamhotels.com/",
+    "https://www.agoda.com/",
+    "https://www.travelocity.com/Hotels"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Metalpowderworks Japan",
+   "results": [
+    "https://hawaii.infinitecampus.org/campus/portal/students/hawaii.jsp",
+    "https://www.infinitecampus.com/login",
+    "https://admia.infinitecampus.org/campus/portal/students/adm.jsp",
+    "https://www.infinitecampus.com/",
+    "https://www.infinitecampus.com/parents-and-students/",
+    "https://eggharbornj.infinitecampus.org/campus/portal/students/eggharbor.jsp",
+    "https://cedarrapidsia.infinitecampus.org/campus/portal/students/cedarrapids.jsp",
+    "https://auroraco.infinitecampus.org/campus/portal/students/aurora.jsp",
+    "https://jcpsky.infinitecampus.org/campus/portal/students/jcps.jsp",
+    "https://www.infinitecampus.com/support/parents-and-students"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Metalpowderworks manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Metalpowderworks white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Metalpowderworks founded funding employees revenue",
+   "results": [
+    "https://zone.msn.com/en/games/spades",
+    "https://zone.msn.com/en/games/texttwist2",
+    "https://zone.msn.com/en/games/microsoft-bubble",
+    "https://zone.msn.com/en/games/plinko-game",
+    "https://zone.msn.com/en/games/mahjonggdarkdimensions",
+    "https://zone.msn.com/en/games/microsoft-mahjong",
+    "https://zone.msn.com/en/games/wordwipe",
+    "https://zone.msn.com/en/games/bubble-town",
+    "https://zone.msn.com/en/games/lettergarden",
+    "https://zone.msn.com/en/games/mstripeaks"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:note.com Metalpowderworks",
+   "results": [
+    "https://www.ncaa.com/standings/basketball-men/d1",
+    "https://msuspartans.com/",
+    "https://msuspartans.com/sports/mens-basketball",
+    "https://www.espn.com/mens-college-basketball/team/_/id/127/michigan-state-spartans",
+    "https://www.foxsports.com/college-basketball/michigan-state-spartans-team-standings",
+    "https://www.cbssports.com/college-basketball/teams/michst/michigan-st-spartans/",
+    "https://theanalyst.com/basketball/team/bbm-1499/michigan-state-spartans/standings",
+    "https://www.espn.co.uk/mens-college-basketball/team/_/id/127/michigan-state-spartans",
+    "https://www.teamrankings.com/ncaa-basketball/team/michigan-st-spartans",
+    "https://www.ncaa.com/rankings/basketball-men/d1/di-mens-basketball-associated-press"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 30
+  },
+  {
+   "query": "site:x.com Metalpowderworks",
+   "results": [
+    "https://techcommunity.microsoft.com/discussions/windowsinsiderprogram/windows-8-1-iso-download-for-64-and-32-bit/4454650",
+    "https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-continues-build-the-skills-that-move-business-forward/4494139",
+    "https://support.microsoft.com/en-us/sharepoint/platform/what-is-sharepoint",
+    "https://support.microsoft.com/en-gb/contactus",
+    "https://support.microsoft.com/es-ar/contactus/",
+    "https://www.microsoft.com/en-us/",
+    "https://support.microsoft.com/fr-be/contactus/",
+    "https://support.microsoft.com/en-us/edge/",
+    "https://support.microsoft.com/en-us/accounts-billing/work-school/sign-in-to-your-work-or-school-account-using-two-step-verification",
+    "https://support.microsoft.com/de-de/accounts-billing/manage/how-to-sign-in-to-hotmail"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Metalpowderworks",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Metalpowderworks",
+   "results": [
+    "https://www.weatherworld.com/14dayweather/ca/monterey.html",
+    "https://weather.com/us/california/city/monterey/tenday",
+    "https://weather.com/us/california/city/monterey/today",
+    "https://www.wunderground.com/forecast/us/ca/monterey",
+    "https://www.accuweather.com/en/us/monterey/93940/weather-forecast/331966",
+    "https://forecast.weather.gov/zipcity.php?inputstring=Monterey,CA",
+    "https://www.accuweather.com/en/us/monterey/93940/hourly-weather-forecast/331966",
+    "https://www.weather-forecast.com/locations/Monterey/forecasts/latest",
+    "https://www.easeweather.com/north-america/united-states/california/monterey-county/monterey/today",
+    "https://weather.yahoo.com/us/ca/monterey/;_ylt=A2RQctbe0fNqoQIAeKBXNyoA;_ylu=Y29sbwN1cy13ZXN0LTIEcG9zAzEwBHZ0aWQDBHNlYwNzcg--"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Metalpowderworks note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Point_Break",
+    "https://www.imdb.com/title/tt0102685/characters/nm0000206",
+    "https://hero.fandom.com/wiki/Johnny_Utah",
+    "https://entertainmentnow.com/news/photos-point-break-cast-then-now/",
+    "https://www.aol.com/articles/ever-happened-cast-point-break-145900000.html",
+    "https://www.movie-locations.com/movies/p/Point-Break.php",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Film/PointBreak1991",
+    "https://faroutmagazine.co.uk/johnny-utah-keanu-reeve-most-important-character/",
+    "https://en.everybodywiki.com/Johnny_Utah_(character)",
+    "https://thefilmaholic.com/character/johnny-utah"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Metalpowderworks X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/Henry_Ford",
+    "https://www.britannica.com/money/Henry-Ford",
+    "https://www.history.com/articles/henry-ford",
+    "https://www.pbs.org/wgbh/americanexperience/features/henryford/",
+    "https://corporate.ford.com/corporate/corporate/articles/history/henry-ford-biography/",
+    "https://www.biography.com/business-leaders/henry-ford",
+    "https://corporate.ford.com/about/history/",
+    "https://www.britannica.com/facts/Henry-Ford",
+    "https://www.newworldencyclopedia.org/entry/Henry_Ford",
+    "https://www.henryford.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部12頁・検索12回）"
+ }
+}

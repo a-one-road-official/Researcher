@@ -1,0 +1,1467 @@
+{
+ "name": "Estimote",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜リマイン1",
+ "researched_at": "2026-11-11T02:13:14.970439+00:00",
+ "official_url": "https://estimote.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Equity Crowdfunding",
+    "value": "09-Oct-2013    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/58572-19",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "15-Jun-2013 $300K $300K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/58572-19",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "It is a next-generation operating system that you install on your physical spaces. It makes them intelligent and programmable. You can run apps and create prompts directly on your physical business.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect presence and movement from reflected radio signals. Useful for room occupancy and automation, without asking people to carry phones or tags.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "UWB radar sends short radio pulses and measures the signals that bounce back. Movement changes those reflections, so software can detect that someone has entered a room or approached an area.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use signal processing or machine learning to turn the measurements into events your app can use. For example, occupancy could control lighting or help a team see which meeting rooms need attention. The detail you can detect depends on sensor placement and the software model.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A button press can request help, while LEDs provide a clear response. Connect these interactions to your software to support everyday workflows, from checking in to changing settings automatically.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make nearby places and objects recognizable to your app. Estimote BLE Beacons are small wireless transmitters designed for affordable proximity experiences and easy deployment at scale.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Redesigned around experience from millions of deployed devices, these beacons focus on simplicity and cost. They can run for multiple years, depending on the configuration. Choose Bluetooth when proximity is enough; use UWB when your application needs a more precise position.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Redesigned for scale, these tags use simpler components to keep large deployments affordable. They are a practical choice when you need to know that an asset is nearby and do not require the positioning precision of UWB.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Walk into a meeting room and find your call ready to start. Beacons let your app recognize the room, while radar detects occupancy. Connect these signals to SpaceTimeOS to welcome guests and prepare the space.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "meeting room, welcome screen, automatic check-in, video call, room automation, hotel",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make a busy station easier to navigate. Guide travelers to the right platform with directions on their phones. Use UWB for precise positioning or Bluetooth for nearby points of interest, with routes built around your station map.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give passengers a timely reminder to step back. Use a compatible phone’s UWB position to trigger an alert near a mapped platform edge. Radar can add presence signals for station staff, alongside existing safety measures.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make a large office feel familiar from day one. Guide people to meeting rooms, desks, and shared facilities on their phones. Combine precise indoor positioning or Bluetooth landmarks with a map that reflects how your workplace is used.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "office navigation, workplace wayfinding, meeting rooms, desk finder, employee onboarding",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let the drive-thru recognize an arriving customer’s app. Bring up a menu or send a pickup event to your ordering system. Use Bluetooth proximity, or UWB where lane-level positioning matters, to help staff prepare the right order.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "cargo loader, aircraft turnaround, container tracking, apron, handoff",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help travelers confirm the train in front of them. Beacons can identify a nearby carriage, while UWB supports more precise platform guidance. Connect that location context to live service information in your passenger app.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give officers a simple way to check in at the station or request support. Wearable buttons provide the interaction; Bluetooth landmarks add location context. Bring those events into a shared view for the team coordinating the shift.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give workers a reminder when they approach a mapped restricted area. Wearables and Bluetooth landmarks can add zone context to site workflows. For spaces needing finer boundaries, consider UWB positioning as part of the solution design.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring site boundaries into the tools crews already use. A compatible phone can use UWB position to show a warning near a restricted zone. Radar can add presence signals for supervisors, supporting existing site safety procedures.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let an exhibit introduce itself as visitors approach. Bluetooth landmarks or UWB position can tell a connected guide which gallery they are in. Use that context for audio, captions, or content on compatible smart glasses.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "smart glasses, exhibit guide, augmented reality, museum audio, contextual content",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make everyday spaces respond to presence. Radar can detect someone entering the kitchen, while a nearby beacon helps an app recognize the room. Connect those events to lighting or appliance controls through your automation software.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart homes, Residential property, Hospitality",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "kitchen automation, room presence, smart lighting, connected appliances",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make your physical operations fully digital, programmable and intelligent",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "SpaceTimeOS turns your physical space into a software-defined, programmable canvas. Create geofences, set up triggers, or write prompts that define what should happen when people or things move or interact.",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Think of it as a computer game, but for real operations inside your business: you can see events as they happen and reprogram how your space responds. Watch KPIs on widgets or build automations that put location intelligence to work.",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Use location data and rules to improve productivity and safety, or to delight your clients. You can also use SpaceTimeOS as a completely new source of rich data for your machine-learning model to help you create your own location intelligence.",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Support at the press of a button",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "A prompt at the right doorway",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring location into training",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare for security screening",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "A heads-up at baggage claim",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring product details closer",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Listen to the product story",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a property from the window",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Content for the waiting area",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Product information at a glance",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow crates through a process",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Helpful content on the cart",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect proximity to car access",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "See cleaning progress by area",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep the production kit together",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Once deployed, the anchor nodes communicate with one another wirelessly and map the space automatically, calculating their own coordinates. They upload the map to a cloud or on-premises server, depending on your configuration.",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "All data streams to the server over MQTT, where the location-intelligence engine processes it and triggers relevant actions, applications, and workflows following deterministic scripts or prompts.",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "SpaceTimeOS is an operating system for your physical business, where the movement of people and things is an input and safety, productivity, intelligence or simply amazing magical experiences are the output.",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "PROGRAMMABLE PHYSICAL WORLD",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "You can write your scripts in JavaScript where things, avatars and zones are programmable. You can also write prompts and .md instructions that are processed when things change.",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": ".notify(\"Anonymous presence detected in Clinical Supply.\");",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "A new indoor GPS standard: superior positioning accuracy, scalability and privacy",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "Using those time differences and the anchors’ coordinates, phones calculate their precise position in space. This technique is called Time Difference of Arrival, or TDoA.",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "Because phones only listen to the signals and calculate the position locally, the system is privacy-friendly. This is also called a Downlink architecture, or simply DL-TDoA.",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "This footage demonstrates the precise indoor positioning made possible by UWB DL-TDoA.",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "A prompt at the right doorway",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring location into training",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "Listen to the product story",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "Helpful content on the cart",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "Once you enter the room and the iPhone receives these settings, its UWB chip begins collecting time measurements from nearby anchors. Combined with the anchors’ true coordinates, those measurements let the phone calculate its precise indoor position.",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "A typical deployment delivers about 20–30 cm accuracy. Results depend on anchor count, placement, geometry, line of sight, and processing. A carefully designed cluster with additional filtering can improve both accuracy and stability.",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Give warehouse teams a shared view of where stock was last detected. Tag pallets and containers, then bring receiver updates onto a floor plan. Wearable buttons let staff request a pickup while keeping their hands free.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehousing, Logistics, Manufacturing, Retail distribution",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "inventory, stock location, pallet tracking, picking, warehouse map, pickup request, factory",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find the service vehicle your team needs before the next train arrives. Bluetooth tags and nearby receivers show its last detected area on a station map. Equip operators with wearable buttons to request support or confirm a job.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Construction, Manufacturing, Industrial maintenance",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "tool tracking, toolbox, equipment location, construction site, maintenance tools, factory",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep tire inventory within reach. Tag racks or batches and use nearby receivers to record where they were last seen. Bring those updates into SpaceTimeOS so teams can find stock and coordinate picking across the warehouse.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive, Tire distribution, Warehousing, Manufacturing",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "tire inventory, tyre tracking, stock location, warehouse picking, batch tracking, factory",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mining, Tunneling, Construction, Industrial maintenance",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "restricted zone, wearable alert, hazardous area, site safety, geofence, factory",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "geofence, restricted area, phone warning, work zone, safety boundary, factory",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help warehouse teams locate available equipment by area. Tag forklifts and connect receiver detections to your operations map. Wearable buttons let drivers confirm availability or request their next task without reaching for a phone.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehousing, Logistics, Manufacturing",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "forklift location, equipment availability, driver dispatch, warehouse fleet, factory",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing, Laboratories, Facilities management",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "restricted room, access event, presence detection, staff check-in, factory",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give warehouse staff a dedicated way to check in or request assistance. Wearable buttons send events to your software, while Bluetooth landmarks add work-area context. Use the shared view to coordinate teams across a large facility.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehousing, Distribution, Manufacturing",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "shift check-in, warehouse wearable, team location, staff assistance, factory",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Construction, Manufacturing, Field services",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "crew coordination, task confirmation, wearable button, supervisor, factory",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect people to warehouse tasks",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "warehouse tasks, pickup confirmation, staff workflow, connected workforce",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Link a crate to its shipment record when it is prepared for dispatch. Attach a Bluetooth tag, then use receiver detections to record movements through equipped areas. Keep those updates connected to your warehouse workflow.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow pallets through the warehouse",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect people to warehouse tasks",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Help from the warehouse floor",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "It uses regulated, consumer-grade UWB radio at low transmit power. People with pacemakers or during pregnancy should follow the same medical and manufacturer guidance that applies to other consumer radio equipment.",
+    "url": "https://estimote.com/uwb-radar/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "UWB anchors are fixed devices that send radio signals from known locations. A compatible phone compares when those signals arrive to work out its own position inside the building.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The technique is called downlink time difference of arrival, or DL-TDoA. Signals from different anchors travel different distances. Their arrival times give the phone information it can use to calculate where it is.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect presence and movement from reflected radio signals. Useful for room occupancy and automation, without asking people to carry phones or tags.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for teams that need a dedicated tool without the cost and complexity of a screen. Bring connectivity and location-aware interactions into your operations with a device people can carry.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make boarding feel effortless. Let an opted-in app recognize the train and register a journey. Connect arrival and departure events to your ticketing system so it can calculate the fare and handle payment.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help patients and visitors arrive with less uncertainty. Put hospital directions on their phones, from the entrance to the right department. Combine indoor positioning with accessible routes and nearby landmarks to make every turn easier to follow.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find the service vehicle your team needs before the next train arrives. Bluetooth tags and nearby receivers show its last detected area on a station map. Equip operators with wearable buttons to request support or confirm a job.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your order, ready on arrival",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let the drive-thru recognize an arriving customer’s app. Bring up a menu or send a pickup event to your ordering system. Use Bluetooth proximity, or UWB where lane-level positioning matters, to help staff prepare the right order.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "drive-thru, curbside pickup, mobile ordering, customer arrival, order collection",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help passengers find their seat without searching every row. Combine the carriage layout with Bluetooth landmarks or UWB positioning on compatible phones. The same location context can support at-seat orders and requests for assistance.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "seat navigation, carriage map, onboard services, at-seat delivery, train seating",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help, in the right carriage",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make it easier for passengers to ask for help. Let an app identify the carriage from nearby beacons and send a request to staff. A connected wearable offers a dedicated button for passengers who need one.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "passenger assistance, help button, onboard alert, carriage location, accessibility",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome registered vehicles without a stop at the ticket machine. Use a nearby app to identify the entrance and radar to detect a waiting vehicle. Connect these events to your parking system, which decides when to open the barrier.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "parking barrier, vehicle arrival, access control, garage entry, hotel",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help travelers confirm the train in front of them. Beacons can identify a nearby carriage, while UWB supports more precise platform guidance. Connect that location context to live service information in your passenger app.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help veterinary teams know which room an animal was last detected in. Attach a suitable Bluetooth tag to its carrier or collar, then connect receiver updates to the clinic map and care workflow.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "pet location, veterinary clinic, animal tracking, carrier, treatment room",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give workers a reminder when they approach a mapped restricted area. Wearables and Bluetooth landmarks can add zone context to site workflows. For spaces needing finer boundaries, consider UWB positioning as part of the solution design.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn a depot arrival into a useful update. Tag trailers and detect them at equipped entrances or bays. Connect the event to dispatch software, and let crews confirm a handoff with a wearable button.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "trailer arrival, depot return, handoff, fleet tracking, dispatch",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let field teams check in or request support with a dedicated wearable. Its cellular connection can send events where coverage is available. Add Bluetooth landmarks at work sites so each check-in can carry useful place context.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help staff locate equipment without searching every corridor. Bluetooth tags and nearby receivers record the area where an item was last detected. Put that information on a hospital map so teams can arrange the next handoff.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your order, ready on arrival",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Help, in the right carriage",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "An easier route through arrivals",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Spot your bag at arrivals",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Know when a trailer arrives",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn an arrival into a check-in",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "A gate that knows an arrival",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "These signals include the coordinates where the UWB anchors were installed. Phones and other compatible devices receive the signals and measure the differences in their arrival times. Signals from nearby anchors arrive sooner. Signals from more distant anchors take longer.",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "Using those time differences and the anchors’ coordinates, phones calculate their precise position in space. This technique is called Time Difference of Arrival, or TDoA.",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "An easier route through arrivals",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "Your order, ready on arrival",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "It passes the DL-TDoA network ID that the anchors are configured with and an out-of-band (OOB) channel that tells the iPhone whether UWB session and DL-TDoA cluster parameters will arrive over Wi-Fi or Bluetooth Low Energy.",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "On the left, you can see real radar frames recorded alongside the person’s estimated position. The waterfall shows changes in the signal, while the room view traces the person’s movement over the past few seconds. Notice how the reflections are stronger and arrive sooner when the person is closer to the radar. The most recent radar frames appear at the top of the waterfall.",
+    "url": "https://estimote.com/uwb-radar/",
+    "pass": 1
+   },
+   {
+    "quote": "A gate that knows an arrival",
+    "url": "https://estimote.com/uwb-radar/",
+    "pass": 1
+   },
+   {
+    "quote": "A precise clock measures the time between emitting signals and receiving various reflections. Reflections from things further away will arrive later with a weaker amplitude.",
+    "url": "https://estimote.com/uwb-radar/",
+    "pass": 1
+   },
+   {
+    "quote": "UWB Radar can detect presence, motion, people, vehicles, robots, animals, and moving machine parts. It observes how objects change reflected radio signals, so sensing does not require a person to carry a phone or wearable.",
+    "url": "https://estimote.com/uwb-radar/",
+    "pass": 1
+   },
+   {
+    "quote": "We're very sorry that you have such experience. We are in the middle of fixing these issues that unfortunately made to 2.39.0 version. Hopefully 2.39.1 will arrive as soon as possible.",
+    "url": "https://apps.apple.com/us/app/estimote/id686915066",
+    "pass": 3
+   },
+   {
+    "quote": "This organization has no public members. You must be a member to see who’s a part of this organization.",
+    "url": "https://github.com/estimote",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote, Inc. Revenue 2024: $6.3M Est.",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote, Inc. revenue",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote, Inc. has not published its revenue. GetLatka estimates it at about $6.3M a year (October 2024).",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote, Inc. CEO, founders & employees",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Jakub Krzych founded Estimote, Inc. in 2013 and runs it as CEO. Estimote, Inc. had 24 employees (December 2024, LinkedIn), down from 27 a year earlier.",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "What is Estimote, Inc.'s revenue?",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Estimote, Inc.'s revenue at about",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Estimote, Inc. have?",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/58572-19",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote has 32 total employees.",
+    "url": "https://pitchbook.com/profiles/company/58572-19",
+    "pass": 3
+   },
+   {
+    "quote": "What is Estimote’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/58572-19",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Estimote is",
+    "url": "https://pitchbook.com/profiles/company/58572-19",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Click the button below to send an email using your default email app.",
+    "url": "https://estimote.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reasonable email support",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Click below to send an email using your email app. We’ll reply from the same address, so please make sure our response doesn’t end up in your spam folder.",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Click the button below to send an email using your default email app.",
+    "url": "https://estimote.com/spacetime-os/",
+    "pass": 1
+   },
+   {
+    "quote": "Reasonable email support",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "Click the button below to send an email using your email app. We’ll reply from the same address, so please make sure our response doesn’t end up in your spam folder.",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "Click the button below to send an email using your default email app.",
+    "url": "https://estimote.com/dl-tdoa/",
+    "pass": 1
+   },
+   {
+    "quote": "Reasonable email support",
+    "url": "https://estimote.com/uwb-radar/",
+    "pass": 1
+   },
+   {
+    "quote": "Click below to send an email using your email app. We’ll reply from the same address, so please make sure our response doesn’t end up in your spam folder.",
+    "url": "https://estimote.com/uwb-radar/",
+    "pass": 1
+   },
+   {
+    "quote": "Click the button below to send an email using your default email app.",
+    "url": "https://estimote.com/uwb-radar/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/58572-19",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "The New Estimote // 新しいビーコン. DGI投資先のEstimote（エスティモート）がJapan IT… | by Takahiro Shoji | Open Network Lab Blog | Medium",
+    "url": "https://medium.com/open-network-lab/the-new-estimote-%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3-253561db6b12",
+    "pass": 3
+   },
+   {
+    "quote": "に参加するため短期間ですが 10/24〜10/26に東京へ来ます",
+    "url": "https://medium.com/open-network-lab/the-new-estimote-%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3-253561db6b12",
+    "pass": 3
+   },
+   {
+    "quote": "case1: Target 導入事例（マーケティング施策）",
+    "url": "https://medium.com/open-network-lab/the-new-estimote-%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3-253561db6b12",
+    "pass": 3
+   },
+   {
+    "quote": "case2: FC Barcelona 導入事例 （エンゲージメントの強化）",
+    "url": "https://medium.com/open-network-lab/the-new-estimote-%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3-253561db6b12",
+    "pass": 3
+   },
+   {
+    "quote": "DG Incubation投資以降、日本向けのサポートも開始し、日本で複数のパートナーとプロダクト開発を行っています",
+    "url": "https://medium.com/open-network-lab/the-new-estimote-%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3-253561db6b12",
+    "pass": 3
+   },
+   {
+    "quote": "別の機会に日本での事例も紹介したいと思います",
+    "url": "https://medium.com/open-network-lab/the-new-estimote-%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3-253561db6b12",
+    "pass": 3
+   },
+   {
+    "quote": "estimote社が想定する、４つの位置情報の新しい形 - 株式会社プライメッジ Primedge Inc.",
+    "url": "https://primedge.net/2013/12/estimote%E7%A4%BE%E3%81%8C%E6%83%B3%E5%AE%9A%E3%81%99%E3%82%8B%E3%80%81%EF%BC%94%E3%81%A4%E3%81%AE%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社プライメッジ Primedge Inc.",
+    "url": "https://primedge.net/2013/12/estimote%E7%A4%BE%E3%81%8C%E6%83%B3%E5%AE%9A%E3%81%99%E3%82%8B%E3%80%81%EF%BC%94%E3%81%A4%E3%81%AE%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "今は英語での開発者ブログやQ&Aサイトなどで、試行錯誤の結果が報告されているにとどまり、日本語での情報は少ない状況が続いています",
+    "url": "https://primedge.net/2013/12/estimote%E7%A4%BE%E3%81%8C%E6%83%B3%E5%AE%9A%E3%81%99%E3%82%8B%E3%80%81%EF%BC%94%E3%81%A4%E3%81%AE%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "NEXT JAPAN -熱き求道者-で紹介されました",
+    "url": "https://primedge.net/2013/12/estimote%E7%A4%BE%E3%81%8C%E6%83%B3%E5%AE%9A%E3%81%99%E3%82%8B%E3%80%81%EF%BC%94%E3%81%A4%E3%81%AE%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "今週月曜日に来日中のポーランド Estimote社日本営業担当のマルタさんに同行していただき、Estimoteビーコンを数十個購入され、そして、Beacondoでスマホアプリを開発されているSIerを手掛けるお客を訪問しました",
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "pass": 3
+   },
+   {
+    "quote": "はじめまして！ TTN Japanアンバサダーです",
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "pass": 3
+   },
+   {
+    "quote": "Packet Broker Office Hours ~ Global backbone for LoRaWAN networks【日本語字幕入り】",
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "pass": 3
+   },
+   {
+    "quote": "右下字幕オプションで日本語を選択してご覧ください",
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "pass": 3
+   },
+   {
+    "quote": "「無料で使えるLoRaWANサービス〜The Things Network Japanコミュニティ」",
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.crijapan.jp",
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のTTNカバレッジの現実、LoRaWAN Peering, パブリックLoRaWANと自営LoRaWANとのハイブリッド連携 (09/25)",
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "pass": 3
+   },
+   {
+    "quote": "薄膜太陽電池：カルコパイライト系太陽電池（=CIGS）、ペロブスカイト系太陽電池、有機薄膜(OPV)の仕組みの違い、メリット、日本国内の導入実績、タンデム型薄膜太陽電池の動向 (04/01)",
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Things Network Japan (48)",
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "pass": 3
+   },
+   {
+    "quote": "LoRa Alliance Tokyo (0)",
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote - 株式会社 DG ベンチャーズ",
+    "url": "https://dgventures.com/portfolio/estimote/",
+    "pass": 3
+   },
+   {
+    "quote": "Estimoteが新型コロナ接触者を追跡するウェアラブル端末を発表 （TechCrunch Japan）",
+    "url": "https://dgventures.com/portfolio/estimote/",
+    "pass": 3
+   },
+   {
+    "quote": "【衝撃】銅の時代が終了？日本が見つけた「炭素の電線」カーボンナノチューブが凄すぎる｜住友電工・日本ゼオン",
+    "url": "https://www.youtube.com/watch?v=wtBERi7Lf3c",
+    "pass": 3
+   },
+   {
+    "quote": "【海外の反応】世界に誇る日本の技術 【日本すごい】",
+    "url": "https://www.youtube.com/watch?v=wtBERi7Lf3c",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "The New Estimote // 新しいビーコン - Medium — The New Estimote // 新しいビーコン - Medium Medium https://medium.com > open-network-lab > the-new-estimo...",
+    "url": "https://medium.com/open-network-lab/the-new-estimote-%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3-253561db6b12",
+    "pass": 3
+   },
+   {
+    "quote": "estimote 社が想定する、4つの位置情報の新しい形 — estimote 社が想定する、4つの位置情報の新しい形 primedge.net https://primedge.net > 2013 > December",
+    "url": "https://primedge.net/2013/12/estimote%E7%A4%BE%E3%81%8C%E6%83%B3%E5%AE%9A%E3%81%99%E3%82%8B%E3%80%81%EF%BC%94%E3%81%A4%E3%81%AE%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E5%BD%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "ポーランドのiBeaconベンチャー Estimote 社来日 — ポーランドのiBeaconベンチャー Estimote 社来日 joomlaweb.blog.fc2.com https://joomlaweb.blog.fc2.com > blog-entry-174",
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote - 株式会社 DG ベンチャーズ — Estimote - 株式会社 DG ベンチャーズ 株式会社 DG ベンチャーズ https://dgventures.com > Portfolio",
+    "url": "https://dgventures.com/portfolio/estimote/",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote のBeaconモジュール「 Estimote Beacon」をチェック — Estimote のBeaconモジュール「 Estimote Beacon」をチェック Mac OTAKARA https://www.macotakara.jp > アクセサリ",
+    "url": "https://www.macotakara.jp/accessories/entry-22467.html",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote — Indoor location for your apps — Estimote — Indoor location for your apps Estimote https://estimote.com",
+    "url": "https://estimote.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote Indoor Location - YouTube — Estimote Indoor Location - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=wtBERi7Lf3c",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote - App Store - Apple — Estimote - App Store - Apple Apple https://apps.apple.com > app > estimote",
+    "url": "https://apps.apple.com/us/app/estimote/id686915066",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote , Inc. - GitHub — Estimote , Inc. - GitHub GitHub https://github.com > estimote",
+    "url": "https://github.com/estimote",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote Beacon Setup Guide - Purple Support — Estimote Beacon Setup Guide - Purple Support Purple WiFi https://support.purple.ai > articles > 1...",
+    "url": "https://support.purple.ai/hc/en-gb/articles/12843889681821-Estimote-Beacon-Setup-Guide",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote , Inc. Revenue 2024: $6.3M Est. — Estimote , Inc. Revenue 2024: $6.3M Est. GetLatka https://getlatka.com > estimote-inc",
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote 2026 Company Profile: Valuation, Funding & Investors — Estimote 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/58572-19",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote - Crunchbase Company Profile & Funding — Estimote - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > estimote",
+    "url": "https://www.crunchbase.com/organization/estimote",
+    "pass": 3
+   },
+   {
+    "quote": "Invest In Estimote , Inc. Stock | Buy Pre-IPO Shares - EquityZen — Invest In Estimote , Inc. Stock | Buy Pre-IPO Shares - EquityZen EquityZen https://equityzen.com > estimote",
+    "url": "https://equityzen.com/company/estimote/",
+    "pass": 3
+   },
+   {
+    "quote": "Estimote - 2026 Company Profile, Team, Funding & Competitors — Estimote - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/estimote/__uUv9s90ubSEpLogVkap60uydk83H7n9PapfNXSJGOO0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Estimote , Inc. - LinkedIn Estimote , Inc. - LinkedIn LinkedIn https://www.linkedin.com > estimote",
+    "url": "https://www.linkedin.com/company/estimote",
+    "pass": 3
+   },
+   {
+    "quote": "Jakub Krzych - CEO & Co-Founder at Estimote , Inc. (YC S13) Jakub Krzych - CEO & Co-Founder at Estimote , Inc. (YC S13) LinkedIn https://www.linkedin.com > krzych",
+    "url": "https://www.linkedin.com/in/krzych",
+    "pass": 3
+   },
+   {
+    "quote": "Lukasz Kostka - Co-Founder & CTO at Estimote , Inc. (YC S13) Lukasz Kostka - Co-Founder & CTO at Estimote , Inc. (YC S13) LinkedIn https://pl.linkedin.com > lukaszkostka",
+    "url": "https://pl.linkedin.com/in/lukaszkostka",
+    "pass": 3
+   },
+   {
+    "quote": "Konrad Noah Piercey - Client Strategy at Estimote , Inc. Konrad Noah Piercey - Client Strategy at Estimote , Inc. LinkedIn https://www.linkedin.com > konradpi...",
+    "url": "https://www.linkedin.com/in/konradpiercey",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Estimote , Inc. - Facebook Estimote , Inc. - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/estimote/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://estimote.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://estimote.com/spacetime-os/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://estimote.com/dl-tdoa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://estimote.com/uwb-radar/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://medium.com/open-network-lab/the-new-estimote-%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3-253561db6b12",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://primedge.net/2013/12/estimote%E7%A4%BE%E3%81%8C%E6%83%B3%E5%AE%9A%E3%81%99%E3%82%8B%E3%80%81%EF%BC%94%E3%81%A4%E3%81%AE%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E5%BD%A2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dgventures.com/portfolio/estimote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medium.com/open-network-lab/the-new-estimote-%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3-253561db6b12",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dgventures.com/portfolio/estimote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=686893289984_1791849600260",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=wtBERi7Lf3c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://apps.apple.com/us/app/estimote/id686915066",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/estimote",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vIEb-uVNogb4GRH70gFbN0ZwobyBC-g8obDsp0Auyboz9xj0ps4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/estimote-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/58572-19",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/estimote",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://equityzen.com/company/estimote/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/estimote",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/krzych",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pl.linkedin.com/in/lukaszkostka",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/konradpiercey",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/estimote/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Estimote 日本 導入",
+   "results": [
+    "https://medium.com/open-network-lab/the-new-estimote-%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3-253561db6b12",
+    "https://primedge.net/2013/12/estimote%E7%A4%BE%E3%81%8C%E6%83%B3%E5%AE%9A%E3%81%99%E3%82%8B%E3%80%81%EF%BC%94%E3%81%A4%E3%81%AE%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E5%BD%A2/",
+    "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "https://dgventures.com/portfolio/estimote/",
+    "https://www.macotakara.jp/accessories/entry-22467.html",
+    "https://news.livedoor.com/article/detail/9181197/",
+    "https://pando.life/article/4772608",
+    "https://jp.asteria.com/news/2016102737328/",
+    "https://xtech.nikkei.com/it/article/COLUMN/20131204/522683/?P=4",
+    "https://medium.com/open-network-lab/the-new-estimote-新しいビーコン-253561db6b12"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Estimote 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://medium.com/open-network-lab/the-new-estimote-%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3-253561db6b12",
+    "https://dgventures.com/portfolio/estimote/",
+    "https://joomlaweb.blog.fc2.com/blog-entry-174.html",
+    "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=686893289984_1791849600260",
+    "https://idtechproducts.com/ja/company/distributors/",
+    "https://samril.hatenadiary.org/entry/20131211/1386816475",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://www.thinkymixer.com/ja-jp/sales-office/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3770",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Estimote Japan",
+   "results": [
+    "https://estimote.com/",
+    "https://www.youtube.com/watch?v=wtBERi7Lf3c",
+    "https://apps.apple.com/us/app/estimote/id686915066",
+    "https://github.com/estimote",
+    "https://support.purple.ai/hc/en-gb/articles/12843889681821-Estimote-Beacon-Setup-Guide",
+    "https://estimote.com/uwb-radar/",
+    "https://www.youtube.com/watch?v=JrRS8qRYXCQ",
+    "https://www.geekwire.com/2014/sticker-beacon-estimote-launching-tiny-nearables-sensors-track-items/",
+    "https://medium.com/open-network-lab/the-new-estimote-%E6%96%B0%E3%81%97%E3%81%84%E3%83%93%E3%83%BC%E3%82%B3%E3%83%B3-253561db6b12",
+    "https://www.japan-experience.com/internet-access/e-sim-by-japan-experience"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Estimote manufacturing customer case study",
+   "results": [
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vIEb-uVNogb4GRH70gFbN0ZwobyBC-g8obDsp0Auyboz9xj0ps4",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://safetychain.com/resources/case-studies",
+    "https://www.mtisystems.com/case-study/index.html",
+    "https://estimote.com/",
+    "https://www.reddit.com/r/ProductMarketing/comments/1loc892/how_do_youyour_company_make_best_use_of_case/",
+    "https://estimote.com/assets/estimote-use-cases.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Estimote white label OR reseller OR partner program",
+   "results": [
+    "https://estimote.com/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.whitelabelcomm.com/white-label-partner-program/",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://kannect.co/partner/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Estimote founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/estimote-inc",
+    "https://pitchbook.com/profiles/company/58572-19",
+    "https://www.crunchbase.com/organization/estimote",
+    "https://equityzen.com/company/estimote/",
+    "https://tracxn.com/d/companies/estimote/__uUv9s90ubSEpLogVkap60uydk83H7n9PapfNXSJGOO0",
+    "https://www.zoominfo.com/c/estimote-inc/357310660",
+    "https://itkey.media/estimote-specialised-in-beacons-raises-10-7-million-series-a/",
+    "https://www.linkedin.com/in/krzych",
+    "https://www.ycombinator.com/blog/ibeacon-pioneer-estimote-yc-s13-raises-3-dollars-dot-1m-from-innovation-endeavors-betaworks-bessemer",
+    "https://compworth.com/company/estimote"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:note.com Estimote",
+   "results": [
+    "https://note.com/harapecofukuoka/n/nee441e1ab80a?hl=en",
+    "https://note.com/harapecofukuoka/n/ncdca33c506e5",
+    "https://note.com/harapecofukuoka/n/n4fd2d8d1309b",
+    "https://note.com/chaoyang/n/nef0b8d7e7e8a?hl=en",
+    "https://note.com/cocoa369/n/n0fefffca1fb0/comments",
+    "https://note.com/cocoa369/n/n0fefffca1fb0"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:x.com Estimote",
+   "results": [
+    "https://x.com/stevecheney",
+    "https://x.com/ljdk",
+    "https://x.com/hashtag/UWB",
+    "https://x.com/next_signal",
+    "https://x.com/mitjakolbe",
+    "https://x.com/vesalyazdi",
+    "https://x.com/Digitai79",
+    "https://x.com/scottbcovert",
+    "https://x.com/maron_agata",
+    "https://x.com/stevecheney/status/1034833679829426178"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Estimote",
+   "results": [
+    "https://www.linkedin.com/company/estimote",
+    "https://www.linkedin.com/in/krzych",
+    "https://pl.linkedin.com/in/lukaszkostka",
+    "https://www.linkedin.com/in/konradpiercey",
+    "https://www.linkedin.com/in/djhayden",
+    "https://www.linkedin.com/in/przemekblasiak",
+    "https://www.linkedin.com/in/tanujparikh",
+    "https://pl.linkedin.com/in/dominika-walec",
+    "https://es.linkedin.com/in/jonathanduque",
+    "https://pl.linkedin.com/company/estimote"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Estimote",
+   "results": [
+    "https://www.facebook.com/estimote/",
+    "https://www.facebook.com/rossenreports/videos/retailers-are-tracking-your-phone-to-influence-your-purchases-/1463252622073517/",
+    "https://www.facebook.com/fibity/posts/fibity-totem-in-a-store-ibeacons-ibeacon-beacons-estimote-beacon-bluetooth-ble/6059552147484053/",
+    "https://www.facebook.com/JohnDePetroshow/videos/what-happened-to-rhode-island-capitol-police-recruit-kyron-derek-lopes-of-provid/1763681738105561/",
+    "https://www.facebook.com/rossenreports/videos/stores-are-tracking-you-through-bluetooth-now/4444209822464494/",
+    "https://www.facebook.com/61580080005949/videos/chinas-population-density-2025/2253780578797355/",
+    "https://www.facebook.com/decawave/",
+    "https://www.facebook.com/rossenreports/videos/stores-are-tracking-you-through-bluetooth-now/2319750602192690/",
+    "https://www.facebook.com/CommerceVC/photos/2914382825262079/",
+    "https://www.facebook.com/estimote/posts/were-thrilled-to-announce-that-today-were-launching-a-new-product-the-estimote-l/1700690130041356/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Estimote note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=H6YAMk-zS-8",
+    "https://x.com/sadaaki",
+    "https://dimension-note.jp/",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.intimatemerger.com/followers",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Estimote X 投稿",
+   "results": [
+    "https://estimote.com/",
+    "https://www.youtube.com/watch?v=wtBERi7Lf3c",
+    "https://apps.apple.com/us/app/estimote/id686915066",
+    "https://www.elon.edu/u/fa/technology/makerhub/tools-and-equipment/electronics-2/estimote-beacons/",
+    "https://github.com/estimote",
+    "https://www.geekwire.com/2014/sticker-beacon-estimote-launching-tiny-nearables-sensors-track-items/",
+    "https://support.purple.ai/hc/en-gb/articles/12843889681821-Estimote-Beacon-Setup-Guide",
+    "https://www.youtube.com/watch?v=JrRS8qRYXCQ",
+    "https://www.beaconzone.co.uk/blog/do-you-have-an-estimote-alternative/",
+    "https://cloud.estimote.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

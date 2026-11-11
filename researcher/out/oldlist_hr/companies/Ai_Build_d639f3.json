@@ -1,0 +1,1447 @@
+{
+ "name": "Ai Build",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜商談中",
+ "researched_at": "2026-11-11T02:27:01.154464+00:00",
+ "official_url": "https://ai-build.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Address",
+    "value": "Unit D1, Leyton Industrial Village, Argall Avenue, London, E10 7QP, UK",
+    "url": "https://ai-build.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Aibuild OS operates the CAD, CAE and CAM tools your team already owns. An engineer describes the job in plain language. Aibuild OS plans it, runs it across every tool the work needs, and hands back a finished file package for that engineer to approve or reject.",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From prompt to production.",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your engineers' time is too valuable for manual execution across every stage. One prompt triggers autonomous execution across design, manufacturing and engineering.",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aibuild OS interprets the full intent, plans and executes the workflow, pausing for human review where needed.",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Already using CAD, CAM or simulation software? Aibuild OS plugs straight in with no migration, no retraining, no new stack. It's execution on top of the tools you already trust.",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Access over 10 years of 3D printing knowledge, built by our team, and delivered through our AI co-pilot.",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"What impressed me most was how easy the software became to use once the initial setup and integration work was complete. Creating and managing toolpaths quickly became a natural workflow, allowing us to focus more on process development and less on programming.\"",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Jonathan Pratt, UK",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We were really lucky to find Aibuild. It has been a great fit for teaching LFAM to our mechanical engineering students. The software is intuitive, and they’re able to learn the workflow and generate production-ready code very quickly compared to other solutions we’ve used.”",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Corporate Vice President, Japan",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We are proud to win with Aibuild a highly innovative, revolutionary partner, who - in conformity with us - pursue their vision courageously, with strong goal orientation and focus on groundbreaking success.”",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Aibuild’s straightforward workflows and repeatable algorithms help Haddy to ensure that the toolpath we need, for a singular part can reliably be applied to the hundreds of different parts that we produce. This minimizes labor and drives our deterministic errors to zero; we can now more effectively and intelligently automate our manufacturing process.”",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“It is the unique flexibility and control over my prints that only Aibuild offers.”",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Engineer, UK",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Manager, Germany",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"AC3D is building a vertically integrated concrete 3D printing technology to make construction cheaper, greener, and more productive. Cooperation with Aibuild helped us to shortcut the way to the product, and we already successfully printed our first house in the UAE using Aibuild software. We are looking forward to strengthening our cooperation on the new projects.\"",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Aibuild presents a platform with unparalleled flexibility and control in additive tool pathing. The software significantly enhances our large format 3D printing operations, streamlining programming for our gantry and robot machines. It's a game-changer for production efficiency across many projects and industries.\"",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The continuous software optimization and feature-specific development for LSAM with thermoplastics enable us to provide our clients with advanced manufacturing technologies.\"",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "”Aibuild's software efficiently manages most of our robots, optimizing temperatures and creating continuous toolpaths. It enables multi-axis printing without support and ensures lightweight constructions which is the special field we are working in. We pursue continuous production and constant optimization, and the Aibuild software is an important factor in those efforts.“",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of 3D Printing, Denmark",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The smart features being continually developed are far above the capabilities of other software offerings we have benchmarked. It will allow for ease of scaling our printing across multiple locations.”",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The collaboration with Aibuild proceeded with great coordination between the two teams, who worked together to seamlessly complete the integration of both technologies.”",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager, Spain",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Professor Beom Kwan Kim's Studio (University of Ulsan) prints an award-winning solar façade with Aibuild CAM.",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LabAM24 prints C103 rocket nozzles for KARI with Aibuild CAM.",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Network - 3D Printing Software - Aibuild",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Take control with the most advanced toolpath generation in the market. To get 90% of a print right is easy but the last 10% is where the challenge is, especially in larger format AM. Our advanced automation and features including thermal and geometric analysis tools allow you to identify and optimise system performance and quality of output.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AiBuild Software is perfectly suited to all end users and applications, regardless of user experience. We have four product variants; Starter, Professional, Advanced and Enterprise, all accessible via a simple to use UI. We can meet your customers needs regardless of hardware and user capability throughout their AM journey, and our products will support your own growth aspirations.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We have invested in dedicated sales, technical and customer support teams based in EU and North America to support our Partners both pre and post sale. This is underpinned by our global marketing team, the combined aim of which is to provide peer to peer support throughout your customers lifecycle. Can provide support across time zones based on the needs of your business.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The world’s leading additive manufacturing community, driving innovation via customer-centric collaboration. Our goal is to enable industrial 3D printing at scale and to realise its global potential.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A leading German specialist in metal additive manufacturing solutions and subsidiary of the Bräuer Group, a renowned KUKA integrator with established presence across the DACH region.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "At 3DGBIRE we aim to provide a 360 degree service, we don’t just supply the most innovative 3DGBIRE certified Additive Manufacturing equipment we offer personalised consultations, training, technical support and even a print bureau service, to enable you and your business to get the most from these ground-breaking technologies.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "From precision 3D metal printing to advanced robotic automation, we deliver manufacturing solutions that are powerful, reliable, and built for the future.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ABB Robotics as one of the world’s leading robotics and machine automation suppliers is the only company with a comprehensive and integrated portfolio covering robots, AMRs and machine automation solutions - designed and orchestrated by our value-creating software.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Mission Is To Tackle The Global Housing Crisis, Waste Problems, And Climate Change By Automating The Construction Process Via Additive Manufacturing.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Airtech has been extruding and compounding resins for nearly 50 years and additive manufacturing has allowed us to expand our resin offering not only to our printer but develop a line of unique resins and purges for those who have their own machines.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AKRO-PLASTIC GmbH is your specialist for innovative and application-oriented plastic compounds. With over 35 years experience, our comprehensive knowledge of plastic compounding means we have the right solutions for your every compounding need.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Polyurethanes are versatile materials that can be tailored for many different applications. A wide variety of hardness, cure speeds, viscosities, mechanical and thermal properties are possible.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We know how frustrating this can be. We’re currently helping over 2,000 injection moulding, extrusion, & blow moulding customers solve these exact kinds of problems.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3D printer for large-scale additive manufacturing by extrusion of thermoplastic materials.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Established in 1964, the Italian Camozzi Group is a global leader in the production of components and systems for high-tech industrial automation in the manufacturing, life science, robotics and mechatronics sectors.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "CEAD is headquartered in Delft, Netherlands, which is the hometown of one of Europe’s most prestigious technical universities. It’s not a coincidence that the company is rooted here, as the founders began their journey by developing a consumer 3D printer in 2010 while studying at this university.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Our mission is to be at the forefront of innovation in the industry and to empower our customers to push the boundaries of what is possible with 3D printing technology.\" \"Our vision is to be the leading provider of high-quality filament & thermoplastic materials for additive manufacturing.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide custom-made industrial solutions to fit the needs of every client, delivering significant production reach.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyze Design is a pioneering company based in Montreal, Canada, renowned for its innovative approach in the development and manufacturing of high-performance 3D printer components. Specializing in extruders, Dyze Design focuses on delivering reliable, high-quality products designed to enhance the efficiency and precision of industrial and professional 3D printing systems.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide a full 360 solution for your additive manufacturing needs from supply of 3D printers approved by our in-house team to ensure you’re purchasing the correct printer for your needs.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Evo 3D are committed to providing excellent customer service, technical support and with the wide range of print manufacturing brands we work with, impartiality.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our vision is to be globally trusted business, reliably delivering consistent and quality products and services to the AM industry.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing is brought to industrial series production. The systems are characterized by an automated end-to-end-process – always with the goal: Right First Time.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "With our LUVOSINT® and LUVOCOM® 3F compounds we are offering you materials specially optimized for 3D printing. They enable the quality-assured manufacture of parts by additive production methods.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Professor Beom Kwan Kim's Studio (University of Ulsan) prints an award-winning solar façade with Aibuild CAM.",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "LabAM24 prints C103 rocket nozzles for KARI with Aibuild CAM.",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Dakacom's DXL lab prints a chair from coffee waste and PLA",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "CZ PLAST prints a full-scale public bench from recycled plastic.",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotic 3D printing at New Bedford Research & Robotics.",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering analysis of large format additive manufacturing for autoclave mould production.",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Lightweight automotive and motorsport prototypes produced in hours.",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Printing Autoclave Tooling with KraussMaffei",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "25 April 2025",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "DLR: In-situ Printing In Aerospace",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Our industry trusted CAM software built for large format additive manufacturing.",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your engineers' time is too valuable for manual execution across every stage. One prompt triggers autonomous execution across design, manufacturing and engineering.",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Works with the software your team already uses across design, manufacturing and simulation platforms, Aibuild OS runs them all.",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Aibuild’s straightforward workflows and repeatable algorithms help Haddy to ensure that the toolpath we need, for a singular part can reliably be applied to the hundreds of different parts that we produce. This minimizes labor and drives our deterministic errors to zero; we can now more effectively and intelligently automate our manufacturing process.”",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“This will change the way we think about manufacturing.”",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Automotive OEM",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The continuous software optimization and feature-specific development for LSAM with thermoplastics enable us to provide our clients with advanced manufacturing technologies.\"",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive manufacturing simulation for DED and WAAM, on your own laptop",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Teaching the full manufacturing chain. How FHNW brings industrial AM into the classroom",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Arche 3D turns a manufacturing seam into part of the design",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The world’s leading additive manufacturing community, driving innovation via customer-centric collaboration. Our goal is to enable industrial 3D printing at scale and to realise its global potential.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A leading German specialist in metal additive manufacturing solutions and subsidiary of the Bräuer Group, a renowned KUKA integrator with established presence across the DACH region.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Factory",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "At 3DGBIRE we aim to provide a 360 degree service, we don’t just supply the most innovative 3DGBIRE certified Additive Manufacturing equipment we offer personalised consultations, training, technical support and even a print bureau service, to enable you and your business to get the most from these ground-breaking technologies.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "From precision 3D metal printing to advanced robotic automation, we deliver manufacturing solutions that are powerful, reliable, and built for the future.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Mission Is To Tackle The Global Housing Crisis, Waste Problems, And Climate Change By Automating The Construction Process Via Additive Manufacturing.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ADDiTEC was conceived in 2015 with a focus on disrupting accessibility to metal additive manufacturing with smaller and more cost-effective solutions.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Airtech has been extruding and compounding resins for nearly 50 years and additive manufacturing has allowed us to expand our resin offering not only to our printer but develop a line of unique resins and purges for those who have their own machines.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive and Subtractive manufacturing. The all-in-one gantry solution.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3D printer for large-scale additive manufacturing by extrusion of thermoplastic materials.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Established in 1964, the Italian Camozzi Group is a global leader in the production of components and systems for high-tech industrial automation in the manufacturing, life science, robotics and mechatronics sectors.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Our mission is to be at the forefront of innovation in the industry and to empower our customers to push the boundaries of what is possible with 3D printing technology.\" \"Our vision is to be the leading provider of high-quality filament & thermoplastic materials for additive manufacturing.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Comau is a leading company in the industrial automation field, at a global level.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Combining innovative engineering solutions with easy to use, open automation and enabling technologies, Comau helps companies of all sizes – and across a wide range of industrial segments – leverage the full potential of digital manufacturing.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide custom-made industrial solutions to fit the needs of every client, delivering significant production reach.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyze Design is a pioneering company based in Montreal, Canada, renowned for its innovative approach in the development and manufacturing of high-performance 3D printer components. Specializing in extruders, Dyze Design focuses on delivering reliable, high-quality products designed to enhance the efficiency and precision of industrial and professional 3D printing systems.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide a full 360 solution for your additive manufacturing needs from supply of 3D printers approved by our in-house team to ensure you’re purchasing the correct printer for your needs.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Evo 3D are committed to providing excellent customer service, technical support and with the wide range of print manufacturing brands we work with, impartiality.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "From the smallest to the strongest industrial robot in the world.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "From its roots as a simple one-man operation back in 1945, Fronius has grown to become an integral part of the industrial landscape. Over the past three quarters of a century, we have developed as a family business from a regional specialist repair shop into a player on the global stage.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Hyperion Systems is dedicated to reshaping advanced manufacturing industry through the fusion of large-scale plastic extrusion technology and automation.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing is brought to industrial series production. The systems are characterized by an automated end-to-end-process – always with the goal: Right First Time.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "KUKA is a German manufacturer of industrial robots and factory automation systems.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Massive Dimension is a leading company in additive manufacturing, specializing in turn-key robotic 3D printing cells and extruders for industries like aerospace, education, manufacturing, and more.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Meltio takes metal additive manufacturing to the next level by developing and manufacturing high-performance, affordable, and easy-to-use metal 3D printing solutions using wire-laser metal deposition (LMD) technology.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study Archives - Aibuild",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Our industry trusted CAM software built for large format additive manufacturing.",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Teaching the full manufacturing chain. How FHNW brings industrial AM into the classroom",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Arche 3D turns a manufacturing seam into part of the design",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "NIAR Validates NVIDIA-Powered Thermal Simulation for Aerospace Wire Arc DED",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal additive manufacturing for marine energy.",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering analysis of large format additive manufacturing for autoclave mould production.",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Lightweight automotive and motorsport prototypes produced in hours.",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "DLR: In-situ Printing In Aerospace",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "We work with tier 1 companies in the aerospace, automotive, construction, energy and marine industries. Aibuild software enables advanced automation of the additive manufacturing process for our customers. We integrate and partner with a growing network of hardware manufacturers, and we are backed by first class investors.",
+    "url": "https://ai-build.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Daghan Cam is the Co-founder and CEO of Aibuild. Before founding the company Daghan worked as an architect at Zaha Hadid Architects and lectured at University College London and internationally on the topics of computational geometry, robotics and additive manufacturing.",
+    "url": "https://ai-build.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Aibuild was founded in 2015 by Daghan and Michail, former architects at Zaha Hadid, who have a background in computational geometry and a passion for additive manufacturing.",
+    "url": "https://ai-build.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Aibuild software is used by some of the world’s largest organizations to increase the efficiency of their additive manufacturing processes. With a growing global network of clients and partners, Aibuild continues to innovate and realize the founders’ vision for autonomous additive factories.",
+    "url": "https://ai-build.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team of AM experts provide best-in-class customer support. Our customers are the most important influence on our product roadmap, which is why we prioritise their needs in our mission to fully automate the factory of the future.",
+    "url": "https://ai-build.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "“This is a time when manufacturers are looking to realise the potential that additive manufacturing offers, making their supply chains more flexible, resilient, cost-effective and sustainable. Aibuild enables its customers to rapidly achieve these strategic objectives through its groundbreaking 3D printing software.”",
+    "url": "https://ai-build.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "“We are excited to be working with Aibuild to bring an automated platform in additive manufacturing to its customers to provide a scalable and adaptable model. Additive manufacturing is a $16bn segment of the manufacturing industry that is set to grow 20% per annum so with this rapidly expanding market, we’re excited to see what Aibuild does next”.",
+    "url": "https://ai-build.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Are you passionate about creative technology opportunities in the fast-growing additive manufacturing industry? Want to help us in our mission to streamline the factory of the future? Get in touch to learn more about career opportunities at Aibuild.",
+    "url": "https://ai-build.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Address: Unit D1, Leyton Industrial Village, Argall Avenue, London, E10 7QP, UK",
+    "url": "https://ai-build.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Extend Aibuild OS with industry-leading manufacturing capabilities.",
+    "url": "https://ai-build.com/aibuild-os-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Production-grade toolpath generation for additive manufacturing and CNC milling. Built for industrial-scale production environments.",
+    "url": "https://ai-build.com/aibuild-os-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-axis additive manufacturing toolpaths",
+    "url": "https://ai-build.com/aibuild-os-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Aibuild CAM is our production-grade manufacturing engine covering multi-axis additive manufacturing toolpath generation (FFF, FGF, DED, WAAM, cold spray, friction stir), CNC milling, and thermal simulation. It's available as a manufacturing add-on for Starter plans and above.",
+    "url": "https://ai-build.com/aibuild-os-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the recent case study.",
+    "url": "https://ai-build.com/design-for-additive-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Mould by Total Machining Solutions.",
+    "url": "https://ai-build.com/design-for-additive-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Reducing The Cost Of An Automotive Gripper With Additive Manufacturing.",
+    "url": "https://ai-build.com/design-for-additive-manufacturing/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Global Automotive OEM",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Over more than 30 years in business, an OEM based in Italy, specialising in the design, manufacture, installation and service of CNC machining centers and large format 3D printers.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Corporate Vice President, Japan",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例にご協力いただける企業様を募集しております",
+    "url": "https://ai-introduction.ai-build.jp/media/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Arche 3D turns a manufacturing seam into part of the design",
+    "url": "https://ai-build.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A leading German specialist in metal additive manufacturing solutions and subsidiary of the Bräuer Group, a renowned KUKA integrator with established presence across the DACH region.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "From its roots as a simple one-man operation back in 1945, Fronius has grown to become an integral part of the industrial landscape. Over the past three quarters of a century, we have developed as a family business from a regional specialist repair shop into a player on the global stage.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to bring your projects to life by developing material solutions that match your needs. We seek to unlock new materials that will break innovation barriers in additive manufacturing, bringing unlimited possibilities.",
+    "url": "https://ai-build.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Arche 3D turns a manufacturing seam into part of the design",
+    "url": "https://ai-build.com/type/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Our employees are creative and fountains of new ideas, using their imaginations to continually drive better products, services and outcomes for our customers.",
+    "url": "https://ai-build.com/jobs/",
+    "pass": 1
+   },
+   {
+    "quote": "What if my software isn't listed?",
+    "url": "https://ai-build.com/aibuild-os-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "@ Polar Array Created - 12 Blade Copies",
+    "url": "https://ai-build.com/wp-content/uploads/2026/03/Aibuild-AI-Agent1.jpeg",
+    "pass": 1
+   },
+   {
+    "quote": "As part of COMPADDITIVE, an Innovate UK-funded project with Additure,",
+    "url": "https://ai-build.com/resources/additive-manufacturing-simulation-software-for-ded-and-waam/",
+    "pass": 1
+   },
+   {
+    "quote": "Prof. Dr.-Ing. Christian Brauner, who leads the additive manufacturing programme at IKT, part of FHNW's School of Computer Science, Technology and Engineering in Windisch, Switzerland.",
+    "url": "https://ai-build.com/resources/fhnw-brings-industrial-am-into-the-classroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Why we're glad to be part of this.",
+    "url": "https://ai-build.com/resources/fhnw-brings-industrial-am-into-the-classroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Arche 3D turns a manufacturing seam into part of the design",
+    "url": "https://ai-build.com/resources/fhnw-brings-industrial-am-into-the-classroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Using Aibuild CAM, Arche 3D developed a continuous line-type shell toolpath, with the joining line specifically controlled to follow the spiral along which the geometry develops. The aim was to turn what’s normally a technical manufacturing constraint, the seam, into part of the object’s aesthetic expression.",
+    "url": "https://ai-build.com/resources/arche3d-column/",
+    "pass": 1
+   },
+   {
+    "quote": "That’s a meaningfully different starting point for anyone briefing a large-scale sculptural piece, the manufacturing strategy itself can become part of the design, rather than something to work around once the design is finished.",
+    "url": "https://ai-build.com/resources/arche3d-column/",
+    "pass": 1
+   },
+   {
+    "quote": "Why we're glad to be part of this",
+    "url": "https://ai-build.com/resources/arche3d-column/",
+    "pass": 1
+   },
+   {
+    "quote": "Arche 3D keeps finding new ways to push what a toolpath can do beyond simply producing a shape, and this column is a strong example of that. We’re glad Aibuild CAM gave the team the control they needed to carry the spiral all the way through, seam included, and we’re looking forward to seeing what Arche 3D and Vision Creative Studios do next.",
+    "url": "https://ai-build.com/resources/arche3d-column/",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than hiding the seam between printed sections, Arche 3D controlled the toolpath in Aibuild CAM so the seam follows the same spiral logic as the column's geometry, turning a manufacturing constraint into part of the design.",
+    "url": "https://ai-build.com/resources/arche3d-column/",
+    "pass": 1
+   },
+   {
+    "quote": "This intelligence layer means what previously required extensive CAD expertise and multiple design iterations can now be accomplished by engineering teams, dramatically reducing the barriers to advanced mould production.",
+    "url": "https://ai-build.com/resources/engineering-analysis-of-large-format-additive-manufacturing-for-autoclave-mould-production/",
+    "pass": 1
+   },
+   {
+    "quote": "Daghan Cam is listed as CEO at Ai Build.",
+    "url": "https://fundediq.co/ai-build-ai-build-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Ai Build have?",
+    "url": "https://fundediq.co/ai-build-ai-build-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/ai-build-ai-build-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/ai-build-ai-build-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "E-mail: contact@ai-build.jp",
+    "url": "https://ai-introduction.ai-build.jp/media/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Ai Build team: 1 of 2 have an email address on file.",
+    "url": "https://fundediq.co/ai-build-ai-build-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/ai-build-ai-build-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "導入事例 - AI Build — 合同会社AIビルド 〒651-0084 兵庫県神戸市中央区磯辺通1丁目1番18号 カサベラ国際プラザビル707号室 TEL: 050-8896-2378 E-mail: contact@ai-build.jp サービス 会社情報",
+    "url": "https://ai-introduction.ai-build.jp/media/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "AI for engineering - Aibuild Home — Ai operating system for engineering. Aibuild manufacturing software performs autonomous CAD, CAE & CAM execution.",
+    "url": "https://ai-build.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI BUILD – Financials, Industry Trends & Funding Info – 2026 — Discover AI BUILD's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/ai-build",
+    "pass": 3
+   },
+   {
+    "quote": "Ai Build: Funding, Investors & Team (Nov 2026) | FundedIQ — Ai Build is an Artificial Intelligence company in London, United Kingdom. Raised $12.7M across 4 rounds; latest round Dec 2025. Investors and funding history.",
+    "url": "https://fundediq.co/ai-build-ai-build-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Ai Build 2026 Company Profile: Valuation, Funding & Investors ...Ai Build - 2025 Company Profile, Team, Funding, Competitors ...AI BUILD Revenue 2023: $7.6M Est. - getlatka.comAI Build - Overview, News & Similar companies | ZoomInfo.comAI BUILD: Revenue, Competitors, Alternatives - Growjo — Information on valuation, funding, cap tables, investors, and executives for Ai Build. Use the PitchBook Pla",
+    "url": "https://pitchbook.com/profiles/company/173983-78",
+    "pass": 3
+   },
+   {
+    "quote": "Ai Build - 2025 Company Profile, Team, Funding, Competitors ... — Jul 18, 2025 · It operates as a Provider of AI and cloud-based 3D printing devices. Ai Build has raised $14.8M in funding from SuperSeed and IQ Capital, with a current valuation of £16.5M.",
+    "url": "https://tracxn.com/d/companies/ai-build/__Wx3RfIpLdwJs3hmX2XUJi1qiwiHq4EbPC0KRlBKU6eI",
+    "pass": 3
+   },
+   {
+    "quote": "AI BUILD Revenue 2023: $7.6M Est. - getlatka.com — Oct 5, 2026 · AI BUILD was acquired. Ai Build is a London-based company specializing in developing Artificial Intelligence and Robotic technologies for large-scale additive manufacturing.",
+    "url": "https://getlatka.com/companies/ai-build.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Even a 4GB Android Phone Can Do It! How to Have AI Build a ... Sep 20, 2026 · In this article, based on the real-device verification I conducted on September 20, 2026, I will introduce the overview of Mobile Harness, the required smartphone specifications, how to connect to the AI, and the steps to actually build and run a web app.",
+    "url": "https://note.com/ai_portfolio/n/ndafb9391430f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Build an AI Agent with Claude Code: A Complete 78 ... Sep 26, 2026 · How to build an AI agent with Claude Code is explained here with actual screens and 78 diagrams, so that even those without programming experience can follow along to the end.",
+    "url": "https://note.com/akira_sakai/n/n163932e129ad?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In an era where AI can build apps, why I wrote a book about ... Sep 30, 2026 · In this book, I have organized these 'things to decide before building' into nine perspectives called SAFE BUILD. Scope, permissions, flow, completion criteria, boundaries for what not to leave to AI, user testing, accident preparedness, phased release, and post-release improvement.",
+    "url": "https://note.com/kinnikunn8810/n/n1233bbc761f2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to use LangChain: 4 steps to build an AI agent in a few ... Oct 3, 2026 · We have compiled a textbook on building local AI, an OSS tool selection workbook, a self-hosted operation kit, and more. This is for those who want to build an agent foundation on their own machine and keep running it with checks in place.",
+    "url": "https://note.com/opensourcelab/n/n35cf17673986?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "How to Build an AI Agent with Claude Code: A Complete 78-Image Guide to Automating Everything from Meeting Minutes to Weekly Reports｜堺あきら（Aki）｜AI伴走サポーター｜Claude・CodexでAI社員を作る人",
+    "url": "https://note.com/akira_sakai/n/n163932e129ad?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Build an AI Agent with Claude Code: A Complete 78-Image Guide to Automating Everything from Meeting Minutes to Weekly Reports",
+    "url": "https://note.com/akira_sakai/n/n163932e129ad?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "堺あきら（Aki）｜AI伴走サポーター｜Claude・CodexでAI社員を作る人",
+    "url": "https://note.com/akira_sakai/n/n163932e129ad?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to build an AI agent with Claude Code",
+    "url": "https://note.com/akira_sakai/n/n163932e129ad?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is explained here with actual screens and 78 diagrams, so that even those without programming experience can follow along to the end.",
+    "url": "https://note.com/akira_sakai/n/n163932e129ad?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We will build an agent that reads meeting transcripts and automatically generates four items: decisions, a rationale table, a draft of a weekly report, and a quality check.",
+    "url": "https://note.com/akira_sakai/n/n163932e129ad?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The image above shows the files actually created using this procedure. From submission to completion report, it took about 2 minutes and 30 seconds, and the approval screen never appeared once.",
+    "url": "https://note.com/akira_sakai/n/n163932e129ad?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article covers the following six points:",
+    "url": "https://note.com/akira_sakai/n/n163932e129ad?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In an era where AI can build apps, why I wrote a book about 'what to do before building'｜片山 颯斗",
+    "url": "https://note.com/kinnikunn8810/n/n1233bbc761f2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In an era where AI can build apps, why I wrote a book about 'what to do before building'",
+    "url": "https://note.com/kinnikunn8810/n/n1233bbc761f2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you ask AI to 'build an app like this,' a screen will appear in just a few minutes.",
+    "url": "https://note.com/kinnikunn8810/n/n1233bbc761f2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Things that were unimaginable until recently have now become commonplace.",
+    "url": "https://note.com/kinnikunn8810/n/n1233bbc761f2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I personally feel this change every day in my training and production work.",
+    "url": "https://note.com/kinnikunn8810/n/n1233bbc761f2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have now created a book for this 'era where you can build with AI'!",
+    "url": "https://note.com/kinnikunn8810/n/n1233bbc761f2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "90% is Decided Before You Build: AI App Design for Non-Engineers",
+    "url": "https://note.com/kinnikunn8810/n/n1233bbc761f2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, rather than the content of the book itself, I would like to focus on",
+    "url": "https://note.com/kinnikunn8810/n/n1233bbc761f2?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Build AI (@buildpbc) / X Egocentric-1M unlocks the next order of magnitude towards our goal of building the internet for physical ai.",
+    "url": "https://x.com/buildpbc",
+    "pass": 3
+   },
+   {
+    "quote": "Build4 (@Build4ai) / X BUILD4 is building infrastructure for autonomous AI agents, enabling agents to own wallets, execute tasks, interact across protocols, and participate in decentralized on chain economies.",
+    "url": "https://x.com/Build4ai",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuilding the global town square from scratch 6 days ago · How a small team built it So how did fewer than five engineers build the first version in under six months? The short answer is AI coding agents. The engineers set the architecture, decided what to build, and reviewed every change.",
+    "url": "https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch",
+    "pass": 3
+   },
+   {
+    "quote": "Andrew Ng on X: \"AI Engineering Skills Map: Shaping the build ... Sep 20, 2026 · With AI Engineering skills, you actively shape the build: You influence what gets built, and drive the build loop. Here're key skills to do this.",
+    "url": "https://x.com/AndrewYNg/status/2098459474608672916",
+    "pass": 3
+   },
+   {
+    "quote": "レモンワークス ｜AI自動化ラボ｜ChatGPTでnote・SNS・副業を自動化 o... Grok BuildでX投稿を検索し、Museが情報を整理する役割分担にしてください。 調査結果には、投稿日時、投稿者、投稿URLを付けてください。 毎回の結果を日付別に整理し、ワークスペースに保存してください。 過去の調査結果と比較できる形式にしてください。",
+    "url": "https://x.com/LemonWorksJP/status/2117180238753120449",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "AIBUILD - LinkedIn AIBUILD is a Melbourne-based AI venture builder that helps industry leaders turn bold ideas and deep domain knowledge into AI products, platforms and new ventures.",
+    "url": "https://www.linkedin.com/company/aibuild/",
+    "pass": 3
+   },
+   {
+    "quote": "Michail Desyllas - Ai Build | LinkedInBuild Fast with AI | LinkedInTijana Cresenzi - Product Designer Marketplaces and Community ...Learning Paths & Certifications Prep | AI Skill Pathways Library Michail is the co-Founder and COO of Aibuild, a technology company specialising in… · Experience: Ai Build · Education: Architectural Association DRL · Location: London · 500+ connections on... Build Fas",
+    "url": "https://uk.linkedin.com/in/michail-desyllas-17785730",
+    "pass": 3
+   },
+   {
+    "quote": "Build Fast with AI | LinkedIn Build Fast with AI helps people and companies use AI in real work. For learners: hands-on courses, workshops and bootcamps on Generative AI and AI agents, like our Agentic AI Launchpad.",
+    "url": "https://in.linkedin.com/company/build-fast-with-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tijana Cresenzi - Product Designer Marketplaces and Community ... Product Designer Marketplaces and Community Platforms | Design & AI Build · Over 5+ years, from Intern to Lead Product Designer, I’ve designed marketplaces, community platforms and their marketing sites: real estate listings apps, platforms, knowledge-sharing apps, and native apps for social-impact communities. I’ve also designed, b",
+    "url": "https://mk.linkedin.com/in/tijanacresenzi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Build Your AI Clone - Facebook I'm so excited to build your AI twin. Before we dive in, just a quick confirmation: you're ready for me to analyze your style, stories, and personality to build this clone, right?",
+    "url": "https://www.facebook.com/groups/makemyclone/",
+    "pass": 3
+   },
+   {
+    "quote": "The 10-Day AI Build Challenge = build alongside a community ... The 10-Day AI Build Challenge = build alongside a community of ai-curious and ai-tinkering. Turn your ideas into a personalized AI tools that simplify...",
+    "url": "https://www.facebook.com/charleeatkins.nyc/videos/the-10-day-ai-build-challenge-build-alongside-a-community-of-ai-curious-and-ai-t/2051071595574605/",
+    "pass": 3
+   },
+   {
+    "quote": "Build an AI agent for your business - Meta for Developers Jul 22, 2026 · Build an AI agent for your business Configure an AI agent that handles customer conversations 24/7 in your brand voice on WhatsApp.",
+    "url": "https://developers.facebook.com/documentation/meta-business-agent/overview/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ai-build.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/type/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/jobs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/aibuild-os-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/design-for-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/wp-content/uploads/2026/08/marketplace-Aug-11.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ai-build.com/wp-content/uploads/2026/03/Aibuild-AI-Agent1.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ai-build.com/resources/additive-manufacturing-simulation-software-for-ded-and-waam/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/resources/aibuild-os-apps/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/resources/fhnw-brings-industrial-am-into-the-classroom/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/resources/arche3d-column/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/application/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/jobs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/resources/marine-energy-metal-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/resources/engineering-analysis-of-large-format-additive-manufacturing-for-autoclave-mould-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-build.com/wp-content/uploads/2024/06/Aibuild-team-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ai-build.com/wp-content/uploads/2024/06/Aibuild-team-4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ai-introduction.ai-build.jp/media/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shift-ai.co.jp/blog/15414/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tppgodo.net/set-up-company-for-foreigner-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f6s.com/companies/artificial-intelligence/japan/co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanailist.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.go.jp/topics/AI.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shisa.ai/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.servicenow.com/workflow/platform-foundations/partner-led-ai-build-partner-program.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nebius.com/nebius-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/ai-build",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/ai-build-ai-build-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/173983-78",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ai-build/__Wx3RfIpLdwJs3hmX2XUJi1qiwiHq4EbPC0KRlBKU6eI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ai_portfolio/n/ndafb9391430f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/akira_sakai/n/n163932e129ad?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kinnikunn8810/n/n1233bbc761f2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/opensourcelab/n/n35cf17673986?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/buildpbc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Build4ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AndrewYNg/status/2098459474608672916",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/aibuild/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/michail-desyllas-17785730",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/build-fast-with-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mk.linkedin.com/in/tijanacresenzi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/makemyclone/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/charleeatkins.nyc/videos/the-10-day-ai-build-challenge-build-alongside-a-community-of-ai-curious-and-ai-t/2051071595574605/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://developers.facebook.com/documentation/meta-business-agent/overview/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/LemonWorksJP/status/2117180238753120449",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ai Build 日本 導入",
+   "results": [
+    "https://ai-introduction.ai-build.jp/media/case-studies",
+    "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "https://shift-ai.co.jp/blog/15414/",
+    "https://www.ik-c.co.jp/20260330",
+    "https://ai-tools-navi.jp/guide/ai-for-japanese-business",
+    "https://www.pwc.com/jp/ja/knowledge/thoughtleadership/generative-ai-survey2026.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ai Build 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ai-build.com/",
+    "https://tppgodo.net/set-up-company-for-foreigner-in-japan/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.analog.com/jp/who-we-are/corporate-information.html",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ai Build Japan",
+   "results": [
+    "https://www.f6s.com/companies/artificial-intelligence/japan/co",
+    "https://www.japanailist.com/",
+    "https://www.japan.go.jp/topics/AI.html",
+    "https://shisa.ai/en/",
+    "https://buildinjapan.com/",
+    "https://news.microsoft.com/source/asia/2026/04/03/microsoft-deepens-its-commitment-to-japan-with-10-billion-investment-in-ai-infrastructure-cybersecurity-workforce/",
+    "https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ai Build manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Ai Build white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.servicenow.com/workflow/platform-foundations/partner-led-ai-build-partner-program.html",
+    "https://nebius.com/nebius-partner-program",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://partner.microsoft.com/en-us/explore",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.microsoft.com/en-US/partnership/partner-benefits-guide"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ai Build founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/ai-build",
+    "https://fundediq.co/ai-build-ai-build-com-funding/",
+    "https://pitchbook.com/profiles/company/173983-78",
+    "https://tracxn.com/d/companies/ai-build/__Wx3RfIpLdwJs3hmX2XUJi1qiwiHq4EbPC0KRlBKU6eI",
+    "https://getlatka.com/companies/ai-build.com",
+    "https://www.zoominfo.com/c/ai-build-ltd/373814273",
+    "https://growjo.com/company/AI_BUILD"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ai Build",
+   "results": [
+    "https://note.com/ai_portfolio/n/ndafb9391430f?hl=en",
+    "https://note.com/akira_sakai/n/n163932e129ad?hl=en",
+    "https://note.com/kinnikunn8810/n/n1233bbc761f2?hl=en",
+    "https://note.com/opensourcelab/n/n35cf17673986?hl=en",
+    "https://note.com/ai_tofumaru/n/nb27501368bcf?hl=en",
+    "https://note.com/zutsuki5555/n/nfc9b5d3fa588?hl=en",
+    "https://note.com/tonaria_ai/n/n83368196e2ca?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ai Build",
+   "results": [
+    "https://x.com/buildpbc",
+    "https://x.com/Build4ai",
+    "https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch",
+    "https://x.com/AndrewYNg/status/2098459474608672916",
+    "https://x.com/BuildAmericanAI",
+    "https://x.com/xbuildai",
+    "https://x.com/i/trending/2116222746040357036"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ai Build",
+   "results": [
+    "https://www.linkedin.com/company/aibuild/",
+    "https://uk.linkedin.com/in/michail-desyllas-17785730",
+    "https://in.linkedin.com/company/build-fast-with-ai",
+    "https://mk.linkedin.com/in/tijanacresenzi",
+    "https://www.linkedin.com/company/ai-build",
+    "https://uk.linkedin.com/company/ai-build",
+    "https://www.business.linkedin.com/learn/resources/upskilling-and-reskilling/ai-skill-pathways-library"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ai Build",
+   "results": [
+    "https://www.facebook.com/groups/makemyclone/",
+    "https://www.facebook.com/charleeatkins.nyc/videos/the-10-day-ai-build-challenge-build-alongside-a-community-of-ai-curious-and-ai-t/2051071595574605/",
+    "https://developers.facebook.com/documentation/meta-business-agent/overview/",
+    "https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/",
+    "https://tech.facebook.com/ai/",
+    "https://developer.facebook.com/",
+    "https://research.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ai Build note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Ai Build X 投稿",
+   "results": [
+    "https://www.theaiventure.com/ai-tweet-generation-claude-guide/",
+    "https://x.com/LemonWorksJP/status/2117180238753120449",
+    "https://xboost.now/notes/x-post-automation-tools-2026",
+    "https://contentai.jp/blog/x-twitter-growth-ai",
+    "https://digirise.ai/chaen-ai-lab/x/",
+    "https://uravation.com/media/x-auto-post-ai-guide-2026/",
+    "https://blog.willeder.com/xauto/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部35頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

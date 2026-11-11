@@ -1,0 +1,1327 @@
+{
+ "name": "Mavenagi",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-11T02:09:45.433830+00:00",
+ "official_url": "https://www.mavenagi.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "11-Aug-2023 $8M $8M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/523084-33",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "3,200,000 $0.000100  $2.5 $2.5 1x $2.5 10.21%",
+    "url": "https://pitchbook.com/profiles/company/523084-33",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Maven AGI | Enterprise AI Agent Platform for CX",
+    "url": "https://www.mavenagi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Maven's enterprise AI agent platform is built for the customer journey. Drive action across your existing help desk, CRM, and telephony while keeping IP and data protected with certified, auditable security.",
+    "url": "https://www.mavenagi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise tax automation software K1X went live in",
+    "url": "https://www.mavenagi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding & Adoption",
+    "url": "https://www.mavenagi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Churn Prevention & Retention",
+    "url": "https://www.mavenagi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What makes autonomous resolution reliable at enterprise scale: governed knowledge, defined guardrails, and AI powered support for the humans-in-the-loop.",
+    "url": "https://www.mavenagi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer support is often a tradeoff between quality, speed, and cost. But with Maven, we don’t have to compromise. We can give our customers the very best support while keeping our team lean.",
+    "url": "https://www.mavenagi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Just one week into the trial, rep solves per hour increased 25%. With increased efficiency on reactive operational support, we can invest more heavily in the proactive retention dollar activities.",
+    "url": "https://www.mavenagi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I initially thought the main benefit would be efficiency—fewer associates, faster ticket resolution. And while that happened, the overall impact was much bigger. The quality of our tickets improved significantly.",
+    "url": "https://www.mavenagi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-Grade Security & Compliance",
+    "url": "https://www.mavenagi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An agent for sales. Another for support. One more for onboarding, and a fourth nobody remembers launching. Running a pile of single-purpose agents is herding cats.",
+    "url": "https://www.mavenagi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Stories | Real AI Agent Results from Enterprise CX",
+    "url": "https://www.mavenagi.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Six Products, One Support Team, Zero Wasted Searches",
+    "url": "https://www.mavenagi.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Digital.ai grew through acquisitions. That’s great for the product portfolio, hard for the support team trying to search six knowledge bases at once.",
+    "url": "https://www.mavenagi.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Clio Future-Proofs Support and Autonomously Resolves 60% More Tickets With Maven AGI",
+    "url": "https://www.mavenagi.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Supporting 1M Attendees, Zero New Hires: Mastermind’s Surge Support Solution",
+    "url": "https://www.mavenagi.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Maven AGI Partner Program | Resell & Build With AI",
+    "url": "https://www.mavenagi.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We’re making AI practical, powerful, and easy to integrate.",
+    "url": "https://www.mavenagi.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Maven's Partner Program is for customer-centric resellers and systems integrators who want to provide agentic AI experiences across any modality (chat, email, voice, SMS, Slack, WhatsApp, copilots, web, API, and more) to their customers on a platform built for the enterprise and scale.",
+    "url": "https://www.mavenagi.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We offer co-marketing opportunities",
+    "url": "https://www.mavenagi.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "About Maven AGI | The Enterprise AI Agent Platform for CX",
+    "url": "https://www.mavenagi.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Maven AGI builds enterprise-ready AI agents to support your full customer journey. We specialize in complexity.",
+    "url": "https://www.mavenagi.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Maven AGI is building Business AGI; AI that helps enterprises work smarter and scale efficiently. Today, our technology automates complex workflows, connects systems, and enhances customer touch points without compromising quality or efficiency. Tomorrow, Agent Maven™ will automate complex workflows across the entire enterprise.",
+    "url": "https://www.mavenagi.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "They founded Maven AGI to rethink how businesses engage with customers. They built Maven to be the intelligence layer between enterprise data, AI models, and human teams, moving companies beyond reactive interactions to proactive, personalized experiences.",
+    "url": "https://www.mavenagi.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Maven powers 90+ companies, including publicly traded enterprises, to safely integrate AI and deliver more impactful customer experiences.",
+    "url": "https://www.mavenagi.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Want to shape how AI transforms customer service? Maven gives people the environment, ownership, and support to do meaningful work. Explore our careers page.",
+    "url": "https://www.mavenagi.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://www.mavenagi.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The leading veterinary relief platform now provides more answers while reclaiming time for mission-critical work with Maven’s round-the-clock, self-serve chat solution.",
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "pass": 1
+   },
+   {
+    "quote": "As Roo entered a period of hypergrowth, its network of hospitals, vets, and vet techs expanded rapidly. But with this growth came a proportionate surge in support tickets, sometimes up to 1,000+ per week across phone, email, and in-app chat.",
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "pass": 1
+   },
+   {
+    "quote": "and approved language",
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "pass": 1
+   },
+   {
+    "quote": "Tara vetted three solutions in the competitive AI support space. The first platform relied on an outdated, logic-based approach to chatbot prompting, while the second couldn’t deliver the premium services she was looking for.",
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "pass": 1
+   },
+   {
+    "quote": "Tara says Maven’s hands-on support made the whole onboarding process a snap. Between teaching her team to create effective prompts and helping them optimize their documentation for the best answers, Maven provided everything they needed to get their new support system up and running.",
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Self-Serve Options, Substantial Time Savings, and 80% of Inquiries Answered Autonomously",
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "pass": 1
+   },
+   {
+    "quote": "Maven hits every mark on Tara’s list and then some. With its agentic (and human) team at their side, Roo’s reps optimized their self-serve resources, reduced their ticket queue, and made premium support available for hospitals and vets alike, 24/7.",
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "pass": 1
+   },
+   {
+    "quote": "for freelance relief work and hiring opportunities. Roo empowers the largest network of veterinary professionals to earn more on their schedules while helping hospitals care for more pets in their communities. So far, they’ve provided over 2 million hours of relief coverage, helping veterinarians earn over $200 million.",
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "pass": 1
+   },
+   {
+    "quote": "Six Products, One Support Team, Zero Wasted Searches",
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "pass": 1
+   },
+   {
+    "quote": "How Clio Future-Proofs Support and Autonomously Resolves 60% More Tickets With Maven AGI",
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "pass": 1
+   },
+   {
+    "quote": "“Customer support is often a tradeoff between quality, speed, and cost. But with Maven, we don’t have to compromise. We can give our customers the very best support while keeping our team lean.”",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "quickly realized that Papaya’s existing help desk platform wasn’t scalable, and that training it to give the most accurate answers was too heavy a lift for his nimble team.",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "To prepare the platform for crucial support situations, like account setup issues and transaction failures, the team had to create countless decision trees of “if-then” scenarios. This constant upkeep made it harder to manage their growing queue and ate into their bandwidth for higher-touch support tasks (like bill payment issues).",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "“Teaching our previous support tool to accurately respond to customer questions took constant upkeep. Maven’s LLMs catch on much faster.”",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "After a guided onboarding, Jeff’s team deployed their own version of Maven’s savvy AI agent,",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it’s fielding questions about account setup or transaction errors, Agent Maven™ promptly spins up thorough and accurate responses to most of the growing number of tickets. And because these first responses are so spot-on, inquiries are usually resolved without any extra back-and-forth.",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "Of course, as much as Jeff appreciates Maven’s powerful agent and actionable performance insights, his favorite thing about the partnership is access to a live support team. Between email updates, regular calls, and a Slack Connect channel, support reps are always available to help out with any technical questions. In fact, Jeff says their dedicated success manager",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "With Maven, Papaya transformed their support operation into a scalable workflow that can evolve right alongside their revolutionary app. Today, Jeff’s team provides twice as many customers with a seamless and stress-free support experience - on the same headcount, no less.",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "What’s next for the partnership? Since the chat channel was such a success, Jeff plans to deploy Agent Maven™ across email by June 2025 and phone by the end of Q3. Maven empowers his team to tackle their support queue faster than ever, and raise the customer service bar even higher. Needless to say, this potent combo promises to play a central role in Papaya’s explosive growth.",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "“Maven isn’t just a vendor; it’s like an extension of our internal team. And at the rate the team is launching new products, I have no doubt Maven will continue to support our own rapid growth.”",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "Six Products, One Support Team, Zero Wasted Searches",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "How Clio Future-Proofs Support and Autonomously Resolves 60% More Tickets With Maven AGI",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "Reduced new support agent onboarding time",
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "pass": 1
+   },
+   {
+    "quote": "Improved proactive engagement capabilities",
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "pass": 1
+   },
+   {
+    "quote": "ClickUp implemented Maven AGI’s Copilot and Insights solutions to streamline complex ticket triage, accelerate response times, and free its support team to focus on proactive, relationship-building interactions that drive customer loyalty.",
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "pass": 1
+   },
+   {
+    "quote": "ClickUp's proactive support reps quickly embraced Maven, appreciating the efficiency of its summarization and reference features. These capabilities allowed them to understand and respond to customer inquiries more rapidly.",
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "pass": 1
+   },
+   {
+    "quote": "\"The customization ensured that Maven’s output was not only efficient but also aligned with ClickUp’s brand, emphasizing a human and relatable approach to customer interactions.\"",
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "pass": 1
+   },
+   {
+    "quote": "Sustained Productivity and Future Innovations",
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "pass": 1
+   },
+   {
+    "quote": "Since the full implementation of Maven, ClickUp has seen sustained improvements in support productivity. By leveraging Maven, ClickUp has been able to reallocate resources, allowing more focus on proactive, retention-driving support activities.",
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "pass": 1
+   },
+   {
+    "quote": "The transparency and roadmap shared by Maven's team have strengthened the partnership, with ClickUp eagerly anticipating future enhancements. The ongoing development of features like proactive customer outreach and live chat integration promises to further elevate ClickUp's customer support capabilities.",
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "pass": 1
+   },
+   {
+    "quote": "“Just one week into deploying Maven, rep solves per hour increased 25%. With increased efficiency on reactive operational support, we can invest more heavily in proactive retention activities.”",
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "pass": 1
+   },
+   {
+    "quote": ", a leading productivity platform, prides itself on providing exceptional customer support across a diverse user base. Trusted by millions of users across",
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "pass": 1
+   },
+   {
+    "quote": "at companies like Salesforce, Spotify, and Netflix, ClickUp aims to save people time by making the world more productive. With a mission to offer the best customer experience possible, ClickUp continuously seeks innovative solutions to enhance their support operations and maintain their high customer service standards.",
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Digital.ai grew through acquisitions. That’s great for the product portfolio, hard for the support team trying to search six knowledge bases at once.",
+    "url": "https://www.mavenagi.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Teaming up with Maven gives your business a head start. Stand out, boost your revenue, and grow across new markets.",
+    "url": "https://www.mavenagi.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Rho achieved 95% CSAT while supporting a 12% increase in monthly contacts without increasing headcount, and improved internal training and knowledge sharing, as employees across departments used Maven for ongoing education.",
+    "url": "https://www.mavenagi.com/customer-stories/rho",
+    "pass": 1
+   },
+   {
+    "quote": "Sami Shalabi, Maven AGI | theCUBE + NYSE Wired: AI Factories - Data Centers of the Future - YouTube",
+    "url": "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "pass": 3
+   },
+   {
+    "quote": "Sami Shalabi, Maven AGI | theCUBE + NYSE Wired: AI Factories - Data Centers of the Future",
+    "url": "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "pass": 3
+   },
+   {
+    "quote": "John Roese, Dell | theCUBE + NYSE Wired: AI Factories - Data Centers of the Future",
+    "url": "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "pass": 3
+   },
+   {
+    "quote": "In this segment from the theCUBE + NYSE Wired: AI Factories event, Sami Shalabi, co-founder and chief technology officer of Maven AGI, joins John Furrier to discuss the transformative role of agentic AI in enterprise customer experience. Shalabi details how Maven AGI is moving beyond basic chatbots to deploy sophisticated agents capable of handling complex workflows across support, succes",
+    "url": "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue in 2024",
+    "url": "https://www.prnewswire.com/news-releases/maven-agi-raises-50m-to-meet-surging-demand-for-enterprise-grade-ai-302484913.html",
+    "pass": 3
+   },
+   {
+    "quote": "With a team of more than 80 employees across",
+    "url": "https://www.prnewswire.com/news-releases/maven-agi-raises-50m-to-meet-surging-demand-for-enterprise-grade-ai-302484913.html",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Maven_AGI",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Maven_AGI",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Maven_AGI",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Maven_AGI",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Maven_AGI",
+    "pass": 3
+   },
+   {
+    "quote": "Head Revenue Operations",
+    "url": "https://growjo.com/company/Maven_AGI",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/523084-33",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI has 108 total employees.",
+    "url": "https://pitchbook.com/profiles/company/523084-33",
+    "pass": 3
+   },
+   {
+    "quote": "What is Maven AGI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/523084-33",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Maven AGI is",
+    "url": "https://pitchbook.com/profiles/company/523084-33",
+    "pass": 3
+   },
+   {
+    "quote": "（NASDAQ上場のカスタマーサービスBPO企業）",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "（金融サービス向けソフトウェアの大手上場企業）",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業・フィンテック・法律SaaSという多様なセクターでの採用実績は、特定業種への依存ではなく「水平的なプラットフォーム」としての展開可能性を示している",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGIは非上場企業であり、個人投資家が直接株式を取得する機会は現時点では限られている",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "視点1：関連上場企業への連想",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサポートAI市場全体の成長は、以下の上場企業の事業拡大とも関連する",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "1年で40社の大企業顧客を獲得し、100%の継続率を誇るプラットフォームの買収価格は通常、ARR（年間経常収益）の10〜20倍以上になる",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "エンタープライズAIエージェント領域の他の資金調達ニュースをウォッチし、Maven AGI型のビジネスモデルを持つ上場企業を1社特定する",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "「カスタマーサポートのコストが多い業種」（航空・旅行・金融・通信）の上場企業を調べ、AI化による利益率改善余地を試算する",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGIのIPO・M&A動向を継続監視するアラートを設定する（Google AlertsまたはCrunchbase Alerts）",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Maven AGI Partner Program | Resell & Build With AI",
+    "url": "https://www.mavenagi.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partners: Resell AI That Works",
+    "url": "https://www.mavenagi.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Maven's Partner Program is for customer-centric resellers and systems integrators who want to provide agentic AI experiences across any modality (chat, email, voice, SMS, Slack, WhatsApp, copilots, web, API, and more) to their customers on a platform built for the enterprise and scale.",
+    "url": "https://www.mavenagi.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "AI chat that looks and feels like your brand #aiagents #conversationalai #customerexperience",
+    "url": "https://www.youtube.com/@MavenAGI",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Maven's Partner Program is for customer-centric resellers and systems integrators who want to provide agentic AI experiences across any modality (chat, email, voice, SMS, Slack, WhatsApp, copilots, web, API, and more) to their customers on a platform built for the enterprise and scale.",
+    "url": "https://www.mavenagi.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Email us to get started at",
+    "url": "https://www.mavenagi.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "As Roo entered a period of hypergrowth, its network of hospitals, vets, and vet techs expanded rapidly. But with this growth came a proportionate surge in support tickets, sometimes up to 1,000+ per week across phone, email, and in-app chat.",
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "pass": 1
+   },
+   {
+    "quote": "Of course, as much as Jeff appreciates Maven’s powerful agent and actionable performance insights, his favorite thing about the partnership is access to a live support team. Between email updates, regular calls, and a Slack Connect channel, support reps are always available to help out with any technical questions. In fact, Jeff says their dedicated success manager",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "What’s next for the partnership? Since the chat channel was such a success, Jeff plans to deploy Agent Maven™ across email by June 2025 and phone by the end of Q3. Maven empowers his team to tackle their support queue faster than ever, and raise the customer service bar even higher. Needless to say, this potent combo promises to play a central role in Papaya’s explosive growth.",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "Agent Maven on Email (adopting soon)",
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "pass": 1
+   },
+   {
+    "quote": "Maven AGI builds enterprise AI agents that resolve customer support issues across chat, voice, email, and SMS. Maven agents take real action, like processing refunds and updating accounts, with up to 93% autonomous resolution.",
+    "url": "https://www.youtube.com/@MavenAGI",
+    "pass": 3
+   },
+   {
+    "quote": "Supporting customers across chat, voice, email, and SMS",
+    "url": "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, Maven’s AI agents help organizations automate customer interactions across chat, voice, email, and SMS while integrating directly into existing support, sales, and marketing workflows. Rather than acting as a gatekeeper between customers and support teams, Maven is designed to help organizations deliver real resolutions at scale.",
+    "url": "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey/",
+    "pass": 3
+   },
+   {
+    "quote": "Organizations today communicate with customers across chat, voice, email, SMS, help desks, and messaging platforms while maintaining consistent experiences throughout the customer journey.",
+    "url": "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey/",
+    "pass": 3
+   },
+   {
+    "quote": "Maven continues to expand its capabilities across voice, chat, email, SMS, and types of workflows while helping organizations deploy AI on top of the systems they already use.",
+    "url": "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Maven_AGI",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Maven_AGI",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/523084-33",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Veterinary Technicians",
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "pass": 1
+   },
+   {
+    "quote": ", a leading productivity platform, prides itself on providing exceptional customer support across a diverse user base. Trusted by millions of users across",
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "pass": 1
+   },
+   {
+    "quote": "recent case study on Maven",
+    "url": "https://www.m13.co/article/investment-announcement-maven-agi-ai-customer-support",
+    "pass": 3
+   },
+   {
+    "quote": "Reported by Maven AGI based on a customer case study.",
+    "url": "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey/",
+    "pass": 3
+   },
+   {
+    "quote": "Sami Shalabi, Maven AGI | theCUBE + NYSE Wired: AI Factories - Data Centers of the Future - YouTube",
+    "url": "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "pass": 3
+   },
+   {
+    "quote": "Sami Shalabi, Maven AGI | theCUBE + NYSE Wired: AI Factories - Data Centers of the Future",
+    "url": "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "pass": 3
+   },
+   {
+    "quote": "John Roese, Dell | theCUBE + NYSE Wired: AI Factories - Data Centers of the Future",
+    "url": "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agents For Beginners – OpenClaw Case Study",
+    "url": "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "pass": 3
+   },
+   {
+    "quote": "In this segment from the theCUBE + NYSE Wired: AI Factories event, Sami Shalabi, co-founder and chief technology officer of Maven AGI, joins John Furrier to discuss the transformative role of agentic AI in enterprise customer experience. Shalabi details how Maven AGI is moving beyond basic chatbots to deploy sophisticated agents capable of handling complex workflows across support, succes",
+    "url": "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "pass": 3
+   },
+   {
+    "quote": "#AIFactoriesDataCenters",
+    "url": "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新",
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "pass": 3
+   },
+   {
+    "quote": "Tripadvisorでの導入事例では、人間への転送率が60%から5%以下に低下し、レスポンスタイムは5秒以内、顧客満足度90%以上を維持している",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "MavenAGI 、カスタマーサポートを自動化する OpenAI 搭載 ... — MavenAGI 、カスタマーサポートを自動化する OpenAI 搭載 ... OpenAI https://openai.com > ja-JP > index > mavenagi",
+    "url": "https://openai.com/ja-JP/index/mavenagi/",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けAIプラットフォーム「Maven AGI」の全貌ーー ... - note — 企業向けAIプラットフォーム「Maven AGI」の全貌ーー ... - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGIとは？評判・料金・機能 - AI PICKS — Maven AGIとは？評判・料金・機能 - AI PICKS aipicks.jp https://aipicks.jp > AIカスタマーサポート",
+    "url": "https://aipicks.jp/tool/maven-agi",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI | Enterprise AI Agent Platform for CX — Maven AGI | Enterprise AI Agent Platform for CX Maven AGI https://www.mavenagi.com",
+    "url": "https://www.mavenagi.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI | LinkedIn — Maven AGI | LinkedIn LinkedIn https://www.linkedin.com > mavenagi",
+    "url": "https://www.linkedin.com/company/mavenagi",
+    "pass": 3
+   },
+   {
+    "quote": "MavenAGI launches automated customer support ... - OpenAI — MavenAGI launches automated customer support ... - OpenAI OpenAI https://openai.com > index > mavenagi",
+    "url": "https://openai.com/index/mavenagi/",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI - YouTube — Maven AGI - YouTube YouTube https://www.youtube.com > @Maven...",
+    "url": "https://www.youtube.com/@MavenAGI",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI | Microsoft Marketplace — Maven AGI | Microsoft Marketplace Microsoft Marketplace https://marketplace.microsoft.com > ...",
+    "url": "https://marketplace.microsoft.com/en-us/product/maven-agi.mavenagi_generative_ai_for_support_and_cx",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Real AI Agent Results from Enterprise CX — Customer Stories | Real AI Agent Results from Enterprise CX Maven AGI https://www.mavenagi.com > custome...",
+    "url": "https://www.mavenagi.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Investing in Maven AGI : Leveraging AI to Fix Customer Support — Investing in Maven AGI : Leveraging AI to Fix Customer Support M13.co https://www.m13.co > article > invest...",
+    "url": "https://www.m13.co/article/investment-announcement-maven-agi-ai-customer-support",
+    "pass": 3
+   },
+   {
+    "quote": "Sami Shalabi, Maven AGI | theCUBE + NYSE Wired: AI Factories — Sami Shalabi, Maven AGI | theCUBE + NYSE Wired: AI Factories YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI Partner Program | Resell & Build With AI — Maven AGI Partner Program | Resell & Build With AI Maven AGI https://www.mavenagi.com > partners",
+    "url": "https://www.mavenagi.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "$50M to Fuel Our Vision for Enterprise AI - Maven AGI — $50M to Fuel Our Vision for Enterprise AI - Maven AGI Maven AGI https://www.mavenagi.com > series-b",
+    "url": "https://www.mavenagi.com/resources/series-b",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI Raises $50M to Meet Surging Demand for ... — Maven AGI Raises $50M to Meet Surging Demand for ... PR Newswire https://www.prnewswire.com > news-...",
+    "url": "https://www.prnewswire.com/news-releases/maven-agi-raises-50m-to-meet-surging-demand-for-enterprise-grade-ai-302484913.html",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI : Revenue , Competitors, Alternatives - Growjo — Maven AGI : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Maven_AGI",
+    "url": "https://growjo.com/company/Maven_AGI",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI - Valuation, Funding & Investors - PitchBook — Maven AGI - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/523084-33",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI unveils AI platform after securing $20M for global ... — Maven AGI unveils AI platform after securing $20M for global ... SiliconANGLE https://siliconangle.com > AI",
+    "url": "https://siliconangle.com/2024/05/29/maven-agi-unveils-ai-platform-securing-20m-global-expansion/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "企業向けAIプラットフォーム「 Maven AGI 」の全貌ーー ... - note 企業向けAIプラットフォーム「 Maven AGI 」の全貌ーー ... - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI が調達総額78億円超でカスタマーサポートを93 ... Maven AGI が調達総額78億円超でカスタマーサポートを93 ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けAIプラットフォーム「Maven AGI」の全貌ーー ... - note 企業向けAIプラットフォーム「Maven AGI」の全貌ーー ... - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "企業向けAIプラットフォーム「Maven AGI」の全貌ーーGensparkの回答｜木下寛士",
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "pass": 3
+   },
+   {
+    "quote": "企業向けAIプラットフォーム「Maven AGI」の全貌ーーGensparkの回答",
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "pass": 3
+   },
+   {
+    "quote": "MavenAGIは、企業向けのAIプラットフォームで、主に顧客サポートの自動化や業務効率化を目的としています。",
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "pass": 3
+   },
+   {
+    "quote": "このプラットフォームは、80%以上の顧客からのクエリに対して自動的に対応できる能力を持ち、サポートチームが、より戦略的な業務に集中できるよう支援します。",
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "pass": 3
+   },
+   {
+    "quote": "MavenAGIは、次のような機能を提供しています:",
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "pass": 3
+   },
+   {
+    "quote": ": モデルによる自然言語処理を活用し、顧客からの問い合わせに対する迅速な応答を実現します。",
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "pass": 3
+   },
+   {
+    "quote": ": 顧客の過去の行動データを解析し、パーソナライズされた情報提供や提案を行うことで、顧客満足度を向上させます。",
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "pass": 3
+   },
+   {
+    "quote": ": 自動化により、業務のボトルネックを解消し、効率的な運営を実現します。",
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "pass": 3
+   },
+   {
+    "quote": "年間1兆円市場に参入｜Maven AGIが調達総額78億円超でカスタマーサポートを93%自動化した戦略を投資家目線で読む｜カイ",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "年間1兆円市場に参入｜Maven AGIが調達総額78億円超でカスタマーサポートを93%自動化した戦略を投資家目線で読む",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサポートに企業が費やすコストを知っているか。",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "1チケットあたり平均40ドル（約6,000円）",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "ケースもある。年間数百万件の問い合わせを抱える大企業であれば、この部門だけで数百億円規模のコストが積み上がる。",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月にシリーズAで2,000万ドルを調達したこのスタートアップは、わずか1年後の2025年6月にシリーズBで5,000万ドルを追加調達。累計調達額は7,800万ドル（約117億円）に達した。1年間で顧客数はゼロから40社へ、顧客継続率は100%という数字が残っている。",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、Maven AGIの資金調達の背景から、カスタマーサポートAI市場の構造的な変化、投資家として注目すべきポイントまでを詳しく解説する。",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGIとは何か：従来のチャットボットとの決定的な違い",
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Maven AGI | LinkedIn Maven AGI | LinkedIn LinkedIn https://www.linkedin.com > mavenagi",
+    "url": "https://www.linkedin.com/company/mavenagi",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI : Jobs - LinkedIn Maven AGI : Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs",
+    "url": "https://www.linkedin.com/company/mavenagi/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Eugene Mann - Founder & CAIO @ MavenAGI - LinkedIn Eugene Mann - Founder & CAIO @ MavenAGI - LinkedIn LinkedIn https://www.linkedin.com > eugenem...",
+    "url": "https://www.linkedin.com/in/eugenemann",
+    "pass": 3
+   },
+   {
+    "quote": "Maven AGI platform | LinkedIn Maven AGI platform | LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/mavenagi-maven-agi-platform/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Maven AGI | Boston MA - Facebook Maven AGI | Boston MA - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/people/Maven-AGI/61565256301587/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mavenagi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mavenagi.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mavenagi.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mavenagi.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mavenagi.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mavenagi.com/customer-stories/roo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mavenagi.com/customer-stories/papaya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mavenagi.com/customer-stories/clickup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mavenagi.com/customer-stories/rho",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mavenagi.com/solutions/customer-experience",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mavenagi.com/solutions/customer-service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mavenagi.com/solutions/customer-support",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/691eab9a364330f3a9921d9d_partners_bg-left.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/691eab9a5a8d6f44f934eac3_partners_bg-right.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/6914347275c362fdfc2583fa_Partners.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://openai.com/ja-JP/index/mavenagi/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/article/35235374/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/fumiya-kume/ai-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/gpt/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-gage.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/mavenagi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://openai.com/index/mavenagi/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@MavenAGI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.m13.co/article/investment-announcement-maven-agi-ai-customer-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.agentz.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/maven-agi-raises-50m-to-meet-surging-demand-for-enterprise-grade-ai-302484913.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Maven_AGI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/523084-33",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/mavenagi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mavenagi/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/eugenemann",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/mavenagi-maven-agi-platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Maven-AGI/61565256301587/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mavenagi 日本 導入",
+   "results": [
+    "https://openai.com/ja-JP/index/mavenagi/",
+    "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "https://japan.zdnet.com/article/35235374/",
+    "https://github.com/fumiya-kume/ai-in-japan",
+    "https://aipicks.jp/tool/maven-agi",
+    "https://japan-ai.co.jp/",
+    "https://www.youtube.com/watch?v=xuimAQFNqos",
+    "https://quasa.io/ja/video/maven-agirebiyu-you-retagu-ke-ti-yan-woshi-xian-suruqi-ye-xiang-keaieziento",
+    "https://codezine.jp/news/detail/29489",
+    "https://en.wikipedia.org/wiki/Facebook"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 26
+  },
+  {
+   "query": "Mavenagi 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.manageengine.jp/pace/",
+    "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "https://exawizards.com/exabase/gpt/agent/",
+    "https://ai-gage.com/partner/",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://partner.forcenet.jp/",
+    "https://dairiten-cloud.jp/",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://b-seeds.com/business/product/aiit/ai",
+    "https://www.crunchyroll.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "Mavenagi Japan",
+   "results": [
+    "https://www.mavenagi.com/",
+    "https://www.linkedin.com/company/mavenagi",
+    "https://openai.com/index/mavenagi/",
+    "https://www.youtube.com/@MavenAGI",
+    "https://marketplace.microsoft.com/en-us/product/maven-agi.mavenagi_generative_ai_for_support_and_cx",
+    "https://www.mavenagi.com/resources/platform-launch",
+    "https://github.com/mavenagi",
+    "https://www.getmacha.com/blog/maven-agi-complete-guide",
+    "https://www.prnewswire.com/news-releases/maven-agi-raises-50m-to-meet-surging-demand-for-enterprise-grade-ai-302484913.html",
+    "https://www.google.com/flights/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "Mavenagi manufacturing customer case study",
+   "results": [
+    "https://www.mavenagi.com/customer-stories",
+    "https://www.m13.co/article/investment-announcement-maven-agi-ai-customer-support",
+    "https://www.microsoft.com/en-us/startups/blog/resolution-not-deflection-how-maven-uses-ai-agents-to-transform-the-enterprise-customer-journey/",
+    "https://www.youtube.com/watch?v=0eeN-kXDJYc",
+    "https://c3.ai/customers",
+    "https://www.infotech.com/videos/maven-agi-how-ai-can-transform-customer-experience",
+    "https://eightgen.ai/case-studies/case-study-4",
+    "https://www.youtube.com/watch?v=k3B7RRZebhg",
+    "https://blog.apify.com/maven-agi-customer-support-case-study/",
+    "https://en.wikipedia.org/wiki/2026–27_Miami_Heat_season"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mavenagi white label OR reseller OR partner program",
+   "results": [
+    "https://www.mavenagi.com/partners",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://www.agentz.ai/partners",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://vida.io/partners",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://en.wikipedia.org/wiki/Mediaite"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Mavenagi founded funding employees revenue",
+   "results": [
+    "https://www.mavenagi.com/resources/series-b",
+    "https://www.prnewswire.com/news-releases/maven-agi-raises-50m-to-meet-surging-demand-for-enterprise-grade-ai-302484913.html",
+    "https://growjo.com/company/Maven_AGI",
+    "https://pitchbook.com/profiles/company/523084-33",
+    "https://siliconangle.com/2024/05/29/maven-agi-unveils-ai-platform-securing-20m-global-expansion/",
+    "https://tracxn.com/d/companies/maven-agi/__noZikHBGyXs343KTpPJI8mmKSVpBbNjuual6j7H0mO8",
+    "https://www.privatemarketsinsights.com/post/maven-agi-raises-50m-to-meet-surging-demand-for-enterprise-grade-ai",
+    "https://www.linkedin.com/posts/keithcline_a-couple-of-months-ago-maven-agi-announced-activity-7366807947928109056-0rJc",
+    "https://www.linkedin.com/posts/jcorbin01_we-raised-78m-to-build-maven-agi-one-company-activity-7447315780846813185-XM6M",
+    "https://www.biglots.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:note.com Mavenagi",
+   "results": [
+    "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "https://note.com/kai_claudecode/n/ne446ce5f2cf5",
+    "https://note.com/kajiken0630/n/n49724a79ad40",
+    "https://note.com/yusukexz777/n/nfa8f4106d476",
+    "https://note.com/ripla_business/n/n1b465c6764ce",
+    "https://note.com/tag/TripAdvisor",
+    "https://note.com/fintechken/n/n3cbfb75dfa67",
+    "https://note.com/startup_now0708/n/na82f0d5e4a8f",
+    "https://note.com/llamaojisan/n/n96a9eb1759fb",
+    "https://www.city-data.com/forum/movies/2226674-most-realistic-love-scenes-2.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "site:x.com Mavenagi",
+   "results": [
+    "https://x.com/msft4startups/status/2090091419360731154",
+    "https://x.com/msft4startups/status/2118039138033148396",
+    "https://x.com/moinnadeem/status/2115830876596765076",
+    "https://x.com/phonic_co",
+    "https://x.com/e14fund",
+    "https://x.com/ZSultan",
+    "https://x.com/jordanfliegel",
+    "https://x.com/ArfurRock/highlights",
+    "https://x.com/DellTechCapital",
+    "https://x.com/msft4startups"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:linkedin.com Mavenagi",
+   "results": [
+    "https://www.linkedin.com/company/mavenagi",
+    "https://www.linkedin.com/company/mavenagi/jobs",
+    "https://www.linkedin.com/in/eugenemann",
+    "https://www.linkedin.com/products/mavenagi-maven-agi-platform/",
+    "https://www.linkedin.com/in/jcorbin01",
+    "https://www.linkedin.com/posts/keithcline_a-couple-of-months-ago-maven-agi-announced-activity-7366807947928109056-0rJc",
+    "https://www.linkedin.com/in/donohu3",
+    "https://www.linkedin.com/in/brendonpuntin",
+    "https://www.linkedin.com/in/sshalabi",
+    "https://www.barrons.com/articles/conagra-earnings-stock-price-dividend-c9f5a66c"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "site:facebook.com Mavenagi",
+   "results": [
+    "https://www.facebook.com/people/Maven-AGI/61565256301587/",
+    "https://www.facebook.com/gettheinformation/videos/ai-customer-support-should-work-when-the-customer-needs-it-jonathan-corbin-found/1358545652433429/",
+    "https://www.facebook.com/JoyNewsOnTV/videos/ai-disruption-or-opportunityjoin-us-on-wednesday-21st-october-2026-as-we-explore/1121516680278416/",
+    "https://www.facebook.com/sami.shalabi/",
+    "https://www.facebook.com/61588411492735/posts/122131465191280383/",
+    "https://www.facebook.com/rebecca.bard.445408/posts/122272254212132085/",
+    "https://www.facebook.com/61589050408103/videos/disruption-or-opportunity-ghana-has-to-decide-and-fasta-translator-watching-his-/1792492091961548/",
+    "https://www.facebook.com/rebecca.bard.445408/posts/122272470782132085/",
+    "https://www.facebook.com/AmdocsIndia/videos/agentic-ai-is-ushering-in-a-new-era-of-intelligent-automation-in-telecomin-this/1546229920330132/",
+    "https://www.speedtest.net/global-index"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 29
+  },
+  {
+   "query": "Mavenagi note 社長",
+   "results": [
+    "https://note.com/hiroshikinoshita/n/n51e3eb2cf4e5",
+    "https://www.mavenagi.com/about-us",
+    "https://note.com/ai_shacho",
+    "https://note.jp/n/n1f88132773b7",
+    "https://x.com/sadaaki",
+    "https://note.com/safe_sage8850/n/n7e027f17590d",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://note.com/ai_realestate",
+    "https://en.wikipedia.org/wiki/Naughty_by_Nature"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Mavenagi X 投稿",
+   "results": [
+    "https://www.mavenagi.com/",
+    "https://www.youtube.com/@MavenAGI",
+    "https://openai.com/index/mavenagi/",
+    "https://github.com/mavenagi",
+    "https://marketplace.microsoft.com/en-us/product/maven-agi.mavenagi_generative_ai_for_support_and_cx",
+    "https://www.mavenagi.com/resources/platform-launch",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://aiweek.boston/partners-maven-agi",
+    "https://www.facebook.com/",
+    "https://stackoverflow.com/questions/5023602/facebook-share-link-can-you-customize-the-message-body-text"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 28
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部28頁・検索12回）"
+ }
+}
