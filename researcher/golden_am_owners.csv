@@ -1,0 +1,43 @@
+社名,期待,期待理由コード,備考
+金属技研株式会社,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+大阪冶金興業株式会社,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+株式会社J・3D,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+株式会社日本積層造形株式会社,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+株式会社コイワイ,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+東京都立産業技術研究センター,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+静岡県工業技術研究所,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+兵庫県立工業技術センター,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+山口県産業技術センター,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+大阪大学,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+兵庫県立大学金属新素材研究センター,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+金沢工業大学,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+KIT金沢工業大学,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+奈良工業高等専門学校,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+地方独立行政法人大阪産業技術研究所,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+大阪産業技術研究所,PASS,,37社手検証正例（A2Xは正URL a2x.jp で同定できること）
+A2X株式会社,REJECT,NO_EQUIPMENT_EVIDENCE,【ゴールデン自体の誤りを2026-11-11に発見・訂正】当初は正例とされたが、a2x.jp の A2X株式会社は人材派遣・職業紹介会社（大阪市北区、設立2003年、派遣許可 派27-300407）で金属AM事業なし。AM文脈の「A2X」は Arcam A2X（EBM機）の型番。先行の手検証URL判定が同名トラップに嵌った事例。ゲートが却下するのが正解であり、これをゲートの失敗とは数えない。
+東金属産業株式会社,PASS_OR_MANUAL,NO_EQUIPMENT_EVIDENCE,37社正例だが機種名非公開。公式ページに保有明記があれば手動PASS可
+東京電機大学,PASS_OR_MANUAL,NO_EQUIPMENT_EVIDENCE,37社正例だが機種名非公開。公式ページに保有明記があれば手動PASS可
+株式会社フジ,REJECT,,フジテレビ側に同定したら不合格。候補は小売フジ the-fuji.com → 設備証拠なしで却下が正解
+株式会社アリエル,REJECT,,Disneyに同定したら不合格。候補 ariel-inc.jp → 設備証拠なしで却下が正解
+クオリカ株式会社,REJECT,,qualica.co.jp（同名IT）に同定したら不合格。候補 komatec.co.jp で同定+型番証拠がある場合のみ例外的に正解扱い
+花王株式会社,REJECT,NO_EQUIPMENT_EVIDENCE,自社設備証拠なし → NO_EQUIPMENT_EVIDENCE のはず
+株式会社2026年5月12日,REJECT,NOT_ENTITY,断片
+株式会社2026年8月19日,REJECT,NOT_ENTITY,断片
+株式会社様,REJECT,NOT_ENTITY,断片
+株式会社https,REJECT,NOT_ENTITY,断片
+株式会社,REJECT,NOT_ENTITY,断片
+株式会社カタログ・パンフレット,REJECT,NOT_ENTITY,断片
+株式会社ホームページ,REJECT,NOT_ENTITY,断片
+株式会社保有設備,REJECT,NOT_ENTITY,断片
+株式会社電子ビーム金属3Dプリンタ,REJECT,NOT_ENTITY,断片
+株式会社SLM125,REJECT,NOT_ENTITY,断片
+有限会社倉繁歯科技工所様,REJECT,NOT_ENTITY,断片
+株式会社NTTデータザム,MERGE_GROUP:XAM,,4行で名簿1行（NTTデータザムテクノロジーズ）に束ねられるべき。…EOS行はNOT_ENTITYでも可
+株式会社NTTデータザム...EOS,MERGE_GROUP:XAM,,4行で名簿1行（NTTデータザムテクノロジーズ）に束ねられるべき。…EOS行はNOT_ENTITYでも可
+株式会社NTTデータザムテクノロジーズ,MERGE_GROUP:XAM,,4行で名簿1行（NTTデータザムテクノロジーズ）に束ねられるべき。…EOS行はNOT_ENTITYでも可
+株式会社エヌ・ティ・ティ・データ・ザムテクノロジ,MERGE_GROUP:XAM,,4行で名簿1行（NTTデータザムテクノロジーズ）に束ねられるべき。…EOS行はNOT_ENTITYでも可
+（グループ）大阪産業技術研究所,MERGE_GROUP:ORIST,,#45/#50の2行で名簿1行
+（グループ）金沢工業大学,MERGE_GROUP:KIT,,#5 KIT金沢工業大学/#167 金沢工業大学の2行で名簿1行
+野村證券株式会社,REJECT,OBVIOUS_NON_AM,金融（証券）。URLが照合できても OBVIOUS_NON_AM で却下が正解
+野村アセットマネジメント株式会社,REJECT,OBVIOUS_NON_AM,金融（資産運用）。OBVIOUS_NON_AM で却下が正解
