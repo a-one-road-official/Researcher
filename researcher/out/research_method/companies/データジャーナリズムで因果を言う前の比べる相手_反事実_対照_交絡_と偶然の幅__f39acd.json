@@ -8,8 +8,132 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-09T10:07:56.485483+00:00",
+ "researched_at": "2026-11-11T03:00:45.099499+00:00",
  "evidence": {
+  "実例": [
+   {
+    "quote": "This is pure cultural critique, and we could take it many different ways. We could read this sentence as a rant, a plea, an affirmation, a provocation, a list of examples, or any other type of expression. Maybe it’s art. But journalism is traditionally understood as “nonfiction,” so let’s take this at face value and ask whether it’s true.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The range of values plus or minus the margin of error, in this case 20% to 60%, is called the 85-percent",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It may well be that several explanations remain, in which case one tries test after test until one or other of them has a convincing amount of support.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This doesn’t mean there’s a single right answer in every case. All data analysis is really data",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "= 0.4 × 0.4 = 0.16. The definition of probability divides out the total number of cases so that probabilities are always between 0 and 1, which lets us avoid the tedious bookkeeping of counting cases directly when all we want is the final proportion. Multiplication is how you work out the probability that event A",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "We can use the logic of counting cases to work out the probability of an unlikely event happening by chance. In the winter of 1976 the United States embarked on a nationwide flu vaccination program, responding to fears of an H1N1 virus epidemic (a.k.a. swine flu). Millions of people lined up across the country to get vaccinated. But some of them got sick after, or even died.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "A known genuine and two possibly forged signatures in the Howland will case. From Meier and Zabell, 1980.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "We’ll work through a small example that has the same shape as our assaults versus closing time policy question. Suppose there is a dangerous intersection in your city. Not long ago there were nine accidents in one year! But that was before the city installed a traffic light. Since the stoplight was installed there have been many fewer accidents.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "But the fundamental logic of comparing how often different possibilities would produce your observed data carries through to the most complex analyses. I hope this example gives the flavor of how a single unifying framework has been used to solve problems in medicine, cryptography, ballistics, insurance, and just about every other human activity.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Cause cannot usually be read directly from the data, no matter how much we might wish this were the case. Consider this graph of mortality versus smoking rate across different occupations:",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Here’s a more ambiguous case:",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "For example, X causes Y and Y causes X appear the same in the data. We have to use other information to figure out the correct causal structure.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "It could also be the case that some other factor Z causes both X and Y. For example, there could be something that causes a man to write about a woman’s appearance",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "of the variables you see as related. For example, overall economic growth could both reduce unemployment and increase investment. A rich country might both import a lot of chocolate—a luxury good—and fund advanced research. The reduction in crime rates after the bar’s closing time changed could be because the police began patrolling to enforce the earlier closing time.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "for a variable. For example, you could investigate the relationship between smoking and cancer while controlling for the stress of different professions. This only works if your causal model is otherwise accurate. Again, it’s a way to ask about a counterfactual: What would be the relationship between employment and investment",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Consider unemployment again. A survey asks a few questions of many people, so that we can count how many people are unemployed. We can also find patterns of connection between employment status and location, education, age, and so on. To see these patterns truly, without bias, we must either count every single person or take a random sample. That is, a random sample is a",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The crimes that get reported are always the most serious. Content analysis has shown that coverage is biased toward victims who are young, female, white, and famous, as well as crimes which are particularly gruesome or sexual. Yet these examples are the stuff from which our perceptions are formed. it’s enough to make a media researcher weep:",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Not only is crime reporting biased in a statistical sense, but the psychological dominance of examples means that readers end up believing almost the opposite of the truth. This is a type of media bias that is seldom discussed or criticized.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Not everyone is on Twitter, not everyone is Tweeting, and even fewer are speaking on the topic of your story. This data has a bias toward certain types of people, and you don’t really know which kind of people those are. There is surely useful information to be got from social media, but it is not the same kind of information you can get from a random sample.",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Ruth Hamill, Timothy DeCamp Wilson, and Richard E. Nisbett, “Insensitivity to Sample Bias: Generalizing From Atypical Cases,” Journal of Personality and Social Psychology, 4 (1980).",
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "手順・やり方": [
    {
     "quote": "This is a book about the principles behind data journalism. Not what visualization software to use and how to scrape a website, but the fundamental ideas that underlie the human use of data. This isn’t “how to use data” but “how data works.”",
@@ -102,82 +226,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "PDFs and printed copies of this report are available on the",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Denise Schmandt-Besserat, “Tokens and Writing: The Cognitive Development,”SCRIPTA (2009): 145–154, https://sites.utexas.edu/dsb/files/2014/01/TokensWriting_the_Cognitive_Development.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Brian Gratton and Myron P. Guttman, “Hispanics in the United States 1850–1990,” Historical Methods, 3 (2000), https://www.latinamericanstudies.org/immigration/Hispanics-US-1850-1990.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "“Sixteenth Decennial Census of the United States, Instructions to Enumerators,Population and Agriculture,” U.S. Census Bureau, 1940, https://www.census.gov/history/pdf/1940instructions.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Steven Raphael and Jens Ludwig, Evaluating Gun Policy: Effects on Crime and Violence (Chicago: Brookings Institution Press, 2003), 251–277, https://home.uchicago.edu/ludwigj/papers/Exile_chapter_2003.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Andrew Gelman, “Statistics for Cigarette Sellers,” Chance, 3 (2012), https://www.stat.columbia.edu/~gelman/research/published/ChanceEthics4.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Bikaramjit Mann and Evan Wood, “Confounding in Observational Studies Explained,” The Open Epidemiology Journal (2012), https://benthamopen.com/contents/pdf/TOEPIJ/TOEPIJ-5-18.pdf.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "Consider unemployment again. A survey asks a few questions of many people, so that we can count how many people are unemployed. We can also find patterns of connection between employment status and location, education, age, and so on. To see these patterns truly, without bias, we must either count every single person or take a random sample. That is, a random sample is a",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The crimes that get reported are always the most serious. Content analysis has shown that coverage is biased toward victims who are young, female, white, and famous, as well as crimes which are particularly gruesome or sexual. Yet these examples are the stuff from which our perceptions are formed. it’s enough to make a media researcher weep:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Not only is crime reporting biased in a statistical sense, but the psychological dominance of examples means that readers end up believing almost the opposite of the truth. This is a type of media bias that is seldom discussed or criticized.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Not everyone is on Twitter, not everyone is Tweeting, and even fewer are speaking on the topic of your story. This data has a bias toward certain types of people, and you don’t really know which kind of people those are. There is surely useful information to be got from social media, but it is not the same kind of information you can get from a random sample.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Ruth Hamill, Timothy DeCamp Wilson, and Richard E. Nisbett, “Insensitivity to Sample Bias: Generalizing From Atypical Cases,” Journal of Personality and Social Psychology, 4 (1980).",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "突き合わせ・推定": [
    {
     "quote": "You should be skeptical of any headline that says the number of jobs in the United States has changed by fewer than about 105,000 since last month. That’s because the monthly jobs growth estimate has a",
@@ -264,93 +312,45 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "実例": [
+  "一次情報の探し方": [
    {
-    "quote": "This is pure cultural critique, and we could take it many different ways. We could read this sentence as a rant, a plea, an affirmation, a provocation, a list of examples, or any other type of expression. Maybe it’s art. But journalism is traditionally understood as “nonfiction,” so let’s take this at face value and ask whether it’s true.",
+    "quote": "PDFs and printed copies of this report are available on the",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "The range of values plus or minus the margin of error, in this case 20% to 60%, is called the 85-percent",
+    "quote": "Denise Schmandt-Besserat, “Tokens and Writing: The Cognitive Development,”SCRIPTA (2009): 145–154, https://sites.utexas.edu/dsb/files/2014/01/TokensWriting_the_Cognitive_Development.pdf.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "It may well be that several explanations remain, in which case one tries test after test until one or other of them has a convincing amount of support.",
+    "quote": "Brian Gratton and Myron P. Guttman, “Hispanics in the United States 1850–1990,” Historical Methods, 3 (2000), https://www.latinamericanstudies.org/immigration/Hispanics-US-1850-1990.pdf.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "This doesn’t mean there’s a single right answer in every case. All data analysis is really data",
+    "quote": "“Sixteenth Decennial Census of the United States, Instructions to Enumerators,Population and Agriculture,” U.S. Census Bureau, 1940, https://www.census.gov/history/pdf/1940instructions.pdf.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "= 0.4 × 0.4 = 0.16. The definition of probability divides out the total number of cases so that probabilities are always between 0 and 1, which lets us avoid the tedious bookkeeping of counting cases directly when all we want is the final proportion. Multiplication is how you work out the probability that event A",
+    "quote": "Steven Raphael and Jens Ludwig, Evaluating Gun Policy: Effects on Crime and Violence (Chicago: Brookings Institution Press, 2003), 251–277, https://home.uchicago.edu/ludwigj/papers/Exile_chapter_2003.pdf.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "We can use the logic of counting cases to work out the probability of an unlikely event happening by chance. In the winter of 1976 the United States embarked on a nationwide flu vaccination program, responding to fears of an H1N1 virus epidemic (a.k.a. swine flu). Millions of people lined up across the country to get vaccinated. But some of them got sick after, or even died.",
+    "quote": "Andrew Gelman, “Statistics for Cigarette Sellers,” Chance, 3 (2012), https://www.stat.columbia.edu/~gelman/research/published/ChanceEthics4.pdf.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
    },
    {
-    "quote": "A known genuine and two possibly forged signatures in the Howland will case. From Meier and Zabell, 1980.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We’ll work through a small example that has the same shape as our assaults versus closing time policy question. Suppose there is a dangerous intersection in your city. Not long ago there were nine accidents in one year! But that was before the city installed a traffic light. Since the stoplight was installed there have been many fewer accidents.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "But the fundamental logic of comparing how often different possibilities would produce your observed data carries through to the most complex analyses. I hope this example gives the flavor of how a single unifying framework has been used to solve problems in medicine, cryptography, ballistics, insurance, and just about every other human activity.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Cause cannot usually be read directly from the data, no matter how much we might wish this were the case. Consider this graph of mortality versus smoking rate across different occupations:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Here’s a more ambiguous case:",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "For example, X causes Y and Y causes X appear the same in the data. We have to use other information to figure out the correct causal structure.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "It could also be the case that some other factor Z causes both X and Y. For example, there could be something that causes a man to write about a woman’s appearance",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "of the variables you see as related. For example, overall economic growth could both reduce unemployment and increase investment. A rich country might both import a lot of chocolate—a luxury good—and fund advanced research. The reduction in crime rates after the bar’s closing time changed could be because the police began patrolling to enforce the earlier closing time.",
-    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "for a variable. For example, you could investigate the relationship between smoking and cancer while controlling for the stress of different professions. This only works if your causal model is otherwise accurate. Again, it’s a way to ask about a counterfactual: What would be the relationship between employment and investment",
+    "quote": "Bikaramjit Mann and Evan Wood, “Confounding in Observational Studies Explained,” The Open Epidemiology Journal (2012), https://benthamopen.com/contents/pdf/TOEPIJ/TOEPIJ-5-18.pdf.",
     "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -360,6 +360,11 @@
  "figures": {},
  "checked": {
   "pass3": [
+   {
+    "url": "https://note.com/yu_epiphany/n/n80f78e5600d0",
+    "status": "ok",
+    "method": "browser"
+   },
    {
     "url": "https://note.com/platypus2000jp/n/n19c141ec868d",
     "status": "ok",
@@ -381,59 +386,114 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/platypus2000jp/n/nd95b71edbb3d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/openwave/n/n86c4590c143a",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://x.com/mMEDICI_Inc/article/2065374280419004739",
+    "url": "https://note.com/repkuririn7/n/n5b9d7572d30d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/macromill/n/n73fa02c20ec3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.krsk-phs.com/entry/counterfactual_assumptions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchmap.jp/ryotatakaoka/misc/31299098",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wakara.co.jp/mathlog/20260104",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/globis_engineers/n/n3f45bc222df8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mki.co.jp/knowledge/innovation/20250321-005546.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asmarq.co.jp/column/column-cat/glossary/confounding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiqumo.jp/contents/knowhow/3241",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesanalytics.co.jp/column/no00450/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.acceluniverse.com/blog/developers/2019/12/post-32.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skillupai.com/blog/tech/causal-inference/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://qiita.com/akiralab/items/48e8b4ae5151146aaa9c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.icrweb.jp/pluginfile.php/802/mod_resource/content/2/ICRweb_20191030.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.transparently.jp/dskentei/causal-inference",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jst.go.jp/crds/pdf/CRDS-FR-S/CRDS-FR-S603-202601.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.issoh.co.jp/column/details/5497/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://toukei-lab.com/confounder",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://marginaleffects.com/chapters/comparisons.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://getrecast.com/deep-dive-counterfactuals/",
+    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20161014-00010006-jisin-ent&lang=ja",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://elsur.jpn.org/mt/cat13/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://imis.igaku-shoin.co.jp/journal/contents/_internal/6db9c1e7-1a22-458c-813b-830a177dc0b9/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://webview.isho.jp/journal/detail/pdf/10.11477/mf.091444120390111109",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://journalistsresource.org/media/margin-error-journalists-surveys-polls/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sciencemediacentre.es/en/short-guide-statistics-journalists-how-open-black-box-scientific-study",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
@@ -441,17 +501,12 @@
     "method": "http"
    },
    {
-    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12723",
-    "status": "http_403",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://arxiv.org/pdf/2308.13026v4",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.vishalsingh.org/ch05-counterfactual",
+    "url": "https://knology.org/article/numbers-in-the-news-margin-of-error/",
     "status": "ok",
     "method": "http"
    }
@@ -461,13 +516,13 @@
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 site:note.com",
    "results": [
+    "https://note.com/yu_epiphany/n/n80f78e5600d0",
     "https://note.com/platypus2000jp/n/n19c141ec868d",
     "https://note.com/momoen_de/n/ndb1acc01b83e",
     "https://note.com/biostat_lab/n/naa6165d6ff13",
     "https://note.com/genial_robin6007/n/n4ffb76b4cea3",
-    "https://note.com/platypus2000jp/n/nd95b71edbb3d",
     "https://note.com/openwave/n/n86c4590c143a",
-    "https://note.com/kuro_hakos/n/n843b073e5863"
+    "https://note.com/platypus2000jp/n/nd95b71edbb3d"
    ],
    "engines": [
     "ddgs:google"
@@ -477,60 +532,80 @@
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 note",
    "results": [
-    "https://x.com/mMEDICI_Inc/article/2065374280419004739",
-    "https://qiita.com/akiralab/items/48e8b4ae5151146aaa9c",
-    "https://www.icrweb.jp/pluginfile.php/802/mod_resource/content/2/ICRweb_20191030.pdf",
-    "https://note.com/momoen_de/n/ndb1acc01b83e",
-    "https://www.transparently.jp/dskentei/causal-inference",
-    "https://www.jst.go.jp/crds/pdf/CRDS-FR-S/CRDS-FR-S603-202601.pdf",
-    "https://www.issoh.co.jp/column/details/5497/",
-    "https://toukei-lab.com/confounder"
+    "https://note.com/repkuririn7/n/n5b9d7572d30d",
+    "https://note.com/macromill/n/n73fa02c20ec3",
+    "https://www.krsk-phs.com/entry/counterfactual_assumptions",
+    "https://researchmap.jp/ryotatakaoka/misc/31299098",
+    "https://wakara.co.jp/mathlog/20260104",
+    "https://note.com/globis_engineers/n/n3f45bc222df8",
+    "https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/81185/1/Aiko_Matsumoto_abstract.pdf",
+    "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/701a23d2-f3f8-4587-a763-7d5eb14b4649/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 9
   },
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 やり方",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://www.mki.co.jp/knowledge/innovation/20250321-005546.html",
+    "https://www.asmarq.co.jp/column/column-cat/glossary/confounding/",
+    "https://www.krsk-phs.com/entry/counterfactual_assumptions",
+    "https://qiqumo.jp/contents/knowhow/3241",
+    "https://www.salesanalytics.co.jp/column/no00450/",
+    "https://www.acceluniverse.com/blog/developers/2019/12/post-32.html",
+    "https://www.skillupai.com/blog/tech/causal-inference/",
+    "https://note.com/macromill/n/n73fa02c20ec3",
+    "https://uxdaystokyo.com/articles/data_analyze_and_bias/",
+    "https://x.com/mMEDICI_Inc/article/2065374280419004739"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 事例",
    "results": [
-    "https://qiita.com/akiralab/items/48e8b4ae5151146aaa9c",
-    "https://x.com/mMEDICI_Inc/article/2065374280419004739",
-    "https://www.icrweb.jp/pluginfile.php/802/mod_resource/content/2/ICRweb_20191030.pdf",
-    "https://www.transparently.jp/dskentei/causal-inference",
-    "https://toukei-lab.com/confounder",
-    "https://www.jst.go.jp/crds/pdf/CRDS-FR-S/CRDS-FR-S603-202601.pdf",
-    "https://www.issoh.co.jp/column/details/5497/"
+    "https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/76789",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20161014-00010006-jisin-ent&lang=ja",
+    "https://elsur.jpn.org/mt/cat13/",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/6db9c1e7-1a22-458c-813b-830a177dc0b9/",
+    "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
+    "https://webview.isho.jp/journal/detail/pdf/10.11477/mf.091444120390111109",
+    "https://hgpi.org/wp-content/uploads/advocacy-college.pdf",
+    "https://www.jabes1993.org/%E7%B5%8C%E5%96%B6%E5%80%AB%E7%90%86%E5%AD%A6%E4%BC%9A%E8%AA%8C_%E7%AC%AC31%E5%8F%B7.pdf",
+    "https://dl.mtstlab.org/papers/454",
+    "https://x.com/mMEDICI_Inc/article/2065374280419004739"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "data journalism counterfactual comparison confounding chance small counts margin of error guide",
    "results": [
-    "https://marginaleffects.com/chapters/comparisons.html",
-    "https://getrecast.com/deep-dive-counterfactuals/",
+    "https://www.cjr.org/tow_center_reports/the_curious_journalists_guide_to_data.php/",
+    "https://journalistsresource.org/media/margin-error-journalists-surveys-polls/",
+    "https://sciencemediacentre.es/en/short-guide-statistics-journalists-how-open-black-box-scientific-study",
     "https://www.ukjournohub.com/data-journalism/statistics-for-journalists",
-    "https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12723",
-    "https://arxiv.org/pdf/2308.13026v4",
-    "https://www.vishalsingh.org/ch05-counterfactual",
-    "https://www.sciencedirect.com/science/article/pii/S0895435620311756",
-    "https://www.sciencedirect.com/science/article/pii/S1048984323000012"
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/",
+    "https://knology.org/article/numbers-in-the-news-margin-of-error/",
+    "https://www.qualtrics.com/articles/strategy-research/margin-of-error/",
+    "https://datajournalism.com/read/longreads/why-understanding-margins-of-error-matters-in-journalism",
+    "https://gijn.org/stories/data-reporting-donts-tips-avoid-misleading-numbers/",
+    "https://marginaleffects.com/chapters/comparisons.html"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 15
   },
   {
    "query": "site:note.com データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務",
@@ -540,11 +615,11 @@
     "https://note.com/momoen_de/n/ndb1acc01b83e",
     "https://note.com/biostat_lab/n/naa6165d6ff13",
     "https://note.com/platypus2000jp/n/nd95b71edbb3d",
-    "https://note.com/relearningsquare/n/nbd56ec2bd65d",
-    "https://note.com/genial_robin6007/n/n4ffb76b4cea3"
+    "https://note.com/genial_robin6007/n/n4ffb76b4cea3",
+    "https://note.com/relearningsquare/n/nbd56ec2bd65d"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -555,8 +630,8 @@
     "https://x.com/mMEDICI_Inc/article/2065374280419004739",
     "https://x.com/mMEDICI_Inc/article/2067552926709731407",
     "https://x.com/Dataibridge_01/status/2065635290732249118",
-    "https://x.com/Dataibridge_01/status/2086322900991434933",
     "https://x.com/smo_yutohisano/status/2074054537707663494",
+    "https://x.com/Dataibridge_01/status/2086322900991434933",
     "https://x.com/Dataibridge_01/status/2061427268958974350"
    ],
    "engines": [
@@ -573,14 +648,12 @@
     "https://jp.linkedin.com/pulse/counterfactuals-causal-inference-peter-walker-hns2e?tl=ja",
     "https://jp.linkedin.com/pulse/causality-counterfactuals-role-iot-digital-twin-dr-pg-madhavan?tl=ja",
     "https://jp.linkedin.com/pulse/平均で結論を出す統計から異質性と因果経路で説明する意思決定への転換-michio-okazaki-9i5hc",
-    "https://jp.linkedin.com/pulse/平均では見えない因果-事件事故の真相解明にdsadagは何をもたらすのか-michio-okazaki-wscoc?tl=ja",
-    "https://jp.linkedin.com/pulse/unlocking-causal-inference-comprehensive-guide-back-door-bowen-li-7jwdc?tl=ja"
+    "https://jp.linkedin.com/pulse/知ってると役立つ因果推論の用語と実務での落とし方の話-hisashi-kobayashi-vendc"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務",
@@ -588,10 +661,10 @@
     "https://www.facebook.com/groups/datajournalism.jp/",
     "https://www.facebook.com/SocialCompany/posts/掲載されました最新のメディア手法データジャーナリズムの無料オンライン公開講座がスタート-市川裕康デジタルキュレーション-現代ビジネス-講談社-興味ある方一緒に受/10151839905303623/",
     "https://www.facebook.com/groups/datavizjapan/",
+    "https://www.facebook.com/groups/datajournalism.jp/about/",
     "https://www.facebook.com/business.research.lab/photos/コラム公開失敗から学ぶ思考法意思決定と行動変容に対する反事実的思考の影響と題したコラムを公開しましたhttpswwwbusiness-research-labc/1144153721049042/",
     "https://www.facebook.com/naoya.wada.16/posts/-９１１から四半世紀そして解決型報道の可能性-260911-fri-２５年前の今日はどこで何をしていたかとの問いかけから始まった今回の金曜懇話会エネルギーを主題/10247978299137297/",
-    "https://www.facebook.com/groups/datajounalism/about/",
-    "https://www.facebook.com/groups/datavizjapan/posts/2617428761779345/"
+    "https://www.facebook.com/groups/datajounalism/about/"
    ],
    "engines": [
     "ddgs:google"
@@ -601,57 +674,64 @@
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 note 社長",
    "results": [
-    "https://x.com/mMEDICI_Inc/article/2065374280419004739",
-    "https://qiita.com/akiralab/items/48e8b4ae5151146aaa9c",
-    "https://www.icrweb.jp/pluginfile.php/802/mod_resource/content/2/ICRweb_20191030.pdf",
-    "https://note.com/momoen_de/n/ndb1acc01b83e",
-    "https://www.skillupai.com/blog/tech/causal-inference/",
-    "https://www.issoh.co.jp/column/details/5497/",
-    "https://www.jst.go.jp/crds/pdf/CRDS-FR-S/CRDS-FR-S603-202601.pdf",
-    "https://www.transparently.jp/dskentei/causal-inference",
-    "https://qiita.com/Seine_A_Shintani/items/d3b0866baec898e613fd"
+    "https://note.com/repkuririn7/n/n5b9d7572d30d",
+    "https://www.krsk-phs.com/entry/counterfactual_assumptions",
+    "https://note.com/macromill/n/n73fa02c20ec3",
+    "https://wakara.co.jp/mathlog/20260104",
+    "https://note.com/m3dag/n/n3db1f5090e0e",
+    "https://news.rease.co.jp/n/n3ef06df59a7b",
+    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
+    "https://uxdaystokyo.com/articles/data_analyze_and_bias/",
+    "https://martechlab.gaprise.jp/archives/abtest/causal-relationship/",
+    "https://bigdata-analytics.jp/analytics/causal-counterfactual/"
    ],
    "engines": [
     "ddgs:bing",
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務 X 投稿",
    "results": [
-    "https://x.com/mMEDICI_Inc/article/2065374280419004739",
-    "https://qiita.com/akiralab/items/48e8b4ae5151146aaa9c",
-    "https://www.icrweb.jp/pluginfile.php/802/mod_resource/content/2/ICRweb_20191030.pdf",
-    "https://x.com/mMEDICI_Inc/article/2067552926709731407",
-    "https://www.transparently.jp/dskentei/causal-inference",
-    "https://www.issoh.co.jp/column/details/5497/",
-    "https://toukei-lab.com/confounder"
+    "https://healthpolicyhealthecon.wordpress.com/2014/09/30/study-design-overview/",
+    "https://wakara.co.jp/mathlog/20260104",
+    "https://martechlab.gaprise.jp/archives/abtest/causal-relationship/",
+    "https://www.datacurrent.co.jp/column/correlation_causation20211109/",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20181001-00000053-impress-sci&lang=ja",
+    "https://elsur.jpn.org/mt/cat13/",
+    "https://id.ndl.go.jp/bib/025491812",
+    "https://ailearn.biz/learn/20200830769",
+    "https://imis.igaku-shoin.co.jp/journal/contents/_internal/77f8d3d3-c2c9-4bae-bcb3-b094030184c2/"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "data journalism counterfactual comparison confounding chance small counts margin of error guide site:linkedin.com",
    "results": [
+    "https://www.linkedin.com/in/justin-steve-50361727",
+    "https://nl.linkedin.com/in/lkhagvaaerdenesuren",
+    "https://my.linkedin.com/in/lim-zi-xiang-datascience",
     "https://www.linkedin.com/pulse/causal-inference-ii-counterfactuals-randomization-confounder-medin",
     "https://www.linkedin.com/posts/handy-research_episode-11-counterfactual-framework-practical-activity-7439697916736229376-BenY",
-    "https://www.linkedin.com/pulse/causal-inference-scenario-illustration-ajay-taneja-ejzsf",
     "https://www.linkedin.com/advice/1/what-best-practices-addressing-confounding-variables-jkejf",
+    "https://www.linkedin.com/pulse/causal-inference-scenario-illustration-ajay-taneja-ejzsf",
     "https://www.linkedin.com/pulse/potential-outcomes-challenge-counterfactuals-athulya-ganapathi-kandy-isjwc",
-    "https://www.linkedin.com/top-content/productivity/improving-research-outcomes/how-to-manage-confounding-variables-in-research/",
-    "https://www.linkedin.com/advice/0/how-can-you-address-bias-confounding-variables"
+    "https://www.linkedin.com/advice/0/how-can-you-address-bias-confounding-variables",
+    "https://www.linkedin.com/top-content/productivity/improving-research-outcomes/how-to-manage-confounding-variables-in-research/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 10
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 16,
+ "runs": 17,
  "first_researched_at": "2026-11-05T20:04:55.850292+00:00"
 }

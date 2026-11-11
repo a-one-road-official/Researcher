@@ -1,0 +1,1665 @@
+{
+ "name": "Dyemansion",
+ "aliases": [],
+ "context": "旧営業リスト｜AM / Additive Manufacturing｜日本進出済",
+ "researched_at": "2026-11-11T03:39:04.670239+00:00",
+ "official_url": "https://www.dyemansion.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "京都府京都市下京区柿本町588-22",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒600-8357 京都府京都市下京区柿本町588-22",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2014年03月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2014年3月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "04-Feb-2015 $921K $921K  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "DyeMansion: Leading 3D Printing Post-Processing Company",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "why 3D-Printing?",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR PRINT-TO-PRODUCT WORKFLOW",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production & Industrial",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Service Providers & Contract Manufacturers",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SERVICE PROVIDER FINDER",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why 3D-printing?",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Print-to-Product workflow",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "THE RIGHT PRODUCTION SETUP",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Service Providers & Contract Manufacturers",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Service Provider Finder",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-printing!",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are the global leader in offering complete, connected & fully integrated end-to-end solutions for all finishing steps for 3D-printed polymer parts. Our processes solve an urgent industry need for cleaning, different surfacing options depending on the application & coloring.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From perfect fit eyewear to personalized orthotics or midsoles for the footwear industry, our technology makes 3D-printed products become a part of our everyday life.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tumbling process before surfacing (3rd party technology)",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Works with all powder bed 3D-printing technologies",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensures reproducible processes",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR PRODUCT PORTFOLIO",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "EXPERIENCE OURPRINT-TO-PRODUCTFAMILY",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about the individual products in our Print-to-Product platform and find out how they can be combined to create your individual end-to-end workflow to turn your 3D-printed raw parts into high-value products.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DyeMansion’s proven Powershot technology in a compact industrial format.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "post-processing: optimal",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "high-volume production with Additive Manufacturing",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The same great vapor smoothing technology – also available for polypropylene (PP) parts",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The VX1 is now part of the DyeMansion Print-to-Product workflow and delivers vapor smoothing in a compact, easy-to-use system for entry-level production.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a 3D Printing Manufacturing Partner | DyeMansion",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "why 3D-Printing?",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "OUR PRINT-TO-PRODUCT WORKFLOW",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Production & Industrial",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Service Providers & Contract Manufacturers",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SERVICE PROVIDER FINDER",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Why 3D-printing?",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Print-to-Product workflow",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "THE RIGHT PRODUCTION SETUP",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Service Providers & Contract Manufacturers",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Service Provider Finder",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Partners worldwide",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our goal is to create efficient solutions for every industrial need. That’s why we chose DyeMansion, as they have the best and most flexible industrial post-processing solutions on the market.”",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Goran Jenssen, BU Manager 3D-Printing at PLM Group",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“With our know-how and the technology of DyeMansion, we are able to offer our customers a stable, reproducible and above all holistic process.”",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“The partnership with DyeMansion is an important step for us to offer our customers the best possible technology. The DyeMansion Print-to-Product platform harmonizes perfectly with the SAF technology and thus allows us to offer our customers the entire process chain up to the finished product from one source.”",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“We produce thousands of powder bed fusion parts per month, and our current DyeMansion equipment has become invaluable to processing components efficiently.”",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Greg Reynolds, Vice President of Operations at Stratasys Direct Manufacturing",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“Together with DyeMansion, we’re giving our customers a comprehensive, proven additive manufacturing process tailored to our H350 3D printer. This enables our customers to easily move from powder to consistent, quality finished parts at scale. The alliance will help accelerate the adoption of SAF technology for end-use parts production.”",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Pat Carey, Senior Vice Presidet Americas Products & Solutions at Stratasys",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Find the right DyeMansion Sales Partner or Production Partner in your region.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The technology of our Platform Partners like EOS, HP, Stratasys, Nexa3D or Siemens complements our solution to a full process chain for AM users worldwide.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Become our valued reseller and expand your current offer with high-end post-processing solutions.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a production partner",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Join our global service provider network and boost your business with high value finished parts.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Warum Post-Processing?",
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "UNSER PRINT-TO-PRODUCT WORKFLOW",
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "Produktion & Industrie",
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODUKTIONSPARTNER FINDEN",
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "Unser Print-to-Product Workflow",
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "Das passende Produktions-Setup",
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "Produktionspartner Finder",
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "Versand von Produkten per Mail",
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "VOM DRUCK ZUM PRODUKT:",
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "WIR BIETEN INTEGRIERTES POST-PROCESSING",
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Production & Industrial",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Service Providers & Contract Manufacturers",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Service Providers & Contract Manufacturers",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We build technology for the factories of the future. Time to transform your factory with",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Is ready for the factory of the future",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DyeMansion’s proven Powershot technology in a compact industrial format.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The next generation cleaning solution for the factory of tomorrow",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Next level blasting system purpose-built for the factory of the future &",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "high-volume production with Additive Manufacturing",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The next generation surfacing solution for the factory of tomorrow",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lowest costs per run with the leading green vapor smoothing solution for industrial manufacturing at scale",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The leading coloring solution for industrial Additive Manufacturing",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The leading black coloring solution for industrial Additive Manufacturing",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You are a technology provider developing machines, processes, materials or software? Let’s get in touch and discuss how we can work together to transform the manufacturing industry together. Have a look at our current partner platform to get a better feeling about our diverse ecosystem today.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You have more than one technology and material? No problem. Our solutions work with all industrial polymer 3D-printing technologies on the market.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The application of eyewear is often underestimated in terms of quality and surface. After many years of working together, we really trust in DyeMansion technology to ensure quality and scaling in our manufacturing process.”",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Greg Reynolds, Vice President of Operations at Stratasys Direct Manufacturing",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Together with DyeMansion, we’re giving our customers a comprehensive, proven additive manufacturing process tailored to our H350 3D printer. This enables our customers to easily move from powder to consistent, quality finished parts at scale. The alliance will help accelerate the adoption of SAF technology for end-use parts production.”",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Frederick Wray, Operations Manager at Digital Manufacturing Centre",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "marks the next milestone in the strategic partnership between DyeMansion and Siemens towards industrialized Additive Manufacturing.”",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Karsten Heuser, VP Additive Manufacturing at Siemens Digital Industries",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you are working with industrial FDM / FFF technologies from companies like Stratasys and with materials like ULTEM or ABS parts, our vapor polishing technology can improve your surfaces. Get in touch or check the Powerfuse S page for more information.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Makerly expands post-processing capabilities for 3D-printed parts: DyeMansion industrial systems are now in production",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "4020 S. Industrial Drive, #160",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The new Powershot Go will bring DyeMansion‘s proven PolyShot Cleaning & Surfacing technology to a broader range of production environments – no longer limiting industrial-grade post-processing to large-scale environments alone.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a 3D Printing Manufacturing Partner | DyeMansion",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Production & Industrial",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Service Providers & Contract Manufacturers",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Service Providers & Contract Manufacturers",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our goal is to create efficient solutions for every industrial need. That’s why we chose DyeMansion, as they have the best and most flexible industrial post-processing solutions on the market.”",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Greg Reynolds, Vice President of Operations at Stratasys Direct Manufacturing",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“Together with DyeMansion, we’re giving our customers a comprehensive, proven additive manufacturing process tailored to our H350 3D printer. This enables our customers to easily move from powder to consistent, quality finished parts at scale. The alliance will help accelerate the adoption of SAF technology for end-use parts production.”",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“The Powershot Performance Series marks the next milestone in the strategic partnership between DyeMansion and Siemens towards industrialized Additive Manufacturing.”",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Karsten Heuser, VP Additive Manufacturing at Siemens Digital Industries",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We want to transform the industry and make 3D-printed products become a part of our everyday life. The industrialization of Additive Manufacturing is a major task that can only be accomplished together. Together with our global Platform Partners we can offer holistic solutions through all processing steps for AM users worldwide.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The strategic partnership between DyeMansion and EOS, a leader in industrial 3D-printing systems, unites the production and post-processing of 3D-printed products. EOS not only uses the DyeMansion Print-to-Product workflow itself, but also helps serve customers around the world since 2018.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Through the global partnership with Siemens the industrial leader in automation systems, that we established in 2020, we are able to spearhead the transformation of Additive Manufacturing and create future-proof factory set-ups together for our customers.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Through this partnership, Sinterit customers gain access to a broader range of solutions for additive manufacturing workflows tailored to their specific needs. By combining SLS printing with DyeMansion post-processing, users can achieve higher-quality, production-ready parts while streamlining their post-processing operations",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Contract manufacturers or service bureaus offering 3d-printing and DyeMansion finishing solutions.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Logics is a leading 3D printing and Additive Manufacturing solutions provider. We specialize in DMLS and SLS 3D printing technologies to provide our customers with high quality end-use parts.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting & implementation of solutions for Additive Manufacturing offering a complete integration of our plastic & metal products in the production lines.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial 3D-printing solutions - from the idea to production.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Your integrated industry 4.0 solution: From serial 3D printers and open material systems to fully automated process chains. We make additive manufacturing scalable and future-proof.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We consult and implement industrial 3D-printing solutions for both new product development and digital manufacturing. We offer complex approach from machine installations, 3D printing service to expert training.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We are the owner of the largest and most advanced factory in the country to print a wide variety of technologies and materials (polymer and metal) fitted to the industry. The factory has a standard of 9001 ISO including a flight standard of 9100 AS.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ADDForm is a first class Estonian 3D print component manufacturer (MJF, SLS, SLA, FDM). ADDForm offers without compromise, the highest quality 3D printing and delivery service.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "25 years helping businesses accelerate design and manufacturing processes with 3D printing and post-printing solutions.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Advantage Engineering! For over 25 years, we have been delivering the highest quality products and services to our valued clients across industries, including medical supply, aerospace, consumer and composite products, automotive and so much more!",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide on demand manufacturing for prototyping to low volume parts. We use the HP MJF 5200 printer and are the first service provider in the UK to own the Powerfuse S, allowing your 3D printed parts to have near injection moulded quality.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Alphacam has been a leading provider of industrial 3D printers and additive production systems since 1992. With our 3D printing service TEILEFABRIK we offer customer-specific solutions for the production of prototypes and end-use parts.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Ein ganzheitliches Reifegradmodell, das die fünf Stufen der Industrialisierung der additiven Fertigung (AM) definiert",
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "4020 S. Industrial Drive, #160",
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "Production & Industrial",
+    "url": "https://dyemansion.com/products/dm60-add-on-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Service Providers & Contract Manufacturers",
+    "url": "https://dyemansion.com/products/dm60-add-on-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Service Providers & Contract Manufacturers",
+    "url": "https://dyemansion.com/products/dm60-add-on-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "4020 S. Industrial Drive, #160",
+    "url": "https://dyemansion.com/products/dm60-add-on-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Service Bureau/Contract Manufacturer",
+    "url": "https://dyemansion.com/products/dm60-add-on-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Production & Industrial",
+    "url": "https://dyemansion.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Service Providers & Contract Manufacturers",
+    "url": "https://dyemansion.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Service Providers & Contract Manufacturers",
+    "url": "https://dyemansion.com/industries/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "You are distributing 3D-printing equipment and want to complete your offer with our leading post-processing technology? Become a local one-stop-shop for your customers and serve the whole value chain from production to finishing. We offer attractive reseller programs & conditions.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Become our valued reseller and expand your current offer with high-end post-processing solutions.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Certified resellers authorized to advise, sell and support you with all DyeMansion products in your region.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "In this cooperation, DyeMansion will take on the role as global go-to-market partner, making ASM's VX1 smoothing system available to its reseller network and thus to customers worldwide.",
+    "url": "https://dyemansion.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "First authorized reseller in China",
+    "url": "https://dyemansion.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership with YUNS, our first authorized reseller in the Asia-Pacific region, is an important step in our global expansion. Together with YUNS we can offer the complete AM process chain in the Chinese market and enable new applications with 3D-printing. YUNS not only distributes our systems, but also provides consulting services and supports our service organization on site in China.",
+    "url": "https://dyemansion.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "certified resellers, to ensure that",
+    "url": "https://www.urma-group.com/docs/en/3d-printing/DyeMansion/DyeMansion_Brochure_EN_24_11_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "TECHNICAL ENABLEMENT FOR RESELLERS",
+    "url": "https://www.urma-group.com/docs/en/3d-printing/DyeMansion/DyeMansion_Brochure_EN_24_11_web.pdf",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "From perfect fit eyewear to personalized orthotics or midsoles for the footwear industry, our technology makes 3D-printed products become a part of our everyday life.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The VX1 is now part of the DyeMansion Print-to-Product workflow and delivers vapor smoothing in a compact, easy-to-use system for entry-level production.",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "BECOME A PART of our journey",
+    "url": "https://dyemansion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We want to transform the industry and make 3D-printed products become a part of our everyday life. The industrialization of Additive Manufacturing is a major task that can only be accomplished together. Together with our global Platform Partners we can offer holistic solutions through all processing steps for AM users worldwide.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“One of the biggest challenges were a scalable and reproducible process. That was the main part of our development within the last years and where DyeMansion was one of the most important partners to achieve this.”",
+    "url": "https://dyemansion.com/industries/consumer/",
+    "pass": 1
+   },
+   {
+    "quote": "“With PolyShot Surfacing our earrings lose their roughness and get a unique, matt-glossy and high-quality look as well as the pleasant wearing comfort.”",
+    "url": "https://dyemansion.com/industries/consumer/",
+    "pass": 1
+   },
+   {
+    "quote": "FREE-D watch is the first watch from SEVENFRIDAY that was developed and produced entirely in Switzerland, thanks to the support of Prodartis. The first limited edition run of the FREE-D watch sold out quickly, and 3D-printed components will now be a part of many more SEVENFRIDAY timepieces in the future.",
+    "url": "https://dyemansion.com/industries/consumer/",
+    "pass": 1
+   },
+   {
+    "quote": "Gottinger Handelshaus OHG has been at the forefront of orthopedic technology since 1901. In 2012 it made Additive Manufacturing a core part of its technological skillset. To bring a 3D-printed medical product on the market meant that a lot of hurdles needed to be overcome. The request for a specific skin tone came from a patient.",
+    "url": "https://dyemansion.com/industries/healthcare-medical/",
+    "pass": 1
+   },
+   {
+    "quote": "With DyeMansion, Gottinger found a reliable partner to fulfill their needs when it comes to a pleasant finish of their prosthetics. Together we were even able to dye the leg prosthetic in the patient’s skin color. For those patients who do not require skin tones, Gottinger is able to offer a wide array of different colors.",
+    "url": "https://dyemansion.com/industries/healthcare-medical/",
+    "pass": 1
+   },
+   {
+    "quote": "With the acquisition of ASM, we expanded our vapor smoothing portfolio with an entry-level production solution that also addresses the growing segment of small-scale production environments.",
+    "url": "https://dyemansion.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "to enable the era of digital manufacturing and ​a world where 3D-printed products become part of our everyday life.",
+    "url": "https://dyemansion.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We welcome different ways of thinking and create teams with individual strengths. We are aware that change is part of everyday life on our journey. This allows us to open new opportunities, to continuously evolve, and to achieve the best possible change for a sustainable and green future. We strive to build a diverse workforce to help us elevate as a unified team.",
+    "url": "https://dyemansion.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "From perfect fit eyewear to personalized orthotics or midsoles for the footwear industry, our technology makes 3D-printed products become a part of our everyday life.",
+    "url": "https://dyemansion.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "You want to join our mission? Become part of the DyeMannschaft",
+    "url": "https://dyemansion.com/about-us/team/",
+    "pass": 1
+   },
+   {
+    "quote": "Tripo AI、約687億円を調達 生成AIで「実用可能な3Dモデル」を数秒で生成へ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/yokoito-dyemansion-221116/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIによる3Dモデル生成技術を開発するTripo AIは2026年9月1日、シリーズBおよびシリーズB+の資金調達ラウンドで、総額約30億元（2026年9月…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/yokoito-dyemansion-221116/",
+    "pass": 3
+   },
+   {
+    "quote": "3D printed products become a part of our everyday life.",
+    "url": "https://www.urma-group.com/docs/en/3d-printing/DyeMansion/DyeMansion_Brochure_EN_24_11_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PRODUCTS BECOME PART OF",
+    "url": "https://www.urma-group.com/docs/en/3d-printing/DyeMansion/DyeMansion_Brochure_EN_24_11_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "pass": 3
+   },
+   {
+    "quote": "To view DyeMansion’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion has 66 total employees.",
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "pass": 3
+   },
+   {
+    "quote": "What is DyeMansion’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for DyeMansion is",
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "pass": 3
+   },
+   {
+    "quote": "Felix Ewald is listed as CEO at DyeMansion.",
+    "url": "https://fundediq.co/dyemansion-dyemansion-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does DyeMansion have?",
+    "url": "https://fundediq.co/dyemansion-dyemansion-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/dyemansion-dyemansion-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/dyemansion-dyemansion-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Our offices in APAC (Singapore, China, India, Japan & Korea) support customers’ growth through our technology, technical expertise in global service, applications engineering and consultancy.",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan, Kyoto",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "JAPAN, KYOTO",
+    "url": "https://dyemansion.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan, Kyoto",
+    "url": "https://dyemansion.com/de/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "JAPAN, KYOTO",
+    "url": "https://dyemansion.com/de/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "DyeMansion社とパートナーシップを締結、樹脂3Dプリント後処理システムの国内販売を開始 | 株式会社YOKOITOのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルファブリケーション技術を通じて「全てのアイディアをカタチにできる社会」を目指す活動をおこなってきた株式会社YOKOITO（本社：京都府京都市下京区、代表取締役：中島 佑太郎、以下YOKOITO）のAM関連事業部門であるYokoito Additive Manufacturing（以下YAM）は、樹脂3Dプリント後処理技術のリーディングカンパニーであるDyeMansion（本社：ドイツ ミュンヘン、CEO & CO-FOUNDER：Felix Ewald、以下 DyeMansion社）とセールスパートナー契約及びプロ�ダクションパートナー契約を結びました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、DyeMansion社のパウダーベッドフュージョン（粉末床溶融結合法：粉末材料を焼結して積層する3Dプリンターの造形方式、以下PBF）用後処理システムの国内総代理店として販売を開始します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品の品質を重視する日本では、3Dプリンターで造形した部品の積層跡が一つの原因となり、Additive Manufacturing技術（※1 付加製造技術：以下AM技術）の普及が諸外国と比べて進んでいないことが目下の課題です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "この度のパートナーシップ契約により、PBFでの3Dプリント品のクリーニング・表面処理・染色までの最終製品の品質を実現するDyeMansion社の後処理システムの提供が開始され、最終製品生産まで一気通貫で実現するAMエコシステムが日本で初めて完成されます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "本後処理システムにより3Dプリント品の品質向上から、日本においてAM技術を我々の日常に溶け込ませることができ、AM技術の普及が加速していくことが期待できます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "YOKOITOでは、日本の樹脂AMの普及に向け一貫した取り組みを進めて参ります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のAdditive Manufacturing市場は成長しており、少量生産と大量生産の両方で樹脂3Dプリントの産業利用が増加すると考えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後は、YOKOITOと協力して、AMバリューチェーン全体のためにエンドツーエンドの後処理ソリューションで、日本のお客様をより適切にサポートしていきます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社YOKOITO 代表取締役CEO 中島佑太郎氏のコメント",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社のテクノロジーはその問題を解決する革新的技術であり、同社の技術が日本に上陸することにより、樹脂3Dプリントの製造技術としての活用が急速に進む契機となると考えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "今後我々は、強みとするDfAMノウハウと多数の3Dプリンターの運用経験、パートナーシップを結ぶ3Dプリンターメーカーのマシン及びこのポストプロセステクノロジーを統合されたひとつのソリューションとして、日本のあらゆる業界に対して提供することで、樹脂AMによる生産普及を後押ししていきます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "AM技術を背景にした生産プロセスの改革により、日本のモノづくりを発展させる事業を展開中",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion社 ポストプロセス 技術紹介 | 国内総代理店 YOKOITO AM",
+    "url": "https://www.yam-sls-3dprinter.com/dyemansion",
+    "pass": 3
+   },
+   {
+    "quote": "特に日本では、最後の仕上げ工程を手作業で行わないと製品として成り立たないという認識が依然として強く、そのため3Dプリンタの活用は試作品の製作に留まり、実製品への応用は難しいと考えられてきました",
+    "url": "https://www.yam-sls-3dprinter.com/dyemansion",
+    "pass": 3
+   },
+   {
+    "quote": "日本が抱える現在の3Dプリンティングの課題と、DyeMansionを製造プロセスに組み込むことで実現できる、新たなAMの可能性についての",
+    "url": "https://www.yam-sls-3dprinter.com/dyemansion",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion製品の国内総代理店として、導入から運用までサポートします",
+    "url": "https://www.yam-sls-3dprinter.com/dyemansion",
+    "pass": 3
+   },
+   {
+    "quote": "Yokoito Additive Manufacturing(以下YAM)を運営する株式会社YOKOITOは創業以来、",
+    "url": "https://www.yam-sls-3dprinter.com/dyemansion",
+    "pass": 3
+   },
+   {
+    "quote": "YOKOITOは後処理システムの国内総代理店として装置販売を行うとともに、DyeMansionの設備を導入し、造形物のクリーニング・染色・研磨・物性強化などの後処理工程サービスを提供する",
+    "url": "https://news.sharelab.jp/3dp-news/ir/yokoito-dyemansion-221116/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の品質を重視する日本の製造業者にとって、3Dプリンターで造形した部品に残る積層痕の処理は3Dプリンター活用上、無視できない工程だ",
+    "url": "https://news.sharelab.jp/3dp-news/ir/yokoito-dyemansion-221116/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも最終部品製造のために3Dプリンターが用いられ始めていることを肌で感じている企業といえるだろう",
+    "url": "https://news.sharelab.jp/3dp-news/ir/yokoito-dyemansion-221116/",
+    "pass": 3
+   },
+   {
+    "quote": "第一実業、ExOneと国内販売代理店契約を締結―voxeljetと合わせ砂型3Dプリンターの提案体制を強化",
+    "url": "https://news.sharelab.jp/3dp-news/ir/yokoito-dyemansion-221116/",
+    "pass": 3
+   },
+   {
+    "quote": "総合機械商社の第一実業株式会社は、産業用3Dプリンティングソリューションを展開する株式会社ExOneと、砂型3Dプリンターの日本国内における販売代理店契約を締結…",
+    "url": "https://news.sharelab.jp/3dp-news/ir/yokoito-dyemansion-221116/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "DyeMansion社とパートナーシップを締結、樹脂3Dプリント後処理システ...DyeMansion社 ポストプロセス 技術紹介 | 国内総代理店 YOKOITO AMYOKOITOが樹脂3Dプリント後処理システムの国内販売を開始 | 3DP id.ar...DyeMansion: Leading 3D Printing Post-Processing Company京都のAM企業YOKOITOがドイツの樹脂AM後処理装置メーカーDyeMansionと...DyeMansion社とパートナーシップを締結、樹脂3Dプリント後処理システ...DyeMansionの後処理技術導入事例〜オートモーティブ編〜 — Nov 16, 2022 · 同社のテクノロジーはその問題を解決する革新的技術であり、同社の技術が日本に上陸することにより、樹脂3Dプリントの製造技術としての活用 ... 日本が抱える現",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion社 ポストプロセス 技術紹介 | 国内総代理店 YOKOITO AM — 日本が抱える現在の3Dプリンティングの課題と、DyeMansionを製造プロセスに組み込むことで実現できる、新たなAMの可能性についての資料を無料でダウンロードいただけます 。 ぜひご一度ください。",
+    "url": "https://www.yam-sls-3dprinter.com/dyemansion",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion: Leading 3D Printing Post-Processing Company — No. DyeMansion doesn’t manufacture 3D printers and doesn’t offer 3D printing itself. DyeMansion focuses entirely on what happens after printing: depowdering, surfacing, vapor smoothing, and coloring.",
+    "url": "https://dyemansion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "京都のAM企業YOKOITOがドイツの樹脂AM後処理装置メーカーDyeMansionと... — Nov 16, 2022 · YOKOITOは後処理システムの国内総代理店として装置販売を行うとともに、DyeMansionの設備を導入し、造形物のクリーニング・染色・研磨・物性強化などの後処理工程サービスを提供する。",
+    "url": "https://news.sharelab.jp/3dp-news/ir/yokoito-dyemansion-221116/",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion社とパートナーシップを締結、樹脂3Dプリント後処理システ... — Nov 16, 2022 · この度のパートナーシップ契約により、PBFでの3Dプリント品のクリーニング・表面処理・染色までの最終製品の品質を実現するDyeMansion社の後処理システムの提供が開始され、最終製品生産まで一気通貫で実現するAMエコシステムが日本で初めて完成されます。",
+    "url": "https://guide.jsae.or.jp/topics/382537/",
+    "pass": 3
+   },
+   {
+    "quote": "About DyeMansion — At DyeMansion, we believe in the positive impact of industrial 3D-printing. To achieve our vision, we made it our mission to develop leading post-processing tech industrialization and set up the production lines of tomorrow together with the best companies in the world.",
+    "url": "https://dyemansion.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion – the post-processing market leader for polymer ... — With the post-processing systems from DyeMansion, URMA is expanding its range of machines for additive manufacturing. The print-to-product workflow combines industry-leading technology with the widest range of color and finishing options on the market.",
+    "url": "https://www.urma-group.com/en/machines/3d-printing/DyeMansion/dyemansion.php",
+    "pass": 3
+   },
+   {
+    "quote": "DYEMANSION TECHNOLOGY & PORTFOLIO - urma-group.com — DyeMansion is the global leader in connected post-processing workflows for industrial polymer 3D printing that turn 3D printed raw parts into high-value products. From perfect fit eyewear to personalized car interiors, our technology makes 3D printed products become a part of our everyday life.",
+    "url": "https://www.urma-group.com/docs/en/3d-printing/DyeMansion/DyeMansion_Brochure_EN_24_11_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion社 ポストプロセス 技術紹介 | 国内総代理店 YOKOITO AM — DyeMansion社のクリーニング・表面処理・染色の一連の後処理システムでは、PBF3Dプリンターによる造形品の粗さを最大限に抑え、射出成形品と同等の表面品質を実現。",
+    "url": "https://www.yam-sls-3dprinter.com/dyemansion",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for DyeMansion. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "pass": 3
+   },
+   {
+    "quote": "DOWNLOAD CENTER - DyeMansion — Our case studies, whitepapers and technical data sheets will cue you in on what is moving the Additive Manufacturing world today and how you can work even more efficiently in post-processing.",
+    "url": "https://dyemansion.com/resources/3d-printing-download-center/",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion: Leading 3D Printing Post-Processing Company — “Together with DyeMansion, we’re giving our customers a comprehensive, proven additive manufacturing process tailored to our H350 3D printer. This enables our customers to easily move from powder to consistent, quality finished parts at scale.",
+    "url": "https://dyemansion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case study Dyemansion | OrderCentral — Customers recently started ordering new cartridges for the dyeing machine through OrderCentral. 600 machines have been sold worldwide and the market is growing strongly. All these customers need cartridges over and over again for coloring and finish the parts.",
+    "url": "https://ordercentral.io/resources/case-studies/case-study-dyemansion",
+    "pass": 3
+   },
+   {
+    "quote": "codestryke | DyeMansion case study — Munich-based DyeMansion builds systems for finishing plastic parts from industrial 3D printing: cleaning, surface treatment and coloring. The systems work in automated process chains, for products ranging from eyewear to automotive interiors.",
+    "url": "https://codestryke.com/en/references/dyemansion/",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion - TriMech Manufacturing — Discover 3D print post processing brands featuring automated machines and solutions from AMT, DyeMansion, Formlabs, PostProcess Technologies, Onulis and Stratasys.",
+    "url": "https://mfg.trimech.com/category/brand/dyemansion/",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion 2026 Company Profile: Valuation, Funding ...DyeMansion – Business Snapshot & Rival Analysis – 2026DyeMansion - 2025 Company Profile, Team, Funding ... - TracxnDyeMansion: Funding, Investors & Team (Oct 2026) | FundedIQDyeMansion - $19.8 M Revenue, Employees & Growth | Kona EquityDyeMansion Revenue, Funding & Valuation - prospeo.ioDyeMansion Funding: $36.9M Raised, Investors & History (2",
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion – Business Snapshot & Rival Analysis – 2026 — Revenue, valuation, and funding figures for DyeMansion are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/dyemansion",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion - 2025 Company Profile, Team, Funding ... - TracxnDyeMansion: Funding, Investors & Team (Oct 2026) | FundedIQDyeMansion - $19.8 M Revenue, Employees & Growth | Kona EquityDyeMansion Revenue, Funding & Valuation - prospeo.ioDyeMansion Funding: $36.9M Raised, Investors & History (2026 ... — Oct 30, 2025 · DyeMansion is a series B company based in Planegg (Germany), founded in 2015 by Ewal",
+    "url": "https://tracxn.com/d/companies/dyemansion/__4igJLTh98rtFggmKfstoRschzoNmFPJo2Yh-brNQ3Qk",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion: Funding, Investors & Team (Oct 2026) | FundedIQ — DyeMansion is a Manufacturing company in München, Germany. Raised $31.2M across 2 rounds; latest round Feb 2022. Investors, founders and funding history.",
+    "url": "https://fundediq.co/dyemansion-dyemansion-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion - $19.8 M Revenue, Employees & Growth | Kona Equity — DyeMansion, has an estimated annual revenue of $19.8 M, with approximately 69 employees, headquartered in Planegg-Munich, TX, operating in the Mechanical engineer industry, founded in 2015.",
+    "url": "https://www.konaequity.com/company/dyemansion-4863972523/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "please contact HELLO@DYEMANSION.COM .",
+    "url": "https://www.urma-group.com/docs/en/3d-printing/DyeMansion/DyeMansion_Brochure_EN_24_11_web.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the DyeMansion team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/dyemansion-dyemansion-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/dyemansion-dyemansion-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "DyeMansion (@WeAreDyeMansion) / Posts / X We are DyeMansion. We build technology for the factories of the future. Time to transform your factory with 3D-printing!",
+    "url": "https://x.com/WeAreDyeMansion",
+    "pass": 3
+   },
+   {
+    "quote": "@RAPID_Event That was a blast! We are very pleased with ... DyeMansion (@WeAreDyeMansion). 🌐 @RAPID_Event 🌐 That was a blast! We are very pleased with all the great conversations we had and the new connections we’ve made!",
+    "url": "https://x.com/WeAreDyeMansion/status/1532018151436734465",
+    "pass": 3
+   },
+   {
+    "quote": "LAUNCH DAY We are extremely excited to announce something ... DyeMansion (@WeAreDyeMansion). 71 views. 💎LAUNCH DAY💎We are extremely excited to announce something new at DyeMansion: Black Diamond Finishing Hub - Industrial Post-Processing as a Service!",
+    "url": "https://x.com/WeAreDyeMansion/status/1795395598482292777",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "DyeMansion - LinkedIn DyeMansion | 12,305 followers on LinkedIn. We build post-processing technology for the factories of the future.",
+    "url": "https://www.linkedin.com/company/dyemansion",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion | LinkedIn DyeMansion | 12,303 followers on LinkedIn. We build post-processing technology for the factories of the future. Time to transform your factory with 3D printing! | We are the global leader in...",
+    "url": "https://in.linkedin.com/company/dyemansion",
+    "pass": 3
+   },
+   {
+    "quote": "Michael Schorr - DyeMansion | LinkedInLester Hitch - Advanced Manufacturing & Technology Leader ...stephanie keil - DyeMansion Inc. | LinkedInJason Lopes (AMUG ) - Development - Resellers & Service ...#addinor #vaporsmoothing #dyemansion | Sarah Karlstrom - LinkedIn Experience: DyeMansion · Education: Western New England University · Location: Baltimore · 500+ connections on LinkedIn. Feb 1, 2023 ",
+    "url": "https://www.linkedin.com/in/mikeeschorr",
+    "pass": 3
+   },
+   {
+    "quote": "Lester Hitch - Advanced Manufacturing & Technology Leader ...stephanie keil - DyeMansion Inc. | LinkedInJason Lopes (AMUG ) - Development - Resellers & Service ...#addinor #vaporsmoothing #dyemansion | Sarah Karlstrom - LinkedIn Feb 1, 2023 · Part of DyeMansion's Go-to-Market organization, with responsibility for external customer engagement, technical sales, and strategic account development acro",
+    "url": "https://www.linkedin.com/in/lesterhitch",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "DYEMANSION | Planegg - FacebookDyeMansion - FacebookDYEMANSION - Last week, our HQ turned extra bright ⭐️ We ...DYEMANSION - Big news from us today! We’ve ... - FacebookProg Rock & AOR fans – this one’s for you. Melodic guitars ...LAUNCH DAY We are extremely excited to ... - FacebookTurn the sound on. If you still believe in big melodic rock ... Nov 19, 2025 · Just like all DyeMansion vapor smooth",
+    "url": "https://www.facebook.com/WeAreDyeMansion/",
+    "pass": 3
+   },
+   {
+    "quote": "DyeMansion - FacebookDYEMANSION - Last week, our HQ turned extra bright ⭐️ We ...DYEMANSION - Big news from us today! We’ve ... - FacebookProg Rock & AOR fans – this one’s for you. Melodic guitars ...LAUNCH DAY We are extremely excited to ... - FacebookTurn the sound on. If you still believe in big melodic rock ... May 15, 2026 · Ein neues Kapitel. DyeMansion steht für Melodie, Druck und Emotion –",
+    "url": "https://www.facebook.com/dyemansion/",
+    "pass": 3
+   },
+   {
+    "quote": "DYEMANSION - Last week, our HQ turned extra bright ⭐️ We ... Nov 13, 2025 · Last week, our HQ turned extra bright 💛⭐️ We welcomed our little stars & their families for our very first DyeMansion Family Day! From mixing their own...",
+    "url": "https://www.facebook.com/WeAreDyeMansion/posts/last-week-our-hq-turned-extra-bright-️-we-welcomed-our-little-stars-their-famili/1695756525184131/",
+    "pass": 3
+   },
+   {
+    "quote": "DYEMANSION - Big news from us today! We’ve ... - Facebook Oct 27, 2025 · DYEMANSION Oct 27, 2025 Big news from us today! 🚀 We’ve acquired ASM – taking another big step forward.",
+    "url": "https://www.facebook.com/WeAreDyeMansion/posts/big-news-from-us-today-weve-acquired-asm-taking-another-big-step-forward-with-th/1679381096821674/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://dyemansion.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/de/additive-manufacturing-post-processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/products/dm60-add-on-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/industries/consumer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/industries/healthcare-medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/industries/production-industrial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/industries/automotive-mobility-logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/industries/service-providers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/industries/automotive-mobility-logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/industries/uavs-defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/industries/service-providers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/about-us/team/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/de/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/wp-content/uploads/2022/12/1-dyemansion-polyshot-cleaning-powershot-c-iamfootwear-Kopie.jpg.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dyemansion.com/wp-content/uploads/2022/12/2-dyemansion-vaporfuse-surfacing-powerfuse-s-iamfootwear-Kopie.jpg.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dyemansion.com/wp-content/uploads/2022/12/3-dyemansion-deepdye-coloring-dm-60-iamfootwear.jpg.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://dyemansion.com/wp-content/uploads/2020/07/2020_07_13_partnerplattform_dyemansion_de.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20100'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yam-sls-3dprinter.com/dyemansion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/ir/yokoito-dyemansion-221116/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/en-us/contact-us/companyinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.urma-group.com/en/machines/3d-printing/DyeMansion/dyemansion.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.urma-group.com/docs/en/3d-printing/DyeMansion/DyeMansion_Brochure_EN_24_11_web.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.yam-sls-3dprinter.com/dyemansion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/resources/3d-printing-download-center/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dyemansion.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ordercentral.nl/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codestryke.com/en/references/dyemansion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/232535-62",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/dyemansion",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/dyemansion/__4igJLTh98rtFggmKfstoRschzoNmFPJo2Yh-brNQ3Qk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/dyemansion-dyemansion-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/WeAreDyeMansion",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/WeAreDyeMansion/status/1532018151436734465",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/WeAreDyeMansion/status/1795395598482292777",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/dyemansion",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/dyemansion",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mikeeschorr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lesterhitch",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WeAreDyeMansion/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/dyemansion/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WeAreDyeMansion/posts/last-week-our-hq-turned-extra-bright-️-we-welcomed-our-little-stars-their-famili/1695756525184131/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WeAreDyeMansion/posts/big-news-from-us-today-weve-acquired-asm-taking-another-big-step-forward-with-th/1679381096821674/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Dyemansion 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "https://www.yam-sls-3dprinter.com/dyemansion",
+    "https://dyemansion.com/",
+    "https://news.sharelab.jp/3dp-news/ir/yokoito-dyemansion-221116/",
+    "https://guide.jsae.or.jp/topics/382537/",
+    "https://www.yam-kyoto.com/case_study/case_study-3029/",
+    "https://idarts.co.jp/3dp/yokoito-dyemansion/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyemansion 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.toyo-invx.com/company/location/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyemansion Japan",
+   "results": [
+    "https://dyemansion.com/about-us/",
+    "https://www.urma-group.com/en/machines/3d-printing/DyeMansion/dyemansion.php",
+    "https://www.urma-group.com/docs/en/3d-printing/DyeMansion/DyeMansion_Brochure_EN_24_11_web.pdf",
+    "https://www.yam-sls-3dprinter.com/dyemansion",
+    "https://pitchbook.com/profiles/company/232535-62",
+    "https://prtimes.jp/main/html/rd/p/000000004.000086669.html",
+    "https://dyemansion.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyemansion manufacturing customer case study",
+   "results": [
+    "https://dyemansion.com/resources/3d-printing-download-center/",
+    "https://dyemansion.com/",
+    "https://ordercentral.io/resources/case-studies/case-study-dyemansion",
+    "https://codestryke.com/en/references/dyemansion/",
+    "https://mfg.trimech.com/category/brand/dyemansion/",
+    "https://3dprint.com/257442/daimler-buses-relies-dyemansion-for-color-texture-quality-3d-printed-spare-parts/",
+    "https://www.javelin-tech.com/3d/category/product/dyemansion/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyemansion white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyemansion founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/232535-62",
+    "https://compworth.com/company/dyemansion",
+    "https://tracxn.com/d/companies/dyemansion/__4igJLTh98rtFggmKfstoRschzoNmFPJo2Yh-brNQ3Qk",
+    "https://fundediq.co/dyemansion-dyemansion-com-funding/",
+    "https://www.konaequity.com/company/dyemansion-4863972523/",
+    "https://prospeo.io/c/dyemansion-revenue",
+    "https://indexed.vc/companies/dyemansion"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Dyemansion",
+   "results": [
+    "https://note.com/ready_quince5948/n/n2325d8fc350d?hl=en",
+    "https://note.com/jazzy_poppy4104/n/nce082aa0e18a?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/bright_1154/n/n5a46ae1272b1",
+    "https://note.com/yoshiki_shibata/n/n185f3d9e13bc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Dyemansion",
+   "results": [
+    "https://x.com/WeAreDyeMansion",
+    "https://x.com/WeAreDyeMansion/status/1532018151436734465",
+    "https://x.com/WeAreDyeMansion/status/1795395598482292777",
+    "https://x.com/Pl4yboyMansion/status/2061770830112068097",
+    "https://x.com/CLsMansion/status/2041229025738199305",
+    "https://x.com/KevinPDye/status/2080687590668116160",
+    "https://x.com/KptnKool9001/status/2120000943202898162"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Dyemansion",
+   "results": [
+    "https://www.linkedin.com/company/dyemansion",
+    "https://in.linkedin.com/company/dyemansion",
+    "https://www.linkedin.com/in/mikeeschorr",
+    "https://www.linkedin.com/in/lesterhitch",
+    "https://www.linkedin.com/in/stephanie-keil-4b3187113",
+    "https://www.linkedin.com/posts/sarah-karlström-63b2b64b_addinor-vaporsmoothing-dyemansion-activity-7525491896614363136-q62e",
+    "https://www.linkedin.com/in/jasonmlopes"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Dyemansion",
+   "results": [
+    "https://www.facebook.com/WeAreDyeMansion/",
+    "https://www.facebook.com/dyemansion/",
+    "https://www.facebook.com/WeAreDyeMansion/posts/last-week-our-hq-turned-extra-bright-️-we-welcomed-our-little-stars-their-famili/1695756525184131/",
+    "https://www.facebook.com/WeAreDyeMansion/posts/big-news-from-us-today-weve-acquired-asm-taking-another-big-step-forward-with-th/1679381096821674/",
+    "https://www.facebook.com/WeAreDyeMansion/videos/black-diamond-finishing-hub/1015158679943666/",
+    "https://www.facebook.com/dyemansion/videos/prog-rock-aor-fans-this-ones-for-you-melodic-guitars-big-chorus-powerful-storydy/2212863275909235/",
+    "https://www.facebook.com/dyemansion/videos/turn-the-sound-onif-you-still-believe-in-big-melodic-rock-and-arena-sized-chorus/971673055367086/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyemansion note 社長",
+   "results": [
+    "https://dyemansion.com/about-us/team/",
+    "https://dyemansion.com/",
+    "https://craft.co/dyemansion/executives",
+    "https://pitchbook.com/profiles/company/232535-62",
+    "https://www.fabbaloo.com/news/dyemansion-acquires-asm-to-expand-its-vapor-smoothing-portfolio",
+    "https://rocketreach.co/dyemansion-management_b441d29dfd9f9dba",
+    "https://theorg.com/org/dyemansion/org-chart/felix-ewald"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyemansion X 投稿",
+   "results": [
+    "https://x.com:8443/WeAreDyeMansion",
+    "https://dyemansion.com/",
+    "https://www.instagram.com/wearedyemansion/",
+    "https://dyemansion.com/resources/3d-printing-download-center/",
+    "https://dyemansion.com/products/powershot-x/",
+    "https://x.com/DimensionsGate/status/2102240575810601318",
+    "https://x.com/DimensionsGate/status/2102962851757637668"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部35頁・検索12回）"
+ }
+}

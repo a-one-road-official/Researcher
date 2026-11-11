@@ -1,0 +1,927 @@
+{
+ "name": "Orvixo",
+ "aliases": [],
+ "context": "旧営業リスト｜Production Planning / Scheduling｜送付済み",
+ "researched_at": "2026-11-11T03:09:31.879489+00:00",
+ "official_url": "https://www.orvixo.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Enterprise-grade security",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Show top 5 products this month",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Top 5 Products",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise deal closed",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch your data transform in real-time with our intelligent processing pipeline",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The BI Problem is Real",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Teams waste hours prepping reports manually",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Presentation slides generation in minutes",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise power at startup cost",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Minutes, not hours. Get instant presentations with zero manual prep work.",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Show me the top 5 selling products this month\"",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Show live metrics on your marketing landing pages",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask questions like \"show me the top 5 selling products\" and get instant AI-powered responses.",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize campaigns with real-time insights. Generate automatic presentation slides for stakeholders.",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated financial reports with no spreadsheets. Real-time budget tracking and forecasting.",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Simple, Transparent Pricing",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "On average 70% cheaper than traditional BI tools with enterprise-grade features",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "On-premise deployment",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real teams, real problems, real numbers. See how companies use Orvixo to make faster decisions.",
+    "url": "https://www.orvixo.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "GrowthCo's operations team ran a Friday \"numbers meeting\" that consumed an analyst, a PM, and three department heads for half a day. The output was a static slide deck that was already 72 hours old by the time decisions were made.",
+    "url": "https://www.orvixo.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "They connected GrowthCo's Postgres warehouse to Orvixo and rebuilt their five core operational dashboards in an afternoon. Department heads now check a live dashboard every morning instead of waiting for Friday.",
+    "url": "https://www.orvixo.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Orvixo started in 2023 when our founders spent three days preparing a single quarterly business review. There had to be a better way.",
+    "url": "https://www.orvixo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Before Orvixo, our founders were running operations at a mid-size e-commerce company. Every Monday meant the same ritual: export CSVs from five different tools, paste them into a master spreadsheet, massage the formulas, copy charts into a deck, then present slides that were already 72 hours out of date. A full-time analyst was effectively a copy-paste machine.",
+    "url": "https://www.orvixo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "They looked at the enterprise BI market — Tableau, Power BI, Looker — and found tools built for dedicated data teams with six-figure budgets and month-long implementations. None of them solved the fundamental issue: business people can't query SQL, and data people don't have time to build dashboards for every request that lands in their Slack.",
+    "url": "https://www.orvixo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "So they built Orvixo. Natural language queries. Real-time charts. Presentations that write themselves. Something a marketing manager could use without opening a ticket.",
+    "url": "https://www.orvixo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing should be fair",
+    "url": "https://www.orvixo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise analytics should not require enterprise procurement. We charge for value, not seat count theater.",
+    "url": "https://www.orvixo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're a small team based across Bangalore and London. Our backgrounds span data engineering, product, and design — which means we've felt the pain from both sides of the table. We spend a lot of time talking to customers and very little time in internal meetings.",
+    "url": "https://www.orvixo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Previously head of operations at a fast-growing e-commerce company. Sold his first SaaS at 24.",
+    "url": "https://www.orvixo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Previously at two of Europe's largest consumer fintechs. Believes dashboards should be as readable as good writing.",
+    "url": "https://www.orvixo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're a small team building one of the most ambitious products in the BI space. Small team means your work ships fast and customers notice.",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Early-stage options at a real strike price. We believe everyone building this should own part of it.",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Latest MacBook Pro, monitor, and peripherals on day one",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Parental leave: 18 weeks primary, 8 weeks secondary",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "4+ years shipping production software",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build and improve the natural language to SQL pipeline at the core of Orvixo. You'll work on prompt engineering, fine-tuning, and evaluation harnesses that make our query accuracy measurably better every sprint.",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Shape how hundreds of teams experience their data every day. You'll own end-to-end design across our dashboard builder, chart editor, and onboarding flow.",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "3+ years of product design at a software company",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Figma power user — components, variables, prototypes",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Portfolio showing complex data or B2B product work",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comfortable running your own user interviews",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Work closely with our early customers to make them wildly successful. You'll run onboarding, track adoption, and surface product feedback that directly shapes our roadmap.",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We occasionally hire exceptional people for roles that don't exist yet. Send us a note.",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Orvixo | AI employees for procurement",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo learns your purchasing rules and handles procurement across your existing systems, giving your team more capacity and better control of supplier costs.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI employees for every stage of procurement.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo plans purchases, compares supplier quotes, negotiates terms, manages orders and checks invoices. Our AI employees carry the work through your existing systems, following your purchasing rules and bringing your team the supplier and spending decisions that need approval.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn demand, stock and existing plans into purchasing requirements. Combine demand across sites, request supplier quotes, compare complete offers and negotiate using your price history and agreed terms.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Spend and price analysis",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Price and terms negotiation",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "PR-1182",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage contracts and renewals, create and update purchase orders, and chase supplier confirmations. Monitor deliveries and supplier performance, resolve exceptions and keep your ERP records current as the work progresses.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Approved by Sam Okafor, buyer",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Check orders and invoices against agreed prices and terms. Match invoices to orders and receipts, resolve discrepancies, and follow supplier claims, credits and rebates through to reconciliation.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Contract and price checks",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Give your buyers capacity to cover more suppliers, orders and locations. AI employees carry procurement work through to completion, including follow-ups and exceptions, so purchasing keeps moving as the business grows.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Use purchasing history and supplier comparisons to make better sourcing and negotiation decisions. Apply agreed terms to orders and invoices, and follow price corrections, rebates and credits through to a confirmed result.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Track delivery changes, missing confirmations and supplier performance issues while there is time to respond. Bring your team the evidence and alternatives needed to resolve problems and protect supply.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect purchasing records with supplier emails, contracts and spreadsheets. AI employees use information across these tools and write updates back into the relevant systems. Your ERP remains the system of record.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier history, agreed prices, contract terms, approval rules and exceptions guide the work. Orvixo also captures the instructions and decisions your team relies on, with reviewed changes and corrections keeping that knowledge current.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "\"What's our revenue trend over the last 6 months?\"",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate boardroom-ready slide decks with narrative insights and recommendations.",
+    "url": "https://www.orvixo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Insights that arrive after the meeting are just noise. We obsess over latency at every layer.",
+    "url": "https://www.orvixo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Early-stage options at a real strike price. We believe everyone building this should own part of it.",
+    "url": "https://www.orvixo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Orvixo | AI employees for procurement",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI employees for every stage of procurement.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo plans purchases, compares supplier quotes, negotiates terms, manages orders and checks invoices. Our AI employees carry the work through your existing systems, following your purchasing rules and bringing your team the supplier and spending decisions that need approval.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Award to Calder at the contracted £0.42. It arrives before the required date. Northfield also arrives in time and offers 60‑day payment terms, at £2,000 more.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "80,000 from Calder arriving by 15 Oct. Northfield’s order reduced to 120,000.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Give your buyers capacity to cover more suppliers, orders and locations. AI employees carry procurement work through to completion, including follow-ups and exceptions, so purchasing keeps moving as the business grows.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI employees that work inside your existing systems.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo connects your ERP, inbox and documents so AI employees can read the context, take action and update the records. No rip and replace.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect purchasing records with supplier emails, contracts and spreadsheets. AI employees use information across these tools and write updates back into the relevant systems. Your ERP remains the system of record.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Carry the work through to completion.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI employees track supplier replies and changes, take the next permitted step and follow up until the task is complete. When a case needs a decision, your team receives the options and supporting evidence. Approved decisions move back into execution.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "\"The automated hall ticket generation and seating arrangement modules saved our administration countless hours.\"",
+    "url": "https://www.orvixo.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo has 2 total employees.",
+    "url": "https://pitchbook.com/profiles/company/1460018-17",
+    "pass": 3
+   },
+   {
+    "quote": "What is Orvixo’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/1460018-17",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Orvixo is",
+    "url": "https://pitchbook.com/profiles/company/1460018-17",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/orvixo",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "They connected GrowthCo's Postgres warehouse to Orvixo and rebuilt their five core operational dashboards in an afternoon. Department heads now check a live dashboard every morning instead of waiting for Friday.",
+    "url": "https://www.orvixo.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Educational Institutions",
+    "url": "https://www.orvixo.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by 100+ Educational Institutions",
+    "url": "https://www.orvixo.app/",
+    "pass": 3
+   },
+   {
+    "quote": "The mathematics of deciding well under constraints. It scheduled convoys in the 1940s, airlines in the 1980s and warehouses in the 2010s. It has never reached most purchasing teams, because every company buys differently and the modelling was too expensive to do by hand. That is the part we believe AI changes.",
+    "url": "https://www.orvixo.ai/research",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo | The AI planner for complex manufacturing.",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo uses AI to model what makes your factory unique and build optimal schedules that continuously adapt as conditions change.",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimise Your Factory.",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo captures how your factory operates and the rules your planners use every day. It uses AI to build best-in-class, end-to-end production planning and scheduling around your operation, helping your factory run more effectively and meet its goals.",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo models your factory's real constraints and operating rules, then builds the strongest schedule grounded in reality. Planners stay in control with the flexibility to adjust and approve every plan.",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Built for Complex Manufacturing",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Your factory isn't generic.",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Every factory operates differently, even when using the same processes. Orvixo captures your unique operating mode, priorities and planner knowledge, then builds planning and scheduling optimised for you.",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo uses AI to model how your factory works and build stronger schedules that adapt as conditions change.",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo builds a live model of your entire operation. It understands everything from the shop floor to the back office. It captures the unique priorities, goals, rules and knowledge of your team.",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Replan instantly and coordinate priorities across the factory so orders stay on track without hours of manual rescheduling.",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "See what Orvixo could unlock in your factory.",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of production planning software intended for operational efficiency. The company's platform utilizes artificial intelligence and optimization algorithms to model factory constraints and build adaptive production schedules, enabling manufacturers to integrate enterprise data, optimize capacity trade-offs, and instantly replan shop floor operations.",
+    "url": "https://pitchbook.com/profiles/company/1460018-17",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo launches AI planner for complex manufacturing",
+    "url": "https://www.cbinsights.com/company/orvixo",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Connect purchasing records with supplier emails, contracts and spreadsheets. AI employees use information across these tools and write updates back into the relevant systems. Your ERP remains the system of record.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/1460018-17",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Orvixo | AI employees for procurement — Orvixo’s AI agents request quotes, negotiate prices, place orders, chase deliveries and check invoices directly in your ERP and inbox. Your team gets more purchasing done at lower cost, without adding headcount.",
+    "url": "https://www.orvixo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo (Procurement & Supplier Management) Features, Benefits ... — Oct 14, 2026 · Learn about Orvixo - features, pricing plans, popular alternatives to other Procurement & Supplier Management SaaS businesses and more.",
+    "url": "https://saasbrowser.com/en/saas/1717047/orvixo",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo — RPES by Orvixo is a modern examination and result processing system for universities, colleges, schools, and educational institutions.",
+    "url": "https://www.orvixo.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo — AI-Powered Business Intelligence — Build unlimited dashboards and charts using plain English. Connect your database, get real-time insights, auto-generate presentations, and embed anywhere — all powered by AI.",
+    "url": "https://www.orvixo.com/en/about",
+    "pass": 3
+   },
+   {
+    "quote": "Design partnership | Orvixo — For plants in industries we are entering. Thirty minutes a week with your planner, in exchange for half the software fee and no implementation fee for twelve months.",
+    "url": "https://www.orvixo.ai/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Research | Orvixo — Orvixo works where machine learning meets operational research, and puts the results to work in manufacturing, where better decisions do the most good.",
+    "url": "https://www.orvixo.ai/research",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo — AI-Powered Business Intelligence — From raw data to boardroom-ready insights in minutes. Natural language queries, real-time dashboards, and auto-generated presentations.",
+    "url": "https://www.orvixo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo | The AI planner for complex manufacturing. — Orvixo is the AI MES — the only manufacturing execution system with full context on your entire factory. Connect every system, model your operation, and run AI simulations to optimise production in real time.",
+    "url": "https://orvixoai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo — AI-Powered Business Intelligence — Connect your database and watch Orvixo generate insights automatically in seconds. Ask questions like \"show me the top 5 selling products\" and get instant AI-powered responses. Generate boardroom-ready slide decks with narrative insights and recommendations.",
+    "url": "https://www.orvixo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo launches AI planner for complex manufacturing — Aug 11, 2026 · Orvixo faces well-established players with deep pockets and long customer lists. Siemens Opcenter APS, PlanetTogether, Kinaxis, o9 Solutions, Blue Yonder, SAP's Production Planning and Detailed Scheduling module, and Dassault Systèmes' DELMIA Ortems all compete for manufacturing planning budgets.",
+    "url": "https://www.founderland.ai/articles/orvixo-launches-ai-planner-for-complex-manufacturing-msood4h8",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo - LinkedIn — Orvixo is building AI digital workers for procurement and supply chain. They learn each company’s purchasing rules and supplier context, then execute workflows across existing systems to ...",
+    "url": "https://www.linkedin.com/company/orvixo-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Orvixo. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/1460018-17",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo - Products, Competitors, Financials, Employees ... — Orvixo was founded in 2026. Where is Orvixo's headquarters? Orvixo's headquarters is located at London. What is Orvixo's latest funding round? Orvixo's latest funding round is Convertible Note. How much did Orvixo raise? Orvixo raised a total of $500K. Who are the investors of Orvixo? Investors of Orvixo include Y Combinator and Y Combina",
+    "url": "https://www.cbinsights.com/company/orvixo",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo - Crunchbase Company Profile & Funding — Founded obfuscation Private Pre-Seed London, England, United Kingdom 1-10 orvixo.ai/ Artificial Intelligence (AI)",
+    "url": "https://www.crunchbase.com/organization/orvixo",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo, YC Summer 2026 (S26) company | GPAgent — Orvixo builds an AI planning and optimisation system for manufacturers, covering automotive, food and beverage, defence, electronics, and other industrial sectors. Orvixo is a YC Summer 2026 (S26) company.",
+    "url": "https://www.gpagent.ai/yc/company/orvixo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Orvixo - LinkedIn Orvixo is building AI digital workers for procurement and supply chain. They learn each company’s purchasing rules and supplier context, then execute workflows across existing systems to ...",
+    "url": "https://www.linkedin.com/company/orvixo-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Ethan Phillips - Orvixo Co-Founder | Building the AI ...#imts2026 | Orvixo - LinkedInOrvixo backed by Y Combinator, AI-native factory operating ...Profitability in manufacturing is shaped by thousands of ...APS Falls Behind Factories Without Continuous Planning Model ...Orvixo’s Post - LinkedIn Orvixo Co-Founder | Building the AI workforce for procurement and supply chain · Experience: Orvixo · Ed",
+    "url": "https://uk.linkedin.com/in/ethan-phillips2000",
+    "pass": 3
+   },
+   {
+    "quote": "#imts2026 | Orvixo - LinkedIn At Orvixo, that means connecting to existing systems to coordinate decisions from supply chain through to production, continuously adapting as conditions change.",
+    "url": "https://www.linkedin.com/posts/orvixo-ai_imts2026-activity-7501208390879137792-VVMg",
+    "pass": 3
+   },
+   {
+    "quote": "Orvixo backed by Y Combinator, AI-native factory operating ... The next generation of factories will think, act, and optimise themselves. That’s the vision behind Orvixo, and we’re excited to share that we’re now backed by Y Combinator. Manufacturing is ...",
+    "url": "https://www.linkedin.com/posts/ethan-phillips2000_the-next-generation-of-factories-will-think-activity-7478749413704654848-zrOm",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.orvixo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orvixo.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orvixo.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orvixo.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.orvixo.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saasbrowser.com/en/saas/1717047/orvixo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orvixo.app/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.orvixo.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orvixo.ai/research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orvixoai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orvixo.ai/research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.founderland.ai/articles/orvixo-launches-ai-planner-for-complex-manufacturing-msood4h8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1460018-17",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/orvixo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/orvixo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/orvis",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/orvixo-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/ethan-phillips2000",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/orvixo-ai_imts2026-activity-7501208390879137792-VVMg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ethan-phillips2000_the-next-generation-of-factories-will-think-activity-7478749413704654848-zrOm",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Orvixo 日本 導入",
+   "results": [
+    "https://www.orvixo.ai/",
+    "https://saasbrowser.com/en/saas/1717047/orvixo",
+    "https://www.orvixo.app/",
+    "https://www.orvixo.com/en/about",
+    "https://www.orvixo.ai/partnerships",
+    "https://www.orix.co.jp/grp/move_on/entry/2026/06/19/100000",
+    "https://36kr.jp/502580/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orvixo 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Orvixo Japan",
+   "results": [
+    "https://www.orvixo.ai/",
+    "https://www.orvixo.ai/research",
+    "https://www.orvixo.com/en/about",
+    "https://www.orvixo.com/",
+    "https://car.orix.co.jp/eng/",
+    "https://www.orix.co.jp/grp/en/",
+    "https://www.orix.co.jp/grp/en/about/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orvixo manufacturing customer case study",
+   "results": [
+    "https://orvixoai.com/",
+    "https://www.orvixo.ai/research",
+    "https://www.orvixo.com/",
+    "https://www.founderland.ai/articles/orvixo-launches-ai-planner-for-complex-manufacturing-msood4h8",
+    "https://www.linkedin.com/company/orvixo-ai",
+    "https://www.orvixo.com/en/case-studies",
+    "https://www.orvixo.ai/partnerships"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orvixo white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orvixo founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/1460018-17",
+    "https://www.cbinsights.com/company/orvixo",
+    "https://www.crunchbase.com/organization/orvixo",
+    "https://compworth.com/company/orvis",
+    "https://www.gpagent.ai/yc/company/orvixo",
+    "https://www.orvixo.ai/company",
+    "https://open.endole.co.uk/insight/company/17094254-orvixo-ltd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Orvixo",
+   "results": [
+    "https://note.com/eager_tiger5557",
+    "https://note.com/tag/ジュディノート",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/daikidomon/n/n238268ba8967",
+    "https://note.com/yoshiki_shibata/n/n185f3d9e13bc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Orvixo",
+   "results": [
+    "https://x.com/theweekndhq",
+    "https://x.com/arvixe",
+    "https://x.com/_____OVOXO_____",
+    "https://x.com/OVOXO13",
+    "https://x.com/OVOXO13/status/1670233214504280065"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "site:linkedin.com Orvixo",
+   "results": [
+    "https://www.linkedin.com/company/orvixo-ai",
+    "https://uk.linkedin.com/in/ethan-phillips2000",
+    "https://www.linkedin.com/posts/orvixo-ai_imts2026-activity-7501208390879137792-VVMg",
+    "https://www.linkedin.com/posts/ethan-phillips2000_the-next-generation-of-factories-will-think-activity-7478749413704654848-zrOm",
+    "https://www.linkedin.com/posts/orvixo-ai_we-are-at-imts-international-manufacturing-activity-7505356531702386688-ny3z",
+    "https://www.linkedin.com/posts/orvixo-ai_profitability-in-manufacturing-is-shaped-activity-7500498347808604161-lGFr",
+    "https://www.linkedin.com/posts/orvixo-ai_your-factory-keeps-changing-your-aps-should-activity-7485362895019458560-MsZ5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Orvixo",
+   "results": [
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/Orvix9/",
+    "https://www.facebook.com/p/Ovoxo-100050641202501/",
+    "https://www.facebook.com/ovoxo416/",
+    "https://www.facebook.com/OVOXOMEYA/",
+    "https://www.facebook.com/OvoxoClothingLine/",
+    "https://www.facebook.com/OVOXO6/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orvixo note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.cbinsights.com/company/orvixo/people",
+    "https://www.orvixo.ai/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.cbinsights.com/company/orvixo",
+    "https://pitchbook.com/profiles/company/1460018-17",
+    "https://www.orvixo.com/en/about"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orvixo X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

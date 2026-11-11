@@ -1,0 +1,1191 @@
+{
+ "name": "Scrona",
+ "aliases": [],
+ "context": "旧営業リスト｜Advanced Manufacturing / Microfabrication｜AI送信済み",
+ "researched_at": "2026-11-11T03:05:42.823586+00:00",
+ "official_url": "https://www.scrona.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "9. Seed Round",
+    "value": "15-Oct-2018    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "2nm微細化の効果は絶大、Apple新スマホチップ「A20 Pro」分解",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/25/news070.html",
+    "pass": 3
+   },
+   {
+    "quote": "▸ UBI Researchから、最新の中大型ディスプレイのAMOLEDプロセス工程を解説した「Midium/Large Sized AMOLED Manufacturing Process Report Ver. 6」を発刊",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ UBI Researchから、最新の小型ディスプレイのAMOLEDプロセス工程を解説した「Small Sized AMOLED Manufacturing Process Report Ver. 6」を発刊",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ iPad Pro OLED後継パネルの生産は7月に開始、昨年と同程度の数量を維持する見込み",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ タンデムOLEDを導入したiPad ProとMatePad Proの発売に伴うIT用OLED市場の本格的な拡大、OLED出荷量の急増とパネルメーカー戦略競争の加速",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ UBI Researchから、最新のAMOLED工程を解説した「AMOLED Manufacturing Process」レポート発刊",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ ファーウェイ「Mate 90 Pro Max」と「Mate 90 RS」にBT.2020対応タンデム有機ELを採用",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ Huawei Mate 90 ProのTandem OLED、12,000ニット以上に注目すべきは低消費電力",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ VisionoxのViP＋Tandem OLED画面が量産出荷、Honorスマートウォッチ6 Proに供給――精密金属マスクレス（FMMレス）のフォトリソグラフィー方式とTandemの組み合わせで、ウェアラブル向け有機ELの輝度記録を更新",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ アップル、2029年iPhone ProにCoE OLED採用の見通し",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ サムスン電子、「プライバシーディスプレイ」を拡大――Galaxy S27 Pro・Ultraに採用",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ ファーウェイ、MateBook Fold Ultimate Designとプライバシー有機EL搭載MateBook Pro Sでディスプレイ採用領域を拡大",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ ソニー製Micro-OLEDを採用、VITUREがXR/ARスマートグラス新製品「VITURE Pro 2」を発表",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ iPhone 18 Pro向け有機ELパネルが最終品質承認、サムスンディスプレイとLGディスプレイが供給へ",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ サムスンディスプレイ、8.6世代OLEDの歩留まり90％突破 MacBook Pro向けパネル量産に追い風",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ サムスンディスプレイとLGディスプレイ、iPhone 18のプレミアムモデル向け有機ELを独占へ BOEはiPhone 17 Proの一部供給にとどまる見通し",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ Apple、iPhone 18シリーズは「Pro」モデル中心に戦略を変更",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ MacBook Proのノッチが消え、タッチ操作が加わる可能性 Apple初の有機EL搭載モデルが大変革を予告",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ サムスンディスプレイ、MacBook Pro向け有機EL量産プロジェクトを始動",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ MacBook Proは“名前以外すべて変わる”可能性──有機ELタッチディスプレイとセルラー通信対応の展望",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 2025年第3四半期、OLED発光材料の市場が6.2％増加…iPhone 17とiPad Proの需要が牽引",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ Xiaomi（小米）、フラッグシップ17 Pro Maxを発表…TCL CSOTがReal RGB OLEDパネル供給とRed Hostの供給先を変更",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ OLED版MacBook Pro、発売は2027年に延期の可能性",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ サムスン、OLED版MacBook Proの独占パネル供給元に 2026年モデルで「Dynamic Island」採用へ",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 12.2インチのデュアルレイヤーOLEDを搭載、HUAWEI MatePad Proが発表",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ BOEがiPhone 17 Pro向けOLED受注を獲得",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "Electrostatic Multi-Nozzle Printing",
+    "url": "https://amventures.com/company-portfolios/scrona/",
+    "pass": 3
+   },
+   {
+    "quote": "“Before investing in Scrona, AM Ventures pushed us to printing demonstrations which we did not know were possible with our technology.”",
+    "url": "https://amventures.com/company-portfolios/scrona/",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona develops and manufactures an electrohydrodynamic printing technology for functional materials with resolutions in the single digit micrometer range and below.",
+    "url": "https://amventures.com/company-portfolios/scrona/",
+    "pass": 3
+   },
+   {
+    "quote": "We invest in the best people with the brightest ideas, and are convinced that 3D printing changes the world to become a better place.",
+    "url": "https://amventures.com/company-portfolios/scrona/",
+    "pass": 3
+   },
+   {
+    "quote": "Are you a startup looking for funding to launch your industrial 3D printing venture?",
+    "url": "https://amventures.com/company-portfolios/scrona/",
+    "pass": 3
+   },
+   {
+    "quote": "TV & Content Licensing",
+    "url": "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The smallest inkjet-printed colour image",
+    "url": "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The crowdfunding project got twice as much money as needed",
+    "url": "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona is a Swiss organisation that seeks to simplify complex technology, especially micro- and nanotechnology. The founders, ETH Zürich graduates Patrick Galliker, Martin Schmid and Julian Schneider, developed an inkjet process with a resolution 1000 times as high as conventional machines while still attending university.",
+    "url": "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Attempting to make the high resolution of printed images accessible to everyone, they launched the crowdfunding project μPeek.",
+    "url": "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "pass": 3
+   },
+   {
+    "quote": ", Scrona teamed up with Guinness World Records to set a new record for the Smallest inkjet-printed colour image.",
+    "url": "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "μPeek is a credit-card sized gadget that can be attached to almost any smartphone, wirelessly connect to it via Bluetooth, and turn it into a multi-functional microscope. After taking a picture with μPeek, Scrona printed it on a 0,0092mm2 surface, thus achieving a new Guinness World Records title.",
+    "url": "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Thanks to the great collaboration with Guinness World Records we could publicly demonstrate our unique printing technology and our successful Guinness World Records attempt was surely one of the main reasons for the worldwide attention that we’ve received.",
+    "url": "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a three-dimensional nano-drip printing technology designed to enable fast and cost-effective production.",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "13. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "7. Product Crowdfunding",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a three-dimensional nano-drip printing technology designed to enable fast and cost-effective production. Th",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": ", a Private Equity-Backed company based in Dortmund, Germany.",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Electrohydrodynamic print head with front-side ink collector chambers",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Electrohydrodynamic print head with ink circulation",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Pressure-assisted hybrid joining technology",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona’s primary industry is Machinery (B2B).",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Is Scrona a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Electronic Supply & Manufacturing China",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/25/news070.html",
+    "pass": 3
+   },
+   {
+    "quote": "▸ UBI Researchから、最新の中大型ディスプレイのAMOLEDプロセス工程を解説した「Midium/Large Sized AMOLED Manufacturing Process Report Ver. 6」を発刊",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ UBI Researchから、最新の小型ディスプレイのAMOLEDプロセス工程を解説した「Small Sized AMOLED Manufacturing Process Report Ver. 6」を発刊",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ UBI Researchから、最新のAMOLED工程を解説した「AMOLED Manufacturing Process」レポート発刊",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "Are you a startup looking for funding to launch your industrial 3D printing venture?",
+    "url": "https://amventures.com/company-portfolios/scrona/",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona AG and ETH Zurich Case Study | Guinness World Records",
+    "url": "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona AG and ETH Zurich Case Study",
+    "url": "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "A method for manufacturing a multi-domed structure",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "「かつてない印刷解像度」実現する3Dプリント新興企業：半導体製造やディスプレイ向け（1/2 ページ） - EE Times Japan",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/25/news070.html",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクス入門（EDN Japan）",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/25/news070.html",
+    "pass": 3
+   },
+   {
+    "quote": "EE Times Japan×EDN Japan統合電子版",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/25/news070.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITmediaはアイティメディア株式会社の登録商標です",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/25/news070.html",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 2023年 第3回 UBIリサーチ東京セミナーの開催のお知らせ",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 2023年3月８日（水）東京開催「ディスプレイ産業と市場動向・技術」無料セミナーのお知らせ",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸AR眼鏡市場が急成長、サムスンディスプレイとLGディスプレイがマイクロディスプレイ技術の布石を急ぐ ― シリコン基板OLED(OLEDoS)の主要サプライチェーンは日本・米国・中国企業が支配、韓国勢の参入が課題",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 韓国の豊源精密、OLED用FMMの量産間近 ― 日本独占が続いた精密金属マスク市場に構造変化 ―",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 日本企業の独占だったディスプレイ用イオン注入製造装置、韓国で初の国産化に成功",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ Visionoxが日本の半導体エネルギー研究所のOLED特許ライセンスを取得",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 日本企業の独占を打破、韓国のT-Roboticsが第8.6世代OLED蒸着プロセス用真空ロボットを開発",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 大日本印刷、黒崎工場（福岡県）で有機ELディスプレイ製造用メタルマスク生産ラインを稼働開始",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 中国製のスマートウォッチ向けOLED出荷比率が、日本と韓国を追い越してシェア60%を超える",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 任天堂は日本国内だけで700万台以上のSwitch OLEDコンソールを販売し、世界全体で2000万台以上を販売",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ JDI（Japan Display Inc.）は、中国で大規模なeLEAPプロジェクトを開始",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 日本の時計メーカーと欧米の自動車メーカーがマイクロLED市場を2027年までに6億米ドル近くに押し上げるとトレンドフォースが発表",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 東京大学、原子層堆積法を用いたナノシート酸化物半導体トランジスタを開発",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 中国に追われて、日本につまずいた、二重苦の韓国ディスプレイ界の解決策は",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ [Lighting Fair 2019]日本電気硝子、複数の照明メーカーと協力したOLED照明を展示",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 韓国のYoungwoo Dspが日本の有機EL検査装置市場へ進出",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 【FINETECH JAPAN】Sharp、IGZOとOLEDを結合した未来戦略を発表",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 有機ELの基板材料「PIワニス」の日本企業の独占の構図が崩れる... SKCコーロンPIが量産開始",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 「大型OLEDパネルの生産コストを低減」...日本と中国でインクジェット印刷の開発競争が加速",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ カーエレJAPANで多くのメーカーが車載用の有機ELディスプレイと照明を展示",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 【Finetech Japan 2017】ブイ・テクノロジー、738ppiのUHDを実現するFHMを公開",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ Kyuluxと日本曹達、 有機ＥＬ発光材料の量産体制構築に向け資本業務提携契約を締結",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "▸ EverDisplay(EDO)、OLEDラインの改修と新規投資...利益改善と香港上場目標",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸中国OLEDメタルマスクメーカー、1カ月で2社がIPO準備に着手",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 累計投資625億ウォンの韓国のレティナル、AIグラス光学モジュールでIPO加速、NTTコノキューデバイスやダイナブックに量産供給",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 中国ディスプレイ素材・パネル企業、相次ぐ上場ラッシュで競争力強化へ",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 中国ディスプレイ大手HKCが上場、株価は一時640％急騰",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ BOE精電の合肥子会社、新本部基地が着工：フレキシブルディスプレイ関連の製造・研究体制を強化",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ ゴアテック(Goertek)社、新規子会社設立でAR/XRメガネ産業の強者へ",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ Sunik Systems、BOEの子会社のBeijing BOE CHUANGYUAN TechnologyにOledos用蒸着装置を供給",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ BOE子会社BMVTが「マイクロOLEDプロジェクト」向けOLED蒸着装置をSunic Systemから購入",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 韓国のOLED蒸着マスクなどの関連企業のファインワンが上場へ",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 「上場廃止危機」Hansong Neotechが、BOEの第8世代OLEDライン投資の新たなリスク",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ シリコンベースOLED企業SeeYA Technology、IPOを計画中",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ UTGガラス開発のDowoo Insysが2025年にIPOを計画",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 韓国のTop Run Total SolutionがIPOに踏み切り、自動車向けOLEDに賭ける",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ Visionox子会社のChenxianOptoelectronicsとXiamenSananが、マイクロLEDの分野で戦略的協力関係を構築",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 出光興産、中国成都市にOLED材料専門子会社を設立",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ ブイ・テクノロジー、OLEDマスクおよび蒸着技術開発に向けた子会社設立とパネルメーカーLumiotecの買収",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 韓国のコスダック市場でディスプレイ製造装置企業の上場が連続",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ インドを拠点に「脱中国」戦略を進めるロオディン、有機EL材料でIPOを推進",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ UDCに照準、サムスン系有機EL材料メーカー SFC が上場を計画",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ Solus Advanced Materials、特許2件が最終的に無効、サムスン子会社のNovaledに敗訴",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ ポーランドのOLED材料企業Noctilucaが中国テレビメーカー子会社と共同でOLED EIL材料を開発をリード",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ 韓国のOLED材料メーカーのSCHEM、IPO価格を1万ウォンに確定…18日にコスダック上場予定",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "▸ BOEテクノロジーグループとUniversal Display Corporation（Nasdaq：OLED）が長期のOLED契約に合意",
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona has 13 total employees.",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "What is Scrona’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Scrona is",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About Scrona: World Leaders in Nano-Printing Technology — Learn about Scrona's journey, achievements, and vision for the future of ultra-high-resolution 3D printing. Recognized as a Top Swiss Startup and innovators in electrohydrodynamic printing.",
+    "url": "https://www.scrona.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "「かつてない印刷解像度」実現する3Dプリント新興企業：半導体製造や...Scrona、CES 2025で半導体先端パッケージング、ディスプレイ製造、家...極小3Dプリント技術のScronaは大規模な製造業向けのプランを立ち上げ...Scrona AG極小3Dプリント技術のScronaは大規模な製造業向けのプランを立ち上げ...極小3Dプリント技術のScronaは大規模な製造業向けのプランを立ち上げ... — Feb 25, 2022 · スイスのETH Zurich（スイス連邦工科大学チューリッヒ校）からスピンアウトした3Dプリント企業Scronaは、960万米ドルの資金調達ラウンドを完了した。調達した資金は、MEMSベースの微細加工プリントヘッド技術を適用した新しいプリント技術の産業化に使用する。ターゲット市場は、半導体製造と ... 2024年12月12日 Trend Force マ",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/25/news070.html",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona、CES 2025で半導体先端パッケージング、ディスプレイ製造、家... — 2024年12月12日 Trend Force マイクロ製造スタートアップであり、史上最小のカラー印刷物の世界記録保持者であるScrona AGは、CESにおいて、新しい128ノズルプリントヘッドをデモンストレーションします。 Scronaによると、同社の印刷プラットフォームは、マイクロメートル単位の精度、比類のない ...",
+    "url": "https://www.bunsekik.com/ディスプレイ関連ニュース/過去のニュース/scrona-ces-2025で半導体先端パッケージング-ディスプレイ製造-家電製品向け128ノズルプリントヘッドをデモ/",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona AG — Scrona has ceased its business operations. We would like to sincerely thank our investors, customers, partners and team for their trust and support over the years.",
+    "url": "https://www.scrona.com/",
+    "pass": 3
+   },
+   {
+    "quote": "極小3Dプリント技術のScronaは大規模な製造業向けのプランを立ち上げ... — Feb 16, 2022 · Scrona AGは2015年に「最小のインクジェットプリントカラーイメージ」でギネスの世界記録になり、ちょっとした話題を呼んだ。80×115マイクロメートルのカクレクマノミの絵は、Kickstarterでキャンペーンのときも話題になった。ETH Zurich（スイス連邦工科大学チューリッヒ校）からスピンオフした ...",
+    "url": "https://techcrunchjapan.com/2022/02/16/2022-02-15-scrona-has-big-manufacturing-plans-for-its-tiny-3d-printing/",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona Ltd. | LinkedIn — Scrona Ltd. | LinkedInのフォロワー数2,408人。Scalable ultra high-resolution printing | Scrona drives innovation. We are an engaged international team of experts from different backgrounds developing a scalable manufacturing technology that will expand the boundaries of current inkjet and 3D printing into microfabrication. Our mission is to accelerate the ongoing transition to digit",
+    "url": "https://jp.linkedin.com/company/scrona",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona - AM Ventures — The Scrona technology has enormous potential for additive manufacturing because its technology can process materials that are simply not processable with other printheads today. The combination of the highest resolution and the ability to overcome restrictions caused by high-performance materials used in current processes is unique.",
+    "url": "https://amventures.com/company-portfolios/scrona/",
+    "pass": 3
+   },
+   {
+    "quote": "「かつてない印刷解像度」実現する3Dプリント新興企業：半導体製造や... — Feb 25, 2022 · スイスのETH Zurich（スイス連邦工科大学チューリッヒ校）からスピンアウトした3Dプリント企業Scronaは、960万米ドルの資金調達ラウンドを完了した。調達した資金は、MEMSベースの微細加工プリントヘッド技術を適用した新しいプリント技術の産業化に使用する。ターゲット市場は、半導体製造と ...",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/25/news070.html",
+    "pass": 3
+   },
+   {
+    "quote": "Applications of Nano-Printing Technology | Scrona — Scrona’s EHD technology allows for printing of thick fluids with viscosities of up to 10 Pas. Polymers and adhesives for a range of applications in manufacturing and assembly of micro electronic products are just a few examples of the possibilities with highly viscous materials.",
+    "url": "https://www.scrona.com/applications",
+    "pass": 3
+   },
+   {
+    "quote": "Cutting-Edge Nano-Printing Technology | Scrona — Explore Scrona's innovative electrohydrodynamic (EHD) printing technology. From ultra-high-resolution 3D printing to precision inkjet solutions, discover how we redefine microfabrication for advanced industries.",
+    "url": "https://www.scrona.com/technology",
+    "pass": 3
+   },
+   {
+    "quote": "From Academic Research to $15.5M: How Scrona Packaged ... — Nov 19, 2025 · Discover how Scrona CEO Patrick Heissler transformed breakthrough printing technology from academic research into industrial products in just 30 days, prioritizing datasheets over whitepapers and product roadmaps over fundraising.",
+    "url": "https://www.frontlines.io/from-academic-research-to-15-5m-how-scrona-packaged-technology-that-phd-operators-couldnt-use/",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona AG and ETH Zurich Case Study - Guinness World Records — Scrona is a Swiss organisation that seeks to simplify complex technology, especially micro- and nanotechnology. The founders, ETH Zürich graduates Patrick Galliker, Martin Schmid and Julian Schneider, developed an inkjet process with a resolution 1000 times as high as conventional machines while still attending university.",
+    "url": "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The Story of Scrona: The Company Building the Future of ... — Nov 19, 2025 · The Story of Scrona: The Company Building the Future of Micrometer-Scale Manufacturing Discover how Scrona CEO Patrick Heissler transformed academic research into a $15.5M industrial printing platform, navigating the challenge of commercializing technology that can do everything and nothing at the same time.",
+    "url": "https://www.frontlines.io/the-story-of-scrona-the-company-building-the-future-of-micrometer-scale-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona AG – Company Insights & Financial Strength – 2026 — Discover Scrona AG's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/scrona-ag",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Scrona. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona — Company Profile, Funding & Investors — Scrona company profile — acquisitions, funding rounds, investments, investors, key people and contacts. Scrona is a manufacturing company that focuses on developing a wide range of semiconductor products.",
+    "url": "https://acquirezy.com/organization/scrona",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona - 2025 Company Profile, Funding & Competitors - Tracxn — Oct 19, 2025 · Scrona is a series A company based in Zurich (Switzerland), founded in 2014. It operates as a Provider of an electrohydrodynamic inkjet printing technology. Scrona has raised $12M in funding from AM Ventures. The company has 30 active competitors, including 3 funded and 1 that has exited. Its top competitor s include co",
+    "url": "https://tracxn.com/d/companies/scrona/__QuOPpCLOa0FlH_LiRVDoNevd7qWLJgkMBe1nTe5iH24",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona – Growth Analysis & Alternative Companies – 2026 — Discover Scrona's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/scrona",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Scrona (@scrona) / Posts / X Oct 29, 2015 · Scrona’s InkLogic™ can greatly simplify the production of current OLED or LCD display technology. For example, the resolution and layer thickness control of Scrona’s technology allows the printing of quantum dots color filters for high-brightness, full-color micro LED displays.",
+    "url": "https://x.com/scrona",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona’s InkLogic™ can greatly simplify the production of ... Scrona (@scrona). 46 views. Scrona’s InkLogic™ can greatly simplify the production of current OLED or LCD display technology. For example, the resolution and layer thickness control of Scrona’s technology allows the printing of quantum dots color filters for high-brightness, full-color micro LED displays.",
+    "url": "https://x.com/scrona/status/2037410961964081544",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona is revolutionizing microfabrication with the world’s ... Feb 5, 2026 · Scrona (@scrona). 25 views. Scrona is revolutionizing microfabrication with the world’s first MEMs based, software-defined EHD printhead across many markets worldwide. Applications range from advanced semiconductor packaging (RDL, chiplets) to secure electronics, sensors, and defense-relevant components.",
+    "url": "https://x.com/scrona/status/2019440035045802428",
+    "pass": 3
+   },
+   {
+    "quote": "This Engineers Week, Scrona acknowledges the innovation ... Feb 16, 2026 · Scrona (@scrona). 21 views. This Engineers Week, Scrona acknowledges the innovation behind our additive electrostatic printing technology. Our technology was developed in our internal microfabrication lab where our proprietary MEMS chip was born, the core of our InkLogic™ technology. #microfabrication",
+    "url": "https://x.com/scrona/status/2023430657230422400",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Scrona Ltd. - LinkedIn Scrona Ltd. | 2,408 followers on LinkedIn. Scalable ultra high-resolution printing | Scrona drives innovation. We are an engaged international team of experts from different backgrounds developing ...",
+    "url": "https://www.linkedin.com/company/scrona/",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona and Notion Systems introduce EHD printing for high ... Scrona and Notion Systems are bringing the revolutionary power of electrohydrodynamic (EHD) printing to high-volume manufacturing. This is a revolutionary leap forward in precision and innovation ...",
+    "url": "https://www.linkedin.com/posts/scrona_electrohydrodynamic-manufacturing-activity-7389531748415660032-OV4j",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona Ltd.的Application Engineer Micro-Structuring — 高雄地區 ..... Scrona is an innovative Swiss start-up developing a novel micro manufacturing technology. Our scalable InkLogic™ printheads allow for micro-structuring of a broad range of functional materials enabling waste free microfabrication in semiconductor advanced packaging and general micro-manufacturing applications.",
+    "url": "https://tw.linkedin.com/jobs/view/application-engineer-micro-structuring-at-scrona-ltd-4347669129",
+    "pass": 3
+   },
+   {
+    "quote": "Patrick Galliker – CEO bei Rheovate | LinkedInFlorian Bürgler – R&D Engineer bei Scrona Ltd. | LinkedInScrona's CEO on Reshaping Micromanufacturing with Software ...Scrona's InkLogic Printhead Enables Ultra-High Resolution ... CEO bei Rheovate · Berufserfahrung: Rheovate · Ausbildung: ETH Zurich · Standort: Zürich Metropolitan Area · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von Patric",
+    "url": "https://ch.linkedin.com/in/galliker",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Scrona - Facebook Feb 6, 2016 · Scrona. 94 likes. Making complex technology simple",
+    "url": "https://www.facebook.com/p/Scrona-100069409810519/",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona - Facebook Feb 6, 2016 · Scrona. 90 likes. Making complex technology simple",
+    "url": "https://www.facebook.com/Scrona-945827888816110/",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona - Facebook Scrona, Zurich. 93 likes. Making complex technology simple",
+    "url": "https://www.facebook.com/Scrona-100069409810519/",
+    "pass": 3
+   },
+   {
+    "quote": "Scrona MW - Facebook Scrona MW is on Facebook. Join Facebook to connect with Scrona MW and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/scrona.mw/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.scrona.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2202/25/news070.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bunsekik.com/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E9%96%A2%E9%80%A3%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/scrona-ces-2025%E3%81%A7%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%85%88%E7%AB%AF%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%B3%E3%82%B0-%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4%E8%A3%BD%E9%80%A0-%E5%AE%B6%E9%9B%BB%E8%A3%BD%E5%93%81%E5%90%91%E3%81%91128%E3%83%8E%E3%82%BA%E3%83%AB%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E3%83%98%E3%83%83%E3%83%89%E3%82%92%E3%83%87%E3%83%A2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/scrona",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://amventures.com/company-portfolios/scrona/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.frontlines.io/from-academic-research-to-15-5m-how-scrona-packaged-technology-that-phd-operators-couldnt-use/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/scrona-ag",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/98360-56",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://acquirezy.com/organization/scrona",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/scrona/__QuOPpCLOa0FlH_LiRVDoNevd7qWLJgkMBe1nTe5iH24",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scrona",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scrona/status/2037410961964081544",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scrona/status/2019440035045802428",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scrona/status/2023430657230422400",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/scrona/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/scrona_electrohydrodynamic-manufacturing-activity-7389531748415660032-OV4j",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tw.linkedin.com/jobs/view/application-engineer-micro-structuring-at-scrona-ltd-4347669129",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/galliker",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Scrona-100069409810519/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Scrona-945827888816110/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Scrona-100069409810519/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/scrona.mw/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scrona",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scrona/status/2023430657230422400",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scrona/status/2037410961964081544",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Scrona 日本 導入",
+   "results": [
+    "https://www.scrona.com/company",
+    "https://eetimes.itmedia.co.jp/ee/articles/2202/25/news070.html",
+    "https://www.bunsekik.com/ディスプレイ関連ニュース/過去のニュース/scrona-ces-2025で半導体先端パッケージング-ディスプレイ製造-家電製品向け128ノズルプリントヘッドをデモ/",
+    "https://www.scrona.com/",
+    "https://techcrunchjapan.com/2022/02/16/2022-02-15-scrona-has-big-manufacturing-plans-for-its-tiny-3d-printing/",
+    "http://seo-lpo.net/web-news/極小3dプリント技術のscronaは大規模な製造業向けのプ/",
+    "https://news.minory.org/382077.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scrona 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.cronos.co.jp/",
+    "https://www.mkikuchi-law.com/17785461217883",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://taimen-eigyo.com/words/so-dairiten/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Scrona Japan",
+   "results": [
+    "https://www.scrona.com/company",
+    "https://www.scrona.com/",
+    "https://jp.linkedin.com/company/scrona",
+    "https://amventures.com/company-portfolios/scrona/",
+    "https://eetimes.itmedia.co.jp/ee/articles/2202/25/news070.html",
+    "https://www.dentsplysirona.com/ja-jp",
+    "https://www.dentsplysirona.com/ja-jp/company/careers/locations.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scrona manufacturing customer case study",
+   "results": [
+    "https://www.scrona.com/applications",
+    "https://www.scrona.com/technology",
+    "https://www.frontlines.io/from-academic-research-to-15-5m-how-scrona-packaged-technology-that-phd-operators-couldnt-use/",
+    "https://www.guinnessworldrecords.com/business-solutions/case-studies/scrona-ag-and-eth-zurich-case-study",
+    "https://www.frontlines.io/the-story-of-scrona-the-company-building-the-future-of-micrometer-scale-manufacturing/",
+    "https://www.verve.vc/blog/scronas-printheads-are-ready-for-high-volume-production/",
+    "https://www.eejournal.com/fish_fry/scrona-and-a-new-era-of-micro-manufacturing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scrona white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://skyswitch.com/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scrona founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/scrona-ag",
+    "https://pitchbook.com/profiles/company/98360-56",
+    "https://acquirezy.com/organization/scrona",
+    "https://tracxn.com/d/companies/scrona/__QuOPpCLOa0FlH_LiRVDoNevd7qWLJgkMBe1nTe5iH24",
+    "https://compworth.com/company/scrona",
+    "https://fundediq.co/scrona-inc-scrona-com-funding/",
+    "https://tracxn.com/d/companies/scrona/__pTqtWGa1iBaOg4FIQspjKXTseL1FzLalSxj7LWo2jrA"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Scrona",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/carflow/n/n44d9b9982cd6",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/bako_unityforest/n/n9cf753b97b2b",
+    "https://note.com/ma_strategynews/n/n0951679d550a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Scrona",
+   "results": [
+    "https://x.com/scrona",
+    "https://x.com/scrona/status/2037410961964081544",
+    "https://x.com/scrona/status/2019440035045802428",
+    "https://x.com/scrona/status/2023430657230422400",
+    "https://x.com/lithos_graphein/status/2028278153706143899",
+    "https://x.com/lithos_graphein/status/2054710589356650845",
+    "https://x.com/Scona_Football/status/918662810690772993"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Scrona",
+   "results": [
+    "https://www.linkedin.com/company/scrona/",
+    "https://www.linkedin.com/posts/scrona_electrohydrodynamic-manufacturing-activity-7389531748415660032-OV4j",
+    "https://tw.linkedin.com/jobs/view/application-engineer-micro-structuring-at-scrona-ltd-4347669129",
+    "https://ch.linkedin.com/in/galliker",
+    "https://ch.linkedin.com/in/florian-buergler/de",
+    "https://www.linkedin.com/posts/scrona_microfabrication-photonics-activity-7445500932664221696-Sgua",
+    "https://www.linkedin.com/posts/scrona_inkjet-printhead-microfabrication-activity-7448034052445609985-HA1o"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Scrona",
+   "results": [
+    "https://www.facebook.com/p/Scrona-100069409810519/",
+    "https://www.facebook.com/Scrona-945827888816110/",
+    "https://www.facebook.com/Scrona-100069409810519/",
+    "https://www.facebook.com/scrona.mw/",
+    "https://www.facebook.com/photo/?fbid=122178557072392135",
+    "https://www.facebook.com/plughitzliveradio/videos/scronas-versatile-printing-tech-quantum-dots-to-space-stations/2407032336297886/",
+    "https://www.facebook.com/3DComponents/posts/scrona-to-bring-ultra-precise-electronics-3d-printing-technology-to-market-after/2306563452817979/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scrona note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.scrona.com/company",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://storynote.jp/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scrona X 投稿",
+   "results": [
+    "https://x.com/scrona",
+    "https://x.com/scrona/status/2023430657230422400",
+    "https://x.com/scrona/status/2037410961964081544",
+    "https://www.scrona.com/",
+    "https://x.com/sirona_si_9/status/2108347625334596010",
+    "https://evolvingvillage.com/personal-brand-submit/",
+    "https://x.com/grok/status/2091496076377301395"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

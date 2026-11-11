@@ -1,0 +1,1282 @@
+{
+ "name": "Barbara",
+ "aliases": [],
+ "context": "旧営業リスト｜要確認｜返信あり",
+ "researched_at": "2026-11-11T03:28:44.372315+00:00",
+ "official_url": "https://barbaraiot.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "If you would like to know more about our product, if we can help you with your use case or if you have any other questions, please fill in this form and we will contact you as soon as possible.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "If you prefer, you can also send us an email to hola@barbara.tech",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage your industrial apps in production, at scale",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Extract value from your existing assets by collecting data regardless of the protocol they use.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Your models in production in a few clicks",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional-grade connectivity including VPN, VLAN, Proxy, Standalone, Multiple IPs and DNS, NTP, and more.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Zero-touch provisioning automates setup, eliminating the need for costly on-site hands-on configuration.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "In a complex and changing industrial landscape, Barbara provides the infraestructure for a secure, faster and more automated rollouts",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "In production from the first minute",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Provision, configure, update, operate and decommission Edge Devices. Keep them free of security vulnerabilities and maximise their long-term operability.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Your models in production within a week",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "By implementing real-time optimized Machine Learning algorithms at each of its desalination plants, ACCIONA a global infrastructure operator, managed to minimize the use of reactive chemicals, eliminate associated regulatory penalties, and leverage an edge infrastructure to implement new predictive applications.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Barbara’s Edge Technology enabled the Virtual Oscilloscope Microservice that was integrated into Redeia’s architecture, offering a cutting-edge solution to improve efficiency and reliability.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocking new value through servitization with Barbara Edge Infrastucture. By embedding Barbara’s technology into its machines, CORREA wants to evolve from a traditional hardware-centric model to an innovative, service-driven approach.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "A collection of real-world success stories from across industries, highlighting the tangible impact and business value of Edge AI in action. From intelligent demand forecasting in energy, to monitoring production lines and energy consumption to predictive maintenance all in real-time. The impact is vast, and the possibilities are limitless.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Edge AI in Cement: Deploying real-time predictive models in clinker kiln",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieving fuel savings in the pyroprocess through the deployment of real-time predictive models in clinker kilns with Barbara Edge AI Platform.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "With Barbara's Edge Platform, CUERVA is able to capture and process real-time data from line cells and fault pass detectors as well as detect anomalous behavior and optimize its maintenance operations.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "CUERVA, a Spanish Energy Operator required a predictive system based on consumption and production patterns to help them avoid congestion and overvoltage events in the grid. Barbara facilitated the Edge Platform to deploy AI algorithm for demand and generation prediction and enabled MLOps techniques to retrain algorithm in the Edge.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "By implementing Edge Computing, Aduriz aims to enhance system interoperability, bolster cybersecurity, improve data management, and enable the deployment of models at the Edge, driving greater business intelligence and operational efficiency.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Enabling an early prediction model for underground high-voltage lines",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Barbara´s Edge platform offers Edge Computing-based solutions tailored for critical installations. It enables the efficient operation and predictive maintenance of high-voltage transmission lines through the application of distributed artificial intelligence and machine learning.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "To operate more efficiently, water management operators need to be able to monitor in a unified and comprehensive way all components that make up the OT and industrial automation architectures.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how pioneering companies have achieved real-time autonomous processes",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "\"One of the aspects I liked the most about Barbara is its hardware agnosticism both, from the data capture side with the wide range of supported industrial protocols, and from the deployment side, covering ARM nodes such as Raspberry Pi and Jetson, as well as Intel CPUs, GPUs, and virtual machines.\"",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your cost savings.",
+    "url": "https://www.barbara.tech/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Real-Time AI for Pyroprocess Optimization",
+    "url": "https://www.barbara.tech/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "won the Grand Prize of the 27th",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "Noam Chomsky on The Generative Enterprise, A discussion with Riny Hyybregts and",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "Phantoms in the Brain: Probing the Mysteries of the Human Mind",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "praised Hagio's sense of pacing.",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "\"The Moto Hagio Interview conducted by Matt Thorn (Part Four of Four)\"",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": ": CS1 maint: deprecated archival service (",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "A, A Prime",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "The Poe Clan: Spring's Dream",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "(2018–present)",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "Sharp Point Press titles",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 maint: deprecated archival service",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "Asian Studies Program",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Catholic Studies Program",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Latin American Studies Program",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical and Health Humanities Program",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Premodern Studies Program",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainability Program",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Urban Education Program",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Management & Entrepreneurship",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Walter E. Schmidt, S.J. Professor",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Civilizations Past and Present",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "My primary research interests at this time are centered on women's rights and the construction and representation of gender as well as transnational feminisms. I am thankful to my students for their comments and papers, which have contributed to many of my new research ideas.",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“Gender and the Politics of Morality in Japan: A Comparison of the Pre-Suffrage Inter-War Era with the Post-Suffrage 1970s” (2017).",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“Ichikawa Fusae and Japan’s Prewar Women’s Suffrage Movement” (2005)",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“Women’s Rights, Feminism, and Suffragism in Japan, 1870-1925” (2000, winner of the Ridge Article Prize, Western Association of Women Historians).",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Barbara — Industrial Edge Platform for Apps and AI Models",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Empowering Industrial Companies to deploy, run, and monitor Edge Applications and AI models on-site, while managing the infrastructure more simply than the cloud.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "INDUSTRIAL SOFTWARE DEVELOPERS",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage your industrial apps in production, at scale",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Get data from any industrial assets",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "In a complex and changing industrial landscape, Barbara provides the infraestructure for a secure, faster and more automated rollouts",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Connectors",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploying Adaptive AI in Distributed Water Plants",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "By implementing real-time optimized Machine Learning algorithms at each of its desalination plants, ACCIONA a global infrastructure operator, managed to minimize the use of reactive chemicals, eliminate associated regulatory penalties, and leverage an edge infrastructure to implement new predictive applications.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Twin: Establishing a Single Source of Truth in Pharmaceutical Manufacturing",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "A collection of real-world success stories from across industries, highlighting the tangible impact and business value of Edge AI in action. From intelligent demand forecasting in energy, to monitoring production lines and energy consumption to predictive maintenance all in real-time. The impact is vast, and the possibilities are limitless.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy and orchestrate AI models in distributed water plants",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "To operate more efficiently, water management operators need to be able to monitor in a unified and comprehensive way all components that make up the OT and industrial automation architectures.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Implementation of Virtual Power Plants for Efficient Demand Management",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Aggregate heterogeneous distributed resources and facilitate physical world connectivity. Barbara's software enables the creation of Virtual Power Plants through Edge Computing Nodes that monitor and control the power sources, and a centralized control platform that manages the entire system in an agile and simple way.",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "\"One of the aspects I liked the most about Barbara is its hardware agnosticism both, from the data capture side with the wide range of supported industrial protocols, and from the deployment side, covering ARM nodes such as Raspberry Pi and Jetson, as well as Intel CPUs, GPUs, and virtual machines.\"",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Estefan Wolff · Digital Manufacturing Leader ·",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Barbara has been instrumental in large-scale deployments, providing a powerful layer of abstraction that simplifies the setup of edge devices while enabling seamless integration of advanced algorithms. It’s the ideal partner for managing critical systems like photovoltaic plants and transformer substations.\"",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "On any industrial equipment",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Edge AI Case Studies — Barbara",
+    "url": "https://www.barbara.tech/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Twin: Establishing a Single Source of Truth in Pharmaceutical Manufacturing",
+    "url": "https://www.barbara.tech/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocking New Value of Manufacturing Machines Through Servitization",
+    "url": "https://www.barbara.tech/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Deploying Adaptive AI in Distributed Water Plants",
+    "url": "https://www.barbara.tech/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Engineering",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a cybersecure industrial edge artificial intelligence platform designed to deploy and run real-time artificial intelligence models in edge devices for critical industries.",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a cybersecure industrial edge artificial intelligence platform designed to deploy and run real-time artific",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "If you prefer, you can also send us an email to hola@barbara.tech",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to learn more",
+    "url": "https://www.barbara.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   },
+   {
+    "quote": "Available for Chatwork/email correspondence",
+    "url": "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Avoid revenue loss due to downtime.",
+    "url": "https://www.barbara.tech/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Harness Edge AI for new revenue streams.",
+    "url": "https://www.barbara.tech/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "07. \"I Used to Carry You on My Shoulders\"",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "The Seven Knights of the Marronnier Kingdom",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara has 45 total employees.",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   },
+   {
+    "quote": "What is Barbara’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Barbara is",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/barbara-iot",
+    "pass": 3
+   },
+   {
+    "quote": "Although I am starting in my 70s, I intend to approach every project with sincerity, leveraging the \"sense of responsibility,\" \"accuracy,\" and \"thoroughness\" I acquired through my many years of work.",
+    "url": "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Japanese manga series",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "Science Fiction and Fantasy Writers of Japan",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Shogakukan. June 26, 2003",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Shogakukan. March 26, 2004",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Shogakukan. December 20, 2004",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Shogakukan. September 26, 2005",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "\"Dennō Coil Wins Award from Japanese Sci-Fi Writers (Updated)\"",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "\"各賞受賞一覧 | SFWJ:日本SF大賞\"",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 uses Japanese-language script (ja)",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "Gendering Modern Japanese History",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“Rice Paddles and Pink Helmets—Framing Gendered Resistance in 20th Century Japan” (2022).",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“Gendering Modern Japanese History: An Historiographical Update” (2019).",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“Engendering Modern Japanese History through the Lens of Empire” (2017).",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“Gender and the Politics of Morality in Japan: A Comparison of the Pre-Suffrage Inter-War Era with the Post-Suffrage 1970s” (2017).",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“From ‘Mothers of Humanity’ to ‘Assisting the Emperor:’ Gendered Belonging in the Wartime Rhetoric of Japanese Feminist Ichikawa Fusae” (2011)",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“Crossing Boundaries: Transnational Feminisms in Japan, 1900-2008” (2009)",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“Gender, Citizenship, and Dress in Modernizing Japan” (2007)",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“Ichikawa Fusae and Japan’s Prewar Women’s Suffrage Movement” (2005)",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“Citizenship and Suffrage in Interwar Japan” (2004)",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "“Women’s Rights, Feminism, and Suffragism in Japan, 1870-1925” (2000, winner of the Ridge Article Prize, Western Association of Women Historians).",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Medieval and Early Modern Japan",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Modern Japan in the World",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "残念ながら日本という国に住んでいるとBarbara Manningというミュージシャンの名前はなんとなく知っていても実際どのような音楽をやっていてどのようなキャリアを歩んだのか知る機会は殆どないのが実情である",
+    "url": "https://note.com/hmdyamaa/n/n3a4cf927ccdc",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの家で日本人が「ギョッとする」5つのこと🇺🇸🏡",
+    "url": "https://note.com/barbara_sensei",
+    "pass": 3
+   },
+   {
+    "quote": "欧米では当たり前、日本では聞かない言葉🗣️",
+    "url": "https://note.com/barbara_sensei",
+    "pass": 3
+   },
+   {
+    "quote": "実はアメリカ発祥！日本で独自の進化を遂げたチェーン店🇯🇵🇺🇸",
+    "url": "https://note.com/barbara_sensei",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Otherworld Barbara - Wikipedia — It is set in a near-future Japan, and begins with a girl, Jyujo Aoba, who has been in a coma since she was nine years old, who was discovered next to her parents' bodies, with their hearts inside her stomach.",
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara Japan - Deputy Exécutive Director and Head of ...️Bara D’Japón 3 (@barbara_japan) | TikTokBarbara Molony - College of Arts and Sciences - Santa Clara ...Japan, Barbara | Replacements, Ltd.株式会社Barbara PoolBarbara (baabara) in Japanese Katakana | YourKatakanaOtherworld Barbara - Wikipedia — View Barbara Japan’s profile on LinkedIn, a professional community of 1 billion members. 🧑 ️Bara D’Jap",
+    "url": "https://ke.linkedin.com/in/barbara-japan-6b7b0712b",
+    "pass": 3
+   },
+   {
+    "quote": "️Bara D’Japón 3 (@barbara_japan) | TikTok — 🧑 ️Bara D’Japón 🇯🇵 🇵🇪 3 (@barbara_japan) en TikTok |23.9K me gusta.6334 seguidores.👩 ️💜 ESTA CUENTA ES SECUNDARIA TE INVITO AGRÉGAME A MI CUENTA PRINCIPAL @👩 ️💜🅱️🅰️®️🅰️ TE ESPERO busco Amistad.Mira los videos populares de 🧑 ️Bara D’Japón 🇯🇵 🇵🇪 3 ...",
+    "url": "https://www.tiktok.com/@barbara_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara Molony - College of Arts and Sciences - Santa Clara ... — I currently teach courses on medieval as well as modern Japan; women and gender in China, Japan, and Korea; the intersection of race and imperialism in East Asia; and a multi-national, multi-cultural seminar on gender and rights in the modern era.",
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan, Barbara | Replacements, Ltd. — Shop Barbara China & Dinnerware by Japan at Replacements, Ltd. Explore new and retired china, crystal, silver, and collectible patterns, plus estate jewelry, tableware accessories, home décor, and more.",
+    "url": "https://www.replacements.com/china-japan-barbara/c/44696",
+    "pass": 3
+   },
+   {
+    "quote": "Solved Case Study 1. Elektra products, Inc. Elektra | Chegg.com — Barbara loved her assignment as team leader of the manufacturing team working on ideas to improve how retail stores got the merchandise they needed when they needed it. The team thrived, and trust blossomed among the members. They even spent nights and weekends working to complete their report.",
+    "url": "https://www.chegg.com/homework-help/questions-and-answers/case-study-1-elektra-products-inc-elektra-products-inc-barbara-russell-manufacturing-vice--q84479737",
+    "pass": 3
+   },
+   {
+    "quote": "[Solved] If you were Barbara Russell, what would you do now ... — Barbara loved her assignment as team leader of the manufacturing team, working on ideas to improve how retail stores got the merchandise they needed when they needed it. The team thrived, and trust blossomed among the members. They even spent nights and weekends working to complete their report.",
+    "url": "https://www.coursehero.com/tutors-problems/Management/25450920-If-you-were-Barbara-Russell-what-would-you-do-now-Why-this-is-case/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Toledo Custom Manufacturing Quality Control.docx...Case Study: A Former Santa Barbara Manufacturing Facility ...Industrial Edge AI Case Studies — BarbaraUnlocking New Value of Manufacturing Machines Through ... — Apr 10, 2021 · Assignment- Case Study: Toledo Custom Manufacturing: Quality Control Please prepare an answer to the case study questions for \"Toledo Custom Manufacturing: Quali",
+    "url": "https://www.coursehero.com/file/87895323/Case-Study-Toledo-Custom-Manufacturing-Quality-Controldocx/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: A Former Santa Barbara Manufacturing Facility ... — This case study reviews a contaminated manufacturing site in Santa Barbara, California. A former manufacturing operation had left PCE and TCE contaminant levels above regulatory limits with previous remediation approaches attempted without complete success.",
+    "url": "https://www2.regenesis.com/haro",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara 2026 Company Profile: Valuation, Funding & Investors ...Barbara – Market Position & Workforce Comparison – 2026Barbara - Company Profile - TracxnBarbara - Products, Competitors, Financials, Employees ...Barbara IoT – Company Profile & Market Insights – 2026The Fund for Santa Barbara - Company Profile & Staff ...Barbara J Ernsberger 2026 Company Profile: Valuation, Funding ... — Information",
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara – Market Position & Workforce Comparison – 2026 — Nov 6, 2025 · Discover Barbara's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/barbara",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara - Company Profile - Tracxn — Feb 20, 2025 · Barbara - Edge platform for industrial applications. Raised a total funding of $3.25M over 5 rounds from 6 investors. Founded by David Puron, Marcos Eguillor and 2 others in the year 2016. Barbara has 100 competitors.",
+    "url": "https://tracxn.com/d/companies/barbara/__Nb5Sdj2DBpVs0a9H4qHR0pTy035oxeNsxf3i0yIA-kU",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara - Products, Competitors, Financials, Employees ... — Barbara serves sectors such as smart grids, smart water management, and smart manufacturing, offering solutions that support operational efficiency and real-time decision-making. It was founded in 2016 and is based in Bilbao, Spain.",
+    "url": "https://www.cbinsights.com/company/barbara-iot",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara IoT – Company Profile & Market Insights – 2026 — Discover Barbara IoT's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/barbara-iot",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Genshin Impact Character Ultimate Guide! Barbara's Best ... A complete guide on how to strengthen the popular Genshin Impact character, Barbara. We introduce recommended weapons, artifact sets, main stats, and the best party compositions.",
+    "url": "https://note.com/k098228446/n/n9396a3e345f3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Portfolio of Web Writer \"Barbara Yuki\"｜バーバラゆき Nice to meet you. My name is Barbara Yuki, and I am a web writer. Based in Aichi Prefecture, I leverage my 40 years of experience working in administrative roles and as a nutritionist to currently focus on writing about food, nutrition, medicinal cooking recipes, and dieting. Based on my experience ...",
+    "url": "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara Manning Is The Coolest Person Alive｜hamada tamon Mar 2, 2025 · 残念ながら日本という国に住んでいるとBarbara Manningというミュージシャンの名前はなんとなく知っていても実際どのような音楽をやっていてどのようなキャリアを歩んだのか知る機会は殆どないのが実情である。",
+    "url": "https://note.com/hmdyamaa/n/n3a4cf927ccdc",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara Sensei｜note Mar 25, 2025 · アメリカ合衆国カリフォルニア州出身の英語講師です。 ビジネス英語とIT英語に特化したオンラインスクールBizTech Englishを運営中🏫 Udemyとnoteを中心に教材提供📚 英国ケンブリッジ大学認定 CELTA資格👩🎓 プライム上場企業にて数多くのビジネス英語研修を実施🏢",
+    "url": "https://note.com/barbara_sensei",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Genshin Impact Character Ultimate Guide! Barbara's Best Weapons & Artifact Sets Revealed🥳｜shou",
+    "url": "https://note.com/k098228446/n/n9396a3e345f3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Genshin Impact Character Ultimate Guide! Barbara's Best Weapons & Artifact Sets Revealed🥳",
+    "url": "https://note.com/k098228446/n/n9396a3e345f3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A complete guide on how to strengthen the popular Genshin Impact character, Barbara. We introduce recommended weapons, artifact sets, main stats, and the best party compositions. This content is packed with actual usage impressions and explores Barbara's charm. A must-read for Barbara fans!🥹",
+    "url": "https://note.com/k098228446/n/n9396a3e345f3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara is a very excellent healer in Genshin Impact. To maximize her potential, the right weapon and artifact setup is crucial. In this blog, we will explain in detail Barbara's basic profile, performance, recommended weapons, and artifact sets. This information is packed with everything you need to make Barbara perform at her best, so please use it as a reference.🤩",
+    "url": "https://note.com/k098228446/n/n9396a3e345f3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Barbara's Basic Profile",
+    "url": "https://note.com/k098228446/n/n9396a3e345f3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "and a cute character belonging to the Favonius Church in Mondstadt. She is a dedicated healer and plays a very significant role in a player's adventure. Her \"Vision\" holds the power of water, which she uses to heal her allies' HP.😇",
+    "url": "https://note.com/k098228446/n/n9396a3e345f3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Spicy Stew (Cream Stew)",
+    "url": "https://note.com/k098228446/n/n9396a3e345f3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara can be described as a companion-like presence. For the people of Mondstadt, she is an idol-like figure,",
+    "url": "https://note.com/k098228446/n/n9396a3e345f3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Portfolio of Web Writer \"Barbara Yuki\"｜バーバラゆき",
+    "url": "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Portfolio of Web Writer \"Barbara Yuki\"",
+    "url": "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Nice to meet you. My name is Barbara Yuki, and I am a web writer.",
+    "url": "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Based in Aichi Prefecture,",
+    "url": "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I leverage my 40 years of experience working in administrative roles and as a nutritionist to currently focus on writing about food, nutrition, medicinal cooking recipes, and dieting.",
+    "url": "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Side Hustles and Remote Work",
+    "url": "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Beauty and Health for Women in Their 60s and Beyond",
+    "url": "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I specialize in writing articles that are easy to understand by incorporating my own real-life experiences.",
+    "url": "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara Manning Is The Coolest Person Alive｜hamada tamon",
+    "url": "https://note.com/hmdyamaa/n/n3a4cf927ccdc",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara Manning Is The Coolest Person Alive",
+    "url": "https://note.com/hmdyamaa/n/n3a4cf927ccdc",
+    "pass": 3
+   },
+   {
+    "quote": "残念ながら日本という国に住んでいるとBarbara Manningというミュージシャンの名前はなんとなく知っていても実際どのような音楽をやっていてどのようなキャリアを歩んだのか知る機会は殆どないのが実情である。恥ずかしながら自分も彼女が客演したThe 6thsのアルバムを所持しているだけの情弱だったのだが、昨年何となく購入したSF Seals名義のアルバムに感動して以来、関連音源を買い集めたりネットで情報を収集し続けたのでその成果をこの場で公表することにする。",
+    "url": "https://note.com/hmdyamaa/n/n3a4cf927ccdc",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara Manning Biography",
+    "url": "https://note.com/hmdyamaa/n/n3a4cf927ccdc",
+    "pass": 3
+   },
+   {
+    "quote": "1964年カリフォルニア生まれのBarbara Manning(以下BLM)はピートタウンゼントの夢を見たことを契機にギターを手に取り妹（Terri Maninng）とビージーズのコピーなどに没頭する少女時代を過ごしたという。",
+    "url": "https://note.com/hmdyamaa/n/n3a4cf927ccdc",
+    "pass": 3
+   },
+   {
+    "quote": "1983年チコ州立大学在学中にバンド28th Dayを結成。西海岸のペイズリーアンダーグラウンド周辺バンドと関わりつつ85年にはTrue WestのRuss Tolmanプロデュースによる7曲入りEPをENIGMAからリリースをするものの、バンド内恋愛の破局というありがちな理由で解散してしまいBLMは幼い頃から憧れていたというサンフランシスコへと移り住む。",
+    "url": "https://note.com/hmdyamaa/n/n3a4cf927ccdc",
+    "pass": 3
+   },
+   {
+    "quote": "サンフランシスコではWorld Of Poohというバンドに加入する一方でソロ名義でのアルバム録音なども並行して行い「Lately I Keep Scissors（1988）」「One Perfect Green Blanket（1991）」という2枚の良作ソロアルバムを発表している。同地の寛容で多様性のある音楽シーンの中でHector（Zeros)やChris Von Sneidernといったパンク/パワーポップ系人脈からThinking Fellers Union Local 282、Seymour Glass,Caroliner Rainbowなどオルタナティブ/ノイズ/アヴァンギャルド系人脈と分け隔てなく交流していく活動姿勢は後年も地域や国境を越えて続いていくこととなる。",
+    "url": "https://note.com/hmdyamaa/n/n3a4cf927ccdc",
+    "pass": 3
+   },
+   {
+    "quote": "どんなサウンドにも適合する甘すぎず過剰過ぎないBLMの声質に魅力を感じる人は多かったようでYoung Marble GiantsのStuart Moxhamプロデュースによるプロジェクト「Barbara Manning Sings With The Original Artists（1993）」やStephin Merritのユニットthe 6ths、Seymour GlassとのノイズユニットGlands Of External Secretionなど様々なコラボレーションを行い、徐々に音楽シーンで存在感を増していく。",
+    "url": "https://note.com/hmdyamaa/n/n3a4cf927ccdc",
+    "pass": 3
+   },
+   {
+    "quote": "自己紹介 | my first note | はじめてのnote",
+    "url": "https://note.com/barbara_sensei",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ人による映画紹介【Ex Machina】",
+    "url": "https://note.com/barbara_sensei",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカの家で日本人が「ギョッとする」5つのこと🇺🇸🏡",
+    "url": "https://note.com/barbara_sensei",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカ人による映画紹介【The Circle】",
+    "url": "https://note.com/barbara_sensei",
+    "pass": 3
+   },
+   {
+    "quote": "意外と奥が深い？助動詞\"must\"を使いこなすコツ👈",
+    "url": "https://note.com/barbara_sensei",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Barbara Kay (@BarbaraRKay) / X 2 13 787 Barbara Kay @BarbaraRKay Nov 9 Insightful, well-crafted op ed: Seems it takes a Chinese observer of leftie \"cultural Jews\" to illuminate the self-sabotaging characteristics they embody: Yang Meng: Some Toronto Jews seem more concerned with bike lanes than safety",
+    "url": "https://x.com/BarbaraRKay",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara Barker (@meanbarb) / X Moving on. Barbara Barker: Farewell, Newsday, it's been my honor covering the sports world for the last three...",
+    "url": "https://x.com/meanbarb",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara Rich (@BarbaraRich_law) / X Barbara Rich @BarbaraRich_law Oct 3 The Lost Explorer - Sir Ranulph Fiennes and the Mental Capacity Act 2005 I have written about the use and abuse of lasting powers of attorney, deprivation of liberty safeguards, and the powers of the Court of Protection - link in reply",
+    "url": "https://x.com/BarbaraRich_law",
+    "pass": 3
+   },
+   {
+    "quote": "#Barbara - Search / X See posts about #Barbara on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/Barbara",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara Martinez on X: \"素人投稿系の動画の良さは素の間 (ま)に尽き... Barbara Martinez on X: \"素人投稿系の動画の良さは素の間 (ま)に尽きる。 Barbara Martinez @BarbaraMar68656",
+    "url": "https://x.com/BarbaraMar68656/status/2093378450639958513",
+    "pass": 3
+   },
+   {
+    "quote": "BARBARA DARLINg on X: \"投稿では子どもを持たない女性を「子なし」と... 投稿では子どもを持たない女性を「子なし」と表現し、性交を生殖のためだけの交尾のように考えるている発言もあるが、そのように女性の価値を定義することとの合わせ技で、「息子」は出産しない女性や、生理のない女性を無価値なものと認識する可能 ...",
+    "url": "https://x.com/BARBARA_DARLINg/status/2114983686739489103",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Barbara Eden - FacebookBarbara - FacebookFacebook - log in or sign upLog Into FacebookMoses Lake Rants and Raves | FacebookButler PA Lost and Found Animals - FacebookBarbara Niven - Facebook Oct 31, 2026 · Scanned from the original negative, this late 1950's \"pre-fame\" photo of our darling Barbara hasn't seen the light of day in decades! Barbara graciously granted our request today to share it her",
+    "url": "https://www.facebook.com/OfficialBarbaraEden/",
+    "pass": 3
+   },
+   {
+    "quote": "Barbara - FacebookFacebook - log in or sign upLog Into FacebookMoses Lake Rants and Raves | FacebookButler PA Lost and Found Animals - FacebookBarbara Niven - Facebook We’ve always wanted Barbara to be a safe space for everyone, especially those who are neurodivergent. If our music helps even one person feel seen, accepted, and a little more confident in who they are, then we’re achieving what we’",
+    "url": "https://www.facebook.com/barbaratheband/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.barbara.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.barbara.tech/success-stories",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/631f0de1ad7a067018cc0b78/634970b75669484756cd225d_Group%202608616.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/632b4d961dfdad93e96ee50d/675826e1e1b4d7aabb1f25b1_PiSa%20Farmaceutica_Customer%20Story.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ke.linkedin.com/in/barbara-japan-6b7b0712b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.tiktok.com/@barbara_japan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chegg.com/homework-help/questions-and-answers/case-study-1-elektra-products-inc-elektra-products-inc-barbara-russell-manufacturing-vice--q84479737",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0166361599000111",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coursehero.com/tutors-problems/Management/25450920-If-you-were-Barbara-Russell-what-would-you-do-now-Why-this-is-case/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coursehero.com/file/87895323/Case-Study-Toledo-Custom-Manufacturing-Quality-Controldocx/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/433973-35",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/barbara",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/barbara/__Nb5Sdj2DBpVs0a9H4qHR0pTy035oxeNsxf3i0yIA-kU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cbinsights.com/company/barbara-iot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/k098228446/n/n9396a3e345f3?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hmdyamaa/n/n3a4cf927ccdc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/barbara_sensei",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/BarbaraRKay",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/meanbarb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BarbaraRich_law",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/Barbara",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OfficialBarbaraEden/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/barbaratheband/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BarbaraMar68656/status/2093378450639958513",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BARBARA_DARLINg/status/2114983686739489103",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Barbara 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Barbara 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Barbara Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Otherworld_Barbara",
+    "https://ke.linkedin.com/in/barbara-japan-6b7b0712b",
+    "https://www.tiktok.com/@barbara_japan",
+    "https://www.scu.edu/cas/history/faculty-and-staff/barbara-molony/",
+    "https://www.replacements.com/china-japan-barbara/c/44696",
+    "https://www.barbarapool.com/",
+    "https://yourkatakana.com/letter-b-names/barbara-baabara/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Barbara manufacturing customer case study",
+   "results": [
+    "https://www.chegg.com/homework-help/questions-and-answers/case-study-1-elektra-products-inc-elektra-products-inc-barbara-russell-manufacturing-vice--q84479737",
+    "https://www.sciencedirect.com/science/article/pii/S0166361599000111",
+    "https://www.coursehero.com/tutors-problems/Management/25450920-If-you-were-Barbara-Russell-what-would-you-do-now-Why-this-is-case/",
+    "https://www.coursehero.com/file/87895323/Case-Study-Toledo-Custom-Manufacturing-Quality-Controldocx/",
+    "https://www2.regenesis.com/haro",
+    "https://www.barbara.tech/success-stories",
+    "https://www.barbara.tech/success-stories/unlocking-new-value-of-manufacturing-machines-through-servitization"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Barbara white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://www.zebra.com/us/en/partners/partner-application-locator.html",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Barbara founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/433973-35",
+    "https://compworth.com/company/barbara",
+    "https://tracxn.com/d/companies/barbara/__Nb5Sdj2DBpVs0a9H4qHR0pTy035oxeNsxf3i0yIA-kU",
+    "https://www.cbinsights.com/company/barbara-iot",
+    "https://compworth.com/company/barbara-iot",
+    "https://contactout.com/company/The-Fund-for-Santa-Barbara-49132",
+    "https://pitchbook.com/profiles/company/355399-39"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Barbara",
+   "results": [
+    "https://note.com/k098228446/n/n9396a3e345f3?hl=en",
+    "https://note.com/alive_lupine9940/n/n4574f303e612?hl=en",
+    "https://note.com/hmdyamaa/n/n3a4cf927ccdc",
+    "https://note.com/barbara_sensei",
+    "https://note.com/seigo77",
+    "https://note.com/major_harte2239/n/n5c3ba3814d06?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Barbara",
+   "results": [
+    "https://x.com/BarbaraRKay",
+    "https://x.com/meanbarb",
+    "https://x.com/BarbaraRich_law",
+    "https://x.com/hashtag/Barbara",
+    "https://x.com/barbaracrampton",
+    "https://x.com/barbaramandrell",
+    "https://x.com/bcb567"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Barbara",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Barbara",
+   "results": [
+    "https://www.facebook.com/OfficialBarbaraEden/",
+    "https://www.facebook.com/barbaratheband/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://business.facebook.com/groups/1504254193231558/",
+    "https://business.facebook.com/groups/butlerpalostandfoundanimals/",
+    "https://www.facebook.com/BarbaraNiven/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Barbara note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Barbara X 投稿",
+   "results": [
+    "https://x.com/BarbaraMar68656/status/2093378450639958513",
+    "https://www.instagram.com/p/Dfa5KMXHbad/",
+    "https://x.com/BARBARA_DARLINg/status/2114983686739489103",
+    "https://acidrain002.fanbox.cc/posts/11787277",
+    "https://fantia.jp/posts/4191561",
+    "https://acidrain002.fanbox.cc/posts/11787269",
+    "https://twiranking.net/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部28頁・検索12回）"
+ }
+}

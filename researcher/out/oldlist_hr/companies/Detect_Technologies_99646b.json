@@ -1,0 +1,1186 @@
+{
+ "name": "Detect Technologies",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜返信あり",
+ "researched_at": "2026-11-11T03:34:38.790694+00:00",
+ "official_url": "https://detecttechnologies.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Chennai, Tamil Nadu, India",
+    "url": "https://startupintros.com/orgs/detect-technologies",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "One connected process, running on the cameras you already have. Nothing gets lost between what happens on the floor and what your team knows about it.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whoever gets the alert can act on it from the same screen. The loop ends with the problem actually fixed, logged, and off the list, not just seen and forgotten.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Forklift human proximity detected",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shell deployed Detect across onshore and offshore operations as part of its Goal Zero programme, creating a closed loop where AI observations move from camera to supervisor to closed action, automatically.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I can look at the intuitive T-Pulse portal every time I get an email and review observations within 10 minutes to communicate the same to area leads. I particularly like the observations at height that we can capture and act on promptly.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shell's zero-harm programme, powered by Detect",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Permits, leaks, and redzones watched with the same rigor a process safety incident deserves.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One platform. 300+ detection models. Proven across 340+ live sites, with faster deployment, broader coverage and custom use cases built for real industrial environments.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary hardware required",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Powered Enterprise Solutions",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most competitors force you to rip out your existing infrastructure and buy proprietary hardware. Detect works with any IP camera you already have, or ours if you want it.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Industrial Pipeline Networks against Corrosion Failures with GUMPS and T-Pulse Maintenance Assistant",
+    "url": "https://detecttechnologies.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Today Detect monitors over 340 industrial sites for Fortune 500 operators across North America, Europe and Asia-Pacific, backed by Prosus Ventures, Accel, Elevation Capital and Shell Ventures.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Watches entry, occupancy and duration in confined spaces to enforce safe-entry protocol.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Perimeter and access monitoring, weapons and intrusion detection, with a privacy layer built into every feed from day one.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive camera-based site security across the perimeter, with privacy built in.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Operations & Quality: Production Monitoring and Visual Inspection",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Turns the camera feed into a continuous quality and process audit, catching SOP deviations and congestion that a sampled walkthrough would miss.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Configurable visual checks that confirm a procedure is followed step by step on camera.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Turnaround & Capital Projects: Shutdown Planning & Execution Software",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scoping, planning, and live execution tracking for turnarounds and capital projects, so deviations surface the day they happen, not the day of the post-mortem.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Manages and tracks plant and project logistics movements across the site.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Tracks construction and capital-project milestones automatically from site imagery.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We close the gap between a risk being present and a risk being prevented.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Products built from field research, judged on outcomes.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Better arguments build better products.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable gains in safety and profitability, not one-off wins.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "AI Powered Enterprise Solutions",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Most competitors force you to rip out your existing infrastructure and buy proprietary hardware. Detect works with any IP camera you already have, or ours if you want it.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Join us in building safer, smarter and more productive industrial workplaces.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial environments are complex, unpredictable, and constantly changing. What we build has to work in real conditions, not controlled ones.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "From computer vision and AI to software, industrial operations and field engineering, our teams solve problems where technology meets the physical world. That takes experimentation, practical thinking and people willing to work across disciplines.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We hold our practices to standards of fairness, equality and honesty, and we are an equal opportunity employer.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible work schedules and industry leading employee benefit programmes.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "What is the interview process?",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Where are your offices, and do you hire remotely?",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "What kinds of roles do you hire for?",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "If making industrial workplaces safer, smarter and more productive is something you want to work on with other people, we would like to hear from you.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "I can look at the intuitive T-Pulse portal every time I get an email and review observations within 10 minutes to communicate the same to area leads.",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Productivity of project",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "AI Powered Enterprise Solutions",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "The COVID-19 pandemic has been instrumental in pushing enterprises towards adopting new safety standards and protocols. Owing to the persistent threat of outbreak among workers, executing turnarounds and projects within planned times became a huge challenge. Being able to run operations smoothly, while being compliant with COVID-19 safety guidelines was the need of the hour.",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "The project manager at a petrochemical site was facing similar troubles as the pandemic caught them in the middle of a major revamp. The project team was particularly concerned about a ‘vacuum column bed replacement project’ since it required specialist support and global collaboration.",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor activity progress remotely during a turnaround and enhance compliance to safety and COVID protocols.",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "A real-time overview into activity progress tracking",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Productivity improved by 8%",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "At Detect Technologies, we have spent countless hours understanding problems faced by the industries to build T-Pulse™ – an AI-powered, one-stop solution that enables a safe, compliant, and productive working environment.",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "T-Pulse’s comprehensive models have been trained with extensive datasets in real working environments to comprehensively manage day-to-day as well as special workplace operations like shutdowns and turnarounds. We worked with the petrochemical client to understand their problems and processes better to configure T-Pulse™ accordingly.",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Organizing experts and resources from different geographies efficiently to eliminate workforce shortage",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Streamlining the Project with T-Pulse™ Schedule Assistant",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "It became imperative to build a collaborative ecosystem where the client, contractor, and other stakeholders could easily exchange information, break down tasks, monitor progress, and track their respective obligations. A seamless flow of information enabled by the T-Pulse™ AI dashboard improved work efficiency inside the vacuum column.",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "With T-Pulse™ for Workplace Operations, this petrochemical enterprise could monitor activity progress effortlessly and enhance COVID compliance. Eventually, the enterprise was able to save more than 6 hours on the planned project timeline, despite the pandemic, thanks to enhanced decision-making.",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve Safety Compliance with AI Powered Enterprise Solutions",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "I can look at the intuitive T-Pulse portal every time I get an email and review observations within 10 minutes to communicate the same to area leads.",
+    "url": "https://detecttechnologies.com/case-study/oil-and-gas-unit-increases-their-pipeline-lifespan-with-t-pulse-for-workplace-inspections",
+    "pass": 1
+   },
+   {
+    "quote": "AI Powered Enterprise Solutions",
+    "url": "https://detecttechnologies.com/case-study/oil-and-gas-unit-increases-their-pipeline-lifespan-with-t-pulse-for-workplace-inspections",
+    "pass": 1
+   },
+   {
+    "quote": "Manual pipeline inspection and maintenance rounds are riddled with safety and cost bottlenecks owing to the sprawling nature of the network.",
+    "url": "https://detecttechnologies.com/case-study/oil-and-gas-unit-increases-their-pipeline-lifespan-with-t-pulse-for-workplace-inspections",
+    "pass": 1
+   },
+   {
+    "quote": "To optimize the pipeline reliability process with technological intervention and reduce downtime.",
+    "url": "https://detecttechnologies.com/case-study/oil-and-gas-unit-increases-their-pipeline-lifespan-with-t-pulse-for-workplace-inspections",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial Workplace Intelligence | Detect Technologies",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trained on industrial risk, not generic objects",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One Industrial Platform for Everything a Site Runs On",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Sites Monitored Across Diverse Sectors",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One platform. 300+ detection models. Proven across 340+ live sites, with faster deployment, broader coverage and custom use cases built for real industrial environments.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Largest industrial dataset in the category, drawn from 340+ live sites",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trained on real industrial footage",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Workplace Intelligence Case Studies | Detect",
+    "url": "https://detecttechnologies.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Workplace Intelligence in Action",
+    "url": "https://detecttechnologies.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "See how organizations are using AI to solve real-world industrial challenges and drive measurable outcomes",
+    "url": "https://detecttechnologies.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "View Industrial Case Studies",
+    "url": "https://detecttechnologies.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Logistics Giant Leverages T-Pulse to Overhaul Workplace Safety at Their Largest Warehouse",
+    "url": "https://detecttechnologies.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Industrial Pipeline Networks against Corrosion Failures with GUMPS and T-Pulse Maintenance Assistant",
+    "url": "https://detecttechnologies.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Detect Technologies turns the cameras and sensors an industrial site already has into continuous intelligence across safety, security, operations, asset reliability and turnarounds. No hardware overhaul required.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial work remains among the most dangerous work there is. The International Labour Organization estimates that 330,000 people die in work accidents every year and 395 million sustain non-fatal injuries.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Today Detect monitors over 340 industrial sites for Fortune 500 operators across North America, Europe and Asia-Pacific, backed by Prosus Ventures, Accel, Elevation Capital and Shell Ventures.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "To turn industrial data into reliable, actionable intelligence on a secure and scalable platform, so operational decisions are made faster and made better.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "An industrial world that runs safer, smarter and more efficiently, because AI watches what people cannot watch continuously.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Flags missing helmets, gloves, and harnesses the moment they're missing, across plant CCTV.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Workflow and intelligence layer for plant maintenance management.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Digitized inspection and integrity management for plant assets.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Asset-health monitoring across plant rotating and static equipment.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Manages and tracks plant and project logistics movements across the site.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial sites monitored across diverse sectors",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "What is industrial workplace intelligence?",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Build the Future of Industrial Workplace Intelligence",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Join us in building safer, smarter and more productive industrial workplaces.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial environments are complex, unpredictable, and constantly changing. What we build has to work in real conditions, not controlled ones.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "From computer vision and AI to software, industrial operations and field engineering, our teams solve problems where technology meets the physical world. That takes experimentation, practical thinking and people willing to work across disciplines.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You will work with colleagues and clients across nationalities, cultures and continents, together defining what industrial workplace intelligence looks like.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "If making industrial workplaces safer, smarter and more productive is something you want to work on with other people, we would like to hear from you.",
+    "url": "https://detecttechnologies.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: T-Pulse™ for Workplace Operations Facilitates 10X Reduction in Instances of Non-Compliance",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Oil and Gas Unit Increases their Pipeline Lifespan with T-Pulse for Workplace Inspections",
+    "url": "https://detecttechnologies.com/case-study/oil-and-gas-unit-increases-their-pipeline-lifespan-with-t-pulse-for-workplace-inspections",
+    "pass": 1
+   },
+   {
+    "quote": "Early detection of defects with Industrial AI",
+    "url": "https://detecttechnologies.com/case-study/oil-and-gas-unit-increases-their-pipeline-lifespan-with-t-pulse-for-workplace-inspections",
+    "pass": 1
+   },
+   {
+    "quote": "Having spent 8 years researching and developing smart industrial solutions, we at Detect leveraged our expertise in engineering and innovation to conceive a smart IoT sensor for industrial pipelines.",
+    "url": "https://detecttechnologies.com/case-study/oil-and-gas-unit-increases-their-pipeline-lifespan-with-t-pulse-for-workplace-inspections",
+    "pass": 1
+   },
+   {
+    "quote": "Detect Technologies is an AI-driven industrial technology company founded in 2016 and headquartered in Chennai, India, specializing in preventive maintenance, asset integrity, and real-time monitoring solutions for asset-intensive industries like oil and gas, petrochemicals, power, and manufacturing.[1][2][5] It builds a",
+    "url": "https://startupintros.com/orgs/detect-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Detect Technologies is an industry-leading deeptech enterprise founded in 2016. Headquartered in Chennai, Tamil Nadu, the company specializes in industrial ai safety & asset inspection with proprietary technology and rapid revenue growth.",
+    "url": "https://www.startupwire.in/company/detect-technologies-safety",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every case that gets resolved becomes part of what the system already knows. The same kind of risk gets flagged faster the next time it starts to happen, on this shift or the next one.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shell deployed Detect across onshore and offshore operations as part of its Goal Zero programme, creating a closed loop where AI observations move from camera to supervisor to closed action, automatically.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Narrower, single-purpose libraries",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The cost is not only human. Research shows that the world's 500 largest companies lose around 1.4 trillion dollars a year to unplanned downtime, equivalent to 11 percent of their revenues. In heavy industry, an idle hour can cost 59 million dollars.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Today Detect monitors over 340 industrial sites for Fortune 500 operators across North America, Europe and Asia-Pacific, backed by Prosus Ventures, Accel, Elevation Capital and Shell Ventures.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Detect Technologies is an industry-leading deeptech enterprise founded in 2016. Headquartered in Chennai, Tamil Nadu, the company specializes in industrial ai safety & asset inspection with proprietary technology and rapid revenue growth.",
+    "url": "https://www.startupwire.in/company/detect-technologies-safety",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "I can look at the intuitive T-Pulse portal every time I get an email and review observations within 10 minutes to communicate the same to area leads. I particularly like the observations at height that we can capture and act on promptly.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I can look at the intuitive T-Pulse portal every time I get an email and review observations within 10 minutes to communicate the same to area leads.",
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "I can look at the intuitive T-Pulse portal every time I get an email and review observations within 10 minutes to communicate the same to area leads.",
+    "url": "https://detecttechnologies.com/case-study/oil-and-gas-unit-increases-their-pipeline-lifespan-with-t-pulse-for-workplace-inspections",
+    "pass": 1
+   },
+   {
+    "quote": "Companies interested in technology development using this theme are welcome to contact us at office@porhy.com. We also accept inquiries regarding other image recognition and machine learning systems.",
+    "url": "https://note.com/polyrhythm/n/nc584f4778309?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Industrial Workplace Intelligence | Detect Technologies — Shell deployed Detect across onshore and offshore operations as part of its Goal Zero programme, creating a closed loop where AI observations move from camera to supervisor to closed action, automatically.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Detect Technologies - LinkedIn 日本 — Founded in 2016, Detect Technologies meets the highest industry standards of safety and compliance and builds solutions for various asset-intensive industries like oil and gas, petrochemicals,...",
+    "url": "https://jp.linkedin.com/company/detect-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "About Detect Technologies — Detect Technologies builds T-Pulse, the Industrial Workplace Intelligence Platform, founded at IIT Madras in 2016 and live at 340+ industrial sites worldwide.",
+    "url": "https://detecttechnologies.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "インダストリアル・ガーディアン:Detect TechnologiesがAI駆動の安全... — Nov 11, 2025 · 創業者への教訓:ディープテックの突破口は創造にあります ドメイン固有型AI. Detect Technologies のAIは長年の産業事故データに基づいて訓練されており、そのモデルは非常に専門的で、一般的なAIよりもはるかに優れた産業リスク軽減に用いられています。",
+    "url": "https://jp.linkedin.com/pulse/industrial-guardian-how-detect-technologies-mastered-ai-driven-3pzwc?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Workplace Intelligence | Detect Technologies — Detect turns CCTV already on your site into 24/7 monitoring for PPE, redzones, leaks and permits. Industrial workplace intelligence powered by AI.",
+    "url": "https://detecttechnologies.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Detect Technologies | LinkedIn — Founded in 2016, Detect Technologies meets the highest industry standards of safety and compliance and builds solutions for various asset-intensive industries like oil and gas, petrochemicals,...",
+    "url": "https://jp.linkedin.com/company/detect-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Detect Technologies on LinkedIn: #japan #industrialautomation ... — Detect was among the 2 companies chosen from India, and 16 companies from the world, to network and expand in Japan. Thanks to the Confederation of Indian Industry for the support in this.",
+    "url": "https://www.linkedin.com/posts/detect-technologies_kgap-day-batch5-unveiling-online-activity-6823890459090305024-J6sD",
+    "pass": 3
+   },
+   {
+    "quote": "Detect - 2026 Company Profile, Team, Funding, Competitors ...Detect Technologies: Funding, Team & Investors | Startup IntrosDetect Technologies — Valuation, Funding History, Founders ...Detect 2026 Company Profile: Valuation, Funding & Investors ...Detect Technologies — Company Profile | The Company CheckDetect Technologies 2026 Company Profile: Valuation, Funding ...Detect Technologies Revenue, F",
+    "url": "https://tracxn.com/d/companies/detect/__O_0r90AHYRDOfxw34SmavV--TMrJA6CKeiAh4DkhUGw",
+    "pass": 3
+   },
+   {
+    "quote": "Detect Technologies: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Detect Technologies was founded in 2016 by a team of visionaries from IIT Madras Research Park in Chennai, including CEO & Co-Founder (unnamed in sources) and Co-Founder & CTO, emerging from the need to automate complex industrial inspections and monitoring in hazardous environments.",
+    "url": "https://startupintros.com/orgs/detect-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Detect Technologies — Valuation, Funding History, Founders ... — Deep-dive profile of Detect Technologies: $160M valuation, $42M total raised, founding team, technology stack, and competitive benchmarks on StartupWire.",
+    "url": "https://www.startupwire.in/company/detect-technologies-safety",
+    "pass": 3
+   },
+   {
+    "quote": "Detect 2026 Company Profile: Valuation, Funding & Investors ...Detect Technologies — Company Profile | The Company CheckDetect Technologies 2026 Company Profile: Valuation, Funding ...Detect Technologies Revenue, Funding & Valuation — Information on valuation, funding, cap tables, investors, and executives for Detect. Use the PitchBook Platform to explore the full profile. Detect Technologies has ",
+    "url": "https://pitchbook.com/profiles/company/624907-81",
+    "pass": 3
+   },
+   {
+    "quote": "Detect Technologies — Company Profile | The Company Check — Detect Technologies has raised $45.68 million across 7 funding rounds from investors including Shell, Accel and Naspers. The company has 322 employees as of April 09, 2024.",
+    "url": "https://www.thecompanycheck.com/company/b/detect-technologies/9kogkzwnufx301l86",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Introduction to Proposable Technologies at Polyrhythm 2 - iOS ... This is N from the R&D department at Polyrhythm. For this second installment of our introducible technology series, I will introduce an application that applies AR and LiDAR to the YOLO object detection technology introduced in the first installment. Before we get into the application introduction ...",
+    "url": "https://note.com/polyrhythm/n/nc584f4778309?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have released an object detection system that runs entirely ... Technologies used TensorFlow.js: A JavaScript library that allows running machine learning models in the browser COCO-SSD: A pre-trained model capable of detecting common objects HTML5 Canvas: Used to display detection results MediaDevices API: Used to capture video from the camera",
+    "url": "https://note.com/miupa_/n/n5166edffe115?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Introduction to Proposable Technologies at Polyrhythm 2 - iOS Applications using CoreML+AR+LiDAR｜Polyrhythm Inc.",
+    "url": "https://note.com/polyrhythm/n/nc584f4778309?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction to Proposable Technologies at Polyrhythm 2 - iOS Applications using CoreML+AR+LiDAR",
+    "url": "https://note.com/polyrhythm/n/nc584f4778309?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is N from the R&D department at Polyrhythm. For this second installment of our introducible technology series, I will introduce an application that applies AR and LiDAR to the YOLO object detection technology introduced in the first installment. Before we get into the application introduction and demo, I would like to briefly introduce the basics of LiDAR. CoreML and YOLO were introduced in o",
+    "url": "https://note.com/polyrhythm/n/nc584f4778309?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "LiDAR is an acronym for \"Light Detection and Ranging\" and is pronounced \"lye-dar.\" It refers to an optical sensor technology that irradiates infrared rays several meters ahead and analyzes the distance and properties of objects based on the time it takes for the light to reflect and return. In recent years, it has attracted significant attention as a technology for realizing autonomous driving. (I",
+    "url": "https://note.com/polyrhythm/n/nc584f4778309?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". This has made it possible to (reasonably) detect the distance, position, and shape of objects, which was difficult with conventional ARKit.",
+    "url": "https://note.com/polyrhythm/n/nc584f4778309?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile applications using LiDAR",
+    "url": "https://note.com/polyrhythm/n/nc584f4778309?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you look at the App Store, you can find apps that use LiDAR, such as furniture placement apps, measurement apps, and spatial scanning apps. All of these use LiDAR to acquire the shape of objects in a space and to measure the distance to the target.",
+    "url": "https://note.com/polyrhythm/n/nc584f4778309?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deep Learning + LiDAR",
+    "url": "https://note.com/polyrhythm/n/nc584f4778309?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have released an object detection system that runs entirely in the browser.｜合理化ゴリラ｜AI×開発効率化",
+    "url": "https://note.com/miupa_/n/n5166edffe115?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have released an object detection system that runs entirely in the browser.",
+    "url": "https://note.com/miupa_/n/n5166edffe115?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I wanted to leave some proof that I lived during the three-day weekend, so I thought, 'Come to think of it, I've never touched an object detection system. Maybe I'll try making one,' and this project is the result of that.",
+    "url": "https://note.com/miupa_/n/n5166edffe115?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For those who just want to try it out",
+    "url": "https://note.com/miupa_/n/n5166edffe115?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Please access it via the link below.",
+    "url": "https://note.com/miupa_/n/n5166edffe115?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You will need to grant camera permission, but please rest assured that I am not recording or transferring anything anywhere.",
+    "url": "https://note.com/miupa_/n/n5166edffe115?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As I wrote at the beginning, this project started from the simple curiosity of 'It's a three-day weekend, so let's try making something.' I was particularly interested in the elements of:",
+    "url": "https://note.com/miupa_/n/n5166edffe115?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "running without server-side implementation",
+    "url": "https://note.com/miupa_/n/n5166edffe115?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Detect Technologies on X: \"Detect Technologies is humbled to ... Detect Technologies is humbled to be recognised as one of top startups in the country to watch out for in the deep technology space. #innovation #deeptech #startup #iot #dronetechnology #sensors #computervision #software inc42.com/features/start…",
+    "url": "https://x.com/DeTectTechIITM/status/1217681225776689152",
+    "pass": 3
+   },
+   {
+    "quote": "DroneWatcher (@detect_inc) / X DeTect has developed a unique small UAV finder and drone detection and defense system, DroneWatcher, consisting of technologies that can operate independently or together.",
+    "url": "https://x.com/detect_inc",
+    "pass": 3
+   },
+   {
+    "quote": "Detect Technologies (@DetectTechAI) / X Accelerate your digital transformation and maximize industrial performance worldwide with cutting-edge patented technology and AI solutions.",
+    "url": "https://x.com/DetectTechAI",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Detect Technologies (@DetectTechAI) / X Accelerate your digital transformation and maximize industrial performance worldwide with cutting-edge patented technology and AI solutions.",
+    "url": "https://x.com/DetectTechAI/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Detect Technologies | LinkedIn Founded in 2016, Detect Technologies meets the highest industry standards of safety and compliance and builds solutions for various asset-intensive industries like oil and gas, petrochemicals,...",
+    "url": "https://in.linkedin.com/company/detect-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Detect Technologies - LinkedIn Founded in 2016, Detect Technologies meets the highest industry standards of safety and compliance and builds solutions for various asset-intensive industries like oil and gas, petrochemicals,...",
+    "url": "https://sg.linkedin.com/company/detect-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Raj David - Detect Technologies | LinkedInDetect - 2026 Company Profile, Team, Funding, Competitors ...Daniel Raj David, CEO, Detect Technologies |Raised $45M ...Tarun Mishra - Founder and Chief Strategist at Detect ...Detect Technologies CEO, Founder, Key Executive Team, Board ...Daniel David - CEO and Co-Founder @ Detect Technologies ... · Experience: Detect Technologies · Education: Indi",
+    "url": "https://www.linkedin.com/in/daniel-raj-david-240b23106",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Detect Technologies - FacebookDetect Technologies at the forefront... - Detect Technologies ...𝐀𝐜𝐡𝐢𝐞𝐯𝐞 𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐞𝐱𝐜𝐞𝐥𝐥𝐞𝐧𝐜𝐞 𝐰𝐢𝐭...Detect technologies pvt ltd - FacebookDetection Technology - FacebookDetect Technologies has been... - Detect Technologies | FacebookWe signed a global agreement with... - Detect Technologies Sep 13, 2022 · Detect Technologies. 1,642 followers · 1 talking about this. ",
+    "url": "https://www.facebook.com/Detect.Technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Detect Technologies at the forefront... - Detect Technologies ... May 26, 2020 · In addition to the above Detect has also used intelligent drone based detection and communication to help enable districts like Nellore decrease the spread of the virus resulting in a large decrease in active cases.",
+    "url": "https://www.facebook.com/Detect.Technologies/posts/3871571566218311/",
+    "pass": 3
+   },
+   {
+    "quote": "Detect technologies pvt ltd - Facebook Detect technologies pvt ltd",
+    "url": "https://www.facebook.com/Detect-technologies-pvt-ltd-546158982980418/",
+    "pass": 3
+   },
+   {
+    "quote": "Detection Technology - FacebookDetect Technologies has been... - Detect Technologies | FacebookWe signed a global agreement with... - Detect Technologies Join Detection Technology as we unveil the latest breakthroughs in advanced X-ray detectors, including CT, line scan, and flat panel technologies. Our solutions are designed to tackle the toughest industrial challenges with precision, speed, and ",
+    "url": "https://www.facebook.com/detectiont/",
+    "pass": 3
+   },
+   {
+    "quote": "Detect Technologies - FacebookAI Workplace Safety Monitoring | Detect TechnologiesCareer at Detect Technologies - Apply Now Sep 13, 2022 · Ramachandran. We are honored to have him as a part of Detect Technologies. With over 39 years of experience, Ramamoorthy Ramachandran was previously the Director of India's 5th largest company and a Fortune 500 - Bharat Detect's flagship HSE suite, unifying PPE",
+    "url": "https://www.facebook.com/Detect.Technologies/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://detecttechnologies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://detecttechnologies.com/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://detecttechnologies.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://detecttechnologies.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://detecttechnologies.com/case-study/t-pulse-for-workplace-operations-facilitates-10x-reduction-in-instances-of-non-compliance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://detecttechnologies.com/case-study/oil-and-gas-unit-increases-their-pipeline-lifespan-with-t-pulse-for-workplace-inspections",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6a840e27fed3e0189dffab4a/6ab4e2fdc6489b488771a834_Client%20Logos%204.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a840e27fed3e0189dffab4a/6ab4e2fd598c9e2d96aa005a_Client%20Logos%2012.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a840e27fed3e0189dffab4a/6ab4e2fc07d856b9ecab7204_Client%20Logos%205.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a840e27fed3e0189dffab4a/6ab4e2fc07d856b9ecab71f2_Client%20Logos%202.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.linkedin.com/company/detect-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.deetee.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.n-denkei.co.jp/search/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/detect-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.deetee.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.superantispyware.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/detect/__O_0r90AHYRDOfxw34SmavV--TMrJA6CKeiAh4DkhUGw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/detect-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.startupwire.in/company/detect-technologies-safety",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/624907-81",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/polyrhythm/n/nc584f4778309?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/miupa_/n/n5166edffe115?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/DeTectTechIITM/status/1217681225776689152",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/detect_inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DetectTechAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DetectTechAI/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/detect-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/detect-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Detect.Technologies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Detect.Technologies/posts/3871571566218311/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Detect-technologies-pvt-ltd-546158982980418/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/detectiont/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/daniel-raj-david-240b23106",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Detect.Technologies/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Detect Technologies 日本 導入",
+   "results": [
+    "https://detecttechnologies.com/",
+    "https://jp.linkedin.com/company/detect-technologies",
+    "https://detecttechnologies.com/about-us",
+    "https://www.deetee.com/",
+    "https://jp.linkedin.com/pulse/industrial-guardian-how-detect-technologies-mastered-ai-driven-3pzwc?tl=ja",
+    "https://www.firstcvc.jp/global/detecttechnologies.com",
+    "https://labmemo.com/draft-ai-detection-universities/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Detect Technologies 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.n-denkei.co.jp/search/results/",
+    "http://www.designtech.co.jp/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Detect Technologies Japan",
+   "results": [
+    "https://detecttechnologies.com/",
+    "https://jp.linkedin.com/company/detect-technologies",
+    "https://www.deetee.com/",
+    "https://detecttechnologies.com/about-us",
+    "https://www.linkedin.com/posts/detect-technologies_kgap-day-batch5-unveiling-online-activity-6823890459090305024-J6sD",
+    "https://sg.linkedin.com/company/detect-technologies",
+    "https://www.kgap.jp/startup/detect-technologies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Detect Technologies manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Detect Technologies white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.superantispyware.com/reseller-program",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Detect Technologies founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/detect/__O_0r90AHYRDOfxw34SmavV--TMrJA6CKeiAh4DkhUGw",
+    "https://startupintros.com/orgs/detect-technologies",
+    "https://www.startupwire.in/company/detect-technologies-safety",
+    "https://pitchbook.com/profiles/company/624907-81",
+    "https://www.thecompanycheck.com/company/b/detect-technologies/9kogkzwnufx301l86",
+    "https://pitchbook.com/profiles/company/150158-80",
+    "https://prospeo.io/c/detect-technologies-revenue"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Detect Technologies",
+   "results": [
+    "https://note.com/polyrhythm/n/nc584f4778309?hl=en",
+    "https://note.com/miupa_/n/n5166edffe115?hl=en",
+    "https://note.com/sane_swift6437/n/n6876c8586652?hl=en",
+    "https://note.com/osugi3y_ekushoy/n/n3aa3fea1d2c0?hl=en",
+    "https://note.com/lazy_engineer/n/n06b95497f96f?hl=en",
+    "https://note.com/hoboteku/n/n4f5f99c5df3c?hl=en",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Detect Technologies",
+   "results": [
+    "https://x.com/DeTectTechIITM/status/1217681225776689152",
+    "https://x.com/detect_inc",
+    "https://x.com/DetectTechAI",
+    "https://x.com/DetectTechAI/with_replies",
+    "https://blog.x.com/en/engineering",
+    "https://x.com/YourStoryCo/status/1036497059212193793",
+    "https://help.x.com/en/rules-and-policies/x-cookies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Detect Technologies",
+   "results": [
+    "https://in.linkedin.com/company/detect-technologies",
+    "https://sg.linkedin.com/company/detect-technologies",
+    "https://www.linkedin.com/company/detecttest",
+    "https://www.linkedin.com/company/detect-os",
+    "https://in.linkedin.com/in/harikrishnanas",
+    "https://cn.linkedin.com/company/detection-technology",
+    "https://fi.linkedin.com/company/detection-technology"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Detect Technologies",
+   "results": [
+    "https://www.facebook.com/Detect.Technologies/",
+    "https://www.facebook.com/Detect.Technologies/posts/3871571566218311/",
+    "https://www.facebook.com/Detect-technologies-pvt-ltd-546158982980418/",
+    "https://www.facebook.com/detectiont/",
+    "https://www.facebook.com/Detect.Technologies/posts/detect-technologies-has-been-recognized-by-tracxn-as-one-of-the-topmost-companie/6058510087524437/",
+    "https://www.facebook.com/Detect.Technologies/posts/we-signed-a-global-agreement-with-shell-to-deploy-t-pulse-to-maximize-safety-com/7216651001710334/",
+    "https://www.facebook.com/Detect.Technologies/posts/𝐀𝐜𝐡𝐢𝐞𝐯𝐞-𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐚𝐥-𝐞𝐱𝐜𝐞𝐥𝐥𝐞𝐧𝐜𝐞-𝐰𝐢𝐭𝐡-𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐝-𝐡𝐞𝐚𝐥𝐭𝐡-𝐬𝐚𝐟𝐞𝐭𝐲-𝐚𝐧𝐝-𝐞𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐚𝐥-𝐩𝐞𝐫/6046818648693581/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Detect Technologies note 社長",
+   "results": [
+    "https://detecttechnologies.com/",
+    "https://www.linkedin.com/in/daniel-raj-david-240b23106",
+    "https://tracxn.com/d/companies/detect/__O_0r90AHYRDOfxw34SmavV--TMrJA6CKeiAh4DkhUGw",
+    "https://www.bestplacetobuild.com/podcasts/daniel-raj-david-ceo-detect-technologies-raised-45m-building-industrial-ai-across-20-countries/",
+    "https://www.linkedin.com/in/tarun-mishra-b7110314b",
+    "https://www.crunchbase.com/person/daniel-raj-david",
+    "https://www.cbinsights.com/company/detect-technologies/people"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Detect Technologies X 投稿",
+   "results": [
+    "https://detecttechnologies.com/",
+    "https://www.instagram.com/detecttechnologies/",
+    "https://www.deetee.com/",
+    "https://www.facebook.com/Detect.Technologies/",
+    "https://detecttechnologies.com/workplace-safety",
+    "https://detecttechnologies.com/careers",
+    "https://x.com/DetectTechAI"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

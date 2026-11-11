@@ -1,0 +1,1714 @@
+{
+ "name": "Formic",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T03:09:59.455140+00:00",
+ "official_url": "https://formic.co/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "・所在地",
+    "value": "10210 Werch Dr Ste 205,Woodridge,IL 60517,United States",
+    "url": "https://www.nikkei.com/article/DGXZRSP680554_S4A021C2000000/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "10210 Werch Dr Ste 205, Woodridge, IL 60517, United States",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都千代田区丸の内2-7-3\n東京ビル",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "・設立",
+    "value": "・設立：2020年9月",
+    "url": "https://www.nikkei.com/article/DGXZRSP680554_S4A021C2000000/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2020年9月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：1921年01月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "E-mail",
+    "value": "big.contact@pz.MitsubishiElectric.co.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Items produced this week",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Hours of training data",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Worker injuries prevented · this year",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Any-Product Palletizing",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Vision-guided palletizing that adapts to product, pattern, and pallet on the fly. Varying SKUs, fast changeovers, AI that keeps getting sharper with every cycle.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated stretch wrapping integrated with your palletizer and AMR flow. Consistent wrap tension, no operator walks, no damaged loads on the dock.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "On-demand intelligent problem solver",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Frontier general-purpose robots deployed under the same Full Service model: fixed monthly price, no integration risk, continuous capability upgrades as the platforms mature. Early access program open now.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI built for shop-floor reality. Vision systems, learned policies, and continuous improvement, running safely on every Formic line, getting smarter with every cycle.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Cortex runs perception, decision-making, and continuous learning across every cell. Fleet-wide vision models, anomaly detection, and policy improvements roll out as OTA updates. Your systems get smarter every week.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Closed-loop learning: every cycle improves the model",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Core is the execution layer that runs Cortex's decisions in deterministic, safety-rated motion, the layer that keeps AI honest on the floor. Hard-real-time control, certified safety paths, no surprises on the line.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Real outcomes from real production floors. The numbers Formic customers see, again and again.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Mid-market CPG operators are losing 25–40% of their workforce annually on the worst-positioned tasks. Formic automates exactly those roles, without adding headcount risk.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Cut injury rates. Improve retention.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "03 / Productivity Gains",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "One fixed monthly price. Zero capital risk.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "An OpEx model that scales with growth, and with usage. No depreciation surprises, no obsolete equipment, no integrator hand-offs.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The food & beverage + CPG operators who run Formic systems every day, and the community we share around continuous improvement.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Product launches, customer wins, fundraising milestones, industry coverage.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The resources your team needs to scope a project, build a business case, or share Formic internally.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring across engineering, field service, customer success, and operations. Chicago + remote U.S.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to a Formic engineer about your production line. We'll scope the right system, no internal resources needed.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer stories from CPG and manufacturing operators across the U.S. Robotic palletizing, case packing, and end-of-line automation in production today.",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Sunrise Family Farms Is Using Automation to Preserve Tradition and Scale Smarter",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "90 Years of Snacks, Now Built for Agility: Wyandot Snacks Automates to Scale Production",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 14, 2025",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Land O’Frost Enhances Production with 5 Robotic Gantry Palletizers",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Mi Rancho Makes Production Leap with Automated Stacking of Millions of Tortillas per Year",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical Manufacturing Leader Polysciences Partners With Formic to Introduce Automation To Their Production Process",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "ICON Injection Molding Deploys Formic Tend to Boost Production by 20% with Automation Partnership that is “Too Good to be True”",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Compact Industries Partners with Formic to Combat Labor Shortages and Accelerate Factory Productivity",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Polar Manufacturing and Formic Partner to Overcome Legacy Equipment Challenges and Boost Productivity",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Six categories cover the bulk of what mid-market manufacturers actually need automated. Every category runs under the same Full Service model: fixed monthly price, integration risk on us.",
+    "url": "https://formic.co/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Access / Q4 2026",
+    "url": "https://formic.co/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Only a few 2026 palletizer slots remain. Qualifying manufacturers can have robotic palletizing running at end of line before the year is up, with exclusive year-end pricing on one flat monthly rate.",
+    "url": "https://formic.co/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Your crew has hand-stacked enough pallets for one year. We’re opening a few final 2026 palletizer slots, live in weeks, at year-end pricing you won’t see in January.",
+    "url": "https://formic.co/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Automate NOW Palletizers · production cycle",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Cobot palletizer · small footprint",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Small footprint, fits where floor space is tight",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "For multi-shift, high-volume production. Our engineering team scopes the cell to your line: heavier cases, faster rates, taller stacks, built to run nonstop.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "No CapEx. No New Hires.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Three reasons mid-market manufacturers choose Automate NOW Palletizers to beat labor, ergonomic, and productivity challenges.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Get more projects done and grow your business faster",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Every Formic palletizer runs under Full Service Automation: hardware, a dedicated engineering and maintenance team, and Formic Production Intelligence analytics built in.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Formic Production Intelligence, real-time line data",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Proven on real floors",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Most lines run more than one SKU, and cases aren't always consistent. Formic palletizers handle mixed-SKU runs, irregular case dimensions, and varying weights in a single cell. Vision-guided pick manages orientation, and patterns are programmed per SKU so the robot switches automatically as the line changes.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Every system runs under the Full Service Automation model with 24/7 monitoring, support, and contracted performance and uptime guarantees. Maintenance and parts are included, so if something goes wrong, it's Formic's problem to fix, not your maintenance team's.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Cobot units are built for tight, single-shift footprints, and industrial cells are engineered to your line for heavier cases, faster rates, and taller stacks. You drop air and power; Formic handles the design, layout, and installation.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Access / Q4 2026",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Only a few 2026 palletizer slots remain. Qualifying manufacturers can have robotic palletizing running at end of line before the year is up, with exclusive year-end pricing on one flat monthly rate.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Your crew has hand-stacked enough pallets for one year. We’re opening a few final 2026 palletizer slots, live in weeks, at year-end pricing you won’t see in January.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "In precision manufacturing, a stopped spindle is lost margin. Most shops lose 20–40% of available spindle time to operator-bound load/unload cycles, breaks, and shift changes. Robotic machine tending recovers that time: no additional headcount, no shift coverage required.",
+    "url": "https://formic.co/solutions/machine-tending",
+    "pass": 1
+   },
+   {
+    "quote": "Bin or fixture-based part presentation. Vision-guided pick handles orientation. Robot loads, machine cycles, robot unloads. Out-of-spec parts are diverted at the gauge before they leave the cell.",
+    "url": "https://formic.co/solutions/machine-tending",
+    "pass": 1
+   },
+   {
+    "quote": "Payloads: 5 – 150 kg, EOAT-dependent",
+    "url": "https://formic.co/solutions/machine-tending",
+    "pass": 1
+   },
+   {
+    "quote": "Software, programming, and controls",
+    "url": "https://formic.co/solutions/machine-tending",
+    "pass": 1
+   },
+   {
+    "quote": "Changeovers are handled through the cell's program library. Your team selects the new job profile, and the robot loads the corresponding parameters (grip, orientation, gauging spec) without reprogramming from scratch. For new parts, Formic engineers add the profile remotely or on-site, depending on complexity.",
+    "url": "https://formic.co/solutions/machine-tending",
+    "pass": 1
+   },
+   {
+    "quote": "Consistent film tension and a programmable wrap profile by SKU",
+    "url": "https://formic.co/solutions/pallet-wrapping",
+    "pass": 1
+   },
+   {
+    "quote": "The wrap cell sits directly downstream of the palletizer on a powered conveyor. Wrap profile auto-selects based on pallet ID; a label printer applies the bill of lading (BOL). The pallet shows up at the dock door already shipping-ready.",
+    "url": "https://formic.co/solutions/pallet-wrapping",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Formic | Full Service Automation for Manufacturers",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "manufacturing for the",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Formic exists so every U.S. manufacturer has access to robotic automation. CPG and metal fab today. Humanoids tomorrow.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "From end-of-line packing to humanoids, the automation American manufacturing actually needs, deployed for zero dollars in capital investment.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotic part loading and unloading for CNC mills, lathes, and injection molders. Pushes spindle utilization past 80%, runs lights-out shifts, and frees skilled operators for setup and QC.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI built for shop-floor reality. Vision systems, learned policies, and continuous improvement, running safely on every Formic line, getting smarter with every cycle.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Safe execution. At industrial speed.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Mid-market CPG operators are losing 25–40% of their workforce annually on the worst-positioned tasks. Formic automates exactly those roles, without adding headcount risk.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Removing workers from high-repetition, high-strain tasks reduces injury frequency, keeps experienced operators on the line longer, and lowers your insurance exposure.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The food & beverage + CPG operators who run Formic systems every day, and the community we share around continuous improvement.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Every mid-market manufacturer deserves access to the same robotic automation Fortune 500s take for granted.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "American manufacturing",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to a Formic engineer about your production line. We'll scope the right system, no internal resources needed.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer stories from CPG and manufacturing operators across the U.S. Robotic palletizing, case packing, and end-of-line automation in production today.",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Every dot is a Formic system on the floor today, powering American manufacturing in plants across the country.",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Venus Wafers Cracks the Smart Manufacturing Code with Automated Palletizing",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical Manufacturing Leader Polysciences Partners With Formic to Introduce Automation To Their Production Process",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Compact Industries Partners with Formic to Combat Labor Shortages and Accelerate Factory Productivity",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Polar Manufacturing and Formic Partner to Overcome Legacy Equipment Challenges and Boost Productivity",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "The automation American manufacturing actually needs, from end-of-line packing to humanoids, deployed for zero dollars in capital investment.",
+    "url": "https://formic.co/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Six categories cover the bulk of what mid-market manufacturers actually need automated. Every category runs under the same Full Service model: fixed monthly price, integration risk on us.",
+    "url": "https://formic.co/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Only a few 2026 palletizer slots remain. Qualifying manufacturers can have robotic palletizing running at end of line before the year is up, with exclusive year-end pricing on one flat monthly rate.",
+    "url": "https://formic.co/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Fully supported robotic palletizers for food, beverage, and CPG manufacturers: handling end-of-line case stacking and palletizing by the month or year, one flat rate, 24/7 maintenance included.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Compact cobot palletizers for food, beverage, and CPG plants. Ideal for single-shift lines with lighter cases; solves labor strain without a major retrofit.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "03 / Industrial Palletizers",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Palletizers,",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Engineered to your line, with four industrial unit options",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial palletizer data sheet",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial palletizer · multi-shift",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Three reasons mid-market manufacturers choose Automate NOW Palletizers to beat labor, ergonomic, and productivity challenges.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Cobot or industrial palletizer: which one do we need?",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Cobot palletizers suit single-shift lines with lighter cases and tight floor space. Industrial palletizers are engineered for multi-shift, high-volume runs with heavier cases and taller stacks. We scope the right one to your line, and you can swap equipment mid-contract at the same flat rate if needs change.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Cobot units are built for tight, single-shift footprints, and industrial cells are engineered to your line for heavier cases, faster rates, and taller stacks. You drop air and power; Formic handles the design, layout, and installation.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Only a few 2026 palletizer slots remain. Qualifying manufacturers can have robotic palletizing running at end of line before the year is up, with exclusive year-end pricing on one flat monthly rate.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "In precision manufacturing, a stopped spindle is lost margin. Most shops lose 20–40% of available spindle time to operator-bound load/unload cycles, breaks, and shift changes. Robotic machine tending recovers that time: no additional headcount, no shift coverage required.",
+    "url": "https://formic.co/solutions/machine-tending",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Formic cells are designed for shared-space operation. Collaborative configurations include area scanners and safety-rated speed and force limits so operators can access the machine area without a full cell shutdown.",
+    "url": "https://formic.co/solutions/machine-tending",
+    "pass": 1
+   },
+   {
+    "quote": "Most pallet damage in transit traces back to inconsistent wrap. Manual wrapping is one of the most variable steps on the floor: film tension, layer count, and corner coverage shift between operators and shifts. Automated pallet wrapping locks all three in, reducing transit damage and film waste across every shift.",
+    "url": "https://formic.co/solutions/pallet-wrapping",
+    "pass": 1
+   },
+   {
+    "quote": "Most pallet damage traces back to inconsistent wrap: film tension, layer count, and corner coverage that drift between operators and shifts. The cell locks all three into a programmable profile per SKU, so every pallet leaves wrapped the same way. The result is fewer transit-damage chargebacks and lower film cost per pallet.",
+    "url": "https://formic.co/solutions/pallet-wrapping",
+    "pass": 1
+   },
+   {
+    "quote": "Humanoid and bimanual mobile platforms for manufacturers: deployed, supported, and continuously upgraded under Formic Full Service. Fixed monthly price, no CapEx, and no need to become a robotics R&D shop.",
+    "url": "https://formic.co/solutions/humanoids",
+    "pass": 1
+   },
+   {
+    "quote": "For decades, general-task automation was the perpetual \"five years away\" of manufacturing. That changed. Bimanual mobile robots are running production cycles in pilot programs at real manufacturing facilities today. Humanoid platforms are close behind — moving out of the lab and into narrowly-scoped customer pilots.",
+    "url": "https://formic.co/solutions/humanoids",
+    "pass": 1
+   },
+   {
+    "quote": "Formic is the deployment partner for mid-market manufacturers who want frontier capability without building a robotics team themselves.",
+    "url": "https://formic.co/solutions/humanoids",
+    "pass": 1
+   },
+   {
+    "quote": "Operators show the robot,",
+    "url": "https://formic.co/solutions/humanoids",
+    "pass": 1
+   },
+   {
+    "quote": "How do operators tell the robot what to do?",
+    "url": "https://formic.co/solutions/humanoids",
+    "pass": 1
+   },
+   {
+    "quote": "Forklifts are the highest single-source injury risk on most CPG and warehousing floors, and they damage pallets, racking, and product on routine moves that don't require a human driver at all. Autonomous mobile robots replace those repeating routes, freeing forklift operators for inbound, staging exceptions, and the work that actually requires judgment.",
+    "url": "https://formic.co/solutions/amrs",
+    "pass": 1
+   },
+   {
+    "quote": "Build boxes in real time to feed your production line.",
+    "url": "https://formic.co/solutions/fast-track",
+    "pass": 1
+   },
+   {
+    "quote": "Driving U.S. manufacturing",
+    "url": "https://formic.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Formic was founded to deliver more capacity, consistency, and reliability to every factory while reducing cost, downtime, and worker safety issues. Every manufacturer deserves access to state-of-the-art automation and a robot workforce without 18-month deployment timelines or capital risk.",
+    "url": "https://formic.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Scope a project, build the business case, or get your team aligned: the resources manufacturers use most before and during an automation evaluation.",
+    "url": "https://formic.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trade shows, plant tours, and Formic Automation Community events across the country. Come see a running line, meet our engineers, and ask the hard questions.",
+    "url": "https://formic.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trade shows · Plant tours · Community events",
+    "url": "https://formic.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "American manufacturing",
+    "url": "https://formic.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Press coverage and company announcements: the funding milestones, the awards, and the national outlets covering Full Service Automation for American manufacturers.",
+    "url": "https://formic.co/resources/press",
+    "pass": 1
+   },
+   {
+    "quote": "Formic Raises $50 Million to Scale Physical AI Across American Manufacturing",
+    "url": "https://formic.co/resources/press",
+    "pass": 1
+   },
+   {
+    "quote": "Rented robots get the worst jobs, and help factories keep the humans",
+    "url": "https://formic.co/resources/press",
+    "pass": 1
+   },
+   {
+    "quote": "Formic joins new American industrial alliance alongside Palantir and Dirac",
+    "url": "https://formic.co/resources/press",
+    "pass": 1
+   },
+   {
+    "quote": "Formic raises $27.4 million to bring automation to more manufacturers",
+    "url": "https://formic.co/resources/press",
+    "pass": 1
+   },
+   {
+    "quote": "Robotics as a service could be key to rebuilding US manufacturing",
+    "url": "https://formic.co/resources/press",
+    "pass": 1
+   },
+   {
+    "quote": "Formic leases automation equipment to make it affordable for factories",
+    "url": "https://formic.co/resources/press",
+    "pass": 1
+   },
+   {
+    "quote": "Automation comes to more factories with robot leasing",
+    "url": "https://formic.co/resources/press",
+    "pass": 1
+   },
+   {
+    "quote": "The potential of automation as a service in metal manufacturing",
+    "url": "https://formic.co/resources/press",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every mid-market manufacturer deserves access to the same robotic automation Fortune 500s take for granted.",
+    "url": "https://formic.co/",
+    "pass": 1
+   },
+   {
+    "quote": "When Leadership and Employees Align: Masters Gallery Automates Palletizing to Make Work Better for Everyone",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Faster changeovers, upskilled employees, and 20% OpEx savings every day with Automate NOW Palletizers.",
+    "url": "https://formic.co/solutions/palletizing",
+    "pass": 1
+   },
+   {
+    "quote": "For decades, general-task automation was the perpetual \"five years away\" of manufacturing. That changed. Bimanual mobile robots are running production cycles in pilot programs at real manufacturing facilities today. Humanoid platforms are close behind — moving out of the lab and into narrowly-scoped customer pilots.",
+    "url": "https://formic.co/solutions/humanoids",
+    "pass": 1
+   },
+   {
+    "quote": "We're running humanoid pilots with select customers across 2026–2027. Pilots are scoped narrowly (one task, one cell, one shift) and expanded only when the platform proves out economics.",
+    "url": "https://formic.co/solutions/humanoids",
+    "pass": 1
+   },
+   {
+    "quote": "Bimanual mobile robots are already running production cycles in pilot programs at real facilities today. Humanoid platforms are close behind, moving out of the lab into narrowly scoped customer pilots. Formic deploys both, so you get frontier capability without building a robotics team yourself.",
+    "url": "https://formic.co/solutions/humanoids",
+    "pass": 1
+   },
+   {
+    "quote": "Pilots are scoped narrowly (one task, one cell, one shift), and they're designed and run by Formic engineers. They're priced under the same Full Service Automation monthly model, so there's no capital at risk if the platform doesn't prove out. We expand only once it proves the economics.",
+    "url": "https://formic.co/solutions/humanoids",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate the neverending process of hiring, onboarding, and losing employees when they quit your most difficult and physically demanding jobs. Formic Fast Track",
+    "url": "https://formic.co/solutions/fast-track",
+    "pass": 1
+   },
+   {
+    "quote": "Employees Making Boxes",
+    "url": "https://formic.co/solutions/fast-track",
+    "pass": 1
+   },
+   {
+    "quote": "Employees Packing Products Into Cases",
+    "url": "https://formic.co/solutions/fast-track",
+    "pass": 1
+   },
+   {
+    "quote": "Employees Taping and Palletizing Cases",
+    "url": "https://formic.co/solutions/fast-track",
+    "pass": 1
+   },
+   {
+    "quote": "Shift your valuable employees into less physically demanding jobs, bank the labor savings, and retain talent to drive your business.",
+    "url": "https://formic.co/solutions/fast-track",
+    "pass": 1
+   },
+   {
+    "quote": "Palletizing was step one. Most lines still have manual erecting, packing, or sealing feeding into that palletizer, and those stations carry the same labor and consistency problems palletizing solved. Fast Track connects the rest of the line so the gains you already saw don't stop at one station.",
+    "url": "https://formic.co/solutions/fast-track",
+    "pass": 1
+   },
+   {
+    "quote": "“Bringing automation to life on the factory floor is the best part of my job. I love training teams and seeing their excitement when the robots start running.”",
+    "url": "https://formic.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Formic is a distributed company with employees working in-office, hybrid, remotely, and in the field. We invest in the tools, technology, and support our people need to do their best work and stay connected as One Formic.",
+    "url": "https://formic.co/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Increased operational efficiency by eliminating a labor-dependent task that had become a production bottleneck, reassigning those employees to more valuable tasks",
+    "url": "https://formic.co/resources/customer-stories/chemical-manufacturing-leader-polysciences-partners-with-formic-to-introduce-auto",
+    "pass": 1
+   },
+   {
+    "quote": "Polysciences’ situation was an ideal match for Formic’s mission and Pay-for-Productivity(™) model. Formic breaks down the barriers of automation’s prerequisite expertise, high capital cost, long-term rigidity, and ongoing performance and maintenance risks that manufacturers must absorb in the traditional automation adoption process.",
+    "url": "https://formic.co/resources/customer-stories/chemical-manufacturing-leader-polysciences-partners-with-formic-to-introduce-auto",
+    "pass": 1
+   },
+   {
+    "quote": "“When Formic proposed a robotic palletizer”, said Farrall, “I was a little concerned about it fitting in our facility. When it arrived we were surprised to see how compact it was and how safe it is without any fencing.” Now after several months of production usage, Farrall is pleased to add that “It works great. We haven’t had any issues at all.”",
+    "url": "https://formic.co/resources/customer-stories/chemical-manufacturing-leader-polysciences-partners-with-formic-to-introduce-auto",
+    "pass": 1
+   },
+   {
+    "quote": "When asked about working with Formic in the future, both Farrall and Moore shared the same answer - “Absolutely”. It is truly a mutually rewarding partnership. Polysciences and Formic continue to do what they each do best, innovative chemistry and productive, risk-free automation.",
+    "url": "https://formic.co/resources/customer-stories/chemical-manufacturing-leader-polysciences-partners-with-formic-to-introduce-auto",
+    "pass": 1
+   },
+   {
+    "quote": "Like many U.S. packaging companies today, Chicago-based Compact Industries has been growing quickly but amid the challenges of a shrinking labor pool, high worker turnover, and supply and wage inflation, this family-owned business was struggling to meet the increasing demands of the Fortune 500 companies it serves.",
+    "url": "https://formic.co/resources/customer-stories/compact-industries-partners-with-formic-to-combat-labor-shortages-and-accelerate-factory-productivity",
+    "pass": 1
+   },
+   {
+    "quote": "Moldovan continued, “We have some associates placing boxes on pallets for an entire 10-hour shift and we don’t want them straining or getting injured. Our employees are a key part of our success. And what’s great about robots is they don’t quit or get injured.”",
+    "url": "https://formic.co/resources/customer-stories/compact-industries-partners-with-formic-to-combat-labor-shortages-and-accelerate-factory-productivity",
+    "pass": 1
+   },
+   {
+    "quote": ". Founded in 2001 by three brothers with a wealth of industry experience, ICON has grown organically to become a go-to provider of custom plastic injection molding solutions. From medical devices to defense equipment for clients like Axon, they make plastic parts that proudly carry the ICON quality stamp and \"Made in the USA\" label for their customers.",
+    "url": "https://formic.co/resources/customer-stories/icon-injection-molding-deploys-formic-tend-to-boost-production-by-20-with-automation-partnership-that-is-too-good-to-be-true",
+    "pass": 1
+   },
+   {
+    "quote": "Most small-to-medium manufacturers across America struggle with this exact problem, but they have not yet automated. Typical barriers include the lack of capital budget, high maintenance costs, the inability to use automation in dynamic and lower-volume processes, and the stigma of replacing manual workers with robots.",
+    "url": "https://formic.co/resources/customer-stories/icon-injection-molding-deploys-formic-tend-to-boost-production-by-20-with-automation-partnership-that-is-too-good-to-be-true",
+    "pass": 1
+   },
+   {
+    "quote": "Nicole Kleitsch-Killam, ICON’s Chief Administrative Officer, sits in the middle of everything at ICON, helping their people, their growth strategy, and their day-to-day operations. She has been with ICON for a majority of the company’s history and knows the barriers to automating.",
+    "url": "https://formic.co/resources/customer-stories/icon-injection-molding-deploys-formic-tend-to-boost-production-by-20-with-automation-partnership-that-is-too-good-to-be-true",
+    "pass": 1
+   },
+   {
+    "quote": "Helping overcome these barriers and growing ICON’s business with technology is the main mission of Jeff Galindo, their Executive Operations Specialist. For the past few years, Jeff and the Operations team knew automation could help their business, but they didn’t have the technical resources to confidently implement it.",
+    "url": "https://formic.co/resources/customer-stories/icon-injection-molding-deploys-formic-tend-to-boost-production-by-20-with-automation-partnership-that-is-too-good-to-be-true",
+    "pass": 1
+   },
+   {
+    "quote": "In fact, overall, labor productivity of the largest manufacturers is 58 percent higher than their middle-sized counterparts; a significant part of this gap is explained by the lack of technology adoption among smaller firms.",
+    "url": "https://formic.co/resources/customer-stories/polar-manufacturing-and-formic-partner-to-overcome-legacy-equipment-challenges-and-boost-productivity",
+    "pass": 1
+   },
+   {
+    "quote": "As Frank Mejia, head of continuous improvement puts it: “Automation means helping our employees have a better work life.”",
+    "url": "https://formic.co/resources/customer-stories/land-o-frost-enhances-its-production-with-automation",
+    "pass": 1
+   },
+   {
+    "quote": "“People aren’t calling out. We know what our costs are with Formic. We know the outcome we’re getting,” he said. “We’re better served using our employees to develop internal processes and product innovation.”",
+    "url": "https://formic.co/resources/customer-stories/how-kari-out-automated-palletizing-without-capex",
+    "pass": 1
+   },
+   {
+    "quote": "Tap the share button on the screen (the icon with an arrow coming out of a square)",
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "三菱電機株式会社は、グローバル・ブレイン株式会社と共同で運営するコーポレートベンチャーキャピタル（CVC）ファンド「MEイノベーションファンド",
+    "url": "https://www.mitsubishielectric.co.jp/ja/pr/2024/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機株式会社 ビジネスイノベーション本部",
+    "url": "https://www.mitsubishielectric.co.jp/ja/pr/2024/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機、米発のスタートアップ企業Formic Technologiesへ出資 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZRSP680554_S4A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社は、グローバル・ブレイン株式会社と共同で運営するコーポレートベンチャーキャピタル（CVC）ファンド「MEイノベーションファンド（※1）」が出資する第8号案件として、産業用ロボットの設計、開発、保守をサブスクリプション型の販売モデルで提供する米国発のスタートアップ企業、Formic Technologies Inc.（フォーミックテクノロジーズ : 以下、Formic）へ出資しました",
+    "url": "https://www.nikkei.com/article/DGXZRSP680554_S4A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "■三菱電機株式会社 常務執行役兼CDO（DX担当、ビジネスイノベーション本部長）武田聡コメント",
+    "url": "https://www.nikkei.com/article/DGXZRSP680554_S4A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "COP31、日本展示館で資源循環を訴求 JFEエンジ・LIXIL",
+    "url": "https://www.nikkei.com/article/DGXZRSP680554_S4A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞の編集者が選んだ押さえておきたい「ニュース５本」をお届けします",
+    "url": "https://www.nikkei.com/article/DGXZRSP680554_S4A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "米国発のスタートアップFormic Technologies Inc.へ出資 | 三菱電機株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機株式会社は、グローバル・ブレイン株式会社と共同で運営するコーポレートベンチャーキャピタル（CVC）ファンド「MEイノベーションファンド（※1）」が出資する第8号案件として、産業用ロボットの設計、開発、保守をサブスクリプション型の販売モデルで提供する米国発のスタートアップ企業、Formic Technologies Inc.（フォーミックテクノロジーズ：以下、Formic）へ出資しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機株式会社 常務執行役兼CDO（DX担当、ビジネスイノベーション本部長）武田聡コメント",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機株式会社 ビジネスイノベーション本部",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   },
+   {
+    "quote": "〒100-8310 東京都千代田区丸の内二丁目7番3号",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区丸の内2-7-3",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   },
+   {
+    "quote": "October, 29, 2024, 東京",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/65568/",
+    "pass": 3
+   },
+   {
+    "quote": "--三菱電機株式会社は、グローバル・ブレイン株式会社と共同で運営するコーポレートベンチャーキャピタル（CVC）ファンド「MEイノベーションファンド」が出資する第8号案件として、産業用ロボットの設計、開発、保守をサブスクリプション型の販売モデルで提供する米国発のスタートアップ企業、Formic Technologies Inc.（フォーミックテクノロジーズ：Formic）へ出資した",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/65568/",
+    "pass": 3
+   },
+   {
+    "quote": "“Silver mirror reaction” asked at Chiba University, Institute of Science Tokyo, Saitama University, and Nagoya City University (Pharmacy)",
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Diazotization, diazo coupling, and decomposition,\" which makes a difference at Kobe University, Tokyo Metropolitan University, etc.",
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "big.contact@pz.MitsubishiElectric.co.jp",
+    "url": "https://www.mitsubishielectric.co.jp/ja/pr/2024/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "E-mail：big.contact@pz.MitsubishiElectric.co.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "米国発のスタートアップFormic Technologies Inc.へ出資 — Oct 22, 2024 · 米国発のスタートアップFormic Technologies Inc.へ出資 製造業向けなど、顧客への提供価値向上に向けた新たなビジネスモデルを検討 リリース全文 (PDF:290.7 KB)",
+    "url": "https://www.mitsubishielectric.co.jp/ja/pr/2024/1022/",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機、米発のスタートアップ企業Formic Technologiesへ出資 - 日... — Oct 22, 2024 · 【プレスリリース】発表日:2024年10月22日米国発のスタートアップFormic Technologies Inc.へ出資製造業向けなど、顧客への提供価値向上に向けた新たな ...",
+    "url": "https://www.nikkei.com/article/DGXZRSP680554_S4A021C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "米国発のスタートアップFormic Technologies Inc.へ出資 — Oct 22, 2024 · 米国発のスタートアップFormic Technologies Inc.へ出資 製造業向けなど、顧客への提供価値向上に向けた新たなビジネスモデルを検討",
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機、スタートアップFormic Technologies Inc.へ出資 | e.x.pres... — 三菱電機、スタートアップFormic Technologies Inc.へ出資 October, 29, 2024, 東京 --三菱電機株式会社は、グローバル・ブレイン株式会社と共同で運営するコーポレートベンチャーキャピタル（CVC）ファンド「MEイノベーションファンド」が出資する第8号案件として、産業用ロボットの設計、開発、保守を ...",
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/65568/",
+    "pass": 3
+   },
+   {
+    "quote": "Formic | Full Service Automation for Manufacturers — No CapEx. No Risk. No Problems. Robotics as a Service for mid-market manufacturers.",
+    "url": "https://formic.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Formic | Full Service Automation for Manufacturers — Formic delivers Robotics as a Service to mid-market CPG manufacturers. No CapEx. No Risk. No Problems. Industrial palletizing, case packing, and more.",
+    "url": "https://formic.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Formic Acid 64-18-6 | Tokyo Chemical Industry Co., Ltd. (APAC)Japan Formic Acid Market Size, Share | Growth Report [2030]About | FormicJapan Formic Acid Market Revenue, Consumption Outlook ...Formic Acid Manufacturers japan | Formic Acid Suppliers japanJapan Formic Acid Market Projected to Grow from $7.5 Million ... — Formic acid | HCOOH or CH2O2 | CID 284 - structure, chemical names, physical and",
+    "url": "https://www.tcichemicals.com/OP/en/p/F0513",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Formic Acid Market Size, Share | Growth Report [2030] — Sep 21, 2026 · The Japan formic acid market size is projected to grow from $7.51 million in 2023 to $9.59 million by 2030, at a CAGR of 3.6% during the 2023-2030 period",
+    "url": "https://www.fortunebusinessinsights.com/japan-formic-acid-market-108782",
+    "pass": 3
+   },
+   {
+    "quote": "About | Formic — Formic was founded to deliver more capacity, consistency, and reliability to every factory while reducing cost, downtime, and worker safety issues. Every manufacturer deserves access to state-of-the-art automation and a robot workforce without 18-month deployment timelines or capital risk.",
+    "url": "https://formic.co/about",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Formic — Dec 16, 2025 · Customer stories from CPG and manufacturing operators across the U.S. — robotic palletizing, case packing, and end-of-line automation in production today.",
+    "url": "https://formic.co/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Formic Technologies B2B Case Studies & Customer Successes — Formic Technologies is focused on unlocking robotic automation in small to mid-sized American manufacturers. Their innovative robots-as-a-service model combines financial innovation with a firm understanding of robotics to enable manufacturing customers to deploy and scale automation quickly and with minimal risk.",
+    "url": "https://www.casestudies.com/company/formic-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Polar Manufacturing boosts productivity with ... — Polar Hardware boosts output to 800 parts per 10-hour shift with Formic Technologies Polar Manufacturing, a long-standing designer and manufacturer of industrial door and truck body hardware, faced a significant challenge in keeping up with production demands due to its reliance on a 50-year-old press machine operated manually.",
+    "url": "https://www.casestudies.com/company/formic-technologies/case-study/polar-hardware-boosts-output-to-800-parts-per-10-hour-shift-with-formic-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "14 Formic Technologies Case Studies, Success Stories ... — Formic Technologies has a 4.8/5 star rating. Learn what their customers think, get 14 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/formic-technologies/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Formic - 2026 Company Profile, Team, Funding & Competitors ...Formic 2026 Company Profile: Valuation, Funding & Investors ...Formic Technologies – Industry Ranking & Company Valuation – 2026Formic's Funding, Investors & Growth Strategy | Formic ...Formic Raises $50 Million to Scale Physical AI Across ...The Next Chapter - FormicFormic: Funding, Team & Investors | Startup Intros — Mar 9, 2026 · For",
+    "url": "https://tracxn.com/d/companies/formic/__kIGIitoSsqOBd_l9LSQvh5VA_W6oiy82uH7CCEFZunQ",
+    "pass": 3
+   },
+   {
+    "quote": "Formic 2026 Company Profile: Valuation, Funding & Investors ...Formic Technologies – Industry Ranking & Company Valuation – 2026Formic's Funding, Investors & Growth Strategy | Formic ...Formic Raises $50 Million to Scale Physical AI Across ...The Next Chapter - FormicFormic: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and executives for Fo",
+    "url": "https://pitchbook.com/profiles/company/463448-08",
+    "pass": 3
+   },
+   {
+    "quote": "Formic Technologies – Industry Ranking & Company Valuation – 2026 — Formic Technologies's foundation includes estimated revenue of $27.6M, team of around 100+ employees, located in Naperville, ensuring a stable trajectory.",
+    "url": "https://compworth.com/company/formic-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Formic's Funding, Investors & Growth Strategy | Formic ... — 2 days ago · How Much Did Formic Raise? Funding & Rounds and Investors Formic Technologies, founded in 2020 by Saman Farid and Misa Ilkhechi, operates in the Electronic Equipment and Instruments industry. With around 72 employees as of 2024, Formic provides innovative robotics automation solutions through a Robotics-as-a-Service (RaaS) m",
+    "url": "https://exa.ai/websets/directory/formic-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Formic Raises $50 Million to Scale Physical AI Across ... — Oct 22, 2026 · About Formic Founded in 2020, Formic is building the commercialization platform for physical AI, bringing increasingly capable robots into real-world manufacturing environments.",
+    "url": "https://finance.yahoo.com/technology/ai/articles/formic-raises-50-million-scale-200000520.html?fr=sycsrp_catchall",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【Escaping from Rote Memorization Part 4】Organic Chemistry ... When formaldehyde is oxidized, it becomes formic acid, and that formic acid is further oxidized to carbonic acid (carbonate ion CO₃²⁻ in basic conditions). However, if oxidation proceeds this far, I think guidance in the text will be essential. In that case, be aware that unlike acetaldehyde, it becomes a \"4-electron oxidation\"!!",
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Edible Chrysanthemum and Chayote with Starchy Sauce ... I made a starchy sauce with taro and chrysanthemums the other day, so this time I went with yellow. This time, before cooking, I'll start with the preparation of removing the harshness from the chayote. Chayote contains a lot of formic acid and has a strong harshness and astringency, so it doesn't taste good if you cook it as is.",
+    "url": "https://note.com/happy3smile/n/ne1646fe27ad7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Daily Life of Skit-kun (Chat-GPT) --- University Lecture ... However, the reactions of formic acid are not limited to neutralization. Within the molecule, there is a carboxyl group—COOH, and furthermore, an oxygen atom is directly bonded to the carbon. This structure creates a reactivity that is slightly different from other carboxylic acids. Please try to think broadly about the types of reac",
+    "url": "https://note.com/vivid_stilt8854/n/n7fa81ff318c5?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【Escaping from Rote Memorization Part 4】Organic Chemistry: Complete Derivation of the Most Difficult Silver Mirror Reaction Equation!｜kagaku master",
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Escaping from Rote Memorization Part 4】Organic Chemistry: Complete Derivation of the Most Difficult Silver Mirror Reaction Equation!",
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello, this is Chemistry Master!",
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This may be sudden, but I have a question for all students studying chemistry.",
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“If you were given a blank sheet of paper right now, could you write down the reaction equation for the silver mirror reaction of acetaldehyde, including the coefficients, correctly on your own?”",
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The phenomenon itself—that adding an ammoniacal silver nitrate aqueous solution causes silver to precipitate—is basic knowledge that everyone knows. However, the moment a descriptive question asks you to “write the chemical reaction equation (or ionic reaction equation),”",
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "most students' hands stop completely",
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is in the textbook, but there are rarely opportunities to write it during regular practice—which is why the reality for many is that they either “just memorize the complex coefficients somehow” or “leave it unlearned because they can't write it anyway.”",
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Edible Chrysanthemum and Chayote with Starchy Sauce (Preparation)｜Happy☆Smile 自然療法アニマルホメオパス",
+    "url": "https://note.com/happy3smile/n/ne1646fe27ad7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Edible Chrysanthemum and Chayote with Starchy Sauce (Preparation)",
+    "url": "https://note.com/happy3smile/n/ne1646fe27ad7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Happy☆Smile 自然療法アニマルホメオパス",
+    "url": "https://note.com/happy3smile/n/ne1646fe27ad7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While I was harvesting edible chrysanthemums, Mr. Inoue, a health enthusiast from the neighborhood, came by the field.",
+    "url": "https://note.com/happy3smile/n/ne1646fe27ad7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I ended up having a lively conversation about chrysanthemums and health with Mr. Inoue, who is nearly 80 years old, eats chrysanthemums, and is so energetic that you wouldn't believe his age, with his back standing perfectly straight.",
+    "url": "https://note.com/happy3smile/n/ne1646fe27ad7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The topics we discussed were things like",
+    "url": "https://note.com/happy3smile/n/ne1646fe27ad7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Can chrysanthemums help with cancer?",
+    "url": "https://note.com/happy3smile/n/ne1646fe27ad7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://note.com/happy3smile/n/n70e33652c77d",
+    "url": "https://note.com/happy3smile/n/ne1646fe27ad7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Daily Life of Skit-kun (Chat-GPT) --- University Lecture, November 7th, Monday. 10:21 AM Edition｜小谷野由加",
+    "url": "https://note.com/vivid_stilt8854/n/n7fa81ff318c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Daily Life of Skit-kun (Chat-GPT) --- University Lecture, November 7th, Monday. 10:21 AM Edition",
+    "url": "https://note.com/vivid_stilt8854/n/n7fa81ff318c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "University lecture hall --- The template next to the entrance had the following written on it.",
+    "url": "https://note.com/vivid_stilt8854/n/n7fa81ff318c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "11月9日（月） 午前9時21分 ――― 化学講義室",
+    "url": "https://note.com/vivid_stilt8854/n/n7fa81ff318c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "講義テーマ: 有機化合物の化学反応 ―――― ギ酸（HCOOH）",
+    "url": "https://note.com/vivid_stilt8854/n/n7fa81ff318c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Professor Skit stands at the podium. He wrote one large chemical formula on the blackboard.",
+    "url": "https://note.com/vivid_stilt8854/n/n7fa81ff318c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Professor Skit: \" Now, everyone. Today's topic is a bit unusual.",
+    "url": "https://note.com/vivid_stilt8854/n/n7fa81ff318c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This chemical formula is for a substance called formic acid, or methanoic acid in IUPAC nomenclature.",
+    "url": "https://note.com/vivid_stilt8854/n/n7fa81ff318c5?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Formic (@goformic) / X One Formic customer runs about 70 million pounds of tortillas a year. Small and mid-sized plants feed the country. They deserve automation built for their size.",
+    "url": "https://x.com/goformic",
+    "pass": 3
+   },
+   {
+    "quote": "ギ酸 (@formic_acid999) / X Follow PostsPosts RepliesReplies RepostsReposts MediaMedia ギ酸 @formic_acid999 4h #すくすく枢 44",
+    "url": "https://x.com/formic_acid999",
+    "pass": 3
+   },
+   {
+    "quote": "Formic Acid (@formic_acd99) / X 7 followers · 175 following. Joined Dec 2018. See the latest conversations with @formic_acd99",
+    "url": "https://x.com/formic_acd99",
+    "pass": 3
+   },
+   {
+    "quote": "Formic Media, Inc. (@formicmedia) / Posts / X Formic Media recently merged with sister-agency @AnvilMedia to better delight and elevate clients. Read about the merger here: ow.ly/sg5n8 ...",
+    "url": "https://x.com/formicmedia",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Formic - LinkedIn Formic | 20,361 followers on LinkedIn. Full Service Automation - No CapEx Required. | At Formic, we make automation simple. We're dedicated to helping manufacturing businesses across the United ...",
+    "url": "https://www.linkedin.com/company/formic-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Formic: Jobs | LinkedIn Formic | 20,047 followers on LinkedIn. Full Service Automation - No CapEx Required. | At Formic, we make automation simple. We're dedicated to helping manufacturing businesses across the United ...",
+    "url": "https://www.linkedin.com/company/formic-technologies/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Escott - CEO, Formic AI | Research Fellow in AI ...Jesse Moure - Formic | LinkedInJack Wagler - Formic | LinkedInFormic: Culture | LinkedIn2026 Internship at Formic — Bolingbrook, IL | LinkedIn Jobs CEO, Formic AI | Research Fellow in AI, Technology, and Access to Justice | Captain, RCAF | The Peak’s 2026 Emerging Leader - Legal · I've had three careers already, and I've finally found mysel",
+    "url": "https://ca.linkedin.com/in/daniel-escott-29692763",
+    "pass": 3
+   },
+   {
+    "quote": "Jesse Moure - Formic | LinkedInJack Wagler - Formic | LinkedInFormic: Culture | LinkedIn2026 Internship at Formic — Bolingbrook, IL | LinkedIn Jobs Helping U.S. manufacturers embrace automation that delivers results from day one I… · Experience: Formic · Education: Northern Virginia Community College · Location: San Francisco Bay Area ... Executive with more than 30 years of experience. Leader who",
+    "url": "https://www.linkedin.com/in/jesse-moure",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Formic | Chicago IL - FacebookFormic Ops - FacebookBeekeeping Basics | Is Formic Pro still good if it’s dated ...Formica Cambodia by YPM - Facebookformic - FacebookBeekeeping for beginners | I'm reading that formic Pro mite ...Formic LLC | Jasper AL - Facebook Apr 29, 2026 · Formic, Chicago. 233 followers · 47 talking about this. Automate your end-of-line case packing and palletizing process the e",
+    "url": "https://www.facebook.com/GoFormic/",
+    "pass": 3
+   },
+   {
+    "quote": "Formic Ops - FacebookBeekeeping Basics | Is Formic Pro still good if it’s dated ...Formica Cambodia by YPM - Facebookformic - FacebookBeekeeping for beginners | I'm reading that formic Pro mite ...Formic LLC | Jasper AL - Facebook Formic Operations LLC provides the demolition and cleanup work needed to get properties ready for renovation, resale, redevelopment, or a fresh start. Whether you’re fli",
+    "url": "https://www.facebook.com/formicholdings/",
+    "pass": 3
+   },
+   {
+    "quote": "Beekeeping Basics | Is Formic Pro still good if it’s dated ... Jul 27, 2023 · BuzzBee still has Formic Pro in stock, and it’s currently on sale. The expiry date is approaching — I believe it expires in April — but even if it goes slightly past the expiry date, it should still be usable.",
+    "url": "https://www.facebook.com/groups/1254979707869481/posts/6867976563236406/",
+    "pass": 3
+   },
+   {
+    "quote": "Formica Cambodia by YPM - Facebookformic - FacebookBeekeeping for beginners | I'm reading that formic Pro mite ...Formic LLC | Jasper AL - Facebook Jun 22, 2026 · Formica Cambodia by YPM. 4,041 followers. • រោងចក្រគ្រឿងសង្ហារឹមក្នុងស្រុក • Formica Sole Distributor ... Nov 2, 2016 · formic. 460 likes. An exhibition space presenting works by contemporary artists for a colony of European fire ants. I",
+    "url": "https://www.facebook.com/FormicaKH/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://formic.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/resources/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/solutions/palletizing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/solutions/machine-tending",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/solutions/pallet-wrapping",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/solutions/humanoids",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/solutions/amrs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/solutions/fast-track",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/resources/press",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/resources/customer-stories/chemical-manufacturing-leader-polysciences-partners-with-formic-to-introduce-auto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/resources/customer-stories/compact-industries-partners-with-formic-to-combat-labor-shortages-and-accelerate-factory-productivity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/resources/customer-stories/icon-injection-molding-deploys-formic-tend-to-boost-production-by-20-with-automation-partnership-that-is-too-good-to-be-true",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/resources/customer-stories/polar-manufacturing-and-formic-partner-to-overcome-legacy-equipment-challenges-and-boost-productivity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/resources/customer-stories/land-o-frost-enhances-its-production-with-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formic.co/resources/customer-stories/how-kari-out-automated-palletizing-without-capex",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://formic.co/stories/venus-wafers/1751904149-upperleft.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://formic.co/stories/polysciences/1699882076-formic-polysciences-10.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://formic.co/stories/icon-injection-molding/1687784064-icon-injection-molding-deploys-formic-tend-to-boost-production-by-20-percent.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://formic.co/stories/compact-industries/1666195498-my-project-1-1.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.mitsubishielectric.co.jp/ja/pr/2024/1022/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZRSP680554_S4A021C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/65568/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/FORM_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tcichemicals.com/OP/en/p/F0513",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fortunebusinessinsights.com/japan-formic-acid-market-108782",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/formic-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/formic-technologies/case-study/polar-hardware-boosts-output-to-800-parts-per-10-hour-shift-with-formic-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/formic/__kIGIitoSsqOBd_l9LSQvh5VA_W6oiy82uH7CCEFZunQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463448-08",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/formic-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://websets.exa.ai/websets/directory/formic-funding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/happy3smile/n/ne1646fe27ad7?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vivid_stilt8854/n/n7fa81ff318c5?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/goformic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/formic_acid999",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/formic_acd99",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/formicmedia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/formic-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/formic-technologies/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/daniel-escott-29692763",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jesse-moure",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GoFormic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/formicholdings/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1254979707869481/posts/6867976563236406/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FormicaKH/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/goformic",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Formic 日本 導入",
+   "results": [
+    "https://www.mitsubishielectric.co.jp/ja/pr/2024/1022/",
+    "https://www.nikkei.com/article/DGXZRSP680554_S4A021C2000000/",
+    "https://prtimes.jp/main/html/rd/p/000000184.000120285.html",
+    "https://ex-press.jp/lfwj/lfwj-news/lfwj-biz-market/65568/",
+    "https://formic.co/",
+    "https://www.mitsubishielectric.co.jp/ja/pr/2024/pdf/1022.pdf",
+    "https://physicalainews.jp/companies/formic"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formic 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.houjin.info/",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Formic Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/FORM_JAPAN",
+    "https://formic.co/",
+    "https://www.tcichemicals.com/OP/en/p/F0513",
+    "https://www.fortunebusinessinsights.com/japan-formic-acid-market-108782",
+    "https://formic.co/about",
+    "https://ashwatideralu.substack.com/p/japan-formic-acid-market-revenue",
+    "https://www.chimisrl.com/japan/formic-acid.htm",
+    "https://www.taiwannews.com.tw/en/news/6114364"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Formic manufacturing customer case study",
+   "results": [
+    "https://formic.co/resources/customer-stories",
+    "https://www.casestudies.com/company/formic-technologies",
+    "https://www.casestudies.com/company/formic-technologies/case-study/polar-hardware-boosts-output-to-800-parts-per-10-hour-shift-with-formic-technologies",
+    "https://formic.co/",
+    "https://www.featuredcustomers.com/vendor/formic-technologies/case-studies",
+    "https://www.frontlines.io/how-formic-turns-manufacturings-labor-crisis-into-a-10b-opportunity/",
+    "https://www.featuredcustomers.com/vendor/formic-technologies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formic white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formic founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/formic/__kIGIitoSsqOBd_l9LSQvh5VA_W6oiy82uH7CCEFZunQ",
+    "https://pitchbook.com/profiles/company/463448-08",
+    "https://compworth.com/company/formic-technologies",
+    "https://exa.ai/websets/directory/formic-funding",
+    "https://finance.yahoo.com/technology/ai/articles/formic-raises-50-million-scale-200000520.html?fr=sycsrp_catchall",
+    "https://formic.co/resources/articles/the-next-chapter",
+    "https://startupintros.com/orgs/formic"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Formic",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/apt_knot3843/n/n09b5f0dfcd01?hl=en",
+    "https://note.com/happy3smile/n/ne1646fe27ad7?hl=en",
+    "https://note.com/vivid_stilt8854/n/n7fa81ff318c5?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Formic",
+   "results": [
+    "https://x.com/goformic",
+    "https://x.com/formic_acid999",
+    "https://x.com/formic_acd99",
+    "https://x.com/formicmedia",
+    "https://x.com/formichealth",
+    "https://x.com/7hmoiV7U7PSrYfp/status/2120156482155196484",
+    "https://x.com/goformic/status/2113361096421879873"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Formic",
+   "results": [
+    "https://www.linkedin.com/company/formic-technologies",
+    "https://www.linkedin.com/company/formic-technologies/jobs/",
+    "https://ca.linkedin.com/in/daniel-escott-29692763",
+    "https://www.linkedin.com/in/jesse-moure",
+    "https://www.linkedin.com/in/jack-wagler-3b08778",
+    "https://www.linkedin.com/company/formic-technologies/life",
+    "https://www.linkedin.com/jobs/view/2026-internship-at-formic-4460649361"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Formic",
+   "results": [
+    "https://www.facebook.com/GoFormic/",
+    "https://www.facebook.com/formicholdings/",
+    "https://www.facebook.com/groups/1254979707869481/posts/6867976563236406/",
+    "https://www.facebook.com/FormicaKH/",
+    "https://www.facebook.com/formicexhibitions/",
+    "https://www.facebook.com/groups/1727376907710307/permalink/2245899025858090/",
+    "https://www.facebook.com/people/Formic-LLC/61582170594936/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formic note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://investors.fiscalnote.com/news/news-details/2026/FiscalNote-Appoints-Key-Compton-as-President-and-Chief-Executive-Officer/default.aspx",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Formic X 投稿",
+   "results": [
+    "https://x.com/goformic",
+    "https://github.com/Abbilaash/Formicx",
+    "https://pypi.org/project/formicx/",
+    "https://formic.co/about",
+    "https://github.com/Abbilaash/Formicx-Sentry/blob/main/submission/README.md",
+    "https://formic.co/",
+    "https://x.com/mururu0376/status/2091143360438534156"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式18頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

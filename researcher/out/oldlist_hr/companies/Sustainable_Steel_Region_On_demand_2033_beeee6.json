@@ -1,0 +1,718 @@
+{
+ "name": "Sustainable Steel Region - On demand 2033",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜FORMNEXT案件",
+ "researched_at": "2026-11-11T03:31:01.949273+00:00",
+ "official_url": "https://ondemand2033.com/en/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "PRODUCING SPAREPARTS WHEN AND WHERE THEY´RE NEEDED",
+    "url": "https://ondemand2033.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "On Demand 2033 is driving the development of local, on-demand production using additive manufacturing. The result? Shorter lead times, stronger supply readiness – and fewer unnecessary transports.",
+    "url": "https://ondemand2033.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "We highlight the potential of on-demand production and additive manufacturing – but true change happens in collaboration with industry.",
+    "url": "https://ondemand2033.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Where spare parts are produced locally, on demand – and industrial resilience is built through cooperation.",
+    "url": "https://ondemand2033.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "– Rune Jonsson, Procurement, Holmen",
+    "url": "https://ondemand2033.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "These companies are testing, contributing and leading the way. They help shape the future by sharing their time, resources and curiosity. Together with these pioneers, we test technologies, develop methods, and demonstrate how additive manufacturing works in practice",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Triton Valsteknik specializes in precision machining and servicing of rollers for heavy industry. Through its involvement in the project, the company explores how additive manufacturing can help reduce downtime, shorten lead times, and improve maintenance efficiency.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SSAB is a global steel company with strong roots in Sweden. A leader in high-strength steel, SSAB actively works to reduce climate impact through technological transition and innovation. In the project, SSAB contributes its perspective on future material supply and sustainable production",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SAAM is a knowledge cluster focused on the development and application of additive manufacturing in Swedish industry. In On Demand 2033, SAAM serves as a strategic partner, connecting research environments, technology providers, and companies in need of new solutions.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "RISE is Sweden’s research institute and innovation partner. With cutting-edge expertise in materials, production and digitalization, RISE plays a key knowledge role in the project. They contribute to method development, test design, and scientific validation of new approaches in on-demand manufacturing.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Lasertech is a modern industrial workshop specializing in advanced machining. As host of AM Meet-up 2025, the company also serves as a testbed for additive technologies in pilot production",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Ivaldi develops solutions for digital inventories and on-demand spare part production, operating globally in the marine and heavy industries. In the project, Ivaldi contributes expertise in digitalization, reverse engineering, and how digital supply chains can strengthen industrial readiness.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Holmen is a leading player in the forest industry and paper manufacturing, with world-class production facilities. In the project, Holmen Iggesund participates through practical testing with the Capture Kit and shares insights on industrial needs, safety requirements, and technical integration in real production environments.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Gefertec is a German pioneer in wire-based additive manufacturing (WAAM – Wire Arc Additive Manufacturing). The company develops machines and processes for highly material-efficient metal production. In the project, Gefertec contributes technical expertise and insights into industrial-scale applications.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "VMI AB is a flexible, customer-focused supplier in precision machining, with a well-equipped facility handling both prototyping and small to mid-sized series production. With strong expertise and close customer dialogue, they develop cost-effective solutions – whether it’s design, production adaptation or material selection.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enerco provides industrial services, maintenance, and full-scale technical solutions to Sweden’s base industries. Through its involvement in On Demand 2033, Enerco contributes valuable insights from real-world operating environments—where on-site spare part production can deliver significant value.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "CSS is an innovation cluster focused on sustainable access to critical spare parts for industry and essential infrastructure. By combining research, networks, and real-world applications, CSS works to reduce vulnerabilities in global supply chains. In On Demand 2033, CSS contributes expertise in strategic preparedness and how additive manufacturing can strengthen national supply resilience.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Begner specializes in advanced technologies for metalworking, additive manufacturing, and quality control. With long-standing experience as a technology supplier to Swedish industry, Begner contributes to the project with equipment, expertise, and knowledge sharing around the manufacturing solutions of the future.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Alderholmens Mekaniska is a flexible subcontractor specializing in machining, welding, and assembly. In the project, they explore how additive manufacturing can complement existing production and enable new business models for local, on-demand manufacturing.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AM Printservice offers polymer 3D printing – from prototypes to functional parts. With a focus on speed, flexibility, and sustainability, they help industry save time and resources. As a partner in On Demand 2033, they contribute expertise in material selection and additive spare part production.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Norra Additive makes custom part ordering fast and easy. Through industrial 3D printing, post-processing, and digital inventory, they enable true on-demand production – reducing waste, minimizing stock, and accelerating the path from idea to finished product.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Camatec is an engineering consultancy specializing in delivering innovative, practical solutions for complex projects. From 3D scanning, reverse engineering, and AM digitalization to building machines and production lines, they focus on creating designs that are both functional and easy to implement. With a hands-on approach, they excel at turning challenging ideas into reality.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Demonstrate how local, demand-driven production works in practice",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Promote circular, flexible, and sustainable manufacturing models",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Share knowledge and best practices through collaboration",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "A passionate team backed by strong partners – building a resilient industrial future that secures jobs and safeguards production through on-demand manufacturing.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "is a regional collaboration platform strengthening the sustainability and competitiveness of the steel industry. By bringing together companies, academia, and public actors, SSR drives innovation and green transition in Northern Europe’s metal industry. In On Demand 2033, SSR serves as project owner and coordinates strategic efforts around supply security and industrial resilience.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "is a world-leading business cluster in forest-based bioeconomy, based in Värmland. It unites companies, academia, and innovation hubs to create the sustainable materials, products, and processes of the future. In On Demand 2033, Paper Province contributes expertise in circular solutions, industrial collaboration, and applications within the bioeconomy value chain.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "is an innovation hub based in Hudiksvall, helping companies grow through digitalization, sustainability, and need-driven development. They provide coaching, test environments, and business development with a human-centered approach. In On Demand 2033, Propell works to identify specific industrial needs and match them with additive manufacturing and on-demand solutions.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "in Sandviken is a regional innovation environment focused on smart industry, digitalization, and sustainable production. Through business support, testbeds, and collaboration between industry and public sector, Sandbacka supports the development of future manufacturing. In On Demand 2033, they connect small and medium-sized enterprises with new technologies and business models.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "On Demand 2033 is funded by actors committed to strengthening Sweden’s industrial preparedness, competitiveness, and climate transition.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "SHAPING THE FUTURE OF MANUFACTURING",
+    "url": "https://ondemand2033.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "On Demand 2033 is driving the development of local, on-demand production using additive manufacturing. The result? Shorter lead times, stronger supply readiness – and fewer unnecessary transports.",
+    "url": "https://ondemand2033.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "On Demand 2033 is a Swedish initiative aimed at strengthening the industrial sector’s ability to act swiftly, sustainably, and self-sufficiently – in both everyday operations and times of crisis.",
+    "url": "https://ondemand2033.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "We highlight the potential of on-demand production and additive manufacturing – but true change happens in collaboration with industry.",
+    "url": "https://ondemand2033.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "By connecting companies, technologies, innovation environments and decision-makers, we aim to pave the way for a new manufacturing logic:",
+    "url": "https://ondemand2033.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Where spare parts are produced locally, on demand – and industrial resilience is built through cooperation.",
+    "url": "https://ondemand2033.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Shaping the future of manufacturing",
+    "url": "https://ondemand2033.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Swedish Industry Collaboration for Sustainable Manufacturing – On Demand 2033",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "In On Demand 2033, we collaborate with companies that actively take part in the development – and with stakeholders who share our vision of on-demand manufacturing as a new industrial standard",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "On Demand 2033 – Shaping the future of manufacturing.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "These companies are testing, contributing and leading the way. They help shape the future by sharing their time, resources and curiosity. Together with these pioneers, we test technologies, develop methods, and demonstrate how additive manufacturing works in practice",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Triton Valsteknik specializes in precision machining and servicing of rollers for heavy industry. Through its involvement in the project, the company explores how additive manufacturing can help reduce downtime, shorten lead times, and improve maintenance efficiency.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SAAM is a knowledge cluster focused on the development and application of additive manufacturing in Swedish industry. In On Demand 2033, SAAM serves as a strategic partner, connecting research environments, technology providers, and companies in need of new solutions.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "RISE is Sweden’s research institute and innovation partner. With cutting-edge expertise in materials, production and digitalization, RISE plays a key knowledge role in the project. They contribute to method development, test design, and scientific validation of new approaches in on-demand manufacturing.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Lasertech is a modern industrial workshop specializing in advanced machining. As host of AM Meet-up 2025, the company also serves as a testbed for additive technologies in pilot production",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Ivaldi develops solutions for digital inventories and on-demand spare part production, operating globally in the marine and heavy industries. In the project, Ivaldi contributes expertise in digitalization, reverse engineering, and how digital supply chains can strengthen industrial readiness.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Holmen is a leading player in the forest industry and paper manufacturing, with world-class production facilities. In the project, Holmen Iggesund participates through practical testing with the Capture Kit and shares insights on industrial needs, safety requirements, and technical integration in real production environments.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Gefertec is a German pioneer in wire-based additive manufacturing (WAAM – Wire Arc Additive Manufacturing). The company develops machines and processes for highly material-efficient metal production. In the project, Gefertec contributes technical expertise and insights into industrial-scale applications.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enerco provides industrial services, maintenance, and full-scale technical solutions to Sweden’s base industries. Through its involvement in On Demand 2033, Enerco contributes valuable insights from real-world operating environments—where on-site spare part production can deliver significant value.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "CSS is an innovation cluster focused on sustainable access to critical spare parts for industry and essential infrastructure. By combining research, networks, and real-world applications, CSS works to reduce vulnerabilities in global supply chains. In On Demand 2033, CSS contributes expertise in strategic preparedness and how additive manufacturing can strengthen national supply resilience.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Begner specializes in advanced technologies for metalworking, additive manufacturing, and quality control. With long-standing experience as a technology supplier to Swedish industry, Begner contributes to the project with equipment, expertise, and knowledge sharing around the manufacturing solutions of the future.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Alderholmens Mekaniska is a flexible subcontractor specializing in machining, welding, and assembly. In the project, they explore how additive manufacturing can complement existing production and enable new business models for local, on-demand manufacturing.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Norra Additive makes custom part ordering fast and easy. Through industrial 3D printing, post-processing, and digital inventory, they enable true on-demand production – reducing waste, minimizing stock, and accelerating the path from idea to finished product.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Camatec is an engineering consultancy specializing in delivering innovative, practical solutions for complex projects. From 3D scanning, reverse engineering, and AM digitalization to building machines and production lines, they focus on creating designs that are both functional and easy to implement. With a hands-on approach, they excel at turning challenging ideas into reality.",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Shaping the future of manufacturing",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainable On-Demand Manufacturing in Sweden – On Demand 2033",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "The initiative explores how Swedish industry can build resilience through on-demand manufacturing of critical spare parts and components, enabled by additive manufacturing.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Promote circular, flexible, and sustainable manufacturing models",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "A passionate team backed by strong partners – building a resilient industrial future that secures jobs and safeguards production through on-demand manufacturing.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "is a regional collaboration platform strengthening the sustainability and competitiveness of the steel industry. By bringing together companies, academia, and public actors, SSR drives innovation and green transition in Northern Europe’s metal industry. In On Demand 2033, SSR serves as project owner and coordinates strategic efforts around supply security and industrial resilience.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "is a world-leading business cluster in forest-based bioeconomy, based in Värmland. It unites companies, academia, and innovation hubs to create the sustainable materials, products, and processes of the future. In On Demand 2033, Paper Province contributes expertise in circular solutions, industrial collaboration, and applications within the bioeconomy value chain.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "is an innovation hub based in Hudiksvall, helping companies grow through digitalization, sustainability, and need-driven development. They provide coaching, test environments, and business development with a human-centered approach. In On Demand 2033, Propell works to identify specific industrial needs and match them with additive manufacturing and on-demand solutions.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "in Sandviken is a regional innovation environment focused on smart industry, digitalization, and sustainable production. Through business support, testbeds, and collaboration between industry and public sector, Sandbacka supports the development of future manufacturing. In On Demand 2033, they connect small and medium-sized enterprises with new technologies and business models.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "On Demand 2033 is funded by actors committed to strengthening Sweden’s industrial preparedness, competitiveness, and climate transition.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet the companies helping shape the future of industrial manufacturing.",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Shaping the future of manufacturing",
+    "url": "https://ondemand2033.com/en-mission/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "become a part of the mission",
+    "url": "https://ondemand2033.com/en-partners/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sustainable Steel Region - On demand 2033 | Exhibitor ... — The initiative is run by Sustainable Steel Region, RISE Propell, Paper Province, and Sandbacka Science Park, but it is the many collaborating companies that make On Demand 2033 unique.",
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/sustainable-steel-region.html",
+    "pass": 3
+   },
+   {
+    "quote": "On demand - local and sustainable manufacturing of critical ...On Demand 2033 - Sustainable Steel RegionSwedish Industry Collaboration for Sustainable ManufacturingSustainable Steel Region - On demand 2033 | Exhibitor ...On demand - lokal och hållbar tillverkning av kritiska ...On Demand 2033: Driving Sustainable Production in Sweden — Apr 30, 2026 · With the mission \"On demand local and sustainab",
+    "url": "https://www.vinnova.se/en/p/on-demand---local-and-sustainable-manufacturing-of-critical-spare-parts-and-components-2033/",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable Steel Region - On demand 2033 | Exhibitor ... — On Demand 2033 is showing the way by testing, demonstrating, and scaling up solutions. We are creating a new industrial standard for spare parts and components – one that is demand-driven, flexible, and sustainable.",
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/sustainable-steel-region.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Nicklas Tarantino – Head of Sustainable Innovation på ...Sustainable Steel Regions inlägg - LinkedIn Sverige#ondemand2033 #sustainablesteelregion #paperprovince # ...#formnext2025 | Sustainable Steel Region - LinkedInSustainable Steel Regions inlägg Head of Sustainable Innovation på Sustainable Steel Region · Erfarenhet: On demand 2033 · Utbildning: Mittuniversitetet / Mid Sweden University · Plat",
+    "url": "https://se.linkedin.com/in/nicklas-tarantino-01381a71",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable Steel Regions inlägg - LinkedIn Sverige Den 20 oktober deltar Sustainable Steel Regions operativa chef Paul Nemes på DAMI Day vid Karlstads universitet, tillsammans med Espen Sivertsen från Ivaldi Group. De berättar om hur nya sätt att producera reservdelar kan stärka industrins motståndskraft, med särskilt fokus på arbetet inom On demand 2033.",
+    "url": "https://se.linkedin.com/posts/sustainable-steel-region_resiliens-ondemand2033-industri-activity-7516396411609972737-Leqi",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ondemand2033.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ondemand2033.com/en-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ondemand2033.com/en-mission/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ondemand2033.com/en-partners/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://sustainablesteelregion.se/on-demand-2033",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sustainablesteelregion.se/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/sustainable-steel-region.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nst.nipponsteel.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishisteel.co.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nipponsteel.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsw.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sustainablesteelregion.se/on-demand-2033",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/sustainable-steel-region.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sustainablesteelregion.se/verksamhet/p%C3%A5g%C3%A5ende-insatser",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vinnova.se/en/p/on-demand---local-and-sustainable-manufacturing-of-critical-spare-parts-and-components-2033/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sustainablesteelregion.se/on-demand-2033",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.unifyr.com/atlas/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vinnova.se/en/p/on-demand---local-and-sustainable-manufacturing-of-critical-spare-parts-and-components-2033/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sustainablesteelregion.se/on-demand-2033",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://se.linkedin.com/in/nicklas-tarantino-01381a71",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/posts/sustainable-steel-region_resiliens-ondemand2033-industri-activity-7516396411609972737-Leqi",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sustainable Steel Region - On demand 2033 日本 導入",
+   "results": [
+    "https://sustainablesteelregion.se/on-demand-2033",
+    "https://sustainablesteelregion.se/",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/sustainable-steel-region.html",
+    "https://ondemand2033.com/en-mission/",
+    "https://ondemand2033.com/en-contact/",
+    "https://www.enecho.meti.go.jp/about/special/johoteikyo/green_steel_2026.html",
+    "https://www.meti.go.jp/shingikai/energy_environment/gx_product/pdf/002_06_00.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sustainable Steel Region - On demand 2033 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.nst.nipponsteel.com/en/",
+    "https://www.mitsubishisteel.co.jp/english/",
+    "https://www.nipponsteel.com/en/",
+    "https://www.jsw.co.jp/en/",
+    "https://www.jfe-holdings.co.jp/en/",
+    "https://www.jfe-steel.co.jp/",
+    "https://www.tokyosteel.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sustainable Steel Region - On demand 2033 Japan",
+   "results": [
+    "https://sustainablesteelregion.se/on-demand-2033",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/sustainable-steel-region.html",
+    "https://ondemand2033.com/en-contact/",
+    "https://sustainablesteelregion.se/verksamhet/pågående-insatser",
+    "https://ondemand2033.com/en-mission/",
+    "https://assets.wwf.org.au/image/upload/f_pdf/Green_steel_demand_in_Japan_-_market_status_and_enablers_01122025",
+    "https://rmi.org/resources/asia-pacifics-green-steel-demand-opportunity/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sustainable Steel Region - On demand 2033 manufacturing customer case study",
+   "results": [
+    "https://ondemand2033.com/en-mission/",
+    "https://www.vinnova.se/en/p/on-demand---local-and-sustainable-manufacturing-of-critical-spare-parts-and-components-2033/",
+    "https://sustainablesteelregion.se/on-demand-2033",
+    "https://ondemand2033.com/en-partners/",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/sustainable-steel-region.html",
+    "https://www.vinnova.se/p/on-demand---lokal-och-hallbar-tillverkning-av-kritiska-reservdelar-och-komponenter-2033/",
+    "https://ondemand2033.com/en-contact/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sustainable Steel Region - On demand 2033 white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://reseller.amazon.com/",
+    "https://www.unifyr.com/atlas/reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.unifyr.com/blog/the-reseller-channel-how-and-why-to-use-it",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sustainable Steel Region - On demand 2033 founded funding employees revenue",
+   "results": [
+    "https://www.vinnova.se/en/p/on-demand---local-and-sustainable-manufacturing-of-critical-spare-parts-and-components-2033/",
+    "https://ondemand2033.com/en-mission/",
+    "https://sustainablesteelregion.se/on-demand-2033",
+    "https://ondemand2033.com/en-contact/",
+    "https://sustainablesteelregion.se/international",
+    "https://www.linkedin.com/company/sustainable-steel-region",
+    "https://www.vinnova.se/p/on-demand---lokal-och-hallbar-tillverkning-av-kritiska-reservdelar-och-komponenter-2033/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sustainable Steel Region - On demand 2033",
+   "results": [
+    "https://note.com/eneq/n/n6815be40b3b2?hl=en",
+    "https://note.com/riverskawano/n/n8f7107f2b08f?hl=en",
+    "https://note.com/fujkta/n/nfef25b417793",
+    "https://note.com/ishiiyukari/n/nb99ba98e8313",
+    "https://note.com/ballbeats_jp/n/n0dbed5e1e75d",
+    "https://note.com/quirky_ruff4280/n/nc64ae1a3169a",
+    "https://note.com/serene_bee7132/n/nc0899352b27f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sustainable Steel Region - On demand 2033",
+   "results": [
+    "https://x.com/forourclimate/status/2076949646480404540",
+    "https://jf.x.com/images/media-preview/2103143730526249080",
+    "https://jf.x.com/images/media-preview/2099855514264105144",
+    "https://x.com/ResponsblSteel",
+    "https://x.com/jobsregion/status/2112906756183540199",
+    "https://x.com/BizzleSwag31/status/2110487952120050013",
+    "https://x.com/NodeWire/status/2117416821234286839"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sustainable Steel Region - On demand 2033",
+   "results": [
+    "https://www.linkedin.com/company/sustainable-steel-region",
+    "https://www.linkedin.com/company/on-demand-2033",
+    "https://se.linkedin.com/in/nicklas-tarantino-01381a71",
+    "https://se.linkedin.com/posts/sustainable-steel-region_resiliens-ondemand2033-industri-activity-7516396411609972737-Leqi",
+    "https://www.linkedin.com/posts/mikael-schuisky-2445441_ondemand2033-sustainablesteelregion-paperprovince-activity-7501149378917675009-PJaU",
+    "https://www.linkedin.com/posts/sustainable-steel-region_formnext2025-activity-7398646349317083136-vehT",
+    "https://www.linkedin.com/posts/sustainable-steel-region_vi-deltar-med-on-demand-2033-på-industrimässorna-activity-7310575230500900864-0Luy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sustainable Steel Region - On demand 2033",
+   "results": [
+    "https://www.facebook.com/groups/srppr/",
+    "https://www.facebook.com/people/Steelcityzen/61576678845473/",
+    "https://www.facebook.com/groups/192696136704/",
+    "https://www.facebook.com/SteelCitiesSCCA/",
+    "https://www.facebook.com/people/Steel-Ondemand-Trading-Corporation/100080160080238/",
+    "https://www.facebook.com/groups/192696136704/posts/10161848714656705/",
+    "https://www.facebook.com/p/Steelcityzen-61576678845473/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sustainable Steel Region - On demand 2033 note 社長",
+   "results": [
+    "https://sustainablesteelregion.se/on-demand-2033",
+    "https://ondemand2033.com/en-contact/",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/sustainable-steel-region.html",
+    "https://ondemand2033.com/kontakta-oss/",
+    "https://se.linkedin.com/in/pnemes",
+    "https://se.linkedin.com/in/nicklas-tarantino-01381a71",
+    "https://paperprovince.com/case/on-demand/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sustainable Steel Region - On demand 2033 X 投稿",
+   "results": [
+    "https://sustainablesteelregion.se/on-demand-2033",
+    "https://ondemand2033.com/en-contact/",
+    "https://ondemand2033.com/en-mission/",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/sustainable-steel-region.html",
+    "https://sustainablesteelregion.se/international",
+    "https://www.vinnova.se/en/p/on-demand---local-and-sustainable-manufacturing-of-critical-spare-parts-and-components-2033/",
+    "https://www.linkedin.com/posts/sustainable-steel-region_igår-samlades-deltagare-från-sustainable-activity-7186703866925572097-UNlH"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

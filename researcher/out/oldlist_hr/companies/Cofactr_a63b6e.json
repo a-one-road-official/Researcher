@@ -1,0 +1,798 @@
+{
+ "name": "⭐️Cofactr",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送付済み",
+ "researched_at": "2026-11-11T03:02:37.009909+00:00",
+ "official_url": "https://cofactr.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI-powered component intelligence, procurement execution, and ITAR-registered warehousing and kitting.",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for manufacturers that can't risk component shortages, compliance gaps, or production delays.",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cofactr handles procure-to-ship with full transparency so your team can keep building.",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics Procurement and Purchasing",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer procurement tasks",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "More than 40% time savings in procurement tasks",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reclaim your team's bandwidth from admin grunt work. Redeploy that time to actually solving problems instead of shuffling paperwork.",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "80% Faster BOM Procurement",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cut your procurement timeline from months to days. When your competition is still waiting on quotes, you're already building.",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "10x scale without new procurement hires",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "85% Reduction in Production Delays",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate the line stoppages that kill schedules and evaporate margins. When components show up on time, every time, production runs like it's supposed to.",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Companies Improve Operations with Cofactr",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Stoke Space supported its rapid production cycles with Cofactr’s unified logistics platform.",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Salient Motion Reduced their Production Cycles to 3 Weeks with Cofactr",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Salient Motion used Cofactr to streamline component procurement and bolster productivity.",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zero procurement drama.",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics Procurement and Purchasing",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy a full procurement operation without building one from scratch. We handle supplier management, compliance vetting, and logistics chaos—you get components when and where you need them. No overhead, no drama.",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Built-in approvals—no more Slack chasing",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Best price + fastest ship time across 1,000+ suppliers",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Audit-proof documentation isn't a nice-to-have when you're building in regulated industries. Every supplier vetted, every certificate tracked, every data point defensible—because \"we think we have that somewhere\" doesn't fly when the auditor shows up.",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time supplier pricing, stock levels, and reliability scores",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2, ITAR-registered, GovCloud-ready—defense and aerospace approved",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory that is ready to move when production calls for it. No warehouse scavenger hunts, no \"let me check and get back to you\"—24/7 intel and control on what you have, where it’s going, and when it delivers. Never miss a deadline or delay a build because of electronic parts.",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "High-mix kitting for for all scales of builds, prototype through production",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Professional receiving with MSL management, anti-counterfeit inspection, and compliance checks",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Full chain of custody from supplier to your production line",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Farcast improved manufacturing efficiency and saved valuable time with Cofactr’s unified supply chain platform.",
+    "url": "https://www.cofactr.com/resources?type=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Salient Motion used Cofactr to streamline component procurement and bolster productivity.",
+    "url": "https://www.cofactr.com/resources?type=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Stoke Space supported its rapid production cycles with Cofactr’s unified logistics platform.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "is on a mission to democratize access to orbit, starting with 100% reusable rockets. Its unique ethos of swift and sustainable aerospace innovation has attracted an impressive number of investors, including",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Stoke Space production environment",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Cofactr provides a comprehensive, integrated solution for electronics procurement, storage, kitting, and shipping. The platform singlehandedly empowers our team to focus on real problems.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Stoke wanted to reduce logistics bottlenecks and improve turnaround times",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "The problem? Stoke (like many other aerospace companies) encountered friction in sourcing parts for its rockets due to post-pandemic supply chain woes. Parts that used to ship within a week were now back-ordered for several months, and these logistical bottlenecks negatively impacted growth and turnaround times.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Stoke needed a procurement and logistics solution to support its rapid production cycles, so it began searching for a comprehensive platform to complement its existing supply chain. That’s when the Stoke team discovered Cofactr.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "As a startup in the aerospace industry, you cannot afford to be held up by procurement issues. With Cofactr, we no longer get stuck waiting for parts or have to solve complex logistics problems that should be easy.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Cofactr provides Stoke with a single source of truth for component logistics",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike its industry counterparts, Stoke takes a holistic approach to sourcing electronic components. Using Cofactr, its team can order and store parts in bulk, preparing them for any future scenario. With access to numerous suppliers via Cofactr, Stoke’s procurement process is also more cost-efficient.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Cofactr has also been instrumental in helping Stoke reduce time spent on procurement-related tasks. Sourcing dozens to hundreds of components for its rockets would often take its team several days. Using the Cofactr platform, Stoke Space simply uploads a BOM and gets a complete rundown of every component’s availability and pricing. This feature alone saves its team countless hours each week.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "The cherry on top? Cofactr’s comprehensive approach to component logistics ensures Stoke doesn’t need to expand its headcount. Typically, sourcing and managing components would require a dedicated team — a costly expense for a growing company. Managing logistics via Cofactr has helped Stoke eliminate that requirement.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "We can simply press a button, and Cofactr handles our procurement needs. It has completely eliminated any associated stress and allowed us to focus on our business’s core competencies.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "With Cofactr, Stoke Space spends far less time on procurement-related tasks and more time focusing on creating innovative aerospace technologies.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Stoke considers Cofactr an extension of its team and a vital component in its future growth. As its projects expand, Stoke Space plans to continue using Cofactr to support its rapid production cycles and focus on what matters: democratizing access to orbit.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "The value of Cofactr’s services cannot be overstated. We couldn’t imagine reverting back to our traditional procurement methods.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing Data and Procurement",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Farcast improved manufacturing efficiency and saved valuable time with Cofactr’s unified supply chain platform.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Farcast improved manufacturing efficiency and saved valuable time with Cofactr’s unified supply chain platform.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   },
+   {
+    "quote": "Farcast needed better inventory control to prevent project delays",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   },
+   {
+    "quote": "These inefficiencies were further compounded when logistical errors were made. Given their sensitive nature, Farcasts parts needed to be placed in specific packaging known as reeling. However, in some cases, shipments arrived from contract manufacturers without the reeling needed to create the final products.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   },
+   {
+    "quote": "Farcast now has access to a far broader scope of information. Cofactr's Parts Data Intelligence keeps inventory data accessible for easy, automated material orders. This visibility helps Farcast proactively spot bottlenecks in their supply chain and anticipate issues before they escalate. The end result is smoother production with fewer delays and errors to navigate.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   },
+   {
+    "quote": "Cutting out potential delays from the manufacturing process with Cofactr makes Farcast's engineers more efficient. Rather than find the right vendor to put parts into reels, Cofactr facilitates the process so Farcast's team can keep kitting and shipping quick and straightforward.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering with Cofactr transformed Farcast's supply chain processes, leading to more efficient product development and fueling growth. Farcast's simpler approach to managing parts inventory sets their team up to be faster at every step — from creating a BOM in Cofactr to shipping kits to an assembly line.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Salient Motion used Cofactr to streamline component procurement and bolster productivity.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Built for manufacturers that can't risk component shortages, compliance gaps, or production delays.",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leaders to deliver their most mission-critical hardware on time, every time.",
+    "url": "https://www.cofactr.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leaders to deliver their most mission-critical hardware on time, every time.",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2, ITAR-registered, GovCloud-ready—defense and aerospace approved",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory that is ready to move when production calls for it. No warehouse scavenger hunts, no \"let me check and get back to you\"—24/7 intel and control on what you have, where it’s going, and when it delivers. Never miss a deadline or delay a build because of electronic parts.",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Full chain of custody from supplier to your production line",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "1-day kitting available from bi-coastal warehouse locations",
+    "url": "https://www.cofactr.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Farcast improved manufacturing efficiency and saved valuable time with Cofactr’s unified supply chain platform.",
+    "url": "https://www.cofactr.com/resources?type=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "is on a mission to democratize access to orbit, starting with 100% reusable rockets. Its unique ethos of swift and sustainable aerospace innovation has attracted an impressive number of investors, including",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Stoke is one of the fastest-growing aerospace companies ever — having already surpassed many incumbents in fundraising and innovation. Naturally, a company growing at this pace requires fast turnaround times for its low-cost, technically advanced rockets.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "The problem? Stoke (like many other aerospace companies) encountered friction in sourcing parts for its rockets due to post-pandemic supply chain woes. Parts that used to ship within a week were now back-ordered for several months, and these logistical bottlenecks negatively impacted growth and turnaround times.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "As a startup in the aerospace industry, you cannot afford to be held up by procurement issues. With Cofactr, we no longer get stuck waiting for parts or have to solve complex logistics problems that should be easy.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "With Cofactr, Stoke Space spends far less time on procurement-related tasks and more time focusing on creating innovative aerospace technologies.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Farcast improved manufacturing efficiency and saved valuable time with Cofactr’s unified supply chain platform.",
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Farcast improved manufacturing efficiency and saved valuable time with Cofactr’s unified supply chain platform.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   },
+   {
+    "quote": "builds user terminals that communicate with satellites to offer uninterrupted internet connectivity for remote locations and vehicles. While low-Earth orbit (LEO) satellites have seen manufacturing innovation, the hardware used to communicate with them has lagged behind. By developing the next generation of user terminals, Farcast is working to bring internet access anywhere.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   },
+   {
+    "quote": "These inefficiencies were further compounded when logistical errors were made. Given their sensitive nature, Farcasts parts needed to be placed in specific packaging known as reeling. However, in some cases, shipments arrived from contract manufacturers without the reeling needed to create the final products.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   },
+   {
+    "quote": "Since we worked with different contract manufacturers who stored inventory for us, we didn't have consistent access to their inventory management systems. Not having the visibility that we wanted into our own inventory made logistics more challenging.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   },
+   {
+    "quote": "Cutting out potential delays from the manufacturing process with Cofactr makes Farcast's engineers more efficient. Rather than find the right vendor to put parts into reels, Cofactr facilitates the process so Farcast's team can keep kitting and shipping quick and straightforward.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "These inefficiencies were further compounded when logistical errors were made. Given their sensitive nature, Farcasts parts needed to be placed in specific packaging known as reeling. However, in some cases, shipments arrived from contract manufacturers without the reeling needed to create the final products.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   },
+   {
+    "quote": "Cofactr's suite of tools allowed Farcast to simplify their inventory management for the entire team. With a centralized dashboard for parts data, Farcast gained much-needed control over their inventory. Engineers don't have to wonder when their parts are going to arrive; instead, all the parts and shipping information is available on Cofactr's platform.",
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cofactr.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cofactr.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cofactr.com/resources?type=case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cofactr.com/case-studies/how-stoke-space-streamlined-component-logistics-with-cofactr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cofactr.com/case-studies/how-farcast-2x-their-efficiency-simplified-inventory-management",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/jeepyokohamakonanofficial/videos/stellantis_jp-%E3%81%AF%E6%98%A8%E6%97%A511%E6%9C%883%E6%97%A5ram-%E3%83%A9%E3%83%A0%E3%81%AE%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AB%E5%B0%8E%E5%85%A5%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%82%E3%82%8B%E3%81%A8%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9Fram-/2537611416760787/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rV5eBV_k4i4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://careerforum.net/ja/event/tkw1/companylist_850/1787/44792/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coupa-external.okta.com/app/coupa-external_compassportal_1/exko20u0a42DBmEca1t7/sso/saml?SAMLRequest=fVJdTxsxEPwrJ7%2Ffd0gUK4kUSKtGou2JhD7wghbfHlj4bNfro%2Bm%2Fr88BFCoFyS8e7%2BzM7HpB0CvL14N%2F0jf4e0DyyXazZPcw7cqLroO0bosqncwuJum8fZilsxZBdHU5nbdzlvxCR9LoJauygiVbogG3mjxoH6CimqZlGc6%2BqPl4pllV13cs2QQVqcFH5pP3lnieCzNYSPHg0WlQmXn2kAnT52Dtf2%2F3AbZAZI3z4VbmeHg2VTEUMKk2l%2F0XAaWf5UQmH8Ox5KtxAmPCJetAEY5Om9BAvuA70jjjjTDqUupW6sclG5zmBkgS19AjcS%2F4bv39moek%2FOFYRPzbft%2Bkzc%2FdniVrInRjpCujaejR7dC9SIG3N9enIaPzLAaK8cae%2BTkuSw690sTjkj63ZF%2F9s9VirOZxF%2B6E%2Fzkd3hyw1Vmvi%2Fyk81HG8h%2Bh1XbTGCXF33HSPfjzSmVWRkS2aRdLOfYg1bptHRKFGSpl%2Flw5BB8W490QBpCvjrIf%2F%2BjqHw%3D%3D&RelayState=http%3A%2F%2Fcompass.coupa.com%2Fja-jp%2Fproducts%2Fsupplier-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zaikostore.com/zaikostore/maker?srsltid=AYCX9vI0XdTky26H36St2QziwcpnK43bjq4u-D3q9eJmipb_OG1HH_8q",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cofactr.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20251030380894/en/Cofactr-Democratizes-their-Complete-Procure-to-Ship-Automation-Service-at-a-Pivotal-Moment-for-US-Unlocking-Support-for-Agile-Hardware-Manufacturers-in-Americawith-No-Upfront-Costs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=8XA-B73jNEc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.resonac.com/corporate/unsung-leaders/20230101-02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cofactr.com/resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dacodes.com/clients/case-studies/cofactr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/cofactr.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/471935-26",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cofactr.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/cofactr",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "⭐️Cofactr 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.facebook.com/jeepyokohamakonanofficial/videos/stellantis_jp-%E3%81%AF%E6%98%A8%E6%97%A511%E6%9C%883%E6%97%A5ram-%E3%83%A9%E3%83%A0%E3%81%AE%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AB%E5%B0%8E%E5%85%A5%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%82%E3%82%8B%E3%81%A8%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9Fram-/2537611416760787/",
+    "https://www.youtube.com/watch?v=rV5eBV_k4i4",
+    "https://newswitch.jp/p/50724",
+    "https://www.accenture.com/ja/industries/automotive/omnichannel-experience",
+    "https://www.mt.com/jp/ja/home/events/live-webinars/automated-reactors/jp-ac-26401.html",
+    "https://www.youtube.com/watch?v=73UCOJUzUyY",
+    "https://www.travelvoice.jp/20261106-160810",
+    "https://news.yahoo.co.jp/articles/ef8a6d3fa3c74b05c3eb63b5616dd407f194cad9"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "⭐️Cofactr 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "https://careerforum.net/ja/event/tkw1/companylist_850/1787/44792/",
+    "https://compass.coupa.com/ja-jp/products/supplier-management",
+    "https://www.zaikostore.com/zaikostore/maker?srsltid=AYCX9vI0XdTky26H36St2QziwcpnK43bjq4u-D3q9eJmipb_OG1HH_8q",
+    "https://dentsu-ho.com/articles/3212",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://partnernet.hktb.com/japan/jp/e_marketplace/company_directory/index.html?accordionDefault=company&companyID=453&viewMode=Details",
+    "https://www.hakko-elec.co.jp/site/fasystem/business03.html",
+    "https://www.mt.com/jp/ja/home/perm-lp/market-organizations/jp/jp-tld870-2025.html",
+    "https://blog.buyer-zemi.jp/2026/07/12/sole-distributor-vs-sales-agent/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "⭐️Cofactr Japan",
+   "results": [
+    "https://www.cofactr.com/solutions",
+    "https://www.businesswire.com/news/home/20251030380894/en/Cofactr-Democratizes-their-Complete-Procure-to-Ship-Automation-Service-at-a-Pivotal-Moment-for-US-Unlocking-Support-for-Agile-Hardware-Manufacturers-in-Americawith-No-Upfront-Costs",
+    "https://www.youtube.com/watch?v=8XA-B73jNEc",
+    "https://www.resonac.com/corporate/unsung-leaders/20230101-02.html",
+    "https://vir.com.vn/fpt-and-cac-holdings-announce-new-joint-venture-in-japan-150366.html",
+    "https://www.youtube.com/watch?v=v3k1yqRhpR0",
+    "https://medium.com/makersbootcamp/how-startups-can-find-japanese-manufacturers-to-work-with-4d817fa2d3e5",
+    "https://www.techtarget.com/news/GlobalFoundries-to-run-21B-US-Japan-chip-fab-project/856922/",
+    "https://www.edn.com/after-tsmc-fab-in-japan-advanced-packaging-facility-is-next/",
+    "https://www.cofactr.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "⭐️Cofactr manufacturing customer case study",
+   "results": [
+    "https://www.cofactr.com/resources",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://dacodes.com/clients/case-studies/cofactr",
+    "https://www.factbird.com/resources/case-studies",
+    "https://portercap.com/issues-facing-manufacturing-industry/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://tryleverage.ai/case-study-manufacturing",
+    "https://www.elisaindustriq.com/resources/customer-stories",
+    "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "https://www.casestudies.com/company/cofactr"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "⭐️Cofactr white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://webinone.com/reseller-program",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.cofactr.com/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://omc.cloud/products/white-label-resellers",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://insighto.ai/blog/white-label-reseller-programs/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "⭐️Cofactr founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/cofactr.com",
+    "https://pitchbook.com/profiles/company/471935-26",
+    "https://www.cofactr.com/",
+    "https://www.crunchbase.com/organization/cofactr",
+    "https://channelvmedia.com/pr-case-studies/cofactr-funding/",
+    "https://app.dealroom.co/news/feed/cofactr-raises-17-2m-for-supply-chain-tools",
+    "https://www.linkedin.com/posts/ajay1agarwal_we-are-thrilled-to-be-doubling-down-on-our-activity-7273073107244924930-frre",
+    "https://www.businesswire.com/news/home/20241212219735/en/Cofactr-Raises-%2417M-Series-A-to-Streamline-Supply-Chain-So-Hardware-Manufacturers-Can-Iterate-Fast-While-Complying-With-Regulations-and-Policies",
+    "https://techcrunch.com/2022/11/28/cofactr-seed-round/",
+    "https://compworth.com/company/cofactr"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com ⭐️Cofactr",
+   "results": [
+    "https://note.com/tag/躁うつ病",
+    "https://note.com/seigo77",
+    "https://note.com/tag/dots",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/mogura2001/n/nbf59254b6ff2",
+    "https://note.com/miraisyakai/n/ne2e06d2279c3"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ⭐️Cofactr",
+   "results": [
+    "https://x.com/usepylon",
+    "https://x.com/tony_breu/status/1044296498207428608",
+    "https://x.com/_judewells",
+    "https://x.com/CBBaileyLab",
+    "https://x.com/dopamei7/status/2116222074788172110",
+    "https://x.com/DrSarahB",
+    "https://x.com/2nd_Tk4",
+    "https://x.com/valnaturalvzla/status/1710732262369853640",
+    "https://x.com/",
+    "https://x.com/p0ptartkitty/status/2115926138987913708"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com ⭐️Cofactr",
+   "results": [
+    "https://www.linkedin.com/posts/canmehmet_inverse-matrix-cofactor-method-3-x-3-activity-7246062842972356608-7U31",
+    "https://www.linkedin.com/in/tantravahi",
+    "https://www.linkedin.com/in/luisesuarez",
+    "https://www.linkedin.com/in/tony-zourkas-b30b454",
+    "https://www.linkedin.com/posts/rachil-koumproglou_linkage-disequilibrium-in-breeding-from-activity-7440023342583185409-_4qO",
+    "https://www.linkedin.com/in/daniel-arellano",
+    "https://www.linkedin.com/in/tim-elbialy-9a89732",
+    "https://www.linkedin.com/in/romit-mukherjee-25a6031b7",
+    "https://www.linkedin.com/in/geet-varghese",
+    "https://www.linkedin.com/check/en"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com ⭐️Cofactr",
+   "results": [
+    "https://www.facebook.com/mbbsstudent0/posts/the-baby-looks-normal-but-this-metabolic-disorder-can-cause-irreversible-brain-d/1765259275604464/",
+    "https://www.facebook.com/groups/107981169600612/posts/2597076580691046/",
+    "https://www.facebook.com/MathsScholars/videos/paul-halmos-19162006-was-a-mathematician-passionate-about-teaching-he-emphasised/1549208559567475/",
+    "https://www.facebook.com/100064759624377/posts/tickets-for-delsea-high-schools-production-of-the-wizard-of-ozare-now-on-sale-ma/1038681634967148/",
+    "https://www.facebook.com/LuckyStarSA/posts/why-have-a-12-step-skin-routine-when-you-can-eat-your-skincare-cause-we-dont-gat/1335064091998962/",
+    "https://www.facebook.com/groups/376197172562076/posts/2794324847415951/",
+    "https://www.facebook.com/waterwipes/posts/leaks-are-irritating-waterwipes-are-not-try-body-intimate-sensitive-wipes-xl-and/1535182698645603/",
+    "https://www.facebook.com/brandefyapp/posts/%EF%B8%8F-a-little-gold-star-for-your-morning-routine15-pure-l-ascorbic-acid-to-help-bri/1776879521111934/",
+    "https://www.facebook.com/groups/169395881709974/posts/1256606722988879/",
+    "https://www.facebook.com/RegisteredNurseRNs/posts/%EF%B8%8Fnew-video-heparin-pharmacology-reviewwatch-it-take-the-quiz-%EF%B8%8Fmore-pharm-videos/2274138102905405/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "⭐️Cofactr note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://www.youtube.com/watch?v=lZZmsijY6Bc",
+    "https://note.com/kentakato212/m/me837e4663584",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://agenda-note.com/serialization/?contents_type=315",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "⭐️Cofactr X 投稿",
+   "results": [
+    "https://x.com/CofactrTweets",
+    "https://twitter.com/search?q=%23Xfactor&src=hash",
+    "https://x.com/S502522/status/2116998406849872365/video/1",
+    "https://x.com/capok17",
+    "https://x.com/Cobatsart",
+    "https://x.com/M_M0702K_H/status/2117835051388072019/video/1",
+    "https://x.com/prettyfacecard_/status/1782232422928519285/video/3?lang=ar-x-fm",
+    "https://x.com/cofactodotai/articles",
+    "https://x.com/fakosta_",
+    "https://x.com/agfcm2/status/2110943823895380121"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

@@ -1,0 +1,983 @@
+{
+ "name": "Tau Group",
+ "aliases": [],
+ "context": "旧営業リスト｜Advanced Materials｜送付済み",
+ "researched_at": "2026-11-11T03:23:55.723520+00:00",
+ "official_url": "https://tretau.group/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Tretau is setting a new industry standard by producing sustainable, solvent-free, high performance magnet wire for the automotive, industrial, aerospace, heavy duty, railway, power grid and robotics sectors. Our innovative solutions support the growing need for electrification across a wide range of industries, while driving sustainability and performance.",
+    "url": "https://www.tretau.group/",
+    "pass": 1
+   },
+   {
+    "quote": "Less scrap with our coating process",
+    "url": "https://www.tretau.group/",
+    "pass": 1
+   },
+   {
+    "quote": "DryCycle® is a future-proof magnet wire coating technology that outperforms traditional enameling processes. It offers superior ease of use, flexibility and improved cost-efficiency. DryCycle® works with both thermoset and thermoplastic polymers such as PEEK, PFA, PPS, PPSU, PAEK, PEKK, PA11, PA12 to insulate copper, aluminum, nickel-plated and silver wire.",
+    "url": "https://www.tretau.group/",
+    "pass": 1
+   },
+   {
+    "quote": "Tretau produces magnet wire used in the windings of electric motors. We have developed the next generation of magnet wire that delivers the performance and efficiency needed for EVs.",
+    "url": "https://www.tretau.group/",
+    "pass": 1
+   },
+   {
+    "quote": "Tretau presents a diverse array of magnet wire products, catering to the needs of high-power density and demanding applications such as aerospace, robotics and other industrial applications.",
+    "url": "https://www.tretau.group/",
+    "pass": 1
+   },
+   {
+    "quote": "As pioneers in sustainable magnet wire manufacturing, we are taking a comprehensive approach to identifying, managing, and reducing the impact of our operations. We are committed to low-emissions production, resource efficiency and the use of recyclable materials. This allows us to significantly reduce the carbon footprint of our manufacturing and end products.",
+    "url": "https://www.tretau.group/",
+    "pass": 1
+   },
+   {
+    "quote": "Tretau drives sustainable growth through scalable solutions, strategic partnerships and innovation. Technological development and human progress go hand in hand, and we have assembled a team of individuals who are passionate about their work and driven by a shared purpose.",
+    "url": "https://www.tretau.group/",
+    "pass": 1
+   },
+   {
+    "quote": "Tretau’s concentric coating ensures uniform insulation thickness around the wire, providing optimal electrical insulation and reducing the risk of localized breakdowns.",
+    "url": "https://www.tretau.group/wire",
+    "pass": 1
+   },
+   {
+    "quote": "Specially developed for applications requiring tailored insulation, eccentric coating provides variable thickness to meet specific design and performance needs.",
+    "url": "https://www.tretau.group/wire",
+    "pass": 1
+   },
+   {
+    "quote": "Tretau’s magnet wire is designed to meet the specific demands of our customers. With fully customizable solutions, we produce magnet wire featuring a monolayer coating that offers best-in-class dielectric properties, exceptional aging performance, a bending radius of ≤ 1.0 mm (for rectangular wire), and a record-breaking adhesion stripping force of ≥ 2.0 N/mm (PEEK).",
+    "url": "https://www.tretau.group/wire",
+    "pass": 1
+   },
+   {
+    "quote": "Tretau has developed DryCycle®, a patented technology that balances the need for sustainable manufacturing with the power, reliability, and performance required by electrification. The wire manufactured through this breakthrough process enables the electric machines of tomorrow: more powerful, compact, and eco-friendly.",
+    "url": "https://www.tretau.group/wire",
+    "pass": 1
+   },
+   {
+    "quote": "DryCycle® redefines the efficiency, durability, precision and quality of magnet wire production. Our solvent-free, monolayer coating process offers three key benefits: it reduces operational complexity, minimizes environmental impact and enhances performance.",
+    "url": "https://www.tretau.group/wire",
+    "pass": 1
+   },
+   {
+    "quote": "DryCycle® is compatible with both thermoset and thermoplastic polymers, allowing greater versatility in product development. With strategic partnerships throughout our supply chain, we are able to reduce lead times.",
+    "url": "https://www.tretau.group/wire",
+    "pass": 1
+   },
+   {
+    "quote": "Our continuous sensor monitoring alongside a marking system enables us to guarantee precision and accuracy throughout the coating process, thus ensuring compliance with specifications in the final product. We produce high-performance magnet wire.",
+    "url": "https://www.tretau.group/wire",
+    "pass": 1
+   },
+   {
+    "quote": "Quality is part of our process",
+    "url": "https://www.tretau.group/wire",
+    "pass": 1
+   },
+   {
+    "quote": "Through a robust, ISO 9001:2015-certified Quality Management System, we ensure consistent compliance, continuous improvement, and adaptability to evolving market needs. By investing in skilled professionals and fostering a culture of learning, we empower our team to uphold excellence across every process.",
+    "url": "https://www.tretau.group/wire",
+    "pass": 1
+   },
+   {
+    "quote": "We pride ourselves on being deeply specialized engineers within several connected industries, including quality control, wire coating, and MEMS monitoring.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "We recognize that e-mobility applications are one of the most ambitious and transformative markets of today, which is why we're bringing our expertise to discover new and effective processes. At Tretau, we value specialization and expertise, and we're committed to making a positive impact on the environment.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "In the world of heavy industry, an analytical approach is essential for survival. Machine learning and AI provide us with a huge dataset that can improve our systems, operators' lives, and product quality.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "At Tretau, we know how to read data and interpret its value into measurable objectives. Our products have multiple sensors and actuators, and we collect all those measures to recreate a picture of our devices. By using data analysis, we can improve and adapt our technology to meet customer needs. We value innovation and data-driven decision-making.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": ", who uses a strategic mindset and collaborative approach to keep teams aligned, timelines on track and challenges turned into opportunities.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "We are preparing for a rapid scale-up over the next three years to supply to global OEMs.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "who handles our purchasing and continuously originates, vets and monitors our suppliers to ensure Tretau's sourcing of materials is in line with the production plan.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": ", our Quality Manager, who helps ensure that our products meet the highest standards of performance and reliability.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": ", who oversees our warehouse operations, making sure everything runs efficiently and products are always in the right place at the right time.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "Discover career opportunities at Tretau and take the next step in your professional journey. Browse through our available positions and submit your application today.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "We are seeking a dependable Production Operator to operate wire drawing, wire coating (insulation/jacketing), and wire rolling equipment.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "recruitment.us@tau.group",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "recruitment@tau.group",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "At Tretau, we value innovation, collaboration, and data-driven decision-making. Engineering creativity is just one element of our idea incubation process. We also define a stringent R&D strategy for these ideas, formulate a unique sales & marketing concept, develop a brilliant go-to-market strategy, and put together a compelling business plan.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "We're always looking for talented individuals who share our passion for problem-solving and pushing boundaries. Be a part of our mission for innovative solutions that have a positive impact on the environment.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "Don't worry if you don’t see a job that fits but are interested, we encourage you to get in touch! Submit your CV and a short note about your area of interest, and we’ll keep your profile in mind for upcoming opportunities.",
+    "url": "https://www.tretau.group/careers",
+    "pass": 1
+   },
+   {
+    "quote": "When you submit your application, we will collect and process your personal data, such as the information in your CV and any additional documents you provide. We process this data in compliance with the",
+    "url": "https://www.tretau.group/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Regulation (EU) 2016/679 (General Data Protection Regulation)",
+    "url": "https://www.tretau.group/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are seeking a detail-oriented and analytical Accountant to join our finance team at a magnet wire manufacturing company. The ideal candidate will have 3–7 years of accounting experience, preferably in a manufacturing environment, with a strong understanding of cost accounting, inventory valuation, general ledger accounting, and financial reporting.",
+    "url": "https://www.tretau.group/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are seeking a dependable Production Operator to operate wire drawing, wire coating (insulation/jacketing), and wire rolling equipment.",
+    "url": "https://www.tretau.group/careers",
+    "pass": 1
+   },
+   {
+    "quote": "La risorsa si occuperà principalmente di manutenzione elettrica, intervenendo anche sulla parte meccanica di impianti e macchinari, con l'obiettivo di garantirne il corretto funzionamento e ridurre al minimo eventuali fermi produttivi.",
+    "url": "https://www.tretau.group/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Regulation (EU) 2016/679 (General Data Protection Regulation)",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "recruitment@tau.group",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain general ledger accounts and prepare journal entries, account reconciliations, and support schedules.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare financial statements, management reports, and variance analyses.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Support product costing and cost-of-goods-sold (COGS) calculations.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Analyze production variances, including material usage, purchase price, labor, and overhead variances.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Work with production, purchasing, and operations teams to understand cost drivers and improve cost accuracy.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Assist with fixed asset accounting, depreciation, and capital expenditure tracking.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Identify opportunities to improve accounting processes, reporting accuracy, and internal controls.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "3–7 years of progressive accounting experience.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Prior experience working for a manufacturing company is required.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Proficiency in Microsoft Excel, including pivot tables, lookup functions, and financial data analysis.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Strong analytical, organizational, and problem-solving skills.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Preferred Qualifications",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Experience in electrical wire, magnet wire, copper wire, aluminum wire, metals, or other process manufacturing industries.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Familiarity with standard costing, bill of materials (BOM), work-in-process (WIP), and inventory reserves.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Knowledge of manufacturing cost variances and product profitability analysis.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "CPA, CMA, or progress toward a relevant certification is a plus.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Cross-functional communication with production, purchasing, and operations teams.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous improvement mindset.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Improved visibility into material costs, scrap, and production variances.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Tau Group、成長促進と生産能力強化のためのシリーズBラウンドで1100万ユーロの資金調達を完了 | Tau Groupのプレスリリース | 共同通信PRワイヤー",
+    "url": "https://kyodonewsprwire.jp/release/202401305954",
+    "pass": 3
+   },
+   {
+    "quote": "トリノ（イタリア）, 2024年1月30日 /PRNewswire/ -- エネルギー転換と脱炭素化を推進するリーディング・テクノロジー企業、Tau Groupは電気モーター用絶縁電線の新たな世界標準を確立しようとしています",
+    "url": "https://kyodonewsprwire.jp/release/202401305954",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Tretau is setting a new industry standard by producing sustainable, solvent-free, high performance magnet wire for the automotive, industrial, aerospace, heavy duty, railway, power grid and robotics sectors. Our innovative solutions support the growing need for electrification across a wide range of industries, while driving sustainability and performance.",
+    "url": "https://www.tretau.group/",
+    "pass": 1
+   },
+   {
+    "quote": "Tretau presents a diverse array of magnet wire products, catering to the needs of high-power density and demanding applications such as aerospace, robotics and other industrial applications.",
+    "url": "https://www.tretau.group/",
+    "pass": 1
+   },
+   {
+    "quote": "As pioneers in sustainable magnet wire manufacturing, we are taking a comprehensive approach to identifying, managing, and reducing the impact of our operations. We are committed to low-emissions production, resource efficiency and the use of recyclable materials. This allows us to significantly reduce the carbon footprint of our manufacturing and end products.",
+    "url": "https://www.tretau.group/",
+    "pass": 1
+   },
+   {
+    "quote": "Tretau has developed DryCycle®, a patented technology that balances the need for sustainable manufacturing with the power, reliability, and performance required by electrification. The wire manufactured through this breakthrough process enables the electric machines of tomorrow: more powerful, compact, and eco-friendly.",
+    "url": "https://www.tretau.group/wire",
+    "pass": 1
+   },
+   {
+    "quote": "In the world of heavy industry, an analytical approach is essential for survival. Machine learning and AI provide us with a huge dataset that can improve our systems, operators' lives, and product quality.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": ", who oversees our warehouse operations, making sure everything runs efficiently and products are always in the right place at the right time.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "Accountant – Manufacturing",
+    "url": "https://www.tretau.group/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are seeking a detail-oriented and analytical Accountant to join our finance team at a magnet wire manufacturing company. The ideal candidate will have 3–7 years of accounting experience, preferably in a manufacturing environment, with a strong understanding of cost accounting, inventory valuation, general ledger accounting, and financial reporting.",
+    "url": "https://www.tretau.group/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This position will support day-to-day accounting operations, manufacturing cost analysis, month-end closing, inventory reconciliation, and financial controls to help ensure accurate financial reporting and effective cost management.",
+    "url": "https://www.tretau.group/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Accountant – Manufacturing | Tretau",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Accountant – Manufacturing",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Tau Wire USA Corp is seeking a detail-oriented and analytical Accountant to join our finance team at a magnet wire manufacturing company.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Cost Accounting",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor and analyze manufacturing costs, including raw materials, direct labor, and manufacturing overhead.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Reconcile inventory records between the accounting system and manufacturing or warehouse records.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Prior experience working for a manufacturing company is required.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Understanding of inventory accounting, manufacturing costs, and cost-of-goods-sold calculations.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Experience in electrical wire, magnet wire, copper wire, aluminum wire, metals, or other process manufacturing industries.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Experience analyzing copper or aluminum raw material costs and manufacturing scrap.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Knowledge of manufacturing cost variances and product profitability analysis.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Reliable manufacturing cost and variance reporting.",
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What began as a local innovator has rapidly evolved into a global force shaping the future of mobility, renewable energy, and industrial electrification. Reflecting this accelerated growth and expanding impact, the company is unifying all current and future locations under a single name:",
+    "url": "https://www.tretau.group/post/tau-group-announces-rebrand-to-tretau-as-part-of-global-expansion-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Tretau operates across e-mobility, renewable energy, electrical grids, and industrial markets,",
+    "url": "https://www.tretau.group/post/tau-group-announces-rebrand-to-tretau-as-part-of-global-expansion-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Tau Group’s patented technologies enable sustainable and resource-efficient manufacturing, delivering the high performance essential for electrification. The company plays a pivotal role in the development of smaller, greener, and more powerful electric motors, transformers, and generators through its advanced magnet wire solutions.",
+    "url": "https://www.tretau.group/post/tau-group-announces-1-5-million-investment-from-mito-tech-ventures-to-expand-magnet-wire-production",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing & Industrial",
+    "url": "https://craft.co/tau-group",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://craft.co/tau-group",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Tretau presents a diverse array of magnet wire products, catering to the needs of high-power density and demanding applications such as aerospace, robotics and other industrial applications.",
+    "url": "https://www.tretau.group/",
+    "pass": 1
+   },
+   {
+    "quote": "Quality is part of our process",
+    "url": "https://www.tretau.group/wire",
+    "pass": 1
+   },
+   {
+    "quote": "Once you join Tretau, you become a part of a single periodic system, where each element is unique and works towards a common goal. By working with a team of dedicated players, we enhance our chances of achieving high adhesion in wire coating, accuracy in NIR analysis, and qualitative control of microelectronics. At Tretau, we value collaboration and innovation.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "We're always looking for talented individuals who share our passion for problem-solving and pushing boundaries. Be a part of our mission for innovative solutions that have a positive impact on the environment.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "Cision Ltd.の子会社として、Cisionクラウドベースコミュニケーション製品、世界最大のマルチチャネル、多文化コンテンツ普及ネットワークと包括的なワークフローツールおよびプラットフォームを組み合わせることで、様々な組織のストーリーを支えています",
+    "url": "https://kyodonewsprwire.jp/release/202401305954",
+    "pass": 3
+   },
+   {
+    "quote": "Tau Group Rebrand to Tretau as Part of Global Expansion Strategy",
+    "url": "https://www.tretau.group/post/tau-group-announces-rebrand-to-tretau-as-part-of-global-expansion-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Tau Group becomes Tretau as part of global expansion strategy",
+    "url": "https://www.tretau.group/post/tau-group-announces-rebrand-to-tretau-as-part-of-global-expansion-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "“Is just one part of a larger system that expresses our vision and where we’re going. It represents our leadership in powering the future of electrification.”",
+    "url": "https://www.tretau.group/post/tau-group-announces-rebrand-to-tretau-as-part-of-global-expansion-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Francesco Taiariol is listed as CEO at Tau Group.",
+    "url": "https://fundediq.co/tau-group-tau-group-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Tau Group have?",
+    "url": "https://fundediq.co/tau-group-tau-group-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/tau-group-tau-group-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/tau-group-tau-group-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Tau Group Company Profile - Office Locations, Competitors, Revenue, Financials, Employees, Key People, Subsidiaries | Craft.co",
+    "url": "https://craft.co/tau-group",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "We are preparing for a rapid scale-up over the next three years to supply to global OEMs.",
+    "url": "https://www.tretau.group/people",
+    "pass": 1
+   },
+   {
+    "quote": "Tau Group Rebrand to Tretau as Part of Global Expansion Strategy",
+    "url": "https://www.tretau.group/post/tau-group-announces-rebrand-to-tretau-as-part-of-global-expansion-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "Tau Group, the technology company at the forefront of the energy transition and a pioneer in electrification and decarbonization, is proud to announce its new brand name. The rebranding marks a pivotal milestone in the company’s international growth, aligning with its vision to unify operations and establish a stronger presence across global markets.",
+    "url": "https://www.tretau.group/post/tau-group-announces-rebrand-to-tretau-as-part-of-global-expansion-strategy",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tau Group、成長促進と生産能力強化のためのシリーズBラウンドで1100... — Jan 30, 2024 · Tau Groupは、シリーズB資金調達ラウンドで1100万ユーロの調達に成功しました。 このラウンドでは、CDP Venture CapitalとSantander Alternative Investments（Santander InnoEnergy Climate Fundを通じて）が主幹事を務め、既存投資家から継続的な支援を受けました。",
+    "url": "https://kyodonewsprwire.jp/release/202401305954",
+    "pass": 3
+   },
+   {
+    "quote": "Tau Group Announces Rebrand to Tretau as Part of Global ... — Jul 8, 2025 · What began as a local innovator has rapidly evolved into a global force shaping the future of mobility, renewable energy, and industrial electrification: Tau Group becomes Tretau.",
+    "url": "https://www.tretau.group/post/tau-group-announces-rebrand-to-tretau-as-part-of-global-expansion-strategy",
+    "pass": 3
+   },
+   {
+    "quote": "TAU Corporation / The largest Damaged Car Trader in JapanTau Group Announces €1.5 Million Investment from MITO Tech ...Tau Group becomes Tretau as part of global expansion strategy. — TAU has been implementing the most advanced business management since the establishment in 1996 which realized TAU is one of the largest companies dealing with damaged vehicles to all over the world. Today those new ",
+    "url": "https://www.tau-trade.com/sal_frt/static/pages/en/companyprofile.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tau Group Announces €1.5 Million Investment from MITO Tech ... — Tau is a technology company at the core of energy transition, decarbonization of energy and electrification of transport.",
+    "url": "https://www.tretau.group/post/tau-group-announces-1-5-million-investment-from-mito-tech-ventures-to-expand-magnet-wire-production",
+    "pass": 3
+   },
+   {
+    "quote": "Tau Group: Funding, Investors & Team (Oct 2026) | FundedIQ — Tau Group is an Energy company in Torino, Italy. Raised $42.8M across 4 rounds; latest a Series C in Sep 2025. Investors, founders and funding history.",
+    "url": "https://fundediq.co/tau-group-tau-group-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Tau Group: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Financial History Tau Group has raised $45.4M across 3 funding rounds. Most recently, it raised $23.7M Series C in September 2025.",
+    "url": "https://startupintros.com/orgs/tau-group",
+    "pass": 3
+   },
+   {
+    "quote": "Tau Group — Funding, Investors & Team | Seedtable — Jan 30, 2024 · What changed at Tau Group recently — detected automatically from funding, hiring and leadership data.",
+    "url": "https://seedtable.com/companies/tau-group",
+    "pass": 3
+   },
+   {
+    "quote": "Tau Group Company Profile - Office Locations, Competitors ...TAU Group Revenue, Funding & Valuation - prospeo.ioTau Group Overview | SignalHire Company ProfileTau: 15 Tools Behind $8M Revenue [2026] | TechList.ai — Tau Group has 5 employees across 3 locations and $22.92 m in total funding,. See insights on Tau Group including office locations, competitors, revenue, financials, executives, subsidia",
+    "url": "https://craft.co/tau-group",
+    "pass": 3
+   },
+   {
+    "quote": "TAU Group Revenue, Funding & Valuation - prospeo.io — TAU GROUP was established in 2011 as a black owned entity operating in the IT space providing a variety of solutions & services. We pride ourselves in our un-paralleled experience and capabilities across all sectors in business.",
+    "url": "https://prospeo.io/c/tau-group-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact details for the Tau Group team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/tau-group-tau-group-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/tau-group-tau-group-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "TAU Group Management - LinkedIn As the parent organization behind TAU Logistics, TAU White Glove Plus, Bligh AI, and future portfolio companies, TAU Group Management is committed to building a diversified ecosystem of...",
+    "url": "https://www.linkedin.com/company/taugroup-management",
+    "pass": 3
+   },
+   {
+    "quote": "Tau Group becomes Tretau as part of global expansion strategy. Tau Group becomes Tretau as part of global expansion strategy. Tretau 5,526 followers 1y",
+    "url": "https://www.linkedin.com/posts/taugroup_tau-group-becomes-tretau-as-part-of-global-activity-7348682339993989121-IVu4",
+    "pass": 3
+   },
+   {
+    "quote": "Filippo Veglia - Sales Director at TAU Group | LinkedInFrancesco Taiariol - Tretau | LinkedInTAU Group - LinkedInTretau - LinkedIn Sales Director at TAU Group · Esperienza: Tau Group · Località: Torino · Più di 500 collegamenti su LinkedIn. Vedi il profilo di Filippo Veglia su LinkedIn, una community professionale... Tretau co-founder and CEO, accelerating electrification with high performace wire",
+    "url": "https://it.linkedin.com/in/filippo-veglia-16337615",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tau Group - Facebook Aug 7, 2025 · Tau Group. 6 likes. Estratégia e inovação para negócios de alto impacto. Transformando marcas, impulsionando legados. 🚀",
+    "url": "https://www.facebook.com/holdingtau/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tretau.group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tretau.group/wire",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tretau.group/people",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tretau.group/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tretau.group/vacancies/accountant-%E2%80%93-manufacturing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://static.wixstatic.com/media/d70790_17bb5c48cab247f5b7f4e2811b9e4d29~mv2.png/v1/fill/w_49,h_31,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Machine%20render_edited.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kyodonewsprwire.jp/release/202401305954",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tretau.group/post/tau-group-announces-rebrand-to-tretau-as-part-of-global-expansion-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cctest.ai/ja/articles/tau%E3%81%AE%E9%81%A0%E9%9A%94%E6%93%8D%E4%BD%9C%E5%9E%8B%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E6%B8%85%E6%8E%83%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%8C%E7%A4%BA%E3%81%99%E5%AE%B6%E5%BA%AD%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E7%8F%BE%E5%AE%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zaikei.co.jp/article/20260803/864131.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tausystems.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/ja-JP/contact-us/CompanyInfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tretau.group/post/tau-group-announces-rebrand-to-tretau-as-part-of-global-expansion-strategy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tau-trade.com/sal_frt/static/pages/ja/companyprofile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tretau.group/post/tau-group-announces-1-5-million-investment-from-mito-tech-ventures-to-expand-magnet-wire-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tau.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tau-diseno/case-study/fomento-group-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tau9labs.com/case-studies/snapfab",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tau-diseno/case-study/recoletos-group-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/tau-diseno/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/tau-group-tau-group-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/tau-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/companies/tau-group",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://craft.co/tau-group",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/taugroup-management",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/taugroup_tau-group-becomes-tretau-as-part-of-global-activity-7348682339993989121-IVu4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/in/filippo-veglia-16337615",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/holdingtau/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tau Group 日本 導入",
+   "results": [
+    "https://kyodonewsprwire.jp/release/202401305954",
+    "https://www.tretau.group/post/tau-group-announces-rebrand-to-tretau-as-part-of-global-expansion-strategy",
+    "https://cctest.ai/ja/articles/tauの遠隔操作型ヒューマノイド清掃ロボットが示す家庭ロボットの現実",
+    "https://zaikei.co.jp/article/20260803/864131.html",
+    "https://www.dreamnews.jp/press/0000274802/",
+    "https://tau.co.jp/",
+    "https://tau.co.jp/services/network/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tau Group 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.tausystems.com/",
+    "https://www.smith-nephew.com/ja-JP/contact-us/CompanyInfo",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.tau-trade.com/sal_frt/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tau Group Japan",
+   "results": [
+    "https://www.tretau.group/post/tau-group-announces-rebrand-to-tretau-as-part-of-global-expansion-strategy",
+    "https://www.tau-trade.com/sal_frt/static/pages/en/companyprofile.html",
+    "https://www.tretau.group/post/tau-group-announces-1-5-million-investment-from-mito-tech-ventures-to-expand-magnet-wire-production",
+    "https://tau.co.jp/",
+    "https://www.tau-trade.com/sal_frt/",
+    "https://tau.co.jp/services/network/",
+    "https://www.linkedin.com/posts/taugroup_tau-group-becomes-tretau-as-part-of-global-activity-7348682339993989121-IVu4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tau Group manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/tau-diseno/case-study/fomento-group-customer-case-study",
+    "https://www.tau9labs.com/case-studies/snapfab",
+    "https://www.casestudies.com/company/tau-diseno/case-study/recoletos-group-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/tau-diseno/case-studies",
+    "https://viantrade.com/pdfs/DurstTauInProduction.pdf",
+    "https://www.appsruntheworld.com/customers-database/customers/view/tau-manufacturing-vietnam",
+    "https://www.taumanufacturing.com/our-story"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tau Group white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://www.unifyr.com/atlas/reseller",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tau Group founded funding employees revenue",
+   "results": [
+    "https://fundediq.co/tau-group-tau-group-funding/",
+    "https://startupintros.com/orgs/tau-group",
+    "https://seedtable.com/companies/tau-group",
+    "https://craft.co/tau-group",
+    "https://prospeo.io/c/tau-group-revenue",
+    "https://www.signalhire.com/companies/tau-group",
+    "https://techlist.ai/tau.group"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tau Group",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/tag/我々は宇宙人",
+    "https://note.com/drneurosur/n/n9bf28d7cdbd7?hl=en",
+    "https://note.com/ozyanma/n/n8b48c25e01d4?hl=en",
+    "https://note.com/tipnews/n/n224420cb0c90?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tau Group",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Tau Group",
+   "results": [
+    "https://www.linkedin.com/company/taugroup-management",
+    "https://www.linkedin.com/posts/taugroup_tau-group-becomes-tretau-as-part-of-global-activity-7348682339993989121-IVu4",
+    "https://in.linkedin.com/company/taugroup",
+    "https://it.linkedin.com/in/filippo-veglia-16337615",
+    "https://it.linkedin.com/in/taiariol",
+    "https://www.linkedin.com/company/tau-group",
+    "https://www.linkedin.com/company/taugroup"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tau Group",
+   "results": [
+    "https://www.facebook.com/holdingtau/",
+    "https://www.facebook.com/people/Alpha-Delta-Kappa-Iowa-Tau-Chapter/100063551675114/",
+    "https://secure.facebook.com/",
+    "https://business.facebook.com/groups/vungtauexpatlocal/",
+    "https://www.facebook.com/groups/1882252708889778/",
+    "https://www.facebook.com/p/W-Tao-Sushi-100057216588568/",
+    "https://business.facebook.com/groups/377584323399507/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tau Group note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/ceoinvestnote/n/n19e2251218a5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.zaikai.jp/articles/detail/2552"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tau Group X 投稿",
+   "results": [
+    "https://x.com/Tau_Net",
+    "https://x.com/Tau_CoreTeam",
+    "https://github.com/Tau-Group",
+    "https://taugroup.github.io/",
+    "http://analytics.tau.group/login",
+    "https://tau.amegroups.org/",
+    "https://tau.amegroups.org/pages/view/guidelines-for-authors"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部28頁・検索12回）"
+ }
+}

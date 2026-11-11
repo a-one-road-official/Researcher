@@ -1,0 +1,1112 @@
+{
+ "name": "Fleetzero",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送付済み",
+ "researched_at": "2026-11-11T03:07:47.380478+00:00",
+ "official_url": "https://www.fleetzero.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "・設立",
+    "value": "・設立：2021年",
+    "url": "https://www.nikkei.com/article/DGXZRSP669892_Y4A320C2000000/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2021年",
+    "url": "https://www.lnews.jp/2024/03/q0328503.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2021年",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000080050.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2021年04月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000080050.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都港区虎ノ門2-1-1\n商船三井ビル5階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000080050.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Fleetzero builds with modular designs, advanced manufacturing, and autonomous propulsion to fundamentally change the",
+    "url": "https://www.fleetzero.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PRE-FAB & PRE-COMMISSIONED",
+    "url": "https://www.fleetzero.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vertically Integrated Propulsion & Intelligence",
+    "url": "https://www.fleetzero.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Electric propulsion and autonomy-ready systems designed together from the beginning.",
+    "url": "https://www.fleetzero.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional propulsion requires constant maintenance. Fleetzero’s Leviathan propulsion system enables long-range autonomy.",
+    "url": "https://www.fleetzero.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You will face high voltages, unproven paths, and challenges few are willing to take on.",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "Mike served at sea as a Marine Engineer and Ships Officer and led the Shipping and Energy sales division at Infor before cofounding Fleetzero. He graduated from the U.S. Merchant Marine Academy with his Bachelors's in Marine Engineering Systems (ship propulsion & design) and earned his MBA from Rice University. Mike is also proud to have served as an officer in the U.S. Navy Reserve.",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "VP, MARKETING",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "Matt is a growth marketing and business development leader with a proven track record of driving brand transformation. Prior to joining Fleetzero, he led marketing for the HUMMER EV at General Motors and spearheaded multiple brand and market turnarounds. He holds an MBA from Auburn University and a bachelor’s degree in Marketing from Oral Roberts University.",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "ELECTRIFICATION PROGRAM MANAGER",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "Kristian leads the company's European expansion. He brings over a decade of experience in the marine industry, including serving as a Sales Manager at Wärtsilä, where he oversaw global sales of green retrofit solutions for vessels and developed go-to-market concepts for emerging electrification projects. He holds an engineering degree in automation technology and an MBA in strategy and leadership.",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "PROJECT SUPERINTENDENT",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "ROBOTICS PROGRAM MANAGER",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "Jeff is a recent graduate with a mechanical engineering degree and has experience in design work. Previously designing from the ground up, writing code and software, to implementing control strategies- at Fleetzero, Jeff fulfills a role as robotics engineer.",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "Tyler has experience as an engineer at several consumer electronics startups and as build captain of a world champion robotics team prior to joining Fleetzero. Tyler is a Venture For America Fellow and has a Bachelor's degree in Mechanical Engineering from Brown University.",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "Harry graduated Electrical Engineer from the University of Wisconsin-Madison, with a strong foundation in electrical engineering principles. During his studies, he gained valuable leadership experience and was actively involved with the Institute of Electrical and Electronics Engineers (IEEE).",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "Now serving as Lead Industrial Designer at Fleetzero, Mila brings an architectural mindset to product development, turning complex challenges into clear, well-crafted solutions. She values design that works as beautifully as it looks and is driven by a hands-on approach and a genuine love of making things.",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "(Credit: PRNewsfoto and Fleetzero)",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Houston-based marine tech startup Fleetzero has raised $43 million in Series A funding, positioning itself to scale up production of its modular electric and hybrid propulsion systems. Alongside the capital raise, the company has opened a new manufacturing and R&D facility in Houston, signaling a shift from prototyping to industrial-scale operations.",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "The startup is betting that containerized electric propulsion systems—designed to be retrofitted or integrated into new builds—can become a commercially viable path to lower emissions in",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero’s newly opened Houston facility includes a production line capable of delivering 300 MWh of",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "annually, with plans to increase that capacity to 3 GWh over the next five years. The site also houses labs focused on propulsion R&D, robotics, and autonomy.",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "chose Houston in part for its access to a skilled industrial workforce with expertise in maritime operations and large-scale hardware manufacturing—key factors as it moves from development to deployment.",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to propulsion, Fleetzero’s leadership has positioned the company as part of a larger effort to revitalize shipbuilding through repeatable, modular manufacturing. The aim is not only to reduce emissions but to rethink how vessels are designed and built for the next generation of",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "and learn more about advertising and partnership opportunities.",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "transforming complex industry topics into clear, engaging content for professionals and decision-makers alike.",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "AIのために電力網はどう作り変えられているのか | Bloomberg Primer",
+    "url": "https://www.youtube.com/watch?v=84FqBXSZT9A",
+    "pass": 3
+   },
+   {
+    "quote": "Practical Engineering",
+    "url": "https://www.youtube.com/watch?v=84FqBXSZT9A",
+    "pass": 3
+   },
+   {
+    "quote": "OG PRM 302 電気フェリーの社会実装",
+    "url": "https://www.youtube.com/watch?v=84FqBXSZT9A",
+    "pass": 3
+   },
+   {
+    "quote": ", a marine technology company developing hybrid and electric propulsion systems for commercial vessels, has raised $43 million in Series A financing and opened a new manufacturing and research facility in Houston aimed at scaling production of its Leviathan propulsion platform.",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": "and other investors. The company said the capital will be used to expand manufacturing capacity and accelerate deployment of its energy storage and propulsion systems on newbuild and retrofit projects worldwide.",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": "“Hybrid and electric propulsion systems are simply cheaper, safer, and cleaner than traditional systems, and the shift in the industry towards electrification is inevitable,” said Steven Henderson, Fleetzero co-founder and CEO.",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": "The Houston headquarters will serve as the company’s primary manufacturing and R&D hub. Fleetzero said the facility includes a production line capable of producing 300 MWh per year of marine energy storage systems, along with a robotics and autonomy lab and propulsion test center. The company plans to expand output to as much as 3 GWh annually within five years.",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": ". “We’re proud to support innovative companies such as Fleetzero. Their ambitions that go from battery technology to broader infrastructure make them a great partner for Maersk.”",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": "The funding and facility opening come as operators and regulators push for lower-emission propulsion options and as U.S. shipyards look for scalable domestic supply chains in batteries, power electronics, and integrated vessel systems. Fleetzero said it expects the Houston operation to anchor long-term production for both propulsion equipment and future autonomous vessel platforms.",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": "/PRNewswire/ -- Fleetzero, a marine technology company building hybrid and electric propulsion systems for ships, today announced a $43 million Series A financing and the opening of a new manufacturing and R&D facility in Houston, Texas.",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "The capital will be used to expand manufacturing of Fleetzero's Leviathan™ hybrid and electric marine propulsion system, which is being deployed globally on commercial vessels.",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "Steven Henderson, co-founder and CEO, and Mike Carter, co-founder and COO, with the Fleetzero Containerized Leviathan™ Battery System. (PRNewsfoto/Fleetzero)",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Hybrid and electric propulsion systems are simply cheaper, safer, and cleaner than traditional systems, and the shift in the industry towards electrification is inevitable,\" said Steven Henderson, co-founder and CEO of Fleetzero.",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero's new headquarters in Houston will serve as the company's hub for manufacturing and R&D. The facility includes a production line with an initial capacity of 300 MWh/year of marine ESS systems, a marine robotics and autonomy lab, and a marine propulsion R&D center. Fleetzero plans to expand its Houston production capacity up to three GWh/yr over the next five years.",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "The company's Leviathan™ propulsion system can be used on new or existing ships in a hybrid or all-electric configuration and is designed to lower the total cost of ownership of large commercial ships through maintenance and fuel savings.",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"We believe that electrification will be an important part of the mix on our journey to reach net-zero,\" said Morten Bo Christiansen, Head of Energy Transition at A.P. Moller-Maersk. \"We're proud to support innovative companies such as Fleetzero.\" \"Their ambitions that go from battery technology to broader infrastructure make them a great partner for Maersk.\"",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Fleetzero is bringing back maritime technology leadership to this country,\" said Rayyan Islam, Co-Founder and General Partner at 8090 Industries. \"We invested in Fleetzero because we feel they are uniquely positioned to take shipbuilding from a series of custom construction projects to truly high-volume manufacturing…and this is crucial to building back seapower to the US.\"",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "Matt Mallino, VP of Marketing",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero is a marine technology company that sells electric and hybrid marine propulsion systems for new and existing commercial vessels. Fleetzero is also developing unmanned cargo vessel technology. Fleetzero is headquartered in Houston, Texas, with operations and partners globally.",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "Environmental Products & Services",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Fleetzero builds with modular designs, advanced manufacturing, and autonomous propulsion to fundamentally change the",
+    "url": "https://www.fleetzero.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modules built off-site. Repeatable designs. Robotic manufacturing. Less material.",
+    "url": "https://www.fleetzero.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fleetzero is bringing the efficiency and scalability of modern manufacturing to shipbuilding.",
+    "url": "https://www.fleetzero.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Factory-Built vs. Shipyard-Built",
+    "url": "https://www.fleetzero.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MANUFACTURING OPERATIONS LEAD",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "LEAD INDUSTRIAL DESIGNER",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "Now serving as Lead Industrial Designer at Fleetzero, Mila brings an architectural mindset to product development, turning complex challenges into clear, well-crafted solutions. She values design that works as beautifully as it looks and is driven by a hands-on approach and a genuine love of making things.",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "Chris brings 20+ years of experience designing firmware for oil and gas, industrial controls, battery systems and space industries. He holds a bachelor's degree in computer engineering from South Dakota School of Mine and is a licensed electrical engineer in the state of Texas.",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "Houston-based marine tech startup Fleetzero has raised $43 million in Series A funding, positioning itself to scale up production of its modular electric and hybrid propulsion systems. Alongside the capital raise, the company has opened a new manufacturing and R&D facility in Houston, signaling a shift from prototyping to industrial-scale operations.",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": ". By focusing on standardized, swappable systems, Fleetzero is targeting a range of commercial vessel types, from coastal cargo ships to industrial fleets.",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Launch Marks Scale-Up of Maritime Battery Systems",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero’s newly opened Houston facility includes a production line capable of delivering 300 MWh of",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "chose Houston in part for its access to a skilled industrial workforce with expertise in maritime operations and large-scale hardware manufacturing—key factors as it moves from development to deployment.",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to propulsion, Fleetzero’s leadership has positioned the company as part of a larger effort to revitalize shipbuilding through repeatable, modular manufacturing. The aim is not only to reduce emissions but to rethink how vessels are designed and built for the next generation of",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Automation",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": ", a marine technology company developing hybrid and electric propulsion systems for commercial vessels, has raised $43 million in Series A financing and opened a new manufacturing and research facility in Houston aimed at scaling production of its Leviathan propulsion platform.",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": "and other investors. The company said the capital will be used to expand manufacturing capacity and accelerate deployment of its energy storage and propulsion systems on newbuild and retrofit projects worldwide.",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": "The Houston headquarters will serve as the company’s primary manufacturing and R&D hub. Fleetzero said the facility includes a production line capable of producing 300 MWh per year of marine energy storage systems, along with a robotics and autonomy lab and propulsion test center. The company plans to expand output to as much as 3 GWh annually within five years.",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": "“Houston has the people who know how to build and operate big hardware – ships, rigs, refineries, and power systems,” said Mike Carter, co-founder and COO. “We’re pairing that industrial DNA with modern batteries, autonomy, and software to bring back shipbuilding to the U.S.”",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": "The funding and facility opening come as operators and regulators push for lower-emission propulsion options and as U.S. shipyards look for scalable domestic supply chains in batteries, power electronics, and integrated vessel systems. Fleetzero said it expects the Houston operation to anchor long-term production for both propulsion equipment and future autonomous vessel platforms.",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": "/PRNewswire/ -- Fleetzero, a marine technology company building hybrid and electric propulsion systems for ships, today announced a $43 million Series A financing and the opening of a new manufacturing and R&D facility in Houston, Texas.",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "The capital will be used to expand manufacturing of Fleetzero's Leviathan™ hybrid and electric marine propulsion system, which is being deployed globally on commercial vessels.",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero's new headquarters in Houston will serve as the company's hub for manufacturing and R&D. The facility includes a production line with an initial capacity of 300 MWh/year of marine ESS systems, a marine robotics and autonomy lab, and a marine propulsion R&D center. Fleetzero plans to expand its Houston production capacity up to three GWh/yr over the next five years.",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Houston has the people who know how to build and operate big hardware – ships, rigs, refineries, and power systems,\" said Mike Carter, co-founder and COO of Fleetzero. \"We're pairing that industrial DNA with modern batteries, autonomy, and software to bring back shipbuilding to the US.\"",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Fleetzero is bringing back maritime technology leadership to this country,\" said Rayyan Islam, Co-Founder and General Partner at 8090 Industries. \"We invested in Fleetzero because we feel they are uniquely positioned to take shipbuilding from a series of custom construction projects to truly high-volume manufacturing…and this is crucial to building back seapower to the US.\"",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Harry graduated Electrical Engineer from the University of Wisconsin-Madison, with a strong foundation in electrical engineering principles. During his studies, he gained valuable leadership experience and was actively involved with the Institute of Electrical and Electronics Engineers (IEEE).",
+    "url": "https://www.fleetzero.com/join",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to propulsion, Fleetzero’s leadership has positioned the company as part of a larger effort to revitalize shipbuilding through repeatable, modular manufacturing. The aim is not only to reduce emissions but to rethink how vessels are designed and built for the next generation of",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Kaleigh Harrison is a contributing writer with Environment Energy Leader, where she has been covering the intersection of environmental policy and the energy sector since 2023. Driven by a passion for storytelling, Kaleigh brings a distinctive narrative voice to her work --",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "“We believe that electrification will be an important part of the mix on our journey to reach net-zero,” said Morten Bo Christiansen, head of energy transition at",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": "\"We believe that electrification will be an important part of the mix on our journey to reach net-zero,\" said Morten Bo Christiansen, Head of Energy Transition at A.P. Moller-Maersk. \"We're proud to support innovative companies such as Fleetzero.\" \"Their ambitions that go from battery technology to broader infrastructure make them a great partner for Maersk.\"",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero Revenue 2024: $7.2M Est.",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero has not published its revenue. GetLatka estimates it at about $7.2M a year (June 2024).",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero CEO, founders & employees",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   },
+   {
+    "quote": "Steven Henderson founded Fleetzero in 2021 and runs it as CEO. Fleetzero had 14 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Fleetzero's revenue?",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Fleetzero's revenue at about",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Fleetzero have?",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "海運の常識を塗り替える同社の論理と技術戦略、日本市場への展望を聞いた",
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場には非常に大きな期待を寄せています",
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "pass": 3
+   },
+   {
+    "quote": "海運のバリューチェーンにおいて、アジア、特に日本は造船の中心地であり、海上交通の要所でもあります",
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "pass": 3
+   },
+   {
+    "quote": "また、アメリカに比べて、日本やアジアの人々は港湾都市や日々の生活を通じて、海運という産業をより身近に、高い意識を持って捉えていると感じます",
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、日本を含むアジア全域でのプレゼンスを急速に強化していく方針です",
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "pass": 3
+   },
+   {
+    "quote": "―アジア・日本市場の特性について、どんな印象を持っていますか",
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "pass": 3
+   },
+   {
+    "quote": "―日本のビジネスリーダーや潜在的なパートナーへのメッセージをお願いします",
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは日本市場での関係性をさらに深めたいと考えており、「日本の造船所」「システムインテグレーター」「船主（シップオーナー）」の皆様との連携を模索しています",
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み",
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る",
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "pass": 3
+   },
+   {
+    "quote": "商船三井、MOL PLUSが船舶用バッテリーシステムとEV船の開発・製造を行うFleetzero社への出資を決定 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZRSP669892_Y4A320C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MOL PLUS（代表 : 阪本拓也、本社 : 東京都港区、以下「MOL PLUS」）は、船舶用バッテリーシステムとEV船の開発・製造を行う FLEETZERO INC.（CEO : Steven Henderson、本社 : 米国、読み : フリートゼロ、以下「FZ社」）への出資を決定しました",
+    "url": "https://www.nikkei.com/article/DGXZRSP669892_Y4A320C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "MOL PLUSはFZ社と共に、商船三井グループの船舶へのバッテリーシステム導入を推進するほか、社会実装を加速するために、アジアを中心とする海事関係者を巻き込み、日本市場への参入支援とパートナーシップ構築を推進いたします",
+    "url": "https://www.nikkei.com/article/DGXZRSP669892_Y4A320C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "COP31、日本展示館で資源循環を訴求 JFEエンジ・LIXIL",
+    "url": "https://www.nikkei.com/article/DGXZRSP669892_Y4A320C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞の編集者が選んだ押さえておきたい「ニュース５本」をお届けします",
+    "url": "https://www.nikkei.com/article/DGXZRSP669892_Y4A320C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "MOL PLUSはFZ社と共に、商船三井グループの船舶へのバッテリーシステム導入を推進し、社会実装を加速するため、アジアを中心とする海事関係者を巻き込み、日本市場への参入支援とパートナーシップ構築を推進する考えだ",
+    "url": "https://www.lnews.jp/2024/03/q0328503.html",
+    "pass": 3
+   },
+   {
+    "quote": "商船三井CVC(MOL PLUS)が船舶用バッテリーシステムとEV船の開発・製造を行うFleetzero社への出資を決定 | 株式会社MOL PLUSのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000080050.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社MOL PLUS（代表：阪本拓也、本社：東京都港区、以下「MOL PLUS」）は、船舶用バッテリーシステムとEV船の開発・製造を行うFLEETZERO INC.（CEO：Steven Henderson、本社：米国、読み：フリートゼロ、以下「FZ社」）への出資を決定しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000080050.html",
+    "pass": 3
+   },
+   {
+    "quote": "MOL PLUSはFZ社と共に、商船三井グループの船舶へのバッテリーシステム導入を推進するほか、社会実装を加速するために、アジアを中心とする海事関係者を巻き込み、日本市場への参入支援とパートナーシップ構築を推進いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000080050.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区虎ノ門2-1-1",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000080050.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「船舶電動化は『我慢』じゃない、コスト削減の手段だ ... — 「船舶電動化は『我慢』じゃない、コスト削減の手段だ ... TECHBLITZ https://techblitz.com > startup-interview > fleetzero",
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "pass": 3
+   },
+   {
+    "quote": "バッテリー： FleetZero は船舶動力のルールを書き換えること ... — バッテリー： FleetZero は船舶動力のルールを書き換えること ... Marine Link http://ja.marinelink.com > news > バッテリー：fleetzeroは...",
+    "url": "http://ja.marinelink.com/news/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%EF%BC%9Afleetzero%E3%81%AF%E8%88%B9%E8%88%B6%E5%8B%95%E5%8A%9B%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB%E3%82%92%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-306135",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero | The Future of Shipping — Fleetzero | The Future of Shipping Fleetzero https://www.fleetzero.com",
+    "url": "https://www.fleetzero.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero Scales Up Electric Shipping with $43M Series A — Fleetzero Scales Up Electric Shipping with $43M Series A Environment+Energy Leader https://www.environmentenergyleader.com > ...",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero : Affordable Zero-Emissions Ocean Freight - YouTube — Fleetzero : Affordable Zero-Emissions Ocean Freight - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=84FqBXSZT9A",
+    "pass": 3
+   },
+   {
+    "quote": "ABS and Fleetzero to Advance Battery Containers for Maritime ... — ABS and Fleetzero to Advance Battery Containers for Maritime ... Eagle.org https://pressreleases.eagle.org > news",
+    "url": "https://pressreleases.eagle.org/news/abs-and-fleetzero-to-advance-battery-containers-for-maritime-applications",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero secures $43 million to scale shipping electrification ... — Fleetzero secures $43 million to scale shipping electrification ... WorkBoat https://www.workboat.com > fleetzer...",
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero Secures $43M in Series A Funding - LinkedIn — Fleetzero Secures $43M in Series A Funding - LinkedIn LinkedIn https://www.linkedin.com > posts > fl...",
+    "url": "https://www.linkedin.com/posts/fleetzero_were-excited-to-announce-fleetzeros-43m-activity-7417932574955687936-2SMl",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero Raises $43 Million Series A from Obvious Ventures ... — Fleetzero Raises $43 Million Series A from Obvious Ventures ... PR Newswire https://www.prnewswire.com > fleetze...",
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero | LinkedIn — Fleetzero | LinkedIn LinkedIn https://www.linkedin.com > fleetzero",
+    "url": "https://www.linkedin.com/company/fleetzero",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero : Valuation, Funding & Investors - PitchBook — Fleetzero : Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/481527-19",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero Revenue 2024: $7.2M Est. - GetLatka — Fleetzero Revenue 2024: $7.2M Est. - GetLatka GetLatka https://getlatka.com > fleetzero",
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero - Crunchbase Company Profile & Funding — Fleetzero - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > fleetzero",
+    "url": "https://www.crunchbase.com/organization/fleetzero",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Tel：03-3587-7643 / E-mail：molplus@molgroup.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000080050.html",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "For brands and agencies looking to reach the decision-makers who read E+E Leader:",
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ian on X: \"Steven, Mike, & the Fleetzero crew are so awesome ... ian on X: \"Steven, Mike, & the Fleetzero crew are so awesome ... X https://x.com > @IanRountree",
+    "url": "https://x.com/IanRountree/status/2118854307001102532",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero on X: \"We turned a diesel fuel tank into a battery ... Fleetzero on X: \"We turned a diesel fuel tank into a battery ... X https://x.com > @FleetzeroHQ",
+    "url": "https://x.com/FleetzeroHQ/status/2118814081490821162",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fleetzero | LinkedIn Fleetzero | LinkedIn LinkedIn https://www.linkedin.com > fleetzero",
+    "url": "https://www.linkedin.com/company/fleetzero",
+    "pass": 3
+   },
+   {
+    "quote": "FleetZero | LinkedIn FleetZero | LinkedIn LinkedIn https://ca.linkedin.com > fleetzeroa",
+    "url": "https://ca.linkedin.com/company/fleetzeroa",
+    "pass": 3
+   },
+   {
+    "quote": "Fleetzero Secures $43M in Series A Funding - LinkedIn Fleetzero Secures $43M in Series A Funding - LinkedIn LinkedIn https://www.linkedin.com > posts > fl...",
+    "url": "https://www.linkedin.com/posts/fleetzero_were-excited-to-announce-fleetzeros-43m-activity-7417932574955687936-2SMl",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "FleetZero partners with Thoma-Sea for autonomous shipbuilding FleetZero partners with Thoma-Sea for autonomous shipbuilding Facebook https://www.facebook.com > yachtkingstv > posts > delive...",
+    "url": "https://www.facebook.com/yachtkingstv/posts/delivering-operational-autonomy-in-contested-waters-relies-entirely-on-unifying-/867533569757258/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fleetzero.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fleetzero.com/join",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZRSP669892_Y4A320C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://ja.marinelink.com/news/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%EF%BC%9Afleetzero%E3%81%AF%E8%88%B9%E8%88%B6%E5%8B%95%E5%8A%9B%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB%E3%82%92%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-306135",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lnews.jp/2024/03/q0328503.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://ja.marinelink.com/news/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%EF%BC%9Afleetzero%E3%81%AF%E8%88%B9%E8%88%B6%E5%8B%95%E5%8A%9B%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB%E3%82%92%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-306135",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZRSP669892_Y4A320C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000080050.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=84FqBXSZT9A",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/fleetzero/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/fleetzero_were-excited-to-announce-fleetzeros-43m-activity-7417932574955687936-2SMl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eldmandate.biz/partner-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/fleetzero",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/481527-19",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/fleetzero.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/IanRountree/status/2118854307001102532",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FleetzeroHQ/status/2118814081490821162",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fleetzero",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/fleetzeroa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/fleetzero_were-excited-to-announce-fleetzeros-43m-activity-7417932574955687936-2SMl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/yachtkingstv/posts/delivering-operational-autonomy-in-contested-waters-relies-entirely-on-unifying-/867533569757258/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fleetzero 日本 導入",
+   "results": [
+    "https://techblitz.com/startup-interview/fleetzero/",
+    "https://www.nikkei.com/article/DGXZRSP669892_Y4A320C2000000/",
+    "http://ja.marinelink.com/news/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%EF%BC%9Afleetzero%E3%81%AF%E8%88%B9%E8%88%B6%E5%8B%95%E5%8A%9B%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB%E3%82%92%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-306135",
+    "https://www.lnews.jp/2024/03/q0328503.html",
+    "https://prtimes.jp/main/html/rd/p/000000025.000080050.html",
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.fleetzero.com/",
+    "https://ja.marinelink.com/news/バッテリー：fleetzeroは船舶動力のルールを書き換えることを目指しています-306135"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Fleetzero 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://techblitz.com/startup-interview/fleetzero/",
+    "http://ja.marinelink.com/news/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%EF%BC%9Afleetzero%E3%81%AF%E8%88%B9%E8%88%B6%E5%8B%95%E5%8A%9B%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB%E3%82%92%E6%9B%B8%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-306135",
+    "https://www.nikkei.com/article/DGXZRSP669892_Y4A320C2000000/",
+    "https://prtimes.jp/main/html/rd/p/000000025.000080050.html",
+    "https://www.lnews.jp/2024/03/q0328503.html",
+    "https://www.geneq.co.jp/logistics/agent/",
+    "https://jp.fesco.com/jp/clients/assets/ship-agency/",
+    "https://www.daitocorp.co.jp/business/vessel/",
+    "https://x.com/TECHBLITZ_JP/status/2069344713145020533/photo/1",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Fleetzero Japan",
+   "results": [
+    "https://www.fleetzero.com/",
+    "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "https://www.youtube.com/watch?v=84FqBXSZT9A",
+    "https://techblitz.com/startup-interview/fleetzero/",
+    "https://pressreleases.eagle.org/news/abs-and-fleetzero-to-advance-battery-containers-for-maritime-applications",
+    "https://www.linkedin.com/posts/jesselandry23_marinetechnology-electricpropulsion-vessels-activity-7419387732726124544-4eJN",
+    "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "https://www.marinelink.com/news/batteries-fleetzero-aims-help-rewrite-539324",
+    "https://www.fleetzero.com/energy",
+    "https://www.fleetzero.cc/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Fleetzero manufacturing customer case study",
+   "results": [
+    "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "https://www.fleetzero.com/",
+    "https://www.linkedin.com/posts/fleetzero_were-excited-to-announce-fleetzeros-43m-activity-7417932574955687936-2SMl",
+    "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "https://www.youtube.com/watch?v=84FqBXSZT9A",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://theevreport.com/fleetzero-secures-43-million-for-marine-electrification",
+    "https://www.marinelink.com/news/batteries-fleetzero-aims-help-rewrite-539324",
+    "https://www.fleetzero.cc/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Fleetzero white label OR reseller OR partner program",
+   "results": [
+    "https://www.fleetzero.com/",
+    "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "https://www.eldmandate.biz/partner-programs",
+    "https://www.linkedin.com/company/fleetzero",
+    "https://www.reddit.com/r/GrowthHacking/comments/1rxruln/using_a_whitelabel_or_reseller_program_to/",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "https://www.fleetster.net/fleet-software/white-label",
+    "https://www.youtube.com/watch?v=ELX8S2Bo8ms",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Fleetzero founded funding employees revenue",
+   "results": [
+    "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "https://pitchbook.com/profiles/company/481527-19",
+    "https://getlatka.com/companies/fleetzero.com",
+    "https://www.prnewswire.com/news-releases/fleetzero-raises-43-million-series-a-from-obvious-ventures-maersk-growth-breakthrough-energy-ventures-8090-ventures-and-others-to-scale-shipping-electrification-and-autonomy-302663447.html",
+    "https://www.crunchbase.com/organization/fleetzero",
+    "https://www.marinelink.com/news/batteries-fleetzero-aims-help-rewrite-539324",
+    "https://www.workboat.com/fleetzero-secures-43-million-to-scale-shipping-electrification-and-autonomy",
+    "https://tracxn.com/d/companies/fleetzero/__ZCGMplFUOxmbK-eTdQKpUuMQmQ_NYbZ_hLvH1C76gWk",
+    "https://www.zoominfo.com/c/fleetzero/565847900",
+    "https://www.thecompanycheck.com/company/b/fleetzero/dcz409zulph67z8iv"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Fleetzero",
+   "results": [
+    "https://note.com/suzuken0331/n/n05cf7ba2baf8",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/pinefleet0615/n/n565606e69c5c?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Fleetzero",
+   "results": [
+    "https://x.com/IanRountree/status/2118854307001102532",
+    "https://x.com/TECHBLITZ_JP/status/2069344713145020533/photo/1",
+    "https://x.com/FleetzeroHQ/status/2118814081490821162",
+    "https://x.com/NYCTBus/status/988867484282388480",
+    "https://x.com/paulg/status/2105888515116691681",
+    "https://x.com/a16z/status/2084731140418703845",
+    "https://x.com/hashtag/MarineTech",
+    "https://x.com/Konstantine/status/2119489148751147095",
+    "https://x.com/altcap/status/2096980425688350994",
+    "https://x.com/NickReaganLive5/status/2111580025875263511"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Fleetzero",
+   "results": [
+    "https://www.linkedin.com/company/fleetzero",
+    "https://ca.linkedin.com/company/fleetzeroa",
+    "https://www.linkedin.com/posts/fleetzero_were-excited-to-announce-fleetzeros-43m-activity-7417932574955687936-2SMl",
+    "https://www.linkedin.com/posts/williamhgates_approximately-90-of-the-worlds-goods-travel-activity-7207124123372670977-XCDJ",
+    "https://www.linkedin.com/posts/taylorchapmanedu_another-great-houston-cleantech-announcement-activity-7417997061821849600-QISn",
+    "https://www.linkedin.com/in/mattmallino",
+    "https://www.linkedin.com/in/tyler-jacobson-060988170",
+    "https://www.linkedin.com/posts/yachtingventures_fleetzero-raises-43-million-series-a-activity-7419687738293198848-taLV",
+    "https://www.linkedin.com/in/eileen-tausch-a879ba81",
+    "https://www.linkedin.com/in/jmcrews"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Fleetzero",
+   "results": [
+    "https://www.facebook.com/yachtkingstv/posts/delivering-operational-autonomy-in-contested-waters-relies-entirely-on-unifying-/867533569757258/",
+    "https://www.facebook.com/CBSLA/videos/government-leaders-have-announced-a-tri-national-initiative-to-create-a-new-zero/1338855375970894/",
+    "https://www.facebook.com/namemichigan/posts/mark-your-calendars-for-the-name-sustainability-symposiuman-afternoon-of-industr/1848405363035651/",
+    "https://www.facebook.com/jobobikefactory/posts/how-to-keep-every-guest-riding-one-fleet-zero-downtimefor-rental-operators-an-ou/1580830427393381/",
+    "https://www.facebook.com/canadaguyanacc/posts/-driving-connections-delivering-resultsas-part-of-the-recent-trade-mission-hoste/1509921937801778/",
+    "https://www.facebook.com/canadaguyanacc/posts/-an-evening-of-diplomacy-dialogue-members-of-the-recently-concluded-trade-missio/1510026507791321/",
+    "https://www.facebook.com/namemichigan/posts/name-hosted-its-inaugural-sustainability-symposium-bringing-together-students-fa/1881388543070666/",
+    "https://www.facebook.com/bloombergbusiness/posts/decades-of-lithium-ion-performance-improvements-have-made-maritime-electrificati/1538373514815403/",
+    "https://www.facebook.com/greengsm.ph/posts/say-hello-to-a-smarter-greener-way-to-ride-with-the-green-gsm-app-youre-just-a-t/122124595550848177/",
+    "https://www.facebook.com/canadaguyanacc/posts/-doing-business-in-guyana-trade-mission-engagement-on-monday-the-canadaguyana-ch/1488138813313424/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Fleetzero note 社長",
+   "results": [
+    "https://www.fleetzero.com/",
+    "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "https://www.youtube.com/watch?v=84FqBXSZT9A",
+    "https://www.marinelink.com/news/batteries-fleetzero-aims-help-rewrite-539324",
+    "https://www.ycombinator.com/companies/fleetzero",
+    "https://www.youtube.com/watch?v=ELX8S2Bo8ms",
+    "https://techblitz.com/startup-interview/fleetzero/",
+    "https://x.com/IanRountree/status/2118854307001102532",
+    "https://fleetzero.ai/about"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Fleetzero X 投稿",
+   "results": [
+    "https://www.fleetzero.com/",
+    "https://www.environmentenergyleader.com/articles/2614-fleetzero-scales-up-electric-shipping-with-43m-series-a",
+    "https://pressreleases.eagle.org/news/abs-and-fleetzero-to-advance-battery-containers-for-maritime-applications",
+    "https://www.youtube.com/watch?v=84FqBXSZT9A",
+    "https://www.workboat.com/fleetzero-glosten-team-on-hybrid-vessel-conversion",
+    "https://x.com/IanRountree/status/2118854307001102532",
+    "https://glosten.com/fleetzero-and-glosten-team-to-develop-the-worlds-longest-range-hybrid-electric-vessel/",
+    "https://fleet-zero.com/",
+    "https://www.marinelink.com/news/batteries-fleetzero-aims-help-rewrite-539324",
+    "https://x.com/FleetzeroHQ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

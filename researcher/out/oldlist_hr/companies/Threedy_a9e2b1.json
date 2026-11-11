@@ -1,0 +1,1268 @@
+{
+ "name": "Threedy",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Data / Digital Twin｜送付済み",
+ "researched_at": "2026-11-11T03:21:11.224358+00:00",
+ "official_url": "https://www.threedy.io/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$14,000",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$12,600,000",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Goebelstrasse 1-3, Darmstadt, Hesse 64293, DE",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Instant live CAD and AI agents for sales, engineering, production, and service.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Leading Engineering Enterprises",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate cumbersome review and validation processes",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Use 3D company data across business processes",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-wide access to massive CAD assemblies without local installs.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved service, documentation, and customer support workflows",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Using original CAD data directly in production and service.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Faster issue detection and process validation",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how enterprise teams use",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the questions from the buying process to implementation which we hear most from enterprise teams.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "What does the buying process look like?",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy follows a structured, enterprise-friendly buying process. Typically, this starts with a discovery call to understand your ideas, use cases, data landscape, and stakeholders.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "On this basis, we offer you a live demo, followed by a 1-month trial of Threedy's instant3Dhub at no cost to you. Depending on your requirements, we can support your internal evaluation workshops or carry out a 4- to 6-week standard proof-of-concept (PoC) project tailored to your needs.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Once scope and requirements are aligned, we move into commercial discussions and contract setup. Many customers start with a focused use case and expand gradually across teams and departments. Since the pricing model is usage-based, you only pay when the system is actively in use.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy instant3Dhub is designed to integrate into existing IT landscapes. It connects non-invasively via APIs and standard interfaces to systems such as PLM, PDM, CAD repositories, ERP, and other enterprise data sources. Your systems remain untouched.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The instant3Dhub product was developed in collaboration with leading industrial manufacturers and refined over 15 years to meet the strict IT security requirements of German OEMs and their suppliers.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy instant3Dhub supports enterprise-grade security concepts, including:",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "No uncontrolled file downloads by default",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy develops cloud-native products with universal deployment options. When choosing an implementation model, customers generally choose between on-premises or private cloud environments. Whichever model you prefer, Threedy operations experts will work closely with your IT and security teams to align with your internal security policies and respective industry standards.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Apart from a server infrastructure for instant3Dhub (see product section for specifications), no special hardware is required on the client side.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "For this reason, we attach great importance to professional project management with jointly agreed, realistic milestones and a partnership-based approach involving all parties. Our Professional Services Team and Subject Matter Experts are always available to respond to or take on your specific needs and look forward to working with you.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Threedy help reduce data protection risks when collaborating on CAD data?",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "To enable this, instant3Dhub caches CAD data for Spatial Streaming onto any device. This typically reduces “data sprawl” and helps teams maintain a single source of truth, because access and updates remain tied to the original repository rather than to uncontrolled duplicates.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Data protection requirements still depend on your setup, data classification, and chosen integrations. instant3Dhub supports enterprise governance needs such as access control and auditable collaboration workflows, and we’re happy to clarify the specific data flows, storage/caching behavior, and deployment options during discovery to match your compliance expectations.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "instant3Dhub gives AI agents structured access to your 3D and CAD data through its MCP server and APIs. Agents can query geometry, metadata, and assembly structure, and answers link back to the source model. It works with any model provider, whether OpenAI, Anthropic, Google, or your own internal models, with no custom integration required.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "From global enterprises to tech innovators, these stories show how our platform helps teams make better decisions, streamline 3D workflows, and scale digital solutions with ease.",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Check out the joint partner presentation from Siemens LDA and 4Soft at prostep ivip Symposium 2023, Stuttgart: Instant 3D for the Industrial Metaverse - Collaboration across the Entire Product Lifecycle.",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Watch our joint presentation from Mercedes-Benz's Digital Product Forum presenting DARC - the number #1 solution for Augmented Reality in Mercedes-Benz Engineering.",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Check out our joint presentation with BMW Group AG at prostep ivip symposium 2022 - Streamlining design workflows with user-centric, adaptive and collaborative 3D Spaces.",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Porsche decided to use the original CAD data of the new Taycan for the world’s first workshop solution using realtime 3D and Augmented Reality (AR). Bringing the Digital Twin to the workshop, interactive step-by-step procedures speed up and ease s...",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Geometric validation of a vehicle design is a time consuming and costly process, since it involves constructing and inspecting Physical Mock-ups (PMU). Efficiency can be increased when this is done by assessing physical parts with virtual ones usi...",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "The new solution allows to unlock digital model data along the product lifecycle for drive systems. Accessing CAD data in web, Augmented Reality and Virtual Reality instantly. Combine IIoT with visual computing for design collaboration and trouble...",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Joint Use Case and Roadmap Presentation with Mercedes-Benz AG",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Watch our joint presentation with Mercedes-Benz AG at prostep ivip symposium 2021 - Industrial AR Clouds on Open Standards - and learn about our aligned roadmap.",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy 's team was formed in the course of almost ten years while bringing instant3Dhub to life at Fraunhofer IGD in Darmstadt. The long path to transfrom research results into a product has forged our strong team in a special way.",
+    "url": "https://www.threedy.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology is designed for enterprise environments, supporting secure deployments, complex data, and long-term industrial use cases.",
+    "url": "https://www.threedy.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how enterprise teams use instant3Dhub to collaborate, train, and make decisions faster.",
+    "url": "https://www.threedy.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We Hire for How You Think",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Skills can be taught. The way you break down a problem you've never seen before can't. Our work starts where engineering data gets impossibly large and the obvious approach stops working. So we look for people who ask why something is done a certain way before asking how to do it faster.",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We say what we think, in the room, while there's still time to act on it. That means flagging a problem in a release before a customer finds it, telling a colleague their idea has a hole in it, and admitting when something we shipped didn't work.",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We move fast, but craft is never optional. We review each other's work properly, help when someone's stuck, take the unglamorous tasks that unblock everyone, and celebrate the wins together.",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The principles that guide how we work, build, and grow together.",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We ask the right questions early, get to the bottom of the \"why\", and solve the real problem, not just the obvious one.",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Presales is about turning technological possibilities into clear decision frameworks, with a focus on measurable business impact. I’m driven by turning complexity into clarity. It’s where customer context, sales, product, and engineering come together into a consistent value story that stands up in real decision-making.\"",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"QA is more than finding bugs. Sometimes it is diving into the unknown depths of the product, solving a labyrinth on the way while hunting down a phantom. Especially with a product like the instant3Dhub, each day feels like a new adventure.\"",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"What stuck with me was a conversation on a team trip, deep into AI agents, what's possible, what we could build. That's very Threedy. People who don't just think about the future but actually want to build it. And honest and passionate enough to have the hard conversations along the way about what problems are worth solving.\"",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager & AI-Lead",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Subsidized pension plan through deferred compensation after the probationary period.",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Additional private health insurance coverage after the probationary period.",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Weekly team lunch provided by the company every Tuesday.",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Access to training, courses, and professional development opportunities.",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Company-provided phone, laptop, and necessary IT equipment.",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Explore open roles across engineering, product, and go-to-market.",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "News | Product Milestones & Industry Developments",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Read about our latest milestones, product updates, and expert perspectives – direct from the source.",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Stadler picks instant3Dhub for its enterprise 3D platform",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "across the entire process chain of Stadler.",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy, the Deep-Tech experts for spatial computing technology are showing an innovative approach to visualize and utilize a digital 3D factory twin in real-time.",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "With the upcoming 3.11.0 Release, adding XR Texture Scanshots. Spot quality deviations instantly and act accordingly. Scan your hardware and create high-quality representations directly with instant3Dhub – perfect for documenting.",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "With the upcoming 3.11 Release, Validating the physical product quality no longer needs to be manual, slow, or error-prone. Engineers and developers can now automatically detect geometric deviations directly in the viewer.",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Threedy | 3D Visualization Software for Industrial Teams",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Leading Engineering Enterprises",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Live 3D Work Instructions on the Shop Floor",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AR-powered validation on the shop floor",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI points technicians to the right part, not the manual",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI, Grounded in Your Live 3D Data",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The 3D data bridge for industrial AI. Massive models, instant and secure, for every team and every agent. Any Data. Any Size. Any Device.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AR Clouds on Open Standards",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-device access from office to shop floor",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Machine Files at Industrial Scale",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "3D and AR on the Workshop Floor",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AR-supported workflows for technicians",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The instant3Dhub product was developed in collaboration with leading industrial manufacturers and refined over 15 years to meet the strict IT security requirements of German OEMs and their suppliers.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Highly complex multi-CAD environments with customized end-user applications or extensive integrations into existing applications can sometimes take up to three months. However, when delays do occur, they are very often due to idle time caused by waiting for external suppliers, vacation or holiday periods, or the unavailability of necessary resources that get lost in day-to-day business.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers are solving real-world challenges in engineering, manufacturing, and services – faster and more effectively with instant3Dhub.",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "instant3Dhub for the industrial metaverse: Siemens and 4Soft",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Check out the joint partner presentation from Siemens LDA and 4Soft at prostep ivip Symposium 2023, Stuttgart: Instant 3D for the Industrial Metaverse - Collaboration across the Entire Product Lifecycle.",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Watch our joint presentation with Mercedes-Benz AG at prostep ivip symposium 2021 - Industrial AR Clouds on Open Standards - and learn about our aligned roadmap.",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "The foundations behind our research, mission, and industrial focus.",
+    "url": "https://www.threedy.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy’s journey began at Fraunhofer IGD and evolved into delivering industrial-grade solutions for scalable 3D data automation worldwide.",
+    "url": "https://www.threedy.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Built for Industrial Scale",
+    "url": "https://www.threedy.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology is designed for enterprise environments, supporting secure deployments, complex data, and long-term industrial use cases.",
+    "url": "https://www.threedy.io/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers at some of the world's largest manufacturers rely on what we build. They deserve the truth early, not politely late.",
+    "url": "https://www.threedy.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy is shaping the future of real-time 3D data, digital transformation, and industrial automation. From strategic partnerships to cutting-edge solutions, explore how instant3Dhub is driving innovation across industries.",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Rail vehicle manufacturer Stadler and software company Threedy have entered a partnership with the goal of establishing a company-wide 3D infrastructure based on",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "#Industrial Metaverse",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy and Microsoft: Automated 3D factory visualization",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy, the Deep-Tech experts for spatial computing technology are showing an innovative approach to visualize and utilize a digital 3D factory twin in real-time.",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy and Microsoft: Automated 3D factory visualization",
+    "url": "https://www.threedy.io/customer-stories/digital-machine-file-at-trumpf-for-on-demand-visualization-of-250-000-machines",
+    "pass": 1
+   },
+   {
+    "quote": "instant3Dhub for the industrial metaverse: Siemens and 4Soft",
+    "url": "https://www.threedy.io/customer-stories/digital-machine-file-at-trumpf-for-on-demand-visualization-of-250-000-machines",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy and Microsoft: Automated 3D factory visualization",
+    "url": "https://www.threedy.io/customer-stories/threedy-and-4soft-strengthen-their-successful-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "instant3Dhub for the industrial metaverse: Siemens and 4Soft",
+    "url": "https://www.threedy.io/customer-stories/threedy-and-4soft-strengthen-their-successful-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy and Microsoft: Automated 3D factory visualization",
+    "url": "https://www.threedy.io/customer-stories/siemens-annouced-cooperation-to-realize-visual-computing-platform-for-immersive-experiences",
+    "pass": 1
+   },
+   {
+    "quote": "instant3Dhub for the industrial metaverse: Siemens and 4Soft",
+    "url": "https://www.threedy.io/customer-stories/siemens-annouced-cooperation-to-realize-visual-computing-platform-for-immersive-experiences",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy strengthens market presence beyond the automotive industry and wins renowned new customers – parallel expansion of strategic innovation projects and existing customer business",
+    "url": "https://www.isstories.com/2026/02/17/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets/",
+    "pass": 3
+   },
+   {
+    "quote": "Business with existing customers was also further expanded. Threedy is extending its collaboration with renowned partners and customers such as BMW, Mercedes-Benz, Porsche, and TRUMPF, thereby underlining the strategic relevance of its platform as a scalable infrastructure for the productive use of 3D data and spatial computing in industrial applications.",
+    "url": "https://www.isstories.com/2026/02/17/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets/",
+    "pass": 3
+   },
+   {
+    "quote": "3D data bridge for industrial AI",
+    "url": "https://www.isstories.com/2026/02/17/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets/",
+    "pass": 3
+   },
+   {
+    "quote": "– the first spatial computing-as-a-service technology. instant3Dhub combines state-of-the-art technologies from the fields of rendering and cloud technologies, revolutionizing the industrial use of 3D data. By expanding the platform to include AI services, Threedy is also laying the foundation for making 3D engineering data usable for modern AI applications, agents, and automation workflows.",
+    "url": "https://www.isstories.com/2026/02/17/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets/",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy ensures the productive use of mixed reality and digital work scenarios in any industrial application in a simple and straightforward manner. For several years now, we have been valued by renowned customers such as BMW, Mercedes Benz, Siemens, and Porsche.",
+    "url": "https://www.isstories.com/2026/02/17/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets/",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy strengthens market presence beyond the automotive industry and wins renowned new customers – parallel expansion of strategic innovation projects and existing customer business",
+    "url": "https://www.issuewire.com/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets-1857302585669936",
+    "pass": 3
+   },
+   {
+    "quote": "Business with existing customers was also further expanded. Threedy is extending its collaboration with renowned partners and customers such as BMW, Mercedes-Benz, Porsche, and TRUMPF, thereby underlining the strategic relevance of its platform as a scalable infrastructure for the productive use of 3D data and spatial computing in industrial applications.",
+    "url": "https://www.issuewire.com/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets-1857302585669936",
+    "pass": 3
+   },
+   {
+    "quote": "3D data bridge for industrial AI",
+    "url": "https://www.issuewire.com/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets-1857302585669936",
+    "pass": 3
+   },
+   {
+    "quote": "– the first spatial computing-as-a-service technology. instant3Dhub combines state-of-the-art technologies from the fields of rendering and cloud technologies, revolutionizing the industrial use of 3D data. By expanding the platform to include AI services, Threedy is also laying the foundation for making 3D engineering data usable for modern AI applications, agents, and automation workflows.",
+    "url": "https://www.issuewire.com/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets-1857302585669936",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy ensures the productive use of mixed reality and digital work scenarios in any industrial application in a simple and straightforward manner. For several years now, we have been valued by renowned customers such as BMW, Mercedes Benz, Siemens, and Porsche.",
+    "url": "https://www.issuewire.com/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets-1857302585669936",
+    "pass": 3
+   },
+   {
+    "quote": "industrial 3D",
+    "url": "https://www.issuewire.com/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets-1857302585669936",
+    "pass": 3
+   },
+   {
+    "quote": "digital manufacturing",
+    "url": "https://www.issuewire.com/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets-1857302585669936",
+    "pass": 3
+   },
+   {
+    "quote": "Tanso Technologies, a software company located in Munich, provides a carbon intelligence suite to industrial…",
+    "url": "https://fundediq.co/threedy-threedy-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Lumoview digitizes buildings in 2 seconds per room with a device that can be used by everyone. The data is…",
+    "url": "https://fundediq.co/threedy-threedy-io-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "The instant3Dhub product was developed in collaboration with leading industrial manufacturers and refined over 15 years to meet the strict IT security requirements of German OEMs and their suppliers.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "On this basis, we offer you a live demo, followed by a 1-month trial of Threedy's instant3Dhub at no cost to you. Depending on your requirements, we can support your internal evaluation workshops or carry out a 4- to 6-week standard proof-of-concept (PoC) project tailored to your needs.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "If you would like to connect to your systems as part of your evaluation, we would be happy to demonstrate this to you as part of a paid structured data integration PoC in your infrastructure. Any data, any size. You can take our word for it!",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“3D and XR applications, especially collaborative ones, offer their maximum value when the 3D visualizations are integrated with live business data in a highly dynamic manner. The cooperation with Siemens, and particularly the integration of instant3Dhub into Sidrive IQ, offers exactly this, as part of a state-of-the-art IIoT solution”, added by Christian Stein, CEO Threedy GmbH.",
+    "url": "https://www.threedy.io/customer-stories/siemens-annouced-cooperation-to-realize-visual-computing-platform-for-immersive-experiences",
+    "pass": 1
+   },
+   {
+    "quote": "Threedy - instant3Dhub Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy - instant3Dhub Revenue",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Threedy - instant3Dhub",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Threedy - instant3Dhub?",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy - instant3Dhub generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Threedy - instant3Dhub have?",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The revenue and yield management system provided by happyhotel features a user-friendly dashboard that…",
+    "url": "https://fundediq.co/threedy-threedy-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Threedy have?",
+    "url": "https://fundediq.co/threedy-threedy-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/threedy-threedy-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/threedy-threedy-io-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "instant3Dhub is designed to support collaboration without requiring you to distribute full CAD files to every stakeholder. Instead of relying on email attachments or multiple file copies across tools and locations, instant3Dhub keeps a live connection to the original data source and makes it accessible for review and collaboration in a controlled way.",
+    "url": "https://www.threedy.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/threedy-threedy-io-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Threedy.ai と業務提携 | 3D/ARサービス | オープンリソース株式会社",
+    "url": "https://www.livingstyle.co.jp/news/190227",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リビングスタイル (本社: 東京都新宿区、代表取締役: 井上俊宏 / 坂本尊志) は、AI (人工知能) と計算幾何学を用いた 3D モデル生成技術を持つ",
+    "url": "https://www.livingstyle.co.jp/news/190227",
+    "pass": 3
+   },
+   {
+    "quote": "AR体験に使える3DのCGモデルを、EC用の写真だけで生成する技術を開発した、シリコンバレーのThreedy.aiと、日本のLivingStyleが業務提携！ – HOLOGRM MEDIA",
+    "url": "https://hologram.mirai-media.net/svfrontier/",
+    "pass": 3
+   },
+   {
+    "quote": "LivingStyle（株式会社リビングスタイル）は、スマートフォンに映し出される自分の部屋に、CGで作られた家具や雑貨が、実際に置いてある様に見える、AR技術を使ったルーム・コーディネート・アプリ「RoomCo AR (ルムコエーアール)」を開発している日本のベンチャーです",
+    "url": "https://hologram.mirai-media.net/svfrontier/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場に参入させる経験や、幅広いネットワークを活かして、日米間の業務提携を実際に多数積み重ねてきています",
+    "url": "https://hologram.mirai-media.net/svfrontier/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Threedy | 3D Visualization Software for Industrial Teams — Make complex 3D data available in real time across departments and devices. Threedy helps teams work with reliable engineering data across the business.",
+    "url": "https://www.threedy.io/",
+    "pass": 3
+   },
+   {
+    "quote": "News | Product Milestones & Industry Developments - threedy.io — Stay up to date with Threedy's latest news, product milestones, and industry updates across 3D data management and collaborative CAD design tools.",
+    "url": "https://www.threedy.io/resources/news",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy.ai と業務提携 | 3D/ARサービス | オープンリソース株式会社 — 株式会社リビングスタイル (本社: 東京都新宿区、代表取締役: 井上俊宏 / 坂本尊志) は、AI (人工知能) と計算幾何学を用いた 3D モデル生成技術を持つ Threedy.ai (本社: 米国カリフォルニア州レッドウッド・シティー) と業務提携しました。",
+    "url": "https://www.livingstyle.co.jp/news/190227",
+    "pass": 3
+   },
+   {
+    "quote": "AR体験に使える3DのCGモデルを、EC用の写真だけで生成する技術を開発... — Feb 27, 2019 · 【Threedy.aiについて】 カリフォルニア州レッドウッドシティに拠点をおく企業で、AR体験に使える3DのCGモデルを、EC用の写真だけで生成する技術を開発。 創業チームは、Apple・Facebook出身の技術者やStanford PhDなどを含む経験豊かなメンバーで構成されています。",
+    "url": "https://hologram.mirai-media.net/svfrontier/",
+    "pass": 3
+   },
+   {
+    "quote": "AR体験に使える3DCGモデルをEC用の写真だけで生成する技術を開発したT... — Mar 4, 2019 · SV Frontierは、投資先Threedy.aiと、その提携先LivingStyleの事業開発を支援することで、ARを使ったマーケティングで大きな障害となっている「CGモデルをつくるのに費用と時間がかかり過ぎる問題」を解決していくことを目指している。",
+    "url": "https://cgworld.jp/news/service/1903-ar3dcgecthree.html",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Threedy — Discover the story behind Threedy, from pioneering research to building scalable technology for industrial 3D data workflows.",
+    "url": "https://www.threedy.io/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "3D Automation - threedy.io — Threedy is designed for collaboration without distributing full CAD files to every stakeholder. Instead of email attachments and multiple uncontrolled copies, Threedy keeps a live connection to the original data source and exposes it for review and collaboration in a controlled way.",
+    "url": "https://www.threedy.io/3d-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy - instant3Dhub — Open Data: Example - VRML/V8 engine Example - VRML/Plane Example - GLTF-Binary/Paraview CAD-Exchange: Example - IFC/Factory building Example - Step/W16 engine Example - Step/Twin engine CAD-Native: Example - catiaV5/Bike",
+    "url": "https://demo.threedy.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories | Threedy & instant3Dhub — Threedy and 4soft strengthen their successful partnership Threedy & 4Soft deliver high-performance, secure 3D IT solutions for any device. From sales to engineering and maintenance, we enable new use cases by integrating instant3Dhub. 4Soft’s expertise helps turn complex customer needs into tailored ...",
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy | 3D Visualization Software for Industrial Teams — Threedy follows a structured, enterprise-friendly buying process. Typically, this starts with a discovery call to understand your ideas, use cases, data landscape, and stakeholders.",
+    "url": "https://www.threedy.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Record year and AI milestones for Threedy: Customer base more ... — Feb 17, 2026 · At the same time, Threedy has launched joint innovation projects with customers such as -BB Infra, Schaeffler, and Robert Bosch to develop new use cases along the product life cycle from engineering and sales to manufacturing and service. Business with existing customers was also further expanded.",
+    "url": "https://www.isstories.com/2026/02/17/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets/",
+    "pass": 3
+   },
+   {
+    "quote": "Record year and AI milestones for Threedy: Customer base more ... — Feb 16, 2026 · At the same time, Threedy has launched joint innovation projects with customers such as ÖBB Infra, Schaeffler, and Robert Bosch to develop new use cases along the product life cycle from engineering and sales to manufacturing and service. Business with existing customers was also further expanded.",
+    "url": "https://www.issuewire.com/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets-1857302585669936",
+    "pass": 3
+   },
+   {
+    "quote": "The Story of Threedy: Building the Visual Computing ... — Dec 5, 2025 · From Fraunhofer research to industrial 3D platform, Threedy CEO Christian Stein shares the story of spinning out with 20 employees, navigating the chaos of first-time fatherhood, and building visual computing infrastructure for the future of manufacturing.",
+    "url": "https://www.frontlines.io/the-story-of-threedy-building-the-visual-computing-infrastructure-for-industrial-3d/",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy 2026 Company Profile: Valuation, Funding & Investors ...Threedy - instant3Dhub Revenue, Funding & Valuationthreedy AI 2026 Company Profile: Valuation, Investors ...Threedy: Funding, Investors & Team (Sep 2026) | FundedIQThreedy — Funding, Investors & Team | SeedtableThreedy: Funding, Team & Investors | Startup IntrosThreedy - Crunchbase Company Profile & Funding — Threedy FAQs When was Thr",
+    "url": "https://pitchbook.com/profiles/company/454996-90",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy - instant3Dhub Revenue, Funding & Valuation — Threedy - instant3Dhub has revenue of $700,000, estimated valuation of $2,300,000, $12,600,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "threedy AI 2026 Company Profile: Valuation, Investors ...Threedy: Funding, Investors & Team (Sep 2026) | FundedIQThreedy — Funding, Investors & Team | SeedtableThreedy: Funding, Team & Investors | Startup IntrosThreedy - Crunchbase Company Profile & Funding — Information on acquisition, funding, cap tables, investors, and executives for threedy AI. Use the PitchBook Platform to explore the full pr",
+    "url": "https://pitchbook.com/profiles/company/231673-87",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy: Funding, Investors & Team (Sep 2026) | FundedIQ — Threedy is a Data and Analytics company in Darmstadt, Germany. Raised $10.4M across 1 round; latest a Series A in Feb 2024. Investors and funding history.",
+    "url": "https://fundediq.co/threedy-threedy-io-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy — Funding, Investors & Team | Seedtable — 38 Seedtable Score 0 0votes Follow Save to list More Funding Stage Series A View latest round Total Funding 12.2M USD View funding history Est. Revenue $4M – $10M ↗ How we estimate this Employees 11–50 ↗ estimated range Founded — Signals 2 Funding Rounds 2 Open Roles 2 Related Ranking",
+    "url": "https://seedtable.com/companies/threedy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Threedy.ai (@ThreedyA) / Posts / X Threedy.ai (@ThreedyA) - Posts - | X (formerly Twitter) ThreedyA Joined: Oct 1, 2020 1Posts 0Following 13Followers Threedy.aiThreedyA 0 Dec 14",
+    "url": "https://x.com/ThreedyA",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy Decroly (@3DDecroly) / X Threedy Decroly @3DDecroly Oct 31, 2014 Un an plus tard à l'échelle nationale @ Institut_2iE Threedy Decroly @3DDecroly Oct 24, 2014 4h du first #clasico de la saison @ realmadrid @ FCBarcelona Threedy Decroly @3DDecroly Oct 23, 2014 La formation sur AGORA et TEEAL: \"Fournir un accés à l'information scientifique actuelle mondiale #teealagorabf",
+    "url": "https://x.com/3DDecroly",
+    "pass": 3
+   },
+   {
+    "quote": "Yuyun Threedy (@YuyunThreedy) / Posts / X Yuyun Threedy (@YuyunThreedy) - Posts - | X (formerly Twitter) Yuyun Threedy YuyunThreedy Joined: Feb 8, 2016 0Posts 2Following 0Followers",
+    "url": "https://x.com/YuyunThreedy",
+    "pass": 3
+   },
+   {
+    "quote": "THREEDY 3D Printers (@Threedy3d) / X High quality, reliable 3D printers designed and manufactured by PuzzleShed Ltd; a British business based in Hertfordshire.",
+    "url": "https://x.com/Threedy3d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Threedy - LinkedIn Threedy's instant3Dhub Computer-Aided Design (CAD) Software instant3Dhub is the Instant Streaming Platform that brings CAD and engineering data live to every team, on every device, without exports ...",
+    "url": "https://www.linkedin.com/company/threedy",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy's instant3Dhub | LinkedIn Threedy's instant3Dhub | instant3Dhub is the Instant Streaming Platform that brings CAD and engineering data live to every team, on every device, without exports, conversions or CAD seats ...",
+    "url": "https://www.linkedin.com/products/threedy-s-instant3dhub/",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy Studio - LinkedIn Threedy Studio by ShapeIQ is a product design and advanced manufacturing studio focused on turning ideas into real, functional products. We specialize in end-to-end solutions, from concept ...",
+    "url": "https://www.linkedin.com/showcase/threedy-studio/",
+    "pass": 3
+   },
+   {
+    "quote": "Agentic 3D: What we're building - LinkedIn Mar 25, 2026 · Best, Hannes Krug Senior Product Manager, Lead AI @Threedy E-mail: hannes.krug@threedy.io Book a 20 minutes meeting 💌 Share the News! Know someone else who could benefit from the Product ...",
+    "url": "https://www.linkedin.com/pulse/agentic-3d-what-were-building-threedy-ytzrf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Threedy 3D Printers - FacebookThreedy - FacebookFacebookThreedy GmbH - FacebookReal Threedy - FacebookThreedy 3D Printers shared a quote. - Threedy 3D PrintersThreedy.ai | San Jose CA - Facebook Sep 13, 2021 · Threedy 3D Printers. 139 followers. THREEDY 3D printers are high quality, reliable 3D printers designed and manufactured by PuzzleShed L Threedy is on Facebook. Join Facebook to connect with",
+    "url": "https://www.facebook.com/threedyprinters/",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy - Facebook Threedy is on Facebook. Join Facebook to connect with Threedy and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/p/Threedy-100005325070711/",
+    "pass": 3
+   },
+   {
+    "quote": "Threedy GmbH - Facebook Aug 11, 2026 · Threedy GmbH. 94 followers. With its instant3Dhub, Threedy offers a unique infrastructure component that allows companies to meet the constantly growing demand for highly available 3D data in...",
+    "url": "https://www.facebook.com/p/Threedy-GmbH-61587937052757/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.threedy.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.threedy.io/resources/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.threedy.io/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.threedy.io/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.threedy.io/resources/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.threedy.io/customer-stories/digital-machine-file-at-trumpf-for-on-demand-visualization-of-250-000-machines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.threedy.io/customer-stories/threedy-and-4soft-strengthen-their-successful-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.threedy.io/customer-stories/siemens-annouced-cooperation-to-realize-visual-computing-platform-for-immersive-experiences",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.livingstyle.co.jp/news/190227",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hologram.mirai-media.net/svfrontier/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isstories.com/2026/02/17/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issuewire.com/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets-1857302585669936",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/454996-90",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/231673-87",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/threedy-threedy-io-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ThreedyA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/3DDecroly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/YuyunThreedy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Threedy3d",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/threedy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/threedy-s-instant3dhub/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/showcase/threedy-studio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/agentic-3d-what-were-building-threedy-ytzrf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/threedyprinters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Threedy-100005325070711/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Threedy-GmbH-61587937052757/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ThreedyA",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Threedy 日本 導入",
+   "results": [
+    "https://www.threedy.io/",
+    "https://www.threedy.io/resources/news",
+    "https://www.livingstyle.co.jp/news/190227",
+    "https://hologram.mirai-media.net/svfrontier/",
+    "https://cgworld.jp/news/service/1903-ar3dcgecthree.html",
+    "https://news.3rd-in.co.jp/article/7907f4f2-8945-11ef-b304-9ca3ba083d71",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/20/news028.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Threedy 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.weblio.jp/content/総代理店",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://www.mkikuchi-law.com/17785461217883",
+    "https://jomon.group/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Threedy Japan",
+   "results": [
+    "https://www.threedy.io/",
+    "https://www.threedy.io/resources/news",
+    "https://www.threedy.io/about-us",
+    "https://www.threedy.io/3d-automation",
+    "https://demo.threedy.io/",
+    "https://www.threedy.io/virtual-worlds",
+    "https://thejapantravelblog.com/three-days-in-tokyo-itinerary/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Threedy manufacturing customer case study",
+   "results": [
+    "https://www.threedy.io/resources/customer-success-stories",
+    "https://www.threedy.io/",
+    "https://www.isstories.com/2026/02/17/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets/",
+    "https://www.issuewire.com/record-year-and-ai-milestones-for-threedy-customer-base-more-than-doubled-and-expansion-into-new-industries-and-markets-1857302585669936",
+    "https://www.frontlines.io/the-story-of-threedy-building-the-visual-computing-infrastructure-for-industrial-3d/",
+    "https://www.linkedin.com/showcase/threedy-studio/",
+    "https://www.prlog.org/13127778-threedy-achieves-record-year-with-ai-milestones-doubling-customers-and-expanding-markets.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Threedy white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.verkada.com/partners/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Threedy founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/454996-90",
+    "https://prospeo.io/c/threedy-instant3dhub-revenue",
+    "https://pitchbook.com/profiles/company/231673-87",
+    "https://fundediq.co/threedy-threedy-io-funding/",
+    "https://seedtable.com/companies/threedy",
+    "https://startupintros.com/orgs/threedy",
+    "https://www.crunchbase.com/organization/threedy"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Threedy",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/postdoc_career/n/nc9dcfe5ea3d3",
+    "https://note.com/karisomenona/n/n835e4ccf85c4",
+    "https://note.com/nosuke0607/n/n09d02c47e173",
+    "https://note.com/mamopu/n/n2456b1d6942a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Threedy",
+   "results": [
+    "https://x.com/ThreedyA",
+    "https://x.com/3DDecroly",
+    "https://x.com/YuyunThreedy",
+    "https://x.com/Threedy3d",
+    "https://x.com/Threedy3d/reposts",
+    "https://x.com/Threedy3d/with_replies",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Threedy",
+   "results": [
+    "https://www.linkedin.com/company/threedy",
+    "https://www.linkedin.com/products/threedy-s-instant3dhub/",
+    "https://www.linkedin.com/showcase/threedy-studio/",
+    "https://www.linkedin.com/pulse/agentic-3d-what-were-building-threedy-ytzrf",
+    "https://www.linkedin.com/posts/threedy_real-time-collaboration-with-massive-3d-data-activity-7439224934641459200-uWaP",
+    "https://de.linkedin.com/in/yusuke-tanaka-de",
+    "https://www.linkedin.com/pulse/product-update-october-2026-your-3d-data-now-accessible-ai-agents-wbsye"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Threedy",
+   "results": [
+    "https://www.facebook.com/threedyprinters/",
+    "https://www.facebook.com/p/Threedy-100005325070711/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/p/Threedy-GmbH-61587937052757/",
+    "https://www.facebook.com/p/Real-Threedy-61595334456563/",
+    "https://www.facebook.com/threedyprinters/posts/2374303679371174/",
+    "https://www.facebook.com/threedyai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Threedy note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Threedy X 投稿",
+   "results": [
+    "https://x.com/ThreedyA",
+    "https://www.threedy.io/",
+    "https://x.com/",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://help.x.com/ja/using-x/create-a-thread",
+    "https://note.com/gas_lab/n/n64b80bd47c3e",
+    "https://s-carlett.com/x-threads-simultaneous-post-automation/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

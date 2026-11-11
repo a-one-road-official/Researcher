@@ -1,0 +1,1562 @@
+{
+ "name": "Ntop",
+ "aliases": [],
+ "context": "旧営業リスト｜16jvqoqBDIaKLfA4_s08WowRLzUoV_IoY｜返信あり",
+ "researched_at": "2026-11-11T03:38:41.794180+00:00",
+ "official_url": "https://www.ntop.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Every trade study moves from spreadsheet estimates to evidence you can defend.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Design logic captured once can be deployed across every program that follows.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture design logic once and redeploy it across variants, missions, and programs, cutting engineering investment on every one that follows.",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Replace hours-long CFD runs with near-instant results by training Luminary Cloud's Physics AI models on simulation data, then querying them for accurate aerodynamic predictions in seconds.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Evaluate orders of magnitude more design candidates by pairing nTop's field-based geometry generation with Neural Concept's deep learning models, which predict FEA and CFD results in seconds instead of hours.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Move hundreds of design variants generated in nTop directly into Flexcompute's simulation workflow, compressing requirements-driven design cycles from months to weeks.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Orchestrate the full optimization workflow by connecting ESTECO to nTop and your preferred simulation tools inside a single, auditable SPDM framework.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Run nTop on NVIDIA's GPU and AI infrastructure, from accelerated simulation and physics AI training to agentic workflows, so geometry never becomes the bottleneck.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Move nTop designs directly into Magics for build preparation, cutting the time spent prepping and slicing high-performance parts for additive manufacturing.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Model wing geometry, fuselage layout, propulsion integration, and control surfaces parametrically, so aero, structures, and controls work from one model. When mission requirements shift, mid-proposal or mid-program, update the configuration and re-run analysis in hours, not weeks.",
+    "url": "https://www.ntop.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Modern propulsion has to deliver efficient cruise and maximum thrust, subsonic and supersonic performance, all in the same hardware, at every condition it will fly in, not just the one it was designed around. That requirement makes the engine the hardest part of any program to get right, and often the slowest.",
+    "url": "https://www.ntop.com/industries/propulsion/",
+    "pass": 1
+   },
+   {
+    "quote": "Every gain has a hard deadline: shed grams, reshape a floor or wing for more downforce, or route heat away from a power unit that runs hotter every season, all before the next race weekend. Traditional CAD can't represent the geometry those gains require, and even when a change is possible, teams have no fast way to see how it ripples through the rest of the car before it's already bolted on.",
+    "url": "https://www.ntop.com/industries/motorsports/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop models what CAD can't and explores that ripple effect in advance, so upgrade packages arrive proven, not just possible.",
+    "url": "https://www.ntop.com/industries/motorsports/",
+    "pass": 1
+   },
+   {
+    "quote": "Analysis-ready models for aero, thermal, and structural loads",
+    "url": "https://www.ntop.com/industries/motorsports/",
+    "pass": 1
+   },
+   {
+    "quote": "From candidate to commissioned, faster.",
+    "url": "https://www.ntop.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate the complete system, blades, airfoils, internal cooling passages, and heat exchangers, as one parametric model instead of a patchwork of tools, then run thousands of candidates through thermal and structural analysis to find the one that survives, not just the one that looks promising on paper.",
+    "url": "https://www.ntop.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Every candidate arrives ready for thermal and structural analysis",
+    "url": "https://www.ntop.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Search thousands of candidates instead of a handful",
+    "url": "https://www.ntop.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerojet Rocketdyne's 3D-printed quad thruster enables low-cost space exploration",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Preziosa Francesco SRL and Add-it cut robot gripper weight 32-40%",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Design capacity stops being capped by how many people you can hire, and starts scaling with the compute you put behind it.",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate your design process.",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "At nTop, flexibility and collaboration sit at the heart of our culture. We're a team of exceptional people who show up excited to solve hard problems together, sharing our unique experiences and creating a space where curiosity thrives.",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We value diversity of people and perspectives — more than half of our leadership team comes from groups typically underrepresented in tech and engineering. If you're driven to discover and innovate, and want to work alongside people you genuinely admire, this is the place for you.",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop is used to engineer mission-critical satellite and aerospace components, stronger and lighter medical implants and prosthetics changing the lives of patients across the globe, and other groundbreaking products redefining their industries.",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe that our team members around the world should enjoy similar perks and benefits as our US employees — no matter where they are located. In addition to a competitive salary, a fantastic vacation plan, and home office and professional reimbursements, we offer benefits to our international employees that vary by country but match the spirit of the benefits our US employees receive.",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional development reimbursements",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "’s ADDITIVE INTELLIGENCE team redesigned their Robo2Go head for additive manufacturing using nTop. The new design is 62% lighter, has 60% fewer components, and improves the handling precision of the robot by a factor of 16.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG MORI is a leader in metal-cutting manufacturing equipment, producing high-quality CNC machines for over a century. Over the past 20 years, DMG MORI has been investing in additive manufacturing, automation, and digitization.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-printed end-effector",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Make theRobo2Go system more precise and efficient",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG wanted to improve on the already successful design of the Robo2Go 2nd Gen. Their goal was to increase the precision of the machine and save valuable manufacturing and assembly time.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase precision while saving manufacturing and assembly time",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing Project Engineer, DMG MORI",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop’s advanced capabilities allowed the DMG MORI team to create a powerful and unique additive design. The team improved the Robto2Go system’s bulky robot head by combining topology optimization with Field-Driven Design techniques and advanced lattice structures.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Overview of the design process - The surfaces of the original design were first color coded in CAD and then imported to nTop for lightweighting and optimization.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "The final design was SLM 3D printed with additional offset material and then finished using CNC machining",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of creating a one-off design, DMG MORI developed a robust and reusable optimization process. Using the color-coded surfaces of each subsystem of the imported CAD file as input, the team can automatically rerun their nTop workflow — even if the geometry changes due to design iterations or future projects.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Color coding enabled the engineers to automatically select relevant surfaces in nTop and develop a robust and reusable design workflow to accelerate the design process.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to nTop, the DMG MORI team was able to create a lighter, simpler, and more precise Robo2Go head for additive manufacturing, creating reusable workflows that can be applied to future projects.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerojet Rocketdyne's 3D-printed quad thruster enables low-cost space exploration",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Internet Service Providers",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "TLS Fingerprinting (JA3, JA4)",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "ntopng and nProbe (NetFlow)",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Professional Training",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers and Sales Representatives",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "ntop software products are available from our",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "for details, price and availability, or get touch with our resellers (A-Z):",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "is a New York based company working to bring high-performance computational design to additive and mainstream manufacturing. From the company’s start in 2015, nTop has been aware of the complex problem engineers faced in taking advantage of these capabilities.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "\"From a development perspective, we appreciated the level of control working with the [",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": ", Vice President of Product",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "The evolution of additive manufacturing presented new opportunities, but the limitations of existing design tools were a problem. “The tools at the time weren't allowing engineers to tap into that design freedom,” Trevor Laughlin, Vice President of Product at nTop explains.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "When talking about the intricate challenges designing for additive processes presents, Trevor commented, “Designing that level of complexity in CAD programs at the time was very slow and painful, and in some cases, not even possible.”",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop’s software is designed to solve these issues by offering a different approach to supporting advanced design. Trevor said, “We develop powerful computational design tools that enable creators to accelerate innovation and deliver products the world needs.”",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "The three core technology components of nTop’s design approach are implicit modeling, field-driven design, and design automation. Implicit design defines geometry through mathematical equations that Trevor explains, “Give it speed, reliability and all the complexity that it can do from a modeling perspective.”",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "Finally, design automation is built to create reusable processes, not just individual parts. These workflows are intended to help teams iterate more quickly than previously possible.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop's product in action",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "CAE Toolkits Help Provide Advanced Additive Manufacturing Capabilities to A Wide Array of Markets",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "With their goals of improving efficiency and capabilities in additive manufacturing, nTop needed to develop a wide array of powerful CAE functionality into their product. To do this, they leveraged the HOOPS Product line, including HOOPS Mesh, HOOPS Solve, and HOOPS Access.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "HOOPS SDKs provide a balance of control and developer-friendly ease of use, which allowed nTop to customize where they needed to without having to start from scratch. “The APIs were very open, and that gave us enough access to very low-level control and allowed us to build our optimization framework on top of it,” Trevor explained.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Specter Aerospace accelerates hypersonics design with nTop",
+    "url": "https://www.ntop.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Move nTop designs directly into Magics for build preparation, cutting the time spent prepping and slicing high-performance parts for additive manufacturing.",
+    "url": "https://www.ntop.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Technical Director, Specter Aerospace",
+    "url": "https://www.ntop.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study Index • nTop",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Hypersonic Vehicles, Modeled in Days: How Specter Aerospace Accelerates Hypersonic Design with nTop",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Liquid-cooled cold plate for automotive power electronics",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG MORI redesigns robotic end-effector for additive manufacturing",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "We're backed by leading investors across aerospace, defense, and deep including:",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop is used to engineer mission-critical satellite and aerospace components, stronger and lighter medical implants and prosthetics changing the lives of patients across the globe, and other groundbreaking products redefining their industries.",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "In short, our software is unlocking the full potential of advanced manufacturing for the most innovative companies in the world.",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: DMG MORI Redesigns Robotic End-Effector • nTop",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG MORI redesigns robotic end-effector for additive manufacturing",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how the engineers of DMG MORI redesigned for additive manufacturing a lightweight multi-system robotic end-effector.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "’s ADDITIVE INTELLIGENCE team redesigned their Robo2Go head for additive manufacturing using nTop. The new design is 62% lighter, has 60% fewer components, and improves the handling precision of the robot by a factor of 16.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG MORI is a leader in metal-cutting manufacturing equipment, producing high-quality CNC machines for over a century. Over the past 20 years, DMG MORI has been investing in additive manufacturing, automation, and digitization.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "The DMG MORI Robo2Go 2nd Gen system on the factory floor. The redesigned part is the head that attaches the two end-effectors to the robotic arm. Source: DMG MORI.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG wanted to improve on the already successful design of the Robo2Go 2nd Gen. Their goal was to increase the precision of the machine and save valuable manufacturing and assembly time.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase precision while saving manufacturing and assembly time",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "The unbreakable geometry, reusable workflows, and simulation-driven design capabilities of nTop are extremely powerful ways of designing for additive manufacturing.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing Project Engineer, DMG MORI",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "DMG MORI filled the shell with a conformal lattice to increase the stiffness of the part and create a permanent support structure for additive manufacturing.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to nTop, the DMG MORI team was able to create a lighter, simpler, and more precise Robo2Go head for additive manufacturing, creating reusable workflows that can be applied to future projects.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "See for yourself why leading companies in aerospace, automotive, medical, and consumer industries have chosen nTop as their engineering design software solution.",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Industrial",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - nTop & Tech Soft 3D",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "HOOPS SDKs Support nTop in Bringing the Capabilities of Additive Manufacturing to New Markets",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "ADDITIVE MANUFACTURING",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "is a New York based company working to bring high-performance computational design to additive and mainstream manufacturing. From the company’s start in 2015, nTop has been aware of the complex problem engineers faced in taking advantage of these capabilities.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "The evolution of additive manufacturing presented new opportunities, but the limitations of existing design tools were a problem. “The tools at the time weren't allowing engineers to tap into that design freedom,” Trevor Laughlin, Vice President of Product at nTop explains.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "CAE Toolkits Help Provide Advanced Additive Manufacturing Capabilities to A Wide Array of Markets",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "With their goals of improving efficiency and capabilities in additive manufacturing, nTop needed to develop a wide array of powerful CAE functionality into their product. To do this, they leveraged the HOOPS Product line, including HOOPS Mesh, HOOPS Solve, and HOOPS Access.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, HOOPS Solve is a key part of increasing efficiency in the design process. The field optimization capabilities from nTop allow the optimization of shell thickness and boundaries to the manufacturing tolerances. As Trevor explains, “Many of the physics-driven optimization techniques leverage the HOOPS Solve components.\"",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "Sought to create an improve efficiency and capabilities of design and manufacturing Needed to support a wide array of CAE features",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: ntop achieves real-time, scalable network traffic monitoring with InfluxData's InfluxDB | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/influxdata/case-study/ntop-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: ntop achieves real-time, scalable network traffic monitoring with InfluxData's InfluxDB",
+    "url": "https://www.casestudies.com/company/influxdata/case-study/ntop-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "ntop - Customer Case Study",
+    "url": "https://www.casestudies.com/company/influxdata/case-study/ntop-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/influxdata/case-study/ntop-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/influxdata/case-study/ntop-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Case Study: nTopology – CEETRON SDKs Support nTop in Bringing the Capabilities of Additive Manufacturing to New Markets | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/tech-soft-3d/case-study/ceetron-sdks-support-ntop-in-bringing-the-capabilities-of-additive-manufacturing-to-new-markets",
+    "pass": 3
+   },
+   {
+    "quote": "CEETRON SDKs Support nTop in Bringing the Capabilities of Additive Manufacturing to New Markets",
+    "url": "https://www.casestudies.com/company/tech-soft-3d/case-study/ceetron-sdks-support-ntop-in-bringing-the-capabilities-of-additive-manufacturing-to-new-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how nTopology used Tech Soft 3D",
+    "url": "https://www.casestudies.com/company/tech-soft-3d/case-study/ceetron-sdks-support-ntop-in-bringing-the-capabilities-of-additive-manufacturing-to-new-markets",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/tech-soft-3d/case-study/ceetron-sdks-support-ntop-in-bringing-the-capabilities-of-additive-manufacturing-to-new-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/tech-soft-3d/case-study/ceetron-sdks-support-ntop-in-bringing-the-capabilities-of-additive-manufacturing-to-new-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of computational design software designed to accelerate advanced manufacturing.",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of computational design software designed to accelerate advanced manufacturing. The company's software feature",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Reduce part weight by 50% through topology optimization and lattice structure generation (US Air Force). DMG MORI reduced robot part weight by 62% and manufacturing time by 70%.",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Aerojet Rocketdyne",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Nexxt Spine",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Optimized 3D-printed spinal implants. Promotes bone fusion and shortens patient recovery time.",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese automakers are accelerating lightweight design for EV batteries. Medical device companies are rapidly developing custom implants. Small and medium-sized enterprises can also prototype high-performance parts at low cost with nTop.",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Modern propulsion has to deliver efficient cruise and maximum thrust, subsonic and supersonic performance, all in the same hardware, at every condition it will fly in, not just the one it was designed around. That requirement makes the engine the hardest part of any program to get right, and often the slowest.",
+    "url": "https://www.ntop.com/industries/propulsion/",
+    "pass": 1
+   },
+   {
+    "quote": "nTop models what CAD can't and explores that ripple effect in advance, so upgrade packages arrive proven, not just possible.",
+    "url": "https://www.ntop.com/industries/motorsports/",
+    "pass": 1
+   },
+   {
+    "quote": "Every candidate arrives ready for thermal and structural analysis",
+    "url": "https://www.ntop.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.ntop.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe that our team members around the world should enjoy similar perks and benefits as our US employees — no matter where they are located. In addition to a competitive salary, a fantastic vacation plan, and home office and professional reimbursements, we offer benefits to our international employees that vary by country but match the spirit of the benefits our US employees receive.",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We care about our employees, and our perks and benefits reflect that.",
+    "url": "https://www.ntop.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "7,000+ employees",
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "pass": 1
+   },
+   {
+    "quote": "CAE Toolkits Help Provide Advanced Additive Manufacturing Capabilities to A Wide Array of Markets",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "With their goals of improving efficiency and capabilities in additive manufacturing, nTop needed to develop a wide array of powerful CAE functionality into their product. To do this, they leveraged the HOOPS Product line, including HOOPS Mesh, HOOPS Solve, and HOOPS Access.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "Trevor summarized how each is used, saying “Integrated structural and thermal FEA capabilities are where the HOOPS Mesh and HOOPS Solve components are used.” Meanwhile, HOOPS ACCESS provides an interoperability framework for the diverse array of tools their customers use.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, HOOPS Solve is a key part of increasing efficiency in the design process. The field optimization capabilities from nTop allow the optimization of shell thickness and boundaries to the manufacturing tolerances. As Trevor explains, “Many of the physics-driven optimization techniques leverage the HOOPS Solve components.\"",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "Sought to create an improve efficiency and capabilities of design and manufacturing Needed to support a wide array of CAE features",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "nTop’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "To view nTop’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "nTop has 100 total employees.",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "What is nTop’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for nTop is",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Revenue 2024: $17.9M Est.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "nTop has not published its revenue. GetLatka estimates it at about $17.9M a year (June 2024).",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "nTop had 119 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is nTop's revenue?",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates nTop's revenue at about",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does nTop have?",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "3Dプリンター向けのソフトウェア / nTop | 株式会社NTTデータ ザムテクノロジーズ",
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "ご導入後すぐにご活用いただけるよう、日本語での有償トレーニングをご用意しております",
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "操作方法がわからない、やりたい事がうまくできない、といったお困りごとについても当社のnTopologyエキスパートが日本語でご対応いたします",
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のnTopologyエキスパートが、次々と搭載される新機能について、当社Webサイト上で日本語にてご説明しております",
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は2020年よりnTop（旧名：nTopology）の正規販売代理店です",
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のビジネスマンにとって、製造業の効率化や競争力強化に役立つツールです",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業は、2030年までに付加製造市場が約1兆円に成長予測（経済産業省）",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車（例：トヨタ）、航空（JAXA）、医療機器メーカー（テルモ）は、製品開発の迅速化とコスト削減を実現",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "直感的なUIと日本語ドキュメント（要確認）で、設計初心者も操作可能",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "日本の自動車メーカーは、EVバッテリーの軽量化設計を加速",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "日本の企業にとって、既存ツールとの統合性と開発スピード向上が導入の決め手",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "日本の企業は、nTopを活用し、製品開発を高速化",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "Value for Japanese Business Professionals",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Learn (self-study courses) and the Discord community are free. Students and researchers can use the non-commercial version for free. Utilization is also progressing at Japanese universities (e.g., The University of Tokyo).",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese automakers are accelerating lightweight design for EV batteries. Medical device companies are rapidly developing custom implants. Small and medium-sized enterprises can also prototype high-performance parts at low cost with nTop.",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While Autodesk Fusion and Siemens NX are general-purpose CAD, nTop has an advantage in computational design specialized for AM. Compared to Ansys and Altair, its strengths lie in lattice structures and mesh-free analysis. For Japanese companies, integration with existing tools and improved development speed are the deciding factors for adoption.",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Application to Japanese Business",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3Dプリンター向けのソフトウェア / nTop | 株式会社NTTデータ ザムテ... — 「nTop」は次世代のエンジニアリングツールとも呼ばれ、従来のCADソフトなどでは困難であった複雑な形状の設計を容易に行うことができます。 2019年のリリース以降、航空宇宙、自動車、医療、消費者製品業界など幅広い業界の皆様にご活用頂いております。",
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop/nTopology – 3Dプリンタの可能性を限界まで高めるモデリングソフ... — nTop（旧nTopology）は、複雑な3Dプリント用モデルを効率的に設計できる革新的なソフトウェアです。 従来のCADでは困難だったラティス構造の作成が可能で、トポロジー最適化や解析機能とあわせてさらに効果を発揮します。",
+    "url": "https://ntop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "nTop（旧nTopology）は、複雑な製品設計を高速化する計算設計ソフトウ... — May 12, 2025 · 日本の企業にとって、既存ツールとの統合性と開発スピード向上が導入の決め手。 日本のビジネスへの適用 日本の企業は、nTopを活用し、製品開発を高速化。 たとえば、航空宇宙の試作用部品や医療のカスタムプロテーゼを効率化。",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "製造業革命！nTopがもたらす次世代デザインソリューションの全貌| 生... — Jan 14, 2025 · 特に、持続可能な製造業への転換を背景に、材料使用量削減と性能向上を両立するnTopの技術需要はさらに拡大する見込みです。 製造業のデジタル変革において、nTopは単なる設計ツールを超えた戦略的パートナーとしての地位を確立しつつあります。",
+    "url": "https://generative-ai.co.jp/usecase/video-creative-ai/ai-startup-usecase-ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "ドキュメント｜ntopng – ジュピターテクノロジー株式会社 — Feb 7, 2022 · ntopng、nProbeに関するドキュメント一覧です。 導入を検討中の方向け",
+    "url": "https://www.jtc-i.co.jp/product/ntopng/document.html",
+    "pass": 3
+   },
+   {
+    "quote": "ntop Resellers & Distributors Worldwide | ntop — Find an authorized ntop reseller or distributor near you for ntopng, nProbe, n2disk and nBox appliances, with local sales, support and services.",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "엔탑 (N.TOP) on X: \"https://t.co/mJ9UwwfKF6 JAPAN RELEASE LIVE ..... — Mar 16, 2026 · 日本デビューアルバムのラストシーズン！ ラストシーズンならではの特別な時間をお楽しみください 🗓️3/28 (土)→4/12 (日) 📍J-stage O! / K-stage O! 🔗 livepocket.jp/e/9t0x3 🎫販売期間 3/17 (火)19:00より販売開始 #NTOP #엔탑 #エントップ #WE_DISCONNECT_FIND",
+    "url": "https://x.com/official_ntop/status/2033484482578403817",
+    "pass": 3
+   },
+   {
+    "quote": "엔탑(N.TOP) | N.TOP Live In Japan WINTER WISHES ️2025.12.13 ... — official_ntop 🔥 N.TOP COMEBACK決定！ 🔥『N.TOP ROAD TO COMEBACK』2026.09.05 – 09.27さらに進化したN.TOPが、ついに帰ってきます！ 皆さん、ぜひご期待ください 🎫 販売開始日時8/16(日)19:00〜公演2日前23:59まで🔗 https://livepocket.jp/e/qf-2l#엔탑#NTOP#エントップ#NTOP_ROAD_TO_COMEBACK",
+    "url": "https://www.instagram.com/p/DRZRRqWAYpF/",
+    "pass": 3
+   },
+   {
+    "quote": "Intro to nTop (Japanese) - YouTube — Feb 9, 2026 · Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+    "url": "https://www.youtube.com/watch?v=ig7bMSEN3vo",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Index • nTop — Success stories, straight from the field. nTop is a design software that helps engineers iterate faster, generate insights, and deliver high-performance designs.",
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - nTop & Tech Soft 3D — Oct 8, 2024 · nTop is a New York based company working to bring high-performance computational design to additive and mainstream manufacturing. From the company’s start in 2015, nTop has been aware of the complex problem engineers faced in taking advantage of these capabilities.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: ntop achieves real-time, scalable network traffic ... — ntop (Information Technology and Services) partnered with Influxdata (Internet) to solve key challenges. \"ntop - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/influxdata/case-study/ntop-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Soft 3D Case Study: nTopology – CEETRON SDKs Support ... — nTopology (Computer Software) partnered with Tech Soft 3D (Computer Software) to solve key challenges. \"CEETRON SDKs Support nTop in Bringing the Capabilities of Additive Manufacturing to New Markets\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/tech-soft-3d/case-study/ceetron-sdks-support-ntop-in-bringing-the-capabilities-of-additive-manufacturing-to-new-markets",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Case Study: ntop (New Branding) - InfluxData — Because ntop’s users don’t need low-level information and often just want to know high-level facts (knowing if the network is fast enough for example), ntop had to translate networking information, such as packet loss, into something meaningful.",
+    "url": "https://get.influxdata.com/rs/972-GDU-533/images/Customer+Case+Study_+ntop.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "nTop - 2026 Company Profile, Team, Funding & Competitors - TracxnnTop 2026 Company Profile: Valuation, Funding & Investors ...nTop Revenue 2024: $17.9M Est. - getlatka.comnTop Information - RocketReachnTop - Overview, News & Similar companies | ZoomInfo.comNtop - Crunchbase Company Profile & FundingNtop: Funding, Team & Investors | Startup Intros — Mar 3, 2026 · Explore nTop's in-depth company pro",
+    "url": "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "pass": 3
+   },
+   {
+    "quote": "nTop 2026 Company Profile: Valuation, Funding & Investors ...nTop Revenue 2024: $17.9M Est. - getlatka.comnTop Information - RocketReachnTop - Overview, News & Similar companies | ZoomInfo.comNtop - Crunchbase Company Profile & FundingNtop: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and executives for nTop. Use the PitchBook Platform to e",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Revenue 2024: $17.9M Est. - getlatka.com — Oct 5, 2026 · How many employees does nTop have? nTop had 119 employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/ntop.com",
+    "pass": 3
+   },
+   {
+    "quote": "nTop Information - RocketReachnTop - Overview, News & Similar companies | ZoomInfo.comNtop - Crunchbase Company Profile & FundingNtop: Funding, Team & Investors | Startup Intros — nTop is a 3D Printing, Software Development, and Engineering Software company located in New York, New York with $27.3 million in revenue and 108 employees. Find top employees, contact details and business statistics at ",
+    "url": "https://rocketreach.co/ntop-profile_b558412ff6417326",
+    "pass": 3
+   },
+   {
+    "quote": "nTop - Overview, News & Similar companies | ZoomInfo.com — Gather financial insights about nTop, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/ntopology-inc/420972350",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "ntop Resellers & Distributors Worldwide | ntop",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Resellers and Sales Representatives",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "for details, price and availability, or get touch with our resellers (A-Z):",
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Inventor OEM",
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "pass": 3
+   },
+   {
+    "quote": "ntop solved this by adopting InfluxData’s InfluxDB as a replacement for RRD, giving a faster, more scalable time‑series backend. The integration reduced resource use, sped up queries and made real‑time monitoring practical across deployments, improving ntopng’s performance, usability and ability to scale for both individual users and embedded OEM customers.",
+    "url": "https://www.casestudies.com/company/influxdata/case-study/ntop-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "nTop (formerly nTopology) is a US-based company providing ... May 11, 2025 · This guide provides an easy-to-understand overview of nTop, its features, and its business value. What is nTop? nTop was founded in 2015 by Bradley Rothenberg (CEO and Founder) in New York City, USA (Headquarters: 70 Washington Square South). It rebranded from \"nTopology\" to \"nTop\" in 2023.",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "nTop（旧nTopology）は、複雑な製品設計を高速化する計算設計ソフトウ... May 12, 2025 · nTop（旧nTopology）は、複雑な製品設計を高速化する計算設計ソフトウェアを提供する米国の企業です。 2015年に設立され、航空宇宙、自動車、医療分野で革新を支えます。 日本のビジネスマンにとって、製造業の効率化や競争力強化に役立つツールです。",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "nTop (formerly nTopology) is a US-based company providing computational design software that accelerates complex product design 🇺🇸｜MasaT. 武富 正人",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "nTop (formerly nTopology) is a US-based company providing computational design software that accelerates complex product design 🇺🇸",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "nTop (formerly nTopology) is a US-based company that provides computational design software to accelerate complex product design. Founded in 2015, it supports innovation in the aerospace, automotive, and medical fields. For Japanese business professionals, it is a tool that helps improve manufacturing efficiency and competitiveness. This guide provides an easy-to-understand overview of nTop, its f",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "nTop was founded in 2015 by Bradley Rothenberg (CEO and Founder) in New York City, USA (Headquarters: 70 Washington Square South). It rebranded from \"nTopology\" to \"nTop\" in 2023. It raised $180 million in Series D funding (from Insight Partners, Tiger Global, etc.), reaching a valuation of $1.7 billion as an EdTech unicorn. Over 400 companies, including Lockheed Martin, Siemens Energy, and NASA, ",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Value for Japanese Business Professionals",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Japanese manufacturing industry's additive manufacturing market is projected to grow to approximately 1 trillion yen by 2030 (Ministry of Economy, Trade and Industry). However, inefficiencies in complex design and prototyping CAD remain a challenge. nTop automates the design of lightweight, high-performance parts, reducing development time by up to 80% (Aerojet Rocketdyne case study). Japanese",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Computational Design Engine",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly generate complex geometries with Implicit Modeling and Field-Driven Design. For example, complete lightweight design for aircraft parts in minutes. 5x faster than traditional CAD (nTop.com).",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "nTop（旧nTopology）は、複雑な製品設計を高速化する計算設計ソフトウェアを提供する米国の企業 🇺🇸｜MasaT. 武富 正人",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "nTop（旧nTopology）は、複雑な製品設計を高速化する計算設計ソフトウェアを提供する米国の企業 🇺🇸",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "nTop（旧nTopology）は、複雑な製品設計を高速化する計算設計ソフトウェアを提供する米国の企業です。2015年に設立され、航空宇宙、自動車、医療分野で革新を支えます。日本のビジネスマンにとって、製造業の効率化や競争力強化に役立つツールです。この案内では、nTopの概要、特徴、ビジネス価値をわかりやすく解説します。",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "nTopは、ブラッドリー・ローゼンバーグ氏（CEO、創業者）が2015年に米国ニューヨーク市（本社：70 Washington Square South）に設立。2023年に「nTopology」から「nTop」にリブランディング。シリーズDで1億8000万ドルを調達（Insight Partners、Tiger Global等）、評価額17億ドルでEdTechユニコーンに。Lockheed Martin、Siemens Energy、NASAなど400社以上が採用。nTopのソフトウェアは、付加製造（AM）や軽量化設計を加速し、従来のCADの限界を打破。2024年6月リリースのnTop 5は、新たなモデリングカーネルを導入し、性能と精度を向上。",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業は、2030年までに付加製造市場が約1兆円に成長予測（経済産業省）。しかし、複雑な設計や試作用CADの非効率さが課題です。nTopは、軽量かつ高性能な部品設計を自動化し、開発時間を最大80％削減（Aerojet Rocketdyne事例）。日本の自動車（例：トヨタ）、航空（JAXA）、医療機器メーカー（テルモ）は、製品開発の迅速化とコスト削減を実現。直感的なUIと日本語ドキュメント（要確認）で、設計初心者も操作可能。クラウド統合でチーム連携も容易です。",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "Implicit ModelingとField-Driven Designで、複雑なジオメトリを瞬時に生成。たとえば、航空機部品の軽量化設計を数分で完了。従来CADより5倍高速（nTop.com）。",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "トポロジー最適化とラティス構造生成で、部品の重量を50％削減（米空軍）。DMG MORIはロボット部品を62％軽量化し、製造時間を70％短縮。",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Fusion、Materialise Magicsと連携。nTop Coreにより、CFDやFEA解析にメッシュ不要で移行。Siemens Energyは熱交換器設計を40％効率化。",
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "nTop (@nTopology) / X nTop is the engineering design platform built to increase design throughput and systematically explore complex design spaces.",
+    "url": "https://x.com/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "ntop (@ntop_org) / Posts / X ntop (@ntop_org) - Posts - We develop high-quality networking software. NTOP means open-source from the source | X (formerly Twitter)",
+    "url": "https://x.com/ntop_org",
+    "pass": 3
+   },
+   {
+    "quote": "nTop on X: \"nTop and PhysicsX show what a closed-loop AI ... Check out the webinar tomorrow at 11:00 AM ET. Register here: ntop.com/resources/webi…",
+    "url": "https://x.com/nTopology/status/2069862114752172135",
+    "pass": 3
+   },
+   {
+    "quote": "nTop on X: \"nTop geometry feeding directly into @ANSYS ... nTop geometry feeding directly into @ANSYS Discovery, tied together in an automated workflow via OptiSLang. Setup takes 30 minutes. Once. Every run after that is near-zero overhead. 📹Video by Ansys, Manipulating the Geometry & Ansys Inside Discovery",
+    "url": "https://x.com/nTopology/status/2075282779214893382",
+    "pass": 3
+   },
+   {
+    "quote": "nTop (@nTopology) / X nTop and PhysicsX show what a closed-loop AI design pipeline looks like in production. nTop generated 100+ drone configurations with zero geometry failures. The parametric model and live parameter updates were created in nTop, and the design exploration was run in the PhysicsX Optimizer.",
+    "url": "https://x.com/ntopology",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by えぬとぴ (@Ntop_) / X @Ntop_ 最高にクールでキュートなアイコンとヘッダーはおおとろさんから Joined June 2015 224 Following 227 Followers Mention Follow RepostsMediaMedia えぬとぴ reposted ちんさま @cnsm_smk 4h",
+    "url": "https://x.com/Ntop_/reposts",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "nTop - LinkedIn nTop is a design software that helps engineers iterate faster, generate insights, and deliver high-performance designs. About us Engineering is being outpaced by its own ambition.",
+    "url": "https://www.linkedin.com/company/ntopology/",
+    "pass": 3
+   },
+   {
+    "quote": "NTOP - LinkedIn NTOP | 868 followers on LinkedIn. See every flow, app and threat on 100 Gbit links | Open source ntopng + nDPI | Trusted since 1998 | Your NetFlow probe falls over past 10 Gbit.",
+    "url": "https://www.linkedin.com/company/ntop",
+    "pass": 3
+   },
+   {
+    "quote": "nTop: Jobs | LinkedIn nTop | 45,917 followers on LinkedIn. nTop is a design software that helps engineers iterate faster, generate insights, and deliver high-performance designs. | Engineering is being outpaced by...",
+    "url": "https://www.linkedin.com/company/ntopology/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "How to Monitor Network Traffic with ntop: A Guide for Network ... Learn how to use ntop, a free and open source network traffic analyzer, to monitor, report, alert, and troubleshoot network traffic in different ways.",
+    "url": "https://www.linkedin.com/advice/0/how-can-you-use-ntop-monitor-network-traffic",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ntop - FacebookNebraska Tower on the Plains Rabbit Breeders AssociationnTopology | New York NY - FacebookNTOP GROUP SARL | Njombé - Facebook#NVIDIAInception startup nTop gives engineers unprecedented ...Take a stroll, spot your favorite NTOP x Snoopy pieces, and ...Ice Machines For Rent - NTop 168 Trading, Corp. - Facebook Nov 10, 2017 · ntop. 44 followers. ntop develops high-quality networking so",
+    "url": "https://www.facebook.com/ntoporg/",
+    "pass": 3
+   },
+   {
+    "quote": "Nebraska Tower on the Plains Rabbit Breeders AssociationnTopology | New York NY - FacebookNTOP GROUP SARL | Njombé - Facebook#NVIDIAInception startup nTop gives engineers unprecedented ...Take a stroll, spot your favorite NTOP x Snoopy pieces, and ...Ice Machines For Rent - NTop 168 Trading, Corp. - Facebook Oct 9, 2026 · So many fun things happening at the NTOP show Oct 18th! *Triple all breed an",
+    "url": "https://www.facebook.com/nebraskatowerontheplains/",
+    "pass": 3
+   },
+   {
+    "quote": "nTopology | New York NY - Facebook Nov 18, 2024 · Lightweighting is always a priority in aerospace, and nTop makes it simple and reliable. Watch this video to see Alejandro Lopez, EMEA Application Engineer at nTop, use topology optimization in nTop to generate a lightweight airplane flight control bracket.",
+    "url": "https://www.facebook.com/nTopology-105010787627932/",
+    "pass": 3
+   },
+   {
+    "quote": "NTOP GROUP SARL | Njombé - Facebook Grâce à l’implication du président du groupe NTOP, nous répondons à l’appel du Chef de l’État et ouvrons la voie à de nouvelles coopérations internationales pour le développement durable de notre agriculture. 🤝 Ensemble, construisons une agriculture moderne, rentable et tournée vers l’avenir ! 📞 +237 698 50 62 08",
+    "url": "https://www.facebook.com/people/NTOP-GROUP-SARL/61556654933416/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ntop.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/industries/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/industries/propulsion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/industries/motorsports/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/industries/energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.com/resources/case-studies/dmg-mori-robot-end-effector/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.nttdata-xam.com/ntopology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ntop.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://generative-ai.co.jp/usecase/video-creative-ai/ai-startup-usecase-ntop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntop.org/about-us/resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/NTT_JAPAN_RUGBY_LEAGUE_ONE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/official_ntop/status/2033484482578403817",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/p/DRZRRqWAYpF/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cf.bubbleforjapan.com/artist/plus_japan.ntop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/influxdata/case-study/ntop-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tech-soft-3d/case-study/ceetron-sdks-support-ntop-in-bringing-the-capabilities-of-additive-manufacturing-to-new-markets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extremenetworks.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/153371-89",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/ntop.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/ntop-profile_b558412ff6417326",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ntopology",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ntop_org",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nTopology/status/2069862114752172135",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nTopology/status/2075282779214893382",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ntopology/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ntop",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ntopology/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/advice/0/how-can-you-use-ntop-monitor-network-traffic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ntoporg/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nebraskatowerontheplains/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nTopology-105010787627932/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/NTOP-GROUP-SARL/61556654933416/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ntopology",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Ntop_/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ntop 日本 導入",
+   "results": [
+    "https://www.nttdata-xam.com/ntopology/",
+    "https://ntop.jp/",
+    "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "https://generative-ai.co.jp/usecase/video-creative-ai/ai-startup-usecase-ntop/",
+    "https://www.jtc-i.co.jp/product/ntopng/document.html",
+    "https://www.t-sol.co.jp/product/ntopology/",
+    "https://www.t-sol.co.jp/case/dmg-mori_ntopology/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ntop 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.ntop.org/about-us/resellers/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ntop Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/NTT_JAPAN_RUGBY_LEAGUE_ONE",
+    "https://x.com/official_ntop/status/2033484482578403817",
+    "https://www.instagram.com/p/DRZRRqWAYpF/",
+    "https://cf.bubbleforjapan.com/artist/plus_japan.ntop",
+    "https://www.youtube.com/watch?v=ig7bMSEN3vo",
+    "https://ja.namu.wiki/w/N.TOP",
+    "https://www.instagram.com/p/DcGM4F9gXa9/",
+    "https://mau.run/ntop_releaseevent_jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Ntop manufacturing customer case study",
+   "results": [
+    "https://www.ntop.com/resources/case-studies/",
+    "https://www.techsoft3d.com/resources/case-studies/ntop/",
+    "https://www.casestudies.com/company/influxdata/case-study/ntop-customer-case-study",
+    "https://www.casestudies.com/company/tech-soft-3d/case-study/ceetron-sdks-support-ntop-in-bringing-the-capabilities-of-additive-manufacturing-to-new-markets",
+    "https://get.influxdata.com/rs/972-GDU-533/images/Customer+Case+Study_+ntop.pdf",
+    "https://www.ntop.com/resources/case-studies/lockheed-martin-accelerates-design-with-ai-and-embedded-simulation/",
+    "https://www.metal-am.com/articles/high-performance-product-development-in-the-era-of-computational-design-a-case-study-with-ntop-and-nasa/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ntop white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.extremenetworks.com/partners",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ntop founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/ntop/__b6YrJ38L9EjAid4ynRkuVAOaFcrTDOwBP99t3buubLU",
+    "https://pitchbook.com/profiles/company/153371-89",
+    "https://getlatka.com/companies/ntop.com",
+    "https://rocketreach.co/ntop-profile_b558412ff6417326",
+    "https://www.zoominfo.com/c/ntopology-inc/420972350",
+    "https://www.crunchbase.com/organization/ntop-1d38",
+    "https://startupintros.com/orgs/ntop"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ntop",
+   "results": [
+    "https://note.com/vueloo_blog/n/nf9d80f5804b3?hl=en",
+    "https://note.com/vueloo_blog/n/nf9d80f5804b3",
+    "https://note.com/ntop_1104",
+    "https://note.com/tag/80億分の1",
+    "https://note.com/ntop_1104/m/m19c2e29976c2/archive",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/spaceygoblin/n/n0f0677188638",
+    "https://note.com/ntop_1104/n/nf81364398f34",
+    "https://note.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Ntop",
+   "results": [
+    "https://x.com/ntopology",
+    "https://x.com/ntop_org",
+    "https://x.com/nTopology/status/2069862114752172135",
+    "https://x.com/nTopology/status/2075282779214893382",
+    "https://x.com/nTopology/status/2067623429587558473",
+    "https://x.com/official_ntop",
+    "https://x.com/nTopology/status/2102823069022646693"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ntop",
+   "results": [
+    "https://www.linkedin.com/company/ntopology/",
+    "https://www.linkedin.com/company/ntop",
+    "https://www.linkedin.com/company/ntopology/jobs",
+    "https://www.linkedin.com/advice/0/how-can-you-use-ntop-monitor-network-traffic",
+    "https://www.linkedin.com/in/bradleyrothenberg",
+    "https://www.linkedin.com/in/kevin-chlan",
+    "https://www.linkedin.com/jobs/view/field-solutions-engineer-at-ntop-4377265182"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ntop",
+   "results": [
+    "https://www.facebook.com/ntoporg/",
+    "https://www.facebook.com/nebraskatowerontheplains/",
+    "https://www.facebook.com/nTopology-105010787627932/",
+    "https://www.facebook.com/people/NTOP-GROUP-SARL/61556654933416/",
+    "https://www.facebook.com/NVIDIAAI/videos/solving-engineerings-biggest-design-challenges-with-ntop/1404687100562787/",
+    "https://www.facebook.com/Nevertooold.id/videos/take-a-stroll-spot-your-favorite-ntop-x-snoopy-pieces-and-shop-them-all-at-the-n/2159708087908879/",
+    "https://www.facebook.com/ntop168tradingcorp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ntop note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Ntop X 投稿",
+   "results": [
+    "https://zh.wikipedia.org/wiki/N.TOP",
+    "https://x.com/ntopology",
+    "https://x.com/Ntop_/reposts",
+    "https://tieba.baidu.com/p/9546159251",
+    "https://community.ntop.com/",
+    "https://www.bilibili.com/video/av739019179/",
+    "https://www.nttdata-xam.com/ntopology/",
+    "https://app.ntop.com/login",
+    "https://www.ntop.com/",
+    "https://www.ntop.org/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部39頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部39頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部39頁・検索12回）"
+ }
+}

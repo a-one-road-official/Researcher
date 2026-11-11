@@ -1,0 +1,1298 @@
+{
+ "name": "Starcloud",
+ "aliases": [],
+ "context": "旧営業リスト｜Aerospace｜送付済み",
+ "researched_at": "2026-11-11T03:23:26.974389+00:00",
+ "official_url": "https://www.starcloud.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：January 2024 ; 2 years ago ( 2024-01 ) in El Segundo , California, US",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Redmond , Washington , US",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We are a team of innovative deep-tech engineers with big ambitions to change the paradigm of hyperscale data centers, enabling the future of AI by deploying the largest training clusters on data centers in space.",
+    "url": "https://www.starcloud.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Philip is a second-time founder who previously spent time at McKinsey & Co. working on satellite projects for national space agencies. Philip has an MPA in National Security & Technology from Harvard University, an MBA from Wharton, an MA in Applied Mathematics & Theoretical Physics from Columbia University, and is a CFA Charter holder.",
+    "url": "https://www.starcloud.com/",
+    "pass": 1
+   },
+   {
+    "quote": "の会社紹介、Starcloud チームの公式ブログ、CEO Philip Johnston の動画ツアー、Google Project Suncatcher の発表を一次導線として、将来の価格やロードマップの日付を当てるためではなく、「どのワークロードを外に出せるか」を切り分けるための素振りとして書いています",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "後続ロードマップで光通信や衛星ネットワークが重要になるのはこのためで、Google の Project Suncatcher も衛星間リンクと通信制御を研究課題として掲げています",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "workloads という順序でロードマップを示しています",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "Google は Project Suncatcher で、TPU を積んだ太陽光駆動の衛星ネットワークを使い、機械学習計算を宇宙で拡張する研究構想を公開しており、Planet との学習ミッションで試験衛星を打ち上げる計画も示しています",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon Leo（旧 Project Kuiper）や SpaceX Starlink は、宇宙データセンターそのものではなく低軌道通信インフラとして読むべきで、軌道上で計算するには計算ノードだけでなく、データを運ぶネットワーク、地上局、運用ソフトウェア、規制対応が必要になります",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "Google: Project Suncatcher",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "Project Suncatcher徹底解説",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceXのAI1やGoogleのProject Suncatcherが「構想」を語る段階にある一方で、",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "一方でStarcloud・Google Project Suncatcherなど推進側は、軌道上は太陽光を24時間近く利用できコード効率が高く、長期的には地上のエネルギー消費削減につながると反論している",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceXのAI1やGoogleのProject Suncatcherが設計・実証計画の段階にあるのに対し、Starcloudは2025年に実際にGPUを軌道で稼働させ、宇宙でのLLM学習まで達成しました",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Project Suncatcher徹底解説",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Project Suncatcher解説｜TPU試作衛星を10月打ち上げ・81機の軌道上AI構想",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "history, hitting a $1.1bn valuation just 17 months after completing the program.",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "and raised additional seed funding, bringing the total to approximately $34M.",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud stated that the project aimed to explore how orbital conditions, including continuous solar exposure and",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": ", and the first to perform in-orbit training of a large language model (nanoGPT, developed by",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "On February 3, 2026, Starcloud submitted a proposal to the FCC for a constellation of up to 88,000 satellites for orbital data centers.",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": ". The raise made Starcloud the fastest company to reach unicorn status in Y Combinator history, 17 months after completing the program.",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "On May 26, 2026, Starcloud announced that it had signed a contract with SpaceX to integrate Starlink mini-lasers onto its next 25 satellites to provide high-bandwidth, low-latency connectivity.",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, Starcloud was selected as a member of the Nvidia Inception program, the",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "– Proposed interstellar mission",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "\"The answer to tech's clean energy problem? Put data centres in space\"",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": ". April 9, 2025",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "\"Video: How Will Starcloud Build Data Centers in Space?\"",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "'One small step for LLMs': Why training the first AI model in space is a breakthrough\"",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with unsourced statements from April 2026",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "We deliver mobile data top-ups to any prepaid phone in the world, instantly and securely.",
+    "url": "https://www.starcloudconnect.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Enter the country and the prepaid phone number.",
+    "url": "https://www.starcloudconnect.com/",
+    "pass": 3
+   },
+   {
+    "quote": "I really like the idea! Thank you, StarCloud. It's an excellent initiative and I look forward to seeing more new ideas and improvements.",
+    "url": "https://www.starcloudconnect.com/",
+    "pass": 3
+   },
+   {
+    "quote": "StarCloud built its first satellite for about $2.5 million. A prime contractor had quoted $75 million to $100 million for the same job.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "The cost discipline is the strategy. When the team needed a vibration test table, a new one cost about $1.5 million with a lead time approaching two years. They bought a broken secondhand machine for $200,000 instead.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "Prime quote / market rate",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "~4 years (prior record, per Johnston)",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "The gap between the second and third bars is the entire investment case. SpaceX designs Starship for internal launch costs of $20-40 per kilogram, Johnston says, and StarCloud needs that passed through at anything under roughly ten times marginal cost. He notes Falcon 9 rideshare today is priced at two to three times SpaceX's marginal cost, which he calls a reasonable benchmark.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "Feilden flags a nearer-term problem that most orbital-compute timelines ignore.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "Cooling is the hard problem — and StarCloud claims a 10x mass advantage",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "The governing constraint he gives: every watt received from the sun must be dissipated. StarCloud is adapting the liquid-cooling approach that became standard in terrestrial data centers in 2025 to space.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "Johnston argues radiation is more consequential than the thermal problem people fixate on.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "Johnston, Oltean, Feilden and others have set up a nonprofit to send the first spacecraft to Alpha Centauri. A physical AI lab out of MIT found a trajectory costing about $10-15 million using existing technology: Hall-effect ion thrusters powered by solar, spiraling toward the sun for five years, then firing at perihelion for another five to build expanding ellipses before flinging outward.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "The craft will not aim where Alpha Centauri is today. The star is moving toward us and the paths intersect in about 80,000 years, so Johnston hopes the probe is both first to leave and last to arrive — overtaken by faster craft and applauded across the finish line.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "The payload will carry a golden record, scientific instruments, a digital copy of the fruit-fly brain connectome, and a paid solicitation period for artworks and messages via a donation site. Johnston plans to put his fiancée's name on it — having already written a marriage proposal on StarCloud One, which passes over Cabo, where he proposed, once every three days.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "The entire StarCloud thesis rests on a launch price that does not exist yet. The $2.5 million satellite and the ten-times-lighter radiator are impressive if they hold, but the business only beats terrestrial compute below $500 per kilogram — and Johnston's own timeline puts commercial Starship capacity at 2028, with Falcon 9 rideshare winding down in the interim.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "The 88,000-satellite FCC filing and the 10-terawatt orbit estimate are stated ambitions, not contracted capacity. The near-term proof point is StarCloud 2's January launch, which tests the radiator, the liquid cooling loop and the radiation-hardened compute stack simultaneously — all three failure modes in a single flight.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "Full content available at:",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceX May Pocket Starship Cost Savings Rather Than Cut Launch Prices, Varda Executive Says",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "AI tools were used in the production of this video. All analysis represents original commentary.",
+    "url": "https://www.youtube.com/watch?v=dKFrhXzbhDI",
+    "pass": 3
+   },
+   {
+    "quote": "Project TESSERAEという技術を使った自律型タイル式モジュールにより、将来的には5ギガワット規模の巨大なデータセンターを宇宙に構築する計画です",
+    "url": "https://note.com/space_business/n/n692d41e9851a",
+    "pass": 3
+   },
+   {
+    "quote": "Space-Based Data Centers: First Principles Deconstruction and Market Ecosystem Analysis Through 2035, 10月 24, 2025にアクセス、",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.nvidia.com/en-us/networking/products/cloud-native-supercomputing/",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Space Modernization for the 21st Century Notice of Proposed Rulemaking – SB Docket No. 25-306 - Federal Communications Commission, 10月 24, 2025にアクセス、",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.precedenceresearch.com/high-performance-computing-as-a-service-market",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA vs Cloud Providers - AWS, Azure, GCP - YouTube, 10月 24, 2025にアクセス、",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA GPU Pricing | Nebius AI Cloud, 10月 24, 2025にアクセス、",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://nebius.com/prices",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "GPU pricing | Google Cloud, 10月 24, 2025にアクセス、",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://cloud.google.com/compute/gpus-pricing",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Philip is a second-time founder who previously spent time at McKinsey & Co. working on satellite projects for national space agencies. Philip has an MPA in National Security & Technology from Harvard University, an MBA from Wharton, an MA in Applied Mathematics & Theoretical Physics from Columbia University, and is a CFA Charter holder.",
+    "url": "https://www.starcloud.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In March 2025, the company rebranded to Starcloud after a legal challenge from",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "\"Lumen Orbit rebrands to Starcloud, raises another $10m for in-orbit data centers\"",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ezra has a decade of experience with satellite design, specializing in deployable solar arrays and large deployable structures. Ezra comes from Airbus Defense & Space (SSTL) and Oxford Space Systems, where he worked on many missions, including NASA's Lunar Pathfinder. Ezra has a PhD in Materials Engineering from Imperial College London.",
+    "url": "https://www.starcloud.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SPCXの現在値、IPO価格比、時価総額、PS、出来高、上場後の日次推移を確認する",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "IPO候補、上場後パフォーマンス、M&A活発度をデータで確認する",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Data arrives in seconds, ready to use.",
+    "url": "https://www.starcloudconnect.com/",
+    "pass": 3
+   },
+   {
+    "quote": "StarCloud One, launched in November 2025, carries three NVIDIA chips including an H100, two from Arm, and AMD CPUs. It has run nanoGPT and an early Gemini version, and now runs inference for government customers on synthetic aperture radar and hyperspectral imagery.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "\"If the chips have a 10 or 20% higher failure rate in space than they do on the ground, then the whole economics of the model fall apart,\" he said. \"The chips are by far the most expensive part of what we're doing.\"",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "The craft will not aim where Alpha Centauri is today. The star is moving toward us and the paths intersect in about 80,000 years, so Johnston hopes the probe is both first to leave and last to arrive — overtaken by faster craft and applauded across the finish line.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "The payload will carry a golden record, scientific instruments, a digital copy of the fruit-fly brain connectome, and a paid solicitation period for artworks and messages via a donation site. Johnston plans to put his fiancée's name on it — having already written a marriage proposal on StarCloud One, which passes over Cabo, where he proposed, once every three days.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "AI Spending Concerns Intensify as Nasdaq Plunges More Than 2% at Open; Intel Craters 25%",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Starcloudとは？宇宙データセンター構想と技術論点｜株式会社ネクサフロー",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "したがって日本企業が今すべきは宇宙クラウドの調達検討ではなく、自社の AI ワークロードを「境界を切れるかどうか」で棚卸ししておくことだと考えています",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がすぐに「宇宙クラウド」を調達できるわけではありません",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "早稲田大学卒業後、ソフトバンク株式会社にてAI活用やCEO直下案件のプロジェクトマネージャーに従事",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "その後、不動産スタートアップPit in株式会社の創業、他スタートアップでの業務改善・データ活用を経験後、2023年10月、株式会社ネクサフローを創業し代表取締役CEO就任",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "次トークン予測が強いモデルと、映像・センサー・行動から世界を学ぶモデルの分岐点、日本企業がモデル選びより先に手を付けるべきデータ整備の論点をまとめる",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "日本でもAI向けの電力と用地の確保は、これから大きなテーマになります",
+    "url": "https://frontjour.com/column/global/starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "防衛宇宙の主要契約2026｜SDA Tranche2 約200機・600億ドル市場の米国/NATO/日本の動向",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙関連株ランキング2026｜米国・日本20社の株価と比較ポイント【10月更新】",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceX、Rocket Lab、ispace、QPSなど日本・世界の宇宙関連銘柄を日次更新で確認する",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙・衛星・ミサイル防衛に関与する日本・世界の防衛関連銘柄を日次更新で確認する",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "米DoD・日本防衛省など各国の宇宙防衛契約と受注企業を確認する",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙食は本物？JAXA宇宙日本食とNASA系フリーズドライのおすすめ15品を実食目線でランキングした",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 【Insight】日本ビジネスへの構造的インパクト",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "3. 【Deep Dive】日本企業が直面する「壁」",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "日本の宇宙産業は、「いかに大容量のデータを地上に送るか（光通信など）」に注力してきた",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "このソフト領域は日本が弱く、ハード偏重の日本のモノづくり思想が足かせになるリスクがある",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "「宇宙コンピューティング」時代において、日本企業がとるべき具体的なアクションプランを提示する",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "日本の素材メーカーが持つ「高性能ヒートパイプ」や「排熱シート」の技術は、宇宙データセンターにとって命綱となる",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Starcloudとは？宇宙データセンター構想と技術論点｜株式会社ネクサフ... — Mar 2, 2026 · Starcloudの公式ロードマップ、YC紹介、CEO動画をもとに、地上データセンターの制約を軌道側の制約に置き換えるという賭けが、どこまで実証済みでどこから未証明かを整理します。",
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "pass": 3
+   },
+   {
+    "quote": "軌道上でAI計算を担う「宇宙データセンター」を開発｜Starcloud｜Fron... — Jul 7, 2026 · データセンターを地球の軌道上に置く米スタートアップ Starcloud。GPU「H100」を積んだ衛星で宇宙でのAI稼働と学習に成功し、約1億7千万ドル（約255億円）を調達。宇宙データセンターの課題と将来性を解説します。",
+    "url": "https://frontjour.com/column/global/starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud、2100万ドル調達｜軌道AI訓練4km²ソーラー構想と宇宙天気リ... — Jul 28, 2025 · スタートアップStarcloudが軌道データセンター実現に向け2100万ドルを調達し、4km×4kmソーラーパネルによる5GW軌道データセンター構想を発表。しかし秒速7.8kmの加速による機器破損、キャリントン級宇宙嵐リスク、ケスラー症候群による宇宙デブリ問題など技術的課題が山積している状況を解説。",
+    "url": "https://innovatopia.jp/spacetechnology/spacetechnology-news/61422/",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud徹底解説｜宇宙で初めてLLMを学習したNVIDIA GPU衛星【2026... — Jun 15, 2026 · Starcloud-1 — 冷蔵庫大のGPU衛星 Starcloud-1の中核は、たった1基のGPUだ。 だがそれは地上のAIを支えるのと同じ NVIDIA H100 であり、専用パッケージに収められたその姿は「学生寮の冷蔵庫ほどの大きさと重さ」と表現された。",
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Crusoeが2026年後半にStarcloudの衛星データセンターへ展開 | Data Ce... — Oct 24, 2025 · ネオクラウドの Crusoeが、宇宙を目指します。 同社の機材は、2026年後半に打ち上げ予定のStarcloud衛星に搭載され、2027年初頭から宇宙空間で限られたGPU容量の提供を開始する予定です。 この提携は、今年11月に打ち上げが予定されている「Starcloud-1」衛星に先立って発表されました。",
+    "url": "https://cafe-dc.com/cloud/crusoe-to-deploy-in-starcloud-satellite-data-center-in-late-2026-offer-limited-gpu-capacity-in-space-from-2027/",
+    "pass": 3
+   },
+   {
+    "quote": "Data Centers in Space | Starcloud – The Future of AI — Explore Starcloud's pioneering data centers in space, offering 90% lower electricity costs and 24/7 solar-powered efficiency. Join us today & learn more!",
+    "url": "https://www.starcloud.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud - Wikipedia — Starcloud, Inc. is a United States-based company that designs, builds, and deploys data centers in space using proprietary technology. [1][2][3][4][5] In November, 2025, Starcloud launched a satellite with the first NVIDIA H100, which enabled it to train the first AI model in space. [6]",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "Home | StarCloud — person StarCloud customer format_quote StarCloud offers a very good service and has a lot of potential to keep growing. It would be great to see new features and services that complement what they already offer. person StarCloud customer support_agent 24-hour customer support Get help StarCloud app Instant data top-ups on the go!",
+    "url": "https://www.starcloudconnect.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Birth of the Space Internet: StarCloud Launches AI into ... — Jan 18, 2026 · Explore how Starcloud is pioneering the space internet by launching AI compute into the vacuum of orbit, unlocking a new era for connectivity and data processing.",
+    "url": "https://www.starcloud.com/blog/the-birth-of-the-space-internet-starcloud-launches-ai-into-the-vacuum",
+    "pass": 3
+   },
+   {
+    "quote": "天体望遠鏡の販売 スタークラウド | Okutama-machi Nishitama-gun Tok...軌道上でAI計算を担う「宇宙データセンター」を開発｜Starcloud｜Fron...Starcloud Announces $250M Series A Extension - payloadspace.com — Apr 6, 2026 · 天体望遠鏡の販売 スタークラウド, Okutama-machi Nishitama-gun. 166 likes. 天体望遠鏡販売店スタークラウド http://www.starcloud.jp/ Jul 7, 2026 · データセンターを地球の軌道上に置く米スタートアップ Starcloud。GPU「H100」を積んだ衛星で宇宙でのAI稼働と学習に成功し、約1億7千万ドル（約255億円）を調達。宇宙データセンターの課題と将来性を解説します。",
+    "url": "https://www.facebook.com/shopstarcloud/",
+    "pass": 3
+   },
+   {
+    "quote": "StarCloud's Philip Johnston: A $2.5M Satellite and a $500-a ... — Oct 31, 2026 · He points to Starlink and Starshield in Ukraine as a live case study of Russian cyber and physical tactics, and says StarCloud uses comparable cryptography, with Space Force interceptors as the deterrent layer. That argument is getting louder as orbital infrastructure becomes politicized.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "StarCloud's Manufacturing Moat - YouTubeStarcloud-2 | In-Space GPU Cluster & Cloud Computing SatelliteFirefly Aerospace Signs Starcloud as Commercial Customer ...Industrial Manufacturing Case Studies - Oracle — Apr 20, 2026 · All analysis represents original commentary. #StarCloud #manufacturing #moat #partnership #spacetech #shorts …...more Starcloud-2 integrates GPU clusters, persistent storage,",
+    "url": "https://www.youtube.com/watch?v=dKFrhXzbhDI",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud-2 | In-Space GPU Cluster & Cloud Computing Satellite — Starcloud-2 integrates GPU clusters, persistent storage, and power systems into a compact satellite-enabling real-time data processing and AI computing in orbit.",
+    "url": "https://www.starcloud.com/starcloud-2",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud – Strategic Position & Company Metrics – 2026 — Aug 21, 2026 · Discover Starcloud's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud - Overview, News & Similar companies | ZoomInfo.com — View Starcloud (www.starcloud.com) location in Washington, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/starcloud-inc/5000060625",
+    "pass": 3
+   },
+   {
+    "quote": "Star Cloud - 2026 Company Profile, Team, Funding ... - TracxnStarcloud 2026 Company Profile: Valuation, Funding ...Starcloud: Funding, Team & Investors | Startup IntrosStarcloud AS OF AUG 2026 - siliconvalleyinvestclub.com — Jun 22, 2026 · Star Cloud is a series A company based in Redmond (United States), founded in 2024 by Philip Johnston and Adi Oltean. It operates as a Provider of data center s",
+    "url": "https://tracxn.com/d/companies/star-cloud/__SB3yeeb13q1wsbAqyn8auF9mUV0UujMMgrJvW9I-ewg",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud 2026 Company Profile: Valuation, Funding ...Starcloud: Funding, Team & Investors | Startup IntrosStarcloud AS OF AUG 2026 - siliconvalleyinvestclub.com — Information on valuation, funding, cap tables, investors, and executives for Starcloud. Use the PitchBook Platform to explore the full profile. Jul 13, 2026 · Who founded Starcloud? Starcloud was founded in 2024 by Philip Johnston (Foun",
+    "url": "https://pitchbook.com/profiles/company/539661-88",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Aerospace companies of the United States",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "Spacecraft manufacturers",
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "pass": 3
+   },
+   {
+    "quote": "More than 150 operators worldwide",
+    "url": "https://www.starcloudconnect.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The leading operators around the world.",
+    "url": "https://www.starcloudconnect.com/",
+    "pass": 3
+   },
+   {
+    "quote": "StarCloud 2 is roughly 200 kilowatts. StarCloud 3 is about two tons fully loaded at 235 kilowatts, sized to fit through Starship's payload dispenser door: two side by side and 25 stacked per launch, up to 50 per Starship flight, or close to 10 megawatts of new compute per launch. A welded full-scale chassis mock-up sits in the fab shop as a manufacturing demonstrator.",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "Nvidia GPUs in Orbit: Inside Starcloud’s $2B Factory",
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "pass": 3
+   },
+   {
+    "quote": "StarCloud's Manufacturing Moat - YouTube",
+    "url": "https://www.youtube.com/watch?v=dKFrhXzbhDI",
+    "pass": 3
+   },
+   {
+    "quote": "StarCloud's Manufacturing Moat",
+    "url": "https://www.youtube.com/watch?v=dKFrhXzbhDI",
+    "pass": 3
+   },
+   {
+    "quote": "25回視聴 • 2026/04/20 • #moat #manufacturing #shorts",
+    "url": "https://www.youtube.com/watch?v=dKFrhXzbhDI",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "宇宙に浮かぶデータセンター「Starcloud」が実現する未来のAIインフラ Nov 2, 2025 · 今回は宇宙ビジネスの最前線から、驚くべきニュースをお届けします。2025年11月、史上最強のコンピューターチップが宇宙へ飛び立とうとしています。その名も「Starcloud-1」。この小さな衛星が、私たちのデジタル社会の未来を大きく変えるかもしれません。 宇宙で動く超高性能GPU Starcloud-1は ...",
+    "url": "https://note.com/space_business/n/n692d41e9851a",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Assessment of On-Orbit High-Performance Computing ... Oct 23, 2025 · The Starcloud and NVIDIA on-orbit HPC initiative is positioned as a strategic response to the fundamental crisis of power, cooling, and water resource constraints in terrestrial data centers, driven by the exponential demand for AI and Large Language Models (LLMs). With the global AI market ...",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Space Computing】NVIDIA H100が宇宙へ。Starcloud-1が拓く「軌道上... Dec 7, 2025 · Executive Summary（冒頭サマリー） • News：SpaceXのFalcon 9により、世界初の宇宙AIデータセンター衛星「Starcloud-1」が打ち上げられた。この衛星にはNVIDIAの最高峰GPU「H100」が搭載されており、宇宙空間でGoogle Geminiモデルのトレーニングと推論を行う実証実験が開始される。 • Why：従来の衛星は ...",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud $1.1B宇宙ユニコーン：88,000衛星AIデータセンターが示す次... Mar 30, 2026 · Starcloudが目指すのは「宇宙AIデータセンター」です。AIの計算処理を地上のデータセンターではなく、軌道上の衛星で行うという、SF的とも思えるビジョン。しかし同社はすでにその第一歩を実証済みです。2025年11月に最初の衛星を打ち上げ、軌道上でAIモデルのトレーニングを世界初で成功させ ...",
+    "url": "https://note.com/shiodome_098/n/n8debedd30e3e",
+    "pass": 3
+   },
+   {
+    "quote": "【Space Computing】NVIDIA H100が宇宙へ。Starcloud-1が拓く「軌道上... Dec 7, 2025 · 【Space Computing】NVIDIA H100が宇宙へ。 Starcloud-1が拓く「軌道上AIデータセンター」の衝撃 2 AIで事業を作りたい社長の学びNote 2025年12月7日 10:03",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "宇宙に浮かぶデータセンター「Starcloud」が実現する未来のAIインフラ｜宇宙ビジネスキュレーター",
+    "url": "https://note.com/space_business/n/n692d41e9851a",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙に浮かぶデータセンター「Starcloud」が実現する未来のAIインフラ",
+    "url": "https://note.com/space_business/n/n692d41e9851a",
+    "pass": 3
+   },
+   {
+    "quote": "今回は宇宙ビジネスの最前線から、驚くべきニュースをお届けします。2025年11月、史上最強のコンピューターチップが宇宙へ飛び立とうとしています。その名も「Starcloud-1」。この小さな衛星が、私たちのデジタル社会の未来を大きく変えるかもしれません。",
+    "url": "https://note.com/space_business/n/n692d41e9851a",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud-1は、NVIDIA製のH100 GPUという超高性能チップを搭載した衛星です。このチップ、実は現在ChatGPTのような最先端のAIを訓練するために使われている、まさに最新鋭の技術です。そしてその性能は、これまで宇宙で使われてきたプロセッサーの約100倍という圧倒的なパワーを持っています。",
+    "url": "https://note.com/space_business/n/n692d41e9851a",
+    "pass": 3
+   },
+   {
+    "quote": "冷蔵庫ほどのサイズのこの衛星は、SpaceXのFalcon 9ロケットで打ち上げられる予定です。ワシントン州レドモンドに拠点を置くStarcloud社が開発したこのプロジェクトは、壮大なビジョンの第一歩に過ぎません。",
+    "url": "https://note.com/space_business/n/n692d41e9851a",
+    "pass": 3
+   },
+   {
+    "quote": "ここで疑問に思う方も多いでしょう。「わざわざ宇宙にコンピューターを置く必要があるの？」と。実は、この発想には明確な理由があります。",
+    "url": "https://note.com/space_business/n/n692d41e9851a",
+    "pass": 3
+   },
+   {
+    "quote": "現代のデータセンターは、驚くほど多くの電力と水を消費します。AIの発展により、その需要は加速度的に増加しています。地上のデータセンターは、地域の電力網や水資源に大きな負担をかけ、騒音問題や温室効果ガスの排出も引き起こしています。",
+    "url": "https://note.com/space_business/n/n692d41e9851a",
+    "pass": 3
+   },
+   {
+    "quote": "一方、宇宙空間では状況が一変します。Starcloud社の共同創設者でCEOのフィリップ・ジョンストン氏は「宇宙では、ほぼ無制限で低コストな再生可能エネルギーを得られます」と語ります。太陽光は大気に遮られることなく24時間利用でき、冷却には宇宙の真空という「無限のヒートシンク」を使えるのです。",
+    "url": "https://note.com/space_business/n/n692d41e9851a",
+    "pass": 3
+   },
+   {
+    "quote": "軌道上ハイパフォーマンス・コンピューティングの戦略的評価：StarcloudとNVIDIAのイニシアチブ｜Takumi",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "軌道上ハイパフォーマンス・コンピューティングの戦略的評価：StarcloudとNVIDIAのイニシアチブ",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "StarcloudとNVIDIAの軌道上HPCイニシアチブは、AIおよび大規模言語モデル（LLMs）の指数関数的な需要によって引き起こされる、地上データセンターの電力、冷却、および水資源の制約という根本的な危機への戦略的な対応として位置付けられる。世界のAI市場が2033年までに3兆4,972.6億ドルに達すると予測される中 1、従来のインフラストラクチャは、この要求の規模に追いつくことができていない。Starcloudは、無制限の太陽エネルギーと深宇宙の無限のヒートシンクを活用することで、エネルギーと冷却の問題に対する第一原理に基づいた解決策を提案し、データセンターの寿命全体で10倍の二酸化炭素削減を主張している 2。",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、この破壊的な技術は、克服すべき重大な工学的および規制上の課題に直面している。基礎物理学分析によれば、宇宙での熱放散は、地上の液冷施設と比較して、ラックあたり10-20 kWの低い電力密度に制限される 3。また、商用GPU（NVIDIA H100）を軌道上で使用するには、放射線による誤動作を軽減するための、高度なソフトウェア定義の回復力（チェックポイント/再起動、ECC）が必要となる 4。最適な市場は、地球観測データ（SAR）の軌道内処理など、遅延耐性のあるワークロードまたはデータ隣接処理であり、これによりダウンリンクのボトルネックが解消され、応答時間が大幅に短縮される 2。このベンチャーの長期的成功は、打ち上げコストの継続的な削減、DPUを活用したクラウドネイティブセキュリティ（Zero-Trustアーキテクチャ）の実装 5、および、特に5ギガワット級の巨大構造物に関連する軌道デブ",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Section 1: 地上インフラのボトルネックと軌道上HPCインフラの戦略的必然性",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1.1. AIおよび大規模言語モデル（LLMs）の指数関数的な需要曲線",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ハイパフォーマンス・コンピューティング（HPC）インフラストラクチャの需要は、人工知能（AI）の急速な発展によって前例のない速度で増加している。世界のAI市場は、2025年から2033年にかけて31.5%という目覚ましい年平均成長率（CAGR）で拡大し、2033年までに3兆4,972.6億ドルに達すると予測されている 1。この成長の中で、大規模言語モデル（LLMs）のセグメントは特に急速に拡大しており、2025年から2030年にかけて36.9%のCAGRが見込まれている 8。",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "この市場の爆発的な拡大は、インフラストラクチャの面で大きな圧力となっている。基盤モデルのトレーニングは最も計算集約的なタスクであり、リソース要件はモデル世代ごとに10倍から100倍に増加している 9。たとえば、GPT-4のような大規模モデルをトレーニングするには、約25,000基のNVIDIA A100 GPUを90〜100日間稼働させる必要があったと推定されている 10。このAI/LLM分野の指数関数的な成長率は、従来のHPC as a Service（HPCaaS）市場の予測される成長率（2025年から2034年にかけて6.39% CAGR 11）と比較して深刻な乖離を示している。この乖離は、既存のサプライチェーンと地上インフラストラクチャが、AIによって駆動される計算需要の増加に追いついていないという、インフラストラクチャのギャップを示唆しており、地上での制約を回避できるStarcl",
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Space Computing】NVIDIA H100が宇宙へ。Starcloud-1が拓く「軌道上AIデータセンター」の衝撃｜AI CEO | A1",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "【Space Computing】NVIDIA H100が宇宙へ。Starcloud-1が拓く「軌道上AIデータセンター」の衝撃",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "Executive Summary（冒頭サマリー）",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "• News：SpaceXのFalcon 9により、世界初の宇宙AIデータセンター衛星「Starcloud-1」が打ち上げられた。この衛星にはNVIDIAの最高峰GPU「H100」が搭載されており、宇宙空間でGoogle Geminiモデルのトレーニングと推論を行う実証実験が開始される。",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "• Why：従来の衛星は「データ収集（撮影）」しかできず、解析は地上にデータを送ってから行っていた。しかし、H100の搭載により、衛星は地上の100倍の計算能力を持ち、「撮ったその場でAI解析」が可能になる。",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "• Implication：これは「通信のボトルネック」の消滅を意味する。膨大な生データを地上に送る必要がなくなり、必要な「答え（解析結果）」だけを即座に送信できるため、防衛、災害監視、金融分野での意思決定スピードが桁違いに加速する。",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "2025年11月2日、宇宙ビジネスの歴史が「通信」から「計算」へと塗り替えられた。",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "これまで宇宙で使われるコンピュータは、放射線耐性を優先した「低性能なチップ（数世代前のCPU）」が常識だった。",
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud $1.1B宇宙ユニコーン：88,000衛星AIデータセンターが示す次のインフラ投資テーマ全景｜しおどめ",
+    "url": "https://note.com/shiodome_098/n/n8debedd30e3e",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud $1.1B宇宙ユニコーン：88,000衛星AIデータセンターが示す次のインフラ投資テーマ全景",
+    "url": "https://note.com/shiodome_098/n/n8debedd30e3e",
+    "pass": 3
+   },
+   {
+    "quote": "# Starcloud $1.1B宇宙ユニコーン：88,000衛星AIデータセンターが示す次のインフラ投資テーマ全景",
+    "url": "https://note.com/shiodome_098/n/n8debedd30e3e",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月30日、シアトル発のスタートアップ「Starcloud」が",
+    "url": "https://note.com/shiodome_098/n/n8debedd30e3e",
+    "pass": 3
+   },
+   {
+    "quote": "Series Aで1億7,000万ドル（約245億円）を調達し、評価額11億ドル（約1,600億円）のユニコーン企業に昇格",
+    "url": "https://note.com/shiodome_098/n/n8debedd30e3e",
+    "pass": 3
+   },
+   {
+    "quote": "より注目すべきは、その達成スピードです。Y Combinatorデモデーからわずか",
+    "url": "https://note.com/shiodome_098/n/n8debedd30e3e",
+    "pass": 3
+   },
+   {
+    "quote": "という、同アクセラレーター史上最速のペースです。（TechCrunch、BNN Bloomberg 2026年3月30日報道）",
+    "url": "https://note.com/shiodome_098/n/n8debedd30e3e",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloudが目指すのは「宇宙AIデータセンター」です。AIの計算処理を地上のデータセンターではなく、軌道上の衛星で行うという、SF的とも思えるビジョン。しかし同社はすでにその第一歩を実証済みです。2025年11月に最初の衛星を打ち上げ、軌道上でAIモデルのトレーニングを世界初で成功させています。",
+    "url": "https://note.com/shiodome_098/n/n8debedd30e3e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Starcloud (@Starcloud_) / X Starcloud (@starcloud_inc1) recently made history by launching a satellite with an NVIDIA H100 into orbit — the first time a GPU that powerful has ever operated in space. It's the first step toward building AI data centers in orbit, powered by continuous sunlight and cooled by",
+    "url": "https://x.com/starcloud_",
+    "pass": 3
+   },
+   {
+    "quote": "starcloud_inc1 (@starcloud_inc1) / Posts / X Location: Redmond Website: https://www.starcloud.com/ Joined: Dec 7, 2025 0 Posts 1 Following",
+    "url": "https://x.com/starcloud_inc1",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud on X: \"Starcloud is excited to announce that we ... Starcloud is excited to announce that we will integrate 50 @SpaceX @Starlink Mini Laser terminals across 25+ satellites. Each of the @Starcloud_ satellites will carry two Starlink Mini Laser terminals, and the first hardware is expected on orbit within one year. Starlink Mini Laser terminals, the…",
+    "url": "https://x.com/Starcloud_/status/2059319493961437670",
+    "pass": 3
+   },
+   {
+    "quote": "StarCloud (@StarCloud_HK) / Posts / X StarCloud (@StarCloud_HK) - Posts - Achieving the Fastest Trade Possible with StarCloud Ultra Low Latency. | X (formerly Twitter)",
+    "url": "https://x.com/StarCloud_HK",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud (@Starcloud_) / X Starcloud (@starcloud_inc1) recently made history by launching a satellite with an NVIDIA H100 into orbit — the first time a GPU that powerful has ever operated in space.",
+    "url": "https://x.com/starcloud_",
+    "pass": 3
+   },
+   {
+    "quote": "starcloud_inc1 (@starcloud_inc1) / Posts / X Dec 7, 2025 · Location: Redmond Website: https://www.starcloud.com/ Joined: Dec 7, 2025 0 Posts 1 Following",
+    "url": "https://x.com/starcloud_inc1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Starcloud - LinkedIn Starcloud recently launched the first Nvidia H100 chip to space. Falling launch costs enable Starcloud to capitalize on the abundant energy and ability to rapidly scale in space.",
+    "url": "https://www.linkedin.com/company/starcloudinc/",
+    "pass": 3
+   },
+   {
+    "quote": "Philip Johnston - Co-Founder & CEO @ Starcloud | LinkedIn Co-Founder & CEO @ Starcloud · Building data centers in space. · Experience: Starcloud · Education: Harvard University · Location: Redmond · 500+ connections on LinkedIn. View Philip ...",
+    "url": "https://www.linkedin.com/in/philipjohnst0n",
+    "pass": 3
+   },
+   {
+    "quote": "Ezra Feilden - Co-Founder & CTO @ Starcloud | LinkedInAdi Oltean - Starcloud (YC S24) | LinkedInCristian Pop - Principal Software Engineer @ Starcloud | YC ...Arman P. - Software Engineer at Starcloud | LinkedInAddy Mendoza - Head of Talent Acquisition at Starcloud | LinkedIn Co-Founder & CTO @ Starcloud · Building datacenters in space. PhD in materials engineering and background in deployable spa",
+    "url": "https://www.linkedin.com/in/ezrafeilden",
+    "pass": 3
+   },
+   {
+    "quote": "Adi Oltean - Starcloud (YC S24) | LinkedInCristian Pop - Principal Software Engineer @ Starcloud | YC ...Arman P. - Software Engineer at Starcloud | LinkedInAddy Mendoza - Head of Talent Acquisition at Starcloud | LinkedIn Experience: Starcloud (YC S24) · Location: Redmond · 500+ connections on LinkedIn. View Adi Oltean’s profile on LinkedIn, a professional community of 1 billion members. Principa",
+    "url": "https://www.linkedin.com/in/adioltean",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Starcloud, a U.S. startup building... - Technology Innovation ... Aug 22, 2026 · Starcloud is also developing Starcloud-3, a much larger system that it plans to launch on SpaceX's Starship. The company says space could provide near- continuous solar power and allow spacecraft to cool through radiators instead of using large amounts of water like some Earth-based data centers.",
+    "url": "https://www.facebook.com/TechnologyInnovation1/posts/starcloud-a-us-startup-building-data-centers-in-space-has-raised-250-million-bri/1372620448357931/",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud is working to bring AI compute to orbit—cutting ... Jun 11, 2026 · Starcloud is working to bring AI compute to orbit—cutting energy costs and enabling real-time insights from space.",
+    "url": "https://www.facebook.com/NVIDIA/videos/bringing-data-centers-to-outer-space/2170891587089394/",
+    "pass": 3
+   },
+   {
+    "quote": "Starcloud is bringing AI compute to orbit—cutting energy ... May 1, 2026 · Starcloud is bringing AI compute to orbit—cutting energy costs and enabling real-time insights from space. Explore more stories on the real-world impact of AI and the innovative companies working to...",
+    "url": "https://www.facebook.com/NVIDIA/videos/bringing-data-centers-to-outer-space/953641050602167/",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA-backed startup Starcloud is testing orbital data ... Mar 9, 2026 · A startup called Starcloud backed by NVIDIA startup program is working to build data centers in space to power future AI computing. The company has already launched a satellite carrying an NVIDIA H 1 hundred GPU. One of the most powerful AI chips ever sent to orbit and successfully ran and trained AI models in space.",
+    "url": "https://www.facebook.com/interestingengineering/videos/startup-builds-data-centers-in-space/1751610025804187/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.starcloud.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://frontjour.com/column/global/starcloud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://innovatopia.jp/spacetechnology/spacetechnology-news/61422/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.starcloudconnect.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=dKFrhXzbhDI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resellercluster.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Starcloud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/starcloud",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/starcloud-inc/5000060625",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/star-cloud/__SB3yeeb13q1wsbAqyn8auF9mUV0UujMMgrJvW9I-ewg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/space_business/n/n692d41e9851a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shiodome_098/n/n8debedd30e3e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/starcloud_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/starcloud_inc1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Starcloud_/status/2059319493961437670",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/StarCloud_HK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/starcloudinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/philipjohnst0n",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ezrafeilden",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/adioltean",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TechnologyInnovation1/posts/starcloud-a-us-startup-building-data-centers-in-space-has-raised-250-million-bri/1372620448357931/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NVIDIA/videos/bringing-data-centers-to-outer-space/2170891587089394/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NVIDIA/videos/bringing-data-centers-to-outer-space/953641050602167/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/interestingengineering/videos/startup-builds-data-centers-in-space/1751610025804187/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/starcloud_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/starcloud_inc1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Starcloud 日本 導入",
+   "results": [
+    "https://nexaflow.io/blog/startup/starcloud-space-data-center",
+    "https://frontjour.com/column/global/starcloud",
+    "https://innovatopia.jp/spacetechnology/spacetechnology-news/61422/",
+    "https://xn--29sob207cg49a.com/business/starcloud-orbital-gpu-datacenter-2026/",
+    "https://cafe-dc.com/cloud/crusoe-to-deploy-in-starcloud-satellite-data-center-in-late-2026-offer-limited-gpu-capacity-in-space-from-2027/",
+    "https://lifehelp.life/2026/04/01/【米国最新】宇宙にaiデータセンターを建設-starcloud/",
+    "https://naritalabsblog.com/entry/2025/11/18/100000"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Starcloud 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.starcloud.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.sankei.com/article/20230531-5ZDT22JHNRJYBJTE3JR43JH6BU/",
+    "https://ja.nozominetworks.com/company",
+    "https://starlink.com/jp/map"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Starcloud Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Starcloud",
+    "https://www.starcloudconnect.com/",
+    "https://www.starcloud.com/",
+    "https://www.starcloud.com/blog/the-birth-of-the-space-internet-starcloud-launches-ai-into-the-vacuum",
+    "https://www.facebook.com/shopstarcloud/",
+    "https://frontjour.com/column/global/starcloud",
+    "https://payloadspace.com/starcloud-announces-250m-series-a-extension/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Starcloud manufacturing customer case study",
+   "results": [
+    "https://www.starcloud.com/",
+    "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "https://finance.biggo.com/news/9c99aa655e2c83ad",
+    "https://www.youtube.com/watch?v=dKFrhXzbhDI",
+    "https://www.starcloud.com/starcloud-2",
+    "https://fireflyspace.com/news/firefly-aerospace-signs-starcloud-as-commercial-customer-demonstrating-data-center-capabilities-around-the-moon/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Starcloud white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.resellercluster.com/",
+    "https://nebius.com/nebius-partner-program",
+    "https://partner.vw.com/partner",
+    "https://www.resellerclub.com/domain-reseller"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Starcloud founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Starcloud",
+    "https://compworth.com/company/starcloud",
+    "https://www.zoominfo.com/c/starcloud-inc/5000060625",
+    "https://tracxn.com/d/companies/star-cloud/__SB3yeeb13q1wsbAqyn8auF9mUV0UujMMgrJvW9I-ewg",
+    "https://pitchbook.com/profiles/company/539661-88",
+    "https://startupintros.com/orgs/starcloud",
+    "https://siliconvalleyinvestclub.com/companies/starcloud/tear-sheet.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Starcloud",
+   "results": [
+    "https://note.com/space_business/n/n692d41e9851a",
+    "https://note.com/_takumi_inoue_/n/nfe2dc6607cc2?hl=en",
+    "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "https://note.com/shiodome_098/n/n8debedd30e3e",
+    "https://note.com/space_business/n/nbb3f32cf35b1?hl=en",
+    "https://note.com/bellem/n/n30f1eeb50b6c",
+    "https://tales.note.com/25tonbo/wkhnm16btuk8l/episodes/e9e4t4mkb9q55"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Starcloud",
+   "results": [
+    "https://x.com/starcloud_",
+    "https://x.com/starcloud_inc1",
+    "https://x.com/Starcloud_/status/2059319493961437670",
+    "https://x.com/StarCloud_HK",
+    "https://x.com/hashtag/starcloud",
+    "https://x.com/Starcloud_/status/1989027531035758818",
+    "https://x.com/Starcloud_/status/2115089417698500807"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Starcloud",
+   "results": [
+    "https://www.linkedin.com/company/starcloudinc/",
+    "https://www.linkedin.com/in/philipjohnst0n",
+    "https://www.linkedin.com/in/ezrafeilden",
+    "https://www.linkedin.com/in/adioltean",
+    "https://www.linkedin.com/in/popcristian",
+    "https://www.linkedin.com/in/armanp",
+    "https://www.linkedin.com/in/adielyn"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Starcloud",
+   "results": [
+    "https://www.facebook.com/TechnologyInnovation1/posts/starcloud-a-us-startup-building-data-centers-in-space-has-raised-250-million-bri/1372620448357931/",
+    "https://www.facebook.com/NVIDIA/videos/bringing-data-centers-to-outer-space/2170891587089394/",
+    "https://www.facebook.com/NVIDIA/videos/bringing-data-centers-to-outer-space/953641050602167/",
+    "https://www.facebook.com/interestingengineering/videos/startup-builds-data-centers-in-space/1751610025804187/",
+    "https://www.facebook.com/interestingengineering/posts/nvidia-backed-startup-starcloud-is-testing-orbital-data-centers-after-launching-/1374757544695679/",
+    "https://www.facebook.com/interestingengineering/posts/starcloud-plans-88000-satellites-to-build-orbital-ai-data-centers-and-process-co/1380971687407598/",
+    "https://www.facebook.com/Team.ISF/videos/-nvidias-project-starcloud-bringing-data-centers-to-outer-space-starcloud-a-star/2186824351727474/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Starcloud note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://en.wikipedia.org/wiki/Philip_Johnston_(entrepreneur)",
+    "https://www.starcloud.com/team",
+    "https://note.com/space_bio_ai/n/n3fc6834b68ee",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.insideorg.com/org/starcloud",
+    "https://note.com/space_bio_ai/n/n3fc6834b68ee?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Starcloud X 投稿",
+   "results": [
+    "https://x.com/starcloud_",
+    "https://x.com/starcloud_inc1",
+    "https://www.apollothirteen.com/ja/article/starcloud-to-mine-bitcoin-in-orbit/",
+    "https://starcloudfur.cn/",
+    "https://starcloud.tv/index.html",
+    "https://www.starcloud.com/",
+    "https://www.bilibili.com/video/BV1624h6xERg/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）"
+ }
+}

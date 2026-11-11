@@ -1,0 +1,1198 @@
+{
+ "name": "ExRobotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜日本進出済",
+ "researched_at": "2026-11-11T03:25:48.982550+00:00",
+ "official_url": "https://exrobotics.global/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "APPROACH / TECHNOLOGY",
+    "url": "https://www.ex-robotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ATEX, IECEx, and UL listed robots for missions that improve safety, reduce operating costs, detect emissions, and deliver better inspection data.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From routine inspections and predictive maintenance to emissions detection and incident response, ExRobotics delivers autonomous robotic solutions that provide the data operators need to make informed decisions.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Built for hazardous industrial environments, the ExR-2.5 is a rugged inspection robot that delivers reliable data where it's needed most. Configure the robot with a range of integrated sensors and payloads to meet your inspection, monitoring, and operational needs.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From oil and gas and hydrogen to chemical processing, ExRobotics helps operators work more safely and efficiently in hazardous environments. Our ATEX/IECEx/UL-listed robotic solutions support reliable inspections, monitoring and data collection where safety and compliance are paramount.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The oil and gas industry operates in environments where flammable gases and vapours are present. ATEX/IECEx/UL-listed solutions are essential to ensure safe operations and regulatory compliance. The ExR-2.5 enables reliable inspections and monitoring, helping operators improve safety, asset integrity, and operational efficiency.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "As the hydrogen economy grows, reliable gas detection becomes increasingly important. Hydrogen's unique properties require equipment certified for explosive atmospheres. The ExR-2.5 help operators detect hydrogen, monitor critical infrastructure, and maintain safe, compliant operations.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical plants process flammable gases, vapours, and combustible substances, making ATEX/IECEx/UL compliance a critical requirement. ExRobotics' robotic solutions support inspections, data collection, and condition monitoring, helping operators improve maintenance planning, increase asset reliability, and meet safety standards.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Integrated Solutions",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Process Data Analytics｜製造現場のためのプロセスデータ解析ソフトウェア",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Smart Industry Assessment and OpreX Smart Industry Program Design",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Informatics Manager ～Lab DXを加速する多機能電子実験ノート～",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "バイオプロセスデータ統合および自動化支援プラットフォーム：OpreX™ BioPilot",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "製造オペレーション管理データ利活用サービス OpreX MOM Data Discovery",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Batch MES C1-T1",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "品質情報管理支援パッケージ OpreX Laboratory Information Management System",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "プラント画像アナライザ (OpreX Plant Image Analyzer)",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Asset Health Insights",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Control of Work",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット管理コア (OpreX Robot Management Core)",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Intelligent Manufacturing Hub",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Data Model Broker",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Carbon Footprint Tracer",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "適切な設備保全の実現に 統合機器管理ソフトウェアパッケージ PRM",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Smart Operation Navigator",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Managed Service",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "CellVoyager High-Content Analysis System CQ3000",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "フローイメージング顕微鏡 FlowCam専用ソフトウェア VisualSpreadsheet",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "SPRINT Robotics Collaborative",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics is a leader in autonomous inspection solutions for hazardous industrial environments. The company develops rugged, ATEX, IECEx and UL-listed certified robots that replace human exposure in high-risk areas, delivering reliable inspection data that helps operators improve asset integrity, reduce downtime and make better operational decisions.",
+    "url": "https://www.exrobotics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Established to transform hazardous industrial inspections with explosion-proof robotics.",
+    "url": "https://www.exrobotics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Prepared for peak performance",
+    "url": "https://www.exrobotics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Every robot is maintained, tested, and prepared for deployment at our headquarters in Delft, the Netherlands. This allows our team to ensure every system meets the highest standards of quality, reliability, and performance before entering the field.",
+    "url": "https://www.exrobotics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "This video shows a successful proof of concept for autonomous inspection at Pluspetrol's Pisco plant in Peru using ExRobotics' ExR-2 inspection robot.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "The ExR-2 performs inspections in potentially explosive and hard-to-reach industrial environments, including refineries, chemical plants and offshore installations. The video was filmed and produced by Pluspetrol and translated into English by ExRobotics.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Headquartered in Delft, the Netherlands, ExRobotics designs and manufactures rugged, reliable ATEX and IECEx Zone 1-certified robots that help customers improve safety, reduce emissions, increase operational uptime and enhance profitability.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics operates a certified ISO/IEC 80079-34 production system and delivers robots worldwide.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Demo video of ExR-2.5",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "This video shows a successful proof of concept for autonomous inspection at Pluspetrol's Pisco plant in Peru.",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "The video was filmed and produced by Pluspetrol and translated into English by ExRobotics.",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "Headquartered in Delft, the Netherlands, ExRobotics designs and manufactures rugged, reliable ATEX and IECEx Zone 1-certified robots that help customers improve safety, reduce emissions, increase operational uptime and enhance profitability.",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics operates a certified ISO/IEC 80079-34 production system and delivers robots worldwide.",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2016 and operating on four continents, ExRobotics have produced over 30 robots. The bots need reliable connectivity, to control them remotely. But also to send and receive data - like video, audio and sensor data - without latency. ‘The ExR-1 is as good as it’s connectivity’, tells Iwan de Waard, founder of ExRobotics. ‘Without a good connection, we simply have no product.’",
+    "url": "https://m2m.kpn.com/en/resources/cases/exrobotics",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics Company Profile and Key Stats",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the ExRobotics team: 1 of 1 has an email address on file, 1 has a LinkedIn profile.",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Puralink provides autonomous robots for pipe inspection, mapping, and repair.",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Zongwei Automation is a research and development enterprise focusing on automation flexibility technology and…",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ tracks announced funding rounds and refreshes this profile every week. Round dates,",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Radar from $49/mo · Pro from $149/mo. Card required, nothing charged until",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Cobot Proxie Gen 2のモバイルマニピュレーション量産化",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "モバイルマニピュレータの量産化 — Cobot Proxie Gen 2",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Collaborative Robotics（Cobot）がAutomate 2026で発表したProxie Gen 2は、モバイルマニピュレータ（移動式ロボットアーム）の第二世代である",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Proxie Gen 2の改良点を列挙する",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "これによりProxieは事前にプログラムされたタスクを実行するだけでなく、周囲の状況を認識し、自律的に「何をすべきか」を判断する",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Proxie Gen 2は移動＋両腕＋自律タスク認識を統合した量産機",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "28台のProxieロボットが累計約13,000時間稼働、22,000マイル以上を走行、154,000台以上のカートを運搬した",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "これらの実績データがProxie Gen 2の設計にフィードバックされている",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "（Cobot Proxie Gen 2, ExRobotics ExR-2.5）",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "出典一覧: The Robot Report (June 23, 2026) - ARM's Physical AI; The Robot Report (June 22, 2026) - Cobot Proxie Gen 2; The Robot Report (June 23, 2026) - Vention+FANUC+UR; The Robot Report (June 23, 2026) - ExRobotics ExR-2.5; The Robot Report (June 21, 2026) - Güdel grinding.",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本の産業を支えてきた熟練技術者の「勘や経験（暗黙知）」",
+    "url": "https://www.ex-robotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内でも化学産業や石油精製施設における定期点検業務は継続的な需要がある",
+    "url": "https://roboticstrend.net/2026/06/24/exrobotics%E3%80%81ul%E8%AA%8D%E8%A8%BC%E3%81%AE%E5%8D%B1%E9%99%BA%E7%92%B0%E5%A2%83%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E6%8A%95%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "UL認証の取得は国際標準への準拠を示すため、日本企業の導入判断材料として機能するであろう",
+    "url": "https://roboticstrend.net/2026/06/24/exrobotics%E3%80%81ul%E8%AA%8D%E8%A8%BC%E3%81%AE%E5%8D%B1%E9%99%BA%E7%92%B0%E5%A2%83%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E6%8A%95%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "同社が日本市場への販売体制を整備するかが今後の焦点となる",
+    "url": "https://roboticstrend.net/2026/06/24/exrobotics%E3%80%81ul%E8%AA%8D%E8%A8%BC%E3%81%AE%E5%8D%B1%E9%99%BA%E7%92%B0%E5%A2%83%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E6%8A%95%E5%85%A5/",
+    "pass": 3
+   },
+   {
+    "quote": "循環型社会を通じ中東と日本をつなぐ（１）",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "循環型社会を通じ中東と日本をつなぐ（２）",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "横河電機株式会社（本社：東京都武蔵野市 代表取締役社長：奈良 寿）と、危険な作業環境に対応するロボット技術を開発するExRobotics B.V.社（エックスロボティクス、本社：オランダ デルフト、CEO：イワン・デワード）は、ExRoboticsの点検ロボットハードウエアとソフトウエアプラットフォームを横河電機およびその子会社がグローバルで販売・導入するライセンス契約を締結したことをお知らせします",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "本文中で使用されている会社名、団体名、商品名、サービス名およびロゴ等は、横河電機株式会社、各社および各団体の登録商標または商標です",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "横河電機株式会社 コミュニケーション統括センター 広報室",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "With more than two decades of experience in autonomous inspection, ExRobotics is trusted by industrial operators around the world to supply certified robotic solutions for hazardous environments.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From routine inspections and predictive maintenance to emissions detection and incident response, ExRobotics delivers autonomous robotic solutions that provide the data operators need to make informed decisions.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Built for hazardous industrial environments, the ExR-2.5 is a rugged inspection robot that delivers reliable data where it's needed most. Configure the robot with a range of integrated sensors and payloads to meet your inspection, monitoring, and operational needs.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From oil and gas and hydrogen to chemical processing, ExRobotics helps operators work more safely and efficiently in hazardous environments. Our ATEX/IECEx/UL-listed robotic solutions support reliable inspections, monitoring and data collection where safety and compliance are paramount.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The oil and gas industry operates in environments where flammable gases and vapours are present. ATEX/IECEx/UL-listed solutions are essential to ensure safe operations and regulatory compliance. The ExR-2.5 enables reliable inspections and monitoring, helping operators improve safety, asset integrity, and operational efficiency.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "As the hydrogen economy grows, reliable gas detection becomes increasingly important. Hydrogen's unique properties require equipment certified for explosive atmospheres. The ExR-2.5 help operators detect hydrogen, monitor critical infrastructure, and maintain safe, compliant operations.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical plants process flammable gases, vapours, and combustible substances, making ATEX/IECEx/UL compliance a critical requirement. ExRobotics' robotic solutions support inspections, data collection, and condition monitoring, helping operators improve maintenance planning, increase asset reliability, and meet safety standards.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "North America’s first UL Certified inspection robot for hazardous industrial environments",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Shell ExR-2.5 inspection robot case study in Offshore Magazine.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "品質安定化システム Digital Plant Operation Intelligence (DPI)",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "プラント画像アナライザ (OpreX Plant Image Analyzer)",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Intelligent Manufacturing Hub",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AI 次世代自律操業の実現に向けて",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics' mission is to make hazardous industrial environments safer, smarter, and more efficient through reliable robotic inspection solutions.",
+    "url": "https://www.exrobotics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics is a leader in autonomous inspection solutions for hazardous industrial environments. The company develops rugged, ATEX, IECEx and UL-listed certified robots that replace human exposure in high-risk areas, delivering reliable inspection data that helps operators improve asset integrity, reduce downtime and make better operational decisions.",
+    "url": "https://www.exrobotics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Established to transform hazardous industrial inspections with explosion-proof robotics.",
+    "url": "https://www.exrobotics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Pluspetrol case study of ExRobotics' ExR-2 inspection robot",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "This video shows a successful proof of concept for autonomous inspection at Pluspetrol's Pisco plant in Peru using ExRobotics' ExR-2 inspection robot.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "The ExR-2 performs inspections in potentially explosive and hard-to-reach industrial environments, including refineries, chemical plants and offshore installations. The video was filmed and produced by Pluspetrol and translated into English by ExRobotics.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "With over 1000 successful deployments, ExRobotics is the world leader in Ex-certified autonomous inspection robots for hazardous industrial environments.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics’ ExR-2 robots are already deployed across refineries, chemical plants and offshore platforms across the world with major energy companies including Shell, Repsol and Pluspetrol, with many more oil and gas operators in the commercial pipeline.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "North America’s first UL Certified inspection robot for hazardous industrial environments",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Shell ExR-2.5 inspection robot case study in Offshore Magazine.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Pluspetrol case study of ExRobotics' ExR-2 inspection robot - YouTube",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "Pluspetrol case study of ExRobotics' ExR-2 inspection robot",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "This video shows a successful proof of concept for autonomous inspection at Pluspetrol's Pisco plant in Peru.",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "It shows ExRobotics' ExR-2 inspection robot which performs inspections in potentially explosive and hard-to-reach industrial environments, including refineries, chemical plants and offshore installations.",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "With over 1000 successful deployments, ExRobotics is the world leader in Ex-certified autonomous inspection robots for hazardous industrial environments.",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics’ ExR-2 robots are already deployed across refineries, chemical plants and offshore platforms across the world with major energy companies including Shell, Repsol and Pluspetrol, with many more oil and gas operators in the commercial pipeline.",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "Raion Robotics manufactures walking robots for industrial use.",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "ATEX, IECEx, and UL listed robots for missions that improve safety, reduce operating costs, detect emissions, and deliver better inspection data.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From oil and gas and hydrogen to chemical processing, ExRobotics helps operators work more safely and efficiently in hazardous environments. Our ATEX/IECEx/UL-listed robotic solutions support reliable inspections, monitoring and data collection where safety and compliance are paramount.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The oil and gas industry operates in environments where flammable gases and vapours are present. ATEX/IECEx/UL-listed solutions are essential to ensure safe operations and regulatory compliance. The ExR-2.5 enables reliable inspections and monitoring, helping operators improve safety, asset integrity, and operational efficiency.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "横河電機株式会社（本社：東京都武蔵野市 代表取締役社長：奈良 寿）と、危険な作業環境に対応するロボット技術を開発するExRobotics B.V.社（エックスロボティクス、本社：オランダ デルフト、CEO：イワン・デワード）は、ExRoboticsの点検ロボットハードウエアとソフトウエアプラットフォームを横河電機およびその子会社がグローバルで販売・導入するライセンス契約を締結したことをお知らせします",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics is a leader in autonomous inspection solutions for hazardous industrial environments. The company develops rugged, ATEX, IECEx and UL-listed certified robots that replace human exposure in high-risk areas, delivering reliable inspection data that helps operators improve asset integrity, reduce downtime and make better operational decisions.",
+    "url": "https://www.exrobotics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Our robots can operate fully autonomously or be manually controlled from thousands of kilometres away, enabling inspections to be carried out without placing personnel in hazardous areas.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "The ExR-2 can detect methane leaks, carry out safety checks and collect real-time operational data across oil & gas, chemicals, LNG and refining facilities.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Our robots can operate fully autonomously or be manually controlled from thousands of kilometres away, enabling inspections to be carried out without placing personnel in hazardous areas.",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "The ExR-2 can detect methane leaks, carry out safety checks and collect real-time operational data across oil & gas, chemicals, LNG and refining facilities.",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does ExRobotics have?",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "EXrobotics — 日本の産業を支えてきた熟練技術者の「勘や経験（暗黙知）」。 私たちはこれを失われるべき属人的な技術ではなく、次世代のロボット制御に不可欠な「データ」として捉えています。 EXroboticsは、経験工学の視点から現場の暗黙知をデジタル資産へと変換。",
+    "url": "https://www.ex-robotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics — ExRobotics' robotic solutions support inspections, data collection, and condition monitoring, helping operators improve maintenance planning, increase asset reliability, and meet safety standards.",
+    "url": "https://www.exrobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics、UL認証の危険環境検査ロボットを投入 – AIロボットニュー... — Jun 24, 2026 · ExRoboticsの検査ロボットがこの認証を取得したことは、耐爆性能や電気系統の安全性が国際水準を満たしていることを示唆している。 化学工場やガス貯蔵施設、鉱山などの高リスク作業環境での導入が現実的になった。",
+    "url": "https://roboticstrend.net/2026/06/24/exrobotics、ul認証の危険環境検査ロボットを投入/",
+    "pass": 3
+   },
+   {
+    "quote": "横河電機とオランダのExRoboticsが協業 - YOKOGAWA — Oct 23, 2019 · 横河電機株式会社と、危険な作業環境に対応するロボット技術を開発するExRobotics B.V.社は、ExRoboticsの点検ロボットハードウエアとソフトウエアプラットフォームを横河電機およびその子会社がグローバルで販売・導入するライセンス契約を締結したことをお知らせします。 | 横河電機",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "エックスロボティクスと横河電機、危険環境向け先進検査ロボットを世... — エックスロボティクス（ExRobotics）と横河電機がライセンス契約を締結し、横河電機がエックスロボティクスの検査ロボットハードウェアおよびソフトウェアプラットフォームを世界中で販売・導入できるようになりました。 両社の強みを融合 エックスロボティクスは、危険環境向け ...",
+    "url": "https://ja.mfgrobots.com/mfg/acs/1007019925.html",
+    "pass": 3
+   },
+   {
+    "quote": "EXrobotics — EXroboticsは、経験工学の視点から現場の暗黙知をデジタル資産へと変換。 単なる自動化を超えた「高度な自律制御」と「技能継承」を両立するロボットソリューションを提供します。",
+    "url": "https://www.ex-robotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About - exrobotics.com — ExRobotics is a leader in autonomous inspection solutions for hazardous industrial environments. The company develops rugged, ATEX, IECEx and UL-listed certified robots that replace human exposure in high-risk areas, delivering reliable inspection data that helps operators improve asset integrity, reduce downtime and make better operational decisions.",
+    "url": "https://www.exrobotics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics — ExRobotics",
+    "url": "http://www.exrobotics.nl/",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics | LinkedIn — ExRobotics | 7,863 followers on LinkedIn. ExRobotics is a leading expert in ATEX and IECEx Zone 1 certified robots for hazardous environments. | ExRobotics is an industry leader in autonomous inspection robotics for hazardous industrial environments. Our ATEX and IECEx Zone 1 certified robots are designed to operate safely in potentially explosive areas, automating routine ",
+    "url": "https://in.linkedin.com/company/exrobotics",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics — Pluspetrol case study of ExRobotics' ExR-2 inspection robot This video shows a successful proof of concept for autonomous inspection at Pluspetrol's Pisco plant in Peru using ExRobotics' ExR-2 inspection robot.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "Pluspetrol case study of ExRobotics' ExR-2 inspection robotInspection robots complete six months of offshore missionsExRobotics | KPN IoT — Jan 19, 2026 · It shows ExRobotics' ExR-2 inspection robot which performs inspections in potentially explosive and hard-to-reach industrial environments, including refineries, chemical plants and offshore ... Mar 9, 2026 · ExRobotics is focusing on enabling sm",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics | KPN IoT — ExRobotics Bots on the lookout Robots doing people’s jobs. That might actually be an excellent idea when it comes to inspecting hazardous environments, like gas facilities, oil refineries, chemical factories or offshore platforms. Keeping remote facilities safe comes with potential risks and financial costs.",
+    "url": "https://m2m.kpn.com/en/resources/cases/exrobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Robot incorporates Falco for autonomous gas detection — The Background ExRobotics was established in 2017 to commercialise robotics technology for use in potentially explosive atmospheres found at oil and gas production and processing facilities, which are often in remote locations within harsh environments. Even on normally unmanned facilities, a human presence is generally still needed for regul",
+    "url": "https://ionscience.com/wp-content/uploads/2020/04/ExRobotics-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics - 2026 Company Profile, Team, Funding ... - TracxnExRobotics 2026 Company Profile: Valuation, Funding ...ExRobotics: Funding, Investors & Team (Oct 2026) | FundedIQExRobotics — Company Profile | The Company CheckExRobotics — Funding, Investors & Team | SeedtableAbout Us - exrobotics.comExRobotics - Crunchbase Company Profile & Funding — Feb 2, 2026 · ExRobotics is a series A company bas",
+    "url": "https://tracxn.com/d/companies/exrobotics/__7-wGozWgoPCBOPdyDxcMaQiqLSge-YzOcWV495WRcek",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics 2026 Company Profile: Valuation, Funding ...ExRobotics: Funding, Investors & Team (Oct 2026) | FundedIQExRobotics — Company Profile | The Company CheckExRobotics — Funding, Investors & Team | SeedtableAbout Us - exrobotics.comExRobotics - Crunchbase Company Profile & Funding — Information on valuation, funding, acquisitions, investors, and executives for ExRobotics. Use the PitchBook Pl",
+    "url": "https://pitchbook.com/profiles/company/268739-20",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics: Funding, Investors & Team (Oct 2026) | FundedIQ — ExRobotics is a Robotics company in Breda, The Netherlands. Raised $8.1M across 1 round; latest round Nov 2025. Investors, founders and funding history.",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics — Company Profile | The Company Check — ExRobotics is a company based in Breda (Netherlands) founded in 2017 by Peter Van de Goorberg. ExRobotics has raised $8.07 million across 2 funding rounds from investors including Rotterdam Port Fund and FORWARD.one. ExRobotics offers products and services including Rugged Robots. ExRobotics operates in a competitive market with competitors includ",
+    "url": "https://www.thecompanycheck.com/company/b/exrobotics/uvodxe4g3w79tj90y",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics — Funding, Investors & Team | Seedtable — Sep 20, 2026 · 8.0M USD View funding history Est. Revenue $5M – $12M ↗ How we estimate this Employees 11–50 ↗ estimated range Founded 2017 ↗ View source",
+    "url": "https://seedtable.com/companies/exrobotics",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "To find out more email sales@exrobotics.global.",
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "pass": 3
+   },
+   {
+    "quote": "To find out more go to www.exrobotics.global or email sales@exrobotics.global.",
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the ExRobotics team: 1 of 1 has an email address on file, 1 has a LinkedIn profile.",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Kato Mechatro #29] Automate 2026 Concludes — The Day ... Layer 2: Mobilization + Autonomization (Cobot Proxie Gen 2, ExRobotics ExR-2.5). Robots are changing from 'stationary objects' to 'walking entities.' Along with this, environmental recognition and autonomous judgment (Autotasking) are becoming essential functions. Layer 3: Optimization from the Chip (ARM Physical AI Strategy).",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【加藤メカトロ #29】Automate 2026 閉幕 — ソフトウェアがロボットを飲み込む日｜KeiTy",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【加藤メカトロ #29】Automate 2026 閉幕 — ソフトウェアがロボットを飲み込む日",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Automate 2026 — 4日間の総決算。ソフトウェア定義ロボティクスの幕開け",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "シカゴ・マコーミックプレイスのドアが閉じた。Automate 2026、6月22日から25日までの4日間、800社超の出展、5万人超の来場。この数字は北米最大のロボティクス・オートメーションショウとしての地位を揺るぎないものにした。",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "だが、数字より重要なのは中身だ。4日間のフロアを歩き回って見えたもの——それは「ソフトウェアが産業ロボットの価値の中心を飲み込み始めた」という、静かだが確かな構造変化である。",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "前号#28でABBの分社化とPoWa高速コボットを報じた。それに続き、今週は別の3つのニュースが、同じ方向を指している。Vention×FANUC×URのソフトウェア定義提携。Cobot Proxie Gen 2のモバイルマニピュレーション量産化。そしてARMのPhysical AIチップ戦略。三つは独立しているようで、一点で収束する。",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "産業ロボットが「腕を売る時代」から「知能を売る時代」に移行している。その転換点が、Automate 2026だったのである。",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア定義型自動化の台頭 — Vention×FANUC×Universal Robots",
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ExRobotics (@ExRobotics) / Posts / X ExRobotics is the leading expert in developing robots for harsh environments that require IECEx Zone 1 certification. ExRobotics.global",
+    "url": "https://x.com/ExRobotics",
+    "pass": 3
+   },
+   {
+    "quote": "\"#ExRobotics\" - Results on X | Live Posts & Updates Results for \"#ExRobotics\" on X (Twitter). Find the latest posts, discussions, and updates about #ExRobotics. 13 results found.",
+    "url": "https://x.com/hashtag/ExRobotics",
+    "pass": 3
+   },
+   {
+    "quote": "UL Solutions on X: \"UL Solutions issued its first ... - x.com UL Solutions issued its first certification for a remotely operated #robot designed for inspections in explosive environments, awarding certification to #ExRobotics for its ExR-2.5 inspection robot.",
+    "url": "https://x.com/UL_Solutions/status/2070608069449351461",
+    "pass": 3
+   },
+   {
+    "quote": "DexRobotics (@DexRobotics) / Posts / X DexRobotics (@DexRobotics) - Posts - Software Engineering undergrad exploring embodied AI, world models and VLA Sharing papers, project... | X (formerly Twitter)",
+    "url": "https://x.com/DexRobotics",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics (@ExRobotics) / Posts / X Oct 22, 2019 · Last week ExRobotics succesfully received the ATEX and IECEx certification for the FLIR G300A optical gas imaging camera for leak detection. Read more about the modules and options of the ExR-1 on our website: exrobotics.global/exr-1-2/",
+    "url": "https://x.com/ExRobotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ExRobotics - LinkedIn ExRobotics is an industry leader in autonomous inspection robotics for hazardous industrial environments. Our ATEX and IECEx Zone 1 certified robots are designed to operate safely in potentially ...",
+    "url": "https://www.linkedin.com/company/exrobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "New look. New experience. Same mission. Our new ExRobotics ... 🚀 New look. New experience. Same mission. Our new ExRobotics website is officially live! We’ve refreshed our website to make it easier to explore who we are, what we do, and how our robotic ...",
+    "url": "https://www.linkedin.com/posts/exrobotics_new-look-new-experience-same-mission-activity-7508435535888248832-PZRJ",
+    "pass": 3
+   },
+   {
+    "quote": "Ian Peerless - Director at ExRobotics | LinkedInExRobotics | Rugged reliable robots for harsh environments ...#atex #iecex | ExRobotics - LinkedInExRobotics on LinkedIn: ExRobotics#exrobotics #meetourteam #teamwork #gettoknowus #aboutus ... ExRobotics is the leading supplier of robots that are designed for potentially explosive locations. Our ExR-2.5 robots are delivering business benefits for oil",
+    "url": "https://uk.linkedin.com/in/ian-peerless-2071a14",
+    "pass": 3
+   },
+   {
+    "quote": "ExRobotics | Rugged reliable robots for harsh environments ... At the beginning of this year, we finalized the design of our new robot. 2 months ago we completed the ATEX/IECEx zone 1 certification. Last week, the first robot was deployed at a customer and ...",
+    "url": "https://www.linkedin.com/posts/exrobotics_robot-operator-for-unmanned-facilities-activity-6832660749798776832-U4gV",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "EXRobotics - Facebook EXRobotics - Facebook ... EXRobotics",
+    "url": "https://www.facebook.com/pages/EXRobotics/101339032342746/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Robot Hub - ExRobotics: Behind the Scenes ... - Facebook Jan 23, 2026 · 烙 ExRobotics: Behind the Scenes of the World’s Most Realistic Humanoid Robot! Ever wondered how the world’s most realistic humanoid robots are made? Join me as I take you inside ExRobotics’...",
+    "url": "https://www.facebook.com/61560651945976/posts/-exrobotics-behind-the-scenes-of-the-worlds-most-realistic-humanoid-robot-ever-w/122197164980355064/",
+    "pass": 3
+   },
+   {
+    "quote": "Tkc Futurex - ExRobotics: Behind the Scenes ... - Facebook Nov 28, 2024 · 烙 ExRobotics: Behind the Scenes of the World’s Most Realistic Humanoid Robot! Ever wondered how the world’s most realistic humanoid robots are made? Join me as I take you inside ExRobotics’...",
+    "url": "https://www.facebook.com/tkcrobotics/posts/-exrobotics-behind-the-scenes-of-the-worlds-most-realistic-humanoid-robot-ever-w/564481892859122/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://exrobotics.global/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.ex-robotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exrobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboticstrend.net/2026/06/24/exrobotics%E3%80%81ul%E8%AA%8D%E8%A8%BC%E3%81%AE%E5%8D%B1%E9%99%BA%E7%92%B0%E5%A2%83%E6%A4%9C%E6%9F%BB%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E6%8A%95%E5%85%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ex-robotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exrobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exrobotics.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.exrobotics.nl/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exrobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://m2m.kpn.com/en/resources/cases/exrobotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/exrobotics/__7-wGozWgoPCBOPdyDxcMaQiqLSge-YzOcWV495WRcek",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/268739-20",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/exrobotics/uvodxe4g3w79tj90y",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ExRobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ExRobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/UL_Solutions/status/2070608069449351461",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DexRobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/exrobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/exrobotics_new-look-new-experience-same-mission-activity-7508435535888248832-PZRJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/ian-peerless-2071a14",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/exrobotics_robot-operator-for-unmanned-facilities-activity-6832660749798776832-U4gV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/EXRobotics/101339032342746/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61560651945976/posts/-exrobotics-behind-the-scenes-of-the-worlds-most-realistic-humanoid-robot-ever-w/122197164980355064/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tkcrobotics/posts/-exrobotics-behind-the-scenes-of-the-worlds-most-realistic-humanoid-robot-ever-w/564481892859122/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ExRobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ExRobotics 日本 導入",
+   "results": [
+    "https://www.ex-robotics.com/",
+    "https://www.exrobotics.com/",
+    "https://roboticstrend.net/2026/06/24/exrobotics、ul認証の危険環境検査ロボットを投入/",
+    "https://www.yokogawa.co.jp/news/press-releases/2019/2019-10-23-ja/",
+    "https://ja.mfgrobots.com/mfg/acs/1007019925.html",
+    "https://solutions.mhi.com/jp/industrial-solutions/the-ex-rovr-plant-inspection-robot/",
+    "https://solutions.mhi.com/jp/case-studies/the-ex-rovr-allows-the-automation-of-plant-inspections-and-improved-standards-of-maintenance/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ExRobotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ExRobotics Japan",
+   "results": [
+    "https://www.ex-robotics.com/",
+    "https://www.exrobotics.com/",
+    "https://www.exrobotics.com/about",
+    "http://www.exrobotics.nl/",
+    "https://in.linkedin.com/company/exrobotics",
+    "https://exrobotics.recruitee.com/",
+    "https://pitchbook.com/profiles/company/268739-20"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ExRobotics manufacturing customer case study",
+   "results": [
+    "https://www.exrobotics.com/news/pluspetrol-case-study-of-exrobotics-exr-2-inspection-robot",
+    "https://www.exrobotics.com/",
+    "https://www.youtube.com/watch?v=MlMFiF20ud0",
+    "https://m2m.kpn.com/en/resources/cases/exrobotics",
+    "https://ionscience.com/wp-content/uploads/2020/04/ExRobotics-Case-Study.pdf",
+    "https://ionscience.com/en/case-studies/exrobotics/",
+    "https://www.offshore-mag.com/business-briefs/equipment-engineering/article/55362594/inspection-robots-complete-six-months-of-offshore-missions"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ExRobotics white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.superantispyware.com/reseller-program"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ExRobotics founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/exrobotics/__7-wGozWgoPCBOPdyDxcMaQiqLSge-YzOcWV495WRcek",
+    "https://pitchbook.com/profiles/company/268739-20",
+    "https://fundediq.co/exrobotics-exrobotics-global-funding/",
+    "https://www.thecompanycheck.com/company/b/exrobotics/uvodxe4g3w79tj90y",
+    "https://seedtable.com/companies/exrobotics",
+    "https://www.exrobotics.com/about",
+    "https://www.crunchbase.com/organization/exrobotics"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ExRobotics",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kinoko38/n/n7661b86b3fde?hl=en",
+    "https://note.com/akira_umapro",
+    "https://note.com/keity717/n/n1457f175c1e9?hl=en",
+    "https://note.com/nakamako/n/n82ce5e956afc?hl=en",
+    "https://note.com/roboken_ceo/n/n13d86c12653f?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ExRobotics",
+   "results": [
+    "https://x.com/ExRobotics",
+    "https://x.com/hashtag/ExRobotics",
+    "https://x.com/UL_Solutions/status/2070608069449351461",
+    "https://x.com/DexRobotics",
+    "https://x.com/exorrobotics",
+    "https://x.com/ctorobotics/status/2058548578079957122",
+    "https://x.com/Chaba136/status/2104590945727430865"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ExRobotics",
+   "results": [
+    "https://www.linkedin.com/company/exrobotics/",
+    "https://www.linkedin.com/posts/exrobotics_new-look-new-experience-same-mission-activity-7508435535888248832-PZRJ",
+    "https://uk.linkedin.com/in/ian-peerless-2071a14",
+    "https://www.linkedin.com/posts/exrobotics_robot-operator-for-unmanned-facilities-activity-6832660749798776832-U4gV",
+    "https://www.linkedin.com/posts/exrobotics_atex-iecex-activity-7301164238134235137-RAE-",
+    "https://www.linkedin.com/posts/exrobotics_the-exrobotics-team-activity-7019248365351657472-mtzF",
+    "https://www.linkedin.com/posts/exrobotics_robot-operator-for-unmanned-facilities-activity-7080485124609339394-shbJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ExRobotics",
+   "results": [
+    "https://www.facebook.com/pages/EXRobotics/101339032342746/",
+    "https://www.facebook.com/61560651945976/posts/-exrobotics-behind-the-scenes-of-the-worlds-most-realistic-humanoid-robot-ever-w/122197164980355064/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/tkcrobotics/posts/-exrobotics-behind-the-scenes-of-the-worlds-most-realistic-humanoid-robot-ever-w/564481892859122/",
+    "https://www.facebook.com/ionscience/videos/288243042392283/",
+    "https://www.facebook.com/ExRobotics/",
+    "https://www.facebook.com/tkcrobotics/videos/-chinas-exrobot-unveils-a-mind-blowing-humanoid-chinas-exrobot-just-dropped-thei/1305929464018334/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ExRobotics note 社長",
+   "results": [
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.exrobotics.com/about",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.exrobotics.com/",
+    "http://ex-robotics.com/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ExRobotics X 投稿",
+   "results": [
+    "https://x.com/ExRobotics",
+    "https://www.exrobotics.com/",
+    "https://www.ex-robotics.com/",
+    "http://www.exrobotics.nl/",
+    "https://www.exrobotics.com/about",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://contentai.jp/blog/twitter-x-algorithm-2026"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

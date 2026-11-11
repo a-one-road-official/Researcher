@@ -1,0 +1,1031 @@
+{
+ "name": "Luffy AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Controls / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T03:02:40.594737+00:00",
+ "official_url": "https://www.luffy.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "with some of the most advanced industrial companies in the world to bring intelligent systems and products to market, all within the existing hardware footprint. Examples of where our AI controllers are replacing or complementing control loops include robotics, drones, industrial drives and automotive applications.",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No calibration phase. Adapts to varying loads and contact forces on the fly. Deploy across different robot configurations without retuning.",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Handle load variations, ambient changes, and equipment wear. Optimize for energy efficiency, overshoot or process consistency.",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Adapt to driving conditions, battery states, and thermal loads. Optimize motor efficiency, traction control, and cabin comfort without lookup tables or extensive calibration, all within existing hardware.",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "*per inference compared to Google DeepMind DeepRL benchmark.",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proportional-Integral-Derivative Control",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Model Predictive Control",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "about our technology and approach",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Luffy AI are a team of world-leading researchers and engineers working on foundation AI models for physical systems. Our focus is making intelligent control practical for all industrial applications.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our approach combines evolutionary neuroplastic algorithms with neural networks to create controllers that adapt to ever-changing conditions.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "The team brings together expertise in physics, mathematics, control theory and engineering, with strong links to Oxford's research community. We're based at the historic Culham Campus, Oxfordshire in the United Kingdom.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our work bridges the gap between academic research and industrial application, with developments for motor control, fight control, thermal systems, and process optimization for Physical AI applications. We are partnering with some of the World’s leading industrial organizations to bring truely intelligent devices to the physical World.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Prior experience in multiple startups",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "John has 30+ years experience leading product management and software engineering teams, having worked in startups and corporates such as IBM, Microsoft and Sophos.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Executive Vice President, GTM",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager: AI Platform",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Tom completed his PhD in Computer Science at the University of Bristol, UK. He has led Product Engineering teams focused on the application of AI and Computer Vision in Industrial environments.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager: Motors and Drives",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew brings deep experience in industrial simulation, physics-based modelling and product leadership. Most recently Lead Product Manager at Rockwell Automation for Emulate3D, a physics-based digital twin platform used to virtualise and validate factory systems.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Michael is a venture industrialist focused on the digital transformation of industries through augmentation of human expertise with machine data and AI. He previously held investment leadership roles at: GE, LG Electronics, Orange, 3Com and IBM.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Charlie has a passion for how emerging technology can solve problems that matter and devising marketing strategy to successfully establish new startups. He has led multiple successful investments and sits on the boards of many hi-tech companies.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "A young male voice with an energetic, raspy, and highly enthusiastic tone, characteristic of a shonen anime protagonist. It conveys a strong sense of confidence and determination through its animated and expressive delivery.",
+    "url": "https://fish.audio/ja/m/7b8e78f94eaf423583ac0c6c8544564a/",
+    "pass": 3
+   },
+   {
+    "quote": "Professional Voice Generation for Creative Projects",
+    "url": "https://aivoicelab.net/en/role/luffy-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Can I use generated Luffy's voice content for commercial projects?",
+    "url": "https://aivoicelab.net/en/role/luffy-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Personal and educational use is generally permitted for generated Luffy's voice content. For commercial applications, we recommend reviewing our terms of service and consulting with legal advisors regarding intellectual property considerations. Our Luffy AI platform provides clear usage guidelines to help users understand appropriate applications for content created with this technology.",
+    "url": "https://aivoicelab.net/en/role/luffy-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Our platform primarily supports English text input with plans for additional language expansion. The Luffy AI system processes standard text formats and can handle various content types including dialogue, narration, and scripts. Users can input text through our intuitive interface to generate Luffy's voice with immediate results.",
+    "url": "https://aivoicelab.net/en/role/luffy-ai",
+    "pass": 3
+   },
+   {
+    "quote": "We continuously improve our technology through regular model updates and optimizations. These updates enhance audio quality, expand feature capabilities, and improve overall user experience. Our Luffy AI system benefits from ongoing improvements without additional cost, ensuring access to the latest advancements for generating authentic Luffy's voice.",
+    "url": "https://aivoicelab.net/en/role/luffy-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Our dedicated support team provides comprehensive assistance for technical questions and platform issues. Users can access help through our support center, submit detailed problem reports, and receive prompt technical guidance. We maintain extensive documentation and troubleshooting resources to ensure smooth user experience with our Luffy AI generator.",
+    "url": "https://aivoicelab.net/en/role/luffy-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Momenta Leads Investment in Luffy.ai",
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "pass": 3
+   },
+   {
+    "quote": "Momenta Leads Investment in Luffy AI, Adaptive AI for Industrial Optimization",
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "pass": 3
+   },
+   {
+    "quote": ", a Cambridge, UK-based leader in adaptive AI for industrial control. This strategic funding aims to advance industrial processes and enhance operational outcomes.",
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "pass": 3
+   },
+   {
+    "quote": ", Managing Partner at Momenta. \"Luffy's innovative approach positions them as a catalyst for transformation, bringing tremendous potential to industrial optimization projects.\"",
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence control system designed to optimize edge industrial equipment and processes in real time.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence control system designed to optimize edge industrial equipment and processes in real time. The company offers embedded AI based on neuroplasticity, which continuously retrains models during runtime, enabling industrial operators to improve efficiency, resilience and sustainability across complex operations.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "01-Apr-2023",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "21-Apr-2022",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence control system designed to optimize edge industrial equipment and processes in r",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Geminus (Business/Productivity Software)",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Is Luffy AI a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Luffy AI - Fastest inference time AI for Industrial Control | The Control Layer for Physical AI",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "with some of the most advanced industrial companies in the world to bring intelligent systems and products to market, all within the existing hardware footprint. Examples of where our AI controllers are replacing or complementing control loops include robotics, drones, industrial drives and automotive applications.",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Adaptive control for industrial heating and cooling.",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With its superior performance, ability to adapt to its environment, and unparalleled capability per Watt, Luffy’s AI makes industrial AI control a reality",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Industrial Control Needs Adaptive AI.",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "All about why Industrial companies need AI",
+    "url": "https://www.luffy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "About Us | Innovate with Industrial AI – Get Started — Luffy AI - Fastest inference time AI for Industrial Control (Copy) (Copy)",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Luffy AI are a team of world-leading researchers and engineers working on foundation AI models for physical systems. Our focus is making intelligent control practical for all industrial applications.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our work bridges the gap between academic research and industrial application, with developments for motor control, fight control, thermal systems, and process optimization for Physical AI applications. We are partnering with some of the World’s leading industrial organizations to bring truely intelligent devices to the physical World.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Ex-VMware and SUSE. 15+ working with complex systems for OEMs and industrial customers across multiple domains. Expert in partnerships, embedded commercial strategy.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Jamie has 10+ years of AI experience spanning deep learning research, deployment of cloud-based multi-modal AI pipelines, and applying reinforcement-learning to real-world robotics and industrial contexts.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Tom completed his PhD in Computer Science at the University of Bristol, UK. He has led Product Engineering teams focused on the application of AI and Computer Vision in Industrial environments.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew brings deep experience in industrial simulation, physics-based modelling and product leadership. Most recently Lead Product Manager at Rockwell Automation for Emulate3D, a physics-based digital twin platform used to virtualise and validate factory systems.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Michael is a venture industrialist focused on the digital transformation of industries through augmentation of human expertise with machine data and AI. He previously held investment leadership roles at: GE, LG Electronics, Orange, 3Com and IBM.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "David brings a wealth of business experience and industrial expertise from a highly successful career in industrial automation and software. Highlights include EVP at Aspentech, COO at Hyperion, Chairman & CEO at Broner Metals and Executive Director at Greycon.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Momenta Leads Investment in Luffy AI, Adaptive AI for Industrial Optimization",
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "pass": 3
+   },
+   {
+    "quote": ", the leading Industrial Impact® venture capital firm, has announced its latest investment in",
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "pass": 3
+   },
+   {
+    "quote": ", a Cambridge, UK-based leader in adaptive AI for industrial control. This strategic funding aims to advance industrial processes and enhance operational outcomes.",
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "pass": 3
+   },
+   {
+    "quote": "\"We chose to invest in Luffy because of their team's deep expertise in industrial control and AI. Their solution aligns with our investment focus on adaptive industrial systems capable of learning and adjusting to dynamic environments, from automation to autonomy,\" said",
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "pass": 3
+   },
+   {
+    "quote": ", Managing Partner at Momenta. \"Luffy's innovative approach positions them as a catalyst for transformation, bringing tremendous potential to industrial optimization projects.\"",
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy's technology tackles complex control challenges and opens new opportunities for machine control applications in petrochemicals, manufacturing, chemicals, metals and mining, and aviation industries.",
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "pass": 3
+   },
+   {
+    "quote": "This marks the third investment from Momenta's Digital Industry Fund IV, set to boost Luffy AI's growth and innovation, solidifying the company's role in the digital transformation of industrial optimization.",
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "pass": 3
+   },
+   {
+    "quote": "to learn more about our Industrial Impact investments.",
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence control system designed to optimize edge industrial equipment and processes in real time.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence control system designed to optimize edge industrial equipment and processes in real time. The company offers embedded AI based on neuroplasticity, which continuously retrains models during runtime, enabling industrial operators to improve efficiency, resilience and sustainability across complex operations.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an artificial intelligence control system designed to optimize edge industrial equipment and processes in r",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Ex-VMware and SUSE. 15+ working with complex systems for OEMs and industrial customers across multiple domains. Expert in partnerships, embedded commercial strategy.",
+    "url": "https://www.luffy.ai/about",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Luffy AI ボイスジェネレーター - Fish Audio — Luffy AI ボイスジェネレーター - Fish Audio Fish Audio https://fish.audio > ...",
+    "url": "https://fish.audio/ja/m/7b8e78f94eaf423583ac0c6c8544564a/",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI - LinkedIn — Luffy AI - LinkedIn LinkedIn https://uk.linkedin.com > luffy-ai",
+    "url": "https://uk.linkedin.com/company/luffy-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI - AI Voice Lab — Luffy AI - AI Voice Lab AIVoiceLab https://aivoicelab.net > role > luffy-ai",
+    "url": "https://aivoicelab.net/en/role/luffy-ai",
+    "pass": 3
+   },
+   {
+    "quote": "LUFFY AI Voice Generator - Fish Audio — LUFFY AI Voice Generator - Fish Audio Fish Audio https://fish.audio > ...",
+    "url": "https://fish.audio/m/09c3b591a08a4d16938f1f12eff24389/",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI 2026 Company Profile: Valuation, Funding & Investors — Luffy AI 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI Revenue 2025: $3M Est. - GetLatka — Luffy AI Revenue 2025: $3M Est. - GetLatka GetLatka https://getlatka.com > luffy",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI - 2026 Company Profile & Team - Tracxn — Luffy AI - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/luffy-ai/__Nd9c7cM8dJyZdkE1aFXm7nTEElylUV9wMGiebfIZIhc",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI - Crunchbase Company Profile & Funding — Luffy AI - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > luffy-ai",
+    "url": "https://www.crunchbase.com/organization/luffy-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI Raises €9.4M Series A - The SaaS News — Luffy AI Raises €9.4M Series A - The SaaS News The SaaS News https://www.thesaasnews.com > news",
+    "url": "https://www.thesaasnews.com/news/luffy-ai-raises-9-4m-series-a/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Our platform primarily supports English text input with plans for additional language expansion. The Luffy AI system processes standard text formats and can handle various content types including dialogue, narration, and scripts. Users can input text through our intuitive interface to generate Luffy's voice with immediate results.",
+    "url": "https://aivoicelab.net/en/role/luffy-ai",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI has 31 total employees.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "What is Luffy AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Luffy AI is",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI Revenue 2025: $3M Est.",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI has not published its revenue. GetLatka estimates it at about $3M a year (October 2025).",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy AI CEO, founders & employees",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Matthew Carr founded Luffy AI in 2019 and runs it as CEO. Luffy AI has 27 employees (October 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Luffy AI's revenue?",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Luffy AI's revenue at about",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Luffy AI have?",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of October 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Luffy AI - LinkedIn Luffy AI - LinkedIn LinkedIn https://uk.linkedin.com > luffy-ai",
+    "url": "https://uk.linkedin.com/company/luffy-ai",
+    "pass": 3
+   },
+   {
+    "quote": "BGF Invests in Luffy AI for Industrial AI Advancements - LinkedIn BGF Invests in Luffy AI for Industrial AI Advancements - LinkedIn LinkedIn https://www.linkedin.com > posts > b...",
+    "url": "https://www.linkedin.com/posts/bgfinvestments_bgf-has-led-a-series-a-investment-in-luffy-activity-7480175484761350144-U2TY",
+    "pass": 3
+   },
+   {
+    "quote": "Matthew Carr - Luffy AI - LinkedIn Matthew Carr - Luffy AI - LinkedIn LinkedIn https://uk.linkedin.com > matthewncarr",
+    "url": "https://uk.linkedin.com/in/matthewncarr",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "LUFFY'S TRANSFORMATION By AI #onepiece - Facebook LUFFY'S TRANSFORMATION By AI #onepiece - Facebook Facebook https://www.facebook.com > comicstotheworld > posts",
+    "url": "https://www.facebook.com/groups/comicstotheworld/posts/28987963427490709/",
+    "pass": 3
+   },
+   {
+    "quote": "Luffy made with glue. The opposite of AI . #onepiece - Facebook Luffy made with glue. The opposite of AI . #onepiece - Facebook Facebook https://www.facebook.com > OnePieceOneMillion > posts",
+    "url": "https://www.facebook.com/OnePieceOneMillion/posts/luffy-made-with-glue-the-opposite-of-ai-onepiece/1357460769748802/",
+    "pass": 3
+   },
+   {
+    "quote": "Ai -generated Luffy ape-like form from One Piece 1198 Ai -generated Luffy ape-like form from One Piece 1198 Facebook https://www.facebook.com > posts > ai-generated-version-...",
+    "url": "https://www.facebook.com/DomainDripOfficialPage/posts/ai-generated-version-of-luffy-based-on-the-latest-spoilers-what-are-your-thought/122138735547222702/",
+    "pass": 3
+   },
+   {
+    "quote": "AI keeps Luffy after removing weakest characters - Facebook AI keeps Luffy after removing weakest characters - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/260040125516141/posts/1493291765524298/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.luffy.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luffy.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luffy.ai/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://fish.audio/ja/m/7b8e78f94eaf423583ac0c6c8544564a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noiz.ai/lp/ja/voice/luffy-ai-voice-322a4b24",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotstart.info/article/2022/07/15/303900.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://soranews24.com/2022/03/25/one-pieces-luffy-is-now-working-as-an-ai-receptionist-at-manga-publishers-tokyo-office%E3%80%90video%E3%80%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miraiai.jp/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knowleful.ai/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.zdnet.com/article/35213151/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairii.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voicedub.ai/create/luffy-from-one-piece-japanese",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/luffy-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aivoicelab.net/en/role/luffy-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fish.audio/ja/m/09c3b591a08a4d16938f1f12eff24389/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momenta.vc/insights/luffy-ai-momenta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thirdeyedata.ai/case-studies/manufacturing-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asyntai.com/white-label-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=vssslczcZCs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pickaxe.co/post/white-label-ai-for-clients",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/443299-33",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/luffy.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/luffy-ai/__Nd9c7cM8dJyZdkE1aFXm7nTEElylUV9wMGiebfIZIhc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/luffy-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/luffy-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/bgfinvestments_bgf-has-led-a-series-a-investment-in-luffy-activity-7480175484761350144-U2TY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/matthewncarr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/comicstotheworld/posts/28987963427490709/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OnePieceOneMillion/posts/luffy-made-with-glue-the-opposite-of-ai-onepiece/1357460769748802/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DomainDripOfficialPage/posts/ai-generated-version-of-luffy-based-on-the-latest-spoilers-what-are-your-thought/122138735547222702/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/260040125516141/posts/1493291765524298/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/matthewncarr",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Luffy AI 日本 導入",
+   "results": [
+    "https://fish.audio/ja/m/7b8e78f94eaf423583ac0c6c8544564a/",
+    "https://noiz.ai/lp/ja/voice/luffy-ai-voice-322a4b24",
+    "https://robotstart.info/article/2022/07/15/303900.html",
+    "https://soranews24.com/2022/03/25/one-pieces-luffy-is-now-working-as-an-ai-receptionist-at-manga-publishers-tokyo-office%E3%80%90video%E3%80%91/",
+    "https://aivoicelab.net/ja/role/voice-of-luffy",
+    "https://voice-models.com/model/1uChzfO6CyJ",
+    "https://audioai.io/ja/ai-voice-generator/luffy-ai-voice-generator",
+    "https://www.moguravr.com/ai-luffy-good-digital-award/",
+    "https://storyteller.ai/weight/weight_aswpmhvyt398pgm02r96dk547/monkey-d-luffy-japanese",
+    "https://www.luffy.ai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Luffy AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.miraiai.jp/agent/",
+    "https://www.knowleful.ai/partner/",
+    "https://japan.zdnet.com/article/35213151/",
+    "https://dairii.ai/",
+    "https://resource-ai.cloudheart.jp/partner.html",
+    "https://newswitch.jp/p/31402",
+    "https://log-port.com/aidx-partner-program/",
+    "https://www.allganize.ai/ja/about-us",
+    "https://www.nikkei.com/article/DGKKZO98967710X20C26A9MM8000/",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 23
+  },
+  {
+   "query": "Luffy AI Japan",
+   "results": [
+    "https://voicedub.ai/create/luffy-from-one-piece-japanese",
+    "https://uk.linkedin.com/company/luffy-ai",
+    "https://aivoicelab.net/en/role/luffy-ai",
+    "https://fish.audio/m/09c3b591a08a4d16938f1f12eff24389/",
+    "https://www.reddit.com/r/OnePiece/comments/14gky5c/any_ai_voices_of_the_one_piece_characters/",
+    "https://www.instagram.com/p/DOVBuBpEuzi/?hl=ja",
+    "https://soranews24.com/2022/03/25/one-pieces-luffy-is-now-working-as-an-ai-receptionist-at-manga-publishers-tokyo-office%E3%80%90video%E3%80%91/",
+    "https://voice-models.com/model/1uChzfO6CyJ",
+    "https://www.tiktok.com/@onepiecelanguages/video/7298828277601422624",
+    "https://www.luffy.ai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Luffy AI manufacturing customer case study",
+   "results": [
+    "https://f7i.ai/case-studies",
+    "https://momenta.vc/insights/luffy-ai-momenta",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://thirdeyedata.ai/case-studies/manufacturing-industry/",
+    "https://www.entefy.com/customer-case-studies/",
+    "https://uk.linkedin.com/company/luffy-ai",
+    "https://www.dataiku.com/blog/ai-for-manufacturing-use-case-guide",
+    "https://www.leewayhertz.com/ai-use-cases-in-manufacturing/",
+    "https://ukinnovationscienceseedfund.co.uk/case-study/luffy-ai/",
+    "https://www.luffy.ai/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Luffy AI white label OR reseller OR partner program",
+   "results": [
+    "https://asyntai.com/white-label-solutions/",
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://pickaxe.co/post/white-label-ai-for-clients",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://www.agentz.ai/partners",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Luffy AI founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/443299-33",
+    "https://getlatka.com/companies/luffy.ai",
+    "https://tracxn.com/d/companies/luffy-ai/__Nd9c7cM8dJyZdkE1aFXm7nTEElylUV9wMGiebfIZIhc",
+    "https://www.crunchbase.com/organization/luffy-ai",
+    "https://www.thesaasnews.com/news/luffy-ai-raises-9-4m-series-a/",
+    "https://uk.linkedin.com/company/luffy-ai",
+    "https://www.eu-startups.com/2026/07/oxfordshire-based-luffy-ai-raises-e9-4-million-series-a-to-scale-neuroplastic-ai-for-real-time-adaptive-control/",
+    "https://beinsure.com/news/luffy-ai-raises-8mn/",
+    "https://www.thetimes.com/business/entrepreneurs/article/luffy-ai-raises-8m-for-smart-motors-nk6bqk9nc",
+    "https://tracxn.com/d/companies/luffyai/__Nd9c7cM8dJyZdkE1aFXm7nTEElylUV9wMGiebfIZIhc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Luffy AI",
+   "results": [
+    "https://note.com/mshouji/n/n446c7a504f94?hl=en",
+    "https://note.com/sea_19note/n/n76fdc9deb990?hl=en",
+    "https://note.com/good_dill292/n/n27d05ffe51e4?hl=en",
+    "https://note.com/cybozudays/n/n61044c8e49d9",
+    "https://note.com/modern_stilt991/n/n06d1599ec52d?hl=en",
+    "https://note.com/right_cosmos7882/n/n20861eb98b86?hl=en",
+    "https://note.com/toda_naruhito/n/nc44a76297187?hl=en",
+    "https://note.com/cybozudays/n/n9fe563614f10",
+    "https://note.com/maruta21/n/nb326f26f3fa3?hl=en",
+    "https://note.com/matrixflow/n/n84a02971e810"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Luffy AI",
+   "results": [
+    "https://x.com/Eiichiro_Staff/status/1604766453177405441",
+    "https://x.com/mugistore_info/status/1768441995167498291",
+    "https://x.com/mugistore_info/status/1765195596271702304",
+    "https://x.com/mugistore_info/status/1763383656658108526",
+    "https://x.com/mugistore_info/status/1765920374842110041",
+    "https://x.com/i/trending/2012345153005232432",
+    "https://x.com/oneesan_aiart/status/2056706434679681088",
+    "https://x.com/mugistore_info/status/1760862041948983765",
+    "https://x.com/BBDBG03/status/1293217729575616513",
+    "https://x.com/Mr_AllenT/status/1717608319601320308"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Luffy AI",
+   "results": [
+    "https://uk.linkedin.com/company/luffy-ai",
+    "https://www.linkedin.com/posts/luffy-ai_ai-has-transformed-language-and-image-generation-activity-7480167924700422145-DM72",
+    "https://www.linkedin.com/posts/bgfinvestments_bgf-has-led-a-series-a-investment-in-luffy-activity-7480175484761350144-U2TY",
+    "https://uk.linkedin.com/in/matthewncarr",
+    "https://uk.linkedin.com/in/alex-meakins-0042127b",
+    "https://www.linkedin.com/posts/himanshu-kumar-77b776287_were-building-luffy-an-ai-coworker-that-activity-7519639404622090240-Nzp6",
+    "https://uk.linkedin.com/in/jetshaw",
+    "https://www.linkedin.com/posts/luffy-ai_spslive-industrialai-adaptiveai-activity-7404882767697649664-fHGM",
+    "https://uk.linkedin.com/in/petkovnikola",
+    "https://uk.linkedin.com/jobs/view/ai-control-engineer-industrial-automation-and-mechatronics-at-luffy-ai-4418794313"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Luffy AI",
+   "results": [
+    "https://www.facebook.com/groups/comicstotheworld/posts/28987963427490709/",
+    "https://www.facebook.com/OnePieceOneMillion/posts/luffy-made-with-glue-the-opposite-of-ai-onepiece/1357460769748802/",
+    "https://www.facebook.com/DomainDripOfficialPage/posts/ai-generated-version-of-luffy-based-on-the-latest-spoilers-what-are-your-thought/122138735547222702/",
+    "https://www.facebook.com/groups/260040125516141/posts/1493291765524298/",
+    "https://www.facebook.com/erroz.kaiser/posts/even-ai-needs-a-time-out-in-the-one-piece-world-anime-onepiece-onepieceanime/1517435526880664/",
+    "https://www.facebook.com/groups/2197608527234764/posts/4381699915492270/",
+    "https://www.facebook.com/groups/OPonemillion/posts/2198166796870647/",
+    "https://www.facebook.com/groups/gundammobilesuitposting/posts/8577422212381038/",
+    "https://www.facebook.com/p/Luffy-Ai-100092019443189/",
+    "https://www.facebook.com/people/Luffy-AI/61578372861491/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Luffy AI note 社長",
+   "results": [
+    "https://pitchbook.com/profiles/company/443299-33",
+    "https://uk.linkedin.com/in/matthewncarr",
+    "https://www.luffy.ai/about",
+    "https://fish.audio/m/41ddfa4e9928413a876be0964344346e/",
+    "https://www.linkedin.com/videos/viraj-ala-30390a154_some-founders-hold-elon-musk-as-their-1-activity-7396978081984299008-jS-P",
+    "https://note.com/ai_shacho",
+    "https://note.com/toru1960/n/n71f6ef62b17d",
+    "https://www.youtube.com/watch?v=5pDti_mmbuE",
+    "https://www.luffy.ai/",
+    "https://www.luffy.so/blog"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Luffy AI X 投稿",
+   "results": [
+    "https://x.com/mugistore_info/status/1765195596271702304",
+    "https://www.deviantart.com/tomartista/art/One-Piece-Luffy-AI-2-1098419661",
+    "https://komiko.app/voice/luffy/text-to-speech",
+    "https://deepdreamgenerator.com/tags/luffy",
+    "https://pixai.art/tags/artwork/monkey_d._luffy",
+    "https://fish.audio/m/41ddfa4e9928413a876be0964344346e/",
+    "https://deepai.org/ja/chat/luffy",
+    "https://www.youtube.com/watch?v=jmIb1iK3RNk",
+    "https://x.com/AILOrchestrator",
+    "https://x.com/luffytarobaby"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

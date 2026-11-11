@@ -1131,6 +1131,10 @@
 - 「JapanBargain 1753, Japanese Sushi Press Nigiri Maker Rice Ball Mold Sushi Mold Press Made in Japan」（https://www.amazon.com/1-X-Sushi-Mold-5809/dp/B001QY4REO）
 - 「Visit the JapanBargain Store」（https://www.amazon.com/1-X-Sushi-Mold-5809/dp/B001QY4REO）
 
+## Neue Materialien Bayreuth GmbH（https://www.nmbgmbh.de）
+- 「Additive Japan Corporation」（https://mga-net.com/members/neue-materialien-bayreuth/）
+- 「1764 employees」（https://bouncewatch.com/company/neue-materialien-bayreuth-gmbh）
+
 ## Additive Manufacturing Technologies Ltd.（https://amtechnologies.com/）
 - 「Also in APAC: Hong Kong, India, Japan, New Zealand, Singapore, Taiwan.」（https://amtechnologies.com/postpro-partners/）
 - 「Japan 3D Printer Co., Ltd」（https://amtechnologies.com/postpro-partners/）
@@ -1154,6 +1158,11 @@
 ## Universität Bayreuth（https://www.uni-bayreuth.de）
 - 「Studieren in Australien, Kanada, Japan, Südkorea, den USA oder an einer unserer zahlreichen europäischen Partnerhochschulen? Jetzt bewerben!」（https://www.international-office.uni-bayreuth.de/de/index.html）
 - 「RTG 2156: "Deep Earth Volatile Cycles" (with Tōhoku University, Japan)」（https://en.wikipedia.org/wiki/University_of_Bayreuth）
+
+## Sika Deutschland CH AG & Co KG（https://deu.sika.com）
+- 「Japan JPY 100 0.5923 0.6398 0.5772 0.5814」（https://www.sika.com/dam/dms/corporate/media/glo-ar-24-financial-report.pdf）
+- 「— Pozzolith Solutions Ltd., Chigasaki City (Japan) was merged into Sika Japan Ltd., Minato-ku (Japan).」（https://www.sika.com/dam/dms/corporate/media/glo-ar-24-financial-report.pdf）
+- 「HPS North America, LLC, USA (Sika stake 49%), Condensil SARL, France (40%), Chemical Sangyo Ltd., Japan」（https://www.sika.com/dam/dms/corporate/media/glo-ar-24-financial-report.pdf）
 
 ## Performance Review Institute | PRI（https://www.p-r-i.org）
 - 「As Nadcap grew internationally, we established offices in London, UK to serve Europe and in Beijing, China and Aichi, Japan serving the Asia-Pacific region to improve our customer service, breaking through both language and time zone barriers.」（https://www.p-r-i.org/about-us）
@@ -1445,9 +1454,93 @@
 - 「同社の顧客には、Boustead Projects、シンガポールの Defence Science and Technology Agency、East Japan Railway Company Group の JRE Ventures、SBS Transit、SoftBank Robotics Singapore が含まれる」（https://news.lavx.hu/ja/article/dconstruct-ga-1-oku-2500-man-doru-o-chotatsu-shingaporu-no-robotikusu-akuserareta-ga-hatsu-no-seika-o-ageru）
 - 「シンガポールの清掃ロボットメーカーである同社は現在、ダラス、アムステルダム、チェンナイに子会社を持ち、40カ国以上で事業を展開している」（https://news.lavx.hu/ja/article/dconstruct-ga-1-oku-2500-man-doru-o-chotatsu-shingaporu-no-robotikusu-akuserareta-ga-hatsu-no-seika-o-ageru）
 
+## Delvitech（https://delvi.tech/）
+- 「South Korean Koh Young, Taiwanese Test Research Inc. (TRI), German Viscom, and Japanese OMRON are among the players in Delvitech’s competitive space, Gatti said.」（https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/）
+
+## Digifabster（https://digifabster.com）
+- 「Authentise社が3D Spark、Digifabster、Paperless Partsを統合 | CAD Japan.com（大塚商会）」（https://www.cadjapan.com/news/2025/d20251114_02.html）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/digifabster）
+
+## EnginZyme（https://www.enginzyme.com/）
+- 「EnginZymeは、このシュードウリジンを酵素プロセスで工業スケール製造する技術を開発し、日本の 味の素バイオ・ファーマ（Ajinomoto Bio-Pharma Services） をCDMOパートナーとして特許化プロセスを発表しています」（https://note.com/anri_vc/n/n69a397b68338）
+- 「前回の記事では、Cell-freeバイオモノづくりの基礎と、2024年11月にNasdaqにIPOしたeXoZymesの事例を紹介しました」（https://note.com/anri_vc/n/n69a397b68338）
+
+## CeiliX（https://www.handlingreels.com/）
+- 「【本格ピッキング講座】🔐入門コース 総まとめ編 神技を会得せよ🇯🇵日本一の #鍵 開け師が解錠練習方法を伝授いたします💪 U9 picked locksports locksmith 神技」（https://www.youtube.com/watch?v=dRoijFIMQTU）
+- 「. Together with robotics partner Kassow Robots, a subsidiary of Bosch Rexroth, CeiliX aims to bring greater efficiency, safety and flexibility to modern intralogistics processes.」（https://packaging-journal.de/en/ceilix-co-operation-ceiling-and-floor-amr/）
+
+## Dexory（https://www.dexory.com/）
+- 「英国や米国、ドイツに拠点を持ち、この１年間で日本や北米、欧州、中近東など世界各地の製造業や物流業の顧客にパッケージ製品を提供してきた」（https://www.robot-digest.com/contents/?id=1721961703-444075）
+- 「「物流業界の人手不足は、日本だけでなくグローバルで大きな問題となっている」（https://www.robot-digest.com/contents/?id=1721961703-444075）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/dexory）
+
+## Headmade Materials（https://www.headmade-materials.de/）
+- 「Nexa3D社がHeadmade Materials社と提携、ColdMetalFusionで金属積層造形に参入 | CAD Japan.com（大塚商会）」（https://www.cadjapan.com/news/2023/d20230921_03.html）
+- 「The technology is suitable for use in the energy, oil and gas, medical, tooling, armaments and liquid handling industries. Headmade Materials' customers include KOBRA, KSB and Knauf, to name a few. Currently, the company operates through its partner network in the EU, the USA, Japan and China.」（https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials）
+
+## Addverb（https://addverb.com/）
+- 「アッドバーブ・テクノロジーズ | 日本フィジカルAI新聞」（https://physicalainews.jp/companies/addverb）
+- 「世界のフィジカルAIを、日本語で」（https://physicalainews.jp/companies/addverb）
+
+## Aerones（https://aerones.com）
+- 「このnoteは、日本ではあまり情報がない、海外のVCがシード / アーリー投資している企業を調査して、紹介し続けています」（https://note.com/start_upcompany/n/n91c4c8c4145d）
+- 「日本では、大きくなったスタートアップや、うまくいっているサービスの情報しかありませんが、まだシードの情報のほうが価値があり、未来がつまっています」（https://note.com/start_upcompany/n/n91c4c8c4145d）
+
 ## Ati Motors（https://atirobotics.ai）
 - 「Ati Motors | 日本フィジカルAI新聞」（https://physicalainews.jp/companies/ati-motors）
 - 「世界のフィジカルAIを、日本語で」（https://physicalainews.jp/companies/ati-motors）
+
+## Echion Technologies（https://echiontech.com/）
+- 「日本に進出する外資系データセンターまとめ記事202...」（https://cafe-dc.com/energy/echion-partners-with-proper-voltage-to-develop-16mw-ups-for-ai-data-centers/）
+- 「をData Center Cafeが日本向けに抄訳したものです」（https://cafe-dc.com/energy/echion-partners-with-proper-voltage-to-develop-16mw-ups-for-ai-data-centers/）
+- 「SC Zeus、大阪のデータセンター用地を取得し日本進出」（https://cafe-dc.com/energy/echion-partners-with-proper-voltage-to-develop-16mw-ups-for-ai-data-centers/）
+
+## Modvion（https://modvion.com/）
+- 「日本の木材市場は、輸入木材にとってますます大きな課題に直面している」（https://ja.woodandpanel.com/%E3%82%A6%E3%83%83%E3%83%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E8%A8%98%E4%BA%8B/Modvion%E3%81%AF%E6%9C%80%E6%96%B0%E3%81%AE%E6%9C%A8%E8%A3%BD%E9%A2%A8%E5%8A%9B%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E3%82%92IQPC%E9%A2%A8%E5%8A%9B%E9%80%B1%E9%96%93%E3%81%A7%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/）
+- 「Hosted under the theme �Join Sweden to Pioneer the Possible,� the day brought together government leaders, innovators, and business representatives to highlight Sweden�s forward-looking solutions and strengthen ties with international partners � especially Japan.」（https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866）
+- 「Expo 2025 is one of the largest international events of the decade, set in Osaka, Japan, with more than 160 participating countries, 28 million visitors expected, and a strong focus on co-creating future societies.」（https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866）
+- 「- TIC Solutions, Inc. (NYSE: TIC) (the �Company� or �TiC Solutions�), a leading provider of tech-enabled asset integrity, engineering, and geospatial se...」（https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866）
+
+## Openchip（https://openchip.com/）
+- 「, particularly in major powers such as the United States, Taiwan, China, Japan and Korea.」（https://openchip.com/about-us/）
+- 「The creation of links and alliances with partners in countries such as Japan and the United States」（https://openchip.com/about-us/）
+- 「スペインOpenchipが2nm GAAプロセスで作ったRISC-Vプロセッサ「BER10」を発表 | EDA EXPRESS｜日本初！EDAツールのポータルサイト」（https://eda-express.com/risc-v/46913/）
+
+## Tiamat Energy（https://www.tiamat-energy.com/）
+- 「Overview: In Japan, the Feed-in Tariff (FIT) and Feed-in Premium (FIP) schemes are being promoted based on the Act on Special Measures Concerning Renewable Energy.」（https://note.com/tiamat_trauncer/n/n33793f9f7c35?hl=en）
+- 「Overview: Japan is considering the introduction of carbon pricing (carbon tax, emissions trading system) at the GX (Green Transformation) Implementation Council.」（https://note.com/tiamat_trauncer/n/n33793f9f7c35?hl=en）
+- 「International cooperation: Leveraging global frameworks while demonstrating Japan's unique strengths.」（https://note.com/tiamat_trauncer/n/n33793f9f7c35?hl=en）
+
+## Useparagon（https://www.useparagon.com/）
+- 「CData Software Japanリードエンジニアの杉本です」（https://jp.cdata.com/blog/paragonapiserver）
+- 「SaaS MAPでは、単に有名かどうかではなく、AI機能、Agent Ready、料金、日本からの使いやすさ、外部連携の観点から導入判断に必要な情報を整理しています」（https://saasmap.jp/tools/paragon）
+- 「日本語UI、JCB決済、日本円請求書などの国内対応は導入前に公式情報で確認したい項目です」（https://saasmap.jp/tools/paragon）
+- 「Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...」（https://www.firstcvc.jp/global/useparagon.com）
+
+## Yondu（https://www.yondu.ai/）
+- 「'Spider-Man: Homecoming' was released in the U.S. on July 7, 2017, and in Japan on August 11. It was directed by Jon Watts. It is the first solo film born from the 2015 partnership between Sony and Marvel that I mentioned last time.」（https://note.com/new_player0/n/nfb27ca82a75d?hl=en）
+- 「The results are in the numbers. The solo Thor films grossed $450 million for the first, $640 million for the second, and $850 million for the third. It also took first place in the weekend box office rankings in Japan, becoming the first in the series to reach the top spot.」（https://note.com/new_player0/n/nfb27ca82a75d?hl=en）
+- 「The film 'Black Panther' was released in the U.S. on February 16, 2018, and in Japan on March 1. It was directed by Ryan Coogler.」（https://note.com/new_player0/n/nfb27ca82a75d?hl=en）
+
+## ⭐️Canatu（https://canatu.com/）
+- 「Headquartered in Finland, Canatu also operates in the US, Japan and Taiwan. Founded in 2004 as a spin-off from Aalto University’s Nanomaterials Group, Canatu has 185 full-time equivalent employees representing over 35 nationalities, with nearly 20% holding or pursuing doctorates. Discover more at」（https://canatu.com/company/canatu-news/canatu-receives-further-reactor-order-from-fst-validating-its-cnt-technology-for-pellicle-manufacturing/）
+- 「Headquartered in Finland, Canatu also operates in the US, Japan and Taiwan. Founded in 2004 as a spin-off from Aalto University’s Nanomaterials Group, Canatu has 182 full-time equivalent employees representing over 35 nationalities, with nearly 20% holding or pursuing doctorates (as of 30 June 2026)」（https://canatu.com/company/canatu-news/canatu-sharpens-commercial-focus-and-accelerates-long-term-value-creation-with-new-strategy-and-updated-long-term-financial-targets/）
+- 「Canatu Plc (CANATU, Nasdaq First North Growth Market Finland) has received an order for further CNT100 SEMI reactor from Korean semiconductor company FINE SEMITECH CORPORATION (FST).」（https://canatu.com/company/canatu-news/canatu-receives-further-reactor-order-from-fst-validating-its-cnt-technology-for-pellicle-manufacturing/）
+
+## Authentise（https://www.authentise.com）
+- 「Authentise社がChatGPT機能を積層造形に導入 | CAD Japan.com（大塚商会）」（https://www.cadjapan.com/news/2023/d20230614_02.html）
+
+## Boomsupersonic（https://boomsupersonic.com/）
+- 「Twice as fast as today’s airliners, 50% faster when boomless. More comfortable, safer, and dramatically more affordable than Concorde. Pre-ordered by United, American, and Japan Airlines.」（https://boomsupersonic.com/careers）
+- 「Twice as fast as today's airliners, 50% faster when boomless. More comfortable, safer, and dramatically more affordable than Concorde. Pre-ordered by United, American, and Japan Airlines.」（https://boomsupersonic.com/company）
+- 「Overture will fly passengers between global destinations in half the time of today's aircraft, with orders and pre-orders from United, American and Japan Airlines.」（https://boomsupersonic.com/overture）
+
+## Deepnight（https://www.deepnight.ai/）
+- 「They aren't the only ones bringing colour to the club. They're joined by Seiji, Ken, Great, DJ James and sunny waiter Japan.」（https://mydramalist.com/750883-deep-night）
+- 「Tenjutsu is set in a sprawling open Japanese city where you punch and kick your way through gangs in any order. But it wasn’t always like that. It began life as a small, focused brawler. An extended version of my」（https://deepnight.net/blog/tenjutsu-devlog-2-from-beat-em-up-to-roguelite/）
+
+## SweGaN（https://swegan.se/）
+- 「受注総額は日本円で約4.3億円に相当し、データセンター向けパワーデバイス、防衛・航空宇宙・通信分野向けRFデバイスなどに活用される予定です」（https://ceramicforum.co.jp/news/swegan%E3%80%81%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E9%A1%A7%E5%AE%A2%E3%81%8B%E3%82%89%E7%B4%844-3%E5%84%84%E5%86%86%E3%81%AE%E5%95%86%E6%A5%AD%E5%8F%97%E6%B3%A8%E3%82%92%E7%8D%B2%E5%BE%97/）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

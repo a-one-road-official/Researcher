@@ -1,0 +1,884 @@
+{
+ "name": "Digifabster",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory Software / MES / Industrial Data｜AI送信済み",
+ "researched_at": "2026-11-11T02:58:07.981387+00:00",
+ "official_url": "https://digifabster.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$2.3M",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "3D Printing, Laser cutting And CNC Quoting Software for Machine Shop Manufacturers | DigiFabster",
+    "url": "https://digifabster.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supercharge your additive, CNC and sheet metal manufacturing business: Process quotes in minutes, drive sales 24/7 with an eCommerce storefront, and get paid quickly.",
+    "url": "https://digifabster.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to DigiFabster’s Shop Talk! We dive into the CNC machining and additive manufacturing world, sharing insights on quick quoting, 24/7 online orders, and streamlined payments. Join us for real conversations with industry pros, tips, and tools to help your shop run smarter and more profitably.",
+    "url": "https://www.youtube.com/channel/UCnMxsg6G957HZsx_bpvIa7Q",
+    "pass": 3
+   },
+   {
+    "quote": "Boost your shop’s game with DigiFabster! Process CNC, additive, and sheet metal quotes in minutes, run a 24/7 eCommerce storefront, and get paid fast. With DigiFabster’s all-in-one quoting, order management, and payment solution, you’ll handle RFQs quicker, sell more, and keep up with customers’ needs—all without the hassle.",
+    "url": "https://www.youtube.com/channel/UCnMxsg6G957HZsx_bpvIa7Q",
+    "pass": 3
+   },
+   {
+    "quote": "Instant Focus Mode – 40Hz Gamma Brainwave Music for Deep Focus & Productivity",
+    "url": "https://www.youtube.com/watch?v=1jp4FaeG5t0",
+    "pass": 3
+   },
+   {
+    "quote": "Read 25 DigiFabster reviews and testimonials from customers, explore 20 case studies and customer success stories, and watch 6 customer videos to see why companies chose DigiFabster as their Configure Price Quote (CPQ)",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster is a California-based ML-powered sales automation company for custom manufacturing businesses. Their solution provides web-based, secured and ITAR-compliant software empowering job shop manufacturers & large OEM's to streamline quote generation, making the buying process painless and reduce delays in production.",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Configure Price Quote (CPQ)",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "\"We had a fully manual calculation process involving a custom developed quotation sheet in-house. This required us to enter in the 3D model dimensions manually for each customer. We realized …",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "\"We were looking for a way to smooth out our production. Small orders are useful in helping us fill out our build trays, but we couldn’t afford to manage them …",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "\"Some of our biggest challenges are reducing administrative time and communicating with customers. We offer many different 3D printing capabilities and our clients need to understand the pros and cons …",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "5 more videos",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster Customer Videos",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Video",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Introduces CO-AM's Quality System, Partnerships, and Serial Production Cases",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise Introduces Holistic Process Quality System for CO-AM, Partners with Ansys and DigiFabster, and Presents 3D Printing Serial Production Cases",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Leuven (Belgium), November 06, 2023 — Materialise, a global leader in 3D printing software and service solutions, has announced technological advances to drive the adoption of additive manufacturing (AM) for volume production and end-use part manufacturing. The company will present them at Formnext (Frankfurt a. M., Germany), which will take place from Nov. 7 – 10.",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "“It’s time to prioritize customer experience in B2B, especially when enabling AM service bureaus,” shares Pieter Hens, Senior Partner Manager. “Integrating DigiFabster’s solution into CO-AM closes the gap between front-end and back-end.”",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Driving simulation for the AM process",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "“Usability and performance are crucial when it comes to simulation,” explains Chris Robinson, Senior Product Manager, Ansys. “By integrating Ansys technology into Materialise’s comprehensive software solutions, AM users can benefit from a seamless workflow using the gold standard in simulation.”",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": ", Materialise’s leading data and build preparation software. This will create a seamless workflow, offer fast simulation, and lower the complexity of applying simulation results to the build preparation. Ansys and Materialise plan to explore further opportunities for simulation in the AM process.",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "“We look forward to supporting our customers with Ansys technology,” says Karel Brans, Senior Director of Partnerships. “Simulation is a key element for metal 3D printing to improve cost-efficiency. Ansys and Materialise will work together to integrate simulation technology even further into the AM workflow and offer unparalleled connectivity.”",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Making AM a reality for serial production of end-use parts",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "“Everything from machining to the assembly process is much simpler when you can remove the complexity in the build phase by using AM. Materialise takes care of all of it, so we receive a fully finished part,” explains Roy Campe, Chief Technology Officer of CMB.TECH.",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise will present 3D printing software solutions and 3D printing cases at booth C139 in hall 12.1 during Formnext in Frankfurt a. M., Germany, November 7 – 10.",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise press contact",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "press@materialise.com",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "3D Printing, Laser cutting And CNC Quoting Software for Machine Shop Manufacturers | DigiFabster",
+    "url": "https://digifabster.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Shop Software That Helps You Sell More, Instantly",
+    "url": "https://digifabster.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supercharge your additive, CNC and sheet metal manufacturing business: Process quotes in minutes, drive sales 24/7 with an eCommerce storefront, and get paid quickly.",
+    "url": "https://digifabster.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AIを活用したプラットフォームである3D SparkはAuthentiseの積層造形向けコラボレーションツール「Digital Design Warehouse」に、また、即時オンライン見積もりプラットフォームのDigifabsterと積層造形・精密加工メーカー向けの見積もりプラットフォームのPaperless Partsは生産管理システムである「Authentise Flows」に統合される",
+    "url": "https://www.cadjapan.com/news/2025/d20251114_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to DigiFabster’s Shop Talk! We dive into the CNC machining and additive manufacturing world, sharing insights on quick quoting, 24/7 online orders, and streamlined payments. Join us for real conversations with industry pros, tips, and tools to help your shop run smarter and more profitably.",
+    "url": "https://www.youtube.com/channel/UCnMxsg6G957HZsx_bpvIa7Q",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster: Manufacturing Shop Software That Helps You Sell More, Instantly",
+    "url": "https://www.youtube.com/channel/UCnMxsg6G957HZsx_bpvIa7Q",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster is a California-based ML-powered sales automation company for custom manufacturing businesses. Their solution provides web-based, secured and ITAR-compliant software empowering job shop manufacturers & large OEM's to streamline quote generation, making the buying process painless and reduce delays in production.",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Quoting Software",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "3DKfactory saves 1 hour a day and adds $450/month with DigiFabster",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Leuven (Belgium), November 06, 2023 — Materialise, a global leader in 3D printing software and service solutions, has announced technological advances to drive the adoption of additive manufacturing (AM) for volume production and end-use part manufacturing. The company will present them at Formnext (Frankfurt a. M., Germany), which will take place from Nov. 7 – 10.",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Materialise collaborates with DigiFabster, a cloud-based SAAS quoting automation and e-commerce solution for advanced manufacturing companies. DigiFabster’s eCommerce portal, automated quoting, costing, and payment automation will be integrated into the Materialise CO-AM software platform.",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "“Speed and reliability are essential for manufacturing companies,” explains Const Ivanov, CEO of DigiFabster. “Working with Materialise, we will be able to offer a digital manufacturing workflow that offers a modern customer experience and helps get paid on time. This partnership will offer significant value to our customers.”",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Authentise社が3D Spark、Digifabster、Paperless Partsを統合 | CAD Japan.com（大塚商会）",
+    "url": "https://www.cadjapan.com/news/2025/d20251114_02.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Authentise社が3D Spark、 Digifabster 、Paperless Partsを統合 — Authentise社が3D Spark、 Digifabster 、Paperless Partsを統合 CAD Japan.com https://www.cadjapan.com > ニュース > 2025年",
+    "url": "https://www.cadjapan.com/news/2025/d20251114_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster privacy policy — DigiFabster privacy policy DigiFabster https://digifabster.com > privacy",
+    "url": "https://digifabster.com/privacy/",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster : Company Management — DigiFabster : Company Management DigiFabster https://manage.digifabster.com",
+    "url": "https://manage.digifabster.com/",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster : 3D Printing, Laser cutting And CNC Quoting ... — DigiFabster : 3D Printing, Laser cutting And CNC Quoting ... DigiFabster https://digifabster.com",
+    "url": "https://digifabster.com/",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster - LinkedIn — DigiFabster - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/digifabster-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster - YouTube — DigiFabster - YouTube YouTube https://www.youtube.com > channel",
+    "url": "https://www.youtube.com/channel/UCnMxsg6G957HZsx_bpvIa7Q",
+    "pass": 3
+   },
+   {
+    "quote": "Getting started with Digifabster - YouTube — Getting started with Digifabster - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=1jp4FaeG5t0",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster Software Reviews, Demo & Pricing - 2026 — DigiFabster Software Reviews, Demo & Pricing - 2026 Software Advice https://www.softwareadvice.com > di...",
+    "url": "https://www.softwareadvice.com/manufacturing/digifabsterquickquote-profile/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine Shop Software Case Studies And Reviews — Machine Shop Software Case Studies And Reviews DigiFabster https://digifabster.com > customers",
+    "url": "https://digifabster.com/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "51 DigiFabster Customer Reviews & References — 51 DigiFabster Customer Reviews & References Featured Customers https://www.featuredcustomers.com > ...",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "General Pattern's Quick Turnaround Satisfies ... - DigiFabster — General Pattern's Quick Turnaround Satisfies ... - DigiFabster DigiFabster https://digifabster.com > generalpattern",
+    "url": "https://digifabster.com/cases/generalpattern/",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster - X — DigiFabster - X X https://x.com > DigiFabster",
+    "url": "https://x.com/DigiFabster",
+    "pass": 3
+   },
+   {
+    "quote": "Online Storefront for Instant Manufacturing Quotes | DigiFabster — Online Storefront for Instant Manufacturing Quotes | DigiFabster DigiFabster https://digifabster.com > self-checkout",
+    "url": "https://digifabster.com/products/self-checkout/",
+    "pass": 3
+   },
+   {
+    "quote": "Like Shopify for the Manufacturing Industry - DigiFabster — Like Shopify for the Manufacturing Industry - DigiFabster DigiFabster PDF https://digifabster.com > October-2021-press-release-1",
+    "url": "https://digifabster.com/pdfs/October-2021-press-release-1.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid quotations for HLH Rapid with DigiFabster ... - YouTube — Rapid quotations for HLH Rapid with DigiFabster ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ZXbEf0GcFck",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster Revenue 2024: $3M Est., $2.3M Raised - GetLatka — DigiFabster Revenue 2024: $3M Est., $2.3M Raised - GetLatka GetLatka https://getlatka.com > digifabster",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "ZiggZagg Increased Sales by Over $1M USD in First Year — ZiggZagg Increased Sales by Over $1M USD in First Year DigiFabster https://digifabster.com > ziggzagg",
+    "url": "https://digifabster.com/cases/ziggzagg/",
+    "pass": 3
+   },
+   {
+    "quote": "Digifabster - Valuation, Funding & Investors - PitchBook — Digifabster - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/117345-16",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "DigiFabster is a California-based ML-powered sales automation company for custom manufacturing businesses. Their solution provides web-based, secured and ITAR-compliant software empowering job shop manufacturers & large OEM's to streamline quote generation, making the buying process painless and reduce delays in production.",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "ZiggZagg boosts monthly revenue by $100,000 with DigiFabster",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster Revenue 2024: $3M Est., $2.3M Raised",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster has not published its revenue. GetLatka estimates it at about $3M a year (October 2024).",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster CEO, founders & employees",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Constantine Ivanov founded DigiFabster in 2014 and runs it as CEO. DigiFabster had 21 employees (October 2024, LinkedIn), down from 26 a year earlier.",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "What is DigiFabster's revenue?",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates DigiFabster's revenue at about",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does DigiFabster have?",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/digifabster",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "pass": 3
+   },
+   {
+    "quote": "Email: nils.torke@materialise.de",
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "last year or so I started hearing the same thing: \"we really ... c0nst (Const 🇺🇸🏭). 10 likes 0 replies. last year or so I started hearing the same thing: \"we really like DigiFabster, but we built our own tool using AI. had to tailor it to our workflow\" mostly from tech-savvy owners: prototyping shops, online-first manufacturers, mixed mfg operations doesn't scare me. makes",
+    "url": "https://x.com/c0nst/status/2054354806136099295",
+    "pass": 3
+   },
+   {
+    "quote": "What Survives To 2036 | Const (@c0nst) on X Ran a machine shop, built DigiFabster (quick quoting for job shops), worked with hundreds of manufacturers across 40+ countries. This newsletter chases one thing: the gap between the headline and the data.",
+    "url": "https://x.com/c0nst/article/2077092078237135330",
+    "pass": 3
+   },
+   {
+    "quote": "Const (@c0nst) / X ⚙️ making job shop manufacturing profitable @ digifabster 🧠 sharing thoughts constiv.substack.com Quoting as Infrastructure.",
+    "url": "https://x.com/c0nst",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "DigiFabster - LinkedIn DigiFabster - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/digifabster-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster Fuels Online Quoting For Techniplas Prime DigiFabster Fuels Online Quoting For Techniplas Prime LinkedIn https://www.linkedin.com > pulse > di...",
+    "url": "https://www.linkedin.com/pulse/digifabster-fuels-online-quoting-techniplas-prime-constantine-ivanov-1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "DigiFabster | Pasadena CA - Facebook DigiFabster | Pasadena CA - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/digifabster/",
+    "pass": 3
+   },
+   {
+    "quote": "DigiFabster - Facebook DigiFabster - Facebook Facebook https://www.facebook.com > digifabster > posts > one-of-...",
+    "url": "https://www.facebook.com/digifabster/posts/one-of-our-biggest-features-is-of-course-one-we-get-lots-of-questions-about-so-w/550903433701557/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://digifabster.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://digifabster.com/nextImageExportOptimizer/hero-mobile.d4d1cacf-opt-384.WEBP",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://blog.evsmart.net/t/cybertruck-delivery-event-hope-for-japan-introduction/1462",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gqjapan.jp/article/20261107-cybertruck-dead-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/evsmart.net/videos/%E3%83%86%E3%82%B9%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E7%A4%BE%E9%95%B7%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E7%A7%81%E3%81%8C%E4%B9%97%E3%82%8A%E3%81%9F%E3%81%84%E6%97%A5%E6%9C%AC%E7%99%BA%E5%A3%B2%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3ev%E3%82%AA%E3%83%96%E3%82%B6%E3%82%A4%E3%83%A4%E3%83%BC-%E3%83%86%E3%82%B9%E3%83%A9-%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-cybertruck/1366595618726204/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2025/d20251114_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manage.digifabster.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/digifabster-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/channel/UCnMxsg6G957HZsx_bpvIa7Q",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=1jp4FaeG5t0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/digifabster",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/digifabster",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/117345-16",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/c0nst",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/c0nst/status/2054354806136099295",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/c0nst/article/2077092078237135330",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/c0nst",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/digifabster-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/digifabster-fuels-online-quoting-techniplas-prime-constantine-ivanov-1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/digifabster/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/digifabster/posts/one-of-our-biggest-features-is-of-course-one-we-get-lots-of-questions-about-so-w/550903433701557/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/digifabster-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Digifabster 日本 導入",
+   "results": [
+    "https://blog.evsmart.net/t/cybertruck-delivery-event-hope-for-japan-introduction/1462",
+    "https://www.gqjapan.jp/article/20261107-cybertruck-dead-news",
+    "https://www.facebook.com/evsmart.net/videos/%E3%83%86%E3%82%B9%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E7%A4%BE%E9%95%B7%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E7%A7%81%E3%81%8C%E4%B9%97%E3%82%8A%E3%81%9F%E3%81%84%E6%97%A5%E6%9C%AC%E7%99%BA%E5%A3%B2%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3ev%E3%82%AA%E3%83%96%E3%82%B6%E3%82%A4%E3%83%A4%E3%83%BC-%E3%83%86%E3%82%B9%E3%83%A9-%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-cybertruck/1366595618726204/",
+    "https://www.cadjapan.com/news/2025/d20251114_02.html",
+    "https://jidounten-lab.com/u_61062",
+    "https://www.facebook.com/GQJAPAN/posts/%E3%83%86%E3%82%B9%E3%83%A9%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%82%8F%E3%81%9A%E3%81%8B3%E5%B9%B4%E5%8D%8A%E3%81%A7%E7%94%9F%E7%94%A3%E7%B5%82%E4%BA%86%E3%81%B8-%E6%97%A5%E6%9C%AC%E3%81%B8%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%AF%E5%B9%BB%E3%81%ABgq%E6%96%B0%E7%9D%80%E3%82%AB%E3%83%BC/1608844747949328/",
+    "https://www.youtube.com/watch?v=4OrmAIhnbOE",
+    "https://automotive-quantum.jp/2347",
+    "https://digifabster.com/",
+    "https://3druck.com/ja/プログラム/digifabster-アディティブ・マニュファクチャリングのた/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Digifabster 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://digifabster.com/privacy/",
+    "https://manage.digifabster.com/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "https://findex.co.jp/agency/",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://partner.infinicloud.com/agencypartner.html",
+    "https://enterprisemarketingportal.google/find-a-partner/cyberagent%252Cinc.-jp?countriesFilter=JP&a=74214147",
+    "https://products.sint.co.jp/siob/price/distributor",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Digifabster Japan",
+   "results": [
+    "https://digifabster.com/",
+    "https://www.linkedin.com/company/digifabster-inc-",
+    "https://www.youtube.com/channel/UCnMxsg6G957HZsx_bpvIa7Q",
+    "https://www.youtube.com/watch?v=1jp4FaeG5t0",
+    "https://www.softwareadvice.com/manufacturing/digifabsterquickquote-profile/",
+    "https://headwayapp.co/digifabster-changelog",
+    "https://www.g2.com/products/digifabster/reviews",
+    "https://digifabster.com/customers/",
+    "https://www.facebook.com/digifabster/",
+    "https://app.digifabster.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Digifabster manufacturing customer case study",
+   "results": [
+    "https://digifabster.com/customers/",
+    "https://www.featuredcustomers.com/vendor/digifabster",
+    "https://www.materialise.com/en/news/press-releases/holistic-process-quality-system-co-am-partners-ansys-digifabster",
+    "https://digifabster.com/cases/generalpattern/",
+    "https://x.com/DigiFabster",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vIGIz5KvBn_NBoSvS_zBKQQNgyIwEVLm1x8lCiX70oJ9cPE2kz8",
+    "https://www.youtube.com/channel/UCnMxsg6G957HZsx_bpvIa7Q",
+    "https://www.intechopen.com/chapters/87328",
+    "https://www.casestudies.com/company/digifabster",
+    "https://www.cuspera.com/products/digifabster-x-5599/customer-story"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Digifabster white label OR reseller OR partner program",
+   "results": [
+    "https://digifabster.com/products/self-checkout/",
+    "https://digifabster.com/pdfs/October-2021-press-release-1.pdf",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://www.youtube.com/watch?v=ZXbEf0GcFck",
+    "https://www.vendasta.com/blog/white-label-software-partner-program/",
+    "https://www.3ds.com/make/solutions/blog/digifabster-3dexperience-make-announce-their-new-partnership",
+    "https://www.softwareadvice.com/manufacturing/digifabsterquickquote-profile/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Digifabster founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/digifabster",
+    "https://digifabster.com/cases/ziggzagg/",
+    "https://pitchbook.com/profiles/company/117345-16",
+    "https://www.linkedin.com/in/c0nst",
+    "https://www.youtube.com/watch?v=1jp4FaeG5t0",
+    "https://www.softwareadvice.com/manufacturing/digifabsterquickquote-profile/",
+    "https://digifabster.com/",
+    "https://www.g2.com/products/digifabster/reviews",
+    "https://gaps.com/finance/",
+    "https://tracxn.com/d/companies/digifabster/__I5zS4vPgdeN8nAyBncEl4h6vDv8o-Pznpmu_0m2ajRM"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Digifabster",
+   "results": [
+    "https://note.com/dayo__/n/n6d0488134cc1",
+    "https://note.com/dayo__/n/n1f22ba99eaf6",
+    "https://note.com/dayo__/n/n0bc80b9cfacd",
+    "https://note.com/kohe_umapro",
+    "https://tales.note.com/menmennovel2/works",
+    "https://note.com/aki_aoba/n/n9479f4d663fb",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/watarutida/n/n75017e960add",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Digifabster",
+   "results": [
+    "https://x.com/c0nst/status/2119600063706247637",
+    "https://x.com/c0nst/status/2054354806136099295",
+    "https://x.com/c0nst/article/2077092078237135330",
+    "https://x.com/c0nst",
+    "https://x.com/thereforgepod",
+    "https://x.com/c0nst/status/2092617414974615928",
+    "https://x.com/AndreJanonesMG/status/2115462221673218058",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Digifabster",
+   "results": [
+    "https://www.linkedin.com/company/digifabster-inc-",
+    "https://www.linkedin.com/in/c0nst",
+    "https://www.linkedin.com/pulse/digifabster-fuels-online-quoting-techniplas-prime-constantine-ivanov-1",
+    "https://cy.linkedin.com/in/victormalevankin",
+    "https://www.linkedin.com/posts/andrepwegner_cloudnc-says-its-own-shop-misquoted-a-two-year-activity-7520468667214663680-JGFx",
+    "https://ke.linkedin.com/in/john-mark-580980ab",
+    "https://www.linkedin.com/company/paperlessparts/jobs",
+    "https://www.linkedin.com/in/courtneylcapone",
+    "https://www.linkedin.com/in/chrisahepburn",
+    "https://www.linkedin.com/products/digifabster-inc--digifabster"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Digifabster",
+   "results": [
+    "https://www.facebook.com/digifabster/",
+    "https://www.facebook.com/digifabster/posts/one-of-our-biggest-features-is-of-course-one-we-get-lots-of-questions-about-so-w/550903433701557/",
+    "https://www.facebook.com/StartProto/posts/one-of-the-best-parts-of-imts2026-getting-to-see-the-customers-who-are-putting-s/1090246110275753/",
+    "https://www.facebook.com/cnbc/posts/suresh-krishna-president-and-ceo-of-proto-labs-discusses-how-software-has-transf/1500259485308773/",
+    "https://www.facebook.com/61565185629789/posts/mjfprototype-3dprinting-mjfprinting/122205852230506187/",
+    "https://www.facebook.com/groups/482533505156388/posts/28076638555319178/",
+    "https://www.facebook.com/groups/proyectosfreelance/posts/2840100286382773/",
+    "https://www.facebook.com/djgraffiti/posts/the-1800-audience-at-the-rapid-tct-told-me-they-wanted-detroit-vibes-who-am-i-no/1501311277556881/",
+    "https://www.facebook.com/61586906137639/posts/having-great-manufacturing-capabilities-isnt-enough-%EF%B8%8Fif-clients-cant-see-your-wo/122137372845230204/",
+    "https://www.facebook.com/digifabster/posts/4536360719789198/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Digifabster note 社長",
+   "results": [
+    "https://manage.digifabster.com/",
+    "https://note.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.ga-tech.co.jp/news/t5sp95e9nmw0wj9/",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.jp/n/n51b6ea4b0bd6"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Digifabster X 投稿",
+   "results": [
+    "https://digifabster.com/pricing/",
+    "https://www.youtube.com/channel/UCnMxsg6G957HZsx_bpvIa7Q",
+    "https://www.youtube.com/watch?v=1jp4FaeG5t0",
+    "https://www.linkedin.com/company/digifabster-inc-",
+    "https://headwayapp.co/digifabster-changelog",
+    "https://manage.digifabster.com/",
+    "https://www.facebook.com/digifabster/",
+    "https://www.softwareadvice.com/manufacturing/digifabsterquickquote-profile/",
+    "https://x.com/digifabster",
+    "https://digifabster.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部25頁・検索12回）"
+ }
+}

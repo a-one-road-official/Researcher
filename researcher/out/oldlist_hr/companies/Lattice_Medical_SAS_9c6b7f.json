@@ -1,0 +1,417 @@
+{
+ "name": "Lattice Medical SAS",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AI送信済み",
+ "researched_at": "2026-11-11T03:03:17.913753+00:00",
+ "official_url": "https://www.lattice-medical.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "alliant biomatériaux, ingénierie tissulaire et impression 3D.",
+    "url": "https://www.lattice-medical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Spécialisée en ingénierie tissulaire et en impression 3D, nous développons des implants innovants permettant la régénération des tissus mous grâce à l’utilisation de biomatériaux.",
+    "url": "https://www.lattice-medical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dans la volonté de fournir une meilleure qualité de soins aux patients, Lattice Medical a développé deux dispositifs: MATTISSE, une prothèse mammaire résorbable imprimée en 3D, et RODIN, une matrice permettant la régénération de l’hypoderme.",
+    "url": "https://www.lattice-medical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pour le développement de nos projets, nous recherchons des profils, entrepreneurs dans l’âme, qui veulent s’investir dans un projet humain d’envergure internationale avec une équipe multidisciplinaire.",
+    "url": "https://www.lattice-medical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Afin de vous offrir une expérience adaptée, merci de nous indiquer si vous êtes un professionnel de santé.",
+    "url": "https://www.lattice-medical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Votre réponse nous permettra de vous proposer des contenus pertinents et adaptés à vos besoins.",
+    "url": "https://www.lattice-medical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Êtes-vous un professionnel de santé ?",
+    "url": "https://www.lattice-medical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Oui, je suis professionnel de santé",
+    "url": "https://www.lattice-medical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Non, je ne suis pas professionnel de santé",
+    "url": "https://www.lattice-medical.com/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Spécialisée en ingénierie tissulaire et en impression 3D, nous développons des implants innovants permettant la régénération des tissus mous grâce à l’utilisation de biomatériaux.",
+    "url": "https://www.lattice-medical.com/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lattice-medical.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.sprim.com/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/3dexperiencelab/portfolio/lattice-medical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lattice-services.com/en/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latticesemi.com/ja-JP/About",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teldevice.co.jp/news_release/2015/press_150728.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/zh-hans/3dexperiencelab/portfolio/lattice-medical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sprim.com/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/3dexperiencelab/portfolio/lattice-medical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3devo.com/case-studies/lattice-medical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3devo.com/case-studies/lattice-medical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sprim.net/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lattice.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latticesemi.com/en/Support/Partner-Network",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3devo.com/case-studies/lattice-medical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lattice-services.com/en/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sprim.net/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/264433-96",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://avolta.io/transaction/lattice-medical/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lattice Medical SAS 日本 導入",
+   "results": [
+    "https://www.lattice-medical.com/en/",
+    "https://www.sprim.com/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/",
+    "https://www.3ds.com/3dexperiencelab/portfolio/lattice-medical",
+    "https://lattice-services.com/en/about-us/",
+    "https://www.3devo.com/case-studies/lattice-medical",
+    "https://businessofbiofabrication.com/2025/11/11/lattice-medical-raises-e43m-to-transform-post-cancer-reconstruction-and-scale-3d-bioprinting-in-france/",
+    "https://www.lattice-medical.com/en/collaboration-between-cousin-biotech-et-lattice-medical/",
+    "https://fr.linkedin.com/showcase/latticeservices/",
+    "https://www.theengineer.co.uk/content/in-depth/3d-printing-a-breast-reconstruction-revolution",
+    "https://www.lattice-medical.com/en/investors/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Lattice Medical SAS 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.lattice-medical.com/en/",
+    "https://www.latticesemi.com/ja-JP/About",
+    "https://www.teldevice.co.jp/news_release/2015/press_150728.html",
+    "https://www.3ds.com/zh-hans/3dexperiencelab/portfolio/lattice-medical",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1119",
+    "https://osstell.com/ja/find-distributors/",
+    "https://metoree.com/companies/684/distributors/",
+    "https://www.jnj.co.jp/jjmkk/scm",
+    "https://www.med-device.jp/pdf/state/summary/AMED2015_marketing_1a_dealer_app1-5_dealerlists.pdf",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Lattice Medical SAS Japan",
+   "results": [
+    "https://www.lattice-medical.com/en/",
+    "https://www.sprim.com/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/",
+    "https://www.3ds.com/3dexperiencelab/portfolio/lattice-medical",
+    "https://www.3devo.com/case-studies/lattice-medical",
+    "https://avolta.io/transaction/lattice-medical/",
+    "https://www.mobihealthnews.com/news/emerging-technologies-healthcare-part-7-lattice-medical",
+    "https://lattice-services.com/en/about-us/",
+    "https://www.lattice-medical.com/en/mentions-legales/",
+    "https://www.youtube.com/watch?v=w76zZ9627qQ",
+    "https://www.lattice-medical.com/en/tissue-engineering-and-biomaterials-about-us/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Lattice Medical SAS manufacturing customer case study",
+   "results": [
+    "https://www.lattice-medical.com/en/",
+    "https://www.3devo.com/case-studies/lattice-medical",
+    "https://sprim.net/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/",
+    "https://lattice.com/customers",
+    "https://www.3ds.com/3dexperiencelab/portfolio/lattice-medical",
+    "https://himsstv.brightcovegallery.com/detail/videos/emerging-technologies/video/6374750542112/emerging-technologies-part-7:-lattice-medical-s-3d-printed-breast-implants?autoStart=true",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://lattice-services.com/en/about-us/",
+    "https://www.facebook.com/LatticeServices/",
+    "https://www.thermofisher.com/br/en/home/industrial/manufacturing-processing/extrusion-compounding-equipment/resources/twin-screw-extrusion-advanced-materials-case-study.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Lattice Medical SAS white label OR reseller OR partner program",
+   "results": [
+    "https://www.lattice-medical.com/en/",
+    "https://www.latticesemi.com/en/Support/Partner-Network",
+    "https://www.3devo.com/case-studies/lattice-medical",
+    "https://lattice-services.com/en/about-us/",
+    "https://www.sprim.com/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/",
+    "https://www.3ds.com/3dexperiencelab/portfolio/lattice-medical",
+    "https://lattice.com/solutions/life-sciences",
+    "https://avolta.io/transaction/lattice-medical/",
+    "https://medtechinnovator.org/cohortnews/emerging-technologies-in-healthcare-part-7-lattice-medical",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Lattice Medical SAS founded funding employees revenue",
+   "results": [
+    "https://sprim.net/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/",
+    "https://www.lattice-medical.com/en/investors/",
+    "https://pitchbook.com/profiles/company/264433-96",
+    "https://avolta.io/transaction/lattice-medical/",
+    "https://businessofbiofabrication.com/2025/11/11/lattice-medical-raises-e43m-to-transform-post-cancer-reconstruction-and-scale-3d-bioprinting-in-france/",
+    "https://research.contrary.com/company/lattice",
+    "https://medtechinnovator.org/cohortnews/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction",
+    "https://www.trysignalbase.com/news/funding/lattice-medical-raises-43m-series-b-funding",
+    "https://multiples.vc/private-comps/lattice",
+    "https://tracxn.com/d/companies/lattice-medical/__A8AGc207CvCjayM-0YScfB7lBbAE8s6kVDMfwspAXF8"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Lattice Medical SAS",
+   "results": [
+    "https://note.com/maasaam276/n/nf1cf534291c4?hl=en",
+    "https://note.com/serene_rhino3962/n/n816811651538?hl=en",
+    "https://note.com/clipcorporation/n/n2cbddc784d34",
+    "https://note.com/clipcorporation/n/n80cf524f6213",
+    "https://note.com/contest/創作大賞2026",
+    "https://note.com/kentabright",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/tag/積読美術館",
+    "https://note.com/naru797574"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com Lattice Medical SAS",
+   "results": [
+    "https://x.com/LatticeMedical/status/1213018408960311297",
+    "https://x.com/payen_julien",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://x.com/bentleyforus/status/2118551830636736906",
+    "https://x.com/xoeeie/status/2118049984436445429",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/colormejassy/status/2118498768739790880"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Lattice Medical SAS",
+   "results": [
+    "https://fr.linkedin.com/showcase/latticeservices/",
+    "https://fr.linkedin.com/company/latticemedical",
+    "https://www.linkedin.com/company/mdoloris-medical-systems/",
+    "https://fr.linkedin.com/in/julien-payen-09b481b",
+    "https://www.linkedin.com/company/braindex-sas/",
+    "https://fr.linkedin.com/in/martinf58/fr",
+    "https://www.linkedin.com/pub/dir/K%C3%A9vin/Roux",
+    "https://fr.linkedin.com/in/charlotte-cav%C3%A9-4045947",
+    "https://www.linkedin.com/in/jeff-solimine",
+    "https://www.linkedin.com/company/latticemedical"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Lattice Medical SAS",
+   "results": [
+    "https://www.facebook.com/livermore.lab/posts/researchers-debuted-a-new-class-of-3d-printed-lattice-structures-that-are-ultra-/2667320879967111/",
+    "https://www.facebook.com/WHWcommunity/posts/-save-this-list-30-y-combinator-startups-worth-following-in-healthcare-biotech-a/1138452372163985/",
+    "https://www.facebook.com/BFBSRadio/videos/the-future-of-warfare-is-changing-/1731902754791137/",
+    "https://www.facebook.com/RothmanOrtho/posts/spinal-fusion-is-changing-fastwith-robotics-3d-printed-implants-and-biologics-ca/1521340212896235/",
+    "https://www.facebook.com/opticaworldwide/posts/this-raman-microscope-collects-information-hundreds-of-times-faster-than-standar/690650166441001/",
+    "https://www.facebook.com/ClarksonUniversity/posts/-rising-star-in-regenerative-engineeringcongratulations-to-dr-bethany-almeida-as/1557381909761699/",
+    "https://www.facebook.com/bloemnuus/posts/a-new-3d-printer-is-set-to-improve-the-production-of-spinal-braces-offering-grea/1726054089530436/",
+    "https://www.facebook.com/lotsafreshair/videos/dr-paul-luckin-is-an-expert-in-human-survivability/2008673246689142/",
+    "https://www.facebook.com/washuengineering/posts/lori-setton-chair-of-washu-biomedical-engineering-has-received-the-2026-lifetime/1786947293441203/",
+    "https://www.facebook.com/ScienceSprings/posts/from-upenns-school-of-arts-sciences-five-things-to-know-about-guiding-sound-for-/1746801760171374/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Lattice Medical SAS note 社長",
+   "results": [
+    "https://www.lattice-medical.com/en/",
+    "https://www.3ds.com/3dexperiencelab/portfolio/lattice-medical",
+    "https://www.sprim.com/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/",
+    "https://lattice-services.com/en/about-us/",
+    "https://www.mobihealthnews.com/news/emerging-technologies-healthcare-part-7-lattice-medical",
+    "https://medtechinnovator.org/cohortnews/emerging-technologies-in-healthcare-part-7-lattice-medical",
+    "https://www.3devo.com/case-studies/lattice-medical",
+    "https://avolta.io/transaction/lattice-medical/",
+    "https://www.lattice-medical.com/en/investors/",
+    "https://fundediq.co/lattice-medical-lattice-medical-com-funding/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Lattice Medical SAS X 投稿",
+   "results": [
+    "https://www.lattice-medical.com/en/",
+    "https://himsstv.brightcovegallery.com/detail/videos/emerging-technologies/video/6374750542112/emerging-technologies-part-7:-lattice-medical-s-3d-printed-breast-implants?autoStart=true&page=0",
+    "https://www.youtube.com/watch?v=BgSTtfaiDCM",
+    "https://www.sprim.com/lattice-medical-raises-e43-million-to-transform-post-cancer-reconstruction/",
+    "https://www.3ds.com/3dexperiencelab/portfolio/lattice-medical",
+    "https://www.mobihealthnews.com/news/emerging-technologies-healthcare-part-7-lattice-medical",
+    "https://www.3devo.com/case-studies/lattice-medical",
+    "https://www.youtube.com/watch?v=w76zZ9627qQ",
+    "https://www.lattice-medical.com/",
+    "https://www.instagram.com/latticemedical/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索12回）"
+ }
+}

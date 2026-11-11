@@ -8,7 +8,7 @@
  ],
  "context": "会社・一次",
  "kind": "market",
- "researched_at": "2026-11-09T10:25:49.093894+00:00",
+ "researched_at": "2026-11-11T03:06:53.567714+00:00",
  "evidence": {
   "検索結果の抜粋": [
    {
@@ -23,12 +23,12 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/iksus25/n/ndc20e9ffb76d",
+    "url": "https://note.com/nk_advisory/n/n4af854770603",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/nk_advisory/n/n4af854770603",
+    "url": "https://note.com/tradetax/n/n49c60d78c8a6",
     "status": "ok",
     "method": "http"
    },
@@ -38,17 +38,17 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tender_dunlin641/n/n58307d1e6a12",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/8click/n/n2830b16a8056",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tradetax/n/n49c60d78c8a6",
+    "url": "https://note.com/tender_dunlin641/n/n58307d1e6a12",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pure_accountant/n/ncde3291b9610",
     "status": "ok",
     "method": "http"
    }
@@ -58,12 +58,12 @@
   {
    "query": "海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務 site:note.com",
    "results": [
-    "https://note.com/iksus25/n/ndc20e9ffb76d",
     "https://note.com/nk_advisory/n/n4af854770603",
-    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
-    "https://note.com/tender_dunlin641/n/n58307d1e6a12",
-    "https://note.com/8click/n/n2830b16a8056",
     "https://note.com/tradetax/n/n49c60d78c8a6",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://note.com/8click/n/n2830b16a8056",
+    "https://note.com/tender_dunlin641/n/n58307d1e6a12",
+    "https://note.com/pure_accountant/n/ncde3291b9610",
     "https://note.com/inhouse_tax7777/n/n05e0654ab4bb"
    ],
    "engines": [
@@ -97,30 +97,20 @@
   },
   {
    "query": "site:note.com 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務",
-   "results": [
-    "https://note.com/iksus25/n/ndc20e9ffb76d",
-    "https://note.com/diriten/n/n1b67fea48b89",
-    "https://note.com/nk_advisory/n/n4af854770603",
-    "https://note.com/tender_dunlin641/n/n58307d1e6a12",
-    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
-    "https://note.com/tradetax/n/n49c60d78c8a6",
-    "https://note.com/yamamoto_ec/n/n441239606332"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "site:x.com 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務",
    "results": [
     "https://x.com/Y1K6",
+    "https://x.com/ec_challenge/status/2091132274519519613",
     "https://x.com/trokuma/status/1242328988619395072",
+    "https://x.com/i/trending/2107488134535503994",
     "https://x.com/narita_ko_/status/2093112070199812144",
     "https://x.com/i/status/1892848876299964644",
-    "https://x.com/PRTIMES_BIZ/status/2084491790040928431",
-    "https://x.com/columbus_ceo/status/2019678626908938502",
-    "https://x.com/IGoldeneggs/status/2050117184358322455"
+    "https://x.com/columbus_ceo/status/2019678626908938502"
    ],
    "engines": [
     "ddgs:google"
@@ -133,8 +123,8 @@
     "https://jp.linkedin.com/in/aya-mihara-a02ab6267",
     "https://jp.linkedin.com/company/waygate-technologies",
     "https://jp.linkedin.com/posts/taku-matsumoto-6ab69abb_本邦上場会社の外為法における対内直接投資等事前届出該当性リストの改訂について-activity-7241067329227268096--0zv",
-    "https://jp.linkedin.com/pulse/日本の自動販売機市場シェア主要企業の分析と予測2024-2032-chetan-kumar-xypkc",
     "https://www.linkedin.com/pulse/maximizing-roi-ai-era-mainframe-value-tco-explained-tom-mcpherson-bkq2e",
+    "https://jp.linkedin.com/pulse/日本の自動販売機市場シェア主要企業の分析と予測2024-2032-chetan-kumar-xypkc",
     "https://jp.linkedin.com/posts/takamasa-adachi-a7415297_中国自動車メーカーの海外動向bydgeely-自動車産業ポータル-マークラインズ-activity-7240160004819816449-m4C8",
     "https://jp.linkedin.com/posts/tomoko-sasaki-1236654b_欧州連合2023年の企業結合簡素化パッケージ-企業結合規制の近代化-activity-7113527760534294529-0r9U"
    ],
@@ -178,12 +168,12 @@
     "https://www.linkedin.com/posts/sychia_verifyvasp-incorporates-subsidiary-in-japan-activity-7090266547994165248-27S_",
     "https://www.linkedin.com/pulse/5-ways-verify-whether-your-supplier-factory-trading-company-song",
     "https://www.linkedin.com/posts/farman-ali-shaikh-b1239b22a_how-to-identify-whether-a-supplier-is-an-activity-7336914216659947520-f0bb",
-    "https://www.linkedin.com/pulse/companies-house-identity-verification-deadlines-2026-when-elybf",
     "https://www.linkedin.com/posts/b2b-supplierhub_want-to-know-if-an-electronics-distributor-activity-7508150645032423424-aydd",
+    "https://www.linkedin.com/pulse/companies-house-identity-verification-deadlines-2026-when-elybf",
     "https://www.linkedin.com/posts/tokyo-startup-law-firm_japanmarketentry-foreigninvestment-japanbusiness-activity-7425070503419338752-zokS"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   }
@@ -196,6 +186,6 @@
   "実例": "記載なし（読んだ6頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 6,
+ "runs": 7,
  "first_researched_at": "2026-11-07T19:49:24.493545+00:00"
 }

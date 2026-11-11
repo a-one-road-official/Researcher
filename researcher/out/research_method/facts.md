@@ -2853,8 +2853,8 @@
 - 一次情報の探し方：
   - 「follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
   - 「1. **Trace to the birth certificate:** follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and *with what incentive* (vendor research isn't wrong by default, but its selection pressure is part of the record).」（https://skillmd.com/skills/mohitagw15856/source-triangulation）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## コンサルの調べ方（目的・予想の仮説・公益社団法人の調査報告）（consulting desk research hypothesis expected answer association reports）
 - 文脈：分析の型
@@ -6732,6 +6732,8 @@
 ## アンカリング（最初に見つけた数字に引っ張られる）を調査の手順で防ぐ方法（アナリスト・情報分析）（anchoring bias analyst research first number prevention）
 - 文脈：失敗
 - 手順・やり方：
+  - 「評価シートの配布・回収・集計の負担を減らす方法を解説資料で確認できます」（https://hrmos.co/trend/talent-management/10187/）
+  - 「社員情報や評価、スキルを一元管理し、戦略人事に活かす方法がわかります」（https://hrmos.co/trend/talent-management/10187/）
   - 「Once you've identified your patterns, here's how to build anchoring out of your process:」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
   - 「アンカリング効果を実践するための5ステップ」（https://hrmos.co/trend/talent-management/10187/）
   - 「本記事では、アンカリング効果の定義や仕組み、具体例やビジネスでの活用方法について詳しく解説します」（https://hrmos.co/trend/talent-management/10187/）
@@ -6745,8 +6747,6 @@
   - 「アンカリング効果が最初に提示された情報に影響されるのに対し、フレーミング効果は情報の「枠組み」（フレーム）によって受け取り方が変わることを指します」（https://hrmos.co/trend/talent-management/10187/）
   - 「アンカリング効果を効果的に活用するためには、適切なステップで実施することが重要です」（https://hrmos.co/trend/talent-management/10187/）
   - 「ステップ通りに進めることで、アンカリング効果を最大限に引き出せます」（https://hrmos.co/trend/talent-management/10187/）
-  - 「ステップは以下の5つです」（https://hrmos.co/trend/talent-management/10187/）
-  - 「ステップ1: 目的と対象の明確化」（https://hrmos.co/trend/talent-management/10187/）
 - 突き合わせ・推定：
   - 「アンカリング効果は、直前に与えられた数値情報が後続の数量推定に影響を与える認知バイアスです」（https://hrmos.co/trend/talent-management/10187/）
   - 「研究では、その説を検証するため、以下の2つの条件でアンカリング効果の強さを比較しました」（https://hrmos.co/trend/talent-management/10187/）
@@ -6764,10 +6764,12 @@
   - 「Drop "more or less than X" framings; ask for the estimate cold.」（https://www.koji.so/docs/anchoring-bias-research）
   - 「reference point that pulls quantitative estimates toward it.」（https://www.koji.so/docs/anchoring-bias-research）
 - 一次情報の探し方：
+  - 「人材データ、採用・評価・育成でバラバラになっていませんか？」（https://hrmos.co/trend/talent-management/10187/）
   - 「アンカリング効果は、採用においても大きな影響を与えます」（https://hrmos.co/trend/talent-management/10187/）
   - 「ブラインド選考を実施することで、公平な採用はもちろん、潜在能力の高い人材や異なる背景を持つ人材の採用ができ、新しいアイデアの創造にもつながります」（https://hrmos.co/trend/talent-management/10187/）
   - 「ブラインド採用とは？メリットとデメリット、実行の際のポイントを徹底解説！」（https://hrmos.co/trend/talent-management/10187/）
 - 失敗・落とし穴：
+  - 「自己評価の書き方とは？職種・業種別の例文や注意点、活用方法を解説」（https://hrmos.co/trend/talent-management/10187/）
   - 「Stop Anchoring Bias Using Automated Trading Decisions Prevention」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
   - 「Stop letting past prices dictate your future profits. Automation neutralizes anchoring bias by using objective data to ensure rational exits and better timing.」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
   - 「Anchoring bias makes traders fixate on arbitrary price points like their entry price, recent highs, or round numbers, distorting rational decision-making」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
@@ -6782,8 +6784,9 @@
   - 「recency bias and automation article」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
   - 「Stress management also plays a role here. Fatigued traders are more susceptible to cognitive biases including anchoring. If you've been staring at screens for 8 hours, your mental defenses against anchoring are weaker. Automation handles execution when you're tired, distracted, or emotionally compromised, which is when anchoring does its worst damage.」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
   - 「1. What is anchoring bias in futures trading?」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
-  - 「Anchoring bias in futures trading is the tendency to fixate on a specific price or number when making trading decisions, such as your entry price, a round number, or a previous high/low. This fixation distorts rational analysis because the anchored reference point often has no predictive value for future price movement.」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
 - 実例：
+  - 「導入企業の事例もまとめた資料はこちらからご覧ください」（https://hrmos.co/trend/talent-management/10187/）
+  - 「独自の分析を行うことでアンカリング効果を防ぎ、より客観的で信頼性の高い判断につながり、よりよい結果を得られるでしょう」（https://hrmos.co/trend/talent-management/10187/）
   - 「Consider this practical example with ES futures:」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
   - 「All trade examples presented for compensation purposes are hypothetical and should not be expected to reflect live trading results. It is important to note that hypothetical and simulated trades do not fully represent the financial risks associated with actual trading. FjordPath, Inc makes no representation that any account will achieve profits or losses similar to those shown.」（https://www.clearedge.trading/post/stop-anchoring-bias-automated-trading-prevention）
   - 「実験の結果「10」と記録したグループは、国連加盟国のうちアフリカ諸国が占める割合は、平均で25%と回答しました」（https://hrmos.co/trend/talent-management/10187/）
@@ -6797,8 +6800,6 @@
   - 「三菱重工業株式会社、川崎重工業株式会社、キリンホールディングス株式会社など、どのような効果が得られたのか分かる事例をご紹介中」（https://hrmos.co/trend/talent-management/10187/）
   - 「【事例付き】タレントマネジメントとは？目的、システム導入や比較・活用方法」（https://hrmos.co/trend/talent-management/10187/）
   - 「キリンホールディングス株式会社、三菱重工業株式会社、川崎重工業株式会社など、どのような効果が得られたのか分かる事例をご紹介中」（https://hrmos.co/trend/talent-management/10187/）
-  - 「この結果、AグループのほうがBグループよりも手術を選択する医師が多いという結果が出ました」（https://hrmos.co/trend/talent-management/10187/）
-  - 「例えば「朝起きる」という行動を見た後に、その後の行動である「歯磨き」を無意識に認識するなどがあります」（https://hrmos.co/trend/talent-management/10187/）
 
 ## 市場の定義・範囲がずれた数字の照合（合算・含む・除く・狭義と広義）の実務（market definition scope mismatch reconcile figures）
 - 文脈：突き合わせ
@@ -7470,11 +7471,11 @@
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ23頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ23頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ23頁・検索12回）
+- 実例：記載なし（読んだ23頁・検索12回）
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
@@ -10263,6 +10264,7 @@
 ## データ報道の数字の点検表（悪いデータの見分け方・行数と範囲の確かめ・割合とポイントの取り違え・物価の調整・丸め）（data journalism bad data guide checklist percent change percentage points inflation adjustment）
 - 文脈：検証
 - 手順・やり方：
+  - 「WEBINAR: How to Edit Data Stories in the Age of AI?」（https://gijn.org/stories/the-quartz-guide-to-bad-data/）
   - 「GitHub - Quartz/bad-data-guide: An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. · GitHub」（https://github.com/Quartz/bad-data-guide）
   - 「An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.」（https://github.com/Quartz/bad-data-guide）
   - 「Worse than a missing value is when an arbitrary value is used instead. This can be the result of a human not thinking through the implications or it can happen as the result of automated processes that simply don't know how to handle null values. In any case, if you see zeros in a series of numbers you should ask yourself if those values are really the number」（https://github.com/Quartz/bad-data-guide）
@@ -10277,7 +10279,6 @@
   - 「Check with experts from different sides of the issue about your methods and your findings.」（https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors）
   - 「, but if you need to do a more complex analysis, here are some suggestions to help you figure out the best methodology:」（https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors）
   - 「Find an expert to vet your methodology. Many are happy to help, especially once they realise you’re interested in doing a serious analysis. When the Dallas Morning News」（https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors）
-  - 「Show findings to the targets of the story. We’re not suggesting sharing your story, but you should put together a findings document or presentation that you can share with the targets of the story. This helps bulletproof your methodology by surfacing any problems that may exist (or variables you didn’t consider) before publication.」（https://datajournalism.com/read/longreads/data-journalism-a-guide-for-editors）
 - 突き合わせ・推定：
   - 「). The smaller the relevant population, the larger the MOE will be. For example, according to the 2014 5-year ACS estimates, the number of Asians living in New York is」（https://github.com/Quartz/bad-data-guide）
   - 「Outside of hard science, few things are routinely measured with more than two decimal places of accuracy. If a dataset lands on your desk that purports to show a factory's emissions to the 7th decimal place that is a dead giveaway that it was estimated from other values. That in and of itself may not be a problem, but it's important to be transparent about estimates. They are often wrong.」（https://github.com/Quartz/bad-data-guide）
@@ -12559,7 +12560,7 @@
   - 「Commercial PEP databases remain more comprehensive than open alternatives but cost $20K–$100K+ annually. OpenSanctions provides a viable open-source alternative for most use cases and has rapidly closed the coverage gap since 2022.」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
   - 「7.2 Case: Uyghur Forced Labor Prevention Act (UFLPA, US 2022)」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
   - 「7.3 Case: Russia Sanctions and Component Diversion」（https://intelligencenotes.com/09-Repository/Thematic-Studies/Corporate-OSINT-and-Due-Diligence）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
 
 ## 海外メーカーの日本の子会社・販売代理店を本国の届出（米国の年次報告の子会社一覧 Exhibit 21・英国 Companies House・独 Handelsregister）で確かめる実務（verify foreign manufacturer Japan subsidiary distributor exhibit 21 companies house）
 - 文脈：会社・一次
@@ -14186,7 +14187,7 @@
   - 「、実際の成功事例は」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
   - 「他社の成功事例を学び、自社の」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
   - 「選択結果を選ぶと、ページが全面的に更新されます」（https://smart-factory.funaisoken.co.jp/blogs/column/factorydx20260804_1）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ26頁・検索12回）
 
 ## 非上場会社の与信・デューデリジェンスで、提出の遅れ・役員交代・担保設定などの信号を組み合わせて判定する実務（単独の赤信号で決めない・日本の登記と官報で代える）（private company due diligence red flags combination late filing director turnover charges）
 - 文脈：裏取り
@@ -14232,7 +14233,7 @@
   - 「信用調査の結果を踏まえ、取引先を5〜7段階で格付けします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「地方消費税も連動して減るため、例えば税込1,100万円の売掛金が全額貸倒れになると、国税・地方消費税を合わせて約100万円の納税負担が減る計算です」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「法人税の貸倒損失だけ計上して消費税側の調整を失念するケースが少なくありません」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
-- 突き合わせ・推定：記載なし（読んだ26頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
 
 ## 景気指標の先行・一致・遅行の読み方と転換点の判定（内閣府 景気動向指数の利用の手引き・複数の分野で同じ向きの重なり・単月で断定しない）（leading coincident lagging indicators turning point diffusion index how to read）
 - 文脈：手法・統計

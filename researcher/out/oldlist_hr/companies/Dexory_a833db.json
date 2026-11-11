@@ -1,0 +1,1395 @@
+{
+ "name": "Dexory",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T03:00:25.455717+00:00",
+ "official_url": "https://www.dexory.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Blind spots and lagging data leave you reacting to problems that have already cost you, with yesterday's information - and layering AI on the same shaky picture just scales the guesswork faster.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every shift starts with stitching together WMS screens, Power BI and spreadsheets just to see what might be broken.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dexory’s AI-powered platform transforms physical scan data into high-impact, explainable suggestions. In our Integrity module, our ML models flag inventory discrepancies, hygiene or damage risks, and rack compliance issues, helping improve safety, accuracy, and site standards.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In our Integrity module, our ML models flag inventory discrepancies, hygiene or damage risks, and rack compliance issues, helping improve safety, accuracy, and site standards.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our full-stack solution provides real-time inventory tracking, automated daily scans, intuitive dashboards, and continuous maintenance and support to keep your operations running smoothly. By combining AI-powered analytics with automation, DexoryView ensures accurate data, improved workflows, and the foundation for future optimisation.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With fast installations across multiple warehouses, DexoryView enables you to scale without infrastructure changes or workflow disruptions. Our subscription-based model requires no upfront capital investment (CapEx), offering a cost-effective way to expand while prioritising stock integrity and maximising warehouse optimisation.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We can complete cycle counts more efficiently within our existing shift structure, allowing our team to focus on resolving discrepancies and improving overall accuracy.\"",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Dexory enables us to improve inventory accuracy and traceability while reducing manual effort. It also gives us up-to-date data that supports consistent decision-making and stronger operational control across our sites.”",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Dexory, we developed a solution that could navigate the physical complexities of a warehouse to deliver more accurate inventory control and better customer service. This approach eliminated manual stock checks and cycle counts while enhancing safety for our team members.”",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "”DexoryView's real-time visibility and digital twin capabilities enable a step-change in warehouse intelligence, helping organizations move way beyond manual processes toward intelligent automation and predictive analytics.”",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Dexory has provided us with transformative technology that ensures we have real-time data at our fingertips. This enables us to optimise our space utilisation to be even more efficient in fulfilling customer orders. In turn this enhances Unipart’s reputation for excellence in supply chain management.”",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"While we initially considered drone technology we realised we needed a solution that would allow us to capture and analyse data in real time to ensure that we had concrete visibility to our operations and that we could take action upon the data. DexoryView offered the ideal combination of precision, adaptability, and ease of integration.”",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“DexoryView has 10×-sped up our counts and freed 16 staff-hours every day. That lets our team focus on high-value projects for our brands.”",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain a 100% fulfilment promise under constant volume shifts.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Remove downtime with real-time part location and zero-surprises.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cut waste and protect freshness, from goods-in to despatch.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Clear answers to common questions about our process, approach, and what to expect.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your subscription covers 24/7 remote monitoring, software updates, hardware replacement, and routine on-site visits, all rolled into a single package. You're also assigned a dedicated Customer Success contact, so it's one relationship for onboarding, troubleshooting, and getting the most out of the platform.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time visibility and autonomous scanning enable faster audits, improved accuracy, and more efficient warehouse operations",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "From pen and paper: How EMG Maersk transformed their stock integrity process",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How DexoryView is transforming inventory integrity and site operations for a leading beverage logistics provider, Linfox (BevChain)",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "With a strong continuous improvement culture, Linfox sought innovative solutions to work smarter, enhance safety, and eliminate repetitive manual tasks. They became the first in Australia to deploy Dexory's autonomous robotics solution, transforming their approach to inventory management and warehouse operations.",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How Pick count helped Maersk and iB Cargo improve pick accuracy and dramatically reduce manual counting effort",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The hidden costs of warehouse errors and how Nippon Express eliminated them",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "As a global leader in logistics and supply chain services, Nippon Express operates complex warehouse environments where speed, accuracy, and consistency are essential. With large volumes of pallet movements every day, the company continuously looks for ways to enhance visibility, streamline processes, and unlock greater value from its operations.",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Yusen Logistics is a global supply chain solutions provider, delivering excellence across contract logistics, freight forwarding, and supply chain management. Their UK operations include high-density storage and complex inventory environments for leading consumer electronics brands.",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "But they are not solving the same problem. The data collection methods each technology uses determine what questions it can actually answer.",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "\"Dexory’s technology represents a significant leap forward in warehouse automation. By combining their real-time data intelligence with our deployment expertise and global customer support capabilities, we can offer businesses more confidence, more clarity and more control over their operations.\"",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "”DexoryView's real-time visibility and digital twin capabilities enable a step-change in warehouse intelligence, helping organizations move way beyond manual processes toward intelligent automation and predictive analytics.”",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "John Santagate, Senior Vice President of Robotics",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We believe collaboration powers innovation. That’s why we’re building a global partner ecosystem to help revolutionise warehouse operations and unlock the full potential of real-time data. Whether you're a technology provider or logistics consultant, there’s a place for you in the DexoryView ecosystem.",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "DexoryView can be deployed in approximately a week, with minimal disruption of customer operations and minimal IT involvement, which creates a streamlined path to revenue.",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "DexoryView connects seamlessly with WMS, ERP, and enterprise systems, creating a unified, data-driven ecosystem.",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "From co-marketing to technical training, we provide everything you need to succeed and grow with us.",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": ": no upfront investment, predictable costs",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": ": includes hardware, support, updates, and maintenance for one set price",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "tools, training and support",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing resources -",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Achieving 100% stock integrity is essential for maintaining optimal inventory health and ensuring your warehouse operates efficiently. DexoryView’s real-time capabilities provide the continuous intelligence needed to achieve this.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "This ensures inventory is always in the right place, in the right quantities, and under the right conditions. DexoryView detects misplacements, validates counts, and evaluates storage conditions, enabling proactive issue resolution and ensuring warehouse accuracy. By addressing discrepancies and streamlining processes, your team can minimise operational disruptions and focus on value-added tasks.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "DexoryView's fully autonomous robots operate around the clock, capturing high-definition scans of over 10,000 locations per hour. As they safely navigate your warehouse, they capture ground truth data across your inventory, assets, and environment data with precision and consistency.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The data collected is instantly processed and compared with existing systems, feeding directly into DexoryView’s intuitive digital twin platform. This ensures real-time ground truth and allows you to identify and address discrepancies the moment they arise, maintaining optimal inventory health.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by AI and advanced analytics, DexoryView provides the insights needed to pinpoint bottlenecks, enhance productivity, and accurately forecast demand, stock levels, and capacity.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Streamlined buying process",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": ": minimal starting price friction ensures accessibility for all.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "When operational intelligence is prioritised, your warehouse gains the clarity and control needed to prevent costly errors, reduce waste, and improve workflow efficiency. With DexoryView, you can:",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "DexoryView automates manual cycle counts and stock checks, saving over 70% of labour time. Continuous intelligence and proactive issue resolution eliminate inefficiencies, freeing your team to focus on higher-value tasks.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve 99.9% accuracy through automated data capture and real-time analysis. Accurate inventory provides the stability needed to support faster order processing, reduce delays, and optimise stock placement for maximum operational efficiency.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain peak operational health with continuous intelligence and instant detection of discrepancies. DexoryView empowers you to address issues before they disrupt operations, improving workflow efficiency and profitability.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Maintaining inventory health and stock integrity is key to an efficient, scalable warehouse. DexoryView provides real-time data and WMS insights, offering actionable intelligence across operations. Unlike outdated systems, it highlights where stock integrity may be compromised, uncovers inefficiencies, and pinpoints opportunities for improvement.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Once stock accuracy is achieved, DexoryView helps maximise space utilisation with features like space reports, empty location assessments, and consolidation opportunities. These tools eliminate wasted space, improve organisation, and reduce unnecessary movement, leading to smoother workflows, better throughput, and faster handling.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Proven results. Personalised impact. Backed by Forrester.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Proven results: How DexoryView transforms warehouse operations",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "DexoryView is already making an impact worldwide, with numerous customers using its physical AI to build real-time ground truth across their operations and locate goods with precision.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The results speak volumes. Forrester found that a composite organisation representative of interviewed customer with experience using DexoryView could achieve a 219% return on investment (ROI) over three years, with payback in under six months.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Our delivery programme",
+    "url": "https://www.dexory.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Faster inventory processing",
+    "url": "https://www.dexory.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Streamlining workflows and optimising space usage significantly improves overall efficiency.",
+    "url": "https://www.dexory.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging real-time data analytics allows businesses to improve stock accuracy and reduce shortages, leading to more informed and efficient decisions.",
+    "url": "https://www.dexory.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Improve efficiency and drive commercial success",
+    "url": "https://www.dexory.com/industries",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Warehouse Intelligence & Real-time Ground Truth",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dexory connects every warehouse shift and site in your supply chain to a continuous view of physical reality and the intelligent support to make the right moves, at the right time.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Complete knowledge of your warehouse, every day. And the intelligence to act on it.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It’s all about warehouse optimisation at every level.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock the power of DexoryView’s warehouse intelligence platform through our monthly subscription, delivering everything you need for seamless deployment and ongoing success.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DexoryView’s subscription-based warehouse solution enables effortless scalability across multiple sites without disrupting existing workflows, so you can grow your operations while maintaining inventory accuracy and operational efficiency.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With fast installations across multiple warehouses, DexoryView enables you to scale without infrastructure changes or workflow disruptions. Our subscription-based model requires no upfront capital investment (CapEx), offering a cost-effective way to expand while prioritising stock integrity and maximising warehouse optimisation.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Dexory, we developed a solution that could navigate the physical complexities of a warehouse to deliver more accurate inventory control and better customer service. This approach eliminated manual stock checks and cycle counts while enhancing safety for our team members.”",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "”DexoryView's real-time visibility and digital twin capabilities enable a step-change in warehouse intelligence, helping organizations move way beyond manual processes toward intelligent automation and predictive analytics.”",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing and auto",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our autonomous tower robot captures up to 15,000 pallets per hour, more than 150 000 in a 24-hour day, while covering full-height racking in a single pass. A million-square-foot warehouse is typically finished in under one shift.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. DexoryView’s cloud console lets you oversee 1,000-plus robots or warehouse sites from a single login, so you can add new units or locations whenever you’re ready.",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to take full control of your warehouse operations?",
+    "url": "https://www.dexory.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When a new warehouse opens its doors, there's usually a settling-in period; weeks, sometimes months, where the team is still learning the building as much as it's operating in it. Stock locations get bedded in gradually. Discrepancies surface and get chased down one at a time. Trust in the data builds slowly, through trial, error, and repetition.",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Driving operational excellence for Stellantis, a global automotive leader",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "At its Sterling Heights Assembly Plant, Stellantis partnered with Dexory to deploy DexoryView, bringing continuous, real-time warehouse intelligence into daily operations.",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time visibility and autonomous scanning enable faster audits, improved accuracy, and more efficient warehouse operations",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "With a strong continuous improvement culture, Linfox sought innovative solutions to work smarter, enhance safety, and eliminate repetitive manual tasks. They became the first in Australia to deploy Dexory's autonomous robotics solution, transforming their approach to inventory management and warehouse operations.",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The hidden costs of warehouse errors and how Nippon Express eliminated them",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "As a global leader in logistics and supply chain services, Nippon Express operates complex warehouse environments where speed, accuracy, and consistency are essential. With large volumes of pallet movements every day, the company continuously looks for ways to enhance visibility, streamline processes, and unlock greater value from its operations.",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to evolve your warehouse into a",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse scanning technology: why data collection differs",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse scanning has evolved quickly. Across distribution centers, handheld scanners, forklift-mounted cameras, drones and autonomous robots can all make inventory capture faster.",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“How quickly can I scan my warehouse?”",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The financial benefits of full warehouse visibility",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver smarter, faster, more efficient operations through cutting-edge warehouse visibility and insight.",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "\"Dexory’s technology represents a significant leap forward in warehouse automation. By combining their real-time data intelligence with our deployment expertise and global customer support capabilities, we can offer businesses more confidence, more clarity and more control over their operations.\"",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "”DexoryView's real-time visibility and digital twin capabilities enable a step-change in warehouse intelligence, helping organizations move way beyond manual processes toward intelligent automation and predictive analytics.”",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "”We are combining Dexory’s data visibility and automation platform to enhance our industry-leading supply chain execution solutions to bring real-time insights to the warehouse and enable our customers to create value out of data visibility.”",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We believe collaboration powers innovation. That’s why we’re building a global partner ecosystem to help revolutionise warehouse operations and unlock the full potential of real-time data. Whether you're a technology provider or logistics consultant, there’s a place for you in the DexoryView ecosystem.",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "DexoryView is a real-time digital twin platform powered by autonomous robots and advanced analytics, giving clients unmatched visibility into warehouse operations.",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": ": trusted by leaders like Maersk, GXO, Vente-Unique, ID Logistics, DENSO, Menzies Aviation",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": ": our robot scans entire warehouses without needing human supervision",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dexory | Warehouse Intelligence Platform | DexoryView",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "DexoryView: The leading warehouse intelligence platform",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The only solution to combine autonomous robots with physical AI to deliver unmatched real-time ground truth accuracy and operational intelligence across your warehouse.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Gain complete ground truth with real-time warehouse intelligence",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Achieving 100% stock integrity is essential for maintaining optimal inventory health and ensuring your warehouse operates efficiently. DexoryView’s real-time capabilities provide the continuous intelligence needed to achieve this.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Our autonomous robots equipped with advanced sensors scan over 10,000 locations per hour, capturing full-height racking data up to 18m and creating a live digital twin of your warehouse.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "This ensures inventory is always in the right place, in the right quantities, and under the right conditions. DexoryView detects misplacements, validates counts, and evaluates storage conditions, enabling proactive issue resolution and ensuring warehouse accuracy. By addressing discrepancies and streamlining processes, your team can minimise operational disruptions and focus on value-added tasks.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "DexoryView's fully autonomous robots operate around the clock, capturing high-definition scans of over 10,000 locations per hour. As they safely navigate your warehouse, they capture ground truth data across your inventory, assets, and environment data with precision and consistency.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Optimise with warehouse intelligence",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for seamless implementation, this warehouse intelligence platform operates on a subscription-based model meaning you can be up and running in just two weeks.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "When operational intelligence is prioritised, your warehouse gains the clarity and control needed to prevent costly errors, reduce waste, and improve workflow efficiency. With DexoryView, you can:",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse stock accuracy",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse optimisation: Building on inventory health",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Maintaining inventory health and stock integrity is key to an efficient, scalable warehouse. DexoryView provides real-time data and WMS insights, offering actionable intelligence across operations. Unlike outdated systems, it highlights where stock integrity may be compromised, uncovers inefficiencies, and pinpoints opportunities for improvement.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Want to understand how DexoryView can impact your warehouse operations financially? Our",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Proven results: How DexoryView transforms warehouse operations",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "These success stories highlight how DexoryView helps businesses achieve operational excellence through its warehouse intelligence platform.",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Driving operational excellence for Stellantis, a global automotive leader",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to evolve your warehouse into a",
+    "url": "https://www.dexory.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Dexory | Warehouse Automation Solution Across Industries",
+    "url": "https://www.dexory.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Establish real-time visibility of inventory and increase warehouse operational efficiencies.",
+    "url": "https://www.dexory.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.dexory.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "We help businesses establish real-time inventory visibility and boost warehouse efficiency across various sectors.",
+    "url": "https://www.dexory.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "As warehouses evolve, automation and digitisation are essential, no matter the industry. Smart organisations understand that logistics is central to their operations and when it runs efficiently, the benefits impact the entire business.",
+    "url": "https://www.dexory.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in warehouse efficiency",
+    "url": "https://www.dexory.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing and automotive",
+    "url": "https://www.dexory.com/industries",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "New revenue opportunities",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "DexoryView can be deployed in approximately a week, with minimal disruption of customer operations and minimal IT involvement, which creates a streamlined path to revenue.",
+    "url": "https://www.dexory.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dexory and Multipowr Advance Next-Generation Warehouse Robotics With Integrated Wireless Charging",
+    "url": "https://www.dexory.com/categories/press-release",
+    "pass": 1
+   },
+   {
+    "quote": "Dexory, the leading provider of real-time warehouse data intelligence and autonomous solutions, has partnered with Multipowr to integrate high power wireless charging and battery support into its",
+    "url": "https://www.dexory.com/categories/press-release",
+    "pass": 1
+   },
+   {
+    "quote": "In our latest white paper, we break down the real costs of operational blind spots at every stage of warehouse operations - from goods arrival and putaway to picking and outbound shipment.",
+    "url": "https://www.dexory.com/categories/thought-leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Learn from real-world results achieved by LinkLine, including improved warehouse tidiness, stock accuracy, and successful business acquisition in a challenging financial year.",
+    "url": "https://www.dexory.com/categories/webinar",
+    "pass": 1
+   },
+   {
+    "quote": "We’re here to make a meaningful difference with each action we take. Our culture demands high performance, but equally we cut through unnecessary barriers to sustain innovation and boost team morale.",
+    "url": "https://www.dexory.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "With over a decade of experience across investment banking and high-growth tech, Bas brings deep financial expertise and hands-on scaling experience to Dexory. He began his career with seven years in investment banking, working on more than 20 M&A and IPO transactions and building a strong foundation in capital markets and corporate finance.",
+    "url": "https://www.dexory.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Reacting to these issues can involve extreme measures. Chartering a private jet to transport a missing component from across the country, for example. The operations team often find the missing part buried in their own facility - just as the chartered delivery arrives.",
+    "url": "https://www.dexory.com/insights/real-time-visibility-in-manufacturing-warehouses",
+    "pass": 1
+   },
+   {
+    "quote": "Just-in-time production depends on parts arriving at exactly the right moment. A stock error doesn't just cost money. It costs time no one can recover.",
+    "url": "https://www.dexory.com/insights/real-time-visibility-in-manufacturing-warehouses",
+    "pass": 1
+   },
+   {
+    "quote": "As part of Peak’s continued commitment to expanding its partner ecosystem and delivering cutting-edge solutions to customers, this collaboration brings together Peak’s deep industry expertise with Dexory’s autonomous data-capture robots and AI-powered platform,",
+    "url": "https://www.peaktech.com/press-releases/peak-technologies-announces-strategic-partnership-with-dexory-to-enhance-ai-driven-warehouse-automation/",
+    "pass": 3
+   },
+   {
+    "quote": "arrow-icon-size3",
+    "url": "https://www.peaktech.com/press-releases/peak-technologies-announces-strategic-partnership-with-dexory-to-enhance-ai-driven-warehouse-automation/",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory competitors include listed companies like ABB and Snowflake, and private ones like LexxPluss, Skild AI, Apptronik and Ricursive Intelligence.",
+    "url": "https://multiples.vc/private-comps/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Is Dexory publicly listed?",
+    "url": "https://multiples.vc/private-comps/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory: Employees, Headcount Growth, Org Chart, Layoffs & H1B (2026) | 6figr",
+    "url": "https://6figr.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue ~$3M",
+    "url": "https://6figr.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory went from 1 employees in Jul 2023 to 9 in Jun 2025. Jan to Jun 2025: 3 people joined, 1 left.",
+    "url": "https://6figr.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "190 employees",
+    "url": "https://6figr.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "180 employees",
+    "url": "https://6figr.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Dexory have?",
+    "url": "https://6figr.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory has about 9 employees, up 28.6% over the 3 months to Jun 2025.",
+    "url": "https://6figr.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "What is Dexory's revenue per employee?",
+    "url": "https://6figr.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory makes about $333K in revenue per employee, based on $3M annual revenue and 9 employees.",
+    "url": "https://6figr.com/company/dexory",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "英国や米国、ドイツに拠点を持ち、この１年間で日本や北米、欧州、中近東など世界各地の製造業や物流業の顧客にパッケージ製品を提供してきた",
+    "url": "https://www.robot-digest.com/contents/?id=1721961703-444075",
+    "pass": 3
+   },
+   {
+    "quote": "「物流業界の人手不足は、日本だけでなくグローバルで大きな問題となっている",
+    "url": "https://www.robot-digest.com/contents/?id=1721961703-444075",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI×ロボットで在庫管理を効率化／ Dexory - robot digest — AI×ロボットで在庫管理を効率化／ Dexory - robot digest robot digest https://www.robot-digest.com > contents",
+    "url": "https://www.robot-digest.com/contents/?id=1721961703-444075",
+    "pass": 3
+   },
+   {
+    "quote": "倉庫のデジタルツインで在庫管理を自動化する Dexory — 倉庫のデジタルツインで在庫管理を自動化する Dexory contech.jp https://contech.jp > 海外事例",
+    "url": "https://contech.jp/dexory/",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory （DexoryView） - R100 — Dexory （DexoryView） - R100 r100.dev https://r100.dev > Projects > Oivnt > 代替品",
+    "url": "https://r100.dev/project/oivnt/alternative/dexory/",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory — Dexory Dexory https://www.dexory.com",
+    "url": "https://www.dexory.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory - LinkedIn — Dexory - LinkedIn LinkedIn https://www.linkedin.com > dexory",
+    "url": "https://www.linkedin.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse Intelligence Revolution at Dexory - YouTube — Warehouse Intelligence Revolution at Dexory - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=Q_OtGDL03VI",
+    "pass": 3
+   },
+   {
+    "quote": "About Us: Innovating Warehousing with AI & Robotics - Dexory — About Us: Innovating Warehousing with AI & Robotics - Dexory Dexory https://www.dexory.com > about-us",
+    "url": "https://www.dexory.com/en-us/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory - Products, Competitors, Financials, Employees ... — Dexory - Products, Competitors, Financials, Employees ... CB Insights https://www.cbinsights.com > botsandus",
+    "url": "https://www.cbinsights.com/company/botsandus",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory | MHI Member Company — Dexory | MHI Member Company MHI.org https://www.mhi.org > members",
+    "url": "https://www.mhi.org/members/116096",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory - Material Handling 24/7 — Dexory - Material Handling 24/7 Material Handling 24/7 https://www.materialhandling247.com > ...",
+    "url": "https://www.materialhandling247.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies - Dexory — Case studies - Dexory Dexory https://www.dexory.com > case-study",
+    "url": "https://www.dexory.com/categories/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory Case Studies | Warehouse Automation Success Stories — Dexory Case Studies | Warehouse Automation Success Stories Dexory https://www.dexory.com > en-us > su...",
+    "url": "https://www.dexory.com/en-us/success-stories",
+    "pass": 3
+   },
+   {
+    "quote": "ODW Logistics Enhances Warehouse Automation with Dexory ... — ODW Logistics Enhances Warehouse Automation with Dexory ... ODW Logistics https://www.odwlogistics.com > odw-...",
+    "url": "https://www.odwlogistics.com/resources/odw-logistics-enhances-warehouse-automation-with-dexory-robotics-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "56 Dexory Customer Reviews & References — 56 Dexory Customer Reviews & References Featured Customers https://www.featuredcustomers.com > ...",
+    "url": "https://www.featuredcustomers.com/vendor/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory's Andrei Danescu Discusses Warehouse Data — Dexory's Andrei Danescu Discusses Warehouse Data A3 Association for Advancing Automation https://www.automate.org > vision",
+    "url": "https://www.automate.org/vision/industry-insights/dexory-is-building-big-robots-for-the-worlds-warehouses",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse Intelligence & Real-time Ground Truth - Dexory — Warehouse Intelligence & Real-time Ground Truth - Dexory Dexory https://www.dexory.com > en-us",
+    "url": "https://www.dexory.com/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory Raises $165M Series C for Global Expansion — Dexory Raises $165M Series C for Global Expansion Dexory https://www.dexory.com > Insights",
+    "url": "https://www.dexory.com/en-us/insights/strong-customer-demand-enables-dexory-to-secure-165m-in-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory Funding , Investors & Competitors - Multiples.vc — Dexory Funding , Investors & Competitors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory's Competitors, Revenue , Number of Employees ... — Dexory's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > dexory",
+    "url": "https://www.owler.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory : Employees , Headcount Growth, Org Chart ... - 6figr.com — Dexory : Employees , Headcount Growth, Org Chart ... - 6figr.com 6figr.com https://6figr.com > company > dexory",
+    "url": "https://6figr.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Invest In Dexory Stock | Buy Pre-IPO Shares - EquityZen — Invest In Dexory Stock | Buy Pre-IPO Shares - EquityZen EquityZen https://equityzen.com > botsandusltd",
+    "url": "https://equityzen.com/company/botsandusltd/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@odwlogistics.com",
+    "url": "https://www.odwlogistics.com/resources/odw-logistics-enhances-warehouse-automation-with-dexory-robotics-deployment",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/dexory",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Dexory (@dexoryHQ) / X Dexory (@dexoryHQ) / X X https://x.com > dexoryHQ",
+    "url": "https://x.com/dexoryHQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Dexory - LinkedIn Dexory - LinkedIn LinkedIn https://www.linkedin.com > dexory",
+    "url": "https://www.linkedin.com/company/dexory",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory | LinkedIn Dexory | LinkedIn LinkedIn https://fr.linkedin.com > dexory",
+    "url": "https://fr.linkedin.com/company/dexory?trk=ppro_cprof",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory is Building Big Robots for the World's Warehouses Dexory is Building Big Robots for the World's Warehouses LinkedIn https://www.linkedin.com > pulse > d...",
+    "url": "https://www.linkedin.com/pulse/dexory-building-big-robots-worlds-warehouses-brian-heater-x3bue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Dexory | London - Facebook Dexory | London - Facebook Facebook https://www.facebook.com > ... > Robotics Company",
+    "url": "https://www.facebook.com/dexoryHQ/",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory expands warehouse intelligence and robotics safety ... Dexory expands warehouse intelligence and robotics safety ... Facebook https://www.facebook.com > tandlnews > posts > dexory-i...",
+    "url": "https://www.facebook.com/tandlnews/posts/dexory-is-expanding-its-warehouse-intelligence-and-robotics-safety-capabilities-/1747753087353570/",
+    "pass": 3
+   },
+   {
+    "quote": "Dexory Technology on the Shop Floor at Factory Booster Day Dexory Technology on the Shop Floor at Factory Booster Day Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/StellantisNA/videos/purposeful-innovation-starts-with-a-real-challenge-factory-booster-day-brings-so/29302987346003382/",
+    "pass": 3
+   },
+   {
+    "quote": "Romark Logistics is excited to introduce the Dexory Robot as ... Romark Logistics is excited to introduce the Dexory Robot as ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/romarklogistics/videos/romark-logistics-is-excited-to-introduce-the-dexory-robot-as-we-continue-investi/1305510144800497/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.dexory.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexory.com/categories/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexory.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexory.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexory.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexory.com/manufacturing-automotive-inventory-accuracy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexory.com/success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexory.com/categories/press-release",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexory.com/categories/thought-leadership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexory.com/categories/webinar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexory.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexory.com/insights/real-time-visibility-in-manufacturing-warehouses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dexory.com/insights/5-common-questions-about-physical-ai",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/672df24a07935ada864724fb/68876b22ba2663d2461f84ab_Partners-01.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/672df24a07935ada864724fb/68876b40e6061a029749c8ab_Partners-03.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/672df24a07935ada864724fb/68876b49260e3038985d84e6_Partners-04.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/672df24a07935ada864724fb/68876b52e97afe6525276857_Partners-05.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.robot-digest.com/contents/?id=1721961703-444075",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contech.jp/dexory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://r100.dev/project/oivnt/alternative/dexory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://butsuryu-media.com/entry/2026/02/12/123501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/dexory",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Q_OtGDL03VI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/dexory",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mhi.org/members/116096",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.peaktech.com/press-releases/peak-technologies-announces-strategic-partnership-with-dexory-to-enhance-ai-driven-warehouse-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.odwlogistics.com/resources/odw-logistics-enhances-warehouse-automation-with-dexory-robotics-deployment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/dexory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.peaktech.com/press-releases/peak-technologies-announces-strategic-partnership-with-dexory-to-enhance-ai-driven-warehouse-automation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/blog/white-label-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wotnot.io/blog/white-label-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/dexory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/dexory",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://6figr.com/company/dexory",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/dexoryHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/dexory",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/company/dexory?trk=ppro_cprof",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/dexory-building-big-robots-worlds-warehouses-brian-heater-x3bue",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/dexoryHQ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tandlnews/posts/dexory-is-expanding-its-warehouse-intelligence-and-robotics-safety-capabilities-/1747753087353570/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/StellantisNA/videos/purposeful-innovation-starts-with-a-real-challenge-factory-booster-day-brings-so/29302987346003382/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/romarklogistics/videos/romark-logistics-is-excited-to-introduce-the-dexory-robot-as-we-continue-investi/1305510144800497/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dexoryHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Dexory 日本 導入",
+   "results": [
+    "https://www.robot-digest.com/contents/?id=1721961703-444075",
+    "https://contech.jp/dexory/",
+    "https://r100.dev/project/oivnt/alternative/dexory/",
+    "https://butsuryu-media.com/entry/2026/02/12/123501",
+    "https://www.dexterity-sc.ai/",
+    "https://www.logi-today.com/781740",
+    "https://www.daily-cargo.com/news/logistics/2024/07/163036/",
+    "https://www.sumitomocorp.com/ja/jp/enrich/contents/0062",
+    "https://prtimes.jp/main/html/rd/p/000000002.000145276.html",
+    "https://www.dexory.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Dexory 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.dexory.com/",
+    "https://www.linkedin.com/company/dexory",
+    "https://www.youtube.com/watch?v=Q_OtGDL03VI",
+    "https://www.dexory.com/en-us/about-us",
+    "https://www.cbinsights.com/company/botsandus",
+    "https://www.youtube.com/watch?v=iwor8tk4fgk",
+    "https://contech.jp/dexory/",
+    "https://www.robot-digest.com/contents/?id=1721961703-444075",
+    "https://r100.dev/project/oivnt/alternative/dexory/",
+    "https://www.fastretailing.com/jp/group/theory/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Dexory Japan",
+   "results": [
+    "https://www.dexory.com/",
+    "https://www.linkedin.com/company/dexory",
+    "https://www.mhi.org/members/116096",
+    "https://www.peaktech.com/press-releases/peak-technologies-announces-strategic-partnership-with-dexory-to-enhance-ai-driven-warehouse-automation/",
+    "https://www.materialhandling247.com/company/dexory",
+    "https://www.dexory.com/en-us/about-us",
+    "https://jp.linkedin.com/company/dexory",
+    "https://hub.dexory.com/dexory-inventory-warehouse-automation",
+    "https://tracxn.com/d/companies/dexory/__uJDhUqQp2fCloZXs0p6Po-oW3lA5dfrx8k4WK12gLNM",
+    "https://www.blackcrow.jp/33167c1256d880fe8310cb64ec4ac4d6"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Dexory manufacturing customer case study",
+   "results": [
+    "https://www.dexory.com/categories/case-study",
+    "https://www.dexory.com/en-us/success-stories",
+    "https://www.odwlogistics.com/resources/odw-logistics-enhances-warehouse-automation-with-dexory-robotics-deployment",
+    "https://www.featuredcustomers.com/vendor/dexory",
+    "https://www.automate.org/vision/industry-insights/dexory-is-building-big-robots-for-the-worlds-warehouses",
+    "https://www.dematic.com/en-us/insights/case-studies/",
+    "https://www.businesswire.com/news/home/20240202267246/en/Dexory-to-Re-define-North-American-Logistics-and-Warehousing-Technology-Market",
+    "https://www.dexory.com/en-us/categories/case-study",
+    "https://www.dexory.com/success-stories",
+    "https://www.casestudies.com/company/dexory"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Dexory white label OR reseller OR partner program",
+   "results": [
+    "https://www.dexory.com/en-us",
+    "https://www.peaktech.com/press-releases/peak-technologies-announces-strategic-partnership-with-dexory-to-enhance-ai-driven-warehouse-automation/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://www.deel.com/blog/introducing-deel-white-label/",
+    "https://www.youtube.com/watch?v=X-cgg4dMjAU",
+    "https://easychinawarehouse.com/resellers/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Dexory founded funding employees revenue",
+   "results": [
+    "https://www.dexory.com/en-us/insights/strong-customer-demand-enables-dexory-to-secure-165m-in-funding",
+    "https://multiples.vc/private-comps/dexory",
+    "https://www.owler.com/company/dexory",
+    "https://6figr.com/company/dexory",
+    "https://equityzen.com/company/botsandusltd/",
+    "https://www.crunchbase.com/organization/botsandus-ltd",
+    "https://www.dcvelocity.com/logistics/inventory/dexory-lands-165-million-vc-for-its-inventory-bots",
+    "https://getlatka.com/companies/dexory.com",
+    "https://sifted.eu/articles/ai-robots-dexory-80m-raise-news",
+    "https://tracxn.com/d/companies/dexory/__uJDhUqQp2fCloZXs0p6Po-oW3lA5dfrx8k4WK12gLNM"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Dexory",
+   "results": [
+    "https://note.com/kawamura_akihiro/n/n664937f64f05",
+    "https://note.com/kawamura_akihiro/n/n664937f64f05?hl=en",
+    "https://note.com/kagawatomo/n/n2230abf5c00b",
+    "https://note.com/bright_mango111/n/n6d9a0721cf6d",
+    "https://note.com/endeavorjapan/n/n5c2134539014",
+    "https://note.com/kagawatomo/n/n6461ab6c2ca2",
+    "https://note.com/hashtag/Platform%E3%83%BBDataBase",
+    "https://note.com/takecando/n/n3b5446a98abd?hl=en",
+    "https://note.com/endeavorjapan/n/n8077691a0011",
+    "https://note.com/ready_guppy3801"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Dexory",
+   "results": [
+    "https://x.com/dexoryHQ",
+    "https://x.com/lukas_m_ziegler/status/2115380883729571990",
+    "https://x.com/NVIDIARobotics/status/2104964420073914526",
+    "https://x.com/robotics247/status/2113753249345929675",
+    "https://x.com/lukas_m_ziegler/status/2114727295474712836",
+    "https://x.com/SereactAI/status/2110759442668978571",
+    "https://x.com/logi_today/status/2113163919963611458",
+    "https://x.com/TheHumanoidAI",
+    "https://x.com/a3automate",
+    "https://x.com/dexoryhq"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Dexory",
+   "results": [
+    "https://www.linkedin.com/company/dexory",
+    "https://fr.linkedin.com/company/dexory?trk=ppro_cprof",
+    "https://uk.linkedin.com/in/adrianleonardnegoita",
+    "https://www.linkedin.com/pulse/dexory-building-big-robots-worlds-warehouses-brian-heater-x3bue",
+    "https://uk.linkedin.com/in/sook-meng-muk",
+    "https://www.linkedin.com/posts/nathanchaney_highlights-from-dexorys-us-headquarters-activity-7437576708444270592-rUA4",
+    "https://uk.linkedin.com/in/nickgibson89",
+    "https://www.linkedin.com/pulse/powering-age-ai-warehouses-dexory-opens-us-nashville-andrei-danescu-petue",
+    "https://uk.linkedin.com/in/oanajinga",
+    "https://www.linkedin.com/posts/jonathan-carr-592697150_dexorys-ai-evolution-visibility-to-autonomous-activity-7496499164126629888-xGv9"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Dexory",
+   "results": [
+    "https://www.facebook.com/dexoryHQ/",
+    "https://www.facebook.com/tandlnews/posts/dexory-is-expanding-its-warehouse-intelligence-and-robotics-safety-capabilities-/1747753087353570/",
+    "https://www.facebook.com/StellantisNA/videos/purposeful-innovation-starts-with-a-real-challenge-factory-booster-day-brings-so/29302987346003382/",
+    "https://www.facebook.com/romarklogistics/videos/romark-logistics-is-excited-to-introduce-the-dexory-robot-as-we-continue-investi/1305510144800497/",
+    "https://www.facebook.com/a3automate/videos/a-45-foot-robot-moving-through-warehouse-aisles-is-hard-to-missbut-what-matters-/957699060114627/",
+    "https://www.facebook.com/botsandus/",
+    "https://www.facebook.com/bloombergbusiness/posts/widespread-job-displacement-from-ai-powered-robots-are-still-quite-far-away-dexo/1478631030789652/",
+    "https://www.facebook.com/StellantisNA/posts/purposeful-innovation-starts-with-a-real-challenge-factory-booster-day-brings-so/1572504381584212/",
+    "https://www.facebook.com/NVIDIARobotics/posts/europes-next-era-of-robotics-is-taking-shape-where-automation-meets-autonomyjoin/1644867764350585/",
+    "https://www.facebook.com/dexoryHQ/posts/-double-celebration-for-dexorydexory-has-been-recognised-as-one-of-the-uks-50-fa/836124182686180/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Dexory note 社長",
+   "results": [
+    "https://www.dexory.com/",
+    "https://www.youtube.com/watch?v=qO_fDJmLKCs",
+    "https://www.automate.org/vision/industry-insights/dexory-is-building-big-robots-for-the-worlds-warehouses",
+    "https://supplychaindigital.com/news/dexory-mission-warehouses-self-aware",
+    "https://www.boringbusinessnerd.com/startups/dexory",
+    "https://supplychainstrategy.media/blog/2025/03/18/dexory-taking-robotics-to-a-new-level/",
+    "https://siliconangle.com/2025/10/14/dexory-secures-165m-transform-warehouse-intelligence-towering-ai-robots/",
+    "https://www.dexory.com/about-us",
+    "https://note.com/louis8",
+    "https://www.dexory.com/insights/dexory-strengthens-leadership-team-with-appointment-of-chief-financial-officer"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Dexory X 投稿",
+   "results": [
+    "https://www.dexory.com/",
+    "https://www.youtube.com/watch?v=X-cgg4dMjAU",
+    "https://x.com/dexoryHQ",
+    "https://www.youtube.com/watch?v=JZG2M4t7nMc",
+    "https://www.humanx.co/us/sponsors/dexory",
+    "https://www.robotics247.com/article/modex-2026-dexory-unveils-dexoryview-adapt-for-warehouse-operations/dexory",
+    "https://www.dexory.com/categories/press-release",
+    "https://www.youtube.com/watch?v=jwDOktnllHM&vl=ja"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部26頁・検索12回）"
+ }
+}

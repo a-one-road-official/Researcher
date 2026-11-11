@@ -1,0 +1,1066 @@
+{
+ "name": "aiOla",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜送付済み",
+ "researched_at": "2026-11-11T03:14:03.749289+00:00",
+ "official_url": "https://aiola.ai/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$16,000",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$50,000,000",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Aba Even 10, Herzliya, Israel  4672523, IL",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Up from as low as 23% with manual entry. Structured, validated, enterprise-ready.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No training, no ramp. Reps talk naturally and the agent delivers value immediately.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The conversational AI app reps interact with daily. Zero-training UX. Reps are productive in minutes.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Where customers define, configure, and deploy agents and workflows. Custom agents tailored to your specific processes.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous improvement that powers the platform. Agents get smarter daily from usage, outcomes, and feedback.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Value from Day 1. Productive in minutes, not months. Field voice agents that understand your jargon, work in any environment, and plug directly into your Salesforce.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Any workflow, any Salesforce object, no code. Design agents for your exact processes, terminology, and business logic. Visual configuration, full admin control.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Give every rep their own voice agent. Capture meetings, update Salesforce, get pre-meeting intelligence on the go. All by voice.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Featured by NVIDIA CEO Jensen Huang at GTC Paris as an example of voice AI transforming enterprise operations.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The platform monitors agent quality automatically. Drift detection identifies accuracy degradation early. Self-healing models trigger retraining when needed.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Field agents do more than cut admin time. They deliver measurable ROI by letting your teams move faster, capture more pipeline, and surface intelligence that was previously invisible.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven ROI from the Field",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Those capabilities have change my life. It's so much more productive and efficient",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We went from 30% CRM completeness to over 90% in the first month. No training rollout, no change management battle. Reps just started talking to their agent after visits and the data showed up. For the first time, I can actually trust what's in Salesforce when I pull a forecast of the field team.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The most innovative companies in enterprise for 2025: For rescuing legacy industries from manual data entry and paper forms via AI Agents",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to deliver relevant ads and measure campaign effectiveness across platforms.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise sales teams have been underserved by AI. Every tool built for sales reps assumes a desk, a headset, and a quiet room. But field sales happens in parking lots, on highways, and between customer visits. That’s where intelligence and agency matter most.",
+    "url": "https://aiola.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Every rep gets a personal field agent they talk to naturally after meetings. Behind that one voice, a squad of specialized AI agents works in parallel: updating Salesforce, pulling company intel, managing pipeline, and prepping for the next visit. No recording. No typing. No training required.",
+    "url": "https://aiola.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The result is a sales performance platform that turns windshield time into deal time. Reps capture 5x more data through voice than manual entry. CRM completeness goes from 23% to 90%+. And field teams get 30% more customer-facing time without adding a single rep. Built for highways and handshakes. Not desks and headsets.",
+    "url": "https://aiola.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "With over 500 years of combined experience with a proven track record of leading and building successful companies, our team is equipped to pioneer the future of AI beyond even the most ambitious expectations.",
+    "url": "https://aiola.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-founder & President",
+    "url": "https://aiola.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Enterprise Solutions",
+    "url": "https://aiola.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Engineering Team Lead & Data Protection Officer",
+    "url": "https://aiola.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for the Field. Proven Across Industries.",
+    "url": "https://aiola.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to deliver relevant ads and measure campaign effectiveness across platforms.",
+    "url": "https://aiola.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Exclusive: Speech recognition AI learns industry jargon with aiOla’s novel approach",
+    "url": "https://innovatopia.jp/ai/ai-news/36208/",
+    "pass": 3
+   },
+   {
+    "quote": "See how aiOla uses Snowflake to power its voice-to-data technology — and saves thousands of dollars in the process.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Faster onboarding for taggers",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Snowflake Product Categories Used",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "In the age of AI, voice-to-text technology is prolific, serving everyone from call center agents to content creators. It’s used to automatically generate subtitles, transcribe customer interactions, route calls to the right agents and perform sentiment analysis that uncovers vital insights.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "“We’re reinventing data entry for these companies,” says Naor Fliker, Director of Product Marketing at aiOla. “Think about how much time it takes for employees to fill out all these forms. We can change the worker experience, and processes that once took hours can now be done in minutes.”",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "To deliver this service, aiOla uses Snowflake to turn unstructured data into actionable insight. As a result, the company is saving thousands of dollars a month, while gaining improved speed, scalability and governance.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Providing transcriptions to users in near real time:",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Snowflake’s ability to scale quickly with demand provides the rapid input and output capabilities required to deliver near real-time transcription and form population.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Providing insights at the speed of conversation",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, aiOla moved its data infrastructure onto Snowflake’s AI Data Cloud with the intention of bringing new levels of speed, scalability and simplicity to its processes.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, aiOla ingests all of its unstructured audio data into Snowflake, where it uses Dynamic Tables to automatically prepare that data for use. It’s then sent to its Insight Center service, where customers can configure their own reports or alerts and get what they need from that data.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Tagging is central to aiOla’s technology. It’s a process that takes place over two stages. The first is automatic speech recognition (ASR), where audio recordings are assigned various tasks and labels, and correlated with transcripts. The second is large language model (LLM) tagging, which enables aiOla’s technology to fill out custom forms with the information generated from the calls.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Its previous architecture required aiOla to build its own tagging UI from scratch with Kubernetes, as well as handle an entire management system for tagging and supervisor enrollment, and connect this to its existing data infrastructure.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Upon moving to Snowflake, aiOla was able to rebuild its tagging system on Streamlit in just three weeks, bringing new levels of simplicity to the process.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "“It was very, very fast to build with Streamlit. Now we just give people a user account on Snowflake and assign them the role of tagger,” says Hes. “We went from two hours of onboarding for taggers to just five or ten minutes” — a 95% decrease.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "The tagging tool in Snowflake also allows aiOla to enable encryption, ensuring customer data remains secure. The company saves its audio files in a binary format, and then uses Streamlit to revert the binary to audio again. This built-in layer of security, the speed at which the solution was built and its low costs provide aiOla with a huge advantage.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Just a year in, the company is very much at the beginning of its Snowflake journey, but the benefits so far — including the ability to scale with demand and deliver high-speed input and output to customers — point to a promising future. One where the world’s frontline workers are free from the administrative burden of paperwork, and able to focus on what they do best.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Luminate Amps Entertainment Analytics with 300% Faster Data Processing and Richer Insights",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "VideoAmp Saves 90% in Costs and Increases Performance 10x",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Power Digital Unleashes AI to Scale Marketing Impact and Strengthen Client ROI",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "At the heart of the platform is aiOla’s voice API, built on an event‑driven architecture powered by a Kubernetes‑based microservices backend. The system relies on GPUs, AWS managed services (including RDS and S3), and a sophisticated AI inference stack which primarily uses aiOla’s own models to deliver high‑performance, low‑latency voice interactions.",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "For aiOla, observability is mission‑critical. Because their SDK is embedded inside customer applications, they don’t always know how, when, or at what scale their APIs are being used. Visibility into real‑time behavior, performance, and failures is essential not just for troubleshooting, but for protecting customer experience and contractual SLAs.",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "The Problem: Logs without context, and no tracing",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "Before groundcover, aiOla relied on Coralogix as their primary observability stack.",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "Data egress fees continue to grow, and storing observability data in a third‑party SaaS cloud became increasingly problematic. Enterprise customers required clearer guarantees around data residency and data processing.",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "\"The seamless merge of K8s infrastructure monitoring data and the application level observability from eBPF provide insane value, with zero engineering effort.”",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "aiOla knew they needed to move from just logs to logs and traces, and to detect issues proactively through metrics - but without requiring full backend instrumentation.",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "Clearly explain where observability data is stored and processed",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "Meet increasing enterprise compliance requirements",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "host‑based pricing which is detached from ingestion volumes, gave",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "aiOla far greater cost predictability and control, along with full",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "ownership over retention policies and data tradeoffs.",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "At the same time, groundcover’s host‑based pricing which is detached from ingestion volumes, gave aiOla far greater cost predictability and control, along with full ownership over retention policies and data tradeoffs.",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "The team saw significantly broader adoption of groundcover across R&D compared to the previous observability stack. Developers can understand Kubernetes behavior without relying on DevOps making troubleshooting faster, more independent, and more precise",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Fortune 500 Pharmaceutical",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We didn't add a single rep last year. We gave every rep a squad. 30% more customer-facing time, pipeline we can actually forecast on, and reps who stopped complaining about CRM for the first time in my career. That's not a tool win. That's a revenue win.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Retailer",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://aiola.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "aiOlaは、この適応型モデルをFortune 500企業との間で既に展開し始めており、専門用語を多用するプロセスの効率化を図っている",
+    "url": "https://innovatopia.jp/ai/ai-news/36208/",
+    "pass": 3
+   },
+   {
+    "quote": "aiOlaは、この適応型モデルをFortune 500企業との間で既に展開し始めており、専門用語を多用するプロセスの効率化を図っています",
+    "url": "https://innovatopia.jp/ai/ai-news/36208/",
+    "pass": 3
+   },
+   {
+    "quote": "“We’re reinventing data entry for these companies,” says Naor Fliker, Director of Product Marketing at aiOla. “Think about how much time it takes for employees to fill out all these forms. We can change the worker experience, and processes that once took hours can now be done in minutes.”",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "After migrating to Snowflake in about a month, aiOla saw benefits immediately. Not just to aiOla’s data team, but to its customers too, many of which are part of the Fortune 500.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "aiOla Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At aiOla",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Arrowhead Credit Union",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of aiOla?",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "aiOla generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does aiOla have?",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Check your email—good stuff's inside.",
+    "url": "https://aiola.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Check your email—good stuff's inside.",
+    "url": "https://aiola.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "aiOlaで現場の声を記録に変える4工程｜聞き違いを止める線 | BtoB AI... — aiOlaとは：騒がしい現場の発話を業務データに変える音声AI aiOla はイスラエルのテルアビブ発の音声AIの会社で、現場で働く人が話した内容を書き起こし、専門用語を聞き分け、業務システムに入る形のデータに組み直す仕組みを提供しています。",
+    "url": "https://debono.co.jp/media/aiola-genba-onsei-kiroku/",
+    "pass": 3
+   },
+   {
+    "quote": "イスラエル発aiOla、専門用語を理解する音声認識AIで業務効率化を実現 — イスラエルのスタートアップ企業であるaiOlaが、業界固有の専門用語を理解できる音声認識AIの新しいアプローチを発表しました。 この技術は、音声認識システムの精度と反応性を向上させ、複雑な企業環境や難しい音響環境でも適切に機能するようにします。",
+    "url": "https://innovatopia.jp/ai/ai-news/36208/",
+    "pass": 3
+   },
+   {
+    "quote": "From Speech to Structured Data: aiola’s NVIDIA-Accelerated ... — Jun 10, 2025 · Through this work, aiola is bringing the future of speech to the present, enabling smarter, faster, and more accurate voice-first applications that fit into the industrial world’s unique linguistic challenges.",
+    "url": "https://aiola.ai/blog/speech-to-structured-data-aiola-nvidia-tech-blog/",
+    "pass": 3
+   },
+   {
+    "quote": "aiOlaの高精度なASRモデル「Jargonic V2」 - Zenn — May 11, 2025 · ところで、AIolaのSpeech−to−Textのモデルは現行2つ、以前のモデルを加えると3つある様子。 Jargonicは、高精度と適応性を追求した最先端の多言語自動音声認識（ASR）システムです。 異なる用途に対応するため、2つのバージョンをご用意しています：",
+    "url": "https://zenn.dev/kun432/scraps/6d510d357cbfde",
+    "pass": 3
+   },
+   {
+    "quote": "aiOla Brings Voice AI to Complex Industries – With Snowflake — See how aiOla uses Snowflake to power its voice-to-data technology — and saves thousands of dollars in the process.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "aiOla Case Study: Zero-Instrumentation Observability — Dec 16, 2025 · Using an SDK integrated into customer facing products, aiOla captures and processes voice interactions, orchestrates agentic workflows, and delivers near‑real‑time responses that align with strict SLAs while preserving a consistent, high quality user experience.",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "Voice AI Agents for Field Teams using Salesforce - aiola — We deployed aiola's field agents across our field sales org and the transformation was immediate. Reps stopped thinking about CRM. The data just flows. Managers finally trust the pipeline. And we're seeing 30% more customer meetings because reps are spending time selling, not typing.”",
+    "url": "https://aiola.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Insights into AI, Tech, and Innovation - aiOla Blog — Oct 20, 2026 · The Power of AI and Natural Language Understanding: Applications, Techniques, and Case Studies Natural language understanding, or NLU for short, is a core part of artificial intelligence (AI) that allows machines to understand and interpret…",
+    "url": "https://aiola.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "7 aiOla Customer Reviews & References | FeaturedCustomers — Discover what Featured Customers are saying about aiOla through testimonials, reviews, & case studies.",
+    "url": "https://www.featuredcustomers.com/vendor/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "aiOla 2026 Company Profile: Valuation, Funding & Investors ...aiOla Revenue, Funding & ValuationaiOla – Estimated Net Worth, Growth & Competitor Overview – 2026Aiola - 2026 Company Profile, Team, Funding & Competitors ...aiOla: Funding, Investors & Team (Nov 2026) | FundedIQaiOla: Funding, Team & Investors | Startup IntrosaiOla - 2025 Company Profile, Team, Funding & Competitors ... — Information ",
+    "url": "https://pitchbook.com/profiles/company/435058-39",
+    "pass": 3
+   },
+   {
+    "quote": "aiOla Revenue, Funding & Valuation — aiOla has revenue of $1,100,000, estimated valuation of $3,600,000, $50,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "aiOla – Estimated Net Worth, Growth & Competitor Overview – 2026 — Revenue, valuation, and funding figures for aiOla are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "Aiola - 2026 Company Profile, Team, Funding & Competitors ... — Jan 21, 2026 · Aiola is a series A company based in Herzliya (Israel), founded in 2003 by Erez Raanan and Guy Ernest. It operates as an AI based business decision making and strategic development solutions.",
+    "url": "https://tracxn.com/d/companies/aiola/__E3aXzbDktPKnKJyBC9uLHJoQHvAHb2DFGidrrNKTR68",
+    "pass": 3
+   },
+   {
+    "quote": "aiOla: Funding, Investors & Team (Nov 2026) | FundedIQ — aiOla is an Artificial Intelligence company in Herzliya, Israel. Raised $50.0M across 2 rounds; latest a Series A in Jul 2025. Investors and funding history.",
+    "url": "https://fundediq.co/aiola-aiola-com-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The AI voice market is crowded. But the majority of tools are designed for general purposes and often have trouble operating in loud places, which make them unsuitable for the engineers, aviation workers and factory floors aiOla serves.They also tend to struggle to understand industry-specific jargon, different accents and rapid switches between languages.",
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "aiOla Case Study: Zero-Instrumentation Observability",
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "pass": 3
+   },
+   {
+    "quote": "• aiOla has been recognized as a 2024 Top Software and Tech Award Winner in the Warehouse Automation category, December 2024!",
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "aiolaリングが生まれるまで。｜fiorellino Aug 4, 2020 · aiola アイオーラと読みます。 イタリア語で「花壇」と言う意味があるのです。 実は名前を決める時にどうもピンとくるものがなく…Twitterでのフォロワーさんから「寄せ植えみたい」という素敵なヒントをいただきました。",
+    "url": "https://note.com/fiorellino_anzu/n/n5982dafa3a27",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "aiolaリングが生まれるまで。｜fiorellino",
+    "url": "https://note.com/fiorellino_anzu/n/n5982dafa3a27",
+    "pass": 3
+   },
+   {
+    "quote": "おかげさまで大変ご好評をいただいておりますaiolaリング。",
+    "url": "https://note.com/fiorellino_anzu/n/n5982dafa3a27",
+    "pass": 3
+   },
+   {
+    "quote": "今日はこの作品について少しお話ししたいと思います。",
+    "url": "https://note.com/fiorellino_anzu/n/n5982dafa3a27",
+    "pass": 3
+   },
+   {
+    "quote": "aiola アイオーラと読みます。イタリア語で「花壇」と言う意味があるのです。",
+    "url": "https://note.com/fiorellino_anzu/n/n5982dafa3a27",
+    "pass": 3
+   },
+   {
+    "quote": "実は名前を決める時にどうもピンとくるものがなく…Twitterでのフォロワーさんから「寄せ植えみたい」という素敵なヒントをいただきました。",
+    "url": "https://note.com/fiorellino_anzu/n/n5982dafa3a27",
+    "pass": 3
+   },
+   {
+    "quote": "そこから色々と調べてグッときたのがこの aiola でした。",
+    "url": "https://note.com/fiorellino_anzu/n/n5982dafa3a27",
+    "pass": 3
+   },
+   {
+    "quote": "実は私の屋号である fiorellino(フィオレリーノ＝小さい花)もイタリア語から。",
+    "url": "https://note.com/fiorellino_anzu/n/n5982dafa3a27",
+    "pass": 3
+   },
+   {
+    "quote": "自分の代表作になるであろう作品と屋号との世界観のリンク。この偶然にも嬉しく思い、aiolaと名付けました☺️",
+    "url": "https://note.com/fiorellino_anzu/n/n5982dafa3a27",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Aiola Virella (@AiolaVirella) / X La desigualdad racial detrás del diagnóstico de endometriosis en Puerto Rico From metro.pr 243 Aiola Virella @AiolaVirella Jul 16 Alianza apoya la formación de nuevos neurocirujanos",
+    "url": "https://x.com/AiolaVirella",
+    "pass": 3
+   },
+   {
+    "quote": "Aiola CPA, PLLC (@aiolacpa) / Posts / X Aiola CPA, PLLC (@aiolacpa) - Posts - We're a 100% virtual CPA firm, specializing in tax planning and preparation for real estate investor... | X (formerly Twitter)",
+    "url": "https://x.com/aiolacpa",
+    "pass": 3
+   },
+   {
+    "quote": "Chris Aiola (@chrisaiola) / Posts / X Chris Aiola (@chrisaiola) - Posts - 🎥Documentary producer / editor 🧔Award-winning beardsman ⚾️ #LGM 🇺🇸 #persist | X (formerly Twitter)",
+    "url": "https://x.com/chrisaiola",
+    "pass": 3
+   },
+   {
+    "quote": "Aiola (@aiolaa1) / X 227 Aiola @aiolaa1 Feb 11 Eksib dikit mumpung sepi Jadiin bacol videonya kirim dm ntar aku kasih bonus🤭",
+    "url": "https://x.com/aiolaa1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "aiola - LinkedIn Powered by our unique ASR architecture, aiOla hyper-personalizes speech recognition to the specific jargon, acoustic environment, and workflow of your business.",
+    "url": "https://www.linkedin.com/company/aiola/",
+    "pass": 3
+   },
+   {
+    "quote": "Aiola Virella - JSK Journalism Fellow at Stanford ... - LinkedIn · Experiencia: John S. Knight Journalism Fellowships at Stanford · Educación: Universidad de Puerto Rico · Ubicación: Corozal · Más de 500 contactos en LinkedIn. Mira el perfil de Aiola Virella...",
+    "url": "https://pr.linkedin.com/in/aiola-virella-garcia",
+    "pass": 3
+   },
+   {
+    "quote": "90+ \"Aiola\" profiles | LinkedIn View the profiles of professionals named \"Aiola\" on LinkedIn. There are 90+ professionals named \"Aiola\", who use LinkedIn to exchange information, ideas, and opportunities.",
+    "url": "https://www.linkedin.com/pub/dir/+/Aiola",
+    "pass": 3
+   },
+   {
+    "quote": "Aiola CPA, PLLC - LinkedIn Aiola CPA is a fully virtual CPA firm that works exclusively with real estate investors. Tax planning, tax preparation, and accounting – that's our area of expertise.",
+    "url": "https://www.linkedin.com/company/aiola-cpa-pllc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "aiOla - Facebook Dec 9, 2024 · We’ve just launched a speech model that instantly adapts to new jargon and requires zero retraining! 🚀 Take a look at the demo below. 👇 In the demo you will see aiOla + OpenAI Whisper's combined ASR technology, and underneath, you'll see how OpenAI Whisper performs without aiOla.",
+    "url": "https://www.facebook.com/aiOlaLoop/",
+    "pass": 3
+   },
+   {
+    "quote": "Aiola Graz - FacebookAiola Eatery | Surabaya - FacebookAiola Virella - FacebookAiola im Schloss St. Veit | Graz - FacebookAiola Living Hotel | Graz - Facebookaiola upstairs | Graz - Facebook Meet the Aiola im Schloss office girls! 🤍 The women behind the scenes who keep everything running. While they may not always be in the spotlight, they're the ones making sure every event, every wedding and eve",
+    "url": "https://www.facebook.com/aiolagraz/",
+    "pass": 3
+   },
+   {
+    "quote": "Aiola Eatery | Surabaya - Facebook Menjelang lebaran ini, Aiola Eatery dan Aiola Tunjungan libur dulu ya #sobatlapar karena kami mau mudik😁 Tenang aja kamu bisa kembali menikmati sajian hidangan kami ditanggal 2 April 2025 bersama keluarga dan orang-orang tersayang kamu.",
+    "url": "https://www.facebook.com/aiolaeatery/",
+    "pass": 3
+   },
+   {
+    "quote": "Aiola Virella - FacebookAiola im Schloss St. Veit | Graz - FacebookAiola Living Hotel | Graz - Facebookaiola upstairs | Graz - Facebook Oct 22, 2026 · Aiola Virella. 1,507 followers · 165 talking about this. JSK Journalism Fellow at Stanford | Journalist & media leader | Former Editor-in-Chief, Metro... November verwandelt sich das Aiola im Schloss in ein funkelndes Winterwunderland! ️ Genießt den",
+    "url": "https://www.facebook.com/AiolaVirella/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://aiola.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiola.ai/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%AA%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://debono.co.jp/media/aiola-genba-onsei-kiroku/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://innovatopia.jp/ai/ai-news/36208/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Ariola_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%AA%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sonymusic.co.jp/Music/Info/ariola/top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpop.fandom.com/wiki/Ariola_Japan",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.groundcover.com/customer-stories/aiola",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/435058-39",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/aiola-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/aiola",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/aiola/__E3aXzbDktPKnKJyBC9uLHJoQHvAHb2DFGidrrNKTR68",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/fiorellino_anzu/n/n5982dafa3a27",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AiolaVirella",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aiolacpa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/chrisaiola",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aiolaa1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/aiola/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pr.linkedin.com/in/aiola-virella-garcia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/+/Aiola",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/aiola-cpa-pllc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/aiOlaLoop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/aiolagraz/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/aiolaeatery/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AiolaVirella/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aiolaa1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "aiOla 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/アリオラジャパン",
+    "https://debono.co.jp/media/aiola-genba-onsei-kiroku/",
+    "https://innovatopia.jp/ai/ai-news/36208/",
+    "https://aiola.ai/blog/speech-to-structured-data-aiola-nvidia-tech-blog/",
+    "https://zenn.dev/kun432/scraps/6d510d357cbfde",
+    "https://aiola.ai/",
+    "https://www.sonymusic.co.jp/Music/Info/ariola/top.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "aiOla 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://industrial.filtrationgroup.com/ja/联系我们/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "aiOla Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Ariola_Japan",
+    "https://ja.wikipedia.org/wiki/アリオラジャパン",
+    "https://www.sonymusic.co.jp/Music/Info/ariola/top.html",
+    "https://jpop.fandom.com/wiki/Ariola_Japan",
+    "https://kpopping.com/companies/ariola-japan",
+    "https://www.ariola.jp/",
+    "https://x.com/ariolajapan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "aiOla manufacturing customer case study",
+   "results": [
+    "https://www.snowflake.com/en/customers/all-customers/case-study/aiola/",
+    "https://www.groundcover.com/customer-stories/aiola",
+    "https://aiola.ai/",
+    "https://aiola.ai/blog/",
+    "https://www.featuredcustomers.com/vendor/aiola",
+    "https://medium.com/@zivco/navigating-the-rise-of-generative-ai-value-generation-case-study-at-aiola-8cdfce7200db",
+    "https://www.neweracp.com/media/navigating-the-rise-of-generative-ai-value-generation-case-study-at-aiola"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "aiOla white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://www.namesilo.com/reseller",
+    "https://reseller.amazon.com/",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "aiOla founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/435058-39",
+    "https://prospeo.io/c/aiola-revenue",
+    "https://compworth.com/company/aiola",
+    "https://tracxn.com/d/companies/aiola/__E3aXzbDktPKnKJyBC9uLHJoQHvAHb2DFGidrrNKTR68",
+    "https://fundediq.co/aiola-aiola-com-funding/",
+    "https://startupintros.com/orgs/aiola",
+    "https://tracxn.com/d/companies/aiola/__yVKFs88zlWJ1OV97G-UhUZDTaL28yovS-s40K2Klyc0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com aiOla",
+   "results": [
+    "https://note.com/fiorellino_anzu/n/n5982dafa3a27",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://tales.note.com/",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com aiOla",
+   "results": [
+    "https://x.com/AiolaVirella",
+    "https://x.com/aiolacpa",
+    "https://x.com/chrisaiola",
+    "https://x.com/aiolaa1",
+    "https://x.com/AiolaTwitch",
+    "https://x.com/AiolaTwitch/status/2113165272504729665",
+    "https://x.com/victoraiola"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com aiOla",
+   "results": [
+    "https://www.linkedin.com/company/aiola/",
+    "https://pr.linkedin.com/in/aiola-virella-garcia",
+    "https://www.linkedin.com/pub/dir/+/Aiola",
+    "https://www.linkedin.com/company/aiola-cpa-pllc",
+    "https://www.linkedin.com/in/nicholasaiola",
+    "https://www.linkedin.com/in/aiola-tufa-7791532",
+    "https://www.linkedin.com/posts/aiola_a-huge-moment-for-aiola-at-nvidia-gtc-paris-activity-7338531289114775552-J_K-"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com aiOla",
+   "results": [
+    "https://www.facebook.com/aiOlaLoop/",
+    "https://www.facebook.com/aiolagraz/",
+    "https://www.facebook.com/aiolaeatery/",
+    "https://www.facebook.com/AiolaVirella/",
+    "https://www.facebook.com/aiolaimSchlossSanktVeit/",
+    "https://www.facebook.com/aiolaliving/",
+    "https://www.facebook.com/aiolaupstairs/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "aiOla note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/note_ir/n/n4a9098319c3c",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "aiOla X 投稿",
+   "results": [
+    "https://x.com/aiolaa1",
+    "https://x.com/Aila0702/status/2120102632731914586",
+    "https://x.com/Aila0904",
+    "https://x.com/Aila0702/status/2112092902272962765",
+    "https://x.com/Aila0702/status/2112742302674538692",
+    "https://aila.aila-x.com/",
+    "https://x.com/singeraila"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部35頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

@@ -1,0 +1,1193 @@
+{
+ "name": "Nyobolt",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜日本進出済",
+ "researched_at": "2026-11-11T03:14:11.844818+00:00",
+ "official_url": "https://nyobolt.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Investors",
+    "value": "Anthony Rozmus",
+    "url": "https://nyobolt.com/resources/news/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5/",
+    "pass": 1
+   },
+   {
+    "label": "Investors",
+    "value": "Anna Wise",
+    "url": "https://nyobolt.com/resources/news/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": ", a pioneer of high-power, ultra-fast charging solutions, is the technology provider to Agility. The technology powers one of Digit® 5’s most significant upgrades: a fast recharge battery system that enables Digit to work more than 20 hours in a 24-hour day.",
+    "url": "https://nyobolt.com/resources/news/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5/",
+    "pass": 1
+   },
+   {
+    "quote": "Agility is preparing to become a public company through its previously announced business combination with Churchill Capital Corp XI (Nasdaq: CCXI) (“Churchill XI”). The business combination is expected to close in the fourth quarter of 2026, after which the combined company will operate as Agility Robotics and is expected to trade on Nasdaq under the ticker symbol “AGLT.”",
+    "url": "https://nyobolt.com/resources/news/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5/",
+    "pass": 1
+   },
+   {
+    "quote": "Nyobolt is a pioneer in high-power, fast-charging energy solutions that deliver mission-critical uptime for power-demanding industries. Founded in 2019, the company is leading the Instant Power revolution by combining proprietary anode materials, advanced battery cell design, and integrated power electronics to unlock ultrafast charging, exceptional power density, and extended lifecycle.",
+    "url": "https://nyobolt.com/resources/news/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5/",
+    "pass": 1
+   },
+   {
+    "quote": "With a robust patent portfolio and a global footprint, Nyobolt unlocks next-gen industrial performance across AI datacenters, Physical AI applications (Robotics & Humanoids), and mobility applications. Its solutions reduce total cost of ownership while meeting the performance and reliability demands of an always-on world. For more information, please visit",
+    "url": "https://nyobolt.com/resources/news/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5/",
+    "pass": 1
+   },
+   {
+    "quote": "Additional Information About the Proposed Transaction and Where to Find It",
+    "url": "https://nyobolt.com/resources/news/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5/",
+    "pass": 1
+   },
+   {
+    "quote": "The Nyobolt Dynamic Response System (DRS) provides stable power when demand spikes and a built-in energy reserve if the grid drops.",
+    "url": "https://nyobolt.com/ai-data-centre-power-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Avoiding dummy loads, energy consumption is reduced, thermal management is maximised, grid stability is ensured, and CAPEX is minimised",
+    "url": "https://nyobolt.com/ai-data-centre-power-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Future-proofing the grid for an AI-driven world",
+    "url": "https://nyobolt.com/ai-data-centre-power-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Our systems maintain over 80% capacity even after 20,000 rapid charge cycles, redefining expectations of battery longevity and operational efficiency. Nyobolt’s approach reduces the need for frequent battery replacements, significantly lowering total cost of ownership, all without compromising safety, speed, or reliability",
+    "url": "https://nyobolt.com/ai-data-centre-power-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Nyobolt delivers next-generation energy systems for industries where speed, uptime and uncompromising reliability matter most. Our ultra-fast charging technology and compact, advanced power solutions unlock unmatched performance across AI datacenter GPU racks, robotics fleets, high-uptime industrial equipment and other demanding industrial equipment.",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Nyobolt’s advanced technology delivers ultra-fast charging, high power density, and exceptional cycle life—bringing full charge in under 5 minutes without sacrificing safety or longevity. Built on proprietary materials, refined cell chemistry and state of the art electronics, our solutions have the capability to transform high power-demanding industries",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Modern power systems are dynamic, not static. They must absorb or provide sudden surges, intelligently route power, and respond instantly.",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Versus Supercapacitors: Similar instantaneous power response, but Nyobolt delivers 10-100x the energy density with practical run-time and integrated fast-charge—reducing pack size and system complexity",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Bespoke designs that reduce the size of the battery without compromising on power delivery and/or charging speeds",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Each system is engineered to minimise lithium plating, reduce heat risk and perform reliably under pressure",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary BMS available",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "R&D materials, chemistry and production process",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Design, assembly and pilot manufacturing process",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "BMS, thermal, mechanical and assembly processes",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Nyobolt is a Cambridge-based scale-up built on over a decade of battery research led by University of Cambridge scientist Professor Dame Clare Grey.",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We are not just building batteries. We are transforming industries and accelerating progress where high-power and high uptime are mission-critical. Our solutions define success for industries such as AI data centres, autonomous robotics, commercial and passenger EVs, grid infrastructure and heavy industrial fleets.",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Recent honours/awards include Honorary PhD Degrees from the Universities of Orleans (2012) and Lancaster (2013), the Royal Society Davy Award (2014), the RSC John Goodenough Award (2019), the Richard R. Ernst Prize in Magnetic Resonance (2020), the RS Hughes Award (2020) for contributions in the field of energy and the (2021) Körber European Science prize.",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Since founding Nyobolt in 2019, Sai has applied a whole systems approach to address the need for accessible power.",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Marketing & Communications",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Materials and module and prototyping hub",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Cell development & prototyping hub",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We solve real problems that accelerate sustainable transformation",
+    "url": "https://nyobolt.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We prioritise, listen to and work as one team with our customers to solve their most critical uptime challenges",
+    "url": "https://nyobolt.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "高砂工業、次世代急速充電技術Nyobolt（英）へ戦略的投資 | 高砂工業のプレスリリース | 共同通信PRワイヤー",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "https://cdn.kyodonewsprwire.jp/prwfile/release/M108667/202505269475/_prw_PI1tn_WU4Hg66q.png",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "https://cdn.kyodonewsprwire.jp/prwfile/release/M108667/202505269475/_prw_PI1im_2xf70M0D.png",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "https://cdn.kyodonewsprwire.jp/prwfile/release/M108667/202505269475/_prw_PI1lg_9q4y7w7x.png",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "https://cdn.kyodonewsprwire.jp/prwfile/release/M108667/202505269475/_prw_PI1fl_TJBq51mL.png",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "https://cdn.kyodonewsprwire.jp/prwfile/release/M108667/202505269475/_prw_PI2tn_2z2mqb86.gif",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "https://cdn.kyodonewsprwire.jp/prwfile/release/M108667/202505269475/_prw_PI2im_pkG0Y32j.gif",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "https://cdn.kyodonewsprwire.jp/prwfile/release/M108667/202505269475/_prw_PI2fl_NWzf3Eq6.gif",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "https://cdn.kyodonewsprwire.jp/prwfile/release/M108667/202505269475/_prw_PI3tn_qHIl06oy.gif",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "https://cdn.kyodonewsprwire.jp/prwfile/release/M108667/202505269475/_prw_PI3im_zKtKHbps.gif",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "https://cdn.kyodonewsprwire.jp/prwfile/release/M108667/202505269475/_prw_PI3fl_m4GD2996.gif",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "© 2024 Kyodo News PR Wire",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt was established in 2019 by Professor",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "The company initially focused on scaling its proprietary anode material and testing its integration into commercial cell manufacturing processes.",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": ", and four years later in 2023, the company launched a production facility in the",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": ". just-auto.com. 16 April 2025",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "\"British deeptech Nyobolt raises $30M, proves 5-minute EV charging to 80% possible\"",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": ". techfundingnews.com. 16 April 2025",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": ". tech.eu. 16 April 2025",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "\"Nyobolt opens office in Boston, US ahead of new battery prototype launch\"",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": ". autocarpro.in. 14 January 2023",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "Matt De Prez,",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "\"Symbotic integrates Nyobolt's new 'performance-improving' power technology into its autonomous mobile robots\"",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "25-Apr-2025",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Early access to Digit 5 equipped with Nyobolt’s battery technology is expected to begin in the first half of 2027, with increasing availability over the following six to nine months for manufacturing, warehouse and distribution operators.",
+    "url": "https://nyobolt.com/resources/news/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5/",
+    "pass": 1
+   },
+   {
+    "quote": "With a robust patent portfolio and a global footprint, Nyobolt unlocks next-gen industrial performance across AI datacenters, Physical AI applications (Robotics & Humanoids), and mobility applications. Its solutions reduce total cost of ownership while meeting the performance and reliability demands of an always-on world. For more information, please visit",
+    "url": "https://nyobolt.com/resources/news/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5/",
+    "pass": 1
+   },
+   {
+    "quote": "Nyobolt delivers next-generation energy systems for industries where speed, uptime and uncompromising reliability matter most. Our ultra-fast charging technology and compact, advanced power solutions unlock unmatched performance across AI datacenter GPU racks, robotics fleets, high-uptime industrial equipment and other demanding industrial equipment.",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "From AI infrastructure and robotics to EVs and industrial equipment, our team delivers tailored solutions to real-world power challenges",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible for mobility, industrial & grid use",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "R&D and manufacturing in house",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "R&D in house manufacturing volume dependent",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Design, assembly and pilot manufacturing process",
+    "url": "https://nyobolt.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Our vision is to become the leader in high-power, integrated energy systems that enable mission-critical uptime. Our systems-level innovation, born from a decade of shared dedication between world-class technicians, scientists, and experts, is enabling us to redefine the energy storage industry.",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We are not just building batteries. We are transforming industries and accelerating progress where high-power and high uptime are mission-critical. Our solutions define success for industries such as AI data centres, autonomous robotics, commercial and passenger EVs, grid infrastructure and heavy industrial fleets.",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Cell Manufacturing, APAC",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The company initially focused on scaling its proprietary anode material and testing its integration into commercial cell manufacturing processes.",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "industrial automation",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "Battery manufacturers",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing companies based in Cambridge",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of electric battery technology designed to serve automotive applications.",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of electric battery technology designed to serve automotive applications. The company specializes in battery technology using new materials, cell designs, efficient software control, and power electronics, and the batteries come with fast charging speed and large energy storage, enabling the automotive industry to get batteries for high-power applications.",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of electric battery technology designed to serve automotive applications. The company specializes in battery t",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt is a company that specializes in advanced battery technology for the automotive industry. They focus on researching and developing batteries with higher power, faster recharge rates, and greater energy storage capacity to provide solutions for high-power applications in vehicles. Established in 2020, the company is located in Cambridge, United Kingdom.",
+    "url": "https://fundediq.co/nyobolt-nyobolt-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Factories and warehouses want to run 24 hours a day. If a robot spends half its day charging, it's cheaper to hire a human.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The ones paying the money are warehouses, logistics, factories, drones, and defense sectors.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Also a silicon anode battery manufacturer. On October 13, they announced an order for 100,000 units for drones.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A major player in warehouse automation robots. They are on the side that supported Nyobolt's (private) fundraising.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Agility is preparing to become a public company through its previously announced business combination with Churchill Capital Corp XI (Nasdaq: CCXI) (“Churchill XI”). The business combination is expected to close in the fourth quarter of 2026, after which the combined company will operate as Agility Robotics and is expected to trade on Nasdaq under the ticker symbol “AGLT.”",
+    "url": "https://nyobolt.com/resources/news/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5/",
+    "pass": 1
+   },
+   {
+    "quote": "Churchill XI is a blank check company formed for the purpose of effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses. It may pursue an initial business combination target in any business or industry.",
+    "url": "https://nyobolt.com/resources/news/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5/",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of something incredible as we accelerate the growth of our company and change the way the world thinks about energy and power.",
+    "url": "https://nyobolt.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our culture is supportive, open and respectful of all employees, with a flexible working environment and competitive reward package.",
+    "url": "https://nyobolt.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Agilityは、特別買収目的会社Churchill Capital Corp XIとの事業統合による上場準備も進めている",
+    "url": "https://www.zaikei.co.jp/article/20261020/874245.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、商用現場で稼働する導入実績を持つ、人型ロボット専業の米国上場企業になると位置付けている",
+    "url": "https://www.zaikei.co.jp/article/20261020/874245.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"With 5 min EV-charging and $9M revenue, Nyobolt secures $30M to scale high-power battery tech\"",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt has 121 total employees.",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "What is Nyobolt’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Nyobolt is",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "Navigator Gas is a shipping company that operates the largest fleet of handysize liquefied gas carriers in…",
+    "url": "https://fundediq.co/nyobolt-nyobolt-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Sai Shivareddy is listed as CEO at Nyobolt.",
+    "url": "https://fundediq.co/nyobolt-nyobolt-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Nyobolt have?",
+    "url": "https://fundediq.co/nyobolt-nyobolt-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/nyobolt-nyobolt-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/nyobolt-nyobolt-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "In a battery, lithium ions (tiny particles that carry electricity) travel back and forth between the positive and negative electrodes to charge.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Agility itself is aiming for a public listing through a merger with a SPAC (a special purpose acquisition company that serves as a shortcut to going public).",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Batteries are part of the unit. Unless the number of units is determined, the battery market will not grow.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "▼ Amprius Technologies (AMPX, NYSE)",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Market capitalization is about $1.13 billion, and the stock price is $7.71 (as of the October 16 close). Revenue for the last 12 months is $109 million.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "▼ Enovix (ENVX, NASDAQ)",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Market capitalization is about $530 million, and the stock price is $2.49. Revenue for the last 12 months is $35.88 million, with a net loss of $170 million.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "▼ Symbotic (SYM, NASDAQ)",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Market capitalization is about $23.45 billion, and the stock price is $38.77. Revenue for the last 12 months is $2.65 billion.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Tokyo, Tokyo Metropolis 1006290",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "本出資を通し高砂工業はNyoboltの中核技術である「独自負極材料」バリューチェーンで更に深く連携、日本・英国におけるパイロット生産の加速と量産体制移行を支援します",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "高砂工業株式会社 代表取締役社長 鈴木 達也：",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "戦略的パートナーとして日本・世界で同社の事業展開をサポート出来る事を大変嬉しく思います",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "「今年2月のNyobolt Japan設立、そして高砂工業との提携は当社の負極活性材料生産に於いて大きな飛躍を意味します",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "熱処理設備メーカーの高砂工業、東北大学発スタートアップ「株式会社3DC」へ出資",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "高砂工業株式会社（岐阜県土岐市）は、この度英国ケンブリッジに本社を置く急速充電技術のリーダー、Nyobolt Limitedへの戦略的投資を行いました",
+    "url": "https://news.3rd-in.co.jp/article/bdf24a66-39f5-11f0-84ed-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "高砂工業は、これらの技術を日本および英国において共同で発展させるため、Nyoboltの独自技術である負極材料にフォーカスし、パイロット生産の体制強化を目指すなど、双方の協力を深化させていく方針です",
+    "url": "https://news.3rd-in.co.jp/article/bdf24a66-39f5-11f0-84ed-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "一方、Nyobolt共同設立者兼CEOのサイ・シバレディ氏は、「今年2月にNyobolt Japanが設立されたこと、そして高砂工業との提携は、当社にとって大きな飛躍です",
+    "url": "https://news.3rd-in.co.jp/article/bdf24a66-39f5-11f0-84ed-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "から提供を受けた記事を日本向けに翻訳・編集したものです",
+    "url": "https://www.zaikei.co.jp/article/20261020/874245.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Nyobolt Instant Power | Fast-charging Battery Technology ... — Combining ultrafast charging with high power and long cycle life, Nyobolt’s breakthrough solutions unlock the potential of battery technology. World-leading electric vehicles and industrial robots are just the start.",
+    "url": "https://nyobolt.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "高砂工業、次世代急速充電技術Nyobolt（英）へ戦略的投資 | 高砂工業... — May 26, 2025 · NyoboltはEV急速バッテリーを5分間で80％以上充電する偉業を世界に先立ち達成したパイオニアです。 同社システムはAI倉庫や長時間稼働を求められる大型車輛アプリケーションに導入され既に1.5億ドル以上の契約を獲得済みです。",
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "pass": 3
+   },
+   {
+    "quote": "高砂工業が革新の波を起こす！次世代急速充電企業Nyoboltに投資 — May 26, 2025 · 双方の持つ技術が結びつくことで、社会の重要課題に対応できると信じています」と語りました。 一方、Nyobolt共同設立者兼CEOのサイ・シバレディ氏は、「今年2月にNyobolt Japanが設立されたこと、そして高砂工業との提携は、当社にとって大きな飛躍です。",
+    "url": "https://news.3rd-in.co.jp/article/bdf24a66-39f5-11f0-84ed-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "Agility Robotics、人型ロボット「Digit 5」の電池にNyobolt採用 1日2... — Oct 20, 2026 · 米Agility Roboticsは2026年10月15日、人型ロボット「Digit 5」のバッテリー技術パートナーに、英ケンブリッジを拠点とするNyoboltを選んだと発表した。",
+    "url": "https://zaikei.co.jp/article/20261020/874245.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt Japan合同会社（東京都）の会社概要・役員 | Compalyze — 〒100-0005 東京都千代田区に本社を置くNyobolt Japan合同会社の企業情報。2025年設立、社会保険被保険者数2名。代表者 クラウディオカピーリア。役員1名・登記1件。",
+    "url": "https://compalyze.co.jp/company/4010003046639",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt Instant Power | About Us | Nyobolt — Learn about Nyobolt’s mission to revolutionise energy storage with ultra-fast charging batteries, cutting-edge technology, and sustainable performance.",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt - Wikipedia — Nyobolt is a UK-based energy storage technology company that develops batteries and energy storage systems. The company’s solutions are tailored for applications that benefit from rapid charging and long operational life.",
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt Instant Power | Fast-charging Battery Technology ... — Combining ultrafast charging with high power and long cycle life, Nyobolt’s breakthrough solutions unlock the potential of battery technology. World-leading electric vehicles and industrial robots are just the start. Nyobolt’s battery technology can handle >25,000 cycles without degradation.",
+    "url": "https://nyobolt.com/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt Instant Power | About Us | Nyobolt — His passion lies in clean energy and materials innovation, which drive Nyobolt’s unique high-power batteries with ultrafast charging times. Since founding Nyobolt in 2019, Sai has applied a whole systems approach to address the need for accessible power.",
+    "url": "https://nyobolt.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "High-power battery technology for Electric Vehicles - Nyobolt — More Power, Less Time. Nyobolt's pioneering high-power battery technology powers electric vehicle innovations that cannot wait.",
+    "url": "https://go.nyobolt.com/nyobolt-for-ev",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt Japan合同会社（東京都）の会社概要・役員 | Compalyze — 〒100-0005 東京都千代田区に本社を置くNyobolt Japan合同会社の企業情報。 2025年設立、社会保険被保険者数2名。 代表者 クラウディオカピーリア。 役員1名・登記1件。",
+    "url": "https://compalyze.co.jp/company/4010003046639",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt - 2026 Company Profile, Team, Funding, Competitors ...Nyobolt – Market Position & Workforce Comparison – 2026Nyobolt 2026 Company Profile: Valuation, Funding & Investors ...Nyobolt: Funding, Investors & Team (Nov 2026) | FundedIQN Nyobolt AS OF AUG 2026 COMPANY PROFILENyobolt AS OF AUG 2026 COMPANY PROFILENyobolt - Overview, News & Similar companies | ZoomInfo.com — Apr 7, 2026 · Nyobolt i",
+    "url": "https://tracxn.com/d/companies/nyobolt/__rT--9d8zXT9IOW43g87ss4wHtAVlaDfVMozARft6Yuk",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt – Market Position & Workforce Comparison – 2026 — Discover Nyobolt's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt 2026 Company Profile: Valuation, Funding & Investors ...Nyobolt: Funding, Investors & Team (Nov 2026) | FundedIQN Nyobolt AS OF AUG 2026 COMPANY PROFILENyobolt AS OF AUG 2026 COMPANY PROFILENyobolt - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, and executives for Nyobolt. Use the PitchBook Platform to explore the full profile",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt: Funding, Investors & Team (Nov 2026) | FundedIQ — How many employees does Nyobolt have? Nyobolt is in the 101-250 employee band. How does Nyobolt's funding compare to other Energy startups? Nyobolt's latest round of $810k is below the $15M median round size for Energy companies on FundedIQ across 2,284 tracked companies over the last two years.",
+    "url": "https://fundediq.co/nyobolt-nyobolt-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "N Nyobolt AS OF AUG 2026 COMPANY PROFILE — % $1B+ ~$160M $9M $150M+ <5 min OVERVIEW Nyobolt is a University of Cambridge spinout founded in 2019 by Professor Dame Clare Grey FRS DBE and Dr. Sai Shivareddy, commercialising a breakthrough in niobium tungsten oxide (NWO) anode materials that enable.",
+    "url": "https://siliconvalleyinvestclub.com/companies/nyobolt/tear-sheet.pdf",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Nyobolt team: 2 of 3 have an email address on file.",
+    "url": "https://fundediq.co/nyobolt-nyobolt-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/nyobolt-nyobolt-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Ultra-fast charging for humanoids is nearing reality. I will ... Oct 19, 2026 · Nyobolt (a British battery startup) combined its proprietary negative electrode material, battery structure, and power control circuitry. As a result, Digit 5 runs for 90 minutes and charges in 9 minutes.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Ultra-fast charging for humanoids is nearing reality. I will explain the mechanism and all related stocks.｜zaira",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ultra-fast charging for humanoids is nearing reality. I will explain the mechanism and all related stocks.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There is a technology called ultra-fast charging for humanoids.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "U.S.-based Agility Robotics has announced that its next-generation machine, Digit 5, will be equipped with a battery that 'charges in 9 minutes and runs for 90 minutes'.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I will write about the mechanism, why it is important, and even the related stocks.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "PART 1: What is this technology?",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Robot batteries are in the same family as smartphone batteries.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, if charging is slow, it's useless for work.",
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Nyobolt - LinkedIn With a robust patent portfolio and a global footprint, Nyobolt unlocks next-gen industrial performance across AI data centers, warehouse robotic automation, and electrified heavy-duty...",
+    "url": "https://www.linkedin.com/company/nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt | LinkedIn With a robust patent portfolio and a global footprint, Nyobolt unlocks next-gen industrial performance across AI data centers, warehouse robotic automation, and electrified heavy-duty...",
+    "url": "https://na.linkedin.com/company/nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "Pok Ki Chung - Nyobolt | LinkedInJohn Corley - Scientist at Nyobolt | LinkedInAymun K. - Mechanical Engineer at Nyobolt | LinkedInNyobolt | LinkedInNyobolt | LinkedIn · Experience: Nyobolt · Education: Worcester Polytechnic Institute · Location: Boston · 500+ connections on LinkedIn. Scientist at Nyobolt · Scientist in the materials R&D team at Nyobolt developing next generation battery materials ",
+    "url": "https://www.linkedin.com/in/pkchung",
+    "pass": 3
+   },
+   {
+    "quote": "John Corley - Scientist at Nyobolt | LinkedInAymun K. - Mechanical Engineer at Nyobolt | LinkedInNyobolt | LinkedInNyobolt | LinkedIn Scientist at Nyobolt · Scientist in the materials R&D team at Nyobolt developing next generation battery materials for fast charging and processes for recycling. · Experience: Nyobolt ·... Mechanical Engineer at Nyobolt · Experienced Mechanical Engineer with a demon",
+    "url": "https://uk.linkedin.com/in/john-corley-10162710a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Apex Automotor | Remember the Nyobolt concept | Facebook Jun 28, 2024 · Nyobolt’s technology not only transforms the Nyobolt EV but also has the potential to enable other automakers to build lighter, better-handling sports cars, free from the constraints of legacy battery technology.",
+    "url": "https://www.facebook.com/groups/1939836749567520/posts/3681513268733184/",
+    "pass": 3
+   },
+   {
+    "quote": "UK start-up Nyobolt has developed... - Future Mobility Asia ... Jun 28, 2024 · UK start-up Nyobolt has developed an electric car battery that successfully charged from 10% to 80% in under five minutes in its live demonstration.",
+    "url": "https://www.facebook.com/FutureMobilityAsiadmg/posts/uk-start-up-nyobolt-has-developed-an-electric-car-battery-that-successfully-char/442581215401242/",
+    "pass": 3
+   },
+   {
+    "quote": "EVtopcars - A UK start-up called Nyobolt has developed an ... Oct 14, 2024 · A UK start-up called Nyobolt has developed an electric car battery that can charge from 10% to 80% in just 4 minutes and 37 seconds! This breakthrough...",
+    "url": "https://www.facebook.com/evtopcars/photos/a-uk-start-up-called-nyobolt-has-developed-an-electric-car-battery-that-can-char/514205504866454/",
+    "pass": 3
+   },
+   {
+    "quote": "Nyobolt has partnered with bespoke design firm CALLUMdesigns ... Jun 13, 2023 · Nyobolt has partnered with bespoke design firm CALLUMdesigns to present an EV concept which claims can add 155 miles of range in under 6 minutes.",
+    "url": "https://www.facebook.com/reel/1368606240374704/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Nyobolt (@nyobolt) / X 🔋 At Nyobolt, we are advocating and developing smaller, more powerful batteries that maximise charging efficiency, ultimately helping to balance charging infrastructure and the world's mobility needs.",
+    "url": "https://x.com/nyobolt",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Nyobolt (@nyobolt) / X - x.com 🔋 At Nyobolt, we are advocating and developing smaller, more powerful batteries that maximise charging efficiency, ultimately helping to balance charging infrastructure and the world's mobility needs.",
+    "url": "https://x.com/nyobolt/with_replies",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nyobolt.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nyobolt.com/resources/news/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nyobolt.com/ai-data-centre-power-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nyobolt.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nyobolt.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nyobolt.com/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://nyobolt.com/wp-content/uploads/2026/10/Agility_PR-Thumbnail_Nyobolt_logos-top-right_v2_3240x2160-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kyodonewsprwire.jp/release/202505269475",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.3rd-in.co.jp/article/bdf24a66-39f5-11f0-84ed-9ca3ba083d71",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zaikei.co.jp/article/20261020/874245.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Nyobolt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.nyobolt.com/nyobolt-for-ev",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/nyobolt/__rT--9d8zXT9IOW43g87ss4wHtAVlaDfVMozARft6Yuk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/nyobolt",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/442913-41",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/nyobolt-nyobolt-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/nyobolt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://na.linkedin.com/company/nyobolt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/pkchung",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/john-corley-10162710a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1939836749567520/posts/3681513268733184/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FutureMobilityAsiadmg/posts/uk-start-up-nyobolt-has-developed-an-electric-car-battery-that-successfully-char/442581215401242/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/evtopcars/photos/a-uk-start-up-called-nyobolt-has-developed-an-electric-car-battery-that-can-char/514205504866454/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/1368606240374704/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nyobolt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nyobolt/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nyobolt 日本 導入",
+   "results": [
+    "https://nyobolt.com/home/",
+    "https://kyodonewsprwire.jp/release/202505269475",
+    "https://news.3rd-in.co.jp/article/bdf24a66-39f5-11f0-84ed-9ca3ba083d71",
+    "https://zaikei.co.jp/article/20261020/874245.html",
+    "https://compalyze.co.jp/company/4010003046639",
+    "https://gritarts.co.jp/industry-news/robotics-physical-ai-1792364030749",
+    "https://www.autocar.jp/post/941846"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nyobolt 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://nyobolt.com/about-us/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nyobolt Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Nyobolt",
+    "https://nyobolt.com/home/",
+    "https://nyobolt.com/about-us/",
+    "https://go.nyobolt.com/nyobolt-for-ev",
+    "https://compalyze.co.jp/company/4010003046639",
+    "https://kyodonewsprwire.jp/release/202505269475",
+    "https://www.houjin.info/detail/4010003046639/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nyobolt manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Nyobolt white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nyobolt founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/nyobolt/__rT--9d8zXT9IOW43g87ss4wHtAVlaDfVMozARft6Yuk",
+    "https://compworth.com/company/nyobolt",
+    "https://pitchbook.com/profiles/company/442913-41",
+    "https://fundediq.co/nyobolt-nyobolt-com-funding/",
+    "https://siliconvalleyinvestclub.com/companies/nyobolt/tear-sheet.pdf",
+    "https://siliconvalleyinvestclub.com/id/companies/nyobolt/tear-sheet.pdf",
+    "https://www.zoominfo.com/c/nyobolt-ltd/535106774"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Nyobolt",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/zaira/n/n8b56133b018b?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/goma1212goma/n/n38b75fd0a4fa",
+    "https://note.com/richemaru/n/naa5c56321e40",
+    "https://note.com/saiko6459/n/nc86e78308183",
+    "https://note.com/natty_toucan386/n/nf4936ae22459"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Nyobolt",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Nyobolt",
+   "results": [
+    "https://www.linkedin.com/company/nyobolt",
+    "https://na.linkedin.com/company/nyobolt",
+    "https://www.linkedin.com/in/pkchung",
+    "https://uk.linkedin.com/in/john-corley-10162710a",
+    "https://uk.linkedin.com/in/aymunnadeemkhan",
+    "https://jp.linkedin.com/company/nyobolt",
+    "https://de.linkedin.com/company/nyobolt"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Nyobolt",
+   "results": [
+    "https://www.facebook.com/groups/1939836749567520/posts/3681513268733184/",
+    "https://www.facebook.com/FutureMobilityAsiadmg/posts/uk-start-up-nyobolt-has-developed-an-electric-car-battery-that-successfully-char/442581215401242/",
+    "https://www.facebook.com/evtopcars/photos/a-uk-start-up-called-nyobolt-has-developed-an-electric-car-battery-that-can-char/514205504866454/",
+    "https://www.facebook.com/reel/1368606240374704/",
+    "https://www.facebook.com/TechExplorerZone/photos/nyobolt-a-pioneering-company-from-cambridge-has-introduced-a-groundbreaking-ev-b/487839050811255/",
+    "https://www.facebook.com/TechnologyInnovation1/posts/the-nyobolt-35kwh-battery-pack-set-a-new-record-for-the-fastest-charging-battery/793256216294360/",
+    "https://www.facebook.com/evtopcars/posts/a-uk-start-up-called-nyobolt-has-developed-an-electric-car-battery-that-can-char/514205891533082/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nyobolt note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Nyobolt",
+    "https://pulse2.com/nyobolt-profile-sai-shivareddy-interview/",
+    "https://siliconvalleyinvestclub.com/id/companies/nyobolt/team/dr-sai-shivareddy/",
+    "https://siliconvalleyinvestclub.com/ja/companies/nyobolt/",
+    "https://www.theofficialboard.com/org-chart/nyobolt",
+    "https://fundediq.co/nyobolt-nyobolt-com-funding/",
+    "https://uk.linkedin.com/in/richard-green-a2277"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nyobolt X 投稿",
+   "results": [
+    "https://x.com/nyobolt",
+    "https://x.com/nyobolt/with_replies",
+    "https://nyobolt.com/",
+    "https://www.instagram.com/nyobolt/",
+    "https://hirobotmap.com/landing/nyobolt/",
+    "https://x.com/agilityrobotics/status/2110800374793699601",
+    "https://news.livedoor.com/article/detail/32710275/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部27頁・検索12回）"
+ }
+}

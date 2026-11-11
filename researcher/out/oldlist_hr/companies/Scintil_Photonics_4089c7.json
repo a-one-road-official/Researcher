@@ -1,0 +1,1467 @@
+{
+ "name": "Scintil Photonics",
+ "aliases": [],
+ "context": "旧営業リスト｜Semiconductors / Electronics Manufacturing｜送付済み",
+ "researched_at": "2026-11-11T03:31:45.384104+00:00",
+ "official_url": "https://www.scintil-photonics.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$67,000",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$58,000,000",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Grenoble, Auvergne-Rhône-Alpes, France",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The SCINTIL Heterogeneous Integrated Photonics process technology opens a new era of integrated laser solutions.",
+    "url": "https://www.scintil-photonics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SHIP™ process technology leverages standard Silicon Photonics fabrication and has been qualified in commercial foundries to produce integrated silicon photonics at scale.",
+    "url": "https://www.scintil-photonics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VP Process Engineering",
+    "url": "https://www.scintil-photonics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Laureate of the French Tech 120 program in 2026",
+    "url": "https://www.scintil-photonics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Laureate of the European Innovation Council Accelerator 2021 program",
+    "url": "https://www.scintil-photonics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Grand Prize at the Trophées des Futures Licornes 2026 (Future Unicorn Trophies)",
+    "url": "https://www.scintil-photonics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Laureate of the French Tech 2030 program 2022, 2023",
+    "url": "https://www.scintil-photonics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Laureate of the Telecom Paris Digital \"Prix des Technologies Numériques\" in 2023",
+    "url": "https://www.scintil-photonics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "タワーセミコンダクターのRF事業部門副社長兼ゼネラルマネージャーであるDr. Ed Preislerは次のように述べています",
+    "url": "https://jp.towersemi.com/2026/02/17/02172026/",
+    "pass": 3
+   },
+   {
+    "quote": "download press release",
+    "url": "https://jp.towersemi.com/2026/02/17/02172026/",
+    "pass": 3
+   },
+   {
+    "quote": "or For press inquiries in France or Europe, please contact",
+    "url": "https://jp.towersemi.com/2026/02/17/02172026/",
+    "pass": 3
+   },
+   {
+    "quote": "Tower Semiconductor Press Release",
+    "url": "https://global-net.co.jp/archives/12403",
+    "pass": 3
+   },
+   {
+    "quote": "Some high-profile investors—Yotta Capital Partners, NGP Capital, NVIDIA, and BNP Paribas Développement—are backing the company. They’re gearing up to ramp production of their",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "This marks a pretty major milestone in co-packaged optical solutions. Meanwhile, Lithuanian startup Astrolight is pushing forward with space-based laser communications.",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Production Scaling with LEAF Light™",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "The Role of Precisely Spaced DFB Lasers",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "on one platform. This approach boosts",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "—as CEO Matt Crowley explains—offers better scalability, power efficiency, and integration density. These improvements don’t just boost performance; they help",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "With data processing demands exploding, these sustainability gains can’t be ignored.",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": ", a key external laser source for co-packaged optics systems. Now it’s moving into high-volume production, shifting from R&D into real-world deployment in advanced network architectures.",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "CTO Sylvie Menezo points out that integrating precisely spaced",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "onto silicon photonic circuits is crucial for future AI data center performance. This precision lets them pull off efficient dense wavelength division multiplexing (DWDM), which cranks up",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Yotta Capital and NGP Capital both believe Scintil’s work is essential for the future of AI infrastructure. With integrated photonics gaining steam around the world, investors seem pretty optimistic about the",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Alan Weckel, an analyst at 650 Group, predicts that the network scaling market’s shift from copper to optical could top",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Space communication projects—think Astrolight—are pushing for fast, secure, and high-capacity data from orbit to Earth. That’s not sci-fi anymore; it’s actually happening.",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic Mythos Spurs Cybersecurity Alarm — Experts Say Threat Preexisted",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Louisiana Tech Joins National Initiative Boosting Semiconductor Workforce",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": ", your premier source for insightful and technical",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "in the field of optical sciences. Our mission is to illuminate the fascinating world of optics, offering valuable resources and knowledge to both enthusiasts and professionals.",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "processes available at commercial CMOS foundries, among key targets in the",
+    "url": "https://ala.associates/wp-content/uploads/2024/03/Scintil-Photonics-case-study-2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• Conducted media training for spokespeople",
+    "url": "https://ala.associates/wp-content/uploads/2024/03/Scintil-Photonics-case-study-2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "standard silicon photonics technology in production at",
+    "url": "https://ala.associates/wp-content/uploads/2024/02/240227-Scintil-Photonics-and-Tower-Seminconductor-EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "production at Tower Semiconductor , marking a pivotal step forward in the",
+    "url": "https://ala.associates/wp-content/uploads/2024/02/240227-Scintil-Photonics-and-Tower-Seminconductor-EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Scintil’s fully integrated circuits are made from a unique proprietary technology, relying",
+    "url": "https://ala.associates/wp-content/uploads/2024/02/240227-Scintil-Photonics-and-Tower-Seminconductor-EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "amplifiers to bring improved performance, speed, reliability and high-density at low",
+    "url": "https://ala.associates/wp-content/uploads/2024/02/240227-Scintil-Photonics-and-Tower-Seminconductor-EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "package, while demonstrating improved ageing and robustness.",
+    "url": "https://ala.associates/wp-content/uploads/2024/02/240227-Scintil-Photonics-and-Tower-Seminconductor-EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "global foundry,” said Sylvie Menezo, president & CEO of Scintil Photonics. “In our",
+    "url": "https://ala.associates/wp-content/uploads/2024/02/240227-Scintil-Photonics-and-Tower-Seminconductor-EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "commitment to advancing communication technology and products, our work together",
+    "url": "https://ala.associates/wp-content/uploads/2024/02/240227-Scintil-Photonics-and-Tower-Seminconductor-EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "performance and scalabillity. This will position Scintil for high -volume production to",
+    "url": "https://ala.associates/wp-content/uploads/2024/02/240227-Scintil-Photonics-and-Tower-Seminconductor-EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "proven production building blocks from Tower ,” said Edward Preisler, vice president",
+    "url": "https://ala.associates/wp-content/uploads/2024/02/240227-Scintil-Photonics-and-Tower-Seminconductor-EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SCINTIL Photonics has approximately",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The competition for AI semiconductors is no longer decided solely by \"how fast they can calculate.\" This is because how you connect a large number of GPUs and accelerators determines both performance and power consumption. In fact, NVIDIA itself has launched switch products using silicon photonics, and light is no longer a laboratory topic; it has entered the design theory of AI infrastructure.",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Ayar Labs' strength lies in its ability to translate optical I/O into real-world implementation as chiplets. They are the player that most \"smells like mass production.\"",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If Ayar Labs is a company that strongly pushes for the implementation of optical I/O, Lightmatter is a company that changes the very shape of the chip based on the premise of light. Their vision for the technology is extremely grand.",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2025, it raised $58 million, and in February 2026, it announced the start of providing DWDM lasers for AI in partnership with Tower Semiconductor.",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Here, the phase of light has completely changed. It is no longer a research topic or a prototyping theme, but a supply chain theme. The leader in AI infrastructure has begun to intervene even in the production capacity of optical components. This is a move that changes the atmosphere of the industry.",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I believe Ayar Labs is currently the most prominent independent player. The reason is simple: they have the three key elements of funding, product cohesion, and realistic implementation.",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Scintil is a quiet candidate for victory that works effectively beneath the surface. In the world of components, companies that control the supply chain can sometimes be more powerful than the main players.",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Day NVIDIA Bought \"Light\" for 600 Billion Yen—Why Sumitomo Electric Was Not Chosen: The Hegemony of Silicon Photonics and Japan's \"Great Technology, But...\" Problem｜こまさか とも",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Day NVIDIA Bought \"Light\" for 600 Billion Yen—Why Sumitomo Electric Was Not Chosen: The Hegemony of Silicon Photonics and Japan's \"Great Technology, But...\" Problem",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA invested a total of $4 billion (approximately 600 billion yen) in two optical component manufacturers",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". It is one of the manufacturing companies currently attracting the most attention from domestic investors, as it continues to hit record highs since its listing and is expected to achieve record operating profits for the seventh consecutive term.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This was a list presented in parallel without any ranking.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric's technical prowess is solid. It is a leader in increasing the output of CW (continuous wave) lasers, which will become mainstream as light sources for CPO, and it also mass-produces electro-absorption modulated lasers (EML).",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Its 4-inch wafer process for InP compound semiconductor substrates has industry-leading cost competitiveness",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At its growth strategy briefing in November 2025, it announced a plan to expand production capacity for optical devices for data center buildings to 12 times the 2023 level by 2028, as well as a production increase investment on the scale of 100 billion yen. Based on the outlook that the composition ratio of CW lasers in the optical transceiver market will expand from 24% in 2024 to",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Introducing the world's first single chip dense multi-wavelength laser source to revolutionize AI scale-up photonic interconnects. With unrivaled control over the frequency of each of the optical carriers, we push the limits of speed beyond 1 terabit per second in a single fiber with half of the power and one tenth the latency of the best competing solution.",
+    "url": "https://www.scintil-photonics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "（NASDAQ/TASE: TSEM）と次世代AIインフラ向けヘテロジニアス（異種）統合フォトニクス技術のリーダーであるScintil Photonicsは本日、ScintilのSHIP™（Scintil Heterogeneous Integrated Photonics）技術を用いた、世界初となるヘテロジニアス統合型DWDMレーザー光源の提供開始を発表しました",
+    "url": "https://jp.towersemi.com/2026/02/17/02172026/",
+    "pass": 3
+   },
+   {
+    "quote": "タワーセミコンダクター株式会社(NASDAQ:TSEM,TASE:TSEM)は、高付加価値のアナログ半導体ソリューションのファンドリ リーダーとして、コンシューマー、産業機械、車載用、モバイル、インフラ、医療用、航空宇宙・防衛などの成長市場で集積回路 (IC)の技術・開発・製造プラットフォームを提供しています",
+    "url": "https://jp.towersemi.com/2026/02/17/02172026/",
+    "pass": 3
+   },
+   {
+    "quote": "Company Lays Off 1,000 Employees Amid Deployment of 50 Robots",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Affiliate Disclosure: Our posts may contain affiliate links, which generate revenue for our site at no cost to you. This helps pay our bills.",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "SCINTIL Photonics Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SCINTIL Photonics Revenue",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At SCINTIL Photonics",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of SCINTIL Photonics?",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SCINTIL Photonics generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SCINTIL Photonics have?",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "However, in December 2025, Marvell announced its acquisition.",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "the foundation that carries the light",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The targets are laser chips and optical sub-assemblies used for next-generation optical interconnects in AI data centers. There is one other company that was listed on NVIDIA's partner list in the same technical field as these two companies:",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To understand the significance of this investment, it is necessary to know the technical barriers NVIDIA is currently facing.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In a technical blog published by NVIDIA in August 2025, three companies were listed as suppliers of CPO ELS lasers and sub-assemblies. \"Lumentum, Sumitomo, and Coherent\"—Sumitomo Electric was explicitly listed in the exact same category as the two companies that received the investment this time.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "About Production: This article was produced using generative AI as a tool to assist in research and information organization. The author performed all selection of sources, fact-checking, analysis, structuring, and final editorial decisions. Sources are listed in the main text and the collection of source links.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "上場来高値を更新し続け、7期連続の営業最高益が見込まれる、いま国内投資家の注目度が最も高い製造業の一社です",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞 — 「住友電工株価が上場来高値 『対米投資の日米連合に参加』報道で」 2026年2月19日",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "※1：Scintil Photonics Raises $58M to Scale Integrated Photonics for AI Factories（",
+    "url": "https://www.atx-research.co.jp/contents/scintil-photonics-raises-58m-to-scale-integrated-photonics-for-ai-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Scintil Photonics Secures $58M to Scale Photonics for AI Factories – ICO Optics",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Scintil Photonics Secures $58M to Scale Photonics for AI Factories",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "fueled by advanced manufacturing and deployment.",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Scintil Photonics raises $58 million to scale its tech for AI factories…",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Kalrez Seals Boost Semiconductor Manufacturing Efficiency and Yields",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Next points of interest = Laser supply / Manufacturing yield / Standardization / Advanced packaging",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA invested a total of $4 billion (approximately 600 billion yen) in two optical component manufacturers",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". It is one of the manufacturing companies currently attracting the most attention from domestic investors, as it continues to hit record highs since its listing and is expected to achieve record operating profits for the seventh consecutive term.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". As the construction of AI factories accelerates around the world, NVIDIA's movement of funds shows that these components are becoming strategic materials.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"U.S.-based manufacturing capabilities\"",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Lumentum announced that it would build new manufacturing facilities with these funds, and Coherent stated that it would expand its manufacturing capabilities within the United States. NVIDIA CEO Jensen Huang spoke of the partnership with both companies in the context of \"gigawatt-class AI factories.\"",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, having manufacturing bases within the United States and being able to direct investment there.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric's optical device manufacturing bases are concentrated in Japan, centered around the Yokohama Works and Yamanashi Plant, and in Vietnam overseas. The 100 billion yen investment for production capacity expansion is also targeted at \"domestic factories such as the Yokohama Works.\"",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2026, the company's participation in a Japan-US alliance for investment and financing in the US, led by SoftBank Group, was reported, causing its stock price to surge. However, the content of this is seen as related to power cables, and there has been no specific announcement regarding a US manufacturing base for optical devices at this time.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, the vision NTT's IOWN is aiming for is to bring light into the interior of chips in the 2030s, whereas the $4 billion investment by NVIDIA is targeted at CPO as an immediate solution to the bandwidth bottlenecks of today's AI factories. Even though it is the same \"light,\" the time horizons and approaches differ.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The question being asked is, when a company at the center of a platform begins to select partners based on capital, purchase agreements, and the geography of manufacturing bases,",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://nvidianews.nvidia.com/news/nvidia-spectrum-x-co-packaged-optics-networking-switches-ai-factories",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.scintil-photonics.com/post/scintil-photonics-raises-58m-to-scale-integrated-photonics-for-ai-factories",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「U.S.-based manufacturing capabilities（米国内の製造能力）」",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "https://nvidianews.nvidia.com/news/nvidia-spectrum-x-co-packaged-optics-networking-switches-ai-factories",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.scintil-photonics.com/post/scintil-photonics-raises-58m-to-scale-integrated-photonics-for-ai-factories",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "光集積チップを開発するScintil Photonics、AI向けの事業拡大のため5,800万ドルを調達、NVIDIAも出資 ｜アドバンスドテクノロジーX株式会社",
+    "url": "https://www.atx-research.co.jp/contents/scintil-photonics-raises-58m-to-scale-integrated-photonics-for-ai-factories",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンスドテクノロジーX株式会社 代表取締役",
+    "url": "https://www.atx-research.co.jp/contents/scintil-photonics-raises-58m-to-scale-integrated-photonics-for-ai-factories",
+    "pass": 3
+   },
+   {
+    "quote": "タワーセミコンダクター株式会社(NASDAQ:TSEM,TASE:TSEM)は、高付加価値のアナログ半導体ソリューションのファンドリ リーダーとして、コンシューマー、産業機械、車載用、モバイル、インフラ、医療用、航空宇宙・防衛などの成長市場で集積回路 (IC)の技術・開発・製造プラットフォームを提供しています",
+    "url": "https://jp.towersemi.com/2026/02/17/02172026/",
+    "pass": 3
+   },
+   {
+    "quote": "複数のファブを使ってサービスを提供するために、タワーセミコンダクターはイスラエルに 2 か所(150mm と 200mm)、米国に 2 か所(200mm)、またタワーセミコンダクターが51%の株式を保有する日本のTPSCoに2 か所(200mm と 300mm)の生産拠点を保有し、イタリアのアグラテでは300mm工場をSTと共有、またニューメキシコ州のインテルの300ｍｍ工場でも生産が可能となっています",
+    "url": "https://jp.towersemi.com/2026/02/17/02172026/",
+    "pass": 3
+   },
+   {
+    "quote": "〒104-0043 東京都中央区湊1-2-10 堀川ビル 6F",
+    "url": "https://global-net.co.jp/archives/12403",
+    "pass": 3
+   },
+   {
+    "quote": "〒104-0043 東京都中央区湊1-2-10 堀川ビル 4F",
+    "url": "https://global-net.co.jp/archives/12403",
+    "pass": 3
+   },
+   {
+    "quote": "The Day NVIDIA Bought \"Light\" for 600 Billion Yen—Why Sumitomo Electric Was Not Chosen: The Hegemony of Silicon Photonics and Japan's \"Great Technology, But...\" Problem｜こまさか とも",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Day NVIDIA Bought \"Light\" for 600 Billion Yen—Why Sumitomo Electric Was Not Chosen: The Hegemony of Silicon Photonics and Japan's \"Great Technology, But...\" Problem",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric's optical device manufacturing bases are concentrated in Japan, centered around the Yokohama Works and Yamanashi Plant, and in Vietnam overseas. The 100 billion yen investment for production capacity expansion is also targeted at \"domestic factories such as the Yokohama Works.\"",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2026, the company's participation in a Japan-US alliance for investment and financing in the US, led by SoftBank Group, was reported, causing its stock price to surge. However, the content of this is seen as related to power cables, and there has been no specific announcement regarding a US manufacturing base for optical devices at this time.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan,",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Many Japanese readers may have the perception that \"optoelectronic fusion is a field where Japan is leading.\"",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The movement of NVIDIA vertically integrating its supply chain through capital power is proceeding on a different coordinate axis and at a different speed than the \"light\" being discussed within Japan.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://sumitomoelectric.com/jp/sites/japan/files/2025-11/download_documents/20251113ceo_data.pdf",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Nikkei — \"Sumitomo Electric Stock Price Hits All-Time High Following Reports of Participation in 'Japan-US Alliance for Investment in the US'\" February 19, 2026",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan — \"Switches Equipped with IOWN Photonics-Electronics Devices to be Commercialized in FY2026—Aiming for Monthly Production of 30,000 Units\" February 5, 2026",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://japan.cnet.com/article/35243582/",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが6000億円で\"光\"を買った日——住友電工はなぜ選ばれなかったのか：シリコンフォトニクスの覇権構造と、日本の\"技術はあるが\"問題｜こまさか とも",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが6000億円で\"光\"を買った日——住友電工はなぜ選ばれなかったのか：シリコンフォトニクスの覇権構造と、日本の\"技術はあるが\"問題",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "日本の読者の多くは「光電融合＝日本が先行している分野」という認識を持っているかもしれません",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが資本力でサプライチェーンを垂直統合しつつある動きは、日本国内で語られている「光」とは別の座標軸で、別のスピードで進んでいます",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "半導体材料、製造装置、電子部品——多くの日本企業が部品レベルでは世界トップクラスの技術を持ちながら、エコシステムの中心には位置していないという構造は、繰り返し指摘されてきました",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "https://sumitomoelectric.com/jp/sites/japan/files/2025-11/download_documents/20251113ceo_data.pdf",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞 — 「住友電工株価が上場来高値 『対米投資の日米連合に参加』報道で」 2026年2月19日",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞 — 「住友電工、データセンター光機器で増産投資1000億円 28年度までに」 2025年12月18日",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japan — 「IOWN光電デバイス搭載スイッチを26年度商用化——月産3万台体制へ」 2026年2月5日",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "https://japan.cnet.com/article/35243582/",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SCINTIL Photonics | Dense Multi-Wavelength Laser Source For ... — Scintil Photonics is the global leader in DWDM laser sources for AI. Using its SHIP™ (Scintil Heterogeneous Integrated Photonics) technology, Scintil developed LEAF Light™, the world's first single-chip, DWDM-native laser source for high-density and low power optical connectivity in scale-up networks.",
+    "url": "https://www.scintil-photonics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "光集積チップを開発するScintil Photonics、AI向けの事業拡大のため5,... — Oct 9, 2025 · フランス・グルノーブルを拠点とするScintil Photonicsは、AIデータセンター向けの集積フォトニクス技術を展開する企業である。 2025年9月、同社はシリーズBとして5000万ユーロ（約5800万ドル）の資金調達を実施した。",
+    "url": "https://www.atx-research.co.jp/contents/scintil-photonics-raises-58m-to-scale-integrated-photonics-for-ai-factories",
+    "pass": 3
+   },
+   {
+    "quote": "タワーセミコンダクターとScintil Photonics、AIインフラ向け世界初の... — Feb 17, 2026 · ※本リリースは2026年2月17日に発表されたリリースを訳したものです タワーセミコンダクターとScintil Photonics、AIインフラ向け世界初のヘテロジニアス統合型DWDMレーザーの提供開始を発表 タワーのグローバル生産体制とScintil独自のSHIP™プラットフォームの融合により、次世代ハイパースケールAI ...",
+    "url": "https://jp.towersemi.com/2026/02/17/02172026/",
+    "pass": 3
+   },
+   {
+    "quote": "Tower SemiconductorとScintil Photonics、AIデータセンター向けDWDM... — Tower Semiconductorと、フォトニクス技術企業の仏Scintil Photonicsは2026年2月17日、AIデータセンター向けとして異種集積型のDWDM（高密度波長分割多重）レーザ光源の提供を開始したと発表した。AIインフラ用途での実用化を想定した世界初の単一チップ型レーザと位置付ける。 Scintil Photonicsの光集積技術 ...",
+    "url": "https://global-net.co.jp/archives/12403",
+    "pass": 3
+   },
+   {
+    "quote": "Scintil Photonicsは5800万ドルを確保し、AI工場向けの統合フォトニク... — Sep 9, 2025 · AIインフラストラクチャ用の統合フォトニックシステムオンチップ（PSOC）ソリューションを開発している企業であるG renobleベースのScintil Photonicsは、5,800万ドルのシリーズBラウンドを閉鎖しました。この資金は、世界の雇用を促進し、生産を加速し、業界で最初のシングルチップDWDMライト ...",
+    "url": "https://www3.to/scintil-photonicsは5800万ドルを確保し、ai工場向けの統合フォト/",
+    "pass": 3
+   },
+   {
+    "quote": "SCINTIL Photonics | Dense Multi-Wavelength Laser Source For ... — SCINTIL Photonics is a fabless company developing and commercializing silicon photonics with integrated lasers for the AI datacenters. Based on SCINTIL Heterogeneous Integrated Photonics (SHIP™) technology, we enable low-latency, high-density and power-efficient ultra-high-speed optical interconnects. SCINTIL is an international com",
+    "url": "https://www.scintil-photonics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ABOUT - SCINTIL Photonics — SCINTIL Photonics is a fabless company developing and commercializing laser-integrated photonics for the AI data center. Based on SCINTIL Heterogeneous Integrated Photonics (SHIP™) technology, we enable low-latency, high-density and power-efficient ultra-high-speed optical interconnects.",
+    "url": "https://www.scintil-photonics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "光集積チップを開発するScintil Photonics、AI向けの事業拡大のため5,... — Oct 9, 2025 · フランス・グルノーブルを拠点とするScintil Photonicsは、AIデータセンター向けの集積フォトニクス技術を展開する企業である。 2025年9月、同社はシリーズBとして5000万ユーロ（約5800万ドル）の資金調達を実施した。主導はYotta ...",
+    "url": "https://www.atx-research.co.jp/contents/scintil-photonics-raises-58m-to-scale-integrated-photonics-for-ai-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Scintil Photonics Secures $58M to Scale Photonics for AI ... — Jun 4, 2026 · The race to advance AI infrastructure and next-generation communications just took a big leap. Grenoble-based Scintil Photonics, a pioneer in heterogeneous integrated photonics, landed $58 million (€50 million) in Series B funding to speed up its tech development and reach more of the world. Some high-profile investors—Yo",
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "pass": 3
+   },
+   {
+    "quote": "Tower Semiconductor and Scintil Photonics Announce ... — Feb 17, 2026 · About Scintil Photonics Scintil Photonics is the global leader in DWDM laser sources for AI. Using its SHIP™ (Scintil Heterogeneous Integrated Photonics) technology, Scintil developed LEAF Light™, the world’s first single-chip DWDM laser source for high-density optical connectivity in scale-up networks.",
+    "url": "https://towersemi.com/2026/02/17/02172026/",
+    "pass": 3
+   },
+   {
+    "quote": "Scintil Photonics case study 2024 - ala.associates — FOR AN OPTOELECTRONICS COMPANY leading supplier of III-V augmented silicon Photonic Integrated Circuits (PICs) enabling ultrahigh-speed optical communications. ALA has worked with Scintil Photonics for six years in supporting its public relations and communications strategy from financing rounds to technological innovations and partnerships.",
+    "url": "https://ala.associates/wp-content/uploads/2024/03/Scintil-Photonics-case-study-2024.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Scintil achieves integration of III-V DFB lasers and ... — Grenoble, France, February 27, 2024 - Scintil Photonics, a leading supplier of innovative silicon Photonic Integrated Circuits (PICs), today announces the integration of III-V-DFB lasers and amplifiers with standard silicon photonics technology in production at Tower Semiconductor, marking a pivotal step forward in the reinforcement of Sci",
+    "url": "https://ala.associates/wp-content/uploads/2024/02/240227-Scintil-Photonics-and-Tower-Seminconductor-EN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Scintil Photonics 2026 Company Profile: Valuation, Funding ...SCINTIL Photonics - 2026 Company Profile, Team, Funding ...SCINTIL Photonics Revenue, Funding & Valuation - prospeo.ioSCINTIL Photonics – Company Insights & Financial Strength – 2026Scintil Photonics Funding History: $72.4M | Indexed.vcScintil Photonics: Funding, Investors & Team (Nov 2026)SCINTIL Photonics — investors & funding | gritt",
+    "url": "https://pitchbook.com/profiles/company/300931-75",
+    "pass": 3
+   },
+   {
+    "quote": "SCINTIL Photonics - 2026 Company Profile, Team, Funding ... — Feb 16, 2026 · SCINTIL Photonics - About the company SCINTIL Photonics is a series B company based in Grenoble (France), founded in 2018 by Pascal Langlois. It operates as a Developer of silicon photonic integrated circuits. SCINTIL Photonics has raised $78.1M in funding from investors like Applied Materials, Innovacom and Bpifrance.",
+    "url": "https://tracxn.com/d/companies/scintilphotonics/__l1_czdSu26pxMfJGghzonyBGZ_ojjLEPzVauxSnJ9Hw",
+    "pass": 3
+   },
+   {
+    "quote": "SCINTIL Photonics Revenue, Funding & Valuation - prospeo.ioSCINTIL Photonics – Company Insights & Financial Strength – 2026Scintil Photonics Funding History: $72.4M | Indexed.vcScintil Photonics: Funding, Investors & Team (Nov 2026)SCINTIL Photonics — investors & funding | gritt.io — SCINTIL Photonics has revenue of $2,000,000, estimated valuation of $6,400,000, $58,000,000 in total funding. Find ",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SCINTIL Photonics – Company Insights & Financial Strength – 2026 — SCINTIL Photonics is gaining ground with estimated revenue of $3.5M, team of around 20+ employees, in Grenoble, proving resilience in changing conditions.",
+    "url": "https://compworth.com/company/scintil-photonics",
+    "pass": 3
+   },
+   {
+    "quote": "Scintil Photonics Funding History: $72.4M | Indexed.vc — Sep 30, 2026 · Scintil Photonics develops and commercializes silicon photonics with… Founded 2018. 11–50 employees. Grenoble, France. $72.4M raised across 3 rounds.",
+    "url": "https://indexed.vc/companies/scintil-photonics",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Startup Exploration: Part 3] Electricity is no longer enough ... Mar 23, 2026 · Scintil Photonics Raises $58M to Scale Integrated Photonics for AI Factories Scintil Photonics Raises $58M to Scale Integrated Photonics f www.scintil-photonics.com",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Day NVIDIA Bought \"Light\" for 600 Billion Yen—Why ... Mar 2, 2026 · In September 2025, it participated in the $58 million Series B round of the French startup Scintil Photonics. This was a venture-style involvement in multi-wavelength laser technology for CPO. In February 2026, it announced a joint development of 1.6T silicon photonics with Tower Semiconductor.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが6000億円で\"光\"を買った日——住友電工はなぜ選ばれなかったの... Mar 3, 2026 · 2025年9月、フランスのスタートアップ Scintil Photonics の5,800万ドルのシリーズBラウンドに参加しました。 CPO向け多波長レーザー技術への、ベンチャー投資的な関与です。 2026年2月には Tower Semiconductor と1.6Tシリコンフォトニクスの共同開発を発表しました。",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年2月18日版】本日の半導体ニュース：投資家・技術者向け重要ト... Feb 18, 2026 · ① Tower Semiconductor & Scintil Photonics：AIインフラ向け世界初のDWDMレーザー供給開始 詳細解説 ファウンドリ大手のTower SemiconductorとScintil Photonicsは、世界初となる「異種統合型DWDMレーザー（SHIP技術）」の供給開始を発表しました。",
+    "url": "https://note.com/semicon_news/n/nab7794ea4c96",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Startup Exploration: Part 3] Electricity is no longer enough. Semiconductors connected by light, the current state of silicon photonics｜半導体の森の安藤",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Startup Exploration: Part 3] Electricity is no longer enough. Semiconductors connected by light, the current state of silicon photonics",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As the computational load of AI increases, semiconductors struggle before they can get faster. They generate heat. They consume power. It becomes difficult to carry signals over long distances. The very premise of connecting with electricity is beginning to show its limits little by little. This has led to the emergence of the idea of carrying signals with light. It sounds like a future technology",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction: An era where \"how to connect\" is more important than computation",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Increasing GPUs → Data movement volume surges → Wiring power and heat increase → Connection becomes more difficult than the computing unit",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The competition for AI semiconductors is no longer decided solely by \"how fast they can calculate.\" This is because how you connect a large number of GPUs and accelerators determines both performance and power consumption. In fact, NVIDIA itself has launched switch products using silicon photonics, and light is no longer a laboratory topic; it has entered the design theory of AI infrastructure.",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is important here is that this is not about light \"completely driving out electricity.\" At least for the time being, copper wiring will remain for short distances and some connections. In fact, Jensen Huang also indicated at GTC in March 2026 that he intends to use both copper and light in the next generation. In other words, the battle is not about making everything light, but about where it",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Bandwidth shortage / Heat generation / Power consumption / Distance constraints / Increased complexity of inter-rack connections",
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Day NVIDIA Bought \"Light\" for 600 Billion Yen—Why Sumitomo Electric Was Not Chosen: The Hegemony of Silicon Photonics and Japan's \"Great Technology, But...\" Problem｜こまさか とも",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Day NVIDIA Bought \"Light\" for 600 Billion Yen—Why Sumitomo Electric Was Not Chosen: The Hegemony of Silicon Photonics and Japan's \"Great Technology, But...\" Problem",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA invested a total of $4 billion (approximately 600 billion yen) in two optical component manufacturers",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "$2 billion to Coherent and $2 billion to Lumentum",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". In addition to this, they have signed separate multi-year purchase agreements worth billions of dollars with each. The total combined value of the investments and purchase agreements far exceeds the publicly announced $4 billion.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The targets are laser chips and optical sub-assemblies used for next-generation optical interconnects in AI data centers. There is one other company that was listed on NVIDIA's partner list in the same technical field as these two companies:",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sumitomo Electric Industries",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". It is one of the manufacturing companies currently attracting the most attention from domestic investors, as it continues to hit record highs since its listing and is expected to achieve record operating profits for the seventh consecutive term.",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが6000億円で\"光\"を買った日——住友電工はなぜ選ばれなかったのか：シリコンフォトニクスの覇権構造と、日本の\"技術はあるが\"問題｜こまさか とも",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが6000億円で\"光\"を買った日——住友電工はなぜ選ばれなかったのか：シリコンフォトニクスの覇権構造と、日本の\"技術はあるが\"問題",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIAが2つの光学部品メーカーに計40億ドル（約6,000億円）を出資",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "Coherentに20億ドル、Lumentumに20億ドル",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "。これに加えて、それぞれと別枠で数十億ドル規模の複数年にわたる購入契約を締結しています。出資と購入契約を合わせた総額は、公表されている40億ドルをさらに大きく上回ります。",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "対象は、AIデータセンターの次世代光配線に使われるレーザーチップと光学サブアセンブリです。この2社と同じ技術領域で、NVIDIAの同じパートナーリストに名を連ねていた企業がもう一つあります。",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "です。上場来高値を更新し続け、7期連続の営業最高益が見込まれる、いま国内投資家の注目度が最も高い製造業の一社です。",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ住友電工は今回の出資先に含まれなかったのか",
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年2月18日版】本日の半導体ニュース：投資家・技術者向け重要トピックまとめ｜半導体の森の安藤",
+    "url": "https://note.com/semicon_news/n/nab7794ea4c96",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年2月18日版】本日の半導体ニュース：投資家・技術者向け重要トピックまとめ",
+    "url": "https://note.com/semicon_news/n/nab7794ea4c96",
+    "pass": 3
+   },
+   {
+    "quote": "半導体セクターは現在、単なる「部品の供給」から「AIインフラの最適化」へと劇的な転換点を迎えています。本日は、AIデータセンターのボトルネックを解消する革新的な光技術の商用化、欧州市場の覇権を狙う重量級リーダーの招聘、そして企業の自信を裏付ける強力な資本政策など、投資家が「So What?（だから何なのか）」を読み解くべき重要なニュースが揃いました。",
+    "url": "https://note.com/semicon_news/n/nab7794ea4c96",
+    "pass": 3
+   },
+   {
+    "quote": "【新技術・AIインフラ】TowerとScintil、AIインフラのROIを劇的に改善する世界初の「異種統合DWDMレーザー」を供給開始",
+    "url": "https://note.com/semicon_news/n/nab7794ea4c96",
+    "pass": 3
+   },
+   {
+    "quote": "【人事・市場戦略】Wolfspeed、EMEA地域の営業トップに7.5億ドル超の指揮経験を持つStefan Steyerl氏を招聘、SiCシェア拡大を加速",
+    "url": "https://note.com/semicon_news/n/nab7794ea4c96",
+    "pass": 3
+   },
+   {
+    "quote": "【資本政策】Besi、株価上昇局面でも揺るがぬ自社株買い。2025年10月から続く還元プログラムの強固な実行力を証明",
+    "url": "https://note.com/semicon_news/n/nab7794ea4c96",
+    "pass": 3
+   },
+   {
+    "quote": "これらの動向は、各社が「コモディティ（汎用品）の製造」から「高付加価値な戦略的パートナー」へと脱皮しようとしている現状を明確に示しています。技術の進歩がどのように企業の経済的溝（エコノミック・モート）を深め、収益性に直結するのかが焦点となります。",
+    "url": "https://note.com/semicon_news/n/nab7794ea4c96",
+    "pass": 3
+   },
+   {
+    "quote": "それでは、これら主要トピックの詳細とその背景について深く掘り下げていきましょう。",
+    "url": "https://note.com/semicon_news/n/nab7794ea4c96",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "World’s First DWDM Laser by Tower $TSEM & Scintil As AI ... Core Technology: SHIP™ (Scintil Heterogeneous Integrated Photonics) Heterogeneous Integration: For the first time, laser sources are monolithically integrated directly onto a Silicon Photonics platform. By eliminating the need for external light sources, it maximizes power efficiency and shrinks the footprint.",
+    "url": "https://x.com/PhotonCap/status/2023893410479055063",
+    "pass": 3
+   },
+   {
+    "quote": "Nvidia a investi dans une startup française. Scintil ... Scintil Photonics, Grenoble. Le laser que les hyperscalers attendent L'objectif : remplacer les câbles électriques à l'intérieur des serveurs IA par de la lumière. C'est pour ça que Nvidia a injecté 4 milliards de dollars dans Lumentum et Coherent ce mois-ci. Et avait déjà investi dans Scintil l'an dernier.",
+    "url": "https://x.com/BourseAsieFR/status/2031989346463588355",
+    "pass": 3
+   },
+   {
+    "quote": "charahim94 (@charahim9494) / Posts / X Yannick Paillard of Scintil Photonics sketching the evolution with a prominent role for integrated lasers. #siliconphotonics dummer school @epixfab @SiPhotonicsC2N",
+    "url": "https://x.com/charahim9494",
+    "pass": 3
+   },
+   {
+    "quote": "Yole Group put together a Co-Packaged Optics Industrial ... Scintil Photonics — private Scape Photonics — private Quintessent — private Foundries TSMC — $2330.TW — ADR: $TSM GlobalFoundries — $GFS SilTerra — parent Dagang NeXchange $5216.KL NSTIC — research body, not public IMEC — research body, not public Leti — research body, not public ITRI — research body, not public SOI wafer ...",
+    "url": "https://x.com/Ren_Research_/status/2079605866018361756",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SCINTIL Photonics - LinkedIn Scintil Photonics is the global leader in DWDM laser sources for AI. Using its SHIP™ (Scintil Heterogeneous Integrated Photonics) technology, Scintil developed LEAF Light™, the world's first ...",
+    "url": "https://www.linkedin.com/company/scintil-photonics/",
+    "pass": 3
+   },
+   {
+    "quote": "Matt Crowley - Experienced deep tech startup CEO | LinkedInSylvie Menezo - Founder & CTO SCINTIL Photonics (France ...Zheng Yong - Co-founder and Senior photonics engineer at ...Olivier POTAVIN - SCINTIL Photonics | LinkedInSusannah Heck - Principal Engineer at SCINTIL Photonics ...Pascal Langlois – SCINTIL Photonics | LinkedIn He currently serves as CEO of Scintil Photonics, a France based leader",
+    "url": "https://www.linkedin.com/in/matthewcrowley",
+    "pass": 3
+   },
+   {
+    "quote": "Sylvie Menezo - Founder & CTO SCINTIL Photonics (France ... Sep 20, 2022 · Founder & CTO SCINTIL Photonics (France, Canada, USA) · As the Founder and CTO of SCINTIL Photonics since December 2024, I contribute over a decade of experience in the semiconductor and photonics industries. My focus lies in research and development, spearheading innovations in optical communications and sensing technologi",
+    "url": "https://ca.linkedin.com/in/sylvie-menezo-77b38b31",
+    "pass": 3
+   },
+   {
+    "quote": "Zheng Yong - Co-founder and Senior photonics engineer at ...Olivier POTAVIN - SCINTIL Photonics | LinkedInSusannah Heck - Principal Engineer at SCINTIL Photonics ...Pascal Langlois – SCINTIL Photonics | LinkedIn Zheng Yong Co-founder and Senior photonics engineer at SCINTIL Photonics Toronto, Ontario, Canada 346 followers 320 connections See your mutual connections SCINTIL Photonics is a fabless c",
+    "url": "https://ca.linkedin.com/in/zheng-yong-21804a98",
+    "pass": 3
+   },
+   {
+    "quote": "Matt Crowley - Experienced deep tech startup CEO | LinkedInSCINTIL Photonics CEO, Founder, Key Executive Team, Board of ...Dr. Sylvie Menezo, SCINTIL Photonics (France, Canada)Meet Scintil Photonics and its CEO Matt Crowley Matt Crowley is an accomplished deep tech entrepreneur and executive with over two decades of experience building advanced semiconductor, photonics, and AI hardware companies f",
+    "url": "https://www.linkedin.com/in/matthewcrowley",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SCINTIL Photonics, a developer of... - Photonics Spectra ... Sep 9, 2025 · SCINTIL Photonics, a developer of heterogeneous integrated photonics technology for AI infrastructure, has completed a $58 million series B funding round. The company said that it plans to use...",
+    "url": "https://www.facebook.com/PhotonicsSpectra/posts/scintil-photonics-a-developer-of-heterogeneous-integrated-photonics-technology-f/733369112997700/",
+    "pass": 3
+   },
+   {
+    "quote": "EU-Startups - Grenoble-based SCINTIL Photonics, an... | Facebook Grenoble-based SCINTIL Photonics, an innovator in Heterogeneous Integrated Photonics for AI infrastructure, raised €50 million in Series B funding to expand hiring and deepen its international...",
+    "url": "https://www.facebook.com/EUStartups/posts/grenoble-based-scintil-photonics-an-innovator-in-heterogeneous-integrated-photon/1190623049758969/",
+    "pass": 3
+   },
+   {
+    "quote": "Scintil Photonics Raises €4M in... - Precision with Light ... Sep 19, 2019 · Scintil Photonics Raises €4M in First Funding #FinSMEs #photonics #datacenters",
+    "url": "https://www.facebook.com/precisionwithlight/posts/scintil-photonics-raises-4m-in-first-fundingfinsmes-photonics-datacenters/2672861516086932/",
+    "pass": 3
+   },
+   {
+    "quote": "#Photonics Spectra's People in the... - Photonics Spectra ... Sep 30, 2026 · #Photonics Spectra's People in the News for Sept. 30: SCINTIL Photonics appointed Alexandru Romanescu vice president of process engineering. Teledyne Technologies Incorporated’s vice chairman,...",
+    "url": "https://www.facebook.com/PhotonicsSpectra/posts/photonics-spectras-people-in-the-news-for-sept-30-scintil-photonics-appointed-al/1052539861080622/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.scintil-photonics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scintil-photonics.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.atx-research.co.jp/contents/scintil-photonics-raises-58m-to-scale-integrated-photonics-for-ai-factories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.towersemi.com/2026/02/17/02172026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global-net.co.jp/archives/12403",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atx-research.co.jp/contents/scintil-photonics-raises-58m-to-scale-integrated-photonics-for-ai-factories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ala.associates/wp-content/uploads/2024/03/Scintil-Photonics-case-study-2024.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ala.associates/wp-content/uploads/2024/02/240227-Scintil-Photonics-and-Tower-Seminconductor-EN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/300931-75",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/scintilphotonics/__l1_czdSu26pxMfJGghzonyBGZ_ojjLEPzVauxSnJ9Hw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/scintil-photonics-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/scintil-photonics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/semicon_news/n/nab7794ea4c96",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PhotonCap/status/2023893410479055063",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BourseAsieFR/status/2031989346463588355",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/charahim9494",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Ren_Research_/status/2079605866018361756",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/scintil-photonics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/matthewcrowley",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/sylvie-menezo-77b38b31",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/zheng-yong-21804a98",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PhotonicsSpectra/posts/scintil-photonics-a-developer-of-heterogeneous-integrated-photonics-technology-f/733369112997700/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/EUStartups/posts/grenoble-based-scintil-photonics-an-innovator-in-heterogeneous-integrated-photon/1190623049758969/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/precisionwithlight/posts/scintil-photonics-raises-4m-in-first-fundingfinsmes-photonics-datacenters/2672861516086932/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PhotonicsSpectra/posts/photonics-spectras-people-in-the-news-for-sept-30-scintil-photonics-appointed-al/1052539861080622/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/matthewcrowley",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Scintil Photonics 日本 導入",
+   "results": [
+    "https://www.scintil-photonics.com/",
+    "https://www.atx-research.co.jp/contents/scintil-photonics-raises-58m-to-scale-integrated-photonics-for-ai-factories",
+    "https://jp.towersemi.com/2026/02/17/02172026/",
+    "https://global-net.co.jp/archives/12403",
+    "https://www3.to/scintil-photonicsは5800万ドルを確保し、ai工場向けの統合フォト/",
+    "https://optronics-media.com/news/20261111/113849/",
+    "https://ko-invest.net/7754/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scintil Photonics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scintil Photonics Japan",
+   "results": [
+    "https://www.scintil-photonics.com/",
+    "https://www.scintil-photonics.com/about",
+    "https://www.atx-research.co.jp/contents/scintil-photonics-raises-58m-to-scale-integrated-photonics-for-ai-factories",
+    "https://www.ico-optics.org/scintil-photonics-secures-58m-to-scale-photonics-for-ai-factories/",
+    "https://towersemi.com/2026/02/17/02172026/",
+    "https://jp.towersemi.com/2026/02/17/02172026/",
+    "https://www.photonics.com/Articles/Silicon-PICs-Company-Scintil-Photonics-Raises-58M/a71431"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scintil Photonics manufacturing customer case study",
+   "results": [
+    "https://ala.associates/wp-content/uploads/2024/03/Scintil-Photonics-case-study-2024.pdf",
+    "https://www.scintil-photonics.com/",
+    "https://ala.associates/wp-content/uploads/2024/02/240227-Scintil-Photonics-and-Tower-Seminconductor-EN.pdf",
+    "https://www.scintil-photonics.com/about",
+    "https://epic-photonics.com/wp-content/uploads/2022/08/3.3-Pascal-Langlois-SCINTIL-Photonics.pdf",
+    "https://stateofthefuture.substack.com/p/laser-on-a-chip-w-matt-crowley-scintil",
+    "https://www.yolegroup.com/industry-news/scintil-achieves-integration-of-iii-v-dfb-lasers-and-amplifiers-with-standard-silicon-photonics-technology-in-production-at-tower-semiconductor/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scintil Photonics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://reseller.amazon.com/",
+    "https://partners.spectrum.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scintil Photonics founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/300931-75",
+    "https://tracxn.com/d/companies/scintilphotonics/__l1_czdSu26pxMfJGghzonyBGZ_ojjLEPzVauxSnJ9Hw",
+    "https://prospeo.io/c/scintil-photonics-revenue",
+    "https://compworth.com/company/scintil-photonics",
+    "https://indexed.vc/companies/scintil-photonics",
+    "https://fundediq.co/scintil-photonics-scintil-photonics-com-funding/",
+    "https://www.gritt.io/company/scintil-photonics/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Scintil Photonics",
+   "results": [
+    "https://note.com/semicon_news/n/n620c46f77db7?hl=en",
+    "https://note.com/tomos_ai_lab/n/nd22604e1ce16?hl=en",
+    "https://note.com/tomos_ai_lab/n/nd22604e1ce16",
+    "https://note.com/semicon_news/n/nab7794ea4c96",
+    "https://note.com/semicon_news/n/n620c46f77db7",
+    "https://note.com/mahjong_lab/n/n7fa6d0f5241b",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Scintil Photonics",
+   "results": [
+    "https://x.com/PhotonCap/status/2023893410479055063",
+    "https://x.com/BourseAsieFR/status/2031989346463588355",
+    "https://x.com/charahim9494",
+    "https://x.com/Ren_Research_/status/2079605866018361756",
+    "https://x.com/0xlongICE/status/2117640065983951231",
+    "https://x.com/CEA_Leti",
+    "https://x.com/yianisz/status/2032060284253454507"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Scintil Photonics",
+   "results": [
+    "https://www.linkedin.com/company/scintil-photonics/",
+    "https://www.linkedin.com/in/matthewcrowley",
+    "https://ca.linkedin.com/in/sylvie-menezo-77b38b31",
+    "https://ca.linkedin.com/in/zheng-yong-21804a98",
+    "https://fr.linkedin.com/in/olivierpotavin",
+    "https://uk.linkedin.com/in/susannahheck",
+    "https://de.linkedin.com/in/pascallanglois"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Scintil Photonics",
+   "results": [
+    "https://www.facebook.com/PhotonicsSpectra/posts/scintil-photonics-a-developer-of-heterogeneous-integrated-photonics-technology-f/733369112997700/",
+    "https://www.facebook.com/EUStartups/posts/grenoble-based-scintil-photonics-an-innovator-in-heterogeneous-integrated-photon/1190623049758969/",
+    "https://www.facebook.com/precisionwithlight/posts/scintil-photonics-raises-4m-in-first-fundingfinsmes-photonics-datacenters/2672861516086932/",
+    "https://www.facebook.com/PhotonicsSpectra/posts/photonics-spectras-people-in-the-news-for-sept-30-scintil-photonics-appointed-al/1052539861080622/",
+    "https://www.facebook.com/precisionwithlight/posts/scintil-photonics-raises-4m-in-first-fundingfinsmes-photonics-datacentershttpwww/2672861516086932/",
+    "https://www.facebook.com/towersemi/posts/𝐓𝐨𝐰𝐞𝐫-𝐒𝐞𝐦𝐢𝐜𝐨𝐧𝐝𝐮𝐜𝐭𝐨𝐫-𝐚𝐧𝐝-𝐒𝐜𝐢𝐧𝐭𝐢𝐥-𝐏𝐡𝐨𝐭𝐨𝐧𝐢𝐜𝐬-𝐀𝐝𝐯𝐚𝐧𝐜𝐢𝐧𝐠-𝐀𝐈-𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞-𝐰𝐢𝐭𝐡-𝐈𝐧𝐭𝐞𝐠/1777250270095341/",
+    "https://www.facebook.com/groups/1884160345304457/posts/2451817115205441/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scintil Photonics note 社長",
+   "results": [
+    "https://www.scintil-photonics.com/about",
+    "https://www.scintil-photonics.com/presscoverage",
+    "https://ala.associates/wp-content/uploads/2024/11/241119-Scintil-Photonics-CEO-appt-1.pdf",
+    "https://www.linkedin.com/in/matthewcrowley",
+    "https://www.cbinsights.com/company/scintil-photonics/people",
+    "https://epixfab.eu/en/about-us/steering-board/dr-sylvie-menezo-scintil-photonics-france-canada",
+    "https://www.laserfocusworld.com/optics/article/55273851/meet-scintil-photonics-and-its-ceo-matt-crowley"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scintil Photonics X 投稿",
+   "results": [
+    "https://www.scintil-photonics.com/",
+    "https://www.toutiao.com/article/7551691444394738215/",
+    "https://www.scintil-photonics.com/presscoverage",
+    "https://www.sohu.com/a/934656048_122014422",
+    "https://scintil-photonics.com.cn/",
+    "https://www.mdpi.com/journal/photonics",
+    "https://www.biocloudy.com/news/detail/6937"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

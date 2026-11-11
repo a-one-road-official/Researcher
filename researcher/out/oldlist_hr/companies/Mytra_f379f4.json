@@ -1,0 +1,1048 @@
+{
+ "name": "Mytra",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送付済み",
+ "researched_at": "2026-11-11T03:15:45.535327+00:00",
+ "official_url": "https://mytra.ai/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2022",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "South San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Supercharged Industrial Productivity",
+    "url": "https://mytra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our approach to warehouse automation will energize the economy.",
+    "url": "https://mytra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "150 presentations per hour",
+    "url": "https://mytra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our software uses machine learning to adapt to workflows in real time and AI to continuously improve.",
+    "url": "https://mytra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Improvement in efficiency from your workforce",
+    "url": "https://mytra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build Bots, Hire Humans",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The best solutions come from approaching problems with fresh eyes, asking deeper questions, and staying humble about what we don't yet know. There's always another layer to uncover.",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The problems we're solving stay with us because they matter to us - and inspiration often strikes outside the office. We're energized by the challenge while honoring the balance that sustains us for the long term.",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We welcome the things that challenge our thinking – unexpected data, tough questions, fresh perspectives. Growth happens when we're open to being surprised and willing to reconsider what we thought we knew.",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Clear communication creates space for great work. When we share context and communicate with precision, everyone can make confident decisions and move forward with autonomy.",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Associate, Bot Production",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Marketing",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Operations Manager",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior NPI Materials Program Manager",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Project Manager",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Technical Program Manager, Hardware Systems",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Technical Program Manager, Software",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Team Lead, Bot Production",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "20 years of software and systems development experience across manufacturing, energy, and automotive industries. 7.5 years at Tesla where he led Model 3 material flow automation, started/led Tesla’s mobile robotics team developing in-house mobile robots for its factories, and started/led the TeslaBot (Humanoid) program. Loves all sports involving a ball or skis.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "25+ years experience leading development of large-scale enterprise systems. Led global Distributed Automation Systems, Manufacturing Optimization & Scalability, and AI/Vision tracking at Tesla & Rivian. Chief Product Architect @ Xerox PARC. Repeat entrepreneur.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "12+ years at Tesla as its Director of Finance and Business Operations for Manufacturing and Supply Chain. Extensive expertise in optimizing factory operations, managing costs, and driving growth in manufacturing and supply chain processes. Helped Tesla to scale from a single factory to seven global factories. Avid cook and baker.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Leading Mytra's scaling initiatives across operations and structural engineering teams. Former Sr. Director at Rivian leading paint shop and buildings. Scaled WeWork from manual processes to hundreds of offices globally. Proven team builder and operational excellence leader.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Leads server and UI software development at Mytra. Over 18 years of experience developing full-stack software and leading high performing engineering teams. Responsible for engineering multiple new product launches. Forever devoted to Reading FC",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Leads Mytra’s People team, driving culture and operational excellence through scale. Over 20 years of experience in recruiting and HR for high-growth companies. Former VP of People at Moxion, scaling the company from 15 to 350 employees in under two years. Avid sailor and outdoor enthusiast.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "20 years experience across law, finance, and tech. Successful track record helping maturing startups scale through complex B2B arrangements using clear, practical strategies. Once bicycled across America; knows the value of consistent effort and a home cooked meal.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "このラウンドには、Eclipse（エクリプス）、Greenoaks（グリーンオークス）、Promus Ventures（プロマス・ベンチャーズ）などの有力VCに加え、世界最大の温度管理物流企業であるLineage（リネージュ）やRyderVentures（ライダー・ベンチャーズ）といった戦略的投資家も参加しています",
+    "url": "https://contech.jp/mytra/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mytra streamlines project and cost management with Microsoft Dynamics NAV on Azure | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/microsoft-corporation/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mytra streamlines project and cost management with Microsoft Dynamics NAV on Azure",
+    "url": "https://www.casestudies.com/company/microsoft-corporation/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial engineering firm gains new ways to manage projects and costs in the cloud with Dynamics NAV",
+    "url": "https://www.casestudies.com/company/microsoft-corporation/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mytra achieves streamlined, cloud-based project and cost management with Microsoft Dynamics 365 | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mytra achieves streamlined, cloud-based project and cost management with Microsoft Dynamics 365",
+    "url": "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial engineering firm gains new ways to manage projects and costs in the cloud with Dynamics NAV",
+    "url": "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra is a small Madrid-based industrial engineering firm that works on large-scale projects (Spanish high-speed rail, Airbus A350 systems, PROFINET diagnostics). Internally the company relied on slow, manual Excel macros to manage projects and disparate teams across Madrid, Valencia, and Barcelona, creating a need for centralized, more efficient project and cost management.",
+    "url": "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra develops software-defined industrial robotics solutions that automate the fundamental task of moving and storing materials within logistics and warehouse environments. The company simplifies complex material handling with integrated systems designed for operational efficiency. Its technology provides automated material flow and storage via robotics, streamlining industrial tasks.",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra’s product serves industrial clients requiring robust automation for their supply chain and warehouse operations. The company envisions autonomously managed common, repetitive tasks in industrial logistics, improving operational throughput and reliability. Its long-term goal is to redefine material handling through intelligent robotics.",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "Sources for claims above include Mytra’s company site and product pages[1][5], coverage of the launch and funding round[2], the Eclipse/Venture Equity announcement and founder backgrounds[3], Mytra’s own “Why Mytra?” explanation of approach[4], PR on engineering hires and customers[6], and an industry analysis on Mytra’s positioning[7].",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "prnewswire.com/news-releases/mytra-expands-engineering-leadership-as-company-scales-breakthrough-ai-robotics-to-revolutionize-warehouse-operations-302268962.html",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra's investors include Jamie Reynolds, Abstract Ventures, D. E. Shaw group, Seth Winterroth, Greenoaks Capital, Lineage Logistics, Liquid 2 Ventures, Offline Ventures, Promus Ventures, RyderVentures, Susa/Kivu Ventures, AIX Ventures.",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "In the \"Generative AI Case Study Collection,\" we provide detailed explanations of successful American generative AI startups under the \"Winning Horse\" series. We publish articles at a pace of two per week. Every week, one article is free, and the other is a paid article. (This article is a paid article.)",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With an individual membership, you can access articles only, while a corporate membership provides access to articles, detailed explanatory slides, and a company list (spreadsheet). For more details on the Generative AI Case Study Collection's Winning Horse series, including the differences between individual and corporate memberships, please click here.",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Supercharged Industrial Productivity",
+    "url": "https://mytra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our approach to warehouse automation will energize the economy.",
+    "url": "https://mytra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Electrical Industrial Controls Engineer",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Industrial Engineer",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manufacturing Test Engineer, Robotics",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Supplier Industrialization Engineer, Mechanical",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are focused on automating the most common industrial task – moving and storing material – with flexible, scalable, and intuitive robotics and AI.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "20 years of software and systems development experience across manufacturing, energy, and automotive industries. 7.5 years at Tesla where he led Model 3 material flow automation, started/led Tesla’s mobile robotics team developing in-house mobile robots for its factories, and started/led the TeslaBot (Humanoid) program. Loves all sports involving a ball or skis.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "25+ years experience leading development of large-scale enterprise systems. Led global Distributed Automation Systems, Manufacturing Optimization & Scalability, and AI/Vision tracking at Tesla & Rivian. Chief Product Architect @ Xerox PARC. Repeat entrepreneur.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "12+ years at Tesla as its Director of Finance and Business Operations for Manufacturing and Supply Chain. Extensive expertise in optimizing factory operations, managing costs, and driving growth in manufacturing and supply chain processes. Helped Tesla to scale from a single factory to seven global factories. Avid cook and baker.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Mytra streamlines project and cost management with Microsoft Dynamics NAV on Azure | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/microsoft-corporation/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mytra streamlines project and cost management with Microsoft Dynamics NAV on Azure",
+    "url": "https://www.casestudies.com/company/microsoft-corporation/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial engineering firm gains new ways to manage projects and costs in the cloud with Dynamics NAV",
+    "url": "https://www.casestudies.com/company/microsoft-corporation/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/microsoft-corporation/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/microsoft-corporation/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mytra achieves streamlined, cloud-based project and cost management with Microsoft Dynamics 365 | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mytra achieves streamlined, cloud-based project and cost management with Microsoft Dynamics 365",
+    "url": "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial engineering firm gains new ways to manage projects and costs in the cloud with Dynamics NAV",
+    "url": "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra is a small Madrid-based industrial engineering firm that works on large-scale projects (Spanish high-speed rail, Airbus A350 systems, PROFINET diagnostics). Internally the company relied on slow, manual Excel macros to manage projects and disparate teams across Madrid, Valencia, and Barcelona, creating a need for centralized, more efficient project and cost management.",
+    "url": "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra develops software-defined industrial robotics solutions that automate the fundamental task of moving and storing materials within logistics and warehouse environments. The company simplifies complex material handling with integrated systems designed for operational efficiency. Its technology provides automated material flow and storage via robotics, streamlining industrial tasks.",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "Ahmad Baitalmal and Chris Walti founded Mytra in 2022, driven by an insight into the pervasive challenges of manual material movement and storage. They aimed to create a more efficient and less labor-intensive alternative for industrial settings. Based in Brisbane, California, Mytra seeks to transform this core industrial activity.",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra’s product serves industrial clients requiring robust automation for their supply chain and warehouse operations. The company envisions autonomously managed common, repetitive tasks in industrial logistics, improving operational throughput and reliability. Its long-term goal is to redefine material handling through intelligent robotics.",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "deloitte.com/us/en/insights/focus/tech-trends/2025/myrta-unlocks-new-paradigm-in-smart-factories-with-robots-automation.html",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "mmh.com/article/mytra_new_warehouse_robotics_company_founded_by_ex_tesla_and_rivian_leaders_launches",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "prnewswire.com/news-releases/mytra-expands-engineering-leadership-as-company-scales-breakthrough-ai-robotics-to-revolutionize-warehouse-operations-302268962.html",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra: The Grid-Based Warehouse System Challenged by a Former Tesla Optimus Lead｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra: The Grid-Based Warehouse System Challenged by a Former Tesla Optimus Lead",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will explain in detail how Mytra's specific mechanisms, unique features, use cases at client companies, and clear differentiators compared to competitors are beginning to move real-world warehouses, despite being a bet that deviates from the mainstream of humanoid robots.",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the \"Generative AI Case Study Collection,\" we provide detailed explanations of successful American generative AI startups under the \"Winning Horse\" series. We publish articles at a pace of two per week. Every week, one article is free, and the other is a paid article. (This article is a paid article.)",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With an individual membership, you can access articles only, while a corporate membership provides access to articles, detailed explanatory slides, and a company list (spreadsheet). For more details on the Generative AI Case Study Collection's Winning Horse series, including the differences between individual and corporate memberships, please click here.",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Enter your phone number or email below and receive early access to new releases, first dibs on limited restocks, love, support, and more.",
+    "url": "https://mytra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your phone number or email below and receive early access to new releases, first dibs on limited restocks, love, support, and more.",
+    "url": "https://mytra.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your phone number or email below and receive early access to new releases, first dibs on limited restocks, love, support, and more.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Leads Mytra’s People team, driving culture and operational excellence through scale. Over 20 years of experience in recruiting and HR for high-growth companies. Former VP of People at Moxion, scaling the company from 15 to 350 employees in under two years. Avid sailor and outdoor enthusiast.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "20 years experience across law, finance, and tech. Successful track record helping maturing startups scale through complex B2B arrangements using clear, practical strategies. Once bicycled across America; knows the value of consistent effort and a home cooked meal.",
+    "url": "https://mytra.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "今後、同社は調達した資金を活用して、Fortune 500（フォーチュン500）企業への大規模導入を加速させるとともに、電気工学や安全システム、ソフトウェア開発などの専門人材を大幅に増員する計画です",
+    "url": "https://contech.jp/mytra/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "初期の導入事例では、材料処理に関わる労働時間を最大88%削減し、保管密度を34%向上させたことが報告されています",
+    "url": "https://contech.jp/mytra/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "倉庫の労働力不足と空間効率を解決するMytra | 建設テックメディア CO... — Jul 9, 2026 · Mytraは、これらの無駄を排除するために「3次元ロボティクス・マトリックス」を導入しました。 このシステムは、以下の3つのコンポーネントで動作します： マトリックス構造：標準的な鋼鉄製のセルを組み合わせて構築される格子状の構造体。",
+    "url": "https://contech.jp/mytra/",
+    "pass": 3
+   },
+   {
+    "quote": "Home - Mytra — Mytra radically simplifies the most common task in industry, moving and storing material with just three components. Our approach to warehouse automation will energize the economy.",
+    "url": "https://mytra.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra - Mytra — Mytra, a warehouse automation solution that uses artificial intelligence and robotics to move materials, today announced its launch from stealth with a total of $78 million to solve the biggest problems facing physical storage right now, which is moving materials.",
+    "url": "https://mytra.ai/news/why-mytra",
+    "pass": 3
+   },
+   {
+    "quote": "News - Mytra — Jul 23, 2024 · Mytra, the company supercharging industrial productivity with first-of-its-kind three-dimensional robotics, today launched with $78 million in total financing through the Series B stage and several commercial partners, including Albertsons Companies.",
+    "url": "https://mytra.ai/news",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra - Mytra — By submitting this form and signing up for texts, you consent to receive marketing text messages (e.g. back in stock notifications, promos, cart reminders) from Mytra at the number provided, including messages sent by autodialer.",
+    "url": "https://mytra.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra Fusion | Premium Boxing, MMA, Fitness Gear & Sportswear — Mytra Fusion, Empowering Fighters Since 2017 with Premium Boxing Gloves, MMA Gear, and Training Essentials Designed to Boost Performance and Ensure Safety.",
+    "url": "https://www.mytrafusion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mytra streamlines project and cost management ... — Mytra (Automotive and Industrial Automation) partnered with Microsoft Corporation to solve key challenges. \"Industrial engineering firm gains new ways to manage projects and costs in the cloud with Dynamics NAV\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/microsoft-corporation/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mytra achieves streamlined, cloud-based project ... — Mytra (Automotive and Industrial Automation) partnered with Microsoft Dynamics 365 (Computer Software) to solve key challenges. \"Industrial engineering firm gains new ways to manage projects and costs in the cloud with Dynamics NAV\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "pass": 3
+   },
+   {
+    "quote": "News - Mytra — Jul 23, 2024 · Mytra, the company supercharging industrial productivity with first-of-its-kind three-dimensional robotics, today launched with $78 million in total financing through the Series B stage and several commercial partners, including Albertsons Companies. Founded by ex-Tesla and Rivian robotics and manufacturing leaders, the company will automate the most common industrial",
+    "url": "https://mytra.ai/news",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra and manufacturing automation | Deloitte Insights — Feb 14, 2025 · Mytra unlocks a new paradigm in smart factories Enterprises have started the shift from assembly-line machines to robots and smart equipment that can transform physical work in supply chains. Case in point: startup Mytra. Article • 2-min read",
+    "url": "https://www.deloitte.com/global/en/insights/topics/technology-management/tech-trends/2025/myrta-unlocks-new-paradigm-in-smart-factories-with-robots-automation.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra 2026 Company Profile: Valuation, Funding & Investors ...Mytra - 2026 Company Profile, Team, Funding & Competitors ...Mytra: Funding, Team & Investors | Startup IntrosMytra – Market Position & Workforce Comparison – 2026Mytra: Funding, Investors & Team (Nov 2026) | FundedIQMytra (IT Consulting and Outsourcing) 2026 Company Profile ...Mytra - Overview, News & Similar companies | ZoomInfo.com —",
+    "url": "https://pitchbook.com/profiles/company/532757-08",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra - 2026 Company Profile, Team, Funding & Competitors ...Mytra: Funding, Team & Investors | Startup IntrosMytra – Market Position & Workforce Comparison – 2026Mytra: Funding, Investors & Team (Nov 2026) | FundedIQMytra (IT Consulting and Outsourcing) 2026 Company Profile ...Mytra - Overview, News & Similar companies | ZoomInfo.com — Aug 30, 2026 · Mytra is a series C company based in Brisbane ",
+    "url": "https://tracxn.com/d/companies/mytra/__i4h14xDmeN24-rAES4y6NSGPyKlxs_QtVn74RT4Lzag",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Who founded Mytra? Mytra was founded in 2022 by Ahmad Baitalmal (CTO, Co-founder) and Chris Walti (Co-founder). How much funding has Mytra raised? Mytra has raised $198.0M in total across 3 funding rounds. Who are Mytra's investors? Mytra's investors include Jamie Reynolds, Abstract Ventures, D. E. Shaw group, Seth Winterroth, Gree",
+    "url": "https://startupintros.com/orgs/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra – Market Position & Workforce Comparison – 2026 — Discover Mytra's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/mytra",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra: Funding, Investors & Team (Nov 2026) | FundedIQ — How many employees does Mytra have? Mytra is in the 101-250 employee band. How does Mytra's funding compare to other Artificial Intelligence startups? Mytra's latest round of $120M is above the $6.0M median round size for Artificial Intelligence companies on FundedIQ across 7,247 tracked companies over the last two years.",
+    "url": "https://fundediq.co/mytra-mytra-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Mytra: The Grid-Based Warehouse System Challenged by a Former ... Mytra was co-founded in 2022 by Chris Walti and Ahmad Baitalmal, who led manufacturing system construction at Tesla and Rivian (an electric vehicle manufacturer). As of the end of stealth mode in July 2024, the company had raised a total of $78 million in seed, Series A, and Series B funding. In January 2026, it raised an additional",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "会社を辞めたい。でも生活がある。筋トレ好きの会社員がパーソナルジ... Oct 9, 2026 · 今は岐阜県可児市でパーソナルジム「MYTRA（マイトレ）」を経営し、昔から好きだった筋トレやスポーツが、生活を支える仕事になっています。 ただ、いきなり店舗を借りて独立したわけではありません。 まずは、トレーナーとして働くところから始めまし ...",
+    "url": "https://note.com/goto6keigo/n/nccefa3f02c2b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Mytra: The Grid-Based Warehouse System Challenged by a Former Tesla Optimus Lead｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra: The Grid-Based Warehouse System Challenged by a Former Tesla Optimus Lead",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the field of warehouse and logistics robotics, while massive amounts of capital and expectations are pouring into humanoid robots, there is a company that has deliberately turned its back on that trend. Despite being founded by the very person who led the \"Optimus\" humanoid robot project at Tesla, Mytra—a provider of warehouse automation platforms—has rejected the humanoid form itself. Instead,",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra was co-founded in 2022 by Chris Walti and Ahmad Baitalmal, who led manufacturing system construction at Tesla and Rivian (an electric vehicle manufacturer). As of the end of stealth mode in July 2024, the company had raised a total of $78 million in seed, Series A, and Series B funding. In January 2026, it raised an additional $120 million in a Series C round led by Avenir Growth, bringing t",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The only specific company identified as having implemented the system is Albertsons Companies, a major food retailer with over 2,270 stores. However, official announcements list \"Fortune 100 food companies\" and \"Fortune 500 industrial supply distributors\" as primary targets, and Fortune magazine has also reported that the company has \"multiple Fortune 500 clients, but their names are not disclosed",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will explain in detail how Mytra's specific mechanisms, unique features, use cases at client companies, and clear differentiators compared to competitors are beginning to move real-world warehouses, despite being a bet that deviates from the mainstream of humanoid robots.",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the \"Generative AI Case Study Collection,\" we provide detailed explanations of successful American generative AI startups under the \"Winning Horse\" series. We publish articles at a pace of two per week. Every week, one article is free, and the other is a paid article. (This article is a paid article.)",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since about four paid articles are published each month, a membership is more cost-effective than purchasing individual articles.",
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "会社を辞めたい。でも生活がある。筋トレ好きの会社員がパーソナルジムで独立するまで。｜後藤 佳吾 / KEIGO GOTO",
+    "url": "https://note.com/goto6keigo/n/nccefa3f02c2b",
+    "pass": 3
+   },
+   {
+    "quote": "会社を辞めたい。でも生活がある。筋トレ好きの会社員がパーソナルジムで独立するまで。",
+    "url": "https://note.com/goto6keigo/n/nccefa3f02c2b",
+    "pass": 3
+   },
+   {
+    "quote": "でも「筋トレが好き」だけで食べていけるのか。",
+    "url": "https://note.com/goto6keigo/n/nccefa3f02c2b",
+    "pass": 3
+   },
+   {
+    "quote": "当時の僕は、32歳。年収350万円の会社員でした。仕事は遅く、自分でも「ポンコツだな」と思っていました。",
+    "url": "https://note.com/goto6keigo/n/nccefa3f02c2b",
+    "pass": 3
+   },
+   {
+    "quote": "毎日の残業と職場の人間関係に疲れ、適応障害と診断されて休職。元の職場に戻って働くのは、もう無理だと感じていました。",
+    "url": "https://note.com/goto6keigo/n/nccefa3f02c2b",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、妻との生活は続いていきます。これから子どもも欲しいと思っていたので、ただ会社を辞めれば済む話ではありません。戻れそうにない職場と、守りたい生活の間で、「これからどうやって働いていけばいいのか」と悩んでいました。",
+    "url": "https://note.com/goto6keigo/n/nccefa3f02c2b",
+    "pass": 3
+   },
+   {
+    "quote": "そんな、何もかも投げ出してしまったような気持ちの僕を支えてくれたのが妻です。その支えがあって、自分にできる働き方を探してきました。",
+    "url": "https://note.com/goto6keigo/n/nccefa3f02c2b",
+    "pass": 3
+   },
+   {
+    "quote": "今は岐阜県可児市でパーソナルジム「MYTRA（マイトレ）」を経営し、昔から好きだった筋トレやスポーツが、生活を支える仕事になっています。ただ、いきなり店舗を借りて独立したわけではありません。まずは、トレーナーとして働くところから始めました。",
+    "url": "https://note.com/goto6keigo/n/nccefa3f02c2b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mytra (@_Mytra_) / Posts / X Mytra (@_Mytra_) - Posts - Hello I try doing art. Sometimes. I do like the chaos in most states Also known as Marshi or M... | X (formerly Twitter)",
+    "url": "https://x.com/_Mytra_",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra System (@Mytra_System) / Posts / X Observation Log #0001 Test subjects reported an anomaly. They were solving the same puzzle. But not seeing the same room. MYTRA: No Escape Protocol 1–4 player co-op psychological horror The system is now observing players. #indiegame #gamedev",
+    "url": "https://x.com/Mytra_System",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra (@mdeMytra) / Posts / X Mytra (@mdeMytra) - Posts - | X (formerly Twitter) Might not be the best drawing but… I’m really proud of my achievements this past weeks… :3",
+    "url": "https://x.com/mdeMytra",
+    "pass": 3
+   },
+   {
+    "quote": "MYTRA (@MSadidoost) / X European born in Iran. Lived in the U.S. - Gramercy Park (Manhattan). I support the MEK. I stand with Mrs. Rajavi for a Free Iran & Peace in the Middle East.",
+    "url": "https://x.com/MSadidoost",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra (@_Mytra_) / Posts / X Dec 11, 2016 · 🤍7 📊116 📎 Mytra_Mytra_ Jun 30 I was at twichcon this weekend and am so so happy for all the amazing people I met and talked to!!Very especially I want to appreciate @CosmicMess_ @DionysusVA and @YerioTV thoBecause these guys took me with them and I just had the best time thanks to them ️ ️ 💬1 🔄2 🤍11 📊440 📎 Mytra ...",
+    "url": "https://x.com/_Mytra_",
+    "pass": 3
+   },
+   {
+    "quote": "@MyTra_com | X The latest posts from @MyTra_com",
+    "url": "https://x.com/MyTra_com",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra (@mdeMytra) / Posts / X Mar 6, 2021 · Mytra (@mdeMytra) - Posts - | X (formerly Twitter) Might not be the best drawing but… I’m really proud of my achievements this past weeks… :3",
+    "url": "https://x.com/mdeMytra",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mytra - LinkedIn Mytra | 17,159 followers on LinkedIn. Resilient, modular, reconfigurable, no-integration-code automated material flow & storage enabled by robotics and AI | Resilient, modular, reconfigurable ...",
+    "url": "https://www.linkedin.com/company/mytra-ai",
+    "pass": 3
+   },
+   {
+    "quote": "MYTRA - LinkedIn MYTRA | 958 followers on LinkedIn. You Never Ride Alone. | You Never Ride Alone. MYTRA is India's rider network, built to bring every part of a rider's journey together in one platform. Whether ...",
+    "url": "https://www.linkedin.com/company/mytra-club",
+    "pass": 3
+   },
+   {
+    "quote": "mytra | LinkedIn mytra.money is a tech-fin product providing a world-class ERP at the heart of digital banking experience to businesses and individuals. mytra.money is the foundation stone laid to accomplish the mission of making doing global business easy and elevate the lifestyle of our customers. mytra is the flagship brand under the pwctech group and mytra.money is the first product launched b",
+    "url": "https://in.linkedin.com/company/mytra-money",
+    "pass": 3
+   },
+   {
+    "quote": "CA Harsh Agrawal - Building Mytra | Digital Transformation ...Chris Walti - Co-Founder & CEO, Mytra | First Lead of Tesla ...Mytra: Jobs | LinkedInMytra Consulting - LinkedIn Building Mytra | Digital Transformation | Entrepreneurship · I am a first hand and early user of the internet. Qualified Chartered Accountant, experienced banker now turned as an entrepreneur with a demonstrated history of wo",
+    "url": "https://in.linkedin.com/in/harsh-agrawal-ceo-mytra",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MYTRA - Michigan Youth Teaching Rodeo Association - FacebookMytra Official - FacebookMYTRA - Michigan Youth Teaching Rodeo Association | FacebookMYTRA - Michigan Youth Teaching Rodeo AssociationMYTRA - Michigan Youth Teaching Rodeo AssociationMYTRA - Michigan Youth Teaching Rodeo AssociationATTENTI... - MYTRA - Michigan Youth Teaching Rodeo ... - Facebook MYTRA - Michigan Youth Teaching Rodeo Asso",
+    "url": "https://www.facebook.com/MYTRAmichigan/",
+    "pass": 3
+   },
+   {
+    "quote": "Mytra Official - Facebook Mar 11, 2026 · Mytra Official, Bangkok. 3,156 likes · 38 talking about this. This is where the #Magic begins #mytra #mytraofficial #therising #riseagain See you in December 朗",
+    "url": "https://www.facebook.com/p/Mytra-Official-61565070514506/",
+    "pass": 3
+   },
+   {
+    "quote": "MYTRA - Michigan Youth Teaching Rodeo Association | Facebook Jul 3, 2026 · MYTRA - Michigan Youth Teaching Rodeo Association. 2,773 likes · 71 talking about this. The only teaching rodeo in Michigan. teaching youth ages 0 to 17 the tradition since 2016.",
+    "url": "https://www.facebook.com/MYTRAmichigan/posts/1330066895908424/",
+    "pass": 3
+   },
+   {
+    "quote": "MYTRA - Michigan Youth Teaching Rodeo Association MYTRA - Michigan Youth Teaching Rodeo Association Welcome again in 2025 to one of our gold buckle sponsors!! Lamons Manufacturering and Service out of midland! Your sponsorship is so appreciated and we cannot thank you enough! Thank you to the Saxton family for helping the kids by attaining the sponsorship! Stephanine Powell Townsend and 9 ...",
+    "url": "https://www.facebook.com/MYTRAmichigan/posts/dont-forget-to-download-the-team-reach-appthis-is-the-same-app-that-is-used-by-h/975718824676568/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mytra.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mytra.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mytra.ai/company",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://contech.jp/mytra/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwishbag.com/how-to-buy-from/myntra/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.parceldaddy.com/myntra-shipping-to-japan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/microsoft-corporation/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/532757-08",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/mytra/__i4h14xDmeN24-rAES4y6NSGPyKlxs_QtVn74RT4Lzag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/mytra",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/mytra",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/goto6keigo/n/nccefa3f02c2b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/_Mytra_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mytra_System",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mdeMytra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MSadidoost",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mytra-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mytra-club",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/mytra-money",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/harsh-agrawal-ceo-mytra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MYTRAmichigan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Mytra-Official-61565070514506/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MYTRAmichigan/posts/1330066895908424/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MYTRAmichigan/posts/dont-forget-to-download-the-team-reach-appthis-is-the-same-app-that-is-used-by-h/975718824676568/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_Mytra_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MyTra_com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mdeMytra",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mytra 日本 導入",
+   "results": [
+    "https://contech.jp/mytra/",
+    "https://mytra.ai/",
+    "https://mytra.ai/news/why-mytra",
+    "https://mytra.ai/news",
+    "https://mytra.ai/about",
+    "https://mytra.ai/company",
+    "https://www.aibase.com/ja/news/10525"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mytra 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Mytra Japan",
+   "results": [
+    "https://mytra.ai/about",
+    "https://mytra.ai/",
+    "https://www.iwishbag.com/how-to-buy-from/myntra/japan",
+    "https://www.parceldaddy.com/myntra-shipping-to-japan.html",
+    "https://www.mytrafusion.com/",
+    "https://mytra.club/",
+    "https://mytra.club/motostore"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mytra manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/microsoft-corporation/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "https://www.casestudies.com/company/microsoft-dynamics-365/case-study/industrial-engineering-firm-gains-new-ways-to-manage-projects-and-costs-in-the-cloud-with-dynamics-nav",
+    "https://mytra.ai/",
+    "https://mytra.ai/news",
+    "https://www.deloitte.com/global/en/insights/topics/technology-management/tech-trends/2025/myrta-unlocks-new-paradigm-in-smart-factories-with-robots-automation.html",
+    "https://eclipse.capital/blog/how-mytra-is-transforming-the-lifeblood-of-our-physical-economy/",
+    "https://www.teardown.ai/companies/mytra"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mytra white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.myntrainfo.com/",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mytra founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/532757-08",
+    "https://tracxn.com/d/companies/mytra/__i4h14xDmeN24-rAES4y6NSGPyKlxs_QtVn74RT4Lzag",
+    "https://startupintros.com/orgs/mytra",
+    "https://compworth.com/company/mytra",
+    "https://fundediq.co/mytra-mytra-ai-funding/",
+    "https://pitchbook.com/profiles/company/222271-57",
+    "https://www.zoominfo.com/c/mytra-inc/1323764612"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mytra",
+   "results": [
+    "https://note.com/gen_ai/n/nc5fd23fff84f?hl=en",
+    "https://note.com/goto6keigo/n/nccefa3f02c2b",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/natty_toucan386/n/nf4936ae22459",
+    "https://note.com/teba_eleven/n/nafba6d9ea3a7",
+    "https://note.com/dowaoshark/n/n324242681db8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mytra",
+   "results": [
+    "https://x.com/_Mytra_",
+    "https://x.com/Mytra_System",
+    "https://x.com/mdeMytra",
+    "https://x.com/MSadidoost",
+    "https://x.com/mytrinha",
+    "https://x.com/MSadidoost/status/2117585634474737890",
+    "https://x.com/myntra"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mytra",
+   "results": [
+    "https://www.linkedin.com/company/mytra-ai",
+    "https://www.linkedin.com/company/mytra-club",
+    "https://in.linkedin.com/company/mytra-money",
+    "https://in.linkedin.com/in/harsh-agrawal-ceo-mytra",
+    "https://www.linkedin.com/in/chriswalti",
+    "https://www.linkedin.com/company/mytra-ai/jobs/",
+    "https://www.linkedin.com/company/mytra-consulting"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mytra",
+   "results": [
+    "https://www.facebook.com/MYTRAmichigan/",
+    "https://www.facebook.com/p/Mytra-Official-61565070514506/",
+    "https://www.facebook.com/MYTRAmichigan/posts/1330066895908424/",
+    "https://www.facebook.com/MYTRAmichigan/posts/dont-forget-to-download-the-team-reach-appthis-is-the-same-app-that-is-used-by-h/975718824676568/",
+    "https://www.facebook.com/MYTRAmichigan/posts/2026-rodeo-datesmay-123june-567july-101112aug-29-pro-amsept-181920oct-10-11-fina/1124066876508428/",
+    "https://www.facebook.com/MYTRAmichigan/posts/hello-rodeo-family-its-about-that-time-where-you-will-be-bombarded-with-informat/680283800058018/",
+    "https://www.facebook.com/MYTRAmichigan/posts/attention-september-participantswe-are-going-to-give-you-the-option-to-split-up-/316938146392587/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mytra note 社長",
+   "results": [
+    "https://mytra.ai/company",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://exa.ai/websets/directory/mytra-executives",
+    "https://mytra.ai/news/why-mytra",
+    "https://www.linkedin.com/in/chriswalti",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.theofficialboard.com/org-chart/mytra"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mytra X 投稿",
+   "results": [
+    "https://x.com/_Mytra_",
+    "https://x.com/MyTra_com",
+    "https://mytra.ai/about",
+    "https://x.com/mdeMytra",
+    "https://x.com/MSadidoost/status/2111073210813108642",
+    "https://x.com/myntra",
+    "https://x.com/MyntraSupport"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

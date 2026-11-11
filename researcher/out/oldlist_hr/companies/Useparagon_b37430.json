@@ -1,0 +1,1013 @@
+{
+ "name": "Useparagon",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-11T03:28:47.956218+00:00",
+ "official_url": "https://www.useparagon.com/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金モデル",
+    "value": "subscription",
+    "url": "https://saasmap.jp/tools/paragon",
+    "pass": 3
+   },
+   {
+    "label": "Pricing",
+    "value": "https://www.useparagon.com/pricing（具体金額は一次情報で未確認・要再検証）（2026-05-21）",
+    "url": "https://saasmap.jp/tools/paragon",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue run rate",
+    "value": "$3M",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$17.5M",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Paragon — Integration platform for AI agents and products",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Paragon handles the work behind your integrations, from sync and permission data to auth and provider changes. Your team keeps the product logic and user experience.",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From RAG ingestion to agent actions, Paragon is the layer behind every integration your product ships — production-ready, not a side project.",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sync customer data and permission information from supported file-storage systems. Your application checks access before returning content.",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pass customer-specific parameters from your product",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep authorization and product behavior in your application",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Forward supported events into your product with normalized subscriptions, retries, and rate-limit handling.",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Route events into your existing product logic",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Handle retries and provider rate limits",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pick from the catalog of pre-built connectors, or build your own custom connectors with any 3rd-party API.",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We have a use case with Jira that we were able to enable in our product within less than an hour, I would even say minutes.”",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We've engaged with tons of tech companies. Paragon has the best onboarding of any company we've seen.",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Integrations are a critical part of our journey and commitment towards producing enterprise-grade AI with users’ external context, and partnering with Paragon has enabled us to launch integrations like Google Drive and Sharepoint much faster.”",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We would have had to hire a dedicated team of engineers - building this out internally would have taken at least half a year. With Paragon, one engineer knocked out multiple integrations within a few weeks.”",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 Type II, HIPAA, and GDPR, with the option to self-host in your own cloud.",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integration infrastructure for SaaS products",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-built Automations",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Moonnox shipped seven enterprise integrations in four weeks and built the data foundation for its AI Knowledge OS",
+    "url": "https://www.useparagon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Copy.ai: Driving product usage and revenue growth through integrations",
+    "url": "https://www.useparagon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Skyrocketing sales, product, and engineering confidence with Paragon",
+    "url": "https://www.useparagon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Improving retention and growing ACVs by 10%",
+    "url": "https://www.useparagon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Paragon Built Helm-Only Deployment to Unlock Athena Intelligence's Enterprise Customers",
+    "url": "https://www.useparagon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How tl’dv drives expansion revenue and offloads maintenance with Paragon",
+    "url": "https://www.useparagon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Integration infrastructure for SaaS products",
+    "url": "https://www.useparagon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-built Automations",
+    "url": "https://www.useparagon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing | Paragon Integration Infrastructure",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing that grows with you",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited integrations. Access to every product. Customized for your business model.",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Paragon's all-in-one platform provides everything you need to ship integrations - fast",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-security & scale",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Support & SLAs",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Access the full product suite on every plan",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You will get access to all three of Paragon's purpose-built products, with default usage built-in based on the number of Connected Users you have.",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Scale integration in minutes for your AI agent or workflow product",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How do I know which product I should use?",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Release Environments (Dev, Staging, Prod)",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Task History Retention",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "GDPR and SOC II Compliance",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On - Premise / Single - Tenant Options",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Integration infrastructure for SaaS products",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-built Automations",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "faster user onboarding",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "Explore product tours",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "Appsmith's enterprise customers increasingly demanded native integrations with business-critical platforms like",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": ". These native integrations help reduce onboarding friction, improve reliability over custom APIs, and make it easier for their customers to build the tools they need, faster. However, the reality of building these integrations in-house presented significant obstacles.",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "Each SaaS platform they wanted to support presented:",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "This created an unsustainable development timeline that couldn't match customer demand or competitive requirements while also diverting resources from their core product roadmap, which had high priority products such as the AI agent builder. Appsmith knew they needed a more scalable approach to solving the integration problem, otherwise their roadmap would come to a halt.",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "“This approach was unsustainable as requests for new integrations grew exponentially. We needed a paradigm shift that would accelerate delivery, reduce maintenance overhead, maintain security, and support rapid enterprise onboarding.” -",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "Integration Catalog: Breadth of connectors, custom API compatibility, update frequency, and enterprise-grade support",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "Security & Compliance: SOC2, GDPR, self-hosting support, data residency controls, and encryption standards",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "Paragon provided the core foundation and the majority of connectors and actions Appsmith needed out-of-the-box, but Paragon’s extensible core meant Appsmith could handle any integration requirement—even the one-off, niche APIs that weren't supported out-of-the-box, with Paragon’s",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "infrastructure. This flexibility was essential for serving enterprise customers with unique integration requirements.",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond the product features, it was critical for Appsmith that Paragon is extremely reliable, as so much of their product and customer experience would be dependent on Paragon.",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "\"Paragon has about 100% uptime - [they are] the most stable integration platform provider among all the others that we evaluated.\" -",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "The cherry on top was the support they received, across the onboarding experience, delivering on SLA features, and even helping with implementation edge cases.",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "\"Paragon has provided very good support throughout the entire process — from setup to ongoing maintenance. Their team is very responsive and proactive whenever issues arise or when we have questions. They’ve also helped us handle edge cases and improve our integration flows efficiently.\"",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "- Carina, Sr. Product Manager - Integrations, Appsmith",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "Respond to enterprise RFPs 3× faster",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce customer onboarding time by 80%",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading AI SaaS engineering teams",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Appsmith is the leading open-source platform for building internal applications. It is used by over",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "As a product used by enterprise companies,",
+    "url": "https://www.useparagon.com/customers/copy-ai",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“Integrations are a critical part of our journey and commitment towards producing enterprise-grade AI with users’ external context, and partnering with Paragon has enabled us to launch integrations like Google Drive and Sharepoint much faster.”",
+    "url": "https://www.useparagon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Building universal search and integration-enabled AI employees with Paragon",
+    "url": "https://www.useparagon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Copy.ai: Driving product usage and revenue growth through integrations",
+    "url": "https://www.useparagon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How tl’dv drives expansion revenue and offloads maintenance with Paragon",
+    "url": "https://www.useparagon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Drive upsells - integrations are now one of their biggest revenue drivers",
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "pass": 1
+   },
+   {
+    "quote": "Copy.ai: Driving product usage and revenue growth through integrations | Paragon Embedded iPaaS",
+    "url": "https://www.useparagon.com/customers/copy-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Copy.ai: Driving product usage and revenue growth through integrations",
+    "url": "https://www.useparagon.com/customers/copy-ai",
+    "pass": 1
+   },
+   {
+    "quote": "has been able to drive more revenue from their customers earlier than if they had continued backlogging them.",
+    "url": "https://www.useparagon.com/customers/copy-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Paragon was part of Y Combinator's Winter 2020 batch, and is backed by other world class investors like Village Global, Soma Capital, and Global Founders Capital.",
+    "url": "https://www.useparagon.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The way that people build software 10 years from now will look completely different than it does today. You'll be an integral part of shaping what that future looks like for millions of engineers and non-engineers.",
+    "url": "https://www.useparagon.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/useparagon.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/useparagon.com",
+    "pass": 3
+   },
+   {
+    "quote": "Paragon Revenue 2023: $3M Run Rate, $17.5M Raised",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "Paragon's revenue run rate was about $3M (2023): calculated by GetLatka from what was said, from what Brandon Foo said on camera.",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": ", level with 13 others. The list ranks the 1,301 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "How Paragon Reached $3M Revenue and 100 Customers with Its Embedded Integration Platform (Interview with CEO Brandon Foo)",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "Paragon competes most directly with Stripe and Ramp. It is the smallest of the three by revenue.",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "Paragon CEO, founders & employees",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "Brandon Foo founded Paragon in 2019 and runs it as CEO. Paragon had 88 employees (March 2024, Latka Top 250 List), up from 30 a year earlier.",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "What is Paragon's revenue?",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "Paragon's revenue run rate was about",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Paragon have?",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "employees in March 2024, according to the Latka Top 250 list.",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "👥 100 employees",
+    "url": "https://www.gritt.io/company/useparagon/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Whitelabeled Connect Portal UI",
+    "url": "https://www.useparagon.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The team evaluated multiple integration platforms, including Workato Embedded, n8n Embed, Make OEM and many more. However, none of these solutions enabled them to provide the end-user experience that they needed.",
+    "url": "https://www.useparagon.com/customers/copy-ai",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "’s generative AI capabilities and sophisticated workflows to generate ads, emails, and content at scale.",
+    "url": "https://www.useparagon.com/customers/copy-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Copy.ai has the most original implementation of Paragon we've seen to date. Within Copy.ai's workflow product, users can connect to their CRMs to perform tasks such as AI lead and company enrichment or push in AI-generated sales emails and even trigger notifications that go into Slack or Teams.",
+    "url": "https://www.useparagon.com/customers/copy-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Brandon and Ishmael started a software agency in 2014, where they built products for companies like Uber and Universal Studios. Brandon later founded Polymail (YC S16), an email app that grew to profitabililty and won Product Hunt's Product of the Year.",
+    "url": "https://www.useparagon.com/careers",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "CData Software Japanリードエンジニアの杉本です",
+    "url": "https://jp.cdata.com/blog/paragonapiserver",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS MAPでは、単に有名かどうかではなく、AI機能、Agent Ready、料金、日本からの使いやすさ、外部連携の観点から導入判断に必要な情報を整理しています",
+    "url": "https://saasmap.jp/tools/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UI、JCB決済、日本円請求書などの国内対応は導入前に公式情報で確認したい項目です",
+    "url": "https://saasmap.jp/tools/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UIや日本語ドキュメントは限定的な可能性があります",
+    "url": "https://saasmap.jp/tools/paragon",
+    "pass": 3
+   },
+   {
+    "quote": "日本円請求書や支払い条件は導入前に確認したい",
+    "url": "https://saasmap.jp/tools/paragon",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Paragon MCP | Connect to 130+ Integrations - useparagon.com — Instantly connect your AI agent product to 130+ integrations, and extend beyond that to any 3rd-party API.",
+    "url": "https://www.useparagon.com/mcp",
+    "pass": 3
+   },
+   {
+    "quote": "Paragonの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 出典・生成情報 本ページの企業情報は、公式サイト（https://useparagon.com）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです。 内容の正確性については公式サイト・出典をご確認ください。",
+    "url": "https://www.firstcvc.jp/global/useparagon.com",
+    "pass": 3
+   },
+   {
+    "quote": "ローコードアプリ統合プラットフォーム Paragon を使って Slack への... — Aug 9, 2020 · www.useparagon.com シナリオ 今回 は Paragon の free プランを使って、Slack通知のAPI連携を実装してみました。 以前私のBlogで紹介している、OReillyのBookリストから最新の書籍リストを取得して、Slackに通知するというものです。 kageura.hatenadiary.jp",
+    "url": "https://jp.cdata.com/blog/paragonapiserver",
+    "pass": 3
+   },
+   {
+    "quote": "Paragon — investors & funding | gritt.io — Learn more and sign up for free at useparagon.com. Founded in 2019, Paragon works has raised over $16M from world-class investors like Inspired Capital, Y Combinator, Global Founders Capital, and Village Global, and have been featured in Techcrunch and Forbes.",
+    "url": "https://www.gritt.io/company/useparagon/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "One API. Hundreds of integration tools. Purpose built for AI ... Paragon (@useparagon). 109 likes 3 replies. One API. Hundreds of integration tools. Purpose built for AI Agent products. Get early access at Action Kit [dot]ai",
+    "url": "https://x.com/useparagon/status/1885346802389615015",
+    "pass": 3
+   },
+   {
+    "quote": "“The first thing you need to consider when you’re a pm is to ... useparagon (Paragon). 7 likes 0 replies. “The first thing you need to consider when you’re a pm is to define what kind of trust you need to build with your users”.",
+    "url": "https://x.com/useparagon/status/1959983901457170678",
+    "pass": 3
+   },
+   {
+    "quote": "2 quarters. That's how much engineering Harbour saved by ... Paragon (@useparagon). 631 likes 72 replies. 2 quarters. That's how much engineering Harbour saved by building their product's integrations with Paragon. They realized a Zapier connector wasn't enough and needed to ship fast. See what Sr. Software Engineer, Caio, has to say about their evaluation and experience.",
+    "url": "https://x.com/useparagon/status/1861774793567330500",
+    "pass": 3
+   },
+   {
+    "quote": "@useparagon | X The latest posts from @useparagon",
+    "url": "https://x.com/useparagon",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Paragon - LinkedIn Paragon is the leading integration infrastructure platform for AI. Companies like Zendesk, Postman, and Five9 use Paragon to power integrations for agent tool calling, RAG ingestion, and more ...",
+    "url": "https://www.linkedin.com/company/useparagon",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Paragon - FacebookParagon Performance | Waukee IA - FacebookExcited to share some new updates in Paragon to help you ...Paragon Support Systems, Inc | Wyandotte MI - FacebookHow to Friday! These... - Bay East Association of REALTORS ...Paragon Windows LLC | Knoxville TN - Facebooklampwork for the beginner | Hi! I have a Paragon programable ... Apr 3, 2023 · Paragon. 597 followers · 1 talking about",
+    "url": "https://www.facebook.com/useparagon/",
+    "pass": 3
+   },
+   {
+    "quote": "Paragon Performance | Waukee IA - FacebookExcited to share some new updates in Paragon to help you ...Paragon Support Systems, Inc | Wyandotte MI - FacebookHow to Friday! These... - Bay East Association of REALTORS ...Paragon Windows LLC | Knoxville TN - Facebooklampwork for the beginner | Hi! I have a Paragon programable ... Paragon Performance, Waukee. 16,639 followers · 1,118 talking about this",
+    "url": "https://www.facebook.com/paragonperf/",
+    "pass": 3
+   },
+   {
+    "quote": "Paragon Support Systems, Inc | Wyandotte MI - FacebookHow to Friday! These... - Bay East Association of REALTORS ...Paragon Windows LLC | Knoxville TN - Facebooklampwork for the beginner | Hi! I have a Paragon programable ... Oct 22, 2026 · Paragon Support Systems, Inc, Wyandotte. 2,070 followers · 199 talking about this · 908 were here. Paragon Support Systems Inc. is a non-profit 501(c)(3) organ",
+    "url": "https://www.facebook.com/paragonsupportsys/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.useparagon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.useparagon.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.useparagon.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.useparagon.com/customers/appsmith",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.useparagon.com/customers/copy-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.useparagon.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/useparagon.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.cdata.com/blog/paragonapiserver",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saasmap.jp/tools/paragon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kpop-fanon-fandom.fandom.com/wiki/PARAGON_JAPAN",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://try.useparagon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.paragonmfgcorp.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paragonmfgcorp.com/category/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paragon-eng-log.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/paragon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/useparagoncom",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/useparagon",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gritt.io/company/useparagon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/useparagon/status/1885346802389615015",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/useparagon/status/1959983901457170678",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/useparagon/status/1861774793567330500",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/useparagon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/useparagon/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/paragonperf/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/paragonsupportsys/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/useparagon",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Useparagon 日本 導入",
+   "results": [
+    "https://www.useparagon.com/mcp",
+    "https://www.firstcvc.jp/global/useparagon.com",
+    "https://jp.cdata.com/blog/paragonapiserver",
+    "https://saasmap.jp/tools/paragon",
+    "https://www.useparagon.com/",
+    "https://www.nikkei.com/article/DGXZRSP673968_Y4A620C2000000/",
+    "https://docs.useparagon.com/platform"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Useparagon 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.useparagon.com/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Useparagon Japan",
+   "results": [
+    "https://kpop-fanon-fandom.fandom.com/wiki/PARAGON_JAPAN",
+    "https://www.useparagon.com/",
+    "https://www.useparagon.com/customers",
+    "https://try.useparagon.com/",
+    "https://docs-staging.useparagon.com/",
+    "https://www.linkedin.com/company/useparagon",
+    "https://demo.useparagon.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Useparagon manufacturing customer case study",
+   "results": [
+    "https://www.useparagon.com/customers",
+    "https://www.paragonmfgcorp.com/case-studies/",
+    "https://www.paragonmfgcorp.com/category/case-studies/",
+    "https://www.paragon-eng-log.com/case-studies/",
+    "https://www.paragontruss.com/posts/case-study-a-new-path-for-component-manufacturers",
+    "https://goparagon.com/case-studies/erp-solution-for-metal-building-manufacturers/",
+    "https://www.useparagon.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Useparagon white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.seoreseller.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Useparagon founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/paragon",
+    "https://compworth.com/company/useparagoncom",
+    "https://indexed.vc/companies/useparagon",
+    "https://www.gritt.io/company/useparagon/",
+    "https://tracxn.com/d/companies/paragon/__ZTFZo1WZz6Xi3KEqcO9wlFhg94DoWpA8EDgrv2SU8bg",
+    "https://www.crunchbase.com/organization/paragon-853c",
+    "https://www.zoominfo.com/c/paragon/480829984"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Useparagon",
+   "results": [
+    "https://note.com/inrash/n/n20d6a5638d95?hl=en",
+    "https://note.com/creator_gaku/n/n4ea53bc913ba?hl=en",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/creator_gaku/n/n3f6ab128a300?hl=en",
+    "https://note.com/unrealengine_yuu/n/n1bed90fbcdfc?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/masa_cloud/n/n1fc93c6da79a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Useparagon",
+   "results": [
+    "https://x.com/useparagon/status/1885346802389615015",
+    "https://x.com/useparagon/status/2092402397742071913",
+    "https://x.com/useparagon/status/1959983901457170678",
+    "https://x.com/useparagon/status/1861774793567330500",
+    "https://x.com/useparagon/status/1861774793454072081",
+    "https://x.com/useparagon/status/1861774793344696423",
+    "https://x.com/useparagon/status/2092675738256195627"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Useparagon",
+   "results": [
+    "https://www.linkedin.com/company/useparagon",
+    "https://www.linkedin.com/products/useparagon-paragon/",
+    "https://www.linkedin.com/pulse/best-api-connect-ai-agents-tools-saas-apps-useparagon-hmjqe",
+    "https://www.linkedin.com/pulse/multi-tenant-auth-customer-facing-integrations-useparagon-a70qe",
+    "https://www.linkedin.com/pulse/connect-your-saas-salesforce-hubspot-useparagon-eg5qe",
+    "https://www.linkedin.com/pulse/i-need-integrations-agents-what-my-options-useparagon-xq8be",
+    "https://www.linkedin.com/pulse/sync-customer-data-vector-database-useparagon-bswie"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Useparagon",
+   "results": [
+    "https://www.facebook.com/useparagon/",
+    "https://www.facebook.com/paragonperf/",
+    "https://www.facebook.com/paragonsupportsys/",
+    "https://www.facebook.com/p/Paragon-Windows-LLC-61574682510020/",
+    "https://www.facebook.com/useparagon/videos/new-in-paragon-visual-db-queries-slack-dms-and-more/2603099816603918/",
+    "https://www.facebook.com/bayeast/posts/how-to-friday-these-quick-grab-n-go-videos-provide-a-step-by-step-demonstration-/1591758145458344/",
+    "https://www.facebook.com/groups/1086696185132417/posts/2135070933628265/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Useparagon note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.zoominfo.com/p/Ishmael-Samuel/3861618895",
+    "https://docs.useparagon.com/apis/api-reference",
+    "https://getlatka.com/companies/paragon",
+    "https://wellfound.com/company/useparagon/people",
+    "https://www.useparagon.com/",
+    "https://www.linkedin.com/company/useparagon"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Useparagon X 投稿",
+   "results": [
+    "https://x.com/useparagon",
+    "https://twstalker.com/useparagon",
+    "https://www.useparagon.com/mcp",
+    "https://www.useparagon.com/",
+    "https://x.com/useparagon/status/2092402397742071913",
+    "https://x.com/findtheparagon",
+    "https://try.useparagon.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

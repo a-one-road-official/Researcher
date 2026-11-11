@@ -1,0 +1,835 @@
+{
+ "name": "Headmade Materials",
+ "aliases": [],
+ "context": "旧営業リスト｜Advanced Manufacturing / AM Materials｜送付済み",
+ "researched_at": "2026-11-11T03:04:37.852367+00:00",
+ "official_url": "https://www.headmade-materials.de/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Metal 3D printing",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Our sinterbased ColdMetalFusion-technology takes the serial production of metal parts to a new level",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify your supply chain with economical series production",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer: The lowest investment costs of all metal 3D printing processes for series production and a scalable machinery solutions.",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Economical series production and freedom from complex supply chains",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "High green part stability enables the production of high part quantities",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Our very high strength of the green parts not only simplifies cleaning and handling, but also enables post-processing before the sintering step to the metal component",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "The heart of the 3D printing process ColdMetalFusion is our feedstock.",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "to fit seamlessly into an existing ecosystem of machines and processes, to achieve high green part stability and without having to accept any compromises in the metal part properties.",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "The machine park can be combined according to the respective requirements or you can use your existing processes and equipment.",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Get in Contact with the future of 3D printing",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Our ColdMetalFusion-process is a sinter-based 3D printing process that combines the advantages of laser sintering for plastics (SLS) with established powder metallurgy processes (e.g. metal powder injection molding).",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "The heart of our ColdMetalFusion manufacturing process.",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Our feedstocks are free-flowing and optimized for processing on laser sintering systems (SLS) and the subsequent debinding & sintering process.",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "3D printing services",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer support in evaluating your first idea to process-reliable design and production.",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "whether you favor an in-house production or the final part ready-to-use.",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about our metal 3D printing technology?",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about our 3D printing process, advantages, field of application, design guidelines and comparisons with other 3D printing technologies",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Headmade Materials, AM Solutions and Neue Materialien Bayreuth jointly launch the \"AutoSmooth\" project to develop a continuous process chain for the CMF technology from powder to smoothed component",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Headmade Materials GmbH has started the groundbreaking project \"AutoSmooth\" in cooperation with AM Solutions, a brand of the Rösler Group, and Neue Materialien Bayreuth GmbH.",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "DecisionRules enables non-technical teams to build and deploy complex business logic without writing code, replacing slow, IT-dependent rule management with a no-code platform that enterprise clients across banking, insurance, and logistics adopt in days.",
+    "url": "https://ventures.jetinvestment.cz/portfolio/headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "Digicust automates customs clearance by processing and validating commercial documents end-to-end, turning unstructured logistics data into compliant customs declarations in minutes instead of hours.",
+    "url": "https://ventures.jetinvestment.cz/portfolio/headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "Matterwave Ventures continues investment in Headmade Materials as Jet Investment Group leads a new funding round",
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "Matterwave Ventures is reaffirming its commitment to Headmade Materials, the German deep tech startup transforming metal 3D printing, by participating in a new funding round led by Jet Investment Group, alongside AM Ventures and the European Innovation Council (EIC).",
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials tripled its sales between 2022 and 2024, serving proof to its strong position in the fast-growing additive manufacturing market. The market is estimated to grow at a rate of approximately 20% per year until 2030. The company's business model is based on selling consumables for manufacturing instead of hardware, allowing for faster scaling and recurring revenue.",
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "\"CMF technology has the potential to fundamentally transform the production of metal components by making serial 3D printing available to a wider range of industrial companies. We believe that Headmade Materials has the potential to become a major player in the global market and at the same time suitably complements the portfolio of our Jet Venture 1 fund.\"",
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "\"The funds raised represent a milestone for us on the path to further growth and expansion of applications that will accelerate the adoption of Cold Metal Fusion technology in the market.\"",
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "Matterwave promotes two team members",
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials GmbH, the pioneer of ColdMetalFusion adds its self-developed and in-house manufactured binder system technology to the ColdMetalFusion Alliance for powder metallurgy, which enable customers to produce metal parts cost-effectively and in serial production. Further partners will join ColdMetalFusion later this year.",
+    "url": "https://www.coldmetalfusion.am/en/news/post/headmade-materials-joins-coldmetalfusion",
+    "pass": 3
+   },
+   {
+    "quote": "ColdMetalFusion is an alliance of industry leaders with decades of experience in the fields of sintering, 3D printing and classical industrial manufacturing. Together, the Alliance members provide services, equipment, material, software and know-how to customers in the metal manufacturing industry.",
+    "url": "https://www.coldmetalfusion.am/en/news/post/headmade-materials-joins-coldmetalfusion",
+    "pass": 3
+   },
+   {
+    "quote": "On the Formnext exhibition in November in Frankfurt, Germany, ColdMetalFusion members will demonstrate the alliance’s mission of industrialization. Headmade Material will be present on the ColdMetalFusion booth where customers can experience the newly qualified materials for the first time in hall 11.1, booth D48.",
+    "url": "https://www.coldmetalfusion.am/en/news/post/headmade-materials-joins-coldmetalfusion",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a sinter-based 3D printing method designed to manufacture metal parts through an adaptable production process.",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a sinter-based 3D printing method designed to manufacture metal parts through an adaptable production process. The company offers proprietary feedstocks and a combination of laser sintering and powder metallurgy, enabling industrial manufacturers to reduce processing steps, use existing equipment, and maintain part stability.",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Particulate feedstock compound for use in a shaping and sintering process, and shaping and sintering process",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Compound particles for use in a shaping and sintering process and process for preparing compound particles",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials’s primary industry is Other Materials.",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Is Headmade Materials a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The heart of our ColdMetalFusion manufacturing process.",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Headmade Materials releases new high-performance materials for ColdMetalFusion to reduce costs for industrial manufacturing with Inconel 625 and Titanium Aluminide TiAl4822",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "The technology is suitable for use in the energy, oil and gas, medical, tooling, armaments and liquid handling industries. Headmade Materials' customers include KOBRA, KSB and Knauf, to name a few. Currently, the company operates through its partner network in the EU, the USA, Japan and China.",
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials tripled its sales between 2022 and 2024, serving proof to its strong position in the fast-growing additive manufacturing market. The market is estimated to grow at a rate of approximately 20% per year until 2030. The company's business model is based on selling consumables for manufacturing instead of hardware, allowing for faster scaling and recurring revenue.",
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "\"CMF technology has the potential to fundamentally transform the production of metal components by making serial 3D printing available to a wider range of industrial companies. We believe that Headmade Materials has the potential to become a major player in the global market and at the same time suitably complements the portfolio of our Jet Venture 1 fund.\"",
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials joins ColdMetalFusion Alliance to unite sinter industry & AM around robust manufacturing standards - ColdMetalFusion",
+    "url": "https://www.coldmetalfusion.am/en/news/post/headmade-materials-joins-coldmetalfusion",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials joins ColdMetalFusion Alliance to unite sinter industry & AM around robust manufacturing standards",
+    "url": "https://www.coldmetalfusion.am/en/news/post/headmade-materials-joins-coldmetalfusion",
+    "pass": 3
+   },
+   {
+    "quote": "ColdMetalFusion is an alliance of industry leaders with decades of experience in the fields of sintering, 3D printing and classical industrial manufacturing. Together, the Alliance members provide services, equipment, material, software and know-how to customers in the metal manufacturing industry.",
+    "url": "https://www.coldmetalfusion.am/en/news/post/headmade-materials-joins-coldmetalfusion",
+    "pass": 3
+   },
+   {
+    "quote": "On the Formnext exhibition in November in Frankfurt, Germany, ColdMetalFusion members will demonstrate the alliance’s mission of industrialization. Headmade Material will be present on the ColdMetalFusion booth where customers can experience the newly qualified materials for the first time in hall 11.1, booth D48.",
+    "url": "https://www.coldmetalfusion.am/en/news/post/headmade-materials-joins-coldmetalfusion",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a sinter-based 3D printing method designed to manufacture metal parts through an adaptable production process. The company offers proprietary feedstocks and a combination of laser sintering and powder metallurgy, enabling industrial manufacturers to reduce processing steps, use existing equipment, and maintain part stability.",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "home - Headmade Materials — home - Headmade Materials Headmade Materials https://www.headmade-materials.de > ...",
+    "url": "https://www.headmade-materials.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials | Portfolio of Jet Ventures — Headmade Materials | Portfolio of Jet Ventures Jet Ventures https://ventures.jetinvestment.cz > hea...",
+    "url": "https://ventures.jetinvestment.cz/portfolio/headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials GmbH - LinkedIn — Headmade Materials GmbH - LinkedIn LinkedIn https://de.linkedin.com > company",
+    "url": "https://de.linkedin.com/company/headmade-materials-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted materials and part properties - Headmade Materials — Trusted materials and part properties - Headmade Materials Headmade Materials https://www.headmade-materials.de > ...",
+    "url": "https://www.headmade-materials.de/en/materials",
+    "pass": 3
+   },
+   {
+    "quote": "Nexa3D社が Headmade Materials 社と提携、ColdMetalFusion ... — Nexa3D社が Headmade Materials 社と提携、ColdMetalFusion ... CAD Japan.com https://www.cadjapan.com > ニュース > 2023年",
+    "url": "https://www.cadjapan.com/news/2023/d20230921_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials GmbH | LinkedIn — Headmade Materials GmbH | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/headmade-materials-gmbh/",
+    "pass": 3
+   },
+   {
+    "quote": "career - Headmade Materials — career - Headmade Materials Headmade Materials https://www.headmade-materials.de > ...",
+    "url": "https://www.headmade-materials.de/en/career",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials | Unterpleichfeld - Facebook — Headmade Materials | Unterpleichfeld - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/HeadmadeMaterials/",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials joins ColdMetalFusion Alliance to unite ... — Headmade Materials joins ColdMetalFusion Alliance to unite ... ColdMetalFusion https://www.coldmetalfusion.am > post",
+    "url": "https://www.coldmetalfusion.am/en/news/post/headmade-materials-joins-coldmetalfusion",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials 2026 Company Profile: Valuation, Funding ...Headmade Materials - 2026 Company Profile, Team, Funding ...Headmade Materials - 2026 Company Profile, Funding | The ...Headmade Materials — venture-backed company profile | DealroomHeadmade Materials: Funding, Investors & Team (Oct 2026)Headmade Materials — Company Profile, Funding & InvestorsHeadmade Materials: Funding, Team & Invest",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials - 2026 Company Profile, Team, Funding ... — Headmade Materials - About the company Headmade Materials is a series A company based in Wurzburg (Germany), founded in 2019 by Christian Staudigel, Marius Geldner, Christian Fischer and Christian Fink. It operates as a Provider of metal powders for 3D printing applications. Headmade Materials has raised $7.15M in funding from AM Ventu",
+    "url": "https://tracxn.com/d/companies/headmade-materials/__R__Rp_Vk_zkuaWumSj6eYX0heVnk4ClMCeFSJ7cmj9M",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials - 2026 Company Profile, Funding | The ... — Oct 17, 2026 · Headmade Materials is a Technology company based in Wurzburg, Germany, founded in 2019. Provider of metal powders for 3D printing applications.",
+    "url": "https://www.thecompanycheck.com/company/b/headmade-materials/05c6ii8kg5pphrnej",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials — venture-backed company profile | Dealroom — Headmade Materials — engineering and manufacturing equipment HQ in Unterpleichfeld, Germany. Founded 2019. Valuation $25–50M. Funding, backers, footprint,…",
+    "url": "https://dealroom.co/companies/headmade-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials: Funding, Investors & Team (Oct 2026) — Headmade Materials is a Hardware company in Unterpleichfeld, Germany. Raised $2.1M across 1 round; latest round Oct 2025. Investors and funding history.",
+    "url": "https://fundediq.co/headmade-materials-headmade-materials-de-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Nexa3D社がHeadmade Materials社と提携、ColdMetalFusionで金属積層造形に参入 | CAD Japan.com（大塚商会）",
+    "url": "https://www.cadjapan.com/news/2023/d20230921_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "The technology is suitable for use in the energy, oil and gas, medical, tooling, armaments and liquid handling industries. Headmade Materials' customers include KOBRA, KSB and Knauf, to name a few. Currently, the company operates through its partner network in the EU, the USA, Japan and China.",
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Headmade Materials tripled its sales between 2022 and 2024, serving proof to its strong position in the fast-growing additive manufacturing market. The market is estimated to grow at a rate of approximately 20% per year until 2030. The company's business model is based on selling consumables for manufacturing instead of hardware, allowing for faster scaling and recurring revenue.",
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "\"Headmade Materials is an attractive firm for its combination of technological innovation and a business model that enables faster scaling and recurring revenue,\"",
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials has 18 total employees.",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "What is Headmade Materials’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Headmade Materials is",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Headmade Materials joins ColdMetalFusion Alliance - https://t ... 3D Printing Industry (@3dprintindustry). Headmade Materials joins ColdMetalFusion Alliance - https://t.co/U7xKIIswJm - #3dprinting #formnext2022",
+    "url": "https://x.com/3dprintindustry/status/1598276708611887104",
+    "pass": 3
+   },
+   {
+    "quote": "We’re expanding what’s possible with the FORMIGA P 110 ... We’re expanding what’s possible with the FORMIGA P 110 Velocis: #ColdMetalFusion technology from Headmade Materials GmbH is now officially supported, giving customers an accessible entry point into #metal printing with low upfront investment.👉 eu1.hubs.ly/H0rVdT_0",
+    "url": "https://x.com/EOS3DPrinting/status/2025978598075613613",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Headmade Materials GmbH - LinkedIn Headmade Materials is an innovator in the field of material and process development for metal additive manufacturing. With our roots in material science, we distribute our self-developed, in-house ...",
+    "url": "https://www.linkedin.com/company/headmade-materials-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials Cofounder on printing metal parts with ... This clip is from a recent conversation I had with Christian, where we discussed the early days of Headmade Materials and how he and his co-founder, Christian Staudigel, began developing Cold ...",
+    "url": "https://www.linkedin.com/posts/johncarrington_coldmetalfusion-3dprinting-formlabs-activity-7358148315063934976-1qoU",
+    "pass": 3
+   },
+   {
+    "quote": "Christian Fischer – Geschäftsführer bei Headmade Materials ...Headmade Materials GmbH on LinkedIn: Headmade Materials was ...Headmade Materials GmbH on LinkedIn: #manufacturing ...Headmade Materials GmbH on LinkedIn: What a year it has been ...Headmade Materials GmbH, a German deep tech start-up, is our ... Geschäftsführer bei Headmade Materials GmbH · Berufserfahrung: Headmade Materials GmbH · St",
+    "url": "https://de.linkedin.com/in/christian-fischer-3084801b3",
+    "pass": 3
+   },
+   {
+    "quote": "Headmade Materials GmbH on LinkedIn: Headmade Materials was ... Headmade Materials was part of an interdisciplinary team from Würzburg University Hospital 🏥 and other regional partners to develop alternative cable-clamp implants using our innovative metal-based 3D printing process called ColdMetalFusion. Although pelvic fractures 🦴 are among the rather rare fractures, they can be life-threatening.",
+    "url": "https://lv.linkedin.com/posts/headmade-materials-gmbh_headmade-materials-was-part-of-an-interdisciplinary-activity-7024330324524322817-Jcej",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Headmade Materials | Unterpleichfeld - Facebook Sep 14, 2023 · Headmade Materials, Unterpleichfeld. 30 followers. Material developer and producer for Industrial Metal 3D Printing #headmadematerials",
+    "url": "https://www.facebook.com/HeadmadeMaterials/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.headmade-materials.de/en/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ventures.jetinvestment.cz/portfolio/headmade-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=5j4BjV4fYJM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://de.linkedin.com/company/headmade-materials-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ventures.jetinvestment.cz/portfolio/headmade-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2023/d20230921_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/headmade-materials-gmbh/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ventures.jetinvestment.cz/portfolio/headmade-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIuIbBqdnUIX80VLH9mmJ3Y0L9tmuYVmWWAZyGDSRlLrZj_cPFy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevirtualfoundry.com/manufacturing-using-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tth.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proto3000.com/resources/case_studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://polarfilament.com/pages/custom-production?srsltid=AYCX9vL0mNutYvhuQ6DC7OhluT1HVcUxgv8xNDeHDBxLSTYRH6N_gAPW",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helioadditive.com/partners/material-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coldmetalfusion.am/en/news/post/headmade-materials-joins-coldmetalfusion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/436249-99",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/headmade-materials/__R__Rp_Vk_zkuaWumSj6eYX0heVnk4ClMCeFSJ7cmj9M",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/headmade-materials/05c6ii8kg5pphrnej",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/companies/headmade-materials/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/3dprintindustry/status/1598276708611887104",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EOS3DPrinting/status/2025978598075613613",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/headmade-materials-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/johncarrington_coldmetalfusion-3dprinting-formlabs-activity-7358148315063934976-1qoU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/christian-fischer-3084801b3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://lv.linkedin.com/posts/headmade-materials-gmbh_headmade-materials-was-part-of-an-interdisciplinary-activity-7024330324524322817-Jcej",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/headmade-materials-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HeadmadeMaterials/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Headmade Materials 日本 導入",
+   "results": [
+    "https://www.headmade-materials.de/en/",
+    "https://ventures.jetinvestment.cz/portfolio/headmade-materials",
+    "https://www.youtube.com/watch?v=5j4BjV4fYJM",
+    "https://de.linkedin.com/company/headmade-materials-gmbh",
+    "https://www.instagram.com/p/DexoHphktMX/",
+    "https://www.cadjapan.com/news/2023/d20230921_03.html",
+    "https://www.headmade-materials.de/en/news",
+    "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%97%E3%83%AD%E3%83%90%E3%82%A4%E3%83%80%E3%83%BC-mimplus-technologies-%E3%81%AF%E3%80%81%E7%94%A3%E6%A5%AD%E7%94%A8%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA-2/",
+    "https://cadmoremetal.com/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Headmade Materials 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.headmade-materials.de/en/",
+    "https://ventures.jetinvestment.cz/portfolio/headmade-materials",
+    "https://www.headmade-materials.de/en/materials",
+    "https://www.cadjapan.com/news/2023/d20230921_03.html",
+    "https://www.instagram.com/p/C9pUoi6Tf6P/",
+    "https://idarts.co.jp/3dp/nexa3d-enters-metal-3d-printing-market/?srsltid=AYCX9vIPOYjOIf0lJ598k2BQU0SrVviAB3eQR-DatASiAo3M5gQW1vxc",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.parker.com/jp/ja/services/distribution-network/product-group-stockists-jp/emg-distributors-jp.html",
+    "https://www.headmade-materials.de/en/process",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Headmade Materials Japan",
+   "results": [
+    "https://www.linkedin.com/company/headmade-materials-gmbh/",
+    "https://www.matterwave.vc/blog/matterwave-ventures-continues-investment-in-headmade-materials",
+    "https://ventures.jetinvestment.cz/portfolio/headmade-materials",
+    "https://www.headmade-materials.de/en/career",
+    "https://www.facebook.com/HeadmadeMaterials/",
+    "https://www.pim-international.com/articles/headmade-materials-and-cold-metal-fusion-an-innovative-approach-to-sinter-based-additive-manufacturing/",
+    "https://www.coldmetalfusion.am/",
+    "https://www.bayern-innovativ.de/en/kompetenzen/additive-manufacturing-expertise/headmade-materials-gmbh/",
+    "https://www.instagram.com/headmadematerials/",
+    "https://www.headmade-materials.de/en/materials"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Headmade Materials manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIuIbBqdnUIX80VLH9mmJ3Y0L9tmuYVmWWAZyGDSRlLrZj_cPFy",
+    "https://thevirtualfoundry.com/manufacturing-using-3d-printing/",
+    "https://www.tth.com/resources/case-studies",
+    "https://proto3000.com/resources/case_studies/",
+    "https://www.desktopmetal.com/resources/case-studies",
+    "https://www.pim-international.com/articles/headmade-materials-and-cold-metal-fusion-an-innovative-approach-to-sinter-based-additive-manufacturing/",
+    "https://www.youtube.com/watch?v=Up_Vb9nmuwQ",
+    "https://www.3deo.co/metal-3d-printing-applications-customer-case-studies/",
+    "https://markforged.com/resources/case-studies/caldwell-manufacturing"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Headmade Materials white label OR reseller OR partner program",
+   "results": [
+    "https://www.headmade-materials.de/en/",
+    "https://polarfilament.com/pages/custom-production?srsltid=AYCX9vL0mNutYvhuQ6DC7OhluT1HVcUxgv8xNDeHDBxLSTYRH6N_gAPW",
+    "https://www.helioadditive.com/partners/material-partner-program",
+    "https://www.coldmetalfusion.am/en/news/post/headmade-materials-joins-coldmetalfusion",
+    "https://www.linkedin.com/company/headmade-materials-gmbh/",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.3d4makers.com/pages/private-label-3d-printing-filament?srsltid=AYCX9vLLVcfcnS0AMPQfurXE_cKKcaFa8dv70-632OXBaEievgVaVlQI",
+    "https://amventures.com/company-portfolios/headmade-materials/",
+    "https://ventures.jetinvestment.cz/portfolio/headmade-materials",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Headmade Materials founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/436249-99",
+    "https://tracxn.com/d/companies/headmade-materials/__R__Rp_Vk_zkuaWumSj6eYX0heVnk4ClMCeFSJ7cmj9M",
+    "https://www.thecompanycheck.com/company/b/headmade-materials/05c6ii8kg5pphrnej",
+    "https://dealroom.co/companies/headmade-materials/",
+    "https://fundediq.co/headmade-materials-headmade-materials-de-funding/",
+    "https://acquirezy.com/organization/headmade-materials-3693848",
+    "https://startupintros.com/orgs/headmade-materials"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Headmade Materials",
+   "results": [
+    "https://note.com/dandy_sable5166/n/n2b036996cf4a?hl=en",
+    "https://note.com/mgkacademy_space/n/nb859aa401b25?hl=en",
+    "https://note.com/joyful_lilac9265/n/nb874246dd89b?hl=en",
+    "https://note.com/fair_drake7069/n/n213767afde02?hl=en",
+    "https://note.com/sachiarenote/n/n79f86013e39f?hl=en",
+    "https://note.com/pinky__pinky/n/n7daa7bfbcb70?hl=en",
+    "https://note.com/orange_witch/n/n89645e9f1741?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Headmade Materials",
+   "results": [
+    "https://x.com/3dprintindustry/status/1598276708611887104",
+    "https://x.com/JulieColibri/status/2116039617938137122",
+    "https://x.com/EOS3DPrinting/status/2025978598075613613",
+    "https://x.com/donaldjewkes",
+    "https://x.com/lucchese1883",
+    "https://x.com/lasercutouts",
+    "https://x.com/littlebrassbox"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Headmade Materials",
+   "results": [
+    "https://www.linkedin.com/company/headmade-materials-gmbh",
+    "https://www.linkedin.com/posts/johncarrington_coldmetalfusion-3dprinting-formlabs-activity-7358148315063934976-1qoU",
+    "https://de.linkedin.com/in/christian-fischer-3084801b3",
+    "https://lv.linkedin.com/posts/headmade-materials-gmbh_headmade-materials-was-part-of-an-interdisciplinary-activity-7024330324524322817-Jcej",
+    "https://lv.linkedin.com/posts/headmade-materials-gmbh_manufacturing-3dprinting-metal3dprinting-activity-7026866925393608704-3oYN",
+    "https://in.linkedin.com/posts/headmade-materials-gmbh_what-a-year-it-has-been-for-headmade-materials-activity-7011646675211440129-2rfF",
+    "https://cz.linkedin.com/posts/jet-investment_headmade-materials-gmbh-a-german-deep-tech-activity-7378745511220150272-YwNy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Headmade Materials",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Headmade Materials note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.headmade-materials.de/en/about-us",
+    "https://www.linkedin.com/company/headmade-materials-gmbh",
+    "https://pitchbook.com/profiles/company/436249-99",
+    "https://amventures.com/company-portfolios/headmade-materials/",
+    "https://www.headmade-materials.de/en/",
+    "https://www.crunchbase.com/person/christian-fischer-ab92"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Headmade Materials X 投稿",
+   "results": [
+    "https://www.instagram.com/headmadematerials/",
+    "https://www.sciencedirect.com/journal/materials-letters-x/publish/guide-for-authors",
+    "https://x.com/HeadmadeGames",
+    "https://www.facebook.com/HeadmadeMaterials/",
+    "https://www.linkedin.com/company/headmade-materials-gmbh",
+    "https://www.headmade-materials.de/en/",
+    "https://www.headmade-materials.de/de/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

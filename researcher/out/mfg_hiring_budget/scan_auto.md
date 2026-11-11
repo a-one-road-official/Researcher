@@ -966,7 +966,7 @@
   - www.saiyo-doda.jp と marugotoinc.jp：品目の重なり 3/4（75%）
   - www.saiyo-doda.jp と 調査会社：品目の重なり 3/5（60%）
   - www.neo-career.co.jp と www.saiyo-doda.jp：品目の重なり 3/5（60%）
-  - www.neo-career.co.jp と marugotoinc.jp：品目の重なり 2/5（40%）
+  - www.neo-career.co.jp と mainichi.jp：品目の重なり 2/4（50%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - 地方の中小製造業の年間採用費｜調査対象［不明］

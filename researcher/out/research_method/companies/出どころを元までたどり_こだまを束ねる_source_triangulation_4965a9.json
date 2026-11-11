@@ -9,7 +9,7 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-09T10:05:38.130931+00:00",
+ "researched_at": "2026-11-11T02:58:03.190580+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -86,20 +86,6 @@
    },
    {
     "quote": "- [ ] Independence was judged by method/data, not by outlet count",
-    "url": "https://skillmd.com/skills/mohitagw15856/source-triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and",
-    "url": "https://skillmd.com/skills/mohitagw15856/source-triangulation",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1. **Trace to the birth certificate:** follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and *with what incentive* (vendor research isn't wrong by default, but its selection pressure is part of the record).",
     "url": "https://skillmd.com/skills/mohitagw15856/source-triangulation",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -208,53 +194,52 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and",
+    "url": "https://skillmd.com/skills/mohitagw15856/source-triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1. **Trace to the birth certificate:** follow each citation to its citation until the original appears — the survey, the paper, the filing, the dataset. The questions at the origin: who made it, with what method, what sample, when, and *with what incentive* (vendor research isn't wrong by default, but its selection pressure is part of the record).",
+    "url": "https://skillmd.com/skills/mohitagw15856/source-triangulation",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://researchmap.jp/feedbackward/works/43801152?lang=en",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.researchgate.net/post/How-is-triangulation-used-in-qualitative-data-to-validate-results",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://wyoscholar.uwyo.edu/bitstreams/f9485e21-d883-462c-9122-db7bc23ed990/download",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://repository.kulib.kyoto-u.ac.jp/handle/2433/125341",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.semanticscholar.org/paper/ef8f9b80e42f18c421e85a2ae3789db1b88c2b2a",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://repository.dl.itc.u-tokyo.ac.jp/records/2010445",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
+    "url": "https://note.com/_novita_/n/n6c6761f4478b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://delvetool.com/blog/triangulation-qualitative-research",
+    "url": "https://note.com/zen_ai_lab/n/n1514d7e7c104",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.evalacademy.com/articles/part-2-how-do-you-present-triangulated-data",
+    "url": "https://note.com/tsuzurika/n/n243e77314a07",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hidesuke_worklab/n/n7e23d12b21d1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/koki321386/n/ncbfd7cc4c61c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/a_hosokawa/n/ne4d800cf95ba",
     "status": "ok",
     "method": "http"
    },
@@ -264,22 +249,22 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.scribbr.com/methodology/triangulation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://atlasti.com/research-hub/researcher-triangulation",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researchmap.jp/tnishihara/published_papers/16747454?lang=ja",
+    "url": "https://wyoscholar.uwyo.edu/bitstreams/f9485e21-d883-462c-9122-db7bc23ed990/download",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://aist.repo.nii.ac.jp/records/2003346",
+    "url": "https://repository.kulib.kyoto-u.ac.jp/handle/2433/293301",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://repository.dl.itc.u-tokyo.ac.jp/records/2007573",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://agi.repo.nii.ac.jp/records/266",
     "status": "ok",
     "method": "browser"
    },
@@ -289,22 +274,12 @@
     "method": "http"
    },
    {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://repository.dl.itc.u-tokyo.ac.jp/records/2005862",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25158659/",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://joblit.jp/manuscript/13361",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.docsie.io/blog/glossary/data-triangulation/",
+    "url": "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
     "status": "ok",
     "method": "http"
    },
@@ -314,9 +289,69 @@
     "method": "http"
    },
    {
+    "url": "https://www.evalacademy.com/articles/part-2-how-do-you-present-triangulated-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crazyegg.com/blog/data-triangulation-in-qualitative-research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aist.repo.nii.ac.jp/records/2003346",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.synapsesocial.com/ja/papers/69b6068883145bc643d1c873",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://repository.dl.itc.u-tokyo.ac.jp/records/47623",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://joblit.jp/manuscript/13361",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://researchmap.jp/tnishihara/published_papers/16747454?lang=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://www.evalacademy.com/articles/part-1-what-is-data-triangulation-in-evaluation",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://dna-explained.com/2019/11/06/triangulation-in-action-at-family-tree-dna/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12304027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gmrtranscription.com/blog/what-is-verbatim-transcription-in-qualitative-research",
+    "status": "ok",
+    "method": "browser"
    },
    {
     "url": "https://thegeneticgenealogist.com/2016/06/19/a-triangulation-intervention/",
@@ -324,12 +359,7 @@
     "method": "http"
    },
    {
-    "url": "https://martelelectronics.com/articles/qualitative-research-transcription-guide?srsltid=AYCX9vI-aBLBt6TwBFAxWN5N999DIwMcmQ_tBSs7yMtZz4r7MB7d75Tu",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12304027/",
+    "url": "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
     "status": "ok",
     "method": "http"
    }
@@ -338,22 +368,32 @@
  "search_log": [
   {
    "query": "出どころを元までたどり、こだまを束ねる（source triangulation・検証の表） site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://note.com/_novita_/n/n6c6761f4478b",
+    "https://note.com/zen_ai_lab/n/n1514d7e7c104",
+    "https://note.com/tsuzurika/n/n243e77314a07",
+    "https://note.com/hidesuke_worklab/n/n7e23d12b21d1",
+    "https://note.com/koki321386/n/ncbfd7cc4c61c",
+    "https://note.com/a_hosokawa/n/ne4d800cf95ba",
+    "https://note.com/matuno_w/n/n8f726df39686"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "出どころを元までたどり、こだまを束ねる（source triangulation・検証の表） note",
    "results": [
-    "https://researchmap.jp/feedbackward/works/43801152?lang=en",
-    "https://www.researchgate.net/post/How-is-triangulation-used-in-qualitative-data-to-validate-results",
+    "https://www.researchgate.net/profile/Helen-Noble-4/publication/333794057_Triangulation_in_research_with_examples/links/5dcf19fe4585156b351642e1/Triangulation-in-research-with-examples.pdf",
     "https://wyoscholar.uwyo.edu/bitstreams/f9485e21-d883-462c-9122-db7bc23ed990/download",
-    "https://repository.kulib.kyoto-u.ac.jp/handle/2433/125341",
-    "https://www.semanticscholar.org/paper/ef8f9b80e42f18c421e85a2ae3789db1b88c2b2a",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2010445",
+    "https://repository.kulib.kyoto-u.ac.jp/handle/2433/293301",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/2007573",
+    "https://agi.repo.nii.ac.jp/records/266",
+    "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://agi.repo.nii.ac.jp/records/2000194",
-    "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html"
+    "https://www.researchgate.net/post/How-is-triangulation-used-in-qualitative-data-to-validate-results",
+    "https://researchmap.jp/feedbackward/works/43801152?lang=en"
    ],
    "engines": [
     "yahoo_jp"
@@ -363,15 +403,15 @@
   {
    "query": "出どころを元までたどり、こだまを束ねる（source triangulation・検証の表） やり方",
    "results": [
+    "https://pubmed.ncbi.nlm.nih.gov/25158659/",
     "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
-    "https://delvetool.com/blog/triangulation-qualitative-research",
-    "https://www.evalacademy.com/articles/part-2-how-do-you-present-triangulated-data",
+    "https://delvetool.com/blog/researcher-triangulation",
     "https://www.researchgate.net/profile/Helen-Noble-4/publication/333794057_Triangulation_in_research_with_examples/links/5dcf19fe4585156b351642e1/Triangulation-in-research-with-examples.pdf",
+    "https://www.evalacademy.com/articles/part-2-how-do-you-present-triangulated-data",
+    "https://www.simplypsychology.org/what-is-triangulation-in-qualitative-research.html",
+    "https://www.crazyegg.com/blog/data-triangulation-in-qualitative-research/",
     "https://www.scribbr.com/methodology/triangulation/",
-    "https://atlasti.com/research-hub/researcher-triangulation",
-    "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "https://quali-fi.com/learn/triangulation",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7616800/"
+    "https://atlasti.com/research-hub/researcher-triangulation"
    ],
    "engines": [
     "yahoo_jp"
@@ -382,14 +422,14 @@
    "query": "出どころを元までたどり、こだまを束ねる（source triangulation・検証の表） 事例",
    "results": [
     "https://www.researchgate.net/profile/Helen-Noble-4/publication/333794057_Triangulation_in_research_with_examples/links/5dcf19fe4585156b351642e1/Triangulation-in-research-with-examples.pdf",
-    "https://researchmap.jp/tnishihara/published_papers/16747454?lang=ja",
     "https://aist.repo.nii.ac.jp/records/2003346",
     "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2005862",
+    "https://www.synapsesocial.com/ja/papers/69b6068883145bc643d1c873",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/47623",
     "https://joblit.jp/manuscript/13361",
-    "https://repository.ninjal.ac.jp/records/3510",
-    "https://www.jsnr.or.jp/journal/files/37_2.pdf"
+    "https://researchmap.jp/tnishihara/published_papers/16747454?lang=ja",
+    "https://repository.ninjal.ac.jp/records/3510"
    ],
    "engines": [
     "yahoo_jp"
@@ -399,22 +439,21 @@
   {
    "query": "source triangulation trace to origin echo verbatim numbers validation matrix",
    "results": [
-    "https://www.docsie.io/blog/glossary/data-triangulation/",
     "https://www.quirkos.com/blog/post/triangulation-in-qualitative-research-analysis/",
-    "https://delvetool.com/blog/researcher-triangulation",
     "https://www.evalacademy.com/articles/part-1-what-is-data-triangulation-in-evaluation",
-    "https://www.researchgate.net/profile/Helen-Noble-4/publication/333794057_Triangulation_in_research_with_examples/links/5dcf19fe4585156b351642e1/Triangulation-in-research-with-examples.pdf",
-    "https://thegeneticgenealogist.com/2016/06/19/a-triangulation-intervention/",
-    "https://martelelectronics.com/articles/qualitative-research-transcription-guide?srsltid=AYCX9vI-aBLBt6TwBFAxWN5N999DIwMcmQ_tBSs7yMtZz4r7MB7d75Tu",
+    "https://delvetool.com/blog/researcher-triangulation",
+    "https://dna-explained.com/2019/11/06/triangulation-in-action-at-family-tree-dna/",
     "https://pmc.ncbi.nlm.nih.gov/articles/PMC12304027/",
+    "https://www.gmrtranscription.com/blog/what-is-verbatim-transcription-in-qualitative-research",
+    "https://thegeneticgenealogist.com/2016/06/19/a-triangulation-intervention/",
     "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
-    "https://www.koji.so/docs/evidence-corroboration-independent-sources"
+    "https://www.researchgate.net/profile/Helen-Noble-4/publication/333794057_Triangulation_in_research_with_examples/links/5dcf19fe4585156b351642e1/Triangulation-in-research-with-examples.pdf",
+    "https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2007/sp369_bb226/sp369_bb226/index.htm"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "site:note.com 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）",
@@ -425,7 +464,7 @@
     "https://note.com/tsuzurika/n/n243e77314a07",
     "https://note.com/a_hosokawa/n/ne4d800cf95ba",
     "https://note.com/airi_study_life/n/n0ce90bdc33f2",
-    "https://note.com/matuno_w/n/n8f726df39686"
+    "https://note.com/hidesuke_worklab/n/n7e23d12b21d1"
    ],
    "engines": [
     "ddgs:bing"
@@ -435,52 +474,48 @@
   {
    "query": "site:x.com 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）",
    "results": [
-    "https://x.com/okame_icu/status/2108317764503138444",
-    "https://x.com/konkyo_note",
-    "https://x.com/ono_cardiology/status/2033845853790556569",
     "https://x.com/nikkei_kotoba/status/778218941919272960",
-    "https://x.com/kizunasan/status/2113064229439938811",
-    "https://x.com/spring_online1/status/2097538317797732737",
-    "https://x.com/boxheadroom/status/2113647038764298725",
-    "https://x.com/13chi31/status/2110949288926953649"
+    "https://x.com/tsuntsun2914/status/2065335458033516717",
+    "https://x.com/mina_suki_yo/status/2084116070450037148",
+    "https://x.com/kawai_design/status/2098573852855128169",
+    "https://x.com/mina_suki_yo/status/2084642205717963218",
+    "https://x.com/nayuta_office/status/2116379699651711174",
+    "https://x.com/spring_online1/status/2097538317797732737"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）",
    "results": [
     "https://www.linkedin.com/top-content/science/research-methods/triangulation-methods-in-research/",
     "https://www.linkedin.com/top-content/science/research-methods/triangulation-vs-single-source-research/",
+    "https://in.linkedin.com/company/fox-solutions-nsk",
     "https://www.linkedin.com/pulse/mixed-method-research-example-data-triangulation-ariful-islam",
     "https://www.linkedin.com/pulse/triangulation-its-significance-research-enhancing-kousthupamany-folzc",
-    "https://www.linkedin.com/advice/3/what-most-effective-methods-triangulate-data-from-glmoc",
-    "https://jp.linkedin.com/pulse/understanding-verification-validation-key-pillars-quality-ttcyc?tl=ja",
-    "https://jp.linkedin.com/in/seiji-sugiura",
-    "https://in.linkedin.com/company/fox-solutions-nsk"
+    "https://jp.linkedin.com/pulse/what-single-source-truth-zentso-v6rme?tl=ja",
+    "https://jp.linkedin.com/pulse/understanding-verification-validation-key-pillars-quality-ttcyc?tl=ja"
    ],
    "engines": [
-    "ddgs:google",
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 出どころを元までたどり、こだまを束ねる（source triangulation・検証の表）",
    "results": [
+    "https://www.facebook.com/kusanomidou/videos/同じ足利将軍でもこんなに違う尊氏義満ゆかりの寺院/1787287939163812/",
     "https://www.facebook.com/youhei.takahashi.54/posts/稲架はざ掛けするために稲を束ねる場所小田原市桑原-たんぼの恵を感じる会/28256729824026583/",
     "https://www.facebook.com/bunkashiryoukankamebun/posts/保津川を下り角倉了以素庵の足跡をたどりました現在開催中の特別展関連事業として角倉了以素庵の足跡をたどるフィールドワークを10月10日土秋晴れのもと開催することが/1620633416527303/",
-    "https://www.facebook.com/ldhinfo/posts/なぜこだまは名古屋で終わる新大阪まで走らない意外な理由東京から新大阪まで結ぶ東海道新幹線それなのに各駅停車のこだまには途中の名古屋で運転を終える列車があるあと少/1551895133641753/",
     "https://www.facebook.com/sinobu0428dx/videos/皆さんはこの事件をどう感じましたか5つの家族はなぜ一人の女に支配されたのか尼崎連続変死事件角田美代子が家族に入り込んだきっかけから事件の発覚裁判前に残された疑問/1571080568041047/",
-    "https://www.facebook.com/Philippineslab/videos/なぜ彼女はフィリピンまで追いかけてきたのか二人の間に何があったのか追ってきた女性は誰なのかその関係と経緯を男の語る体験からたどりますフィリピンに狂った男-フィリ/1506670437963611/",
     "https://www.facebook.com/shigeru.tada.1/posts/元スレ-1-記憶たどり-20190201金-12402327-idkkdui0m9net-ハロウィーンパーティーに参加するために100円ショップで購入したタトゥ/2174333802633537/",
-    "https://www.facebook.com/asahicom/videos/sqハッシー2-1mp4/1100763659529635/"
+    "https://www.facebook.com/ldhinfo/posts/なぜこだまは名古屋で終わる新大阪まで走らない意外な理由東京から新大阪まで結ぶ東海道新幹線それなのに各駅停車のこだまには途中の名古屋で運転を終える列車があるあと少/1551895133641753/",
+    "https://www.facebook.com/Philippineslab/videos/なぜ彼女はフィリピンまで追いかけてきたのか二人の間に何があったのか追ってきた女性は誰なのかその関係と経緯を男の語る体験からたどりますフィリピンに狂った男-フィリ/1506670437963611/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -490,12 +525,12 @@
     "https://researchmap.jp/7000014949/works/27161117?lang=ja",
     "https://tsukuba.repo.nii.ac.jp/records/2019212",
     "https://repository.dl.itc.u-tokyo.ac.jp/records/49832",
+    "https://www.synapsesocial.com/ja/papers/69b6068883145bc643d1c873",
     "https://navymule9.sakura.ne.jp/16_triangulation_Social_SCience.html",
     "https://higashiyamato.net/thinking/wp-content/uploads/sites/10/2019/05/af58dffc0fea45d06af0ac032bf29c5e.pdf",
     "https://repository.ninjal.ac.jp/records/3510",
-    "https://aist.repo.nii.ac.jp/records/2003489",
-    "https://repository.dl.itc.u-tokyo.ac.jp/records/2015372",
-    "https://aist.repo.nii.ac.jp/records/2003346"
+    "https://agi.repo.nii.ac.jp/records/266",
+    "https://repository.dl.itc.u-tokyo.ac.jp/records/2015372"
    ],
    "engines": [
     "yahoo_jp"
@@ -505,15 +540,15 @@
   {
    "query": "出どころを元までたどり、こだまを束ねる（source triangulation・検証の表） X 投稿",
    "results": [
-    "https://delvetool.com/blog/triangulation-qualitative-research",
     "https://onlinejournalismblog.com/2023/01/19/how-triangulating-can-help-you-identify-more-sources/",
-    "https://www.evalacademy.com/articles/part-2-how-do-you-present-triangulated-data",
-    "https://www.researchgate.net/profile/Helen-Noble-4/publication/333794057_Triangulation_in_research_with_examples/links/5dcf19fe4585156b351642e1/Triangulation-in-research-with-examples.pdf",
     "https://www.crazyegg.com/blog/data-triangulation-in-qualitative-research/",
+    "https://www.evalacademy.com/articles/part-2-how-do-you-present-triangulated-data",
     "https://dscout.com/people-nerds/triangulate-user-research",
-    "https://www.vaia.com/en-us/explanations/anthropology/ethnographic-methods/data-triangulation/",
+    "https://www.researchgate.net/profile/Helen-Noble-4/publication/333794057_Triangulation_in_research_with_examples/links/5dcf19fe4585156b351642e1/Triangulation-in-research-with-examples.pdf",
     "https://atlasti.com/research-hub/researcher-triangulation",
-    "https://www.threads.com/@learn_with_me_62/post/Dama73ICKQp/triangulation-in-qualitative-research-triangulation-is-the-practice-of-using/?hl=ja"
+    "https://www.monitoringevaluationstudio.com/resources/reference/triangulation",
+    "https://www.vaia.com/en-us/explanations/anthropology/ethnographic-methods/data-triangulation/",
+    "https://quali-fi.com/learn/triangulation"
    ],
    "engines": [
     "yahoo_jp"
@@ -523,25 +558,25 @@
   {
    "query": "source triangulation trace to origin echo verbatim numbers validation matrix site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/traceability-matrix-tm-audit-ready-gmp-compliant-framework-palav-ey2af",
-    "https://www.linkedin.com/pulse/from-trace-ids-matrix-what-does-change-actually-affect-spark-tsai-u1rzc",
-    "https://ng.linkedin.com/company/origintrace",
-    "https://ic.linkedin.com/products/acviss-origin-track-trace/",
-    "https://in.linkedin.com/in/srinivasan-m-5292b4227",
+    "https://www.linkedin.com/posts/maxharitonoff_crsl-activity-7454916441922842624-wiL6",
+    "https://www.linkedin.com/pulse/design-inputs-outputs-trace-matrix-principles-lean-documents-rzbmf",
+    "https://au.linkedin.com/company/originstrace",
     "https://in.linkedin.com/company/source-trace-systems",
-    "https://www.linkedin.com/pulse/design-inputs-outputs-trace-matrix-principles-lean-documents-rzbmf"
+    "https://ic.linkedin.com/products/acviss-origin-track-trace/",
+    "https://ng.linkedin.com/company/origintrace",
+    "https://www.linkedin.com/pulse/design-inputs-outputs-trace-matrix-principles-lean-documents-ctjwe"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   }
  ],
  "missing": {
-  "失敗・落とし穴": "記載なし（読んだ24頁・検索12回）",
-  "実例": "記載なし（読んだ24頁・検索12回）"
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 23,
+ "runs": 24,
  "first_researched_at": "2026-11-05T06:29:42.994050+00:00"
 }

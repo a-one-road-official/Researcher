@@ -1,0 +1,1309 @@
+{
+ "name": "Yondu",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送付済み",
+ "researched_at": "2026-11-11T03:28:59.032873+00:00",
+ "official_url": "https://www.yondu.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "16-Sep-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/593033-95",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2024",
+    "url": "https://startupintros.com/orgs/yondu",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Los Angeles, CA, USA",
+    "url": "https://startupintros.com/orgs/yondu",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Yondu provides drop-in, general-purpose robots for 3PL warehouses to",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "along with other critical warehouse tasks, at a price point mid-sized warehouses can afford. Our system works within existing layouts and processes, eliminating the need for costly retrofits or new infrastructure.",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With Yondu, integration is seamless: our robots adapt to the warehouse you already have, working within your current layout and processes so",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yondu is the first company to fully automate brownfield warehouse tasks at a price point any warehouse can afford. Our approach brings advanced robotics into existing operations without costly infrastructure changes, making automation accessible to businesses of every size.",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From pilot to production, we turn robots into a coordinated workforce for any warehouse job.",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Teleoperation infrastructure and model training for robotics.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Before full autonomy, Yondu Brain allows you to deploy teleoperated humaniods to perform real work in production environments.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Fast, responsive control enables precise task execution so robots can perform useful work immediately.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Easy-to-learn controls allow operators to start teleoperating robots right away while autonomy improves over time.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Yondu Brain helps robotics companies turn real-world robot data into deployable autonomy by handling data collection, processing, and model training.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Data Processing & Labeling:",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform organizes, processes, and prepares that data to be used for training machine learning models.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Model Training & Deployment:",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "From teleoperation to model training, Yondu Brain provides a unified platform for collecting data, improving robot performance, and scaling autonomy across deployments.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Discover a new era of teleoperation. Our system pairs precise, low-cost hardware with intuitive, real-time software, giving you safe, seamless control from anywhere. Instantly switch between robots, adapt to each operator for extended use, and visualize every task in 3D.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Low-cost and precise, designed for reliability",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "High security with password protection",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with systems integrators and robotics companies to deploy robots in production and build autonomy through Yondu Brain. Reach out to explore partnership opportunities.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "How do I place a preorder or request a demo?",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Do I need prior robotics experience to use it?",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Most customers are fully operational within a single day, thanks to our plug-and-play setup and onboarding support.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Does the hardware provide tactile feedback during operation?",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Operators will soon (upcoming feature) feel responsive feedback that makes joint-level control natural, precise, and confidence-inspiring.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Collision avoidance and built-in safety protocols run in the background, ensuring safe operation without adding complexity.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Does the software provide third-person visualization and live camera feeds?",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "building the robot workforce of the future.",
+    "url": "https://www.yondu.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Participated in the PROD 3.0 and YC W24 cohorts",
+    "url": "https://www.yondu.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Demonstrated Comprehensive Tele-operated Bin-Picking System",
+    "url": "https://www.yondu.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We debate, speak up and do it without worry, no matter who's in the room—problems get raised fast, and the best ideas win.",
+    "url": "https://www.yondu.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We always read the most recent papers, keep up with the state of the art, and continually learn and improve our skills. Curiosity drives us forward, ensuring we're always evolving with the field and pushing beyond the known edge.",
+    "url": "https://www.yondu.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founders and everyone work equally on the same problems without exception. We never ask anyone to do anything you wouldn't do yourself. This creates an environment where responsibility is shared, and everyone has a direct impact on our success.",
+    "url": "https://www.yondu.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We're tackling one of the hardest problems in robot learning—bringing humanoid robots into the real world to solve urgent needs.",
+    "url": "https://www.yondu.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We stay steady under pressure, adapt when things don’t go as planned, and keep pushing forward until the problem is solved.",
+    "url": "https://www.yondu.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "From pilot to production, we turn robots into a coordinated workforce for any warehouse job.",
+    "url": "https://www.yondu.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We solve complex problems by bringing",
+    "url": "https://www.yondu.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Mechatronics Intern (Spring/Summer)",
+    "url": "https://www.yondu.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Software Engineering Intern (Spring/Summer)",
+    "url": "https://www.yondu.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive medical and dental coverage — 100% of premiums covered for you and your dependents.",
+    "url": "https://www.yondu.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "From pilot to production, we turn robots into a coordinated workforce for any warehouse job.",
+    "url": "https://www.yondu.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "#1 Product of the Day",
+    "url": "https://moge.ai/ja/product/yondu-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "attack on the solar system in the 31st century who became known as the Guardians of the Galaxy. As part of the Guardians, Yondu traveled to present-day Earth and became an honorary member of the",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": ", an astronaut from Earth, lands on Yondu's planet with an antiquated propulsion ship. Vance encounters Yondu during the latter's trial of manhood. Yondu attacks him, but is repelled by Vance's powers. Vance keeps this secret as Yondu's action was illegal. Yondu works with Vance when the",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": ", an alien race, overtakes the planet later that year. All the other Centaurians are believed to have been slaughtered. Vance and Yondu escape in his ship to fetch help but the Badoon capture them easily. The duo are taken to Earth which, by 3007 A.D., has also been conquered. When questioned, Vance pretends to be unfriendly with Yondu. They later escape and team up with",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu travels to the present alongside his fellow Guardians, and assists the Avengers against",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": ", a metal found only on Centauri IV. His yaka arrows are able to change their trajectory in response to certain high-octave whistles produced by him.",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "hires Udonta to track down the",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "'s help, Udonta secures a prototype fin to kill the mutineers before escaping to help Quill and the other Guardians defeat Ego. Amidst this, Udonta sacrifices himself to save Quill, having grown to see him as a son. At Udonta's funeral, Quill declares him his real father while Rocket informs the other Ravagers of Udonta's redemption and Kraglin inherits the Yaka arrow.",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": ". April 16, 2013.",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "from the original on April 18, 2013",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "April 16,",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": ": CS1 maint: deprecated archival service (",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": ". IGN. April 30, 2014",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "April 30,",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "(2021 video game)",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Fictional priests and priestesses",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 maint: deprecated archival service",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "We proposed an office interior design for “Yondu” in the Philippines.",
+    "url": "https://flaxjapan.com/featured_item/yondu/",
+    "pass": 3
+   },
+   {
+    "quote": "INSTALLATION, INTERIOR, PRODUCT",
+    "url": "https://flaxjapan.com/featured_item/yondu/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "∙WAREHOUSE AUTOMATION",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yondu provides drop-in, general-purpose robots for 3PL warehouses to",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yondu automates the full range of repetitive physical warehouse workflows.",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "along with other critical warehouse tasks, at a price point mid-sized warehouses can afford. Our system works within existing layouts and processes, eliminating the need for costly retrofits or new infrastructure.",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With Yondu, warehouses can cut labor costs by up to 75%, reduce errors and lost inventory, handle seasonal demand with ease, and maintain reliable 24/7 operations. That frees teams to focus on growth, while automation handles the heavy lifting.",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With Yondu, integration is seamless: our robots adapt to the warehouse you already have, working within your current layout and processes so",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouses that can automate bin-picking will deliver better service, drastically lower costs, and stand out from competitors.",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yondu’s AI robots navigate shelves, identify items, and pick and place any SKU within your existing warehouse layout.",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We introduce Yondu AI co-founder Michael Chen and Tahmid Jamal break down the many dimensions of their work, from the challenges they're solving today to the long-term vision shaping the future of robotics and warehouse automation.",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "drop in warehouse automation",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yondu is the first company to fully automate brownfield warehouse tasks at a price point any warehouse can afford. Our approach brings advanced robotics into existing operations without costly infrastructure changes, making automation accessible to businesses of every size.",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yondu has had a close partnership with Shipbots one of the largest and most tech forward 3PLs on the West Coast. We’re working with them to test, iterate, and roll out our bin-picking robots in their warehouse.",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From pilot to production, we turn robots into a coordinated workforce for any warehouse job.",
+    "url": "https://www.yondu.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Easy-to-learn controls allow operators to start teleoperating robots right away while autonomy improves over time.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Robots deployed through Yondu Brain capture real-world operational data directly from our warehouse environment.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Yondu Brain is hardware agnostic so it works with robots from many robot manufacturers",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Easy to use and pick up for first time operators",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "No, the system is designed to be intuitive and accessible. Operators can learn the basics in minutes, with advanced features available as you grow.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The system is fully adjustable in both height and width, so operators can configure it for their comfort and body type. This ensures a natural fit for long sessions without fatigue or discomfort.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Operators will soon (upcoming feature) feel responsive feedback that makes joint-level control natural, precise, and confidence-inspiring.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. Operators have full visibility into the robot’s environment through power monitoring, camera feeds, and optional third-person views.",
+    "url": "https://www.yondu.ai/partner-with-us",
+    "pass": 1
+   },
+   {
+    "quote": "From pilot to production, we turn robots into a coordinated workforce for any warehouse job.",
+    "url": "https://www.yondu.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "From pilot to production, we turn robots into a coordinated workforce for any warehouse job.",
+    "url": "https://www.yondu.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Sempio Yondu | Plant-Based Liquid Umami Seasoning",
+    "url": "https://globalsempio.com/collections/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Food Service & Industrial",
+    "url": "https://globalsempio.com/collections/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Vegan, Gluten-free, Non-GMO, Plant-based",
+    "url": "https://globalsempio.com/collections/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Soups, stir-fries, salad dressings, marinades, roasted vegetables, pasta dishes, grain bowls, and anywhere you want to enhance natural flavors. It's especially great for plant-based cooking.",
+    "url": "https://globalsempio.com/collections/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "builds a robot workforce for third-party logistics warehouses. Yondu supplies the model and the software layer that drive off-the-shelf hardware through bin picking, shelf stocking, inventory counts, and order fulfillment.",
+    "url": "https://ornn.com/case-studies/yondu/",
+    "pass": 3
+   },
+   {
+    "quote": "The whole company is organized around one constraint, brownfield deployment. Most warehouse automation is greenfield, where the facility goes up around the robots with fixed racking and known geometry. Yondu drops into the aisles, lighting, and shelving a 3PL already has, against whatever SKUs come through the door, without a retrofit or a pause in operations.",
+    "url": "https://ornn.com/case-studies/yondu/",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu onboarded once, and that onboarding covers the operators on the Ornn platform. The next short-notice request starts from available inventory.",
+    "url": "https://ornn.com/case-studies/yondu/",
+    "pass": 3
+   },
+   {
+    "quote": "HubSpot Case Study: Yondu – Yondu increases web traffic by 155% and sales effectiveness with HubSpot | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/hubspot/case-study/yondu-increases-web-traffic-by-155-and-sales-effectiveness-with-hubspot",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Yondu used HubSpot",
+    "url": "https://www.casestudies.com/company/hubspot/case-study/yondu-increases-web-traffic-by-155-and-sales-effectiveness-with-hubspot",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/hubspot/case-study/yondu-increases-web-traffic-by-155-and-sales-effectiveness-with-hubspot",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/hubspot/case-study/yondu-increases-web-traffic-by-155-and-sales-effectiveness-with-hubspot",
+    "pass": 3
+   },
+   {
+    "quote": "A unified framework connecting perception, decision-making, and robotic control to execute logistics workflows in real-world warehouse conditions[1].",
+    "url": "https://startupintros.com/orgs/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Enables rapid piloting and adaptation across various robot types and warehouse tasks, accelerating deployment and learning[1][3].",
+    "url": "https://startupintros.com/orgs/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Coordinates fleets of robots intelligently, integrating seamlessly with existing warehouse management systems for synchronized operations[1].",
+    "url": "https://startupintros.com/orgs/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Designed to work in existing warehouse environments without infrastructure overhaul, lowering barriers to automation adoption[1][3].",
+    "url": "https://startupintros.com/orgs/yondu",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Yondu AI:統合された学習とオーケストレーションシステムによる完全な... — 製品概要 Yondu AIとは？ Yondu AIは、ブラウンフィールド倉庫の複雑なタスクを自動化するために設計された汎用エンボディドロボティクスプラットフォームを構築します。",
+    "url": "https://moge.ai/ja/product/yondu-ai",
+    "pass": 3
+   },
+   {
+    "quote": "The - yondu.ai — We introduce Yondu AI co-founder Michael Chen and Tahmid Jamal break down the many dimensions of their work, from the challenges they're solving today to the long-term vision shaping the future of robotics and warehouse automation.",
+    "url": "https://www.yondu.ai/?trk=public_post-text",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu - AIツールレビュー | AIniche — また、24時間連続稼働能力により、季節的な需給変動にも中断することなく対応でき、中小規模の倉庫や3PL（サードパーティ・ロジスティクス）事業者が負担なく導入できる合理的な価格設定を提供しています。",
+    "url": "https://ainiche.net/ja/tools/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu AI｜3PL倉庫向け即導入可能なAIロボット自動化ソリューションで... — 既存の倉庫で人件費削減のため自動化を導入したいが、運用を停止したり基盤を改修したくない場合。 中規模の倉庫がコスト効果の高い自動化ソリューションを求め、事業成長や季節的ピークに対応します。",
+    "url": "https://toolverto.com/ja/tool/yondu-ai",
+    "pass": 3
+   },
+   {
+    "quote": "英雄百景 on X: \"@gotg_love_yondu マーベルの日本は、シビル・ウォー... — Oct 15, 2026 · マーベルの日本は、シビル・ウォー当時でもアメリカに追随せず超人登録法を導入しなかった国だし、日本のヒーローチーム、ビッグヒーロー6 (名前…😅)はカイジュウと戦ってる猛者揃いだから…",
+    "url": "https://x.com/EiyuHyakkei/status/2110797005358612488",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu — Yondu is the first company to fully automate brownfield bin-picking, along with other critical warehouse tasks, at a price point mid-sized warehouses can afford. Our system works within existing layouts and processes, eliminating the need for costly retrofits or new infrastructure.",
+    "url": "https://www.yondu.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu - Wikipedia — As part of the Guardians, Yondu traveled to present-day Earth and became an honorary member of the Avengers. In other media, Yondu has appeared in the Marvel Cinematic Universe, portrayed by Michael Rooker, and the Guardians of the Galaxy animated series, voiced by James Arnold Taylor.",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu - Flax Japan — フィリピン”Yondu”のオフィスインテリアデザインを提案致しました。 We proposed an office interior design for “Yondu” in the Philippines.",
+    "url": "https://flaxjapan.com/featured_item/yondu/",
+    "pass": 3
+   },
+   {
+    "quote": "Sempio Yondu | Plant-Based Liquid Umami Seasoning — Elevate your meals with Sempio Yondu, the ultimate liquid umami seasoning. A clean-label, plant-based flavor booster perfect for vegan broths, soups, and everyday healthy cooking.",
+    "url": "https://globalsempio.com/collections/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "yondu - LinkedIn — Join us on October 12 from 7–9 PM at our warehouse for a live robot demo and a behind-the-scenes look at what we've been building at Yondu. We'll be serving hors d'oeuvres and drinks throughout...",
+    "url": "https://www.linkedin.com/company/yonduai",
+    "pass": 3
+   },
+   {
+    "quote": "Tahmid J. - cofounder @ Yondu | physical AI in logistics ... — This time: Yondu🚀 Smart robots, intelligent automation and seamless processes — exactly the direction modern logistics is heading. The goal isn’t to replace people. It’s to support them,...",
+    "url": "https://www.linkedin.com/in/74hm1d",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu cuts a five-day training run to 21 hours - Ornn Compute — Human operators run the robots by teleoperation through Yondu's control platform, every demonstration becomes training data, and Yondu's autonomy stack takes over more of the work as the policy improves.",
+    "url": "https://ornn.com/case-studies/yondu/",
+    "pass": 3
+   },
+   {
+    "quote": "HubSpot Case Study: Yondu – Yondu increases web traffic by ... — Yondu (Information Technology and Services) partnered with HubSpot (Computer Software) to solve key challenges. \"Yondu increases web traffic by 155% and sales effectiveness with HubSpot\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/hubspot/case-study/yondu-increases-web-traffic-by-155-and-sales-effectiveness-with-hubspot",
+    "pass": 3
+   },
+   {
+    "quote": "A Peek Behind the Curtain of Humanoid Manufacturing - yondu.ai — We set out on a two-day journey through China, from the labs of Beijing to the factory floors of the Yangtze River Delta, to understand what humanoid manufacturing really looks like on the ground.",
+    "url": "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu – NoSQL Customer Case Study | Couchbase | Alpay Ay — 🎉 Customer Story: Learn how Yondu, a Philippine-based IT solutions company, achieved a 25% increase in sales and 24x inventory updates after switching to #Couchbase 📈 Read their story:",
+    "url": "https://www.linkedin.com/posts/alpay-ay-4263a13_customer-story-yondu-achieves-a-25-increase-activity-7299476863347773440-Uzy6",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu – NoSQL Customer Case Study | Couchbase | Matt Cain — Customer Story: Yondu Achieves a 25% Increase in Sales and 24x Faster Inventory Updates with #Couchbase 📈",
+    "url": "https://www.linkedin.com/posts/matthewmcain_yondu-nosql-customer-case-study-couchbase-activity-7294750062805467138-rFI_",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu 2026 Company Profile: Valuation, Funding & Investors ...Yondu - 2026 Company Profile, Team, Funding & Competitors ...Yondu - 2026 Company Profile, Team, Funding & Competitors ...Yondu: Funding, Team & Investors | Startup IntrosYondu — Funding, Investors & Team | SeedtableYondu - Overview, News & Similar companies | ZoomInfo.comYondu (IT Consulting and Outsourcing) 2026 Company Profile ... — ",
+    "url": "https://pitchbook.com/profiles/company/593033-95",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu - 2026 Company Profile, Team, Funding & Competitors ... — Explore Yondu's in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/yondu/__EzyzbwIAnB-sZcC2yWtGWE5m1J6RbPz9ByaQjsZmvEI",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Yondu was founded in late 2023 at MIT by a team passionate about revolutionizing physical labor through robotics. The idea emerged from the challenge of automating complex, repetitive warehouse tasks in existing facilities without requiring expensive retrofits.",
+    "url": "https://startupintros.com/orgs/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu — Funding, Investors & Team | Seedtable — What changed at Yondu recently — detected automatically from funding, hiring and leadership data.",
+    "url": "https://seedtable.com/companies/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu - Overview, News & Similar companies | ZoomInfo.com — Oct 1, 2026 · Yondu, established in 2001, is a leading Philippine-based software and technical consulting firm. The company specializes in delivering comprehensive IT solutions, including cloud services, mobile application development, and robust e-commerce platforms.",
+    "url": "https://www.zoominfo.com/c/yondu-inc/372878765",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": ". Yondu in Earth-691 is depicted as a spiritual warrior who can control his killing arrows via sound waves, most commonly by whistling. Yondu joined",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "attack on the solar system in the 31st century who became known as the Guardians of the Galaxy. As part of the Guardians, Yondu traveled to present-day Earth and became an honorary member of the",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "After humanity defeats the Brotherhood of Badoon occupiers, the Sisterhood of Badoon arrive and remove the males from Earth.",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "As a hunter, Yondu is an expert in the use of bow and arrow. His ability to whistle with a range of four octaves aids his archery",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "single curve bow and a quiver of arrows composed of",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": ", a metal found only on Centauri IV. His yaka arrows are able to change their trajectory in response to certain high-octave whistles produced by him.",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": ". This version is a cyborg space pirate whose Yaka arrow is controlled by a head-mounted fin in addition to whistling. Additionally, he is the leader of one of several",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "'s help, Udonta secures a prototype fin to kill the mutineers before escaping to help Quill and the other Guardians defeat Ego. Amidst this, Udonta sacrifices himself to save Quill, having grown to see him as a son. At Udonta's funeral, Quill declares him his real father while Rocket informs the other Ravagers of Udonta's redemption and Kraglin inherits the Yaka arrow.",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": ". Additionally, his mainstream comics counterpart appears as part of the \"",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Buttery, Jarrod (July 2013). \"Explore the Marvel Universe of the 31st Century with... the Guardians of the Galaxy\".",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "\"Humphries & Garron Chronicle the Legendary Rise of 'Star-Lord'\"",
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu’s requirements were narrow: five to seven days of dedicated bare metal for a single training run, with no commitment past the job. That request falls between the traditional ways compute is usually sold.",
+    "url": "https://ornn.com/case-studies/yondu/",
+    "pass": 3
+   },
+   {
+    "quote": "Reserved: starts at a month, often runs to a year, arrives at the end of a procurement cycle. Yondu had less than a day.",
+    "url": "https://ornn.com/case-studies/yondu/",
+    "pass": 3
+   },
+   {
+    "quote": "The capacity was dedicated for all five days, so the run carried none of the preemption risk that comes with spot. Yondu knew on the first day when the job would end.",
+    "url": "https://ornn.com/case-studies/yondu/",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of artificial intelligence models designed for robots. The company's models serve as a control policy for devices that need to make decisions, whether they be drones for reconnaissance, robot dogs for inspections, or cameras for smart surveillance, providing clients with robots and devices that understand and intelligently carry out complex commands.",
+    "url": "https://pitchbook.com/profiles/company/593033-95",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu has 8 total employees.",
+    "url": "https://pitchbook.com/profiles/company/593033-95",
+    "pass": 3
+   },
+   {
+    "quote": "What is Yondu’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/593033-95",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Yondu is",
+    "url": "https://pitchbook.com/profiles/company/593033-95",
+    "pass": 3
+   },
+   {
+    "quote": "Designed to work in existing warehouse environments without infrastructure overhaul, lowering barriers to automation adoption[1][3].",
+    "url": "https://startupintros.com/orgs/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "The worldwide box office for 'Black Panther' was 1.33 billion dollars. While three other films from the same period were all in the 800 million dollar range, this one stood out significantly. Its box office revenue in Japan was 1.56 billion yen.",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "K11-JAPANESE RESTAURANT LOUNGE AREA",
+    "url": "https://flaxjapan.com/featured_item/yondu/",
+    "pass": 3
+   },
+   {
+    "quote": "'Spider-Man: Homecoming' was released in the U.S. on July 7, 2017, and in Japan on August 11. It was directed by Jon Watts. It is the first solo film born from the 2015 partnership between Sony and Marvel that I mentioned last time.",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The results are in the numbers. The solo Thor films grossed $450 million for the first, $640 million for the second, and $850 million for the third. It also took first place in the weekend box office rankings in Japan, becoming the first in the series to reach the top spot.",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The film 'Black Panther' was released in the U.S. on February 16, 2018, and in Japan on March 1. It was directed by Ryan Coogler.",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The worldwide box office for 'Black Panther' was 1.33 billion dollars. While three other films from the same period were all in the 800 million dollar range, this one stood out significantly. Its box office revenue in Japan was 1.56 billion yen.",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・ 'Homecoming' worldwide box office 880 million dollars, Japan approx. 2.8 billion yen",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・ 'Black Panther' 1.33 billion dollars, Japan 1.56 billion yen",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Yes! Contact us at hello@yondu.us for bulk pricing on case orders. Perfect for restaurants, meal prep enthusiasts, or Yondu lovers.",
+    "url": "https://globalsempio.com/collections/yondu",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/593033-95",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The Connected Marvel World (12): Before 'Doomsday', Why Was ... The theme of 'Vol. 2' is \"fatherhood\". Ego, who claims to be Peter Quill's biological father, appears before him. His true identity is a Celestial, a planet itself. Who really raised Quill? The answer is revealed in the final moments of his rough foster father, Yondu. It is a film with plenty of humor, but also one that will make you ",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The Connected Marvel World (12): Before 'Doomsday', Why Was Wakanda Hidden from the World? [Includes Spoilers up to 'Black Panther']｜escape",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Connected Marvel World (12): Before 'Doomsday', Why Was Wakanda Hidden from the World? [Includes Spoilers up to 'Black Panther']",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Why was Wakanda hidden from the world?\" This is a question that anyone who has seen 'Black Panther' has pondered at least once. The key to the answer lies in a single ore that fell from space. Before 'Avengers: Doomsday' is released on December 18, let's look back at 2017–2018, a period when a new generation emerged all at once.",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Spoiler Alert: This episode touches on the endings of 'Spider-Man: Homecoming', 'Guardians of the Galaxy Vol. 2', 'Thor: Ragnarok', and 'Black Panther'.",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello everyone. I am your guide to 'The Connected Marvel World'. Last time, we talked about 'Civil War', where the heroes were split in two, and 'Doctor Strange', who manipulates time. The baton was finally passed to two new faces who joined the airport battle: Spider-Man and Black Panther. This time, it is their turn to take center stage.",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Key points of this episode in 30 seconds",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "• The third Spider-Man is a \"15-year-old high school student\" created jointly by Sony and Marvel",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "• The Guardians and Thor shift toward telling cosmic stories with \"humor\"",
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Yondu AI (@yonduai) / X Yondu is creating a new industry from scratch, doing things that have never been done every single day. Taking robotics to production is incredibly challenging and rewarding.",
+    "url": "https://x.com/yonduai",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu (@YonduUd0nta) / Posts / X 🤍 1836 📊 185375 📎 🔁 Reposted by Yondu SGM Mike Vining @ Blasting Through Official BlastingThrough",
+    "url": "https://x.com/YonduUd0nta",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu on X: \"@DovySimuMMA if he loses they gonna say it's ... Yondu @YonduUd0nta if he loses they gonna say it's because of a hard weight cut 🤣 10:35 AM · Oct 22, 2026 ·",
+    "url": "https://x.com/YonduUd0nta/status/2113217727083205003",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu AI on X: \"Say hello to our latest intern class! At ... Say hello to our latest intern class! At Yondu, we are extremely selective with a <1% acceptance rate. We look for folks that have built something relevant and impressive in the past.",
+    "url": "https://x.com/i/status/2086840613505482894",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu AI (@yonduai) / X We’re hiring a Social Media & Content Intern at Yondu for late summer/fall. We’re building humanoid robots that will redefine physical labor, and we want someone excited to help tell that story.",
+    "url": "https://x.com/yonduai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Yondu, Inc. - LinkedIn Yondu is a Philippine-based IT solutions company owned by Globe Telecom. We empower businesses across various industries through a wide array of innovative technology solutions to help them scale...",
+    "url": "https://www.linkedin.com/company/yonduinc",
+    "pass": 3
+   },
+   {
+    "quote": "yondu - LinkedIn yondu | 3,652 followers on LinkedIn. Yondu is creating the robotic workforce of the future starting with logistics automation. | Yondu is deploying humanoid robots for logistics automation.",
+    "url": "https://www.linkedin.com/company/yonduai",
+    "pass": 3
+   },
+   {
+    "quote": "Joy Go - Yondu, Inc. | LinkedInJoan Penaflorida - Yondu, Inc. | LinkedInMichael Chen - Co-Founder and CEO at Yondu AI | LinkedInTahmid J. - cofounder @ Yondu | physical AI in logistics ...Introducing yondu.ai: the future of physical labor | Michael ... Karanasan: Yondu, Inc. · Edukasyon: University of the Philippines · Lokasyon: Philippines · 441 koneksyon sa LinkedIn. Tingnan ang profile ni Joy G",
+    "url": "https://ph.linkedin.com/in/joy-go-55386995",
+    "pass": 3
+   },
+   {
+    "quote": "Joan Penaflorida - Yondu, Inc. | LinkedInMichael Chen - Co-Founder and CEO at Yondu AI | LinkedInTahmid J. - cofounder @ Yondu | physical AI in logistics ...Introducing yondu.ai: the future of physical labor | Michael ... Karanasan: Yondu, Inc. · Edukasyon: De La Salle University · Lokasyon: Philippines · 500+ koneksyon sa LinkedIn. Tingnan ang profile ni Joan Penaflorida sa LinkedIn, isang propes",
+    "url": "https://ph.linkedin.com/in/joan-penaflorida-43906a9a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Yondu - FacebookYondu USA | New York NY - FacebookYONDU – THE SPACE PIRATE WITH A HEART OF ... - FacebookYondu USA - Hello! New to Yondu and have some ... - FacebookYondu - Yondu wins the Best Employee Engagement Program ...yondu.toys - FacebookHow Yondu Died - Facebook Being invited for the second time is a proud milestone for Yondu as a leader in QA, Testing, and Automation. It’s a recognition o",
+    "url": "https://www.facebook.com/YonduInc/",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu USA | New York NY - FacebookYONDU – THE SPACE PIRATE WITH A HEART OF ... - FacebookYondu USA - Hello! New to Yondu and have some ... - FacebookYondu - Yondu wins the Best Employee Engagement Program ...yondu.toys - FacebookHow Yondu Died - Facebook Oct 15, 2026 · The creamiest tomato sauce you’ll ever make, and it’s dairy-free! 🍅 Blended cashews give it that rich, velvety texture, while a sp",
+    "url": "https://www.facebook.com/Yondu.USA/",
+    "pass": 3
+   },
+   {
+    "quote": "YONDU – THE SPACE PIRATE WITH A HEART OF ... - Facebook Yondu Udonta was a feared Ravager captain who could control a deadly Yaka Arrow using nothing but a whistle. He kidnapped Peter Quill as a child, but instead of handing him over to his father, Ego, Yondu raised him as his own. Though he acted tough and ruthless, deep inside he had a heart of gold.",
+    "url": "https://www.facebook.com/videouploading/videos/-yondu-the-space-pirate-with-a-heart-of-goldeveryone-feared-him-as-a-ruthless-sp/1167688802259532/",
+    "pass": 3
+   },
+   {
+    "quote": "Yondu USA - Hello! New to Yondu and have some ... - Facebook Dec 16, 2021 · Skip the sad microwaved leftovers. Layer your favorite noodles, veggies, and protein in a jar, then build the broth with a splash of Sempio Soy Sauce 501 and Yondu Vegetable Umami Sauce!",
+    "url": "https://www.facebook.com/Yondu.USA/posts/-hello-new-to-yondu-and-have-some-questions-️well-start-off-with-our-most-freque/1767687063437207/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yondu.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yondu.ai/partner-with-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yondu.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yondu.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://moge.ai/ja/product/yondu-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainiche.net/ja/tools/yondu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://toolverto.com/ja/tool/yondu-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Yondu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flaxjapan.com/featured_item/yondu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globalsempio.com/collections/yondu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/yonduai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ornn.com/case-studies/yondu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/hubspot/case-study/yondu-increases-web-traffic-by-155-and-sales-effectiveness-with-hubspot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/alpay-ay-4263a13_customer-story-yondu-achieves-a-25-increase-activity-7299476863347773440-Uzy6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/593033-95",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/yondu/__EzyzbwIAnB-sZcC2yWtGWE5m1J6RbPz9ByaQjsZmvEI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/yondu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/companies/yondu",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yonduai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/YonduUd0nta",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/YonduUd0nta/status/2113217727083205003",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/status/2086840613505482894",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/yonduinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/yonduai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ph.linkedin.com/in/joy-go-55386995",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ph.linkedin.com/in/joan-penaflorida-43906a9a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/YonduInc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Yondu.USA/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/videouploading/videos/-yondu-the-space-pirate-with-a-heart-of-goldeveryone-feared-him-as-a-ruthless-sp/1167688802259532/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Yondu.USA/posts/-hello-new-to-yondu-and-have-some-questions-️well-start-off-with-our-most-freque/1767687063437207/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yonduai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Yondu 日本 導入",
+   "results": [
+    "https://moge.ai/ja/product/yondu-ai",
+    "https://www.yondu.ai/?trk=public_post-text",
+    "https://ainiche.net/ja/tools/yondu",
+    "https://toolverto.com/ja/tool/yondu-ai",
+    "https://x.com/EiyuHyakkei/status/2110797005358612488",
+    "https://aimyflow.com/ja/ai/yondu-ai",
+    "https://kuruma-news.jp/post/1009278"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yondu 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.yondu.ai/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.yondrgroup.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yondu Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Yondu",
+    "https://flaxjapan.com/featured_item/yondu/",
+    "https://globalsempio.com/collections/yondu",
+    "https://www.linkedin.com/company/yonduai",
+    "https://www.linkedin.com/in/74hm1d",
+    "https://www.yondu.ai/",
+    "https://www.migros.ch/en/product/158599300000"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yondu manufacturing customer case study",
+   "results": [
+    "https://ornn.com/case-studies/yondu/",
+    "https://www.casestudies.com/company/hubspot/case-study/yondu-increases-web-traffic-by-155-and-sales-effectiveness-with-hubspot",
+    "https://www.yondu.ai/blog-posts/a-peek-behind-the-curtain-of-humanoid-manufacturing",
+    "https://www.linkedin.com/posts/alpay-ay-4263a13_customer-story-yondu-achieves-a-25-increase-activity-7299476863347773440-Uzy6",
+    "https://www.linkedin.com/posts/matthewmcain_yondu-nosql-customer-case-study-couchbase-activity-7294750062805467138-rFI_",
+    "https://www.johnfelixlim.app/projects/yondu-platforms",
+    "https://www.hubspot.com/case-studies/yondu"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yondu white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yondu founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/593033-95",
+    "https://tracxn.com/d/companies/yondu/__EzyzbwIAnB-sZcC2yWtGWE5m1J6RbPz9ByaQjsZmvEI",
+    "https://startupintros.com/orgs/yondu",
+    "https://seedtable.com/companies/yondu",
+    "https://www.zoominfo.com/c/yondu-inc/372878765",
+    "https://pitchbook.com/profiles/company/153136-09"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:note.com Yondu",
+   "results": [
+    "https://note.com/tag/日付シート",
+    "https://note.com/wise_turtle184",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/new_player0/n/nfb27ca82a75d?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/haru_yuki_i/n/n4ec981874187",
+    "https://note.com/hirasawa_susumu/n/n13f1a23484be"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Yondu",
+   "results": [
+    "https://x.com/yonduai",
+    "https://x.com/YonduUd0nta",
+    "https://x.com/YonduUd0nta/status/2113217727083205003",
+    "https://x.com/i/status/2086840613505482894",
+    "https://x.com/yonduai/status/2105730588078702807",
+    "https://x.com/Fabio_JRogue/status/2096340053932872113",
+    "https://x.com/chenouttaten"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Yondu",
+   "results": [
+    "https://www.linkedin.com/company/yonduinc",
+    "https://www.linkedin.com/company/yonduai",
+    "https://ph.linkedin.com/in/joy-go-55386995",
+    "https://ph.linkedin.com/in/joan-penaflorida-43906a9a",
+    "https://www.linkedin.com/in/themichaelchen",
+    "https://www.linkedin.com/in/74hm1d",
+    "https://www.linkedin.com/posts/themichaelchen_over-the-past-year-weve-been-quietly-building-activity-7374834707835994112-lGXP"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Yondu",
+   "results": [
+    "https://www.facebook.com/YonduInc/",
+    "https://www.facebook.com/Yondu.USA/",
+    "https://www.facebook.com/videouploading/videos/-yondu-the-space-pirate-with-a-heart-of-goldeveryone-feared-him-as-a-ruthless-sp/1167688802259532/",
+    "https://www.facebook.com/Yondu.USA/posts/-hello-new-to-yondu-and-have-some-questions-️well-start-off-with-our-most-freque/1767687063437207/",
+    "https://www.facebook.com/YonduInc/posts/yondu-wins-the-best-employee-engagement-program-award-from-talentviews-people-in/933692278776944/",
+    "https://www.facebook.com/people/yondutoys/100084741414627/",
+    "https://www.facebook.com/fb-answers/how-yondu-died/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yondu note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yondu X 投稿",
+   "results": [
+    "https://x.com/yonduai",
+    "https://www.shutterstock.com/zh/g/Yondu-x",
+    "https://www.shutterstock.com/zh-Hant/g/Yondu-x",
+    "https://www.instagram.com/yondu.x/",
+    "https://x.com/gotg_love_yondu/status/2110990677517709453",
+    "https://x.com/gotg_love_yondu/status/2108857265503822170",
+    "https://x.com/psk_dayo3/status/2120259342058598537"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

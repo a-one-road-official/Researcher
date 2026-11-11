@@ -1,0 +1,1123 @@
+{
+ "name": "Juna AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory Software / MES / Industrial Data｜送付済み",
+ "researched_at": "2026-11-11T03:05:29.471753+00:00",
+ "official_url": "https://juna.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Reimagine how teams think, learn and improve",
+    "url": "https://juna.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect to your existing systems quickly and reliably to establish robust data pipelines using pre-built data connectors. With minimal setup and no disruption to live operations.",
+    "url": "https://juna.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn raw data into operational context in hours, not months. Juna's Model maps your entities, processes and business logic into one unified, queryable structure that gives the AI the full picture of your company.",
+    "url": "https://juna.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Working with Juna unlocked performance improvements we didn’t think were possible. Their agents deliver significant daily savings through higher reactor utilization and lower raw material usage, and turn data from a fragmentation pain into a strategic lever.”",
+    "url": "https://juna.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensures both your data and our systems remain secure through enterprise-grade security and compliance-ready design.",
+    "url": "https://juna.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Scheduling: How a Carbon Black Producer Increased Contribution Margin by €5.3M per Year",
+    "url": "https://juna.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Process Optimisation: How a Leading Dairy Manufacturer Increased Profits by €1.5M per Year",
+    "url": "https://juna.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Juna helps industrial manufacturers unlock the full potential of their operations. We deploy AI agents that understand, optimize, and continuously adapt machine, line, and work-center operations and improve throughput, shorten lead times, and stabilize execution in high-variation, resource-constrained environments.",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Produce more parts per shift by removing bottlenecks and cutting changeover and idle time.",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Increase profit per order by reducing scrap, rework, expediting, and overtime while improving product mix.",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Optimal process parameters for discrete & hybrid operations",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously optimized operating parameters for machines and processes to stabilize cycle times, reduce variability, and improve first-pass yield under changing product mixes.",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Predict what can’t be measure",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Predict hard-to-measure variables such as effective cycle times, setup durations, machine availability, and bottleneck risk to achieve more robust plans and proactive intervention.",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Get 24/7 insights and factory-level improvements",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A live model of machines, tools, labor, materials, and constraints that reveals hidden dependencies, capacity losses, and improvement potential across the factory.",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Your copilot for operational excellence in industrial manufacturing. Ask natural-language questions, reprioritize orders, explore alternatives, and receive clear explanations with expected impact on throughput, lead time, and utilization.",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A technical article by Juna AI on the two levers behind a cement mill's electricity cost per tonne: when the mills run, and how much energy each tonne needs. It shows how agentic production planning shifts mill operation into lower-price hours within real plant constraints, and how agent-built analysis tools help engineers reduce energy per tonne.",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "On the second lever, AI agents build analysis tools directly on the plant model, such as specific energy consumption per production run, mill and product. Engineers see where energy per tonne is drifting and why, and confirmed improvements feed straight back into the schedule.",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "The worked example in the article: a plant consuming 100 GWh a year, with 70 GWh hedged at €80/MWh. Moving 15 GWh from €140/MWh hours into €80/MWh hours saves €900,000 a year, a 10.5% reduction of the hedged commodity bill, with production, closing stocks and the hedge unchanged. Each feasible GWh shifted is worth €60,000, before further operating cost savings.",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Juna built a hybrid digital twin of the spray dryer, integrating:",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Historical production data",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Predicts process behavior ahead of time",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Balances moisture precision, throughput, and energy simultaneously",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously adapts to product variation, ambient conditions, and equipment drift",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "The result is a control system that learns from every batch, reduces operator variability, and runs the spray dryer closer to its true physical optimum — safely, transparently, and autonomously.",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Scheduling: How a Carbon Black Producer Increased Contribution Margin by €5.3M per Year",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Process Optimisation: How a Leading Dairy Manufacturer Increased Profits by €1.5M per Year",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Coming Soon: Fortune500 Paper Manufacturer Improves Throughput and Reduces Scrap with Agentic Process Optimisation",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Scheduling: How a Carbon Black Producer Increased Contribution Margin by €5.3M per Year",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "The client is a German leader in carbon black production, with more than 90 years of experience in the field. They produce over 30 different carbon black specifications, serving both chemical and rubber industry clients worldwide.",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "A leading German carbon black manufacturer faced extreme scheduling complexity across six furnaces, more than 30 product grades, fluctuating oil blends, silo constraints, emissions limits, and tight logistics windows.",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Manual and Excel-based planning required up to a full day per schedule, 40% of orders had to be re-planned, and optimization beyond feasibility was practically impossible.",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Juna AI deployed its Agentic Production Scheduling system — combining a real-world digital twin with hybrid AI optimization — to automate and continuously improve production planning.",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": ", drastically reduced planning effort, and a shift of production scheduling from daily firefighting to a strategic capability.",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Juna built a live digital twin integrating ERP data, real-time production signals, silo levels, utility constraints, logistics commitments, and sustainability metrics into a single decision model.",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "The result is a scheduling system that continuously adapts to downtime, urgent orders, and supply fluctuations: turning production planning from a bottleneck into a competitive advantage.",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Process Optimisation: How a Leading Dairy Manufacturer Increased Profits by €1.5M per Year",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Coming Soon: Fortune500 Paper Manufacturer Improves Throughput and Reduces Scrap with Agentic Process Optimisation",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Process Optimisation: How a Leading Dairy Manufacturer Increased Profits by €1.5M per Year",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The client is a leading European dairy manufacturer operating large-scale spray drying lines for milk powder production. To strengthen process stability and unlock hidden efficiency potential, the company partnered with Juna AI to introduce agentic, AI-based process control for one of its core production assets.",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A leading European dairy producer operated one of its large-scale spray drying lines below its true potential.",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Residual moisture variability, conservative operator setpoints, and delayed lab feedback forced the plant to overdry product, sacrifice throughput, and consume excess energy. Performance varied significantly between shifts, and control relied heavily on individual operator experience.",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Juna AI deployed its Agentic Process Control system — combining a physics-informed digital twin with reinforcement learning agents — to optimize spray dryer control in real time.",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Juna built a hybrid digital twin of the spray dryer, integrating:",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Historical production data",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Predicts process behavior ahead of time",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Balances moisture precision, throughput, and energy simultaneously",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously adapts to product variation, ambient conditions, and equipment drift",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The result is a control system that learns from every batch, reduces operator variability, and runs the spray dryer closer to its true physical optimum — safely, transparently, and autonomously.",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Scheduling: How a Carbon Black Producer Increased Contribution Margin by €5.3M per Year",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Coming Soon: Fortune500 Paper Manufacturer Improves Throughput and Reduces Scrap with Agentic Process Optimisation",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agents for Food and Beverage Production",
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "Operational AI Agents for Food & Beverage Production",
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "Juna helps food and beverage manufacturers unlock the full potential of their operations by deploying AI agents that understand, optimize, and continuously adapt complex production systems across recipes, lines, tanks, quality gates, and shelf-life constraints. The agents drive throughput, quality, and cost efficiency in fast-changing environments.",
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "Typical results from Juna’s Agents in F&B production",
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "Stabilize processes despite raw-material variability.",
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "Ideal setpoints for machines such as spray dryers, roasters, evaporators, and brewhouse systems to stabilize yield and quality, reduce steam and gas consumption, and maintain output despite varying feed properties.",
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "Predict what can’t be measured",
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "Estimate hard-to-measure or delayed lab values (such as residual moisture, roast color, extraction yield, fermentation progress, or viscosity) enabling more stable control, faster decision-making, and tighter product specifications.",
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Agentic Process Optimisation: How a Leading Dairy Manufacturer Increased Profits by €1.5M per Year",
+    "url": "https://juna.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Industrial Manufacturing | Smart Factory AI | Juna AI",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Operational AI Agents for Industrial Manufacturing",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Juna helps industrial manufacturers unlock the full potential of their operations. We deploy AI agents that understand, optimize, and continuously adapt machine, line, and work-center operations and improve throughput, shorten lead times, and stabilize execution in high-variation, resource-constrained environments.",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Get 24/7 insights and factory-level improvements",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A live model of machines, tools, labor, materials, and constraints that reveals hidden dependencies, capacity losses, and improvement potential across the factory.",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to your plant. Get answers you can act on.",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Your copilot for operational excellence in industrial manufacturing. Ask natural-language questions, reprioritize orders, explore alternatives, and receive clear explanations with expected impact on throughput, lead time, and utilization.",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Reimagine what your factory can do.",
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A technical article by Juna AI on the two levers behind a cement mill's electricity cost per tonne: when the mills run, and how much energy each tonne needs. It shows how agentic production planning shifts mill operation into lower-price hours within real plant constraints, and how agent-built analysis tools help engineers reduce energy per tonne.",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Electricity is one of the largest controllable costs in cement grinding, and it has two levers: when the mills run, and how much energy each tonne needs. This article shows how Juna Factory OS works both on one shared plant model.",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "On the second lever, AI agents build analysis tools directly on the plant model, such as specific energy consumption per production run, mill and product. Engineers see where energy per tonne is drifting and why, and confirmed improvements feed straight back into the schedule.",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "The worked example in the article: a plant consuming 100 GWh a year, with 70 GWh hedged at €80/MWh. Moving 15 GWh from €140/MWh hours into €80/MWh hours saves €900,000 a year, a 10.5% reduction of the hedged commodity bill, with production, closing stocks and the hedge unchanged. Each feasible GWh shifted is worth €60,000, before further operating cost savings.",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Worked example, 100 GWh plant",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Download the full case study",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Process Optimisation: How a Leading Dairy Manufacturer Increased Profits by €1.5M per Year",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Coming Soon: Fortune500 Paper Manufacturer Improves Throughput and Reduces Scrap with Agentic Process Optimisation",
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "pass": 1
+   },
+   {
+    "quote": "Carbon Black Manufacturing",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "A leading German carbon black manufacturer faced extreme scheduling complexity across six furnaces, more than 30 product grades, fluctuating oil blends, silo constraints, emissions limits, and tight logistics windows.",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Download the full case study",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Process Optimisation: How a Leading Dairy Manufacturer Increased Profits by €1.5M per Year",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Coming Soon: Fortune500 Paper Manufacturer Improves Throughput and Reduces Scrap with Agentic Process Optimisation",
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Process Optimisation: How a Leading Dairy Manufacturer Increased Profits by €1.5M per Year",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The client is a leading European dairy manufacturer operating large-scale spray drying lines for milk powder production. To strengthen process stability and unlock hidden efficiency potential, the company partnered with Juna AI to introduce agentic, AI-based process control for one of its core production assets.",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Residual moisture variability, conservative operator setpoints, and delayed lab feedback forced the plant to overdry product, sacrifice throughput, and consume excess energy. Performance varied significantly between shifts, and control relied heavily on individual operator experience.",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Download the full case study",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Coming Soon: Fortune500 Paper Manufacturer Improves Throughput and Reduces Scrap with Agentic Process Optimisation",
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Juna helps food and beverage manufacturers unlock the full potential of their operations by deploying AI agents that understand, optimize, and continuously adapt complex production systems across recipes, lines, tanks, quality gates, and shelf-life constraints. The agents drive throughput, quality, and cost efficiency in fast-changing environments.",
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "Get 24/7 insights and factory-level improvements",
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to your plant. Get answers you can act on.",
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "Reimagine what your factory can do.",
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Chemical Manufacturing | Juna AI",
+    "url": "https://juna.ai/solutions/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Juna helps chemical manufacturers unlock the full potential of their assets by deploying AI agents that understand, optimize, and continuously adapt complex production systems across continuous, semi-continuous, and batch operations.",
+    "url": "https://juna.ai/solutions/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Get 24/7 insights and factory-level improvements",
+    "url": "https://juna.ai/solutions/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "A live, connected model of all energy and material flows to detect inefficiencies, identify abnormal consumption, and benchmark specific energy or material usage across plants, units, and campaigns.",
+    "url": "https://juna.ai/solutions/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to your plant. Get answers you can act on.",
+    "url": "https://juna.ai/solutions/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "Reimagine what your factory can do.",
+    "url": "https://juna.ai/solutions/chemicals",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agents for Cement Manufacturing",
+    "url": "https://juna.ai/solutions/cement",
+    "pass": 1
+   },
+   {
+    "quote": "Juna helps cement manufacturers unlock the full potential of their plants by deploying AI agents that understand, optimize, and continuously adapt kiln, mill, and material flow operations. The agents reduce energy and CO₂ costs while stabilizing output under extreme cost pressure.",
+    "url": "https://juna.ai/solutions/cement",
+    "pass": 1
+   },
+   {
+    "quote": "Increase OEE and output stability and coordinate kilns, mills, and silos dynamically and increase plant output.",
+    "url": "https://juna.ai/solutions/cement",
+    "pass": 1
+   },
+   {
+    "quote": "Get 24/7 insights and factory-level improvements",
+    "url": "https://juna.ai/solutions/cement",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to your plant. Get answers you can act on.",
+    "url": "https://juna.ai/solutions/cement",
+    "pass": 1
+   },
+   {
+    "quote": "Reimagine what your factory can do.",
+    "url": "https://juna.ai/solutions/cement",
+    "pass": 1
+   },
+   {
+    "quote": "Pulp & paper plants are deeply interconnected systems. One deviation cascades across stock prep, paper machine, drying and finishing. Juna’s agents align scheduling, stabilize moisture and basis weight, and uncovers energy and quality losses across the mill.",
+    "url": "https://juna.ai/solutions/pulp-and-paper",
+    "pass": 1
+   },
+   {
+    "quote": "Get 24/7 insights and factory-level improvements",
+    "url": "https://juna.ai/solutions/pulp-and-paper",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to your plant. Get answers you can act on.",
+    "url": "https://juna.ai/solutions/pulp-and-paper",
+    "pass": 1
+   },
+   {
+    "quote": "Reimagine what your factory can do.",
+    "url": "https://juna.ai/solutions/pulp-and-paper",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Consumer Goods Manufacturing | CPG Production AI | Juna AI",
+    "url": "https://juna.ai/solutions/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Juna helps consumer goods manufacturers unlock the full potential of their operations. We deploy AI agents that understand, optimize, and continuously adapt mixing, filling, packaging, and changeover operations to keep high-volume production stable, flexible, and cost-efficient under constant product and demand changes.",
+    "url": "https://juna.ai/solutions/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "A live model of material, labor, and energy flows — raw materials, packaging components, utilities, lines, and shifts — to expose hidden inefficiencies, imbalance, and cost drivers across the factory",
+    "url": "https://juna.ai/solutions/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to your plant. Get answers you can act on.",
+    "url": "https://juna.ai/solutions/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Your copilot for operational excellence in high-volume manufacturing. Ask natural-language questions and receive root-cause explanations, optimization recommendations, and expected impact on throughput, cost, and service level.",
+    "url": "https://juna.ai/solutions/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Reimagine what your factory can do.",
+    "url": "https://juna.ai/solutions/consumer-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://juna.ai/solutions/pharma",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://juna.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Coming Soon: Fortune500 Paper Manufacturer Improves Throughput and Reduces Scrap with Agentic Process Optimisation | Juna AI",
+    "url": "https://juna.ai/case-studies/agentic-process-optimisation-fortune500-paper-manufacturing-company-uses-juna-to-improve-throughput-and-reduce-scrap",
+    "pass": 1
+   },
+   {
+    "quote": "Coming Soon: Fortune500 Paper Manufacturer Improves Throughput and Reduces Scrap with Agentic Process Optimisation",
+    "url": "https://juna.ai/case-studies/agentic-process-optimisation-fortune500-paper-manufacturing-company-uses-juna-to-improve-throughput-and-reduce-scrap",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Process Optimisation: How a Leading Dairy Manufacturer Increased Profits by €1.5M per Year",
+    "url": "https://juna.ai/case-studies/agentic-process-optimisation-fortune500-paper-manufacturing-company-uses-juna-to-improve-throughput-and-reduce-scrap",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Juna AI : AI You Can Trust for Your Team — Juna AI : AI You Can Trust for Your Team Juna AI https://juna.ai",
+    "url": "https://juna.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Juna AI | LinkedIn — Juna AI | LinkedIn LinkedIn https://de.linkedin.com > juna-ai",
+    "url": "https://de.linkedin.com/company/juna-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Juna AI Recognized by Gartner in Two Major Research ... — Juna AI Recognized by Gartner in Two Major Research ... Juna AI https://juna.ai > news > juna-ai-recog...",
+    "url": "https://juna.ai/news/juna-ai-recognized-by-gartner-in-two-major-research-publications",
+    "pass": 3
+   },
+   {
+    "quote": "Seed Funding Announcement - Juna AI — Seed Funding Announcement - Juna AI Juna AI https://juna.ai > articles > seed-fundin...",
+    "url": "https://juna.ai/articles/seed-funding-announcement",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Juna AI | LinkedIn Juna AI | LinkedIn LinkedIn https://de.linkedin.com > juna-ai",
+    "url": "https://de.linkedin.com/company/juna-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Matthias Auf der Mauer – Founder juna . ai | Forbes 30u30 Matthias Auf der Mauer – Founder juna . ai | Forbes 30u30 LinkedIn https://de.linkedin.com > matthias-auf...",
+    "url": "https://de.linkedin.com/in/matthias-auf-der-mauer",
+    "pass": 3
+   },
+   {
+    "quote": "Juna Iafelice - CEO & Co-founder at KixiTrade | Omnya AI Juna Iafelice - CEO & Co-founder at KixiTrade | Omnya AI LinkedIn https://www.linkedin.com > juna-iafel...",
+    "url": "https://www.linkedin.com/in/juna-iafelice-nyc",
+    "pass": 3
+   },
+   {
+    "quote": "Gartner Recognizes Juna AI as Leading Industrial AI Vendor Gartner Recognizes Juna AI as Leading Industrial AI Vendor LinkedIn https://www.linkedin.com > posts > y...",
+    "url": "https://www.linkedin.com/posts/yariv-adan_ai-europe-transformation-activity-7439286661097607168-Hq5B",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://juna.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juna.ai/solutions/industrial-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juna.ai/case-studies/cement-energy-article",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juna.ai/case-studies/carbon-black-scheduling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juna.ai/case-studies/spray-dryer-control-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juna.ai/solutions/food-and-beverages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juna.ai/solutions/chemicals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juna.ai/solutions/cement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juna.ai/solutions/pulp-and-paper",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juna.ai/solutions/consumer-goods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://juna.ai/solutions/pharma",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://juna.ai/about",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://juna.ai/case-studies/agentic-process-optimisation-fortune500-paper-manufacturing-company-uses-juna-to-improve-throughput-and-reduce-scrap",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://juna.ai/media/pages/solutions/industrial-manufacturing/441f77821f-1771851621/industrial-manufacturing.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://juna.ai/media/pages/solutions/industrial-manufacturing/7f02c52601-1771851619/group-178.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://juna.ai/media/pages/solutions/industrial-manufacturing/e7c521feeb-1771851621/bg-kpi-card-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://juna.ai/media/pages/solutions/industrial-manufacturing/0fb22153e6-1771851619/bg-kpi-card-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://japan-ai.co.jp/agent/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://aismiley.co.jp/product/japan-ai-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=2yfqI_tRX2k",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000048.000046872.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/products/kt-aishain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/juna-hamajo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://issenglobal.com/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakana.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jina.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpe.com/us/en/customer-case-studies.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automate.org/ai/industry-insights/ai-in-the-real-world-4-case-studies-of-success-in-industrial-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kore.ai/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://asyntai.com/white-label-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/706781-26",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.norrsken.vc/news/heavy-industry-with-lighter-footprint-why-we-invested-in-juna-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/juna-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/juna-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/matthias-auf-der-mauer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/juna-iafelice-nyc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/yariv-adan_ai-europe-transformation-activity-7439286661097607168-Hq5B",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Juna AI 日本 導入",
+   "results": [
+    "https://juna.ai/",
+    "https://japan-ai.co.jp/agent/",
+    "https://aismiley.co.jp/product/japan-ai-agent/",
+    "https://www.youtube.com/watch?v=2yfqI_tRX2k",
+    "https://tsunagi.ai/",
+    "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "https://www.atpress.ne.jp/b/japan-ai",
+    "https://waipuna.co.jp/products/japanai/",
+    "https://j-aix.or.jp/",
+    "https://generative-ai.co.jp/usecase/business-efficiency-ai/ai-startup-usecase-juna-ai/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Juna AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000048.000046872.html",
+    "https://b-seeds.com/products/kt-aishain",
+    "https://jp.linkedin.com/in/juna-hamajo",
+    "https://issenglobal.com/agency",
+    "https://jdnw.jp/agency/agency_cat/ai/",
+    "https://www.knowleful.ai/partner/",
+    "https://japan-ai.co.jp/agent/",
+    "https://ai-gage.com/partner/",
+    "https://note.com/y_matsuwitter/n/n3261079d2d7b",
+    "https://dgw.juna.ai/login/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Juna AI Japan",
+   "results": [
+    "https://juna.ai/",
+    "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
+    "https://sakana.ai/",
+    "https://jina.ai/",
+    "https://de.linkedin.com/company/juna-ai",
+    "https://en.japan-ai.co.jp/recruit/",
+    "https://www.digital.go.jp/en/policies/genai",
+    "https://www.reuters.com/investigates/special-report/japan-ai-wedding/",
+    "https://juna.ai/integrations",
+    "https://marketplace.microsoft.com/ja-jp/product/junaaigmbh1746539712583.juna"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Juna AI manufacturing customer case study",
+   "results": [
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.automate.org/ai/industry-insights/ai-in-the-real-world-4-case-studies-of-success-in-industrial-manufacturing",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://www.kore.ai/customer-stories",
+    "https://juna.ai/news/juna-ai-recognized-by-gartner-in-two-major-research-publications",
+    "https://www.netsuite.com/portal/resource/articles/erp/ai-in-manufacturing.shtml",
+    "https://aiche.onlinelibrary.wiley.com/doi/10.1002/amp2.10159",
+    "https://www.dataiku.com/blog/ai-for-manufacturing-use-case-guide",
+    "https://conexusindiana.com/case-studies/?technology=artificial-intelligence-ai-machine-learning-ml",
+    "https://juna.ai/resources"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Juna AI white label OR reseller OR partner program",
+   "results": [
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://asyntai.com/white-label-solutions/",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://parallellabs.app/white-label-ai-platform/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.hyperfx.ai/blog/white-label-ai-marketing-agents-for-agencies-2026",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Juna AI founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/706781-26",
+    "https://www.norrsken.vc/news/heavy-industry-with-lighter-footprint-why-we-invested-in-juna-ai",
+    "https://www.crunchbase.com/organization/juna-ai",
+    "https://juna.ai/articles/seed-funding-announcement",
+    "https://www.linkedin.com/posts/pinxyz_top-5-funding-rounds-of-the-week-1-activity-7265725724446130176-epfX",
+    "https://getlatka.com/companies/juna.ai",
+    "https://siliconangle.com/2024/11/18/industrial-ai-startup-juna-ai-raises-7-5m-seed-funding/",
+    "https://tracxn.com/d/companies/juna/__HIS-iNYYgC77SXwH92uxWb71b5mEU2O1z0PKGgI-5j0",
+    "https://www.ypog.law/en/press/ypog-advises-juna.ai-on-seed-financing-round-with-top-tier-investors",
+    "https://prospeo.io/c/juna-ai-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com Juna AI",
+   "results": [
+    "https://note.com/deltaworksceo/n/n7db9aac8db77?hl=en",
+    "https://note.com/deltaworksceo/n/n4b886fc9ed21?hl=en",
+    "https://note.com/yu_chandayo/n/n7675e4bfc8b7",
+    "https://note.com/truenorthai/n/nec07beca3e51?hl=en",
+    "https://note.com/kubinashi_ai/n/na5031edd196d?hl=en",
+    "https://note.com/bright_mango111/n/n756d0e9fe8e4",
+    "https://note.com/juna___/n/nb894701e9548",
+    "https://note.com/tag/%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AF",
+    "https://note.com/tim15/n/n037a121f96ea",
+    "https://note.com/researchconf/n/n504ce22710a0"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Juna AI",
+   "results": [
+    "https://x.com/DarioAmodei/status/2064781775247950326",
+    "https://x.com/perplexity_ai/status/2067642139014742348",
+    "https://x.com/leopoldasch/status/1798016486700884233",
+    "https://x.com/genspark_ai/status/1932473797548159006",
+    "https://x.com/satyanadella/status/2066182223213293753",
+    "https://x.com/Zai_org/status/2066938937344495629",
+    "https://x.com/OpenAI/status/2069770172802773292",
+    "https://x.com/plumeriade/status/2116617971233878248",
+    "https://x.com/leopoldasch/status/1798025354139099399",
+    "https://x.com/aimljobs/status/1917980048599978071"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Juna AI",
+   "results": [
+    "https://de.linkedin.com/company/juna-ai",
+    "https://de.linkedin.com/in/matthias-auf-der-mauer",
+    "https://www.linkedin.com/in/juna-iafelice-nyc",
+    "https://www.linkedin.com/posts/yariv-adan_ai-europe-transformation-activity-7439286661097607168-Hq5B",
+    "https://de.linkedin.com/in/christianhardenberg",
+    "https://www.linkedin.com/posts/juna-ai_manufacturing-ai-agenticai-activity-7436702363584765952-peI9",
+    "https://de.linkedin.com/in/jessica-burley",
+    "https://www.linkedin.com/in/junawolfmayer",
+    "https://www.linkedin.com/company/juna-ai",
+    "https://www.linkedin.com/in/juna-ai-a13b38225"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Juna AI",
+   "results": [
+    "https://www.facebook.com/brainzmagazine/posts/when-ai-speeds-up-your-workday-what-helps-you-slow-down-enough-to-think-clearly-/1759953082806481/",
+    "https://www.facebook.com/groups/421748316221682/",
+    "https://www.facebook.com/reese.heather.2025/videos/1638494644498452/",
+    "https://www.facebook.com/gchumanrights/posts/-call-for-applications-ai-for-human-rights-ai4hr-peer-learning-programmefor-yout/1539199224908500/",
+    "https://www.facebook.com/JunaCreator/",
+    "https://www.facebook.com/juna.jamorol.9/posts/juna-palhubog-sa-ai/2221533535907758/",
+    "https://www.facebook.com/wol.garang.kon.2025/posts/i-thought-the-photo-of-tong-atak-makerchol-and-juna-de-star-was-ai-kombi-my-brot/1069804329217530/",
+    "https://www.facebook.com/groups/bassplayerz/posts/9518832578179741/",
+    "https://www.facebook.com/kimkomando/posts/google-rolled-out-ai-overviews-and-nobody-asked-for-themheres-the-fix-add-a-spac/1574251330926021/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Juna AI note 社長",
+   "results": [
+    "https://note.com/ai_shacho",
+    "https://note.jp/n/n61ffb9f9bf8f",
+    "https://www.youtube.com/watch?v=PYg-Cgzuz1I",
+    "https://note.com/japan_d2/m/m95aadd0d8dcd",
+    "https://japan-ai.co.jp/news/press/2025/08/250818/",
+    "https://juna.ai/resources",
+    "https://jina.ai/",
+    "https://note.com/geniee_inc/n/n9bae0c53ce17",
+    "https://x.com/sadaaki",
+    "https://note.com/ai_jidouka_note"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Juna AI X 投稿",
+   "results": [
+    "https://jina.ai/",
+    "https://x.com/JinaAI_",
+    "https://juna.ai/",
+    "https://github.com/jina-ai/reader",
+    "https://www.youtube.com/watch?v=reAXLPdvFxY",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://lifrell-tech.com/950/",
+    "https://debono.co.jp/media/x-toko-ai-sakusei/",
+    "https://note.com/yaoyoroztech/n/n999051b371ec",
+    "https://x.com/JunaArtAi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部25頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部25頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部25頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部25頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部25頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部25頁・検索12回）"
+ }
+}

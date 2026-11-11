@@ -1,0 +1,1175 @@
+{
+ "name": "Delvitech",
+ "aliases": [],
+ "context": "旧営業リスト｜要確認｜送付済み",
+ "researched_at": "2026-11-11T03:04:58.112891+00:00",
+ "official_url": "https://delvi.tech/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Future-proof by Design.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary neural networks recognise and classify components during board inspection, not only in programming or review.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Optics, high-bandwidth acquisition, FPGA processing and Neith software operate as one inspection architecture.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "A shared AI-native architecture for SPI, AOI and many more inspection applications, with Training Manager for on-machine learning.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer false calls reduce verification time and operator intervention, helping improve first-pass inspection yield while maintaining high inspection coverage.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "One configurable machine family provides a shared technology and software environment across SPI, AOI and additional inspection applications, simplifying programming, training, service and spares.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Self-programming and Training Manager help your team ramp up new products faster and adapt inspection as production evolves. The know-how built stays in-house, reusable across products, lines and sites.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Horus performs 3D SPI, pre-reflow AOI, post-reflow AOI and additional inspection applications on the same configurable machine.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "A patented 25 MP telecentric imaging system with four RGB projectors and multi-level RGBW lighting acquires both high-resolution 2D images and true-3D data.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary neural networks recognise and classify board features on the machine, in real time, during the live inspection cycle.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Neith unifies AOI and SPI programming, data and workflows through browser-based microservices and an Ubuntu/Linux foundation built for fast AI and machine control.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Programming and Learning",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Self-programming accelerates component recognition and setup; Training Manager enables neural-network training directly on the machine using production images.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "3D solder paste inspection, pre-reflow AOI and post-reflow AOI with one software environment. Common spares, common maintenance, one operator training across the line.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "A 25 MP telecentric top camera, four RGB projectors and multi-level RGBW lighting, with optional side cameras. Built for reflective metals, shadowed zones, tall connectors and fine pitch.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Training Manager. Your AOI learns. You produce.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Train the system, keep the know-how. Your team teaches the neural networks a new component on the platform, on real production images, extending recognition beyond initial training while preserving existing knowledge.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Aton runs Neith and the same neural networks as Horus: one programming environment and one training programme across the line.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Post-reflow, uncompromised",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "AI pioneer Prof. Jürgen Schmidhuber sits on Delvitech’s Board. A large R&D and Application Engineering team advances proprietary AI and patented optics, in collaboration with leading Swiss AI research institutes.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Global subsidiaries, regional teams and partners, and production plants in Switzerland and India support customers from application engineering through service.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven Across Quality-Critical Industries",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Delvitech supports quality-critical production across Automotive and EV, Electronics Manufacturing Services (EMS), Industrial and Power Electronics, Aerospace and Defence, Medical Devices, Telecommunications, AI Computing and Data Centres and Consumer Electronics.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Certifications, industry recognition and relationships with institutions such as Switzerland Global Enterprise strengthen Delvitech’s credibility and international growth.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Swiss Precision Thinking",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Swiss Precision Thinking,",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "for production lines worldwide.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing is based in Switzerland and will extend to India to shorten lead times and strengthen continuity of supply. Application engineering and service teams support customers close to their production lines worldwide, and inspection programmes are developed jointly with them. Our roadmap combines continued investment in inspection technology with development in Physical AI.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "across industrial electronics production and automation.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "“We have developed an AI-native platform built on a future-proof neural network architecture. Our flexible and agnostic system is applicable across multiple markets and industries.”",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Prof. Jürgen Schmidhuber",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "“The big thing of the future will be AI in the physical world, for robots and industrial processes.”",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Prof. Jürgen Schmidhuber, Board Member, Delvitech",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "AI pioneer Prof. Jürgen Schmidhuber sits on Delvitech’s Board. A large R&D and Application Engineering team advances proprietary AI and patented optics, in collaboration with leading Swiss AI research institutes.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Global subsidiaries, regional teams and partners, and production plants in Switzerland and India support customers from application engineering through service.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven Across Quality-Critical Industries",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Delvitech supports quality-critical production across Automotive & EV, Electronics Manufacturing Services (EMS), Industrial & Power Electronics, Aerospace & Defence, Medical Devices, Telecommunications, AI Computing & Data Centres and Consumer Electronics.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Certifications, industry recognition and relationships with institutions such as Switzerland Global Enterprise strengthen Delvitech’s credibility and international growth.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision is our most",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Every board that is inspected correctly the first time is a board that does not need rework, extra energy or new material. By reducing false calls and catching real defects earlier, our platforms help manufacturers waste less and produce more reliably. We apply the same principle to the way we run our company.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our environmental management system is certified to ISO 14001. We design platforms to last, reduce the use of plastics, prioritise safer materials and keep improving the energy efficiency of what we build. In production, our inspection data helps customers document the reductions in waste and rework they achieve.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We promote fair and equal pay, equal access to growth and a culture in which diversity strengthens innovation. We invest in learning and healthcare for our people, open our doors to students and support the next generation of engineers in the communities where we work, from Switzerland to India.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our approach contributes to the UN Sustainable Development Goals, in particular through industry and innovation, responsible production and decent work.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s talk about your production.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary neural networks are integrated into the architecture from the outset, rather than added as a separate software layer.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Delvitech supports quality-critical production in automotive and EV, electronics manufacturing services, industrial and power electronics, aerospace and defence, medical devices, telecommunications, AI computing and data centres, and consumer electronics.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Regional teams, partners and production plants in Switzerland and India support customers from application engineering through service.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Inspection Intelligence for demanding electronics production.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce setup effort across a changing product mix.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Frequent changeovers and new product introductions put pressure on engineering capacity. Delvitech lets teams reuse inspection models and component libraries across products, lines and sites, helping reduce repeated programming work and retain production know-how.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep inspection consistent across repeat production runs.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Complex boards, small batches and long production lifecycles make inspection expertise valuable. Delvitech captures that knowledge in reusable AI models and libraries, helping teams maintain a consistent inspection approach as operators and product revisions change.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical electronics production requires careful control of assembly quality. Delvitech helps teams assess components and solder joints consistently, while reusable inspection models and libraries reduce dependence on individual operator experience.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify inspection as products change.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Dense boards and frequent design updates increase inspection and programming demands. Delvitech helps teams reuse component knowledge, reduce false calls and limit repeated setup work as new products enter production.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Wherever inspection is a condition of production.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Delvitech platforms are deployed wherever inspection is a condition of production rather than a quality checkpoint.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Can inspection models and component libraries be reused across products and production sites?",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Teams can reuse inspection models and component libraries across products, lines and sites, helping reduce repeated programming work and retain production know-how.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "What inspection challenges are common in telecommunications production?",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Boards up to 15 kg and 10 mm thick, with 60 mm clearance above and below for power, industrial and server boards that outgrow standard formats.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Large, heavy, densely populated or carrying tall connectors: power electronics, automotive and industrial control. Warp compensation of ±5 mm keeps the inspection on target.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Global subsidiaries, regional teams and partners, and production plants in Switzerland and India support customers from application engineering through service.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Delvitech supports quality-critical production across Automotive and EV, Electronics Manufacturing Services (EMS), Industrial and Power Electronics, Aerospace and Defence, Medical Devices, Telecommunications, AI Computing and Data Centres and Consumer Electronics.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Series B funding and long-term institutional investors support continued investment in technology, talent, global operations and manufacturing capacity.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Bangalore manufacturing plant. Watch the video by AIM Network",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "A major AI inspection hub, and why proximity matters for electronics manufacturing in India and South-East Asia.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": ": Bangalore manufacturing plant. Watch the video by AIM Network",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "A new show for the future of electronics manufacturing. And we are there from day one, together with our distributor Kübler Hightech.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "for production lines worldwide.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing is based in Switzerland and will extend to India to shorten lead times and strengthen continuity of supply. Application engineering and service teams support customers close to their production lines worldwide, and inspection programmes are developed jointly with them. Our roadmap combines continued investment in inspection technology with development in Physical AI.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "across industrial electronics production and automation.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "More than 30 years in electronics manufacturing and automated optical inspection, including at Orbotech. He has led international organisations across Europe, the United States and Asia.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "“The big thing of the future will be AI in the physical world, for robots and industrial processes.”",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Global subsidiaries, regional teams and partners, and production plants in Switzerland and India support customers from application engineering through service.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Delvitech supports quality-critical production across Automotive & EV, Electronics Manufacturing Services (EMS), Industrial & Power Electronics, Aerospace & Defence, Medical Devices, Telecommunications, AI Computing & Data Centres and Consumer Electronics.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Series B funding and long-term institutional investors support continued investment in technology, talent, global operations and manufacturing capacity.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Five reasons manufacturers rely on Delvitech.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Every board that is inspected correctly the first time is a board that does not need rework, extra energy or new material. By reducing false calls and catching real defects earlier, our platforms help manufacturers waste less and produce more reliably. We apply the same principle to the way we run our company.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We operate with full compliance and transparency, guided by a Board that combines expertise in technology, artificial intelligence, investment and industrial management, and we build long-term, trust-based relationships with customers, partners and investors.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Delvitech designs and manufactures AI-native automated optical inspection (AOI) and solder paste inspection (SPI) systems in true 3D for electronics manufacturing.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Delvitech supports quality-critical production in automotive and EV, electronics manufacturing services, industrial and power electronics, aerospace and defence, medical devices, telecommunications, AI computing and data centres, and consumer electronics.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Regional teams, partners and production plants in Switzerland and India support customers from application engineering through service.",
+    "url": "https://delvi.tech/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Delvitech helps electronics manufacturers reduce manual inspection work, simplify setup and inspect complex PCB and electromechanical assemblies. Our AI-native platform for solder paste inspection (SPI) and automated optical inspection (AOI) combines high-resolution imaging, patented true-3D measurement and a neural-network inspection engine to support consistent inspection decisions.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics Manufacturing Services (EMS)",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial & Power Electronics",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Complex boards, small batches and long production lifecycles make inspection expertise valuable. Delvitech captures that knowledge in reusable AI models and libraries, helping teams maintain a consistent inspection approach as operators and product revisions change.",
+    "url": "https://delvi.tech/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-native from day one, built for the factory floor. Come build the next generation with us.",
+    "url": "https://delvi.tech/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Delvitech is changing how the world inspects electronics, with AOI and SPI platforms that are AI-native to the core: proprietary neural networks and a patented optical head, all engineered in-house. This is Physical AI, on the factory floor.",
+    "url": "https://delvi.tech/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Bangalore manufacturing plant. Watch the video by AIM Network - Delvitech",
+    "url": "https://delvi.tech/bangalore-plant-aim-network-video/",
+    "pass": 1
+   },
+   {
+    "quote": "Bangalore manufacturing plant. Watch the video by AIM Network",
+    "url": "https://delvi.tech/bangalore-plant-aim-network-video/",
+    "pass": 1
+   },
+   {
+    "quote": "A major AI inspection hub, and why proximity matters for electronics manufacturing in India and South-East Asia.",
+    "url": "https://delvi.tech/bangalore-plant-aim-network-video/",
+    "pass": 1
+   },
+   {
+    "quote": "The AIM Network has featured Delvitech’s significant investment in a new 65,000 sq ft manufacturing and technology facility in Bangalore. The investment was announced at productronica India 2026, alongside Delvitech’s Horus, Aton and Horus Dual Lane inspection platforms.",
+    "url": "https://delvi.tech/bangalore-plant-aim-network-video/",
+    "pass": 1
+   },
+   {
+    "quote": "The EMS India Pod with InCap: India Is Not A Low-Cost Manufacturing Bet, It's So Much More",
+    "url": "https://www.youtube.com/watch?v=EYMjUOfNQnQ",
+    "pass": 3
+   },
+   {
+    "quote": "What happens when a 35-year industry veteran decides the entire concept of inspection \"machines\" is obsolete? Roberto Gatti, CEO of Delvitech, offers a fascinating glimpse into the future of electronic manufacturing inspection with his company's revolutionary technology platform.",
+    "url": "https://www.youtube.com/watch?v=EYMjUOfNQnQ",
+    "pass": 3
+   },
+   {
+    "quote": "Experts in management, technology, investment and manufacturing",
+    "url": "https://www.alldataee.com/wp-content/uploads/media/docs/profile/Delvitech-Corporate-and-Technical-Presentation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Semi-Rugged Industrial Computers for Next-Gen Edge Computing | Embedded World 2026",
+    "url": "https://www.youtube.com/watch?v=tUrPmmmabGg",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s technology platform combines artificial intelligence-native software with high-end hardware, which is capable of inspecting like a human eye and is applicable in various industries in which optical inspection is required, Gatti said. Delvitech plans to open a manufacturing plant in India in 1Q26, he added.",
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Optics, high-bandwidth acquisition, FPGA processing and Neith software operate as one inspection architecture.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Large, heavy, densely populated or carrying tall connectors: power electronics, automotive and industrial control. Warp compensation of ±5 mm keeps the inspection on target.",
+    "url": "https://delvi.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "How can employees influence the work at Delvitech?",
+    "url": "https://delvi.tech/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The page says the team is small enough for employees’ work to ship and for their ideas to shape the roadmap.",
+    "url": "https://delvi.tech/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Delvitech SA: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Delvitech_SA",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Delvitech_SA",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Delvitech_SA",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Delvitech_SA",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Delvitech_SA",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech, a Swiss automated optical inspection technology specialist, is planning an acquisition alongside a Series C funding round in 2027, founder and CEO Roberto Gatti said.",
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech, which works with unnamed advisors on potential acquisitions, looks for strategic deals that would accelerate its entry into a new industry, he said. Prospective targets should generate sales in a range of EUR 50m to EUR 100m, he added.",
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "The executive declined to disclose Delvitech’s current revenues, adding that it anticipates 400% revenue growth year-on-year (YoY) in 2025, and predicts 300% YoY growth in 2026. The company, which plans to expand its team of 110 employees to 220 or 230 by end-2026, expects to be EBITDA-positive from 2027, he added. Delvitech hopes to exceed turnover of EUR 300m by 2030, Gatti said.",
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "The company would add its industry-agnostic technology platform to an acquired business with a view to growing it further, Gatti said.",
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech anticipates making a few acquisitions in different industries, but its deal-making pace will depend on the size of the first acquisition it makes, Gatti said, given that integrating a larger target might take longer than a smaller one.",
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech plans to fund an acquisition with a new financing round, namely a Series C, which it expects to start organising towards 3Q26, with closing within six to eight months, Gatti said. It has yet to decide whether it will engage an advisor for the fundraising, he added.",
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "The size of the Series C round will depend on the planned acquisition, Gatti said, adding that Delvitech will use part of the proceeds to support the business following the acquisition and build a new division within it.",
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Meanwhile, Delvitech’s valuation will depend on its turnover at the end of 2026, its contracts and technology at that point, an outlook for the business and what its technology can bring within the next three to five years, as well as its acquisition plans, Gatti said.",
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Ahead of going public, Delvitech is also likely to raise a pre-IPO round in 2028 and should select a bank to assist it, the executive said, adding that at this point, the company expects to have visibility on the potential listing date. Delvitech is yet to select a listing venue and will discuss its options with advisors, he added.",
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Delvitech SA - LinkedIn — Delvitech SA - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/delvitech-sa",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech : Home — Delvitech : Home Delvitech https://delvi.tech",
+    "url": "https://delvi.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "How Delvitech is Redefining Electronic Inspection ... - YouTube — How Delvitech is Redefining Electronic Inspection ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=EYMjUOfNQnQ",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech SA is now ISO 9001 certified — Delvitech SA is now ISO 9001 certified Delvitech https://delvi.tech > delvitech-sa-is-no...",
+    "url": "https://delvi.tech/delvitech-sa-is-now-iso-9001-certified/",
+    "pass": 3
+   },
+   {
+    "quote": "DELVITECH Company Presentation - DATA EE — DELVITECH Company Presentation - DATA EE ALL DATA EE PDF https://www.alldataee.com > media > docs > profile",
+    "url": "https://www.alldataee.com/wp-content/uploads/media/docs/profile/Delvitech-Corporate-and-Technical-Presentation.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech : Transforming Automated Optical Inspection with AI ... — Delvitech : Transforming Automated Optical Inspection with AI ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=tUrPmmmabGg",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech closes USD 40 million Series B round to accelerate ... — Delvitech closes USD 40 million Series B round to accelerate ... Startupticker.ch https://www.startupticker.ch > news",
+    "url": "https://www.startupticker.ch/en/news/delvitech-closes-usd-40-million-series-b-round-to-accelerate-global-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech and Eurotech: a partnership to take quality control to ... — Delvitech and Eurotech: a partnership to take quality control to ... Delvitech https://delvi.tech > delvitech-and-euro...",
+    "url": "https://delvi.tech/delvitech-and-eurotech-a-partnership-to-take-quality-control-to-the-next-level/",
+    "pass": 3
+   },
+   {
+    "quote": "BREAKING: Delvitech Invests $30 Million to Build Its First AI ... — BREAKING: Delvitech Invests $30 Million to Build Its First AI ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=7VGu7HBbg9E",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech Secures Major Funding Round as AI-Native AOI ... — Delvitech Secures Major Funding Round as AI-Native AOI ... Metrology and Quality News https://metrology.news > delvitech-se...",
+    "url": "https://metrology.news/delvitech-secures-major-funding-round-as-ai-native-aoi-enters-its-next-phase/",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech SA: Revenue , Competitors, Alternatives - Growjo — Delvitech SA: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Delvitech_SA",
+    "url": "https://growjo.com/company/Delvitech_SA",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech 2026 Company Profile: Valuation, Funding & Investors — Delvitech 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/438032-71",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech - 2026 Company Profile & Team - Tracxn — Delvitech - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/delvitech/__Ci5g_7a-2iFomECb6IkkFOXeRnRQboeljczQ4zejrSU",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech plans to acquire and raise Series C round in 2027 — Delvitech plans to acquire and raise Series C round in 2027 ION Analytics https://ionanalytics.com > insights > d...",
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "📩 お問い合わせ・ご質問は、info@aimmediahouse.comまでご連絡ください",
+    "url": "https://www.youtube.com/watch?v=7VGu7HBbg9E",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Delvitech_SA",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Delvitech_SA",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "South Korean Koh Young, Taiwanese Test Research Inc. (TRI), German Viscom, and Japanese OMRON are among the players in Delvitech’s competitive space, Gatti said.",
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "CircuitDigest on X: \"We're excited to welcome Roberto Gatti ... CircuitDigest @CircuitDigest We're excited to welcome Roberto Gatti, CEO of Delvitech SA, as a guest on electronicaXchange, presented in partnership with electronica India and productronica India Register Today for Your Free Visitor Pass: bit.ly/4ivgE9R 📍BIEC, Bengaluru | 16–18 September 2026 9:43 AM · Sep 14, 2026 · 98 Views",
+    "url": "https://x.com/CircuitDigest/status/2099433762350412194",
+    "pass": 3
+   },
+   {
+    "quote": "Roy on X: \"As India scales ESDM /PLI, adv electronics ... As India scales ESDM /PLI, adv electronics inspection is bound to explode across EMS, OEMs, industrial, aerospace & def, auto & EV—especially for large, heavy or tall-component PCBAs where conventional 2D AOI falls short. 🇨🇭Delvitech will invest $10M, scaling to $30M, in a BLR mfg facility. It b…",
+    "url": "https://x.com/TheMinuend/status/2102665482935337377",
+    "pass": 3
+   },
+   {
+    "quote": "Yogesh Pandey on X: \"RT @TheMinuend: As India scales ESDM ... As India scales ESDM /PLI, adv electronics inspection is bound to explode across EMS, OEMs, industrial, aerospace & def, auto & EV—especially for large, heavy or tall-component PCBAs where conventional 2D AOI falls short. 🇨🇭Delvitech will invest $10M, scaling to $30M, in a BLR Show more",
+    "url": "https://x.com/yash1762/status/2102681925924372618",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Delvitech SA - LinkedIn Delvitech SA - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/delvitech-sa",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech SA: AI for SMT Inspection Raises $40M - LinkedIn Delvitech SA: AI for SMT Inspection Raises $40M - LinkedIn LinkedIn https://www.linkedin.com > posts > ai...",
+    "url": "https://www.linkedin.com/posts/ai-world-eu_company-spotlight-delvitech-sa-founded-activity-7396947883176083456-1f7M",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech raises $40M in Series B funding for AI-native optical ... Delvitech raises $40M in Series B funding for AI-native optical ... LinkedIn https://www.linkedin.com > posts > d...",
+    "url": "https://www.linkedin.com/posts/delvitech-sa_delvitech-secures-40m-to-scale-ai-powered-activity-7393969834738352128-KKTH",
+    "pass": 3
+   },
+   {
+    "quote": "Roberto Gatti – Chief Executive Officer at Delvitech SA | LinkedIn Roberto Gatti – Chief Executive Officer at Delvitech SA | LinkedIn LinkedIn Schweiz https://ch.linkedin.com > robertogatti-",
+    "url": "https://ch.linkedin.com/in/robertogatti-",
+    "pass": 3
+   },
+   {
+    "quote": "Delvitech SA - LinkedIn Delvitech SA - LinkedIn LinkedIn Schweiz https://ch.linkedin.com > delvitech-sa",
+    "url": "https://ch.linkedin.com/company/delvitech-sa",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://delvi.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://delvi.tech/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://delvi.tech/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://delvi.tech/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://delvi.tech/bangalore-plant-aim-network-video/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://delvi.tech/wp-content/themes/delvitech/assets/img/company-map.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://delvi.tech/wp-content/themes/delvitech/assets/img/sdg/sdg-17-partnerships-for-the-goals.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://delvi.tech/wp-content/themes/delvitech/assets/img/ind-contract.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://delvi.tech/wp-content/uploads/2026/10/del-aimnetwork-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.autocar.jp/post/1254725",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/018shiryo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=bqSzao0MmCU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/delvitech-sa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=EYMjUOfNQnQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/delvitech-sa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.alldataee.com/wp-content/uploads/media/docs/profile/Delvitech-Corporate-and-Technical-Presentation.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=tUrPmmmabGg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/delvitech-sa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=7VGu7HBbg9E",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJl_zNSWEOLWMuvUb5Zez0njAX62-hC-Q1Y1Mctr7_cWWUXdc0i",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/delvitech-sa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://growjo.com/company/Delvitech_SA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/438032-71",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/delvitech/__Ci5g_7a-2iFomECb6IkkFOXeRnRQboeljczQ4zejrSU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CircuitDigest/status/2099433762350412194",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TheMinuend/status/2102665482935337377",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yash1762/status/2102681925924372618",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/delvitech-sa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ai-world-eu_company-spotlight-delvitech-sa-founded-activity-7396947883176083456-1f7M",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/delvitech-sa_delvitech-secures-40m-to-scale-ai-powered-activity-7393969834738352128-KKTH",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/robertogatti-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/company/delvitech-sa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/company/delvitech-sa",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Delvitech 日本 導入",
+   "results": [
+    "https://www.autocar.jp/post/1254725",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/automobile/jido_soko/pdf/018shiryo.pdf",
+    "https://www.youtube.com/watch?v=bqSzao0MmCU",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.nikkei.com/article/DGXZQOUC180J60Y6A910C2000000/",
+    "https://www.mobilitydx.go.jp/event/pdf/ev05_05pdf_ito.pdf",
+    "https://www.sumitomocorp.com/ja/jp/enrich/contents/0062",
+    "https://www.businessinsider.jp/article/2504-insidechina-generative-ai-deepseek/",
+    "https://delvi.tech/",
+    "https://delvi.tech/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Delvitech 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.linkedin.com/company/delvitech-sa",
+    "https://delvi.tech/",
+    "https://www.youtube.com/watch?v=EYMjUOfNQnQ",
+    "https://delvi.tech/delvitech-sa-is-now-iso-9001-certified/",
+    "https://www.deepinstinct.com/ja/partner-list",
+    "https://www.alldata.it/collections/delvitech",
+    "https://idtechproducts.com/ja/company/distributors/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1541",
+    "https://www.viavisolutions.com/ja-jp/how-buy/locate-partner",
+    "https://ja.wikipedia.org/wiki/黒田武志"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Delvitech Japan",
+   "results": [
+    "https://www.linkedin.com/company/delvitech-sa",
+    "https://delvi.tech/",
+    "https://www.alldataee.com/wp-content/uploads/media/docs/profile/Delvitech-Corporate-and-Technical-Presentation.pdf",
+    "https://www.youtube.com/watch?v=tUrPmmmabGg",
+    "https://www.startupticker.ch/en/news/delvitech-closes-usd-40-million-series-b-round-to-accelerate-global-growth",
+    "https://pitchbook.com/profiles/company/438032-71",
+    "https://www.eurotech.com/news/delvitech-eurotech-partnership-advances-3d-optical-inspection/",
+    "https://www.glassdoor.com/Overview/Working-at-Delvitech-EI_IE4196764.11,20.htm",
+    "https://dealroom.co/companies/delvitech/",
+    "https://delvi.tech/company/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Delvitech manufacturing customer case study",
+   "results": [
+    "https://www.linkedin.com/company/delvitech-sa",
+    "https://delvi.tech/delvitech-and-eurotech-a-partnership-to-take-quality-control-to-the-next-level/",
+    "https://www.youtube.com/watch?v=7VGu7HBbg9E",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJl_zNSWEOLWMuvUb5Zez0njAX62-hC-Q1Y1Mctr7_cWWUXdc0i",
+    "https://metrology.news/delvitech-secures-major-funding-round-as-ai-native-aoi-enters-its-next-phase/",
+    "https://www.alldataee.com/wp-content/uploads/media/docs/profile/Delvitech-Corporate-and-Technical-Presentation.pdf",
+    "https://deeptechnation.ch/dtn-news/swiss-deep-tech-milestone-delvitechs-400-growth-attracts-40m-investment/",
+    "https://www.egs-beteiligungen.ch/en/portfolio/delvitech",
+    "https://growjo.com/company/Delvitech_SA",
+    "https://delvi.tech/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Delvitech white label OR reseller OR partner program",
+   "results": [
+    "https://www.linkedin.com/company/delvitech-sa",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://delvi.tech/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.e2msolutions.com/ai-service-reseller-partner/",
+    "https://www.alldataee.com/wp-content/uploads/media/docs/profile/Delvitech-Corporate-and-Technical-Presentation.pdf",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://growjo.com/company/Delvitech_SA",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Delvitech founded funding employees revenue",
+   "results": [
+    "https://growjo.com/company/Delvitech_SA",
+    "https://pitchbook.com/profiles/company/438032-71",
+    "https://tracxn.com/d/companies/delvitech/__Ci5g_7a-2iFomECb6IkkFOXeRnRQboeljczQ4zejrSU",
+    "https://ionanalytics.com/insights/mergermarket/delvitech-plans-to-acquire-and-raise-series-c-round-in-2027-ceo/",
+    "https://www.startupticker.ch/en/news/delvitech-closes-usd-40-million-series-b-round-to-accelerate-global-growth",
+    "https://www.linkedin.com/posts/delvitech-sa_delvitech-secures-40m-to-scale-ai-powered-activity-7393969834738352128-KKTH",
+    "https://www.alldataee.com/wp-content/uploads/media/docs/profile/Delvitech-Corporate-and-Technical-Presentation.pdf",
+    "https://dealroom.co/companies/delvitech/",
+    "https://equityzen.com/company/delvitech/",
+    "https://compworth.com/company/delvitech-sa"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Delvitech",
+   "results": [
+    "https://note.com/tag/ギャンブル依存症",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/miurakota/n/nb1539ab5123d",
+    "https://note.com/basebowyer/n/nea46cf874b40",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/noraneko4608/n/n8570a0fb7343",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Delvitech",
+   "results": [
+    "https://x.com/epic_bengaluru",
+    "https://x.com/CircuitDigest/status/2099433762350412194",
+    "https://x.com/TheMinuend/status/2102665482935337377",
+    "https://x.com/yash1762/status/2102681925924372618",
+    "https://x.com/pareekhjain/status/2107092037455733147",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/nanologic7"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Delvitech",
+   "results": [
+    "https://www.linkedin.com/company/delvitech-sa",
+    "https://www.linkedin.com/posts/ai-world-eu_company-spotlight-delvitech-sa-founded-activity-7396947883176083456-1f7M",
+    "https://www.linkedin.com/posts/delvitech-sa_delvitech-secures-40m-to-scale-ai-powered-activity-7393969834738352128-KKTH",
+    "https://ch.linkedin.com/in/robertogatti-",
+    "https://www.linkedin.com/posts/delvitech-sa_swiss-precision-thinking-powered-by-ai-activity-7359527018687881216-Kalc",
+    "https://www.linkedin.com/posts/delvitech-sa_horus-activity-7415337347766259713-R7OW",
+    "https://www.linkedin.com/posts/delvitech-sa_horus-3d-aoi-spi-for-pcb-inspection-activity-7366408865539600384-eaPA",
+    "https://in.linkedin.com/in/vasanth-kumar-3ba6159",
+    "https://www.linkedin.com/posts/analytics-india-magazine_delvitech-bengalurumanufacturing-electronicsindia-activity-7508117689890979841-s9lR",
+    "https://in.linkedin.com/company/delvitech-sa"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Delvitech",
+   "results": [
+    "https://www.facebook.com/bengalurupost1/posts/bengaluru-is-set-to-add-another-global-electronics-technology-player-to-its-grow/1680907177378750/",
+    "https://www.facebook.com/KLAcorp/posts/klas-defect-inspection-systems-capture-and-identify-defects-on-wafers-reticles-p/1789390375520951/",
+    "https://www.facebook.com/ALLdataEE/",
+    "https://www.facebook.com/www.timestech.in/",
+    "https://www.facebook.com/kaissensor/",
+    "https://www.facebook.com/ALLdataSrl/",
+    "https://www.facebook.com/p/Grotto-del-Pep-100053614729491/",
+    "https://www.facebook.com/ALLdataSrl/posts/secondo-giorno-di-at-automation-testingvieni-a-scoprire-tutte-le-novit%C3%A0-il-nostr/517723201343058/",
+    "https://www.facebook.com/100053614729491/?locale=de_DE",
+    "https://www.facebook.com/shareedge/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Delvitech note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=7VGu7HBbg9E",
+    "https://ch.linkedin.com/company/delvitech-sa",
+    "https://delvi.tech/",
+    "https://www.alldataee.com/wp-content/uploads/media/docs/profile/Delvitech-Corporate-and-Technical-Presentation.pdf",
+    "https://growjo.com/company/Delvitech_SA",
+    "https://finance.yahoo.com/technology/ai/articles/delvitech-showcases-ai-native-inspection-140000107.html",
+    "https://www.emsnow.com/up-close-with-roberto-gatti-ceo-delvitech-2/",
+    "https://metrology.news/delvitech-secures-major-funding-round-as-ai-native-aoi-enters-its-next-phase/",
+    "https://note.com/ai_shacho/n/n7df207873d5d",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Delvitech X 投稿",
+   "results": [
+    "https://delvi.tech/",
+    "https://ch.linkedin.com/company/delvitech-sa",
+    "https://www.youtube.com/watch?v=tUrPmmmabGg",
+    "https://www.youtube.com/@delvitech",
+    "https://www.alldataee.com/wp-content/uploads/media/docs/profile/Delvitech-Corporate-and-Technical-Presentation.pdf",
+    "https://www.startupticker.ch/en/news/delvitech-closes-usd-40-million-series-b-round-to-accelerate-global-growth",
+    "https://www.prnewswire.com/news-releases/delvitech-and-eurotech-a-partnership-to-take-quality-control-to-the-next-level-302189001.html",
+    "https://www.youtube.com/watch?v=EYMjUOfNQnQ",
+    "https://delvi.tech/de/",
+    "https://delvi.tech/about-us/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

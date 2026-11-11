@@ -1,0 +1,1817 @@
+{
+ "name": "Cognite",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory Software / Industrial Data / AI｜日本進出済",
+ "researched_at": "2026-11-11T03:30:59.753615+00:00",
+ "official_url": "https://www.cognite.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016 ; 10 years ago ( 2016 )",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Phoenix, Arizona , United States",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "ARR",
+    "value": "$170M",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$225.2M",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The milestone confirms the impact of Industrial AI solutions, propelling Cognite forward in its MoonShot: $100b of customer value by 2035.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Read the Press Release",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Annual award program honors Marathon suppliers that have positively impacted the company’s business.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Read the press release",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "“It’s impossible for us to conceive of an operating model without Cognite at the core. We can now go from idea to production at scale so fast; and with the possibilities of layering genAI on top of the data— that’s a true competitive advantage for us.”",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "We are proud to be leaders in both Industrial AI and Data Management across independent research.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Others Promise, We Deliver",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how our customers realize more productivity and automation, increase their adoption of AI & digital tools, and accelerate digital transformation.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The immediate value has already been seen as we focused on one plant when we ingested the data into Cognite and built a relationship between them. Now, what we can do is locate that data within a minute versus it taking hours, calling SMEs, calling people to say where is this file, where is that file... This is part of one of our product lines called smart maintenance management.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate time-to-value with pre-built solutions, AI Agents, and use case best practices",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Scale AI-driven solutions across assets, sites, and the enterprise.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Start quickly with a prescriptive data onboarding and exploration program.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Empower users and teams across your enterprise",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering value from Industrial AI takes an AI “Maverick” Approach",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "With the accelerating pace of digital transformation, true innovators can’t rely on the same practices and technology that got them this far. Make industrial data a true first-class citizen and deliver on your promise of AI-enabled operations with Cognite.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Unify, contextualize, and activate your industrial data at enterprise scale.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Build and scale production-ready industrial workflows, 100x faster.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Watch the latest Product Tour and learn why industry leaders choose Cognite",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": ", potentially preventing it from being",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "by replacing such sources with more appropriate",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "The company's main software product is Cognite Data Fusion (CDF). CDF is a cloud-based industrial",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2022, Girish Rishi, former CEO of",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "\"Cognite Signs New Agreement With bp to Provide Single Consolidated Data Layer for bp's Well Operations\"",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud computing providers",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Integrated Solutions",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Process Data Analytics｜製造現場のためのプロセスデータ解析ソフトウェア",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Smart Industry Assessment and OpreX Smart Industry Program Design",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Informatics Manager ～Lab DXを加速する多機能電子実験ノート～",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "バイオプロセスデータ統合および自動化支援プラットフォーム：OpreX™ BioPilot",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "製造オペレーション管理データ利活用サービス OpreX MOM Data Discovery",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Batch MES C1-T1",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "品質情報管理支援パッケージ OpreX Laboratory Information Management System",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "プラント画像アナライザ (OpreX Plant Image Analyzer)",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Asset Health Insights",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Control of Work",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット管理コア (OpreX Robot Management Core)",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Intelligent Manufacturing Hub",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Data Model Broker",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Carbon Footprint Tracer",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "適切な設備保全の実現に 統合機器管理ソフトウェアパッケージ PRM",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Smart Operation Navigator",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Managed Service",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "CellVoyager High-Content Analysis System CQ3000",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "フローイメージング顕微鏡 FlowCam専用ソフトウェア VisualSpreadsheet",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President of Digitalization and Improvements",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Aker BP achieves improved slug prediction and 1% production increase with Cognite Data Fusion from Cognite",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Aker BP improves offshore field efficiency with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Aker BP improves well monitoring and production optimization with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Aker BP improves maintenance planning efficiency with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President Manufacturing",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "How to build a Hybrid Physics-Data Virtual Flow Metering Solution for Production Monitoring with Cognite Data Fusion®",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Lundin Energy improves offshore safety, efficiency and sustainability with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Maruzen Petrochemical improves maintenance efficiency with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "MHWirth achieves predictive maintenance and less downtime with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Moelven achieves faster, data-driven production optimization with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Moelven optimizes production and equipment availability with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "a multinational pharmaceutical and biotech company improves biomanufacturing performance with Cognite Industrial AI and Data Platform",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Nippon Shokubai achieves faster plant operations and improved uptime with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Deploy and Scale Industrial AI | Cognite",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The milestone confirms the impact of Industrial AI solutions, propelling Cognite forward in its MoonShot: $100b of customer value by 2035.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "IDC MarketScape: Cognite Recognized as a Leader in Industrial DataOps Platforms",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Cognite Sets the Standard for Industrial AI and Data",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "We are proud to be leaders in both Industrial AI and Data Management across independent research.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The immediate value has already been seen as we focused on one plant when we ingested the data into Cognite and built a relationship between them. Now, what we can do is locate that data within a minute versus it taking hours, calling SMEs, calling people to say where is this file, where is that file... This is part of one of our product lines called smart maintenance management.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering value from Industrial AI takes an AI “Maverick” Approach",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "With the accelerating pace of digital transformation, true innovators can’t rely on the same practices and technology that got them this far. Make industrial data a true first-class citizen and deliver on your promise of AI-enabled operations with Cognite.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate industrial transformation",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Unify, contextualize, and activate your industrial data at enterprise scale.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "A low-code industrial AI agent workbench",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Automate complex industrial operations with agentic AI built on your operational data.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "An AI-native industrial experience",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Build and scale production-ready industrial workflows, 100x faster.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about our industrial heritage",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Are you ready to accelerate value from Industrial AI?",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Get a live software demo and learn how you can transform operations with Cognite’s scalable Industrial AI and Data platform.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "industrial internet of things",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": ") services to industrial companies.",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "platform that puts raw data into real-world industrial context.",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "The company's main software product is Cognite Data Fusion (CDF). CDF is a cloud-based industrial",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": ", power and utilities, renewable energy and manufacturing.",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "\"Cognite Innovates Industrial IoT Data Platform To Transform Heavy-Asset Industries\"",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "\"Saudi Aramco acquires 7.4% stake in industrial SaaS firm Cognite\"",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "\"Schneider Electric announces agreement to acquire Cognite, unlocking a new level of strategic intelligence for Industrial AI\"",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "品質安定化システム Digital Plant Operation Intelligence (DPI)",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "プラント画像アナライザ (OpreX Plant Image Analyzer)",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "OpreX Intelligent Manufacturing Hub",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial AI 次世代自律操業の実現に向けて",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical Manufacturing",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Measuring and Control Instrument Manufacturing",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Semiconductor Manufacturing",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Aarbakke achieves smarter factory operations with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Aarbakke turns its smart factory into a learning factory with Cognite",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Head of IT and Smart Factory manager",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Arbaflame achieves scalable industrial data access with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Celanese powers its “Digital Plants of the Future” with Cognite Data Fusion®",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President Manufacturing",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "How Celanese uses Cognite Data Fusion® to power its “Digital Plants of the Future”",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Equinor achieves safer, smarter field operations with Cognite Industrial AI",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "a multinational pharmaceutical and biotech company improves biomanufacturing performance with Cognite Industrial AI and Data Platform",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Nippon Shokubai achieves faster plant operations and improved uptime with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Nippon Shokubai Launches a SaaS Data Integration Platform Using Cognite Data Fusion® for Next-Generation Plant Operations",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "How Industrial DataOps transforms manual inspection into a data-driven approach to maintenance",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Tosoh Corporation achieves safer, more efficient manufacturing operations with Cognite Data Fusion",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "How Industrial DataOps transforms manual inspection into a data-driven approach to maintenance",
+    "url": "https://www.featuredcustomers.com/vendor/cognite/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "AVEVA is a global leader in engineering and industrial software. Their expertise and innovation have put them at the heart of the world’s most ambitious projects, biggest companies, and greatest …",
+    "url": "https://www.featuredcustomers.com/vendor/cognite/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Aspen Technology (AspenTech) is a global leader in asset optimization software. Its solutions address complex, industrial environments where it is critical to optimize the asset design, operation and maintenance lifecycle. …",
+    "url": "https://www.featuredcustomers.com/vendor/cognite/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/cognite/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite is an industrial software company focused on helping heavy-asset industries turn operational data into usable, real-time insights. Its best-known products include",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "for contextualizing industrial data and",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "for building industrial AI experiences and agents on top of that data foundation.",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite focuses on a problem that’s common in industrial environments: operational data lives in many places (IT systems, OT systems, historians, maintenance systems), which makes it hard for people and applications to use consistently. Cognite’s platform is designed to",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial data platform for integrating and contextualizing data so it can be used across operations and analytics.",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "An industrial AI layer that builds on contextualized data to support industrial AI experiences and agents.",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Data Fusion is Cognite’s industrial data platform designed to integrate and contextualize industrial data so it can be used for analytics, operational workflows, and AI at scale.",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "Atlas AI is Cognite’s industrial AI offering that builds on contextualized data to support AI-driven experiences and agent-based workflows in industrial environments.",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a data management platform designed for industries like oil and gas, shipping, manufacturing, and power and utilities to streamline data lifecycle management, with a diverse partner ecosystem and strong implementation and customer success support.",
+    "url": "https://pitchbook.com/profiles/company/223878-61",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a data management platform designed for industries like oil and gas, shipping, manufacturing, and power and",
+    "url": "https://pitchbook.com/profiles/company/223878-61",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial IoT Software",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The immediate value has already been seen as we focused on one plant when we ingested the data into Cognite and built a relationship between them. Now, what we can do is locate that data within a minute versus it taking hours, calling SMEs, calling people to say where is this file, where is that file... This is part of one of our product lines called smart maintenance management.",
+    "url": "https://www.cognite.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "日本では、2019年11月に100%子会社のCognite株式会社（東京都千代田区）が設立されており、設立時の発表では住友商事・三井物産・三菱商事との国内協業が示されていました",
+    "url": "https://mfg-ai.com/vendors/cognite-atlas-ai",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2022, it was announced that Aramco Overseas, a subsidiary of",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": ", had acquired a 7.4% stake in Cognite by purchasing 100% of",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "横河電機株式会社（本社：東京都武蔵野市 代表取締役社長：奈良 寿）の子会社である横河ソリューションサービス株式会社（本社：東京都武蔵野市 代表取締役社長：村井 哲也）は、産業のデジタルトランスフォーメーション（DX）を実現するため、多種多様で大量にあるプラント情報に関連性を見出して分析し、高い付加価値をもたらす産業向けデータ活用プラットフォームであるCognite Data Fusion(CDF)の販売に関して、Cognite株式会社（コグナイト）とのVAR契約（付加価値再販契約）を締結しました",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "a Fortune 500 energy corporation operating deepwater assets in the Gulf of America",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Hafslund Eco avoids revenue loss with Cognite Data Fusion™",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/cognite/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Statistics (2026): Revenue, ARR, Employees, Funding, and Key Facts",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "annual recurring revenue (ARR)",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "exceeded $170M in annual revenue",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "800 employees globally",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "just shy of $100M in SaaS ARR",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "800+ employees",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "just shy of $100M SaaS ARR",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "exceeded $170M annual revenue",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Cognite have?",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "How much revenue does Cognite make?",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "exceeded $170M in annual revenue for fiscal year 2025",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Newsroom (Jan 12, 2026: FY2025 revenue, headcount, growth metrics)",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite blog (Jan 30, 2025: FY2024 SaaS ARR and YoY growth)",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "Facebook Statistics (2026): Users, Revenue, History, and Key Facts",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "5. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/223878-61",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/223878-61",
+    "pass": 3
+   },
+   {
+    "quote": "Investments & Acquisitions (2)",
+    "url": "https://pitchbook.com/profiles/company/223878-61",
+    "pass": 3
+   },
+   {
+    "quote": "To view Cognite’s complete investments and acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/223878-61",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite has 800 total employees.",
+    "url": "https://pitchbook.com/profiles/company/223878-61",
+    "pass": 3
+   },
+   {
+    "quote": "What is Cognite’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/223878-61",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Cognite is",
+    "url": "https://pitchbook.com/profiles/company/223878-61",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Revenue 2025: $170M ARR, $3.1B Valuation",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite revenue & ARR",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite's annual recurring revenue passed $170M in December 2025 (resources.cognite.com).",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite CEO, founders & employees",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Girish Rishi founded Cognite in 2016 and runs it as CEO. Cognite has 800 employees (December 2025, resources.cognite.com), up from 620 a year earlier.",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "What is Cognite's revenue?",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite's annual recurring revenue passed",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Cognite have?",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "・Number of employees: Approximately 600 (estimated as of 2025)",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Revenue: Not disclosed, but estimated to be in the tens of millions of dollars (SaaS model focused on ARR)",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・ARR: Reported to have reached approximately $100 million as of 2022",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Subscription-based (ARR focused)",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Main focus is Cognite Data Fusion (centered on SaaS revenue)",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・There is a certain ratio of consulting services, but the direction is to increase the ratio of SaaS revenue in the future",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・AVEVA (UK, subsidiary of Schneider)",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・A model where high customer unit prices directly contribute to ARR",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・ステータス：未上場（ユニコーン企業として注目）",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "・売上高：非公開だが推定で数千万ドル規模（ARR重視のSaaSモデル）",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "・ARR：2022年時点で約1億ドルに到達との報道あり",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "投資の観点では、ARR成長率は魅力的ですが、産業依存リスクと競合状況を踏まえると「中長期での選別」がカギになる企業です",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Cognite Atlas AI（Cognite）の特徴・用途・日本での提供状況 | MFG-AI",
+    "url": "https://mfg-ai.com/vendors/cognite-atlas-ai",
+    "pass": 3
+   },
+   {
+    "quote": "国内で直販・日本語サポートあり（日本法人Cognite株式会社）",
+    "url": "https://mfg-ai.com/vendors/cognite-atlas-ai",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月9日の同社発表では、Atlas AIの顧客としてAker BP、ADNOC Offshore、Celanese、Hess、HMH、出光興産、トクヤマが挙げられ、米州・EMEA・日本の各地域で本番利用が進んでいるとしています",
+    "url": "https://mfg-ai.com/vendors/cognite-atlas-ai",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、2019年11月に100%子会社のCognite株式会社（東京都千代田区）が設立されており、設立時の発表では住友商事・三井物産・三菱商事との国内協業が示されていました",
+    "url": "https://mfg-ai.com/vendors/cognite-atlas-ai",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月10日には東京でAtlas AI Summitも開催されています",
+    "url": "https://mfg-ai.com/vendors/cognite-atlas-ai",
+    "pass": 3
+   },
+   {
+    "quote": "日本での導入支援体制が統合期にどう再編されるかは未確認",
+    "url": "https://mfg-ai.com/vendors/cognite-atlas-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite 日本事業開始の発表（Cognite日本語サイト、2026年10月確認）",
+    "url": "https://mfg-ai.com/vendors/cognite-atlas-ai",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サオスの実務者が、貴社の現場とデータに合わせた進め方をご提案します",
+    "url": "https://mfg-ai.com/vendors/cognite-atlas-ai",
+    "pass": 3
+   },
+   {
+    "quote": "\"【Member Updates】Cognite K.K. - Japan Establishment Event\"",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "循環型社会を通じ中東と日本をつなぐ（１）",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "循環型社会を通じ中東と日本をつなぐ（２）",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "横河電機株式会社（本社：東京都武蔵野市 代表取締役社長：奈良 寿）の子会社である横河ソリューションサービス株式会社（本社：東京都武蔵野市 代表取締役社長：村井 哲也）は、産業のデジタルトランスフォーメーション（DX）を実現するため、多種多様で大量にあるプラント情報に関連性を見出して分析し、高い付加価値をもたらす産業向けデータ活用プラットフォームであるCognite Data Fusion(CDF)の販売に関して、Cognite株式会社（コグナイト）とのVAR契約（付加価値再販契約）を締結しました",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite株式会社はグローバル本社をノルウェーに置き、高度な専門技術をもつIT技術者や、インダストリアルオートメーション（IA）に関する知識・経験を有する社員が、情報を相互に関連付けるContextualization（コンテキスト化）を特徴とするCDFを世界各国で提供しています",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "横河ソリューションサービス株式会社代表取締役社長の村井哲也は次のように述べています",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite株式会社代表取締役社長の徳末哲一は次のように述べています",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "本文中で使用されている会社名、団体名、商品名、サービス名およびロゴ等は、横河ソリューションサービス株式会社、各社および各団体の登録商標または商標です",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "横河ソリューションサービス株式会社 ソリューションビジネス本部 コンサルティングセンター",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "横河電機株式会社 コミュニケーション統括センター 広報課",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "・Locations: Oslo headquarters, multiple locations including the US and Japan",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Strategy: Sales expansion in the Middle East (Saudi Aramco), North America, and the Japanese market",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Partnerships with heavy industry sectors in regions like the Middle East and Japan",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・拠点：オスロ本社、米国・日本を含む複数拠点",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "・戦略：中東（サウジ・アラムコ）、北米、日本市場での拡販",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "・中東や日本など、重厚長大型産業とのパートナーシップ",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "PLANT LENSは、株式会社GrassAIが運営する、プラント業界のAI・DX・テクノロジー専門メディアです",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "お客様事例 | Cognite株式会社 — 製造業や石油・ガス、電力などの重厚長大産業向けに、DXを加速させるDataOpsプラットフォーム「Cognite Data Fusion®︎」をご導入いただいている企業様の導入事例を紹介しています。",
+    "url": "https://www.cognite.com/ja-jp/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite 導入事例集 | Cognite — この資料では、石油業界、化学業界、鉄鋼業界でCogniteを採用・導入いただいたお客様の事例をご紹介します。ぜひダウンロードしてご覧ください。",
+    "url": "https://www.cognite.com/ja-jp/resources/datasheets/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "産業AI&データプラットフォーム Cognite 導入事例集 — コスモ石油は2023年8月末に、 Cogniteが提供する製造業向け DataOps プラットフォーム基盤「Cognite Data Fusion」を本格導入した。狙いは、「製油所のデジタルツイン」の構築にある。現在同社は、国内に3カ所に製油所を持ち、それぞれに複数のエンジニアを抱えている。デジタルツインを構築すれば ...",
+    "url": "https://www.arcweb.com/sites/default/files/ARC+Forum+2024+Japan/ARC+Forum+2026+Japan/Cognite導入事例集.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Atlas AI（Cognite）の特徴・用途・日本での提供状況 | MFG-A... — Cognite Atlas AI（Cognite／ノルウェー）はAIエージェント・プラットフォームに分類される製造業向けAIの製品・サービスです。用途、提供形態、対応業種、価格の公開状況、日本での提供体制を一次情報にもとづき整理しました。",
+    "url": "https://mfg-ai.com/vendors/cognite-atlas-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Atlas AI™、メジャーリリースを発表 ー 産業価値を拡大し、エ... — Oct 9, 2025 · Cogniteは、Atlas AI™の最新メジャーリリースを発表しました。これにより、世界中の企業がリアルタイムのOT・IT・エンジニアリングデータを活用して、エージェント型AIの導入を拡大し、より迅速にデジタル変革を推進できるようになります。",
+    "url": "https://resources.cognite.com/ja-jp/company/newsroom/cognite-atlas-ai-tm-drives-customer-momentum-with-new-major-release-accelerates-adoption-of",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite - Wikipedia — Cognite AS is a Norwegian software as a service company with headquarters in Oslo, Norway [1][2] and offices in Tokyo, [3] Houston and Austin. [4][5][6] The company provides software and industrial internet of things (IIoT) services to industrial companies.",
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Partners | Cognite — Cognite Data Fusion®は、産業データを幅広いコラボレーター、特に産業ソリューションの世界的な専門家が容易にアクセスできるように設計されたオープンプラットフォームです。 最も強力なエンドツーエンドのソリューションには協力が必要です。Cognite Data Fusion®を使用すると、私たちの成長 ...",
+    "url": "https://www.cognite.com/ja-jp/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite - 産業データ&AIプラットフォーム | Cognite株式会社 — Cognite（コグナイト）は、産業データ&AIプラットフォームの世界的なリーダーカンパニーです。製造業や石油・ガス、電力などの重厚長大産業向けにデータ統合基盤であるDataOpsプラットフォームや産業に特化したアプリケーションをSaaSで提供し、本格的なデータ活用によるDXをサポートしてい ...",
+    "url": "https://www.cognite.com/ja-jp",
+    "pass": 3
+   },
+   {
+    "quote": "横河ソリューションサービスとCogniteがVAR契約を締結 | YOKOGAWA — Feb 2, 2021 · 今回のVAR契約によって、当社の産業向けソリューション・サービス・ビジネスの展開における重要な基本技術のひとつとしてCDFを活用することが可能になりました。今後は、CDFを活用することで、高付加価値ソリューションの迅速な提供が実現します。",
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite - Science brought to life — An independent healthcare communications agency focusing on transformative medicines and the highly complex diseases they treat.",
+    "url": "https://cognite.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Launches Japan Operations — Nov 26, 2019 · Cognite customers Yokogawa, a global leading engineering and industrial automation company, and Aker BP, one of the largest independent energy operators in Europe, will also present at the event. \"Sumitomo Corporation is happy to welcome Cognite to Japan.",
+    "url": "https://www.cognite.com/en/company/newsroom/cognite-launches-japan-operations",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Japan | LinkedIn — Cognite Japan | LinkedInのフォロワー数122,121人。A global leader in Industrial AI; driving the digital transformation of asset-heavy industries around the world. | Cognite is the only Industrial Data and AI platform built for scaling. We help Energy, Manufacturing, and Power & Utilities companies break down data silos and turn complex operational data into actionable, enterprise ",
+    "url": "https://jp.linkedin.com/company/cognitedata",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Japan: カルチャー | LinkedIn — Cognite Japan | LinkedInのフォロワー数121,880人。A global leader in Industrial AI; driving the digital transformation of asset-heavy industries around the world. | Cognite is the only Industrial Data and AI platform built for scaling. We help Energy, Manufacturing, and Power & Utilities companies break down data silos and turn complex operational data into actionable, ente",
+    "url": "https://jp.linkedin.com/company/cognitedata/life",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories | Cognite — Customer Story Maruzen Petrochemical’s Field-Driven Data Utilization with Cognite Customer Story Optimizing blockbuster drug manufacturing with AI: How Cognite enables best-in-class architecture for digital biomanufacturing Customer Story Tokuyama’s Challenge with Cognite Data Fusion®︎: Data Integration and AI Utilization to Accelerate DX",
+    "url": "https://www.cognite.com/en/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories | Cognite — Discover how Cognite Data Fusion® and Cognite Atlas AI™ make data more accessible and meaningful, driving insights that unlock opportunities in real-time, reduce costs, and improve the integrity and sustainability of your operations.",
+    "url": "https://www.cognite.com/en/resources/customer-stories?topic=manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite B2B Case Studies & Customer Successes — See how Cognite solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "69 Cognite Case Studies, Success Stories, & Customer StoriesCase Study: Tosoh Corporation achieves safer, more efficient ...Tosoh’s Initiative for a \"Safe and Secure Manufacturing ...How Cognite transformed its community into a key channel for ... — Narrow down 69 case studies by company size & industry to find out how Cognite works for a business like yours. Tosoh centralizes 900,000 records in 6",
+    "url": "https://www.featuredcustomers.com/vendor/cognite/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tosoh Corporation achieves safer, more efficient ... — Tosoh centralizes 900,000 records in 6 months with Cognite Tosoh Corporation, a comprehensive chemical manufacturer, faced challenges on its manufacturing shop floors due to a generational shift in its workforce. This led to a heavy reliance on veteran employees and difficulties for younger operators in accessing critical knowledge",
+    "url": "https://www.casestudies.com/company/cognite/case-study/tosoh-centralizes-900000-records-in-6-months-with-cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Statistics (2026): Revenue, ARR, Employees, Funding ... — Feb 28, 2026 · Cognite by the numbers in 2026: FY2025 revenue, ARR milestones, employee count, funding/valuation history, and industrial AI product facts—plus a key metrics table and FAQ.",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite - 2026 Company Profile, Team, Funding, Competitors ...Cognite 2026 Company Profile: Valuation, Funding & Investors ...Cognite Revenue 2025: $170M ARR, $3.1B Valuation - LATKACognite AS – Industry Ranking & Company Valuation – 2026Cognite: Funding, Investors & Team (Nov 2026) | FundedIQCognite - Overview, News & Similar companies | ZoomInfo.com — Jul 22, 2026 · Cognite is an acquired compan",
+    "url": "https://tracxn.com/d/companies/cognite/__d9m_5jTnc-zTN0LjAHrYYZa_aj0_cmMSThH_zdu5aqU",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite 2026 Company Profile: Valuation, Funding & Investors ...Cognite Revenue 2025: $170M ARR, $3.1B Valuation - LATKACognite AS – Industry Ranking & Company Valuation – 2026Cognite: Funding, Investors & Team (Nov 2026) | FundedIQCognite - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, and executives for Cognite. Use the PitchBook Pl",
+    "url": "https://pitchbook.com/profiles/company/223878-61",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Revenue 2025: $170M ARR, $3.1B Valuation - LATKA — Jun 1, 2026 · Cognite 2025 revenue: $170M ARR. Valuation: $3.1B. Total funding: $225.2M across 3 rounds. 800 employees. Founded 2016. Updated Jun 1, 2026.",
+    "url": "https://getlatka.com/companies/cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite AS – Industry Ranking & Company Valuation – 2026 — Discover Cognite AS's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/cognite-as",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/cognite/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/cognite/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "50 Interesting Facts About Email for 2026 | How Many Emails Are Sent Per Day?",
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/223878-61",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Cognite Consolidates Operations and Maintenance Data into a ... Jul 23, 2026 · Cognite, a company specializing in industrial AI, announced the AI-native industrial experience platform \"Cognite Flows™\" on May 12, 2026 (US local time). It consolidates AI-driven insights required by field teams and real-time data obtained from multiple applications across the company into a single, customizable works",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Thorough Analysis of Cognite: Strengths and Challenges from ... Sep 14, 2025 · Cognite is a unique company specializing in the \"contextualization of industrial data.\" From a career change perspective, while it offers dynamic experience in advancing data utilization for global clients, it requires a readiness to take on a demanding environment due to the high difficulty of implementation and the ",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cogniteを徹底解説：転職・投資の視点から見る強みと課題 Sep 15, 2025 · ひとことで 産業向けデータプラットフォーム「Cognite Data Fusion（CDF）」で製造業・エネルギー業界のデジタル変革を推進する企業。 会社概要 ・設立：2016年（ノルウェー・オスロ） ・創業者：John Markus Lervik（Fast Search & Transfer創業者でもある） ・拠点：オスロ本社、米国・日本を含む複数拠点 ...",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite 操業・保全データを単一画面に集約 産業AI基盤Flows提供｜PLB... Jul 23, 2026 · 産業向けAIを手がけるCognite（コグナイト）は2026年5月12日（米国現地時間）、AIネイティブな産業向け体験基盤「Cognite Flows™」を発表した。 現場チームが必要とするAIによるインサイトと、社内各所の複数アプリから得られるリアルタイムデータを、カスタマイズ可能な単一画面のワークス ...",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Cognite Consolidates Operations and Maintenance Data into a Single Screen, Launches Industrial AI Platform Flows | PLB #011｜プラント業界の変化を、AI・DX・テクノロジーの切り口で読み解く専門メディア｜PLANT LENS",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Consolidates Operations and Maintenance Data into a Single Screen, Launches Industrial AI Platform Flows | PLB #011",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "プラント業界の変化を、AI・DX・テクノロジーの切り口で読み解く専門メディア｜PLANT LENS",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite, a company specializing in industrial AI, announced its AI-native industrial experience platform, \"Cognite Flows™,\" on May 12, 2026 (US local time).",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It consolidates AI-driven insights required by field teams and real-time data obtained from multiple internal applications into a single, customizable workspace screen.",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "According to the company, production-level workflows can be built and scaled up to 100 times faster than before, and it is already available to over 30% of its customer base and key partners as of the announcement.",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "An \"Action Layer\" integrated with a knowledge graph",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Flows is positioned as the \"action layer\" of the company's industrial AI and data platform.",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Thorough Analysis of Cognite: Strengths and Challenges from the Perspective of Career Change and Investment｜外資系企業のススメ",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Thorough Analysis of Cognite: Strengths and Challenges from the Perspective of Career Change and Investment",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A company that promotes digital transformation in the manufacturing and energy industries through its industrial data platform, \"Cognite Data Fusion (CDF).\"",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Founded: 2016 (Oslo, Norway)",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Founder: John Markus Lervik (also a founder of Fast Search & Transfer)",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Locations: Oslo headquarters, multiple locations including the US and Japan",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Number of employees: Approximately 600 (estimated as of 2025)",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Key investors: Accel, Saudi Aramco Energy Ventures, TCV, etc.",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cogniteを徹底解説：転職・投資の視点から見る強みと課題｜外資系企業のススメ",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "Cogniteを徹底解説：転職・投資の視点から見る強みと課題",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "産業向けデータプラットフォーム「Cognite Data Fusion（CDF）」で製造業・エネルギー業界のデジタル変革を推進する企業。",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "・創業者：John Markus Lervik（Fast Search & Transfer創業者でもある）",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "・拠点：オスロ本社、米国・日本を含む複数拠点",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "・社員数：約600名規模（2025年時点推定）",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "・主要投資家：Accel、Saudi Aramco Energy Ventures、TCV など",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "・ステータス：未上場（ユニコーン企業として注目）",
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite 操業・保全データを単一画面に集約 産業AI基盤Flows提供｜PLB #011｜プラント業界の変化を、AI・DX・テクノロジーの切り口で読み解く専門メディア｜PLANT LENS",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite 操業・保全データを単一画面に集約 産業AI基盤Flows提供｜PLB #011",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a",
+    "pass": 3
+   },
+   {
+    "quote": "プラント業界の変化を、AI・DX・テクノロジーの切り口で読み解く専門メディア｜PLANT LENS",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a",
+    "pass": 3
+   },
+   {
+    "quote": "産業向けAIを手がけるCognite（コグナイト）は2026年5月12日（米国現地時間）、AIネイティブな産業向け体験基盤「Cognite Flows™」を発表した。",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a",
+    "pass": 3
+   },
+   {
+    "quote": "現場チームが必要とするAIによるインサイトと、社内各所の複数アプリから得られるリアルタイムデータを、カスタマイズ可能な単一画面のワークスペースに集約する。",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a",
+    "pass": 3
+   },
+   {
+    "quote": "同社によると、実運用レベルのワークフローを従来比で最大100倍の速さで構築・拡張でき、発表時点で顧客基盤の30%超と主要パートナーがすでに利用可能な状態にあるという。",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a",
+    "pass": 3
+   },
+   {
+    "quote": "知識グラフと統合された「アクションレイヤー」",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite Flowsは、同社の産業AI・データプラットフォームの「アクションレイヤー（実行層）」と位置づけられる。",
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Cognite (@cogniteco) / Posts / X Cognite (@cogniteco) - Posts - Independent healthcare strategy & comms agency, differentiated by ability of experienced team to use... | X (formerly Twitter)",
+    "url": "https://x.com/cogniteco",
+    "pass": 3
+   },
+   {
+    "quote": "on X: \"Schneider Electric agreed to buy Cognite in a $3.1 ... Schneider Electric agreed to buy Cognite in a $3.1 billion transaction to expand its industrial data and AI software business 30 Jun 2026 16:12:55",
+    "url": "https://x.com/business/status/2071990372121686022",
+    "pass": 3
+   },
+   {
+    "quote": "Arizona is proud to welcome Cognite’s new global headquarters ... Governor Katie Hobbs (@GovernorHobbs). 32 likes 27 replies. Arizona is proud to welcome Cognite’s new global headquarters to Tempe. What happens at Cognite is felt across the globe and now Arizona gets to be part of it. Their investment and 100+ new jobs strengthen our position as an international leader in AI, data, and advanced te",
+    "url": "https://x.com/GovernorHobbs/status/1998430361085423957",
+    "pass": 3
+   },
+   {
+    "quote": "Tom Young (@Tom_Cognite) / Posts / X Tom Young (@Tom_Cognite) - Posts - Chartered Psychologist - Fascinated by all things High-Performance. Author of ‘The Making of a Leade... | X (formerly Twitter)",
+    "url": "https://x.com/Tom_Cognite",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite (@CogniteData) / X A global leader in industrial software. Driving the digital transformation of asset-heavy industries around the world.",
+    "url": "https://x.com/CogniteData",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Cognite - LinkedIn Cognite | 122,124 followers on LinkedIn. A global leader in Industrial AI; driving the digital transformation of asset-heavy industries around the world. | Cognite is the only Industrial Data and ...",
+    "url": "https://www.linkedin.com/company/cognitedata/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite - LinkedIn Cognite | 13,486 followers on LinkedIn. Your partner for bringing science to life. | Your partner for bringing science to life. Cognite is the independent healthcare strategy and communications ...",
+    "url": "https://www.linkedin.com/company/cogniteco/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite | LinkedIn Cognite | 122,271 followers on LinkedIn. A global leader in Industrial AI; driving the digital transformation of asset-heavy industries around the world. | Cognite is the only Industrial Data and AI platform built for scaling. We help Energy, Manufacturing, and Power & Utilities companies break down data silos and turn complex operational data into actionable, enterprise-wide va",
+    "url": "https://in.linkedin.com/company/cognitedata",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite | LinkedIn Cognite | 122 343 følgere på LinkedIn. A global leader in Industrial AI; driving the digital transformation of asset-heavy industries around the world. | Cognite is the only Industrial Data and AI platform built for scaling. We help Energy, Manufacturing, and Power & Utilities companies break down data silos and turn complex operational data into actionable, enterprise-wide valu",
+    "url": "https://no.linkedin.com/company/cognitedata",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Cognite | Oslo - FacebookCognite : South Africa | Johannesburg - FacebookCognite株式会社 | Chiyoda-ku Tokyo - FacebookCognite - Cognite pioneers knowledge technology for the ...Cognite - You wouldn't want to miss an event where the ...【パレスホテル東京開催 ｜Cognite創業者が登壇する「Impact Tokyo」...Cognite - Latin America, here we come. Cognite has today ... Oct 8, 2025 · Cognite, Oslo. 13,095 likes · 54 were here. Cogni",
+    "url": "https://www.facebook.com/CogniteData/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite : South Africa | Johannesburg - FacebookCognite株式会社 | Chiyoda-ku Tokyo - FacebookCognite - Cognite pioneers knowledge technology for the ...Cognite - You wouldn't want to miss an event where the ...【パレスホテル東京開催 ｜Cognite創業者が登壇する「Impact Tokyo」...Cognite - Latin America, here we come. Cognite has today ... Cognite : South Africa, Johannesburg. 2,449 likes · 1 talking about this. Cognite provid",
+    "url": "https://www.facebook.com/cognitemarketing/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite株式会社 | Chiyoda-ku Tokyo - FacebookCognite - Cognite pioneers knowledge technology for the ...Cognite - You wouldn't want to miss an event where the ...【パレスホテル東京開催 ｜Cognite創業者が登壇する「Impact Tokyo」...Cognite - Latin America, here we come. Cognite has today ... Cognite株式会社, Chiyoda. 673 followers · 3 were here. Cogniteは製造業のデジタルトランスフォーメーションを実現するためにDataOp Aug 28, 2017 · Cognite pioneers knowledge ",
+    "url": "https://www.facebook.com/cognitejapan/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognite - Cognite pioneers knowledge technology for the ... Aug 28, 2017 · Cognite pioneers knowledge technology for the enterprise. The industrial data platform that Cognite is developing addresses this by empowering customers to make data a strategic asset for accelerated...",
+    "url": "https://www.facebook.com/CogniteData/posts/cognite-pioneers-knowledge-technology-for-the-enterprise-the-industrial-data-pla/342428879547903/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cognite.com/en",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.arcweb.com/sites/default/files/ARC+Forum+2024+Japan/ARC+Forum+2026+Japan/Cognite%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B%E9%9B%86.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mfg-ai.com/vendors/cognite-atlas-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Cognite",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/cognitedata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/cognite",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/cognite/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://expandedramblings.com/index.php/cognite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/cognite/__d9m_5jTnc-zTN0LjAHrYYZa_aj0_cmMSThH_zdu5aqU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/223878-61",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/cognite",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/plant_lens/n/n977df4b1f65a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/cogniteco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/business/status/2071990372121686022",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GovernorHobbs/status/1998430361085423957",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Tom_Cognite",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/cognitedata/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/cogniteco/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/cognitedata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://no.linkedin.com/company/cognitedata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CogniteData/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cognitemarketing/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cognitejapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CogniteData/posts/cognite-pioneers-knowledge-technology-for-the-enterprise-the-industrial-data-pla/342428879547903/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CogniteData",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Cognite 日本 導入",
+   "results": [
+    "https://www.cognite.com/ja-jp/resources/customer-stories",
+    "https://www.cognite.com/ja-jp/resources/datasheets/customer-stories",
+    "https://www.arcweb.com/sites/default/files/ARC+Forum+2024+Japan/ARC+Forum+2026+Japan/Cognite導入事例集.pdf",
+    "https://mfg-ai.com/vendors/cognite-atlas-ai",
+    "https://resources.cognite.com/ja-jp/company/newsroom/cognite-atlas-ai-tm-drives-customer-momentum-with-new-major-release-accelerates-adoption-of",
+    "https://aiteller.jp/blog/cognite-atlas-ai-toha",
+    "https://www.shokubai.co.jp/ja/news/202302169996/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognite 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://en.wikipedia.org/wiki/Cognite",
+    "https://www.cognite.com/ja-jp/partners",
+    "https://www.cognite.com/ja-jp",
+    "https://www.yokogawa.co.jp/news/press-releases/2021/2021-02-02-ja/",
+    "https://cognite.co/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognite Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Cognite",
+    "https://www.cognite.com/ja-jp",
+    "https://www.cognite.com/en/company/newsroom/cognite-launches-japan-operations",
+    "https://jp.linkedin.com/company/cognitedata",
+    "https://jp.linkedin.com/company/cognitedata/life",
+    "https://www.linkedin.com/company/cognitejapan",
+    "https://www.facebook.com/cognitejapan/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognite manufacturing customer case study",
+   "results": [
+    "https://www.cognite.com/en/resources/customer-stories",
+    "https://www.cognite.com/en/resources/customer-stories?topic=manufacturing",
+    "https://www.casestudies.com/company/cognite",
+    "https://www.featuredcustomers.com/vendor/cognite/case-studies",
+    "https://www.casestudies.com/company/cognite/case-study/tosoh-centralizes-900000-records-in-6-months-with-cognite",
+    "https://resources.cognite.com/en/resources/customer-stories/tosoh",
+    "https://www.gainsight.com/customer/how-cognite-transformed-its-community-into-a-key-channel-for-its-high-touch-strategy/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognite white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognite founded funding employees revenue",
+   "results": [
+    "https://expandedramblings.com/index.php/cognite/",
+    "https://tracxn.com/d/companies/cognite/__d9m_5jTnc-zTN0LjAHrYYZa_aj0_cmMSThH_zdu5aqU",
+    "https://pitchbook.com/profiles/company/223878-61",
+    "https://getlatka.com/companies/cognite",
+    "https://compworth.com/company/cognite-as",
+    "https://fundediq.co/cognite-cognite-com-funding/",
+    "https://www.zoominfo.com/c/cognite/363431006"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Cognite",
+   "results": [
+    "https://note.com/plant_lens/n/n977df4b1f65a?hl=en",
+    "https://note.com/gaishi_susume/n/na93d386fd2a2?hl=en",
+    "https://note.com/gaishi_susume/n/na93d386fd2a2",
+    "https://note.com/plant_lens/n/n977df4b1f65a",
+    "https://note.com/interactanalysis/n/n5430dcf601f4",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Cognite",
+   "results": [
+    "https://x.com/cogniteco",
+    "https://x.com/business/status/2071990372121686022",
+    "https://x.com/GovernorHobbs/status/1998430361085423957",
+    "https://x.com/Tom_Cognite",
+    "https://x.com/NeaByteLab/status/2045881851647267211",
+    "https://x.com/CogniteData",
+    "https://x.com/grok/status/2106961409116455129"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Cognite",
+   "results": [
+    "https://www.linkedin.com/company/cognitedata/",
+    "https://www.linkedin.com/company/cogniteco/",
+    "https://in.linkedin.com/company/cognitedata",
+    "https://no.linkedin.com/company/cognitedata",
+    "https://in.linkedin.com/company/cognitedata/jobs",
+    "https://jp.linkedin.com/company/cognitedata",
+    "https://uk.linkedin.com/jobs/view/senior-project-manager-at-cognite-4436499778"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Cognite",
+   "results": [
+    "https://www.facebook.com/CogniteData/",
+    "https://www.facebook.com/cognitemarketing/",
+    "https://www.facebook.com/cognitejapan/",
+    "https://www.facebook.com/CogniteData/posts/cognite-pioneers-knowledge-technology-for-the-enterprise-the-industrial-data-pla/342428879547903/",
+    "https://www.facebook.com/cognitejapan/videos/パレスホテル東京開催cognite創業者が登壇するimpact-tokyo参加登録受付中製造エネルギー業界をはじめとする産業界においてaiやデータの真の利活用は/28335104399508921/",
+    "https://www.facebook.com/CogniteData/posts/latin-america-here-we-comecognite-has-today-announced-new-offices-in-colombia-ar/1530431317414314/",
+    "https://www.facebook.com/CogniteData/posts/you-wouldnt-want-to-miss-an-event-where-the-lineup-features-figures-from-norwegi/1549759482148164/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognite note 社長",
+   "results": [
+    "https://www.cognite.com/ja-jp/company/leadership",
+    "https://www.cognite.com/ja-jp/company/newsroom/new-president-joins-and-formed-executive-advisory-board-for-japan",
+    "https://compalyze.co.jp/company/8010001204954",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.clay.com/dossier/cognite-ceo",
+    "https://resources.cognite.com/en/company/leadership",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cognite X 投稿",
+   "results": [
+    "https://www.cognite.com/ja-jp",
+    "https://www.cognite.com/en",
+    "https://docs.cognite.com/zh",
+    "https://x.com/CogniteData",
+    "https://hub.cognite.com/",
+    "https://x.com/XikCJY/status/2115636183887966611",
+    "https://www.cognyte.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

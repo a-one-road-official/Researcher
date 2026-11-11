@@ -1,0 +1,1566 @@
+{
+ "name": "Authentise",
+ "aliases": [],
+ "context": "旧営業リスト｜AM / Additive Manufacturing｜日本進出済",
+ "researched_at": "2026-11-11T03:30:34.783228+00:00",
+ "official_url": "https://www.authentise.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "5. Seed Round",
+    "value": "31-Mar-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Jun-2016    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "01-Jan-2013    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Approvals and processes take too long",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Threads captures the decisions, discussions and reasoning behind engineering work, while Whisper makes that knowledge instantly searchable and accessible.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One system to manage quotes, production, and delivery end to end.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-Production Time Saved",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Average pre-production dropped from 12 hours to 45 minutes.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Team Productivity",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduction in manufacturing preparation time",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual build preparation, disconnected tools, and repetitive administrative work increase overhead on every part produced.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated workflows and connected production data dramatically reduce preparation effort, helping lower operational cost per part.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduction in pre-production lead time",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage orders, track production runs, and monitor every step from a single unified dashboard with real-time visibility.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate request-for-quote workflows, respond to customers faster with intelligent pricing.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plug into your 3D printers and CNC machines. Real-time status, job tracking, and utilization.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom modules for scheduling, nesting, post-processing and more.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production dashboards, utilization metrics, and compliance reports — zero manual effort.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborative communication for your production floor. Tag orders, flag issues, loop in teams.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FlowsAM is Authentise's end-to-end additive manufacturing workflow management system covering order intake, production planning, machine monitoring, QA, and delivery — all from one dashboard.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most teams go live within weeks. Guided onboarding, pre-built integrations, and a dedicated success team support your rollout.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to our newsletter to be kept updated about new product features, future partnerships and events.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are currently experiencing a high volume of questions about an agency calling and emailing people to invite them to job interview for Authentise. We DO NOT work with any agency and won't contact you for an interview unless you've applied for any of the jobs currently listed by us.",
+    "url": "https://www.authentise.com/company-about-us/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing | Agile Manufacturing | Authentise",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We offer excellent deployment and training support for all our products. Along with the license fees, we charge a Setup Fee. To share the risk of that setup and to give you a taste of the platform before fully committing, we only charge 50% of the setup fee upfront. The remaining amount and the License Fee are due upon full acceptance, emphasizing our commitment to helping you grow.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ". Prices starting from $2,500 per month plus set-up fee.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ". Prices starting from $1,900 (as Flow add-on) per month plus set-up fee.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our Digital Material Genealogy Management module provides advanced material workflow management for additive manufacturing.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing Engineering & Quoting Productivity redefined.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing starts from $14.99 per month.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Authentise understood our varied needs immediately. We have a dozen additive locations making prototypes, and a couple that are moving into production. We wanted one system to manage it all - and Authentise provided.\"",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering knowledge only creates value when it becomes action. Authentise connects engineering intent with manufacturing execution, automating workflows, integrating machines and giving production teams the information they need to deliver consistent, repeatable results at scale.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Capture engineering knowledge and preserve intent",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Prove every decision and deliver with confidence",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "One system to manage quotes, production, and delivery end to end.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-Production Time Saved",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Average pre-production dropped from 12 hours to 45 minutes.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Manual Workflows Slow Production",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Production teams waste valuable time on manual updates, disconnected spreadsheets and repetitive administrative tasks instead of manufacturing parts.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "As production grows, maintaining consistency across machines, sites and suppliers becomes increasingly difficult.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Limited Production Visibility",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Without real-time insight into production, issues are discovered too late, delaying delivery and increasing operational risk.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing execution depends on connected workflows, real-time visibility and seamless integration across your production environment. Authentise brings together purpose-built products that automate operations, connect systems and help teams deliver consistent, repeatable manufacturing at scale.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Orchestrates production",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Manage every stage of the manufacturing workflow from order through to delivery with complete visibility across your production environment.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "automates workflows, standardises processes and gives teams the control needed to scale additive manufacturing confidently.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "helps teams generate accurate quotations while reducing manual effort and improving response times.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Collect live production data directly from equipment without manual intervention.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "provides real-time machine status, production updates and utilisation data to improve visibility across the shop floor.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor inventory levels and automate material replenishment to keep production running without interruption.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "reduces shortages, improves planning and supports more efficient manufacturing operations.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Create flexible digital workflows that eliminate repetitive manual tasks and keep production moving.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "connects systems, people and processes to ensure every job follows a consistent path from start to finish.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Individually, these products solve specific operational challenges.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Together, they create a connected manufacturing execution platform that automates workflows, connects equipment and provides complete visibility across your production environment.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Increase Production Efficiency",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Connect engineering, production and quality into one intelligent workflow. Automate manual processes, improve traceability and scale manufacturing with confidence.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers are under constant pressure to deliver more with less. Disconnected systems, manual processes and limited production visibility slow operations, increase costs and make it harder to scale.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering, ERP, production and quality often operate independently, creating delays, duplicated effort and poor visibility across the factory.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers and production teams spend valuable time updating spreadsheets, creating documents and chasing information instead of focusing on manufacturing.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Limited production visibility",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "As production grows, maintaining consistency, traceability and standardised processes across teams and sites becomes increasingly challenging.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Authentise brings engineering, production and operational data together into a single connected workflow, helping manufacturers automate repetitive tasks, improve visibility and build a stronger digital thread across the organisation.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AI-Driven Manufacturing Intelligence",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Workflow management for additive manufacturers to operate more efficiently across the entire supply chain — from order intake to final delivery.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading manufacturers worldwide",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We struggle to scale additive manufacturing operations",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "— Alana Mally, Vast Aerospace",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduction in manufacturing preparation time",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What Manufacturing Leaders Say",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace-focused Service Bureau",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supporting manufacturing operations",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FlowsAM — End-to-End Manufacturing",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Design Warehouse",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Design Warehouse →",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FlowsAM is Authentise's end-to-end additive manufacturing workflow management system covering order intake, production planning, machine monitoring, QA, and delivery — all from one dashboard.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. Used in aerospace, defence, and medical with FDA, AS9100, and ITAR compliance features including full audit trails.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Years in addictive manufacturing",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join Boeing, Ricoh, Eaton, and hundreds of manufacturers already scaling with Authentise.",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing | Agile Manufacturing | Authentise",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Easily plan, manage, execute & track industrial engineering and manufacturing operations. ​",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our Digital Material Genealogy Management module provides advanced material workflow management for additive manufacturing.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing Engineering & Quoting Productivity redefined.",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Additive Manufacturing",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Global Industrial Engineering Corporation",
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Execution Software | Workflow Automation",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "EXECUTE MANUFACTURING WITH",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering knowledge only creates value when it becomes action. Authentise connects engineering intent with manufacturing execution, automating workflows, integrating machines and giving production teams the information they need to deliver consistent, repeatable results at scale.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "— Alana Mally, Vast Aerospace",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Common Manufacturing Challenges",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Production teams waste valuable time on manual updates, disconnected spreadsheets and repetitive administrative tasks instead of manufacturing parts.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Execution",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing execution depends on connected workflows, real-time visibility and seamless integration across your production environment. Authentise brings together purpose-built products that automate operations, connect systems and help teams deliver consistent, repeatable manufacturing at scale.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Manage every stage of the manufacturing workflow from order through to delivery with complete visibility across your production environment.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "automates workflows, standardises processes and gives teams the control needed to scale additive manufacturing confidently.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "provides real-time machine status, production updates and utilisation data to improve visibility across the shop floor.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "reduces shortages, improves planning and supports more efficient manufacturing operations.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Together, they create a connected manufacturing execution platform that automates workflows, connects equipment and provides complete visibility across your production environment.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Automate repetitive tasks and streamline manufacturing workflows so your teams spend more time producing parts and less time managing processes.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Scale Manufacturing with Confidence",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Connect Your Manufacturing Ecosystem",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Turn live production data into actionable insights that improve planning, resource utilisation and manufacturing performance.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Build a Smarter Manufacturing Operation",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing works best when every machine, workflow and team is connected. Automate production, improve visibility and give your organisation the tools to manufacture consistently at any scale.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Design Warehouse",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing Software | Connected Manufacturing Workflows",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Modern Industrial Manufacturing",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect engineering, production and quality into one intelligent workflow. Automate manual processes, improve traceability and scale manufacturing with confidence.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The Challenges Facing Modern Manufacturers",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers are under constant pressure to deliver more with less. Disconnected systems, manual processes and limited production visibility slow operations, increase costs and make it harder to scale.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Disconnected manufacturing systems",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering, ERP, production and quality often operate independently, creating delays, duplicated effort and poor visibility across the factory.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers and production teams spend valuable time updating spreadsheets, creating documents and chasing information instead of focusing on manufacturing.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Without live manufacturing data, it's difficult to identify bottlenecks, optimise scheduling or make informed operational decisions.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Built for connected manufacturing",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Authentise brings engineering, production and operational data together into a single connected workflow, helping manufacturers automate repetitive tasks, improve visibility and build a stronger digital thread across the organisation.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your manufacturing ecosystem",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor production, materials and manufacturing performance in real time, enabling faster decisions and continuous improvement.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Standardise best practices, capture engineering knowledge and create repeatable manufacturing processes that grow with your business.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Every manufacturing operation is different. The solutions below are our most common recommendations for industrial manufacturers, but they're only part of the wider Authentise platform. We'll help you identify the combination that best supports your processes, systems and long-term goals.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Design Warehouse",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're improving production efficiency, strengthening traceability or preparing for future growth, Authentise provides flexible solutions that integrate with your existing manufacturing environment.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Across Modern Manufacturing",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Don't see your challenge listed?",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Customers",
+    "url": "https://www.authentise.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are currently experiencing a high volume of questions about an agency calling and emailing people to invite them to job interview for Authentise. We DO NOT work with any agency and won't contact you for an interview unless you've applied for any of the jobs currently listed by us.",
+    "url": "https://www.authentise.com/company-about-us/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Every manufacturing operation is different. The solutions below are our most common recommendations for industrial manufacturers, but they're only part of the wider Authentise platform. We'll help you identify the combination that best supports your processes, systems and long-term goals.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/industries/automotive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/solutions/intent",
+    "pass": 1
+   },
+   {
+    "quote": "Valuable engineering knowledge leaves with experienced employees, making projects harder to repeat and scale.",
+    "url": "https://www.authentise.com/solutions/intent",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/solutions/trust",
+    "pass": 1
+   },
+   {
+    "quote": "Authentise software is being used as a core part of the FDA certification process.",
+    "url": "https://www.authentise.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "We have the ability to arrange a highly integrated set of systems enabling customers to bring data and processes together, enabling quality control and, critically - FDA compliance",
+    "url": "https://www.authentise.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/industries/aerospace-defence",
+    "pass": 1
+   },
+   {
+    "quote": "✓ Generated complex insights with data acquired, e.g. AI Risk Assessment",
+    "url": "https://www.authentise.com/industries/aerospace-defence",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/industries/medical-devices",
+    "pass": 1
+   },
+   {
+    "quote": "Every medical manufacturing environment has different regulatory, quality and production requirements. These are the Authentise solutions most commonly used by medical device manufacturers, but they're only part of the wider platform.",
+    "url": "https://www.authentise.com/industries/medical-devices",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/industries/service-bureaus",
+    "pass": 1
+   },
+   {
+    "quote": "Every service bureau operates differently. The solutions below are our most common recommendations for additive manufacturing service providers, but they represent just part of the wider Authentise platform.",
+    "url": "https://www.authentise.com/industries/service-bureaus",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/industries/research-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "Every research programme is different. Whether you're developing advanced manufacturing technologies, collaborating across institutions or preparing innovations for production, the solutions below are our most common recommendations - but they're only part of the wider Authentise platform.",
+    "url": "https://www.authentise.com/industries/research-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/solutions/whisper",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   },
+   {
+    "quote": "To view Authentise’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise has 33 total employees.",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   },
+   {
+    "quote": "What is Authentise’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Authentise is",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We are currently experiencing a high volume of questions about an agency calling and emailing people to invite them to job interview for Authentise. We DO NOT work with any agency and won't contact you for an interview unless you've applied for any of the jobs currently listed by us.",
+    "url": "https://www.authentise.com/company-about-us/jobs",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/solutions/execution",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Critical information is spread across emails, spreadsheets and multiple software platforms, slowing decisions and increasing manual work.",
+    "url": "https://www.authentise.com/industries/automotive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/industries/automotive-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/solutions/intent",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/solutions/trust",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/industries/aerospace-defence",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/industries/medical-devices",
+    "pass": 1
+   },
+   {
+    "quote": "Customers want real-time visibility without constant phone calls and email updates, placing additional pressure on production teams.",
+    "url": "https://www.authentise.com/industries/service-bureaus",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/industries/service-bureaus",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design decisions often remain trapped in meetings, emails and individual expertise, making projects difficult to continue or transfer.",
+    "url": "https://www.authentise.com/industries/research-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/industries/research-innovation",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering decisions shouldn't disappear into meetings and emails.",
+    "url": "https://www.authentise.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Whisper captures decisions and context from meetings, emails and chats, making engineering knowledge searchable and traceable across your existing tools.",
+    "url": "https://www.authentise.com/solutions/whisper",
+    "pass": 1
+   },
+   {
+    "quote": "continuously monitors engineering activity across meetings, chat, email and connected systems, surfacing stalled approvals, rework loops and weak signals as they emerge instead of weeks later.",
+    "url": "https://www.authentise.com/solutions/whisper",
+    "pass": 1
+   },
+   {
+    "quote": "The reasoning behind design decisions disappears into meetings, emails and chat, leaving teams to rediscover why choices were made.",
+    "url": "https://www.authentise.com/solutions/whisper",
+    "pass": 1
+   },
+   {
+    "quote": "Critical design discussions happen in meetings, emails and chat - but rarely become part of the engineering record.",
+    "url": "https://www.authentise.com/solutions/whisper",
+    "pass": 1
+   },
+   {
+    "quote": "From chat, email, meetings, docs and tool activity",
+    "url": "https://www.authentise.com/solutions/whisper",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering intent is created in meetings, email, Slack or Teams, docs, voice and other day-to-day collaboration.",
+    "url": "https://www.authentise.com/solutions/whisper",
+    "pass": 1
+   },
+   {
+    "quote": "Most valuable engineering data lives in Slack, email, and meetings—not PLM. Learn how lost intent drives rework, risk, and poor visibility.",
+    "url": "https://www.authentise.com/solutions/whisper",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Coordinating OEMs, suppliers and partners requires secure collaboration and complete visibility across programmes.",
+    "url": "https://www.authentise.com/industries/aerospace-defence",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Authentise社がChatGPT機能を積層造形に導入 | CAD Japan.com（大塚商会）",
+    "url": "https://www.cadjapan.com/news/2023/d20230614_02.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Authentise社がChatGPT機能を積層造形に導入 | CAD Japan.com（大塚商... — Jun 6, 2023 · Authentise社は2023年6月6日、積層造形に関するあらゆる質問をすることができる人工知能ツール「3DGPT」を発表した。",
+    "url": "https://www.cadjapan.com/news/2023/d20230614_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Authentiseが供給と生産をつなぐ：データ駆動型AMワークフローのため... — Nov 6, 2025 · Digifabsterは、Authentiseと連携してオンライン提供と工房のギャップを埋めます。承認された提案は、フローと双方向に同期され、生産指示として作成されます。これには、材料の仕様、後処理、顧客データが含まれます。ステータスメッセージは販売と顧客ポータルに戻ります。. 3Druck.com Googleを ...",
+    "url": "https://3druck.com/ja/産業/authentiseは、データ駆動型のamワークフローのための新-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise Additive Production Management — Use machine data to improve performance of your additive operations, and capture the digital thread Authentise's Data-Driven Production Management Solution is a Manufacturing Execution System connected to Machine Data and able to drive lower effort and cost, improved traceability and transparency, as well as quality in additive R&D, prototyping and produ",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/authentise-inc.authentise-mes",
+    "pass": 3
+   },
+   {
+    "quote": "Authentiseは3D Spark、Digifabster ... - LinkedIn 日本 — Nov 6, 2025 · フィラデルフィア、ペンシルベニア州、2025年11月6日 — データ駆動型ワークフローソフトウェアのリーダーであるAuthentiseは、3D Spark、Digifabster、Paperless Partsの3つの新しい統合を発表しました。これにより、設計、見積もり、生産管理におけるオープンでつながったエコシステムを構築するという ...",
+    "url": "https://jp.linkedin.com/pulse/authentise-expands-its-connected-manufacturing-ecosystem-3d-thx7e?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise | Data-Driven Workflow Management for Additive — Workflow management for additive manufacturers to operate more efficiently across the entire supply chain — from order intake to final delivery.",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise | Data-Driven Workflow Management for Additive — Discover how Authentise streamlines additive manufacturing workflows with innovative solutions in the United States.",
+    "url": "https://www.authentise.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Company Overview | Authentise Workflow Management — Streamline your additive manufacturing with Authentise's solutions, enhancing efficiency and controlling workflows with additive integration.",
+    "url": "https://www.authentise.com/company-about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise Modular Systems | Modular Manufacturing Systems — Authentise Modular Systems designs and delivers software-defined manufacturing cells that connect equipment, automation, material handling, workflow software and quality systems into one coordinated production environment. Start with the machines and processes you need today. Add capacity, change suppliers or expand to new sites without ",
+    "url": "https://www.authentise.com/ams",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise - LinkedIn — Authentise | LinkedInのフォロワー数9,037人。From engineering intent to manufacturing execution - connected, traceable, scalable. | Authentise connects engineering intent, manufacturing execution and quality data - helping manufacturers move from idea to part with less friction, better visibility and complete traceability. Manufacturing knowledge is usually scattered across drawings ",
+    "url": "https://jp.linkedin.com/company/authentise",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise Additive Production Management — Authentise's Data-Driven Production Management Solution is a Manufacturing Execution System connected to Machine Data and able to drive lower effort and cost, improved traceability and transparency, as well as quality in additive R&D, prototyping and production operations.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/authentise-inc.authentise-mes",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Authentise — Case Study: Authentise & Addiguru - Advancing Quality Control in Additive Manufacturing By integrating real-time AI defect detection with part-level traceability, Authentise and Addiguru are reshaping how quality is managed in additive manufacturing.",
+    "url": "https://www.authentise.com/blog/categories/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Authentise & Addiguru - Advancing Quality Control ... — Dec 29, 2025 · By integrating real-time AI defect detection with part-level traceability, Authentise and Addiguru are reshaping how quality is managed in additive manufacturing. Moving beyond reactive inspection, this collaboration enables manufacturers to identify defects as they occur, link issues directly to affected parts, and",
+    "url": "https://www.authentise.com/post/case-study-authentise-addiguru-advancing-quality-control-in-additive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise B2B Case Studies & Customer Successes — Authentise’s data-driven platform manages the manufacturing processes from design to part to increase efficiency and repeatability. Generate quotes, renders, material and time estimates, builds, and more on the fly. Connect to dozens of machines for automatic order status updates, traceability reports, KPI dashboards and improved estimates using m",
+    "url": "https://www.casestudies.com/company/authentise",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise Case Study: Ricoh – How Authentise have provided ... — Ricoh (Information Technology and Services) partnered with Authentise (Computer & Network Security) to solve key challenges. \"How Authentise have provided the core industrial engineering and workflow management within their production facility\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/authentise/case-study/how-authentise-have-provided-the-core-industrial-engineering-and-workflow-management-within-their-production-facility",
+    "pass": 3
+   },
+   {
+    "quote": "2 Authentise Case Studies, Success Stories, & Customer ... — Authentise has a 4.8/5 star rating. Learn what their customers think, get 2 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/authentise/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise – Company Profile & Market Insights – 2026 — Business summary of Authentise: estimated revenue of $5.7M, team of around 40+ employees, located in United States, with reliable performance indicators.",
+    "url": "https://compworth.com/company/authentise",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise 2026 Company Profile: Valuation, Funding ...Authentise - 2025 Company Profile, Team, Funding ... - TracxnAuthentise - Overview, News & Similar companies | ZoomInfo.comAuthentise — Company Profile, 1 Acquisitions & FundingAuthentise, Inc. Revenue 2025: $3.9M Est. ARR - getlatka.comAuthentise Information - RocketReach — Authentise FAQs When was Authentise founded? Authentise was founded i",
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise - 2025 Company Profile, Team, Funding ... - TracxnAuthentise - Overview, News & Similar companies | ZoomInfo.comAuthentise — Company Profile, 1 Acquisitions & FundingAuthentise, Inc. Revenue 2025: $3.9M Est. ARR - getlatka.comAuthentise Information - RocketReach — Nov 11, 2025 · Authentise is a funded company based in Mountain View (United States), founded in 2012. It operates as a Prov",
+    "url": "https://tracxn.com/d/companies/authentise/__rSI7DHE_EDKTnnx-1RQZzhjyeW6SUsdgiizNNKLxrSU",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise - Overview, News & Similar companies | ZoomInfo.com — View Authentise (www.authentise.com) location in Pennsylvania, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/authentise-inc/358106216",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise — Company Profile, 1 Acquisitions & Funding — Authentise company profile with 1 acquisitions, 4 funding rounds, HQ in Mountain View, United States, founded 2012. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/authentise",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Replies by Authentise (@authentise) / X Congratulations to @ Authentise of Philadelphia on receiving a $573,710 federal @eeregov grant to improve cybersecurity in manufacturing (first item listed under Industrial Additive Manufacturing): Funding Selections – Cybersecurity Manufacturing Innovation Institute Period 3 From energy.gov 2 3 431 Authentise @authentise Feb 2, 2024",
+    "url": "https://x.com/authentise/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise (@authentise) / X Manufacturing software and modular production systems. Connecting engineering, production and traceability - from intent to finished part.",
+    "url": "https://x.com/authentise",
+    "pass": 3
+   },
+   {
+    "quote": "Brad Dougherty (@bdougherty) / Posts / X Brad Dougherty (@bdougherty) - Posts - Webmaster & roller coaster enthusiast. Formerly @vimeo , @authentise , and @audiomack . CEO of @... | X (formerly Twitter)",
+    "url": "https://x.com/bdougherty",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Authentise - LinkedIn Authentise connects engineering intent, manufacturing execution and quality data - helping manufacturers move from idea to part with less friction, better visibility and complete traceability ...",
+    "url": "https://www.linkedin.com/company/authentise",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise - LinkedIn Authentise | 9,051 followers on LinkedIn. From engineering intent to manufacturing execution - connected, traceable, scalable. | Authentise connects engineering intent, manufacturing execution and quality data - helping manufacturers move from idea to part with less friction, better visibility and complete traceability. Manufacturing knowledge is usually scattered across draw",
+    "url": "https://uk.linkedin.com/company/authentise",
+    "pass": 3
+   },
+   {
+    "quote": "Andre Wegner - CEO, Authentise | AI for manufacturing ... CEO, Authentise | AI for manufacturing, engineering intent & defence supply chains · Experience: Authentise · Education: Singularity University · Location: United States · 500+ connections on ...",
+    "url": "https://www.linkedin.com/in/andrepwegner",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise Launches “Whisper,” an Agentic AI Backbone for ... Apr 15, 2026 · Philadelphia, USA, 15 April 2025 — Authentise today announced the launch of Whisper, a new AI platform designed to capture, understand, and act on engineering intent across the entire idea-to ...",
+    "url": "https://www.linkedin.com/pulse/authentise-launches-whisper-agentic-ai-backbone-engineering-txome/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Authentise | Philadelphia PA - FacebookAuthentise - Big 24 hours for Authentise Yesterday, we ...Authentise - You don’t need material anymore. Today ...Authentise - We’re a TCT Awards 2026 ... - FacebookLAUNCH ALERT! Today, we’re launching ... Whisper! A new ...DID YOU KNOW???? We’ve seamlessly integrated Autodesk ...Going to Aerospace Xelerated in London next week? Catch our ... Apr 21, 2026 · Au",
+    "url": "https://www.facebook.com/authentise/",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise - Big 24 hours for Authentise Yesterday, we ... Apr 16, 2026 · Big 24 hours for Authentise Yesterday, we launched Whisper - a new way to capture engineering intent and turn it into auditable decisions and safe actions across your existing toolchain. And today...",
+    "url": "https://www.facebook.com/authentise/posts/big-24-hours-for-authentise-yesterday-we-launched-whisper-a-new-way-to-capture-e/1506531227930242/",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise - You don’t need material anymore. Today ... Apr 1, 2026 · Big 24 hours for Authentise 🚀 Yesterday, we launched Whisper - a new way to capture engineering intent and turn it into auditable decisions and safe actions across your existing toolchain.",
+    "url": "https://www.facebook.com/authentise/posts/you-dont-need-material-anymoretoday-were-announcing-a-new-add-on-for-authentise-/1493313605918671/",
+    "pass": 3
+   },
+   {
+    "quote": "Authentise - We’re a TCT Awards 2026 ... - Facebook Feb 26, 2026 · We’re a TCT Awards 2026 Finalist!!! Authentise has been named a finalist in the Software Award category at the TCT Awards 2026. 14 April 2026 Boston, USA To be recognised alongside some of...",
+    "url": "https://www.facebook.com/authentise/posts/-were-a-tct-awards-2026-finalist-authentise-has-been-named-a-finalist-in-the-sof/1464361965480502/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.authentise.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/company-about-us/jobs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/company-about-us/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/solutions/execution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/industries/industrial-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/industries/automotive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/blog/categories/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/company-about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/company-about-us/events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/solutions/intent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/solutions/trust",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/industries/aerospace-defence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/industries/medical-devices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/industries/service-bureaus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/industries/research-innovation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/solutions/flows",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/solutions/whisper",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.authentise.com/post/case-study-authentise-addiguru-advancing-quality-control-in-additive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://static.wixstatic.com/media/6b7541_894695148d014dd1884955afd6ca74ba~mv2.png/v1/fill/w_333,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/6b7541_894695148d014dd1884955afd6ca74ba~mv2.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://static.wixstatic.com/media/6b7541_894695148d014dd1884955afd6ca74ba~mv2.png/v1/fill/w_305,h_229,fp_0.50_0.50,q_95,enc_avif,quality_auto/6b7541_894695148d014dd1884955afd6ca74ba~mv2.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://static.wixstatic.com/media/6b7541_471563f11f4c447ebcaa36d6de28998a~mv2.jpg/v1/fill/w_334,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/6b7541_471563f11f4c447ebcaa36d6de28998a~mv2.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://static.wixstatic.com/media/6b7541_471563f11f4c447ebcaa36d6de28998a~mv2.jpg/v1/fill/w_306,h_229,fp_0.50_0.50,q_90,enc_avif,quality_auto/6b7541_471563f11f4c447ebcaa36d6de28998a~mv2.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.cadjapan.com/news/2023/d20230614_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3druck.com/ja/%E7%94%A3%E6%A5%AD/authentise%E3%81%AF%E3%80%81%E3%83%87%E3%83%BC%E3%82%BF%E9%A7%86%E5%8B%95%E5%9E%8B%E3%81%AEam%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%95%E3%83%AD%E3%83%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%96%B0-2/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/authentise-inc.authentise-mes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/authentise-expands-its-connected-manufacturing-ecosystem-3d-thx7e?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/authentise",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/authentise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/authentise/case-study/how-authentise-have-provided-the-core-industrial-engineering-and-workflow-management-within-their-production-facility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/authentise",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/65832-94",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/authentise/__rSI7DHE_EDKTnnx-1RQZzhjyeW6SUsdgiizNNKLxrSU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zoominfo.com/c/authentise-inc/358106216",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/authentise/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/authentise",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/bdougherty",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/authentise",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/authentise",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/andrepwegner",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/authentise-launches-whisper-agentic-ai-backbone-engineering-txome/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/authentise/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/authentise/posts/big-24-hours-for-authentise-yesterday-we-launched-whisper-a-new-way-to-capture-e/1506531227930242/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/authentise/posts/you-dont-need-material-anymoretoday-were-announcing-a-new-add-on-for-authentise-/1493313605918671/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/authentise/posts/-were-a-tct-awards-2026-finalist-authentise-has-been-named-a-finalist-in-the-sof/1464361965480502/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/authentise/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/authentise",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Authentise 日本 導入",
+   "results": [
+    "https://www.cadjapan.com/news/2023/d20230614_02.html",
+    "https://3druck.com/ja/産業/authentiseは、データ駆動型のamワークフローのための新-2/",
+    "https://marketplace.microsoft.com/ja-jp/product/authentise-inc.authentise-mes",
+    "https://jp.linkedin.com/pulse/authentise-expands-its-connected-manufacturing-ecosystem-3d-thx7e?tl=ja",
+    "https://www.authentise.com/",
+    "https://simvoyage.net/world-news/jesta-introduction-2026/",
+    "https://note.com/yatra_kyoto/n/nd509fc719691"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Authentise 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kimini.online/blog/archives/39927",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://ejje.weblio.jp/content/総代理店",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.qqeng.com/blog2/study/agency.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Authentise Japan",
+   "results": [
+    "https://www.authentise.com/",
+    "https://www.authentise.com/company-about-us",
+    "https://www.authentise.com/ams",
+    "https://jp.linkedin.com/company/authentise",
+    "https://marketplace.microsoft.com/ja-jp/product/authentise-inc.authentise-mes",
+    "https://www.authentise.com/contact-us",
+    "https://www.authentise.com/resources"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Authentise manufacturing customer case study",
+   "results": [
+    "https://www.authentise.com/blog/categories/case-studies",
+    "https://www.authentise.com/post/case-study-authentise-addiguru-advancing-quality-control-in-additive-manufacturing",
+    "https://www.casestudies.com/company/authentise",
+    "https://www.casestudies.com/company/authentise/case-study/how-authentise-have-provided-the-core-industrial-engineering-and-workflow-management-within-their-production-facility",
+    "https://www.featuredcustomers.com/vendor/authentise/case-studies",
+    "https://www.featuredcustomers.com/vendor/authentise",
+    "https://www.linkedin.com/pulse/how-aerospace-leaders-use-additive-manufacturing-case-study-vejfe/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Authentise white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Authentise founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/authentise",
+    "https://pitchbook.com/profiles/company/65832-94",
+    "https://tracxn.com/d/companies/authentise/__rSI7DHE_EDKTnnx-1RQZzhjyeW6SUsdgiizNNKLxrSU",
+    "https://www.zoominfo.com/c/authentise-inc/358106216",
+    "https://acquirezy.com/organization/authentise",
+    "https://getlatka.com/companies/authentise.com",
+    "https://rocketreach.co/authentise-profile_b5edea88f42e7871"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Authentise",
+   "results": [
+    "https://note.com/contest/創作大賞2026",
+    "https://note.com/tag/ポケカ",
+    "https://note.com/dashboard",
+    "https://note.com/tag/スト6",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/spaceygoblin/n/n0f0677188638"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Authentise",
+   "results": [
+    "https://x.com/authentise/with_replies",
+    "https://x.com/",
+    "https://x.com/authentise",
+    "https://x.com/bdougherty",
+    "https://x.com/t_arnpreeest/status/2110113847084560528",
+    "https://x.com/Ayanfe_Baddo/status/2118603771068432473",
+    "https://x.com/_InfoGram_/status/2118253289573949943"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Authentise",
+   "results": [
+    "https://www.linkedin.com/company/authentise",
+    "https://uk.linkedin.com/company/authentise",
+    "https://www.linkedin.com/in/andrepwegner",
+    "https://www.linkedin.com/pulse/authentise-launches-whisper-agentic-ai-backbone-engineering-txome/",
+    "https://www.linkedin.com/pulse/authentise-kform-launch-ddna-unveiling-new-model-defense-innovation-mwhce/",
+    "https://uk.linkedin.com/in/peterjohnharding",
+    "https://de.linkedin.com/pulse/authentise-expands-its-connected-manufacturing-ecosystem-3d-thx7e?tl=de"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Authentise",
+   "results": [
+    "https://www.facebook.com/authentise/",
+    "https://www.facebook.com/authentise/posts/big-24-hours-for-authentise-yesterday-we-launched-whisper-a-new-way-to-capture-e/1506531227930242/",
+    "https://www.facebook.com/authentise/posts/you-dont-need-material-anymoretoday-were-announcing-a-new-add-on-for-authentise-/1493313605918671/",
+    "https://www.facebook.com/authentise/posts/-were-a-tct-awards-2026-finalist-authentise-has-been-named-a-finalist-in-the-sof/1464361965480502/",
+    "https://www.facebook.com/authentise/videos/-did-you-knowweve-seamlessly-integrated-autodesk-fusion-apis-into-authentise-flo/1196798965596278/",
+    "https://www.facebook.com/authentise/videos/going-to-aerospace-xelerated-in-london-next-week-catch-our-vp-of-agile-manufactu/545812213685535/",
+    "https://www.facebook.com/authentise/videos/launch-alerttoday-were-launching-whispera-new-kind-of-infrastructure-for-enginee/1621731766818769/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Authentise note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Authentise X 投稿",
+   "results": [
+    "https://x.com/authentise/with_replies",
+    "https://x.com/authentise",
+    "https://www.authentise.com/",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://www.witha.jp/sns・マーケティング/x-posting-guide-beginners/",
+    "https://addness.co.jp/media/x-publishing-post/",
+    "https://help.x.com/ja/using-x/mentions-and-replies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

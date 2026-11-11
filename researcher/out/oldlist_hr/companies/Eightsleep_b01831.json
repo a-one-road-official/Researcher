@@ -1,0 +1,1334 @@
+{
+ "name": "Eightsleep",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜日本進出済",
+ "researched_at": "2026-11-11T03:36:12.306975+00:00",
+ "official_url": "https://www.eightsleep.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2014年",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "5. Seed Round",
+    "value": "02-Mar-2016    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/112941-64",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "As you sleep, the Pod adjusts temperature to promote deep sleep.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From rapid cooling during hot flashes to gradual shifts through pregnancy, the Pod adjusts with your body every step of the way.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your snoring problem, finally solved",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Taking your profile, preferences, and health app integrations into account, the Pod perfectly cools or heats your side of the bed, starting an hour before your set bedtime.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Pod tracks your sleep stages and environment, adjusting to promote more deep sleep and recovery.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Snoring: detected. Problem: solved.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Pod leads to improved sleep quality.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Pod improves HRV, HR & deep sleep.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Neuroscientist, Stanford professor, and host of the top-ranked “Huberman Lab” podcast.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Neuroscientist, UC Berkeley professor, and author of the #1 bestseller “Why We Sleep.”",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Over one million nights of sleep improved, and counting",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The Pod ended our thermostat battles and gave us perfect sleep temps. No compromise. It’s now key to my performance, from training to focus.”",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "its the best product i own.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Within 3 weeks I started to have big improvements in REM and deep sleep.”",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best product. Protected my sleep through two pregnancies!!",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The Pod stopped my overheating and now I get deep, cool sleep year-round. It powers my focus as a professor and performance as a dancer.”",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional padel player",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“My wife was always cold, I’m always warm. Now we can split [temperature], and that is probably the best feature in the world.”",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional cycling team",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Principal ballerina with The Royal Ballet",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“So much changes when you’re pregnant, and you can definitely feel that. But Eight Sleep helps you see it and map it out.”",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Model and entrepreneur",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ongoing Pod protection for up to 5 years. Warranty terms apply.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We currently ship to the following regions: Australia, Bahrain, Canada, European Union (excluding Cyprus, Greece and Malta), Kuwait, Mexico, Qatar, Saudi Arabia, Switzerland, Singapore, United Kingdom, United Arab Emirates and United States (excluding Alaska, Hawaii, Puerto Rico and other US territories).",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PR (6)",
+    "url": "https://oyasuimee.com/column25091504/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.eightsleep.com/press/",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "https://techcrunch.com/2021/08/30/eight-sleep-raises-86m-as-its-smart-mattress-and-sleep-fitness-technology-approach-500m-valuation/",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.precedenceresearch.com/sleep-tech-devices-market",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn about our recent product updates",
+    "url": "https://help.eightsleep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "What is priming, and when does it happen? When you're setting up your Pod for the first time, you will need to go through a process called priming. The prim...",
+    "url": "https://help.eightsleep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Autopilot? Autopilot is the intelligence behind the Pod. Think of it as a set of proprietary algorithms trained on millions of hours of sleep that under...",
+    "url": "https://help.eightsleep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "As you sleep, the Pod adjusts temperature to promote deep sleep.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "From rapid cooling during hot flashes to gradual shifts through pregnancy, the Pod adjusts with your body every step of the way.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Your snoring problem, finally solved",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Taking your profile, preferences, and health app integrations into account, the Pod perfectly cools or heats your side of the bed, starting an hour before your set bedtime.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "The Pod tracks your sleep stages and environment, adjusting to promote more deep sleep and recovery.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Snoring: detected. Problem: solved.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "The Pod leads to improved sleep quality.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "The Pod improves HRV, HR & deep sleep.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Neuroscientist, Stanford professor, and host of the top-ranked “Huberman Lab” podcast.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Neuroscientist, UC Berkeley professor, and author of the #1 bestseller “Why We Sleep.”",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Over one million nights of sleep improved, and counting",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "“The Pod ended our thermostat battles and gave us perfect sleep temps. No compromise. It’s now key to my performance, from training to focus.”",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "its the best product i own.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "“Within 3 weeks I started to have big improvements in REM and deep sleep.”",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Best product. Protected my sleep through two pregnancies!!",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "“The Pod stopped my overheating and now I get deep, cool sleep year-round. It powers my focus as a professor and performance as a dancer.”",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Professional padel player",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "“My wife was always cold, I’m always warm. Now we can split [temperature], and that is probably the best feature in the world.”",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Professional cycling team",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Principal ballerina with The Royal Ballet",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "“So much changes when you’re pregnant, and you can definitely feel that. But Eight Sleep helps you see it and map it out.”",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Model and entrepreneur",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Ongoing Pod protection for up to 5 years. Warranty terms apply.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "We currently ship to the following regions: Australia, Bahrain, Canada, European Union (excluding Cyprus, Greece and Malta), Kuwait, Mexico, Qatar, Saudi Arabia, Switzerland, Singapore, United Kingdom, United Arab Emirates and United States (excluding Alaska, Hawaii, Puerto Rico and other US territories).",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "How EightSleep Increased Their Speed of Hiring by 30% to Gain a Competitive Advantage with Ashby",
+    "url": "https://www.casestudies.com/customer/eightsleep",
+    "pass": 3
+   },
+   {
+    "quote": "Amperage Marketing & Fundraising",
+    "url": "https://www.casestudies.com/customer/eightsleep",
+    "pass": 3
+   },
+   {
+    "quote": "Ashby Case Study: EightSleep – How EightSleep Increased Their Speed of Hiring by 30% to Gain a Competitive Advantage with Ashby | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/ashby/case-study/how-eightsleep-increased-their-speed-of-hiring-by-30-to-gain-a-competitive-advantage-with-ashby",
+    "pass": 3
+   },
+   {
+    "quote": "How EightSleep Increased Their Speed of Hiring by 30% to Gain a Competitive Advantage with Ashby",
+    "url": "https://www.casestudies.com/company/ashby/case-study/how-eightsleep-increased-their-speed-of-hiring-by-30-to-gain-a-competitive-advantage-with-ashby",
+    "pass": 3
+   },
+   {
+    "quote": "How EightSleep Increased Their Speed of Hiring by 30% to Gain a Competitive Advantage with Ashby | Ashby",
+    "url": "https://www.ashbyhq.com/customers/eightsleep",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by top performers.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by top performers.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by EightSleep",
+    "url": "https://www.casestudies.com/customer/eightsleep",
+    "pass": 3
+   },
+   {
+    "quote": "Ashby Case Study: EightSleep – How EightSleep Increased Their Speed of Hiring by 30% to Gain a Competitive Advantage with Ashby | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/ashby/case-study/how-eightsleep-increased-their-speed-of-hiring-by-30-to-gain-a-competitive-advantage-with-ashby",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how EightSleep used Ashby",
+    "url": "https://www.casestudies.com/company/ashby/case-study/how-eightsleep-increased-their-speed-of-hiring-by-30-to-gain-a-competitive-advantage-with-ashby",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/ashby/case-study/how-eightsleep-increased-their-speed-of-hiring-by-30-to-gain-a-competitive-advantage-with-ashby",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/ashby/case-study/how-eightsleep-increased-their-speed-of-hiring-by-30-to-gain-a-competitive-advantage-with-ashby",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ongoing Pod protection for up to 5 years. Warranty terms apply.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ongoing Pod protection for up to 5 years. Warranty terms apply.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "120+ Employees",
+    "url": "https://www.ashbyhq.com/customers/eightsleep",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep: Employees, Headcount Growth, Org Chart, Layoffs & H1B (2026) | 6figr",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue ~$500M",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep went from 74 employees in Jul 2023 to 87 in Jun 2025. Jan to Jun 2025: 13 people joined, 17 left.",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "The department split adds up all the years listed above. FY2026 alone: 2 filings.",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "190 employees",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "160 employees",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "130 employees",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "72 employees",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "100 employees",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "15K employees",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "14K employees",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "4K employees",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "1.3K employees",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "510 employees",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "420 employees",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Eight Sleep have?",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep has about 87 employees, up 3.6% over the 3 months to Jun 2025.",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "What is Eight Sleep's revenue per employee?",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep makes about $5.75M in revenue per employee, based on $500M annual revenue and 87 employees.",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/112941-64",
+    "pass": 3
+   },
+   {
+    "quote": "Investments & Acquisitions (2)",
+    "url": "https://pitchbook.com/profiles/company/112941-64",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/112941-64",
+    "pass": 3
+   },
+   {
+    "quote": "To view Eight Sleep’s complete investments and acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/112941-64",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep has 175 total employees.",
+    "url": "https://pitchbook.com/profiles/company/112941-64",
+    "pass": 3
+   },
+   {
+    "quote": "What is Eight Sleep’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/112941-64",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Eight Sleep is",
+    "url": "https://pitchbook.com/profiles/company/112941-64",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep Revenue 2024: $60M Est.",
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep has not published its revenue. GetLatka estimates it at about $60M a year (June 2024).",
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep CEO, founders & employees",
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Matteo Franceschetti founded Eight Sleep in 2014 and runs it as CEO. Eight Sleep had 151 employees (January 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Eight Sleep's revenue?",
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Eight Sleep's revenue at about",
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Eight Sleep have?",
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in January 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Eight Sleep have?",
+    "url": "https://fundediq.co/eight-sleep-eightsleep-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/eight-sleep-eightsleep-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/eight-sleep-eightsleep-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "マットレスカバーの機能の詳細や、日本進出の有無、創業の経緯、最新の資金調達まで",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、日本は四季があるため、同社のマットレスカバーが効果を発揮すると予想されます",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "2024年10月現在、エイトスリープのマットレスカバーを日本において購入できる店舗、Webサイトは存在していません",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Matcha Frontier｜抹茶をグローバルブランド化するMATCHAMONの挑戦",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アトム｜双腕二足ヒューマノイドAIロボットで日本のGDPを変える挑戦",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "May Mobility｜トヨタ・NTTが注力する自動運転シャトル開発企業、独自AIと日本展開の全貌",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "【Atomo Coffee】ついに日本上陸！「豆を使わないコーヒー」で持続可能な社会に貢献",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "【ICEYE Japan株式会社】世界最大級の小型SAR衛星データで切り拓く地球観測革命",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "【mgh株式会社】本田圭佑氏ら創業チームが挑む次世代スポーツウェアブランド",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "学校・自治体に広がる“傾聴AI”とは？株式会社ZIAIが実現する新たな心の居場所",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社AIセキュリティソリューションズ】「QuickCheck」でセキュリティチェックシートを自動化",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社パンフォーユー】パンのサブスクとは？独自技術とITでパン屋をDXするスタートアップ！",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleepは、まだ日本で発売されていないので購入することはできないが、そのうち上陸するのではないだろうか？",
+    "url": "https://note.com/shoeg/n/n468794a9a7b7",
+    "pass": 3
+   },
+   {
+    "quote": "自分らしく眠り、自分らしく生きる日本へ",
+    "url": "https://www.makulab.jp/lp/eightsleep/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Eight Sleepの評判は？睡眠を変えるスマートマットレスの実力 oyasuim... — Sep 15, 2025 · Eight Sleep（エイトスリープ）は、アメリカ発のスリープテックブランドとして注目を集めています。特に、温度調整や睡眠トラッキングといった革新的な機能が話題です。この記事では、実際の評判や口コミをもとにEight Sleepの実力を詳しく解説します。",
+    "url": "https://oyasuimee.com/column25091504/",
+    "pass": 3
+   },
+   {
+    "quote": "【Eight Sleep】自動で温度が変化するマットレスカバーを提供する米ス... — Aug 6, 2024 · Eight Sleep社（以下、エイトスリープ）は、アメリカ発のスリープテックのスタートアップです。同社は、体温調節機能を持ち、自動で温度が変化するマットレスカバー「Pod」を提供しています。 特に、最新のマットレスカバー「Pod 4 Ul",
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "pass": 3
+   },
+   {
+    "quote": "睡眠を最強にアップグレード！ベットの温度を最適化して睡眠の質を向... — Jan 8, 2025 · EIght Sleepに全てあやかることはできないが、僕の睡眠をよくしてくれることにこれからも貢献し続けてくれることを楽しみにしています。 Eight Sleepは、まだ日本で発売されていないので購入することはできないが、そのうち上陸するのではないだろうか？",
+    "url": "https://note.com/shoeg/n/n468794a9a7b7",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド枕の店まくらぼの高反発マットレス「eight sleep」 — 全ての人々に8時間の寝心地を。腰痛や肩こり首こりなど、あなたの睡眠のお悩みの原因は寝具かも…。「eight sleep」は、オーダーメイド枕の店「まくらぼ」がお届けする、睡眠にお悩みの皆様におすすめしたい高反発マットレスです。",
+    "url": "https://www.makulab.jp/lp/eightsleep/",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep | Now in Australia — Fall asleep faster and stay asleep longer with personalized cooling and heating for each side of the bed. Pod 6 reduces snoring and works with any mattress.",
+    "url": "https://www.eightsleep.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Support Center — Sep 23, 2026 · Chat & Email Support 24/7 — support@eightsleep.com Phone Support available: (Mon-Fri) 9 AM - 5 PM EST",
+    "url": "https://help.eightsleep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep Pod 6 | Intelligent Bed Cooling & Heating — Fall asleep faster and stay asleep longer with personalized cooling and heating for each side of the bed. Pod 6 reduces snoring and works with any mattress.",
+    "url": "https://www.eightsleep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep | The Pillow — Premium memory foam meets a proprietary temperature-regulating gel to absorb and dissipate heat away from the body. Its air ventilation system, encased in a high-quality removable cover, increases airflow and breathability.",
+    "url": "https://www.eightsleep.com/product/pillow",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How EightSleep Uses Software & Services — Explore case studies featuring EightSleep as the customer — learn how vendors and partners helped EightSleep solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/eightsleep",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Eight Sleep—Revolutionizing Sleep with Smart ... — Feb 21, 2025 · This case study explores how Eight Sleep built a tech-first approach to sleep, disrupted the mattress industry, and became a must-have tool for peak performance.",
+    "url": "https://www.linkedin.com/pulse/case-study-eight-sleeprevolutionizing-sleep-smart-karina-gerszberg-dupsf",
+    "pass": 3
+   },
+   {
+    "quote": "Ashby Case Study: EightSleep – How EightSleep Increased Their ... — EightSleep partnered with Ashby (Computer Software) to solve key challenges. \"How EightSleep Increased Their Speed of Hiring by 30% to Gain a Competitive Advantage with Ashby\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/ashby/case-study/how-eightsleep-increased-their-speed-of-hiring-by-30-to-gain-a-competitive-advantage-with-ashby",
+    "pass": 3
+   },
+   {
+    "quote": "How EightSleep Increased Their Speed of Hiring by 30% ... - Ashby — Customer story How EightSleep Increased Their Speed of Hiring by 30% to Gain a Competitive Advantage with Ashby Story from Quincy Liu Chief of Staff With a line of products devoted to empowering better sleep with tracking and reporting, the Eight Sleep team were no strangers to the power of accurate data in driving better decision",
+    "url": "https://www.ashbyhq.com/customers/eightsleep",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories | Eight Sleep - air.inc — May 11, 2026 · Khoi Phan is the executive creative director at Eight Sleep—a sleep technology company that sits at the intersection of hardware, software, and a fiercely loyal community of athletes and biohackers. He oversees brand and creative across the full calendar: product launches, partnerships, market expansions, global campaigns.",
+    "url": "https://air.inc/resources/customer-stories-eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep: Employees, Headcount Growth, Org Chart, Layoffs ... — Eight Sleep is an American company founded in 2014 in San Francisco, specializing in \"sleep fitness\" to enhance sleep quality through technology-driven products. The company gained initial funding through a crowdfunding campaign in 2015 and has since raised over $150 million from notable investors, achieving a valuation of around $",
+    "url": "https://6figr.com/company/eight-sleep",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep 2026 Company Profile: Valuation, Funding ...Eight Sleep Revenue 2024: $60M Est. - getlatka.comReport: Eight Sleep Business Breakdown & Founding Story ...Eight Sleep: Funding, Investors & Team (Oct 2026) - FundedIQEight Sleep: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and executives for Eight Sleep. Use the PitchBook Platform ",
+    "url": "https://pitchbook.com/profiles/company/112941-64",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep Revenue 2024: $60M Est. - getlatka.com — Aug 10, 2026 · Eight Sleep 2024 estimated revenue: $60M. 151 employees. Founded 2014. HQ: United States. Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep: Funding, Investors & Team (Oct 2026) - FundedIQ — Eight Sleep: Funding, Investors & Team (Oct 2026) Eight Sleep is a company known for developing innovative sleep technology and products. Their flagship product, the Pod, is a smart sleep system that automatically adjusts temperature, elevation, and sound according to biometric data.",
+    "url": "https://fundediq.co/eight-sleep-eightsleep-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Eight Sleep was founded in 2014 by Massimo Andreasi Bassi (Founder/CTO) and Alexandra Zatarain (Founder/CMO) and Matteo Franceschetti (Founder/CEO). How much funding has Eight Sleep raised?",
+    "url": "https://startupintros.com/orgs/eight-sleep",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Chat & Email Support 24/7 — support@eightsleep.com",
+    "url": "https://help.eightsleep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Email Support Available 24/7",
+    "url": "https://help.eightsleep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Email support@eightsleep.com",
+    "url": "https://help.eightsleep.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/112941-64",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Eight Sleep team: 1 of 2 have an email address on file, 1 has a LinkedIn profile.",
+    "url": "https://fundediq.co/eight-sleep-eightsleep-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/eight-sleep-eightsleep-com-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "It sounds obvious, but it’s super important to trust and understand the data behind your hiring process because without it you can lose sight of targets, miss out on great hires, and fail to catch anomalies or coaching opportunities for hiring managers that could hurt your brand. I haven’t seen any other system that can do it with the level of ease and flexibility that Ashby can.",
+    "url": "https://www.ashbyhq.com/customers/eightsleep",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【スマートマットレスが変える睡眠革命：Eight Sleep「Pod」で自動温... Feb 17, 2025 · ごきげんよう～。生成AI×睡眠研究家のヴィヴィアン・スリープよ。今回ご紹介したいのは、米国発スタートアップのEight Sleep社が開発した「Pod」というスマートマットレス。なんと、このマットレスは就寝中の温度を自動調整し、心拍や呼吸までもモニタリングして、ユーザーの睡眠を最適化し ...",
+    "url": "https://note.com/neko_no_sippo1/n/nba28a304249e",
+    "pass": 3
+   },
+   {
+    "quote": "元アスリートCEOが挑む、テクノロジー×睡眠の未来 Mar 20, 2025 · 近年、「睡眠の質」を高めることの重要性は、健康やビジネスパフォーマンスにおいてますます注目を集めています。世界的にも数多くの企業や専門家が睡眠改善テクノロジーに取り組む中、今回取り上げるのが「Eight Sleep（エイトスリープ）」という革新的な企業です。CEOであるMatteo ...",
+    "url": "https://note.com/startup_now0708/n/n6f82b74a0e36",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【スマートマットレスが変える睡眠革命：Eight Sleep「Pod」で自動温度調整＆AIモニタリング】｜【睡眠×AI研究家】ヴィヴィアン・スリープ",
+    "url": "https://note.com/neko_no_sippo1/n/nba28a304249e",
+    "pass": 3
+   },
+   {
+    "quote": "【スマートマットレスが変える睡眠革命：Eight Sleep「Pod」で自動温度調整＆AIモニタリング】",
+    "url": "https://note.com/neko_no_sippo1/n/nba28a304249e",
+    "pass": 3
+   },
+   {
+    "quote": "【睡眠×AI研究家】ヴィヴィアン・スリープ",
+    "url": "https://note.com/neko_no_sippo1/n/nba28a304249e",
+    "pass": 3
+   },
+   {
+    "quote": "ごきげんよう～。生成AI×睡眠研究家のヴィヴィアン・スリープよ。今回ご紹介したいのは、米国発スタートアップのEight Sleep社が開発した「Pod」というスマートマットレス。なんと、このマットレスは就寝中の温度を自動調整し、心拍や呼吸までもモニタリングして、ユーザーの睡眠を最適化してくれるんですって。眠りの質をAIで高める時代が来るとは…もうSFみたいよね！",
+    "url": "https://note.com/neko_no_sippo1/n/nba28a304249e",
+    "pass": 3
+   },
+   {
+    "quote": "1. AI×マットレス：具体的にどんな仕組み？",
+    "url": "https://note.com/neko_no_sippo1/n/nba28a304249e",
+    "pass": 3
+   },
+   {
+    "quote": "通常のマットレスと違って、Podの内部には",
+    "url": "https://note.com/neko_no_sippo1/n/nba28a304249e",
+    "pass": 3
+   },
+   {
+    "quote": "とセンサー類が搭載されているの。寝ている間に心拍や呼吸など生体信号を検知し、それに応じてマットレス表面の温度を変化させるってわけ。例えば、深夜にはマットレスをややクーリングして深い眠りを促し、朝方には温度を少し上げて、さらに振動を加えて穏やかに起こしてくれるの。",
+    "url": "https://note.com/neko_no_sippo1/n/nba28a304249e",
+    "pass": 3
+   },
+   {
+    "quote": "体温の変動が睡眠の深さと密接に関わってるのは、睡眠科学でよく知られているわ。人間は夜に深部体温を下げることで眠気が強まるし、朝に体温が上昇し始めると自然と目覚めに近づくのよ。この仕組みをAIが自動でサポートするってわけね。",
+    "url": "https://note.com/neko_no_sippo1/n/nba28a304249e",
+    "pass": 3
+   },
+   {
+    "quote": "元アスリートCEOが挑む、テクノロジー×睡眠の未来｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n6f82b74a0e36",
+    "pass": 3
+   },
+   {
+    "quote": "元アスリートCEOが挑む、テクノロジー×睡眠の未来",
+    "url": "https://note.com/startup_now0708/n/n6f82b74a0e36",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n6f82b74a0e36",
+    "pass": 3
+   },
+   {
+    "quote": "近年、「睡眠の質」を高めることの重要性は、健康やビジネスパフォーマンスにおいてますます注目を集めています。世界的にも数多くの企業や専門家が睡眠改善テクノロジーに取り組む中、今回取り上げるのが「",
+    "url": "https://note.com/startup_now0708/n/n6f82b74a0e36",
+    "pass": 3
+   },
+   {
+    "quote": "」という革新的な企業です。CEOであるMatteo Franceschetti（マテオ・フランチェスケッティ）は元アスリートであり、「眠り」に対する情熱と科学的アプローチを融合させて、睡眠を“次の次元”へと進化させようと試みています。本記事では、彼が創業した",
+    "url": "https://note.com/startup_now0708/n/n6f82b74a0e36",
+    "pass": 3
+   },
+   {
+    "quote": "の特徴や事業背景、そして自らも実践している具体的な睡眠改善方法までをわかりやすく解説します。",
+    "url": "https://note.com/startup_now0708/n/n6f82b74a0e36",
+    "pass": 3
+   },
+   {
+    "quote": "1. なぜ睡眠パフォーマンスを最大化する必要があるのか",
+    "url": "https://note.com/startup_now0708/n/n6f82b74a0e36",
+    "pass": 3
+   },
+   {
+    "quote": "「健康の三大要素」として挙げられるのが睡眠・栄養・運動です。なかでも睡眠は健康の土台にあたり、質の良い睡眠なくして効率的な運動や食事管理を維持するのは難しいと言われています。実際に睡眠不足が続くと、血糖値の乱高下やインスリン抵抗性が高まり、食欲が制御しにくくなることがわかっています。また、集中力や記憶力、メンタル面にも影響が出やすく、結果的に仕事や学習のパフォーマンスに大きく支障をきたします。",
+    "url": "https://note.com/startup_now0708/n/n6f82b74a0e36",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Eight Sleep (@eightsleep) / X It’s official 🤠💤 The @dallascowboys are now recovering on the Pod. @eightsleep is the new Official Sleep and Recovery Partner of the Dallas Cowboys and the Dallas Cowboys Cheerleaders, a multi-year partnership already built into their recovery program. NFL games are faster Show more",
+    "url": "https://x.com/eightsleep",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep on X: \"Introducing Pod 6. The sixth generation of ... Introducing Pod 6. The sixth generation of our award-winning sleep system. The new Hub is small enough to fit under your bed frame More powerful than ever With 9x more sensors for enhanced accuracy In new Solo sizes, at our lowest starting price yet Get yours today at eightsleep.com",
+    "url": "https://x.com/eightsleep/status/2102729393260855566",
+    "pass": 3
+   },
+   {
+    "quote": "Matteo Franceschetti (@m_franceschetti) / X CEO & Co-founder @eightsleep. Using AI to build the future of sleep and longevity. Padel enthusiast on the side.",
+    "url": "https://x.com/m_franceschetti",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep on X: \"Before Pod 6 was public, @charles_leclerc ... Before Pod 6 was public, @charles_leclerc visited our San Francisco office to see what we were working on, test it for himself, and give us his honest feedback. Months later, we got to show him the finished Pod 6. Six generations of learning, packed into our smallest Pod yet. Proud to have Charles…",
+    "url": "https://x.com/eightsleep/status/2104941127551844497",
+    "pass": 3
+   },
+   {
+    "quote": "Bryan Johnson on X: \"@Ilovefreedom76 @eightsleep, it's listed ... Bryan Johnson @bryan_johnson @eightsleep, it's listed on the blueprint website 🤝 4:37 PM · Jul 25, 2023 · 11.4K Views",
+    "url": "https://x.com/bryan_johnson/status/1683879265740394496",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep (@eightsleep) / X It’s official 🦅💤 The Seattle Seahawks are now recovering on the Pod. Eight Sleep is the new Official Sleep Technology & Recovery Partner of the @Seahawks, a multi-year partnership built into their recovery program as they defend their title. Playing out of the Pacific Show more",
+    "url": "https://x.com/eightsleep",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Eight Sleep - LinkedIn Eight Sleep | 47,855 followers on LinkedIn. The sleep fitness company. | Eight Sleep is the world’s first sleep fitness company. Our mission is to fuel human potential through optimal sleep. We ...",
+    "url": "https://www.linkedin.com/company/eight--",
+    "pass": 3
+   },
+   {
+    "quote": "Matteo Franceschetti - Co-Founder & CEO of Eight Sleep | LinkedInAlexandra Zatarain - Co-Founder at Eight Sleep | LinkedInNicolas C. - CFO @ Eight Sleep | LinkedInEight Sleep raises $100M to create AI for sleep and longevity ...Sabina Blankenberg - Brand & Comms @ Eight Sleep | LinkedInKathleen Ryan - Eight Sleep | LinkedIn Matteo is the Co-Founder and CEO of Eight Sleep, the sleep fitness company",
+    "url": "https://www.linkedin.com/in/matteofranceschetti",
+    "pass": 3
+   },
+   {
+    "quote": "Alexandra Zatarain - Co-Founder at Eight Sleep | LinkedInNicolas C. - CFO @ Eight Sleep | LinkedInEight Sleep raises $100M to create AI for sleep and longevity ...Sabina Blankenberg - Brand & Comms @ Eight Sleep | LinkedInKathleen Ryan - Eight Sleep | LinkedIn Oct 8, 2012 · Alexandra Zatarain is the Co-Founder and VP of Brand and Marketing of Eight Sleep, the world's first sleep fitness company. A",
+    "url": "https://www.linkedin.com/in/alexandrazatarain/en",
+    "pass": 3
+   },
+   {
+    "quote": "Nicolas C. - CFO @ Eight Sleep | LinkedInEight Sleep raises $100M to create AI for sleep and longevity ...Sabina Blankenberg - Brand & Comms @ Eight Sleep | LinkedInKathleen Ryan - Eight Sleep | LinkedIn CFO @ Eight Sleep · CFO @ Eight Sleep Eight Sleep is the first sleep fitness company. At Eight Sleep we design products at the forefront of sleep innovation. Our mission is to make people’s ... Wh",
+    "url": "https://www.linkedin.com/in/nicolaschammas",
+    "pass": 3
+   },
+   {
+    "quote": "Matteo Franceschetti - Co-Founder & CEO of Eight Sleep | LinkedInEight Sleep Org Chart + Executive Team - The Official BoardスリープテックのEight Sleepが148億円を資金調達。スマートマットレ...How Eight Sleep Built a $1.5B Business Without Making MattressesEight Sleep — founder & CEO Matteo Franceschetti · $1.5BInterview with Eight Sleep CEO, Matteo Franceschetti Matteo is the Co-Founder and CEO of Eight Sleep, the sleep fi",
+    "url": "https://www.linkedin.com/in/matteofranceschetti",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Eight - FacebookWhatever your sleep challenge, the Pod meets you there The ...Pod 5 transforms any bed into an intelligent, adaptive ...Pod 6 is the sixth generation of our intelligent sleep system ...Eight - Pod 6 is the sixth generation of our intelligent ...Pod 5 transforms any bed into an intelligent, adaptive ...Eight Sleep Labs - Facebook Oct 25, 2026 · It's official 🤠💤 The Dallas Cowboys ar",
+    "url": "https://www.facebook.com/eightsleep/",
+    "pass": 3
+   },
+   {
+    "quote": "Eight Sleep Labs - Facebook Welcome to Eight Sleep Labs! This is a place where you can interact with the Eight Sleep product team and meet fellow members of the Eight Sleep community. Help us define the future of sleep and get early access to beta features. Feedback and questions always welcome! If you are a Pod owner and would like to join our beta community, please fill out the survey linked wit",
+    "url": "https://www.facebook.com/groups/eightsleeplabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Eight - Pod 6 is the sixth generation of our intelligent ... Sep 23, 2026 · Introducing Pod 6. The sixth generation of our award- winning sleep system. The new Hub is small enough to fit under your bed frame More powerful than ever With 9x more sensors for enhanced accuracy In new Solo sizes, at our lowest starting price yet Get yours today at eightsleep.com Introducing Pod 6.",
+    "url": "https://www.facebook.com/eightsleep/posts/pod-6-is-the-sixth-generation-of-our-intelligent-sleep-system-redesigned-for-eve/1399522745678718/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.eightsleep.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://oyasuimee.com/column25091504/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shoeg/n/n468794a9a7b7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makulab.jp/lp/eightsleep/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.eightsleep.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.eightsleep.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.makulab.jp/lp/eightsleep/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/eightsleep",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/case-study-eight-sleeprevolutionizing-sleep-smart-karina-gerszberg-dupsf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/ashby/case-study/how-eightsleep-increased-their-speed-of-hiring-by-30-to-gain-a-competitive-advantage-with-ashby",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ashbyhq.com/customers/eightsleep",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://6figr.com/company/eight-sleep",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/112941-64",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/eightsleep.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/eight-sleep-eightsleep-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/neko_no_sippo1/n/nba28a304249e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/n6f82b74a0e36",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/eightsleep",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/eightsleep/status/2102729393260855566",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/m_franceschetti",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/eightsleep/status/2104941127551844497",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/eight--",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/matteofranceschetti",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/alexandrazatarain/en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nicolaschammas",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/eightsleep/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/eightsleeplabs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/eightsleep/posts/pod-6-is-the-sixth-generation-of-our-intelligent-sleep-system-redesigned-for-eve/1399522745678718/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/matteofranceschetti",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/bryan_johnson/status/1683879265740394496",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/eightsleep",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Eightsleep 日本 導入",
+   "results": [
+    "https://oyasuimee.com/column25091504/",
+    "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "https://note.com/shoeg/n/n468794a9a7b7",
+    "https://www.makulab.jp/lp/eightsleep/",
+    "https://www.eightsleep.jp/",
+    "https://aipure.ai/jp/products/eightsleep",
+    "https://tech-matome.com/archives/5734"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Eightsleep 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Eightsleep Japan",
+   "results": [
+    "https://help.eightsleep.com/",
+    "https://www.eightsleep.jp/",
+    "https://www.makulab.jp/lp/eightsleep/",
+    "https://www.eightsleep.com/",
+    "https://www.eightsleep.com/product/pillow",
+    "https://www.nvv.genai.co.jp/2024/08/eight-sleep/",
+    "https://oyasuimee.com/column25091504/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Eightsleep manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/eightsleep",
+    "https://www.linkedin.com/pulse/case-study-eight-sleeprevolutionizing-sleep-smart-karina-gerszberg-dupsf",
+    "https://www.casestudies.com/company/ashby/case-study/how-eightsleep-increased-their-speed-of-hiring-by-30-to-gain-a-competitive-advantage-with-ashby",
+    "https://www.ashbyhq.com/customers/eightsleep",
+    "https://air.inc/resources/customer-stories-eight-sleep",
+    "https://research.contrary.com/company/eight-sleep",
+    "https://www.notboring.co/p/eight-sleep"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Eightsleep white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Eightsleep founded funding employees revenue",
+   "results": [
+    "https://6figr.com/company/eight-sleep",
+    "https://pitchbook.com/profiles/company/112941-64",
+    "https://getlatka.com/companies/eightsleep.com",
+    "https://fundediq.co/eight-sleep-eightsleep-com-funding/",
+    "https://startupintros.com/orgs/eight-sleep",
+    "https://compworth.com/company/eight",
+    "https://research.contrary.com/company/eight-sleep"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Eightsleep",
+   "results": [
+    "https://note.com/neko_no_sippo1/n/nba28a304249e",
+    "https://note.com/shoeg/n/n468794a9a7b7",
+    "https://note.com/startup_now0708/n/n6f82b74a0e36",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/in_house_engi/n/n7d7d82625013",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/habibee/n/n50a8b6a6ca51"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Eightsleep",
+   "results": [
+    "https://x.com/eightsleep",
+    "https://x.com/eightsleep/status/2102729393260855566",
+    "https://x.com/m_franceschetti",
+    "https://x.com/eightsleep/status/2104941127551844497",
+    "https://x.com/eightsleep/status/2103151593642238022",
+    "https://x.com/eightsleep/status/2030135319098708385",
+    "https://x.com/eightsleep/status/2095516192387510342"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Eightsleep",
+   "results": [
+    "https://www.linkedin.com/company/eight--",
+    "https://www.linkedin.com/in/matteofranceschetti",
+    "https://www.linkedin.com/in/alexandrazatarain/en",
+    "https://www.linkedin.com/in/nicolaschammas",
+    "https://www.linkedin.com/in/sabinablankenberg",
+    "https://www.linkedin.com/in/kathleeneryan",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7363576413775405056/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Eightsleep",
+   "results": [
+    "https://www.facebook.com/eightsleep/",
+    "https://www.facebook.com/groups/eightsleeplabs/",
+    "https://www.facebook.com/eightsleep/videos/eight-sleep-designed-for-deep-sleep-personalized-to-you/1054888920386119/",
+    "https://www.facebook.com/eightsleep/posts/pod-6-is-the-sixth-generation-of-our-intelligent-sleep-system-redesigned-for-eve/1399522745678718/",
+    "https://www.facebook.com/eightsleep/videos/designed-for-deep-sleep-personalized-to-you/2830419900658731/",
+    "https://www.facebook.com/eightsleep/videos/eight-sleep-pod-6-a-smaller-pod-for-bigger-dreams/1579322593374665/",
+    "https://www.facebook.com/eightsleep/videos/the-pod-adapts-to-your-body-in-real-time-as-you-sleep/1064623329785647/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Eightsleep note 社長",
+   "results": [
+    "https://www.eightsleep.com/blog/author/eightmatteofranceschetti/",
+    "https://www.linkedin.com/in/matteofranceschetti",
+    "https://www.theofficialboard.com/org-chart/eight-sleep",
+    "https://www.atx-research.co.jp/contents/eight-sleep",
+    "https://www.inc.com/bryan-elliott/eight-sleep-business-model-strategy/91418593",
+    "https://siliconvalleyinvestclub.com/companies/eight-sleep/",
+    "https://www.bayareatimes.com/p/interview-eight-sleep-ceo-matteo-franceschetti-4d26"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Eightsleep X 投稿",
+   "results": [
+    "https://x.com/bryan_johnson/status/1683879265740394496",
+    "https://www.instagram.com/eightsleep/",
+    "https://space.bilibili.com/3632316068924151/video",
+    "https://x.com/eightsleep",
+    "https://help.eightsleep.com/",
+    "https://www.eightsleep.com/",
+    "https://www.eightsleep.com/careers/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

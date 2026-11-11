@@ -1,0 +1,944 @@
+{
+ "name": "Embotech",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜送付済み",
+ "researched_at": "2026-11-11T03:01:58.733039+00:00",
+ "official_url": "https://embotech.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "Giessereistrasse 18 8005 Zurich , Switzerland",
+    "url": "https://www.nabtesco.com/news/20241220-16043/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "Giessereistrasse 18 8005 Zurich , Switzerland",
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2013年",
+    "url": "https://www.nabtesco.com/news/20241220-16043/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2013年",
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "https://player.vimeo.com/video/1202805711?h=03220c499d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Embotech’s Autonomous Tractor Solution (ATS) delivers human-like driving precision with the flexibility required for complex port and yard logistics. Our technology is designed for seamless operation in mixed traffic environments and has been proven in all weather conditions.",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Embotech’s Automated Vehicle Marshalling (AVM) is the first infrastructure-based vehicle marshalling solution operating in serial production. It supports the full range of vehicle movement tasks in automotive factories and vehicle logistics centers.",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "https://player.vimeo.com/progressive_redirect/playback/1092410296/rendition/1080p/file.mp4?loc=external&signature=e1cb9fa76606583196de157998ec35a06f07a5a7070119b8fe3286856a854d16",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-based prediction, motion planning, and learning-based methods help vehicles make intelligent decisions in complex environments, while a deterministic safety layer certified by TÜV SÜD provides the foundation for safe and reliable operation. This combination enables certified safety with >99.5% availability in 24/7 production.",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored for mixed traffic, high-precision use cases, and real-time obstacle detection, our technology has been proven in factories, yards, and ports.",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "BMW Group and Embotech reach production milestone.",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Emboinsights - Fourth Edition: How AI enhances motion planning and prediction in complex industrial environments",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Product & Platform Engineering",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Product & Platform Strategy",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Conduct in-depth user research to reveal market opportunities and incorporate user preferences and behavioral insights to guide digital solution development.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Product Design",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Design immersive, user-centric digital products that drive growth by leveraging our experience design and product strategy capabilities.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Elevate user adoption, retention, and loyalty by making every touchpoint users have with your digital product or platform frictionless.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Improve operational efficiency and mitigate technical risk by objectively analyzing and assessing your technology assets.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Modernization",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Forward-thinking software and hardware engineering to reimagine your digital solutions and build the right products faster.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Product Development",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Bring your product vision to life from concept to launch with user-centered experience design and world-class digital engineering.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Product Due Diligence",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Identify potential gaps in your product development lifecycle to establish a solid foundation for scalable, value-driven digital products and growth.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Prioritize continuous digital product improvement with comprehensive maintenance, performance optimization, and feature enhancements.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Embed emerging technologies into your digital products to boost performance, enhance user experiences, and unlock new functionality.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "P&D empowers HTEC teams and clients with best practices, strategies, and insights for product design and development.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "HTEC specialized units and subsidiaries, provide concentrated solutions to help clients address challenges requiring depth of expertise in a specific domain.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "HTEC Momentum is an award-winning agency specializing in UI/UX design and product innovation.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Software & Platforms",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore HTEC’s global presence, from our headquarters to consultancy and development centers. Discover the diverse local flavors of each location.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Product Evolution",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "HTEC, a global technology and AI engineering company headquartered in Silicon Valley, and Embotech, a global leader in safety-certified Level 4 autonomous driving solutions for industrial logistics, today announced a strategic partnership to scale deployment of Embotech’s autonomous driving solutions across vehicle platforms, customer programmes and industrial sites.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "The partnership comes as Embotech’s proven autonomous driving solutions are being adopted across a growing number of vehicle platforms and industrial sites. At this stage, scaling deployments efficiently matters as much as advancing the technology itself.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "is a global technology and engineering firm headquartered in Silicon Valley, delivering AI-first, full-stack solutions that move organizations from strategy to production in a repeatable way. Combining premium engineering talent with digital strategy, design, and venture-building capabilities, HTEC supports the entire product lifecycle—from ideation to deployment.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "The precision advantage.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "Apollo.io API Pricing",
+    "url": "https://growjo.com/company/embotech",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Automated Vehicle Marshalling for Automotive OEMs and Logistics Centers",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Embotech’s Automated Vehicle Marshalling (AVM) is the first infrastructure-based vehicle marshalling solution operating in serial production. It supports the full range of vehicle movement tasks in automotive factories and vehicle logistics centers.",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Embotech delivers an AI-powered autonomy stack built on a dual-path architecture for safety-critical industrial autonomy.",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored for mixed traffic, high-precision use cases, and real-time obstacle detection, our technology has been proven in factories, yards, and ports.",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Emboinsights - Fourth Edition: How AI enhances motion planning and prediction in complex industrial environments",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "HTEC and Embotech Partner to Scale Deployment of Autonomous Driving Solutions for Industrial Logistics | HTEC",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "HTEC and Embotech Partner to Scale Deployment of Autonomous Driving Solutions for Industrial Logistics",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "HTEC, a global technology and AI engineering company headquartered in Silicon Valley, and Embotech, a global leader in safety-certified Level 4 autonomous driving solutions for industrial logistics, today announced a strategic partnership to scale deployment of Embotech’s autonomous driving solutions across vehicle platforms, customer programmes and industrial sites.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "The partnership comes as Embotech’s proven autonomous driving solutions are being adopted across a growing number of vehicle platforms and industrial sites. At this stage, scaling deployments efficiently matters as much as advancing the technology itself.",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "“Our physical AI-enabled autonomy technology is already operating 24/7 in customer environments, and demand for Level 4 autonomous solutions continues to grow across industrial logistics,” says Andreas Kyrtatos, Embotech’s CEO. “HTEC adds the engineering expertise to make deployments faster and easier to scale across vehicle platforms and multiple sites.”",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Automated Vehicle Marshalling for Automotive OEMs and Logistics Centers",
+    "url": "https://embotech.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "バッテリー内製化に関する主要OEMの最新動向をまとめて",
+    "url": "https://www.marklines.com/ja/news/347387",
+    "pass": 3
+   },
+   {
+    "quote": "ValeoとQNX、スマートカメラプラットフォームで協業 中国の複数OEMで採用獲得",
+    "url": "https://www.marklines.com/ja/news/347387",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "NTV、日本のロボティクス企業LOMBYに出資-セブンイレブン・ジャパンとの自動配送の社会実装を支援",
+    "url": "https://nabtesco-ventures.com/ja/embotech/",
+    "pass": 3
+   },
+   {
+    "quote": "産業物流向け自動運転ソリューションを提供するEmbotech社に出資 | ニュース | ナブテスコ株式会社",
+    "url": "https://www.nabtesco.com/news/20241220-16043/",
+    "pass": 3
+   },
+   {
+    "quote": "ナブテスコ株式会社（本社：東京都千代田区、社長：木村和正）は、コーポレート・ベンチャー・キャピタルとして設立した",
+    "url": "https://www.nabtesco.com/news/20241220-16043/",
+    "pass": 3
+   },
+   {
+    "quote": "2003年に帝人製機株式会社と株式会社ナブコの統合により誕生",
+    "url": "https://www.nabtesco.com/news/20241220-16043/",
+    "pass": 3
+   },
+   {
+    "quote": "「SEMICON Japan 2026」出展のお知らせ",
+    "url": "https://www.nabtesco.com/news/20241220-16043/",
+    "pass": 3
+   },
+   {
+    "quote": "大日本印刷と渋谷センター街で実証実験を開始",
+    "url": "https://www.nabtesco.com/news/20241220-16043/",
+    "pass": 3
+   },
+   {
+    "quote": "HUDメーカーに液晶ディスプレイを売り込みたく、日本国内のコンタクト先の会社名、組織名、責任者名をリスト化して",
+    "url": "https://www.marklines.com/ja/news/347387",
+    "pass": 3
+   },
+   {
+    "quote": "タイ投資委員会、11月の日本ロードショーで半導体・先端産業投資を誘致へ",
+    "url": "https://www.marklines.com/ja/news/347387",
+    "pass": 3
+   },
+   {
+    "quote": "〒106-0032 東京都港区六本木7-15-9",
+    "url": "https://www.marklines.com/ja/news/347387",
+    "pass": 3
+   },
+   {
+    "quote": "NTV、日本のロボティクス企業LOMBYに出資-セブンイレブン・ジャパンとの自動配送の社会実装を支援",
+    "url": "https://nabtesco-ventures.com/ja/embotech-investment/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "J-MAX、バッテリーケースなど手掛ける中国子会社を完全子会社化 電動車向け事業強化",
+    "url": "https://www.marklines.com/ja/news/347387",
+    "pass": 3
+   },
+   {
+    "quote": "embotech: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/embotech",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/embotech",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/embotech",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/embotech",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/embotech",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "ntv_contact@nabtesco-ventures.com",
+    "url": "https://nabtesco-ventures.com/ja/embotech-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/embotech",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/embotech",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Embotech - Nabtesco Technology Ventures — Embotech - Nabtesco Technology Ventures Nabtesco Technology Ventures https://nabtesco-ventures.com > embotech",
+    "url": "https://nabtesco-ventures.com/ja/embotech/",
+    "pass": 3
+   },
+   {
+    "quote": "産業物流向け自動運転ソリューションを提供する Embotech 社 ... — 産業物流向け自動運転ソリューションを提供する Embotech 社 ... ナブテスコ株式会社 https://www.nabtesco.com > news",
+    "url": "https://www.nabtesco.com/news/20241220-16043/",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転システムのスタートアップ企業 Embotech 社に出資 — 自動運転システムのスタートアップ企業 Embotech 社に出資 Nabtesco Technology Ventures https://nabtesco-ventures.com > embotech-investment",
+    "url": "https://nabtesco-ventures.com/ja/embotech-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "産業物流向け自動運転ソリューションを提供する Embotech 社 ... — 産業物流向け自動運転ソリューションを提供する Embotech 社 ... note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "pass": 3
+   },
+   {
+    "quote": "Swiss precision, global impact Media Coverage - Embotech — Swiss precision, global impact Media Coverage - Embotech Embotech https://embotech.com > news > swiss-...",
+    "url": "https://embotech.com/news/swiss-precision-global-impact",
+    "pass": 3
+   },
+   {
+    "quote": "Embotech - LinkedIn — Embotech - LinkedIn LinkedIn Schweiz https://ch.linkedin.com > embotech",
+    "url": "https://ch.linkedin.com/company/embotech",
+    "pass": 3
+   },
+   {
+    "quote": "HTEC and Embotech Partner to Scale Deployment of ... — HTEC and Embotech Partner to Scale Deployment of ... HTEC https://htec.com > media-coverage",
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "pass": 3
+   },
+   {
+    "quote": "embotech 2026 Company Profile - PitchBook — embotech 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/277237-27",
+    "pass": 3
+   },
+   {
+    "quote": "embotech : Revenue , Competitors, Alternatives - Growjo — embotech : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > embotech",
+    "url": "https://growjo.com/company/embotech",
+    "pass": 3
+   },
+   {
+    "quote": "Invest In Embotech Stock | Buy Pre-IPO Shares - EquityZen — Invest In Embotech Stock | Buy Pre-IPO Shares - EquityZen EquityZen https://equityzen.com > embotech",
+    "url": "https://equityzen.com/company/embotech/",
+    "pass": 3
+   },
+   {
+    "quote": "Embotech - Crunchbase Company Profile & Funding — Embotech - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > embot...",
+    "url": "https://www.crunchbase.com/organization/embotech",
+    "pass": 3
+   },
+   {
+    "quote": "Emerald leads CHF 23.5 M investment in Embotech ... — Emerald leads CHF 23.5 M investment in Embotech ... Emerald Technology Ventures https://emerald.vc > emerald-leads-ch...",
+    "url": "https://emerald.vc/emerald-leads-chf-235-m-investment-embotech-autonomous-driving-innovator",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "産業物流向け自動運転ソリューションを提供する Embotech 社 ... 産業物流向け自動運転ソリューションを提供する Embotech 社 ... note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ナブテスコ、産業物流向け自動運転ソリューションを提供する Embotech社に出資｜kikai-news.net 産機通信",
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "pass": 3
+   },
+   {
+    "quote": "ナブテスコ、産業物流向け自動運転ソリューションを提供する Embotech社に出資",
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "pass": 3
+   },
+   {
+    "quote": "は12月20日、コーポレート・ベンチャー・キャピタルとして設立した Nabtesco Technology Ventures L.P. を通じて、 産業物流向けの自動運転ソリューションを提供するスイスの",
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "pass": 3
+   },
+   {
+    "quote": "Embotech社は完成車物流向けの AVM*（自動車両誘導システム）ソリューションと、港湾およびヤード物流向けの ATT*(自動ターミナルトラック)ソリューションを提供するスタートアップ企業。",
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "pass": 3
+   },
+   {
+    "quote": "今日の物流業界は、世界的にドライバー不足が深刻化していることに加え、脱炭素化に向けた活",
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "pass": 3
+   },
+   {
+    "quote": "動も必要となり、これらの課題に対し、Embotech社は独自の高精度自動運転ソリューションを提",
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "pass": 3
+   },
+   {
+    "quote": "供することで、物流業界の課題解決や効率化に取り組んでいる。",
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "pass": 3
+   },
+   {
+    "quote": "AVM は BMWと長期契約を締結し、自動車の生産工程での車両の工場間移動における自動誘導運転を実現している。また、ATTはヨーロッパ最大の港湾で複雑な混合交通状況での自動運転の実証試験に成功し、今後の大規模な展開に向けて準備を進めている。",
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# Embotech - Search / X # Embotech - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/Embotech",
+    "pass": 3
+   },
+   {
+    "quote": "EMMANUEL MICHEAL (@EMBOTECH) / Posts / X EMMANUEL MICHEAL (@EMBOTECH) - Posts - | X (formerly Twitter) EMBOTECH Location: ENUGU Joined: Apr 29, 2013 0 0 0",
+    "url": "https://x.com/embotech",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Embotech - LinkedIn Embotech - LinkedIn LinkedIn Schweiz https://ch.linkedin.com > embotech",
+    "url": "https://ch.linkedin.com/company/embotech",
+    "pass": 3
+   },
+   {
+    "quote": "Giorgio Corbellini – Chief Operating Officer at Embotech Giorgio Corbellini – Chief Operating Officer at Embotech LinkedIn Schweiz https://ch.linkedin.com > gcorbellini",
+    "url": "https://ch.linkedin.com/in/gcorbellini",
+    "pass": 3
+   },
+   {
+    "quote": "Andreas Kyrtatos – Chief Executive Officer at embotech AG Andreas Kyrtatos – Chief Executive Officer at embotech AG LinkedIn Schweiz https://ch.linkedin.com > ...",
+    "url": "https://ch.linkedin.com/in/andreas-kyrtatos-b42041b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "BMW y Embotech superan un millón de movimientos ... BMW y Embotech superan un millón de movimientos ... Facebook https://www.facebook.com > Diariobitcoin > posts",
+    "url": "https://www.facebook.com/Diariobitcoin/posts/-bmw-y-embotech-superan-el-mill%C3%B3n-de-movimientos-automatizadosel-sistema-opera-e/1812861060844227/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://embotech.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://nabtesco-ventures.com/ja/embotech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nabtesco.com/news/20241220-16043/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marklines.com/ja/news/347387",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nabtesco-ventures.com/ja/embotech-investment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nabtesco.com/news/20241220-16043/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nabtesco-ventures.com/ja/embotech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marr.jp/genre/topics/news/entry/56897",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nabtesco-ventures.com/ja/embotech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ch.linkedin.com/company/embotech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJtK5nvtUNYyjh5wZ5E0Viu2aivHH9HbHMjfHFIwjh5eWU22aZT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appliedmfg.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automate.org/ai/industry-insights/case-studies-ai-advanced-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/embotech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://equityzen.com/company/embotech/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/277237-27",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/embotech",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/Embotech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/embotech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/company/embotech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/gcorbellini",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/andreas-kyrtatos-b42041b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Diariobitcoin/posts/-bmw-y-embotech-superan-el-mill%C3%B3n-de-movimientos-automatizadosel-sistema-opera-e/1812861060844227/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Embotech 日本 導入",
+   "results": [
+    "https://nabtesco-ventures.com/ja/embotech/",
+    "https://www.nabtesco.com/news/20241220-16043/",
+    "https://www.marklines.com/ja/news/347387",
+    "https://nabtesco-ventures.com/ja/embotech-investment/",
+    "https://www.jetro.go.jp/biznews/2022/08/de113b95525c325b.html",
+    "https://www.trucknews.biz/article/q122309/",
+    "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "https://embotech.ai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Embotech 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.nabtesco.com/news/20241220-16043/",
+    "https://nabtesco-ventures.com/ja/embotech/",
+    "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "https://www.marr.jp/genre/topics/news/entry/56897",
+    "https://nabtesco-ventures.com/ja/embotech-investment/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4701",
+    "https://www.nabtesco.com/cms/wp-content/uploads/0309a6406673ccf128e71e5668ecd13d.pdf",
+    "https://www.cardiovascular.abbott/jp/ja/customer-service.html",
+    "https://www.marubeni-automotive.co.jp/business/import/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Embotech Japan",
+   "results": [
+    "https://nabtesco-ventures.com/ja/embotech/",
+    "https://embotech.com/news/swiss-precision-global-impact",
+    "https://ch.linkedin.com/company/embotech",
+    "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "https://pitchbook.com/profiles/company/277237-27",
+    "https://www.nabtesco.com/en/news/20241220-16049/",
+    "https://www.youtube.com/watch?v=nijXkKsZiLA",
+    "https://www.crunchbase.com/organization/embotech",
+    "https://www.dcvelocity.com/transportation/trucking/autonomous-trucks/swiss-self-driving-car-firm-embotech-raises-27-million",
+    "https://embotech.ai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Embotech manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJtK5nvtUNYyjh5wZ5E0Viu2aivHH9HbHMjfHFIwjh5eWU22aZT",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://appliedmfg.com/case-studies/",
+    "https://www.automate.org/ai/industry-insights/case-studies-ai-advanced-manufacturing",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://www.advantech.com/en-us/resources/case-study/explore-success-stories-for-smart-manufacturing",
+    "https://www.intechopen.com/chapters/87328",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.bakerhughes.com/industrial-technology/additive-manufacturing/case-study",
+    "https://embotech.ai/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Embotech white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://elfsight.com/affiliate-program/articles-saas-white-label/",
+    "https://evincedev.com/blog/a-detailed-guide-to-white-label-reseller-program-to-grow-your-existing-business/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Embotech founded funding employees revenue",
+   "results": [
+    "https://growjo.com/company/embotech",
+    "https://equityzen.com/company/embotech/",
+    "https://pitchbook.com/profiles/company/277237-27",
+    "https://www.crunchbase.com/organization/embotech",
+    "https://emerald.vc/emerald-leads-chf-235-m-investment-embotech-autonomous-driving-innovator",
+    "https://www.dcvelocity.com/transportation/trucking/autonomous-trucks/swiss-self-driving-car-firm-embotech-raises-27-million",
+    "https://embotech.ai/news/story-financinground",
+    "https://vestbee.com/insights/articles/embotech-secures-25-m",
+    "https://www.startupticker.ch/en/news/embotech-receives-chf-23-5-m-in-funding-to-expand-autonomous-driving-solutions-for-logistics",
+    "https://tracxn.com/d/companies/embotech/__1A5yMTXgdJOWKbJsGiNrBhe0v9wgjtmnCjfbuCtnDdM"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Embotech",
+   "results": [
+    "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "https://note.com/carnorama_japan/n/n19feb2d48b7b",
+    "https://note.com/george9999/n/nbab81374298e",
+    "https://note.com/george9999/n/nbab81374298e?hl=ko",
+    "https://note.com/rita_robotics/n/ndb8bf4c2bb20",
+    "https://note.com/geoscience16",
+    "https://note.com/rita_robotics/n/ndb8bf4c2bb20?hl=en",
+    "https://note.com/jitsuwa_knuckles/n/na1bc6473d976",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Embotech",
+   "results": [
+    "https://x.com/hashtag/Embotech",
+    "https://x.com/DiarioBitcoin/status/2117226999399743583",
+    "https://x.com/startuptickerCH",
+    "https://x.com/embotech",
+    "https://x.com/XSeyvion/status/2115066064593649699",
+    "https://x.com/lukas_m_ziegler/status/2009617123245519065",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/CynicalPublius/status/2112251120060117499",
+    "https://x.com/PicturesFoIder/status/2118185223867560198"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Embotech",
+   "results": [
+    "https://ch.linkedin.com/company/embotech",
+    "https://ch.linkedin.com/in/gcorbellini",
+    "https://ch.linkedin.com/in/andreas-kyrtatos-b42041b",
+    "https://www.linkedin.com/pulse/motion-planning-autonomous-driving-done-optimal-way-how-stefano-longo",
+    "https://www.linkedin.com/posts/aleksander-klak-222a9978_swiss-company-embotech-is-one-of-the-most-activity-7520808569487745024-XFmT",
+    "https://www.linkedin.com/posts/embotech_embotech-industrialautonomy-driverlessvehicles-activity-7520777913416187904-_vmU",
+    "https://www.linkedin.com/posts/embotech_embotech-ready-to-roll-out-autonomous-tractors-activity-7521215984813330432-UK3s",
+    "https://www.linkedin.com/company/embotech",
+    "https://de.linkedin.com/company/embotech",
+    "https://www.linkedin.com/pulse/embonews-q3-2026-embotech-b6wze"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Embotech",
+   "results": [
+    "https://www.facebook.com/motor1com/posts/automated-driving-in-plant-now-runs-at-four-bmw-group-factories-logging-about-35/1565848895575566/",
+    "https://www.facebook.com/61590957563448/videos/emerging-technologies-daily-report-november-5-2026-bmw-embotech-1-million-in-pla/1444549814521826/",
+    "https://www.facebook.com/BMWGroup/posts/driverless-in-production-what-started-as-a-startup-collaboration-has-grown-into-/1137532451744068/",
+    "https://www.facebook.com/Diariobitcoin/posts/-bmw-y-embotech-superan-el-mill%C3%B3n-de-movimientos-automatizadosel-sistema-opera-e/1812861060844227/",
+    "https://www.facebook.com/synthpeek/posts/these-bmws-move-without-a-driverone-million-automated-factory-movements-around-3/122116443405499370/",
+    "https://www.facebook.com/BMWStartupGarage/",
+    "https://www.facebook.com/PortalPortuario/photos/eurogate-y-embotech-completaron-un-proyecto-piloto-para-mostrar-las-soluciones-d/1340408464763006/",
+    "https://www.facebook.com/61590957563448/videos/october-23-2026-emerging-technologies-daily-report-covering-industrial-automatio/2168572570419829/",
+    "https://www.facebook.com/CardinalHealthInc/videos/teams-at-our-us-medical-distribution-centers-in-edison-nj-and-waukegan-ill-are-c/847785616972592/",
+    "https://www.facebook.com/p/Embo-Goodness-100077535427086/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Embotech note 社長",
+   "results": [
+    "https://www.nabtesco.com/news/20241220-16043/",
+    "https://nabtesco-ventures.com/ja/embotech-investment/",
+    "https://note.com/sankituushin/n/n7c4a86ba12a1",
+    "https://embotech.com/news/swiss-precision-global-impact",
+    "https://selfdrivenews.com/embotech-secures-27m-for-logistics-automation/",
+    "https://note.com/kentakato212/m/me837e4663584",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.marklines.com/ja/news/347387",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://embotech.ai/team"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Embotech X 投稿",
+   "results": [
+    "https://www.nabtesco.com/news/20241220-16043/",
+    "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology/",
+    "https://www.hesaitech.com/embotech-collaborates-with-outsight-and-hesai-to-power-technology-for-automated-vehicle-marshalling-avm-systems/",
+    "https://embotech.ai/",
+    "https://www.linkedin.com/posts/embotech_embotech-ready-to-roll-out-autonomous-tractors-activity-7521215984813330432-UK3s",
+    "https://equityzen.com/company/embotech/",
+    "https://htec.com/insights/media-coverage/htec-and-embotech-partner-to-scale-deployment-of-autonomous-driving-solutions-for-industrial-logistics/",
+    "https://www.youtube.com/watch?v=nijXkKsZiLA",
+    "https://x.com/hashtag/embotech",
+    "https://x.com/WorldCargoNews/status/2115342970342007072"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

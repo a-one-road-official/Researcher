@@ -1,0 +1,1186 @@
+{
+ "name": "Openchip",
+ "aliases": [],
+ "context": "旧営業リスト｜Semiconductors｜送付済み",
+ "researched_at": "2026-11-11T03:16:19.563875+00:00",
+ "official_url": "https://openchip.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "High-Performance Chips Vector and AI For the most demanding environments HPC – DC – Cloud Best performance per watt Carbon footprint reduction Data privacy Cloud security Edge and IoT Versatile SoCs Home devices LLM-based AI models",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Highly scalable architectures for AI & HPC workloads from cloud to premise to edge. Powered by chiplet-based, RISC-V open and modular chip technology. Orchestrated by an AI OS that runs both monolithic as well as tomorrow’s highly agentic workloads.",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A powerful stack of features aimed to protect both application and data all the way down to the hardware level for training, finetuning and inference. From model attestation and secure enclaves to ensuring guardrails to keep AI in check. All at peak performance.",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced technology, smart resource optimization & compression techniques to allow AI & HPC that drastically reduce power consumption where possible.",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Openchip has been selected by the European Commission as an Important Project of Common European Interest (IPCEI) to design a family of accelerator chips that ensure European sovereignty in advanced computing.",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This initiative is part of the Recovery, Transformation and Resilience Plan promoted by the Spanish Government, with the support of all public administrations.",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Translation of the original Spanish article. By Therese Jamaa, Vice President of Strategic Alliances at Openchip Barcelona, September 8, 2026.- Every September 8, International Literacy Day reminds us that…",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The companies signed a Memorandum of Understanding (MoU) to optimize enterprise Linux and Kubernetes software for European-designed RISC-V processors. Luxembourg and Barcelona, June 25, 2026.- SUSEⓇ, a global leader of…",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Barcelona, April 29, 2026.- Great to be back at the OCP EMEA Summit 2026 in Barcelona (April 28–29), which once again confirmed its role as a key event in the…",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainability is not a once-a-year conversation. It is embedded in how we design, collaborate and grow. This year’s Earth Day, celebrated globally on April 22, was another opportunity to reinforce…",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Spain (Madrid – Representative office)",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "España (Madrid – Oficina de Representación)",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Política de Privacidad",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Espanya (Madrid – Oficina de Representació)",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Política de Privacitat",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "unified fabric to develop specialized intelligent compute systems for next-generation AI workloads. Baya’s",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "WeaverPro™ FabricStudio",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "“The fundamental challenges facing AI hardware today—scalability, thermal efficiency, and uncompromised performance—cannot be solved with legacy, siloed design methodologies,” said",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": ". “The communication layer between memory and compute is the critical connective tissue of the AI stack. Without the right interconnect fabric, the entire system underperforms. Our collaboration with Openchip validates Baya’s approach: enabling designers to solve the data movement problem explicitly and early.”",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership also underscores a shared commitment to the open, flexible RISC-V ecosystem, allowing Openchip to deliver highly tailored, customized accelerator solutions without the constraints or steep royalties of proprietary architectures.",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": ". “Baya’s data-movement platform provides the architectural foundation we need to deliver scalable, next-generation computing platforms. We welcome Baya’s expanding presence in Europe and look forward to driving the future of RISC-V innovation together.”",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "Spain (Madrid – Representative office)",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "España (Madrid – Oficina de Representación)",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "Política de Privacidad",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "Espanya (Madrid – Oficina de Representació)",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "Política de Privacitat",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "with the aim of developing microprocessor technology and ensuring European digital sovereignty.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The EU acknowledges Europe’s dependence on foreign countries for the design, production and acquisition of microchips. It also sets the goal of moving toward digital sovereignty and global leadership in the face of powers such as Asia and the United States.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Operations launch with strong hiring and intensive planning efforts.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Over 200 professionals, mostly in R&D. New EU HPC-VEC grants expected.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "A multicultural and fully European project, with presence in",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "A project born from collaboration",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "For over 30 years, GTD has offered first-class engineering in software, communications and control. It implements both products and turnkey solutions for the world’s most demanding sectors: aerospace, security, defense, logistics, energy and science.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "scientific and societal progress",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Spain (Madrid – Representative office)",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "España (Madrid – Oficina de Representación)",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Política de Privacidad",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Espanya (Madrid – Oficina de Representació)",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Política de Privacitat",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Openchip provides integrated hardware, software and system solutions for high-performance computing",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": ", with the European Commission promoting it as a foundation for building digital and economic leadership.",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "without the constraints of proprietary architectures.",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "of over 4,500 members in 70 countries, fostering rapid, collaborative progress.",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "A proven standard across computing",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Spain (Madrid – Representative office)",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "España (Madrid – Oficina de Representación)",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Política de Privacidad",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Espanya (Madrid – Oficina de Representació)",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Política de Privacitat",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Jordi Girona, 29, 3ª planta",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Jordi Girona, 29, 3ª planta",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "in chip design, manufacturing and packaging.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": ", Openchip’s solutions accelerate research in genomics, climate science, astrophysics, energy, aerospace, and advanced simulations, driving a high-impact social transformation.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "For over 30 years, GTD has offered first-class engineering in software, communications and control. It implements both products and turnkey solutions for the world’s most demanding sectors: aerospace, security, defense, logistics, energy and science.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Jordi Girona, 29, 3ª planta",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "HPC Supercomputing Artificial Intelligence Cloud Telecommunications Automotive Healthcare Meteorology",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Jordi Girona, 29, 3ª planta",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Kubernetes plugins and operators for SUSE Rancher Prime to support fleet management, observability, and scaled container deployments on Openchip hardware.",
+    "url": "https://openchip.com/suse-and-openchip-partner-to-develop-sovereign-european-risc-v-hardware-and-open-source-software-stack/",
+    "pass": 1
+   },
+   {
+    "quote": "A secure machine learning and inference platform pairing the SUSE AI Factory stack with Openchip’s RISC-V accelerators and inference software — built for data and model residency, strict application safety, and fully sovereign deployment.",
+    "url": "https://openchip.com/suse-and-openchip-partner-to-develop-sovereign-european-risc-v-hardware-and-open-source-software-stack/",
+    "pass": 1
+   },
+   {
+    "quote": "The platform is designed to serve as infrastructure for data center modernization, localized AI and supercompute rollouts, and compliance overhauls for European public sector organizations, healthcare networks, defense agencies, and critical infrastructure operators.",
+    "url": "https://openchip.com/suse-and-openchip-partner-to-develop-sovereign-european-risc-v-hardware-and-open-source-software-stack/",
+    "pass": 1
+   },
+   {
+    "quote": "Openchip was selected by the European Commission as an Important Project of Common European Interest (IPCEI ME/CT) to support European industrial deployment across the microelectronics value chain, backed by €111M in EU NextGen Funds and the €240M DARE project. SUSE reinforces this foundation with its existing portfolio of enterprise Linux deployment.",
+    "url": "https://openchip.com/suse-and-openchip-partner-to-develop-sovereign-european-risc-v-hardware-and-open-source-software-stack/",
+    "pass": 1
+   },
+   {
+    "quote": "Jordi Girona, 29, 3ª planta",
+    "url": "https://openchip.com/suse-and-openchip-partner-to-develop-sovereign-european-risc-v-hardware-and-open-source-software-stack/",
+    "pass": 1
+   },
+   {
+    "quote": "LLNL Partners with Diamond Quanta to Break Barriers in Semiconductor Manufacturing",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "SCSP Commission Calls for Expanded US Quantum Deployment and Manufacturing",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "And Germany’s Quintarious is building a RISC-V chip for auto and industrial uses.",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "Europe’s AI Factories Are Switching On – And Raw Power Won’t Decide the Race",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the right size for an AI factory? Around the world, the answer is...",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the right size for an AI factory? Around the world, the answer is increasingly counted in gigawatts. Europe is...",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "Matching Signal and Power Connectors to Robotic and Other High-Density Industrial Applications",
+    "url": "https://thevoltpost.com/openchip-ber10-linux-risc-v-chip-sub-2nm-gaa/",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip has rolled out BER10, a fully functional, Linux-capable 64-bit processor built on a leading-edge sub-2nm Gate-All-Around (GAA) manufacturing process. Designed and developed in Europe, BER10 is positioned as industrial-grade silicon for banks, hospitals, public institutions and other critical sectors that need control over the hardware running their most sensitive data.",
+    "url": "https://thevoltpost.com/openchip-ber10-linux-risc-v-chip-sub-2nm-gaa/",
+    "pass": 3
+   },
+   {
+    "quote": "has been designed, controlled and licensed outside the continent. Every hospital, bank, factory and public body that wants to run modern, AI-powered workloads has had to rely on foundations it doesn’t own and can’t fully inspect.",
+    "url": "https://thevoltpost.com/openchip-ber10-linux-risc-v-chip-sub-2nm-gaa/",
+    "pass": 3
+   },
+   {
+    "quote": "Renesas Announces New Integrated MPUs for Robotics and Industrial Equipment",
+    "url": "https://thevoltpost.com/openchip-ber10-linux-risc-v-chip-sub-2nm-gaa/",
+    "pass": 3
+   },
+   {
+    "quote": "Everything You Need to Know About Infineon’s World-First 300mm GaN Plant",
+    "url": "https://thevoltpost.com/openchip-ber10-linux-risc-v-chip-sub-2nm-gaa/",
+    "pass": 3
+   },
+   {
+    "quote": "FPT Fires Up 300M-Capacity Chip Testing Plant in Vietnam",
+    "url": "https://thevoltpost.com/openchip-ber10-linux-risc-v-chip-sub-2nm-gaa/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial & Robotics",
+    "url": "https://riscv.org/blog/v-questions-with-openchips-cesc-guim-and-marc-fernandez/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "This initiative is part of the Recovery, Transformation and Resilience Plan promoted by the Spanish Government, with the support of all public administrations.",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of a full-stack team building",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://openchip.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "pass": 1
+   },
+   {
+    "quote": "The EU acknowledges Europe’s dependence on foreign countries for the design, production and acquisition of microchips. It also sets the goal of moving toward digital sovereignty and global leadership in the face of powers such as Asia and the United States.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://openchip.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://openchip.com/suse-and-openchip-partner-to-develop-sovereign-european-risc-v-hardware-and-open-source-software-stack/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://openchip.com/suse-and-openchip-partner-to-develop-sovereign-european-risc-v-hardware-and-open-source-software-stack/",
+    "pass": 1
+   },
+   {
+    "quote": "ISC 2027 Opens Call for Nominations for the Jack Dongarra Award",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "LLNL Partners with Diamond Quanta to Break Barriers in Semiconductor Manufacturing",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "New silicon is just part of the company’s plan, and the entire platform will be designed around principles of sustainability, scalability, and safety, according to Cesc Guim, the CEO and co-founder of Openchip, who spent 17 years at Intel and five years at BCS.",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "As part of Openchip’s partnership with NEC, the two companies completed a feasibility study to run Openchip’s processors in NEC Aurora, which uses PCIe-based vector engines as AI accelerators. The test was a success, and now the companies are moving forward to further refining their integration and seeking their first pilot customers.",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "The AI infrastructure conversation has shifted as AI inference becomes a larger part of workloads...",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "SC26 is where the HPC community comes together to make technological and research progress, enlighten and empower all people, eliminate barriers to opportunities, chart the course for computing’s impact in",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "SC26 is where the HPC community comes together to make technological and research progress, enlighten and empower all people, eliminate barriers to opportunities, chart the course for computing’s impact in the world – and we have fun doing it!",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "BER10 is built on RISC-V, an open instruction set architecture not owned by any single company or country.",
+    "url": "https://thevoltpost.com/openchip-ber10-linux-risc-v-chip-sub-2nm-gaa/",
+    "pass": 3
+   },
+   {
+    "quote": "R&S, Pegatron Verify FR3 Phased Array MIMO Performance For 6G, Satellite Links",
+    "url": "https://thevoltpost.com/openchip-ber10-linux-risc-v-chip-sub-2nm-gaa/",
+    "pass": 3
+   },
+   {
+    "quote": "ADI Closes Alif Acquisition, Scaling Low-Power Microcontrollers",
+    "url": "https://thevoltpost.com/openchip-ber10-linux-risc-v-chip-sub-2nm-gaa/",
+    "pass": 3
+   },
+   {
+    "quote": "In early 2024, Openchip began building its team, tools, and IP from scratch, with work beginning on BER10 soon after. Less than two years later, Cesc and Marc had taken a team of 350-plus employees, across Spain, Italy, Poland, Belgium, France, Germany, and Ireland, to tapeout.",
+    "url": "https://riscv.org/blog/v-questions-with-openchips-cesc-guim-and-marc-fernandez/",
+    "pass": 3
+   },
+   {
+    "quote": "Of course, overall everyone was very excited. But the joke I made when we took it out of the box was that now I have a saucer for my coffee. It’s one thing to get the first silicon back from the foundry, but then you have to do the bring-up, power-on, testing… I think it was about three weeks after the chip arrived that we actually booted the OS. Our first port of call was of course to run DOOM.",
+    "url": "https://riscv.org/blog/v-questions-with-openchips-cesc-guim-and-marc-fernandez/",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/711292-15",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip has 300 total employees.",
+    "url": "https://pitchbook.com/profiles/company/711292-15",
+    "pass": 3
+   },
+   {
+    "quote": "What is Openchip’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/711292-15",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Openchip is",
+    "url": "https://pitchbook.com/profiles/company/711292-15",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Openchip have?",
+    "url": "https://fundediq.co/openchip-openchip-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/openchip-openchip-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/openchip-openchip-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": ", particularly in major powers such as the United States, Taiwan, China, Japan and Korea.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The creation of links and alliances with partners in countries such as Japan and the United States",
+    "url": "https://openchip.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "スペインOpenchipが2nm GAAプロセスで作ったRISC-Vプロセッサ「BER10」を発表 | EDA EXPRESS｜日本初！EDAツールのポータルサイト",
+    "url": "https://eda-express.com/risc-v/46913/",
+    "pass": 3
+   },
+   {
+    "quote": "The collaboration between Spain’s Openchip and Japan’s NEC reached the next level this week, when the two entities announced they’re ready to move forward with plans to co-develop new vector processing unit (VPU) cards based on the open RISC-V architecture to run inside of Aurora, NEC’s HPC system that features a hybrid scalar-vector design.",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "The platform is designed to serve as infrastructure for data center modernization, localized AI and supercompute rollouts, and compliance overhauls for European public sector organizations, healthcare networks, defense agencies, and critical infrastructure operators.",
+    "url": "https://openchip.com/suse-and-openchip-partner-to-develop-sovereign-european-risc-v-hardware-and-open-source-software-stack/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "スペインOpenchipが2nm GAAプロセスで作ったRISC-Vプロセッサ「BER10... — 2026年7月30日、スペインの半導体ベンダのOpenchipは、RISC-Vベースの64ビット・プロセッサ「BER10」を発表した。 プレスリリース Openchipは、スペインのエンジニアリング企業GTD Systems and Software Engineeringと、Barcelona Supercomputing Centerによる共同プロジェクトとして2021年に設立されたファブレス半導体 ...",
+    "url": "https://eda-express.com/risc-v/46913/",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip | Enabling the Digital World — Openchip is a full-stack system on chip and software innovator for AI & HPC European systems company integrating in-house designed, high-performance RISC-V–based accelerators and systems on chip (SoC) and innovative, full-stack software into full-scale compute systems for AI and HPC.",
+    "url": "https://openchip.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip and NEC Moving Ahead with RISC-V VPUs for Aurora — Nov 13, 2025 · The collaboration between Spain’s Openchip and Japan’s NEC reached the next level this week, when the two entities announced they’re ready to move forward with plans to co-develop new vector processing unit (VPU) cards based on the open RISC-V architecture to run inside of Aurora, NEC’s HPC system that features a hybrid sca",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Openchip — By integrating hardware, software, and system co-design, Openchip’s solutions accelerate research in genomics, climate science, astrophysics, energy, aerospace, and advanced simulations, driving a high-impact social transformation.",
+    "url": "https://openchip.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip and NEC advance their collaboration | Anshul Saxena — OPENCHIP & SOFTWARE TECHNOLOGIES and NEC, Japan are co-developing a new high-performance accelerator card and a unified software stack for the world’s most demanding AI and HPC workloads!",
+    "url": "https://www.linkedin.com/posts/mr-aksaxena_openchip-and-nec-advance-their-collaboration-activity-7395024858826465280-1f2Z",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip | Enabling the Digital World — European systems company integrating in-house designed, high-performance RISC-V–based accelerators and systems on chip (SoC) and innovative, full-stack software into full-scale compute systems for AI and HPC. We drive innovation and autonomous development for European digital sovereignty, with security, scalability and sustainability at heart.",
+    "url": "https://openchip.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip and NEC advance their collaboration on next ... — Nov 13, 2025 · Barcelona / Tokyo – 13 November, 2025. Openchip, a pioneering Europe-born company in the design of high-performance accelerator chips for advanced computing applications, and NEC Corporation, a global leader in IT and network technologies, announced the next stage of their strategic collaboration aimed at co-developing a nex",
+    "url": "https://openchip.com/openchip-and-nec-advance-their-collaboration-on-next-generation-vector-accelerator/",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip | Enabling the Digital World — At Openchip, International Girls in ICT Day offered a valuable opportunity to open our doors, inspire future generations and introduce them to the world of technology.",
+    "url": "https://openchip.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to OpenChip | OpenChip — OpenChip - Open Source Chip Documentation Hub",
+    "url": "https://www.openchipdoc.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip and NEC Advance Collaboration on Next-Gen Vector ... — Nov 13, 2025 · BARCELONA, Spain and TOKYO, Nov. 13, 2025 — Openchip, a pioneering Europe-born company in the design of high-performance accelerator chips for advanced computing applications, and NEC Corporation, a global leader in IT and network technologies, announced the next stage of their strategic collaboration aimed at co-develo",
+    "url": "https://www.newsbreak.com/news/4346474086442-openchip-and-nec-advance-collaboration-on-next-gen-vector-accelerator",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip and NEC Moving Ahead with RISC-V VPUs for Aurora — Nov 13, 2025 · As part of Openchip’s partnership with NEC, the two companies completed a feasibility study to run Openchip’s processors in NEC Aurora, which uses PCIe-based vector engines as AI accelerators. The test was a success, and now the companies are moving forward to further refining their integration and seeking their first pilot",
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip BER10, a RISC-V Chip on Sub-2nm GAA Process — Jul 30, 2026 · Openchip has rolled out BER10, a fully functional, Linux-capable 64-bit processor built on a leading-edge sub-2nm Gate-All-Around (GAA) manufacturing process. Designed and developed in Europe, BER10 is positioned as industrial-grade silicon for banks, hospitals, public institutions and other critical sectors that need control ov",
+    "url": "https://thevoltpost.com/openchip-ber10-linux-risc-v-chip-sub-2nm-gaa/",
+    "pass": 3
+   },
+   {
+    "quote": "V Questions with… Openchip’s Cesc Guim and Marc Fernández — Sep 17, 2026 · ‘V Questions with…’ seeks to uncover the backstory to a RISC-V member’s latest work in five questions. Here, I talk to Cesc Guim and Marc Fernández, the duo behind BER10 – the European sovereign silicon chip that Barcelona’s Openchip taped out in under two years.",
+    "url": "https://riscv.org/blog/v-questions-with-openchips-cesc-guim-and-marc-fernandez/",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip 2026 Company Profile: Valuation, Funding & Investors ...Openchip: Funding, Investors & Team (Nov 2026) | FundedIQOpenchip — venture-backed company profile | DealroomOpenchip - Overview, News & Similar companies | ZoomInfo.comOpenchip - Crunchbase Company Profile & FundingSpain’s Openchip lands €115 million SETT investment to ...Openchip €115.8M Series C+ Funding (2026) | Investors ... — O",
+    "url": "https://pitchbook.com/profiles/company/711292-15",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip: Funding, Investors & Team (Nov 2026) | FundedIQ — Openchip is an Artificial Intelligence company in Barcelona, Spain. Raised $131M across 1 round; latest round Jun 2026. Investors and funding history.",
+    "url": "https://fundediq.co/openchip-openchip-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip — venture-backed company profile | Dealroom — Openchip — semiconductors HQ in Barcelona, Spain. Founded 2024. Valuation $500M–1B. Funding, backers, footprint, and company profile on Dealroom.",
+    "url": "https://dealroom.co/companies/openchip/",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip - Overview, News & Similar companies | ZoomInfo.com — View Openchip (www.openchip.com) location in Barcelona, Spain , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/openchip/1339213595",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip - Crunchbase Company Profile & Funding — Openchip designs RISC-V-based SoCs and AI accelerators for HPC, AI, ML, and deep learning applications.",
+    "url": "https://www.crunchbase.com/organization/openchip",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/711292-15",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/openchip-openchip-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Hiroshi Komoda on X: \"スペインOpenchipが2nm GAAプロセスで作ったRI... スペインOpenchipが2nm GAAプロセスで作ったRISC-Vプロセッサ「BER10」を発表 https://t.co/dmZTALuO7h #Semiconductors #Semiconductor #半導体",
+    "url": "https://x.com/EDAExpress/status/2084420360511115685",
+    "pass": 3
+   },
+   {
+    "quote": "The EU is pouring billions into AI sovereignty ... They also have a live pipeline : -> Openchip partnership already producing (€4M IP license + €10M services), and Openchip just signed NEC in Japan -> New €10M+ contract being finalized with \"an AI & HPC infrastructure leader\" over 18 months -> Plus royalties on the final chips produced -> 2026 guidance: double-digit revenue growth and ...",
+    "url": "https://x.com/noegrs_research/status/2048016171925188789",
+    "pass": 3
+   },
+   {
+    "quote": "Radio Intereconomía on X: \" ACS negocia su entrada en ... Radio Intereconomía on X: \"🔌 ACS negocia su entrada en Openchip junto al Gobierno y la Generalitat de Catalunya La constructora y firma de servicios ACS mantiene conversaciones avanzadas para incorporarse al accionariado de Openchip and Software Technologies, según han confirmado fuentes del mercado. Esta tecnológica española, especializada",
+    "url": "https://x.com/rintereconomia/status/2076600883056459863",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "OPENCHIP & SOFTWARE TECHNOLOGIES | LinkedIn Openchip is a European company that develops and produces powerful and efficient accelerators. These devices are essential for the digital transformation of Europe, as they enable faster and ...",
+    "url": "https://www.linkedin.com/company/openchip-software-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "OPENCHIP & SOFTWARE TECHNOLOGIES: Jobs | LinkedIn OPENCHIP & SOFTWARE TECHNOLOGIES | 12,084 followers on LinkedIn. Enabling the Digital World | Openchip is a European company that develops and produces powerful and efficient accelerators. These ...",
+    "url": "https://www.linkedin.com/company/openchip-software-technologies/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Tommaso Vali - Chief of Hardware Engineering Officer | LinkedInFrancesc Guim PhD - Chief Executive Officer | Sustainability ...Igor Perić - OPENCHIP & SOFTWARE TECHNOLOGIES | LinkedInNico Naas – Thermal Mechanical Architect @ OPENCHIP | Cooling ...Alan Hynes - OPENCHIP & SOFTWARE TECHNOLOGIES | LinkedIn Chief of Hardware Engineering Officer · I’m Chief of Hardware Engineering Officer at OpenChip, ",
+    "url": "https://it.linkedin.com/in/tommaso-vali-94246545",
+    "pass": 3
+   },
+   {
+    "quote": "Francesc Guim PhD - Chief Executive Officer | Sustainability ...Igor Perić - OPENCHIP & SOFTWARE TECHNOLOGIES | LinkedInNico Naas – Thermal Mechanical Architect @ OPENCHIP | Cooling ...Alan Hynes - OPENCHIP & SOFTWARE TECHNOLOGIES | LinkedIn Chief Executive Officer | Sustainability Advocate | Democratizing AI | Empowering citizens to control their data · System and Platform Architect, Tehnology pa",
+    "url": "https://es.linkedin.com/in/francesc-guim",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Openchip Openchip - Facebook Openchip Openchip is on Facebook. Join Facebook to connect with Openchip Openchip and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/p/Openchip-Openchip-61550727160269/",
+    "pass": 3
+   },
+   {
+    "quote": "Openchip - Facebook Sep 15, 2023 · Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/Openchip-138163289374994/",
+    "pass": 3
+   },
+   {
+    "quote": "Open Chip - Facebook Open Chip is on Facebook. Join Facebook to connect with Open Chip and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/open.chip.2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Invest - Openchip invests in Pomerania – a new player in the ... Mar 25, 2025 · Openchip invests in Pomerania – a new player in the semiconductor sector. 💪🏻⚙️ Pomerania strengthens its position as a key technology hub. The Spanish company Openchip is opening a research and development center in Gdańsk, recruiting specialists to work on cutting-edge accelerators for High-Performance Computing (HPC)",
+    "url": "https://www.facebook.com/investinpomerania/photos/openchip-invests-in-pomerania-a-new-player-in-the-semiconductor-sector️-pomerani/1424441975556429/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://openchip.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openchip.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openchip.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openchip.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openchip.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openchip.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openchip.com/suse-and-openchip-partner-to-develop-sovereign-european-risc-v-hardware-and-open-source-software-stack/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://openchip.com/wp-content/uploads/2026/06/20260615-Baya-Systems-Announces-Partnership-with-Openchip-on-Next-Gen-Intelligent-Compute.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://eda-express.com/risc-v/46913/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openchipdoc.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thevoltpost.com/openchip-ber10-linux-risc-v-chip-sub-2nm-gaa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://riscv.org/blog/v-questions-with-openchips-cesc-guim-and-marc-fernandez/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/711292-15",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/openchip-openchip-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/companies/openchip/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/openchip/1339213595",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/EDAExpress/status/2084420360511115685",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/noegrs_research/status/2048016171925188789",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rintereconomia/status/2076600883056459863",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/openchip-software-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/openchip-software-technologies/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/in/tommaso-vali-94246545",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/in/francesc-guim",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Openchip-Openchip-61550727160269/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Openchip-138163289374994/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/open.chip.2025/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/investinpomerania/photos/openchip-invests-in-pomerania-a-new-player-in-the-semiconductor-sector️-pomerani/1424441975556429/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Openchip 日本 導入",
+   "results": [
+    "https://eda-express.com/risc-v/46913/",
+    "https://openchip.com/",
+    "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "https://openchip.com/about-us/",
+    "https://www.linkedin.com/posts/mr-aksaxena_openchip-and-nec-advance-their-collaboration-activity-7395024858826465280-1f2Z",
+    "https://monoist.itmedia.co.jp/mn/articles/2512/02/news025.html",
+    "https://diamond.jp/articles/-/395504"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Openchip 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://openchip.com/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.rapidus.inc/about/",
+    "https://jpmktg.winbond.com/",
+    "https://www.3ds.com/ja/about/company/office-locations/japan/tokyo-osaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Openchip Japan",
+   "results": [
+    "https://openchip.com/openchip-and-nec-advance-their-collaboration-on-next-generation-vector-accelerator/",
+    "https://openchip.com/",
+    "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "https://www.openchipdoc.com/en",
+    "https://www.newsbreak.com/news/4346474086442-openchip-and-nec-advance-collaboration-on-next-gen-vector-accelerator",
+    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+    "https://bayasystems.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Openchip manufacturing customer case study",
+   "results": [
+    "https://openchip.com/",
+    "https://www.hpcwire.com/2025/11/13/openchip-and-nec-moving-ahead-with-risc-v-vpus-for-aurora/",
+    "https://thevoltpost.com/openchip-ber10-linux-risc-v-chip-sub-2nm-gaa/",
+    "https://riscv.org/blog/v-questions-with-openchips-cesc-guim-and-marc-fernandez/",
+    "https://openai.com/business/customer-stories/",
+    "https://openchip.com/projects/",
+    "https://www.hpcwire.com/off-the-wire/openchip-introduces-ber10-risc-v-chip-built-for-ai-hpc-and-critical-infrastructure/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Openchip white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.nextiva.com/company/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Openchip founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/711292-15",
+    "https://fundediq.co/openchip-openchip-com-funding/",
+    "https://dealroom.co/companies/openchip/",
+    "https://www.zoominfo.com/c/openchip/1339213595",
+    "https://www.crunchbase.com/organization/openchip",
+    "https://www.eu-startups.com/2026/06/spains-openchip-lands-e115-million-sett-investment-to-strengthen-europes-semiconductor-capabilities/",
+    "https://fundup.ai/recently-funded-startups/company/5b89de64cb3e1233fb13bf93976ab17e253e204ada9b6dc9e89f71785bc186c8/openchip"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Openchip",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/lucid_lynx8370/n/n38ad6dcbf1de?hl=en",
+    "https://note.com/take113/n/n15d89594fe1b",
+    "https://note.com/hirokimiyano/n/n5b5868beee23?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/schwarz_history/n/nad9531ac3dee",
+    "https://note.com/spaceygoblin/n/n0f0677188638"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Openchip",
+   "results": [
+    "https://x.com/EDAExpress/status/2084420360511115685",
+    "https://x.com/OpenAI/status/2069770172802773292",
+    "https://x.com/noegrs_research/status/2048016171925188789",
+    "https://x.com/rintereconomia/status/2076600883056459863",
+    "https://x.com/openai/status/2092300846675505602",
+    "https://x.com/OpenAINewsroom/status/2111142554079268944",
+    "https://x.com/kimmonismus/status/2092261453449327052"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Openchip",
+   "results": [
+    "https://www.linkedin.com/company/openchip-software-technologies",
+    "https://www.linkedin.com/company/openchip-software-technologies/jobs/",
+    "https://it.linkedin.com/in/tommaso-vali-94246545",
+    "https://es.linkedin.com/in/francesc-guim",
+    "https://es.linkedin.com/in/igorperic",
+    "https://de.linkedin.com/in/nico-naas-803172268",
+    "https://ie.linkedin.com/in/ahynes"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Openchip",
+   "results": [
+    "https://www.facebook.com/p/Openchip-Openchip-61550727160269/",
+    "https://www.facebook.com/Openchip-138163289374994/",
+    "https://www.facebook.com/open.chip.2025/",
+    "https://www.facebook.com/investinpomerania/photos/openchip-invests-in-pomerania-a-new-player-in-the-semiconductor-sector️-pomerani/1424441975556429/",
+    "https://www.facebook.com/diariARA/videos/veus-com-sami-naïr-polítoleg-especialista-en-migracions-i-geopolítica-roberta-pi/1628134295564932/",
+    "https://www.facebook.com/technewsinside/posts/西班牙-ai-新創-openchip-第一顆測試晶片今年驗證採相當先進製程已獲首批特定客戶和訂單將是歐洲首批先進製程晶片之一openchip-測試晶片-先進製程/1382668453901363/",
+    "https://www.facebook.com/NAVS.US/photos/meet-suraj-dixit-a-two-time-recipient-of-the-navs-humane-science-award-at-the-re/1225626069595443/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Openchip note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://openchip.com/team/",
+    "https://openchip.com/about-us/",
+    "https://fundediq.co/openchip-openchip-com-funding/",
+    "https://www.eetimes.com/openchip-bets-on-distributed-energy-aware-ai/",
+    "https://pitchbook.com/profiles/company/711292-15",
+    "https://www.crunchbase.com/person/francesc-guim"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Openchip X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部29頁・検索12回）"
+ }
+}

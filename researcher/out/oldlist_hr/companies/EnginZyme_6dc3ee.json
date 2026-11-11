@@ -1,0 +1,1147 @@
+{
+ "name": "EnginZyme",
+ "aliases": [],
+ "context": "旧営業リスト｜Chemicals / Materials｜AI送信済み",
+ "researched_at": "2026-11-11T02:58:16.799069+00:00",
+ "official_url": "https://www.enginzyme.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Latest news, events & press",
+    "url": "https://enginzyme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Could your company benefit from a cleaner, less energy-intensive manufacturing process? Let's talk about it.",
+    "url": "https://enginzyme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From our base in Stockholm, our ambition is to play a key role in tackling climate change — both by accelerating the industry’s transition to sustainability, and by innovating solutions for other industries through novel chemical products.",
+    "url": "https://enginzyme.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The enginzyme story begins in 2014, with a patented enzyme immobilisation technology that would enable biomanufacturing — without living organisms. This revolutionary material works with any enzyme and can be deployed using similar tools and techniques to those used in traditional chemical manufacturing, with lower costs and a much smaller environmental footprint.",
+    "url": "https://enginzyme.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Enginzyme has built a 30+ person team with 17 different nationalities, and created a full-service technology platform that can serve customers globally. Most of our staff work on one of our four R&D teams: Enzyme Engineering; Biocatalysis; Automation and Data Management; and Process Engineering.",
+    "url": "https://enginzyme.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "A graduate of ESSCA, France's Grand Ecole for business, Aymeric has 20 years of experience in business development, ranging from pharmaceuticals, to social entrepreneurship, and food flavours and aromas. He comes to us from Ingredion, a leading global food ingredients company.",
+    "url": "https://enginzyme.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Josefin Lannefors brings over 20 years of expertise from the chemical industry, where she has held influential leadership roles in R&D, Marketing, and Commercial functions. She comes to us from the IMCD Group, where she led the Jan Dekker business unit, focusing on offering globally sustainable ingredients to the personal care and food and nutrition sectors.",
+    "url": "https://enginzyme.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Chatarina Schneider is Chair of enginzyme's board. She has more than 25 years of international sales experience in the chemical industry, rising from sales manager to global marketing director of AkzoNobel Surface Chemistry. In subsequent CEO roles and as a board member or chair, Chatarina has helped lead several companies through scale-up to international commercialisation.",
+    "url": "https://enginzyme.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Catalyst production in ton scale, 6 enzyme cascades validated and amenable to commercial implementation.",
+    "url": "https://enginzyme.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We are looking for the best protein engineers, automation experts, process engineers, enzymologists and software developers to join us on our mission to change chemistry for good.",
+    "url": "https://enginzyme.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Enzymatic catalysis can potentially be applied to thousands of industrial chemical processes, saving gigatons of carbon dioxide emissions. Take a look at some of our solution categories.",
+    "url": "https://enginzyme.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "In food oil production, enzymatic interesterification is replacing chemical interesterification, especially for makers of low-trans or trans-fat-free margarines and shortenings. Enginzyme is working with Bunge and other industry partners to customise this process, cutting costs and creating purer, safer, more sustainable products that do not require a lot of downstream processing.",
+    "url": "https://enginzyme.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "During the Covid-19 crisis, enginzyme’s scientists and engineers searched for ways they could help. With assistance from our partners, we developed a patented process to synthesise pseudouridine, a key ingredient in mRNA vaccines, generating far less waste than current chemical techniques. We can make the ingredient at scale, at a competitive price.",
+    "url": "https://enginzyme.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Read related press release",
+    "url": "https://enginzyme.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Some chemicals have been produced enzymatically for more than a decade with decreased environmental impact and improved economics compared to their chemical synthesis versions. The continuous evolution of enginzyme’s technology platform is giving the chemical industry more options to produce a wide range of chemicals, from base chemicals to specialty molecules, using enzymatic catalysis.",
+    "url": "https://enginzyme.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Kojibiose, a so-called ‘rare sugar’, is a disaccharide naturally present in honey (around 3%) and soy sauce. It is a potent prebiotic and has many desirable properties for a sucrose (table sugar) replacement, including bulking and taste properties. Enginzyme created an efficient process to create this potential blockbuster using regular sugar water as a starting material.",
+    "url": "https://enginzyme.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "How we hire rockstars who play well together",
+    "url": "https://enginzyme.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At enginzyme, we do state-of-the-art work, so we hire people who are at the top of their game. To get a job here, they have to prove in various ways that they are rockstars at what they do. They have to be excellent at t...",
+    "url": "https://enginzyme.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At enginzyme, we do state-of-the-art work, so we hire people who are at the top of their game. To get a job here, they h...",
+    "url": "https://enginzyme.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enzymes are the world's most powerful catalysts. Unlocking their full potential will allow us to do things unimagined just a few years ago: reduce global warming, produce super strong spider silk or biodegradable plastics, and make pharmaceutical compounds at a low cost and no waste. Join our diverse, dynamic, 17-nationality team of 30+ people in beautiful Stockholm.",
+    "url": "https://enginzyme.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"At enginzyme, I get to collaborate closely with talented wet-lab scientists and engineers to tackle complex problems. The interdisciplinary nature of our work ensures that I am constantly learning and adapting — that makes the experience challenging. What makes it rewarding is the idea that we might just make the world a little better.\"",
+    "url": "https://enginzyme.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "senior R&D project manager",
+    "url": "https://enginzyme.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re hiring the world’s top talent - come join us!",
+    "url": "https://enginzyme.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The personal care industry sits at a crossroads. Consumers are demanding more sustainable, transparent, and traceable ingredient stories, while regulators tighten the boundaries on what can be called ‘green’. Brand owners, formulators, and ingredient manufacturers are being pushed to rethink how materials are made and not just what they are made of.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "The transition to cleaner, more efficient ingredient manufacturing is well underway on multiple fronts. Chemical routes are being optimised, and precision fermentation continues to evolve.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Demand for innovation has never been higher. Brands need differentiated textures, sensory profiles, and performance claims to stand out in saturated markets.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional chemistry still provides scale, fermentation enables complexity, but biocatalysis f ills the gaps, combining precision, efficiency, and sustainability.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical synthesis: a foundation under pressure",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Classical chemistry remains the workhorse of personal care ingredient production. It underpins the synthesis of surfactants, emollient esters, silicones, UV filters, rheology modifiers, and conditioning agents, virtually every functional class in a formulation lab. At its heart lies a familiar repertoire of transformations, such as:",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Ethoxylation and propoxylation, used to tune hydrophilicity and foam behaviour across a vast range of non-ionics",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "The traditional chemical toolkit has had time to evolve and deliver products that are safe, reproducible, and cost-effective at industrial scale. Catalysts and methods of optimisation and refinement of these processes lead to high yields and consistency. For bulk molecules, nothing yet competes with the throughput and robustness of chemical catalysis.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical routes benefit from mature infrastructure. Plants are built for these reactions, supply chains are standardised, and decades of regulatory data exist. Raw materials such as fatty acids, alcohols, petrochemical intermediates are available globally. The unit operations are well understood, enabling tight process control and cost predictability.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Moreover, chemistry is flexible. By adjusting chain length, degree of saturation, or head-group substitution, chemists can fine tune performance attributes such as viscosity, mildness, or spreading. This combinatorial freedom has been essential to the diversity of modern cosmetic formulations.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "However, these strengths come at an environmental and reputational cost. Many classical processes operate under harsh conditions — temperatures above 150°C, high pressures, and use corrosive or toxic compounds. Energy demand is significant, and atom economy is often poor, with side products requiring separation and disposal.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Ethoxylation, for example, is efficient in throughput but relies on ethylene oxide, a highly reactive gas with safety and toxicity concerns. The same reaction can generate 1,4-dioxane as an unwanted by-product, now under increasing regulatory pressure worldwide. Similarly, sulphation and sulphonation demand complex neutralisation steps and produce salt-laden effluents that are difficult to treat.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Even where emissions are well controlled, public perception is shifting. ‘Petro-derived’, ‘sulphated’, or ‘quaternary’ have become warning signals in consumer communication, regardless of scientific nuance. This has motivated a wave of ‘sulphate-free’, ‘non-EO’, and ‘naturally derived’ product launches, all seeking to reconcile performance with perception.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "To their credit, chemical manufacturers have made steady progress toward cleaner operations. Continuous-flow reactors reduce waste and improve safety; solid catalysts replace liquid acids; renewable feedstocks displace petroleum. Yet these can often be incremental improvements on processes that are inherently constrained by thermodynamics and stoichiometry.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "At some point, further gains in sustainability or purity become disproportionately expensive. The industry is reaching that plateau, highly optimised, yet difficult to decarbonise. This has prompted formulators and suppliers to look to biology for the next leap forward.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "If classical chemistry built the industry, fermentation gave it a new language. Once limited to producing vitamins, organic acids, amino acids, and preservatives, microbial fermentation now supplies a growing range of cosmetic actives, texturisers, and lipids — from hyaluronic acid and ceramides to biosurfactants and ferment-derived squalane.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Fermentation aligns naturally with sustainability goals. It uses renewable feedstocks, creates complex molecules with ease, and offers powerful marketing narratives around ‘bio-derived’ and ‘clean beauty’.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "However, industrial fermentation is energy intensive and capital heavy. Systems are often dilute and characterised by modest titres, making purification costly. Process rigidity is another constraint. Changing a fermentation product often requires reengineering the organism and revalidating the process, a far cry from the plug and-play flexibility of chemical synthesis.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Hyaluronic acid, once extracted from rooster combs, is now produced microbially at ton scale using Bacillus and Streptococcus strains. The environmental and ethical advantages are undeniable, yet production still involves costly purification to control molecular-weight distribution and endotoxin content.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Fermentation-derived squalane, produced from engineered yeast, has become a commercial success, a rare case where biotechnology achieved both performance and cost competitiveness. Its route benefited from high carbon efficiency and strong consumer resonance with ‘vegan squalane’.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "For many high-volume ingredients, energy demand, purification footprint, and process inflexibility remain obstacles to broad replacement of classical chemistry.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Between the precision of biology and the scalability of chemistry lies biocatalysis, the use of isolated enzymes to catalyse chemical reactions.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "At its simplest, a biocatalyst replaces the traditional acid, base, or metal catalyst with an enzyme, a protein evolved to perform specific reaction extremely efficiently under mild conditions. In an era where the personal care ingredients industry is measured not only by yield but by carbon footprint and purity metrics, that specificity becomes a strategic advantage.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Enzymes are also renewable and biodegradable, eliminating heavy-metal residues and persistent catalyst waste. When combined with renewable fatty-acid or sugar feedstocks, biocatalytic routes can move an entire process several steps closer to the circular-carbon goal that personal care brands increasingly prioritise.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Amidation using acyl transferases or engineered hydrolases offers a promising route to mild surfactants such as N-acyl amino acids.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "https://cen.acs.org/pharmaceuticals/process-chemistry/Scientists-made-HIV-drug-using/97/web/2019/12",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.merck.com/news/merck-announces-clinical-holds-on-studies-evaluating-islatravir-for-the-treatment-and-prevention-of-hiv-1-infection/",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "NIH ClinicalInfo. Islatravir – Health Professional Drug Record",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "https://clinicalinfo.hiv.gov/en/drugs/islatravir/health-professional",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "Cassimjee KE, et al. A general protein purification and immobilization method on controlled porosity glass: biocatalytic applications. Chem Commun (2014).",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "https://pubs.rsc.org/en/content/articlelanding/2014/cc/c4cc02605e",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "Böhmer W, et al. Highly efficient production of chiral amines in batch and continuous flow by immobilized ω-transaminases on controlled porosity glass metal-ion affinity carrier. J Biotechnol (2019).",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "https://pubs.rsc.org/en/content/articlehtml/2023/cy/d2cy01949c",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "EnginZyme. Enginzyme produces key mRNA vaccine ingredient using biocatalysis（pseudouridine×Ajinomoto）(Oct 25, 2023).",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "https://enginzyme.com/news/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "Business Wire. Enginzyme and AGC Create Scalable Process for Key mRNA Ingredient(Jan 12, 2026).",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.businesswire.com/news/home/20260111960479/en/Enginzyme-and-AGC-Create-Scalable-Process-for-Key-mRNA-Ingredient",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Enzyme immobilisation for biomanufacturing",
+    "url": "https://enginzyme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re unlocking the power of enzymes to ease the transition to greener, cleaner, manufacturing.",
+    "url": "https://enginzyme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why biomanufacturing is gaining momentum",
+    "url": "https://enginzyme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our patented enzyme immobilisation technology enables best of both worlds biomanufacturing. We create bespoke, stable biocatalysts that can be used in multi-step enzymatic reactions, applying lessons from nature to modern manufacturing.",
+    "url": "https://enginzyme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Could your company benefit from a cleaner, less energy-intensive manufacturing process? Let's talk about it.",
+    "url": "https://enginzyme.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The enginzyme story begins in 2014, with a patented enzyme immobilisation technology that would enable biomanufacturing — without living organisms. This revolutionary material works with any enzyme and can be deployed using similar tools and techniques to those used in traditional chemical manufacturing, with lower costs and a much smaller environmental footprint.",
+    "url": "https://enginzyme.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Enzymatic catalysis can potentially be applied to thousands of industrial chemical processes, saving gigatons of carbon dioxide emissions. Take a look at some of our solution categories.",
+    "url": "https://enginzyme.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Why biomanufacturing is gaining momentum | EnginZyme",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Why biomanufacturing is gaining momentum",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "The personal care industry sits at a crossroads. Consumers are demanding more sustainable, transparent, and traceable ingredient stories, while regulators tighten the boundaries on what can be called ‘green’. Brand owners, formulators, and ingredient manufacturers are being pushed to rethink how materials are made and not just what they are made of.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "The transition to cleaner, more efficient ingredient manufacturing is well underway on multiple fronts. Chemical routes are being optimised, and precision fermentation continues to evolve.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Biocatalysis, meanwhile, is being established as the pillar of industrial biotechnology, a bridge between chemistry and biology, with companies like enginzyme helping to redefine what bio manufacturing can mean for the personal care industry.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Industry leaders are looking beyond incremental formulation tweaks to fundamental manufacturing change. A 2024 Fact.MR survey found that more than three-quarters of personal care stakeholders plan to increase investments in biomanufacturing and green-chemistry innovation, reflecting a structural shift rather than a passing trend.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "The traditional chemical toolkit has had time to evolve and deliver products that are safe, reproducible, and cost-effective at industrial scale. Catalysts and methods of optimisation and refinement of these processes lead to high yields and consistency. For bulk molecules, nothing yet competes with the throughput and robustness of chemical catalysis.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical routes benefit from mature infrastructure. Plants are built for these reactions, supply chains are standardised, and decades of regulatory data exist. Raw materials such as fatty acids, alcohols, petrochemical intermediates are available globally. The unit operations are well understood, enabling tight process control and cost predictability.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "To their credit, chemical manufacturers have made steady progress toward cleaner operations. Continuous-flow reactors reduce waste and improve safety; solid catalysts replace liquid acids; renewable feedstocks displace petroleum. Yet these can often be incremental improvements on processes that are inherently constrained by thermodynamics and stoichiometry.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "With advances in metabolic engineering, microorganisms can now convert sugars, glycerol, or plant oils into molecules once accessible only through complex chemical synthesis. The appeal is clear: renewable carbon in; high-value functionality out.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "However, industrial fermentation is energy intensive and capital heavy. Systems are often dilute and characterised by modest titres, making purification costly. Process rigidity is another constraint. Changing a fermentation product often requires reengineering the organism and revalidating the process, a far cry from the plug and-play flexibility of chemical synthesis.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "The range of chemistries accessible through enzymes is far broader than many realise. Those most relevant to personal care ingredient manufacturing include:",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Structured lipids and MCTs: Food-industry experience has proven that immobilised lipases can effectively convert fatty-acid streams into tailored triglycerides. The same logic applies to cosmetic emollients, providing inspiration and confidence for personal-care manufacturers.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Each of these examples underscores a pattern: when enzymes are properly integrated into industrial workflows, they can match or exceed the efficiency of conventional catalysis while cutting environmental impact.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Yet despite compelling examples, biocatalysis remains underused in personal-care manufacturing. Some of the hurdles that have limited broader deployment include:",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Companies like enginzyme, with integrated R&D spanning enzyme design, efficient and general immobilisation technology, and process development, are accelerating industrial adoption of enzymatic manufacturing.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "These operational gains translate directly into competitive advantage, especially for mid-sized ingredient manufacturers seeking differentiation without capital-intensive plant overhauls.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Taken together, these developments, benefits and limitations position biocatalysis not as a full replacement for chemistry or fermentation but often as an alternative, a platform that when applied wisely combines the reliability of chemical manufacturing with the precision and selectivity of biology. It leverages existing assets while unlocking creative new molecules.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "The next era of ingredient manufacturing",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "At enginzyme, we take biocatalysis beyond confinement to single reactions by embedding it throughout process design, from early intermediate synthesis to late-stage finishing, forming the invisible backbone of next-generation plants that would consume less energy, produce less waste, and generate high quality products.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "The industry has the tools to make biocatalysis a standard part of manufacturing practice. Companies that embrace this shift early will not only meet sustainability targets but will be able to create new ingredient classes and fresh market narratives built on precision, efficiency, and authenticity.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "The future of personal care manufacturing will not belong solely to chemists or biologists, but to those who master both.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "YOUR PREFERRED BIOMANUFACTURING PARTNER",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Partner, Sofinnova Partners - Industrial Biotech Strategy",
+    "url": "https://sofinnovapartners.com/portfolio/enginzyme",
+    "pass": 3
+   },
+   {
+    "quote": "EnginZyme raises €21 million in Series B to accelerate the commercialisation of its cell-free biomanufacturing technology",
+    "url": "https://sofinnovapartners.com/portfolio/enginzyme",
+    "pass": 3
+   },
+   {
+    "quote": "Our Industrial Biotech Strategy invests in early-stage sustainable companies across the agriculture, chemicals, food and materials sectors.",
+    "url": "https://sofinnovapartners.com/portfolio/enginzyme",
+    "pass": 3
+   },
+   {
+    "quote": "Biocatalysis: An Industrial Perspective",
+    "url": "https://www.h2020interfaces.eu/team/enginzyme/",
+    "pass": 3
+   },
+   {
+    "quote": "EnginZyme AB, a deep-tech company whose cell-free biomanufacturing technology uses the power of enzymes to create sustainable products and processes for a variety of industries, announced that it had patented a process to synthesize pseudouridine, a key ingredient in mRNA COVID-19 vaccines.",
+    "url": "https://www.biospace.com/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "pass": 3
+   },
+   {
+    "quote": "EnginZyme and Ajinomoto Bio-Pharma Services have developed a patented process to manufacture pseudouridine at industrial scale using biocatalysis in a sustainable, low-waste, patented process carried out in a cGMP* facility",
+    "url": "https://www.biospace.com/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "pass": 3
+   },
+   {
+    "quote": ", a deep-tech company whose cell-free biomanufacturing technology uses the power of enzymes to create sustainable products and processes for a variety of industries, announced that it had patented a process to synthesize pseudouridine, a key ingredient in mRNA COVID-19 vaccines.",
+    "url": "https://www.biospace.com/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "pass": 3
+   },
+   {
+    "quote": "\"Synthesizing pseudouridine with enzymes is so much more efficient than the chemical synthesis that is common today,\" said Matthew Thompson, head of enzyme development and innovation at EnginZyme. \"It's a perfect example of what we are striving for: zero waste, less energy, and a cleaner result. We want to apply this across the spectrum of chemical manufacturing.\"",
+    "url": "https://www.biospace.com/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "pass": 3
+   },
+   {
+    "quote": "*Current Good Manufacturing Practice regulations, enforced by the U.S. FDA, provide for systems that assure proper design, monitoring, and control of manufacturing processes and facilities.",
+    "url": "https://www.biospace.com/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing, Corynex® protein",
+    "url": "https://www.biospace.com/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "pass": 3
+   },
+   {
+    "quote": "Biopharma cuts at manufacturing plants expected to affect 4,000+",
+    "url": "https://www.biospace.com/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "pass": 3
+   },
+   {
+    "quote": "EnginZyme raises €21 million in Series B to accelerate the commercialisation of Its cell-free biomanufacturing technology",
+    "url": "https://enginzyme.com/news/enginzyme-raises-eur21-million-in-series-b",
+    "pass": 3
+   },
+   {
+    "quote": ")--EnginZyme, a green tech company developing biomanufacturing processes for the sustainable manufacturing of everyday products, announced today that it had raised €21 million in a Series B financing round. New investors, including Almi Invest GreenTech, Navigare Ventures and Bunge Ventures, join existing investors Sofinnova Partners, Industrifonden and SEB GreenTech VC in the funding round.",
+    "url": "https://enginzyme.com/news/enginzyme-raises-eur21-million-in-series-b",
+    "pass": 3
+   },
+   {
+    "quote": "“This funding round proves that we are not alone. EnginZyme’s combination of biochemistry know-how and process engineering has the potential to push sustainable manufacturing to the next level.”",
+    "url": "https://enginzyme.com/news/enginzyme-raises-eur21-million-in-series-b",
+    "pass": 3
+   },
+   {
+    "quote": ". “This funding round proves that we are not alone. EnginZyme’s combination of biochemistry know-how and process engineering has the potential to push sustainable manufacturing to the next level.”",
+    "url": "https://enginzyme.com/news/enginzyme-raises-eur21-million-in-series-b",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in Sweden in 2014, EnginZyme wants to play a key role in tackling climate change by enabling green chemistry for every industry. By replacing traditional fossil-based manufacturing with the patented cell-free technology platform, EnginZyme seeks to accelerate the shift towards the sustainable biomanufacturing of products that modern society relies on.",
+    "url": "https://enginzyme.com/news/enginzyme-raises-eur21-million-in-series-b",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial Development Lead, Industrial Biocatalysts",
+    "url": "https://growjo.com/company/EnginZyme",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Fermentation aligns naturally with sustainability goals. It uses renewable feedstocks, creates complex molecules with ease, and offers powerful marketing narratives around ‘bio-derived’ and ‘clean beauty’.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "The industry has the tools to make biocatalysis a standard part of manufacturing practice. Companies that embrace this shift early will not only meet sustainability targets but will be able to create new ingredient classes and fresh market narratives built on precision, efficiency, and authenticity.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "前回の記事では、Cell-freeバイオモノづくりの基礎と、2024年11月にNasdaqにIPOしたeXoZymesの事例を紹介しました",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "Böhmer W, et al. Highly efficient production of chiral amines in batch and continuous flow by immobilized ω-transaminases on controlled porosity glass metal-ion affinity carrier. J Biotechnol (2019).",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   },
+   {
+    "quote": "EnginZyme and Ajinomoto Bio-Pharma Services have developed a patented process to manufacture pseudouridine at industrial scale using biocatalysis in a sustainable, low-waste, patented process carried out in a cGMP* facility",
+    "url": "https://www.biospace.com/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "pass": 3
+   },
+   {
+    "quote": "EnginZyme: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/EnginZyme",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/EnginZyme",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/EnginZyme",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/EnginZyme",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/EnginZyme",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us to learn more about our esterification biocatalyst EziG®-CalB and our services.",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 1
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/EnginZyme",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/EnginZyme",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "EnginZymeは、このシュードウリジンを酵素プロセスで工業スケール製造する技術を開発し、日本の 味の素バイオ・ファーマ（Ajinomoto Bio-Pharma Services） をCDMOパートナーとして特許化プロセスを発表しています",
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Enginzyme — Enginzyme EnginZyme https://enginzyme.com",
+    "url": "https://enginzyme.com/",
+    "pass": 3
+   },
+   {
+    "quote": "enginzyme | LinkedIn — enginzyme | LinkedIn LinkedIn Sverige https://se.linkedin.com > enginzyme",
+    "url": "https://se.linkedin.com/company/enginzyme",
+    "pass": 3
+   },
+   {
+    "quote": "EnginZyme - Sofinnova Partners — EnginZyme - Sofinnova Partners Sofinnova Partners https://sofinnovapartners.com > engin...",
+    "url": "https://sofinnovapartners.com/portfolio/enginzyme",
+    "pass": 3
+   },
+   {
+    "quote": "EnginZyme » INTERfaces — EnginZyme » INTERfaces h2020interfaces.eu https://www.h2020interfaces.eu > team",
+    "url": "https://www.h2020interfaces.eu/team/enginzyme/",
+    "pass": 3
+   },
+   {
+    "quote": "Enginzyme and AGC Create Scalable Process for Key mRNA ... — Enginzyme and AGC Create Scalable Process for Key mRNA ... Via TT https://via.tt.se > pressmeddelande > e...",
+    "url": "https://via.tt.se/pressmeddelande/4206302/enginzyme-and-agc-create-scalable-process-for-key-mrna-ingredient?publisherId=259167&lang=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why biomanufacturing is gaining momentum | EnginZyme — Why biomanufacturing is gaining momentum | EnginZyme EnginZyme https://enginzyme.com > news > why-...",
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "pass": 3
+   },
+   {
+    "quote": "EnginZyme Produces Key mRNA Vaccine Ingredient Using ... — EnginZyme Produces Key mRNA Vaccine Ingredient Using ... BioSpace https://www.biospace.com > enginzy...",
+    "url": "https://www.biospace.com/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "pass": 3
+   },
+   {
+    "quote": "Enginzyme Raises €21 Million in Series B — Enginzyme Raises €21 Million in Series B EnginZyme https://enginzyme.com > news > engi...",
+    "url": "https://enginzyme.com/news/enginzyme-raises-eur21-million-in-series-b",
+    "pass": 3
+   },
+   {
+    "quote": "Enginzyme 2026 Company Profile - PitchBook — Enginzyme 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/434430-37",
+    "pass": 3
+   },
+   {
+    "quote": "EnginZyme raises US$9.07M to shift from R&D to commercial ... — EnginZyme raises US$9.07M to shift from R&D to commercial ... Dealroom https://dealroom.co > news > 155715-...",
+    "url": "https://dealroom.co/news/155715-enginzyme-raises-sek-75m-7-6m-to-shift-from-r-d-to-commercial-biomanufac/",
+    "pass": 3
+   },
+   {
+    "quote": "EnginZyme : Revenue , Competitors, Alternatives - Growjo — EnginZyme : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > EnginZyme",
+    "url": "https://growjo.com/company/EnginZyme",
+    "pass": 3
+   },
+   {
+    "quote": "Invest In EnginZyme Stock | Buy Pre-IPO Shares - EquityZen — Invest In EnginZyme Stock | Buy Pre-IPO Shares - EquityZen EquityZen https://equityzen.com > enginzyme",
+    "url": "https://equityzen.com/company/enginzyme/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The Potential of Cell-Free Bio-Manufacturing #2｜ANRI Feb 25, 2026 · EnginZyme is an initiative to reduce enzyme costs, which was one of the challenges of cell-free bio-manufacturing, by immobilizing enzymes to make them reusable. It demonstrates the possibility of designing bio-manufacturing as a \"chemical process\" with the same concept as solid catalysts in the chemical industry.",
+    "url": "https://note.com/anri_vc/n/n69a397b68338?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "enginzyme (@enginzyme_com) / Posts / X enginzyme (@enginzyme_com) - Posts - Developing technologies to meet the sustainability goals of the future. | X (formerly Twitter)",
+    "url": "https://x.com/enginzyme_com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "enginzyme | LinkedIn enginzyme | LinkedIn LinkedIn Sverige https://se.linkedin.com > enginzyme",
+    "url": "https://se.linkedin.com/company/enginzyme",
+    "pass": 3
+   },
+   {
+    "quote": "enginzyme's Post - LinkedIn enginzyme's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > e...",
+    "url": "https://www.linkedin.com/posts/enginzyme_looking-for-enzymatic-routes-to-manufacture-activity-7523270480200384512-3n6J",
+    "pass": 3
+   },
+   {
+    "quote": "enginzyme's Post - LinkedIn enginzyme's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > e...",
+    "url": "https://www.linkedin.com/posts/enginzyme_our-offices-and-labs-in-solna-were-buzzing-activity-7508503199339933696-YO9h",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://enginzyme.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enginzyme.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enginzyme.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enginzyme.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.businesswire.com/news/home/20231025673150/ja",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/anri_vc/n/n69a397b68338",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jnj.com/innovativemedicine/japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ngk.co.jp/info/division/ceramics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20231025673150/ja",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cytivalifesciences.com/ja/jp/support/find-a-distributor",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://horizondiscovery.com/ja/ordering-and-customer-information/reference-standards-dealers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihon-freezer.co.jp/technology/agency.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enginzyme.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://se.linkedin.com/company/enginzyme",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sofinnovapartners.com/portfolio/enginzyme",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.h2020interfaces.eu/team/enginzyme/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJkPgCeMsqgY0Cn1ugvJ9m6SI5ELKQfCKNr2wfhdFdxINEsnArk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://se.linkedin.com/company/enginzyme",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.biospace.com/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://enginzyme.com/news/enginzyme-raises-eur21-million-in-series-b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://se.linkedin.com/company/enginzyme",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://enginzyme.com/news/enginzyme-raises-eur21-million-in-series-b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/434430-37",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/news/155715-enginzyme-raises-sek-75m-7-6m-to-shift-from-r-d-to-commercial-biomanufac/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/EnginZyme",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/anri_vc/n/n69a397b68338?hl=en",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/enginzyme_com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/company/enginzyme",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/enginzyme_looking-for-enzymatic-routes-to-manufacture-activity-7523270480200384512-3n6J",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/enginzyme_our-offices-and-labs-in-solna-were-buzzing-activity-7508503199339933696-YO9h",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/company/enginzyme",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "EnginZyme 日本 導入",
+   "results": [
+    "https://www.businesswire.com/news/home/20231025673150/ja",
+    "https://note.com/anri_vc/n/n69a397b68338",
+    "https://www.jnj.com/innovativemedicine/japan/",
+    "https://www.ngk.co.jp/info/division/ceramics/",
+    "https://www.youtube.com/watch?v=NCrtBTYjlNA",
+    "https://www.link-j.org/bulletinboard/post-8437.html",
+    "https://www.gminsights.com/ja/industry-analysis/enzymes-market",
+    "https://www.dreamnews.jp/press/0000355796",
+    "https://ajibio-pharma.ajinomoto.com/ja/announcements/",
+    "https://enginzyme.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "EnginZyme 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.businesswire.com/news/home/20231025673150/ja",
+    "https://www.cytivalifesciences.com/ja/jp/support/find-a-distributor",
+    "https://horizondiscovery.com/ja/ordering-and-customer-information/reference-standards-dealers",
+    "https://www.nihon-freezer.co.jp/technology/agency.html",
+    "https://phjapan.jp/distributor/",
+    "https://www.kimica.jp/article/article_389.html",
+    "https://www.cosmobio.co.jp/agency/agency.asp",
+    "https://www.saibou.jp/agency/",
+    "https://www.imimed.co.jp/int/productnavi/csz/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "EnginZyme Japan",
+   "results": [
+    "https://enginzyme.com/",
+    "https://se.linkedin.com/company/enginzyme",
+    "https://sofinnovapartners.com/portfolio/enginzyme",
+    "https://www.h2020interfaces.eu/team/enginzyme/",
+    "https://via.tt.se/pressmeddelande/4206302/enginzyme-and-agc-create-scalable-process-for-key-mrna-ingredient?publisherId=259167&lang=en",
+    "https://www.weforum.org/organizations/enginzyme",
+    "https://enginzyme.com/news/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "https://www.businesswire.com/news/home/20260923275329/en/Enginzyme-Raises-SEK-75-Million-to-Advance-Its-Commercial-Biomanufacturing-Strategy",
+    "https://app.dealroom.co/news/note/enginzyme-raises-sek-75m-7-6m-to-shift-from-r-d-to-commercial-biomanufacturing",
+    "https://enginzyme.com/company"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "EnginZyme manufacturing customer case study",
+   "results": [
+    "https://enginzyme.com/news/why-biomanufacturing-is-gaining-momentum",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJkPgCeMsqgY0Cn1ugvJ9m6SI5ELKQfCKNr2wfhdFdxINEsnArk",
+    "https://se.linkedin.com/company/enginzyme",
+    "https://www.biospace.com/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "https://www.agcbio.com/case-studies",
+    "https://sebgroup.com/our-offering/financing-and-investment-banking/greentech/investment-cases/enginzyme-holds-the-key-to-sustainable-chemical-production",
+    "https://www.weforum.org/organizations/enginzyme",
+    "https://www.mdpi.com/2076-3417/14/20/9417",
+    "https://www.h2020interfaces.eu/team/enginzyme/",
+    "https://webapp.enginzyme.com/blog/case-study-optimising-immobilised-enzyme-formulations-for-both-cost-and-performance"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EnginZyme white label OR reseller OR partner program",
+   "results": [
+    "https://enginzyme.com/news/enginzyme-raises-eur21-million-in-series-b",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://se.linkedin.com/company/enginzyme",
+    "https://www.qubesense.com/partner/",
+    "https://www.mycompanyworks.com/partners/",
+    "https://www.businesswire.com/news/home/20250528504132/en/Enginzyme-Appoints-Aymeric-de-Gants-as-New-CEO",
+    "https://engin8.io/agency-partner-program/",
+    "https://www.agencyplatform.com/seo-reseller-program/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EnginZyme founded funding employees revenue",
+   "results": [
+    "https://enginzyme.com/news/enginzyme-raises-eur21-million-in-series-b",
+    "https://pitchbook.com/profiles/company/434430-37",
+    "https://dealroom.co/news/155715-enginzyme-raises-sek-75m-7-6m-to-shift-from-r-d-to-commercial-biomanufac/",
+    "https://growjo.com/company/EnginZyme",
+    "https://equityzen.com/company/enginzyme/",
+    "https://tracxn.com/d/companies/enginzyme/__cBUXWf89QS0gFsdv_7RVuCPCt67cGapaNK3pkUGwo8E",
+    "https://sebgroup.com/our-offering/financing-and-investment-banking/greentech/investment-cases/enginzyme-holds-the-key-to-sustainable-chemical-production",
+    "https://www.biospace.com/press-releases/enginzyme-raises-sek-75-million-to-advance-its-commercial-biomanufacturing-strategy",
+    "https://www.h2020interfaces.eu/team/enginzyme/",
+    "https://startupintros.com/orgs/enginzyme"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com EnginZyme",
+   "results": [
+    "https://note.com/anri_vc/n/n69a397b68338",
+    "https://note.com/anri_vc/n/n69a397b68338?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/zunda_dd/n/ncc81b0456705",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4",
+    "https://note.com/rm131429/n/n97e57ea0bb41",
+    "https://note.com/zephel01/n/nd485fbb19ecb"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com EnginZyme",
+   "results": [
+    "https://x.com/CatalysisSciTec",
+    "https://x.com/GDCh_aktuell",
+    "https://x.com/NordeepSummit",
+    "https://x.com/enginzyme_com",
+    "https://x.com/EnginZyme/status/1537379376890888194",
+    "https://x.com/",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/BuzzingPop/status/2117864405064892847",
+    "https://x.com/nicoleleferink",
+    "https://x.com/PopBase/status/2116494180054909027"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com EnginZyme",
+   "results": [
+    "https://se.linkedin.com/company/enginzyme",
+    "https://www.linkedin.com/posts/karim-engelmark-cassimjee-8552632_after-more-than-twelve-years-i-am-moving-activity-7482717788197830656-Qcov",
+    "https://www.linkedin.com/posts/enginzyme_looking-for-enzymatic-routes-to-manufacture-activity-7523270480200384512-3n6J",
+    "https://www.linkedin.com/posts/enginzyme_our-offices-and-labs-in-solna-were-buzzing-activity-7508503199339933696-YO9h",
+    "https://ch.linkedin.com/in/de-gantes-aymeric-364a263",
+    "https://www.linkedin.com/posts/enginzyme_enginzyme-appoints-aymeric-de-gant%C3%A8s-as-new-activity-7333480782415470592-FhjY",
+    "https://se.linkedin.com/in/alexey-a-volkov",
+    "https://www.linkedin.com/posts/enginzyme_immobilised-calb-for-pharmaceutical-manufacturing-activity-7453052074046652417-7IP3",
+    "https://se.linkedin.com/in/marco-antonio-saucedo",
+    "https://se.linkedin.com/in/stefan-ionescu-b76652a8"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com EnginZyme",
+   "results": [
+    "https://www.facebook.com/sustainablescientists/posts/resources-from-brazil-to-produce-biopolymers-check-out-the-work-of-jason-clark-a/2471114203149463/",
+    "https://www.facebook.com/MilliporeSigma/videos/10-years-of-growth/1081271834198861/",
+    "https://www.facebook.com/chemarts.aalto/posts/i-enjoyed-most-the-company-and-the-expertise-of-my-chemarts-colleagues-and-the-c/326624723339622/",
+    "https://www.facebook.com/nafen/posts/nafen-continues-to-run-its-activities-within-the-phase-3-of-the-sme-instrument-w/694903400869940/",
+    "https://www.facebook.com/GDCh.de/",
+    "https://www.facebook.com/ZilliconEye/",
+    "https://www.facebook.com/inzynier.koszalin/",
+    "https://www.facebook.com/EncuentroFisicaGeometria/",
+    "https://www.facebook.com/spieoptica.uamazc/",
+    "https://www.facebook.com/EnginZyme-277253602652244/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EnginZyme note 社長",
+   "results": [
+    "https://enginzyme.com/",
+    "https://www.businesswire.com/news/home/20250528504132/en/Enginzyme-Appoints-Aymeric-de-Gants-as-New-CEO",
+    "https://enginzyme.com/news",
+    "https://jp.weforum.org/organizations/enginzyme",
+    "https://note.com/digzyme/n/n241347d0af33",
+    "https://note.com/digzyme/n/na5650b644e70",
+    "https://amoebaenergy.com/news/note-%E3%81%A7%E9%80%A3%E8%BC%89%E3%80%8Clab-to-fab%E3%80%8D%E3%82%92%E9%96%8B%E5%A7%8B%E3%80%82essay-i-%E5%85%AC%E9%96%8B/",
+    "https://note.com/digzyme/n/n4cb24197110b",
+    "https://note.com/growth_verse/n/n1af5b24318bc",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EnginZyme X 投稿",
+   "results": [
+    "https://enginzyme.com/news",
+    "https://se.linkedin.com/company/enginzyme",
+    "https://via.tt.se/pressmeddelande/4563820/enginzyme-raises-sek-75-million-to-advance-its-commercial-biomanufacturing-strategy?publisherId=259167&lang=en",
+    "https://www.businesswire.com/news/home/20250528504132/en/Enginzyme-Appoints-Aymeric-de-Gants-as-New-CEO",
+    "https://jp.weforum.org/organizations/enginzyme",
+    "https://app.dealroom.co/news/note/enginzyme-raises-sek-75m-7-6m-to-shift-from-r-d-to-commercial-biomanufacturing",
+    "https://enginzyme.com/news/enginzyme-produces-key-mrna-vaccine-ingredient-using-biocatalysis",
+    "https://www.h2020interfaces.eu/team/enginzyme/",
+    "https://sofinnovapartners.com/portfolio/enginzyme",
+    "https://x.com/enginzyme_com"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

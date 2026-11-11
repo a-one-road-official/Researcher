@@ -1,0 +1,913 @@
+{
+ "name": "Modvion",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T03:19:36.679527+00:00",
+ "official_url": "https://modvion.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$203,000",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$18,200,000",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Transportgatan 39, Gothenburg, Västra Götaland County 422 46, SE",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Wooden wind turbine towers are the solution to near future problems.",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "above 100 metres in height, transportation poses considerable problems, not least that the base diameters exceed the limit for transport width in most parts of the USA and the EU. Our modular concept means the towers are delivered to site in – tada – modules!",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Now, it's profitable to go high",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", the cost of building tall towers in traditional materials is too expensive. The extra height squeezes the margins to the point that energy producers end up choosing shorter, less-efficient, towers.",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modvion provides a carbon-negative tower, storing more carbon than it produces.​",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In fact a wooden tower stores more carbon than it emits during production, transport and installation, making the tower carbon negative. Conventional towers are responsible for the biggest share of CO",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "emissions in a wind turbine due to the use of materials like steel and concrete, that are responsible for approximately",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "30 april 2026",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "29 april 2026",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modvion secures €39.1 million in EU funding to scale production for wooden wind turbine towers",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modvion selected for the Swedish–German Accelerator Programme 2026",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modvion has been selected to take part in the Swedish–German Accelerator Programme 2026, run within the Swedish-German Cleantech Platform (SGCP). The programme supports innovative Swedish...",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modvion enters Grant Agreement Preparation for €39 million grant from the EU Innovation Fund",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Swedish wood technology company Modvion has been selected by the European Commission to enter Grant Agreement Preparation by the Innovation Fund. The grant of...",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modvion Presented at IQPC Wind Week 2025 in Bremen Modvion, the pioneering wood-technology company bringing tall, sustainable wind turbine towers to market, was proud to...",
+    "url": "https://modvion.com/",
+    "pass": 1
+   },
+   {
+    "quote": "On 14 May 2025, Modvion had the honour of participating in Sweden�s National Day celebration at Expo 2025 Osaka as part of Team Sweden � representing the country�s commitment to sustainable innovation and global collaboration.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "We were proud to attend as one of the nominees for the inaugural Pioneer Prize, with our CEO Otto Lundman representing Modvion on-site at the Expo. The nomination alone was a recognition of our work in pushing the boundaries of sustainable design and renewable energy infrastructure.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "Hosted under the theme �Join Sweden to Pioneer the Possible,� the day brought together government leaders, innovators, and business representatives to highlight Sweden�s forward-looking solutions and strengthen ties with international partners � especially Japan.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "The National Day program was led by an official delegation including HM King Carl XVI Gustaf, Minister for Development Cooperation and Foreign Trade Benjamin Dousa, and Jacob Wallenberg, Chairman of the Confederation of Swedish Enterprise, who led a broad business delegation.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "Recognizing Swedish Innovation: The Pioneer Prize",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "One of the highlights was the announcement of the first Pioneer Prize � a new award recognizing Swedish innovations with the potential to create significant global impact. We congratulate Green Iron on being named the first-ever Pioneer Prize winner!",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "We�re proud to have been nominated alongside a remarkable group of innovators: Candela, Neola Medical, Blue Ocean Closures, CorPower Ocean, Elonroad, and Cemvision. Together, we represent the depth and breadth of Swedish ingenuity aimed at solving some of the world�s most pressing challenges.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "At Modvion, we believe the future of renewable energy infrastructure must be sustainable at every level � from the materials we use to the partnerships we build. Our presence at Expo 2025 was a moment to reflect on how far we�ve come and how much more is possible when we collaborate across borders.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "Sweden�s message to the world � Pioneer the Possible � is one we carry with pride. We�re grateful to be part of this journey and excited about the global momentum toward a greener, smarter future.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "- TIC Solutions, Inc. (NYSE: TIC) (the �Company� or �TiC Solutions�), a leading provider of tech-enabled asset integrity, engineering, and geospatial se...",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "- The 15th China Innovation & Entrepreneurship Competition � \"AI + Construction Machinery\" Division, co-organized by XCMG, concluded in Xuzhou on Oct. 3...",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "- - First v4 MCS chargers (compatible with production Tesla Semi) in the Port of Long Beach gateway",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "- Inaugural charge sessions of customers' produ...",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "New Mercedes-Benz Arocs for the Prague fire brigade",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "Vestas Ventures invests in wood technology start-up Modvion, to create sustainable products and low-carbon value chain",
+    "url": "https://www.vestas.com/en/media/company-news/2021/vestas-ventures-invests-in-wood-technology-start-up-mod-c3289032",
+    "pass": 3
+   },
+   {
+    "quote": "said Bo Svoldgaard, Senior Vice President and Head of Innovation and Concepts at Vestas.",
+    "url": "https://www.vestas.com/en/media/company-news/2021/vestas-ventures-invests-in-wood-technology-start-up-mod-c3289032",
+    "pass": 3
+   },
+   {
+    "quote": "Vestas’ investment was finalised on January 29th, 2021. Vestas Ventures was established in late 2020 as a corporate venture capital arm, with a vision to accelerate the deployment of sustainable energy, the electrification of societies and unlock new growth opportunities through relevant investment programs.",
+    "url": "https://www.vestas.com/en/media/company-news/2021/vestas-ventures-invests-in-wood-technology-start-up-mod-c3289032",
+    "pass": 3
+   },
+   {
+    "quote": "For updated Modvion press material, including product images, please",
+    "url": "https://www.vestas.com/en/media/company-news/2021/vestas-ventures-invests-in-wood-technology-start-up-mod-c3289032",
+    "pass": 3
+   },
+   {
+    "quote": "For updated Vestas photographs and videos, please visit our media images page on:",
+    "url": "https://www.vestas.com/en/media/company-news/2021/vestas-ventures-invests-in-wood-technology-start-up-mod-c3289032",
+    "pass": 3
+   },
+   {
+    "quote": "and following us on our social media channels:",
+    "url": "https://www.vestas.com/en/media/company-news/2021/vestas-ventures-invests-in-wood-technology-start-up-mod-c3289032",
+    "pass": 3
+   },
+   {
+    "quote": "Wood Product Manufacturing",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Head Of Product Development",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Global Printing & Packaging",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion has approximately",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本の木材市場は、輸入木材にとってますます大きな課題に直面している",
+    "url": "https://ja.woodandpanel.com/%E3%82%A6%E3%83%83%E3%83%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E8%A8%98%E4%BA%8B/Modvion%E3%81%AF%E6%9C%80%E6%96%B0%E3%81%AE%E6%9C%A8%E8%A3%BD%E9%A2%A8%E5%8A%9B%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E3%82%92IQPC%E9%A2%A8%E5%8A%9B%E9%80%B1%E9%96%93%E3%81%A7%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion at World Expo 2025 in Osaka - Events",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion at World Expo 2025 in Osaka",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "On 14 May 2025, Modvion had the honour of participating in Sweden�s National Day celebration at Expo 2025 Osaka as part of Team Sweden � representing the country�s commitment to sustainable innovation and global collaboration.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "Hosted under the theme �Join Sweden to Pioneer the Possible,� the day brought together government leaders, innovators, and business representatives to highlight Sweden�s forward-looking solutions and strengthen ties with international partners � especially Japan.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "Expo 2025 is one of the largest international events of the decade, set in Osaka, Japan, with more than 160 participating countries, 28 million visitors expected, and a strong focus on co-creating future societies.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Modvion - We build wind turbine towers. In wood — Modvion towers are built from laminated wood, where the wood itself stores carbon. In fact a wooden tower stores more carbon than it emits during production, transport and installation, making the tower carbon negative.",
+    "url": "https://modvion.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion at World Expo 2025 in Osaka - Modvion News — May 14, 2025 · At Modvion, we believe the future of renewable energy infrastructure must be sustainable at every level — from the materials we use to the partnerships we build.",
+    "url": "https://modvion.com/news/modvion-at-world-expo-2025-in-osaka/",
+    "pass": 3
+   },
+   {
+    "quote": "ModvionはIQPC Wind Weekで最新の木製風力タービンを披露しました - — Modvionは、「風力タービンタワー」トラックで注目を集めました。 このセグメントは、より高く、より効率的な風力エネルギーインフラを構築するための次世代ソリューションに焦点を当てています。",
+    "url": "https://ja.woodandpanel.com/ウッドニュース/記事/Modvionは最新の木製風力タービンをIQPC風力週間で発表しました/",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion、持続可能なイノベーションに関するVestas 2024年年次報告書... — 」 Modvionは、炭素排出量ゼロの高層風力タービンタワーを提供しています。 これがVestasの注目を集め、2021年にVestas Venturesからの投資につながり、2年に商用2023MW風力タービンを設置し、現在は木製タワーをVestasの技術に統合しています。",
+    "url": "https://ja.woodandpanel.com/ウッドニュース/記事/Modvion、Vestasの持続可能なイノベーションに関する2024年年次報告書で注目される/",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion に関するニュース一覧 | Sustainable Japan | 世界のサステナ... — 高層化と発電効率改善 フィンランド製紙・木材大手ストラ・エンソとスウェーデン木造風力発電所建設Modvionは5月25日、木材を活用した風力発電所のタワー建設の実証に向け、協働すると発表した。 厳格な要件が設定された構造物における木材利用の可 [&hell...",
+    "url": "https://sustainablejapan.jp/tag/modvion",
+    "pass": 3
+   },
+   {
+    "quote": "The Product - Modvion - We build wind turbine towers. In wood — As the towers get taller, the logistical challenge increases. Modvion has a patented solution, which enables transport on ordinary roads, with ordinary trucks. For us, bridges, tunnels, and winding roads are no problem. Imagine 50 000 steel bolts you don’t need to inspect.",
+    "url": "https://modvion.com/the-product/",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion | LinkedIn — Modvion accelerates the transition to renewable energy and materials by building wind turbine towers made from laminated wood – nature’s own carbon fibre. Wooden designs enable radical reductions...",
+    "url": "https://jp.linkedin.com/company/modvion",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion at World Expo 2025 in Osaka - Events — Expo 2025 is one of the largest international events of the decade, set in Osaka, Japan, with more than 160 participating countries, 28 million visitors expected, and a strong focus on co-creating future societies.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "Vestas Ventures invests in wood technology start-up Modvion ... — Feb 18, 2021 · Vestas, the global leader in sustainable energy solutions, has invested in Swedish wood technology company Modvion, in a move towards creating fully sustainable products and solutions, and reducing carbon emissions from our value chain.",
+    "url": "https://www.vestas.com/en/media/company-news/2021/vestas-ventures-invests-in-wood-technology-start-up-mod-c3289032",
+    "pass": 3
+   },
+   {
+    "quote": "Career Archive - Modvion - We build wind turbine towers. In wood — Modvion is jam-packed with smart people who are working on the next generation of tall towers, minus the carbon emissions. If you want to do what you love, be creative and contribute towards creating a truly sustainable source of future energy – then you should join us.",
+    "url": "https://modvion.com/career/",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion: Public Funding Case Study | Zaz Ventures — Under the EU Innovation Fund, Modvion secured up to €39.1 million to build the world's first serial production facility for wooden towers at Trollhättan, expected to produce some 1,500 towers over ten years and avoid around 18 million tonnes of CO₂ equivalent.",
+    "url": "https://www.zazventures.com/impact-report-2026/modvion/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweden’s 150-Meter Wooden Wind Turbine: Why Modvion’s ... — Oct 15, 2026 · With Modvion now developing 6-to-10-megawatt commercial timber towers reaching 200+ meters in total height, Swedish wood engineering is poised to lift the global wind industry to altitudes steel could never reach.",
+    "url": "https://engineerine.com/sweden-modvion-150-meter-laminated-wood-wind-turbine-tower/",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion – Financials, Industry Trends & Funding Info – 2026 — Discover Modvion's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/modvion",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Report - modvion.com — In parallel, Modvion is working to secure the counter-financing required to enable the establishment of a serial production facility. The company continues to engage with both existing owners and new investors to build a long-term financing structure aligned with its industrial ambitions.",
+    "url": "https://modvion.com/wp-content/uploads/sites/6/2026/04/Modvion-AB-Annual-report-559068-2976-2025-12-31-FINAL.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion Revenue, Funding & Valuation - prospeo.io — Modvion has revenue of $9,100,000, estimated valuation of $29,200,000, $18,200,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ANNUAL REPORT - Modvion — Modvion was founded in 2016 and currently has 34 employees. The company is owned by the founders, Vestas Ventures, Chalmers Ventures, EIC Fund and some 100 other shareholders. The company has its headquarters in Gothenburg. The highlight of the year is the commissioning of the Wind of Change tower!",
+    "url": "https://modvion.com/wp-content/uploads/sites/6/2024/05/Modvion-Annual-Report-2023.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion 2026 Company Profile: Valuation, Funding & Investors ...Modvion — Company Profile, Funding & InvestorsModvion: Funding, Investors & Team (Oct 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Modvion. Use the PitchBook Platform to explore the full profile. Modvion company profile with $65.03M raised across 9 funding rounds, HQ in Göteborg, Swed",
+    "url": "https://pitchbook.com/profiles/company/173261-35",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "On 14 May 2025, Modvion had the honour of participating in Sweden�s National Day celebration at Expo 2025 Osaka as part of Team Sweden � representing the country�s commitment to sustainable innovation and global collaboration.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "Sweden�s message to the world � Pioneer the Possible � is one we carry with pride. We�re grateful to be part of this journey and excited about the global momentum toward a greener, smarter future.",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "- TIC Solutions, Inc. (NYSE: TIC) (the �Company� or �TiC Solutions�), a leading provider of tech-enabled asset integrity, engineering, and geospatial se...",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "- Fluor Corporation (NYSE: FLR) announced today that management will be hosting one on one meetings at the following conferences for the fourth quarter ...",
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Modvion",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Modvion?",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Modvion have?",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "“We are excited to have Vestas onboard and for the chance to support the world’s leading wind turbine manufacturer in reaching its ambitious sustainability targets. To tackle the climate crisis, we need more renewable energy and increased use of sustainable, wooden constructions, and Modvion's technology enables both,“",
+    "url": "https://www.vestas.com/en/media/company-news/2021/vestas-ventures-invests-in-wood-technology-start-up-mod-c3289032",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion: Public Funding Case Study | Zaz Ventures",
+    "url": "https://www.zazventures.com/impact-report-2026/modvion/",
+    "pass": 3
+   },
+   {
+    "quote": "Wood Product Manufacturing",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Modvion (@modvion) / Posts / X Företaget @modvion har kläckt den fantastiska idén att producera vindkraftstorn i limträ. Just nu filas det på en prototyp, men målet är att skapa klimatneutrala vindkraftstorn för en världsmarknad.",
+    "url": "https://x.com/modvion",
+    "pass": 3
+   },
+   {
+    "quote": "#Modvion builds #world's tallest #wooden #wind #turbine in # ... Tech Trend Hub (@TechTrendHub). 115 views. #Modvion builds #world's tallest #wooden #wind #turbine in #Sweden. #Green #energy for 400 homes.",
+    "url": "https://x.com/TechTrendHub/status/1740500324555903183",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion (@modvion) / Posts / X Mar 9, 2016 · Företaget @modvion har kläckt den fantastiska idén att producera vindkraftstorn i limträ. Just nu filas det på en prototyp, men målet är att skapa klimatneutrala vindkraftstorn för en världsmarknad.",
+    "url": "https://x.com/modvion",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Modvion - LinkedIn Thanks to a patented modular system, Modvion has been able to develop wind towers that can reach the heights the wind power industry is striving for whilst remaining cost-efficient.",
+    "url": "https://www.linkedin.com/company/modvion",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion Jobs in United States (3,000+ Open Roles) | LinkedIn Today’s top 3,000+ Modvion jobs in United States. Leverage your professional network, and get hired. New Modvion jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/modvion-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Otto Lundman – Co-Founder & Business Developer, Modvion ...Erik Osvaldsson – Head of Operations at Modvion | LinkedInMaria-Lina Hedlund - CEO at Modvion | LinkedIn#innovation #fundingnews #energytransition | Modvion | 40 ...#teammodvion #leadershipannouncement #windpower # ... - LinkedIn Co-founder of Modvion, the designers of the next generation of wind power towers - a patented modular construct",
+    "url": "https://se.linkedin.com/in/otto-lundman-4a9164113",
+    "pass": 3
+   },
+   {
+    "quote": "Erik Osvaldsson – Head of Operations at Modvion | LinkedInMaria-Lina Hedlund - CEO at Modvion | LinkedIn#innovation #fundingnews #energytransition | Modvion | 40 ...#teammodvion #leadershipannouncement #windpower # ... - LinkedIn Head of Operations at Modvion · Dedicated, driven and solutions oriented with a passion for technology and its uses. A burning desire to roll up the sleeves and do what i",
+    "url": "https://se.linkedin.com/in/erik-osvaldsson-a0556238",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Modvion | Gothenburg - FacebookModvion - Videos | FacebookModvion - Big news Modvion is thrilled ... - FacebookModvion - “Modvion is the game changer I just have to be a ...Modvion - \"I joined Modvion because they provide a... | FacebookModvion - \"I am proud to be a part of Modvion where... | FacebookModvion - Today we announced our wooden wind turbine tower ... Nov 14, 2025 · Modvion provides mod",
+    "url": "https://www.facebook.com/modvion/",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion - Videos | Facebook Here’s a sneak peak from the site where Modvion’s tower will stand next year! Picture a wind turbine with that looks like any other, except it’s the world’s first commercial turbine using a modular, wooden tower. 💫 As you can see the work has already begun…",
+    "url": "https://www.facebook.com/watch/modvion/",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion - Big news Modvion is thrilled ... - Facebook Nov 14, 2025 · 🚨 Big news 🚨 Modvion is thrilled to announce that we have been selected for Grant Agreement Preparation for up to €39.1 million in financing from the...",
+    "url": "https://www.facebook.com/modvion/posts/-big-news-modvion-is-thrilled-to-announce-that-we-have-been-selected-for-grant-a/1343756470780605/",
+    "pass": 3
+   },
+   {
+    "quote": "Modvion - “Modvion is the game changer I just have to be a ... Nov 24, 2021 · “The Innovation Fund grant will enable Modvion to scale production capacity to meet the demand from the European wind industry. Our towers enable taller wind turbines to increase the efficiency and profitability of wind energy, all while replacing hard-to-abate steel and concrete.” - Maria-Lina Hedlund CEO",
+    "url": "https://www.facebook.com/modvion/posts/modvion-is-the-game-changer-i-just-have-to-be-a-part-of-daniel-jälmbratt-joins-o/1478183825901027/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://modvion.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://modvion.com/the-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://modvion.com/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.woodandpanel.com/%E3%82%A6%E3%83%83%E3%83%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E8%A8%98%E4%BA%8B/Modvion%E3%81%AF%E6%9C%80%E6%96%B0%E3%81%AE%E6%9C%A8%E8%A3%BD%E9%A2%A8%E5%8A%9B%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E3%82%92IQPC%E9%A2%A8%E5%8A%9B%E9%80%B1%E9%96%93%E3%81%A7%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.woodandpanel.com/%E3%82%A6%E3%83%83%E3%83%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E8%A8%98%E4%BA%8B/Modvion%E3%80%81Vestas%E3%81%AE%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%AA%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B2024%E5%B9%B4%E5%B9%B4%E6%AC%A1%E5%A0%B1%E5%91%8A%E6%9B%B8%E3%81%A7%E6%B3%A8%E7%9B%AE%E3%81%95%E3%82%8C%E3%82%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/modvion",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vestas.com/en/media/company-news/2021/vestas-ventures-invests-in-wood-technology-start-up-mod-c3289032",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vestas.com/en/media/company-news/2021/vestas-ventures-invests-in-wood-technology-start-up-mod-c3289032",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zazventures.com/impact-report-2026/modvion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/378291359_Case_Study_Analysis_of_Toyota_Company_and_make_time_to_market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/modvion",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/modvion-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/modvion",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TechTrendHub/status/1740500324555903183",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/modvion",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/modvion-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/in/otto-lundman-4a9164113",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/in/erik-osvaldsson-a0556238",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/modvion/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/watch/modvion/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/modvion/posts/-big-news-modvion-is-thrilled-to-announce-that-we-have-been-selected-for-grant-a/1343756470780605/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/modvion/posts/modvion-is-the-game-changer-i-just-have-to-be-a-part-of-daniel-jälmbratt-joins-o/1478183825901027/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/modvion",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Modvion 日本 導入",
+   "results": [
+    "https://modvion.com/",
+    "https://modvion.com/news/modvion-at-world-expo-2025-in-osaka/",
+    "https://ja.woodandpanel.com/ウッドニュース/記事/Modvionは最新の木製風力タービンをIQPC風力週間で発表しました/",
+    "https://ja.woodandpanel.com/ウッドニュース/記事/Modvion、Vestasの持続可能なイノベーションに関する2024年年次報告書で注目される/",
+    "https://sustainablejapan.jp/tag/modvion",
+    "https://ja.stamping-welding.com/news/crafting-wooden-wind-farms-for-a-greener-tomor-74723295.html",
+    "https://goetheweb.jp/gourmet/article/20260902-moderition"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Modvion 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Modvion Japan",
+   "results": [
+    "https://modvion.com/the-product/",
+    "https://jp.linkedin.com/company/modvion",
+    "https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866",
+    "https://www.vestas.com/en/media/company-news/2021/vestas-ventures-invests-in-wood-technology-start-up-mod-c3289032",
+    "https://sustainablejapan.jp/tag/modvion",
+    "https://engineerine.com/sweden-modvion-150-meter-laminated-wood-wind-turbine-tower/",
+    "https://modvion.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Modvion manufacturing customer case study",
+   "results": [
+    "https://modvion.com/career/",
+    "https://www.vestas.com/en/media/company-news/2021/vestas-ventures-invests-in-wood-technology-start-up-mod-c3289032",
+    "https://www.zazventures.com/impact-report-2026/modvion/",
+    "https://www.researchgate.net/publication/378291359_Case_Study_Analysis_of_Toyota_Company_and_make_time_to_market",
+    "https://engineerine.com/sweden-modvion-150-meter-laminated-wood-wind-turbine-tower/",
+    "https://modvion.com/",
+    "https://www.ecoportal.net/en/wooden-wind-turbine-innovation/19779/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Modvion white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Modvion founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/modvion",
+    "https://modvion.com/wp-content/uploads/sites/6/2026/04/Modvion-AB-Annual-report-559068-2976-2025-12-31-FINAL.pdf",
+    "https://prospeo.io/c/modvion-revenue",
+    "https://modvion.com/wp-content/uploads/sites/6/2024/05/Modvion-Annual-Report-2023.pdf",
+    "https://pitchbook.com/profiles/company/173261-35",
+    "https://acquirezy.com/organization/modvion",
+    "https://fundediq.co/modvion-modvion-com-funding/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Modvion",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/habibee/n/n50a8b6a6ca51",
+    "https://note.com/mio_adviser_8888/n/n7d3f9597f090",
+    "https://note.com/karisomenona/n/n835e4ccf85c4",
+    "https://note.com/glossy_pika3109/n/n85e1eafab62a",
+    "https://note.com/arahata0907/n/na8ab6bf5d34f",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Modvion",
+   "results": [
+    "https://x.com/modvion",
+    "https://x.com/TechTrendHub/status/1740500324555903183",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/dn654sakata/status/2119369430631383489",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/youdoingtoomuch/status/2114185237387456512"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Modvion",
+   "results": [
+    "https://www.linkedin.com/company/modvion",
+    "https://www.linkedin.com/jobs/modvion-jobs",
+    "https://se.linkedin.com/in/otto-lundman-4a9164113",
+    "https://se.linkedin.com/in/erik-osvaldsson-a0556238",
+    "https://www.linkedin.com/pub/dir/Maria-Lina/Hedlund",
+    "https://www.linkedin.com/posts/modvion_innovation-fundingnews-energytransition-activity-7028370378070589442-Cx5W",
+    "https://www.linkedin.com/posts/modvion_teammodvion-leadershipannouncement-windpower-activity-7325881207366283265-BoTl"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Modvion",
+   "results": [
+    "https://www.facebook.com/modvion/",
+    "https://www.facebook.com/watch/modvion/",
+    "https://www.facebook.com/modvion/posts/-big-news-modvion-is-thrilled-to-announce-that-we-have-been-selected-for-grant-a/1343756470780605/",
+    "https://www.facebook.com/modvion/posts/modvion-is-the-game-changer-i-just-have-to-be-a-part-of-daniel-jälmbratt-joins-o/1478183825901027/",
+    "https://www.facebook.com/modvion/posts/i-joined-modvion-because-they-provide-a-challenging-opportunity-to-improve-on-su/1357227154663362/",
+    "https://www.facebook.com/modvion/posts/i-am-proud-to-be-a-part-of-modvion-where-innovation-and-technology-come-together/1426899474362796/",
+    "https://www.facebook.com/modvion/posts/today-we-announced-our-wooden-wind-turbine-tower-design-for-among-the-largest-on/1142879524201635/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Modvion note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://modvion.com/",
+    "https://note.com/sanshita_note/n/n06e080c63da4",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Modvion X 投稿",
+   "results": [
+    "https://x.com/modvion",
+    "https://modvion.com/",
+    "https://modvion.com/press",
+    "https://x.com/motion_so/status/2083992227114520576",
+    "https://modx.jp/",
+    "https://www.ureru-sns.com/instagram-grid-post-3split/",
+    "https://help.x.com/ja/using-x/mentions-and-replies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

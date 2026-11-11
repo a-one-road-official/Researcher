@@ -1,0 +1,1551 @@
+{
+ "name": "Teleo",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T03:21:21.585577+00:00",
+ "official_url": "https://www.teleo.ai/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$32,000",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$19,000,000",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Palo Alto, California, United States",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "read the press release.",
+    "url": "https://www.teleo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase site productivity",
+    "url": "https://www.teleo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Teleo’s remote command center offers significantly safer and more comfortable working conditions. Build a stronger workforce by improving the operator experience and offering a more accessible job.",
+    "url": "https://www.teleo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer unprecedented analytics through real-time video and historical data. Improve operational performance by making more informed business decisions.",
+    "url": "https://www.teleo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Click here to play the full version of the video",
+    "url": "https://www.teleo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborator program,",
+    "url": "https://www.teleo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Uncompromising Safety",
+    "url": "https://www.teleo.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Finance",
+    "url": "https://www.teleo.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Robotics Engineer",
+    "url": "https://www.teleo.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Venture Partner, F-Prime Capital",
+    "url": "https://www.teleo.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Teleo to demonstrate a supervised autonomy workforce shortage solution at CONEXPO 2026, in partnership with Hitachi Construction Machinery - Hitachi Construction Machinery Americas",
+    "url": "https://www.hitachicm.com/us/en/news/2026/teleo-to-demonstrate-a-supervised-autonomy-workforce-shortage-so/",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo to demonstrate a supervised autonomy workforce shortage solution at CONEXPO 2026, in partnership with Hitachi Construction Machinery",
+    "url": "https://www.hitachicm.com/us/en/news/2026/teleo-to-demonstrate-a-supervised-autonomy-workforce-shortage-so/",
+    "pass": 3
+   },
+   {
+    "quote": "At CONEXPO-CON/AGG 2026, supervised autonomy startup Teleo will join Hitachi Construction Machinery’s booth (F19012) to provide the heavy equipment world with a workforce shortage solution.",
+    "url": "https://www.hitachicm.com/us/en/news/2026/teleo-to-demonstrate-a-supervised-autonomy-workforce-shortage-so/",
+    "pass": 3
+   },
+   {
+    "quote": ". The ‘O’ in the acronym represents ‘Open’, their commitment to openly collaborating with startups and companies who are experts in emerging technology. This will enable the company to add technology to their equipment that provide ‘Solutions’ to real world needs, which is what the ‘S’ in their upcoming brand represents.",
+    "url": "https://www.hitachicm.com/us/en/news/2026/teleo-to-demonstrate-a-supervised-autonomy-workforce-shortage-so/",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Intuition Expands Autonomy Products to Include Automotive…",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "April 14, 2026",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "April 28, 2025",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Aeva to Accelerate Scaled Production of 4D LiDAR…",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "CA Proposes Testing Driverless Heavy-Duty Trucks",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "April 26, 2023",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "April 23, 2021",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Apex.AI software to help Combined Powers with production…",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Topcon Enhances Machine Control Capabilities with HP SitePrint…",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Army Robotic Combat Vehicles Seek AI for Predictive…",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Sky-Hero, AARDVARK and PROJECT7 Collaborate on the SINGN…",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "April 12, 2023",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "April 7, 2023",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": ", 91% of construction firms are having a hard time finding workers to hire, driving up costs and project delays.",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "To address these challenges, Teleo’s “incremental approach” called Supervised Autonomy enables remote and semi-autonomous operations of any make and model of heavy construction equipment. A key benefit is that one operator can control multiple machines from the comfort of a command center.",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": ", Vice President of Sales;",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": ", Vice President of Operations and Customer Success; and",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo is developing a global dealer partner network to lead and help ease the transition to autonomy and make customer adoption of remote and semi-autonomous heavy equipment as easy as possible in more regions of the world. The company is working with those contractor partners to identify the best use cases for its system, handling everything from operator training to network implementation.",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": ", Head of Engineering at Teichert Materials. “The technology will improve the operator experience, making the job safer and more comfortable for our team members. The central command center also makes it easier for operators to go on breaks and creates a seamless and efficient transition between shifts.”",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "624K wheel loader is being retrofitted to remotely load and unload materials in Tillsonburg, Ontario, Canada starting in 2023 Q2. The operation traditionally includes a lot of stop-and-go work. The Teleo system increases efficiency by allowing operators to focus on higher-impact work during significant “unproductive time.”",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Oy, provides holistic smart technology solutions and services such as machinery automation, fleet management, data analytics, and wireless network solutions.",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "The strengthened dealer partner network provides installation of the Teleo system to ensure successful integration and provides ongoing support, operator training, and warranty management of the technology to maximize customer uptime.",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "April 16, 2024",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Topcon Enhances Machine Control Capabilities with HP SitePrint...",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "By submitting this form, you are consenting to receive marketing emails from: Inside Autonomous Vehicles, 157 Broad St, Red Bank, NJ, 07701. You can revoke your consent to receive emails at any time by using the SafeUnsubscribe® link, found at the bottom of every email.",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Legacy International Resort Properties",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo has approximately",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo’s primary industry is Other Hardware.",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Is Teleo a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo Company Profile and Key Stats",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "RBC Signals is a global space communications provider serving satellite operators in GEO, LEO, & MEO with an…",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Liqid is an IT company that provides comprehensive, software-defined composable infrastructure solutions and…",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Skylo Technologies is a worldwide provider of NTN services, enabling direct connection between smartphones…",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Attract more operators",
+    "url": "https://www.teleo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Teleo’s technology has the potential to completely transform our operations. With Teleo, two of our dump trucks that have been idle will be put back into service to haul dirt across the site autonomously, allowing our remote operators to do more. This will help us to run a more efficient operation.",
+    "url": "https://www.teleo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With Teleo, you have the opportunity to put operators in a much safer, secure environment. It really opens up the doors for what kinds of people can participate in our industry.",
+    "url": "https://www.teleo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "manufacturing and construction jobs on Fox Business's 'The Claman Countdown.'",
+    "url": "https://www.teleo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "operated by remote control. With it, operators can run",
+    "url": "https://www.teleo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "human operators to help the construction industry",
+    "url": "https://www.teleo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With this partnership, both companies are committed to helping customers augment the impact of their best operators. Operators can instantly switch from one machine to another, enabling them to control an entire retrofitted fleet from one place.",
+    "url": "https://www.hitachicm.com/us/en/news/2026/teleo-to-demonstrate-a-supervised-autonomy-workforce-shortage-so/",
+    "pass": 3
+   },
+   {
+    "quote": ". “I was blown away how easy it is to learn especially for me personally not being an operator,” said Pedro Bobadilla, Fleet Manager from Park West, a commercial landscape construction company. “It’s really hard to find qualified operators for all the different types of machines we have. To have someone operate two or three or even more machines… could reduce our costs significantly.”",
+    "url": "https://www.hitachicm.com/us/en/news/2026/teleo-to-demonstrate-a-supervised-autonomy-workforce-shortage-so/",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Intuition Expands Autonomy Products to Include Automotive…",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "STMicroelectronics Releases Satellite Navigation Receiver for Automotive and…",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "John Deere Advances Manufacturing Automation with Autonomous Tow-Tractor…",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "“The construction industry is experiencing a growing skilled labor shortage,” said Shet. “We founded Teleo to help contractors supercharge their operators’ efforts by turning their equipment into semi-autonomous machines. By moving the operator out of the cab of the machine and into a command center, we’re also making the operator’s role safer, comfortable, and more accessible.”",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "“We have had two trucks sitting around for 10 months without operators in them,” said",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": ", Head of Engineering at Teichert Materials. “The technology will improve the operator experience, making the job safer and more comfortable for our team members. The central command center also makes it easier for operators to go on breaks and creates a seamless and efficient transition between shifts.”",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Canada-based John Aarts Group is the first company to leverage remote operations to virtually load at a concrete plant. A",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "624K wheel loader is being retrofitted to remotely load and unload materials in Tillsonburg, Ontario, Canada starting in 2023 Q2. The operation traditionally includes a lot of stop-and-go work. The Teleo system increases efficiency by allowing operators to focus on higher-impact work during significant “unproductive time.”",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "“There is more work to be done than there are operators, and Teleo is helping us to create opportunities for team members to do more of the meaningful work they like to do,” said",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": ", CEO of John Aarts Group. “We’ve always been early adopters of technology, and we are partnering with Teleo to load our concrete plant because we saw an opportunity to increase efficiency.”",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Another partner now offering Teleo Supervised Autonomy technology is RDO Equipment Co. The company sells and supports agriculture, construction, environmental, irrigation, positioning, and surveying equipment from manufacturers including John Deere,",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "John Deere Advances Manufacturing Automation with Autonomous Tow-Tractor...",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Machinery Manufacturing",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo converts existing fleets of heavy equipment into semi-autonomous robots. Operators control machines from a remote desk, instantly switching between machines and across job sites.",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "RBC Signals is a global space communications provider serving satellite operators in GEO, LEO, & MEO with an…",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo specializes in converting existing fleet into remote-controlled robots. It enables operators to control machines from miles away, instantly switching between machines and across job sites. Teleo increases the operator's productivity, enhances crew safety, and features advanced Jobsite insights.",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "必要な操作は電話をかけるだけ！ 電話発信認証サービス TELEO | 三菱電機デジタルイノベーション株式会社",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/solution/teleo/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社カラーズが開発した飲食店向け注文・レジ会計システム「Shop」に電話発信認証サービスTELEOを導入",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/solution/teleo/",
+    "pass": 3
+   },
+   {
+    "quote": "電話発信認証サービス TELEO、TELEOは、三菱電機デジタルイノベーション株式会社の登録商標です",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/solution/teleo/",
+    "pass": 3
+   },
+   {
+    "quote": "TELEO（テレオ）は、三菱電機デジタルイノベーション株式会社が提供するクラウド型の電話発信認証サービスです",
+    "url": "https://catalog.monex.co.jp/service/554",
+    "pass": 3
+   },
+   {
+    "quote": "電話（Voice）を API で扱う主要 7 サービスを、機能・料金・日本の 050／0120 番号対応・実装イメージ（TwiML／REST+Webhook）・音声 AI ボイスボットの現在地・6 つの選び方まで横断整理します",
+    "url": "https://catalog.monex.co.jp/service/554",
+    "pass": 3
+   },
+   {
+    "quote": "TELEO活用 | 株式会社第一興商 | 三菱電機デジタルイノベーション株式会社",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/case/big-echo/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社第一興商様が展開するビッグエコーの公式アプリに電話発信認証サービス TELEOを導入",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/case/big-echo/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社第一興商様が展開するビッグエコーの公式アプリに電話発信認証サービス TELEOが導入されました",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/case/big-echo/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社第一興商様は、ビッグエコー利用会員の拡大策の柱として、公式アプリの普及に取り組んでいます",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/case/big-echo/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、TELEO導入事例として三菱UFJ銀行様における活用方法などもご紹介します",
+    "url": "https://majisemi.com/e/c/mdis2-20250325/M1B",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、TELEOの販売代理店となっていただける方に向けて、販売代理店となっていただく場合のスキームもご説明します",
+    "url": "https://majisemi.com/e/c/mdis2-20250325/M1B",
+    "pass": 3
+   },
+   {
+    "quote": "14:25～14:50 TELEOのサービス概要、認証の仕組み、販売代理店向けスキームなどの紹介",
+    "url": "https://majisemi.com/e/c/mdis2-20250325/M1B",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機インフォメーションシステムズ株式会社（",
+    "url": "https://majisemi.com/e/c/mdis2-20250325/M1B",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機インフォメーションシステムズ株式会社は、2025/4/1から三菱電機デジタルイノベーション株式会社となりました",
+    "url": "https://majisemi.com/e/c/mdis2-20250325/M1B",
+    "pass": 3
+   },
+   {
+    "quote": "※本コミュニティにてご提示いただいた情報、及び、申込時にご記載いただいた内容は、マジセミ株式会社にて収集し、マジセミ株式会社／オープンソース活用研究所、及び、主催・共催・協賛・協力・講演の各企業へ提供します",
+    "url": "https://majisemi.com/e/c/mdis2-20250325/M1B",
+    "pass": 3
+   },
+   {
+    "quote": "〔お問合せ先 及び 個人情報保護管理者〕 マジセミ株式会社 個人情報保護管理者 連絡先：03-6721-8548",
+    "url": "https://majisemi.com/e/c/mdis2-20250325/M1B",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機インフォメーションシステムズ株式会社",
+    "url": "https://majisemi.com/e/c/mdis2-20250325/M1B",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo Raises $16.2 Million in Series A Extension for Autonomous Heavy Equipment Technology | Physical AI News (Japan)",
+    "url": "https://physicalainews.jp/en/news/teleo-raises-16-2-million-in-series-a-extension-for-autonomous-heavy-e-cf2d41",
+    "pass": 3
+   },
+   {
+    "quote": "Translated from the Japanese original:",
+    "url": "https://physicalainews.jp/en/news/teleo-raises-16-2-million-in-series-a-extension-for-autonomous-heavy-e-cf2d41",
+    "pass": 3
+   },
+   {
+    "quote": ". The Japanese version is authoritative if they differ.",
+    "url": "https://physicalainews.jp/en/news/teleo-raises-16-2-million-in-series-a-extension-for-autonomous-heavy-e-cf2d41",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、TELEO導入事例として三菱UFJ銀行様における活用方法などもご紹介します",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、TELEOの販売代理店となっていただける方に向けて、販売代理店となっていただく場合のスキームもご説明します",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機インフォメーションシステムズ株式会社",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   },
+   {
+    "quote": "三菱電機インフォメーションシステムズ株式会社は、",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   },
+   {
+    "quote": "2025/4/1から三菱電機デジタルイノベーション株式会社となりました",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "必要な操作は電話をかけるだけ！ 電話発信認証サービス TELEO | 三菱... — 多要素認証の導入をスピーディーに！ 電話発信認証サービス TELEO 必要な操作は電話をかけるだけ！ 電話発信による本人認証サービス「TELEO」 電話の発信情報を利用して、クラウドで本人認証を提供するサービスです。",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/solution/teleo/",
+    "pass": 3
+   },
+   {
+    "quote": "TELEO（テレオ）の概要・料金プラン・導入実績・事例 | MCB FinTechカ... — Jul 2, 2026 · TELEO（テレオ）の概要を、料金プラン・導入実績・事例などと合わせて掲載。サービス資料のダウンロードも可能で、導入に向けた検討を行うことができます。",
+    "url": "https://catalog.monex.co.jp/service/554",
+    "pass": 3
+   },
+   {
+    "quote": "TELEO活用 | 株式会社第一興商 | 三菱電機デジタルイノベーション株式... — 株式会社第一興商様が展開するビッグエコーの公式アプリに電話発信認証サービス TELEOが導入されました。 株式会社第一興商様は、ビッグエコー利用会員の拡大策の柱として、公式アプリの普及に取り組んでいます。これまで店舗利用によるポイントシステムの導入や様々なキャンペーンとの ...",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/case/big-echo/",
+    "pass": 3
+   },
+   {
+    "quote": "SMS認証の代替手段、より高セキュアな“電話発信認証サービスTELEO”と... — Mar 25, 2025 · また、「TELEOがなぜSMS認証の代替として最適であるか」、その理由について解説。 さらに、TELEO導入事例として三菱UFJ銀行様における活用方法などもご紹介します。",
+    "url": "https://majisemi.com/e/c/mdis2-20250325/M1B",
+    "pass": 3
+   },
+   {
+    "quote": "【プレスリリース】「Dicon」に三菱電機インフォメーションシステムズ... — Apr 11, 2022 · 「TELEO」の導入により、 入居者の「Dicon」へのログインを容易にし、 セキュリティを強化します。 「電話発信認証サービスTELEO」導入の経緯 入居者管理において契約時や入退居時など、 個人情報のやりとりが必要な場面があります。",
+    "url": "http://service.dicon.app/new_s/2738/",
+    "pass": 3
+   },
+   {
+    "quote": "Supervised Autonomy For Heavy Machinery | Teleo — Teleo is revolutionizing material moving industries by turning heavy equipment into supervised autonomous machines.",
+    "url": "https://www.teleo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な操作は電話をかけるだけ！ 電話発信認証サービス TELEO | 三菱... — TELEOは、電話による発信情報を利用した本人認証をクラウドで提供するサービスです。",
+    "url": "https://www.mitsubishielectric.co.jp/medigital/solution/teleo/",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo to demonstrate a supervised autonomy workforce shortage ... — Mar 2, 2026 · At CONEXPO-CON/AGG 2026, supervised autonomy startup Teleo will join Hitachi Construction Machinery’s booth (F19012) to provide the heavy equipment world with a workforce shortage solution.",
+    "url": "https://www.hitachicm.com/us/en/news/2026/teleo-to-demonstrate-a-supervised-autonomy-workforce-shortage-so/",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo Raises $16.2 Million in Series A Extension for ... — Aug 15, 2026 · What happened Teleo announced that it raised $16.2 million in a Series A extension round led by UP.Partners. The funds will be used to expand customer deployments, enter new industries beyond construction and enhance AI capabilities.",
+    "url": "https://physicalainews.jp/en/news/teleo-raises-16-2-million-in-series-a-extension-for-autonomous-heavy-e-cf2d41",
+    "pass": 3
+   },
+   {
+    "quote": "Our Semi-Autonomous Mission & Leadership Team | Teleo — Teleo's team of experts is driven to revolutionize the world through supervised autonomous equipment.",
+    "url": "https://www.teleo.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - teleo.space — Our Case Studies It has variations of passages of available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even",
+    "url": "https://www.teleo.space/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Supervised Autonomy For Heavy Machinery | Teleo — Teleo co-founder and CEO Vinay Shet discusses the potential impact of artificial intelligence on manufacturing and construction jobs on Fox Business's 'The Claman Countdown.' Startup tech company Teleo has developed a way to retrofit heavy construction equipment so it can be operated by remote control.",
+    "url": "https://www.teleo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "A Big Leap Forward With Product, Customer, And Partnership ... — The Teleo Supervised Autonomy technology lets contractors operate existing heavy equipment without an operator in the cab, letting a single person control multiple pieces of equipment from a remote desk. This increases productivity, safety, and operator satisfaction—critical challenges in the construction industry.",
+    "url": "https://www.teleo.ai/blog/a-big-leap-forward-with-product-customer-and-partnership-updates/",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo reveals new construction customers and global expansion ... — Apr 7, 2023 · The autonomous tech supplier addresses construction challenges, with new customer deals to identify key use cases and global expansion with a new dealer partner network for its retrofitting of heavy construction equipment to turn them into remote-operated and autonomous robots.",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Technician Recruitment | Effie Winning Case Study — Teleo ... — Discover how an innovative recruitment strategy and creative campaign led to a 12-year enrollment high and a Bronze Effie Award.",
+    "url": "https://www.thinkteleo.com/technician-recruitment",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo Revenue, Funding & Valuation — Teleo has revenue of $1,800,000, estimated valuation of $5,800,000, $19,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo 2026 Company Profile: Valuation, Investors, Acquisition ...Teleo – Estimated Net Worth, Growth & Competitor Overview – 2026Teleo: Funding, Investors & Team (Nov 2026) | FundedIQTeleo - Crunchbase Company Profile & FundingTeleo: Funding, Team & Investors | Startup IntrosTeleo - Overview, News & Similar companies | ZoomInfo.com — Information on acquisition, funding, cap tables, investors, and ",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo – Estimated Net Worth, Growth & Competitor Overview – 2026 — Teleo Revenue & Valuation Industry estimates place Teleo's yearly revenue at around $3.5M. The revenue per employee estimate for Teleo is $59.3K. Cumulative funding for Teleo currently stands at $28M.",
+    "url": "https://compworth.com/company/teleo",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo: Funding, Investors & Team (Nov 2026) | FundedIQ — Teleo: Funding, Investors & Team (Nov 2026) Teleo specializes in converting existing fleet into remote-controlled robots. It enables operators to control machines from miles away, instantly switching between machines and across job sites. Teleo increases the operator's productivity, enhances crew safety, and features advanced Jobsite insight",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo - Crunchbase Company Profile & FundingTeleo: Funding, Team & Investors | Startup IntrosTeleo - Overview, News & Similar companies | ZoomInfo.com — Teleo converts heavy equipment into supervised autonomous machines for remote operation and semi-autonomous control. Jul 13, 2026 · Frequently Asked Questions Who founded Teleo? Teleo was founded in 2019 by Vinay Shet (Founder) and Rom Clément (Fo",
+    "url": "https://www.crunchbase.com/organization/teleo",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "This partnership is a part of Hitachi Construction Machinery’s upcoming brand change to",
+    "url": "https://www.hitachicm.com/us/en/news/2026/teleo-to-demonstrate-a-supervised-autonomy-workforce-shortage-so/",
+    "pass": 3
+   },
+   {
+    "quote": "DOT Introduces Automated Vehicle Framework as Part of…",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "The strengthened dealer partner network provides installation of the Teleo system to ensure successful integration and provides ongoing support, operator training, and warranty management of the technology to maximize customer uptime.",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Teleo",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Teleo?",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Teleo have?",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "4. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": ", a Corporate Backed or Acquired company based in Mendon, UT.",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo has 43 total employees.",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "What is Teleo’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Teleo is",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "When was Teleo acquired?",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo was acquired on 24-Feb-2026.",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo was acquired by",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Vinay Shet is listed as CEO at Teleo.",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Teleo have?",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "have completed the TELEO mission, which demonstrates ultra-high throughput laser communication between geostationary orbit (GEO) and Earth. TELEO is an optical communication payload carried on the",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Example: Yes, I would like to receive emails from Inside Autonomous Vehicles. (You can unsubscribe anytime)",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Constant Contact Use. Please leave this field blank.",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "By submitting this form, you are consenting to receive marketing emails from: Inside Autonomous Vehicles, 157 Broad St, Red Bank, NJ, 07701. You can revoke your consent to receive emails at any time by using the SafeUnsubscribe® link, found at the bottom of every email.",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Emails are serviced by Constant Contact",
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Teleo team: 2 of 2 have an email address on file.",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Airbus and CNES Complete TELEO Optical Link Demonstration Dec 19, 2024 · Airbus and the French National Centre for Space Studies (CNES) have completed the TELEO mission, which demonstrates ultra-high throughput laser communication between geostationary orbit (GEO) and Earth. TELEO is an optical communication payload carried on the 2023 launched Arabsat Badr-8 communi",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "建機/産機自動化のTeleoが資金調達&レトロフィット強化へ Dec 16, 2024 · 建機や産機の自動化を進めるTeleoがSeries-Aで700万ドルを調達してクローズ。 同社はレトロフィット形式で既存稼働機器に対して自動運転機能を装備させる方個に舵を取っており、稼働データ収集により自完全自動運転の実現及び事業改良を狙う算段です。",
+    "url": "https://note.com/suzuken0331/n/n8e740d256650",
+    "pass": 3
+   },
+   {
+    "quote": "AirbusとCNESがTELEO光リンクのデモンストレーションを完了麻生コンクリート工業 倒産の危機｜日本男児SMS認証の代替手段｜寺田雄一 - note（ノート）【オタク論】レジスタから始まった男女表現バトルは、おそらく女オタ... Dec 19, 2024 · Airbusとフランス国立宇宙研究センター（CNES）は、静止軌道（GEO）と地球間の超高スループットレーザー通信を実証するTELEOミッションを完了しました。 TELEOは、2023年に打ち上げられたArabsat Badr-8通信衛星に搭載された光通信ペイロードです。 Oct 19, 2026 · 麻生コンクリート工業のJIS不適合｜公表内容と今後の確認点 最終確認：2026年10月19日。この記事は全文無料です。 自分が関わる現場は対象なのか。建物への影響はどう判断するのか。調査や復旧にかかる費用はどうなるのか。 麻生コ",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15",
+    "pass": 3
+   },
+   {
+    "quote": "SMS認証の代替手段｜寺田雄一 - note（ノート） Mar 10, 2025 · こんにちは、マジセミ寺田です。 いつもマジセミにご参加いただきありがとうございます！ 今回は、「SMS認証の代替手段」というテーマについて解説するセミナーを企画しました。 2025年3月25日（火）14：00 - 15：00 SMS認証の代替手段、より高セキュアな“電話発信認証サービスTELEO”とは ...",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Airbus and CNES Complete TELEO Optical Link Demonstration｜Fratta",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Airbus and CNES Complete TELEO Optical Link Demonstration",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "French National Centre for Space Studies (CNES)",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "have completed the TELEO mission, which demonstrates ultra-high throughput laser communication between geostationary orbit (GEO) and Earth. TELEO is an optical communication payload carried on the",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Badr-8 communications satellite.",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "According to CNES, TELEO demonstrated a reliable link with a prototype ground station called FrOGS (French Optical Ground Station) under a wide range of conditions, proving bidirectional laser transmission of up to 9 Gbps. The demonstration experiments between TELEO and FrOGS lasted for 22 days, with over 60 hours of active communication.",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Laser communication with space will reshape the communications market, just as fiber optics changed terrestrial communications,\" commented Philippe Pham, Head of Telecom and Navigation Systems at Airbus. \"TELEO is the next generation of laser satellite communication, demonstrating extremely high-speed and resilient connectivity from Earth orbit to the ground.\"",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A joint test campaign with the European Space Agency (ESA), ONERA, and the French Defence Innovation Agency was conducted across Europe. The first communication link was achieved at various data rates by the Airbus ground station team in the Netherlands, utilizing ESA's existing ground facility in Tenerife, Spain.",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "建機/産機自動化のTeleoが資金調達&レトロフィット強化へ｜Suzuken0331",
+    "url": "https://note.com/suzuken0331/n/n8e740d256650",
+    "pass": 3
+   },
+   {
+    "quote": "建機/産機自動化のTeleoが資金調達&レトロフィット強化へ",
+    "url": "https://note.com/suzuken0331/n/n8e740d256650",
+    "pass": 3
+   },
+   {
+    "quote": "建機や産機の自動化を進めるTeleoがSeries-Aで700万ドルを調達してクローズ。",
+    "url": "https://note.com/suzuken0331/n/n8e740d256650",
+    "pass": 3
+   },
+   {
+    "quote": "同社はレトロフィット形式で既存稼働機器に対して自動運転機能を装備させる方個に舵を取っており、稼働データ収集により自完全自動運転の実現及び事業改良を狙う算段です。",
+    "url": "https://note.com/suzuken0331/n/n8e740d256650",
+    "pass": 3
+   },
+   {
+    "quote": "建機/産機の自動化新興;TeleoはSeries-Aの延長ラウンドを700万ドル集めてクローズ。UP.Partnersがリードし、新規投資家として[Trousdale Ventures][TriatomicCapital]に加えて既存投資家の[F-Prime Capital][Trucks VC]が参加",
+    "url": "https://note.com/suzuken0331/n/n8e740d256650",
+    "pass": 3
+   },
+   {
+    "quote": "22年から実施してきたSeries-Aは24/04に920万ドル調達してクローズ",
+    "url": "https://note.com/suzuken0331/n/n8e740d256650",
+    "pass": 3
+   },
+   {
+    "quote": "調達資金は提供顧客の拡大/効率性向上への大規模言語モデル統合など、AI機能を強化に用いられる",
+    "url": "https://note.com/suzuken0331/n/n8e740d256650",
+    "pass": 3
+   },
+   {
+    "quote": "TeleoのCEO;Vinay Shet氏はChatGPTと同様の産業インパクトを巻き起こすことに意欲を見せている",
+    "url": "https://note.com/suzuken0331/n/n8e740d256650",
+    "pass": 3
+   },
+   {
+    "quote": "AirbusとCNESがTELEO光リンクのデモンストレーションを完了｜Fratta",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15",
+    "pass": 3
+   },
+   {
+    "quote": "AirbusとCNESがTELEO光リンクのデモンストレーションを完了",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15",
+    "pass": 3
+   },
+   {
+    "quote": "は、静止軌道（GEO）と地球間の超高スループットレーザー通信を実証するTELEOミッションを完了しました。TELEOは、",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15",
+    "pass": 3
+   },
+   {
+    "quote": "Badr-8通信衛星に搭載された光通信ペイロードです。",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15",
+    "pass": 3
+   },
+   {
+    "quote": "CNESによると、TELEOSは幅広い条件下でFrOGS（フランス光地上局）と呼ばれるプロトタイプの地上局との信頼性の高いリンクを実証し、最大9Gbpsの双方向レーザー伝送を実証しました。TELEOとFrOGS間の実証実験は22日間続き、60時間以上のアクティブ通信が行われました。",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15",
+    "pass": 3
+   },
+   {
+    "quote": "「宇宙空間とのレーザー通信は、地上の通信を光ファイバーが変えたのと同様に、通信市場を再形成するでしょう」と、エアバス社の通信およびナビゲーションシステム部門の責任者であるフィリップ・ファム氏はコメントしています。「TELEOは次世代のレーザー衛星通信であり、地球軌道から地上への非常に高速で耐障害性の高い接続性を実証しています。",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15",
+    "pass": 3
+   },
+   {
+    "quote": "欧州宇宙機関（ESA）、ONERA、フランス国防技術革新庁との共同テストキャンペーンが欧州各地で実施されました。最初の通信リンクは、スペインのテネリフェ島にあるESAの既存の地上施設を利用し、オランダのAirbus地上局チームによってさまざまなデータレートで達成されました。",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15",
+    "pass": 3
+   },
+   {
+    "quote": "Airbusは、将来、追加のデモンストレーションテストと将来の光地上局の評価のためにペイロードが再稼働される可能性が高いと述べています。",
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15",
+    "pass": 3
+   },
+   {
+    "quote": "いつもマジセミにご参加いただきありがとうございます！",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、「SMS認証の代替手段」というテーマについて解説するセミナーを企画しました。",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   },
+   {
+    "quote": "2025年3月25日（火）14：00 - 15：00",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   },
+   {
+    "quote": "質疑応答はリアルタイムで、皆様からのご質問にお答えいたします。",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   },
+   {
+    "quote": "急増する、インターネットサービスを狙うサイバー攻撃",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォンが普及し、Eコマースや金融サービス、メディア／SNS、ゲームなど、さまざまな業界・業種でインターネットサービスが提供されています。こうしたインターネットサービスが私たちの日常生活に欠かせない存在となる一方で、その脆弱性をつけ狙うサイバー攻撃が急増しています。",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   },
+   {
+    "quote": "特に、利用者のログイン情報を利用して本人になりすます「不正アクセス」の被害が多発してきました。そのため、サービスを利用する際の本人確認がより重要になっています。",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   },
+   {
+    "quote": "より強固な本人確認として「認証方式の強化」が求められている",
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Teleo (@TeleoAI) / Posts / X Today we announced the acquisitions of @mavrikinc and @TeleoAI, expanding Havoc decisively into the air and land domains and reinforcing our leadership in collaborative autonomy. These additions accelerate our mission to deliver fully integrated, all-domain autonomous systems. The ability to build drones, autonomous vehicles, and unmanned vessels already exists. What w",
+    "url": "https://x.com/TeleoAI",
+    "pass": 3
+   },
+   {
+    "quote": "Programa TELEO (@ProgramaTeleo) / X CURSO TeLeo - Generalidades de los Cuidados Paliativos en Enfermería. Última CLASE EN VIVO este JUEVES 15/OCTUBRE/2026 a las 19hs (Bs As). En esta ocasión tendremos la participación especial de la Dra. Gisella Santos, médica especialista en Cuidados Paliativos Pediátricos.",
+    "url": "https://x.com/ProgramaTeleo",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo (@TeleoHQ) / Posts / X Teleo is a new team collaboration app that helps you manage your projects. Move effortlessly between talking, planning and doing",
+    "url": "https://x.com/teleohq",
+    "pass": 3
+   },
+   {
+    "quote": "TELEO Performance (@TELEOPerform) / X The TELEO principles are used to meet the performance goals of everyone from elite athletes to the general exerciser.",
+    "url": "https://x.com/TELEOPerform",
+    "pass": 3
+   },
+   {
+    "quote": "T (@_teleo) / X 437 followers · 92 following. Pennsylvania, USA. Joined Jul 2011. See the latest conversations with @_teleo",
+    "url": "https://x.com/_teleo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Teleo - LinkedIn Teleo | 4,815 followers on LinkedIn. Autonomous Heavy Equipment | Teleo, a Havoc Company, converts existing fleets of heavy equipment into semi-autonomous robots. Operators control machines from a ...",
+    "url": "https://www.linkedin.com/company/teleo-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo - LinkedIn Teleo | 578 followers on LinkedIn. A virtual office space and community hub for therapists working with kids remotely | Teleo is transforming the standard of remote mental healthcare for kids by ...",
+    "url": "https://www.linkedin.com/company/teleo-space",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo - LinkedIn Teleo | 118 followers on LinkedIn. Integrating Intelligence into Oil and Gas Operations. | We help you to seamlessly integrate the physical and digital realms, developing intelligent solutions that enhance efficiency, connectivity, and sustainability across industries. We strive to be innovative, collaborative, and excellent in our pursuit of delivering transformative and reliable",
+    "url": "https://ca.linkedin.com/company/teleo-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Programa TELEO - LinkedIn Programa TELEO | 826 seguidores en LinkedIn. Tele-educación en Oncología Pediátrica | Educación a distancia gratuita en hemato-oncología pediátrica para personal de salud (enfermería, cirugía, especialistas en formación) de latinoamérica y del sur global. Con el apoyo académico del Sant Joan de Déu, St Jude Global y SLAOP.",
+    "url": "https://ar.linkedin.com/company/programa-teleo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Teleo - Facebook Jan 30, 2026 · At Teleo, we believe the best tools are built in partnership with clinicians who are in the work every day. Your ideas, feedback, and real-world needs shape what we create, and this latest update is a reflection of that collaboration.",
+    "url": "https://www.facebook.com/p/Teleo-100086052324908/",
+    "pass": 3
+   },
+   {
+    "quote": "Programa TELEO - FacebookTeleo | Grande Prairie AB - FacebookTeleo Community - FacebookTELEO - FacebookTeleo Coffee | Kirkwood MO - FacebookTeleo - Facebook Oct 19, 2026 · Programa TELEO. 719 followers · 8 talking about this. Educación a distancia gratuita en hemato-oncología pediátrica para personal de salud (enfermería, cirugía, especialistas en formación) de... May 16, 2026 · Teleo, Grande Prai",
+    "url": "https://www.facebook.com/programaTELEO/",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo | Grande Prairie AB - FacebookTeleo Community - FacebookTELEO - FacebookTeleo Coffee | Kirkwood MO - FacebookTeleo - Facebook May 16, 2026 · Teleo, Grande Prairie. 138 likes. Our mission at Teleo, is to seamlessly integrate the physical and digital realms, developing intelligent solutions that enhance efficiency, connectivity, and... A private community for Therapists who use Teleo to connec",
+    "url": "https://www.facebook.com/teleoinc/",
+    "pass": 3
+   },
+   {
+    "quote": "Teleo Community - Facebook A private community for Therapists who use Teleo to connect, share ideas and feedback, and be the first to know about new features. If you are not currently using Teleo, get started at https: //www.teleo.space New to Teleo or want to optimize it for your practice? Book a FREE onboarding + strategy session with a licensed clinician who uses Teleo every day. You’ll get per",
+    "url": "https://www.facebook.com/groups/teleo.community/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.teleo.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teleo.ai/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.teleo.ai/_next/image/?url=https%3A%2F%2Fteleo2024.wpenginepowered.com%2Fwp-content%2Fuploads%2F2024%2F02%2FAdam.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.teleo.ai/_next/image/?url=https%3A%2F%2Fteleo2024.wpenginepowered.com%2Fwp-content%2Fuploads%2F2024%2F02%2FAlly.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.mitsubishielectric.co.jp/medigital/solution/teleo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/service/554",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/medigital/case/big-echo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://majisemi.com/e/c/mdis2-20250325/M1B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/medigital/solution/teleo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachicm.com/us/en/news/2026/teleo-to-demonstrate-a-supervised-autonomy-workforce-shortage-so/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://physicalainews.jp/en/news/teleo-raises-16-2-million-in-series-a-extension-for-autonomous-heavy-e-cf2d41",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teleo.space/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/teleo-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/433416-25",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/teleo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/teleo-teleo-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suzuken0331/n/n8e740d256650",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satellite_tombo/n/n6b12cf8b7c15",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/majisemi/n/n7b973fdc942d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TeleoAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ProgramaTeleo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/teleohq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TELEOPerform",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/teleo-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/teleo-space",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/teleo-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ar.linkedin.com/company/programa-teleo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Teleo-100086052324908/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/programaTELEO/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/teleoinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/teleo.community/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_teleo",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Teleo 日本 導入",
+   "results": [
+    "https://www.mitsubishielectric.co.jp/medigital/solution/teleo/",
+    "https://catalog.monex.co.jp/service/554",
+    "https://www.mitsubishielectric.co.jp/medigital/case/big-echo/",
+    "https://majisemi.com/e/c/mdis2-20250325/M1B",
+    "http://service.dicon.app/new_s/2738/",
+    "https://www.mitsubishielectric.co.jp/medigital/case/bk-mufg/",
+    "https://www.mitsubishielectric.co.jp/medigital/case/colors/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Teleo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "https://www.tel.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Teleo Japan",
+   "results": [
+    "https://www.teleo.ai/",
+    "https://www.mitsubishielectric.co.jp/medigital/solution/teleo/",
+    "https://www.hitachicm.com/us/en/news/2026/teleo-to-demonstrate-a-supervised-autonomy-workforce-shortage-so/",
+    "https://physicalainews.jp/en/news/teleo-raises-16-2-million-in-series-a-extension-for-autonomous-heavy-e-cf2d41",
+    "https://www.teleo.ai/about/",
+    "https://www.teleo.ai/technology/",
+    "https://www.teleo.ai/blog/industry_expansion/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Teleo manufacturing customer case study",
+   "results": [
+    "https://www.teleo.space/case-study",
+    "https://www.teleo.ai/",
+    "https://www.teleo.ai/blog/a-big-leap-forward-with-product-customer-and-partnership-updates/",
+    "https://insideautonomousvehicles.com/teleo-reveals-new-construction-customers-and-global-expansion-for-supervised-autonomy/",
+    "https://www.thinkteleo.com/technician-recruitment",
+    "https://iot.telenor.com/iot-case/customer-cases-summary/",
+    "https://www.khl.com/news/autonomous-tech-company-expands-into-remote-control-operation-for-heavy-equipment/8027130.article"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Teleo white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.extremenetworks.com/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Teleo founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/teleo-revenue",
+    "https://pitchbook.com/profiles/company/433416-25",
+    "https://compworth.com/company/teleo",
+    "https://fundediq.co/teleo-teleo-ai-funding/",
+    "https://www.crunchbase.com/organization/teleo",
+    "https://startupintros.com/orgs/teleo",
+    "https://www.zoominfo.com/c/teleo-inc/565490601"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Teleo",
+   "results": [
+    "https://note.com/satellite_tombo/n/n6b12cf8b7c15?hl=en",
+    "https://note.com/suzuken0331/n/n8e740d256650",
+    "https://note.com/satellite_tombo/n/n6b12cf8b7c15",
+    "https://note.com/majisemi/n/n7b973fdc942d",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/ipusiro/n/nc92ad555b463"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Teleo",
+   "results": [
+    "https://x.com/TeleoAI",
+    "https://x.com/ProgramaTeleo",
+    "https://x.com/teleohq",
+    "https://x.com/TELEOPerform",
+    "https://x.com/teleo_currency",
+    "https://x.com/projectteleo",
+    "https://x.com/TeleoFinish"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Teleo",
+   "results": [
+    "https://www.linkedin.com/company/teleo-ai",
+    "https://www.linkedin.com/company/teleo-space",
+    "https://ca.linkedin.com/company/teleo-inc",
+    "https://ar.linkedin.com/company/programa-teleo",
+    "https://ca.linkedin.com/in/alex-barendregt-42547b6b",
+    "https://www.linkedin.com/in/vinayshet",
+    "https://au.linkedin.com/in/eric-hooimeyer"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Teleo",
+   "results": [
+    "https://www.facebook.com/p/Teleo-100086052324908/",
+    "https://www.facebook.com/programaTELEO/",
+    "https://www.facebook.com/teleoinc/",
+    "https://www.facebook.com/groups/teleo.community/",
+    "https://www.facebook.com/teleogospel/",
+    "https://www.facebook.com/teleocoffee/",
+    "https://www.facebook.com/people/Teleo/100086052324908/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Teleo note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Teleo X 投稿",
+   "results": [
+    "https://x.com/_teleo",
+    "https://github.com/living-ip/teleo-kb/blob/main/skills/x-publish.md",
+    "https://x.com/teo_penta/status/2119932361551036497",
+    "https://automaton-media.com/articles/newsjp/20261109-478221/",
+    "https://www.valorant4jp.com/2026/11/qt-digmeteortentenmeteorx.html",
+    "https://www.instagram.com/_taleo.x_/",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像2件／外部38頁・検索12回）"
+ }
+}

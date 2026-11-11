@@ -1,0 +1,453 @@
+{
+ "name": "⭐️Waylandadditive",
+ "aliases": [],
+ "context": "旧営業リスト｜AM / Additive Manufacturing｜日本進出済",
+ "researched_at": "2026-11-11T03:41:24.387889+00:00",
+ "official_url": "https://waylandadditive.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Faster, more flexible metal additive manufacturing process",
+    "url": "https://www.waylandadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "production of bigger parts",
+    "url": "https://www.waylandadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NeuBeam® is a truly ground-breaking eBeam metal AM process. Effectively neutralising the electron beam in the powder bed fusion process, it provides greater flexibility than laser-based AM processes.",
+    "url": "https://www.waylandadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Featuring the NeuBeam® metal AM process, Calibur3® is a compelling alternative to L-PBF and traditional eBeam systems.",
+    "url": "https://www.waylandadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The NeuBeam® process provides superior control over material properties. Manufacturers can get the parts that they want today, not those limited by traditional process.",
+    "url": "https://www.waylandadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Wayland Additive exists to make eBeam additive manufacturing more effective and accessible to industry for a broader range of applications. The company is defined by its open approach to the precise alignment of technological solutions with customer expectations.",
+    "url": "https://www.waylandadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Wayland Additive brings over 150 years of combined electron beam manufacturing expertise, originating from a team with a semiconductor engineering background, where eBeam precision and stability are crucial. Their experience showed how eBeam technology could be improved for additive manufacturing. Since 2015, a team of eBeam experts has focused on solving powder charging in eBeam AM.",
+    "url": "https://www.waylandadditive.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Wayland successfully transferred mature technology from the semiconductor industry to AM, securing funding from Longwall Ventures and Innovate UK. The company leads in efficient, accurate metal AM and works closely with customers on material and application development.",
+    "url": "https://www.waylandadditive.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "NeuBeam® overcomes the stability issues of traditional eBeam systems by neutralizing the electron beam. It provides more flexibility than laser-based metal AM, allowing metallurgical requirements to be tailored to the application.",
+    "url": "https://www.waylandadditive.com/neubeam",
+    "pass": 1
+   },
+   {
+    "quote": "By neutralising negative ion build up in the powder bed, NeuBeam® effectively prevents smoke events during the build process, eliminating the need for pre-sintering the powder bed.",
+    "url": "https://www.waylandadditive.com/neubeam",
+    "pass": 1
+   },
+   {
+    "quote": "Save a significant amount of time consumed by pre-sintering in traditional metal AM processes.",
+    "url": "https://www.waylandadditive.com/neubeam",
+    "pass": 1
+   },
+   {
+    "quote": "In eBeam powder bed fusion processes most of the heat loss is radiative. Since the process operates in a vacuum, there is no gas crossflow. Keeping the pre-heated area small helps reduce these large energy losses, making it possible to efficiently run builds at greater than 1000°C. This extra degree of freedom allows the process to be optimised to the properties of the desired production material.",
+    "url": "https://www.waylandadditive.com/neubeam",
+    "pass": 1
+   },
+   {
+    "quote": "Reduced post processing",
+    "url": "https://www.waylandadditive.com/neubeam",
+    "pass": 1
+   },
+   {
+    "quote": "No pre-sintering means there is no sinter cake, which in turn means that powder can be quickly and easily removed from the part.",
+    "url": "https://www.waylandadditive.com/neubeam",
+    "pass": 1
+   },
+   {
+    "quote": "No pre-sintering enables more material to be recycled for future builds.",
+    "url": "https://www.waylandadditive.com/neubeam",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Faster, more flexible metal additive manufacturing process",
+    "url": "https://www.waylandadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The NeuBeam® process provides superior control over material properties. Manufacturers can get the parts that they want today, not those limited by traditional process.",
+    "url": "https://www.waylandadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Wayland Additive exists to make eBeam additive manufacturing more effective and accessible to industry for a broader range of applications. The company is defined by its open approach to the precise alignment of technological solutions with customer expectations.",
+    "url": "https://www.waylandadditive.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Wayland Additive brings over 150 years of combined electron beam manufacturing expertise, originating from a team with a semiconductor engineering background, where eBeam precision and stability are crucial. Their experience showed how eBeam technology could be improved for additive manufacturing. Since 2015, a team of eBeam experts has focused on solving powder charging in eBeam AM.",
+    "url": "https://www.waylandadditive.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The Wayland team is built on a foundation of scientific expertise, but also brings together solid financial management with exceptional commercial experience within the Additive Manufacturing experience.",
+    "url": "https://www.waylandadditive.com/company",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.waylandadditive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waylandadditive.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waylandadditive.com/neubeam",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.waylandadditive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yasurok2.wordpress.com/2026/03/25/japanese-on-waydog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0859",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_489/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kimini.online/blog/archives/39927",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toishi.info/email/sales_rep.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waylandadditive.com/resources/news/wayland-additive-announces-htl-co-japan-as-new-distribution-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waylandadditive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waylandadditive.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.waylandadditive.com/materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/amcanu/case-study/wayland-additive-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/wayland-additive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0_b2D_3dVe0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.waylandadditive.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insighto.ai/blog/white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.livechat.com/blog/best-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wayfront.com/features/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/wayland-additive/__oncatVyx5ul5vOSTas1WrZ0Oclt05MalvU0jiQKg1v0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/287537-95",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/wayland-additive-waylandadditive-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/wayland-additive/employees",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "⭐️Waylandadditive 日本 導入",
+   "results": [
+    "https://www.waylandadditive.com/",
+    "https://yasurok2.wordpress.com/2026/03/25/japanese-on-waydog/",
+    "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0859",
+    "https://jampt.jp/column/column_489/",
+    "https://www.indexbox.io/ja/blog/university-of-innsbruck-installs-wayland-additive-calibur3-ebeam-system/",
+    "https://www.tumblr.com/3dprinterchat/670181151790530560/wayland-additive-systems-will-be-distributed-by",
+    "https://azelpg.gitlab.io/azsky2/wayland_ja.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Waylandadditive 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/シャーウィン・ウィリアムズ",
+    "https://kimini.online/blog/archives/39927",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.toishi.info/email/sales_rep.html",
+    "https://www.galderma.com/jp-jp/japan",
+    "https://starlink.com/jp/support/article/9b7746f8-e2ee-0fd4-7ffb-3bbe0ab35cbc",
+    "https://www.trade.gov/buyusa-japan-find-us-products-and-services"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Waylandadditive Japan",
+   "results": [
+    "https://www.waylandadditive.com/resources/news/wayland-additive-announces-htl-co-japan-as-new-distribution-partner",
+    "https://www.waylandadditive.com/",
+    "https://www.waylandadditive.com/company",
+    "https://www.waylandadditive.com/materials",
+    "https://jp.linkedin.com/company/wayland-additive",
+    "https://www.waylandadditive.com/resources/news",
+    "https://www.waylandadditive.com/calibur3"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Waylandadditive manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/amcanu/case-study/wayland-additive-customer-case-study",
+    "https://www.casestudies.com/customer/wayland-additive",
+    "https://www.youtube.com/watch?v=0_b2D_3dVe0",
+    "https://www.waylandadditive.com/",
+    "https://www.waylandadditive.com/resources",
+    "https://amcanu.co.uk/case-studies/wayland-additive-3d-printer-cabinet/",
+    "https://www.mtt.uk.com/wp-content/uploads/2024/07/Case-study-Wayland-Additive-Design-Collaboration-MTT.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Waylandadditive white label OR reseller OR partner program",
+   "results": [
+    "https://insighto.ai/blog/white-label-reseller-programs/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://partners.livechat.com/blog/best-reseller-programs/",
+    "https://wayfront.com/features/resellers",
+    "https://www.emailvendorselection.com/best-white-label-saas-software-services/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://wayfront.com/blog/white-label-reseller-programs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Waylandadditive founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/wayland-additive/__oncatVyx5ul5vOSTas1WrZ0Oclt05MalvU0jiQKg1v0",
+    "https://pitchbook.com/profiles/company/287537-95",
+    "https://fundediq.co/wayland-additive-waylandadditive-com-funding/",
+    "https://www.reveliolabs.com/companies/wayland-additive/employees",
+    "https://compworth.com/company/wayland-additive",
+    "https://dealroom.co/companies/wayland-additive/",
+    "https://rocketreach.co/wayland-additive-profile_b45cfe83fc6c363d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ⭐️Waylandadditive",
+   "results": [
+    "https://note.com/takfujimaki_2022/n/n6ee29d82b347",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://tales.note.com/heihachiro555",
+    "https://tales.note.com/heihachiro555/w93uefuqjujn7",
+    "https://note.com/hina_taro/n/n5a7092374fba",
+    "https://note.com/bunyu_727/n/n362307b5789a",
+    "https://note.com/chari_lele/n/nfd6767588fdd"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ⭐️Waylandadditive",
+   "results": [
+    "https://x.com/waylandadditive",
+    "https://x.com/Engupdate/status/2118300547669205006",
+    "https://x.com/C6ix_official/status/2120082798036107520",
+    "https://x.com/AdditiveWayland/status/1599709022168416256",
+    "https://x.com/lvvxmiyabixvvl",
+    "https://x.com/CurvyGoddess777/status/2119894558092009760",
+    "https://x.com/Engupdate/status/2033491090611827157"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ⭐️Waylandadditive",
+   "results": [
+    "https://jp.linkedin.com/company/wayland-additive",
+    "https://www.linkedin.com/posts/wayland-additive_waylandadditive-ebeam-additivemanufacturing-activity-7480189954078355457-Z6n5",
+    "https://uk.linkedin.com/in/will-richardson-4a1716128",
+    "https://uk.linkedin.com/in/robin-weston-3dp",
+    "https://www.linkedin.com/posts/wayland-additive_waylandadditive-ebeam-metal-activity-7492512163463467008-KHdA",
+    "https://kh.linkedin.com/posts/mike-ford-51053a2b_an-update-on-wayland-additives-neubeam-metal-activity-6963454657088131072-4maw",
+    "https://it.linkedin.com/posts/cheti-ciuto_ho-perso-10-kg-non-ci-credevo-laura-activity-7525842081483845633-BpBA"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ⭐️Waylandadditive",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "⭐️Waylandadditive note 社長",
+   "results": [
+    "https://uk.linkedin.com/in/will-richardson-4a1716128",
+    "https://note.com/why_me",
+    "https://www.linkedin.com/posts/wayland-additive_waylandadditive-finance-technology-activity-7485621734054850560-BSSj",
+    "https://www.waylandadditive.com/resources/news/wayland-additive-ceo-features-on-business-success-stories",
+    "https://www.waylandadditive.com/resources/news",
+    "https://www.bloomberg.com/profile/person/25707369",
+    "https://www.crunchbase.com/person/will-richardson-6a6b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "⭐️Waylandadditive X 投稿",
+   "results": [
+    "https://x.com/waylandadditive",
+    "https://x.com/Engupdate/status/2118300547669205006",
+    "https://www.waylandadditive.com/",
+    "https://jp.linkedin.com/company/wayland-additive",
+    "https://help.x.com/ja/using-x/posting-gifs-and-pictures",
+    "https://note.com/munou_ac/n/n0292d1d16271",
+    "https://x.com/xiaoanlab/status/2119648676377231655"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

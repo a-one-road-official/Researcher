@@ -1,0 +1,1072 @@
+{
+ "name": "Maple Advanced Robotics (MARI)",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory Robotics / Physical AI｜AI送信済み",
+ "researched_at": "2026-11-11T03:04:16.318418+00:00",
+ "official_url": "https://www.maplerobotics.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "of Real-World Production​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-mix manufacturing challenges traditionalautomation with frequent product changes, varyinggeometries, small batch sizes, and the need for rapid,flexible production adaptation.​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-Mix, Low-Volume Production",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Frequent product changes and small batches challenge traditional automation",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic and Unpredictable Defects​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Perceiving, reasoning, planning, and executing skilled manufacturing tasks without programming​.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage high-resolution 3D laser vision to createan accurate digital representation of theworkpiece in seconds.​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform 3D perception into physical understanding byanalyzing geometry, defects, and process requirements.​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate collision-free, process-aware robotic trajectories directly from point cloud data without CAD models in real-time.​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Robotics. ​Production-Ready. ​Integrator-Friendly. ​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MARI empowers manufacturers and systemintegrators with Physical AI-powered roboticsystem and proven process know-how. Ourplatform transforms complex automationinto rapid deployment, enabling scalablehigh-mix production, faster time-to-value,and industry-leading ROI.​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Robotics: Hardware, Software and Process Know-how​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience 3D vision based easy-to-use robotics. AARS Scan & Go enables users with no robot experience to use and program robot.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Average time taken to program robot with AARS from setup. Automatically generate complex robot motion in seconds.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Faster robot programming time compared to Off-line Programming (OLP). Ultimate solution for automating high-mix manufacturing.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MARI’s integrator-friendly building blocks and process know-how deliver up to 50% cost savings compared to fully customized solutions.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultra-precise robotic systems powered by advanced vision, AI, and intuitive software - designed for modern, flexible production.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven in Production.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-world performance speaks louder than specifications. Companieshave demonstrated that adaptive path generation can eliminate one of thebiggest obstacles to robotic deployment—creating reliable paths forcomplex, variable parts without manual programming.​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With its autonomous path planning, MARI solves one of the biggest challengesof high-mix production, namely constant reprogramming and setup. This opensup new opportunities – especially for small and medium-sized companies –that will also help to counteract the shortage of skilled workers.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scan&Go significantly reduced our dependence on robot programming expertise. Instead of spending hours teaching points and fine-tuning trajectories, our manufacturing engineers can now focus on optimizingthe process itself.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Products & Applications Expert",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scan&Go addresses one of aerospace manufacturing's greatest challenges—automating large, complex, and highly variable components without the burden of extensive programming and fixturing.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What impressed us most is its flexibility. Place&Go station turned robotic sanding from a programmer's tool into an operator's tool—no fixtures, no programming, just place the door and go.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No teaching points. No precise positioning. Even when using a rotarytable, minor placement variations do not affect the process. Scan&Go automatically adapts to our speakers we produce.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No Code Programming Drag & Go",
+    "url": "https://www.maplerobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We provide full support for a smooth transition to automation, enabling same-day operation. Contact us to learn more.",
+    "url": "https://www.maplerobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "MARI is a Physical AI company developing world-model-driven robotics systems for advancedmanufacturing. We transform point cloud perception into real-time adaptive robotic actions,enabling programming-free automation through a closed-loop system that can perceive,reason, plan, and execute skilled manufacturing tasks on any major robot brand.​",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "interact with the physical world, allowing them to autonomously perform complex skilled processes without programming.",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "capable of handling freeform surfaces, high-mix production, and dynamic shop-floor environments. MARI's mission is to democratize Physical AI and accelerate the future of autonomous manufacturing.",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scan&Go 1.0: Awarded for innovation in reducing robot programming and setup time in high-mix production environments.",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Scan&Go 2.0: Awarded for innovation in Physical AI, transforming real-time perception into adaptive robotic actions without programming.​",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our core values reflect our commitment to building reliable, scalable, and human-centered robotics solutions. They shape how we approach engineering challenges, simplify complexity, and deliver real value to modern manufacturing.",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Harness physical-based data to drive the widespread integration of AI in advanced manufacturing",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Acheiving excellence by prioritizing customer needs, fostering innovation, and ensuring reliability",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Maple Advanced Robotics Inc. Wins Prestigious Hannover Messe Robotics Award",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": ") -- Maple Advanced Robotics Inc (MARI) has won the prestigious Hannover Messe ROBOTICS AWARD 2025, recognizing its groundbreaking contributions to robot-assisted automation and logistics solutions.",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "“All Canadians can be very proud that MARI has won Deutsche Messe's prestigious robotics award,” said Jayson Myers, CEO of NGen. “NGen is particularly excited about the award as MARI's AI-enabled robotics platform was one of the world-leading advanced manufacturing solutions supported by NGen funding. Congratulations to Yi Li and the MARI team!”",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "Magna’s recent receipt of a PACEPilot Award—stemming directly from this collaborative project—further underscores the impact of these joint efforts on advancing Canada’s manufacturing and automation capabilities.",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "NGen Leads $108M Investment in Sustainable Manufacturing Projects",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "13 projects are underway..",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "NGen Launches New Homebuilding Technology and Innovation Projects",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "Process Manufacturing",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "April 22, 2025",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Maple Advanced Robotics, a Canadian company, was named the winner of the Hannover Messe Robotics Award for 2025 at the event’s press preview on February 19, for its Autonomous Adaptable Robot System – AARS. The award honours companies that are driving pioneering developments in industry with their robot-assisted automation and logistics solutions.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Yi Li, executive vice-president and co-founder of Maple Advanced Robotics, explains that the technology has many applications, such as sanding, spraying, inspection and welding, to name a few.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "The robotics company partnered with Magna’s Stronach Centre for Innovation alongside the University of Waterloo, University of Toronto and Toronto Metropolitan University to develop AARS. During the development journey, AARS has been implemented in Magna through several projects, including sanding and inspection. The usability of the system has already been proven through these projects.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Li adds that doing good programming on the freeform surface involves a lot of effort. Maple Advanced Robotics, therefore, developed an algorithm to analyze the freeform surface from the cloud directly and generate a highly precise trajectory to achieve Class A finishing quality.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "The sanding application is not limited to the automotive sector. Dr. Li shares that the company applied this technology in the woodworking industry in kitchen cabinet manufacturing, which involves high mix, low volume production.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Li shares that when introducing the robotic sanding application to a woodworking shop, the first feedback the owner shared was that no one in their company knew how to program a robot. Maple Advanced Robotics was able to showcase how its programming-free robot was able to generate a path by itself.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Li shares that Maple Advanced Robotics has also developed a new product called Place&Go. A panel can simply be placed on a table and the robot, equipped with advanced overhead 3D cameras, generates a path to do the sanding.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Discussing the AARS system and its components, Dr. Li explains that the robot, which is an action part, has traditionally required engineers to provide the commands to guide where it should go and what it should do.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Maple Advanced Robotics announced the winner of Hannover Messe Robotics Award 2025 at the event’s press preview.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Maple Advanced Robotics’ AARS comes with the controller, the software and the process know-how in the software. This gives users an easy-to-use workflow, says Dr. Li. Users will be able to set up the robot in half of the time for the required application. For example, a sanding application can be set up in a few hours. This significantly reduces the learning curve.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Li. shares that the set-up process involved tightening the screws as instructed, calibrating the camera and begin sanding.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "“This felt impossible before they considered using a smart robotics system. In a day, they can go from opening the box to using the system. This includes training to use the system. From the point-of-view of the user experience, this is why AARS really shines,” says Dr. Li.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "From pilot to production",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Red Dot Award: Product Design winners released, two Canadian companies included in Industrial Design and Robotics category",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "お金の専門家：7,11,4ハックで$1が月$10Kに変わる！- Daniel Priestley",
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "pass": 3
+   },
+   {
+    "quote": "From startups to Fortune 500: 20 years of Product Marketing lessons",
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "High-mix manufacturing challenges traditionalautomation with frequent product changes, varyinggeometries, small batch sizes, and the need for rapid,flexible production adaptation.​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Perceiving, reasoning, planning, and executing skilled manufacturing tasks without programming​.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MARI empowers manufacturers and systemintegrators with Physical AI-powered roboticsystem and proven process know-how. Ourplatform transforms complex automationinto rapid deployment, enabling scalablehigh-mix production, faster time-to-value,and industry-leading ROI.​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Non-technical Operators",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Faster robot programming time compared to Off-line Programming (OLP). Ultimate solution for automating high-mix manufacturing.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Faster deployment to help manufacturers recoup ROI faster by drastically lowering the time, cost, and skill barriers in integration.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Industry Leaders.​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scan&Go significantly reduced our dependence on robot programming expertise. Instead of spending hours teaching points and fine-tuning trajectories, our manufacturing engineers can now focus on optimizingthe process itself.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scan&Go addresses one of aerospace manufacturing's greatest challenges—automating large, complex, and highly variable components without the burden of extensive programming and fixturing.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MHI Canada Aerospace Inc.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From aerospace to oil & gas, Scan&Go helps manufacturers overcomeskilled labor shortages by deploying intelligent robots to performcomplex, precision-critical, and ergonomically challenging tasks.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Manufacturers Around the World​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MARI is a Physical AI company developing world-model-driven robotics systems for advancedmanufacturing. We transform point cloud perception into real-time adaptive robotic actions,enabling programming-free automation through a closed-loop system that can perceive,reason, plan, and execute skilled manufacturing tasks on any major robot brand.​",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "MARI is a Physical AI company developing world-model-driven robotics system for advanced manufacturing. MARI enables industrial robots to perceive, understand, and",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by machine vision, physics-informed AI, and adaptive path planning, MARI's platform transforms conventional robots into intelligent manufacturing systems",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "capable of handling freeform surfaces, high-mix production, and dynamic shop-floor environments. MARI's mission is to democratize Physical AI and accelerate the future of autonomous manufacturing.",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous Mobile Manipulation Platform: Awarded for innovation in combining self-driving mobility, and adaptive robotic execution for large-scale manufacturing.​",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Honored for innovation, business excellence, and contributions to the growth of Richmond Hill’s technology and advanced manufacturing sectors.​",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our core values reflect our commitment to building reliable, scalable, and human-centered robotics solutions. They shape how we approach engineering challenges, simplify complexity, and deliver real value to modern manufacturing.",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Harness physical-based data to drive the widespread integration of AI in advanced manufacturing",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We bring together advanced manufacturing and technology to drive digital transformation in Canada.",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "“All Canadians can be very proud that MARI has won Deutsche Messe's prestigious robotics award,” said Jayson Myers, CEO of NGen. “NGen is particularly excited about the award as MARI's AI-enabled robotics platform was one of the world-leading advanced manufacturing solutions supported by NGen funding. Congratulations to Yi Li and the MARI team!”",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "Magna’s recent receipt of a PACEPilot Award—stemming directly from this collaborative project—further underscores the impact of these joint efforts on advancing Canada’s manufacturing and automation capabilities.",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "MARI’s achievement reinforces its commitment to pushing the boundaries of what automation can achieve, fostering new opportunities for global trade, innovation, and industrial growth.",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "NGen is revolutionizing the business of advanced manufacturing for the benefit of all Canadians.",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "NGen Leads $108M Investment in Sustainable Manufacturing Projects",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "Championing Innovation In Robotics - Manufacturing AUTOMATION",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry 4.0 & Smart Manufacturing",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Process Manufacturing",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "The development of AARS was inspired and supported by Next Generation Manufacturing Canada (NGen) about four years ago, shares Dr. Li. NGen’s strategic investment of nearly $1.3 million and its mentorship and strategic guidance facilitated the development, refinement and market readiness of the system.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Applications for manufacturers",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "The sanding application is not limited to the automotive sector. Dr. Li shares that the company applied this technology in the woodworking industry in kitchen cabinet manufacturing, which involves high mix, low volume production.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "The state of industrial AI: IFS Unleashed 2026",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "While Canadian manufacturing has persevered through tariff uncertainty, is the…",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Red Dot Award: Product Design winners released, two Canadian companies included in Industrial Design and Robotics category",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "CME National Manufacturing Conference",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect with the people, insights, and opportunities shaping the Canadian manufacturing industry.",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Industry 4.0 and Smart Manufacturing",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Group Network",
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "In this video, RoboPhil (Philip English) breaks down what makes this AI robot so powerful, why it stood out at CES, and how it could impact the future of automation. From intelligent robot systems to real-world industrial applications, this is a glimpse into where robotics is heading next.",
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "pass": 3
+   },
+   {
+    "quote": "AI robots are evolving fast, and partnerships like this show how automation, machine learning, and advanced robotics are merging to solve real business problems. Whether you're in manufacturing, tech, or simply interested in future tech, this is a story you need to understand.",
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "pass": 3
+   },
+   {
+    "quote": "robotics, AI robots, humanoid robots, robot technology, automation robots, future robots, robot industry, robot startup, service robots, AI automation, CES 2026 robots, Maple Advanced Robotics, Doosan robotics, industrial robots, AI robotics news, automation technology, robotics innovation, smart robots, future of robotics, AI robot systems",
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "pass": 3
+   },
+   {
+    "quote": "robotics, AI robots, humanoid robots, robot technology, automation robots, future robots, robot industry, robot startup, service robots, AI automation, CES 2026 robots, Maple Advanced Robotics, Doosan robotics, industrial robots, AI robotics news, automation technology, robotics innovation, smart robots, future of robotics, AI robot systems",
+    "url": "https://www.youtube.com/shorts/BMVNzBeDQ1s",
+    "pass": 3
+   },
+   {
+    "quote": "Designing Industrial AI Agents",
+    "url": "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ask the Industrial AI Experts",
+    "url": "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction to Industrial Robotics",
+    "url": "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Website Design & Development by Amplify Industrial Marketing + Guidance.",
+    "url": "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "pass": 3
+   },
+   {
+    "quote": ". Ehrhardt builds and commissions turnkey solutions for their worldwide clients. With over 80 years of precision manufacturing they understand the complex world of robotics, automated manufacturing, and project management, delivering world-class custom automation on-time and on-budget. Contact one of their sales engineers to see what Ehrhardt can build for you info@ehrhardtautomation.com",
+    "url": "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Attraction Industrial Marketing",
+    "url": "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "pass": 3
+   },
+   {
+    "quote": "In this video, RoboPhil (Philip English) breaks down what makes this AI robot so powerful, why it stood out at CES, and how it could impact the future of automation. From intelligent robot systems to real-world industrial applications, this is a",
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Faster deployment to help manufacturers recoup ROI faster by drastically lowering the time, cost, and skill barriers in integration.",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our hard work has been rewarded and recognised with awards at various levels. This is part of our journey to becoming the leader in the robotics market.",
+    "url": "https://www.maplerobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Our hard work has been rewarded and recognised with awards at various levels. This is part of our journey to becoming the leader in the robotics market.",
+    "url": "https://www.maplerobotics.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "From startups to Fortune 500: 20 years of Product Marketing lessons",
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Your challenge. Our solution.​Contact us to discuss your application andautomation goals.​",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "info@maplerobotics.com",
+    "url": "https://www.maplerobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We provide full support for a smooth transition to automation, enabling same-day operation. Contact us to learn more.",
+    "url": "https://www.maplerobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "sales@robotcenter.co.uk",
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "pass": 3
+   },
+   {
+    "quote": "sales@robotcenter.co.uk",
+    "url": "https://www.youtube.com/shorts/BMVNzBeDQ1s",
+    "pass": 3
+   },
+   {
+    "quote": ". Ehrhardt builds and commissions turnkey solutions for their worldwide clients. With over 80 years of precision manufacturing they understand the complex world of robotics, automated manufacturing, and project management, delivering world-class custom automation on-time and on-budget. Contact one of their sales engineers to see what Ehrhardt can build for you info@ehrhardtautomation.com",
+    "url": "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Maple Robotics Wins Hannover Messe ROBOTICS AWARD ... — Maple Robotics Wins Hannover Messe ROBOTICS AWARD ... NGen Canada https://www.ngen.ca > blog > mari-wi...",
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "pass": 3
+   },
+   {
+    "quote": "Unmatched Autonomy with Maple Advanced Robotics Inc. MARI — Unmatched Autonomy with Maple Advanced Robotics Inc. MARI MARI Robotics https://www.maplerobotics.com > un...",
+    "url": "https://www.maplerobotics.com/blog-news/unmatched-autonomy-with-maple-advanced-robotics-inc-mari",
+    "pass": 3
+   },
+   {
+    "quote": "Events - MARI Robotics — Events - MARI Robotics MARI Robotics https://www.maplerobotics.com > eve...",
+    "url": "https://www.maplerobotics.com/events",
+    "pass": 3
+   },
+   {
+    "quote": "Maple Advanced Robotics ( MARI ) winning an award with ... — Maple Advanced Robotics ( MARI ) winning an award with ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "pass": 3
+   },
+   {
+    "quote": "MARI Robotics : AI-Powered Robotic Automation — MARI Robotics : AI-Powered Robotic Automation MARI Robotics https://www.maplerobotics.com",
+    "url": "https://www.maplerobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Maple Advanced Robotics ( MARI ) wins award with Doosan at ... — Maple Advanced Robotics ( MARI ) wins award with Doosan at ... YouTube https://www.youtube.com > shorts",
+    "url": "https://www.youtube.com/shorts/BMVNzBeDQ1s",
+    "pass": 3
+   },
+   {
+    "quote": "Maple Advanced Robotics Inc. Company Profile — Maple Advanced Robotics Inc. Company Profile A3 Association for Advancing Automation https://www.automate.org > companies",
+    "url": "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Maple Advanced Robotics Inc. | LinkedIn — Maple Advanced Robotics Inc. | LinkedIn LinkedIn https://ca.linkedin.com > company",
+    "url": "https://ca.linkedin.com/company/maple-advanced-robotics-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Unmatched autonomy with Maple Advanced Robotics Inc. MARI — Unmatched autonomy with Maple Advanced Robotics Inc. MARI The Robot Industry Podcast https://therobotindustrypodcast.com > ...",
+    "url": "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "pass": 3
+   },
+   {
+    "quote": "Maple Advanced Robotics Inc.'s Post - LinkedIn — Maple Advanced Robotics Inc.'s Post - LinkedIn LinkedIn https://www.linkedin.com > posts > m...",
+    "url": "https://www.linkedin.com/posts/maple-advanced-robotics-inc_overcoming-the-challenges-of-robotic-automation-activity-7231788528873955328-SeU4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Maple Advanced Robotics Inc. | LinkedIn Maple Advanced Robotics Inc. | LinkedIn LinkedIn https://ca.linkedin.com > company",
+    "url": "https://ca.linkedin.com/company/maple-advanced-robotics-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Yi Li - Executive Vice President at Maple Advanced Robotics Inc. Yi Li - Executive Vice President at Maple Advanced Robotics Inc. LinkedIn https://ca.linkedin.com > ...",
+    "url": "https://ca.linkedin.com/in/yi-li-993b9447",
+    "pass": 3
+   },
+   {
+    "quote": "MARI enables ABB robots to grind hydro fan blades ... - LinkedIn MARI enables ABB robots to grind hydro fan blades ... - LinkedIn LinkedIn https://www.linkedin.com > posts > maple-advanced-robo...",
+    "url": "https://www.linkedin.com/posts/maple-advanced-robotics-inc_robotics-automation-ai-activity-7366150560548388864-mgue",
+    "pass": 3
+   },
+   {
+    "quote": "Maple Advanced Robotics Wins CES 2026 Best of Innovation ... Maple Advanced Robotics Wins CES 2026 Best of Innovation ... LinkedIn https://www.linkedin.com > posts > maple-advanced-robo...",
+    "url": "https://www.linkedin.com/posts/maple-advanced-robotics-inc_ces2026-bestofinnovation-physicalai-activity-7411515712202047489-X_E-",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.maplerobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maplerobotics.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maplerobotics.com/about-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/mayordavidwest/posts/it-was-a-pleasure-to-celebrate-with-dr-yi-li-dr-jay-he-and-the-team-at-maple-adv/908175095173834/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/shorts/BMVNzBeDQ1s",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/maple-advanced-robotics-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/maple-advanced-robotics-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/maple-advanced-robotics-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/maple-advanced-robotics-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/yi-li-993b9447",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/maple-advanced-robotics-inc_robotics-automation-ai-activity-7366150560548388864-mgue",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/maple-advanced-robotics-inc_ces2026-bestofinnovation-physicalai-activity-7411515712202047489-X_E-",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Maple Advanced Robotics (MARI) 日本 導入",
+   "results": [
+    "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "https://www.facebook.com/mayordavidwest/posts/it-was-a-pleasure-to-celebrate-with-dr-yi-li-dr-jay-he-and-the-team-at-maple-adv/908175095173834/",
+    "https://www.maplerobotics.com/blog-news/unmatched-autonomy-with-maple-advanced-robotics-inc-mari",
+    "https://www.automationmag.com/championing-innovation-in-robotics/",
+    "https://www.maplerobotics.com/events",
+    "https://fsmdirect.com/ja/planning-paths/",
+    "https://kidd.co.kr/news/240507",
+    "https://www.rsj.or.jp/info/news/2021/202104061147.html",
+    "https://www.maplerobotics.com/",
+    "https://www.maplerobotics.com/about-us"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Maple Advanced Robotics (MARI) 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "https://www.maplerobotics.com/",
+    "https://www.youtube.com/shorts/BMVNzBeDQ1s",
+    "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "https://www.doosanrobotics.com/jp/about/promotion/news/view/114",
+    "https://www.maplerobotics.com/about-us",
+    "https://asyril.com/ja/%E3%81%8A%E5%95%8F%E5%90%88%E3%81%9B%E5%85%88-%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "https://daoai.com/ja/en-us/daoaiblog/ai-in-smart-manufacturing-highlights-from-hannover-messe-2025",
+    "https://e-shop.robotis.co.jp/page/distributors",
+    "https://www.linkedin.com/company/maple-advanced-robotics-inc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Maple Advanced Robotics (MARI) Japan",
+   "results": [
+    "https://ca.linkedin.com/company/maple-advanced-robotics-inc",
+    "https://www.maplerobotics.com/",
+    "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "https://www.doosanrobotics.com/en/about/promotion/news/",
+    "https://www.youtube.com/channel/UCzCnxxut5I5I-9QfsaREOCg",
+    "https://www.youtube.com/shorts/BMVNzBeDQ1s",
+    "https://www.maplerobotics.com/about-us",
+    "https://robophil.com/maple-advanced-robotics-mari/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Maple Advanced Robotics (MARI) manufacturing customer case study",
+   "results": [
+    "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "https://www.maplerobotics.com/",
+    "https://www.linkedin.com/posts/maple-advanced-robotics-inc_overcoming-the-challenges-of-robotic-automation-activity-7231788528873955328-SeU4",
+    "https://fsmdirect.com/tag/maple-advanced-robotics-inc-mari/",
+    "https://conexusindiana.com/case-studies/?technology=artificial-intelligence-ai-machine-learning-ml",
+    "https://the-robot-industry-podcast.castos.com/episodes/unmatched-autonomy-with-maple-advanced-robotics-inc-mari",
+    "https://www.instagram.com/p/DWHHm0gDSTF/",
+    "https://www.maplerobotics.com/whitepapers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Maple Advanced Robotics (MARI) white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "https://www.maplerobotics.com/",
+    "https://ca.linkedin.com/company/maple-advanced-robotics-inc",
+    "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "https://www.instagram.com/p/DWHHm0gDSTF/",
+    "https://www.youtube.com/channel/UCzCnxxut5I5I-9QfsaREOCg",
+    "https://www.hannovermesse.de/en/press/press-releases/hannover-messe/canadian-company-wins-robotics-award-2025",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Maple Advanced Robotics (MARI) founded funding employees revenue",
+   "results": [
+    "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "https://ca.linkedin.com/company/maple-advanced-robotics-inc",
+    "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "https://tracxn.com/d/companies/maple-advanced-robotics/__ov22qg_cLGuir_49GY6w-AQJG1yKzvMvpUGMuttZFKI",
+    "https://www.maplerobotics.com/about-us",
+    "https://www.youtube.com/shorts/BMVNzBeDQ1s",
+    "https://multiples.vc/private-comps/realtime-robotics",
+    "https://pitchbook.com/profiles/company/518998-06"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Maple Advanced Robotics (MARI)",
+   "results": [
+    "https://note.com/sumako271/n/n11fdcedd5c46?hl=ko"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:x.com Maple Advanced Robotics (MARI)",
+   "results": [
+    "https://x.com/NGen_Canada",
+    "https://x.com/DavidWestRH",
+    "https://x.com/elektroniknet",
+    "https://x.com/group_hw",
+    "https://x.com/RH_EcDev/status/2037153221328753104",
+    "https://x.com/seasicksweetie/status/2105742249812222214",
+    "https://x.com/a3automate/status/1940408005251477659",
+    "https://x.com/MARiConnects",
+    "https://x.com/floral_menace/status/2115230040854253649",
+    "https://x.com/MarktTechTweets"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Maple Advanced Robotics (MARI)",
+   "results": [
+    "https://ca.linkedin.com/company/maple-advanced-robotics-inc",
+    "https://ca.linkedin.com/in/yi-li-993b9447",
+    "https://www.linkedin.com/posts/maple-advanced-robotics-inc_robotics-automation-ai-activity-7366150560548388864-mgue",
+    "https://www.linkedin.com/posts/maple-advanced-robotics-inc_ces2026-bestofinnovation-physicalai-activity-7411515712202047489-X_E-",
+    "https://www.linkedin.com/posts/maple-advanced-robotics-inc_roboticfinishing-roboticgrinding-automatedmaterialremoval-activity-7298361315138445314-YCS8",
+    "https://ca.linkedin.com/in/mustafa-aziz-3b0a2651",
+    "https://ca.linkedin.com/in/ahsansaeedzadeh",
+    "https://www.linkedin.com/posts/ecorobotik_ecorobotik-ces-mapleadvancedrobotics-activity-7420266959994425344-sUgw",
+    "https://www.linkedin.com/posts/mustafa-aziz-3b0a2651_ces2026-physicalai-robotics-activity-7415250756284657664-G70o",
+    "https://www.linkedin.com/posts/maple-advanced-robotics-inc_mapleadvancedrobotics-mari-universalrobots-activity-7391209196777742336-52P6"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Maple Advanced Robotics (MARI)",
+   "results": [
+    "https://www.facebook.com/DirectIndustry/posts/-after-covering-the-hannover-messe-%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%80-%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%84-directindustry-emagazine-takes-/1097417872425890/",
+    "https://www.facebook.com/hannovermesse.fanpage/posts/the-search-for-the-next-outstanding-robotics-innovation-starts-now-with-the-robo/1557359333085816/",
+    "https://www.facebook.com/aiexpoeurope/videos/humanoid-robots-are-about-to-turn-your-career-strategy-into-legacy-code-robotsne/1263760284837874/",
+    "https://www.facebook.com/FraunhoferIFAM/posts/%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%BD%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%B3%F0%9D%98%82%F0%9D%98%81%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF-%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%97%B2%F0%9D%97%B3%F0%9D%97%B3%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81-%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5-%F0%9D%97%BF%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%80%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B2-%F0%9D%97%BD%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B1%F0%9D%98%82%F0%9D%97%B0%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB-%F0%9D%97%9B%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%BB%F0%9D%97%BC%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF-/1524310562823069/",
+    "https://www.facebook.com/RHEcDev/posts/gardel-metal-products-incs-capabilities-extend-across-a-wide-range-of-industries/1391976852966655/",
+    "https://www.facebook.com/MichaelPalleschiBrampton/posts/did-you-know-that-mda-is-headquartered-in-brampton-this-company-has-manufactured/1966148413561111/",
+    "https://www.facebook.com/ngencanada/posts/from-robotics-and-medtech-to-cutting-edge-sustainability-solutions-a-world-class/122175220574714945/",
+    "https://www.facebook.com/detroitfreepress/videos/stellantis-new-robot-does-in-90-minutes-what-would-take-a-human-weeks/2990351951175948/",
+    "https://www.facebook.com/WevolverApp/videos/unifying-robotic-arm-and-leg-movement-for-whole-body-control/544879294144516/",
+    "https://www.facebook.com/robophil/videos/this-robot-just-made-a-big-statement-at-ces-2026maple-advanced-robotics-mari-won/928531013218220/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Maple Advanced Robotics (MARI) note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=WTkX7yOGQSw",
+    "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "https://www.maplerobotics.com/",
+    "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "https://ca.linkedin.com/in/yi-li-993b9447",
+    "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "https://pitchbook.com/profiles/company/518998-06",
+    "https://www.linkedin.com/posts/ecorobotik_ecorobotik-ces-mapleadvancedrobotics-activity-7420266959994425344-sUgw",
+    "https://www.maplerobotics.com/about-us",
+    "https://ca.linkedin.com/in/yicong-xiao-8291a4151"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Maple Advanced Robotics (MARI) X 投稿",
+   "results": [
+    "https://www.maplerobotics.com/",
+    "https://therobotindustrypodcast.com/podcast/unmatched-autonomy-with-maple-advanced-robotics-inc-mari/",
+    "https://www.doosanrobotics.com/en/about/promotion/news/view/116",
+    "https://www.youtube.com/channel/UCzCnxxut5I5I-9QfsaREOCg",
+    "https://www.automate.org/companies/maple-advanced-robotics-inc",
+    "https://www.ngen.ca/blog/mari-wins-prestigious-robotics-award",
+    "https://www.ces.tech/ces-innovation-awards/2026/ai-powered-autonomous-mobile-robot-solution-scango/",
+    "https://x.com/RH_EcDev/status/2037153221328753104",
+    "https://www.maplerobotics.com/about-us",
+    "https://ca.linkedin.com/company/maple-advanced-robotics-inc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部23頁・検索12回）"
+ }
+}
