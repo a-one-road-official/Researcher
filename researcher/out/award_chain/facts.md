@@ -1,4 +1,4 @@
-# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・61社）
+# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・62社）
 
 ## Ashirase
 - 公式URL：https://www.ashirase.com/（given）
@@ -4837,6 +4837,90 @@ NTTエレクトロニクステクノ株式会社
   - 「秋山精鋼 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork — 秋山精鋼 「社員クチコミ」 就職・転職の採用企業 ... - OpenWork OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属」（https://www.openwork.jp/company.php?m_id=a0C3000000FPdrN・3回目）
 - 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部14頁・検索11回）
+
+## 菊川工業
+- 公式URL：https://www.kikukawa.com/（given）
+- 事業内容：装飾金属建材の設計・製造・施工（https://www.tokyo-cci.or.jp/carbon_neutral/jirei/kikukawa_kougyou.html・3回目）
+- 資本金：100,000千円（https://www.kikukawa.com/about/company/・1回目）
+- 資本金：100,000,000円（https://toiku-shukatsu.net/search/company/TE0530/index.html・3回目）
+- 資本金：1億円（https://syukatsu-kaigi.jp/companies/115145/post_items/6/word_mouths・3回目）
+- 創業年度：創業：昭和8年（1933年）11月1日（https://www.kikukawa.com/about/company/・1回目）
+- 創業年度：創業：1933年（https://toiku-shukatsu.net/search/company/TE0530/index.html・3回目）
+- 創業年度：設立日：1933年11月（https://syukatsu-kaigi.jp/companies/115145/post_items/6/word_mouths・3回目）
+- 従業員数：181名（2025年12月現在）（https://www.kikukawa.com/about/company/・1回目）
+- 従業員数：181名（https://toiku-shukatsu.net/search/company/TE0530/index.html・3回目）
+- 従業員数：206人（https://syukatsu-kaigi.jp/companies/115145/post_items/6/word_mouths・3回目）
+- 売上高：50億4729万7000円（https://syukatsu-kaigi.jp/companies/115145/post_items/6/word_mouths・3回目）
+- 所在地：墨田区菊川2-18-12（https://toiku-shukatsu.net/search/company/TE0530/index.html・3回目）
+- 所在地：千葉県白井市中98-15（https://toiku-shukatsu.net/search/company/TE0530/index.html・3回目）
+- 所在地：〒130-0024 東京都墨田区菊川2丁目18番12号（https://syukatsu-kaigi.jp/companies/115145/post_items/6/word_mouths・3回目）
+- 代表者：宇津野　隆元（ながまさ）（https://www.kikukawa.com/about/company/・1回目）
+- 代表者：代表取締役社長 宇津野隆元（https://toiku-shukatsu.net/search/company/TE0530/index.html・3回目）
+- 代表者：宇津野 隆元（https://syukatsu-kaigi.jp/companies/115145/post_items/6/word_mouths・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「金属工事をはじめとする装飾建材の設計・製造・施工」（https://www.kikukawa.com/about/company/・1回目）
+  - 「建設工事業、土木工事業、大工工事業、とび、屋根工事業、鋼構造物工事業、鉄筋工事業、 舗装工事業、しゅんせつ工事業、板金工事業、ガラス工事業、塗装工事業、防水工事業、内装仕上工事業、熱絶縁工事業、建具工事業、水道施設工事業、解体工事業、不動産の賃貸、派遣業、古物商」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「10月 (株)三井建設とナスストラクチャー(株)共同の(株)ミナス第2十余二工場の鉄骨加工の運営をつかさどるカルテンバッハ社製の全自動メタル切断機、ワグナ社製のボーリングマシン導入」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「1月 特定派遣業登録 特13-312256号取得」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「100％オーダーメイドで、建築”美”にこだわり、金属建材を製造しているメーカーです」（https://toiku-shukatsu.net/search/company/TE0530/index.html・3回目）
+  - 「その他、紹介しきれない数々の建物にかかわっています」（https://toiku-shukatsu.net/search/company/TE0530/index.html・3回目）
+  - 「〇現在の売上⾼︓ 50億円（ 2024年12月期）」（https://growth-100-oku.smrj.go.jp/companies/pdf/00776-00.pdf・3回目）
+  - 「そのような状況下において、私たちは積極的に生産設備やDX投資を⾏い、製造能⼒を」（https://growth-100-oku.smrj.go.jp/companies/pdf/00776-00.pdf・3回目）
+  - 「売上高100億円実現の目標と課題」（https://growth-100-oku.smrj.go.jp/companies/pdf/00776-00.pdf・3回目）
+  - 「2034年までに売上130億達成に向けて、既存事業拡大、業」（https://growth-100-oku.smrj.go.jp/companies/pdf/00776-00.pdf・3回目）
+  - 「売上高100億円実現に向けた具体的措置」（https://growth-100-oku.smrj.go.jp/companies/pdf/00776-00.pdf・3回目）
+  - 「●製造部門中心⼯場業務効率化、塗装機能強化の実施」（https://growth-100-oku.smrj.go.jp/companies/pdf/00776-00.pdf・3回目）
+- 客は誰か：
+  - 「今、経済産業省は日本経済を下支えしてきた中小企業の中から、成長意欲のある企業を中堅企業として育てていく施策を展開しています」（https://www.tokyo-cci.or.jp/carbon_neutral/jirei/kikukawa_kougyou.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「メタルワークエンジニアリングのトップメーカーです」（https://www.kikukawa.com/・1回目）
+  - 「工場見学：県立工業高校３年生の校外学習 2026」（https://www.kikukawa.com/・1回目）
+  - 「東京本社・白井工場を中心に、全国からのお問い合わせに対応いたします」（https://www.kikukawa.com/about/company/・1回目）
+  - 「千葉県・白井工場第１期工事完成」（https://www.kikukawa.com/about/history/・1回目）
+  - 「白井工場第２期工事完成」（https://www.kikukawa.com/about/history/・1回目）
+  - 「第２工場第１期工事完成」（https://www.kikukawa.com/about/history/・1回目）
+  - 「第３工場としてメタル工房完成」（https://www.kikukawa.com/about/history/・1回目）
+  - 「第２工場第２期工事完成」（https://www.kikukawa.com/about/history/・1回目）
+  - 「ここ数年インターネットを活用したマーケティングを強化し、大規模なオーダーメイド建材だけでなく、様々な内外装建材の注文をいただくようになりましたが、今後、住宅やオフィス、工場などでも、質の高い装飾建材の需要は増えていくと考えています」（https://www.kikukawa.com/about/greeting/・1回目）
+  - 「例えばオフィスやホテルのレセプションカウンター、パーティション、天井パネルなどに装飾金属建材を用いることで、その空間に高級感や洗練された雰囲気を創出できます」（https://www.kikukawa.com/about/greeting/・1回目）
+  - 「建設工事業、土木工事業、大工工事業、とび、屋根工事業、鋼構造物工事業、鉄筋工事業、 舗装工事業、しゅんせつ工事業、板金工事業、ガラス工事業、塗装工事業、防水工事業、内装仕上工事業、熱絶縁工事業、建具工事業、水道施設工事業、解体工事業、不動産の賃貸、派遣業、古物商」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「不動産コンサルティングマスター 1名」（http://www.kk-kikukawa.co.jp/company/・3回目）
+- 資本金・株主：
+  - 「-ホンベホールディングス(株)100%出資の子会社-」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「5月 東京都墨田区菊川3丁目9番6号に事務所を設置し、資本金300万円にて株式会社菊川工業設立」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「3月 資本金1,000万円に増資」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「8月 資本金3,000万円に増資」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「資本金：100,000,000円」（https://toiku-shukatsu.net/search/company/TE0530/index.html・3回目）
+  - 「私がいた時は、株式上場する前で、とても勢いがありました」（https://syukatsu-kaigi.jp/companies/115145/post_items/6/word_mouths・3回目）
+  - 「同年10月には放送と通信の融合に向けて、モバイルIT上場企業のジグノシステムを買収」（https://gentosha-go.com/articles/-/13097・3回目）
+- 表彰・認定の記録：
+  - 「11月 千葉県吉橋工場稼働 月産400t Mグレード認定工場 鉄骨加工業に進出」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「9月 品川NTTビル殿より安全功労賞を表彰される」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「7月 三井、佐藤、青木、銭高、巴組共同企業体殿より安全標語コンクール表彰」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「10月 鴻池組殿よりサントリー利根川ブルワリー第四期増設工事（瓶詰棟増築工事）よあたり表彰される」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「11月 大和ハウス工場殿より吉田工業沼南工場新築工事において表彰される」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「2月 新日本空調殿より日東東雲ビル空調JV新築工事において表彰される」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「坪井工業殿より飯能総合管理事務所新築工事に於いて表彰される」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「日本鋼管殿より幸栄産業白河工場建設工事に於いて表彰される」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「6月 坪井工業殿より飯能総合管理事務所新築工事に於いて表彰される」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「6月 日本鋼管殿より丸紅木材建材鹿島事務所および大阪磨シャフト滋賀工場新築工事に於いて表彰される」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「7月 大林組殿より創価大学記念講堂新築工事に於いて表彰される」（http://www.kk-kikukawa.co.jp/company/・3回目）
+  - 「6月 坪井工業殿より西武園駅舎改良工事及び他工事に於いて表彰される」（http://www.kk-kikukawa.co.jp/company/・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 | オーダー金属建材の 菊川工業 — 会社概要 | オーダー金属建材の 菊川工業 菊川工業株式会社 https://www.kikukawa.com > KIKUKAWAとは」（https://www.kikukawa.com/about/company/・3回目）
+  - 「菊川工業 株式 会社 - トーイク就活 — 菊川工業 株式 会社 - トーイク就活 トーイク就活 https://toiku-shukatsu.net > search > company」（https://toiku-shukatsu.net/search/company/TE0530/index.html・3回目）
+  - 「菊川工業 株式 会社 - Metoree — 菊川工業 株式 会社 - Metoree Metoree https://metoree.com > 会社一覧」（https://metoree.com/companies/19788/・3回目）
+  - 「菊川工業 株式 会社 （製造業） - 100億宣言 — 菊川工業 株式 会社 （製造業） - 100億宣言 １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf」（https://growth-100-oku.smrj.go.jp/companies/pdf/00776-00.pdf・3回目）
+  - 「菊川工業 株式会社（製造業） - 100億宣言 — 菊川工業 株式会社（製造業） - 100億宣言 １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf」（https://growth-100-oku.smrj.go.jp/companies/pdf/00776-00.pdf・3回目）
+  - 「数字で見るKIKUKAWA | 菊川工業 採用情報サイト — 数字で見るKIKUKAWA | 菊川工業 採用情報サイト 菊川工業株式会社 https://www.kikukawa.com > Home > 環境について」（https://www.kikukawa.com/recruit/environment/facts/・3回目）
+  - 「菊川工業 の将来性・業績・ 売上 に関する評判・口コミ一覧（全 ... — 菊川工業 の将来性・業績・ 売上 に関する評判・口コミ一覧（全 ... 就活会議 https://syukatsu-kaigi.jp > post_items > word_mouths」（https://syukatsu-kaigi.jp/companies/115145/post_items/6/word_mouths・3回目）
+  - 「菊川工業 | 企業情報 | イプロスものづくり — 菊川工業 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 建材・資材・什器」（https://mono.ipros.com/company/detail/2005412/・3回目）
+  - 「菊川工業 株式会社 ｜ 攻めの脱炭素事例集 - 東京商工会議所 — 菊川工業 株式会社 ｜ 攻めの脱炭素事例集 - 東京商工会議所 東京商工会議所 https://www.tokyo-cci.or.jp > jirei > kikukawa_kougyou」（https://www.tokyo-cci.or.jp/carbon_neutral/jirei/kikukawa_kougyou.html・3回目）
+  - 「菊川工業 株式会社 | オーダー金属建材の 菊川工業 — 菊川工業 株式会社 | オーダー金属建材の 菊川工業 菊川工業株式会社 https://www.kikukawa.com > メディア掲載」（https://www.kikukawa.com/・3回目）
+  - 「菊川工業 株式会社(キクカワホールディングス株式会社) — 菊川工業 株式会社(キクカワホールディングス株式会社) 東京中小企業投資育成株式会社 https://www.sbic.co.jp > investeecompany > detail」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=1798・3回目）
+  - 「プロダクト施工 事例 | オーダー金属建材の 菊川工業 — プロダクト施工 事例 | オーダー金属建材の 菊川工業 菊川工業株式会社 https://www.kikukawa.com > products」（https://www.kikukawa.com/products/・3回目）
+- 株主：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部17頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像1件／外部17頁・検索11回）
 
 ## 菱華産業
 - 公式URL：https://www.ryokasangyo.co.jp/（given）

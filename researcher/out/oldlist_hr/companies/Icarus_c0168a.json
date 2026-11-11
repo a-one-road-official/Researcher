@@ -1,0 +1,1687 @@
+{
+ "name": "Icarus",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-10T23:22:18.995056+00:00",
+ "official_url": "https://www.icarus.one/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "APOLLO is engineered for stratospheric dominance. Solar-powered, autonomous, and capable of weeks-long flight without landing, it operates above 60,000 feet, immune to weather, unreachable by most threats. With proximity unmatched by satellites, APOLLO provides continuous coverage and ultra-low-latency data delivery, maximizing the quantity, quality, and timeliness of information.",
+    "url": "https://www.icarus.one/",
+    "pass": 1
+   },
+   {
+    "quote": "Deployed in hours. Stationed for weeks. Precision without compromise.",
+    "url": "https://www.icarus.one/",
+    "pass": 1
+   },
+   {
+    "quote": "He started from first principles, sketching systems, running the numbers, and designing a new kind of platform: a solar-powered aircraft that could fly for months at the edge of space. Then he packed up his 1996 Ford Bronco, drove to California, and assembled a team to build it.",
+    "url": "https://www.icarus.one/about",
+    "pass": 1
+   },
+   {
+    "quote": "One mission. One product. One customer.",
+    "url": "https://www.icarus.one/about",
+    "pass": 1
+   },
+   {
+    "quote": "First principles. Best idea wins",
+    "url": "https://www.icarus.one/about",
+    "pass": 1
+   },
+   {
+    "quote": "Icarus tests its stratospheric birds at our flight development and testing area in the Mojave Desert, California. Spanning wide-open airspace and rugged terrain, the site is built for rapid testing, iteration, and validation of full flight systems. From launch to recovery, every major system is proven here before operational deployment.",
+    "url": "https://www.icarus.one/about",
+    "pass": 1
+   },
+   {
+    "quote": "You must get permission from me before you are allowed to modify my files to improve it",
+    "url": "https://www.nexusmods.com/icarus/mods/170",
+    "pass": 3
+   },
+   {
+    "quote": "This author has not provided any additional notes regarding file permissions",
+    "url": "https://www.nexusmods.com/icarus/mods/170",
+    "pass": 3
+   },
+   {
+    "quote": "..\\SteamLibrary\\steamapps\\common\\Icarus\\Icarus\\Content\\Paks下にmodsファイルを作成します",
+    "url": "https://www.nexusmods.com/icarus/mods/170",
+    "pass": 3
+   },
+   {
+    "quote": "次に..\\SteamLibrary\\steamapps\\common\\Icarus\\Icarus\\Content\\Paks\\modsフォルダ内に JP_Localization_part2.pakをコピーします",
+    "url": "https://www.nexusmods.com/icarus/mods/170",
+    "pass": 3
+   },
+   {
+    "quote": "本編とこれらがセットになったProspector Editionというのがあるので、これを買うと間違いがありません",
+    "url": "https://thumbsupper.hatenablog.com/entry/2023/11/26/004051",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)の仕様、互換性&スライサーガイド - SimplyPrint",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)の概要",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)はProteor製の3Dプリンターで、造形サイズは700 x 500 x 1000 mmです",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)をSimplyPrintに接続",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1) 3DプリンターはSimplyPrint、OctoPrint、Mainsail、Fluiddに対応していますか？",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)でSimplyPrintを設定する方法",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)に使用するスライサー",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "SimplyPrintのクラウドにはProteor ICARUS-Pro (Rabbit G1)用の既成プロファイルはありませんが、標準のG-codeに対応しています",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)のプロファイルはありません",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "SimplyPrintのクラウドで使用できるスライサーのみを掲載しています",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)には他にも対応するスライサーがある場合があります",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)向けクラウドスライサー",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "SimplyPrintのオンラインクラウドスライサー",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "世界中どこからでも、どのデバイスでもProteor ICARUS-Pro (Rabbit G1)用モデルをスライスできます！",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)で正常に動作する場合もあります",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)用アプリ",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "SimplyPrintはProteor ICARUS-Pro (Rabbit G1)のアプリとして、スマートフォンやあらゆるブラウザーで使えます",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "プリントキュー、AIによる失敗検出、AutoPrint、チーム用アカウントも利用できます",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "され、GDPRが適用されます",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)をSimplyPrintに無料で接続",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS-Pro (Rabbit G1)を自動化",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "SimplyPrintにはまだProteor ICARUS-Pro (Rabbit G1)用のプレート交換機や自動排出キットはありませんが、AutoPrintで連続プリントできます",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "ビルドプレートを空にするルーチンを作成すると、AutoPrintがプリントのたびに実行します",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットアームや独自のシステムからAPIまたはWebhookを通じて、ビルドプレート上に何もないことをSimplyPrintに通知します",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "AutoPrintはプレート上の造形物を取り除いたことをユーザーがマークするのを待ってから、次のジョブを開始します",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "VFUN Halloween Surprise Event (Exclusive for VFUN Users Only)",
+    "url": "https://icarus.pmang.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "Spacecraft properties",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(Venus Climate Orbiter) probe and four other small spacecraft. IKAROS is the first spacecraft to successfully demonstrate",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "The IKAROS probe was the first spacecraft to use",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "as the main propulsion.",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "The probe's ALADDIN instrument (ALDN-S and ALDN-E) measured the variation in dust density",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": ", with a proposed goal of returning an asteroid sample to Earth in the 2050s.",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "provided the thin-film solar array.",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "IKAROS spaceprobe in flight (artist's depiction)",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "and on 23 July announced successful attitude control. Over a 23-hour period of time, the solar angle of the sail was changed by a half a degree, not by using thrusters, but by dynamically controlling the reflectivity of the 80 liquid crystal panels at the outer edge of the sail so that the sunlight pressure would produce torque.",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "IKAROS continues to spin at approximately 2",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2012, the IKAROS continued to spin, but its attitude control had degraded. This resulted in unexpected sail motions and as a result, downlink through the medium-gain antenna was only intermittently available. The project team was dissolved on 28 March 2013, although a trial receipt of data was planned for a later date.",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "As of August 2013, acceleration from the IKAROS sail had changed the craft's speed by approximately",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "By 23 April 2015, the spacecraft woke up from hibernation mode for the 4th time and was flying at a distance of about 120",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": ". It is an improvement of eight orders of magnitude over previous limits.",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "JAXA scientists stated on 9 July 2010 that the measured thrust force by the solar radiation pressure on IKAROS'",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "– LEO solar sailing demo project",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "– Proposed space probe to Trojan asteroids",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "on 10 April 2010",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "from the original on 26 April 2014",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "ed.). Washington, DC: NASA History Program Office. p.",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "ft), and will have integrated ion-propulsion engines. The destinations of the spacecraft will be Jupiter and the Trojan asteroids.",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "\"JAXA reveals asteroid probe solar panel\"",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "From a barn in upstate New York, Henry Kwan founded Icarus in 2023 after building autonomous drones at NASA and designing spacecraft to build factories in space. There, he saw firsthand how Space is constrained by orbital mechanics.",
+    "url": "https://www.icarus.one/about",
+    "pass": 1
+   },
+   {
+    "quote": "Georgia Tech, Aerospace Eng",
+    "url": "https://www.icarus.one/about",
+    "pass": 1
+   },
+   {
+    "quote": "Icarus designs, manufactures, and assembles its solar-powered stratospheric birds at our headquarters in Los Angeles, California. Our Los Angeles facility is the engineering, manufacturing, and business nerve center of Icarus. One of the few places on Earth where an entire stratospheric drone is designed, built, and brought to life under one roof.",
+    "url": "https://www.icarus.one/about",
+    "pass": 1
+   },
+   {
+    "quote": "Art Deco Furniture Pack、Industrial Furniture Pack、Interior Decorations Packが該当します",
+    "url": "https://thumbsupper.hatenablog.com/entry/2023/11/26/004051",
+    "pass": 3
+   },
+   {
+    "quote": "PROTEOR Targets Next-Gen O&P Manufacturing with Filament Innovations Acquisition - 3D Printing Industry",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": ") is a Japan Aerospace Exploration Agency (",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan Aerospace Exploration Agency (JAXA). 23 July 2010.",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release) (in Japanese). Japan Aerospace Exploration Agency. 9 July 2010",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). Japan Aerospace Exploration Agency (JAXA). 23 July 2010",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan Aerospace Exploration Agency (JAXA). Archived from",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan Aerospace Exploration Agency (JAXA). 30 November 2012. Archived from",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Japan Aerospace Exploration Agency (JAXA). 20 June 2013",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Japan Aerospace Exploration Agency (JAXA). 29 August 2013",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Japan Aerospace Exploration Agency (JAXA). 26 May 2014",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "Barajas brings the space expertise, having worked on an autonomous plant growth lab that was sent to the ISS at 17, and lunar rovers during a JPL work experience while studying at Cal Tech.",
+    "url": "https://payloadspace.com/icarus-raises-6-1m-seed-to-put-robot-workers-in-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive: Orbital Taps Orca Aerospace for Onboard Autonomy Software",
+    "url": "https://payloadspace.com/icarus-raises-6-1m-seed-to-put-robot-workers-in-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Satellite autonomy startup Orca Aerospace announced a deal worth up to $20M with LA-based Orbital to put its software on Orbital’s planned data-center fleet.",
+    "url": "https://payloadspace.com/icarus-raises-6-1m-seed-to-put-robot-workers-in-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Additionally, since the locations of ores and plants placed on the map are fixed, I like the feeling of knowing where it's best to build a base as your map knowledge increases.",
+    "url": "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Japanese Localization at Icarus Nexus - Mods and community",
+    "url": "https://www.nexusmods.com/icarus/mods/170",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Localization",
+    "url": "https://www.nexusmods.com/icarus/mods/170",
+    "pass": 3
+   },
+   {
+    "quote": "This mod adds new Japanese localization. このModは追加でMod版の日本語ローカライズを追加します",
+    "url": "https://www.nexusmods.com/icarus/mods/170",
+    "pass": 3
+   },
+   {
+    "quote": "This mod adds new Japanese localization.",
+    "url": "https://www.nexusmods.com/icarus/mods/170",
+    "pass": 3
+   },
+   {
+    "quote": "このModは追加でMod版の日本語ローカライズを追加します",
+    "url": "https://www.nexusmods.com/icarus/mods/170",
+    "pass": 3
+   },
+   {
+    "quote": "言語/Languageから日本語(MOD)を選択します",
+    "url": "https://www.nexusmods.com/icarus/mods/170",
+    "pass": 3
+   },
+   {
+    "quote": "大人しくなった公式日本語X（Twitter）",
+    "url": "https://thumbsupper.hatenablog.com/entry/2023/11/26/004051",
+    "pass": 3
+   },
+   {
+    "quote": "Icarusには日本語公式Xがあるのですが、確認した限り、この2022年2月9日あたりまでは、公式Discordのスクショをときどき貼ってはコメントしていました",
+    "url": "https://thumbsupper.hatenablog.com/entry/2023/11/26/004051",
+    "pass": 3
+   },
+   {
+    "quote": "公式Xの活動低下のみならず、そこにリンクもある日本語公式Discordの「お知らせ」は2022年6月22日以降に続報がありません",
+    "url": "https://thumbsupper.hatenablog.com/entry/2023/11/26/004051",
+    "pass": 3
+   },
+   {
+    "quote": "公式からの日本コミュニティへの関心が薄いのではないかと疑う",
+    "url": "https://thumbsupper.hatenablog.com/entry/2023/11/26/004051",
+    "pass": 3
+   },
+   {
+    "quote": "ゲームの日本語訳も、発売当初から直されていない怪しい部分があります",
+    "url": "https://thumbsupper.hatenablog.com/entry/2023/11/26/004051",
+    "pass": 3
+   },
+   {
+    "quote": "』の発売日が現地時間2月26日（日本時間2月27日）に決定したことを発表しました",
+    "url": "https://www.gamespark.jp/article/2026/01/31/162210.html",
+    "pass": 3
+   },
+   {
+    "quote": "【海外の反応】「竹島くらい諦めろよw」韓国軍が竹島で挑発飛行→日本「支援は中止です」…自衛隊の初の給油を当てにした韓国国防部の課長、中東の晴れ舞台が消えた日",
+    "url": "https://www.youtube.com/watch?v=-bqcy_1PsqE",
+    "pass": 3
+   },
+   {
+    "quote": ") is a Japan Aerospace Exploration Agency (",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "The Jupiter Trojan Asteroid Explorer was a finalist for Japan's",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "Transactions of The Japan Society for Aeronautical and Space Sciences, Space Technology Japan",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Asahi Shimbun. 10 December 2010",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). JAXA. 14 July 2010",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "Publications of the Astronomical Society of Japan",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "\"Japan's Solar Sail Is the Toast of Space Science\"",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Times Online",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "\"Japan tests power of solar sails in deep space\"",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan Aerospace Exploration Agency (JAXA). 23 July 2010.",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "\"Japanese Spacecraft Deploys Solar Sail\"",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "\"Japan unfurls Ikaros solar sail in space\"",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "\"Mini-camera pictures Japan's Ikaros solar sail\"",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release) (in Japanese). Japan Aerospace Exploration Agency. 9 July 2010",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(Press release). Japan Aerospace Exploration Agency (JAXA). 23 July 2010",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan Aerospace Exploration Agency (JAXA). Archived from",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan Aerospace Exploration Agency (JAXA). 30 November 2012. Archived from",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Japan Aerospace Exploration Agency (JAXA). 20 June 2013",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Japan Aerospace Exploration Agency (JAXA). 29 August 2013",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Japan Aerospace Exploration Agency (JAXA). 26 May 2014",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese space program",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Experiment Module (Kibō)",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Space Station Module (Mitsui)",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "May 2010 in Japan",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese missions to Venus",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "'The Fall of Icarus: Narita Stories': Victory and loss surround the world's entry point to Japan - The Japan Times",
+    "url": "https://www.japantimes.co.jp/culture/2017/09/06/films/film-reviews/fall-icarus-narita-stories-victory-loss-surround-worlds-entry-point-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Foreign community in Japan",
+    "url": "https://www.japantimes.co.jp/culture/2017/09/06/films/film-reviews/fall-icarus-narita-stories-victory-loss-surround-worlds-entry-point-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "‘The Fall of Icarus: Narita Stories’: Victory and loss surround the world’s entry point to Japan",
+    "url": "https://www.japantimes.co.jp/culture/2017/09/06/films/film-reviews/fall-icarus-narita-stories-victory-loss-surround-worlds-entry-point-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Special To The Japan Times",
+    "url": "https://www.japantimes.co.jp/culture/2017/09/06/films/film-reviews/fall-icarus-narita-stories-victory-loss-surround-worlds-entry-point-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Almost everyone who comes to Tokyo via Narita International Airport notices the lush green fields surrounding the runways and terminal buildings. It’s a nice sight after sitting on an airplane for so long.",
+    "url": "https://www.japantimes.co.jp/culture/2017/09/06/films/film-reviews/fall-icarus-narita-stories-victory-loss-surround-worlds-entry-point-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Some new arrivals get confused, however. “This can’t be Tokyo,” I once heard a startled tourist proclaim on the journey from airport to metropolis. “Where are all the buildings? It’s just a bunch of trees!” Patience, my friend, this “bunch of trees” happens to hold significant history in these parts.",
+    "url": "https://www.japantimes.co.jp/culture/2017/09/06/films/film-reviews/fall-icarus-narita-stories-victory-loss-surround-worlds-entry-point-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "What a Japanese scientist says can be done about the climate’s nitrogen problem",
+    "url": "https://www.japantimes.co.jp/culture/2017/09/06/films/film-reviews/fall-icarus-narita-stories-victory-loss-surround-worlds-entry-point-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Convenience stores, toilets and the allure of everyday Japan",
+    "url": "https://www.japantimes.co.jp/culture/2017/09/06/films/film-reviews/fall-icarus-narita-stories-victory-loss-surround-worlds-entry-point-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "KIRINJI [1/2] - tiny desk concerts JAPAN",
+    "url": "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "pass": 3
+   },
+   {
+    "quote": "Provided to YouTube by WM Japan",
+    "url": "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "pass": 3
+   },
+   {
+    "quote": "一番近いイベント · 日本、東京都中央区",
+    "url": "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "pass": 3
+   },
+   {
+    "quote": "日本、東京都中央区 · 観世能楽堂",
+    "url": "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "pass": 3
+   },
+   {
+    "quote": "日本、東京都中央区 · 三越劇場",
+    "url": "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "pass": 3
+   },
+   {
+    "quote": "日本、東京都目黒区 · 恵比寿The Garden Hall／The Garden Room",
+    "url": "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "pass": 3
+   },
+   {
+    "quote": "℗ 2000 WARNER MUSIC JAPAN INC.",
+    "url": "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "pass": 3
+   },
+   {
+    "quote": "It is an event where various European films that have not yet been released in Japan are screened every year, but surprisingly, this year they are all animated films!",
+    "url": "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Japanese Localization at Icarus Nexus - Mods and community — Japanese Localization at Icarus Nexus - Mods and community Nexus Mods https://www.nexusmods.com > icarus > mods",
+    "url": "https://www.nexusmods.com/icarus/mods/170",
+    "pass": 3
+   },
+   {
+    "quote": "ICARUS サバイブイカルスの現状について - Thumbs upper — ICARUS サバイブイカルスの現状について - Thumbs upper はてなブログ https://thumbsupper.hatenablog.com > entry > 2023/11/26",
+    "url": "https://thumbsupper.hatenablog.com/entry/2023/11/26/004051",
+    "pass": 3
+   },
+   {
+    "quote": "『DayZ』クリエイター手がける惑星サバイバル『 ICARUS ... — 『DayZ』クリエイター手がける惑星サバイバル『 ICARUS ... Game*Spark https://www.gamespark.jp > 家庭用ゲーム > PS5",
+    "url": "https://www.gamespark.jp/article/2026/01/31/162210.html",
+    "pass": 3
+   },
+   {
+    "quote": "イカロス - Quality of Life Mod - パート1 : r/ ICARUS - Reddit — イカロス - Quality of Life Mod - パート1 : r/ ICARUS - Reddit Reddit https://www.reddit.com > ICARUS > comments > icarus_q...",
+    "url": "https://www.reddit.com/r/ICARUS/comments/13v8exc/icarus_quality_of_life_mod_part_1/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "『 Icarus Online』本日よりグローバル正式サービス開始！ — 『 Icarus Online』本日よりグローバル正式サービス開始！ PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000213.000155525.html",
+    "pass": 3
+   },
+   {
+    "quote": "Proteor ICARUS -Pro (Rabbit G1)の仕様、互換性&スライサー ... — Proteor ICARUS -Pro (Rabbit G1)の仕様、互換性&スライサー ... SimplyPrint https://simplyprint.io > proteor-icarus-pro-rabbit-g1",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus Online（ イカロス オンライン）｜公式サイト — Icarus Online（ イカロス オンライン）｜公式サイト イカロスオンライン https://icarus.pmang.jp",
+    "url": "https://icarus.pmang.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "[ ICARUS Survive Icarus ] Workshop shopping spree ... - YouTube — [ ICARUS Survive Icarus ] Workshop shopping spree ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=-bqcy_1PsqE",
+    "pass": 3
+   },
+   {
+    "quote": "ICARUS - 伍拾雀堂 — ICARUS - 伍拾雀堂 伍拾雀堂 https://www.gojukarado.com > product > icarus",
+    "url": "https://www.gojukarado.com/product/icarus.html",
+    "pass": 3
+   },
+   {
+    "quote": "'The Fall of Icarus : Narita Stories': Victory and loss surround ... — 'The Fall of Icarus : Narita Stories': Victory and loss surround ... The Japan Times https://www.japantimes.co.jp > films",
+    "url": "https://www.japantimes.co.jp/culture/2017/09/06/films/film-reviews/fall-icarus-narita-stories-victory-loss-surround-worlds-entry-point-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus No Matsuei (2018 Remaster) - YouTube — Icarus No Matsuei (2018 Remaster) - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus affair - Wikipedia — Icarus affair - Wikipedia Wikipedia https://en.wikipedia.org > Icarus_affair",
+    "url": "https://en.wikipedia.org/wiki/Icarus_affair",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus : the design process of a conceptual vehicle — Icarus : the design process of a conceptual vehicle ScienceDirect.com https://www.sciencedirect.com > pii",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0261306900000959",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus Raises $6.1M Seed to Put Robot Workers in Space — Icarus Raises $6.1M Seed to Put Robot Workers in Space Payload Space https://payloadspace.com > News",
+    "url": "https://payloadspace.com/icarus-raises-6-1m-seed-to-put-robot-workers-in-space/",
+    "pass": 3
+   },
+   {
+    "quote": "ICARUS Devices's Competitors, Revenue , Number of ... - Owler — ICARUS Devices's Competitors, Revenue , Number of ... - Owler Owler https://www.owler.com > icarusdevices",
+    "url": "https://www.owler.com/company/icarusdevices",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus | LinkedIn — Icarus | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/icarusindustries",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus : Stratospheric birds for defense - Y Combinator — Icarus : Stratospheric birds for defense - Y Combinator Y Combinator https://www.ycombinator.com > icarus",
+    "url": "https://www.ycombinator.com/companies/icarus",
+    "pass": 3
+   },
+   {
+    "quote": "ICARUS (Other Hardware) 2026 Company Profile - PitchBook — ICARUS (Other Hardware) 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/529736-86",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Part of one clinic workflow: scanning, design and printing from the same company.",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "PROTEOR announced it had acquired Filament Innovations, maker of the ICARUS 3D printer and co-developer of the CPX-KyronMAX filament, adding 3D printing to its digital O&P portfolio.",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "PROTEOR Targets Next-Gen O&P Manufacturing with Filament Innovations Acquisition - 3D Printing Industry",
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "pass": 3
+   },
+   {
+    "quote": "A thin-film solar array is embedded in the sail (key item 4 in figure at right).",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "provided the thin-film solar array.",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "(key item 2 in figure at right). The sail also contains eight dust counters on the opposite face as part of the science payload.",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "\"COSMIC DUST DETECTION BY THE IKAROS-ARRAYED LARGE-AREA DUST DETECTORS IN INTERPLANETARY SPACE (ALADDIN) FROM THE EARTH TO VENUS\"",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "Carruthers Geocorona Observatory",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   },
+   {
+    "quote": "Some new arrivals get confused, however. “This can’t be Tokyo,” I once heard a startled tourist proclaim on the journey from airport to metropolis. “Where are all the buildings? It’s just a bunch of trees!” Patience, my friend, this “bunch of trees” happens to hold significant history in these parts.",
+    "url": "https://www.japantimes.co.jp/culture/2017/09/06/films/film-reviews/fall-icarus-narita-stories-victory-loss-surround-worlds-entry-point-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Arranger, Producer: Keiichi Tomita",
+    "url": "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "pass": 3
+   },
+   {
+    "quote": "Arranger: Takaki Horigome",
+    "url": "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "pass": 3
+   },
+   {
+    "quote": "Arranger: Yasuyuki Horigome",
+    "url": "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "pass": 3
+   },
+   {
+    "quote": "“The way that the commercial stations think about our capabilities is that this is revenue generating,” Barajas told Payload. “It’s creating new science that would have never been able to be done before.”",
+    "url": "https://payloadspace.com/icarus-raises-6-1m-seed-to-put-robot-workers-in-space/",
+    "pass": 3
+   },
+   {
+    "quote": "For an animation fan, the news that eight new films are suddenly arriving is a reason for happy screams, and this film, 'Icarus and the Minotaur,' is one of them.",
+    "url": "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This game is designed so that you can enjoy the busiest and most fun part of the early game over and over again. Think back to games like Nobunaga's Ambition or Civilization. The busy early game is the most fun, right? It has that kind of appeal.",
+    "url": "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "National space agencies",
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Periodic emails about company news and events",
+    "url": "https://payloadspace.com/icarus-raises-6-1m-seed-to-put-robot-workers-in-space/",
+    "pass": 3
+   },
+   {
+    "quote": "Check your inbox for an email from",
+    "url": "https://payloadspace.com/icarus-raises-6-1m-seed-to-put-robot-workers-in-space/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Yukkuri Commentary] Icarus and Daedalus: The Full Scope of ... [Yukkuri Commentary] Icarus and Daedalus: The Full Scope of ... note https://note.com > 人文・思想 > 哲学",
+    "url": "https://note.com/chogenoimoko/n/nb9e48140d586?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus and the Minotaur: A Beautiful Mythological Animation Icarus and the Minotaur: A Beautiful Mythological Animation note https://note.com > ... > アニメ・特撮",
+    "url": "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pop Songs by Experimental Musicians: Whait's ' Icarus in ... Pop Songs by Experimental Musicians: Whait's ' Icarus in ... note https://note.com > 音楽 > 音楽全般",
+    "url": "https://note.com/archandroid/n/n4448e2b6aa54?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ICARUS : A Survival Craft Game Where You Can Enjoy ... - note ICARUS : A Survival Craft Game Where You Can Enjoy ... - note note https://note.com > ゲーム > サンドボックスゲーム",
+    "url": "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【 ICARUS 】栄光なき開拓者あるいは繰り返される黄金の6時間 【 ICARUS 】栄光なき開拓者あるいは繰り返される黄金の6時間 note https://note.com > ゲーム > ゲーム",
+    "url": "https://note.com/nezmozz/n/naf6097a24824",
+    "pass": 3
+   },
+   {
+    "quote": "ICARUS の人気・新着記事まとめ - note ICARUS の人気・新着記事まとめ - note note https://note.com > tag > ICARUS",
+    "url": "https://note.com/tag/ICARUS",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【ゆっくり解説】イカロスとダイダロス ─ 「太陽に近づきすぎた少年」だけでは語れない神話の全貌｜ちょげ",
+    "url": "https://note.com/chogenoimoko/n/nb9e48140d586?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【ゆっくり解説】イカロスとダイダロス ─ 「太陽に近づきすぎた少年」だけでは語れない神話の全貌",
+    "url": "https://note.com/chogenoimoko/n/nb9e48140d586?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "この記事はYouTube動画『【ゆっくり解説】イカロスとダイダロス ─ 「太陽に近づきすぎた少年」だけでは語れない神話の全貌』の台本です。",
+    "url": "https://note.com/chogenoimoko/n/nb9e48140d586?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://youtu.be/6q8AjY97hiU",
+    "url": "https://note.com/chogenoimoko/n/nb9e48140d586?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「ずんだもん、『太陽に近づきすぎるな』って言葉、聞いたことある？」",
+    "url": "https://note.com/chogenoimoko/n/nb9e48140d586?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「あるのだ！ イカロスの話なのだ。蝋の翼で飛んで、太陽に近づきすぎて落ちちゃうやつ。」",
+    "url": "https://note.com/chogenoimoko/n/nb9e48140d586?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「そう、有名な話よね。でもあの警告、実はもう半分あったの知ってる？ 『海にも近づきすぎるな』って。」",
+    "url": "https://note.com/chogenoimoko/n/nb9e48140d586?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「低く飛びすぎると海の水しぶきで羽が重くなって飛べなくなる。高すぎれば蝋が溶ける。つまりダイダロスが息子イカロスに言ったのは『中間を飛べ』っていう二重の警告だったの。」",
+    "url": "https://note.com/chogenoimoko/n/nb9e48140d586?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus and the Minotaur: A Beautiful Mythological Animation｜博多",
+    "url": "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus and the Minotaur: A Beautiful Mythological Animation",
+    "url": "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The EU Film Days festival is currently being held in Shibuya.",
+    "url": "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is an event where various European films that have not yet been released in Japan are screened every year, but surprisingly, this year they are all animated films!",
+    "url": "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For an animation fan, the news that eight new films are suddenly arriving is a reason for happy screams, and this film, 'Icarus and the Minotaur,' is one of them.",
+    "url": "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As for what kind of film this is, it is a story that depicts the friendship between Icarus and the Minotaur in mythology...",
+    "url": "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Though I don't think that conveys much, I will briefly explain what 'Icarus' and the 'Minotaur' are in the first place.",
+    "url": "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "King Minos, who rules Crete, is given a white bull by Poseidon with the promise that he will sacrifice it later. However, the king is so taken by the bull's beauty that he breaks his promise and sacrifices a different bull instead.",
+    "url": "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "実験音楽家たちのポップソング——Whait『Icarus in Training』｜インディ・ミュージック・レヴュー",
+    "url": "https://note.com/archandroid/n/n4448e2b6aa54?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "実験音楽家たちのポップソング——Whait『Icarus in Training』",
+    "url": "https://note.com/archandroid/n/n4448e2b6aa54?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Whaitは、アメリカの実験音楽シーンで高い評価を受けるWendy Eisenbergとmore eazeによるデュオである。両者ともジャズ、即興演奏、アンビエント、エレクトロアコースティック、フォークなど複数の領域を横断してきた音楽家だが、Whaitではそれぞれの本業ともいえる実験性を前面に押し出すのではなく、むしろポップソングやインディーロックへの愛着を率直に表現している。",
+    "url": "https://note.com/archandroid/n/n4448e2b6aa54?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の『Whait LP』では、宅録ポップ、スローコア、エクスペリメンタル・フォーク、アンビエントが曖昧に混ざり合う独特のサウンドを展開していたが、今回の『Icarus in Training』はその延長線上にありながら、より軽やかで自由度の高い作品になっている。",
+    "url": "https://note.com/archandroid/n/n4448e2b6aa54?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "タイトルにある「イカロス」は、神話に登場する天へ飛び立った若者だが、本作は壮大な飛翔の物語ではなく、その前段階にある試行錯誤を描いた作品のように感じられる。実際、本作は完成されたコンセプトアルバムというより、スタジオでの実験や即興から生まれたアイデアを柔軟に組み上げたスケッチ集に近い。しかし、その「途中経過」の感覚こそが本作の魅力になっている。",
+    "url": "https://note.com/archandroid/n/n4448e2b6aa54?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "近年の実験音楽シーンでは、即興演奏とソングライティングの境界を曖昧にする動きが目立つ。Claire RousayやSam Gendel、SML、あるいは近年のInternational Anthem周辺にも通じる流れだが、Whaitはその中でも特に「曲」であることを重視している。ノイズや抽象性に向かうのではなく、あくまでメロディと歌を中心に据えながら、曲の輪郭を少しずつ崩していく。",
+    "url": "https://note.com/archandroid/n/n4448e2b6aa54?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "冒頭の「Suffer Less」はその象徴だろう。どこか90年代末から2000年代初頭のオルタナティブ・ポップを思わせるメロディが流れ、ギターや電子音が淡く重なる。Lo-fi的な質感はあるが、単なるノスタルジーには終わらない。音響の配置や編集には両者の実験音楽家としての経験が色濃く反映されている。",
+    "url": "https://note.com/archandroid/n/n4448e2b6aa54?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "作品全体を通して感じられるのは、「ジャンルを決めない」姿勢である。フォークのように聴こえる場面もあれば、ダブやアンビエントのように聴こえる場面もある。時にはシューゲイズ的な広がりを見せながら、次の瞬間には室内楽のような親密さへ戻っていく。しかし、それらは引用やパロディではなく、自然な会話のように接続されている。",
+    "url": "https://note.com/archandroid/n/n4448e2b6aa54?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ICARUS: A Survival Craft Game Where You Can Enjoy the 'Early Game' Over and Over｜yuraha",
+    "url": "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ICARUS: A Survival Craft Game Where You Can Enjoy the 'Early Game' Over and Over",
+    "url": "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I play sandbox games quite often, and a title I was looking forward to was finally released at the end of last year. That title is ICARUS. I feel like it was a hot topic even before its release due to its high system requirements and beautiful graphics.",
+    "url": "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I've played a fair amount of ICARUS, so this article is my impressions of it. I've also included some mini-guides, so please read until the end if you'd like.",
+    "url": "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Enjoy the 'Early Game' Over and Over",
+    "url": "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What's interesting about ICARUS is its concept. In a typical sandbox survival game, you develop a single base and aim to clear the game. However, in ICARUS, the map resets every time you complete a mission, so you have to build a base every time.",
+    "url": "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At first glance, losing a base you worked hard to build might seem underwhelming, but this game system adds a nice flavor. It's fun to think about various things: examining the mission content and map, where to build the base, how far to develop it, and how many bases to build.",
+    "url": "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's also nice that there's a time limit for missions. Moreover, this time is in real-time, and there's a severity to it where if you run out of time, your character is lost. Because of this, you're forced to struggle with the balance between the time lost in developing a base and the returns you get from developing it.",
+    "url": "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【ICARUS】栄光なき開拓者あるいは繰り返される黄金の6時間｜NezMozz a.k.a. Uzme",
+    "url": "https://note.com/nezmozz/n/naf6097a24824",
+    "pass": 3
+   },
+   {
+    "quote": "【ICARUS】栄光なき開拓者あるいは繰り返される黄金の6時間",
+    "url": "https://note.com/nezmozz/n/naf6097a24824",
+    "pass": 3
+   },
+   {
+    "quote": "我々プロスペクターは技術資源の使用を厳しく制限されている。",
+    "url": "https://note.com/nezmozz/n/naf6097a24824",
+    "pass": 3
+   },
+   {
+    "quote": "我々プロスペクターは使役者から全く敬意を払われない。",
+    "url": "https://note.com/nezmozz/n/naf6097a24824",
+    "pass": 3
+   },
+   {
+    "quote": "我々プロスペクターは賃金以外の報酬を受け取れない。",
+    "url": "https://note.com/nezmozz/n/naf6097a24824",
+    "pass": 3
+   },
+   {
+    "quote": "我々プロスペクターは禍々しいタトゥーや傷跡を持つものが多い。",
+    "url": "https://note.com/nezmozz/n/naf6097a24824",
+    "pass": 3
+   },
+   {
+    "quote": "これらから導き出される仮説。おそらく、我々プロスペクターは囚人もしくは罪人である。",
+    "url": "https://note.com/nezmozz/n/naf6097a24824",
+    "pass": 3
+   },
+   {
+    "quote": "プロスペクターは未開の惑星の最初の（最初でなくてもかなり初期の）探索者であり開拓者であるはずなのに、その切り開いた土地はおろか、先遣隊の名すら与えてもらえないのだ。我々が整えた拠点にあとから来る者たちが「先遣隊」なのだ。ヒマラヤのシェルパの歴史を思い出す。彼らは罪人ではないけれど。山頂を踏むのは登山家だけではないのに。栄光の光に照らされた濃い影の中に生きていた、名を知られない無数の栄光なき開拓者たち。",
+    "url": "https://note.com/nezmozz/n/naf6097a24824",
+    "pass": 3
+   },
+   {
+    "quote": "ICARUSの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/ICARUS",
+    "pass": 3
+   },
+   {
+    "quote": "【洋楽和訳】Icarus（イカロス）ーダイダロスの息子ー",
+    "url": "https://note.com/tag/ICARUS",
+    "pass": 3
+   },
+   {
+    "quote": "空未（くみ）｜教育コンサルタント／哲学・心理学翻訳作家",
+    "url": "https://note.com/tag/ICARUS",
+    "pass": 3
+   },
+   {
+    "quote": "【beatmaniaIIDX】全白の振り返り",
+    "url": "https://note.com/tag/ICARUS",
+    "pass": 3
+   },
+   {
+    "quote": "Shu's Rock & Metal Chart 08.30.2026",
+    "url": "https://note.com/tag/ICARUS",
+    "pass": 3
+   },
+   {
+    "quote": "JO1DER SHOW 2026 永縁EIEN 雑記",
+    "url": "https://note.com/tag/ICARUS",
+    "pass": 3
+   },
+   {
+    "quote": "JO1DER SHOW 2026 'EIEN 永縁' 感想",
+    "url": "https://note.com/tag/ICARUS",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "icarus (@icarus_407) / X icarus (@icarus_407) / X X https://x.com > icarus_407",
+    "url": "https://x.com/icarus_407",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus (@SurviveIcarus) / X Icarus (@SurviveIcarus) / X X https://x.com > SurviveIcarus",
+    "url": "https://x.com/SurviveIcarus",
+    "pass": 3
+   },
+   {
+    "quote": "icarus !! (@icarus_cant_fly) / X icarus !! (@icarus_cant_fly) / X X https://x.com > icarus_cant_fly",
+    "url": "https://x.com/icarus_cant_fly",
+    "pass": 3
+   },
+   {
+    "quote": "Judas Icarus (@thejudasicarus) / X Judas Icarus (@thejudasicarus) / X X https://x.com > thejudasicarus",
+    "url": "https://x.com/thejudasicarus",
+    "pass": 3
+   },
+   {
+    "quote": "iCaRuS / ｲｶﾙｽ (ゆっくり実況) (@iCaRuS_BEYBLADE) / X iCaRuS / ｲｶﾙｽ (ゆっくり実況) (@iCaRuS_BEYBLADE) / X X https://x.com > iCaRuS_BEYBLADE",
+    "url": "https://x.com/iCaRuS_BEYBLADE",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Icarus Robotics - LinkedIn Icarus Robotics - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/icarus-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Transformation of interpretations of the image of Icarus Transformation of interpretations of the image of Icarus LinkedIn https://www.linkedin.com > pulse > tr...",
+    "url": "https://www.linkedin.com/pulse/transformation-interpretations-image-icarus-victoria-stepanets-hjyee",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus | LinkedIn Icarus | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/icarusindustries",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus Quantum | LinkedIn Icarus Quantum | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/icarus-quantum",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Daedalus and Icarus : a cautionary tale from Greek mythology Daedalus and Icarus : a cautionary tale from Greek mythology Facebook https://www.facebook.com > GreatBooksFoundation > posts",
+    "url": "https://www.facebook.com/GreatBooksFoundation/posts/daedalus-and-icarus-are-characters-from-greekmythology-their-myth-is-a-cautionar/1650415097094833/",
+    "pass": 3
+   },
+   {
+    "quote": "Icarus (@SurviveIcarus) - Facebook Icarus (@SurviveIcarus) - Facebook Facebook https://www.facebook.com > ... > Brand > Video Game",
+    "url": "https://www.facebook.com/SurviveIcarus/",
+    "pass": 3
+   },
+   {
+    "quote": "Crash site of Icarus off the Greek island of Icaria. His father ... Crash site of Icarus off the Greek island of Icaria. His father ... Facebook https://www.facebook.com > DeanKarnazes > posts > cras...",
+    "url": "https://www.facebook.com/DeanKarnazes/posts/crash-site-of-icarus-off-the-greek-island-of-icaria-his-father-warned-him-dont-f/652329382923891/",
+    "pass": 3
+   },
+   {
+    "quote": "We all know the story of Icarus , right? The kid who flew too ... We all know the story of Icarus , right? The kid who flew too ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/theblackdragontavern/videos/the-lesson-of-icarus/1407856077311881/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.icarus.one/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icarus.one/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.nexusmods.com/icarus/mods/170",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://thumbsupper.hatenablog.com/entry/2023/11/26/004051",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gamespark.jp/article/2026/01/31/162210.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ICARUS/comments/13v8exc/icarus_quality_of_life_mod_part_1/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://icarus.pmang.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.elecom.co.jp/ikarus/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=-bqcy_1PsqE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/IKAROS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japantimes.co.jp/culture/2017/09/06/films/film-reviews/fall-icarus-narita-stories-victory-loss-surround-worlds-entry-point-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://icarus.pmang.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vKNLjP0haJXPdEq21mvhWHWF-Je7UmDOiPNc0ySbwxSQn07U6HN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/partner-program/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://omc.cloud/partners-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://payloadspace.com/icarus-raises-6-1m-seed-to-put-robot-workers-in-space/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/icarusdevices",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/icarusindustries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/icarus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/chogenoimoko/n/nb9e48140d586?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/archandroid/n/n4448e2b6aa54?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/icarus_407",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SurviveIcarus",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/icarus_cant_fly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thejudasicarus",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/icarus-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/transformation-interpretations-image-icarus-victoria-stepanets-hjyee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/icarusindustries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/icarus-quantum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GreatBooksFoundation/posts/daedalus-and-icarus-are-characters-from-greekmythology-their-myth-is-a-cautionar/1650415097094833/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SurviveIcarus/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DeanKarnazes/posts/crash-site-of-icarus-off-the-greek-island-of-icaria-his-father-warned-him-dont-f/652329382923891/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theblackdragontavern/videos/the-lesson-of-icarus/1407856077311881/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/nezmozz/n/naf6097a24824",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/ICARUS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/iCaRuS_BEYBLADE",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Icarus 日本 導入",
+   "results": [
+    "https://www.nexusmods.com/icarus/mods/170",
+    "https://thumbsupper.hatenablog.com/entry/2023/11/26/004051",
+    "https://www.gamespark.jp/article/2026/01/31/162210.html",
+    "https://www.reddit.com/r/ICARUS/comments/13v8exc/icarus_quality_of_life_mod_part_1/?tl=ja",
+    "https://prtimes.jp/main/html/rd/p/000000213.000155525.html",
+    "https://icarus.7gamewiki.com/",
+    "https://icarus.pmang.jp/",
+    "https://www.famitsu.com/news/202112/02243118.html",
+    "https://appmedia.jp/news/80384194",
+    "https://dispatchinet.com/2026/09/11/あの空の冒険が再び！pc向けmmorpg『icarus-online』が2026年秋の再/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Icarus 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://simplyprint.io/ja/compatibility/proteor-icarus-pro-rabbit-g1",
+    "https://icarus.pmang.jp/",
+    "https://www.elecom.co.jp/ikarus/",
+    "https://www.youtube.com/watch?v=-bqcy_1PsqE",
+    "https://www.gojukarado.com/product/icarus.html",
+    "https://seesaawiki.jp/seesaaicarus/",
+    "https://www.g-portal.com/ja/gameserver/icarus-server-hosting",
+    "https://www.gamespark.jp/article/2021/12/07/114160.html",
+    "https://store.steampowered.com/app/1149460/Icarus/?l=japanese&linkId=100000013023418",
+    "https://ja.wikipedia.org/wiki/日本サムスン"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Icarus Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/IKAROS",
+    "https://www.japantimes.co.jp/culture/2017/09/06/films/film-reviews/fall-icarus-narita-stories-victory-loss-surround-worlds-entry-point-japan/",
+    "https://www.youtube.com/watch?v=g7FDAW5hzZE",
+    "https://icarus.pmang.jp/",
+    "https://en.wikipedia.org/wiki/Icarus_affair",
+    "https://x.com/icarusfukuoka",
+    "https://store.steampowered.com/app/1149460/ICARUS/",
+    "https://www.rooftop.tokyo/icarus",
+    "https://en.wikipedia.org/wiki/Kid_Icarus",
+    "http://www.icarus-japan.com/index_e.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Icarus manufacturing customer case study",
+   "results": [
+    "https://markforged.com/resources/case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vKNLjP0haJXPdEq21mvhWHWF-Je7UmDOiPNc0ySbwxSQn07U6HN",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0261306900000959",
+    "https://www.factory-twin.com/casestudies",
+    "https://conexusindiana.com/case-study-type/",
+    "https://arcessio.ai/resources",
+    "https://go.icarus-consult.de/en/",
+    "https://www.casestudies.com/company/siemens-plm/case-study/icarus-consulting-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Icarus white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/partner-program/white-label/",
+    "https://www.intermedia.com/resellers",
+    "https://omc.cloud/partners-program",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.airstride.ai/platform/whitelabelling",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://suitedash.com/white-label-business-software/",
+    "https://whitelabelitsolutions.com/about-us-colocation/agent-partner-program/",
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Icarus founded funding employees revenue",
+   "results": [
+    "https://payloadspace.com/icarus-raises-6-1m-seed-to-put-robot-workers-in-space/",
+    "https://www.owler.com/company/icarusdevices",
+    "https://www.linkedin.com/company/icarusindustries",
+    "https://www.ycombinator.com/companies/icarus",
+    "https://pitchbook.com/profiles/company/529736-86",
+    "https://www.zoominfo.com/c/icarus/558110862",
+    "https://www.crunchbase.com/organization/one-kappa",
+    "https://www.siliconrepublic.com/start-ups/icarus-ireland-us-start-up-6-1m-funding-seed-space-tech",
+    "https://p2pmarketdata.com/companies/icarus-rt",
+    "https://fundediq.co/icarus-icarus-one-funding/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Icarus",
+   "results": [
+    "https://note.com/chogenoimoko/n/nb9e48140d586?hl=en",
+    "https://note.com/goodbyekitty/n/n9b0ccd51b0f5?hl=en",
+    "https://note.com/archandroid/n/n4448e2b6aa54?hl=en",
+    "https://note.com/yuraha/n/n1c430876c55b?hl=en",
+    "https://note.com/kirikikenichi/n/n7185bcdb8217?hl=en",
+    "https://note.com/wrnngy/n/ne7fe0e4f8c97?hl=en",
+    "https://note.com/kaz0005/n/n3dfcc4e19d70?hl=en",
+    "https://note.com/space_business/n/nf57a95aa9580",
+    "https://note.com/mito_shinwa/n/nde7e9bab16b5?hl=en",
+    "https://note.com/coden/n/naeb85c31a420?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Icarus",
+   "results": [
+    "https://x.com/icarus_407",
+    "https://x.com/SurviveIcarus",
+    "https://x.com/icarus_cant_fly",
+    "https://x.com/thejudasicarus",
+    "https://x.com/SurviveIcarus/status/2037212988219031794",
+    "https://x.com/IcarusFW",
+    "https://x.com/sigfig/status/2034338313654735040",
+    "https://x.com/icarus",
+    "https://x.com/AJamesMcCarthy/status/2120224124475789783",
+    "https://x.com/IcarusFilms"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Icarus",
+   "results": [
+    "https://www.linkedin.com/company/icarus-robotics",
+    "https://www.linkedin.com/pulse/transformation-interpretations-image-icarus-victoria-stepanets-hjyee",
+    "https://www.linkedin.com/company/icarusindustries",
+    "https://www.linkedin.com/company/icarus-quantum",
+    "https://www.linkedin.com/company/icarusalpha",
+    "https://www.linkedin.com/company/icarus-football",
+    "https://ng.linkedin.com/jobs/view/travel-agent-at-icarus-flight-agency-4419233720",
+    "https://www.linkedin.com/company/icarus-fund-llc",
+    "https://www.linkedin.com/pulse/perfect-system-43-icarus-story-stanley-kubrick-syd-kessler",
+    "https://www.linkedin.com/company/icarus"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Icarus",
+   "results": [
+    "https://www.facebook.com/GreatBooksFoundation/posts/daedalus-and-icarus-are-characters-from-greekmythology-their-myth-is-a-cautionar/1650415097094833/",
+    "https://www.facebook.com/SurviveIcarus/",
+    "https://www.facebook.com/DeanKarnazes/posts/crash-site-of-icarus-off-the-greek-island-of-icaria-his-father-warned-him-dont-f/652329382923891/",
+    "https://www.facebook.com/theblackdragontavern/videos/the-lesson-of-icarus/1407856077311881/",
+    "https://www.facebook.com/groups/1216900319235427/",
+    "https://www.facebook.com/TEDEducation/posts/a-refresher-course-on-the-classic-myth-of-icarus-and-daedalus/2399869840026208/",
+    "https://www.facebook.com/groups/882247817916784/posts/973013058840259/",
+    "https://www.facebook.com/groups/3691868687595754/posts/25752331854456121/",
+    "https://www.facebook.com/groups/713478999801572/posts/1312037583279041/",
+    "https://www.facebook.com/IcarusOnlineonVFUN/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Icarus note 社長",
+   "results": [
+    "https://note.com/nezmozz/n/naf6097a24824",
+    "https://www.reddit.com/r/ICARUS/comments/1tvqgi2/patch_notes_xbox_playstation_2327_june_3/?tl=ja",
+    "https://note.com/tag/ICARUS",
+    "https://www.icarusalpha.com/",
+    "https://note.com/rail_ikaros",
+    "https://www.youtube.com/watch?v=321qLG4Y4ng",
+    "https://store.steampowered.com/news/app/1149460/view/4354503396517492094",
+    "https://guiltygear.fandom.com/wiki/Icarus",
+    "https://github.com/laanp/Icarus_Game_Manager",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Icarus X 投稿",
+   "results": [
+    "https://www.reddit.com/r/ICARUS/comments/1u3nvzi/icarus_xbox_series_x_edition_bug/?tl=ja",
+    "https://x.com/iCaRuS_BEYBLADE",
+    "https://www.youtube.com/watch?v=nyaXO58pmH4",
+    "https://icarus.pmang.jp/",
+    "https://www.reddit.com/r/ICARUS/comments/1ss88j1/honest_review_xbox_series_x_only/?tl=ja",
+    "https://www.facebook.com/SurviveIcarus/?locale=ja_JP",
+    "https://s289.photobucket.com/albums/ll226/x-icarus/?action=view&current=Shot00048.jpg",
+    "https://www.sciencedirect.com/journal/icarus",
+    "https://www.sciencedirect.com/journal/icarus/publish/guide-for-authors",
+    "https://prtimes.jp/main/html/rd/p/000000212.000155525.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部43頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部43頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部43頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部43頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部43頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部43頁・検索12回）"
+ }
+}

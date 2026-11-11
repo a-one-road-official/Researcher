@@ -1,0 +1,846 @@
+{
+ "name": "Skymerse",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AUMS不適合",
+ "researched_at": "2026-11-10T23:24:44.127802+00:00",
+ "official_url": "https://skymerse.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：Founded 2025",
+    "url": "https://www.skymerse.com/about",
+    "pass": 1
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://www.skymerse.com/about",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Your schedule goes in; flight-ready decisions come out. Every flight is checked against live NOTAMs, weather, runway constraints, aircraft limits, and company procedures, in seconds.",
+    "url": "https://www.skymerse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every NOTAM affecting the route is ingested live, read, and interpreted: closures, restrictions, equipment outages. Powered by Notamify, Skymerse's NOTAM engine, already in production with airlines.",
+    "url": "https://www.skymerse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your operations manuals, minimum equipment lists, and company minima are applied automatically, so every verdict follows your own procedures, not generic rules.",
+    "url": "https://www.skymerse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Legacy providers put aeronautical information on screens, but crews and dispatchers still have to interpret it. Skymerse turns that data into flight-ready decisions for every flight.",
+    "url": "https://www.skymerse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated NOTAM processing via Notamify. Data extraction agents. A custom Large Aeronautical Model for ops labeling and decision-making. The operational data layer for autonomous flight operations.",
+    "url": "https://www.skymerse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Already in production.",
+    "url": "https://www.skymerse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our first product already serves airline customers and thousands of users daily, turning raw NOTAM data into flight-dedicated briefings, summaries, and operational signals.",
+    "url": "https://www.skymerse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NOTAMs processed to date",
+    "url": "https://www.skymerse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We connect to airline systems and are building our own pipelines to collect and interpret aeronautical data from every country. This gives us the full picture of each flight, so we can automate every process behind flight operations.",
+    "url": "https://www.skymerse.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Skymerse started with a problem our founder faced as a flight dispatcher: preparing each flight involved repeating much of the same work.",
+    "url": "https://www.skymerse.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", our NOTAM interpretation product, which now has",
+    "url": "https://www.skymerse.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We are onboarding airlines. See Skymerse on your flights in a dedicated demo.",
+    "url": "https://www.skymerse.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "AirTrack • Flight Price Predictor",
+    "url": "https://huntscreens.com/ja/products/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "🏆  エディターのおすすめ 🎟 トライアルなしでProを試す ⭐️ 4.7星 (3.1k)",
+    "url": "https://huntscreens.com/ja/products/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Airline flight operations run across a continuous chain of decisions that begins before departure and continues until landing. Planning, dispatch, monitoring, and cockpit response are often supported by different systems, each covering one part of the operation. People are left to connect the sources, carry context between tools, and interpret what a change means for a particular flight.",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse is building one AI system for that entire workflow: from planning and monitoring in the operations center to real-time support in the cockpit. At its core are specialized aeronautical models that understand the data, constraints, and procedures behind each flight.",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Most operational software is organized around a source or task: a NOTAM tool, a weather view, a chart viewer, a flight-planning system, or a library of company procedures. These tools remain necessary, but the operational picture exists across all of them.",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse is organized around the flight instead. It brings AIPs, airport procedures, restrictions, NOTAMs, weather, aircraft limits, operator requirements, and company procedures into a shared operational context, then maintains that context as the flight progresses.",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "General-purpose models can read or summarize a document. Flight operations require a deeper understanding of geography, validity periods, airspace, runway configurations, aircraft performance, weather, procedures, and operator-specific constraints. Those concepts also have to be evaluated together, against the route and state of an actual flight.",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": ", our first product, applies this approach to NOTAMs. It interprets each notice, structures its meaning, and provides a foundation for assessing it in operational context. Notamify already serves airline customers and thousands of pilots and aviation professionals.",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "That work proved both the need and the underlying method. Aeronautical information becomes substantially more useful when software understands its meaning instead of presenting another document or feed. Skymerse is extending the same principle across the rest of the operation.",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "When a runway restriction changes, weather invalidates an assumption, or a procedure is updated, the effect should not have to be rediscovered separately by dispatch, operations control, and the crew. A common aeronautical model can identify the affected flights, preserve the reasoning behind the assessment, and present the result where the next decision is made.",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse is building this progressively as a shared intelligence layer across existing airline systems and workflows. The goal is one operational understanding of each flight, carried from planning through monitoring and into the cockpit.",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Founder at Skymerse (YC S26). Licensed Flight Dispatcher. Previously Product Owner at Flightradar24 API. Background in Aerospace and Flight Ops.",
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Pilots and operations teams still have to build that picture themselves. They search, compare, and interpret information to plan, monitor, and adapt every flight from schedule to landing.",
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse plans, monitors, and adapts flights from the operations center to the cockpit. Instead of rebuilding context across tools and handoffs, Skymerse manages each flight as one continuous process, from schedule to landing.",
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": ". I built Notamify because I was amazed by how much information pilots and ops teams have to process before every flight - and how much of that work was still done by hand.",
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Notamify interprets every single NOTAM into operational impact. It reduces the briefing time from 2 hours to 2 minutes per flight. It now serves airline customers and thousands of pilots and aviation professionals.",
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "As we built it, the larger problem became clear. Making one source easier interpreted is valuable, but people still have to connect it with the rest of the operation. They still have to work out what it means for their flight and what to do next.",
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "We are onboarding airlines that want to automate their flight operations. If you lead flight operations, dispatch, or an OCC, we want to show you Skymerse on your flights.",
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse has approximately",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse focuses on automating flight operations within the aviation industry. The company has a platform that processes weather and aeronautical data for airlines, allowing for decisions related to flight readiness while minimizing the requirement for manual monitoring and interpretation. It was founded in 2025 and is based in San Francisco, California.",
+    "url": "https://www.cbinsights.com/company/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/skymerse",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "No suitable runway for arrival at EPWA",
+    "url": "https://www.skymerse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No suitable runway at destination: arrival not permitted",
+    "url": "https://www.skymerse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A focused walkthrough on your routes and your fleet: see how flight planning and OCC monitoring run when the decisions arrive on their own.",
+    "url": "https://www.skymerse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Airline flight operations run across a continuous chain of decisions that begins before departure and continues until landing. Planning, dispatch, monitoring, and cockpit response are often supported by different systems, each covering one part of the operation. People are left to connect the sources, carry context between tools, and interpret what a change means for a particular flight.",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse is building this progressively as a shared intelligence layer across existing airline systems and workflows. The goal is one operational understanding of each flight, carried from planning through monitoring and into the cockpit.",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "That model is the foundation for automation. Skymerse does not stop at displaying information or sending an alert. It understands what a change means for the flight, updates the operation, and carries the required work forward automatically.",
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse is that next step: from helping people understand one part of a flight to automating flight operations e2e.",
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Skymerse",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Skymerse?",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Skymerse have?",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/skymerse",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": ". We are developing the system with airlines and operators that deal with these decisions every day. If you work in airline flight operations,",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Founder at Skymerse (YC S26). Licensed Flight Dispatcher. Previously Product Owner at Flightradar24 API. Background in Aerospace and Flight Ops.",
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation and Aerospace Component Manufacturing",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace, AI, Aviation, Aeronautical Data",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Skymerse | plan less, fly more — Skymerse automates flight planning and OCC operations. Automated platform processing NOTAMs, weather, and aeronautical data for airlines.",
+    "url": "https://www.skymerse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "航空運航の自動化プラットフォーム | Skymerse — Skymerseは、運航計画と監視を自動化し、人手による解釈を不要にします。 リアルタイムの制約チェックと明確な判断提示により、運航管理の効率と安全性を向上させます。 航空会社は、複雑な情報処理から解放され、迅速かつ確実な運航判断を実現できます。",
+    "url": "https://huntscreens.com/ja/products/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse: End-to-End Airline Flight Operations — Jul 11, 2026 · One automated system for airline flight operations, from planning in the operations center to real-time support in the cockpit.",
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "About Skymerse — Skymerse is software for the full automation of airline flight operations, starting with flight monitoring and planning and extending into the cockpit.",
+    "url": "https://www.skymerse.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse (YC S26) - LinkedIn — Skymerse (YC S26) | 410 followers on LinkedIn. Flight Operations. Automated. | Autopilot for flight operations. Skymerse interprets aeronautical data per flight and tells your operations team what ...",
+    "url": "https://www.linkedin.com/company/skymerse/",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse: Autopilot for Flight Operations | Y Combinator — Skymerse is building one AI system for airline flight operations: from planning and monitoring in the operations center to real-time support in the cockpit. It is developing specialized aeronautical models that understand the data, constraints, and procedures behind each flight, replacing fragmented tools and manual interpretation. Notamif",
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse Inc. - Security Trust Center — Find out the compliance and security posture of Skymerse Inc. against common cybersecurity frameworks like SOC 2, ISO 27001, ISO 9001, and more.",
+    "url": "https://trust.skymerse.com/",
+    "pass": 3
+   },
+   {
+    "quote": "For airlines | Skymerse by Notamify — Skymerse automates flight planning and OCC operations. Automated platform processing NOTAMs, weather, and aeronautical data for airlines.",
+    "url": "https://notamify.com/enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse (YC S26) - LinkedIn — Autopilot for flight operations. Skymerse interprets aeronautical data per flight and tells your operations team what matters, what's noise, and what to do. Our first product, Notamify, is already ...",
+    "url": "https://www.linkedin.com/company/skymerse/",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse Revenue, Funding & Valuation - prospeo.io — Skymerse has revenue of $85,555, estimated valuation of $273,776. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse - Products, Competitors, Financials, Employees ... — About Skymerse Skymerse focuses on automating flight operations within the aviation industry. The company has a platform that processes weather and aeronautical data for airlines, allowing for decisions related to flight readiness while minimizing the requirement for manual monitoring and interpretation. It was founded in 2025 and is ba",
+    "url": "https://www.cbinsights.com/company/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse - Crunchbase Company Profile & Funding — Skymerse provides software that automates airline flight planning and operations control center activities. The company offers a platform that ingests schedules and continuously matches each flight against live NOTAMs, weather, runway constraints, aircraft limits, alternates, and company procedures to generate flight-ready decisions.",
+    "url": "https://www.crunchbase.com/organization/skymerse",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse - Financial Details - Crunchbase — Funding Rounds Number of Funding Rounds 1 Total Funding Amount obfuscated obfuscation Skymerse has raiseda total of obfuscated obfuscation in funding over 1 round.This was a Pre-Seed round raised on obfuscated obfuscation .",
+    "url": "https://www.crunchbase.com/organization/skymerse/financial_details",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse — Founders, Founded, Location, Industry & Valuation ... — Skymerse provides high-resolution 3D spatial mapping and drone-captured photogrammetry tools for infrastructure site tracking.",
+    "url": "https://upforge.org/startup/skymerse",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Damian on X: \"Airlines digitized the information. The work ... Airlines digitized the information. The work behind every flight is still manual. I’m building @skymerse to change that - one AI system automating commercial flight operations from schedule to landing. This is very special moment for me. Thank you @ycombinator.",
+    "url": "https://x.com/zaxrev/status/2090579460466856394",
+    "pass": 3
+   },
+   {
+    "quote": "@skymerse | X The latest posts from @skymerse",
+    "url": "https://x.com/skymerse",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Skymerse (YC S26) - LinkedIn Skymerse (YC S26) | 410 followers on LinkedIn. Flight Operations. Automated. | Autopilot for flight operations. Skymerse interprets aeronautical data per flight and tells your operations team what ...",
+    "url": "https://www.linkedin.com/company/skymerse/",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse - First Pilot Assistant | Skymerse (YC S26) - LinkedIn At Skymerse, we're on a mission to make pilots' jobs easier and, in turn, make flights safer. We're excited to introduce our first product: an AI-powered ATC-Pilot conversation transcription tool.",
+    "url": "https://www.linkedin.com/posts/skymerse_skymerse-first-pilot-assistant-activity-7246413466683461632-h-Q-",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse (YC S26) - LinkedIn The Challenge of Complicated Skies: Navigating Unprocessed Aeronautical Data Imagine you're a pilot or a flight planner looking up at the vast expanse of the sky. It's not just an open space; it's a complex web of information, routes, and regulations. This is the world of modern aviation - a world where the skies are about layers upon layers of unprocessed aeronautical",
+    "url": "https://pe.linkedin.com/posts/skymerse_skymerse-linkedin-activity-7148060742372560896-1cx_",
+    "pass": 3
+   },
+   {
+    "quote": "Skymerse (YC S26) is building one AI system to automate the ... Skymerse (YC S26) is building one AI system to automate the work behind every commercial flight, from schedule to landing. Airlines have spent decades digitizing flight operations. The information ...",
+    "url": "https://www.linkedin.com/posts/y-combinator_skymerse-yc-s26-is-building-one-ai-system-activity-7496340308125732865-rngS",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.skymerse.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skymerse.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.skymerse.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/skymerse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skymerse.com/blog/introducing-skymerse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sky-budget.com/2026/02/06/skymark-737max-spr2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%9C%9B%E9%81%A0%E9%8F%A1%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E4%B8%80%E8%A6%A7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skymerse.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skymerse.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skymerse.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/skymerse/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skymerse.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/skymerse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://notamify.com/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/skymerse/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://skyswitch.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/skymerse-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/skymerse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/skymerse",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/skymerse/financial_details",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/zaxrev/status/2090579460466856394",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/skymerse/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/skymerse_skymerse-first-pilot-assistant-activity-7246413466683461632-h-Q-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/posts/skymerse_skymerse-linkedin-activity-7148060742372560896-1cx_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_skymerse-yc-s26-is-building-one-ai-system-activity-7496340308125732865-rngS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/skymerse",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Skymerse 日本 導入",
+   "results": [
+    "https://www.skymerse.com/",
+    "https://huntscreens.com/ja/products/skymerse",
+    "https://www.skymerse.com/blog/introducing-skymerse",
+    "https://sky-budget.com/2026/02/06/skymark-737max-spr2026/",
+    "https://www.skymark.co.jp/ja/company/press/",
+    "https://jp.slb.com/",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Skymerse 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/望遠鏡メーカー一覧",
+    "https://www.skymerse.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Skymerse Japan",
+   "results": [
+    "https://www.skymerse.com/",
+    "https://www.skymerse.com/about",
+    "https://www.linkedin.com/company/skymerse/",
+    "https://www.ycombinator.com/companies/skymerse",
+    "https://trust.skymerse.com/",
+    "https://www.skymerse.com/blog/introducing-skymerse"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "Skymerse manufacturing customer case study",
+   "results": [
+    "https://www.skymerse.com/",
+    "https://www.ycombinator.com/companies/skymerse",
+    "https://notamify.com/enterprise",
+    "https://www.linkedin.com/company/skymerse/",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://blog.skyfareracademy.com/2026/07/31/notamify-becomes-skymerse-the-y-combinator-backed-push-to-build-an-autopilot-for-flight-operations/",
+    "https://www.skymerse.com/blog/introducing-skymerse"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Skymerse white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.spectrum.com/",
+    "https://skyswitch.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Skymerse founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/skymerse-revenue",
+    "https://www.cbinsights.com/company/skymerse",
+    "https://www.crunchbase.com/organization/skymerse",
+    "https://www.crunchbase.com/organization/skymerse/financial_details",
+    "https://upforge.org/startup/skymerse",
+    "https://app.dealroom.co/companies/skymerse",
+    "https://www.skymerse.com/about"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Skymerse",
+   "results": [
+    "https://note.com/dashboard",
+    "https://note.com/glossy_pika3109/n/n85e1eafab62a",
+    "https://note.com/fukuso_sutaro/n/nf365aa7a3733",
+    "https://note.com/poruka180/n/n965eede8279b",
+    "https://note.com/nosuke0607/n/n09d02c47e173",
+    "https://note.com/rk611/n/n56e6db823eb1",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Skymerse",
+   "results": [
+    "https://x.com/",
+    "https://x.com/zaxrev/status/2090579460466856394",
+    "https://x.com/theskymesh",
+    "https://help.x.com/en",
+    "https://x.com/_sqwad_",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Skymerse",
+   "results": [
+    "https://www.linkedin.com/company/skymerse/",
+    "https://www.linkedin.com/posts/skymerse_skymerse-first-pilot-assistant-activity-7246413466683461632-h-Q-",
+    "https://pe.linkedin.com/posts/skymerse_skymerse-linkedin-activity-7148060742372560896-1cx_",
+    "https://www.linkedin.com/posts/y-combinator_skymerse-yc-s26-is-building-one-ai-system-activity-7496340308125732865-rngS",
+    "https://www.linkedin.com/posts/skymerse_skymerse-is-now-iso-27001-certified-our-activity-7517830665275379712-md7S",
+    "https://www.linkedin.com/in/skymesh3d",
+    "https://www.linkedin.com/posts/skymerse_were-building-one-ai-system-to-interpret-activity-7496342594570919936-dxxi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Skymerse",
+   "results": [
+    "https://www.facebook.com/Skymesh/",
+    "https://www.facebook.com/myskymesh/posts/scam-alert-skymesh-has-been-made-aware-of-a-new-scam-email-currently-targeting-s/1444743798912688/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/myskymesh/posts/update-1207pm-engineers-have-implemented-a-fix-and-we-will-see-services-come-bac/5701523356568023/",
+    "https://www.facebook.com/myskymesh/posts/recently-we-have-noticed-an-increase-in-scam-emails-that-could-jeopardise-your-i/5723838601003165/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Skymerse note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260121536475/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Skymerse X 投稿",
+   "results": [
+    "https://x.com/skymerse",
+    "https://www.skymerse.com/",
+    "https://app.skymerse.com/?x",
+    "https://www.skymerse.com/blog/introducing-skymerse",
+    "https://www.youtube.com/@Skymerse",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

@@ -8,7 +8,7 @@
  ],
  "context": "突き合わせ・推定",
  "kind": "market",
- "researched_at": "2026-11-09T09:43:02.406933+00:00",
+ "researched_at": "2026-11-10T23:07:16.057116+00:00",
  "evidence": {
   "失敗・落とし穴": [
    {
@@ -248,712 +248,6 @@
    {
     "quote": "exiters. Any choice of reference productivity level will necessarily lead to a bias in measuring the",
     "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "literature. Section 3 presents the empirical framework that will be used to compose aggregate productivity",
-    "url": "https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3. Empirical Framework",
-    "url": "https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "digit industry level with the Wooldridge (2009) one-step estimator.4 Firm level TFP measures are indicated",
-    "url": "https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3 The emphasis of our paper is on aggregate Total Factor Productivity (TFP). However, the methodology also applies to other",
-    "url": "https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "by this methodological choice?",
-    "url": "https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and exit, our framework replicates well-documented stylized facts about firm dynamics.",
-    "url": "https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Given the complexity of the model, most of our analysis is numerical. Our methodol-",
-    "url": "https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "We have already pointed out that our framework builds on the seminal work of Hopen-",
-    "url": "https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Lee and Mukoyama (2009)’s framework, in which selection also leads to counter",
-    "url": "https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(1) 計測のフレームワーク",
-    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(効果) へ分解するための標準的なフレームワーク (Foster et al. 2001) を示す?",
-    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "なお、上記のフレームワークでは明示的に表現されていない構成要素が存在する点にも",
-    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu ), an international",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "based economy. The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this paper, we propose an extension of the productivity decomposition method developed by Olley",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "share reallocations among those firms – following the same methodology as the one proposed by Olley",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this paper, we propose an extension of the productivity decomposition method devel-",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "same methodology as the one proposed by Olley & Pakes (1996). We argue that the other de-",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "∗This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu ), an international economic",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This publication reﬂects only the",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Scarpetta, 2009). This ﬁnding has spurred the development of productivity decomposition methods",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "exit). Several of these decomposition methods are based on following individual producers from",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "shares and productivity developed by Olley and Pakes (1996) – hereafter OP. That method does",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "tributions that are a feature of the other decomposition methods that follow individual producers",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "step.) Historically, the analysis of aggregate productivity changes across countries and over time",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Since our goal is to highlight diﬀerences in decomposition methods, we have picked an empirical",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We contrast the results from our decomposition method with the two main methods that are",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "これまで、集計生産性を個別企業の生産性の向上効果(内部効果)と資源配分の効率性の向上効果(再配分効果)に分解するいくつかの方法が提案され、日本経済にも適用されてきた",
-    "url": "https://www.rieti.go.jp/jp/publications/nts/19e069.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そこで、本研究は、生産可能性フロンティアを基準とした、新しい集計生産性の分解方法を提案する",
-    "url": "https://www.rieti.go.jp/jp/publications/nts/19e069.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "キーワード：生産性、無形資産、利用効率、再配分、 新型コロナウイルス感染症",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "新型コロナウイルス感染症の世界的な感染拡大を受けて、経済成長のさらなる",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "について、いくつかの方法で計測し、 事実確認を行う",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "年 10 月、 「谷」 が2020 年 5 月とされているが、 新型コロナウイルス感染症の拡大による影響が",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "次に、こうした感染症拡大前の議論を前提としたうえで、新型コロナウイルス",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "そして、 第4 節では、新型コロナウイルス感染症拡大下に",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "率を確認しても低成長が続いており、2012 年 10-12 月期から新型コロナウイル",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "の成長率は 1％台前半、2012 年 10-12 月期から新型コロナウイルス感染症拡大",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "生産要素として資本と労働を考慮したコブ・ダグラス型の生産関数を想定する",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "次に、企業間の資源再配分について、 Melitz and Polanec (2015) の方法",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "４．新型コロナウイルス感染症拡大下における経済成長・労働生産性",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "わが国の経済成長と労働生産性は、新型コロナウイルス感染症拡大下におい",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "力は、 飲食や宿泊といった対面型サービス業に集中する傾向を強めており、この",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "他方で、 上述の対面型サービス業の落ち",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "availability of micro-level data, but also due to different choices in measurement methodolo-",
-    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "focus on two methods to estimate Cobb-Douglas production function parameters. Under",
-    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "the first method, which is adopted by the U.S. Census Bureau, parameters for each input",
-    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "are determined by their respective industry-level cost shares. In the second method, we",
-    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "methods: (i) as in Foster, Haltiwanger and Krizan (2001), for any given period, the different",
-    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "boundaries of the firm. Most frameworks define firms simply as production technologies",
-    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "to discipline the role of misallocation for aggregate productivity in quantitative frameworks",
-    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "3 Methodology",
-    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "percentage points). Thus, one possibility is that methodological differences across the three",
-    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "that results are sensitive to methodological details of how productivity is measured, holding",
-    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "MFP measures—whose main but not only methodological difference is the time-varying vs.",
-    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- Mathematical and Quantitative Methods - - Econometric and Statistical Methods and Methodology: General - - - General",
-    "url": "https://ideas.repec.org/a/bla/randje/v46y2015i2p362-375.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "about how to correct material in RePEc.",
-    "url": "https://ideas.repec.org/a/bla/randje/v46y2015i2p362-375.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In this article, we review some recent developments of decomposition methods of the",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "aggregate productivity growth by using firm/plant level datasets. These methods have been",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We categorize these methods into (i) reduced form decomposition methods (BHC-FHK",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "decomposition method that is based on the structural estimation of an endogenous growth",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "cons of existing reduced form decomposition methods, we highlight features of the structural",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "decomposition method. As an example of the use of the structural decomposition method, we",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "decomposition methods that served as a trigger to recognize the importance of such resource",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "reallocation on the aggregate economy. Below, we categorize these methods into (i) reduced",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "existing reduced form APG decomposition methods to highlight features of the structural",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "decomposition method. As far as the author notices, these points are not raised or discussed",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "possibility of using the structural decomposition method to counterfactual policy simulations.1",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "While the reduced form APG decomposition methods have been widely used as ex-post",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "policy evaluation, the most significant advantage of the structural decomposition method is",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "form APG decomposition methods: BHC-FHK decomposition, OP decomposition, and PL",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "decomposition methods. In Section IV , we argue the pros and cons of reduced form",
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "How to File a Complaint",
-    "url": "https://www.clevelandfed.org/publications/working-paper/2019/wp-1903-firm-entry-and-exit-and-aggregate-growth",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu), an international",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "based economy. The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In this paper, we propose an extension of the productivity decomposition method developed by Olley",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "share reallocations among those firms – following the same methodology as the one proposed by Olley",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "In this paper, we propose an extension of the productivity decomposition method devel-",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "same methodology as the one proposed by Olley & Pakes (1996). We argue that the other de-",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "∗This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu ), an international economic",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This publication reﬂects only the",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Scarpetta, 2013). This ﬁnding has spurred the development of productivity decomposition methods",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "exit). Several of these decomposition methods are based on following individual producers from one",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "(1996) – hereafter OP. That method does not accommodate entry and exit, in the sense that it",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "butions that are a feature of the other decomposition methods that follow individual producers over",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "step.) Historically, the analysis of aggregate productivity changes across countries and over time",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Since our goal is to highlight diﬀerences in decomposition methods, we have picked an empirical",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "We contrast the results from our decomposition method with the two main methods that are",
-    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "- Mathematical and Quantitative Methods - - Econometric and Statistical Methods and Methodology: General - - - General",
-    "url": "https://ideas.repec.org/p/nbr/nberwo/18182.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "about how to correct material in RePEc.",
-    "url": "https://ideas.repec.org/p/nbr/nberwo/18182.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "① 分析の前提コロナ・ショック前後の区分と企業の決算期",
-    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "更に分析対象を3月期決算の企業へ絞ることで、 2020年3月",
-    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "決算から得られるデータをコロナ・ショック前、 2021年3月決算及び2022年4月決算から得ら",
-    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ると、統計的に有意な正の関係が得られる89",
-    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ディスカッション・ペーパー:19-E-069 [PDF:2.6MB] (英語)",
-    "url": "https://www.rieti.go.jp/jp/publications/nts/19e069.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この手法を、1986年から2014年までの工業統計の事業所レベルのデータに適用し、5年ごとの平均値を示したのが、図2である",
-    "url": "https://www.rieti.go.jp/jp/publications/nts/19e069.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "図2：工業統計データの集計生産性分解",
-    "url": "https://www.rieti.go.jp/jp/publications/nts/19e069.html",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、 法人企業統計ベースの労働生",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "法人企業統計における臨時従業員数は、 臨時従業員の総労働時間",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "すなわち、求職者側のスキルと求人側が求めるスキルが十分に符合し",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "と考えられるが、欧米では、 公的に人的資本の蓄積を促す制度が多く存在してお",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト",
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "図表２は、財務省「法人企業統計」により、企業規模別（資本金別）の従",
-    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（注）１．原資料は、財務省「法人企業統計調査年報」",
-    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "なお、図表３は、財務省「法人企業統計」により、企業規模別のいわゆる",
-    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "（出所）財務省「平成 30 年度法人企業統計調査年報」より作成",
-    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Application Filings and Notices",
-    "url": "https://www.clevelandfed.org/publications/working-paper/2019/wp-1903-firm-entry-and-exit-and-aggregate-growth",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -1897,48 +1191,744 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "① 分析の前提コロナ・ショック前後の区分と企業の決算期",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "更に分析対象を3月期決算の企業へ絞ることで、 2020年3月",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "決算から得られるデータをコロナ・ショック前、 2021年3月決算及び2022年4月決算から得ら",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ると、統計的に有意な正の関係が得られる89",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ディスカッション・ペーパー:19-E-069 [PDF:2.6MB] (英語)",
+    "url": "https://www.rieti.go.jp/jp/publications/nts/19e069.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この手法を、1986年から2014年までの工業統計の事業所レベルのデータに適用し、5年ごとの平均値を示したのが、図2である",
+    "url": "https://www.rieti.go.jp/jp/publications/nts/19e069.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "図2：工業統計データの集計生産性分解",
+    "url": "https://www.rieti.go.jp/jp/publications/nts/19e069.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "* 本稿の内容は、 東京大学金融教育研究センター・日本銀行調査統計局第9 回共催コンファレン",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "† 日本銀行調査統計局（tomoyuki.yagi@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "‡ 日本銀行調査統計局（kakuho.furukawa@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "§ 日本銀行調査統計局（jouchi.nakajima@boj.or.jp）",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2 2005 年以降、東京大学金融教育研究センターと日本銀行調査統計局は、計 9 回にわたって共",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "統計を用いて確認するべく、法人企業統計 （四半期別調査）で計算すると、2010",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、 法人企業統計ベースの労働生",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "法人企業統計における臨時従業員数は、 臨時従業員の総労働時間",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ェアや研究開発、労働者の持つ能力や技術等の人的資産、 特許や著作権などの知",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "は統計的に有意にプラスとなっており、無形資産投資は労働生産性の成長率を",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "コノミー）を担う企業の産出量を既存統計（GDP 等）で捕捉できていない可能",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "性や、IT 関連の財やサービスの価格低下を既存統計で正確に計測できていない",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "すなわち、求職者側のスキルと求人側が求めるスキルが十分に符合し",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "と考えられるが、欧米では、 公的に人的資本の蓄積を促す制度が多く存在してお",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この間、感染症拡大防止に向けてデジタル技術の採用が拡がるなかで、 ソフト",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "図表２は、財務省「法人企業統計」により、企業規模別（資本金別）の従",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（注）１．原資料は、財務省「法人企業統計調査年報」",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "なお、図表３は、財務省「法人企業統計」により、企業規模別のいわゆる",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "（出所）財務省「平成 30 年度法人企業統計調査年報」より作成",
+    "url": "https://www.sangiin.go.jp/jpn/shiryo/chousa/keizai_prism/backnumber/r02pdf/202018901.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Application Filings and Notices",
+    "url": "https://www.clevelandfed.org/publications/working-paper/2019/wp-1903-firm-entry-and-exit-and-aggregate-growth",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "literature. Section 3 presents the empirical framework that will be used to compose aggregate productivity",
+    "url": "https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3. Empirical Framework",
+    "url": "https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "digit industry level with the Wooldridge (2009) one-step estimator.4 Firm level TFP measures are indicated",
+    "url": "https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3 The emphasis of our paper is on aggregate Total Factor Productivity (TFP). However, the methodology also applies to other",
+    "url": "https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "by this methodological choice?",
+    "url": "https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and exit, our framework replicates well-documented stylized facts about firm dynamics.",
+    "url": "https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Given the complexity of the model, most of our analysis is numerical. Our methodol-",
+    "url": "https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "We have already pointed out that our framework builds on the seminal work of Hopen-",
+    "url": "https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Lee and Mukoyama (2009)’s framework, in which selection also leads to counter",
+    "url": "https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(1) 計測のフレームワーク",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(効果) へ分解するための標準的なフレームワーク (Foster et al. 2001) を示す?",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "なお、上記のフレームワークでは明示的に表現されていない構成要素が存在する点にも",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu ), an international",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "based economy. The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this paper, we propose an extension of the productivity decomposition method developed by Olley",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "share reallocations among those firms – following the same methodology as the one proposed by Olley",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this paper, we propose an extension of the productivity decomposition method devel-",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "same methodology as the one proposed by Olley & Pakes (1996). We argue that the other de-",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "∗This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu ), an international economic",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This publication reﬂects only the",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Scarpetta, 2009). This ﬁnding has spurred the development of productivity decomposition methods",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "exit). Several of these decomposition methods are based on following individual producers from",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "shares and productivity developed by Olley and Pakes (1996) – hereafter OP. That method does",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "tributions that are a feature of the other decomposition methods that follow individual producers",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "step.) Historically, the analysis of aggregate productivity changes across countries and over time",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Since our goal is to highlight diﬀerences in decomposition methods, we have picked an empirical",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "We contrast the results from our decomposition method with the two main methods that are",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "これまで、集計生産性を個別企業の生産性の向上効果(内部効果)と資源配分の効率性の向上効果(再配分効果)に分解するいくつかの方法が提案され、日本経済にも適用されてきた",
+    "url": "https://www.rieti.go.jp/jp/publications/nts/19e069.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そこで、本研究は、生産可能性フロンティアを基準とした、新しい集計生産性の分解方法を提案する",
+    "url": "https://www.rieti.go.jp/jp/publications/nts/19e069.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "型コロナウイルス感染症拡大下における労働生産性の動向を 分析し、ウィズコ",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "キーワード：生産性、無形資産、利用効率、再配分、 新型コロナウイルス感染症",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "新型コロナウイルス感染症の世界的な感染拡大を受けて、経済成長のさらなる",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "について、いくつかの方法で計測し、 事実確認を行う",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "年 10 月、 「谷」 が2020 年 5 月とされているが、 新型コロナウイルス感染症の拡大による影響が",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次に、こうした感染症拡大前の議論を前提としたうえで、新型コロナウイルス",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "そして、 第4 節では、新型コロナウイルス感染症拡大下に",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "率を確認しても低成長が続いており、2012 年 10-12 月期から新型コロナウイル",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "の成長率は 1％台前半、2012 年 10-12 月期から新型コロナウイルス感染症拡大",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "生産要素として資本と労働を考慮したコブ・ダグラス型の生産関数を想定する",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "次に、企業間の資源再配分について、 Melitz and Polanec (2015) の方法",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "４．新型コロナウイルス感染症拡大下における経済成長・労働生産性",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "わが国の経済成長と労働生産性は、新型コロナウイルス感染症拡大下におい",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "力は、 飲食や宿泊といった対面型サービス業に集中する傾向を強めており、この",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "他方で、 上述の対面型サービス業の落ち",
+    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "availability of micro-level data, but also due to different choices in measurement methodolo-",
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "focus on two methods to estimate Cobb-Douglas production function parameters. Under",
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "the first method, which is adopted by the U.S. Census Bureau, parameters for each input",
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "are determined by their respective industry-level cost shares. In the second method, we",
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "methods: (i) as in Foster, Haltiwanger and Krizan (2001), for any given period, the different",
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "boundaries of the firm. Most frameworks define firms simply as production technologies",
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "to discipline the role of misallocation for aggregate productivity in quantitative frameworks",
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "3 Methodology",
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "percentage points). Thus, one possibility is that methodological differences across the three",
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "that results are sensitive to methodological details of how productivity is measured, holding",
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "MFP measures—whose main but not only methodological difference is the time-varying vs.",
+    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- Mathematical and Quantitative Methods - - Econometric and Statistical Methods and Methodology: General - - - General",
+    "url": "https://ideas.repec.org/a/bla/randje/v46y2015i2p362-375.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "about how to correct material in RePEc.",
+    "url": "https://ideas.repec.org/a/bla/randje/v46y2015i2p362-375.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this article, we review some recent developments of decomposition methods of the",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "aggregate productivity growth by using firm/plant level datasets. These methods have been",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "We categorize these methods into (i) reduced form decomposition methods (BHC-FHK",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "decomposition method that is based on the structural estimation of an endogenous growth",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "cons of existing reduced form decomposition methods, we highlight features of the structural",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "decomposition method. As an example of the use of the structural decomposition method, we",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "decomposition methods that served as a trigger to recognize the importance of such resource",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "reallocation on the aggregate economy. Below, we categorize these methods into (i) reduced",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "existing reduced form APG decomposition methods to highlight features of the structural",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "decomposition method. As far as the author notices, these points are not raised or discussed",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "possibility of using the structural decomposition method to counterfactual policy simulations.1",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "While the reduced form APG decomposition methods have been widely used as ex-post",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "policy evaluation, the most significant advantage of the structural decomposition method is",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "form APG decomposition methods: BHC-FHK decomposition, OP decomposition, and PL",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "decomposition methods. In Section IV , we argue the pros and cons of reduced form",
+    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "How to File a Complaint",
+    "url": "https://www.clevelandfed.org/publications/working-paper/2019/wp-1903-firm-entry-and-exit-and-aggregate-growth",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu), an international",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "based economy. The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this paper, we propose an extension of the productivity decomposition method developed by Olley",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "share reallocations among those firms – following the same methodology as the one proposed by Olley",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "In this paper, we propose an extension of the productivity decomposition method devel-",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "same methodology as the one proposed by Olley & Pakes (1996). We argue that the other de-",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "∗This article was produced in the framework of MICRO-DYN (www.micro-dyn.eu ), an international economic",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "The project is funded by the EU Sixth Framework Programme (www.cordis.lu). This publication reﬂects only the",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Scarpetta, 2013). This ﬁnding has spurred the development of productivity decomposition methods",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "exit). Several of these decomposition methods are based on following individual producers from one",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "(1996) – hereafter OP. That method does not accommodate entry and exit, in the sense that it",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "butions that are a feature of the other decomposition methods that follow individual producers over",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "step.) Historically, the analysis of aggregate productivity changes across countries and over time",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Since our goal is to highlight diﬀerences in decomposition methods, we have picked an empirical",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "We contrast the results from our decomposition method with the two main methods that are",
+    "url": "https://www.nber.org/system/files/working_papers/w18182/w18182.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "- Mathematical and Quantitative Methods - - Econometric and Statistical Methods and Methodology: General - - - General",
+    "url": "https://ideas.repec.org/p/nbr/nberwo/18182.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "about how to correct material in RePEc.",
+    "url": "https://ideas.repec.org/p/nbr/nberwo/18182.html",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/the_day_dripper/n/n9fa0a6093662",
+    "url": "https://note.com/tsubasatada/n/n4cf79311f6fb",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/limber_spirea435/n/n10605fbcc0d9",
+    "url": "https://note.com/takatoshi_tokuo/n/n4a5f8c85a799",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/reading_monkey/n/nad4589381f56",
+    "url": "https://note.com/lmooi/n/n760fde0c8110",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/reading_monkey/n/n2be9a0d3d681",
+    "url": "https://note.com/m_y_edo/n/n2cc6d3217c98",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/reading_monkey/n/n6ea2542812c6",
+    "url": "https://note.com/astrolabinc/n/nfad98ef648da",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/jack4manastalk/n/nd223ad546301",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/shoukibodeta/html/b1_2_2_2.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
+    "url": "https://note.com/torochan22/n/n380e80a4a29d",
     "status": "ok",
     "method": "http"
    },
@@ -1948,39 +1938,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "url": "https://www.rieti.go.jp/jp/events/bbl/25112801_kim.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://hajime-i.com/2024/07/15/blog408/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www5.cao.go.jp/j-j/wp/wp-je23/h03-01.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jeri.or.jp/survey/%E7%94%9F%E7%94%A3%E6%80%A7%E5%88%86%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E4%BB%A3%E7%9A%84%E8%A6%96%E7%82%B9/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jpc-net.jp/research/rd/report/pdf/sd1.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://www.rieti.go.jp/jp/events/bbl/25112801_miyakawa.pdf",
@@ -1993,7 +1953,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.rieti.go.jp/jp/events/bbl/25112801_kim.pdf",
+    "url": "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -2008,17 +1968,37 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.jstage.jst.go.jp/article/merierb/2017/119/2017_119/_pdf/-char/en",
+    "url": "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/003/003.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
+    "url": "https://www.cao.go.jp/zei-cho/content/4zen9kai3.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "url": "https://cir.nii.ac.jp/crid/2120307890027429120",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S1090944325000328",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12088",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jstor.org/stable/pdf/24752004.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -2028,19 +2008,9 @@
     "method": "http"
    },
    {
-    "url": "https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://ideas.repec.org/p/nbr/nberwo/18182.html",
-    "status": "ok",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0954349X21001041",
+    "status": "http_403",
     "method": "http"
-   },
-   {
-    "url": "https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf",
-    "status": "ok",
-    "method": "pdf"
    }
   ]
  },
@@ -2048,128 +2018,104 @@
   {
    "query": "生産性の分解（内部効果・構成効果・参入退出効果） site:note.com",
    "results": [
-    "https://note.com/the_day_dripper/n/n9fa0a6093662",
-    "https://note.com/limber_spirea435/n/n10605fbcc0d9",
-    "https://note.com/reading_monkey/n/nad4589381f56",
-    "https://note.com/reading_monkey/n/n2be9a0d3d681",
-    "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "https://note.com/jack4manastalk/n/nd223ad546301",
-    "https://note.com/gay_dahlia6641/n/n857d5b9b1e75",
-    "https://note.com/k_tsune/n/n5ab7a5df9192",
-    "https://note.com/rikei_okka/n/n2fbc00710217",
-    "https://note.com/savensatow/n/n65d26b7aea0c"
+    "https://note.com/tsubasatada/n/n4cf79311f6fb",
+    "https://note.com/takatoshi_tokuo/n/n4a5f8c85a799",
+    "https://note.com/lmooi/n/n760fde0c8110",
+    "https://note.com/m_y_edo/n/n2cc6d3217c98",
+    "https://note.com/astrolabinc/n/nfad98ef648da",
+    "https://note.com/torochan22/n/n380e80a4a29d",
+    "https://note.com/m_y_edo/n/n2f36be42fd18"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "生産性の分解（内部効果・構成効果・参入退出効果） note",
    "results": [
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/shoukibodeta/html/b1_2_2_2.html",
-    "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
     "https://toyokeizai.net/articles/-/764883?display=b",
-    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
-    "https://hajime-i.com/2024/07/15/blog408/",
-    "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "https://note.com/gangaraganchan/n/ne1db0ada5e58",
-    "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "https://www.rieti.go.jp/jp/events/bbl/25112801_kim.pdf",
     "https://www.rieti.go.jp/jp/events/bbl/25112801_miyakawa.pdf",
-    "https://www.rieti.go.jp/jp/events/bbl/25112801_kim.pdf"
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "https://www1.ier.hit-u.ac.jp/wp-content/uploads/2026/01/2012j-murao.pdf",
+    "https://www.econ.hit-u.ac.jp/jpn/download/research/research-graduate_student/phd/2012/2012murao.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "生産性の分解（内部効果・構成効果・参入退出効果） やり方",
    "results": [
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/shoukibodeta/html/b1_2_2_2.html",
-    "https://www5.cao.go.jp/j-j/wp/wp-je23/h03-01.html",
-    "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
-    "https://www.jeri.or.jp/survey/%E7%94%9F%E7%94%A3%E6%80%A7%E5%88%86%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E4%BB%A3%E7%9A%84%E8%A6%96%E7%82%B9/",
-    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
     "https://toyokeizai.net/articles/-/764883?display=b",
-    "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "https://www.jpc-net.jp/research/rd/report/pdf/sd1.pdf",
-    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://www.rieti.go.jp/jp/events/bbl/25112801_miyakawa.pdf"
+    "https://www.rieti.go.jp/jp/events/bbl/25112801_miyakawa.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/07j022.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/003/003.pdf",
+    "https://www.cao.go.jp/zei-cho/content/4zen9kai3.pdf"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 14
+   "n_hits": 7
   },
   {
    "query": "生産性の分解（内部効果・構成効果・参入退出効果） 事例",
    "results": [
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/shoukibodeta/html/b1_2_2_2.html",
-    "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
-    "https://www.jeri.or.jp/survey/%E7%94%9F%E7%94%A3%E6%80%A7%E5%88%86%E6%9E%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%8F%BE%E4%BB%A3%E7%9A%84%E8%A6%96%E7%82%B9/",
-    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
     "https://toyokeizai.net/articles/-/764883?display=b",
-    "https://www.boj.or.jp/research/wps_rev/wps_2022/data/wp22j03.pdf",
-    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://www.jpc-net.jp/research/rd/report/pdf/sd1.pdf",
     "https://www.rieti.go.jp/jp/events/bbl/25112801_kim.pdf",
-    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf"
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
+    "https://www1.ier.hit-u.ac.jp/wp-content/uploads/2026/01/2012j-murao.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/07j022.pdf",
+    "https://cir.nii.ac.jp/crid/2120307890027429120"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 13
+   "n_hits": 7
   },
   {
    "query": "productivity decomposition within between entry exit effect",
    "results": [
-    "https://www2.census.gov/ces/wp/2022/CES-WP-22-25.pdf",
-    "https://www.mof.go.jp/english/pri/publication/pp_review/fy2017/ppr13_03_03.pdf",
+    "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S1090944325000328",
+    "https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12088",
+    "https://www.jstor.org/stable/pdf/24752004.pdf",
     "https://melitz.scholars.harvard.edu/publications/dynamic-olley-pakes-productivity-decomposition-entry-and-exit",
-    "https://lirias.kuleuven.be/retrieve/a025e93b-99fd-47d4-8582-3c5c6c58a500",
-    "https://ideas.repec.org/p/nbr/nberwo/18182.html",
-    "https://www.gc.cuny.edu/sites/default/files/2021-07/dinogl_12_9_24.pdf",
-    "https://link.springer.com/article/10.1007/s00191-023-00816-8",
-    "https://www.oecd.org/content/dam/oecd/en/publications/reports/2000/12/entry-exit-and-aggregate-productivity-growth_g17a142a/656402673613.pdf",
-    "https://www.clevelandfed.org/publications/working-paper/2019/wp-1903-firm-entry-and-exit-and-aggregate-growth",
-    "https://www.nber.org/system/files/working_papers/w18182/revisions/w18182.rev0.pdf"
+    "https://www.sciencedirect.com/science/article/pii/S0954349X21001041",
+    "https://www.researchgate.net/publication/331980041_How_structural_change_boosts_productivity_growth_Decomposing_industry_productivity_without_share_weights"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "site:note.com 生産性の分解（内部効果・構成効果・参入退出効果）",
    "results": [
-    "https://note.com/the_day_dripper/n/n9fa0a6093662",
-    "https://note.com/limber_spirea435/n/n10605fbcc0d9",
-    "https://note.com/reading_monkey/n/nad4589381f56",
-    "https://note.com/reading_monkey/n/n2be9a0d3d681",
-    "https://note.com/reading_monkey/n/n6ea2542812c6",
-    "https://note.com/jack4manastalk/n/nd223ad546301",
-    "https://note.com/gay_dahlia6641/n/n857d5b9b1e75",
-    "https://note.com/rikei_okka/n/n2fbc00710217",
-    "https://note.com/k_tsune/n/n5ab7a5df9192",
-    "https://note.com/savensatow/n/n65d26b7aea0c"
+    "https://note.com/tsubasatada/n/n4cf79311f6fb",
+    "https://note.com/takatoshi_tokuo/n/n4a5f8c85a799",
+    "https://note.com/astrolabinc/n/nfad98ef648da",
+    "https://note.com/kens_reading1/n/n17626df2cb9d",
+    "https://note.com/ogawa_tech/n/nedadba8ebf97",
+    "https://note.com/lmooi/n/n760fde0c8110",
+    "https://note.com/kartman/n/nca0db210e96d"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 10
+   "n_hits": 7
   },
   {
    "query": "site:x.com 生産性の分解（内部効果・構成効果・参入退出効果）",
    "results": [
-    "https://x.com/MakeAI_CEO/article/2087343694538264720",
     "https://jf.x.com/images/media-preview/2098843322592755913",
-    "https://jf.x.com/images/media-preview/2099075664687280330",
+    "https://jf.x.com/images/media-preview/2114631358681419903",
     "https://x.com/keizaireport/status/2104777532168110480",
     "https://x.com/kishida_cpa/status/2118631704630120638",
     "https://x.com/jun_freshet/status/2040388397039292478",
@@ -2177,110 +2123,93 @@
     "https://x.com/ileeconomics/status/2069017671619027197"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 生産性の分解（内部効果・構成効果・参入退出効果）",
    "results": [
-    "https://jp.linkedin.com/pulse/breaking-down-markets-using-first-principles-parts-game-youshen-lim-kx43c?tl=ja",
-    "https://www.linkedin.com/news/story/中高年社員の活用-生産性upに効果-4485843/",
     "https://www.linkedin.com/pulse/学びの窓-48-分解と統合-誠一郎-眞部-osfcc",
+    "https://www.linkedin.com/news/story/中高年社員の活用-生産性upに効果-4485843/",
     "https://uk.linkedin.com/in/alicesqhan",
     "https://jp.linkedin.com/pulse/ten-productivity-tips-actually-work-vix-anderton-frsa?tl=ja",
     "https://jp.linkedin.com/pulse/solving-agiles-productivity-puzzle-moving-towards-impact-sharma-zyalc?tl=ja",
     "https://jp.linkedin.com/posts/英介-鈴木-1873b1270_バラッササミュエルソン効果とは何か生産性と安い国の関係を深掘りする-activity-7291028706771288064-qHSk",
-    "https://jp.linkedin.com/pulse/inside-smart-factory-how-ai-automation-optimises-every-krishna-saraf-1nxtc?tl=ja"
+    "https://jp.linkedin.com/pulse/hawthorne-effect-impact-surveillance-consciousness-productivity?tl=ja"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 生産性の分解（内部効果・構成効果・参入退出効果）",
    "results": [
-    "https://www.facebook.com/VUC2021/",
     "https://www.facebook.com/jpc0301/",
     "https://www.facebook.com/fiveoneinc.jp/posts/749227251597124/",
     "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー日本企業のai導入と生産性スピルオーバー効果とイノベーション効果池内-健太-上席研究員政策エコノミスト乾-友彦ファカルティフェロー金-榮愨/691698266322753/",
     "https://www.facebook.com/FPhime/posts/Ⅴ企業の参入退出の円滑化とスタートアップ育成五ヶ年計画の推進httpswwwfphimecomposte4bc81e6a5ade381aee58f82e585a/645055384327113/",
     "https://www.facebook.com/ninomiya2038/videos/トロンメル式に比べて処理速度upflip-screen分別バケットex85-dd-再生砕石rc-40生産従来のトロンメル式に比べて広い口内部落下分散効果で驚きの/826676321806520/",
-    "https://www.facebook.com/altenasinc/posts/競合に負けない参入障壁を築くためにネットワーク効果を覚えようネットワーク効果とは製品やサービスの価値がユーザー数に依存しておりそれらを利用するユーザーが増加する/172853981101945/",
+    "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー経済学分野-での科研費-の獲得による研究生産性上昇効果の分析ポジション所属組織-による効果の違い大西-宏一郎-早稲田大学大湾-秀雄ファカル/3030352790389892/",
     "https://www.facebook.com/Japan.RIETI/posts/865192006905992/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "生産性の分解（内部効果・構成効果・参入退出効果） note 社長",
    "results": [
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/shoukibodeta/html/b1_2_2_2.html",
     "https://toyokeizai.net/articles/-/764883?display=b",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
     "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
-    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
-    "https://note.com/btobmarketing/n/n7bb1cd09fab1",
-    "https://hit-u.repo.nii.ac.jp/record/2056369/files/DP20-010.pdf",
-    "https://mba.globis.ac.jp/careernote/1105.html",
-    "https://www.jpc-net.jp/research/rd/report/pdf/sd1.pdf",
-    "https://www.rieti.go.jp/jp/events/bbl/25112801_miyakawa.pdf",
-    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf"
+    "https://www.rieti.go.jp/jp/publications/dp/07j022.pdf",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/003/003.pdf",
+    "https://www.icr.co.jp/service/infocom-ict/download/discussion-paper/pdf/2026/DP_29_202603.pdf",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 12
+   "n_hits": 7
   },
   {
    "query": "生産性の分解（内部効果・構成効果・参入退出効果） X 投稿",
    "results": [
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/H29/h29/shoukibodeta/html/b1_2_2_2.html",
-    "https://www.rieti.go.jp/jp/publications/nts/26e007.html",
     "https://toyokeizai.net/articles/-/764883?display=b",
+    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf",
+    "https://www.rieti.go.jp/jp/publications/dp/07j022.pdf",
+    "https://www.rieti.go.jp/jp/publications/summary/07050011.html",
     "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_08.pdf",
-    "https://www.jpc-net.jp/research/rd/report/pdf/sd1.pdf",
-    "https://www.chusho.meti.go.jp/pamflet/hakusyo/2023/chusho/b1_3_3.html",
-    "https://www.hitachi-solutions.co.jp/wsi/column/c021.html",
-    "https://www.netsuite.co.jp/resource/articles/business-strategy/productivity.shtml",
-    "https://www.jmam.co.jp/hrm/column/0129-labor_productivity.html",
-    "https://www.mof.go.jp/pri/research/conference/fy2022/seisansei_report_07.pdf"
+    "https://www1.ier.hit-u.ac.jp/wp-content/uploads/2026/01/2012j-murao.pdf",
+    "https://www.chusho.meti.go.jp/koukai/shingikai/kihonmondai/003/003.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 14
+   "n_hits": 7
   },
   {
    "query": "productivity decomposition within between entry exit effect site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/top-content/productivity/ai-in-knowledge-work-productivity/the-impact-of-ai-on-industry-productivity/",
-    "https://it.linkedin.com/in/carlo-menon-424a232",
-    "https://www.linkedin.com/posts/branimir-jovanovic-0044a85_how-firms-respond-to-minimum-wage-increases-activity-7437481477669396480-xAXa",
-    "https://www.linkedin.com/in/filipjolevski",
-    "https://www.linkedin.com/posts/zsuzsanna-tajti-phd-cfa-frm-prm-cia-scr_financing-and-scaling-innovation-activity-7514214389894422528-Yogi",
-    "https://www.linkedin.com/posts/gaofei-zhang_healthpolicy-healtheconomics-populationhealth-activity-7508575377368240129-iU-z",
-    "https://www.linkedin.com/posts/francesco-furlanetto-aa90744_new-working-paper-alert-consumption-activity-7401586514394017792-Zpo9",
-    "https://www.linkedin.com/in/kirk-white-17b42a285",
-    "https://www.linkedin.com/posts/inclusive-productivity-network_super-interesting-what-does-venture-capital-activity-7503783095536386048-PU97",
-    "https://www.linkedin.com/posts/christian-brownlees-6a57763a_in-our-new-paper-which-factors-drive-downside-activity-7452095089532805120-_-vF"
+    "https://www.linkedin.com/pulse/unlocking-business-dynamism-removing-barriers-entry-growth-murray-1rmac/",
+    "https://www.linkedin.com/advice/0/how-do-you-balance-risks-benefits-entering-new",
+    "https://ph.linkedin.com/in/adrian-r-mendoza",
+    "https://ie.linkedin.com/in/iulia-siedschlag-722227231",
+    "https://www.linkedin.com/advice/0/how-can-you-identify-entry-exit-barriers-industries",
+    "https://www.linkedin.com/pulse/2026-chinas-new-exit-entry-rules-take-effect-15-september-baokui-guan-8cz5c",
+    "https://www.linkedin.com/posts/iioa_global-labor-requirements-in-the-world-economy-activity-7427675363712917504-AP_I"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 17
+   "n_hits": 7
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 23,
+ "runs": 24,
  "first_researched_at": "2026-11-05T06:54:55.143982+00:00"
 }

@@ -1,0 +1,868 @@
+{
+ "name": "Onswitchboard",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T23:31:55.131942+00:00",
+ "official_url": "https://www.onswitchboard.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://startupintros.com/orgs/switchboard",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Vancouver, Canada",
+    "url": "https://startupintros.com/orgs/switchboard",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Every interaction I have had with Switchboard in my capacity as Safety and Compliance Manager at Rai Express lines Ltd. has been 100% satisfactory. Great customer service by Accounts department plus support team is knowledgeable and swift in reaching to drivers who need assistance with ELD devices.",
+    "url": "https://www.onswitchboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rai Express Lines Ltd.",
+    "url": "https://www.onswitchboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Switchboard is right for Centurion because it is truly built to what my fleet, dispatch, and safety divisions need. It’s simple to use, and also has all the features required for proper compliance and fleet management.",
+    "url": "https://www.onswitchboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Switchboard is very user friendly, easy to learn and adapt to technology. We have been working with Switchboard for a long time. You guys go the extra mile to keep us happy. Customer service responds quickly and issues are sorted faster. Best investment we ever made, prices are fair. Thank you!",
+    "url": "https://www.onswitchboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to starting Think Box, Thej was working as an operations manager at another trucking fleet that was using KeepTruckin / Motive as their ELD provider. While there were many issues that the fleet had experienced with KeepTruckin / Motive from a usability standpoint, he was not in a position to influence a decision to switch their fleet over to a different ELD system.",
+    "url": "https://www.onswitchboard.com/blog/thinkbox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Switchboard's approach is great - it's very user friendly for the drivers, unlike KeepTruckin and TXT.",
+    "url": "https://www.onswitchboard.com/blog/thinkbox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ". He know that whenever he needs something or wants to provide feedback, the Switchboard team is available and promptly fixes any issues his team may be encountering.",
+    "url": "https://www.onswitchboard.com/blog/thinkbox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Michael brings a deep understanding of industry challenges and a commitment to practical solutions, and ensures that Switchboard's offerings empower trucking companies to reduce costs and enhance efficiency. His collaborative approach fosters innovation, making Switchboard a trusted partner in the ever-evolving world of trucking logistics.",
+    "url": "https://www.onswitchboard.com/blog/thinkbox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Tablet & Tracking Hardware",
+    "url": "https://www.onswitchboard.com/blog/thinkbox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How to choose an ELD provider",
+    "url": "https://www.onswitchboard.com/blog/thinkbox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate with Project44, GoHighway, Trucker Tools, and more",
+    "url": "https://www.onswitchboard.com/blog/thinkbox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "ELD & Fleet Management Pricing Plans | Switchboard",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No contract? No problem. Talk with us to learn more.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Track better with accurate and precise GPS.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you’re using a model year 2013 or newer Mack or Volvo truck, Switchboard provides a special cable harness. We also provide Y-cables so you can hide the cabling behind a trim panel.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We recommend using our products with a cellular data plan. Switchboard provides tablet hardware with cellular connection to allow drivers that use the Switchboard to meet their obligations under the ELD rule.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, teams can manage their Hours of Service, view inspections, and review documents from a shared device. They can also switch between driver profiles easily without logging in/out.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No problem. Switchboard automatically records all HOS log information under the logged in driver, so that when you are back in cellular data service, all log information is saved.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What data transfer types does the Switchboard ELD support for roadside inspections?",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Switchboard supports the two telematics data transfer protocols specified by the FMCSA for roadside inspections: web services and email. Switchboard also supports Canadian email transfer protocols.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Switchboard is very user friendly, easy to learn and adapt to technology. We have been working with Switchboard for a long time. You guys go the extra mile to keep us happy. Customer service responds quickly and issues are sorted faster. Best investment we ever made, prices are fair. Thank you!",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every interaction I have had with Switchboard in my capacity as Safety and Compliance Manager at Rai Express lines Ltd. has been 100% satisfactory. Great customer service by Accounts department plus support team is knowledgeable and swift in reaching to drivers who need assistance with ELD devices.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rai Express Lines Ltd.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Switchboard is right for Centurion because it is truly built to what my fleet, dispatch, and safety divisions need. It’s simple to use, and also has all the features required for proper compliance and fleet management.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We researched and tested over 5 different providers and we selected Switchboard, one of the best decisions we’ve ever made.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The Sales Support Associate leads clients through sales discovery and technology onboarding processes, and in turn develops strong customer relationships over time. The Sales Support Associate also ensures client delight by ensuring a high level of quality user experiences across all stakeholders of Switchboard in an on-time fashion.",
+    "url": "https://www.onswitchboard.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Developing strong relationships with existing and prospective clients",
+    "url": "https://www.onswitchboard.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Assisting users with getting familiar with Switchboard products and technology",
+    "url": "https://www.onswitchboard.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Working with clients to bring user needs and feedback back to Switchboard product teams",
+    "url": "https://www.onswitchboard.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Organizational proficiency and documentation skills",
+    "url": "https://www.onswitchboard.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Proficiency with Microsoft Windows/MS Office Applications",
+    "url": "https://www.onswitchboard.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The User Support Technician manages hardware troubleshooting and leads clients through support processes, and in turn develops strong customer relationships over time. The User Support Technician also ensures client delight by executing fulfillment & set-up of Switchboard hardware.",
+    "url": "https://www.onswitchboard.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard uses real-time data obtained by Switchboard devices installed on commercial vehicles to provide visibility and reporting on freight location, routing availability, and other related data important to manage freight movement across North America.",
+    "url": "https://startupintros.com/orgs/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Product Differentiators:",
+    "url": "https://startupintros.com/orgs/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard offers a compact, easy-to-use ELD device combined with a cloud-based platform that supports comprehensive fleet management functions such as driver status tracking, geofencing, mileage and fuel tax reporting (IFTA), route optimization, and weigh station bypassing[2][3].",
+    "url": "https://startupintros.com/orgs/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "The system requires minimal training for drivers and fleet managers, with intuitive interfaces on both the driver app and carrier web portal, supported by informative videos and responsive customer service[3][5].",
+    "url": "https://startupintros.com/orgs/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Speed, Pricing, Ease of Use:",
+    "url": "https://startupintros.com/orgs/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard is competitively priced starting around $20 per month, with straightforward installation and setup. It is praised for its cost-effectiveness, making it accessible to smaller fleets and owner-operators without sacrificing compliance or functionality[2][3][7].",
+    "url": "https://startupintros.com/orgs/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "softwareadvice.com/product/24971-Switchboard-Logistics",
+    "url": "https://startupintros.com/orgs/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard (Business/Productivity Software) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard (Business/Productivity Software)",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard (Business/Productivity Software) Valuation & Funding",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "To view Switchboard (Business/Productivity Software)’s complete valuation and funding history, request access »",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard (Business/Productivity Software) Signals",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard (Business/Productivity Software) Investors (12)",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard (Business/Productivity Software) FAQs",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "When was Switchboard (Business/Productivity Software) founded?",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard (Business/Productivity Software) was founded in 2015.",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Where is Switchboard (Business/Productivity Software) headquartered?",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard (Business/Productivity Software) is headquartered in Burnaby, Canada.",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "What is the size of Switchboard (Business/Productivity Software)?",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard (Business/Productivity Software) has 15 total employees.",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Switchboard is trusted by fleets across North America",
+    "url": "https://www.onswitchboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every interaction I have had with Switchboard in my capacity as Safety and Compliance Manager at Rai Express lines Ltd. has been 100% satisfactory. Great customer service by Accounts department plus support team is knowledgeable and swift in reaching to drivers who need assistance with ELD devices.",
+    "url": "https://www.onswitchboard.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every interaction I have had with Switchboard in my capacity as Safety and Compliance Manager at Rai Express lines Ltd. has been 100% satisfactory. Great customer service by Accounts department plus support team is knowledgeable and swift in reaching to drivers who need assistance with ELD devices.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Switchboard is competitively priced starting around $20 per month, with straightforward installation and setup. It is praised for its cost-effectiveness, making it accessible to smaller fleets and owner-operators without sacrificing compliance or functionality[2][3][7].",
+    "url": "https://startupintros.com/orgs/switchboard",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "is a carrier based out of Brampton, Canada, who has grown significantly over the last couple years, and maintained that growth through COVID. We spoke with their founder and CEO, Thej, on their experience transitioning to",
+    "url": "https://www.onswitchboard.com/blog/thinkbox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "We are excited to be a part of Think Box's journey as they continue to grow their operations, and serve as a reliable partner for their operations.",
+    "url": "https://www.onswitchboard.com/blog/thinkbox-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Switchboard Revenue 2024: $1.8M Est.",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard has not published its revenue. GetLatka estimates it at about $1.8M a year (October 2024).",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard CEO, founders & employees",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Michael Ip founded Switchboard in 2019 and runs it as CEO. Switchboard had 14 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "What is Switchboard's revenue?",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Switchboard's revenue at about",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Switchboard have?",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "The system requires minimal training for drivers and fleet managers, with intuitive interfaces on both the driver app and carrier web portal, supported by informative videos and responsive customer service[3][5].",
+    "url": "https://startupintros.com/orgs/switchboard",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard (Business/Productivity Software) has 15 total employees.",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "What is Switchboard (Business/Productivity Software)’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Switchboard (Business/Productivity Software) is",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Switchboard supports the two telematics data transfer protocols specified by the FMCSA for roadside inspections: web services and email. Switchboard also supports Canadian email transfer protocols.",
+    "url": "https://www.onswitchboard.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Handle and resolve incoming customer support inquiries via phone or email",
+    "url": "https://www.onswitchboard.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Contact Us | Switchboard Technology for Fleets — Contact the Switchboard Team at any time. Speak to a Switchboard representative via phone, or email us at team@onswitchboard.com.",
+    "url": "https://www.onswitchboard.com/contact-us",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Switchboard (@onswitchboard) / X IFTA calculations shouldn't take hours to do. Switchboard calculates mileages in SECONDS using proprietary algorithms to make sure your miles are precise and accurate. Give us a call today, or email us at sales@onswitchboard.com to learn more.",
+    "url": "https://x.com/onswitchboard",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Switchboard - LinkedIn Switchboard (www.onswitchboard.com) electronic logging devices (ELDs) allow fleets to remain compliant with FMCSA and NSC regulations. Hours of Service logs are now easily managed and viewed...",
+    "url": "https://www.linkedin.com/company/switchboard",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Switchboard | Burnaby BC - FacebookSwitchboard - Track your trailers, equipment, and assets ...Facebook - log in or sign upSwitchboard - Switchboard provides 24/7 support to make ...Switchboard - Follow us on our other social media... - FacebookSwitchboard - If you're looking for a deal on your ELD ...Switchboard - Switchboard's ZERO monthly fee ELD is fully ... Feb 27, 2024 · Switchboard, Burnaby",
+    "url": "https://www.facebook.com/Switchboard/",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard - Follow us on our other social media... - Facebook Follow us on our other social media channels! LinkedIn: https://www.linkedin.com/company/switchboard Twitter: https://www.twitter.com/onswitchboard...",
+    "url": "https://www.facebook.com/Switchboard/posts/1967383493488282/",
+    "pass": 3
+   },
+   {
+    "quote": "Switchboard - Track your trailers, equipment, and assets ... Sep 12, 2020 · Track your trailers, equipment, and assets. Real-time and historical location. Visit Switchboard at https://www.onswitchboard.com, or call us at...",
+    "url": "https://www.facebook.com/Switchboard/posts/track-your-trailers-equipment-and-assetsreal-time-and-historical-locationvisit-s/3088064308086856/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.onswitchboard.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onswitchboard.com/blog/thinkbox-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onswitchboard.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onswitchboard.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sushie/n/n9ac856796e9e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airdroplist.co/switchboard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.electricalsinformed.com/companies/distributors-switches-switchboards-japan/directory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://secure.oneswitchboard.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.withswitchboard.com/work/customer-success-ops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/switchboard/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.withswitchboard.com/work/equipment-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/switchboard-software/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://skyswitch.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/switchboard/__tCxwnwrVIa6zINbGzEGcsfWuC6eFPYq3COFCpqbkvvk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/switchboard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/switchboard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/150019-21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/onswitchboard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/switchboard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Switchboard/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Switchboard/posts/1967383493488282/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Switchboard/posts/track-your-trailers-equipment-and-assetsreal-time-and-historical-locationvisit-s/3088064308086856/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/onswitchboard",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Onswitchboard 日本 導入",
+   "results": [
+    "https://www.onswitchboard.com/",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
+    "https://note.com/sushie/n/n9ac856796e9e",
+    "https://airdroplist.co/switchboard",
+    "https://api.onswitchboard.com/v2",
+    "https://oneswitchboard.com/",
+    "https://it-trend.jp/pbx/article/comparison"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onswitchboard 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.onswitchboard.com/contact-us",
+    "https://www.onswitchboard.com/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onswitchboard Japan",
+   "results": [
+    "https://www.electricalsinformed.com/companies/distributors-switches-switchboards-japan/directory.html",
+    "https://www.onswitchboard.com/contact-us",
+    "https://www.onswitchboard.com/",
+    "https://secure.oneswitchboard.com/",
+    "https://secure.oneswitchboard.com/accounts/login/",
+    "https://manager.onswitchboard.com/",
+    "https://app.onswitchboard.com/login"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onswitchboard manufacturing customer case study",
+   "results": [
+    "https://www.withswitchboard.com/work/customer-success-ops",
+    "https://www.featuredcustomers.com/vendor/switchboard/case-studies",
+    "https://www.withswitchboard.com/work/equipment-manufacturing",
+    "https://www.featuredcustomers.com/vendor/switchboard-software/case-studies",
+    "https://www.onswitchboard.com/contact-us",
+    "https://www.onswitchboard.com/",
+    "https://support.onswitchboard.com/support"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onswitchboard white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://skyswitch.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onswitchboard founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/switchboard/__tCxwnwrVIa6zINbGzEGcsfWuC6eFPYq3COFCpqbkvvk",
+    "https://getlatka.com/companies/switchboard",
+    "https://startupintros.com/orgs/switchboard",
+    "https://pitchbook.com/profiles/company/150019-21",
+    "https://www.crunchbase.com/organization/switchboard-5db1",
+    "https://indexed.vc/companies/switchboard",
+    "https://www.gofractional.com/companies/switchboard-5"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Onswitchboard",
+   "results": [
+    "https://note.com/goukaku_charge/n/ndbdd08593053?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/shikaku_tokyo/n/nf7f1a3255e67?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/nge555/n/n136c7bf83e2e",
+    "https://note.com/sakura____note/n/n301cfa280552",
+    "https://note.com/miurakota/n/nb1539ab5123d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Onswitchboard",
+   "results": [
+    "https://x.com/onswitchboard",
+    "https://x.com/SwitchesBoard",
+    "https://x.com/switchboardxyz",
+    "https://x.com/switchboardxyz/status/2101137744898507258",
+    "https://x.com/SwitchesBoard/status/2111106518863183967",
+    "https://x.com/switchboard",
+    "https://x.com/switchboardlive"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Onswitchboard",
+   "results": [
+    "https://www.linkedin.com/company/switchboard",
+    "https://www.linkedin.com/company/switchboardcloud",
+    "https://www.linkedin.com/company/switchboard-app/",
+    "https://www.linkedin.com/company/withswitchboard",
+    "https://www.linkedin.com/company/oneswitchboard",
+    "https://fr.linkedin.com/in/tania-luce-34a454395",
+    "https://www.linkedin.com/posts/oneswitchboard_we-are-excited-to-announce-three-new-tools-activity-7175855800161054722-x7Bm"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Onswitchboard",
+   "results": [
+    "https://www.facebook.com/Switchboard/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/Switchboard/posts/1967383493488282/",
+    "https://www.facebook.com/Switchboard/posts/track-your-trailers-equipment-and-assetsreal-time-and-historical-locationvisit-s/3088064308086856/",
+    "https://www.facebook.com/Switchboard/posts/switchboard-provides-247-support-to-make-sure-that-your-technology-works-for-you/2830783657148257/",
+    "https://www.facebook.com/Switchboard/posts/if-youre-looking-for-a-deal-on-your-eld-purchase-use-the-discount-code-afterthem/2324844517742176/",
+    "https://www.facebook.com/Switchboard/posts/switchboards-zero-monthly-fee-eld-is-fully-compliant-with-the-fmcsa-and-easy-to-/2325389277687700/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onswitchboard note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onswitchboard X 投稿",
+   "results": [
+    "https://x.com/onswitchboard",
+    "https://www.instagram.com/onswitchboard/",
+    "https://x.com/SwitchesBoard",
+    "https://www.onswitchboard.com/",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://oneswitchboard.com/",
+    "https://api.onswitchboard.com/v2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

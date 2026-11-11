@@ -1,0 +1,1304 @@
+{
+ "name": "SiPearl",
+ "aliases": [],
+ "context": "旧営業リスト｜Semiconductors｜AUMS不適合",
+ "researched_at": "2026-11-10T23:28:35.253499+00:00",
+ "official_url": "https://sipearl.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Initiated inside the European Processor Initiative (EPI) consortium to equip European supercomputers with sovereign hardware, the Rhea1 CPU was designed by SiPearl’s R&D teams to deliver computing power and energy efficiency for high-performance computing (HPC) and AI workloads.",
+    "url": "https://sipearl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In a complex geopolitical context, Rhea1 will contribute to Europe’s technological sovereignty for strategic applications in security, defence, medical research, energy, climate and engineering with a reduced carbon footprint.",
+    "url": "https://sipearl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To protect data with secure end-to-end network transmission.",
+    "url": "https://sipearl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To meet all the requirements for HPC and AI workloads, Rhea1 integrates 80 arm® Neoverse V1 cores with 2 Scalable Vector Extension (SVE) units of 256 bits per core, built-in High Bandwidth Memory with 4 stacks of HBM, 4 DDR5 interfaces",
+    "url": "https://sipearl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our CPUs will thus contribute to improving the daily lives of all citizens.",
+    "url": "https://sipearl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SiPearl newsletter provides you with an update on our latest milestones, product launch, future attendance to trade-shows, conferences and other industry events.",
+    "url": "https://sipearl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Designing the European processor - SiPearl",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "Because major challenges for Europe in defence, security, health, energy and climate require processing huge volumes of strategic data in a fraction of a second, SiPearl designs European high-performance energy-efficient backdoor-free & kill switch-free CPUs dedicated to sovereign data centres and accelerated computing.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "In a complex geopolitical context, we are contributing to Europe’s digital sovereignty in scientific, societal and environmental fields with a reduced carbon footprint.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "SiPearl is the European fabless designer of high-performance energy-efficient CPUs for HPC, AI and data centres. These CPUs will help address strategic dual-use challenges in the fields of security, defence, medical research, energy, climate and engineering with a reduced environmental footprint.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "European Processor Initiative",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "(EPI) project. The aim of EPI is to foster the deployment in Europe of high-performance and energy-efficient processor technologies. Privately held, SiPearl is supported by the European Union and France.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "SiPearl designs European processors that help Europe’s supercomputers to achieve exascale",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "April 2020",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "April 2023",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "Created in June 2019 as a European company, SiPearl moves into its operational phase with €7.4m funding from the European Union’s Horizon 2020 research and innovation program under specific grant agreement no.826647.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "The company launches the design of its first generation of processors, Rhea1.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "The Arm Neoverse V1 platform gives SiPearl the means to design the European Rhea1 processor.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "Previously Strategic Project Manager at BSC, Anna Riverola is appointed as the head of SiPearl SL.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "Matteo Tonelli, previously responsible for external relations and partnerships at ANRT, is Country Manager for Italy.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "After raising a third and final tranche of €32 million from existing investors, EIC Fund and France 2030 via French Tech Souveraineté, and also a new investor, the Taiwanese private equity firm Cathay Venture, SiPearl has secured €130 million. It is the largest Series A round in the European fabless semiconductor industry.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "Previously, the company completed the design of its first processor, Rhea1. It is currently manufactured by the world leader in independent foundries, TSMC, in Taiwan.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "Alice Recoque will incorporate a scalar computing partition composed of Rhea2 processors.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "(EIC) as part of its EIC Accelerator programme, from the French government via France 2030, and from corporate and financial investors including Arm, Bull and Cathay Venture Inc (Taiwan).",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "SiPearl has established key partnerships with leading IP providers. Our company is the only European licensee to use Arm Neoverse V1 platform and benefits from Arm robust software ecosystem. This partnership with the global semiconductor IP provider accelerates the design of a very high-end offering in terms of both computing power and energy-efficiency.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": ", which gathers public and private actors in research and development,",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": ", professional industrial organisation of Ile-de-France, of",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Alliance on Processors and Semiconductor Technology",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "By giving Europe the means for early detection of diseases, to fight climate change more effectively, to produce better quality goods and services, the high-performance, low-power microprocessors developed by SiPearl will bring important environmental, social and societal benefits.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "SiPearl’s progressive approach to sustainable growth includes promoting diversity in recruitment and taking steps to minimize the impact of its activities on the environment (hosting green servers at Ikoula, opening offices close to labor pools, limiting paper consumption).",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "In December 2023, SiPearl launched its first carbon footprint assessment as part of",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborative projects",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Here you will find the main articles and programs about SiPearl and our industry, as well as the awards and trophies we have won.",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Stay up to date with the company’s press review since its operational launch in January 2020, as well as major news and trends in its sector and markets.",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Rhea1, Europa… Le retour de l’Europe dans le silicium se précise",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Sipearl, Air Liquide… Portées par le boom de l’IA, les entreprises françaises renforcent leur présence à Taïwan",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Alice Recoque : le HPC exascale français qui va propulser le TGCC au coeur de l’IA européenne",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Interview of Philippe Notton in the show “Comment j’ai réussi ?”",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Interview – Des processeurs français pour sauver la souveraineté numérique européenne",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "SiPearl dévoile Athena1, le premier processeur souverain européen pour les besoins militaires",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "April 7, 2023",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Europe’s chip sovereignty altering US chip companies’ exascale approach",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "L’Europe investit dans SiPearl, la start-up française qui développe le processeur européen",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "15 Prozent aller Server nutzen bereits ARM-CPUs",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "1ère phrase achevée pour le processeur HPC européen",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "April 30, 2021",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "April 22, 2020",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "April 21, 2020",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "European SiPearl startup licenses Arm for first-generation microprocessor",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "€6.2m for europrocessor",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Lancement de SiPearl, la start-up qui nourrit le rêve de microprocesseurs européens",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "SiPearl is a proud member of",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Processor Initiative (EPI)",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Manage my preferences",
+    "url": "https://sipearl.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "国内のシステムインテグレーターやCPU開発チームにおいても、PCIeやCXL（Compute Express Link）を用いたQPU専用アクセラレータバスの標準化検討を急ぐ必要があります",
+    "url": "https://techshift.jp/2026/10/12/post-2543/",
+    "pass": 3
+   },
+   {
+    "quote": "Add TT as Preferred Source",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "pass": 3
+   },
+   {
+    "quote": "Egis Technology Inc (神盾) yesterday signed a strategic partnership with French processor designer SiPearl to jointly develop central processing units (CPU), targeting high-performance computing (HPC), artificial intelligence (AI) and data center applications.",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "pass": 3
+   },
+   {
+    "quote": "The partnership links Egis’ ARM-based Mobius100 (M100) CPU project with SiPearl, combining Taiwanese and French technology and commercial resources to advance processor development, Egis said in a statement.",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "pass": 3
+   },
+   {
+    "quote": "Egis, which started as a fingerprint sensor designer, has expanded its product portfolio through its subsidiaries into silicon intellectual property, universal chiplet interconnect express technology, advanced packaging and server CPUs.",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "pass": 3
+   },
+   {
+    "quote": "Egis’ 3-nanometer chiplet is expected to tape out in the first quarter of next year, with mass production slated for the second half of 2028, Egis chairman Steve Ro (羅森洲) told reporters on the sidelines of a signing ceremony for the SiPearl collaboration.",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Currently being manufactured at TSMC, the world’s leading advanced semiconductor factory, Rhea1 will be available for sampling in a few weeks.",
+    "url": "https://sipearl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At the heart of supercomputers and servers, Rhea1 CPUs and subsequent generations will enable us to meet the strategic scientific, industrial and societal challenges of our time.",
+    "url": "https://sipearl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "power. The company works in close cooperation with scientific community, supercomputing centres and leading names from the IT, electronics and automotive sectors – which are its stakeholders, clients and end-users.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing is entrusted to the Taiwanese TSMC, first independant semiconductor foundry.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "Sipearl has established two partnerships with two leader manufacturers:",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": ", professional industrial organisation of Ile-de-France, of",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Alliance on Processors and Semiconductor Technology",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "Idaho-based ​Micron, the world's third-largest memory chipmaker, employs about 15,000 people ​in Taiwan, a key manufacturing base where it produces DRAM and high-bandwidth memory chips used in artificial intelligence (AI) servers.",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "pass": 3
+   },
+   {
+    "quote": "Taiwan Semiconductor Manufacturing Co (TSMC, 台積電) is suspending some construction work after an accident at one of its building sites in southern Taiwan led to the deaths of four workers.",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl: Public Funding Case Study | Zaz Ventures",
+    "url": "https://www.zazventures.com/impact-report-2026/sipearl/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "By entering your email address, you agree to receive our latest news by email and have read our",
+    "url": "https://sipearl.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/438168-79",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "This €15m second round of financing is subscribed by the French State, via French Tech Souveraineté -as part of the Plan France 2030- and Arm.",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "(EIC) as part of its EIC Accelerator programme, from the French government via France 2030, and from corporate and financial investors including Arm, Bull and Cathay Venture Inc (Taiwan).",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "In December 2023, SiPearl launched its first carbon footprint assessment as part of",
+    "url": "https://sipearl.com/european-processor",
+    "pass": 1
+   },
+   {
+    "quote": "The joint statement ​did not disclose the terms of the agreement, ​saying the company and the union would separately ⁠communicate details to affected employees in the coming days.",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl designs high-performance, energy-efficient processors for Europe's exascale supercomputers and sovereign data centres. Rhea1 carries 80 Arm Neoverse V1 cores and more than 61 billion transistors, making it the most complex server CPU ever designed in Europe.",
+    "url": "https://www.zazventures.com/impact-report-2026/sipearl/",
+    "pass": 3
+   },
+   {
+    "quote": "The French State, via French Tech Souveraineté, which is part of France 2030 led by the General Secretariat for Investment (attached to the Prime-Minister’s Office).",
+    "url": "https://www.design-reuse.com/news/13905-sipearl-initial-closing-of-series-a-with-90m-financing-to-launch-rhea-the-energy-efficient-hpc-dedicated-microprocessor/",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl was created in June 2019 with the backing of the EPI consortium's project that tackles the return of high-performance and low-power microprocessor technologies in Europe. As part of the Horizon 2020 programme",
+    "url": "https://www.design-reuse.com/news/13905-sipearl-initial-closing-of-series-a-with-90m-financing-to-launch-rhea-the-energy-efficient-hpc-dedicated-microprocessor/",
+    "pass": 3
+   },
+   {
+    "quote": "Atos Group: Darrois Villey Maillot Brochier (Jean-Baptiste de Martigny)",
+    "url": "https://www.design-reuse.com/news/13905-sipearl-initial-closing-of-series-a-with-90m-financing-to-launch-rhea-the-energy-efficient-hpc-dedicated-microprocessor/",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl employs 130 people in France (Maisons-Laffitte, Grenoble, Massy, Sophia Antipolis), Germany (Duisburg) and Spain (Barcelona).",
+    "url": "https://www.design-reuse.com/news/13905-sipearl-initial-closing-of-series-a-with-90m-financing-to-launch-rhea-the-energy-efficient-hpc-dedicated-microprocessor/",
+    "pass": 3
+   },
+   {
+    "quote": "RISC-V Royalty-Driven Revenue to Exceed License Revenue by 2027",
+    "url": "https://www.design-reuse.com/news/13905-sipearl-initial-closing-of-series-a-with-90m-financing-to-launch-rhea-the-energy-efficient-hpc-dedicated-microprocessor/",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl has 200 total employees.",
+    "url": "https://pitchbook.com/profiles/company/438168-79",
+    "pass": 3
+   },
+   {
+    "quote": "What is SiPearl’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/438168-79",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SiPearl is",
+    "url": "https://pitchbook.com/profiles/company/438168-79",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "文部科学省が進める次世代計算基盤「富岳NEXT」の仕様策定において、汎用CPUと量子アクセラレータの結合強度が問われる日本の計算機アーキテクトにとっても、直接参照すべき先行事例となります",
+    "url": "https://techshift.jp/2026/10/12/post-2543/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のHPC・半導体エコシステムへの波及効果",
+    "url": "https://techshift.jp/2026/10/12/post-2543/",
+    "pass": 3
+   },
+   {
+    "quote": "欧州におけるCPUとQPUの垂直統合の動きは、日本国内の計算機アーキテクチャ戦略に対して具体的な論点を投げかけています",
+    "url": "https://techshift.jp/2026/10/12/post-2543/",
+    "pass": 3
+   },
+   {
+    "quote": "Quoblyのアプローチは、日本の半導体製造基盤にとっても示唆的です",
+    "url": "https://techshift.jp/2026/10/12/post-2543/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内には、産業技術総合研究所（産総研）や物質・材料研究機構（NIMS）、日立製作所が蓄積してきたシリコン量子ビットの先端研究が存在します",
+    "url": "https://techshift.jp/2026/10/12/post-2543/",
+    "pass": 3
+   },
+   {
+    "quote": "モルガン・スタンレー調査で満足度18%｜日本企業に問われる投資基準",
+    "url": "https://techshift.jp/2026/10/12/post-2543/",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond Europe, the Middle East and the US, the group also maintains close cooperation with customers and partners in Japan and South Korea, Chen said.",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "pass": 3
+   },
+   {
+    "quote": "Kawasaki, Japan",
+    "url": "https://pitchbook.com/profiles/company/438168-79",
+    "pass": 3
+   },
+   {
+    "quote": "4. ビジネス・インプリケーション：産業・投資・日本への示唆",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": 日本は同じ課題に、一歩先に取り組んでいます",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "あなたが日本の半導体や計算機メーカーにいるなら、次期スパコンで同じ問いが出たときの答えを、今から用意しておく必要があります",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・日本にインパクトがありそうな欧州の動きや動向、法規制にも注目",
+    "url": "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "pass": 3
+   },
+   {
+    "quote": "→日本での事業開発や起業・副業、新商品・新サービスのラウンチにも役立つ情報の配信を目指しています",
+    "url": "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "pass": 3
+   },
+   {
+    "quote": "4. ビジネス・インプリケーション：産業・投資・日本への示唆",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "pass": 3
+   },
+   {
+    "quote": ": 日本は同じ課題に、一歩先に取り組んでいます",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "pass": 3
+   },
+   {
+    "quote": "あなたが日本の半導体や計算機メーカーにいるなら、次期スパコンで同じ問いが出たときの答えを、今から用意しておく必要があります",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "pass": 3
+   },
+   {
+    "quote": "4. ビジネス・インプリケーション：産業・投資・日本への示唆",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": ": 日本は同じ課題に、一歩先に取り組んでいます",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "あなたが日本の半導体や計算機メーカーにいるなら、次期スパコンで同じ問いが出たときの答えを、今から用意しておく必要があります",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SiPearl - European CPU designer — The 1 st high-performance energy-efficient European server CPU Initiated inside the European Processor Initiative (EPI) consortium to equip European supercomputers with sovereign hardware, the Rhea1 CPU was designed by SiPearl’s R&D teams to deliver computing power and energy efficiency for high-performance computing (HPC) and AI workloads.",
+    "url": "https://sipearl.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearlとQuoblyが80コアCPU連携｜富岳NEXTへの示唆 – techshift — Oct 12, 2026 · 欧州SiPearlと仏Quoblyは2026年10月9日、80コアのArm CPU「Rhea1」と300mm FD-SOI製シリコンスピン量子プロセッサの統合検討で合意した。通信遅延を抑える密結合接続の検証を進め、EuroHPCの1億1900万ユーロ公募も見据えて、富岳NEXTのアクセラレータ結合設計に比較データを提供する。",
+    "url": "https://techshift.jp/2026/10/12/post-2543/",
+    "pass": 3
+   },
+   {
+    "quote": "News - SiPearl — Sep 24, 2026 · Latest news from SiPearl and its industry: articles, TV shows, events, awards and recognition, and much more.",
+    "url": "https://sipearl.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "Egis and SiPearl ink deal - Taipei Times — Oct 23, 2026 · Egis Technology Inc (神盾) yesterday signed a strategic partnership with French processor designer SiPearl to jointly develop central processing units (CPU), targeting high-performance computing (HPC), artificial intelligence (AI) and data center applications.The partnership links Egis’ ARM-based Mobi",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "pass": 3
+   },
+   {
+    "quote": "QuoblyとSiPearlが欧州ARM CPUとシリコンスピンQPU統合で提携 — Oct 10, 2026 · フランスのシリコンスピン量子ビット開発企業である Quobly と、欧州の高性能コンピューティング（HPC）プロセッサ設計企業である SiPearl は、SiPearlの80コアARMベースRhea1 CPUとQuoblyのシリコンQPUハードウェア間のシステムレベル統合を評価するための了解覚書（MoU）に署名しました。この技術的 ...",
+    "url": "https://quantumbusinessmagazine.com/2026/10/10/quoblyとsipearlが欧州arm-cpuとシリコンスピンqpu統合で提携/",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl - European CPU designer — SiPearl designs European hingh-performance energy-efficient CPUs for sovereign supercomputing, AI and data centre.",
+    "url": "https://sipearl.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl - LinkedIn — SiPearl is the European fabless designer of sovereign high-performance energy-efficient CPUs for supercomputers, AI and data centres. These CPUs will help address strategic challenges in the ...",
+    "url": "https://www.linkedin.com/company/sipearl",
+    "pass": 3
+   },
+   {
+    "quote": "» SiPearl、欧州のHPCおよびAIチップ産業を復活させられるか？ — SiPearlはすでに、新たなチップ設計を進めている。 Rhea2は、Rhea1で採用された大型のモノリシックダイとは対照的に、チップレットベースの設計に移行する。 SiPearlは2027年にRhea2のテープアウトを完了する予定だ。",
+    "url": "https://www.hpcwire.jp/archives/106722",
+    "pass": 3
+   },
+   {
+    "quote": "Publications - SiPearl — Sep 9, 2025 · SiPearl's publications: Here you can find some of the work off the R&D and Marketing teams: research paper, scientific poster, white paper, column in the press, etc.",
+    "url": "https://sipearl.com/publications",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl: Public Funding Case Study | Zaz Ventures — SiPearl designs high-performance, energy-efficient processors for Europe's exascale supercomputers and sovereign data centres.",
+    "url": "https://www.zazventures.com/impact-report-2026/sipearl/",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl: Initial closing of Series A with â‚¬90m financing to ... — Fabless, SiPearl outsources the manufacturing of Rhea to TSMC, the world's leading independent semiconductor manufacturer, for a commercialization in early 2024. The company employs 130 people in France (Maisons-Laffitte, its headquarters, Grenoble, Massy, Sophia Antipolis), Germany (Duisburg) and Spain (Barcelona).",
+    "url": "https://www.design-reuse.com/news/13905-sipearl-initial-closing-of-series-a-with-90m-financing-to-launch-rhea-the-energy-efficient-hpc-dedicated-microprocessor/",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl Customers - CB Insights — Explore SiPearl's customers. Etched Etched specialises in artificial intelligence (AI) hardware development, specifically in frontier inference clusters within the technology sector. The company co-designs chips, racks, software, and manufacturing methods to improve throughput, latency, cost, and power efficiency for AI models. Etched's products are targeted at se",
+    "url": "https://www.cbinsights.com/company/sipearl/customers",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl – Financials, Industry Trends & Funding Info – 2026 — With 201 employees generating $302.5K in revenue per person, the company shows strong productivity metrics. Founded 7 years ago, SiPearl is past the early startup phase.",
+    "url": "https://compworth.com/company/sipearl",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl 2026 Company Profile: Valuation, Funding & Investors ...SiPearl - 2026 Company Profile, Team, Funding & Competitors ...SiPearl — Company Profile, Funding & InvestorsSiPearl: Funding, Investors & Team (Oct 2026) | FundedIQSiPearl - Crunchbase Company Profile & FundingSiPearl — Funding, Investors & Team | Seedtable — Information on valuation, funding, cap tables, investors, and executives fo",
+    "url": "https://pitchbook.com/profiles/company/438168-79",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl - 2026 Company Profile, Team, Funding & Competitors ...SiPearl — Company Profile, Funding & InvestorsSiPearl: Funding, Investors & Team (Oct 2026) | FundedIQSiPearl - Crunchbase Company Profile & FundingSiPearl — Funding, Investors & Team | Seedtable — Feb 8, 2026 · SiPearl is a series A company based in Maisons Laffitte (France), founded in 2019. It operates as a Developer of low-power mi",
+    "url": "https://tracxn.com/d/companies/sipearl/__uFprqysOI6wmz9p3miS8UIcADEco_HuhLr3UEhsjyMg",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl — Company Profile, Funding & Investors — SiPearl company profile with $154.29M raised across 8 funding rounds, HQ in Maisons-laffitte, France, founded 2019. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/sipearl-3565210",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl: Funding, Investors & Team (Oct 2026) | FundedIQ — SiPearl is a Hardware company in Maisons-laffitte, France. Raised $119M across 2 rounds; latest a Series A in Jul 2025. Investors and funding history.",
+    "url": "https://fundediq.co/sipearl-sipearl-com-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Premier ASIC and SoC Design Partner Rebrands as Aion Silicon",
+    "url": "https://www.design-reuse.com/news/13905-sipearl-initial-closing-of-series-a-with-90m-financing-to-launch-rhea-the-energy-efficient-hpc-dedicated-microprocessor/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "France's Quobly and SiPearl explore 'co-riding' European CPUs ... Oct 12, 2026 · France's Quobly and SiPearl explore 'co-riding' European CPUs and quantum chips—a vision for an all-European supercomputer and quantum system, still in the feasibility study stage1.",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "仏スタートアップSiPearl、130百万ユーロを調達しAI向けCPU「Rhea1」... Jul 9, 2025 · 3. 仏スタートアップSiPearl、130百万ユーロを調達しAI向けCPU「Rhea1」をTSMCで生産開始 2020年 に フィリップ・ノトン 氏が設立した フランスのスタートアップSiPearl は、 AIスーパーコンピューター向けの戦略的CPU を開発する企業である。",
+    "url": "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "pass": 3
+   },
+   {
+    "quote": "仏QuoblyとSiPearl、欧州製CPUと量子チップの「相乗り」を検討——スパ... SiPearlは、欧州製の高性能CPUを設計する会社です。 SiPearlのCPU「Rhea1」と、Quoblyのシリコン量子プロセッサ（QPU）を1つのシステムとしてつなげるかを調べます。 独占ではない契約で、金額や期間は公表されていません。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "pass": 3
+   },
+   {
+    "quote": "프랑스 Quobly와 SiPearl, 유럽산 CPU와 양자 칩의 '동승' 검토——슈퍼... 프랑스 Quobly와 SiPearl, 유럽산 CPU와 양자 칩의 '동승' 검토——슈퍼컴퓨터와 양자 모두 유럽산으로 갖추려는 구상, 아직 실현 가능성 조사 단계1. Executive Summary사실: 프랑스의 양자 컴퓨터 기업 Quobly가 10월 9일 SiPearl과 양해각서 (MoU)를 체결했습니다.",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "仏QuoblyとSiPearl、欧州製CPUと量子チップの「相乗り」を検討——スパコンも量子も欧州製でそろえる構想、まだ｜QNews_channel",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "仏QuoblyとSiPearl、欧州製CPUと量子チップの「相乗り」を検討——スパコンも量子も欧州製でそろえる構想、まだ",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "仏QuoblyとSiPearl、欧州製CPUと量子チップの「相乗り」を検討——スパコンも量子も欧州製でそろえる構想、まだ実現可能性の調査段階",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": フランスの量子コンピュータ企業Quoblyが、10月9日にSiPearlと覚書（MoU）を結びました。SiPearlは、欧州製の高性能CPUを設計する会社です。SiPearlのCPU「Rhea1」と、Quoblyのシリコン量子プロセッサ（QPU）を1つのシステムとしてつなげるかを調べます。独占ではない契約で、金額や期間は公表されていません。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": 量子コンピュータは単独では使われず、スパコンの「専用の計算部品」として組み込まれる流れが強まっています。今回は、その組み合わせを「すべて欧州製」でそろえようとする動きです。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": 段階はまだ実現可能性の調査です。製品も導入先も決まっていません。読むべきは技術の到達点ではなく、欧州の「計算の主権」をめぐる部品選びです。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ量子コンピュータにCPUが必要なのか？",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピュータは、計算の一部しか得意ではありません。問題を分け、結果を受け取り、誤りを補正する処理は、普通のCPUが担います。量子と古典が速くやり取りできるほど、全体の性能が上がります。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "仏スタートアップSiPearl、130百万ユーロを調達しAI向けCPU「Rhea1」をTSMCで生産開始 - 2025年7月9日フランス・欧州経済ニュース｜横林アルベルト",
+    "url": "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "pass": 3
+   },
+   {
+    "quote": "仏スタートアップSiPearl、130百万ユーロを調達しAI向けCPU「Rhea1」をTSMCで生産開始 - 2025年7月9日フランス・欧州経済ニュース",
+    "url": "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "pass": 3
+   },
+   {
+    "quote": "本日もフランス・パリからホットなフランス・欧州の経済ニュースを配信。",
+    "url": "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "pass": 3
+   },
+   {
+    "quote": "今活況な欧州の株式市場を沸かしている企業の情報が知りたい",
+    "url": "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "pass": 3
+   },
+   {
+    "quote": "最新の仏・欧州スタートアップの情報を毎日把握したい",
+    "url": "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひフォロー、スキして頂けると励みになります（見出しと三件の記事は毎日無料で読めます）。",
+    "url": "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "pass": 3
+   },
+   {
+    "quote": "1.    家全体がバッテリーに：仏西研究チーム、革新的コンクリートを開発",
+    "url": "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "pass": 3
+   },
+   {
+    "quote": "として活用する可能性を示した。この研究は、Green Concrete LTC（仏西共同研究所）によって行われ、",
+    "url": "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "pass": 3
+   },
+   {
+    "quote": "仏QuoblyとSiPearl、欧州製CPUと量子チップの「相乗り」を検討——スパコンも量子も欧州製でそろえる構想、まだ｜QNews_channel",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "pass": 3
+   },
+   {
+    "quote": "仏QuoblyとSiPearl、欧州製CPUと量子チップの「相乗り」を検討——スパコンも量子も欧州製でそろえる構想、まだ",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "pass": 3
+   },
+   {
+    "quote": "仏QuoblyとSiPearl、欧州製CPUと量子チップの「相乗り」を検討——スパコンも量子も欧州製でそろえる構想、まだ実現可能性の調査段階",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "pass": 3
+   },
+   {
+    "quote": ": フランスの量子コンピュータ企業Quoblyが、10月9日にSiPearlと覚書（MoU）を結びました。SiPearlは、欧州製の高性能CPUを設計する会社です。SiPearlのCPU「Rhea1」と、Quoblyのシリコン量子プロセッサ（QPU）を1つのシステムとしてつなげるかを調べます。独占ではない契約で、金額や期間は公表されていません。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "pass": 3
+   },
+   {
+    "quote": ": 量子コンピュータは単独では使われず、スパコンの「専用の計算部品」として組み込まれる流れが強まっています。今回は、その組み合わせを「すべて欧州製」でそろえようとする動きです。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "pass": 3
+   },
+   {
+    "quote": ": 段階はまだ実現可能性の調査です。製品も導入先も決まっていません。読むべきは技術の到達点ではなく、欧州の「計算の主権」をめぐる部品選びです。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ量子コンピュータにCPUが必要なのか？",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピュータは、計算の一部しか得意ではありません。問題を分け、結果を受け取り、誤りを補正する処理は、普通のCPUが担います。量子と古典が速くやり取りできるほど、全体の性能が上がります。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "pass": 3
+   },
+   {
+    "quote": "仏QuoblyとSiPearl、欧州製CPUと量子チップの「相乗り」を検討——スパコンも量子も欧州製でそろえる構想、まだ｜QNews_channel",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "仏QuoblyとSiPearl、欧州製CPUと量子チップの「相乗り」を検討——スパコンも量子も欧州製でそろえる構想、まだ",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "仏QuoblyとSiPearl、欧州製CPUと量子チップの「相乗り」を検討——スパコンも量子も欧州製でそろえる構想、まだ実現可能性の調査段階",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": ": フランスの量子コンピュータ企業Quoblyが、10月9日にSiPearlと覚書（MoU）を結びました。SiPearlは、欧州製の高性能CPUを設計する会社です。SiPearlのCPU「Rhea1」と、Quoblyのシリコン量子プロセッサ（QPU）を1つのシステムとしてつなげるかを調べます。独占ではない契約で、金額や期間は公表されていません。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": ": 量子コンピュータは単独では使われず、スパコンの「専用の計算部品」として組み込まれる流れが強まっています。今回は、その組み合わせを「すべて欧州製」でそろえようとする動きです。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": ": 段階はまだ実現可能性の調査です。製品も導入先も決まっていません。読むべきは技術の到達点ではなく、欧州の「計算の主権」をめぐる部品選びです。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ量子コンピュータにCPUが必要なのか？",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "pass": 3
+   },
+   {
+    "quote": "量子コンピュータは、計算の一部しか得意ではありません。問題を分け、結果を受け取り、誤りを補正する処理は、普通のCPUが担います。量子と古典が速くやり取りできるほど、全体の性能が上がります。",
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SiPearl has used RHEA1, Europe's first fully sovereign CPU ... SiPearl has used RHEA1, Europe's first fully sovereign CPU for the first time. According to the company, the results are positive, and plans on selling the datacenter CPU later this year. One of the first locations to use it will be the Jupiter supercomputer in Germany.",
+    "url": "https://x.com/NXT4EU/status/2059744165659816197",
+    "pass": 3
+   },
+   {
+    "quote": "Andreas Schilling on X: \"The SiPearl Rhea1 is now in a 12 ... The SiPearl Rhea1 is now in a 12-week functional bring-up phase. It's using 61 billion transistors and is manufactured in N6 at TSMC. sipearl.com/rhea1",
+    "url": "https://x.com/aschilling/status/2059284726393749900",
+    "pass": 3
+   },
+   {
+    "quote": "Les Électrons Libres on X: \"Le processeur Rhea1 de SiPearl ... Le processeur Rhea1 de SiPearl : historique pour l’Europe de la tech L’Europe reprendrait-elle enfin le contrôle de son destin technologique face aux géants américains et asiatiques ? Cet espoir, longtemps perçu comme un vœu pieux, est en train de devenir une réalité tangible grâce à la deeptech f…",
+    "url": "https://x.com/lel_media/status/2063843435824452050",
+    "pass": 3
+   },
+   {
+    "quote": "EU-backed chipmaker SiPearl has raised €130 million from ... EU-backed chipmaker SiPearl has raised €130 million from investors including Taiwan’s Cathay Venture, as Europe pushes for technological sovereignty https://t.co/yaLXhTsRMk",
+    "url": "https://x.com/business/status/1942565629732463028",
+    "pass": 3
+   },
+   {
+    "quote": "@SIPEARL_SAS | X The latest posts from @SIPEARL_SAS",
+    "url": "https://x.com/SIPEARL_SAS",
+    "pass": 3
+   },
+   {
+    "quote": "JMilla on X: \"Quobly and SiPearl signed a non-exclusive ... Oct 9, 2026 · Quobly and SiPearl signed a non-exclusive agreement to explore combining silicon spin quantum processors with European CPUs to support a sovereign European quantum computing system 🇫🇷🇪🇺",
+    "url": "https://x.com/JMilla43874993/status/2108574552456344032",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SiPearl - LinkedIn SiPearl is the European fabless designer of sovereign high-performance energy-efficient CPUs for supercomputers, AI and data centres. These CPUs will help address strategic challenges in the ...",
+    "url": "https://www.linkedin.com/company/sipearl",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl | LinkedIn SiPearl is the European fabless designer of sovereign high-performance energy-efficient CPUs for supercomputers, AI and data centres. These CPUs will help address strategic challenges in the fields of security, defence, medical research, energy, climate and engineering with a reduced environmental footprint. In June 2025, SiPearl completed the design of the most complex CPU ever",
+    "url": "https://it.linkedin.com/company/sipearl",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl: Jobs | LinkedIn SiPearl | 19,463 followers on LinkedIn. The European fabless designer of sovereign high-performance energy-efficient processors for HPC, AI and data centres | SiPearl is the European fabless ...",
+    "url": "https://www.linkedin.com/company/sipearl/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "SiPearl - LinkedIn SiPearl is the European fabless designer of sovereign high-performance energy-efficient CPUs for supercomputers, AI and data centres. These CPUs will help address strategic challenges in the fields of security, defence, medical research, energy, climate and engineering with a reduced environmental footprint. In June 2025, SiPearl completed the design of the most complex CPU ever",
+    "url": "https://es.linkedin.com/company/sipearl",
+    "pass": 3
+   },
+   {
+    "quote": "Philippe Notton - SIPEARL | LinkedIn矽鉑科技股份有限公司-台灣公司網 - 台灣新聞網Philippe Notton - European Innovation CouncilPhilippe Notton - Founder and CEO @ SiPearl - CrunchbaseEntretien avec Philippe Notton, CEO de SiPearl – vBlog.io Philippe Notton is the CEO and founder of SiPearl, the French company that is designing… · Expérience : SIPEARL · Formation : ESSEC - ESSEC Business School · Lieu : Paris et périphé",
+    "url": "https://fr.linkedin.com/in/pnotton/fr",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Simon Pearl (@SIPearl) • Facebook, Connect with friends Simon Pearl is on Facebook. Join Facebook to connect with Simon Pearl and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/SIPearl/",
+    "pass": 3
+   },
+   {
+    "quote": "Si Pearl (@sipearl.pearl) • Facebook, Connect with friends Si Pearl is on Facebook. Join Facebook to connect with Si Pearl and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/sipearl.pearl/",
+    "pass": 3
+   },
+   {
+    "quote": "高柏科技 - 合作公告｜高柏科技攜手法國 SiPearl 啟動台法前瞻研發合... Apr 28, 2026 · 合作公告｜高柏科技攜手法國 SiPearl 啟動台法前瞻研發合作 面對 AI、高效能運算（HPC）與資料中心持續發展， 熱管理已成為影響系統效能、能源效率與長期可靠度的關鍵。 高柏科技宣布，其「應用於 HPC 晶片之高導熱材料與兩相液冷模組開發計畫」 已獲經濟部 A+ 企業創新研發淬鍊計畫 與法國...",
+    "url": "https://www.facebook.com/tGlobalTech/photos/-合作公告高柏科技攜手法國-sipearl-啟動台法前瞻研發合作面對-ai高效能運算hpc與資料中心持續發展熱管理已成為影響系統效能能源效率與長期可靠度的關鍵高/1531689342299507/",
+    "pass": 3
+   },
+   {
+    "quote": "#cutest eye of SIPEARL# # the eye of sipearl when she going ... #cutest eye of SIPEARL# # the eye of sipearl when she going to sleep # #fbreels# #English caption Challenge 🤣 - in Cebu City, Philippines.",
+    "url": "https://www.facebook.com/GemmasGemss/videos/cutest-eye-of-sipearl-the-eye-of-sipearl-when-she-going-to-sleep-fbreelsenglish-/1653968263015481/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sipearl.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sipearl.com/european-processor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sipearl.com/news",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://techshift.jp/2026/10/12/post-2543/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sipearl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zazventures.com/impact-report-2026/sipearl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.design-reuse.com/news/13905-sipearl-initial-closing-of-series-a-with-90m-financing-to-launch-rhea-the-energy-efficient-hpc-dedicated-microprocessor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/sipearl",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/438168-79",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sipearl/__uFprqysOI6wmz9p3miS8UIcADEco_HuhLr3UEhsjyMg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://acquirezy.com/organization/sipearl-3565210",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NXT4EU/status/2059744165659816197",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aschilling/status/2059284726393749900",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lel_media/status/2063843435824452050",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/business/status/1942565629732463028",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sipearl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/company/sipearl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sipearl/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/company/sipearl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SIPearl/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sipearl.pearl/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tGlobalTech/photos/-合作公告高柏科技攜手法國-sipearl-啟動台法前瞻研發合作面對-ai高效能運算hpc與資料中心持續發展熱管理已成為影響系統效能能源效率與長期可靠度的關鍵高/1531689342299507/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GemmasGemss/videos/cutest-eye-of-sipearl-the-eye-of-sipearl-when-she-going-to-sleep-fbreelsenglish-/1653968263015481/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/pnotton/fr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SIPEARL_SAS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JMilla43874993/status/2108574552456344032",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SiPearl 日本 導入",
+   "results": [
+    "https://sipearl.com/",
+    "https://techshift.jp/2026/10/12/post-2543/",
+    "https://sipearl.com/news",
+    "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "https://quantumbusinessmagazine.com/2026/10/10/quoblyとsipearlが欧州arm-cpuとシリコンスピンqpu統合で提携/",
+    "https://www.hpcwire.jp/archives/106722",
+    "https://semicon.today/archives/1700"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SiPearl 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://sipearl.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.j-rep.com/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SiPearl Japan",
+   "results": [
+    "https://sipearl.com/",
+    "https://sipearl.com/news",
+    "https://www.taipeitimes.com/News/biz/archives/2026/10/23/2003866447",
+    "https://www.linkedin.com/company/sipearl",
+    "https://www.hpcwire.jp/archives/106722",
+    "https://kantenna.com/topic/fujitsu-monaka-sovereign-ai-cpu-strategy",
+    "https://www.theregister.com/systems/2026/09/23/europes-fastest-supercomputer-is-finally-getting-its-domestic-silicon-infusion/5298665"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SiPearl manufacturing customer case study",
+   "results": [
+    "https://sipearl.com/publications",
+    "https://sipearl.com/",
+    "https://www.zazventures.com/impact-report-2026/sipearl/",
+    "https://www.design-reuse.com/news/13905-sipearl-initial-closing-of-series-a-with-90m-financing-to-launch-rhea-the-energy-efficient-hpc-dedicated-microprocessor/",
+    "https://www.cbinsights.com/company/sipearl/customers",
+    "https://www.gsaglobal.org/events/wp-content/uploads/sites/10/2026/01/sipearl-philippe-notton-ec2026.pdf",
+    "https://sciencebusiness.net/news/super-computers/eu-puts-its-weight-behind-home-grown-processor-its-new-eu273m-supercomputer"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SiPearl white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://sipearl.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SiPearl founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/sipearl",
+    "https://pitchbook.com/profiles/company/438168-79",
+    "https://tracxn.com/d/companies/sipearl/__uFprqysOI6wmz9p3miS8UIcADEco_HuhLr3UEhsjyMg",
+    "https://acquirezy.com/organization/sipearl-3565210",
+    "https://fundediq.co/sipearl-sipearl-com-funding/",
+    "https://www.crunchbase.com/organization/sipearl",
+    "https://seedtable.com/companies/sipearl"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com SiPearl",
+   "results": [
+    "https://note.com/qnews_channel/n/n89df11e47f05?hl=en",
+    "https://note.com/coreinsights_75/n/n62b1f7004de5",
+    "https://note.com/qnews_channel/n/n89df11e47f05",
+    "https://note.com/qnews_channel/n/n89df11e47f05?hl=ko",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/asabamiyuki",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com SiPearl",
+   "results": [
+    "https://x.com/NXT4EU/status/2059744165659816197",
+    "https://x.com/aschilling/status/2059284726393749900",
+    "https://x.com/lel_media/status/2063843435824452050",
+    "https://x.com/business/status/1942565629732463028",
+    "https://x.com/higherEUproject/status/1917893331813826566",
+    "https://x.com/Focus_Taiwan/status/2113250265935536214",
+    "https://x.com/BourseAsieFR/status/2115490429214798328"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com SiPearl",
+   "results": [
+    "https://www.linkedin.com/company/sipearl",
+    "https://it.linkedin.com/company/sipearl",
+    "https://www.linkedin.com/company/sipearl/jobs",
+    "https://es.linkedin.com/company/sipearl",
+    "https://fr.linkedin.com/in/pnotton/fr",
+    "https://www.linkedin.com/company/sipearl/life",
+    "https://www.linkedin.com/posts/sipearl_sipearl-hpc-ai-activity-7285308125232967680-86hP"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com SiPearl",
+   "results": [
+    "https://www.facebook.com/SIPearl/",
+    "https://www.facebook.com/sipearl.pearl/",
+    "https://www.facebook.com/tGlobalTech/photos/-合作公告高柏科技攜手法國-sipearl-啟動台法前瞻研發合作面對-ai高效能運算hpc與資料中心持續發展熱管理已成為影響系統效能能源效率與長期可靠度的關鍵高/1531689342299507/",
+    "https://www.facebook.com/GemmasGemss/videos/cutest-eye-of-sipearl-the-eye-of-sipearl-when-she-going-to-sleep-fbreelsenglish-/1653968263015481/",
+    "https://www.facebook.com/vipress.net/posts/sipearl-la-société-qui-conçoit-le-microprocesseur-à-forte-puissance-de-calcul-et/10157697801196573/",
+    "https://www.facebook.com/MeetStartup/posts/法國ai晶片新創公司sipearl近日宣布完成了一輪13億歐元約新台幣443億元的募資台灣國泰金控的創投部門國泰創投參與了此次投資這也是國泰首次在法國ai晶片市/771453272215101/",
+    "https://www.facebook.com/tGlobalTech/posts/-合作公告高柏科技攜手法國-sipearl-啟動台法前瞻研發合作面對-ai高效能運算hpc與資料中心持續發展熱管理已成為影響系統效能能源效率與長期可靠度的關鍵高/1531690315632743/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SiPearl note 社長",
+   "results": [
+    "https://sipearl.com/philippe-notton",
+    "https://sipearl.com/management-team",
+    "https://fr.linkedin.com/in/pnotton/fr",
+    "https://www.crunchbase.com/person/philippe-notton",
+    "https://vblog.io/entretien-avec-philippe-notton-ceo-de-sipearl/",
+    "https://www.twincn.com/item.aspx?no=62205133",
+    "https://eic.ec.europa.eu/philippe-notton_en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SiPearl X 投稿",
+   "results": [
+    "https://x.com/SIPEARL_SAS",
+    "https://sipearl.com/",
+    "https://sipearl.com/blog",
+    "https://x.com/JMilla43874993/status/2108574552456344032",
+    "https://x.com/aschilling/status/2059284726393749900",
+    "https://x.com/SASSYYPEARL",
+    "https://x.com/ainfobox"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

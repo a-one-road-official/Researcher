@@ -1,0 +1,1455 @@
+{
+ "name": "Provision",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-10T23:14:21.908767+00:00",
+ "official_url": "https://provision.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "01-Aug-2022 $920K $1.31M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/501494-14",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Provision AI | Pre-Construction Platform for General Contractors 2026",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Pre-Construction Teams",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered risk reduction platform for pre-construction",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask a question. Get a precise answer. Chat Agent reads drawings, specs, contracts, RFIs, and addenda to deliver fast, source-cited answers you can trust.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Standardize your scopes of work and scope package generation process, enable your team to understand scope, write accurate scopes of work, and find scope gaps before they cost you.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated contract analysis that flags risky clauses, missing scope, and commercial exposures with citations and standardized positions across every project.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "95% verified accuracy across real project documents",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically identify missing, unclear, or conflicting scope across drawings, specs, tables, and notes before pricing begins. Reduce claims and ensure fulsome scopes with your subcontractors.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent scope gaps that lead to change orders, margin erosion, and disputes with subcontractors during construction.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Filters to find clauses that deviate from preferred templates.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully customizable lists to suit your risk preferences.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What pre-con teams say",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Allowing us to understand better the terms and conditions of tender documentation to refine pricing, assumptions and opportunities.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provision simplifies my inquiries by allowing me to frame them into a single question, and then it performs all the document searching. It's really efficient and a great use of my time.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provision is indispensable for streamlining contract review, enhancing team collaboration, and proactively managing project risks. It's a must-have for any firm aiming to reduce disputes and improve operational efficiency.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provision's robust analysis of tender documents and its ability to upload relevant documentation during the bid process ensures a focused approach to risk management.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The way that Provision understands contracts is one of the most valuable features that we could have with this tool. It helps us minimize risk and keep all stakeholders aligned.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What general contractors unlock with Provision",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "These are actual results, pulled from published Provision case studies, not vendor projections.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saved per year across P3 projects",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The gold standard certification for ensuring that your data is protected both in transit and at rest.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Everytime you see intelligence that is applied by Provision, know that we have tested all features to ensure high quality and integrity.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From multibillion-dollar P3s to commercial complexes, we provide unmatched intelligence.",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how pre-construction teams are boosting win rates and profits with Provision",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in project value reviewed with Provision",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "About Provision | AI for Construction Pre-Construction Teams",
+    "url": "https://provision.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We think constructors should earn more for the skill they possess and the risks they take. That's why we're helping them win higher quality projects, not just more of them.",
+    "url": "https://provision.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Construction is the world’s largest industry and the backbone of modern life. Yet it still runs on manual document review, so costly mistakes slip through long before anyone catches them, and the experts trained to catch them are harder to hire every year.",
+    "url": "https://provision.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Put world-class pre-construction judgment in every builder’s hands. So the smallest contractor can bid with the confidence of the largest, and no team loses a project to a detail they never had time to find.",
+    "url": "https://provision.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "A quantity surveyor turned lifelong software engineer, Brendan has lived on both sides of the problem. He pairs first-hand knowledge of how contracts, drawings, and estimates actually get priced with the engineering depth to build the AI that reads them, and leads the technology behind every Provision product.",
+    "url": "https://provision.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The AI That Finds the Construction Work Nobody Priced",
+    "url": "https://provision.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agents Aim to Speed Preconstruction Scoping in Bid Preparation",
+    "url": "https://provision.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ENR's Jeff Rubenstone speaks with ProWest Constructors president Michael DeMarie about why full scoping is the part of bid preparation that quietly gets skipped, and how Scope Agent lets his estimators scope jobs before they bid them.",
+    "url": "https://provision.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We believe that a life worth living is doing your best work with amazing people on a problem that is important to society. If that sounds exciting to you, you will work well with us. We also spend time together exercising, playing board games, poker, Jeopardy. Come join our team.",
+    "url": "https://provision.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "See how pre-construction teams are boosting win rates and profits with Provision",
+    "url": "https://provision.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "in project value reviewed with Provision",
+    "url": "https://provision.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing | Provision — AI Pre-Construction Platform",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "One platform. Three products.",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Simple per-project pricing. Pay for projects, not seats. Start with the product that solves your biggest pre-construction headache. Chat Agent is included free with every Scope Agent or Risk Review plan.",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Chat Agent reads drawings, specs, contracts, RFIs, and addenda to deliver fast, source-cited answers you can trust.",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "95% verified accuracy across real project documents",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Reads up to 100,000 pages per project",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Protect margin across every bid",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Flag risky clauses, missing scope, and commercial exposures with citations and standardized positions across every project.",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Standardized risk positions across every project",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Need all three, or volume pricing for a larger team?",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How Provision compares",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The only all-in-one pre-construction AI. Not a point solution.",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Comparison based on publicly available information and may change as competitor products evolve.",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Why Choose Provision Over Other Tools",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "One platform. Real citations. Priced to match how you actually work.",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priced Per Project, Not Per Seat",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Provision prices by project, not by user. Add your whole team to a project without adding to the bill.",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Volume pricing available on a platform plan",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every answer traces back to the exact page, section, or clause it came from. Generic AI runs closer to 60% accuracy on construction questions; Provision runs 95–99%.",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Why Teams Trust Provision",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Add your whole team to a project without adding to the bill. Provision prices by project, not by user.",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "$100B+ in Project Value Reviewed",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-construction teams have run more than $100 billion in project value through Provision to date.",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "66,000+ Documents Processed",
+    "url": "https://provision.com/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading construction companies",
+    "url": "https://provision.com/",
+    "pass": 1
+   },
+   {
+    "quote": "EllisDon Case Study — $1.8M CAD Saved with Provision",
+    "url": "https://provision.com/case-studies/ellisdon",
+    "pass": 1
+   },
+   {
+    "quote": "Download the case study (PDF)",
+    "url": "https://provision.com/case-studies/ellisdon",
+    "pass": 1
+   },
+   {
+    "quote": "NAC Case Study — RFT Review Cut from 1 Week to Days | Provision",
+    "url": "https://provision.com/case-studies/nac",
+    "pass": 1
+   },
+   {
+    "quote": "Download the case study (PDF)",
+    "url": "https://provision.com/case-studies/nac",
+    "pass": 1
+   },
+   {
+    "quote": "North America Construction (1993) Ltd. / NAC Constructors Ltd. (NAC) is a multi-discipline, self-performing general contractor in Moriston, Ontario that works on large heavy industrial construction projects.",
+    "url": "https://provision.com/case-studies/nac",
+    "pass": 1
+   },
+   {
+    "quote": "Cleveland Construction Case Study | Provision AI",
+    "url": "https://provision.com/case-studies/cleveland-construction",
+    "pass": 1
+   },
+   {
+    "quote": "Download the case study (PDF)",
+    "url": "https://provision.com/case-studies/cleveland-construction",
+    "pass": 1
+   },
+   {
+    "quote": "Provision wasn’t a general-purpose tool. It was made for — and used by — companies like Cleveland.",
+    "url": "https://provision.com/case-studies/cleveland-construction",
+    "pass": 1
+   },
+   {
+    "quote": "ProWest Constructors Case Study | Provision AI",
+    "url": "https://provision.com/case-studies/prowest",
+    "pass": 1
+   },
+   {
+    "quote": "Download the case study (PDF)",
+    "url": "https://provision.com/case-studies/prowest",
+    "pass": 1
+   },
+   {
+    "quote": "Each and every one of our employees sincerely deals with issues for better manufacturing, and considers and implements the best support we can provide. By doing so, we will spread smiles of our customers, end-users, and all those who are involved with us throughout the world.",
+    "url": "https://yaaay.jp/companies/91/",
+    "pass": 3
+   },
+   {
+    "quote": "Fiesta Tortillas: From Tedious Binders to Real-Time Manufacturing Insight",
+    "url": "https://provision.io/resources/learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Lineage streamlines customer claims and prevents recurrence with Provision Analytics | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/provision-analytics/case-study/10c-how-a-major-distributor-streamlined-customer-claims",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Lineage streamlines customer claims and prevents recurrence with Provision Analytics",
+    "url": "https://www.casestudies.com/company/provision-analytics/case-study/10c-how-a-major-distributor-streamlined-customer-claims",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/provision-analytics/case-study/10c-how-a-major-distributor-streamlined-customer-claims",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/provision-analytics/case-study/10c-how-a-major-distributor-streamlined-customer-claims",
+    "pass": 3
+   },
+   {
+    "quote": "Fiesta Tortillas: From Tedious Binders to Real-Time Manufacturing Insight",
+    "url": "https://provision.io/resources/client-case-studies/fiesta-tortillas-real-time-manufacturing-food-safety",
+    "pass": 3
+   },
+   {
+    "quote": "Located in Austin, Texas, Fiesta Tortillas is a well-known manufacturer of tortillas, chips, and other products.",
+    "url": "https://provision.io/resources/client-case-studies/fiesta-tortillas-real-time-manufacturing-food-safety",
+    "pass": 3
+   },
+   {
+    "quote": "Non-technical operators meant that the solution Fiesta chose would have to be straightforward and easy to learn",
+    "url": "https://provision.io/resources/client-case-studies/fiesta-tortillas-real-time-manufacturing-food-safety",
+    "pass": 3
+   },
+   {
+    "quote": "Smart rules flag outlier data automatically, offering instant clarity for operators",
+    "url": "https://provision.io/resources/client-case-studies/fiesta-tortillas-real-time-manufacturing-food-safety",
+    "pass": 3
+   },
+   {
+    "quote": "・The 30% special provision can be used by sole proprietors for their 2027 and 2028 tax filings. There is no 30% special provision for corporations.",
+    "url": "https://note.com/number41/n/n63a241dc8bca?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "ENR's Jeff Rubenstone speaks with ProWest Constructors president Michael DeMarie about why full scoping is the part of bid preparation that quietly gets skipped, and how Scope Agent lets his estimators scope jobs before they bid them.",
+    "url": "https://provision.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "How Harrington Builders cut 40 hours of scope writing with Provision",
+    "url": "https://provision.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Amrize (formerly Lafarge) is increasing revenue by up to 2%, cutting tender review time by 87.5%, and reducing risk exposure company-wide — with Provision",
+    "url": "https://provision.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "EllisDon is a global construction services company with 15 offices and 4,000+ global employees. They complete over $6 billion of construction per year. Recently, they chose to improve their contract risk review process.",
+    "url": "https://provision.com/case-studies/ellisdon",
+    "pass": 1
+   },
+   {
+    "quote": "Cleveland now considers Provision a critical and expanding part of their work.",
+    "url": "https://provision.com/case-studies/cleveland-construction",
+    "pass": 1
+   },
+   {
+    "quote": "The short bidding window meant that deeper scope investigation frequently carried into the post-award phase.",
+    "url": "https://provision.com/case-studies/prowest",
+    "pass": 1
+   },
+   {
+    "quote": "“Setting up that first set of scopes is a game changer for us. On a progressive design-build, we’re carrying GMP risk, and early scope definition narrows that risk down to the truly unforeseen, which we have contingency to cover.”",
+    "url": "https://provision.com/case-studies/prowest",
+    "pass": 1
+   },
+   {
+    "quote": "Each and every one of our employees sincerely deals with issues for better manufacturing, and considers and implements the best support we can provide. By doing so, we will spread smiles of our customers, end-users, and all those who are involved with us throughout the world.",
+    "url": "https://yaaay.jp/companies/91/",
+    "pass": 3
+   },
+   {
+    "quote": "Provision Revenue 2024: $3.6M Est.",
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Provision has not published its revenue. GetLatka estimates it at about $3.6M a year (December 2024).",
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Provision CEO, founders & employees",
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Luigi La Corte founded Provision in 2022 and runs it as CEO. Provision had 24 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "What is Provision's revenue?",
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Provision's revenue at about",
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Provision have?",
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/501494-14",
+    "pass": 3
+   },
+   {
+    "quote": "Provision has 49 total employees.",
+    "url": "https://pitchbook.com/profiles/company/501494-14",
+    "pass": 3
+   },
+   {
+    "quote": "What is Provision’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/501494-14",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Provision is",
+    "url": "https://pitchbook.com/profiles/company/501494-14",
+    "pass": 3
+   },
+   {
+    "quote": "When analyzing a facility's revenue, it is desirable to check the number of users, frequency of provision, number of days of provision, and number of calculated units separately.",
+    "url": "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing national aggregate values with your own facility's service provision records will likely be an opportunity to review operational status and revenue structure.",
+    "url": "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "assets acquired on or after April 1, 2026, that are under 400,000 yen",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition cost threshold",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Until March 31, 2026: More than 500 regular employees",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "More than 400 regular employees",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "on the date of acquisition, etc.",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "the amount equivalent to the acquisition cost. You must attach a",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Statement Concerning Acquisition Costs of Minor Depreciable Assets (Schedule 16(7))",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Under 400,000 yen (for acquisitions on or after April 1, 2026)",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even though it was treated as an expense for corporate tax purposes and is not listed in the fixed asset ledger, it must be included in the declaration. This is a question that arises every January; items not in the ledger are picked up from Schedule 16(7).",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why is depreciable asset tax applied to assets expensed for corporate tax? | The \"discrepancy\" in the three small asset systems and assets not listed in the ledger",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Items included in the acquisition cost",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The determination is not always based solely on the price of the main unit. Even if items used as a set are purchased separately, if they normally function as a single unit, they are viewed as having an acquisition cost as a single unit. Incidental costs (such as installation and shipping fees) are also basically included in the acquisition cost.",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Asset name, quantity, acquisition date, and date placed in service",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition cost (whether tax-exclusive or tax-inclusive)",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, start by checking your company's capital and number of employees to see if it qualifies as a small or medium-sized enterprise.",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ProVision、「Japan DX ＆ AX Week 秋 2026」に出展",
+    "url": "https://www.pro-vision.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ProVisionとは｜株式会社ProVision",
+    "url": "https://www.pro-vision.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "\"ProVision of Quality Integration (QI) that continues to support comfortable life in Japan\"",
+    "url": "https://yaaay.jp/companies/91/",
+    "pass": 3
+   },
+   {
+    "quote": "We will continue to make \"quality\" the core of our management and strive to pass on the world-class \"Japanese quality\" to the next generation.",
+    "url": "https://yaaay.jp/companies/91/",
+    "pass": 3
+   },
+   {
+    "quote": "We are sincerely looking forward to working with you if you have a desire to sincerely address and solve our customers' problems while improving your skills as an engineer, and spread \"flowers of smiles\" all over Japan and the world!",
+    "url": "https://yaaay.jp/companies/91/",
+    "pass": 3
+   },
+   {
+    "quote": "The Compliance Officer Qualification Exam is a CBT exam with a duration of 60 minutes, and a score of 70 out of 100 is required to pass (official summary from The Life Insurance Association of Japan). The scope of the exam covers the textbook created by the association, as well as the association guidelines and related laws and regulations that can be viewed on the screen.",
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社ProVision — ProVisionは、ソフトウェアテストを軸に、システム開発、DX、事業推進・BPOを展開し、AI時代のリスクマネジメントを支援する総合ITサービス企業です。サービス情報、実績、ニュース、セミナー、採用情報、会社情報などを掲載しています。",
+    "url": "https://www.pro-vision.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ProVisionとは｜株式会社ProVision — AI時代における特有の課題を汲み取り、 オーダーメイドのDX・品質支援を全工程で実現 ProVisionでは「提案型（オーダーメイド） 」「全工程型」を掛け合わせた ソリューションを得意としています。",
+    "url": "https://www.pro-vision.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Pro.Vision JAPAN (@ProvisionJapan) / X — Oct 17, 2023 · 🎯ProVISION JAPAN選手 大会出場のお知らせ【JAPAN】🎯 SOFT DARTS PROFESSIONAL TOUR JAPAN2026 STAGE13,14 北海道に以下の選手が出場致します。 JAPAN 濱邊 祐太選手 (@sakurazerokal ） 雪が降り始めた北海道での今大会。 熱いご声援、どうぞよろしくお願いいたします！ #ProVISIONJAPAN",
+    "url": "https://x.com/ProvisionJapan",
+    "pass": 3
+   },
+   {
+    "quote": "[ProVision Inc.]Company profile | Yaaay — ・Management Objectives \"ProVision of Quality Integration (QI) that continues to support comfortable life in Japan\" In our main business of quality verification, we have been aiming at quality improvement of various products, systems, and services for more than 20 years.",
+    "url": "https://yaaay.jp/companies/91/",
+    "pass": 3
+   },
+   {
+    "quote": "メニュー｜六本木 大人のフレンチレストランProvision (プロヴィジョ... — 六本木の街にひっそりとたたずむ、大人のフレンチレストランProvision(プロヴィジョン) 。フレンチベースに旬の食材を取り入れた料理と、フランス･日本･アメリカ原産の選りすぐりのワインを、六本木の夜景とともにお楽しみいただけます。六本木駅から徒歩2分、フレンチレストラン Provision ...",
+    "url": "https://provision-tokyo.com/menu/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Provision Analytics — Real-world case studies that go inside operations, showing how Provision helps modern managers improve efficiency, readiness, culture, and insight.",
+    "url": "https://provision.io/resources/learning/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Lineage streamlines customer claims and prevents ... — Lineage partnered with Provision Analytics (Computer Software) to solve key challenges. \"How a Major Distributor Streamlined Customer Claims\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/provision-analytics/case-study/10c-how-a-major-distributor-streamlined-customer-claims",
+    "pass": 3
+   },
+   {
+    "quote": "Fiesta Tortillas: From Tedious Binders to Real ... - Provision — Fiesta Tortillas: From Tedious Binders to Real-Time Manufacturing Insight Fiesta Tortillas moved their food safety and QC programs to a digital platform after forty years of paper – now they’re saving time and stress in both everyday operations and annual audit prep.",
+    "url": "https://provision.io/resources/client-case-studies/fiesta-tortillas-real-time-manufacturing-food-safety",
+    "pass": 3
+   },
+   {
+    "quote": "Provision B2B Case Studies & Customer Successes — See how Provision solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/provision",
+    "pass": 3
+   },
+   {
+    "quote": "Provision – Growth Analysis & Alternative Companies – 2026 — Discover Provision's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/provision",
+    "pass": 3
+   },
+   {
+    "quote": "Provision - 2025 Company Profile, Team, Funding & Competitors ...How Provision hit $3.6M revenue with a 24 person team in 2024.Provision 2026 Company Profile: Valuation, Funding ...How Provision hit $3.6M revenue with a 24 person team in 2024.Provision - Overview, News & Similar companies | ZoomInfo.comProVision PLC: Revenue, Worth, Valuation & Competitors 2026 — Jul 3, 2025 · Provision is a serie",
+    "url": "https://tracxn.com/d/companies/provision/__q2iMasgzJV9_oNh63m1igbKR2_sgnOiXMb9HDt1K0LI",
+    "pass": 3
+   },
+   {
+    "quote": "How Provision hit $3.6M revenue with a 24 person team in 2024. — When was Provision founded? Provision was founded in 2022. How much revenue does Provision generate? Provision generates $3.6M in revenue. Click for revenue growth graph. How much funding does Provision have? Provision raised $0. How many employees does Provision have? Provision has 24 employees. Where is Provision headquarters?",
+    "url": "https://getlatka.com/companies/useprovision.com/team",
+    "pass": 3
+   },
+   {
+    "quote": "Provision 2026 Company Profile: Valuation, Funding ...How Provision hit $3.6M revenue with a 24 person team in 2024.Provision - Overview, News & Similar companies | ZoomInfo.comProVision PLC: Revenue, Worth, Valuation & Competitors 2026 — Information on valuation, funding, cap tables, investors, and executives for Provision. Use the PitchBook Platform to explore the full profile. Provision Valuati",
+    "url": "https://pitchbook.com/profiles/company/501494-14",
+    "pass": 3
+   },
+   {
+    "quote": "How Provision hit $3.6M revenue with a 24 person team in 2024. — Provision Valuation, Funding Rounds Explore the complete funding history and valuation milestones for this company. Below you'll find detailed information about each funding round, including investment amounts, lead investors, and key financial metrics that have shaped the company's growth trajectory.",
+    "url": "https://getlatka.com/companies/useprovision.com/funding",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/501494-14",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Number of Users and Service Provision Volume Are Different ... Number of Users and Service Provision Volume Are Different Indicators Even if the number of long-term care service recipients is the same, the volume of services provided is not necessarily the same. For example, in home-visit care, the number of units calculated varies depending on the number of visits and the time provided, while in ",
+    "url": "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Invoice 30% Special Provision Calculation Sheet (Excel ... ・A special provision that allows you to set the tax payment amount to 30% of the consumption tax amount related to sales. Corporations are not eligible. ・When you enter sales and expenses into the sheet, the estimated tax payment amounts for the 30% special provision, simplified tax system, and general tax system are displayed side-by-side",
+    "url": "https://note.com/number41/n/n63a241dc8bca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Special Provision for Minor Depreciable Assets Increased to ... The special provision for minor depreciable assets for small and medium-sized enterprises now applies to assets acquired on or after April 1, 2026, that are under 400,000 yen.",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Compliance Officer Qualification Exam (Solicitation-Related ... Nov 3, 2026 · For those who want to clarify the differences between solicitation-related acts and insurance solicitation, and between the provision of convenience and incentive compensation, through 100 multiple-choice questions. Subject 4 of the Compliance Officer Qualification Exam is an area where it is easy ...",
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "しょーや社長のProVisionは本当に最高傑作と言えるのか？ Aug 2, 2024 · そんな皆さんに朗報です。 しょーや社長という人物はご存じですか？ いろんな手法やシステムをYouTubeで発信しているバイナリートレーダーです。 私はしょーや社長のシステムを利用してきました。 先日新しいシステムが公開されました。 ProVisionです。",
+    "url": "https://note.com/89yakyuu/n/n8ccf30c9bd99",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[July 2026 Review - Table 9] Number of Units and Frequency of Use for Long-Term Care Services: How Does Provision Performance Change Based on Care Level?｜AUL DoX",
+    "url": "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[July 2026 Review - Table 9] Number of Units and Frequency of Use for Long-Term Care Services: How Does Provision Performance Change Based on Care Level?",
+    "url": "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the previous Table 8, we focused on the number of units and frequency of preventive long-term care services. This time, we will look at long-term care services for those with care levels 1 to 5.",
+    "url": "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Table 9 is titled 'Number of Long-Term Care Service Units, Frequency, Days, and Cases, by Care Level and Service Type'.",
+    "url": "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Number of Users and Service Provision Volume Are Different Indicators",
+    "url": "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even if the number of long-term care service recipients is the same, the volume of services provided is not necessarily the same.",
+    "url": "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For example, in home-visit care, the number of units calculated varies depending on the number of visits and the time provided, while in day care, it depends on the number of days used and the service content.",
+    "url": "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In facility services, the user's care level and number of days in the facility are related to the cost amount.",
+    "url": "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Invoice 30% Special Provision Estimation Sheet (Excel) | Compare 30% Special Provision, Simplified Tax System, and General Tax System Side-by-Side｜YNHT｜小さなお店の手間を仕組みに",
+    "url": "https://note.com/number41/n/n63a241dc8bca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Invoice 30% Special Provision Estimation Sheet (Excel) | Compare 30% Special Provision, Simplified Tax System, and General Tax System Side-by-Side",
+    "url": "https://note.com/number41/n/n63a241dc8bca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I create websites in Fukui. Alongside my production work, I have built several businesses of my own.",
+    "url": "https://note.com/number41/n/n63a241dc8bca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article is a sales page for an \"Invoice 30% Special Provision Estimation Sheet (Excel)\" for sole proprietors. By entering your annual sales and expenses, you can see the estimated tax payment amounts for the 30% special provision, the simplified tax system, and the general tax system (standard) side-by-side in one table.",
+    "url": "https://note.com/number41/n/n63a241dc8bca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The first half is free to read. I will write everything here about what it can and cannot do. Please read that far before deciding whether to purchase it. The information is current as of November 8, 2026.",
+    "url": "https://note.com/number41/n/n63a241dc8bca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・A \"30% special provision\" has been created for sole proprietors to use in their consumption tax filings for 2027 and 2028 (National Tax Agency).",
+    "url": "https://note.com/number41/n/n63a241dc8bca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・A special provision that allows you to set the tax payment amount to 30% of the consumption tax on sales. Corporations are not eligible.",
+    "url": "https://note.com/number41/n/n63a241dc8bca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・When you enter sales and expenses into the sheet, the estimated tax payment amounts for the 30% special provision, simplified tax system, and general tax system are displayed side-by-side.",
+    "url": "https://note.com/number41/n/n63a241dc8bca?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Special Provision for Minor Depreciable Assets Increased to Under 400,000 Yen: When It Starts, Who Can Use It, Tax-Inclusive vs. Exclusive, and Impact on Depreciable Asset Tax｜コウノトリ１７",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Special Provision for Minor Depreciable Assets Increased to Under 400,000 Yen: When It Starts, Who Can Use It, Tax-Inclusive vs. Exclusive, and Impact on Depreciable Asset Tax",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I want to buy a computer for 350,000 yen; can I expense it all at once?\"",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Until last year, I would have answered, \"Only up to under 300,000 yen.\" With the tax reform for the 2026 fiscal year, this threshold has changed. The special provision for minor depreciable assets for small and medium-sized enterprises now applies to",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "assets acquired on or after April 1, 2026, that are under 400,000 yen",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, I am often asked questions like, \"From what purchase date does this apply?\", \"Can my company use it?\", \"Is the 350,000 yen tax-inclusive or tax-exclusive?\", and \"What happens to the depreciable asset tax if I expense it all at once?\" This article organizes these points in order.",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "* This is a general summary based on information published as of November 2026 (National Tax Agency Tax Answer No. 5408, \"Overview of the 2026 Fiscal Year Tax Reform Related to Corporate Tax\"). Please check the guidelines of the municipality where the assets are located regarding the treatment of depreciable asset tax, and consult your tax accountant for individual judgments.",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Based on National Tax Agency documents, here is a list of what has changed and what has not.",
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Compliance Officer Qualification Exam (Solicitation-Related Acts, Provision of Convenience, and Member Contract Regulations)] 100 Questions for Passing in the Shortest Time (FY2026)｜最短合格ラボ",
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Compliance Officer Qualification Exam (Solicitation-Related Acts, Provision of Convenience, and Member Contract Regulations)] 100 Questions for Passing in the Shortest Time (FY2026)",
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*Last updated: November 3, 2026",
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For those who want to clarify the differences between solicitation-related acts and insurance solicitation, and between the provision of convenience and incentive compensation, through 100 multiple-choice questions.",
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Subject 4 of the Compliance Officer Qualification Exam is an area where it is easy to stumble over the distinctions between terms that sound and appear similar, such as solicitation-related acts and insurance solicitation, the provision of convenience and incentive compensation, and secondment and dispatch.",
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Target Audience and Challenges",
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The intended audience is those working at life insurance companies or insurance agencies who are studying for Subject 4 (Solicitation-Related Acts, Provision of Convenience, and Member Contract Regulations). The body of the guidelines is filled with phrasing such as \"may fall under insurance solicitation,\" \"be mindful that it may fall under,\" and \"it is necessary to,\" and I have envisioned those w",
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Confusing what insurance companies do, what insurance solicitors (agencies) do, and what contractors do. Failing to keep the perspective on secondment in mind. I will address these concerns by verifying the phrasing of the provisions one by one.",
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "しょーや社長のProVisionは本当に最高傑作と言えるのか？｜ZEROバイナリートレーダー",
+    "url": "https://note.com/89yakyuu/n/n8ccf30c9bd99",
+    "pass": 3
+   },
+   {
+    "quote": "しょーや社長のProVisionは本当に最高傑作と言えるのか？",
+    "url": "https://note.com/89yakyuu/n/n8ccf30c9bd99",
+    "pass": 3
+   },
+   {
+    "quote": "バイナリーオプションを始めるとき皆さん思うことは共通して",
+    "url": "https://note.com/89yakyuu/n/n8ccf30c9bd99",
+    "pass": 3
+   },
+   {
+    "quote": "だって皆さん稼ぎたいと思うのが一般的な考えですよね。",
+    "url": "https://note.com/89yakyuu/n/n8ccf30c9bd99",
+    "pass": 3
+   },
+   {
+    "quote": "いろんな手法やシステムをYouTubeで発信しているバイナリートレーダーです。",
+    "url": "https://note.com/89yakyuu/n/n8ccf30c9bd99",
+    "pass": 3
+   },
+   {
+    "quote": "私はしょーや社長のシステムを利用してきました。",
+    "url": "https://note.com/89yakyuu/n/n8ccf30c9bd99",
+    "pass": 3
+   },
+   {
+    "quote": "実際に使ってみましたので結果を見て見ましょう。",
+    "url": "https://note.com/89yakyuu/n/n8ccf30c9bd99",
+    "pass": 3
+   },
+   {
+    "quote": "こちらがProVisionを使った取引履歴になります。",
+    "url": "https://note.com/89yakyuu/n/n8ccf30c9bd99",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Confusing what insurance companies do, what insurance solicitors (agencies) do, and what contractors do. Failing to keep the perspective on secondment in mind. I will address these concerns by verifying the phrasing of the provisions one by one.",
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Guidelines on the Provision of Convenience and Secondment to Insurance Agencies",
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Provision - Energy for Good (@Energy_forGood) / X Provision's CarbonBetter energy plans ensure that your energy mix supports renewable energy projects and offsets carbon emissions. Use your energy for good today.",
+    "url": "https://x.com/Energy_forGood",
+    "pass": 3
+   },
+   {
+    "quote": "Provision Diagnostic Imaging (@ProvisionImagi1) / X Medical Imaging Center offering state-of-the-art diagnostic tools that provide accuracy in treatment planning for the best possible outcome.",
+    "url": "https://x.com/ProvisionImagi1",
+    "pass": 3
+   },
+   {
+    "quote": "Sol Provision (@SolProvision) / X Sol Provision @SolProvision 🎮┃ #StarCitizen and #Squadron42 Org 🎙️┃Podcast: @ BTV_Cast 👤┃CEO: @ SulyceGaming 🤝🏻┃Trading 📦┃Transport 🪐┃Exploration Community Stanton",
+    "url": "https://x.com/SolProvision",
+    "pass": 3
+   },
+   {
+    "quote": "Leading The Way on X: \"You trust God when you see His ... You trust God when you see His provision. Will you trust Him when you can’t see His plan? The next step may be unclear, but His faithfulness has not changed ...",
+    "url": "https://x.com/LeadingTheWay/status/2119399537563291862",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ProVision【公式】 (@ProVision_all) / X Mission「ITとIDEAで世界をより良くする」｜みなとみらいに本社を構えるIT企業で、ソフトウェアテストをメインに、開発・DX・プロモーションなどを展開しています！📺私たちの日々の取り組みやニュースをお伝えします！",
+    "url": "https://x.com/ProVision_all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ProVision - LinkedIn ProVision Technology, Information and Internet New York, NY 722 followers ProVision is an API-first, multi-tenant, multi-cloud, single pane of glass solution for automated network provisioning.",
+    "url": "https://www.linkedin.com/company/provision-ddi",
+    "pass": 3
+   },
+   {
+    "quote": "Provision - LinkedIn Provision | 2,585 followers on LinkedIn. Provision helps construction professionals catch missing scope and mitigate risk in their project documents. | Provision is an AI-native pre-construction ...",
+    "url": "https://www.linkedin.com/company/provision-software-co",
+    "pass": 3
+   },
+   {
+    "quote": "Provision IAM - LinkedIn Provision® IAM is a role-based identity access management (IAM) solution explicitly created with the unique needs of community banks and credit unions in mind. No other comparable system can effectively and affordably integrate your systems into an automated and centralized solution, with the built-in workflows you need to do business. Provision IAM provides both identity ",
+    "url": "https://im.linkedin.com/company/provision-iam",
+    "pass": 3
+   },
+   {
+    "quote": "ProVision | LinkedIn ProVision is the leading Value Added Distributor (VAD) of IT security solutions in Romania with over 27 years experience in the field of information security solutions. Authorized Distributor for most of the strategic cyber security vendors in the security space, ProVision offers the best place of resources for partners which will benefit from our training, consultancy and cer",
+    "url": "https://ro.linkedin.com/company/provision",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://provision.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provision.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provision.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provision.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provision.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provision.com/case-studies/ellisdon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provision.com/case-studies/nac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provision.com/case-studies/ellisdon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provision.com/case-studies/cleveland-construction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provision.com/case-studies/nac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provision.com/case-studies/prowest",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pro-vision.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pro-vision.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ProvisionJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://yaaay.jp/companies/91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provision.io/resources/learning/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/provision-analytics/case-study/10c-how-a-major-distributor-streamlined-customer-claims",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://provision.io/resources/client-case-studies/fiesta-tortillas-real-time-manufacturing-food-safety",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gep.com/knowledge-bank/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabelcomm.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/provision",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/provision/__q2iMasgzJV9_oNh63m1igbKR2_sgnOiXMb9HDt1K0LI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/useprovision.com#team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/501494-14",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/number41/n/n63a241dc8bca?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Energy_forGood",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ProvisionImagi1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SolProvision",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LeadingTheWay/status/2119399537563291862",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/provision-ddi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/provision-software-co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://im.linkedin.com/company/provision-iam",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ro.linkedin.com/company/provision",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/89yakyuu/n/n8ccf30c9bd99",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ProVision_all",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Provision 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Provision 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.kkhashi.com/blogs/detail/145/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Provision Japan",
+   "results": [
+    "https://www.pro-vision.jp/",
+    "https://www.pro-vision.jp/about/",
+    "https://x.com/ProvisionJapan",
+    "https://yaaay.jp/companies/91/",
+    "https://provision-tokyo.com/menu/",
+    "https://x.com/ProvisionJapan/status/2083348366252191895",
+    "https://www.dnb.com/business-directory/company-profiles.provision_inc.07cf5ce0e0f1b0ce00de6b9a774d9c5f.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Provision manufacturing customer case study",
+   "results": [
+    "https://provision.io/resources/learning/case-studies",
+    "https://www.casestudies.com/company/provision-analytics/case-study/10c-how-a-major-distributor-streamlined-customer-claims",
+    "https://provision.io/resources/client-case-studies/fiesta-tortillas-real-time-manufacturing-food-safety",
+    "https://www.gep.com/knowledge-bank/case-studies",
+    "https://www.casestudies.com/company/provision",
+    "https://provisionai.com/case-studies-ebooks/",
+    "https://www.featuredcustomers.com/vendor/provision/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Provision white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.whitelabelcomm.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Provision founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/provision",
+    "https://tracxn.com/d/companies/provision/__q2iMasgzJV9_oNh63m1igbKR2_sgnOiXMb9HDt1K0LI",
+    "https://getlatka.com/companies/useprovision.com/team",
+    "https://pitchbook.com/profiles/company/501494-14",
+    "https://getlatka.com/companies/useprovision.com/funding",
+    "https://www.zoominfo.com/c/provision-analytics/469152197",
+    "https://compworth.com/company/provision-plc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Provision",
+   "results": [
+    "https://note.com/chic_wren6567/n/nd092161bd1d9?hl=en",
+    "https://note.com/number41/n/n63a241dc8bca?hl=en",
+    "https://note.com/kounotori17/n/ne671335cc09d?hl=en",
+    "https://note.com/saitangoukakulab/n/n5ed175cfd7cc?hl=en",
+    "https://note.com/just_clover7870/n/n59a9b8069545?hl=en",
+    "https://note.com/ecbuppan/n/n33d3c0448f51?hl=en",
+    "https://note.com/alz_20250611/n/n95af79afaf64?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Provision",
+   "results": [
+    "https://x.com/Energy_forGood",
+    "https://x.com/ProvisionImagi1",
+    "https://x.com/SolProvision",
+    "https://x.com/LeadingTheWay/status/2119399537563291862",
+    "https://money.x.com/en/i/cashback-rewards-terms",
+    "https://help.x.com/en/rules-and-policies/digital-services-act",
+    "https://help.x.com/en/rules-and-policies/abusive-behavior"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Provision",
+   "results": [
+    "https://www.linkedin.com/company/provision-ddi",
+    "https://www.linkedin.com/company/provision-software-co",
+    "https://im.linkedin.com/company/provision-iam",
+    "https://ro.linkedin.com/company/provision",
+    "https://in.linkedin.com/company/provision-technologies-llp",
+    "https://ae.linkedin.com/company/provision-llc",
+    "https://ca.linkedin.com/in/luigi-r-la-corte"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Provision",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Provision note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/89yakyuu/n/n8ccf30c9bd99",
+    "https://note.com/89yakyuu/n/na98843923387",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Provision X 投稿",
+   "results": [
+    "https://x.provision.ai/login",
+    "https://x.com/ProVision_all",
+    "https://x.com/",
+    "https://help.x.com/ja",
+    "https://note.com/munou_ac/n/n3489f9572885",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://addness.co.jp/media/x-publishing-post/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

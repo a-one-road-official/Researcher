@@ -1,0 +1,1400 @@
+{
+ "name": "Openlayer",
+ "aliases": [],
+ "context": "旧営業リスト｜AI/ML Platforms & Tools｜AUMS不適合",
+ "researched_at": "2026-11-10T23:11:37.839773+00:00",
+ "official_url": "https://openlayer.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Medical Claim - EDI 837 Professional",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Assign project owner for accountability.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Assign and maintain project risk level.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "prod-api-gateway-2",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "prod-api-gateway-3",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production requirements",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production pipeline created (≥2 pipelines)",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At least one monitoring test configured for the production pipeline",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3/4 approvals in.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Copilots, agents, and models are going to production across every business unit. Most companies can't list them, few can test them, and almost none can prove to a regulator what any of them did last Tuesday.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "of AI agents built never make it to production due to governance and eval gaps",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "of enterprises do not have a governance model for the AI agents they are already running",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "is the average projected AI spend per US enterprise over the next 12 months",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See where your AI program stands.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Each layer delivers value on its own. Together, they turn scattered AI into systems you can govern, observe, and prove are under control.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Generates test, images, video...",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build evaluation suites and run them pre- and post-deployment against your own data.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Benchmark every change and block regressions in CI, so quality is proven rather than hoped for.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trace prompts, responses, tool calls, & more",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect AI in real time. Block prompt injection, jailbreaks, PII and PHI leakage, and off-policy outputs before they reach a user.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom guardrails & content safety",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prompt-injection & jailbreak defense",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Know and control spend, token spend by project, team, and user, hard budget caps per API key or team, usage dashboards for finance and leadership, ROI visibility that ties spend to outcomes.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Token spend by project, team, and user",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect against security flaws & vulnerabilities as they arise",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "prompt iteration cycles",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": "Jericho Security operates in the cybersecurity space, providing enterprise-grade phishing simulations and employee training. By leveraging GenAI, Jericho creates realistic email, text, and voice scenarios that strengthen employee security practices.",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": ". For example, phishing emails had to follow precise formatting rules to enable proper link validation. Failures introduced operational inefficiencies, and without visibility into LLM performance, the team could not confirm whether prompt updates improved outcomes or introduced regressions.",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": "Building internal monitoring would have taken months of engineering resources. Instead, Jericho deployed Openlayer to provide",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": "ensuring reliable outputs, faster iteration, and scalable governance without compromising velocity.",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": "With Openlayer Monitoring Mode, Jericho Security aggregates and analyzes large volumes of outputs, automatically detecting formatting or accuracy issues that could undermine phishing simulations. This prevents regressions and enforces consistency across enterprise-scale deployments.",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": "Development Mode enables Jericho’s engineers to experiment with new prompts and benchmark prompt sets to evaluate realism and believability. These capabilities reduced prompt iteration cycles by 50% and gave teams confidence that updates improved results.",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": "How a global market maker gained daily oversight across 10+ production models",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": "AI adoption is accelerating faster than organizations can govern it. Together, we help enterprises test AI before deployment, monitor it in production, enforce policies in real time, and generate the evidence required for trust and compliance.",
+    "url": "https://www.openlayer.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Launch an AI governance practice",
+    "url": "https://www.openlayer.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Differentiate your practice",
+    "url": "https://www.openlayer.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Every layer solves an immediate customer problem. Together they become the operating system for enterprise AI governance.",
+    "url": "https://www.openlayer.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "governance in practice",
+    "url": "https://www.openlayer.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Openlayer helps organizations move from AI experimentation to governed production. If your team wants to build a practice around one of the fastest-growing enterprise categories, we'd love to talk.",
+    "url": "https://www.openlayer.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "By checking the box, you agree to receive automated informational and marketing calls and texts via the phone number you provided above. Signing up is not a condition of purchase. You certify that you are at least 18 years of age.",
+    "url": "https://www.openlayer.com/request-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Speak to our enterprise team about platform capabilities, custom plans and pricing, or a demo tailored to your needs.",
+    "url": "https://www.openlayer.com/request-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "For press and other queries, get in touch via email.",
+    "url": "https://www.openlayer.com/request-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Data Processing Agreement",
+    "url": "https://www.openlayer.com/request-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "From Series-A security startups to Fortune 500 trading floors. Real systems, measured outcomes, and the receipts to prove it.",
+    "url": "https://www.openlayer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "prompt iteration cycles",
+    "url": "https://www.openlayer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How a global market maker gained daily oversight across 10+ production models",
+    "url": "https://www.openlayer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Analytics Product Management, Global Market Maker",
+    "url": "https://www.openlayer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Reduction in audit preparation lift",
+    "url": "https://www.openlayer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We believe AI has the potential to improve healthcare, accelerate scientific discovery, transform education, make transportation safer, and unlock entirely new ways of working.",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "At Openlayer, we're working toward a future where trust unlocks AI’s greatest potential. A future where organizations can build with confidence because their systems are transparent, accountable, and continuously improving.",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founded by ex-Apple Siri and Vision Pro ML engineers",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "continuously improving.",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our founders built models for Siri and Vision Pro across multiple teams, and kept rebuilding the same infrastructure to evaluate how those models performed. Because Apple is so privacy-oriented, there was no shared system for evaluation, observability, or governance, so every team solved the same problem from scratch.",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Over time we grew from pre-deployment testing into production monitoring, so engineers could test thoroughly before shipping, find gaps quickly in production, fix them, and redeploy with far faster iteration velocity. In the last couple of years, as generative and agentic AI became easier to build and more powerful, we added a third focus: governance and AUTOMATED COMPLIANCE.",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Preethi Chandrasekaran",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Designer",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sr. Enterprise Account Executive",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Product Leader & Board Director",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Openlayer is the AI governance platform that helps enterprises discover, test, monitor, govern, and optimize AI systems across their entire lifecycle, from prototype to production.",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Jericho Security case study | Openlayer",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/request-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re fortunate to be backed by venture firms and operators who have helped build companies like Vercel, Instacart, Mercury, Instagram, Thumbtack, and others. Their support lets us stay focused on the long-term challenge: helping the world build AI people can trust.",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Openlayer serves healthcare, financial services, telecommunications, automotive, cybersecurity, and other regulated industries where an AI mistake carries real financial, safety, or regulatory consequences.",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/industries/finance-banking",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by regulated leaders: Sun Life and Gallagher (insurance); Rogers, KPN, and Comcast (telecom and media).",
+    "url": "https://www.openlayer.com/industries/finance-banking",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/industries/telecom-media",
+    "pass": 1
+   },
+   {
+    "quote": "of telecom operators say AI is driving network automation",
+    "url": "https://www.openlayer.com/industries/telecom-media",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by regulated leaders: Sun Life and Gallagher (insurance); Rogers, KPN, and Comcast (telecom and media).",
+    "url": "https://www.openlayer.com/industries/telecom-media",
+    "pass": 1
+   },
+   {
+    "quote": "Openlayer is used by telecom and media organizations to govern AI across large scale, high-traffic operational environments. Specific customer references are available on request.",
+    "url": "https://www.openlayer.com/industries/telecom-media",
+    "pass": 1
+   },
+   {
+    "quote": "Adoption is accelerating quickly. NVIDIA's telecom industry research found that most surveyed operators already say AI is helping automate networks and improve results, and Google Cloud's media and entertainment research found many organizations have deployed a large number of AI agents, often faster than governance has kept pace.",
+    "url": "https://www.openlayer.com/industries/telecom-media",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading insurance and enterprise AI teams",
+    "url": "https://www.openlayer.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by insurance leaders including Sun Life and Gallagher.",
+    "url": "https://www.openlayer.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Can Openlayer govern generative AI and AI agents used by insurers?",
+    "url": "https://www.openlayer.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/industries/cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive & Transport | Openlayer",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive & Transport",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Evaluate, monitor, and govern AI across automotive and transportation operations, with performance, safety, and compliance continuously measured.",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "of automotive software professionals report repeated exposure to code vulnerabilities",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Source: Perforce State of Automotive Software Development, 2026",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing and quality",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "How does Openlayer help automotive and transportation companies?",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Openlayer governs AI used in fleet and route optimization, predictive maintenance, manufacturing quality inspection, supply chain forecasting, and customer service and warranty tools, covering both internally built models and vendor supplied AI.",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Does Openlayer support manufacturing use cases like computer vision quality checks?",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Does Openlayer support relevant automotive and transport compliance frameworks?",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Can Openlayer catch regressions before a model reaches vehicles or production lines?",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-release regression testing compares a new model version against an approved baseline, built to catch a quality drop before it reaches a vehicle, a production line, or a customer-facing tool.",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Why do automotive and transportation companies choose Openlayer?",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "They get continuous evaluation, governance, and vendor oversight in one platform, helping AI systems stay accurate, reliable, and compliant as they scale across fleets, factories, and customer touchpoints.",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Build custom maps and identify insights across real estate, engineering, research, business, exploration, construction, manufacturing - and so much more.",
+    "url": "https://github.com/openlayers/openlayers",
+    "pass": 3
+   },
+   {
+    "quote": "Raised $14.5M in Series A funding; Trusted by leading organizations in various industries; Focused on enhancing operational efficiency for AI systems",
+    "url": "https://www.extruct.ai/hub/openlayer-com/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A RAG and agentic chatbot for internal employees to ask questions about their benefits.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Observability tools show what already happened. Openlayer also tests systems before they reach production and enforces policy while they run, so governance evidence is generated continuously as part of normal operations.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Openlayer is purpose built for regulated enterprises in industries such as insurance, financial services, telecommunications, and healthcare, where a wrong AI output carries real financial, security, or regulatory consequences. The platform is SOC 2 Type II certified.",
+    "url": "https://www.openlayer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/request-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "From Series-A security startups to Fortune 500 trading floors. Real systems, measured outcomes, and the receipts to prove it.",
+    "url": "https://www.openlayer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Without Openlayer, we’d have to build our own model observability tools from scratch—saving us months of engineering time. It’s become an essential part of our model governance stack.",
+    "url": "https://www.openlayer.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Openlayer serves healthcare, financial services, telecommunications, automotive, cybersecurity, and other regulated industries where an AI mistake carries real financial, safety, or regulatory consequences.",
+    "url": "https://www.openlayer.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance reporting and the deepest governance features are part of the Enterprise plan, since most compliance requirements Openlayer addresses, such as custom regulatory mappings, are specific to enterprise and regulated customers.",
+    "url": "https://www.openlayer.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/industries/finance-banking",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/industries/telecom-media",
+    "pass": 1
+   },
+   {
+    "quote": "of telecom respondents say AI is helping increase revenue and reduce costs",
+    "url": "https://www.openlayer.com/industries/telecom-media",
+    "pass": 1
+   },
+   {
+    "quote": "Can Openlayer support large, carrier-scale deployments?",
+    "url": "https://www.openlayer.com/industries/telecom-media",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Make sure copilots retrieve from approved sources, follow internal policies, handle customer data appropriately, and give agents and employees answers they can rely on.",
+    "url": "https://www.openlayer.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/industries/cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "AI security is becoming part of every security program.",
+    "url": "https://www.openlayer.com/industries/cybersecurity",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fortune 500 AI teams",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "AI now influences routing, maintenance, production quality, inventory, warranty decisions, and customer operations.",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "ISO 26262, UNECE and NHTSA expectations, NIST AI RMF, and the EU AI Act are raising the standard for documented, ongoing evidence of AI behavior. EU AI Act penalties can reach 7% of global revenue.",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Test diagnostics, service assistants, warranty tools, and customer communications for accuracy, privacy, and successful resolution.",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Openlayer governs AI used in fleet and route optimization, predictive maintenance, manufacturing quality inspection, supply chain forecasting, and customer service and warranty tools, covering both internally built models and vendor supplied AI.",
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "pass": 1
+   },
+   {
+    "quote": "Respect, humility, and collaboration are part of how we work.",
+    "url": "https://www.openlayer.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We love Openlayers and it forms a core part of our platform.",
+    "url": "https://github.com/openlayers/openlayers",
+    "pass": 3
+   },
+   {
+    "quote": "Openlayer Funding: $14.5M | $96k - <$5M Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/openlayer-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Subscription-based revenue model with increased revenue from monitoring features and services.",
+    "url": "https://www.extruct.ai/hub/openlayer-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Openlayer Revenue 2024: $4.8M Est.",
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "pass": 3
+   },
+   {
+    "quote": "Openlayer has not published its revenue. GetLatka estimates it at about $4.8M a year (June 2024).",
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "pass": 3
+   },
+   {
+    "quote": "Openlayer CEO, founders & employees",
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "pass": 3
+   },
+   {
+    "quote": "Gabriel Bayomi Kalejaiye founded Openlayer in 2021 and runs it as CEO. Openlayer had 7 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Openlayer's revenue?",
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Openlayer's revenue at about",
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Openlayer have?",
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "across phishing email outputs",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": "Jericho Security operates in the cybersecurity space, providing enterprise-grade phishing simulations and employee training. By leveraging GenAI, Jericho creates realistic email, text, and voice scenarios that strengthen employee security practices.",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": ". For example, phishing emails had to follow precise formatting rules to enable proper link validation. Failures introduced operational inefficiencies, and without visibility into LLM performance, the team could not confirm whether prompt updates improved outcomes or introduced regressions.",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": ">95% pass rates across email phishing outputs",
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "pass": 1
+   },
+   {
+    "quote": "For press and other queries, get in touch via email.",
+    "url": "https://www.openlayer.com/request-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "across phishing email outputs",
+    "url": "https://www.openlayer.com/customers",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "東京都を指定したのに、南アフリカに飛ばされてしまいます",
+    "url": "https://qiita.com/asahina820/items/61520dcf1a36c889391b",
+    "pass": 3
+   },
+   {
+    "quote": "経度・緯度で中心座標を日本を指定できました！",
+    "url": "https://qiita.com/asahina820/items/61520dcf1a36c889391b",
+    "pass": 3
+   },
+   {
+    "quote": "OpenLayersについて-株式会社エヌ・シー・エム",
+    "url": "https://www.ncm-git.co.jp/pr/brain/experience/openlayers.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "OpenLayers - Welcome — OpenLayers - Welcome OpenLayers https://openlayers.org",
+    "url": "https://openlayers.org/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenLayers 入門 #JavaScript - Qiita — OpenLayers 入門 #JavaScript - Qiita Qiita https://qiita.com > JavaScript",
+    "url": "https://qiita.com/asahina820/items/61520dcf1a36c889391b",
+    "pass": 3
+   },
+   {
+    "quote": "OpenLayers - GitHub — OpenLayers - GitHub GitHub https://github.com > openlayers",
+    "url": "https://github.com/openlayers/openlayers",
+    "pass": 3
+   },
+   {
+    "quote": "OpenLayers - OSGeo — OpenLayers - OSGeo OSGeo https://www.osgeo.org > Projects",
+    "url": "https://www.osgeo.org/projects/openlayers/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenLayers 入門 - GIS実習オープン教材 — OpenLayers 入門 - GIS実習オープン教材 GitHub Pages documentation https://gis-oer.github.io > OpenLayers > OpenLayers",
+    "url": "https://gis-oer.github.io/gitbook/book/materials/web_gis/OpenLayers/OpenLayers.html",
+    "pass": 3
+   },
+   {
+    "quote": "OpenLayers について - 株式会社エヌ・シー・エム — OpenLayers について - 株式会社エヌ・シー・エム 株式会社エヌ・シー・エム https://www.ncm-git.co.jp > experience > openlayers",
+    "url": "https://www.ncm-git.co.jp/pr/brain/experience/openlayers.html",
+    "pass": 3
+   },
+   {
+    "quote": "OpenLayers - Wikipedia — OpenLayers - Wikipedia Wikipedia https://en.wikipedia.org > OpenLayers",
+    "url": "https://en.wikipedia.org/wiki/OpenLayers",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | Openlayer — Customers | Openlayer Openlayer https://www.openlayer.com > customers",
+    "url": "https://www.openlayer.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "We've Raised a $14.5M Series A to Build the AI Reliability ... — We've Raised a $14.5M Series A to Build the AI Reliability ... Openlayer https://www.openlayer.com > series-a",
+    "url": "https://www.openlayer.com/blog/series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Openlayer - 2026 Company Profile & Team - Tracxn — Openlayer - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/openlayer/__vJ6iqiyJC9CVZ1rBJ1xrFjvn-czOHARILdQTiAPts_s",
+    "pass": 3
+   },
+   {
+    "quote": "Openlayer Funding : $14.5M | $96k - <$5M Revenue - Extruct AI — Openlayer Funding : $14.5M | $96k - <$5M Revenue - Extruct AI Extruct AI https://www.extruct.ai > openlayer-com",
+    "url": "https://www.extruct.ai/hub/openlayer-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Openlayer Revenue 2024: $4.8M Est. - GetLatka — Openlayer Revenue 2024: $4.8M Est. - GetLatka GetLatka https://getlatka.com > openlayer",
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "pass": 3
+   },
+   {
+    "quote": "Openlayer - Valuation, Funding & Investors - PitchBook — Openlayer - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/483517-54",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Web地図開発のスタンダード： OpenLayers が選ばれる理由と ... Web地図開発のスタンダード： OpenLayers が選ばれる理由と ... note https://note.com > コンピュータ・IT > ウェブ開発",
+    "url": "https://note.com/humble_bobcat51/n/na680c9fd3b36",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Web地図開発のスタンダード：OpenLayersが選ばれる理由とその実力｜ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ",
+    "url": "https://note.com/humble_bobcat51/n/na680c9fd3b36",
+    "pass": 3
+   },
+   {
+    "quote": "Web地図開発のスタンダード：OpenLayersが選ばれる理由とその実力",
+    "url": "https://note.com/humble_bobcat51/n/na680c9fd3b36",
+    "pass": 3
+   },
+   {
+    "quote": "ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ",
+    "url": "https://note.com/humble_bobcat51/n/na680c9fd3b36",
+    "pass": 3
+   },
+   {
+    "quote": "超絶ニッチなビジネスっていうのをやってみようかと。",
+    "url": "https://note.com/humble_bobcat51/n/na680c9fd3b36",
+    "pass": 3
+   },
+   {
+    "quote": "そのうえで結構、いやかなりマップ情報というのは重要",
+    "url": "https://note.com/humble_bobcat51/n/na680c9fd3b36",
+    "pass": 3
+   },
+   {
+    "quote": "でも昔は正確な地図を有した国が栄えたらしい、戦的なやつ？",
+    "url": "https://note.com/humble_bobcat51/n/na680c9fd3b36",
+    "pass": 3
+   },
+   {
+    "quote": "今はもうスマホ開けば地図なんて簡単に見れる。",
+    "url": "https://note.com/humble_bobcat51/n/na680c9fd3b36",
+    "pass": 3
+   },
+   {
+    "quote": "だけど色々使い道がありそうだぞ、ということを未熟な人間が言う回。",
+    "url": "https://note.com/humble_bobcat51/n/na680c9fd3b36",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "OpenLayers - X OpenLayers - X X https://x.com > openlayers",
+    "url": "https://x.com/openlayers",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Openlayer - LinkedIn Openlayer - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/openlayerco",
+    "pass": 3
+   },
+   {
+    "quote": "How can you optimize OpenLayers performance? - LinkedIn How can you optimize OpenLayers performance? - LinkedIn LinkedIn https://www.linkedin.com > advice",
+    "url": "https://www.linkedin.com/advice/0/how-can-you-optimize-openlayers-performance-hyv4f",
+    "pass": 3
+   },
+   {
+    "quote": "Vikas Nair - Openlayer - LinkedIn Vikas Nair - Openlayer - LinkedIn LinkedIn https://www.linkedin.com > vikasnair",
+    "url": "https://www.linkedin.com/in/vikasnair",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Openlayers Users Group (@OpenlayersUsersGroup) Openlayers Users Group (@OpenlayersUsersGroup) Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/OpenlayersUsersGroup/",
+    "pass": 3
+   },
+   {
+    "quote": "ติดตั้ง Open Layers Plugin ไม่ได้เกิดจากสาเหตุอะไร - Facebook ติดตั้ง Open Layers Plugin ไม่ได้เกิดจากสาเหตุอะไร - Facebook Facebook https://www.facebook.com > groups > qgisthailand > posts",
+    "url": "https://www.facebook.com/groups/qgisthailand/posts/3032308910128128/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.openlayer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/customers/jericho-security-phishing-simulation-and-training-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/request-a-demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/industries/finance-banking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/industries/telecom-media",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/industries/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/industries/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/industries/cybersecurity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/industries/automotive-transport",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.openlayer.com/figma/partners/why-card-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.openlayer.com/figma/partners/why-card-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.openlayer.com/figma/partners/why-card-3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.openlayer.com/figma/partners/why-card-4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://openlayers.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/asahina820/items/61520dcf1a36c889391b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/openlayers/openlayers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osgeo.org/projects/openlayers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/column/recruitment-of-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.op-s.co.jp/service/businesspartner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaking.jp/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openlayers.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osgeo.org/projects/openlayers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/openlayers/openlayers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncm-git.co.jp/pr/brain/experience/openlayers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2213846325002251",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.openlayer.com/blog/series-a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/openlayer/__vJ6iqiyJC9CVZ1rBJ1xrFjvn-czOHARILdQTiAPts_s",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.extruct.ai/hub/openlayer-com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/openlayer.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/humble_bobcat51/n/na680c9fd3b36",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/openlayers",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/openlayerco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/advice/0/how-can-you-optimize-openlayers-performance-hyv4f",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/vikasnair",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OpenlayersUsersGroup/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/qgisthailand/posts/3032308910128128/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/openlayers",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Openlayer 日本 導入",
+   "results": [
+    "https://openlayers.org/",
+    "https://qiita.com/asahina820/items/61520dcf1a36c889391b",
+    "https://github.com/openlayers/openlayers",
+    "https://www.osgeo.org/projects/openlayers/",
+    "https://gis-oer.github.io/gitbook/book/materials/web_gis/OpenLayers/OpenLayers.html",
+    "https://developers.arcgis.com/openlayers/",
+    "https://wiki.openstreetmap.org/wiki/JA:OpenLayers",
+    "https://www.maplibre.org/maplibre-gl-js/docs/guides/openlayers-migration-guide/",
+    "https://pancake-trail.site/article/pantre-developer/16525/",
+    "https://ja.wikipedia.org/wiki/OpenLayers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Openlayer 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://onlystory.co.jp/service/column/recruitment-of-agencies/",
+    "https://www.op-s.co.jp/service/businesspartner/",
+    "https://dairitenboshu.com/",
+    "https://www.kaking.jp/agent/",
+    "https://ecnomikata.com/blog/51120/",
+    "https://www.rakus.co.jp/rakurakucloud/hanbai/column/2021/0202.php",
+    "https://b-seeds.com/",
+    "https://digital-business.exa-corp.co.jp/solutions/portal.html",
+    "https://entrenet.jp/dokuritsu/Y1300/KW040/",
+    "https://openlayers.org/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Openlayer Japan",
+   "results": [
+    "https://openlayers.org/",
+    "https://www.osgeo.org/projects/openlayers/",
+    "https://github.com/openlayers/openlayers",
+    "https://www.ncm-git.co.jp/pr/brain/experience/openlayers.html",
+    "https://en.wikipedia.org/wiki/OpenLayers",
+    "https://docs.maptiler.com/openlayers/",
+    "https://developers.arcgis.com/documentation/glossary/openlayers/",
+    "https://wiki.openstreetmap.org/wiki/OpenLayers",
+    "https://www.drupal.org/project/openlayers",
+    "https://marketplace.microsoft.com/ja-jp/product/openlayer.openlayer"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Openlayer manufacturing customer case study",
+   "results": [
+    "https://www.openlayer.com/customers",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.sciencedirect.com/science/article/pii/S2213846325002251",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vJyuUPJUBtYCRfZUEE2nf8MoV_aQcoZ6D14C2My984b-vCYqWmX",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://c3.ai/customers",
+    "https://thevirtualfoundry.com/manufacturing-using-3d-printing/",
+    "https://www.openlayer.com/",
+    "https://www.casestudies.com/company/openlayer"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Openlayer white label OR reseller OR partner program",
+   "results": [
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Openlayer founded funding employees revenue",
+   "results": [
+    "https://www.openlayer.com/blog/series-a",
+    "https://tracxn.com/d/companies/openlayer/__vJ6iqiyJC9CVZ1rBJ1xrFjvn-czOHARILdQTiAPts_s",
+    "https://www.extruct.ai/hub/openlayer-com/",
+    "https://getlatka.com/companies/openlayer.com",
+    "https://pitchbook.com/profiles/company/483517-54",
+    "https://www.linkedin.com/posts/y-combinator_openlayer-has-raised-145m-in-series-a-funding-activity-7328539612379783169-kaZM",
+    "https://www.crunchbase.com/organization/unbox-3db0",
+    "https://www.zoominfo.com/c/openlayer-inc/566147990",
+    "https://www.theblock.co/news/business/2024-11-19-former-robinhood-employees-crypto-ai-startup-openlayer-funding-327288",
+    "https://prospeo.io/c/openlayer-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Openlayer",
+   "results": [
+    "https://note.com/humble_bobcat51/n/na680c9fd3b36",
+    "https://note.com/qkuronekop/n/n233793e868da",
+    "https://note.com/qkuronekop/n/n9a33e827ae21",
+    "https://note.com/asamiakaya/n/n0817d51f8d80",
+    "https://note.com/dngri/n/n45684f7f6d66?hl=en",
+    "https://note.com/msoft/n/n890c32c4f9cf",
+    "https://note.com/agile_sage9326/n/n4c3cc66982b5",
+    "https://note.com/hafnium/n/nb07deb3a1e4f",
+    "https://note.com/asamiakaya/n/n8b5281fba26e",
+    "https://note.com/tag/webpack"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Openlayer",
+   "results": [
+    "https://x.com/openlayers",
+    "https://x.com/vec2ras/status/2089153644579144152",
+    "https://x.com/KitamotoAsanobu/status/2106008072992993766",
+    "https://x.com/spatialmounty",
+    "https://x.com/kenzkenz/status/2011243086010335377",
+    "https://x.com/sl_logue/status/1929933977533776150",
+    "https://x.com/oi21com/status/544354287162105856",
+    "https://x.com/StadiaMaps",
+    "https://x.com/SandrinasArt/status/1765071339701064042"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Openlayer",
+   "results": [
+    "https://www.linkedin.com/company/openlayerco",
+    "https://www.linkedin.com/advice/0/how-can-you-optimize-openlayers-performance-hyv4f",
+    "https://www.linkedin.com/in/vikasnair",
+    "https://www.linkedin.com/in/gbayomi",
+    "https://www.linkedin.com/in/jbonnar",
+    "https://ie.linkedin.com/jobs/gbase%20database%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E4%BA%94%E5%A4%A7%E6%A0%B8%E5%BF%83%E8%83%BD%E5%8A%9B-gbase%20database%20%E6%95%B0%E6%8D%AE%E5%BA%93-gbase%20database%20%E6%95%B0%E6%8D%AE%E5%BA%93PostGIS%E7%BB%93%E5%90%88OpenLayers%E5%AE%9E%E7%8E%B0Web%20GIS%E5%8F%AF%E8%A7%86%E5%8C%96-jobs?position=1&pageNum=0",
+    "https://www.linkedin.com/pulse/openlayers-leafletjs-performance-comparison-large-vector-ayush-raj",
+    "https://www.linkedin.com/in/jaimebanuelos",
+    "https://be.linkedin.com/jobs/gbase%20database%20%E6%95%B0%E6%8D%AE%E5%BA%93%E5%88%86%E5%B8%83%E5%BC%8F%E7%A9%BA%E9%97%B4%E5%BA%93%E8%B7%A8%E8%8A%82%E7%82%B9%E7%A9%BA%E9%97%B4%E8%81%94%E8%A1%A8%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5-gbase%20database%20%E6%95%B0%E6%8D%AE%E5%BA%93-gbase%20database%20%E6%95%B0%E6%8D%AE%E5%BA%93PostGIS%E7%BB%93%E5%90%88OpenLayers%E5%AE%9E%E7%8E%B0Web%20GIS%E5%8F%AF%E8%A7%86%E5%8C%96-jobs?position=1&pageNum=0",
+    "https://www.linkedin.com/company/openlayer"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Openlayer",
+   "results": [
+    "https://www.facebook.com/OpenlayersUsersGroup/",
+    "https://www.facebook.com/GEOC2G/posts/web-gis-architecture-explained-from-database-to-interactive-map-in-todays-datari/1744340613301616/",
+    "https://www.facebook.com/groups/mohammadburqan/posts/31021970297448292/",
+    "https://www.facebook.com/groups/qgisthailand/posts/3032308910128128/",
+    "https://www.facebook.com/CalvinKlein/posts/turn-it-up-mingyu-ignites-desire-in-90s-denim-a-flash-of-skin-in-open-layers-the/1391524422340884/",
+    "https://www.facebook.com/mikemurphyai/videos/twirl-open-layers-properties-in-after-effects/1441049736510323/",
+    "https://www.facebook.com/groups/1753325714935278/posts/4592499614351193/",
+    "https://www.facebook.com/worthingtonareacvb/posts/late-fall-shows-off-the-worthington-area-in-wide-open-layers-harvested-fields-pr/1422784800068371/",
+    "https://www.facebook.com/groups/javascript.react.node/posts/2430104320687256/",
+    "https://www.facebook.com/openlayer/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Openlayer note 社長",
+   "results": [
+    "https://github.com/openlayers/openlayers/blob/main/changelog/upgrade-notes.md",
+    "https://ja.wikipedia.org/wiki/OpenLayers",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/sadaaki",
+    "https://openlayersbook.github.io/",
+    "https://www.openupitengineer.co.jp/casestudy/10232",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://yespress.io/gabriel-kalejaiye"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Openlayer X 投稿",
+   "results": [
+    "https://openlayers.org/",
+    "https://x.com/openlayers",
+    "https://github.com/openlayers/openlayers/wiki/OpenLayers-v5.x",
+    "https://docs.maptiler.com/openlayers/examples/",
+    "https://gis.stackexchange.com/questions/325026/loading-a-gpx-file-using-openlayers-2",
+    "https://www.youtube.com/watch?v=eusybY8qAac",
+    "https://www.drupal.org/project/openlayers",
+    "https://web.pdx.edu/~bjpd/cwbase/openlayers/examples/markersTextLayer.html",
+    "https://www.openlayer.com/",
+    "https://platform.openlayer.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

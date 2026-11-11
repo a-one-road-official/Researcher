@@ -1,0 +1,1326 @@
+{
+ "name": "Povio",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AUMS不適合",
+ "researched_at": "2026-11-10T23:38:42.658825+00:00",
+ "official_url": "https://povio.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "1390 Market Street, Suite 200, San Francisco, CA 94102, US",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Product Design & Development Company | Povio",
+    "url": "https://povio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital products, designed and built with AI.",
+    "url": "https://povio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your founders focus on vision. We provide on-demand design, engineering and AI powered execution. We are the multiplier effect for VC portfolios delivering speed, quality and cost efficiency in one team.",
+    "url": "https://povio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our in-house AI coding tools help teams move faster— from idea to shipped product. Designed by engineers, built at Povio, and trusted by companies who need to move at startup speed.",
+    "url": "https://povio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find Out More about Products Built by Povio",
+    "url": "https://povio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose from a range of specialists all under one roof. Dial up and down their effort to match your needs as they evolve over time. We cover 38+ dev stacks, product design, QA, and project delivery.",
+    "url": "https://povio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The quality of their work was superb, both the designs and the code. The final product exceeded my expectations, and they delivered everything exactly on time and at the quoted price. I couldn’t have asked for a smoother process.",
+    "url": "https://povio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start a Project: Book a Free Consultation",
+    "url": "https://povio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modern cloud infrastructure must balance scalability, security, and cost control. As an AWS Partner, we help organizations design cloud-native systems, migrate workloads safely, and continuously optimize performance and spend.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Unpredictable Cloud Costs",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Rising usage, misconfigured resources, and lack of visibility can quickly inflate your cloud bill. We bring clarity and cost control through structured optimization and FinOps practices.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "From IAM misconfigurations to regulatory requirements, cloud security must be proactive. We design environments aligned with security best practices and compliance standards.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Growth spikes, traffic surges, and legacy system constraints can expose architectural weaknesses. We modernize infrastructure to improve resilience and flexibility.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Implement IAM, encryption, network segmentation, and cloud-native security principles aligned with GDPR, HIPAA, and SOC2 standards.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Identify resource waste, right-size workloads, and optimize spending without compromising performance.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly connect on-prem systems with AWS, GCP, or Azure for flexibility and operational continuity.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Automate deployment and scaling of containerized workloads using Kubernetes and modern CI/CD pipelines.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Move workloads securely with minimal disruption.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy and manage workloads using Kubernetes.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time performance insights with proactive alerts and automation.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Automate infrastructure provisioning using Terraform or CloudFormation",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Design secure environments with threat detection and zero-trust principles.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Moving to or optimizing the cloud requires coordinated planning, disciplined execution, and ongoing refinement. Our process ensures every stage supports business performance and operational stability.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We evaluate your current cloud environment, business goals, and growth projections to define a clear strategy.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We implement and configure your cloud infrastructure to ensure a solid, production-ready foundation.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We move workloads with minimal disruption and continuously refine performance and cost efficiency.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Built for Modern Cloud Platforms Proven in",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Clients continue working with Povio for long-term technical leadership and product growth.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Exceptional Net Promoter Score reflecting long-term client trust.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Case Studies | Product Design & Development Projects | Povio",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "From Idea to Product in 11 Days",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Took an idea from concept to a production-ready product in just 11 days. Focused on rapid validation, usability, and real user feedback.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "April 10, 2026",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Built an intelligent data platform to streamline complex workflows and improve decision-making. Focused on clarity, usability, and scalable architecture.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Built a high-performance fitness platform with personalized training and progress tracking. Designed for engagement, scalability, and seamless user experience.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Povio helped build Autobiographer, an AI platform that preserves memories through conversations. Using Claude AI for NLP and voice synthesis, it generates personalized PDFs. We handled architecture, backend, and AI integration, while the client focused on prompts.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Povio collaborated with C64 AI to enhance their platform with semantic search, automated content and report generation, and test case creation. Our team built a scalable AI system that improved search accuracy, streamlined workflows, and boosted productivity.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2021, Povio has supported smart home unicorn Latch through its hypergrowth and IPO, providing engineers, scrum masters, and designers across its operating system.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Knowtex, a Y Combinator Summer ‘22 company, collaborated with Povio to develop their AI-powered platform for organizing and summarizing medical knowledge. We helped build their mobile app, enabling healthcare professionals to efficiently manage research, notes, orders and insights in one place.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2017, NXP Semiconductors has partnered with Povio on software projects, like MIFARE 2GO, a platform for their credentials launched with Google and Samsung Wallet, mWallet 2GO with Mastercard MDES for Sony and Xiaomi devices, and the EdgeLock 2GO platform for managing IoT devices.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Fifty Years hired Povio to design the venture firms dashboard and consolidate its data and has since been supporting some of their portfolio companies.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Post-IPO, genome editing therapeutics company, Editas Medicine hired Povio to design and develop both their native mobile apps and React website.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Social media management platform, Facelift, has been working with Povio since 2018 to deliver a fully-integrated platform for brands to engage with their audiences on social media.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "YC-backed Finic AI, a fintech startup automating fraud and dispute investigations, entrusted Povio with implementing automated quality assurance (AQA). By implementing rigorous testing processes, we helped ensure the accuracy and reliability of their AI-powered fraud detection platform, enabling fintechs to scale fraud operations efficiently.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2016, Povio has been Flaviar's trusted partner for app design and development, working on both the spirits subscription service’s mobile app and WordPress e-commerce website.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Garten worked with Povio to develop the technology behind their corporate health and wellness service that elevates the workplace with nutritious catered meals, snacks, and wellness programs.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2021, Povio has partnered with Late Checkout, led by Greg Isenberg, to bring their web and mobile app designs to life. We’ve worked on projects for clients like Dropbox, Solesavy, and MoonPay, turning design into code.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Medinas Health hired Povio to design and develop their medical inventory management platform and marketplace for hospital equipment in 2018 and went on to raise over $5 million in venture funding.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Povio has worked with mindbodygreen, since 2017, supporting the comprehensive web property that hosts its health and wellness publication and online store selling mbg supplements, body care products, coaching programs, and fitness classes.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "To bring their resale fashion marketplace to mobile, Phia teamed up with Povio to develop their iOS app. Our team, including an iOS architect, iOS developer, project manager, and QA, built a seamless shopping experience that makes secondhand fashion more accessible.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Queue worked with Povio to develop a smart streaming companion app that helps users discover, track, and manage their watchlists across multiple platforms. With features like streaming content discovery, account syncing, AI recommendations, a Tinder-like selection interface, and social sharing, Queue makes it easier than ever to decide what to watch next.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Series A sneaker marketplace, SoleSavy partners with Late Checkout for design and Povio for development to deliver a next generation paid community for sneakerheads, leveraging React, Node, AWS, and a variety of e-commerce integrations.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "SprintRay, a Series D 3D dental printer manufacturer, has partnered with Povio to support their entire tech stack. Since 2019, we've designed their printer's UI, developed a responsive web app for dentists and technicians, and managed their e-commerce ecosystem.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Volkswagen hired us to design and develop Fleetrate, a van rental booking system for companies. Using Node, React, and UI design, we showcased our ability to deliver enterprise-grade software for one of the world’s top automotive brands.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "About Povio | From Product Builders to Trusted Partners",
+    "url": "https://povio.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Before working with clients, before building hundreds of digital experiences, we built our own app and lived the reality every startup faces, uncertainty, iteration, and the pressure to ship. That experience shaped how we work today.",
+    "url": "https://povio.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "After launching our first product, Povio moved to Silicon Valley and joined Y combinator’s Winter 2014 batch. One of 74 startups selected from more than 10,000 aplicants.",
+    "url": "https://povio.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "1 product → YC → 1,500+ products built",
+    "url": "https://povio.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Before tech, our founder Matevž Petek was competing globally as a professional snowboarder, earning four World Cup victories and a vice world champion title.",
+    "url": "https://povio.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Sport teaches resilience, discipline, and comfort with uncertainty, the same qualities required to build meaningful products.",
+    "url": "https://povio.com/about-us",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Our in-house AI coding tools help teams move faster— from idea to shipped product. Designed by engineers, built at Povio, and trusted by companies who need to move at startup speed.",
+    "url": "https://povio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2017, Povio has been supporting Series A smart building startup, ROOM and their mission to modernize workplace design with technology. Povio built ROOM's Shopify website which is used by some of the world's largest companies to furnish their offices.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "SprintRay, a Series D 3D dental printer manufacturer, has partnered with Povio to support their entire tech stack. Since 2019, we've designed their printer's UI, developed a responsive web app for dentists and technicians, and managed their e-commerce ecosystem.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Volkswagen hired us to design and develop Fleetrate, a van rental booking system for companies. Using Node, React, and UI design, we showcased our ability to deliver enterprise-grade software for one of the world’s top automotive brands.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve helped launch products used by millions of people worldwide. From early ideas to mature platforms, we focus on building things that last and evolve over time.",
+    "url": "https://povio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You’ll build real products used by startups, scaleups, and enterprises, not just prototypes that never launch.",
+    "url": "https://povio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "SnowSync Case Study | Building a Snow Logistics Platform with Povio",
+    "url": "https://povio.com/case-study/snowsync",
+    "pass": 1
+   },
+   {
+    "quote": "The Driver App ensures operators know where to go, when to go, and hot to get there.",
+    "url": "https://povio.com/case-study/snowsync",
+    "pass": 1
+   },
+   {
+    "quote": "11 Days to Build a Product | Rapid MVP Case Study by Povio",
+    "url": "https://povio.com/case-study/build-product-in-11-days",
+    "pass": 1
+   },
+   {
+    "quote": "Context64AI Case Study | Transforming Data into Intelligent Decisions",
+    "url": "https://povio.com/case-study/context64ai",
+    "pass": 1
+   },
+   {
+    "quote": "They came to us with a vision: to build a smarter way for AI agents to contextualize and act on industrial data. What started as a small integration turned into a complete rebuild — and a long-term product partnership.",
+    "url": "https://povio.com/case-study/context64ai",
+    "pass": 1
+   },
+   {
+    "quote": "Pilots deployed at top-tier German industrial firms.",
+    "url": "https://povio.com/case-study/context64ai",
+    "pass": 1
+   },
+   {
+    "quote": "Unified industrial knowledge graph extraction",
+    "url": "https://povio.com/case-study/context64ai",
+    "pass": 1
+   },
+   {
+    "quote": "C64.AI is rethinking industrial intelligence. With Data Context Hub and Memory for your AI®, they’re enabling faster, more accurate, and scalable decision-making across some of the world’s most complex industries.",
+    "url": "https://povio.com/case-study/context64ai",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Agent Builder",
+    "url": "https://povio.com/case-study/context64ai",
+    "pass": 1
+   },
+   {
+    "quote": "A low code agent workbench for industrial AI.",
+    "url": "https://povio.com/case-study/context64ai",
+    "pass": 1
+   },
+   {
+    "quote": "“Working on C64 means tackling real engineering challenges and pushing AI into demanding domains like automotive, supply networks, sustainability, and compliance. The team moves fast, solves complex problems, and constantly expands what applied AI can do.",
+    "url": "https://povio.com/case-study/context64ai",
+    "pass": 1
+   },
+   {
+    "quote": "Pump Club Case Study | Building a Scalable Fitness App with Povio",
+    "url": "https://povio.com/case-study/pump-club",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve helped launch products used by millions of people worldwide. From early ideas to mature platforms, we focus on building things that last and evolve over time.",
+    "url": "https://www.povio.com/careers",
+    "pass": 3
+   },
+   {
+    "quote": "You’ll build real products used by startups, scaleups, and enterprises, not just prototypes that never launch.",
+    "url": "https://www.povio.com/careers",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Scaling & Modernization Barriers",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2021, Povio has supported smart home unicorn Latch through its hypergrowth and IPO, providing engineers, scrum masters, and designers across its operating system.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Chipolo is a bluetooth-enabled physical tag that helps you keep track of all your stuff. Povio has been working with the team since 2020, supporting the mobile app on both Android and iOS with design and development.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Post-IPO, genome editing therapeutics company, Editas Medicine hired Povio to design and develop both their native mobile apps and React website.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Fooda, a workplace-focused food delivery service, connects local restaurants with employees seeking better lunch options. Povio built Fooda's native iOS and Android apps, along with the Ruby-based backend, in 2016 and has been part of their team ever since.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Recently acquired by Vyne Dental, Simplifeye has been working with Povio as an integrated development partner since 2018 to build and maintain their patient management and communications platform, delivering key features like payments and scheduling.",
+    "url": "https://povio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A flexible group that works as part of your workflow. Easy to scale and easy to swap roles. You get a team that doesn’t work in isolation. They collaborate with a wider expert community.",
+    "url": "https://povio.com/collaboration-models",
+    "pass": 1
+   },
+   {
+    "quote": "The idea was simple: make fitness guidance from Arnold Schwarzenegger part of people’s daily routine.Executing it at scale wasn’t.We partnered with Pump Club to turn a promising product into a dependable platform that is built to perform, evolve quickly, and keep users coming back.",
+    "url": "https://povio.com/case-study/pump-club",
+    "pass": 1
+   },
+   {
+    "quote": "We can get a working version of your product in front of you in days, not months. That means faster feedback, faster decisions, and faster revenue.",
+    "url": "https://povio.com/vibe-coding",
+    "pass": 1
+   },
+   {
+    "quote": "High-growth startups backed by leading investors like Y Combinator, as well as large, publicly-listed enterprises with complex technical requirements continue to choose Povio.",
+    "url": "https://povio.com/services/webflow",
+    "pass": 1
+   },
+   {
+    "quote": "As a Webflow agency, Povio handles full builds, redesigns and smaller updates to existing sites, plus migrations, CMS setup, custom API and AI integrations, custom JavaScript, animation, 3D design and motion graphics. SEO and AEO are part of every project, and every design is responsive across desktop, tablet, and mobile.",
+    "url": "https://povio.com/services/webflow",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. We build Webflow sites with clean code, a clear page hierarchy, internal linking, and schema markup, and treat SEO and AEO (answer engine optimization) as part of every build. Together with performance optimization.",
+    "url": "https://povio.com/services/webflow",
+    "pass": 1
+   },
+   {
+    "quote": "Over a decade of successful partnerships with startups and enterprises across industries, from seed stage to IPO.",
+    "url": "https://povio.com/expertise/ai",
+    "pass": 1
+   },
+   {
+    "quote": "Povio Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Povio",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Povio?",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Povio generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Povio have?",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Povio Revenue 2024: $15.4M Est.",
+    "url": "https://getlatka.com/companies/povio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Povio has not published its revenue. GetLatka estimates it at about $15.4M a year (June 2024).",
+    "url": "https://getlatka.com/companies/povio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Povio CEO, founders & employees",
+    "url": "https://getlatka.com/companies/povio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Matevz Petek founded Povio in 2014 and runs it as CEO. Povio had 182 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/povio.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Povio's revenue?",
+    "url": "https://getlatka.com/companies/povio.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Povio's revenue at about",
+    "url": "https://getlatka.com/companies/povio.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Povio have?",
+    "url": "https://getlatka.com/companies/povio.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/povio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/povio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/povio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/povio.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Your response has been recorded. You can expect the requested PDF in your email shortly.",
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you have questions about our roles or just want to learn more about us, we’re only an email away! Drop us a line at",
+    "url": "https://povio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The Pump transformed how fitness content is delivered — evolving from a one-way email to a two-way conversation between Arnold and millions of users. From casual fans to dedicated athletes, users now have access to motivation, science-backed workouts, and a real sense of community — right in their pocket.",
+    "url": "https://povio.com/case-study/pump-club",
+    "pass": 1
+   },
+   {
+    "quote": "Your response has been recorded. You can expect the requested PDF in your email shortly.",
+    "url": "https://povio.com/services/backend-development",
+    "pass": 1
+   },
+   {
+    "quote": "Your response has been recorded. You can expect the requested PDF in your email shortly.",
+    "url": "https://povio.com/services/mobile-apps",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline meeting coordination with AI email assistants that handle scheduling, confirmations, and availability—minimizing back-and-forth communication.",
+    "url": "https://povio.com/expertise/ai",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you have questions about our roles or just want to learn more about us, we’re only an email away! Drop us a line at",
+    "url": "https://www.povio.com/careers",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Product Design & Development Company | Povio — “When we partnered with one of the country’s largest movie ticketing companies, we had just two weeks to launch. Povio got us from idea to live in the App Store on time, with the quality and speed that startups like ours depend on.",
+    "url": "https://povio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Product Design & Development Company | Povio — Work with Povio your way - dedicated teams, extensions, or full product delivery. We design and build digital products across AI, cloud, and development.",
+    "url": "https://povio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Povio - LinkedIn — At Povio, you will get the opportunity to work on Silicon Valley projects that matter and develop cutting-edge technology.",
+    "url": "https://www.linkedin.com/company/povio",
+    "pass": 3
+   },
+   {
+    "quote": "Careers at Povio | Build Products That Matter — Join Povio and build real products used by real people. Explore open roles and work with a team that values ownership, growth, and impact.",
+    "url": "https://www.povio.com/careers",
+    "pass": 3
+   },
+   {
+    "quote": "Povio's Intro — I'm on a mission to push my creative limit as humanly possible with learning as many creative skills as possible! All the info you need to know about Povio!",
+    "url": "https://povio.carrd.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Product Design & Development Company | Povio — Designed by engineers, built at Povio, and trusted by companies who need to move at startup speed. Choose from a range of specialists all under one roof. Dial up and down their effort to match your needs as they evolve over time. We cover 38+ dev stacks, product design, QA, and project delivery.",
+    "url": "https://povio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "11 Days to Build a Product | Rapid MVP Case Study by Povio — How Povio turned an idea into a real product in just 11 days using AI-assisted development, rapid prototyping, and a focused build process.",
+    "url": "https://povio.com/case-study/build-product-in-11-days",
+    "pass": 3
+   },
+   {
+    "quote": "#povio #casestudy #projects | Povio - LinkedIn — Behind every shipped product are tradeoffs, technical decisions, product calls, roadmap changes, client conversations, and a lot of work that never fits into one screenshot. 🌟 Our case studies...",
+    "url": "https://www.linkedin.com/posts/povio_povio-casestudy-projects-activity-7484995533984620544-nWeD",
+    "pass": 3
+   },
+   {
+    "quote": "Povio Labs B2B Case Studies & Customer Successes — See how Povio Labs solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/povio-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Povio Labs Case Study: Fooda – POS Development for Workplace ... — Fooda (Food & Beverages) partnered with Povio Labs (Information Technology and Services) to solve key challenges. \"POS Development for Workplace Food Program\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/povio-labs/case-study/pos-development-for-workplace-food-program",
+    "pass": 3
+   },
+   {
+    "quote": "Povio 2026 Company Profile: Valuation, Funding & Investors ...Povio – Company Insights & Financial Strength – 2026Povio Revenue, Funding & ValuationPovio Revenue 2024: $15.4M Est. ARR (Bootstrapped)Povio - 2025 Company Profile, Team, Funding & Competitors ...Povio Labs – Financial Footprint & Growth Factors – 2026Povio - Overview, News & Similar companies | ZoomInfo.com — Information on valuation,",
+    "url": "https://pitchbook.com/profiles/company/183213-64",
+    "pass": 3
+   },
+   {
+    "quote": "Povio – Company Insights & Financial Strength – 2026 — Discover Povio's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/povio",
+    "pass": 3
+   },
+   {
+    "quote": "Povio Revenue, Funding & Valuation — Funding Data Explore Povio 's funding history, including investment rounds, total capital raised, and key backers.",
+    "url": "https://prospeo.io/c/povio-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Povio Revenue 2024: $15.4M Est. ARR (Bootstrapped) — Aug 10, 2026 · Povio 2024 estimated revenue: $15.4M ARR. Bootstrapped (no outside funding). 182 employees. Industry: Other Design Software Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/povio.com",
+    "pass": 3
+   },
+   {
+    "quote": "Povio - 2025 Company Profile, Team, Funding & Competitors ... — Povio is a seed company based in San Francisco (United States), founded in 2014 by Matevz Petek. It operates as a Software development and design company that provides custom software solutions, mobile application development, and quality assurance services to startups and enterprises.",
+    "url": "https://tracxn.com/d/companies/povio/__gNG3tkQRYFUiHeJXmuqB6RDsH_QQpKQKXq-WvoE7K4I",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Povio on X: \"One and only @Tomunderwater gave us an ... Aug 4, 2026 · Povio on X: \"One and only @Tomunderwater gave us an incredible welcome to Chicago, starting with a behind-the-scenes visit to the @wearelossdog studio. 🏆 Together with @LossdogSol, Tom showed us where ideas about money, markets, and investing are transformed into podcasts, videos, and conversations that reach audiences around th",
+    "url": "https://x.com/Povio/status/2084641627281236408",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Povio (@NickPovioJr) / Posts / X Jan 31, 2021 · Nick Povio (@NickPovioJr) - Posts - Host of “Friday with Frank & Friends”, 6-8pm Eastern Time, every Friday! Join us here or on the Live... | X (formerly Twitter)",
+    "url": "https://x.com/NickPovioJr",
+    "pass": 3
+   },
+   {
+    "quote": "Povio (@Povio178520) / Posts / X May 5, 2024 · Eo, soy povio, artista (nueva), los atardeceres son bonitos :3, hago dibujitos y cositas variadas. (próximamente videos en YouTube tal vez 👀)",
+    "url": "https://x.com/Povio178520",
+    "pass": 3
+   },
+   {
+    "quote": "Povio on X: \"FINALE DAY OF MEDIEVAL SMP THE WAR AGAINST THE ... Aug 23, 2026 · FINALE DAY OF MEDIEVAL SMP THE WAR AGAINST THE EMPIRE IS HERE! TIME TO GIVE IT OUR LAST HOORAH! twitch.tv/p0vi0",
+    "url": "https://x.com/PovioYT/status/2091601998453903450",
+    "pass": 3
+   },
+   {
+    "quote": "Povio on X: \"@AdonsAwrt \" Jul 6, 2026 · I'm that guy who is trying to make cool shit. Pushing my creative limit as humanly possible. PFP: @Avo0930 Banner: @konamarumi ...",
+    "url": "https://x.com/i/status/2074313961877418162",
+    "pass": 3
+   },
+   {
+    "quote": "Two weeks until Q3 and the to-do list is already longer than ... Two weeks until Q3 and the to-do list is already longer than expected. How many can you check off before Q3 starts? ☑️ https://t.co/yRf9u07w6U Povio@Povio",
+    "url": "https://x.com/Povio/status/2070491487733776874",
+    "pass": 3
+   },
+   {
+    "quote": "@ycombinator just published their F26 Requests for Startups. ... @ycombinator just published their F26 Requests for Startups.🚀 The theme this batch: AI moving into the physical world. Full list → https://t.co/IvxO2l53Ze Which one are you watching? 👀 Povio@Povio",
+    "url": "https://x.com/Povio/status/2080293923482669361",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Povio - LinkedIn At Povio, you will get the opportunity to work on Silicon Valley projects that matter and develop cutting-edge technology.",
+    "url": "https://www.linkedin.com/company/povio",
+    "pass": 3
+   },
+   {
+    "quote": "Stephan Povio - Experienced Quality, Operations/Manufacturing ...Borut T. - at Povio Inc. | LinkedInMatevž Petek - Povio | LinkedIn80+ \"Povio\" profiles | LinkedIn7 \"Povio\" profiles | LinkedInJason Povio - Director of Customer Development & Quality at ... View Stephan Povio’s profile on LinkedIn, a professional community of 1 billion members. Povio is a San Francisco-based design and development co",
+    "url": "https://www.linkedin.com/in/stephan-povio-270a5611",
+    "pass": 3
+   },
+   {
+    "quote": "Borut T. - at Povio Inc. | LinkedInMatevž Petek - Povio | LinkedIn80+ \"Povio\" profiles | LinkedIn7 \"Povio\" profiles | LinkedInJason Povio - Director of Customer Development & Quality at ... Povio is a San Francisco-based design and development company building digital products that create a positive impact. With over 1000 successfully delivered projects and 200+ skilled... About Matevz Petek is th",
+    "url": "https://si.linkedin.com/in/borutt",
+    "pass": 3
+   },
+   {
+    "quote": "Matevž Petek - Povio | LinkedIn80+ \"Povio\" profiles | LinkedIn7 \"Povio\" profiles | LinkedInJason Povio - Director of Customer Development & Quality at ... About Matevz Petek is the founder of Povio, a San Francisco based software development agency… View the profiles of professionals named \"Povio\" on LinkedIn. There are 80+ professionals named \"Povio\", who use LinkedIn to exchange information, ide",
+    "url": "https://www.linkedin.com/in/matevzpetek",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Povio | San Francisco CA - FacebookPovio Profiles - FacebookNick Povio - FacebookPovio Photography - FacebookPovio Plumbing LLC | Ewing NJ - FacebookDan Povio (@dpovio) • Facebook, Connect with friendsRj Povio - Facebook Oct 28, 2026 · At Povio, we help you move the work forward while you stay in charge of where the product goes. 🚀 If your roadmap needs more capacity, let’s talk about what would w",
+    "url": "https://www.facebook.com/povio/",
+    "pass": 3
+   },
+   {
+    "quote": "Povio Profiles - Facebook View the profiles of people named Povio. Join Facebook to connect with Povio and others you may know. Facebook gives people the power to share and makes...",
+    "url": "https://www.facebook.com/public/Povio/",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Povio - Facebook Nick Povio. 1,405 likes · 720 talking about this. Husband, father, grandfather. On-air host for Live365 Station: “Classic Pop Songbook”",
+    "url": "https://www.facebook.com/nick.povio.2025/",
+    "pass": 3
+   },
+   {
+    "quote": "Povio Photography - FacebookPovio Plumbing LLC | Ewing NJ - FacebookDan Povio (@dpovio) • Facebook, Connect with friendsRj Povio - Facebook Jul 30, 2026 · Hello, I’m Angelina Povio—otherwise known as Povio Photography! Although I’ve been photographing for over a decade, I earned my BFA in Photography not too long ago. I’ve worked as a yearbook studio photographer, a photography instructional assis",
+    "url": "https://www.facebook.com/poviophotography/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://povio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/expertise/cloud-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/built-by-povio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/collaboration-models",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/case-study/snowsync",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/case-study/build-product-in-11-days",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/case-study/context64ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/case-study/pump-club",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/services/frontend-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/services/backend-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/vibe-coding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/services/mobile-apps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/services/webflow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/services/design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/services/devops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/services/quality-assurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povio.com/expertise/ai",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/68e8b84e3eb715e2ff174ce5/69e8bbdf13c537ecd9da4f19_Snippet-02.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/68e8b84e3eb715e2ff174ce5/69e8b114bfcb4164df984a1c_UI-Highlights-M4AI-02.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/68e8b84e3eb715e2ff174ce5/69e8b114aba2e8c69e2448dc_UI-Highlights-DCH-03.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/68e8b84e3eb715e2ff174ce5/69e0c5a978bf460ceb1fbbe7_Snippet-04.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/Povo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/mobile/articles/2610/28/news075.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://k-tai.watch.impress.co.jp/docs/interview/2048954.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Povo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://povo.jp/en/news/newsrelease/20260319_03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsroom.kddi.com/english/news/detail/kddi_nr-640_4003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/povio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.povio.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/povio_povio-casestudy-projects-activity-7484995533984620544-nWeD",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/povio-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/183213-64",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/povio",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/povio-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/povio.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Povio/status/2084641627281236408",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NickPovioJr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Povio178520",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PovioYT/status/2091601998453903450",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/povio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/stephan-povio-270a5611",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://si.linkedin.com/in/borutt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/matevzpetek",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/povio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/public/Povio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nick.povio.2025/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/poviophotography/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Povio178520",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/status/2074313961877418162",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Povio/status/2070491487733776874",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Povio/status/2080293923482669361",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Povio 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Povo",
+    "https://povio.com/",
+    "https://www.itmedia.co.jp/mobile/articles/2610/28/news075.html",
+    "https://k-tai.watch.impress.co.jp/docs/interview/2048954.html",
+    "https://prtimes.jp/main/html/rd/p/000000001.000169521.html",
+    "https://www.jreast.co.jp/press/2025/20251210_ho01.pdf",
+    "https://honichi.com/news/2026/04/30/ocean-povo/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Povio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Povo",
+    "https://povio.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Povio Japan",
+   "results": [
+    "https://povo.jp/en/news/newsrelease/20260319_03/",
+    "https://newsroom.kddi.com/english/news/detail/kddi_nr-640_4003.html",
+    "https://www.linkedin.com/company/povio",
+    "https://www.povio.com/careers",
+    "https://povio.carrd.co/",
+    "https://povio.com/",
+    "https://pov.io/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Povio manufacturing customer case study",
+   "results": [
+    "https://povio.com/",
+    "https://povio.com/case-study/build-product-in-11-days",
+    "https://www.linkedin.com/posts/povio_povio-casestudy-projects-activity-7484995533984620544-nWeD",
+    "https://www.casestudies.com/company/povio-labs",
+    "https://www.casestudies.com/company/povio-labs/case-study/pos-development-for-workplace-food-program",
+    "https://www.c64.ai/hub/media-releases/povio-case-study/",
+    "https://yespress.io/povio"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Povio white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.spectrum.com/",
+    "https://skyswitch.com/",
+    "https://www.20i.com/us/reseller-hosting"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Povio founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/183213-64",
+    "https://compworth.com/company/povio",
+    "https://prospeo.io/c/povio-revenue",
+    "https://getlatka.com/companies/povio.com",
+    "https://tracxn.com/d/companies/povio/__gNG3tkQRYFUiHeJXmuqB6RDsH_QQpKQKXq-WvoE7K4I",
+    "https://compworth.com/company/povio-labs",
+    "https://www.zoominfo.com/c/povio-inc/562613198"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Povio",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/nice_pony7618/n/ne7ca5e10ec57",
+    "https://note.com/shibusawa_tribox/n/n8e6c120cb7b9",
+    "https://note.com/vast_flax7410/n/n4a496e6aff3d",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/ikedanob/n/nf9fd1f265432"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Povio",
+   "results": [
+    "https://x.com/Povio/status/2084641627281236408",
+    "https://x.com/NickPovioJr",
+    "https://x.com/Povio178520",
+    "https://x.com/PovioYT/status/2091601998453903450",
+    "https://x.com/PovioYT/status/2074880655024939402",
+    "https://x.com/i/broadcasts/1AxRnnanPPPxl",
+    "https://x.com/i/broadcasts/1qKDzzMBMgaJV"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Povio",
+   "results": [
+    "https://www.linkedin.com/company/povio",
+    "https://www.linkedin.com/in/stephan-povio-270a5611",
+    "https://si.linkedin.com/in/borutt",
+    "https://www.linkedin.com/in/matevzpetek",
+    "https://www.linkedin.com/pub/dir/+/Povio",
+    "https://www.linkedin.com/pub/dir/+/Povio/us-84-San-Francisco-Bay-Area",
+    "https://www.linkedin.com/in/jason-povio"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Povio",
+   "results": [
+    "https://www.facebook.com/povio/",
+    "https://www.facebook.com/public/Povio/",
+    "https://www.facebook.com/nick.povio.2025/",
+    "https://www.facebook.com/poviophotography/",
+    "https://www.facebook.com/povio.plumbing/",
+    "https://www.facebook.com/dpovio/",
+    "https://www.facebook.com/rj.povio/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Povio note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://povio.com/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Povio X 投稿",
+   "results": [
+    "https://x.com/Povio178520",
+    "https://x.com/i/status/2074313961877418162",
+    "https://x.com/Povio/status/2070491487733776874",
+    "https://x.com/Povio/status/2080293923482669361",
+    "https://x.com/povo_official/status/2119630847808770182",
+    "https://x-sou.com/ja",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）"
+ }
+}

@@ -1,0 +1,1340 @@
+{
+ "name": "Nearfield Instruments",
+ "aliases": [],
+ "context": "旧営業リスト｜Metrology / Inspection｜AUMS不適合",
+ "researched_at": "2026-11-10T23:08:50.315212+00:00",
+ "official_url": "https://www.nearfieldinstruments.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2016年",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "オランダ、ロッテルダム",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Automated High-Throughput 3D Scanning Probe Metrology",
+    "url": "https://www.nearfieldinstruments.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NFI delivers daringly innovative metrology solutions to process control challenges in the high-end nano-electronics industry",
+    "url": "https://www.nearfieldinstruments.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Investor Note – Process control is power control. From critical dimensions to critical watts.",
+    "url": "https://www.nearfieldinstruments.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nearfield Instruments is a semiconductor metrology equipment company developing and delivering ground-breaking process control metrology solutions for the worldwide advanced semiconductor I.C. manufacturing industry. Nearfield Instruments B.V. was founded in January 2016 as a spin-off of TNO.",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Since Roland van Vliet and Hamed Sadeghian founded Nearfield Instruments, the company strives to accommodate these trends in a technologically and economically viable way by developing and offering daringly innovative solutions to process control challenges in the premium nano-electronics industry.",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "MT/Sprout Challenger50",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Nearfield Instruments selected as one of the 50 most challenging, innovative and fast-growing companies of the Netherlands by MT/Sprout",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Nearfield Instruments, as only Dutch SME, selected as Direct Partner in multi-million Euro Important Project of Common European Interest (IPCEI) Microelectronics/Communication Technology",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "April 1, 2021",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Nearfield Instruments B.V. announced the first shipment of QUADRA, the first-generation High-Throughput Scanning Probe Metrology system for 5 nm nodes and beyond.",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "April 1st, 2019",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Start participation Nearfield Instruments in European innovation consortium project MADEin4",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Move to Rotterdam office & production hall",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "World's first fully independent multiple parallel Scanning Probe Microscope realized",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "TNO Nano-OptoMechatronic Instrumentation group, led by Hamed Sadeghian, start concept development on High-Throughput Scanning Probe Microscopy",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Products & Services - Nearfield Instruments",
+    "url": "https://www.nearfieldinstruments.com/products-and-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Nearfield Instruments brings together the most creative minds in science and technology to develop a revolutionary high throughput 3D Scanning Probe Metrology system, enabling atom-scale resolution 3D metrology at unrivaled throughput. We design, develop, integrate, market and service these advanced metrology machines.",
+    "url": "https://www.nearfieldinstruments.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Those most creative minds in science and technology come from everywhere. Representing over 20 different cultures makes Nearfield Instruments a richly international, fun and diverse work environment where respect for the individual is key. Our people bring variety in their backgrounds, point of view and ideas. We encourage everyone to be their original, authentic and best selves.",
+    "url": "https://www.nearfieldinstruments.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Nearfield Instruments (NFI), the leading semiconductor scanning probe metrology equipment scale-up, today announced that it has raised €17.5 million as part of its Series B funding round. Dutch impact investor",
+    "url": "https://www.nearfieldinstruments.com/portfolio/nearfield-instruments-receives-e17-5-million-investment-from-invest-nl-and-innovation-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Nearfield Instruments is a semiconductor metrology equipment company developing and delivering ground-breaking process control metrology solutions for the worldwide advanced semiconductor I.C. manufacturing industry.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Since Roland van Vliet and Hamed Sadeghian founded Nearfield Instruments, the company strives to accommodate these trends in a technologically and economically viable way by developing and offering daringly innovative solutions to process control challenges in the premium nano-electronics industry.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Handheld XRF: Limitations and Best Practices",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Industry expert Nate Newbury explains how technique, sample preparation, and mode choice can improve handheld XRF testing reliability.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "How Modern ICP-MS Improves Laboratory Workflows",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Modern ICP-MS technology improves robustness, sensitivity, interference removal, automation, and overall laboratory productivity.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "FPV Pro Flash Point Analyzer for Accurate Liquid and Solid Testing",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "The Grabner FPV Pro flash point analyzer uses electric arc ignition and pressure detection to deliver accurate liquid and solid measurements.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Automatic Hydraulic Presses for Laboratory Applications",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "The Carver Auto Series Plus offers automatic hydraulic pressing with 15 to 48-ton capacities, touchscreen controls and programmable processing sequences.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "NexPoint Materials to Consolidate Burkville Polycarbonate Production at Mount Vernon",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Improving Solid-State Battery Safety and Performance Through Advanced Transfer Printing",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Flare system design, informed by API 521, is crucial for safety and emissions control in oil and gas, addressing pressure relief and operational efficiency.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "How to Evaluate the Mechanical Properties of Low K Dielectric Films",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Why Stainless Steel is Preferred for Medical Cabinets",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Improving Semiconductor Manufacturing with Analytical Solutions",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "To start a conversation, please log into your AZoProfile account first, or create a new account.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Content provided on any AZoNetwork sites are subject to the site",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Please check the box above to proceed.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Azthena may occasionally provide inaccurate responses.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "While we only use edited and approved content for Azthena",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "answers, it may on occasions provide incorrect responses.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Please confirm any data provided with the related suppliers or",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "authors. We do not provide medical advice, if you search for",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "professional before acting on any information provided.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Walden Catalyst Ventures is proud to continue supporting Nearfield alongside a distinguished group of global investors, including Fidelity Management & Research Company, Temasek, Qatar Investment Authority, Innovation Industries, M&G, Invest-NL, TNO Ventures, and ING.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "This milestone reflects more than the growth of a single company. It highlights a broader shift underway across the semiconductor industry as AI drives unprecedented demand for computing performance and increasingly complex chip architectures.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "As AI workloads continue to scale, every layer of the technology stack faces increasing demands for performance, efficiency, and reliability. Semiconductors, photonics, networking, distributed computing, and advanced manufacturing technologies will all play a critical role in determining how quickly AI can continue to advance.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "For decades, semiconductor progress was driven primarily by advances in design, lithography, and manufacturing. Today, as the industry transitions to Gate-All-Around (GAA) transistors, High-NA EUV lithography, advanced 3D packaging, and future CFET architectures, a new challenge has emerged: understanding and controlling structures at the atomic and nanometer scale.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "The ability to manufacture increasingly sophisticated devices depends not only on creating these structures, but also on accurately measuring, inspecting, and controlling them throughout the production process.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield has established itself as a leader in this critical category. Its advanced metrology solutions help semiconductor manufacturers improve yield, accelerate process development, and enable the reliable production of the world's most advanced chips.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "As device architectures become increasingly complex, the importance of process control continues to grow. The companies that can provide the precision, reliability, and scalability required by advanced semiconductor manufacturing will play a critical role in enabling the future of computing.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "We were initially drawn to Nearfield because of the strength of its technical vision, the uniqueness of its approach to advanced metrology, and the growing strategic importance of process control in semiconductor manufacturing.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Over time, the company has consistently demonstrated exceptional execution, strong customer engagement, and the ability to solve some of the industry's most challenging technical problems.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Just as importantly, the company is addressing a challenge that is becoming increasingly important to the entire semiconductor ecosystem: how to continue scaling performance as manufacturing complexity reaches unprecedented levels.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Artificial intelligence is accelerating demand for more advanced semiconductors, more powerful computing systems, and more sophisticated manufacturing processes. As the industry enters this new phase, advanced metrology and inspection will become increasingly important enablers of innovation.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "With this financing, Nearfield is well positioned to accelerate product development, expand global operations, deepen collaboration with leading semiconductor manufacturers, and continue advancing the technologies that will help define the future of computing.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Investing Between the Improbable and the Impossible - Interview with Bruce Leak",
+    "url": "https://www.youtube.com/watch?v=TFDKqaitiyM",
+    "pass": 3
+   },
+   {
+    "quote": "In this new episode of The Next Wave, Young Sohn engages in an insightful discussion with Hamed Sadeghian, President and CEO of Nearfield Instruments, the industry leader in Metrology & Inspection (M&I) solutions for semiconductor manufacturing. As the semiconductor industry continues to push the boundaries of chip manufacturing, the need for advanced metrology tools beco",
+    "url": "https://www.youtube.com/watch?v=TFDKqaitiyM",
+    "pass": 3
+   },
+   {
+    "quote": "The semiconductor industry continues to push towards smaller nodes, more complex 3D structures and higher production yields. This creates increasing demand for highly advanced metrology solutions capable of combining extremely high accuracy with high throughput in semiconductor fab environments.",
+    "url": "https://newayselectronics.com/cases/scaling-semiconductor-metrology-with-nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "To support this challenge, Nearfield Instruments developed QUADRA, an automated in-line 3D scanning probe metrology solution designed for high volume semiconductor manufacturing. The complexity of the system requires advanced electronics, precise control systems and scalable industrialization capabilities.",
+    "url": "https://newayselectronics.com/cases/scaling-semiconductor-metrology-with-nearfield-instruments/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Nearfield Instruments is a semiconductor metrology equipment company developing and delivering ground-breaking process control metrology solutions for the worldwide advanced semiconductor I.C. manufacturing industry. Nearfield Instruments B.V. was founded in January 2016 as a spin-off of TNO.",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "QUADRA has been deployed for in-line high volume manufacturing for leading edge applications ranging from high-aspect ratio memory structures, (high-NA) EUV lithography to advanced packaging",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.manufacturing-quality.com/quality-news/nearfield-instruments-non-destructive-subsurface-metrology/",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments is a semiconductor metrology equipment company developing and delivering ground-breaking process control metrology solutions for the worldwide advanced semiconductor I.C. manufacturing industry.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Material Manufacturer",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments’ QUADRA® In-Line Semiconductor Metrology System Features New ‘Lightning Mode™’; System Fully Validated for High-volume Manufacturing",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "New Energy Storage Consortium Integrates Super Intelligence into Battery Manufacturing",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Improving Semiconductor Manufacturing with Analytical Solutions",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "As AI workloads continue to scale, every layer of the technology stack faces increasing demands for performance, efficiency, and reliability. Semiconductors, photonics, networking, distributed computing, and advanced manufacturing technologies will all play a critical role in determining how quickly AI can continue to advance.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "For decades, semiconductor progress was driven primarily by advances in design, lithography, and manufacturing. Today, as the industry transitions to Gate-All-Around (GAA) transistors, High-NA EUV lithography, advanced 3D packaging, and future CFET architectures, a new challenge has emerged: understanding and controlling structures at the atomic and nanometer scale.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield has established itself as a leader in this critical category. Its advanced metrology solutions help semiconductor manufacturers improve yield, accelerate process development, and enable the reliable production of the world's most advanced chips.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "As device architectures become increasingly complex, the importance of process control continues to grow. The companies that can provide the precision, reliability, and scalability required by advanced semiconductor manufacturing will play a critical role in enabling the future of computing.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "We were initially drawn to Nearfield because of the strength of its technical vision, the uniqueness of its approach to advanced metrology, and the growing strategic importance of process control in semiconductor manufacturing.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Under the leadership of Co-Founder and CEO Hamed Sadeghian, Nearfield has evolved from an ambitious deep-tech startup into a global technology company serving many of the world's leading semiconductor manufacturers.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Just as importantly, the company is addressing a challenge that is becoming increasingly important to the entire semiconductor ecosystem: how to continue scaling performance as manufacturing complexity reaches unprecedented levels.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Artificial intelligence is accelerating demand for more advanced semiconductors, more powerful computing systems, and more sophisticated manufacturing processes. As the industry enters this new phase, advanced metrology and inspection will become increasingly important enablers of innovation.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "With this financing, Nearfield is well positioned to accelerate product development, expand global operations, deepen collaboration with leading semiconductor manufacturers, and continue advancing the technologies that will help define the future of computing.",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments: Pushing the boundaries of chip manufacturing - YouTube",
+    "url": "https://www.youtube.com/watch?v=TFDKqaitiyM",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments: Pushing the boundaries of chip manufacturing",
+    "url": "https://www.youtube.com/watch?v=TFDKqaitiyM",
+    "pass": 3
+   },
+   {
+    "quote": "In this new episode of The Next Wave, Young Sohn engages in an insightful discussion with Hamed Sadeghian, President and CEO of Nearfield Instruments, the industry leader in Metrology & Inspection (M&I) solutions for semiconductor manufacturing. As the semiconductor industry continues to push the boundaries of chip manufacturing, the need for advanced metrology tools beco",
+    "url": "https://www.youtube.com/watch?v=TFDKqaitiyM",
+    "pass": 3
+   },
+   {
+    "quote": "To support this challenge, Nearfield Instruments developed QUADRA, an automated in-line 3D scanning probe metrology solution designed for high volume semiconductor manufacturing. The complexity of the system requires advanced electronics, precise control systems and scalable industrialization capabilities.",
+    "url": "https://newayselectronics.com/cases/scaling-semiconductor-metrology-with-nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "Neways supports this with expertise in power, data and control systems, supplying electronics ranging from overall machine controls to critical electronic components for the sensor systems at the core of the machine. Beyond production, Neways also contributes engineering and industrialization expertise to support the ramp up towards larger scale system deployment.",
+    "url": "https://newayselectronics.com/cases/scaling-semiconductor-metrology-with-nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "The strategic partnership further strengthened a collaboration that started in 2024 and has since supported the successful rollout of QUADRA systems to leading semiconductor manufacturers worldwide.",
+    "url": "https://newayselectronics.com/cases/scaling-semiconductor-metrology-with-nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "By combining Nearfield Instruments’ breakthrough metrology technology with Neways’ expertise in mission critical electronics and industrialization, the partnership supports scalable production, faster industrialization and continued innovation in advanced semiconductor manufacturing.",
+    "url": "https://newayselectronics.com/cases/scaling-semiconductor-metrology-with-nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "From engineering design, to prototype, manufacturing and beyond, Neways is your trusted ecosystem partner that scale and enable your complex technology solutions.",
+    "url": "https://newayselectronics.com/cases/scaling-semiconductor-metrology-with-nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "Neways supplies a wide range of electronics to QUADRA, ranging from electronic units for the overall controls of the QUADRA system, to critical electronic parts for the sensors that manage the probes in the heart of the machine. Beyond production, Neways engineers bring expertise in key technology domains around power, data, and control systems, as well as experienced support in industrialization.",
+    "url": "https://newayselectronics.com/neways-signs-strategic-partnership-agreement-with-nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "Hans Buthker, CEO of Neways, comments: “We are very proud to partner with Nearfield Instruments as their supplier of essential electronics for a revolutionary technology in semiconductor manufacturing. Every day, we put forward the combination of our deep technological expertise and our decades-long experience in serving the semicon sector, to make this partnership a great success.”",
+    "url": "https://newayselectronics.com/neways-signs-strategic-partnership-agreement-with-nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "As part of a multi-year collaboration, Nearfield Instruments will deploy its flagship system, QUADRA, at Imec’s advanced R&D facility in Leuven. The two organizations will jointly develop next-generation metrology solutions to address critical challenges across the semiconductor manufacturing value chain,",
+    "url": "https://siliconsemiconductor.net/article/122993/Nearfield_Instruments_signs_multi-year_development_project",
+    "pass": 3
+   },
+   {
+    "quote": "“Partnering with Imec allows us to push the boundaries of what is possible in semiconductor manufacturing process control,” said Dr. Hamed Sadeghian, CEO of Nearfield Instruments.",
+    "url": "https://siliconsemiconductor.net/article/122993/Nearfield_Instruments_signs_multi-year_development_project",
+    "pass": 3
+   },
+   {
+    "quote": "This collaboration marks a significant step forward in bridging cutting-edge metrology innovation with advanced semiconductor process development. By combining Nearfield Instruments’ proven technology with Imec’s visionary research programs, the partnership aims to deliver impactful solutions that will shape the future of chip manufacturing.",
+    "url": "https://siliconsemiconductor.net/article/122993/Nearfield_Instruments_signs_multi-year_development_project",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Micro sees semiconductor revenue surge as AI drives manufacturing demand",
+    "url": "https://siliconsemiconductor.net/article/122993/Nearfield_Instruments_signs_multi-year_development_project",
+    "pass": 3
+   },
+   {
+    "quote": "Critical Manufacturing partners with UST",
+    "url": "https://siliconsemiconductor.net/article/122993/Nearfield_Instruments_signs_multi-year_development_project",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/187979-23",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments develops state-of-the-art metrology and inspection solutions for the semiconductor manufacturing industry. The company focuses on high-throughput scanning probe metrology systems for advanced integrated circuits process control. On May 22, 2023, it completed a Series B - III funding round with investors including Innovation Industries and Invest-NL.",
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "Test Research Inc designs testing equipment for industrial applications. The firm focuses on designing, assembling, manufacturing, sales, repairing, and maintaining automated inspection and testing equipment. The firm receives a majority of its revenue from Asia and the rest from America, Europe, and other regions.",
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "Beijing Aerospace Shenzhou Intelligent Equipment Technology Co Ltd formerly Beijing Ctrowell Technology Corp Ltd is engaged in manufacturing railway vehicle safety detection technology.",
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "Bouffalo Lab is a Shanghai-based fabless semiconductor designer delivering RISC-V microcontroller IP and SoCs for IoT edge devices. The company ships BL602 and BL808 chips with Wi-Fi 6, BLE, and AI accelerators, used in smart home appliances by clients like Seeed Studio. Founded in 2018, it supports open-source tools for rapid prototyping in consumer electronics and industrial sensors.",
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "Morse Micro is a Sydney-based semiconductor company developing Wi-Fi HaLow chips for IoT connectivity. Its MM6108-EKB and MM6108-256M modules enable long-range, low-power links up to 1 km with 10 Mbps throughput in sub-1 GHz spectrum. Deployed in smart cities, agriculture, and industrial sensors, the technology partners with Telstra and Nordic Semiconductor for gateway solutions.",
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "Jiangsu HHCK Advanced Materials Co Ltd is engaged in the research and development, and industrialization of semiconductor packaging materials.",
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "After 5 years of amazing work, and after our efforts were crowned by shipping the first Quadra, Nearfield Instruments B.V. celebrated its 5th anniversary since the foundation in 2016.",
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Nearfield Instruments (NFI), the leading semiconductor scanning probe metrology equipment scale-up, today announced that it has raised €17.5 million as part of its Series B funding round. Dutch impact investor",
+    "url": "https://www.nearfieldinstruments.com/portfolio/nearfield-instruments-receives-e17-5-million-investment-from-invest-nl-and-innovation-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Nearfield Instruments is uniquely positioned and has the ambition to grow into a world-leading semiconductor metrology equipment supplier. Nearfield Instruments cooperates closely with the excellently developed high-tech ecosystem in the Netherlands. The company operates from Rotterdam (head office) and Eindhoven (High Tech Campus). Currently, it employs 103 employees.",
+    "url": "https://www.nearfieldinstruments.com/portfolio/nearfield-instruments-receives-e17-5-million-investment-from-invest-nl-and-innovation-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a multi-year collaboration, Nearfield Instruments will deploy its flagship system, QUADRA, at Imec’s advanced R&D facility in Leuven. The two organizations will jointly develop next-generation metrology solutions to address critical challenges across the semiconductor manufacturing value chain,",
+    "url": "https://siliconsemiconductor.net/article/122993/Nearfield_Instruments_signs_multi-year_development_project",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Micro sees semiconductor revenue surge as AI drives manufacturing demand",
+    "url": "https://siliconsemiconductor.net/article/122993/Nearfield_Instruments_signs_multi-year_development_project",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/187979-23",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/187979-23",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments has 450 total employees.",
+    "url": "https://pitchbook.com/profiles/company/187979-23",
+    "pass": 3
+   },
+   {
+    "quote": "What is Nearfield Instruments’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/187979-23",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Nearfield Instruments is",
+    "url": "https://pitchbook.com/profiles/company/187979-23",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments competitors include listed companies like Oxford Instruments, Test Research, Sensirion and Anritsu, and private ones like SmartMore Corporation Limited and proteanTecs.",
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "Is Nearfield Instruments publicly listed?",
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "Test Research Inc designs testing equipment for industrial applications. The firm focuses on designing, assembling, manufacturing, sales, repairing, and maintaining automated inspection and testing equipment. The firm receives a majority of its revenue from Asia and the rest from America, Europe, and other regions.",
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "シナリオA（確率40%）：独立上場路線",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   },
+   {
+    "quote": "2028〜2029年にNASDAQまたはAMSに上場",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ：NFIが上場した際の評価モデルの基準線になるからだ",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "【株式会社Tourlane】パーソナライズされた旅行体験を提供する革新企業",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Tourlaneは、ドイツ発のスタートアップで、パーソナライズされた旅行プランニングサービスを提供",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Matcha Frontier｜抹茶をグローバルブランド化するMATCHAMONの挑戦",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アトム｜双腕二足ヒューマノイドAIロボットで日本のGDPを変える挑戦",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "May Mobility｜トヨタ・NTTが注力する自動運転シャトル開発企業、独自AIと日本展開の全貌",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "【Atomo Coffee】ついに日本上陸！「豆を使わないコーヒー」で持続可能な社会に貢献",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "【mgh株式会社】本田圭佑氏ら創業チームが挑む次世代スポーツウェアブランド",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "【ICEYE Japan株式会社】世界最大級の小型SAR衛星データで切り拓く地球観測革命",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "学校・自治体に広がる“傾聴AI”とは？株式会社ZIAIが実現する新たな心の居場所",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社AIセキュリティソリューションズ】「QuickCheck」でセキュリティチェックシートを自動化",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社パンフォーユー】パンのサブスクとは？独自技術とITでパン屋をDXするスタートアップ！",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "海外で日本人が創業したスタートアップ４選",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、TYPICA Holdings株式会社の詳しい事業内容や将来展望を紹介しています",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "🏢 日本の半導体産業への示唆：ラピダスは計測で勝負できるか",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   },
+   {
+    "quote": "に達し、「地味な計測特化で独占を作れば日本でも4兆円企業が生まれる」という証拠だ",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省が計測技術をChips Act的支援の対象に含めるかどうかが、今後の日本の先端半導体戦略の試金石になる",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   },
+   {
+    "quote": "Lasertecの投資家向けIR資料は日本語で公開されており、計測企業の収益モデルが詳細に記載されている",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【 Nearfield Instruments 】革新的な半導体の非破壊検査 — 【 Nearfield Instruments 】革新的な半導体の非破壊検査 New Venture Voice https://www.nvv.genai.co.jp > 海外スタートアップ",
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "ニアフィールド・インストゥルメンツ ( Nearfield Instruments ) — ニアフィールド・インストゥルメンツ ( Nearfield Instruments ) GlobeNewswire https://www.globenewswire.com > 2025/11/19 > ニアフィ...",
+    "url": "https://www.globenewswire.com/news-release/2025/11/19/3190897/0/ja/%E3%83%8B%E3%82%A2%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A5%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84-nearfield-instruments-%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%88%E6%B8%AC%E6%8A%80%E8%A1%93%E6%8E%A8%E9%80%B2%E3%81%AE%E3%81%9F%E3%82%81%E8%A4%87%E6%95%B0%E5%B9%B4%E3%81%AB%E3%82%8F%E3%81%9F%E3%82%8B%E9%96%8B%E7%99%BA%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92%E7%B7%A0%E7%B5%90.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments : Home — Nearfield Instruments : Home Nearfield Instruments https://www.nearfieldinstruments.com",
+    "url": "https://www.nearfieldinstruments.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments receives Purchase Orders from Major ... — Nearfield Instruments receives Purchase Orders from Major ... Nearfield Instruments https://www.nearfieldinstruments.com > ...",
+    "url": "https://www.nearfieldinstruments.com/portfolio/nearfield-usa-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments : Quotes, Address, Contact - AZoM — Nearfield Instruments : Quotes, Address, Contact - AZoM AZoM https://www.azom.com > suppliers",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments B．V． — Nearfield Instruments B．V． info.gbiz.go.jp https://info.gbiz.go.jp > hojin > ichiran",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1700150130178",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments - LinkedIn — Nearfield Instruments - LinkedIn LinkedIn https://nl.linkedin.com > company",
+    "url": "https://nl.linkedin.com/company/nearfield-instruments-bv",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments (@nearfield_instruments) - Instagram — Nearfield Instruments (@nearfield_instruments) - Instagram Instagram https://www.instagram.com > nearfiel...",
+    "url": "https://www.instagram.com/nearfield_instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "Any information about Nearfield Instruments , Netherlands — Any information about Nearfield Instruments , Netherlands Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/Semiconductors/comments/1j73a4i/any_information_about_nearfield_instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments Signs Multi-Year Development Project ... — Nearfield Instruments Signs Multi-Year Development Project ... Yahoo Finance https://finance.yahoo.com > news > n...",
+    "url": "https://finance.yahoo.com/news/nearfield-instruments-signs-multi-development-113800057.html",
+    "pass": 3
+   },
+   {
+    "quote": "Library - Nearfield Instruments — Library - Nearfield Instruments Nearfield Instruments https://www.nearfieldinstruments.com > ...",
+    "url": "https://www.nearfieldinstruments.com/nearfield-academy-library/",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments Raises $380 Million to Help Enable the ... — Nearfield Instruments Raises $380 Million to Help Enable the ... Walden Catalyst https://waldencatalyst.com > blog > n...",
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments : Pushing the boundaries of ... - YouTube — Nearfield Instruments : Pushing the boundaries of ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=TFDKqaitiyM",
+    "pass": 3
+   },
+   {
+    "quote": "Scaling semiconductor metrology with Nearfield Instruments — Scaling semiconductor metrology with Nearfield Instruments newayselectronics.com https://newayselectronics.com > cases",
+    "url": "https://newayselectronics.com/cases/scaling-semiconductor-metrology-with-nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments signs multi-year development project — Nearfield Instruments signs multi-year development project Silicon Semiconductor https://siliconsemiconductor.net > Nea...",
+    "url": "https://siliconsemiconductor.net/article/122993/Nearfield_Instruments_signs_multi-year_development_project",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments 2026 Company Profile - PitchBook — Nearfield Instruments 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/187979-23",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments - TNO Ventures — Nearfield Instruments - TNO Ventures TNO https://ventures.tno.nl > Portfolio",
+    "url": "https://ventures.tno.nl/portfolio/nearfield-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments secures €135 million in landmark deep ... — Nearfield Instruments secures €135 million in landmark deep ... Nearfield Instruments https://www.nearfieldinstruments.com > ...",
+    "url": "https://www.nearfieldinstruments.com/portfolio/nearfield-instruments-secures-e135-million-in-landmark-deep-tech-funding-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments Valuation, Funding & Investors | Multiples — Nearfield Instruments Valuation, Funding & Investors | Multiples Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "Chipmaking tool firm Nearfield Instruments raises $380 million ... — Chipmaking tool firm Nearfield Instruments raises $380 million ... Reuters https://www.reuters.com > technology",
+    "url": "https://www.reuters.com/technology/chipmaking-tool-firm-nearfield-instruments-raises-380-million-16-billion-2026-06-22/",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments - 2026 Company Profile - Tracxn — Nearfield Instruments - 2026 Company Profile - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/nearfield-instruments/__z6lv7fVKTaOKujcSdxq7aojx-qW3996Grdbu3rf3hlM",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "I understand, and agree to receive occasional emails about Azthena such as usage tips and new feature announcements.",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Your questions, but not your email details will be shared with",
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/187979-23",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Frore Systems is a developer of solid-state active cooling technology for consumer electronics. Its AirJet Mini and AirJet Pro chips provide silent heat removal, boosting device performance in thin profiles. Headquartered in San Jose, California, the company maintains offices in Taiwan and South Korea to serve global OEMs in laptops and mobile devices.",
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "380億円調達—— Nearfield Instruments が半導体業界に ... - note 380億円調達—— Nearfield Instruments が半導体業界に ... - note note https://note.com > 政治・経済 > ビジネス・経済",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "380億円調達——Nearfield Instrumentsが半導体業界に突きつけた現実｜Trend Insights",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   },
+   {
+    "quote": "380億円調達——Nearfield Instrumentsが半導体業界に突きつけた現実",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   },
+   {
+    "quote": "結論：Nearfield Instrumentsが$380M（約570億円）を調達した事実は、半導体計測に380億円超が集まった理由、誰も正直に言わないブラックボックスに、ようやく資本が向き始めたことを意味する。",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、計測スタートアップに$380Mという記録的資金が集まったのか",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   },
+   {
+    "quote": "ASMLやApplied Materialsが手を出せない「死角」",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   },
+   {
+    "quote": "AIチップ需要で半導体製造精度は原子1個単位まで厳格化",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   },
+   {
+    "quote": "しており、既存検査ツールは2nm以下ノードに対応できないという技術的空白が$380Mを引き寄せた。",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   },
+   {
+    "quote": "💡 「計測」という地味な領域に、なぜ史上最大級のチップ資金が集まったのか",
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\" Nearfield Instruments の半導体インライン検査用AFMは超高速 ... \" Nearfield Instruments の半導体インライン検査用AFMは超高速 ... X https://x.com > @mems6934",
+    "url": "https://x.com/mems6934/status/2076642948687769968",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Nearfield Instruments - LinkedIn Nearfield Instruments - LinkedIn LinkedIn https://nl.linkedin.com > company",
+    "url": "https://nl.linkedin.com/company/nearfield-instruments-bv",
+    "pass": 3
+   },
+   {
+    "quote": "32000+ Nearfield Instruments Jobs in Worldwide - LinkedIn 32000+ Nearfield Instruments Jobs in Worldwide - LinkedIn LinkedIn https://www.linkedin.com > jobs > ne...",
+    "url": "https://www.linkedin.com/jobs/nearfield-instruments-jobs-worldwide",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments opens Singapore office for Asia ... Nearfield Instruments opens Singapore office for Asia ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/sea-semi_southeastasia-semiconductor-semiseamarketlens-activity-7338463755321733120-3dlo",
+    "pass": 3
+   },
+   {
+    "quote": "Nearfield Instruments partners with imec on semiconductor ... Nearfield Instruments partners with imec on semiconductor ... LinkedIn https://www.linkedin.com > posts > w...",
+    "url": "https://www.linkedin.com/posts/walden-catalyst-ventures_nearfield-instruments-signs-multi-year-development-activity-7396785090468519936-O_zR",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Nearfield Instruments raises $380M for semiconductor ... Nearfield Instruments raises $380M for semiconductor ... Facebook https://www.facebook.com > credx.media > posts > nearfi...",
+    "url": "https://www.facebook.com/credx.media/posts/nearfield-instruments-has-raised-380-million-in-a-series-d-round-bringing-its-di/122166698354807911/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nearfieldinstruments.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nearfieldinstruments.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nearfieldinstruments.com/products-and-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nearfieldinstruments.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nearfieldinstruments.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nearfieldinstruments.com/portfolio/nearfield-instruments-receives-e17-5-million-investment-from-invest-nl-and-innovation-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nearfieldinstruments.com/portfolio/samsung-venture-investment-corporation-and-innovation-industries-fund-invest-in-nearfield-instruments-b-v/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.linkedin.com/jobs/view/application-manager-semiconductor-metrology-japan-at-nearfield-instruments-4475584908",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.indeed.com/viewjob?jk=1a4cd35354f5d25b",
+    "status": "http_401",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globenewswire.com/news-release/2025/11/19/3190897/0/ja/%E3%83%8B%E3%82%A2%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A5%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84-nearfield-instruments-%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%88%E6%B8%AC%E6%8A%80%E8%A1%93%E6%8E%A8%E9%80%B2%E3%81%AE%E3%81%9F%E3%82%81%E8%A4%87%E6%95%B0%E5%B9%B4%E3%81%AB%E3%82%8F%E3%81%9F%E3%82%8B%E9%96%8B%E7%99%BA%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92%E7%B7%A0%E7%B5%90.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nl.linkedin.com/company/nearfield-instruments-bv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/nearfield_instruments/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/Semiconductors/comments/1j73a4i/any_information_about_nearfield_instruments/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=TFDKqaitiyM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newayselectronics.com/cases/scaling-semiconductor-metrology-with-nearfield-instruments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newayselectronics.com/neways-signs-strategic-partnership-agreement-with-nearfield-instruments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://siliconsemiconductor.net/article/122993/Nearfield_Instruments_signs_multi-year_development_project",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/187979-23",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/nearfield-instruments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/187979-23",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reuters.com/technology/chipmaking-tool-firm-nearfield-instruments-raises-380-million-16-billion-2026-06-22/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/trend_insights/n/n546799bd8de7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mems6934/status/2076642948687769968",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/company/nearfield-instruments-bv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/nearfield-instruments-jobs-worldwide",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/sea-semi_southeastasia-semiconductor-semiseamarketlens-activity-7338463755321733120-3dlo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/walden-catalyst-ventures_nearfield-instruments-signs-multi-year-development-activity-7396785090468519936-O_zR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/credx.media/posts/nearfield-instruments-has-raised-380-million-in-a-series-d-round-bringing-its-di/122166698354807911/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/company/nearfield-instruments-bv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/company/nearfield-instruments-bv",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nearfield Instruments 日本 導入",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/application-manager-semiconductor-metrology-japan-at-nearfield-instruments-4475584908",
+    "https://jp.indeed.com/viewjob?jk=1a4cd35354f5d25b",
+    "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "https://www.globenewswire.com/news-release/2025/11/19/3190897/0/ja/%E3%83%8B%E3%82%A2%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A5%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84-nearfield-instruments-%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A8%88%E6%B8%AC%E6%8A%80%E8%A1%93%E6%8E%A8%E9%80%B2%E3%81%AE%E3%81%9F%E3%82%81%E8%A4%87%E6%95%B0%E5%B9%B4%E3%81%AB%E3%82%8F%E3%81%9F%E3%82%8B%E9%96%8B%E7%99%BA%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92%E7%B7%A0%E7%B5%90.html",
+    "https://www.glassdoor.ca/job-listing/sales-manager-semiconductor-metrology-japan-nearfield-instruments-JV_KO0,43_KE44,65.htm?jl=1010182765156",
+    "https://www.fortunebusinessinsights.com/jp/nano-metrology-market-112233",
+    "https://www.facebook.com/100070687853783/posts/%E4%B8%8B%E4%B8%96%E4%BB%A3ai%E6%99%B6%E7%89%87%E6%B1%BA%E6%88%B0%E9%87%8F%E6%B8%AC%E8%88%87%E6%AA%A2%E6%B8%AC%E6%8A%80%E8%A1%93%E8%8D%B7%E8%98%AD3d%E9%87%8F%E6%B8%AC%E6%96%B0%E5%89%B5%E5%85%AC%E5%8F%B8nearfield-instruments%E5%AE%8C%E6%88%9038%E5%84%84%E7%BE%8E%E5%85%83d%E8%BC%AA%E8%9E%8D%E8%B3%87-3d%E9%87%8F%E6%B8%AC%E8%88%87%E8%A3%BD%E7%A8%8B%E6%8E%A7%E5%88%B6%E5%BB%A0%E5%95%86nearfield-/1039178405115078/",
+    "https://www.globenewswire.com/news-release/2025/02/10/3023148/0/ja/%E3%83%8B%E3%82%A2%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A5%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84-nearfield-instruments-%E3%81%8C-%E7%B1%B3%E5%9B%BD%E3%81%AE%E5%A4%A7%E6%89%8B%E9%A1%A7%E5%AE%A2%E3%81%8B%E3%82%89%E8%B3%BC%E5%85%A5%E6%B3%A8%E6%96%87%E3%82%92%E5%8F%97%E9%A0%98%E3%81%97-%E3%83%8B%E3%82%A2%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A5%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84usa-inc-nearfield-instruments-usa-inc-%E3%82%92%E8%A8%AD%E7%AB%8B.html",
+    "https://www.semi.org/jp/blogs/technology-trends/advancing-industry-4.0-capabilities-of-european-smes-the-madein4-project",
+    "https://www.nearfieldinstruments.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nearfield Instruments 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.nearfieldinstruments.com/",
+    "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/",
+    "https://www.nearfieldinstruments.com/portfolio/nearfield-usa-inc/",
+    "https://www.azom.com/suppliers.aspx?SupplierID=16816",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=1700150130178",
+    "https://jp.linkedin.com/jobs/view/application-manager-semiconductor-metrology-japan-at-nearfield-instruments-4475584908",
+    "https://finance.biggo.jp/news/2c4449a7-5afe-4397-8304-a465117fa76b",
+    "https://note.com/trend_insights/n/n546799bd8de7",
+    "https://liquidinstruments.com/ja/partners/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Nearfield Instruments Japan",
+   "results": [
+    "https://www.nearfieldinstruments.com/",
+    "https://nl.linkedin.com/company/nearfield-instruments-bv",
+    "https://www.instagram.com/nearfield_instruments/",
+    "https://www.reddit.com/r/Semiconductors/comments/1j73a4i/any_information_about_nearfield_instruments/",
+    "https://finance.yahoo.com/news/nearfield-instruments-signs-multi-development-113800057.html",
+    "https://www.semi.org/en/resources/member-directory/nearfield-instruments-bv",
+    "https://www.nearfieldinstruments.com/contact/",
+    "https://careers.nearfieldinstruments.com/o/field-application-engineer-japan",
+    "https://careers.nearfieldinstruments.com/o/field-application-engineer-semiconductor-metrology-japan",
+    "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Nearfield Instruments manufacturing customer case study",
+   "results": [
+    "https://www.nearfieldinstruments.com/nearfield-academy-library/",
+    "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "https://www.youtube.com/watch?v=TFDKqaitiyM",
+    "https://newayselectronics.com/cases/scaling-semiconductor-metrology-with-nearfield-instruments/",
+    "https://siliconangle.com/2024/07/18/dutch-chip-manufacturing-quality-control-startup-nearfield-instruments-raises-e135m/",
+    "https://www.crunchbase.com/organization/nearfield-instruments",
+    "https://ioplus.nl/en/posts/nearfield-instruments-launches-us-subsidiary",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vK07rAoGvuz5CSteJ8QKNPZoMBW9t2Ig076EfW2nS9hAipVpSR5",
+    "https://uk.finance.yahoo.com/news/nearfield-instruments-receives-purchase-orders-003200171.html",
+    "https://www.nearfieldinstruments.com/portfolio/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nearfield Instruments white label OR reseller OR partner program",
+   "results": [
+    "https://www.nearfieldinstruments.com/nearfield-academy-library/",
+    "https://newayselectronics.com/neways-signs-strategic-partnership-agreement-with-nearfield-instruments/",
+    "https://siliconsemiconductor.net/article/122993/Nearfield_Instruments_signs_multi-year_development_project",
+    "https://pitchbook.com/profiles/company/187979-23",
+    "https://ventures.tno.nl/portfolio/nearfield-instruments/",
+    "https://www.lincolninternational.com/transactions/nearfield-instruments-has-raised-series-c-funding-from-walden-catalyst-temasek-mg-investments-and-existing-shareholders-innovation-industries-invest-nl-and-ing/",
+    "https://app.dealroom.co/companies/nearfield_instruments",
+    "https://www.semiconductor-digest.com/nearfield-instruments-signs-multi-year-development-project-to-advance-semiconductor-metrology/",
+    "https://www.linkedin.com/pulse/nearfield-instruments-secures-147m-series-c-funding-led-walden-wxxve",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nearfield Instruments founded funding employees revenue",
+   "results": [
+    "https://www.nearfieldinstruments.com/portfolio/nearfield-instruments-secures-e135-million-in-landmark-deep-tech-funding-round/",
+    "https://multiples.vc/private-comps/nearfield-instruments",
+    "https://pitchbook.com/profiles/company/187979-23",
+    "https://www.reuters.com/technology/chipmaking-tool-firm-nearfield-instruments-raises-380-million-16-billion-2026-06-22/",
+    "https://tracxn.com/d/companies/nearfield-instruments/__z6lv7fVKTaOKujcSdxq7aojx-qW3996Grdbu3rf3hlM",
+    "https://www.prnewswire.com/news-releases/nearfield-instruments-secures-135-million-in-landmark-deep-tech-funding-round-302199609.html",
+    "https://www.crunchbase.com/organization/nearfield-instruments",
+    "https://invest-nl.nl/en/impact/our-portfolio/nearfield-instruments",
+    "https://ioplus.nl/en/posts/nearfield-instruments-secures-135-million-for-semiconductor-innovation",
+    "https://tracxn.com/d/companies/nearfieldinstruments/__z6lv7fVKTaOKujcSdxq7aojx-qW3996Grdbu3rf3hlM"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Nearfield Instruments",
+   "results": [
+    "https://note.com/trend_insights/n/n546799bd8de7",
+    "https://note.com/semicon_news/n/ne9e65ed24063",
+    "https://note.com/izuku_idea/n/n3f6b2975a9d7",
+    "https://note.com/semicon_news/n/ne9e65ed24063?hl=ko",
+    "https://note.com/semicon_news/n/n116ddca25057",
+    "https://note.com/tag/3D%E8%A8%88%E6%B8%AC",
+    "https://note.com/just_boar4896/n/na712e65ca7a2?hl=en",
+    "https://note.com/ralatalk/n/n1cba08f46fd3?hl=en",
+    "https://note.com/gretsch23/n/n83c64f710c49?hl=en",
+    "https://note.com/trend_insights/n/n546799bd8de7?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Nearfield Instruments",
+   "results": [
+    "https://x.com/mems6934/status/2076642948687769968",
+    "https://x.com/mems6934/status/1936396873620934763",
+    "https://x.com/bgroothuis",
+    "https://x.com/bgroothuis/status/2117322015782633488",
+    "https://x.com/mems6934/status/2077000909838545032",
+    "https://x.com/bgroothuis/status/2117322015782633488/video/1",
+    "https://x.com/chernandburn",
+    "https://x.com/MileSolution",
+    "https://x.com/RAS_Journals",
+    "https://x.com/GabrielNeo9/status/2074584237928280291"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Nearfield Instruments",
+   "results": [
+    "https://nl.linkedin.com/company/nearfield-instruments-bv",
+    "https://www.linkedin.com/jobs/nearfield-instruments-jobs-worldwide",
+    "https://www.linkedin.com/posts/sea-semi_southeastasia-semiconductor-semiseamarketlens-activity-7338463755321733120-3dlo",
+    "https://www.linkedin.com/posts/walden-catalyst-ventures_nearfield-instruments-signs-multi-year-development-activity-7396785090468519936-O_zR",
+    "https://www.linkedin.com/posts/roland-van-vliet-3459b62_more-than-a-decade-ago-we-started-nearfield-activity-7474853616781135873-cdfr",
+    "https://sg.linkedin.com/jobs/view/field-service-engineer-singapore-at-nearfield-instruments-4469177044",
+    "https://jp.linkedin.com/jobs/nearfield-instruments-jobs",
+    "https://www.linkedin.com/posts/nearfield-instruments-bv_nearfield-instruments-signs-multi-year-development-activity-7396480458017894400-1vUQ",
+    "https://nl.linkedin.com/jobs/view/head-of-product-at-nearfield-instruments-4485320327",
+    "https://www.linkedin.com/company/nearfield-instruments-bv"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Nearfield Instruments",
+   "results": [
+    "https://www.facebook.com/credx.media/posts/nearfield-instruments-has-raised-380-million-in-a-series-d-round-bringing-its-di/122166698354807911/",
+    "https://www.facebook.com/groups/1386755105299460/posts/2116736572301306/",
+    "https://www.facebook.com/100070687853783/posts/%E4%B8%8B%E4%B8%96%E4%BB%A3ai%E6%99%B6%E7%89%87%E6%B1%BA%E6%88%B0%E9%87%8F%E6%B8%AC%E8%88%87%E6%AA%A2%E6%B8%AC%E6%8A%80%E8%A1%93%E8%8D%B7%E8%98%AD3d%E9%87%8F%E6%B8%AC%E6%96%B0%E5%89%B5%E5%85%AC%E5%8F%B8nearfield-instruments%E5%AE%8C%E6%88%9038%E5%84%84%E7%BE%8E%E5%85%83d%E8%BC%AA%E8%9E%8D%E8%B3%87-3d%E9%87%8F%E6%B8%AC%E8%88%87%E8%A3%BD%E7%A8%8B%E6%8E%A7%E5%88%B6%E5%BB%A0%E5%95%86nearfield-/1039178405115078/",
+    "https://www.facebook.com/bradford.manning/posts/chip-features-are-now-too-small-for-an-ordinary-light-microscope-to-make-out-so-/10111470190762576/",
+    "https://www.facebook.com/bradford.manning/videos/chip-features-are-now-too-small-for-an-ordinary-light-microscope-to-make-out-so-/1604026210950183/",
+    "https://www.facebook.com/groups/1429901478247674/posts/1438452614059227/",
+    "https://www.facebook.com/neumann/posts/kh-350-a-three-way-monitor-for-nearfield-and-midfield-applications-combining-pow/1133959152525754/",
+    "https://www.facebook.com/neumann/posts/meet-the-kh-350-a-new-monitoring-option-from-neumann-designed-for-nearfield-and-/1128866653035004/",
+    "https://www.facebook.com/MagicoLLC/posts/no-guessworkmagicos-high-precision-klippel-near-field-scanner-ensures-every-loud/1501240038709147/",
+    "https://www.facebook.com/pages/Nearfield+Instruments/172861820305235/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nearfield Instruments note 社長",
+   "results": [
+    "https://www.nearfieldinstruments.com/nearfield-academy-library/",
+    "https://nl.linkedin.com/company/nearfield-instruments-bv",
+    "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "https://pitchbook.com/profiles/company/187979-23",
+    "https://www.instagram.com/nearfield_instruments/",
+    "https://www.reuters.com/technology/chipmaking-tool-firm-nearfield-instruments-raises-380-million-16-billion-2026-06-22/",
+    "https://www.crunchbase.com/organization/nearfield-instruments",
+    "https://www.nearfieldinstruments.com/",
+    "https://www.nearfieldinstruments.com/our-management-team/",
+    "https://www.nearfieldinstruments.com/portfolio/investor-note-process-control-is-power-control/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nearfield Instruments X 投稿",
+   "results": [
+    "https://www.nearfieldinstruments.com/",
+    "https://www.instagram.com/nearfield_instruments/",
+    "https://nl.linkedin.com/company/nearfield-instruments-bv",
+    "https://waldencatalyst.com/blog/nearfield-instruments-raises-380-million-to-help-enable-the-next-era-of-ai-infrastructure",
+    "https://www.reddit.com/r/Semiconductors/comments/1j73a4i/any_information_about_nearfield_instruments/",
+    "https://www.lincolninternational.com/transactions/nearfield-instruments-has-raised-series-c-funding-from-walden-catalyst-temasek-mg-investments-and-existing-shareholders-innovation-industries-invest-nl-and-ing/",
+    "https://ventures.tno.nl/portfolio/nearfield-instruments/",
+    "https://pitchbook.com/profiles/company/187979-23",
+    "https://www.nearfieldinstruments.com/portfolio/nearfield-instruments-secures-e135-million-in-landmark-deep-tech-funding-round/",
+    "https://www.nvv.genai.co.jp/2024/08/nearfield-instruments/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

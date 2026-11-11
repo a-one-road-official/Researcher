@@ -1,0 +1,1545 @@
+{
+ "name": "Mintlify",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AUMS不適合",
+ "researched_at": "2026-11-10T23:39:24.427506+00:00",
+ "official_url": "https://mintlify.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金",
+    "value": "無料〜／Pro月540ドル 無料〜／有料は月65ドル＋ユーザー課金〜 完全無料（自前ホスト） OSS無料／Business月50ドル〜",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "label": "料金",
+    "value": "Starter無料／Pro月540ドル（年払いで月450ドル相当）",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2022",
+    "url": "https://startupintros.com/orgs/mintlify",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/mintlify",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Yes shout out to Mintlify, great product, worth checking out",
+    "url": "https://www.mintlify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager of Developer Growth",
+    "url": "https://www.mintlify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See plans and pricing",
+    "url": "https://www.mintlify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Product, support, and documentation teams can write and edit in the browser while engineers continue working locally. The web editor supports real-time collaboration, comments, and suggestions. Publishing commits changes to Git, and feature branches let teams review changes before they reach the live site. The web editor is included in the free Starter plan.",
+    "url": "https://www.mintlify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Docs visitors are up to 40x more likely to become an enterprise opportunity",
+    "url": "https://www.mintlify.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Documentation for Devin that stays as forward-looking as the product it onboards developers to",
+    "url": "https://www.mintlify.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Productizing company knowledge with a self-healing source of truth",
+    "url": "https://www.mintlify.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A custom-branded API reference for 140,000+ legal professionals, owned by solutions architects instead of engineering",
+    "url": "https://www.mintlify.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Turning developer docs into a growth engine for the world's first regulated prediction market",
+    "url": "https://www.mintlify.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Scaling onboarding and support with AI-native documentation",
+    "url": "https://www.mintlify.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming documentation into an AI-native developer experience that matches the pace of product development",
+    "url": "https://www.mintlify.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "At Browserbase, our docs are the product.",
+    "url": "https://www.mintlify.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing on your terms",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Starter is free. Try Pro for 14 days with 5,000 credits.",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pro is $450/month billed annually or $540/month billed monthly.",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise security & legal",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise file types",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Starter is free forever for up to five editors. It includes hosting, search, a custom domain, Git sync, the web editor, authentication, an MCP server, and the API playground. Mintlify runs the site infrastructure while your team focuses on the content. You can keep using Starter after the Pro trial ends; a paid subscription is only needed when you want features beyond Starter.",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "moved to Mintlify to spend less time maintaining documentation infrastructure. Hosting, search, Markdown page URLs, llms.txt, and an MCP server are built in, so your team can focus on content while keeping it backed by Git. Custom components, CSS, and JavaScript are included on every plan;",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "support interactive content with state and event handlers.",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When should we upgrade from Starter to Pro?",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How can we migrate our existing content?",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "to have a coding agent like Claude Code, Codex, or Cursor move your docs. On Enterprise, the Mintlify team runs the migration with you.",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every new account gets Mintlify Pro free for 14 days, with no credit card required. That includes the AI assistant, the writing agent, analytics, preview deployments, and 5,000 credits for AI features. The trial ends after 14 days or when the 5,000 credits run out, whichever comes first. Then you can upgrade to Pro or keep your docs live on the free Starter plan.",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing work for AI features such as the assistant, agent, and Autopilot?",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can startups or open source projects get Mintlify Pro for free?",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, if you qualify. Non-commercial open source projects get Pro free forever through the",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ". They need a recognized open source license, can't be venture-backed or revenue-funded, and can't be owned or primarily maintained by a for-profit company. Venture-backed startups founded in the past 2 years that have raised less than $2M and never paid for Mintlify get 50% off Pro for 12 months through the",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ", as do YC alumni. The current YC batch gets 12 months free. Both programs require an application.",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "documentation essential to the product itself.",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "product with daily ships, without pulling engineers onto infrastructure work.",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "Content that can keep up with the models",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "As the Anthropic team prepared to launch Claude 3.5 Sonnet in 2024, they needed a documentation platform that could grow with the rapid product adoption and influx of new users.",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "It immediately paid off, with the new docs experience launching in just three weeks. Tailoring the docs to match Claude's brand was fast, and Mintlify's docs-as-code workflow made updating content significantly easier for developers and collaborators alike.",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "It was really impressive to see how fast we could ship our docs with Mintlify.",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "When Mintlify shipped llms.txt support across every site on the platform in 2024, it took a months-old proposal and put thousands of developer tools on it overnight. Anthropic's docs were among the first live, with no implementation work on their end. The two teams then developed llms-full.txt together, and that format was subsequently adopted into the official spec.",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "Claude Code's documentation receives millions of visitors each month and is run by one person: Sarah Deaton, technical content engineer. She is pushing Mintlify and Anthropic tools to their limit finding ways to automate and augment her work. But one of the toughest parts of the job is knowing whether your documentation is helping users succeed, and how to improve.",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "Technical Content Engineer at Anthropic",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "All of this information serves as context for Claude to improve the documentation. The labor of sourcing feedback, identifying valid content gaps, and drafting content is automated. The result is documentation that functions as its own feedback loop rather than a static surface.",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "Not every signal coming through Claude Code's docs is a documentation problem. Some of it points to friction in the product itself, and now Sarah can take those fixes straight to the source. Feedback that would otherwise sit in a docs backlog reaches the product team directly, so user experience issues get solved rather than explained.",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "\"I'm able to submit a PR to fix the actual product,\" she explains. \"That short-circuits the loop of needing to document around a paper cut. You just fix the issue. Make it so that people don't even need to go to the documentation.\"",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "Anthropic moved its docs to Mintlify in 2024 to ship documentation fast without building infrastructure. Today, that decision is paying dividends. It shows up in the feedback loop that lets one writer run the documentation for Claude Code, turning reader signals into merged pull requests and product updates.",
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "pass": 1
+   },
+   {
+    "quote": "fully shipped to production in just six weeks.",
+    "url": "https://www.mintlify.com/customers/coinbase",
+    "pass": 1
+   },
+   {
+    "quote": "CDP's docs ran on a static site generator that made updates slow and wasn't designed to make content available to AI agents. Coinbase needed faster publishing and agent access without assigning engineers to build and maintain a new documentation platform.",
+    "url": "https://www.mintlify.com/customers/coinbase",
+    "pass": 1
+   },
+   {
+    "quote": "Onchain protocols evolve constantly, and every change impacts our docs. Publishing updates with our old setup kept us from moving at the speed we needed, since content freshness directly affects whether a developer's first build works—and whether they decide to continue working with us.",
+    "url": "https://www.mintlify.com/customers/coinbase",
+    "pass": 1
+   },
+   {
+    "quote": "After evaluating several vendors, Coinbase chose Mintlify. Its new CDP developer experience went live just six weeks later, and the value keeps compounding. Before Mintlify, a single documentation update could take more than 20 minutes. Now it takes under 60 seconds, ensuring content is always accurate and aligned with rapidly evolving onchain protocols.",
+    "url": "https://www.mintlify.com/customers/coinbase",
+    "pass": 1
+   },
+   {
+    "quote": "\"AI-native docs are essential when you're building with tools like MCP and x402,\" says Leffew. \"Mintlify helps us deliver a developer experience at Coinbase that feels as agentic as the protocols we're shipping.\"",
+    "url": "https://www.mintlify.com/customers/coinbase",
+    "pass": 1
+   },
+   {
+    "quote": "Since switching to Mintlify, CDP has seen developers arrive directly at the content they need, with 98.3% of sessions starting on a page other than the docs homepage.",
+    "url": "https://www.mintlify.com/customers/coinbase",
+    "pass": 1
+   },
+   {
+    "quote": "Better information architecture and automatic SEO and AEO optimization enable developers to land directly on the exact content they need to succeed. And once they're there, an interactive API playground lets them fire real API calls without leaving the page.",
+    "url": "https://www.mintlify.com/customers/coinbase",
+    "pass": 1
+   },
+   {
+    "quote": "Private previews for beta APIs",
+    "url": "https://www.mintlify.com/customers/coinbase",
+    "pass": 1
+   },
+   {
+    "quote": "In six weeks, Coinbase went from a static documentation site to knowledge infrastructure that ships updates in seconds, answers developers on the spot, and hands its content to agents in the format they expect. And the team is far from finished.",
+    "url": "https://www.mintlify.com/customers/coinbase",
+    "pass": 1
+   },
+   {
+    "quote": "\"We recently launched a private preview doc site that's password protected via Mintlify,\" shares Leffew. \"This is how we share beta APIs with select customers before public release, and so far it's been a big success.\"",
+    "url": "https://www.mintlify.com/customers/coinbase",
+    "pass": 1
+   },
+   {
+    "quote": "Devin introduces developers to a new model of building software, making clear, intuitive onboarding",
+    "url": "https://www.mintlify.com/customers/cognition",
+    "pass": 1
+   },
+   {
+    "quote": "essential to product adoption.",
+    "url": "https://www.mintlify.com/customers/cognition",
+    "pass": 1
+   },
+   {
+    "quote": "Cognition's documentation needed to match the forward-looking experience of its product.",
+    "url": "https://www.mintlify.com/customers/cognition",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding developers to Devin required guides that felt as intuitive and innovative as the tool",
+    "url": "https://www.mintlify.com/customers/cognition",
+    "pass": 1
+   },
+   {
+    "quote": "explore and test Devin's APIs directly in the docs. Pre-built components handle release notes, so",
+    "url": "https://www.mintlify.com/customers/cognition",
+    "pass": 1
+   },
+   {
+    "quote": "MCP servers, Cognition's documentation stays as current as its product.",
+    "url": "https://www.mintlify.com/customers/cognition",
+    "pass": 1
+   },
+   {
+    "quote": "LevelBlue is AT&T's standalone cybersecurity business, providing managed security services and",
+    "url": "https://www.mintlify.com/customers/att",
+    "pass": 1
+   },
+   {
+    "quote": "threat intelligence to enterprises worldwide.",
+    "url": "https://www.mintlify.com/customers/att",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A custom-branded API reference for 140,000+ legal professionals, owned by solutions architects instead of engineering",
+    "url": "https://www.mintlify.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": ". They need a recognized open source license, can't be venture-backed or revenue-funded, and can't be owned or primarily maintained by a for-profit company. Venture-backed startups founded in the past 2 years that have raised less than $2M and never paid for Mintlify get 50% off Pro for 12 months through the",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Since switching to Mintlify, CDP has seen developers arrive directly at the content they need, with 98.3% of sessions starting on a page other than the docs homepage.",
+    "url": "https://www.mintlify.com/customers/coinbase",
+    "pass": 1
+   },
+   {
+    "quote": "from $1M to $73M in ARR in under a year.",
+    "url": "https://www.mintlify.com/customers/cognition",
+    "pass": 1
+   },
+   {
+    "quote": "Developers are a strategic part of that ecosystem, extending HubSpot’s functionality and improving the",
+    "url": "https://www.mintlify.com/customers/hubspot",
+    "pass": 1
+   },
+   {
+    "quote": "became the fastest company ever to reach $100M ARR with over 10 million projects built.",
+    "url": "https://www.mintlify.com/customers/lovable",
+    "pass": 1
+   },
+   {
+    "quote": "ensuring accurate, up-to-date answers for customers and employees, but it also serves as a",
+    "url": "https://www.mintlify.com/customers/decagon",
+    "pass": 1
+   },
+   {
+    "quote": "Today, an estimated 95% of Decagon's docs updates are automated. Hou also estimates that the agent saves employees 10-15 hours per week, all while 200% more PRs are merged each month.",
+    "url": "https://www.mintlify.com/customers/decagon",
+    "pass": 1
+   },
+   {
+    "quote": "With a single source of truth that stays current on its own, Decagon can treat knowledge as an integral part of its platform, rather than a byproduct. Since Duet's launch, its knowledge coverage has greatly increased and customers are feeling the improvements.",
+    "url": "https://www.mintlify.com/customers/decagon",
+    "pass": 1
+   },
+   {
+    "quote": "2024, the company pivoted into AI, triggering a 10x growth surge and reaching $100M ARR in just",
+    "url": "https://www.mintlify.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "API guidance is part of the market infrastructure.",
+    "url": "https://www.mintlify.com/customers/polymarket",
+    "pass": 1
+   },
+   {
+    "quote": "to launch its own exchange, it arrived with an existing OpenAPI spec and documentation sitting",
+    "url": "https://www.mintlify.com/customers/polymarket",
+    "pass": 1
+   },
+   {
+    "quote": "the API a critical part of how legal teams adopt the product.",
+    "url": "https://www.mintlify.com/customers/harvey",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of a team redefining how knowledge is shared. Build innovative, AI-powered tools that help millions work smarter, together.",
+    "url": "https://www.mintlify.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "property at the top level of the file and define an array of languages you want to support.",
+    "url": "https://codenote.net/en/posts/mintlify-multilingual-docs-english-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Since we’re supporting English (en) and Japanese (ja), we’ll write it as follows. The first language in the array is treated as the default language.",
+    "url": "https://codenote.net/en/posts/mintlify-multilingual-docs-english-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "51-200 employees",
+    "url": "https://infisical.com/customers/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "“It was just too easy,” Hahnbee said. “Especially for startups, it’s a just-do-it kind of thing.” The developer-friendly UI and CLI made both adopting and using Infisical easy. Mintlify evaluated alternatives like Doppler, but preferred Infisical’s developer experience. Infisical worked for the fast-moving startup because it accelerated every part of the secrets workflow.",
+    "url": "https://infisical.com/customers/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical remained a critical part of the engineering stack as the team grew to ~60 people, and ownership matured from founders to a security-focused engineer while every engineer self-serves secrets.",
+    "url": "https://infisical.com/customers/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "[Difference] From a design that narrows down to a design that covers everything",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For human-oriented documentation, the usual approach was to keep it short and narrow down the flow.",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Narrow down the flow",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Of the agent traffic in August, 83% arrived via machine-oriented paths such as .md pages, /llms.txt, and agent-specific skills.",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The underlying numbers show a narrower scope than what is being claimed.",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The most important part of the technical discussion in the original text is the judgment of how much can be made public, rather than the act of writing.",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The most important part of the technical discussion in the original text is the judgment of 'how much can be made public,' rather than the act of writing.",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Analytics data warehouse streaming",
+    "url": "https://www.mintlify.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When two of the world's most prominent automotive brands partnered to build a joint software",
+    "url": "https://www.mintlify.com/customers/rivian",
+    "pass": 1
+   },
+   {
+    "quote": "“The automotive industry is highly regulated,” shares Hulser, “and our ability to launch new vehicles literally depends on how often we update our documentation, no exceptions.” Mintlify's AI-powered content-generation addressed both problems directly.",
+    "url": "https://www.mintlify.com/customers/rivian",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot is a customer platform used by hundreds of thousands of organizations around the world.",
+    "url": "https://www.mintlify.com/customers/hubspot",
+    "pass": 1
+   },
+   {
+    "quote": "The same source of truth that powers Decagon's docs also powers decks used by teams from across the company, including GTM, Product, and Deployment. Product slides regenerate as the product changes, so sales and deployment teams work from the same current information as the documentation.",
+    "url": "https://www.mintlify.com/customers/decagon",
+    "pass": 1
+   },
+   {
+    "quote": "Replit is an AI platform to create and deploy apps, used by over 30 million builders worldwide. In",
+    "url": "https://www.mintlify.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Harvey is the AI platform built for the legal industry, used by more than 140,000 legal",
+    "url": "https://www.mintlify.com/customers/harvey",
+    "pass": 1
+   },
+   {
+    "quote": "Mintlify's platform reaches 12m+ developers every year and power the documentation of 2000+ companies. They're also the #1 most popular YC product used by other YC companies in the past four years. Meet the modern standard for public facing documentation. Beautiful out of the box, easy to maintain, and optimized for user engagement.",
+    "url": "https://www.casestudies.com/company/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify's platform reaches 12m+ developers every year and power the documentation of 2000+ companies. They're also the #1 most popular YC product used by other YC companies in the past four years. Meet the modern standard for public facing documentation. Beautiful out of the box, easy to maintain, and optimized for user engagement.",
+    "url": "https://www.casestudies.com/customer/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Mintlify",
+    "url": "https://www.casestudies.com/customer/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify Customer Case Study | Infisical",
+    "url": "https://infisical.com/customers/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by thousands of companies, including over 20% of the latest Y Combinator batch, and powers documentation for fast-growing AI startups, reflecting deep market penetration and relevance[1][2].",
+    "url": "https://startupintros.com/orgs/mintlify",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ネット上の日本語情報はほぼ全部古いままです",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本語にも対応し、Mac・Windowsのどの入力欄でも使える（無料は1,000語まで）",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の解説記事には「Growthプラン月150ドル」「Pro月250ドル」といった記載がまだ残っています",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "比較の次は、日本のチームが一番気にするポイントを確認します",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本語ドキュメントの公開事例も多数あります",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "公式ドキュメントの対応言語リストには日本語（",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "英語版と日本語版を1サイトで並行運用する構成が、公式にサポートされているということです",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ダッシュボードやドキュメント類は英語で、日本語UIはありません",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "また翻訳の自動化機能はないため、日本語版の中身は自分たちで用意することになります",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "英語版MDXを正としてリポジトリに置き、Claude CodeやCursorに日本語版ディレクトリへの翻訳生成を任せます",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "英語の管理画面に抵抗がなければ、日本語ドキュメントの公開基盤として実用十分です",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "逆に「管理も日本語がいい」チームには向きません",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify導入事例から逆算する、スケールする開発者ドキュメント設計",
+    "url": "https://codenote.net/ja/posts/mintlify-case-studies-scalable-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlifyの導入事例を8件読み解くと、成功しているチームは「Docs-as-Code」「インタラクティブ性」「AIの同化」「多言語・ガバナンス」「SLA/セキュリティ」の5点を一貫して押さえています",
+    "url": "https://codenote.net/ja/posts/mintlify-case-studies-scalable-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "Making Mintlify Documentation Sites Multilingual (English/Japanese)",
+    "url": "https://codenote.net/en/posts/mintlify-multilingual-docs-english-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "I’ll introduce how to build a documentation site that supports both English (default) and Japanese using",
+    "url": "https://codenote.net/en/posts/mintlify-multilingual-docs-english-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Since we’re supporting English (en) and Japanese (ja), we’ll write it as follows. The first language in the array is treated as the default language.",
+    "url": "https://codenote.net/en/posts/mintlify-multilingual-docs-english-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "feat: implement multilingual support with English and Japanese by shige · Pull Request #2",
+    "url": "https://codenote.net/en/posts/mintlify-multilingual-docs-english-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "feat: implement multilingual documentation with Japanese translation support by shige · Pull Request #96",
+    "url": "https://codenote.net/en/posts/mintlify-multilingual-docs-english-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "ページ内容を AI ベースで作って GitHub で管理すれば多言語対応として日本語版と英語版の両方のページを用意するのも簡単です",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654",
+    "pass": 3
+   },
+   {
+    "quote": "If you create page content on an AI basis and manage it on GitHub, it is also easy to prepare both Japanese and English versions for multilingual support.",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mintlifyの料金と使い方｜無料プランの実力とPro月450ドル〜の違い (2... — Apr 5, 2026 · Mintlifyは無料のStarterプランでドキュメントサイトを公開でき、AI機能込みのProは月450ドル（年払い時）から。 2026年7月時点の料金とクレジット制の仕組み、mint CLIでの始め方、GitBookやDocusaurusとの違いまで公式情報ベースで整理しました。",
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify導入事例から逆算する、スケールする開発者ドキュメント設計 — Aug 25, 2025 · Mintlifyの導入事例を8件読み解くと、成功しているチームは「Docs-as-Code」「インタラクティブ性」「AIの同化」「多言語・ガバナンス」「SLA/セキュリティ」の5点を一貫して押さえています。",
+    "url": "https://codenote.net/ja/posts/mintlify-case-studies-scalable-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIを活用した「Mintlify」の全貌：革新的なドキュメント生成ツー... — Dec 22, 2024 · Mintlify（ミントリファイ）は、生成AI技術を活用してコードドキュメントやAPIドキュメントを自動生成する革新的なツールです。 従来数時間かかっていたドキュメント作成を わずか数分で完了 できるため、開発者の作業効率を劇的に向上させています。",
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-mintlify/",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify Docsとは？初心者向けの使い方ガイド — Aug 23, 2025 · この初心者向けガイドでは、Mintlifyのインストール、カスタムドメインの設定、AIインジェストの活用、MCPサーバーの連携、翻訳の追加、そしてAPIドキュメントのためのOpenAPIの使用方法を順を追って説明します。",
+    "url": "https://apidog.com/jp/blog/mintlify-docs/",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify、技術情報検索「Mintlify Index」をベータ提供、公開MCPサー... — Aug 10, 2026 · ドキュメント作成・配信プラットフォームを手がけるMintlifyは2026年8月6日、コーディングエージェント向けの技術情報検索サービス「Mintlify Index」のベータ提供を開始した。",
+    "url": "https://gihyo.jp/article/2026/08/mintlify-index",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify - The documentation platform for agents — Mintlify is a great place to start for a small team: Starter is free for up to five editors and includes hosting, search, a custom domain, and a web editor. You get a polished documentation experience without assembling and maintaining a site generator, hosting, and search yourself. Your docs stay in Git as Markdown or MDX, so you own the content ",
+    "url": "https://www.mintlify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify - The documentation platform for agents — You can run Mintlify in your own cloud or on-premises environment on AWS or a Kubernetes platform, including Azure and Google Cloud. Your team operates the infrastructure, and Mintlify provides application releases and support.",
+    "url": "https://www.mintlify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Making Mintlify Documentation Sites Multilingual (English ... — Aug 27, 2025 · A guide on how to make a documentation site built with Mintlify multilingual, supporting both English and Japanese. Covers everything from docs.json configuration to directory structure and actual translation file placement with concrete examples.",
+    "url": "https://codenote.net/en/posts/mintlify-multilingual-docs-english-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Websites using Mintlify in Japan - BuiltWith — Download a list of all 5 Mintlify Customers in Japan Download Full Lead List Create a Free Account to see more results.",
+    "url": "https://trends.builtwith.com/websitelist/Mintlify/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Customers - Mintlify — Anthropic chose Mintlify to ship its Claude Code docs fast, then architected an automated feedback loop on top. Needing a documentation solution that could match their commitment to reliability, customization, and security. Halved engineering time on docs and cut deploys from hours to minutes.",
+    "url": "https://www.mintlify.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify B2B Case Studies & Customer Successes — See how Mintlify solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Mintlify Uses Software & Services — Explore case studies featuring Mintlify as the customer — learn how vendors and partners helped Mintlify solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify Customer Case Study | Infisical — While engineers at many companies spend their first day filling out access requests, a new Mintlify engineer needs exactly two things to get the codebase running on day one: GitHub and Infisical.",
+    "url": "https://infisical.com/customers/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify Customer Story - Stytch — A Y Combinator company, Mintlify (YC W22) now powers product documentation that’s seen by 100,000+ developers every month. With Stytch, Mintlify was able to build B2B authentication into their platform in under two days, all while owning their customer experience end-to-end.",
+    "url": "https://stytch.com/customer-stories/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify - 2026 Company Profile, Team, Funding & Competitors ...Mintlify: Revenue, Worth, Valuation & Competitors 2025Mintlify 2026 Company Profile: Valuation, Funding & Investors ...Mintlify: Funding, Team & Investors | Startup IntrosMintlify - Crunchbase Company Profile & FundingMintlify - Overview, News & Similar companies | ZoomInfo.comMintlify: Funding, Investors & Team (Nov 2026) | FundedIQ ",
+    "url": "https://tracxn.com/d/companies/mintlify/__4H1JwQrPEEjkuME5kKnugS51A3fazz3eCPVzsiIl9gs",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify: Revenue, Worth, Valuation & Competitors 2025 — Mintlify Revenue & Valuation Mintlify’s business performance suggests annual revenues of around $441.6K. The estimated revenue per employee at Mintlify is $36.8K.",
+    "url": "https://compworth.com/company/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify 2026 Company Profile: Valuation, Funding & Investors ...Mintlify: Funding, Team & Investors | Startup IntrosMintlify - Crunchbase Company Profile & FundingMintlify - Overview, News & Similar companies | ZoomInfo.comMintlify: Funding, Investors & Team (Nov 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Mintlify. Use the PitchBook Platform to",
+    "url": "https://pitchbook.com/profiles/company/493338-16",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Mintlify was founded by Han Wang and Hahnbee Lee, both engineers with a strong background in building developer tools. The idea emerged from their personal experiences as developers facing challenges in managing and creating effective documentation.",
+    "url": "https://startupintros.com/orgs/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify - Crunchbase Company Profile & FundingMintlify - Overview, News & Similar companies | ZoomInfo.comMintlify: Funding, Investors & Team (Nov 2026) | FundedIQ — Mintlify is a software company that develops tools for creating, managing, and publishing developer documentation and API references. Its platform helps organizations build documentation websites, organize technical content, and prov",
+    "url": "https://www.crunchbase.com/organization/mintlify",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Claude と壁打ちして、Mintlify で AI ネイティブなポートフォリオサ... Oct 4, 2026 · 作り方 Mintlify のローカルプレビューを見ながら、Claude と話して作りました。 画面を見て「ここをこうしたい」と伝えると、Claude が直してくれます。 直った画面を見て、また伝える。 この繰り返しで、ほぼ完成しました。",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654",
+    "pass": 3
+   },
+   {
+    "quote": "【保存版】Mintlify完全マスター｜ドキュメント整備がいつも後回しに... ※本記事は公開情報と一般的な機能説明をもとにした紹介です。 Mintlifyの料金プラン・機能名・対応形式・提供範囲は変更されることがあります。 最新情報は公式サイトでご確認ください（執筆時点の情報として要確認）。",
+    "url": "https://note.com/mainichi_ai_new/n/n151956e2fd61",
+    "pass": 3
+   },
+   {
+    "quote": "How I used Claude to brainstorm and built an AI-native ... Oct 4, 2026 · Mintlify is a service for creating and publishing documentation sites. Originally intended for creating developer documentation, it turns pages written in Markdown into beautiful sites.",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Are the readers of documentation no longer human? ~Reading ... I recently read \"Self-Updating Docs is an Infinite Market\" written by Patrick Foster (@patrickrfos) of Mintlify. The original article argues that \"self-updating documentation is an infinite market,\" based on the perspective that the primary readers of documentation are shifting from humans to AI agents.",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Claude と壁打ちして、Mintlify で AI ネイティブなポートフォリオサイトを作った話｜Tatsuya Nakano / howdy39",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654",
+    "pass": 3
+   },
+   {
+    "quote": "Claude と壁打ちして、Mintlify で AI ネイティブなポートフォリオサイトを作った話",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654",
+    "pass": 3
+   },
+   {
+    "quote": "Tatsuya Nakano / howdy39",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654",
+    "pass": 3
+   },
+   {
+    "quote": "これまで GitHub Pages に置いていた個人サイトを、ポートフォリオサイトを Mintlify で作り直しました。",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify のアカウントを作るところから Claude Code と始めて、実作業時間は 3〜4 時間ほどでした。",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654",
+    "pass": 3
+   },
+   {
+    "quote": "※ Mintlify 自体は仕事で触っているのである程度知っていました",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify はドキュメントのサイトを作って公開するためのサービスです。もともとは開発者向けのドキュメントを作るためのもので、Markdown で書いたページが、そのままきれいなサイトになります。AI ネイティブなドキュメントのプラットフォームと呼ぶのが良いと思います。",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654",
+    "pass": 3
+   },
+   {
+    "quote": "次のようなサイトで、見たことがある方もいるかもしれません。",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654",
+    "pass": 3
+   },
+   {
+    "quote": "【保存版】Mintlify完全マスター｜ドキュメント整備がいつも後回しになって開発チームからの問い合わせが減らない人でも「コードから自動で最新のドキュメントが生成される」状態に変える〜放置されたドキュメ｜毎日AI調査",
+    "url": "https://note.com/mainichi_ai_new/n/n151956e2fd61",
+    "pass": 3
+   },
+   {
+    "quote": "【保存版】Mintlify完全マスター｜ドキュメント整備がいつも後回しになって開発チームからの問い合わせが減らない人でも「コードから自動で最新のドキュメントが生成される」状態に変える〜放置されたドキュメントの正体と、AIが支援する整備までの実践ガイド",
+    "url": "https://note.com/mainichi_ai_new/n/n151956e2fd61",
+    "pass": 3
+   },
+   {
+    "quote": "※本記事は公開情報と一般的な機能説明をもとにした紹介です。Mintlifyの料金プラン・機能名・対応形式・提供範囲は変更されることがあります。最新情報は公式サイトでご確認ください（執筆時点の情報として要確認）。",
+    "url": "https://note.com/mainichi_ai_new/n/n151956e2fd61",
+    "pass": 3
+   },
+   {
+    "quote": "「機能を実装するたびに、ドキュメントの更新は『後でやる』と先延ばしにして、気づけば半年前の古い情報のまま放置されている——そんな経験はありませんか？」",
+    "url": "https://note.com/mainichi_ai_new/n/n151956e2fd61",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、自社のAPIやSDKを他部署や外部の開発者に提供しているチームを想像してください。新機能のリリースや仕様変更のたびに、コードの実装は進んでも、対応するドキュメントの更新は後回しにされがちです。リリース直前の忙しい時期には、「動くコードを出すこと」が最優先され、ドキュメントの更新は「後でまとめてやろう」と先送りされます。しかし、その「後で」は永遠に訪れず、気づけば半年前の古い仕様のまま放置されたドキュメントが残り続けます。結果として、利用者からの「このパラメータは今も使えますか」「この仕様で合っていますか」という問い合わせが絶えず、本来なら自己解決できたはずの質問への対応に、開発チームの時間が奪われ続けます。",
+    "url": "https://note.com/mainichi_ai_new/n/n151956e2fd61",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlifyは、コードベースやAPIの仕様定義ファイルから、見やすく構造化された技術ドキュメントを自動生成・維持できるプラットフォームです。従来のWikiやNotionでの手動管理とは異なり、コードの変更と連動してドキュメントの古さを検知したり、AIが更新すべき箇所を提案してくれたりする点が特徴です。ドキュメントを「書いたら終わり」の静的な成果物ではなく、コードと一緒に育てていく仕組みへと変えてくれます。",
+    "url": "https://note.com/mainichi_ai_new/n/n151956e2fd61",
+    "pass": 3
+   },
+   {
+    "quote": "「後で更新する」が、信頼されないドキュメントを生み出す",
+    "url": "https://note.com/mainichi_ai_new/n/n151956e2fd61",
+    "pass": 3
+   },
+   {
+    "quote": "技術ドキュメントが形骸化していく最大の原因は、",
+    "url": "https://note.com/mainichi_ai_new/n/n151956e2fd61",
+    "pass": 3
+   },
+   {
+    "quote": "How I used Claude to brainstorm and built an AI-native portfolio site with Mintlify｜Tatsuya Nakano / howdy39",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How I used Claude to brainstorm and built an AI-native portfolio site with Mintlify",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tatsuya Nakano / howdy39",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have rebuilt my personal site, which I previously hosted on GitHub Pages, into a portfolio site using Mintlify.",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I started from creating a Mintlify account with Claude Code, and the actual work took about 3 to 4 hours.",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "* I was already somewhat familiar with Mintlify as I use it for work",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify is a service for creating and publishing documentation sites. Originally intended for creating developer documentation, it turns pages written in Markdown into beautiful sites. I think it is best described as an AI-native documentation platform.",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You might have seen sites like the following.",
+    "url": "https://note.com/howdy39/n/n8d75a35d8654?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Are the readers of documentation no longer human? ~Reading the source and counting method of '75% Agents'~｜おにぎりテック",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Are the readers of documentation no longer human? ~Reading the source and counting method of '75% Agents'~",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I recently read \"Self-Updating Docs is an Infinite Market\" written by Patrick Foster (@patrickrfos) of Mintlify.",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "argues that \"self-updating documentation is an infinite market,\" based on the perspective that the primary readers of documentation are shifting from humans to AI agents.",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What was interesting is that, despite documentation being a rather mundane subject, the numbers are moving significantly. In this article, I will organize where those numbers come from, how they are counted, and how far we can interpret them.",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I will also cover how we should think about documentation that is intended to be read by machines.",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I should state this upfront: Mr. Foster is an employee of Mintlify, which provides a documentation infrastructure. The original article is a repost from their company blog and is a promotional post intended to make the market for their automated documentation look large. In the following, I will distinguish between the company's figures by referring to them as \"the company's claims\" or \"the compan",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Beginning] Reading the numbers in a promotional article",
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mintlify (@mintlify) / X The Mintlify agent now runs your own skills. Upload your style guide, review checklist, or page templates once. The agent loads the right one whenever a task calls for it.",
+    "url": "https://x.com/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify on X: \"Introducing Mintlify Base, now in beta. The ... Introducing Mintlify Base, now in beta. The workspace for agent-human collaboration. → Collaborative agent for creating and editing → Built-in MCP server for working with any agent → Create shareable interactive pages",
+    "url": "https://x.com/mintlify/status/2115866337776119903",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify on X: \"Connect your AI agents to 200,000+ libraries ... 00:00 Try Mintlify Search Index From mintlify.com 5:23 PM · Aug 10, 2026 331.6KViews 1",
+    "url": "https://x.com/mintlify/status/2086971724831354992",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify on X: \"Introducing Mintlify Index: the first ... Mintlify Index starts with 9,000 pages from the highest-traffic docs we host, including those of Anthropic, Microsoft, Notion, Kimi, Cognition, Polymarket, X, and much more.",
+    "url": "https://x.com/mintlify/status/2085410422111494651",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify on X: \"Replace https://t.co/TCZHbwzZMr with https ... Mar 2, 2026 · Replace github.com with mintlify.com on any repo. Get production-quality docs auto-generated from the source code.",
+    "url": "https://x.com/mintlify/status/2028545344351707146",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mintlify - LinkedIn Knowledge infrastructure for AI. Mintlify powers docs for 20,000+ companies, reaching 100M+ developers a year. When humans or agents need to understand your product, they start with your docs.",
+    "url": "https://www.linkedin.com/company/mintlify",
+    "pass": 3
+   },
+   {
+    "quote": "Mintlify - LinkedIn Featured customers of Mintlify Notion Software Development Microsoft Software Development Lovable Software Development",
+    "url": "https://www.linkedin.com/products/mintlify/",
+    "pass": 3
+   },
+   {
+    "quote": "Han Wang - co-founder @ mintlify - we’re hiring | LinkedInHahnbee Lee - Mintlify | LinkedInLauren Volpi - marketing @ mintlify | LinkedInHead of Digital Customer Success at Mintlify - LinkedInBackend Engineer at Mintlify — San Francisco, CA - LinkedIn co-founder @ mintlify - we’re hiring · mintlify.com 🚀 · Experience: Mintlify · Education: Y Combinator · Location: San Francisco · 500+ connections ",
+    "url": "https://www.linkedin.com/in/handotdev",
+    "pass": 3
+   },
+   {
+    "quote": "Hahnbee Lee - Mintlify | LinkedInLauren Volpi - marketing @ mintlify | LinkedInHead of Digital Customer Success at Mintlify - LinkedInBackend Engineer at Mintlify — San Francisco, CA - LinkedIn https://www.mintlify.com/ · Experience: Mintlify · Education: Y Combinator · Location: San Francisco · 500+ connections on LinkedIn. Oct 9, 2021 · marketing @ mintlify · I am a marketing leader with 20 year",
+    "url": "https://www.linkedin.com/in/hahnbee-lee",
+    "pass": 3
+   },
+   {
+    "quote": "Han Wang - co-founder @ mintlify - we’re hiring | LinkedIn48 Hours as Mintlify's Founding PM — Right ... - LinkedInMintlify - ForbesMintlify raises $45M Series B led by Andreessen Horowitz and ...Mintlify | Salesforce VenturesMintlify Management Team | Org Chart - RocketReach co-founder @ mintlify - we’re hiring · mintlify.com 🚀 · Experience: Mintlify · Education: Y Combinator · Location: San Fran",
+    "url": "https://www.linkedin.com/in/handotdev",
+    "pass": 3
+   },
+   {
+    "quote": "48 Hours as Mintlify's Founding PM — Right ... - LinkedIn Apr 22, 2026 · Last week, Mintlify announced a $45M Series B at a $500M valuation, led by a16z and Salesforce Ventures. Their CEO, Han Wang, describes the thesis as “Documentation isn't something people read ...",
+    "url": "https://www.linkedin.com/pulse/48-hours-mintlifys-founding-pm-right-before-45m-series-yihui-song-jjvvc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Forbes - Anthropic is just one of 20,000 companies that use ... Anthropic is just one of 20,000 companies that use Mintlify’s AI system to generate and maintain FAQs and user guides about their software products. Not...",
+    "url": "https://www.facebook.com/forbes/photos/anthropic-is-just-one-of-20000-companies-that-use-mintlifys-ai-system-to-generat/1330611658928821/",
+    "pass": 3
+   },
+   {
+    "quote": "Documentation Index > Fetch the complete ... - Facebook Mintlify uses it only to split string claim values. If the delimiter can be part of a group name, omit `groupsDelimiter`. For example, with `\"groups\": \"general,client\"` and `groupsDelimiter` set to `\",\"`, Mintlify uses `general` and `client` as separate groups. Mintlify trims whitespace around each group and ignores empty segments.",
+    "url": "https://www.facebook.com/rwny3098/videos/-documentation-index-fetch-the-complete-documentation-index-at-httpswwwmintlifyc/1712187440499550/",
+    "pass": 3
+   },
+   {
+    "quote": "VietTechies | you can now use mintlify to automatically build ... Feb 28, 2026 · you can now use mintlify to automatically build docs for arbitrary github repos (e.g. n8n here) with an agent powered by a skill reflecting everything we know about quality docs",
+    "url": "https://www.facebook.com/groups/viettechies/posts/1649204503197889/",
+    "pass": 3
+   },
+   {
+    "quote": "SIU - [Tech Spotlight] Mintlify – Tạo tài liệu đẹp, dễ bảo ... Jul 17, 2025 · 📖 [Tech Spotlight] Mintlify – Tạo tài liệu đẹp, dễ bảo trì và… có AI hỗ trợ! 📄 Mintlify là một nền tảng viết tài liệu sản phẩm (documentation platform)...",
+    "url": "https://www.facebook.com/SIUAILAB/photos/-tech-spotlight-mintlify-tạo-tài-liệu-đẹp-dễ-bảo-trì-và-có-ai-hỗ-trợ-mintlify-là/774521588422460/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mintlify.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/anthropic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/coinbase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/cognition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/att",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/rivian",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/hubspot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/lovable",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/kalshi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/decagon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/replit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/perplexity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/polymarket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/customers/harvey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mintlify.com/_next/image?url=%2Fcustomers%2Fcoinbase.png&w=3840&q=95",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mintlify.com/_next/image?url=%2Fcustomers%2Fcoinbase-dark.png&w=3840&q=95",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mintlify.com/_next/image?url=%2Fcustomers%2Fanaconda.png&w=3840&q=95",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.mintlify.com/_next/image?url=%2Fcustomers%2Fanaconda-dark.png&w=3840&q=95",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codenote.net/ja/posts/mintlify-case-studies-scalable-docs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-mintlify/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apidog.com/jp/blog/mintlify-docs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/MTG_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mintlify.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mintlify.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/mag/mintlify-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://codenote.net/en/posts/mintlify-multilingual-docs-english-japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builtwith.com/human-test/continue?return=https%3A%2F%2Ftrends.builtwith.com%2Fwebsitelist%2FMintlify%2FJapan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mintlify.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/mintlify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/mintlify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infisical.com/customers/mintlify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.remitly.com/us/en/landing/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/mintlify/__4H1JwQrPEEjkuME5kKnugS51A3fazz3eCPVzsiIl9gs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/mintlify",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/493338-16",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/mintlify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/howdy39/n/n8d75a35d8654",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mainichi_ai_new/n/n151956e2fd61",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/howdy39/n/n8d75a35d8654?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mintlify",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mintlify/status/2115866337776119903",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mintlify/status/2086971724831354992",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mintlify/status/2085410422111494651",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mintlify",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/mintlify/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/handotdev",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/hahnbee-lee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/forbes/photos/anthropic-is-just-one-of-20000-companies-that-use-mintlifys-ai-system-to-generat/1330611658928821/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rwny3098/videos/-documentation-index-fetch-the-complete-documentation-index-at-httpswwwmintlifyc/1712187440499550/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/viettechies/posts/1649204503197889/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SIUAILAB/photos/-tech-spotlight-mintlify-tạo-tài-liệu-đẹp-dễ-bảo-trì-và-có-ai-hỗ-trợ-mintlify-là/774521588422460/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/handotdev",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/48-hours-mintlifys-founding-pm-right-before-45m-series-yihui-song-jjvvc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mintlify",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mintlify/status/2028545344351707146",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mintlify 日本 導入",
+   "results": [
+    "https://aipicks.jp/mag/mintlify-guide-2026",
+    "https://codenote.net/ja/posts/mintlify-case-studies-scalable-docs/",
+    "https://generative-ai.co.jp/usecase/ai-startup-usecase-mintlify/",
+    "https://apidog.com/jp/blog/mintlify-docs/",
+    "https://gihyo.jp/article/2026/08/mintlify-index",
+    "https://cryptul.co.jp/insights/articles/182-mintlify-documentation-comparison",
+    "https://claude.com/ja/customers/mintlify"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mintlify 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/MTG_(企業)",
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.mintlify.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mintlify Japan",
+   "results": [
+    "https://www.mintlify.com/",
+    "https://aipicks.jp/mag/mintlify-guide-2026",
+    "https://codenote.net/en/posts/mintlify-multilingual-docs-english-japanese/",
+    "https://trends.builtwith.com/websitelist/Mintlify/Japan",
+    "https://apidog.com/jp/blog/mintlify-docs/",
+    "https://www.mintlify.com/docs/guides/internationalization",
+    "https://generaltranslation.com/en-US/docs/integrations/mintlify/guides/using-translated-content"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mintlify manufacturing customer case study",
+   "results": [
+    "https://www.mintlify.com/customers",
+    "https://www.casestudies.com/company/mintlify",
+    "https://www.casestudies.com/customer/mintlify",
+    "https://infisical.com/customers/mintlify",
+    "https://stytch.com/customer-stories/mintlify",
+    "https://www.trychroma.com/customers/mintlify-case-study",
+    "https://www.mintlify.com/customers/replit",
+    "https://www.getunleash.io/case-study-mintlify",
+    "https://www.usequanta.com/customers/mintlify",
+    "https://www.featuredcustomers.com/vendor/mintlify"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Mintlify white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.remitly.com/us/en/landing/partner-program",
+    "https://www.seoreseller.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.strikingly.com/reseller-program",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mintlify founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/mintlify/__4H1JwQrPEEjkuME5kKnugS51A3fazz3eCPVzsiIl9gs",
+    "https://compworth.com/company/mintlify",
+    "https://pitchbook.com/profiles/company/493338-16",
+    "https://startupintros.com/orgs/mintlify",
+    "https://www.crunchbase.com/organization/mintlify",
+    "https://www.zoominfo.com/c/mintlify-inc/565357531",
+    "https://fundediq.co/mintlify-mintlify-com-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mintlify",
+   "results": [
+    "https://note.com/howdy39/n/n8d75a35d8654",
+    "https://note.com/mainichi_ai_new/n/n151956e2fd61",
+    "https://note.com/howdy39/n/n8d75a35d8654?hl=en",
+    "https://note.com/onigiri_t8y/n/n0e7f3732c6cf?hl=en",
+    "https://note.com/shuhei_sawamura/n/n811a08eff1d4",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mintlify",
+   "results": [
+    "https://x.com/mintlify",
+    "https://x.com/mintlify/status/2115866337776119903",
+    "https://x.com/mintlify/status/2086971724831354992",
+    "https://x.com/mintlify/status/2085410422111494651",
+    "https://x.com/mintlify/status/2117661036241354817",
+    "https://x.com/mintlify/status/2120234034714620123",
+    "https://docs.x.com/x-api/posts/search/integrate/operators"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mintlify",
+   "results": [
+    "https://www.linkedin.com/company/mintlify",
+    "https://www.linkedin.com/products/mintlify/",
+    "https://www.linkedin.com/in/handotdev",
+    "https://www.linkedin.com/in/hahnbee-lee",
+    "https://www.linkedin.com/in/laurenvolpi",
+    "https://www.linkedin.com/jobs/view/head-of-digital-customer-success-at-mintlify-4484419156",
+    "https://www.linkedin.com/jobs/view/backend-engineer-at-mintlify-4454392224"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mintlify",
+   "results": [
+    "https://www.facebook.com/forbes/photos/anthropic-is-just-one-of-20000-companies-that-use-mintlifys-ai-system-to-generat/1330611658928821/",
+    "https://www.facebook.com/rwny3098/videos/-documentation-index-fetch-the-complete-documentation-index-at-httpswwwmintlifyc/1712187440499550/",
+    "https://www.facebook.com/groups/viettechies/posts/1649204503197889/",
+    "https://www.facebook.com/SIUAILAB/photos/-tech-spotlight-mintlify-tạo-tài-liệu-đẹp-dễ-bảo-trì-và-có-ai-hỗ-trợ-mintlify-là/774521588422460/",
+    "https://www.facebook.com/ssafi20/",
+    "https://www.facebook.com/explainthis.io/posts/讓-cursor-與-discord-都被影響的-xss-攻擊這週在社群中有一項白帽駭客的資安揭露是很多公司有使用的-ai-驅動文件平台-mintlify-被發/862335310087425/",
+    "https://www.facebook.com/scottyobrien303/videos/️-rocky-mountain-minute-this-time-from-gravity-haus-in-teton-village-jackson-hol/2062157067779246/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mintlify note 社長",
+   "results": [
+    "https://www.mintlify.com/",
+    "https://www.linkedin.com/in/handotdev",
+    "https://www.linkedin.com/pulse/48-hours-mintlifys-founding-pm-right-before-45m-series-yihui-song-jjvvc",
+    "https://www.forbes.com/profile/mintlify/",
+    "https://salesforceventures.com/companies/mintlify/",
+    "https://rocketreach.co/mintlify-management_b7948902c24daa6b",
+    "https://www.mintlify.com/blog/series-b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mintlify X 投稿",
+   "results": [
+    "https://x.com/mintlify",
+    "https://www.mintlify.com/docs/zh/quickstart",
+    "https://x.com/mintlify/status/2028545344351707146",
+    "https://docs.mintlify.com/",
+    "https://www.tinyash.com/blog/mintlify-auto-docs-5-scenarios/",
+    "https://www.mintlify.com/docs/zh",
+    "https://generaltranslation.mintlify.app/ja/overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部44頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部44頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部44頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部44頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部44頁・検索12回）"
+ }
+}

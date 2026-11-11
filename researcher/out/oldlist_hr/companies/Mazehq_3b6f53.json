@@ -1,0 +1,734 @@
+{
+ "name": "Mazehq",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AUMS不適合",
+ "researched_at": "2026-11-10T23:40:26.359000+00:00",
+ "official_url": "https://mazehq.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Engineering Manager, Product Security, Alloy",
+    "url": "https://mazehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By combining context from code, cloud, and more, Maze investigates every vulnerability, shows you what’s not exploitable, and prioritizes the rest.",
+    "url": "https://mazehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Security research, blogs, video, and more from security leaders and the Maze team.",
+    "url": "https://mazehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Removed from a Plane project? One invite can bring you back as admin",
+    "url": "https://mazehq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Manager, Product Security, Alloy",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "Proven exploitable or closed",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "Agents bundle proven-exploitable CVEs into a high-impact fix and recommend mitigations when patching isn’t an option. Fixes route to the correct owner.",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "Maze agents determine exploitability, surfacing only true positives. Then they prioritize based on risk using context from your code, build, and runtime.",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "Precision you can rely on",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "See how Maze AI agents investigate, prove, and fix code",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "Think of it as an experienced security engineer reading your code. Maze agents understand every line, catch the vulnerabilities a rules-based scanner can’t, and clear the false positives that bury your team. Every finding is investigated to prove whether it’s exploitable, and the ones that matter arrive with evidence and a fix.",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "Your SAST tool matches patterns, and most of what it finds isn’t real. Maze agents read your code the way a security engineer would, so they find the flaws rules can’t describe and investigate every finding to prove what’s exploitable. Most turn out to be noise, and we show you why.",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "No. Maze Code works on its own, investigating every finding with context from your code and build. Add Maze Cloud and agents also see how that code runs in production.",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing work?",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "We aim to keep pricing simple and fair. Large language models aren’t cheap, but we’ve worked hard to optimize cost and performance to make sure our pricing is reasonable.",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "Maze has been built for enterprise from day one. We’re ISO 27001 and SOC 2 Type II certified.",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "Security research, blogs, video, and more from security leaders and the Maze team.",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "Removed from a Plane project? One invite can bring you back as admin",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Manager, Product Security, Alloy",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Agents understand your code, the image it’s deployed to, the container it ships in, and where it runs. Every finding is weighed against your context to prove what’s exploitable.",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Container environments change constantly, so agents regularly check what’s running. They deprioritize findings on containers that stop running, and investigate new exposure.",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Agents prioritize risk",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Risk prioritization weighs exposure, potential damage, and whether the asset is running. Agents understand the same finding can be a low in staging and a critical in production.",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Proven exploitable or closed",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Agents investigate each finding with code and cloud context. What isn’t exploitable gets closed. The rest gets prioritized by real impact and likelihood, with the evidence attached.",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Agents bundle proven-exploitable CVEs into a high-impact fix, and recommend mitigations when patching isn’t an option. Every fix routes to the responsible developer or coding agent.",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "No. No sensors, no eBPF, nothing running alongside your workloads. All Maze needs is a read-only role. Agents continually check your environment to see which containers are live, which images they run, and how each one is exposed.",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Most container CVEs arrive that way. Agents trace the finding to the layer it came from, then propose remediation options with the tradeoffs shown, like upgrading the base image or rebuilding to pull the patch, so you pick the fix that fits.",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing work?",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "We aim to keep pricing simple and fair. Large language models aren’t cheap, but we’ve worked hard to optimize cost and performance to make sure our pricing is reasonable.",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Maze has been built for enterprise from day one. We’re ISO 27001 and SOC 2 Type II certified.",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Security research, blogs, video, and more from security leaders and the Maze team.",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Removed from a Plane project? One invite can bring you back as admin",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Manager, Product Security, Alloy",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "Your base image, a build step, or a dependency three layers down. Agents work out which, and provide the fix.",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "Finding who owns the fix is often one of the harder problems. Agents gather context from your commit history, code, and more, then route it to the right developer or coding agent.",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "Vulnerabilities shouldn’t be fixed one at a time. Agents bundle proven-exploitable CVEs into high-impact fixes, so one ticket can close 30 or more.",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "Remediation is part of both Maze Cloud and Maze Code. Wherever a vulnerability is proven exploitable, in your cloud, your code, or your dependencies, agents take it from verdict to a fix your team can ship. When patching isn’t an option, they recommend a mitigation instead.",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "Nothing arrives as a black box. Every fix comes with the investigation behind it, what the vulnerability is, why the change resolves it, and the evidence for both. Your developers review and merge with full context, the same way they’d treat any PR.",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Agents bundle proven-exploitable CVEs into high-impact fixes, so a single change can close dozens of findings that share a root cause.",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "The textbook fix rarely accounts for your team’s reality. Agents propose several options, from a version bump to restructuring a component, so you pick the fix that matches your needs.",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing work?",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "We aim to keep pricing simple and fair. Large language models aren’t cheap, but we’ve worked hard to optimize cost and performance to make sure our pricing is reasonable.",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "Maze has been built for enterprise from day one. We’re ISO 27001 and SOC 2 Type II certified.",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "Security research, blogs, video, and more from security leaders and the Maze team.",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "Removed from a Plane project? One invite can bring you back as admin",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "The latest content from Maze",
+    "url": "https://mazehq.com/resources/datasheets",
+    "pass": 1
+   },
+   {
+    "quote": "Product information about Maze",
+    "url": "https://mazehq.com/resources/datasheets",
+    "pass": 1
+   },
+   {
+    "quote": "The latest videos from Maze",
+    "url": "https://mazehq.com/resources/datasheets",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Manager, Product Security, Alloy",
+    "url": "https://mazehq.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "A unique approach to gathering runtime context, including in containers.",
+    "url": "https://mazehq.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Single-tenant hosting, deployable in any region, proven to work at Fortune 100 scale.",
+    "url": "https://mazehq.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "As attackers adopt powerful AI, defenders need to stay ahead. But a security product “using AI” means nothing on its own. AI agents can be unpredictable and expensive, which is why so many AI security tools look great in a demo but fail in production. Maze has been designed specifically to get the most out of AI agents in security, solving the challenges that often hold them back.",
+    "url": "https://mazehq.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Manager, Product Security, Alloy",
+    "url": "https://mazehq.com/platform/code",
+    "pass": 1
+   },
+   {
+    "quote": "Prove what’s exploitable, not just reachable",
+    "url": "https://mazehq.com/platform/code",
+    "pass": 1
+   },
+   {
+    "quote": "Maze proves what’s exploitable in your environment, not just reachable in your code. Exploitable findings rise to the top, prioritized by risk to your environment. If a vulnerability is reachable but can’t be exploited in practice, our AI agents close it before it ever reaches your team.",
+    "url": "https://mazehq.com/platform/code",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents deliver fixes your developers can use. They trace where the vulnerability came from, identify the owner, and ship the PR directly to them. When no fix exists yet, they recommend a mitigation instead.",
+    "url": "https://mazehq.com/platform/code",
+    "pass": 1
+   },
+   {
+    "quote": "Maze finds every vulnerable dependency, then prioritizes the ones that create real risk for your organization. Our AI-built call graphs pick up where traditional methods stop. They determine exploitability with context from your code and cloud. If it’s exploitable, we help your team fix it fast.",
+    "url": "https://mazehq.com/platform/code",
+    "pass": 1
+   },
+   {
+    "quote": "See how Maze AI agents investigate, prove, and fix code",
+    "url": "https://mazehq.com/platform/code",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing work?",
+    "url": "https://mazehq.com/platform/code",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Think of it as an experienced security engineer reading your code. Maze agents understand every line, catch the vulnerabilities a rules-based scanner can’t, and clear the false positives that bury your team. Every finding is investigated to prove whether it’s exploitable, and the ones that matter arrive with evidence and a fix.",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "An LLM is part of it, but on its own that isn’t enough. Maze agents gather the context a security engineer would want first, like the call graph, data flow, build, and runtime, and pick the right method for each step. The harnesses around the model are what make verdicts reliable.",
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "pass": 1
+   },
+   {
+    "quote": "Container security is part of Maze Cloud. Agents map your containers, images, and registries, investigate every finding with context from your environment, and help you fix what’s exploitable. If you also run Maze Code, the two share context, so investigations get sharper on both sides.",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Most container CVEs arrive that way. Agents trace the finding to the layer it came from, then propose remediation options with the tradeoffs shown, like upgrading the base image or rebuilding to pull the patch, so you pick the fix that fits.",
+    "url": "https://mazehq.com/solutions/container",
+    "pass": 1
+   },
+   {
+    "quote": "Remediation is part of both Maze Cloud and Maze Code. Wherever a vulnerability is proven exploitable, in your cloud, your code, or your dependencies, agents take it from verdict to a fix your team can ship. When patching isn’t an option, they recommend a mitigation instead.",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "Nothing arrives as a black box. Every fix comes with the investigation behind it, what the vulnerability is, why the change resolves it, and the evidence for both. Your developers review and merge with full context, the same way they’d treat any PR.",
+    "url": "https://mazehq.com/solutions/remediation",
+    "pass": 1
+   },
+   {
+    "quote": "This is the part of the website where you might be expecting a perfectly crafted origin story. Something about how, as founders, we’ve been battling vulnerabilities all our lives, about how destiny led us to this point.",
+    "url": "https://mazehq.com/our-story",
+    "pass": 1
+   },
+   {
+    "quote": "The industry has to do better, and not just because customers deserve it. AI is clearly making it cheaper and easier to carry out cyberattacks, and the pace of progress shows no sign of slowing down. For now, AI is helping attackers more than defenders. That needs to change.",
+    "url": "https://mazehq.com/our-story",
+    "pass": 1
+   },
+   {
+    "quote": "Moss（親会社: Nufin GmbH / 金融子会社: Moss GmbH）は、2019年にドイツ・ベルリンで設立された、欧州の中小企業（SME）や急...",
+    "url": "https://www.firstcvc.jp/global/mazehq.com",
+    "pass": 3
+   },
+   {
+    "quote": "👥 23 employees",
+    "url": "https://www.gritt.io/company/mazehq/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mazeの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 本ページの企業情報は、公式サイト（https://mazehq.com/）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです。 内容の正確性については公式サイト・出典をご確認ください。 続きの詳しい内容は、無料会員登録でご覧いただけます。",
+    "url": "https://www.firstcvc.jp/global/mazehq.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Maze - LinkedIn Once a vulnerability is confirmed exploitable, agents generate a fix and route it to the developer or AI agent who owns that code. Learn more at mazehq.com.",
+    "url": "https://www.linkedin.com/company/mazehq/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mindmazehq - Facebook Mindmazehq. 8 followers · 9 talking about this. 🧠 Mind Maze HQ 🧩 Quiz • Puzzles • Brain Games 🔥 Test Your Brain Every Day 🎯 Think • Guess • Win Follow...",
+    "url": "https://www.facebook.com/mathsmission/reels/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mazehq.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mazehq.com/solutions/ai-sast",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mazehq.com/solutions/container",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mazehq.com/solutions/remediation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mazehq.com/resources/datasheets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mazehq.com/platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mazehq.com/platform/code",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mazehq.com/our-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mazehq.com/customer-story/how-cohere-health-cleared-92-of-its-critical-and-high-findings",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/mazehq.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotstart.info/article/2026/10/20/382539.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/690226022/Machinemaze-Customer-Deck",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoho.com/creator/case-studies/machinemaze-manufacturing-management-platform.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/maze",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dor.wa.gov/taxes-rates/retail-sales-tax/reseller-permits/how-verify-reseller-permits",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/maze-mazehq-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mandos.io/data/companies/maze",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gritt.io/company/mazehq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/maze",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/mazehq/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mathsmission/reels/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mazehq 日本 導入",
+   "results": [
+    "https://www.firstcvc.jp/global/mazehq.com",
+    "https://mazehq.com/",
+    "https://robotstart.info/article/2026/10/20/382539.html",
+    "https://mazehq.com/our-story",
+    "https://36kr.jp/502580/",
+    "https://diamond.jp/articles/-/396296",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mazehq 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mazehq Japan",
+   "results": [
+    "https://mazehq.com/",
+    "https://mazehq.com/platform",
+    "https://mazehq.com/our-story",
+    "https://mazehq.com/platform/code",
+    "https://mazehq.com/contact-us",
+    "https://theoryvc.com/portfolio/mazehq",
+    "https://mazehq.com/resources"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mazehq manufacturing customer case study",
+   "results": [
+    "https://www.scribd.com/document/690226022/Machinemaze-Customer-Deck",
+    "https://www.zoho.com/creator/case-studies/machinemaze-manufacturing-management-platform.html",
+    "https://www.appsruntheworld.com/customers-database/products/view/maze",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://maze.co/",
+    "https://mazehq.com/",
+    "https://mazehq.com/learn"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mazehq white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://dor.wa.gov/taxes-rates/retail-sales-tax/reseller-permits/how-verify-reseller-permits",
+    "https://partner.vw.com/partner",
+    "https://www.superantispyware.com/reseller-program",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mazehq founded funding employees revenue",
+   "results": [
+    "https://fundediq.co/maze-mazehq-com-funding/",
+    "https://mandos.io/data/companies/maze",
+    "https://www.gritt.io/company/mazehq/",
+    "https://startupintros.com/orgs/maze",
+    "https://www.crunchbase.com/organization/maze-7eea",
+    "https://security1000.com/company/mazehq/financials",
+    "https://pitchbook.com/profiles/company/820491-31"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mazehq",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/dashboard",
+    "https://note.com/yanayana_calico/n/nedaad7b01112?hl=en",
+    "https://note.com/kenshiro_keiba",
+    "https://note.com/watasei/n/nf30c5a3cd82d",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mazehq",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Mazehq",
+   "results": [
+    "https://www.linkedin.com/company/mazehq/",
+    "https://uk.linkedin.com/in/harrywetherald",
+    "https://www.linkedin.com/posts/mazehq_welcome-phil-ohagan-activity-7307709134978666498-9QvW",
+    "https://www.linkedin.com/posts/mazehq_introducing-maze-code-activity-7475178146716135425-AG43",
+    "https://www.linkedin.com/posts/mazehq_did-you-hear-maze-is-officially-ga-every-activity-7394482981551247361-Uqhg",
+    "https://www.linkedin.com/posts/mazehq_meet-maze-ai-agents-that-bring-clarity-to-activity-7394411126899228672-LQ2m",
+    "https://www.linkedin.com/posts/mazehq_when-we-started-maze-we-set-out-to-build-activity-7475177093631352833-WFWQ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mazehq",
+   "results": [
+    "https://www.facebook.com/mathsmission/reels/",
+    "https://www.facebook.com/m2.magehq/posts/elevate-your-e-commerce-platform-with-the-magento-2-request-for-quote-extension-/469295128986354/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/m2.magehq/",
+    "https://www.facebook.com/HealthMazeHQ/",
+    "https://www.facebook.com/mazedesignhq/",
+    "https://www.facebook.com/groups/1180254402723220/posts/2370426630372652/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mazehq note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://mazehq.com/",
+    "https://mazehq.com/our-story"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mazehq X 投稿",
+   "results": [
+    "https://www.instagram.com/mazehq/",
+    "https://mazehq.com/",
+    "https://x.com/msxsm",
+    "https://x.com/sireinozaku_3/status/2028837977645072600",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://www.xvideos.com/?k=投稿"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部20頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部20頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

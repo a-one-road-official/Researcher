@@ -1,0 +1,1318 @@
+{
+ "name": "Infisical",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AUMS不適合",
+ "researched_at": "2026-11-10T23:02:55.840566+00:00",
+ "official_url": "https://infisical.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金",
+    "value": "無料 5人以下なら無料",
+    "url": "https://iret.media/194347",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "愛知県碧南市川端町1-41-3",
+    "url": "https://lexia-hp.com/blog/infisical-introduction",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "All-in-one platform to securely manage application secrets, certificates, and privileged access across cloud, on-prem, and AI infrastructure.",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SSH login to prod-db-01",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Approval window lapsed",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 01 2027",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 30 2026",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Secrets, certificates, and privileged access — one platform, one identity model, one place to audit every credential your applications and agents use.",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore product features",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sync, rotate, and audit application credentials across every environment and workload — without the sprawl of vault forks, env files, and ad-hoc scripts.",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Require reviews for sensitive changes and access requests before they reach production.",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See Approval Workflows",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You decide which tools and APIs each agent can reach. Everything else is blocked at the proxy.",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The agent only ever sees placeholders. Real secrets are attached at the proxy and never reach the agent.",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stand up private CAs and automate the full certificate lifecycle — issuance, renewal, revocation — with identity-based access and full auditability.",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Privileged Access Management",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Privileged Access",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Record privileged sessions with AI-generated summaries.",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rotate privileged credentials automatically.",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "psql -U sarah prod_accounts",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Infisical is a rare developer tool that can both increase productivity and improve security.”",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“What impressed us most was they were responding to bug reports and implementing requests during the pre-sales cycle.”",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Principal SRE Engineer",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Security Engineer",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“With Infisical, you get the security benefit along with improved developer experience — it's a no-brainer.”",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Wish I did it sooner. Now — secrets never touch disk, secrets auto-shared between developers, edit in one place, propagate to prod, GitHub actions, staging env etc.",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "has been a great way for our team to centralize API key management. Helps you avoid feeling \"stuck\" to a cloud provider.",
+    "url": "https://infisical.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pick a product and choose a plan that fits.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pro and Advanced plans include a 14-day free trial.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For individuals and personal projects.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "30-day Audit log retention",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Access every feature in Pro, plus:",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "90-day Audit log retention",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Approval Workflows & Access Requests",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Audit log retention and rate limits",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Non-human identities, like apps, CI pipelines, and services, that authenticate to Infisical to pull secrets programmatically.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Distinct deployment contexts, like dev, staging, and production, where you can store separate versions of the same secrets.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "6/project",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "12/project",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise integrations (e.g. Oracle)",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prebuilt syncs for enterprise systems such as Oracle Cloud, built for larger and more complex infrastructure.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Define your own environments beyond the defaults (dev, staging, prod) to match your deployment topology.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Roll back a folder's secrets and configuration to any previous snapshot, scoped to that folder only.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Lightweight relays deployed in your network that let Infisical securely reach private databases and internal services without inbound access.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A summary view of secret access activity across your projects: volume, locations, and auth methods over time.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Let users log in through your identity provider, such as Okta or Azure AD, using the SAML protocol.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Additional privileges",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Grant time-limited permissions that automatically expire, useful for short-term tasks like debugging production.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Approval workflows & access requests",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Require designated approvers to sign off before a user's request for expanded or temporary access is granted.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically provision and deprovision users in Infisical from your identity provider, like Okta or Azure AD.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "API and request throughput limits. Advanced raises the standard limit; Enterprise sets a custom limit for high-volume automation.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Read in-depth stories from teams using Infisical in production.",
+    "url": "https://infisical.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "As Greptile's engineering team grew, manual secret sharing broke. Onboarding is now a single access grant, rotating a production secret is a swap-and-deploy.",
+    "url": "https://infisical.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "See how Mintlify adopted Infisical from day one to make onboarding instant and solve secrets management before it ever became a problem.",
+    "url": "https://infisical.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "See how Excalidraw eliminated .env sprawl with self-hosted Infisical, compressing engineer onboarding to one command across their NX monorepo.",
+    "url": "https://infisical.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How the Teamworks team used Infisical to eliminate secret sprawl, reclaim 10+ hours a week, and turn rotations from a troubleshooting session into a 30-second UI update.",
+    "url": "https://infisical.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "See how Lucid replaced its secrets tool with Infisical to reduce bottlenecks, automate credential rotation, and improve engineering velocity.",
+    "url": "https://infisical.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "See how WRITER centralized secrets with Infisical to eliminate secret sprawl, strengthen security, and scale.",
+    "url": "https://infisical.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We're a team of makers building the security infrastructure the world runs on. Headquartered in San Francisco, hiring globally.",
+    "url": "https://infisical.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The principles and values that shape how we ship.",
+    "url": "https://infisical.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our best work happens across functions, not within silos. Engineering talks to customers, sales shapes product, and we all take a stake in each other's success. We win together.",
+    "url": "https://infisical.com/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the best teams in the world",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fake credentials planted alongside real secrets that trigger an alert the moment an attacker tries to use them.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams securing critical infrastructure",
+    "url": "https://infisical.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Hugging Face Case Study | Infisical",
+    "url": "https://infisical.com/customers/hugging-face",
+    "pass": 1
+   },
+   {
+    "quote": "Hugging Face is a leading AI company trusted by industry giants like Google, Microsoft, and Meta. It hosts the world's largest repository of open-source machine learning models with over 1 million public and private models. They partnered with Infisical to secure and automate secret management across their infrastructure.",
+    "url": "https://infisical.com/customers/hugging-face",
+    "pass": 1
+   },
+   {
+    "quote": "The most widely used work acceleration platform among Fortune 500 companies, Lucid’s solutions are trusted by more than 100 million users worldwide, including Google, GE, and NBC Universal. Lucid partners with leaders such as Google, Atlassian, and Microsoft, and has received numerous awards for its products, growth, and workplace culture.",
+    "url": "https://infisical.com/customers/lucid-software",
+    "pass": 1
+   },
+   {
+    "quote": "Powering a Tool Used by Millions: How Excalidraw Replaced .env Sprawl with Self-Hosted Infisical",
+    "url": "https://infisical.com/customers/excalidraw",
+    "pass": 1
+   },
+   {
+    "quote": "Founders and operators behind products engineering teams already rely on, alongside the firms that have backed us since Y Combinator.",
+    "url": "https://infisical.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve raised ~$60M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face, OpenRouter, LG, and NVIDIA.",
+    "url": "https://infisical.com/careers/solutions-engineer",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the best teams in the world",
+    "url": "https://infisical.com/talk-to-us",
+    "pass": 1
+   },
+   {
+    "quote": ": Plant decoy credentials alongside your real secrets, and get an alert as soon as someone tries to use them.",
+    "url": "https://github.com/infisical/infisical",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Let external clients and hardware manage encryption keys through Infisical using the standard KMIP protocol. KMIP is a paid add-on to Enterprise, not part of the base plan — talk to sales to add it.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The number of developers whose commits and repositories are monitored for leaked secrets. Secret scanning is a paid add-on to Enterprise, not part of the base plan — talk to sales to add it.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The 5 free identities are part of the Free plan only. Once you upgrade to Pro, you'll be charged for each identity in your organization.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "201-500 employees",
+    "url": "https://infisical.com/customers/hugging-face",
+    "pass": 1
+   },
+   {
+    "quote": "Adrien Carreira, Head of Infrastructure",
+    "url": "https://infisical.com/customers/hugging-face",
+    "pass": 1
+   },
+   {
+    "quote": "1,000+ employees",
+    "url": "https://infisical.com/customers/lucid-software",
+    "pass": 1
+   },
+   {
+    "quote": "The most widely used work acceleration platform among Fortune 500 companies, Lucid’s solutions are trusted by more than 100 million users worldwide, including Google, GE, and NBC Universal. Lucid partners with leaders such as Google, Atlassian, and Microsoft, and has received numerous awards for its products, growth, and workplace culture.",
+    "url": "https://infisical.com/customers/lucid-software",
+    "pass": 1
+   },
+   {
+    "quote": "200-500 employees",
+    "url": "https://infisical.com/customers/writer",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2020, WRITER delivers unmatched ROI for hundreds of customers like Accenture, Mars, Marriott, Uber, and Vanguard and is backed by investors including Premji Invest, Radical Ventures, ICONIQ Growth, Insight Partners, Balderton, B Capital, Salesforce Ventures, Adobe Ventures, Citi Ventures, IBM Ventures, and others.",
+    "url": "https://infisical.com/customers/writer",
+    "pass": 1
+   },
+   {
+    "quote": "50-100 employees",
+    "url": "https://infisical.com/customers/openrouter",
+    "pass": 1
+   },
+   {
+    "quote": "like cron jobs pulling revenue data and trust and safety signals, scoped so agents only reach what they need.",
+    "url": "https://infisical.com/customers/openrouter",
+    "pass": 1
+   },
+   {
+    "quote": "into its own product. Because OpenRouter customers can bring their own provider keys (OpenAI, Anthropic, and others), key rotation is a regular part of maintaining their setup.",
+    "url": "https://infisical.com/customers/openrouter",
+    "pass": 1
+   },
+   {
+    "quote": "11-50 employees",
+    "url": "https://infisical.com/customers/excalidraw",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond the daily workflow, the team got the structural controls they’d been missing. Excalidraw moved to a zero-trust production access model with strict role-based controls. Production access is now limited to the technical co-founders, and developers see only their dev environments. SSO ties access into the team management system, and the same setup carried Excalidraw through",
+    "url": "https://infisical.com/customers/excalidraw",
+    "pass": 1
+   },
+   {
+    "quote": "Custom NX wrappers around Infisical make secret distribution part of the build pipeline rather than a separate workflow",
+    "url": "https://infisical.com/customers/excalidraw",
+    "pass": 1
+   },
+   {
+    "quote": "Infisical was part of the tech stack Excalidraw upgraded for SOC 2, alongside Nx, monitoring, and VPN. You can",
+    "url": "https://infisical.com/customers/excalidraw",
+    "pass": 1
+   },
+   {
+    "quote": ": Let storage arrays, databases, and other KMIP clients manage their keys in Infisical.",
+    "url": "https://github.com/infisical/infisical",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Share a secret via a link that expires after a set time or number of views, instead of pasting it in chat or email.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Alerting (Email, Slack, Discord, MS Teams, PagerDuty, Splunk)",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Route secret-leak alerts to Email, Slack, Discord, Microsoft Teams, PagerDuty, or Splunk.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Direct support from the Infisical team over email.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get emailed ahead of certificate expiry so you can renew before anything breaks.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Define your own alert rules, thresholds, and recipients instead of relying on the default expiry email.",
+    "url": "https://infisical.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ">>>> Welcome to Infisical! You are now logged in as your@email.com <<<<",
+    "url": "https://iret.media/194347",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "弊社 AI Native（株式会社 AI Native）でも、AI エージェントが開発環境にアクセスする前提でのシークレット管理は重要なテーマになっています",
+    "url": "https://www.ai-native.jp/blog/infisical-secrets-management-open-source-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Infisical の仕組み・会社概要・使い方・Vault などとの違い・日本企業が導入を検討するときの観点を解説します",
+    "url": "https://www.ai-native.jp/blog/infisical-secrets-management-open-source-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がInfisicalの導入を検討するときの3つの観点",
+    "url": "https://www.ai-native.jp/blog/infisical-secrets-management-open-source-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": "私（田中、株式会社 AI Native 代表）の個人的な所感",
+    "url": "https://www.ai-native.jp/blog/infisical-secrets-management-open-source-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": "料金は USD ベースで、為替によって日本円換算は変動します",
+    "url": "https://fyve.co.jp/claude-code/articles/1password-vs-infisical-claude-code",
+    "pass": 3
+   },
+   {
+    "quote": "今回は株式会社セプテーニ・インキュベートの樋口さんより、Infisical Secret Managementを紹介いただきました",
+    "url": "https://zenn.dev/flinters_blog/articles/1fcc88ccee32fc",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FLINTERSの公式技術ブログです",
+    "url": "https://zenn.dev/flinters_blog/articles/1fcc88ccee32fc",
+    "pass": 3
+   },
+   {
+    "quote": "日本語圏では、Vercel 侵害を契機に Infisical 全体を解説した note 記事（ヒナアオ氏）のなかで agent-vault の名前が列挙されているのみで、単独で解説した記事は確認できない",
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "pass": 3
+   },
+   {
+    "quote": "エージェントセキュリティのこのアプローチが、日本語圏のどの層に刺さりうるかを公表情報ベースで整理する",
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "pass": 3
+   },
+   {
+    "quote": "日本語圏では Claude Code / Cursor の運用ベストプラクティスを整備しているチームの参考資料になりうる",
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Infisical とは｜.envを使わないOSSシークレット管理とVault ... — Infisical とは｜.envを使わないOSSシークレット管理とVault ... 株式会社AI Native https://www.ai-native.jp > ブログ > 技術・開発",
+    "url": "https://www.ai-native.jp/blog/infisical-secrets-management-open-source-complete-guide",
+    "pass": 3
+   },
+   {
+    "quote": "1Password vs Infisical ｜AIコーディング時代の個人開発 ... - Fyve — 1Password vs Infisical ｜AIコーディング時代の個人開発 ... - Fyve 株式会社Fyve https://fyve.co.jp > Claude Code for Business > 記事",
+    "url": "https://fyve.co.jp/claude-code/articles/1password-vs-infisical-claude-code",
+    "pass": 3
+   },
+   {
+    "quote": "開発環境の秘密情報管理を改善する「 Infisical Secret ... - Zenn — 開発環境の秘密情報管理を改善する「 Infisical Secret ... - Zenn Zenn https://zenn.dev > flinters_blog > articles",
+    "url": "https://zenn.dev/flinters_blog/articles/1fcc88ccee32fc",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical で.env共有の煩わしさとLLMのシークレット読み込み ... — Infisical で.env共有の煩わしさとLLMのシークレット読み込み ... iret.media https://iret.media > エンジニアブログ",
+    "url": "https://iret.media/194347",
+    "pass": 3
+   },
+   {
+    "quote": "Vercel侵害で注目される Infisical ——.envを捨ててLLM時代の ... — Vercel侵害で注目される Infisical ——.envを捨ててLLM時代の ... note https://note.com > 科学・テクノロジー > セキュリティ",
+    "url": "https://note.com/hinaao3600/n/n5d4f29d599ae",
+    "pass": 3
+   },
+   {
+    "quote": "もう.envを手動で共有しない！ Infisical が変えるシークレット ... — もう.envを手動で共有しない！ Infisical が変えるシークレット ... lexia-hp.com https://lexia-hp.com > ブログ",
+    "url": "https://lexia-hp.com/blog/infisical-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical シークレットマネージャー VPS ｜ ワンクリック ... — Infisical シークレットマネージャー VPS ｜ ワンクリック ... Hostinger https://www.hostinger.com > Hostinger > アプリ",
+    "url": "https://www.hostinger.com/jp/applications/infisical",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical | The modern security platform for developers and ... — Infisical | The modern security platform for developers and ... Infisical https://infisical.com",
+    "url": "https://infisical.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical Secrets Management Video Tutorial — Infisical Secrets Management Video Tutorial Infisical https://infisical.com > Videos",
+    "url": "https://infisical.com/videos/secrets-management-infisical",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical is the open-source platform for securing ... - GitHub — Infisical is the open-source platform for securing ... - GitHub GitHub https://github.com > infisical > infisical",
+    "url": "https://github.com/infisical/infisical",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical in 60 Seconds: The Complete Security Platform — Infisical in 60 Seconds: The Complete Security Platform Infisical https://infisical.com > Videos",
+    "url": "https://infisical.com/videos/infisical-in-60-seconds",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical vs 他のサービス : r/devops - Reddit — Infisical vs 他のサービス : r/devops - Reddit Reddit https://www.reddit.com > comments > infisical_vs_others",
+    "url": "https://www.reddit.com/r/devops/comments/1ldqikc/infisical_vs_others/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "customer stories - Case Studies - Infisical — customer stories - Case Studies - Infisical Infisical https://infisical.com > customers",
+    "url": "https://infisical.com/customers",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Infisical v0.159.28リリース｜権限分離と認証強化が中心の堅実アップ... May 9, 2026 · 1. 今回のリリース概要 ツール名：Infisical バージョン：v0.159.28 公開日：2026年5月9日 リリース種別： Patch（末尾番号更新ベースの判断） 重要度： ★★★☆☆ 緊急度： ★★☆☆☆ 対象読者： 開発者 / AIエージェント利用者 / 個人開発者 / 企業利用者 / セキュリティ担当者 / self-hosted運用者",
+    "url": "https://note.com/uh_datascience/n/n3072d6cef67d",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical v0.159.29リリース｜Oracle DB対応、Valkey連携、監査ログ... May 16, 2026 · 1. 今回のリリース概要 ツール名：Infisical バージョン：v0.159.29 公開日：2026年5月15日 リリース種別：Minor / Patch 重要度：★★★★☆ 緊急度：★★★☆☆ 対象読者：開発者 / 企業利用者 / セキュリティ担当者 / DevOps担当者 / インフラ運用者",
+    "url": "https://note.com/uh_datascience/n/n4dc88cc5d82c",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェントにAPIキーを渡さない設計 — Infisical×OneCLIで「管理... Apr 24, 2026 · Infisical — シークレットの「管理基盤」 Infisical（インフィジカル）は、オープンソースのシークレット管理プラットフォームです。 500社以上が採用し、月間5億個以上のシークレットを保護しているという実績があります。",
+    "url": "https://note.com/suwash/n/n41c16d7b6196",
+    "pass": 3
+   },
+   {
+    "quote": "エージェントには「シークレットを渡さない」という設計 — Infisical ... Apr 23, 2026 · プロンプトインジェクションでエージェントからシークレットが抜かれる、という事故は 2025〜2026 年の AI セキュリティ界隈で繰り返し話題になってきた。従来の対策は「権限を絞る」「環境変数の可視性を下げる」「実行サンドボックスを分ける」だった。Infisical が 2026-04-22 に Show HN した OSS ...",
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Infisical v0.159.28リリース｜権限分離と認証強化が中心の堅実アップデート｜UKI ｜データサイエンス×AI×セキュリティ",
+    "url": "https://note.com/uh_datascience/n/n3072d6cef67d",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical v0.159.28リリース｜権限分離と認証強化が中心の堅実アップデート",
+    "url": "https://note.com/uh_datascience/n/n3072d6cef67d",
+    "pass": 3
+   },
+   {
+    "quote": "UKI ｜データサイエンス×AI×セキュリティ",
+    "url": "https://note.com/uh_datascience/n/n3072d6cef67d",
+    "pass": 3
+   },
+   {
+    "quote": "開発者 / AIエージェント利用者 / 個人開発者 / 企業利用者 / セキュリティ担当者 / self-hosted運用者",
+    "url": "https://note.com/uh_datascience/n/n3072d6cef67d",
+    "pass": 3
+   },
+   {
+    "quote": "AIツールのアップデートを 実務視点で翻訳 します。",
+    "url": "https://note.com/uh_datascience/n/n3072d6cef67d",
+    "pass": 3
+   },
+   {
+    "quote": "AIの進化に置いていかれない状態を作ります。",
+    "url": "https://note.com/uh_datascience/n/n3072d6cef67d",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical v0.159.29リリース｜Oracle DB対応、Valkey連携、監査ログ強化｜UKI ｜データサイエンス×AI×セキュリティ",
+    "url": "https://note.com/uh_datascience/n/n4dc88cc5d82c",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical v0.159.29リリース｜Oracle DB対応、Valkey連携、監査ログ強化",
+    "url": "https://note.com/uh_datascience/n/n4dc88cc5d82c",
+    "pass": 3
+   },
+   {
+    "quote": "UKI ｜データサイエンス×AI×セキュリティ",
+    "url": "https://note.com/uh_datascience/n/n4dc88cc5d82c",
+    "pass": 3
+   },
+   {
+    "quote": "対象読者：開発者 / 企業利用者 / セキュリティ担当者 / DevOps担当者 / インフラ運用者",
+    "url": "https://note.com/uh_datascience/n/n4dc88cc5d82c",
+    "pass": 3
+   },
+   {
+    "quote": "AIツールのアップデートを 実務視点で翻訳 します。",
+    "url": "https://note.com/uh_datascience/n/n4dc88cc5d82c",
+    "pass": 3
+   },
+   {
+    "quote": "AIの進化に置いていかれない状態を作ります。",
+    "url": "https://note.com/uh_datascience/n/n4dc88cc5d82c",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェントにAPIキーを渡さない設計 — Infisical×OneCLIで「管理」と「利用」を分離する｜suwa-sh / 諏訪真一",
+    "url": "https://note.com/suwash/n/n41c16d7b6196",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェントにAPIキーを渡さない設計 — Infisical×OneCLIで「管理」と「利用」を分離する",
+    "url": "https://note.com/suwash/n/n41c16d7b6196",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェントにAPIキーを渡すとき、不安を感じたことはありませんか",
+    "url": "https://note.com/suwash/n/n41c16d7b6196",
+    "pass": 3
+   },
+   {
+    "quote": "業務で Claude Code や LangChain、n8n などの AI エージェントを使い始めると、最初にぶつかる壁があります。",
+    "url": "https://note.com/suwash/n/n41c16d7b6196",
+    "pass": 3
+   },
+   {
+    "quote": "「API キーをどこに置くか」という問題です。",
+    "url": "https://note.com/suwash/n/n41c16d7b6196",
+    "pass": 3
+   },
+   {
+    "quote": "エージェントが外部サービスを呼び出すには、実際のクレデンシャル（認証情報）が必要です。",
+    "url": "https://note.com/suwash/n/n41c16d7b6196",
+    "pass": 3
+   },
+   {
+    "quote": "エージェントのプロンプトや設定ファイルに生のキーを書いていると、何となく落ち着かない感覚がありました。",
+    "url": "https://note.com/suwash/n/n41c16d7b6196",
+    "pass": 3
+   },
+   {
+    "quote": "ログに残るかもしれない、キーがどこかに漏れるかもしれない、そういった不安です。",
+    "url": "https://note.com/suwash/n/n41c16d7b6196",
+    "pass": 3
+   },
+   {
+    "quote": "エージェントには「シークレットを渡さない」という設計 — Infisical が打ち出した Agent Vault を読み解く｜海外AI先取りリサーチ",
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "pass": 3
+   },
+   {
+    "quote": "エージェントには「シークレットを渡さない」という設計 — Infisical が打ち出した Agent Vault を読み解く",
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "pass": 3
+   },
+   {
+    "quote": "プロンプトインジェクションでエージェントからシークレットが抜かれる、という事故は 2025〜2026 年の AI セキュリティ界隈で繰り返し話題になってきた。従来の対策は「権限を絞る」「環境変数の可視性を下げる」「実行サンドボックスを分ける」だった。Infisical が 2026-04-22 に Show HN した OSS プロジェクト「Agent Vault」は、別の角度から解こうとしている ―",
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "pass": 3
+   },
+   {
+    "quote": "そもそもエージェントにクレデンシャルを渡さない",
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "pass": 3
+   },
+   {
+    "quote": "。代わりに、エージェントのすべての HTTP リクエストを手前の",
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "pass": 3
+   },
+   {
+    "quote": "プロキシが覗き込んで必要な認証ヘッダを注入する",
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "pass": 3
+   },
+   {
+    "quote": "Hacker News では 9 ポイント / 2 コメント（取得時刻 2026-04-22 22:00Z）と派手な燃え方はしていない。だが開発元の Infisical は HashiCorp Vault や Doppler と比較される OSS シークレット管理プラットフォームで、リポジトリは執筆時点で 94 スター・6 フォーク・123 コミット、14 リリースを重ねている。MIT ライセンス（expat）で公開されており、ee ディレクトリ配下にのみ有償版機能が置かれる構造と公式 README に記載されている。",
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "pass": 3
+   },
+   {
+    "quote": "日本語圏では、Vercel 侵害を契機に Infisical 全体を解説した note 記事（ヒナアオ氏）のなかで agent-vault の名前が列挙されているのみで、単独で解説した記事は確認できない。",
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Infisical (@infisical) / X Infisical now writes your secrets into your Spacelift contexts! You choose an Infisical folder and the @spaceliftio context to write to. When a value changes in Infisical, Infisical updates the context, and every stack attached to it gets the new value on its next run, with support for environment variables or mounted files. Available on all plans.",
+    "url": "https://x.com/infisical",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical on X: \"We’re excited to announce we have raised a ... We’re excited to announce we have raised a $40M Series B! This next round of funding lets us continue to strengthen our secrets, certificate, and access management products. We'll also expand the capabilities of Agent Vault, so engineers adopting AI agents can give them access without handing over the underlying credentials. Thank you",
+    "url": "https://x.com/infisical/status/2115114595413074022",
+    "pass": 3
+   },
+   {
+    "quote": "Vlad Matsiiako on X: \"Today, we’re announcing Infisical’s ... Today, we’re announcing Infisical’s $40M Series B at a $600M valuation, led by @eladgil. AI has made it 10x easier to write code, 10x easier to find vulnerabilities, and given autonomous agents access to some very sensitive systems. The problem is that much of today’s security infrastructure was…",
+    "url": "https://x.com/matsiiako/status/2115114843183186126",
+    "pass": 3
+   },
+   {
+    "quote": "Vlad Matsiiako (@matsiiako) / X Founder @Infisical, securing secrets and access for developers and agents",
+    "url": "https://x.com/matsiiako",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical on X: \"Access denied. Credential required. On ... Infisical on X: \"Access denied. Credential required. On October 21 at 1 PM ET, see how Agent Vault gives AI agents access to the services they need without ever exposing the credentials behind them We’ll walk through Agent Vault live and show how it works with tools like Claude Code and Codex, and answer your questions.",
+    "url": "https://x.com/infisical/status/2110744211276407223",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Infisical - LinkedIn Infisical | 13,335 followers on LinkedIn. Infisical is the security infrastructure platform for developers and agents: manage secrets, identity, and access. | Infisical is the leading open source ...",
+    "url": "https://www.linkedin.com/company/infisical/",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical - LinkedIn Infisical | The unified secrets, identity, and access management platform for developers.",
+    "url": "https://www.linkedin.com/products/infisical/",
+    "pass": 3
+   },
+   {
+    "quote": "Vlad Matsiiako - Infisical | LinkedInTony D. - Infisical | LinkedInAlexandra Koullick - Chief of Staff @ Infisical | LinkedInAlex Koritsas - Talent @ Infisical | We’re Hiring! | LinkedInInfisical — A Fresh Take on Secrets Management - LinkedIn Proud Ukrainian in Silicon Valley. Building Infisical to simplify secret management for… · Experience: Infisical · Education: Y Combinator · Location: San F",
+    "url": "https://www.linkedin.com/in/vmatsiiako",
+    "pass": 3
+   },
+   {
+    "quote": "Tony D. - Infisical | LinkedInAlexandra Koullick - Chief of Staff @ Infisical | LinkedInAlex Koritsas - Talent @ Infisical | We’re Hiring! | LinkedInInfisical — A Fresh Take on Secrets Management - LinkedIn Building the all-in-one security infrastructure platform. Hiring:… · Experience: Infisical · Location: San Francisco Bay Area · 500+ connections on LinkedIn. View Tony D.’s profile on ... Chief",
+    "url": "https://www.linkedin.com/in/tony-d-a104a6125",
+    "pass": 3
+   },
+   {
+    "quote": "Vlad Matsiiako - Infisical | LinkedInFiscalNote Appoints Key Compton as President and Chief ...外資系企業の日本法人社長は、部下を守れるのか――香港本部からの一本...ネスレ、トヨタも使う「法務部にとっての最強プラットフォーム」Fisca... Proud Ukrainian in Silicon Valley. Building Infisical to simplify secret management for… · Experience: Infisical · Education: Y Combinator · Location: San Francisco · 500+ connections on ... Jun 24, 2026 · WASHINGTON, June 24, 202",
+    "url": "https://www.linkedin.com/in/vmatsiiako",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "App.infisical.com #infidical #camidevai | Camicatura Digital Oct 21, 2026 · App.infisical.com #infidical #camidevai App.infisical.com #infidical #camidevai Pamela Antonia Nicul Hidaldo and 5 others 6 1",
+    "url": "https://www.facebook.com/camidevai/videos/appinfisicalcom-infidical-camidevai/1090917690210323/",
+    "pass": 3
+   },
+   {
+    "quote": "Infisical：開源版 HashiCorp... - AIOnDaily｜AI融入日常x工作效率提... May 5, 2026 · Infisical 是 GitHub 累計 23,200 顆星的開源 Secret 管理平台，解決「API 金鑰、資料庫密碼、環境變數散落在 .env、Git、Slack 各處」的根本問題，提供統一的儲存、同步、輪換、掃 描機制，MIT 授權、支援完全自架。 為什麼需要它？",
+    "url": "https://www.facebook.com/aiondaily/posts/-infisical開源版-hashicorp-vaultapi-金鑰和密碼的統一管理中心-自從養了一堆-agent-員工後不斷學習-harness-思維去控管/122133445869115163/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://infisical.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infisical.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infisical.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infisical.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infisical.com/customers/hugging-face",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infisical.com/customers/lucid-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infisical.com/customers/writer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infisical.com/customers/openrouter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infisical.com/customers/excalidraw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infisical.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infisical.com/careers/solutions-engineer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infisical.com/talk-to-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://infisical.com/images/customers/hugging-face/hf-logo-dark.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://infisical.com/images/customers/hugging-face/logo.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://infisical.com/images/logos/testimonitals-default/lucid-logo.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://infisical.com/images/logos/testimonitals-default/writer-logo.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.ai-native.jp/blog/infisical-secrets-management-open-source-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fyve.co.jp/claude-code/articles/1password-vs-infisical-claude-code",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/flinters_blog/articles/1fcc88ccee32fc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iret.media/194347",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-native.jp/blog/infisical-secrets-management-open-source-complete-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/flinters_blog/articles/1fcc88ccee32fc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lexia-hp.com/blog/infisical-introduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hostinger.com/jp/applications/infisical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/infisical/infisical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/uh_datascience/n/n3072d6cef67d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/uh_datascience/n/n4dc88cc5d82c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suwash/n/n41c16d7b6196",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/overseas_digest/n/n00a046a2b565",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/infisical",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/infisical/status/2115114595413074022",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/matsiiako/status/2115114843183186126",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/matsiiako",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/infisical/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/infisical/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/vmatsiiako",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/tony-d-a104a6125",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/camidevai/videos/appinfisicalcom-infidical-camidevai/1090917690210323/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/aiondaily/posts/-infisical開源版-hashicorp-vaultapi-金鑰和密碼的統一管理中心-自從養了一堆-agent-員工後不斷學習-harness-思維去控管/122133445869115163/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/vmatsiiako",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/infisical",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/infisical/status/2110744211276407223",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Infisical 日本 導入",
+   "results": [
+    "https://www.ai-native.jp/blog/infisical-secrets-management-open-source-complete-guide",
+    "https://fyve.co.jp/claude-code/articles/1password-vs-infisical-claude-code",
+    "https://zenn.dev/flinters_blog/articles/1fcc88ccee32fc",
+    "https://iret.media/194347",
+    "https://note.com/hinaao3600/n/n5d4f29d599ae",
+    "https://lexia-hp.com/blog/infisical-introduction",
+    "https://www.unite.ai/ja/infisical-raises-40-million-series-b-at-600-million-valuation-to-secure-ai-agent-access/",
+    "https://qiita.com/sadoken/items/d6cbc7f8b9f409c343e7",
+    "https://findy-tools.io/products/infisical/1272",
+    "https://tech-lab.sios.jp/archives/52791"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Infisical 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.ai-native.jp/blog/infisical-secrets-management-open-source-complete-guide",
+    "https://zenn.dev/flinters_blog/articles/1fcc88ccee32fc",
+    "https://lexia-hp.com/blog/infisical-introduction",
+    "https://www.hostinger.com/jp/applications/infisical",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://partner.infinicloud.com/agencypartner.html",
+    "https://www.netskope.com/jp/partners/partner-list",
+    "https://www.udc-synchro.co.jp/partner/",
+    "https://it.kmkworld.com/partner/",
+    "https://chigai2.fromation.co.jp/archives/30533"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Infisical Japan",
+   "results": [
+    "https://infisical.com/",
+    "https://infisical.com/videos/secrets-management-infisical",
+    "https://github.com/infisical/infisical",
+    "https://infisical.com/videos/infisical-in-60-seconds",
+    "https://www.reddit.com/r/devops/comments/1ldqikc/infisical_vs_others/?tl=ja",
+    "https://infisical.com/pricing",
+    "https://www.linkedin.com/company/infisical",
+    "https://hub.docker.com/r/infisical/infisical",
+    "https://www.ai-native.jp/blog/infisical-secrets-management-open-source-complete-guide"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Infisical manufacturing customer case study",
+   "results": [
+    "https://infisical.com/customers",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.infor.com/customer-stories",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vImwkE5UNBsk6q2DJCZejZete4WukRpye2uiVBQ4HfXwkW5N6c-",
+    "https://infisical.com/customers/traba"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Infisical white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.spectrum.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.nextiva.com/company/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Infisical founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Infisical",
+   "results": [
+    "https://note.com/uh_datascience/n/n3072d6cef67d",
+    "https://note.com/uh_datascience/n/n4dc88cc5d82c",
+    "https://note.com/suwash/n/n41c16d7b6196",
+    "https://note.com/overseas_digest/n/n00a046a2b565",
+    "https://note.com/hinaao3600/n/n5d4f29d599ae",
+    "https://note.com/overseas_digest/n/n00a046a2b565?hl=en",
+    "https://note.com/snake_dragon/n/n3d02000651b6?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Infisical",
+   "results": [
+    "https://x.com/infisical",
+    "https://x.com/infisical/status/2115114595413074022",
+    "https://x.com/matsiiako/status/2115114843183186126",
+    "https://x.com/matsiiako",
+    "https://x.com/infisical/status/2039080983085941039",
+    "https://x.com/infisical/status/2043859555273134268",
+    "https://x.com/infisical/status/2045909889197674811"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Infisical",
+   "results": [
+    "https://www.linkedin.com/company/infisical/",
+    "https://www.linkedin.com/products/infisical/",
+    "https://www.linkedin.com/in/vmatsiiako",
+    "https://www.linkedin.com/in/tony-d-a104a6125",
+    "https://www.linkedin.com/in/akoullick",
+    "https://www.linkedin.com/in/alex-koritsas",
+    "https://www.linkedin.com/pulse/infisical-fresh-take-secrets-management-abhi-krishna-4kykc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Infisical",
+   "results": [
+    "https://www.facebook.com/camidevai/videos/appinfisicalcom-infidical-camidevai/1090917690210323/",
+    "https://www.facebook.com/aiondaily/posts/-infisical開源版-hashicorp-vaultapi-金鑰和密碼的統一管理中心-自從養了一堆-agent-員工後不斷學習-harness-思維去控管/122133445869115163/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/p/Bsa-Fiscal-61593547665632/",
+    "https://www.facebook.com/p/Pedro-Fiscal-61583603483860/",
+    "https://business.facebook.com/groups/1398469627697169/",
+    "https://business.facebook.com/groups/empresasestartupsbrasilia/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Infisical note 社長",
+   "results": [
+    "https://investors.fiscalnote.com/news/news-details/2026/FiscalNote-Appoints-Key-Compton-as-President-and-Chief-Executive-Officer/default.aspx",
+    "https://www.forbes.com/sites/rashishrivastava/2026/10/27/this-600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents/",
+    "https://www.bizjournals.com/washington/news/2026/06/25/fiscalnote-ceo-key-comptin-appointment.html",
+    "https://www.linkedin.com/in/vmatsiiako",
+    "https://finance.yahoo.com/economy/policy/articles/fiscalnote-appoints-key-compton-president-130000105.html?fr=sycsrp_catchall",
+    "https://techblitz.com/startup-interview/fiscalnote/",
+    "https://note.com/suzukan01/n/n85a4a880dc66"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Infisical X 投稿",
+   "results": [
+    "https://x.com/infisical",
+    "https://x.com/infisical/status/2110744211276407223",
+    "https://community.infisical.com/",
+    "https://juejin.cn/post/7405526173667835939",
+    "https://note.com/overseas_digest/n/n00a046a2b565",
+    "https://zendot.org/posts/infisical-infisical",
+    "https://note.com/hinaao3600/n/n5d4f29d599ae"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}

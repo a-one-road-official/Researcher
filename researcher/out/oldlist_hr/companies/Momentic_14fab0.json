@@ -1,0 +1,1456 @@
+{
+ "name": "Momentic",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-10T23:26:41.629601+00:00",
+ "official_url": "https://momentic.ai",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://momentic.ai/about",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, US",
+    "url": "https://momentic.ai/about",
+    "pass": 1
+   }
+  ],
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "Free tier $0/month with $50 of usage; Scale $500/month with $500 of usage; enterprise custom. See pricing .",
+    "url": "https://momentic.ai/about",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "04-Mar-2025    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/551392-39",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Mo is an AI QA engineer for web, iOS and Android apps. Point it at a URL or a build, and it files each bug with repro steps and a screenshot or recording.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Teams that ship every day run Momentic in production.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Having E2E QA be part of the development process, run this fast (6.3x parallel), and at this scale (for every single pull request) is a true dream. Seriously, a green CI now has a measurable impact on my sleep quality.\"",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I just ran our first automated eval across 110 prompts. This would have taken well over an hour manually — I kicked it off in 5 seconds and it was done in 14 minutes. HUGE for us.\"",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I love working with Momentic. Especially after having years of previous experience in QA, it feels like riding a bike, except the bike is a supercharged electric one!\"",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Productivity Engineer, Webflow",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell Mo what to test, and it files the bugs it finds. Approve a flow and Mo opens a PR that adds it as a Momentic test. Momentic runs your tests on every PR, nightly, or in CI.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Bug reports with repro steps and recordings",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mo files each bug with repro steps, expected and actual behavior, and a screenshot or recording.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mo turns a flow you approve into a Momentic YAML test and opens a pull request in your repo.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Run regression tests on every PR and in CI",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Run saved tests on a schedule, on every PR, or in CI, and use the result as a required check.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "NIGHTLY, PR, AND CI RUNS",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product Operations, Quora",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We've already seen a 30% decrease in production incidents thanks to Momentic's automated testing.\"",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "reduction in production incidents",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Test private apps with SSO and custom data policies. Get dedicated onboarding and priority support. Momentic is SOC 2 Type 2 certified.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Service scope and uptime commitments are set in your Enterprise agreement.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority support and a dedicated account manager for enterprise accounts.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "New-device 2FA prompt skipped",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "On mobile, keyboard auto-dismissed when creating a new page, breaking content flow.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At a top food-delivery marketplace, a payment-form refactor stopped pre-filling saved cards, forcing manual re-entry to pay.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At a popular online retail marketplace, moving to page two reset every active category and price filter.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Valid promo codes rejected at the final step",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At a large online travel marketplace, a validation change rejected multi-segment promo codes on the last checkout step.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product Operations, Quora",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“We've already seen a 30% decrease in production incidents thanks to Momentic's automated testing.”",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "reduction in production incidents",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic changed how we approach frontend testing. It's now a core part of how we ship changes every day.”",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic empowers us to ship fast without breaking things. It's become a crucial part of our PR cycle.”",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product & COO, Kibu",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic saw our proof-of-concept as a legitimate value add and worked with us to formalize it.”",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "April 2026",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Mo is out of beta. Start a session from your coding agent, the app, a PR comment, or the qa CLI. A separate agent reproduces each functional bug before Mo reports it.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Start Mo from a PR comment, a label, or the CLI. It tests the PR's preview deployment, posts a review with its findings, and sets a Mo commit check.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Accept, dismiss, fix, or reopen a bug with qa bugs. A retest keeps the finding and its history, and marks it fixed when Mo can no longer reproduce it.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Say in plain English what should have been true at some point in a run. Momentic checks it against frames from the run video, so a toast that flashes for a second still counts.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "momentic doctor tells you what is wrong with your setup: CLI and Node versions, sign-in, browsers, project config, and the connection to Momentic. --fix clears out deprecated options.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "momentic ai explore now supports deeper planning controls, JSON output, and product bug reports with repro steps.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Runs now expose live progress, structured JSON output, and clearer Run Viewer diagnostics for cache status, retries, conditionals, and loops.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "momentic ai triage groups failures into labeled buckets, previews the plan with a dry run, and can quarantine what it cannot fix.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Simplified v2 project format",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "New projects scaffold in the cleaner v2 file format, and momentic upgrade migrates existing projects end to end.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Provision ephemeral inboxes with email.create() and lease numbers from your org pool with sms.lease() right inside a test.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile video recording",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile tests gain dedicated setup and teardown sections so shared preconditions and cleanup live in one place.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The Run Viewer now charts system and process CPU and memory captured during execution to help debug flaky runs.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Refreshed models for the mobile locator and assertion agents improve accuracy on Android and iOS.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "For individuals and small projects.",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "30-day results retention",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Test-based custom pricing",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "SAML SSO, SCIM provisioning, audit log",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority support, SLA, and onboarding",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The triage agent investigates a failed run and proposes eligible repairs. Charged per run triaged.",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Drive Momentic from your own tools and agents over the Model Context Protocol.",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Give the agent context about your product so it tests the way your team would.",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The agent remembers prior runs and decisions to stay consistent over time.",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Single sign-on. Google on all plans; SAML for any identity provider on Enterprise.",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically create, update, and deactivate user accounts from your identity provider.",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding assistance",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "\"Having E2E QA be part of the development process, run this fast (6.3x parallel), and at this scale (for every single pull request) is a true dream. Seriously, a green CI now has a measurable impact on my sleep quality.\"",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Riders never saw an arrival estimate.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic changed how we approach frontend testing. It's now a core part of how we ship changes every day.”",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic empowers us to ship fast without breaking things. It's become a crucial part of our PR cycle.”",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Having E2E QA be part of the development process, run this fast (6.3x parallel), and at this scale (for every single pull request) is a true dream. Seriously, a green CI now has a measurable impact on my sleep quality.\"",
+    "url": "https://momentic.ai/sales",
+    "pass": 1
+   },
+   {
+    "quote": "250+ employees",
+    "url": "https://momentic.ai/customers/quora",
+    "pass": 1
+   },
+   {
+    "quote": "250+ employees",
+    "url": "https://momentic.ai/customers/retool",
+    "pass": 1
+   },
+   {
+    "quote": "Over the next three months, Retool was able to completely phase out manual testing. As a result, Retool 8x’ed their release cadence, saving over 40 engineering hours per month. Now Retool releases four times a week, an incredible feat for a platform used by over half of the Fortune 500.",
+    "url": "https://momentic.ai/customers/retool",
+    "pass": 1
+   },
+   {
+    "quote": "11–50 employees",
+    "url": "https://momentic.ai/customers/gptzero",
+    "pass": 1
+   },
+   {
+    "quote": "Looking ahead, GPTZero plans to continue scaling its product surface area while maintaining the reliability educators and organizations depend on. Momentic’s platform remains a core part of that evolution, supporting the team as workflows grow more complex and release velocity increases.",
+    "url": "https://momentic.ai/customers/gptzero",
+    "pass": 1
+   },
+   {
+    "quote": "51–200 employees",
+    "url": "https://momentic.ai/customers/mutiny",
+    "pass": 1
+   },
+   {
+    "quote": "is an AI platform that empowers GTM teams to create customer-facing assets that reflect their brand. Trusted by industry leaders including Uber, Amplitude, and GitLab, Mutiny supports high-touch enterprise GTM programs where reliability and execution confidence directly impact revenue and customer trust.",
+    "url": "https://momentic.ai/customers/mutiny",
+    "pass": 1
+   },
+   {
+    "quote": "As one of the fastest-growing enterprise GTM platforms, Mutiny leans heavily on continuous innovation to support its expanding roster of B2B clients. Because each interaction, from researching accounts to generating assets, has a direct impact on revenue, balancing development speed with release quality is their most important problem to solve.",
+    "url": "https://momentic.ai/customers/mutiny",
+    "pass": 1
+   },
+   {
+    "quote": "Moving forward, Mutiny is confident that Momentic will remain a core part of its development workflow, empowering the engineering team to expand coverage into new product areas and move quickly without sacrificing reliability.",
+    "url": "https://momentic.ai/customers/mutiny",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic changed how we approach frontend testing. It's now a core part of how we ship changes every day.”",
+    "url": "https://momentic.ai/customers/mutiny",
+    "pass": 1
+   },
+   {
+    "quote": "11–50 employees",
+    "url": "https://momentic.ai/customers/pocus",
+    "pass": 1
+   },
+   {
+    "quote": ") helps modern GTM teams hit their revenue goals, create repeatability, and future-proof their motion with the help of data, AI, and automation. Established in 2021, Pocus is trusted by leading organizations like Monday.com, Canva, and LaunchDarkly to generate over 70% of their pipeline and save reps 10+ hours every week.",
+    "url": "https://momentic.ai/customers/pocus",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic helps us validate real product behavior without relying on the narrow, machine-based workflows we had before. Now we focus only on real regressions rather than sifting through flakes.”",
+    "url": "https://momentic.ai/customers/pocus",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic changed how we approach frontend testing. It's now a core part of how we ship changes every day.”",
+    "url": "https://momentic.ai/customers/pocus",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic empowers us to ship fast without breaking things. It's become a crucial part of our PR cycle.”",
+    "url": "https://momentic.ai/customers/pocus",
+    "pass": 1
+   },
+   {
+    "quote": "11–50 employees",
+    "url": "https://momentic.ai/customers/nuvo",
+    "pass": 1
+   },
+   {
+    "quote": "At Nuvo, frontend functionality is directly tied to how quickly buyers and suppliers can onboard and begin doing business. The company’s web application powers customer onboarding and trade workflows where any interruption, delay, or regression can slow approvals, block transactions, and defer revenue.",
+    "url": "https://momentic.ai/customers/nuvo",
+    "pass": 1
+   },
+   {
+    "quote": "That uncertainty carried a real cost. Each failed run forced the team to pause feature work, inspect logs, and manually debug. Over time, trust in the test suite eroded. Expanding coverage only made the problem worse. To reach true 100% frontend test coverage with Playwright, Nuvo’s team estimated it would require dedicating roughly 20–25% of engineering time to writing and maintaining tests.",
+    "url": "https://momentic.ai/customers/nuvo",
+    "pass": 1
+   },
+   {
+    "quote": "With Momentic, Nuvo established a reliable and scalable testing layer for validating revenue-critical workflows. Instead of limiting coverage to avoid flakiness, Nuvo gained a testing foundation it could trust to surface real regressions early and keep onboarding flows stable through frequent releases.",
+    "url": "https://momentic.ai/customers/nuvo",
+    "pass": 1
+   },
+   {
+    "quote": "Today, the Nuvo engineering team adds Momentic tests alongside every major code change, as part of the core development process. Tests run automatically in CI to validate that new features behave correctly before reaching production, while a broader suite runs nightly to cover additional edge cases and scenarios.",
+    "url": "https://momentic.ai/customers/nuvo",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic changed how we approach frontend testing. Instead of treating it as a bottleneck, it’s now a core part of how we ship changes every day.”",
+    "url": "https://momentic.ai/customers/nuvo",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic empowers us to ship fast without breaking things. It's become a crucial part of our PR cycle.”",
+    "url": "https://momentic.ai/customers/nuvo",
+    "pass": 1
+   },
+   {
+    "quote": "250+ employees",
+    "url": "https://momentic.ai/customers/covergo",
+    "pass": 1
+   },
+   {
+    "quote": "51–200 employees",
+    "url": "https://momentic.ai/customers/roo",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic changed how we approach frontend testing. It's now a core part of how we ship changes every day.”",
+    "url": "https://momentic.ai/customers/roo",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic empowers us to ship fast without breaking things. It's become a crucial part of our PR cycle.”",
+    "url": "https://momentic.ai/customers/roo",
+    "pass": 1
+   },
+   {
+    "quote": "11–50 employees",
+    "url": "https://momentic.ai/customers/kibu",
+    "pass": 1
+   },
+   {
+    "quote": "“Momentic empowers us to ship fast without breaking things in the process. They've become a crucial part of our PR cycle, and the number of tests we run through them continues to grow by the day.”",
+    "url": "https://momentic.ai/customers/kibu",
+    "pass": 1
+   },
+   {
+    "quote": "11–50 employees",
+    "url": "https://momentic.ai/customers/best-parents",
+    "pass": 1
+   },
+   {
+    "quote": "Wei-Wei Wu is co-founder and CEO. He previously built infrastructure and real-time features at Assembled, and was the first employee and founding engineer at Nashi, which Density acquired in 2021.",
+    "url": "https://momentic.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/momentic/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/551392-39",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic has 6 total employees.",
+    "url": "https://pitchbook.com/profiles/company/551392-39",
+    "pass": 3
+   },
+   {
+    "quote": "What is Momentic’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/551392-39",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Momentic is",
+    "url": "https://pitchbook.com/profiles/company/551392-39",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic Revenue 2024: $900K Est.",
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic has not published its revenue. GetLatka estimates it at about $900K a year (June 2024).",
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic CEO, founders & employees",
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Wei-Wei Wu founded Momentic in 2023 and runs it as CEO. Momentic had 6 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Momentic's revenue?",
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Momentic's revenue at about",
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Momentic have?",
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email and SMS at runtime",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Provision ephemeral inboxes with email.create() and lease numbers from your org pool with sms.lease() right inside a test.",
+    "url": "https://momentic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Email and SMS at runtime",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Provision ephemeral inboxes with email.create() and lease numbers from your org pool with sms.lease() right inside a test.",
+    "url": "https://momentic.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Disposable inboxes for testing email flows like sign-up and password reset.",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Claim your email domain so new sign-ups from your company join your organization automatically.",
+    "url": "https://momentic.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sign in with $QA_EMAIL and $QA_PASSWORD.",
+    "url": "https://momentic.ai/docs/mo/sessions",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/momentic/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/momentic/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/551392-39",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Over the next three months, Retool was able to completely phase out manual testing. As a result, Retool 8x’ed their release cadence, saving over 40 engineering hours per month. Now Retool releases four times a week, an incredible feat for a platform used by over half of the Fortune 500.",
+    "url": "https://momentic.ai/customers/retool",
+    "pass": 1
+   },
+   {
+    "quote": "is an AI platform that empowers GTM teams to create customer-facing assets that reflect their brand. Trusted by industry leaders including Uber, Amplitude, and GitLab, Mutiny supports high-touch enterprise GTM programs where reliability and execution confidence directly impact revenue and customer trust.",
+    "url": "https://momentic.ai/customers/mutiny",
+    "pass": 1
+   },
+   {
+    "quote": ") helps modern GTM teams hit their revenue goals, create repeatability, and future-proof their motion with the help of data, AI, and automation. Established in 2021, Pocus is trusted by leading organizations like Monday.com, Canva, and LaunchDarkly to generate over 70% of their pipeline and save reps 10+ hours every week.",
+    "url": "https://momentic.ai/customers/pocus",
+    "pass": 1
+   },
+   {
+    "quote": ", a leading open-source AI code editor used by developers at companies including Netflix, Microsoft, and Amazon.",
+    "url": "https://momentic.ai/customers/roo",
+    "pass": 1
+   },
+   {
+    "quote": "Francisco, trusted by engineering teams.",
+    "url": "https://momentic.ai/momentic/8380e2b0-5919-4be5-92ee-92cb5499c51a",
+    "pass": 1
+   },
+   {
+    "quote": "We translate satellite data into quantified, source-attributed methane insights across complex infrastructure, supporting LDAR programs, operational planning, and risk management. With validated sensitivity down to single-digit methane releases, among the highest ever achieved using satellite data, operators can detect leaks faster, prioritize response, and improve operational efficiency.",
+    "url": "https://www.momentick.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Momentick provides satellite-based methane monitoring that delivers quantified, source-attributed insights at the asset level without hardware, site installs, or operational disruption. Our multi-satellite approach ensures consistent coverage across complex onshore and offshore infrastructure, giving operators the clarity to prioritize action, strengthen LDAR programs, and reduce financial risk.",
+    "url": "https://www.momentick.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/momentic/case-studies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "AIを活用してソフトウェアテストを自動化するスタートアップ企業「Momentic（モメンティック）」が、なんと1500万ドル（日本円にして約22億円！）もの巨額な資金調達に成功したというんです！",
+    "url": "https://note.com/2wd/n/ne84444f0c0da",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用してソフトウェアテストを自動化するスタートアップ企業「Momentic（モメンティック）」が、なんと1500万ドル（日本円にして約22億円！）もの巨額な資金調達に成功したというんです！",
+    "url": "https://note.com/2wd/n/ne84444f0c0da?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "開発者の救世主か？Momenticが約22億円資金調達、AIで「ソフトウェア... — Nov 25, 2025 · Momenticの成功は、この分野の技術開発競争を加速させ、他にも多くのAIテストソリューションが登場してくることでしょう。 その中で、Momenticがパイオニアとしてどのような進化を遂げていくのか、非常に注目が集まります。",
+    "url": "https://note.com/2wd/n/ne84444f0c0da",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic レビュー 2026：優れている点と課題のある点 | TestSprite — Momentic は今や、単なる優れたデモにとどまらず、実際の本番環境での実績を持っています。 同社の公表データによると、テスト実行数は 7,000 万回以上、本番前にキャッチしたバグは 117,000 件以上に上ります。 これはレビューの出発点として有用なデータ ...",
+    "url": "https://www.testsprite.com/ja/blog/momentic-review-2026-what-it-does-well-and-where-it-falls-short",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic とは？機能、制限、および最適なチーム | TestSprite — 最近「AI テストツール」と検索した方なら、Momentic を目にしたことがあるでしょう。 YC 支援を受けた資金力のあるプラットフォームで、平易な英語によるテスト作成を中心に、本当に堅実なプロダクトを構築しています。",
+    "url": "https://www.testsprite.com/ja/blog/what-is-momentic-features-limitations-and-best-fit-teams",
+    "pass": 3
+   },
+   {
+    "quote": "AI QA Engineer & AI Testing Platform | Momentic — AI testing on hosted browsers, iOS simulators and Android emulators, or in your CI. Loved by engineering teams. “Momentic gave us a fast and reliable way to validate Poe.com's AI responses, even when they weren't deterministic.”",
+    "url": "https://momentic.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AIが書いたコードを、AIが検証する時代へ──Momentic再ローンチが示す... — Jun 24, 2026 · そういう状態です。 ここに賭けたのが、AIネイティブのソフトウェアテスト企業Momentic（モーメンティック）です。 2026年6月、同社はプラットフォームの全面刷新、新ブランド、そして新しいAIエージェント群を引っさげて再ローンチしました。 何が新しい ...",
+    "url": "https://note.com/dot3ai/n/nb80a8b49d32b",
+    "pass": 3
+   },
+   {
+    "quote": "Customers - Momentic — Mo is an AI QA engineer. It tests your running app and files each bug with repro steps. Free to start, no credit card. iOS and Android testing are out of beta. Author and run Momentic tests on hosted iOS simulators and Android emulators, with modules, AI actions, and screen recordings for every run. Mo is out of beta.",
+    "url": "https://momentic.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Momentick - Monitoring GHG Emissions. Anytime. Anywhere ... — Momentick provides asset-level satellite methane monitoring for oil and gas operations. We translate satellite data into quantified, source-attributed methane insights across complex infrastructure, supporting LDAR programs, operational planning, and risk management.",
+    "url": "https://www.momentick.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | Momentic — “Momentic gave us a fast and reliable way to validate Poe.com's AI responses, even when they weren't deterministic.” “It's like giving someone your QA checklist and watching them execute it for you!” “We've already seen a 30% decrease in production incidents thanks to Momentic's automated testing.”",
+    "url": "https://momentic.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic B2B Case Studies & Customer Successes — See how Momentic solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/momentic",
+    "pass": 3
+   },
+   {
+    "quote": "1 Momentic Case Study, Success Story, & Customer Story ... — Browse Momentic case studies and success stories to help make the right purchasing decision.",
+    "url": "https://www.featuredcustomers.com/vendor/momentic/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Mutiny | Customers | Momentic — Partnering with Momentic enabled Mutiny to accelerate development velocity without the constant concern of regressions making their way into production, even as the team continued to iterate quickly across a complex, multi-service product.",
+    "url": "https://momentic.ai/customers/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Roo reclaims engineering time and reduces flaky ... — ROO partnered with Momentic (Computer Software) to solve key challenges. \"Roo reclaims 200+ engineering hours per quarter with Momentic\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/momentic/case-study/roo-reclaims-200-engineering-hours-per-quarter-with-momentic",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic – Overview – Funding, Revenue & Growth – 2026 — On average, Momentic is believed to generate yearly revenue close to $5.5M. Momentic's estimated revenue per employee stands at $128K. Momentic has raised a total of $4M in funding. Momentic currently has a workforce of over 40+. In the last year, Momentic added 16% more employees to its staff.",
+    "url": "https://compworth.com/company/momentic",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic 2026 Company Profile: Valuation, Funding & Investors ...Momentic Revenue 2024: $900K Est. ARR, $2.7M ValuationMomentic — Company Profile | The Company CheckMomentic: Funding, Team & Investors | Startup IntrosMomentic - 2026 Company Profile, Funding & Competitors - Tracxn — Information on valuation, funding, cap tables, investors, and executives for Momentic. Use the PitchBook Platform to ",
+    "url": "https://pitchbook.com/profiles/company/551392-39",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic Revenue 2024: $900K Est. ARR, $2.7M Valuation — Sep 2, 2026 · Momentic 2024 estimated revenue: $900K ARR. Valuation: $2.7M. 6 employees. Industry: Generative AI Software. Founded 2023 Updated Apr 10, 2025.",
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic — Company Profile | The Company Check — Momentic is a company based in San Francisco (United States) founded in 2023 by Jeff An and Wei-Wei Wu. Momentic has raised $19.2 million across 3 funding rounds from investors including FundersClub, General Catalyst and Y Combinator.",
+    "url": "https://www.thecompanycheck.com/company/b/momentic/caq3ps7ns5dq0ovtw",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Momentic has raised $19.5M across 3 funding rounds. Most recently, it raised $15.0M Series A in November 2025. Key people at Momentic. Momentic is an AI-native automated testing platform designed to streamline and accelerate software testing for modern development teams.",
+    "url": "https://startupintros.com/orgs/momentic",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "A Savior for Developers? Momentic Raises Approximately 2.2 ... Momentic's success will likely accelerate the technological development race in this field, leading to the emergence of many other AI testing solutions. All eyes are on how Momentic will evolve as a pioneer among them.",
+    "url": "https://note.com/2wd/n/ne84444f0c0da?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "開発者の救世主か？Momenticが約22億円資金調達、AIで「ソフトウェア... Nov 25, 2025 · Momenticの成功は、この分野の技術開発競争を加速させ、他にも多くのAIテストソリューションが登場してくることでしょう。 その中で、Momenticがパイオニアとしてどのような進化を遂げていくのか、非常に注目が集まります。",
+    "url": "https://note.com/2wd/n/ne84444f0c0da",
+    "pass": 3
+   },
+   {
+    "quote": "AIが書いたコードを、AIが検証する時代へ──Momentic再ローンチが示す... Jun 24, 2026 · そういう状態です。 ここに賭けたのが、AIネイティブのソフトウェアテスト企業Momentic（モーメンティック）です。 2026年6月、同社はプラットフォームの全面刷新、新ブランド、そして新しいAIエージェント群を引っさげて再ローンチしました。 何が新しい ...",
+    "url": "https://note.com/dot3ai/n/nb80a8b49d32b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "開発者の救世主か？Momenticが約22億円資金調達、AIで「ソフトウェアテスト」の常識を変える｜ARIA",
+    "url": "https://note.com/2wd/n/ne84444f0c0da?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "開発者の救世主か？Momenticが約22億円資金調達、AIで「ソフトウェアテスト」の常識を変える",
+    "url": "https://note.com/2wd/n/ne84444f0c0da?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "元ニュース: Momentic raises $15M to automate software testing",
+    "url": "https://note.com/2wd/n/ne84444f0c0da?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "皆さん、こんにちは！テクノロジーの進化が止まらない現代、私たちの生活は日々、さまざまなソフトウェアに支えられていますよね。スマホアプリ、Webサービス、PCソフト…これらが快適に動くのは、裏側でたくさんの「テスト」が行われているからなんです。",
+    "url": "https://note.com/2wd/n/ne84444f0c0da?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "でも、この「テスト」、実はソフトウェア開発の中でも、とてつもなく手間と時間とコストがかかる大変な作業。多くの開発チームが頭を抱えるポイントでもありました。",
+    "url": "https://note.com/2wd/n/ne84444f0c0da?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、今回飛び込んできたニュースは、まさにこのソフトウェア開発の「常識」を塗り替える可能性を秘めています。AIを活用してソフトウェアテストを自動化するスタートアップ企業「Momentic（モメンティック）」が、なんと1500万ドル（日本円にして約22億円！）もの巨額な資金調達に成功したというんです！",
+    "url": "https://note.com/2wd/n/ne84444f0c0da?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「AIでテストを自動化？」「それって、私たちにとってどう関係あるの？」",
+    "url": "https://note.com/2wd/n/ne84444f0c0da?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "開発者の救世主か？Momenticが約22億円資金調達、AIで「ソフトウェアテスト」の常識を変える｜ARIA",
+    "url": "https://note.com/2wd/n/ne84444f0c0da",
+    "pass": 3
+   },
+   {
+    "quote": "開発者の救世主か？Momenticが約22億円資金調達、AIで「ソフトウェアテスト」の常識を変える",
+    "url": "https://note.com/2wd/n/ne84444f0c0da",
+    "pass": 3
+   },
+   {
+    "quote": "元ニュース: Momentic raises $15M to automate software testing",
+    "url": "https://note.com/2wd/n/ne84444f0c0da",
+    "pass": 3
+   },
+   {
+    "quote": "皆さん、こんにちは！テクノロジーの進化が止まらない現代、私たちの生活は日々、さまざまなソフトウェアに支えられていますよね。スマホアプリ、Webサービス、PCソフト…これらが快適に動くのは、裏側でたくさんの「テスト」が行われているからなんです。",
+    "url": "https://note.com/2wd/n/ne84444f0c0da",
+    "pass": 3
+   },
+   {
+    "quote": "でも、この「テスト」、実はソフトウェア開発の中でも、とてつもなく手間と時間とコストがかかる大変な作業。多くの開発チームが頭を抱えるポイントでもありました。",
+    "url": "https://note.com/2wd/n/ne84444f0c0da",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、今回飛び込んできたニュースは、まさにこのソフトウェア開発の「常識」を塗り替える可能性を秘めています。AIを活用してソフトウェアテストを自動化するスタートアップ企業「Momentic（モメンティック）」が、なんと1500万ドル（日本円にして約22億円！）もの巨額な資金調達に成功したというんです！",
+    "url": "https://note.com/2wd/n/ne84444f0c0da",
+    "pass": 3
+   },
+   {
+    "quote": "「AIでテストを自動化？」「それって、私たちにとってどう関係あるの？」",
+    "url": "https://note.com/2wd/n/ne84444f0c0da",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Momentic (@MomenticAI) / X AI will write most of the world's code, Momentic will make sure it works. We've raised a $15M Series A led by Standard Capital to build the definitive source of truth for software.",
+    "url": "https://x.com/MomenticAI",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic (@MomenticUK) / X Momentic specialises in self-employment support, advice, training and development programmes",
+    "url": "https://x.com/MomenticUK",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic (@MomenticSEO) / X Come check out Granular's recent office expansion, while also exploring Momentic's brand new offices right next door. Whether you stop by for a couple minutes or hang out the whole time we're...",
+    "url": "https://x.com/MomenticSEO",
+    "pass": 3
+   },
+   {
+    "quote": "Get Momentic (@getmomentic) / X 🎉 Do not have an idea for a 18th birthday present? 🎁 Nothing easier! Just use Momentic App and print them as a Photobook. Get Momentic @getmomentic Jun 21, 2017",
+    "url": "https://x.com/getmomentic",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic on X: \"Happy 2 years to us! \" / X Jul 15, 2026 · Momentic @MomenticAI Happy 2 years to us! 🥳 wei-wei @wuweiweiwu Jul 14 2024: a yc application and a thesis few people were excited about today: - $15m series a - notion, xero, and some of the world's biggest media companies and storefronts trust us with every release - grew from 2 people to 16 - 1,000x more test volume than a year ago - shi",
+    "url": "https://x.com/MomenticAI/status/2077260108858585278",
+    "pass": 3
+   },
+   {
+    "quote": "#Momentic - Search / X See posts about #Momentic on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/Momentic?f=list",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic (@MomenticSEO) / X Curious how SEO can inform and improve the website redesign/launch process? We'll be hosting a presentation at Momentic on January 24 -- join us! bit.ly/2BWeDNJ",
+    "url": "https://x.com/MomenticSEO",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Momentic - LinkedIn Momentic is the agentic quality platform for web and mobile. Write tests in plain English, run them in CI, and use AI agents to triage failures, maintain coverage, and catch regressions before ...",
+    "url": "https://www.linkedin.com/company/momentic-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic - LinkedIn Founded in 2018, Momentic is a Milwaukee-based marketing firm that seeks to deliver scalable, tangible, and long-term organic and AI search for a diverse range of clients, including startups ...",
+    "url": "https://www.linkedin.com/company/momentic-seo/",
+    "pass": 3
+   },
+   {
+    "quote": "MOMENTIC LIMITED - LinkedIn Delivering Stability and Growth with a Social Conscience | MOMENTIC LIMITED is a enterprise development, training, coaching, business advice and management consulting company based out of DERBY,...",
+    "url": "https://uk.linkedin.com/company/momentic-limited",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic - LinkedIn Momentic | 448 followers on LinkedIn. We build, back and buy the CPG brands of the future | We are serial entrepreneurs and operators who know what it takes to build challenger companies because...",
+    "url": "https://www.linkedin.com/company/momentic-brands",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Momentic | Milwaukee WI - FacebookMomentec Brands - FacebookMomentic - FacebookMomentic - FacebookMomentic - FacebookMomentic | Derby - FacebookMomentic AI | San Francisco CA - Facebook If you've faced this issue time and again, save the panic and reach out to Momentic. We're accountable, engaged, and will care about your bottom line as much as we'll care about your client's. 1 day ago · Momentec ",
+    "url": "https://www.facebook.com/MomenticSEO/",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic - Facebook Apr 22, 2026 · Momentic. 1 like. Elevate the everyday with Momentic.",
+    "url": "https://www.facebook.com/trymomentic/",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic - Facebook Aug 9, 2026 · Momentic . 516 likes · 23 talking about this. \"Turning moments into lasting memories.'' ''MOMENTIC - your trusted event photography partner.\"",
+    "url": "https://www.facebook.com/p/Momentic-61566711312450/",
+    "pass": 3
+   },
+   {
+    "quote": "Momentic - Facebook Jan 1, 2018 · Friendship is not a great thing. Friendship is billions of small things :) Including hundreds of shared photos. It's high time to print them in a photobook. With Momentic, this will take a moment.",
+    "url": "https://www.facebook.com/getmomentic/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://momentic.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/customers/quora",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/customers/retool",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/customers/gptzero",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/customers/mutiny",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/customers/pocus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/customers/nuvo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/customers/covergo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/customers/roo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/customers/kibu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/customers/best-parents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/docs/mo/sessions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/docs/ai/skills",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://momentic.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobs.ashbyhq.com/momentic",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://momentic.ai/momentic/8380e2b0-5919-4be5-92ee-92cb5499c51a",
+    "status": "http_404",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/2wd/n/ne84444f0c0da",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.testsprite.com/ja/blog/momentic-review-2026-what-it-does-well-and-where-it-falls-short",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.testsprite.com/ja/blog/what-is-momentic-features-limitations-and-best-fit-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.momentick.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.momentive.com/ja-jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/momentic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/momentic/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/momentic",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/551392-39",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/momentic.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/momentic/caq3ps7ns5dq0ovtw",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/2wd/n/ne84444f0c0da?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/2wd/n/ne84444f0c0da",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dot3ai/n/nb80a8b49d32b",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/MomenticAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MomenticUK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MomenticSEO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/getmomentic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/momentic-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/momentic-seo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/momentic-limited",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/momentic-brands",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MomenticSEO/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/trymomentic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Momentic-61566711312450/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getmomentic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MomenticAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MomenticAI/status/2077260108858585278",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/Momentic?f=list",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MomenticSEO",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Momentic 日本 導入",
+   "results": [
+    "https://note.com/2wd/n/ne84444f0c0da",
+    "https://www.testsprite.com/ja/blog/momentic-review-2026-what-it-does-well-and-where-it-falls-short",
+    "https://www.testsprite.com/ja/blog/what-is-momentic-features-limitations-and-best-fit-teams",
+    "https://momentic.ai/",
+    "https://note.com/dot3ai/n/nb80a8b49d32b",
+    "https://prtimes.jp/main/html/rd/p/000000009.000119876.html",
+    "https://prtimes.jp/main/html/rd/p/000000006.000119876.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Momentic 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.moodys.com/web/ja/jp/moodys-company-info.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Momentic Japan",
+   "results": [
+    "https://momentic.ai/",
+    "https://momentic.ai/customers",
+    "https://www.momentick.com/",
+    "https://www.momentive.com/ja-jp",
+    "https://www.momentecbrands.com/",
+    "https://www.momentive.com/ja-jp/Company/Company2",
+    "https://www.momentive.com/ja-jp/Product/ProductCategories"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Momentic manufacturing customer case study",
+   "results": [
+    "https://momentic.ai/customers",
+    "https://www.casestudies.com/company/momentic",
+    "https://www.featuredcustomers.com/vendor/momentic/case-studies",
+    "https://momentic.ai/customers/mutiny",
+    "https://www.casestudies.com/company/momentic/case-study/roo-reclaims-200-engineering-hours-per-quarter-with-momentic",
+    "https://momentic.ai/customers/coframe",
+    "https://www.casestudies.com/company/momentic/case-study/mutiny-reduces-production-incidents-by-85-with-momentic"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Momentic white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Momentic founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/momentic",
+    "https://pitchbook.com/profiles/company/551392-39",
+    "https://getlatka.com/companies/momentic.ai",
+    "https://www.thecompanycheck.com/company/b/momentic/caq3ps7ns5dq0ovtw",
+    "https://startupintros.com/orgs/momentic",
+    "https://tracxn.com/d/companies/momentic/__0giizfyUEyUBnq0gkj5f_u4QcBPigTneoTCdPG_d4Uw"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:note.com Momentic",
+   "results": [
+    "https://note.com/2wd/n/ne84444f0c0da?hl=en",
+    "https://note.com/2wd/n/ne84444f0c0da",
+    "https://note.com/dot3ai/n/nb80a8b49d32b",
+    "https://note.com/kentabright",
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/kentabright/n/nb116f899a6ac"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Momentic",
+   "results": [
+    "https://x.com/MomenticAI",
+    "https://x.com/MomenticUK",
+    "https://x.com/MomenticSEO",
+    "https://x.com/getmomentic",
+    "https://x.com/rdominguezibar/status/2112932860688584867",
+    "https://x.com/MomenticAI/status/2063686543932617091",
+    "https://x.com/wuweiweiwu"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Momentic",
+   "results": [
+    "https://www.linkedin.com/company/momentic-ai",
+    "https://www.linkedin.com/company/momentic-seo/",
+    "https://uk.linkedin.com/company/momentic-limited",
+    "https://www.linkedin.com/company/momentic-brands",
+    "https://www.linkedin.com/in/hungweiwu",
+    "https://www.linkedin.com/in/jeff-an",
+    "https://www.linkedin.com/company/momentic-studios"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Momentic",
+   "results": [
+    "https://www.facebook.com/MomenticSEO/",
+    "https://www.facebook.com/trymomentic/",
+    "https://www.facebook.com/p/Momentic-61566711312450/",
+    "https://www.facebook.com/getmomentic/",
+    "https://www.facebook.com/MomenticUK/",
+    "https://www.facebook.com/momenticai/",
+    "https://www.facebook.com/momentecbrands/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Momentic note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Momentic X 投稿",
+   "results": [
+    "https://x.com/MomenticAI",
+    "https://x.com/MomenticAI/status/2077260108858585278",
+    "https://x.com/hashtag/Momentic?f=list",
+    "https://x.com/MomenticSEO",
+    "https://x.com/getmomentic",
+    "https://momentic.ai/",
+    "https://momentic.ai/docs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

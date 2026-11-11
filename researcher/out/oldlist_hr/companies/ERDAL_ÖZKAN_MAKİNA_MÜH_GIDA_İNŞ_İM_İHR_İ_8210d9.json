@@ -1,0 +1,380 @@
+{
+ "name": "ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş.",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜未接触",
+ "researched_at": "2026-11-10T22:57:17.351221+00:00",
+ "official_url": "https://erdalozkan.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://erdalozkan.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.erdalozkanmakina.com/en/homepage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tr.linkedin.com/company/erdal-%C3%B6zkan-maki%CC%87na-a-%C5%9F",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/erdalozkanmakina/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/erdalozkanmakina/posts/1684452403247082/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://madenturkiyefuari.com/product-detail/brand/erdal-ozkan-makina-muh-gida-ins-im-ihr-ith-as",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.erdalozkanmakina.com/en/homepage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/erdalozkanmakina/posts/1684452403247082/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tr.linkedin.com/company/erdal-%C3%B6zkan-maki%CC%87na-a-%C5%9F",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.erdalozkanmakina.com/en/homepage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tr.linkedin.com/company/erdal-%C3%B6zkan-maki%CC%87na-a-%C5%9F",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/corumtime19/posts/erdal-%C3%B6zkan-makina-personel-ariyor%C3%A7orumda-tek-vin%C3%A7-imalat%C3%A7%C4%B1s%C4%B1-olan-erdal-%C3%B6zkan-m/828721675954521/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/erdalozkanmakina/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.erdalozkanmakina.com/en/homepage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/erdalozkanmakina/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/erdalozkanmakina/posts/1684452403247082/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.erdalozkanmakina.com/iletisim/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madenturkiyefuari.com/product-detail/brand/erdal-ozkan-makina-muh-gida-ins-im-ihr-ith-as",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.erdalozkanmakina.com/en/homepage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oz-kan.com.tr/en/contact/supplier-portal/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/erdalozkanmakina/posts/1684452403247082/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.erdalozkanmakina.com/en/homepage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farm-equipment.com/authors/326-erdal-ozkan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpt.spe.org/author/erdal-ozkan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tr.linkedin.com/company/erdal-%C3%B6zkan-maki%CC%87na-a-%C5%9F",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş. 日本 導入",
+   "results": [
+    "https://www.erdalozkanmakina.com/",
+    "https://tr.linkedin.com/company/erdal-%C3%B6zkan-maki%CC%87na-a-%C5%9F",
+    "https://www.instagram.com/erdalozkanmakina/",
+    "https://www.facebook.com/erdalozkanmakina/posts/1684452403247082/",
+    "https://www.erdalozkanmakina.com/iletisim/",
+    "https://www.ermakusa.com/en-US/about/history",
+    "https://www.imas.com.tr/imas-becomes-the-export-leader-of-turkiye-in-milling-technologies-again-this-year",
+    "https://www.facebook.com/interestingengineering/videos/how-does-the-mechanization-of-ayran-work/9127095154078705/",
+    "https://www.umranmakine.com/en/about-us/",
+    "https://www.erd-mak.com/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş. 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://madenturkiyefuari.com/product-detail/brand/erdal-ozkan-makina-muh-gida-ins-im-ihr-ith-as",
+    "https://www.erdalozkanmakina.com/",
+    "https://www.facebook.com/erdalozkanmakina/posts/1684452403247082/",
+    "https://tr.linkedin.com/company/erdal-%C3%B6zkan-maki%CC%87na-a-%C5%9F",
+    "https://www.instagram.com/erdalozkanmakina/",
+    "https://www.erdalozkanmakina.com/iletisim/",
+    "https://makinerehber.com.tr/firma/erdal-ozkan-makina-a-s-2192",
+    "https://tark-solutions.com/ja/contact/authorized-distributor",
+    "https://ssl.eyela.co.jp/company/agency.html",
+    "https://www.fisinc.co.jp/agent/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş. Japan",
+   "results": [
+    "https://www.erdalozkanmakina.com/",
+    "https://tr.linkedin.com/company/erdal-%C3%B6zkan-maki%CC%87na-a-%C5%9F",
+    "https://www.facebook.com/corumtime19/posts/erdal-%C3%B6zkan-makina-personel-ariyor%C3%A7orumda-tek-vin%C3%A7-imalat%C3%A7%C4%B1s%C4%B1-olan-erdal-%C3%B6zkan-m/828721675954521/",
+    "https://www.instagram.com/erdalozkanmakina/",
+    "https://www.farm-equipment.com/authors/326-erdal-ozkan",
+    "https://yandex.com.tr/maps/org/erdcrane/222497240186/",
+    "https://www.erdalozkanmakina.com/iletisim/",
+    "https://www.facebook.com/erdalozkanmakina/posts/1684452403247082/",
+    "https://en.ozkanmakine.com/",
+    "https://www.linkedin.com/pub/dir/Erdal/%C3%96zkan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş. manufacturing customer case study",
+   "results": [
+    "https://www.erdalozkanmakina.com/",
+    "https://www.instagram.com/erdalozkanmakina/",
+    "https://www.facebook.com/erdalozkanmakina/posts/1684452403247082/",
+    "https://www.erdalozkanmakina.com/iletisim/",
+    "https://www.facebook.com/CaseIHTR/videos/y%C3%BCksek-performans%C4%B1-dayan%C4%B1kl%C4%B1l%C4%B1%C4%9F%C4%B1-ve-ileri-teknolojisiyle-fark-yaratan-%C3%BCr%C3%BCnlerimi/1992431778013547/",
+    "https://www.erdalozkanmakina.com/referanslarimiz/",
+    "https://www.erdalozkanmakina.com/en/homepage/",
+    "https://www.erdalozkanmakina.com/fr/author/erdal/",
+    "https://www.erdalozkanmakina.com/urunler/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş. white label OR reseller OR partner program",
+   "results": [
+    "https://madenturkiyefuari.com/product-detail/brand/erdal-ozkan-makina-muh-gida-ins-im-ihr-ith-as",
+    "https://www.erdalozkanmakina.com/",
+    "https://oz-kan.com.tr/en/contact/supplier-portal/",
+    "https://www.facebook.com/erdalozkanmakina/posts/1684452403247082/",
+    "https://tr.linkedin.com/company/erdal-%C3%B6zkan-maki%CC%87na-a-%C5%9F",
+    "https://www.instagram.com/erdalozkanmakina/",
+    "https://www.erdcrane.com/hakkimizda/",
+    "https://www.erdalozkanmakina.com/iletisim/",
+    "https://uploads5.craft.co/uploads/craft/source/document/25829/a6e163c9b914fe9e.pdf",
+    "https://www.alibaba.com.tr/vendor/all"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş. founded funding employees revenue",
+   "results": [
+    "https://www.erdalozkanmakina.com/",
+    "https://www.farm-equipment.com/authors/326-erdal-ozkan",
+    "https://jpt.spe.org/author/erdal-ozkan",
+    "https://tr.linkedin.com/company/erdal-%C3%B6zkan-maki%CC%87na-a-%C5%9F",
+    "https://scholar.google.com/citations?user=XDKmPA0AAAAJ&hl=en",
+    "https://www.instagram.com/erdalozkanmakina/",
+    "https://www.erdcrane.com/hakkimizda/",
+    "https://www.facebook.com/erdalozkanmakina/",
+    "https://www.ctso.org.tr/HaberDetay.aspx?Haber=18599&erdal-ozkan-makina-ziyareti"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş.",
+   "results": [
+    "https://note.com/sumi_yutaka/n/n843bfbe1381e",
+    "https://note.com/osakiyu/n/nd8e0b1442457",
+    "https://note.com/osushi_yaku/n/n2daec242bfe8",
+    "https://note.com/tarohana_ehon/n/n77a350e3e29b",
+    "https://note.com/keigo_lesson/n/nc1afb5e36cbb",
+    "https://note.com/clear_whale9447/n/n28be6ef6ec70",
+    "https://note.com/datafareast/n/n5e58083870a5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş.",
+   "results": [
+    "https://x.com/erddalozkan",
+    "https://x.com/erdal_ozkan",
+    "https://jf.x.com/images/media-preview/2116496294017634642",
+    "https://jf.x.com/images/media-preview/2098795492759216636",
+    "https://x.com/erdaIozkan",
+    "https://x.com/ozkanendustri",
+    "https://x.com/miborgtr/status/1059725075119857667"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş.",
+   "results": [
+    "https://tr.linkedin.com/company/erdal-%C3%B6zkan-maki%CC%87na-a-%C5%9F",
+    "https://www.linkedin.com/pub/dir/H%C3%BCseyin/%C3%96zkan",
+    "https://tr.linkedin.com/directory/companies/e-2",
+    "https://tr.linkedin.com/pub/dir/H%C3%BCseyin/%C3%96zkan/tr-0-T%C3%BCrkiye",
+    "https://tr.linkedin.com/in/burak-uzun-a893b5199",
+    "https://tr.linkedin.com/in/erdal-eraslan-8a05b7a8",
+    "https://tr.linkedin.com/in/abdullah-dalyan-b124293a8",
+    "https://www.linkedin.com/in/mustafa-onur-0374393",
+    "https://tr.linkedin.com/in/erdo%C4%9Fan-yildirim-88687061/en"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş.",
+   "results": [
+    "https://www.facebook.com/erdalozkanmakina/posts/1684452403247082/",
+    "https://www.facebook.com/erdalozkanmakina/",
+    "https://www.facebook.com/erdcrane/",
+    "https://www.facebook.com/kocmakinagaziantep/posts/yurt-di%C5%9Finda-kurmakta-oldu%C4%9Fumuz-tesisten-bi-ka%C3%A7-kare-ko%C3%A7-makina-/1688225024724807/",
+    "https://www.facebook.com/kocmakinagaziantep/posts/badem-k%C4%B1rma-hatt%C4%B1/1363035168855903/",
+    "https://www.facebook.com/kocmakinagaziantep/videos/%C3%A7uval-ta%C5%9F%C4%B1ma-bandi-imalati/1513619860022090/",
+    "https://www.facebook.com/camas.bel.tr/posts/%EF%B8%8F-g%C3%BCnaydin-%C3%A7ama%C5%9Fbelediye-ba%C5%9Fkan%C4%B1m%C4%B1z-leyla-%C3%A7%C4%B1t%C4%B1r-g%C3%BCne-belediyemizin-kademe-birimi/122204064074388981/",
+    "https://www.facebook.com/agrotvturkiyee/videos/erdallar-tarim-makinalari-y%C3%B6netim-kurulu-ba%C5%9Fkani-nihat-erdal-konya-tarim-fuari-2/1985560315677301/",
+    "https://www.facebook.com/kemalcebichp/videos/h%C3%BCnerli-eller-%C3%A7ar%C5%9F%C4%B1m%C4%B1zda-kad%C4%B1nlar-tekstil-ve-seramik-at%C3%B6lyelerinde-%C3%BCretmeye-deva/5720666497999403/?locale=hi_IN",
+    "https://www.facebook.com/profile.php/?id=100005405357188"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş. note 社長",
+   "results": [
+    "https://madenturkiyefuari.com/product-detail/brand/erdal-ozkan-makina-muh-gida-ins-im-ihr-ith-as",
+    "https://www.erdalozkanmakina.com/",
+    "https://tr.linkedin.com/company/erdal-%C3%B6zkan-maki%CC%87na-a-%C5%9F",
+    "https://www.instagram.com/erdalozkanmakina/",
+    "https://www.facebook.com/erdalozkanmakina/posts/1684452403247082/",
+    "https://www.erdcrane.com/hakkimizda/",
+    "https://www.ermakusa.com/en-US/about/history",
+    "https://oz-kan.com.tr/en/contact/supplier-portal/",
+    "https://www.ctso.org.tr/HaberDetay.aspx?Haber=18599&erdal-ozkan-makina-ziyareti"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ERDAL ÖZKAN MAKİNA MÜH. GIDA İNŞ. İM. İHR. İTH. A.Ş. X 投稿",
+   "results": [
+    "https://madenturkiyefuari.com/product-detail/brand/erdal-ozkan-makina-muh-gida-ins-im-ihr-ith-as",
+    "https://www.erdalozkanmakina.com/",
+    "https://tr.linkedin.com/company/erdal-%C3%B6zkan-maki%CC%87na-a-%C5%9F",
+    "https://www.instagram.com/erdalozkanmakina/",
+    "https://www.facebook.com/erdalozkanmakina/posts/1684452403247082/",
+    "https://en.ozkanmakine.com/",
+    "https://www.youtube.com/watch?v=r0ljWv7ca0E",
+    "https://www.erdalozkanmakina.com/iletisim/",
+    "https://www.ermakusa.com/en-US/about/history",
+    "https://www.turkiyemfg.com/fabrikalar-rev/erdal-özkan-mak.müh.a.ş."
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

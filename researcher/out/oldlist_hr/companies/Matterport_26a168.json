@@ -1,0 +1,197 @@
+{
+ "name": "Matterport",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-10T23:34:52.555778+00:00",
+ "official_url": "https://www.matterport.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "to save time, reduce site visits, and improve communication across every phase of a job.",
+    "url": "https://matterport.com/",
+    "pass": 1
+   },
+   {
+    "quote": "data to cut costs, improve productivity, and increase ROI.",
+    "url": "https://matterport.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Matterport digital twins improve asset documentation, space planning, and capital project execution, turning your real estate from a major cost center into a competitive advantage.",
+    "url": "https://matterport.com/ja/solutions/corporate-real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Provide detailed oversight of your properties from anywhere.",
+    "url": "https://matterport.com/ja/solutions/corporate-real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize the financial performance of your properties. Matterport digital twins provide better management oversight of every location, helping you fill vacancies faster and increase lease income.",
+    "url": "https://matterport.com/ja/solutions/corporate-real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "ProcoreおよびAutodeskと同期する",
+    "url": "https://matterport.com/ja/solutions/design-construction",
+    "pass": 1
+   },
+   {
+    "quote": "Turn every capture into a dimensionally accurate 3D record and put it to work in Forma and Revit. Whether capturing with Pro3 or from point clouds your surveyor already delivered Matterport has the plugins you need. Send Point Clouds and BIM files into Revit through your Matterport plugin or ReCap - issues and RFIs will pin to the exact spot in your Forma Build.",
+    "url": "https://matterport.com/ja/partners/autodesk",
+    "pass": 1
+   },
+   {
+    "quote": "When questions arise about what’s behind the drywall, your 3D capture provides the answers. Compare captures to verify concealed conditions, resolve issues faster, and avoid the cost and delays of reopening finished work.",
+    "url": "https://matterport.com/ja/partners/autodesk",
+    "pass": 1
+   },
+   {
+    "quote": "Procore + Matterport | Matterport",
+    "url": "https://matterport.com/partners/procore",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://matterport.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matterport.com/ja/solutions/corporate-real-estate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matterport.com/ja/solutions/design-construction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matterport.com/ja/solutions/facilities-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matterport.com/ja/solutions/property-marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matterport.com/ja/partners/autodesk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matterport.com/partners/procore",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matterport.com/ja/partners",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://matterport.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Ficnj41gkyohw%2F370NUEDjqN2oHFFaVH9LLR%2F7d6317a4780b53f1827de82410ca335a%2FImage__30_.png%3Ffm%3Dwebp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": []
+ },
+ "search_log": [
+  {
+   "query": "Matterport 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Matterport 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Matterport Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Matterport manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Matterport white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Matterport founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Matterport",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Matterport",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Matterport",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Matterport",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Matterport note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Matterport X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部0頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部0頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部0頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部0頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部0頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部0頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部0頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部0頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部0頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部0頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部0頁・検索12回）"
+ }
+}

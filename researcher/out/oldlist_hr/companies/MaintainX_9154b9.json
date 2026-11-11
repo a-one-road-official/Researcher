@@ -1,0 +1,1635 @@
+{
+ "name": "MaintainX",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T23:34:17.680866+00:00",
+ "official_url": "https://maintainx.xperts.my/",
+ "identified_by": "search:ddgs:google:MaintainX",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "designed to efficiently delegate, manage, track, and resolve organization’s maintenance tasks, ensuring a streamlined process and clear accountability.",
+    "url": "https://maintainx.xperts.my/login",
+    "pass": 1
+   },
+   {
+    "quote": "Efficiently captures and tracks maintenance transactions timely, offering a structured prompt workflow to prioritize resolution; by period-basis, by last activity done-basis, by mileage or usage basis, and by whichever earlier of all above.",
+    "url": "https://maintainx.xperts.my/login",
+    "pass": 1
+   },
+   {
+    "quote": "C3 AI Reliability / Demand Planning / Process Optimization",
+    "url": "https://mfg-ai.com/cases/cintas-maintainx-200-sites",
+    "pass": 3
+   },
+   {
+    "quote": "Augury（Industrial AI Workforce）",
+    "url": "https://mfg-ai.com/cases/cintas-maintainx-200-sites",
+    "pass": 3
+   },
+   {
+    "quote": "自社センサーで設備の状態を監視する予知保全に、役割別のAIエージェント群「Industrial AI Workforce」を組み合わせた製品です",
+    "url": "https://mfg-ai.com/cases/cintas-maintainx-200-sites",
+    "pass": 3
+   },
+   {
+    "quote": "KION GroupがNVIDIAのMega Blueprintの最初の採用者として倉庫ロボットを仮想検証",
+    "url": "https://mfg-ai.com/cases/cintas-maintainx-200-sites",
+    "pass": 3
+   },
+   {
+    "quote": "C3 AI Reliability / Demand Planning / Process Optimization",
+    "url": "https://mfg-ai.com/cases/redimix-maintainx-cost",
+    "pass": 3
+   },
+   {
+    "quote": "Augury（Industrial AI Workforce）",
+    "url": "https://mfg-ai.com/cases/redimix-maintainx-cost",
+    "pass": 3
+   },
+   {
+    "quote": "自社センサーで設備の状態を監視する予知保全に、役割別のAIエージェント群「Industrial AI Workforce」を組み合わせた製品です",
+    "url": "https://mfg-ai.com/cases/redimix-maintainx-cost",
+    "pass": 3
+   },
+   {
+    "quote": "Powerful maintenance software. Flexible plans priced to perform.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Simple, transparent pricing that scales with your team. See how MaintainX can drive uptime and reduce costs.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your work email to speak with a product expert.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Explore plans and pricing",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "2 Work Orders with attached Procedures",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "For teams who want simple, streamlined preventive maintenance.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "3 Work Orders with attached Procedures",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Unlimited Work Orders with attached Procedures",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Everything in Premium, plus",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Sales for pricing",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Work Orders & Procedures",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Procedures with Signature Capture",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Procedures with Inspection Checks",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Procedures with Conditional Logic Fields",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Add if-then logic so procedures change based on user input.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Video-based Procedures",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Turn a video of any job into a step-by-step procedure, with each step linked to its clip.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Create, share, and update Procedures across all sites where you have MaintainX.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Drive continuous improvement by tracking work order performance against customizable targets.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Work Orders with Attached Procedures",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Attach Procedures to Work Orders to standardize work execution.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Add more clarity to work orders with pictures and videos.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Create standardized work orders in just a few clicks using pre-filled templates.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure only selected users or teams can complete a procedure step.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Preventive Maintenance",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "built for the frontline",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn manuals, procedures, and work history into instant recommendations so your team can react faster.",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Collect better data from frontline teams",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reduce admin time and improve data quality with AI‑assisted summaries and natural language analytics.",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Improve operational efficiency with AI",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Detect anomalies before breakdowns, estimate work time accurately, and improve labor utilization.",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Create, assign, and track work orders across all sites. Guide your frontline teams with AI-powered suggestions and insights to keep every job running smoothly.",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Get ahead of breakdowns with automated preventive and predictive maintenance, made smarter with AI. Schedule PMs, trigger condition-based work, and identify data anomalies—before they take your line down.",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Use prebuilt reports or just describe what you need with natural language. MaintainX AI finds the data, builds the charts, and surfaces what matters.",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Produce more by keeping equipment online",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure everyone follows the right safety and operating procedures, every time. Use AI to digitize your maintenance operations, so you can enforce safety guidelines and compliance standards across all of your sites.",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Monitor your parts inventory, get alerts when stocks run low, and automate re-orders to keep critical parts on the shelf. Use MaintainX AI to predict upcoming part needs.",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Preventive Maintenance",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn why thousands of organizations trust MaintainX to digitize and transform their asset maintenance and frontline-worker operations",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How leading teams are rethinking maintenance and frontline work with MaintainX.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "\"MaintainX is innovative and nimble and they provide an intuitive solution to help take your reliability program to the next level.\"",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "\"We’ve done more maintenance than we’ve ever done before—with a significant cost reduction. This means we’ve been able to expand our profit margin.\"",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX has given us insight into our team capacity and increased our throughput of jobs, all through this single program.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "The ability to be so clearly organized has allowed us to move from reactive to preventive and take better care of our equipment.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Continuous Improvement Lean Leader",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "We use MaintainX to manage and maintain more than 50 critical assets, achieving significant improvements in machine uptime.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX is a no brainer. The customer support, price, and functionality is second to none.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "The platform's mobile maintenance and digital work orders have optimized workforce scheduling, reduced duplicate work, and automated monotonous tasks.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Instead of spending an hour reading a manual, they punch some questions into the MaintainX AI tool, and you can cut down how long it takes to create a procedure or a work order by up to 90%.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "One of the regional managers told me that within the first two months of managing their maintenance program with MaintainX, he's already seen a dramatic improvement in their reliability.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "The AI tools for building preventive maintenance tasks are a game changer; this was a deciding factor for me.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "FitGapの操作性評価はカテゴリ40製品中3位で、日本語UI対応も○(対応)です",
+    "url": "https://fitgap.com/jp/products/maintainx",
+    "pass": 3
+   },
+   {
+    "quote": "Cintasが保全管理システムMaintainXを200拠点に9週間で展開した事例｜予知保全・設備保全の導入事例 | MFG-AI",
+    "url": "https://mfg-ai.com/cases/cintas-maintainx-200-sites",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サオスの実務者が、貴社の現場とデータに合わせた進め方をご提案します",
+    "url": "https://mfg-ai.com/cases/cintas-maintainx-200-sites",
+    "pass": 3
+   },
+   {
+    "quote": "Redimixが保全管理システムMaintainXを使い、保全コストを53%削減した事例｜予知保全・設備保全の導入事例 | MFG-AI",
+    "url": "https://mfg-ai.com/cases/redimix-maintainx-cost",
+    "pass": 3
+   },
+   {
+    "quote": "素材・その他／株式会社ブリヂストン（Bridgestone）",
+    "url": "https://mfg-ai.com/cases/redimix-maintainx-cost",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サオスの実務者が、貴社の現場とデータに合わせた進め方をご提案します",
+    "url": "https://mfg-ai.com/cases/redimix-maintainx-cost",
+    "pass": 3
+   },
+   {
+    "quote": "オートデスク、3.6兆円でMaintainX買収—「設計から運用」の統合プラットフォムが加速 | AEC News Japan",
+    "url": "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本への影響 — AEC News Japan 編集部視点",
+    "url": "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では、国土交通省が2023年に改定した「BIM/CIMロードマップ」の中で、「運用・保全段階でのBIM/CIM活用」を重要課題として位置づけている",
+    "url": "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "公共インフラ（ダム・橋梁・トンネル等）のアセットマネジメントデジタル化が推進される中で、MaintainXのような現場中心の保守管理ツールとBIMの統合は、日本の国内政策方向と完全に一致している",
+    "url": "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Japan（現在の代理店網）が日本市場向けのローカライズ・営業体制を整備すれば、特に大手ゼネコン・PM企業、地方自治体、水道局等の運用部門への販売機会が急速に広がる可能性が高い",
+    "url": "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本国内には既にGLOOBE（大林組系のBIM/施工管理プラットフォーム）やRebroなどの国産・準国産の建設DXソリューションが存在し、特にGLOOBEは日本の建設商慣行に適応した確認申請・施工管理・原価管理機能を備えている",
+    "url": "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Operationsが日本で本格展開するには、日本固有の保守管理業務フロー（例：建築保全の法的要件、点検記録の行政報告、既存建物のレトロフィット対応等）への対応が不可欠であり、現地化の成熟度が採用の鍵になる",
+    "url": "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk、MaintainX買収完了──設計から運用まで統合するデジタルツイン戦略 | AEC News Japan",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本への影響 — AEC News Japan 編集部視点",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の建築・建設業界は「建て逃げ」から「長期運用・ライフサイクル思考」へのパラダイム転換が政策面でも推奨されています",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "ただし国内導入時には実務課題が複数あります",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "第一に、日本の建設業界は多重下請け構造が強く、設計事務所からゼネコン、サブコン、FM事業者へとBIM情報を確実に承継するシステムが整っていません",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainXのような統合運用プラットフォームが日本市場で真価を発揮するには、IFC形式での情報共有ルール整備と、複数階層の受発注者教育が不可欠です",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "第二に、日本国内での代理店体制やローカルサポートの拡充が急務です",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk Japan経由のサポート体制が構築されるまで、中堅・中小設計事務所やサブコンでの採用は限定的かもしれません",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "第三に、日本独特の確認申請プロセス、施工特殊性、メンテナンス商慣習とMaintainXの機能セットの適合性確認が必要です",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、日本の建築基準法で義務付けられた定期検査報告制度とCMMS運用の連動、あるいは大規模修繕時の資産情報更新プロセスなど、国内特有の要件が数多くあります",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "これらの実装を通じて初めて、日本の設計事務所・ゼネコン・FM事業者がAutodesk統合プラットフォームの真価を実感できるようになるでしょう",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "M2Xのプロダクトと設備保全はどこへ向かうのか｜株式会社M2X",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社M2X",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "そしてその記録がまだ紙とExcelの中に眠っているのが、いまの日本の製造業です",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造現場で、いま起きていること",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "2040年には日本全体で1,100万人の働き手が足りなくなるという推計があります",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "日本を代表するメーカーでも、驚くほど紙とExcelの場合が多いです",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "いま日本の製造業に必要なのは、この記録をデータにして、データに働いてもらうことだと考えています",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "どれも、日本の製造現場からいただいてきた宿題です",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "作り込みたいのは、日本の現場の文脈です",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "働き手が減っていく日本で、これは社会的にも意味のある仕事です",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "そして、日本の製造現場の保全データが集まりはじめている場所のひとつが、M2Xです",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Augury（Industrial AI Workforce）",
+    "url": "https://mfg-ai.com/cases/cintas-maintainx-200-sites",
+    "pass": 3
+   },
+   {
+    "quote": "自社センサーで設備の状態を監視する予知保全に、役割別のAIエージェント群「Industrial AI Workforce」を組み合わせた製品です",
+    "url": "https://mfg-ai.com/cases/cintas-maintainx-200-sites",
+    "pass": 3
+   },
+   {
+    "quote": "FactoryTalk Analytics GuardianAI",
+    "url": "https://mfg-ai.com/cases/cintas-maintainx-200-sites",
+    "pass": 3
+   },
+   {
+    "quote": "Augury（Industrial AI Workforce）",
+    "url": "https://mfg-ai.com/cases/redimix-maintainx-cost",
+    "pass": 3
+   },
+   {
+    "quote": "自社センサーで設備の状態を監視する予知保全に、役割別のAIエージェント群「Industrial AI Workforce」を組み合わせた製品です",
+    "url": "https://mfg-ai.com/cases/redimix-maintainx-cost",
+    "pass": 3
+   },
+   {
+    "quote": "FactoryTalk Analytics GuardianAI",
+    "url": "https://mfg-ai.com/cases/redimix-maintainx-cost",
+    "pass": 3
+   },
+   {
+    "quote": "An AI assistant that helps technicians find asset information, generate procedures, and streamline work order reporting.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, MaintainX Enterprise allows you to manage multiple plants or facilities within the same platform. You can also create customized reporting dashboards to track KPIs across multiple sites on the same screen.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "現在、「Autodesk Tandem」「FlexSim」「Fusion Operations」「Factory Design Utilities」を含み、設備やリソースの設計・導入から運用・保守、さらには継続的な最適化までをデータでつなぐライフサイクル全体の実現を目指しています",
+    "url": "https://adsknews.autodesk.com/ja/news/acquire-maintainx/",
+    "pass": 3
+   },
+   {
+    "quote": "40+ plants",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Operations Manager",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Finally, a CMMS made for maintenance technicians. MaintainX is the first CMMS I have seen that feels like it was meant for the people.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX is a brilliant software that makes plant and asset maintenance scheduling and monitoring a breeze.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX is the reason we have gone from an overall plant efficiency of 60% to over 95%.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance Technicians",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX helped Hypertherm Associates modernize maintenance across multiple factories. The team replaced outdated systems and manual reporting with real-time data",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX helped Suominen, a global manufacturer, unify maintenance and asset management across plants on three continents. The solution integrated with",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Cardinal Glass LG plant (Pennsylvania)",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX helped the Cardinal Glass LG plant in Pennsylvania cut unplanned downtime by about 60%. The team completed 70% more",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "preventive maintenance work orders year-over-year. Work order on-time completion improved by 14%. Audit preparation time dropped by an average of six hours. The mobile-friendly platform made it easy for technicians to report issues and for managers to track progress. Cardinal Glass now has better visibility and control over maintenance operations.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX helped Allwest Engineering (AEL) cut equipment downtime across 20+ plants. Before MaintainX, AEL struggled with frequent breakdowns and no",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "billing efficiency by 4.5%. Customer satisfaction scores rose by six points after using automated updates and request portals. Technicians now use standardized procedures and mobile tools to manage work orders. The team tracks KPIs like first-time fix rates and downtime for better decisions.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing operations",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "preventive maintenance. With MaintainX, technicians now use mobile devices to log inspections and work orders in real time. The platform integrates with Titan’s ERP and Domo dashboards, saving hours of manual data entry. Titan America now tracks over 800 assets and has digitized 150 procedures, improving transparency and decision-making across the company.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX helped DNP, a leading industrial printing manufacturer, boost asset availability by 17%. Before, DNP tracked downtime and maintenance on",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "paper, causing delays and missed issues. With MaintainX and MachineMetrics, operators now submit maintenance requests in three clicks. Real-time data lets teams spot problems and act fast. DNP replaced siloed reporting with a shared dashboard, improving decision-making and reducing unplanned downtime.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Downtime reduction for manufacturing operations",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX helped Magnera's Asheville manufacturing facility cut downtime by 12 hours per month, saving over $575k a year. The team increased",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX helped Allwest Engineering (AEL) cut equipment downtime and boost reliability across 20+ plants. Before MaintainX, AEL struggled with daily",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Inventory management for manufacturing",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX helped Titan America cut unplanned maintenance by over 30%. The Florida plant used MaintainX to digitize inspections, track assets,",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "and analyze real-time data. Technicians now enter work orders on mobile devices, speeding up reporting and communication. Automated integration with Titan’s ERP and dashboards saves hours of manual data entry. Titan America now tracks 2,700+ meters and 800+ assets, with 150+ procedures digitized. Leadership expanded MaintainX use across subsidiaries after seeing these results.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "maintenance work and track inventory in real time. Technicians now access parts data on mobile devices, reducing wasted time. The integration improved reporting and made cost allocation easier for finance teams. Duracell now tracks parts for about 1,000 work orders monthly at each site, with over 8,000 SKUs managed.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "easy mobile integration and user-friendly dashboard. Technicians quickly adopted the new system, improving asset tracking and work order management. Electro Cycle now links over 3,000 parts to assets, streamlining inventory and maintenance. The result is higher equipment reliability and increased production yield.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX helped Allwest Engineering (AEL) cut downtime and boost equipment reliability across 20+ plants. AEL replaced spreadsheets with MaintainX, making",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "preventive maintenance easy to plan and track. Regional managers saw dramatic improvements in reliability and less downtime within months. The software made safety and compliance reporting simpler, helping clients lower insurance costs. AEL now uses MaintainX to create new revenue streams by embedding it in turnkey plant installations.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "and reduced inventory costs. Usage-based maintenance became possible, cutting unnecessary preventive tasks. Mobile access and easy adoption made work faster and clearer. MaintainX enabled better collaboration and built a digital knowledge base for technicians.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance management for food manufacturing",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance management for manufacturing plants",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Cardinal Glass LG plant",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "\"We went with MaintainX because we can use the platform directly from the warehouse floor.\"",
+    "url": "https://software.getmaintainx.com/case-study-download",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Duracell saves $50K+ on parts inventory costs with MaintainX | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/maintainx/case-study/how-duracell-saves-50k-on-parts-inventory-costs-with-maintainx-and-sap",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Duracell saves $50K+ on parts inventory costs with MaintainX",
+    "url": "https://www.casestudies.com/company/maintainx/case-study/how-duracell-saves-50k-on-parts-inventory-costs-with-maintainx-and-sap",
+    "pass": 3
+   },
+   {
+    "quote": "Duracell, the global battery manufacturer, needed a better way to digitize maintenance operations and manage parts inventory amid tight budgets and supply chain challenges. Technicians lacked easy mobile access to up-to-date stock information, and the company needed a smoother way to capture maintenance work and improve reporting while continuing to use SAP as its master system of record.",
+    "url": "https://www.casestudies.com/company/maintainx/case-study/how-duracell-saves-50k-on-parts-inventory-costs-with-maintainx-and-sap",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/maintainx/case-study/how-duracell-saves-50k-on-parts-inventory-costs-with-maintainx-and-sap",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/maintainx/case-study/how-duracell-saves-50k-on-parts-inventory-costs-with-maintainx-and-sap",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by leading companies",
+    "url": "https://www.getmaintainx.com/enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Trained on your manuals and work order history, ready to support your technicians.",
+    "url": "https://www.getmaintainx.com/enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, MaintainX Enterprise allows you to manage multiple plants or facilities within the same platform. You can also create customized reporting dashboards to track KPIs across multiple sites on the same screen.",
+    "url": "https://www.getmaintainx.com/enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX is the leading maintenance and work execution software, designed specifically for industrial and frontline teams.",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "2026年度の年経常経常利益（ARR）は1億3,500万ドルを超える見通しで、成長率は50%超を予想している",
+    "url": "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX 社は、2026 年暦年において年間経常収益（ARR）が 1 億 3,500 万米ドルを超え、前年比 50％ を超える成長を見込んでいます",
+    "url": "https://adsknews.autodesk.com/ja/news/acquire-maintainx/",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk、Autodesk ロゴは、米国および／またはその他の国々における、Autodesk, Inc.、その子会社、関連会社の登録商標です",
+    "url": "https://adsknews.autodesk.com/ja/news/acquire-maintainx/",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX helped National Pride Equipment set three straight monthly revenue records. The company cut parts replacement by 15–20% and improved",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "one platform. They now manage service operations, scheduling, and documentation in a single system. Automated updates and a customer portal improved client communication. AI-powered features made building PM plans faster, supporting new revenue streams. Arnold Automation scaled its service business without adding headcount.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "breakdowns and poor maintenance tracking. The team switched from spreadsheets to MaintainX, making preventive maintenance easy. Regional managers saw dramatic improvements in reliability and less downtime within months. AEL now uses MaintainX to create new revenue streams and improve safety and compliance reporting.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "preventive maintenance easy to plan and track. Regional managers saw dramatic improvements in reliability and less downtime within months. The software made safety and compliance reporting simpler, helping clients lower insurance costs. AEL now uses MaintainX to create new revenue streams by embedding it in turnkey plant installations.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "reached 100% preventive maintenance coverage for all assets. The company created nearly 35,000 work orders and tracked 3,600 procedures across 30 locations. Employees found the system easy to use and liked real-time access to maintenance data. Reporting became faster and more accurate with MaintainX.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "manages over 35,000 work orders. MaintainX made maintenance tracking simple and easy for employees. The team now audits maintenance tasks quickly and tracks employee progress. Staff praise the system for its simplicity and strong customer support.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "within months, with regional managers noting dramatic improvements. The company replaced spreadsheets with MaintainX, making it easier to plan, track, and report on maintenance. AEL also created new revenue streams by embedding MaintainX into turnkey plant installations. The solution reduced downtime and improved reliability for concrete manufacturing operations.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "and improved daily workflows. Cintas saw major gains in operational efficiency, with less paperwork and faster access to maintenance records. QR code work requests and digital work orders saved employees up to 10 hours per week. MaintainX also improved compliance, data management, and employee satisfaction.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "CMMS to support rapid growth and complex operations. MaintainX provided a mobile-first platform with preventive maintenance, AI-powered features, and IoT integrations. The new system improved asset availability, reduced downtime, and increased revenue. Employees found the platform easy to use and quick to adopt.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "an outdated CMMS, improving operational efficiency and asset availability. Cintas saw faster user adoption, reduced paperwork, and easier maintenance scheduling. Employees reported higher job satisfaction and productivity. MaintainX enabled real-time data access, streamlined compliance, and saved technicians up to 10 hours per week.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "6,000 work orders and developed standard operating procedures. Communication improved as employees accessed equipment data on mobile devices. The CMMS software reduced downtime and made technicians more self-sufficient. Southeast Power now creates predictive maintenance work orders and runs operations more efficiently.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX Revenue 2025: $115.5M Est., $2.5B Valuation",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX has not published its revenue. Growjo puts it at about $115.5M a year (September 2025).",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX CEO, founders & employees",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "Chris Turlica founded MaintainX in 2018 and runs it as CEO. MaintainX has 759 employees (November 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is MaintainX's revenue?",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates MaintainX's revenue at about",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does MaintainX have?",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、関連市場への投資や将来的なIPO動向を注視し、長期的なポートフォリオへの組み入れを検討する戦略が有効です",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "顧客数が11,000社以上、管理資産が1,100万件以上という規模は、安定した継続収益（RecurringRevenue）基盤を示唆しています",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "現在の非公開企業という性質上、直接投資はできませんが、将来的なIPOやM&Aの可能性を視野に入れると、非常に興味深いタイミングです",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "数年以内に大型IPOを実現し、その際の企業評価額は現在の25億ドルを大きく上回る50億ドル以上、場合によっては100億ドル規模に達する可能性も考えられます",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "収益は安定的に成長し、数年以内にIPOを目指す可能性が高いでしょう",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "IPO時の評価額は、現在の25億ドルから堅実に成長し、30億ドルから40億ドルの範囲で落ち着くと予想されます",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "このシナリオが実現した場合、IPO計画が延期されるか、評価額が現在の水準を下回るリスクもあります",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "特に、将来的なIPOやM&Aの可能性に備え、関連市場や競合企業の動向を継続的にモニタリングすることを推奨します",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、将来的なIPOに備え、類似のAI駆動型SaaS企業に投資するETFや、同社の既存投資家であるBessemerVenturePartnersやBainCapitalVenturesのポートフォリオを間接的に追跡する投資信託などを検討することが可能です",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainXは成長ステージの企業であり、将来的なIPOやM&Aによるリターンを期待するため、",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "目標リターンは、IPO時の評価額が現在の水準からさらに上昇することを想定し、",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FitGap | MaintainXとは？強み、注意点を専門家がレビュー — MaintainXでは、センサー連携や外部システム接続といった機能は最上位プランでの提供が中心となっています。 そのため、データの自動連携を前提とした運用を計画する場合は、導入初期の段階から上位プランの費用を想定しておく必要があります。",
+    "url": "https://fitgap.com/jp/products/maintainx",
+    "pass": 3
+   },
+   {
+    "quote": "Cintasが保全管理システムMaintainXを200拠点に9週間で展開した事例｜... — Oct 12, 2026 · ユニフォームのレンタル・洗濯などを手がける米Cintasが、保全管理システム（CMMS）のMaintainXを200拠点に9週間で展開した事例です。 数字はMaintainXの掲載値で、保全の成果の数値は示されていません。",
+    "url": "https://mfg-ai.com/cases/cintas-maintainx-200-sites",
+    "pass": 3
+   },
+   {
+    "quote": "Redimixが保全管理システムMaintainXを使い、保全コストを53%削減した... — Oct 12, 2026 · 生コンクリート関連のRedimixが、保全管理システムのMaintainXで保全業務を管理し、保全コストを53%削減したとMaintainXが掲げている事例です。 対象範囲や期間は示されていないベンダーの掲載値です。",
+    "url": "https://mfg-ai.com/cases/redimix-maintainx-cost",
+    "pass": 3
+   },
+   {
+    "quote": "オートデスク、3.6兆円でMaintainX買収—「設計から運用」の統合プラッ... — 公共インフラ（ダム・橋梁・トンネル等）のアセットマネジメントデジタル化が推進される中で、MaintainXのような現場中心の保守管理ツールとBIMの統合は、日本の国内政策方向と完全に一致している。",
+    "url": "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk、MaintainX買収完了──設計から運用まで統合するデジタルツイ... — MaintainXとAutodesk既存製品（特にTandemのようなデジタルツイン基盤）の統合により、BIMに記録された資産メタデータが直接CMSSに同期され、作業オーダー、メンテナンス履歴、予防保全スケジュールが一貫性を持つようになります。",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing - MaintainX — Explore MaintainX's flexible pricing plans, from a free Basic plan to feature-rich Premium and Enterprise options, tailored to your team's maintenance needs.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk、MaintainX 社の買収契約を締結 — Jul 6, 2026 · 今回の MaintainX 社の買収により、運用ワークフローとライフサイクル全体との連携をさらに強化し、企業がより迅速かつ高度な意思決定を行える環境の実現を目指します。",
+    "url": "https://adsknews.autodesk.com/ja/news/acquire-maintainx/",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX | Modern Maintenance and Asset Management Software — MaintainX is a CMMS and EAM platform that helps industrial teams reduce downtime, improve efficiency, and optimize asset performance with AI insights.",
+    "url": "https://www.getmaintainx.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX, Inc. | MaintainX: Maintenance and Asset Management — MaintainX is an AI-powered computerized maintenance management solution (CMMS) and enterprise asset management (EAM) platform. We turn real-time asset and work data into proactive insights that drive operational excellence.",
+    "url": "https://www.sap.com/japan/products/scm/partners/maintainx-inc-maintainx-maintenance-and-asset-management.html",
+    "pass": 3
+   },
+   {
+    "quote": "Autodesk、MaintainX買収完了──設計から運用まで統合するデジタルツイ... — 作業指示、点検、保全活動の記録と管理をデジタル化し、リアルタイムの資産状態を把握できます。 Autodesk傘下に入ることで、MaintainXの機能は単独のツールから、Autodesk Operationsプラットフォーム全体の構成要素に格上げされます。",
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "オートデスク、3.6兆円でMaintainX買収—「設計から運用」の統合プラッ... — MaintainXは、メンテナンス業務、資産情報管理、点検、ワークオーダー、運用ワークフローを一元管理するクラウドプラットフォームで、現在世界中の組織で導入されている。 2026年度の年経常経常利益（ARR）は1億3,500万ドルを超える見通しで、成長率は50%超を予想している。 買収資金はAutodeskの手元資金と債務融資で調達される。 ...",
+    "url": "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | MaintainX — We use MaintainX to manage and maintain more than 50 critical assets, achieving significant improvements in machine uptime. MaintainX allowed us to follow the trends and develop a maintenance plan to drastically reduce downtime. MaintainX has brought data to the table for the first time.",
+    "url": "https://www.getmaintainx.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX Case Studies & Customer Success | CusperaMaintainX in Action: Real World SuccessCase Study: Duracell saves $50K+ on parts inventory costs ...MaintainX - The #1 Rated Maintenance SoftwareCase Study: Redimix cuts year-over-year maintenance spend by ... — MaintainX helped Hypertherm Associates modernize maintenance across multiple factories. The team replaced outdated systems and manual rep",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX in Action: Real World Success — See MaintainX in action! Dive into real-world examples of how our CMMS solution is transforming maintenance operations and driving success for our clients.",
+    "url": "https://software.getmaintainx.com/case-study-download",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Duracell saves $50K+ on parts inventory costs ... — Duracell (Consumer Goods) partnered with MaintainX (Computer Software) to solve key challenges. \"How Duracell Saves $50k+ on Parts Inventory Costs with MaintainX and SAP\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/maintainx/case-study/how-duracell-saves-50k-on-parts-inventory-costs-with-maintainx-and-sap",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX - The #1 Rated Maintenance Software — Get the visibility and control you need to enforce standards, reduce accidents, and deliver better products to your customers. Increase consistency across sites by making it easier than ever for frontline workers to learn and perform the right steps. “We went from the dark ages into the light.",
+    "url": "https://software.getmaintainx.com/aggregate-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise - MaintainX — MaintainX helps you track your reactive maintenance, preventive maintenance, and control the daily operations of your business. Get started for Free!",
+    "url": "https://www.getmaintainx.com/enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX – Funding, Acquisitions & Key Rivals – 2026 — MaintainX anticipates $128K in revenue per employee. The total funding raised by MaintainX is $307.4M. According to projections, MaintainX's valuation is approximately $2.5B. MaintainX is supported by a team of more than 900+ professionals. MaintainX's workforce grew by approximately 44% year-over-year.",
+    "url": "https://compworth.com/company/maintainx",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX Revenue 2025: $115.5M Est., $2.5B Valuation — Oct 30, 2026 · MaintainX 2025 estimated revenue: $115.5M. Valuation: $2.5B. Total funding: $242.8M across 4 rounds. 759 employees. Founded 2018. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX 2026 Company Profile: Valuation, Investors ...MaintainX - 2026 Company Profile, Team, Funding ... - TracxnMaintainX - Overview, News & Similar companies | ZoomInfo.comMaintainX Revenue, Funding & Valuation - prospeo.ioMaintainX — Company Profile, Funding & Investors — Information on acquisition, funding, cap tables, investors, and executives for MaintainX. Use the PitchBook Platform to e",
+    "url": "https://pitchbook.com/profiles/company/266371-66",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX - 2026 Company Profile, Team, Funding ... - Tracxn — Jul 22, 2026 · MaintainX is an acquired company based in San Francisco (United States), founded in 2018 by Chris Turlica, Mathieu Marengère Gosselin, Nick Haase and Hugo Dozois Caouette.",
+    "url": "https://tracxn.com/d/companies/maintainx/__DvKO_UzYSSOOd-QWnQqJ7IMvlJE-AW0WEtYKNF8Qn4Q",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX - Overview, News & Similar companies | ZoomInfo.com — Gather financial insights about MaintainX, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/maintainx-inc/465721774",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Enter your work email to speak with a product expert.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Your submission has been received! Check your email inbox for a calendar invite.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Keep stakeholders informed on critical KPIs by having MaintainX email them reports and dashboards on a regular cadence.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Connect with a human expert in minutes via email or chat.",
+    "url": "https://www.getmaintainx.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "it grew. Before MaintainX, they used emails and spreadsheets, which made it hard to keep up. With MaintainX, they now track maintenance history and communicate between shifts. They quickly set up a new safety priority level for work orders. This made their maintenance more preventive and less reactive.",
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【深堀】MaintainX、評価額2.5億ドルに倍増！AI活用で急成長する資産... Jul 10, 2025 · MaintainXの財務健全性は、今回の大型資金調達により非常に強固なものとなったと判断できます。 シリーズDで1億5000万ドルを調達し、累計調達額が2億5400万ドルに達したことは、今後の事業拡大や研究開発投資に必要な潤沢な資金を有していることを示します。",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "M2Xのプロダクトと設備保全はどこへ向かうのか｜株式会社M2X Jul 10, 2026 · CADで知られる米Autodeskが、保全SaaSのMaintainXを約36億ドル（約5,000億円）で買収すると発表したのです。 同社の歴史で最大の買収です。 工場の点検記録をつけるソフトに、5,000億円。",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【深堀】MaintainX、評価額2.5億ドルに倍増！AI活用で急成長する資産管理SaaSの投資価値｜ケン",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "【深堀】MaintainX、評価額2.5億ドルに倍増！AI活用で急成長する資産管理SaaSの投資価値",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "この度は、設備メンテナンスおよび資産管理プラットフォームを提供するMaintainXが、シリーズDで1億5000万ドルの資金調達を発表し、企業評価額を25億ドルに倍増させたという重要なニュースについて、投資アナリストの視点から詳細な分析と考察をお届けします。本記事では、MaintainXの企業背景、技術的優位性、ビジネスモデル、競合環境、市場構造を深掘りし、ケン式投資スコアを用いて多角的に評価します。さらに、実践的な投資戦略と将来シナリオを提示することで、読者の皆様の投資判断の一助となることを目指します。",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "今回の発表は、MaintainXが急速な成長軌道に乗っており、特にAIを活用した資産管理ソリューションへの市場の高い需要を明確に示すものです。2023年12月のシリーズC調達時（5000万ドル）の評価額10億ドルから、わずかな期間で25億ドルへと急伸したことは、同社の技術力と市場戦略の有効性を強く裏付けています。既存の有力投資家が継続して出資している点も、その将来性への期待の表れと言えるでしょう。この動きは、AI関連企業への投資熱が依然として高い現状を反映しており、特に企業向けSaaS分野におけるAIの潜在能力が再認識される契機となります。投資家にとっては、成長著しいAI駆動型SaaS企業へのアクセス機会として注目に値します。",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainXはAIを活用した独自の資産管理プラットフォームで市場を牽引しており、急速な評価額向上は強力な競争力と成長性を示唆します。堅調な資金調達と市場のAI需要が投資魅力を高めます。",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainXの非公開企業である現状を考慮すると、直接的な株式投資はできません。しかし、関連市場への投資や将来的なIPO動向を注視し、長期的なポートフォリオへの組み入れを検討する戦略が有効です。",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainXは2018年に設立されたサンフランシスコ拠点のスタートアップで、設備メンテナンスと資産管理のプラットフォームを運営しています。同社のビジョンは、AIを活用して顧客の予期せぬ資産ダウンタイムや部品・労働コストの削減を支援することにあります。CEO兼共同創設者のChrisTurlica氏が率いるMaintainXは、「人間の能力をAIで増幅し、代替しない」というアプローチを掲げ、顧客企業の生産性向上とコスト効率化に貢献しています。設立以来、総額2億5400万ドルを調達し、特に今回のシリーズDでは評価額を25億ドルにまで高めるなど、急速な成長を遂げています。世界中で11,000社以上の顧客を抱え、1,100万件以上の資産を管理しており、製造業、施設管理、食品・飲料、配送センターなど多岐にわたる業界で存在感を示しています。",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "今回の1億5000万ドルのシリーズD資金調達と25億ドルの評価額達成は、MaintainXにとって極めて重要なマイルストーンです。これは2023年12月のシリーズC調達時（5000万ドル、評価額10億ドル）から、わずか数ヶ月で評価額が2.5倍に急増したことを意味します。この劇的な評価額の上昇は、同社の製品が市場で高く評価され、強い需要があることを示しています。調達した資金は、製品開発の加速、特にAI機能の強化、そして市場拡大に充てられると推測されます。これにより、MaintainXは競合他社に対する技術的優位性をさらに強化し、より多くの顧客を獲得することで収益基盤を拡大する戦略を推進できるでしょう。この発表は、同社が資産管理SaaS市場における主要プレイヤーとしての地位を確固たるものにし、将来的な成長ポテンシャルを投資家に強くアピールするものです。",
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "pass": 3
+   },
+   {
+    "quote": "M2Xのプロダクトと設備保全はどこへ向かうのか｜株式会社M2X",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "M2Xのプロダクトと設備保全はどこへ向かうのか",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "M2Xでテックリードをしている、山本です。",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "先日会社のオフサイトミーティングでドッジボールをしたのですが、3日間筋肉痛で動けませんでした。",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "この記事は、シリーズAエクステンションラウンドでの資金調達を記念した連続リリースの一本として書いています。資金調達の詳細は以下をご覧ください。",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "先月、この業界で大きなニュースがありました。CADで知られる米Autodeskが、",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "保全SaaSのMaintainXを約36億ドル（約5,000億円）で買収すると発表した",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   },
+   {
+    "quote": "工場の点検記録をつけるソフトに、5,000億円。",
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "MaintainX - LinkedIn The MaintainX platform manages millions of work orders and assets, and is used by more than 500K frontline professionals globally.",
+    "url": "https://www.linkedin.com/company/getmaintainx",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX - LinkedIn About MaintainX helps you track your reactive maintenance, preventive maintenance, and control the daily operations of your business. Get started for Free!",
+    "url": "https://www.linkedin.com/products/getmaintainx-maintainx",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Integrations Consultant at MaintainX — Montreal ... Apply for Senior Integrations Consultant at MaintainX in Montreal, Quebec, Canada. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://ca.linkedin.com/jobs/view/senior-integrations-consultant-at-maintainx-4434149019",
+    "pass": 3
+   },
+   {
+    "quote": "Site Reliability Engineer at MaintainX — Toronto, Ontario ... Apply for Site Reliability Engineer at MaintainX in Toronto, Ontario, Canada. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://ca.linkedin.com/jobs/view/site-reliability-engineer-at-maintainx-4434126995",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Haase - Co-founder @ MaintainX | Building the future of ...Chris Turlica - MaintainX | LinkedInMaintainX - 2026 Company Profile & Team - TracxnMaintainX: Funding, Team & Investors | Startup Intros加藤 貞顕 (@sadaaki) / XWho is the CEO of MaintainX in 2026? Chris Turlica's Bio - Clay Alongside my work at MaintainX, I’m an active angel investor in 95+ startups, including Density, Ditto, Anduril, Ha",
+    "url": "https://www.linkedin.com/in/nickhaase",
+    "pass": 3
+   },
+   {
+    "quote": "Chris Turlica - MaintainX | LinkedInMaintainX - 2026 Company Profile & Team - TracxnMaintainX: Funding, Team & Investors | Startup Intros加藤 貞顕 (@sadaaki) / XWho is the CEO of MaintainX in 2026? Chris Turlica's Bio - Clay Experience: MaintainX · Education: McGill University · Location: Miami · 500+ connections on LinkedIn. View Chris Turlica’s profile on LinkedIn, a professional community of 1 bill",
+    "url": "https://www.linkedin.com/in/cturlica",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MaintainX - An Autodesk Company - FacebookMaintainX - An Autodesk Company on Reels - FacebookManage your maintenance and operations. Without the paper ...How MaintainX Handles Preventive Maintenance Scheduling and ...Maintenance and... - MaintainX - An Autodesk Company | FacebookWrench Works is heading to Florida! Join us November 18–19 ...The best maintenance software creates value for every team",
+    "url": "https://www.facebook.com/getMaintainX/",
+    "pass": 3
+   },
+   {
+    "quote": "MaintainX - An Autodesk Company on Reels - Facebook Aug 21, 2026 · Video by MaintainX - An Autodesk Company Last viewed on: Oct 25, 2026",
+    "url": "https://www.facebook.com/getMaintainX/videos/2303461533832197/",
+    "pass": 3
+   },
+   {
+    "quote": "Manage your maintenance and operations. Without the paper ...How MaintainX Handles Preventive Maintenance Scheduling and ...Maintenance and... - MaintainX - An Autodesk Company | FacebookWrench Works is heading to Florida! Join us November 18–19 ...The best maintenance software creates value for every team ... Apr 15, 2020 · Learn how MaintainX's top-rated CMMS and connected worker platform can he",
+    "url": "https://www.facebook.com/getMaintainX/videos/this-is-maintainx/901031066999525/",
+    "pass": 3
+   },
+   {
+    "quote": "How MaintainX Handles Preventive Maintenance Scheduling and ... MaintainX uses AI-powered work execution and asset management to automate preventive maintenance scheduling, track assets in real time, and cut equipment downtime. The platform generates work orders from real- time data and gives teams mobile access to maintenance history, helping frontline crews stay proactive instead of reactive.",
+    "url": "https://www.facebook.com/fb-answers/how-does-maintainx-handle-preventive-maintenance-scheduling-and-asset-tracking-for-reducing-equipment-downtime/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "MaintainX (An Autodesk Company) (@maintainx) / X MaintainX (An Autodesk Company) is the leading maintenance and work execution software, designed specifically for industrial and frontline teams.",
+    "url": "https://x.com/maintainx",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://maintainx.xperts.my/login",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://fitgap.com/jp/products/maintainx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-ai.com/cases/cintas-maintainx-200-sites",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-ai.com/cases/redimix-maintainx-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.getmaintainx.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://adsknews.autodesk.com/ja/news/acquire-maintainx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getmaintainx.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sap.com/japan/products/scm/partners/maintainx-inc-maintainx-maintenance-and-asset-management.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getmaintainx.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://software.getmaintainx.com/case-study-download",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/maintainx/case-study/how-duracell-saves-50k-on-parts-inventory-costs-with-maintainx-and-sap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.getmaintainx.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getmaintainx.com/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/maintainx",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/getmaintainx.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/266371-66",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/maintainx/__DvKO_UzYSSOOd-QWnQqJ7IMvlJE-AW0WEtYKNF8Qn4Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/fintechken/n/n61a729f6d880",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/getmaintainx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/getmaintainx-maintainx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/jobs/view/senior-integrations-consultant-at-maintainx-4434149019",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/jobs/view/site-reliability-engineer-at-maintainx-4434126995",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getMaintainX/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getMaintainX/videos/2303461533832197/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getMaintainX/videos/this-is-maintainx/901031066999525/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/how-does-maintainx-handle-preventive-maintenance-scheduling-and-asset-tracking-for-reducing-equipment-downtime/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nickhaase",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/cturlica",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/maintainx",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MaintainX",
+   "results": [
+    "https://grokipedia.com/page/MaintainX",
+    "https://www.getmaintainx.com/",
+    "https://app.getmaintainx.com/",
+    "https://www.getmaintainx.com/enterprise",
+    "https://br.getmaintainx.com/",
+    "https://help.getmaintainx.com/",
+    "https://adsknews.autodesk.com/en/pressrelease/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations/",
+    "https://maintainx.xperts.my/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "MaintainX 日本 導入",
+   "results": [
+    "https://fitgap.com/jp/products/maintainx",
+    "https://mfg-ai.com/cases/cintas-maintainx-200-sites",
+    "https://mfg-ai.com/cases/redimix-maintainx-cost",
+    "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "https://www.idaten.vc/post/maintainx-モバイルファーストな設備保全プロダクト",
+    "https://www.capterra.jp/software/179296/getmaintainx"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MaintainX 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.getmaintainx.com/pricing",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.accenture.com/ja/about/company-index"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MaintainX Japan",
+   "results": [
+    "https://adsknews.autodesk.com/ja/news/acquire-maintainx/",
+    "https://www.getmaintainx.com/",
+    "https://www.sap.com/japan/products/scm/partners/maintainx-inc-maintainx-maintenance-and-asset-management.html",
+    "https://aec-news.com/posts/welcoming-maintainx-to-autodesk-the-next-chapter-in-connected-operations.html",
+    "https://aec-news.com/posts/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations.html",
+    "https://fitgap.com/jp/products/maintainx",
+    "https://adsknews.autodesk.com/en/pressrelease/autodesk-to-acquire-maintainx-advancing-unified-platform-in-operations/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MaintainX manufacturing customer case study",
+   "results": [
+    "https://www.getmaintainx.com/case-studies",
+    "https://www.cuspera.com/products/maintainx-x-17670/customer-story",
+    "https://software.getmaintainx.com/case-study-download",
+    "https://www.casestudies.com/company/maintainx/case-study/how-duracell-saves-50k-on-parts-inventory-costs-with-maintainx-and-sap",
+    "https://software.getmaintainx.com/aggregate-case-study",
+    "https://www.plantservices.com/department/what-works/article/55388789/case-study-redimix-cuts-year-over-year-maintenance-spend-by-more-than-half-with-a-single-source-of-truth",
+    "https://www.getmaintainx.com/case-studies/cintas"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MaintainX white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.getmaintainx.com/",
+    "https://www.getmaintainx.com/enterprise",
+    "https://www.seoreseller.com/",
+    "https://partners.spectrum.com/",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MaintainX founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/maintainx",
+    "https://getlatka.com/companies/getmaintainx.com",
+    "https://pitchbook.com/profiles/company/266371-66",
+    "https://tracxn.com/d/companies/maintainx/__DvKO_UzYSSOOd-QWnQqJ7IMvlJE-AW0WEtYKNF8Qn4Q",
+    "https://www.zoominfo.com/c/maintainx-inc/465721774",
+    "https://prospeo.io/c/maintainx-revenue",
+    "https://acquirezy.com/organization/maintainx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com MaintainX",
+   "results": [
+    "https://note.com/fintechken/n/n61a729f6d880",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/m2xsoftware/n/n352f629ef06e",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/mute_hound4720/n/nf97e5cfc28e7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com MaintainX",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com MaintainX",
+   "results": [
+    "https://www.linkedin.com/company/getmaintainx",
+    "https://www.linkedin.com/products/getmaintainx-maintainx",
+    "https://ca.linkedin.com/jobs/view/senior-integrations-consultant-at-maintainx-4434149019",
+    "https://ca.linkedin.com/jobs/view/site-reliability-engineer-at-maintainx-4434126995",
+    "https://www.linkedin.com/company/getmaintainx/jobs",
+    "https://www.linkedin.com/company/getmaintainx/life",
+    "https://www.linkedin.com/in/nickhaase"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com MaintainX",
+   "results": [
+    "https://www.facebook.com/getMaintainX/",
+    "https://www.facebook.com/getMaintainX/videos/2303461533832197/",
+    "https://www.facebook.com/getMaintainX/videos/this-is-maintainx/901031066999525/",
+    "https://www.facebook.com/fb-answers/how-does-maintainx-handle-preventive-maintenance-scheduling-and-asset-tracking-for-reducing-equipment-downtime/",
+    "https://www.facebook.com/getMaintainX/posts/maintenance-and-operations-professionals-across-dc-maryland-and-virginia-wrench-/1548731857267802/",
+    "https://www.facebook.com/getMaintainX/videos/wrench-works-florida-2026/983761144788046/",
+    "https://www.facebook.com/getMaintainX/videos/my-favorite-maintainx-feature-2026/1565399435118791/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MaintainX note 社長",
+   "results": [
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.linkedin.com/in/nickhaase",
+    "https://www.linkedin.com/in/cturlica",
+    "https://tracxn.com/d/companies/maintainx/__DvKO_UzYSSOOd-QWnQqJ7IMvlJE-AW0WEtYKNF8Qn4Q",
+    "https://startupintros.com/orgs/maintainx",
+    "https://www.clay.com/dossier/maintainx-ceo",
+    "https://x.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MaintainX X 投稿",
+   "results": [
+    "https://x.com/maintainx",
+    "https://www.getmaintainx.com/",
+    "https://community.getmaintainx.com/",
+    "https://help.getmaintainx.com/",
+    "https://www.facebook.com/getMaintainX/",
+    "https://help.getmaintainx.com/search",
+    "https://community.getmaintainx.com/community"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索13回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索13回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索13回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索13回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索13回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索13回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索13回）"
+ }
+}

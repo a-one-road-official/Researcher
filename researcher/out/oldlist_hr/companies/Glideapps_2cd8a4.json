@@ -1,0 +1,1120 @@
+{
+ "name": "Glideapps",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AUMS不適合",
+ "researched_at": "2026-11-10T23:13:21.660655+00:00",
+ "official_url": "https://www.glideapps.com/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "Free, Pro, and Enterprise plans | Glide",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "Free, Pro, and Enterprise plans | Glide",
+    "url": "https://www.glideapps.com/pricing?version=businesses",
+    "pass": 1
+   },
+   {
+    "label": "料金",
+    "value": "無料 $60〜/月 $125〜/月 $310〜/月",
+    "url": "https://appstep.jp/media/what-is-glide/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都新宿区新宿五丁目18番20号　ルックハイツ新宿803号",
+    "url": "https://appstep.jp/media/what-is-glide/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Stop chasing spreadsheets.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Glide is the business operations platform that turns the Excel files and Google Sheets your team runs on into apps and AI agents, so the people closest to the problems can finally solve them.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From a spreadsheet to business apps your whole team runs on.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drop in the spreadsheet your team already runs on, and say what you need.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SheetSense reads every sheet, formulas, lookups, notes and all, and finds what matters.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The agent loads your data and builds a working app, for desktop and phone.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Share it with your team. Apps stay private to your company by default.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every app, project and conversation in one shared home, on the desktop and on the phone in the field, all on the same live data.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring in your spreadsheets, databases, and everyday business tools. Glide turns them into an interconnected OS for your business, without replacing everything.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Glide keeps your apps private by default, protects your data with encryption, and gives you control over who can see and change what.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Glide Enterprise",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Install a pre-built app from our marketplace, then customize it to fit your business.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "President & CEO, Workplace Options",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When we found Glide, we discovered it was so easy to just take a spreadsheet and create a really wonderful, mobile-friendly, interactive application.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Practice Innovation at RDG",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The future of software isn't just AI building your apps. It's AI that knows them better than you do, working alongside you to make you extraordinarily productive.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your back office",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fix your production tracking",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Glide turns spreadsheets into beautiful, intelligent apps.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "operations and boost productivity.",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Home Improvement Services",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Affiliate Marketing App",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Management",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Property Listings App",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Sr Director, Product Dev at PGA of America",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "CarboNet created a custom enterprise management system with 40% less IT spend",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "RDG Planning & Design builds more efficient processes for architecture and design projects",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Saved in printing costs & productivity hours",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Strategic Initiatives at MintLeads",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Glide turns spreadsheets into beautiful, intelligent apps.",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing: Free, Pro, and Enterprise plans | Glide",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "10 projects",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "20 projects",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Build with enterprise-grade security and permissions",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro, plus:",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise integrations",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Choose your org's LLM provider",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Integrations",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock with Enterprise",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Require Publishing Approval",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Project-level Roles and Permissions",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "View code and project files",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“We were paying for three tools and losing twelve hours a week stitching them together in spreadsheets. GlideOS Pro replaced all of it. It paid for itself before the first invoice arrived.”",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Will my existing Glide apps be disrupted or deprecated?",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "GlideOS platform and plans are optimized for building internal business applications and using your spreadsheets to create other software for work. However, GlideOS is also very capable of creating just about anything. GlideOS can produce apps that look great across all devices, so your teams in the field, in the office, and in HQ will have apps that look and feel great.",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do I need a spreadsheet with data to use GlideOS?",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No, you do not need a spreadsheet to use GlideOS. You can start with a written prompt, a PDF, or even a screenshot to instruct the AI agent that will build your apps.",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Spreadsheet to app development is deeply rooted in Glide's history. Because spreadsheets are such a prominent tool inside businesses, and they contain so much rich context about your operations, we've built a proprietary system called SheetSense which can more precisely translate your spreadsheets into software. So if you have a spreadsheet, load it into GlideOS and watch it work.",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your back office",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fix your production tracking",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Glide turns spreadsheets into beautiful, intelligent apps.",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Build custom software that connects your data and business tools, so you can optimize processes and increase efficiency.",
+    "url": "https://www.glideapps.com/solutions/business",
+    "pass": 1
+   },
+   {
+    "quote": "Glide empowers teams to create professional tools that streamline their business processes, without relying on developers or designers.",
+    "url": "https://www.glideapps.com/solutions/business",
+    "pass": 1
+   },
+   {
+    "quote": "Build a flexible CRM that’s tailored to your business’s processes, workflows, and industry.",
+    "url": "https://www.glideapps.com/solutions/business",
+    "pass": 1
+   },
+   {
+    "quote": "Track parts and supplies, record sales, manage stock levels, and streamline processes.",
+    "url": "https://www.glideapps.com/solutions/business",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your spreadsheet or SQL database, customize your app’s appearance and features, and ship solutions you can easily update and maintain.",
+    "url": "https://www.glideapps.com/solutions/business",
+    "pass": 1
+   },
+   {
+    "quote": "Craft professional apps without needing a designer",
+    "url": "https://www.glideapps.com/solutions/business",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by teams at 100,000+ businesses",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams at 100,000+ businesses",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“The software we built with Glide will save our business $1M this year alone—and by helping us proactively identify safety issues, could even save a life in the plant.”",
+    "url": "https://www.glideapps.com/solutions/business",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Software Built With AI | Glide",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Software",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Build custom manufacturing software with AI",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Track production runs, manage work orders, and improve output with custom manufacturing software tailored to your business.",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Stay on top of every job with live run sheets that update in real time. Give operators and supervisors a clear view of what's in progress, done, and next.",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Keep every job moving through your plant",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Build AI-powered dashboards that give your team a clear view of downtime, throughput, and cycle times. Track the KPIs your plant cares about, without waiting weeks for IT or ERP reports.",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing software, made to",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Build live dashboards for throughput, downtime, and order fulfillment, so plant managers can make fast, data-informed decisions.",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manage your operations from the shop floor, warehouse, or office—on desktop, tablet, or phone, wherever work happens.",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your manufacturing software with the tools you love",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How does custom manufacturing software work?",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom manufacturing software is built to fit your plant's unique workflows, rather than forcing your team to adapt to rigid, off-the-shelf systems. With no-code platforms like Glide, you can create tailored apps that manage work orders, production tracking, and real-time job updates—all without writing code.",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Can I build a manufacturing app without coding experience?",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Modern no-code platforms make it possible to build fully functional manufacturing apps without technical expertise. Using Glide's intuitive app builder, teams can create apps to track production runs, manage inventory, and keep processes moving—no developers required.",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What is the best software for manufacturers?",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What features should I look for in manufacturing software?",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile-friendly apps for the shop floor",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Does Glide manufacturing software integrate with other tools?",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Glide connects with your existing systems like Google Sheets, Excel, MySQL, Slack, and more—so your manufacturing data stays in sync without manual updates.",
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Sends a questionnaire to clients after every project, which they can submit through a Glide app that auto-generates a PDF case study, including the client feedback and project details from Salesforce and Procore.",
+    "url": "https://www.glideapps.com/customers/bw-workplace-experts",
+    "pass": 1
+   },
+   {
+    "quote": "Rotha plans to use Glide to simplify more processes for their field technicians and third-party installers.“",
+    "url": "https://www.glideapps.com/customers/champion-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians can go and complete a similar checklist. Then our warranty system, the registration and everything behind it can happen. Our third-party field technicians can get paid a lot sooner just by getting everything a lot more streamlined.” He also wants to create new apps to help customers—giving them the power to self-diagnose their own machines.“",
+    "url": "https://www.glideapps.com/customers/champion-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline receiving, organize inventory, and manage suppliers with software designed around your warehouse layout.",
+    "url": "https://www.glideapps.com/classic/pricing/free-trial",
+    "pass": 1
+   },
+   {
+    "quote": "Lonestar’s app gives 100+ field technicians instant access to tools and data on-site",
+    "url": "https://www.glideapps.com/classic/pricing/free-trial",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams at 100,000+ businesses",
+    "url": "https://www.glideapps.com/pricing?version=businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline receiving, organize inventory, and manage suppliers with software designed around your warehouse layout.",
+    "url": "https://www.glideapps.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Lone Star created a workforce management app for 100+ field technicians",
+    "url": "https://www.glideapps.com/customers/lone-star-communications",
+    "pass": 1
+   },
+   {
+    "quote": "ManBow, a subsidiary of Manfield Paris, is a group of luxury shoe brands founded in 1844. With around 50 shoe shops and five brands, it is a family-owned business that is passionate about its products and finding the best materials. They work with small family-owned factories in Italy, Portugal, the UK, and France with the goal of making affordable luxury shoes.",
+    "url": "https://www.glideapps.com/customers/manbow",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Give employees, managers, customers, and partners access to the information and actions that matter to them, without exposing everything else.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I didn't expect to be the one building an app - but Glide's new AI capabilities made it that simple. What started as a quick experiment has become a real driver of collaboration across our acquisitions and global offices.",
+    "url": "https://www.glideapps.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yetipay grew revenue by 750% using a field sales app",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The field sales team added close to 2 million pounds worth of revenue last year from a standing start. So yeah, Glide pays for itself. We just would not have been able to scale in the way that we did without Glide.",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We've been scaling like crazy, and a big part of our success is focusing on sales and making that system through Glide. It's become a crucial part of our operations on a day-to-day basis.",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“We were paying for three tools and losing twelve hours a week stitching them together in spreadsheets. GlideOS Pro replaced all of it. It paid for itself before the first invoice arrived.”",
+    "url": "https://www.glideapps.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Create custom portals that serve as a central hub for your customers, employees, or investors.",
+    "url": "https://www.glideapps.com/solutions/business",
+    "pass": 1
+   },
+   {
+    "quote": "\"Whether you are building larger-scale solutions or micro tools, artificial intelligence has obviously exploded into the business world,\" added Oscar. \"Glide allows us to implement these technologies inside of businesses so that they can operate as additional employees.\"",
+    "url": "https://www.glideapps.com/customers/bw-workplace-experts",
+    "pass": 1
+   },
+   {
+    "quote": "To start, he built a Glide app to replace their manual testing checklist. Each dishwasher model can now be checked and tested through the app. They’re listed by serial number, that way the QA team can easily cross-reference the physical model against the info in the app. All the tests are then stored, in case a technician ever needs to check a configuration or do maintenance on a specific machine.",
+    "url": "https://www.glideapps.com/customers/champion-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians can go and complete a similar checklist. Then our warranty system, the registration and everything behind it can happen. Our third-party field technicians can get paid a lot sooner just by getting everything a lot more streamlined.” He also wants to create new apps to help customers—giving them the power to self-diagnose their own machines.“",
+    "url": "https://www.glideapps.com/customers/champion-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate every part of your business.",
+    "url": "https://www.glideapps.com/classic/pricing/free-trial",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize routes, coordinate shipments, and manage carriers with software tailored to your freight operations.",
+    "url": "https://www.glideapps.com/classic/pricing/free-trial",
+    "pass": 1
+   },
+   {
+    "quote": "Manfield Paris' inventory app helps their team do the work of 2 more employees.",
+    "url": "https://www.glideapps.com/classic/pricing/free-trial",
+    "pass": 1
+   },
+   {
+    "quote": "“We were paying for three tools and losing twelve hours a week stitching them together in spreadsheets. GlideOS Pro replaced all of it. It paid for itself before the first invoice arrived.”",
+    "url": "https://www.glideapps.com/pricing?version=businesses",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize routes, coordinate shipments, and manage carriers with software tailored to your freight operations.",
+    "url": "https://www.glideapps.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "ManBow saved the salary of 2 full-time employees with streamlined inventory management",
+    "url": "https://www.glideapps.com/customers/manbow",
+    "pass": 1
+   },
+   {
+    "quote": "ManBow, a subsidiary of Manfield Paris, is a group of luxury shoe brands founded in 1844. With around 50 shoe shops and five brands, it is a family-owned business that is passionate about its products and finding the best materials. They work with small family-owned factories in Italy, Portugal, the UK, and France with the goal of making affordable luxury shoes.",
+    "url": "https://www.glideapps.com/customers/manbow",
+    "pass": 1
+   },
+   {
+    "quote": "The app he created allows ManBow to share videos, news, and figures, making it easier for people to find out what was happening in the company. It also allows the company to follow all their employees and shops and input data from their sales. They can now check all the stocks in their shops using the app, making inventory management much easier.",
+    "url": "https://www.glideapps.com/customers/manbow",
+    "pass": 1
+   },
+   {
+    "quote": "The initial problem was the main challenge of sharing data. Constantin built a tab that was meant to share data, then he thought of sharing videos on the newsfeed on the app. Employees now use the app to update opening times, follow co-workers, and manage inventory. Using Glide saved ManBow one or two full-time employees, making them more efficient and competitive.",
+    "url": "https://www.glideapps.com/customers/manbow",
+    "pass": 1
+   },
+   {
+    "quote": "yetipay grew revenue by 750% using a field sales app",
+    "url": "https://www.glideapps.com/customers/yetipay",
+    "pass": 1
+   },
+   {
+    "quote": "revenue from the field sales app",
+    "url": "https://www.glideapps.com/customers/yetipay",
+    "pass": 1
+   },
+   {
+    "quote": "“The field sales team added close to 2 million pounds worth of revenue last year from a standing start. So yeah, (Glide) pays for itself.”",
+    "url": "https://www.glideapps.com/customers/yetipay",
+    "pass": 1
+   },
+   {
+    "quote": "\"We scaled total revenue last year from £400,000 to £3.5 million. Which is a lot.\"",
+    "url": "https://www.glideapps.com/customers/yetipay",
+    "pass": 1
+   },
+   {
+    "quote": "https://barrier-free.glideapp.io/",
+    "url": "https://tom2rd.sakura.ne.jp/hanakotech/2020/08/17/post-15002/",
+    "pass": 3
+   },
+   {
+    "quote": "サインアップが完了したら「Videos ＆ Templates」にある「Employees」をクリックしてテンプレートを開きます",
+    "url": "https://blog.nocodelab.jp/entry/2019/07/30/Glide_/_glideapps_%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9",
+    "pass": 3
+   },
+   {
+    "quote": "これでテンプレートを利用して作成した「Employees」アプリの完成です",
+    "url": "https://blog.nocodelab.jp/entry/2019/07/30/Glide_/_glideapps_%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "more custom lead emails sent with a lead-scoring AI agent",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Before Glide AI, a financial analyst would write three paragraphs for every investment update. Then, we would need to manually email hundreds of investors a PDF of that month’s financial performance. Glide has automated this entire process for us. It’s amazing.",
+    "url": "https://www.glideapps.com/customers/centerline-business-services",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited apps with business email users",
+    "url": "https://www.glideapps.com/classic/pricing/free-trial",
+    "pass": 1
+   },
+   {
+    "quote": "During the free trial, you can access all the features available on our Business plan, including Airtable and Excel data sources, 35+ integrations, unlimited apps, and advanced features like Schedule/Webhook/Email Triggers, Glide API, and Call API. You can see the complete list of features",
+    "url": "https://www.glideapps.com/classic/pricing/free-trial",
+    "pass": 1
+   },
+   {
+    "quote": "Public with email / Emailを登録しPINコードを受け取った人のみOK",
+    "url": "https://blog.nocodelab.jp/entry/2019/07/30/Glide_/_glideapps_%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9",
+    "pass": 3
+   },
+   {
+    "quote": "Email whitelist / Emailリストに記載している人でPINコードを受け取った人のみOK",
+    "url": "https://blog.nocodelab.jp/entry/2019/07/30/Glide_/_glideapps_%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9",
+    "pass": 3
+   },
+   {
+    "quote": "Email whitelist では、スプレッドシートにメールアドレスのリストを持ったシートを作成する必要があります",
+    "url": "https://blog.nocodelab.jp/entry/2019/07/30/Glide_/_glideapps_%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "We'll scope your project with a vetted Glide agency partner and share a detailed proposal.",
+    "url": "https://www.glideapps.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We carefully select the best Agency Partner for your project and provide milestones, check-ins, and support from start to finish.",
+    "url": "https://www.glideapps.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We work with top agencies",
+    "url": "https://www.glideapps.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Many of the world's top agencies choose Glide to build apps, backed by a community of 4,500+ Experts.",
+    "url": "https://www.glideapps.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Custom software development companies create bespoke software tailored to specific business needs. Glide Solutions is unique in this space, leveraging a powerful no code platform and world-class agency partners to deliver custom solutions faster and more cost-effectively.",
+    "url": "https://www.glideapps.com/solutions",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "【GlideApps】日本語のドキュメントないので少し翻訳",
+    "url": "https://tom2rd.sakura.ne.jp/hanakotech/2020/08/17/post-15002/",
+    "pass": 3
+   },
+   {
+    "quote": "字幕の日本語訳でもしようか？って前にサンプルを送ったのですが",
+    "url": "https://tom2rd.sakura.ne.jp/hanakotech/2020/08/17/post-15002/",
+    "pass": 3
+   },
+   {
+    "quote": "項目だけでも日本語化して、リンクしておきました",
+    "url": "https://tom2rd.sakura.ne.jp/hanakotech/2020/08/17/post-15002/",
+    "pass": 3
+   },
+   {
+    "quote": "【TOKYO854】理系バンザイ＼(^o^)／ の アーカイブ 【自然科学教を広める】",
+    "url": "https://tom2rd.sakura.ne.jp/hanakotech/2020/08/17/post-15002/",
+    "pass": 3
+   },
+   {
+    "quote": "Glideの基本的な仕組みや機能、料金プラン、導入事例、活用メリット・注意点までを網羅的に解説",
+    "url": "https://appstep.jp/media/what-is-glide/",
+    "pass": 3
+   },
+   {
+    "quote": "ノーコード開発とは？メリット・デメリットやツール・導入事例・活用事例も解説",
+    "url": "https://appstep.jp/media/what-is-glide/",
+    "pass": 3
+   },
+   {
+    "quote": "注意点3. 日本語に対応していない",
+    "url": "https://appstep.jp/media/what-is-glide/",
+    "pass": 3
+   },
+   {
+    "quote": "Glideの公式サイト、サポート、コミュニティ、そしてツール内の表記は全て英語で、日本語には対応していないです",
+    "url": "https://appstep.jp/media/what-is-glide/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、Youtubeなどに日本語の解説動画はあるので、学習をするうえでは大きな支障はなさそうです",
+    "url": "https://appstep.jp/media/what-is-glide/",
+    "pass": 3
+   },
+   {
+    "quote": "AppSheetとは?メリット・デメリット、料金、導入事例を解説",
+    "url": "https://appstep.jp/media/what-is-glide/",
+    "pass": 3
+   },
+   {
+    "quote": "AppSheetの業務アプリによる業務改善の導入事例・活用事例",
+    "url": "https://appstep.jp/media/what-is-glide/",
+    "pass": 3
+   },
+   {
+    "quote": "AppSheetの業務アプリによる業務改善の導入事例・活用事例とは？",
+    "url": "https://appstep.jp/media/what-is-glide/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都新宿区新宿五丁目18番20号 ルックハイツ新宿803号",
+    "url": "https://appstep.jp/media/what-is-glide/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Glide: AI app builder for internal business apps — Glide: AI app builder for internal business apps Glide https://www.glideapps.com",
+    "url": "https://www.glideapps.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【 GlideApps 】 日本 語のドキュメントないので少し翻訳 ... — 【 GlideApps 】 日本 語のドキュメントないので少し翻訳 ... さくらインターネット https://tom2rd.sakura.ne.jp > 2020/08/17 > post-15002",
+    "url": "https://tom2rd.sakura.ne.jp/hanakotech/2020/08/17/post-15002/",
+    "pass": 3
+   },
+   {
+    "quote": "Glide / glideapps の使い方 - ノーコード ラボ — Glide / glideapps の使い方 - ノーコード ラボ blog.nocodelab.jp https://blog.nocodelab.jp > Glide",
+    "url": "https://blog.nocodelab.jp/entry/2019/07/30/Glide_/_glideapps_%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9",
+    "pass": 3
+   },
+   {
+    "quote": "【Glide】 GlideApps さようなら！モバイルアプリも ... - note — 【Glide】 GlideApps さようなら！モバイルアプリも ... - note note https://note.com > コンピュータ・IT > アプリケーション",
+    "url": "https://note.com/shinya_matsui/n/ne448b5a7c6f3",
+    "pass": 3
+   },
+   {
+    "quote": "No-Code App Development Solutions for Agencies - Glide — No-Code App Development Solutions for Agencies - Glide Glide https://www.glideapps.com > agencies",
+    "url": "https://www.glideapps.com/solutions/agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Glide (@ glideapps ) / X — Glide (@ glideapps ) / X X https://x.com > glideapps",
+    "url": "https://x.com/glideapps",
+    "pass": 3
+   },
+   {
+    "quote": "Glide ( glideapps .com) - LinkedIn — Glide ( glideapps .com) - LinkedIn LinkedIn https://www.linkedin.com > glideapps",
+    "url": "https://www.linkedin.com/company/glideapps",
+    "pass": 3
+   },
+   {
+    "quote": "r/ glideapps - Reddit — r/ glideapps - Reddit Reddit https://www.reddit.com > glideapps",
+    "url": "https://www.reddit.com/r/glideapps/",
+    "pass": 3
+   },
+   {
+    "quote": "Glide - YouTube — Glide - YouTube YouTube https://www.youtube.com > glideapps",
+    "url": "https://www.youtube.com/glideapps",
+    "pass": 3
+   },
+   {
+    "quote": "Customers : How teams build with us - Glide — Customers : How teams build with us - Glide Glide https://www.glideapps.com > customers",
+    "url": "https://www.glideapps.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Building a $1M+ software agency with no code | Glide Apps — Building a $1M+ software agency with no code | Glide Apps YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=syQGsEOUjYc",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.glideapps.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/solutions/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/industry/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/jobs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/customers/bw-workplace-experts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/customers/champion-industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/customers/centerline-business-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/customers/pga",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/classic/pricing/free-trial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/pricing?version=businesses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/customers/lone-star-communications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/customers/manbow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glideapps.com/customers/yetipay",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.glideapps.com/_next/image?url=%2Fimages%2Fcustomers%2Fhero-grid%2Frow-1-image-01.png&w=128&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glideapps.com/_next/image?url=%2Fimages%2Fcustomers%2Fhero-grid%2Frow-1-image-02.png&w=128&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glideapps.com/_next/image?url=%2Fimages%2Fcustomers%2Fhero-grid%2Frow-1-image-03.png&w=128&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glideapps.com/_next/image?url=%2Fimages%2Fcustomers%2Fhero-grid%2Frow-1-image-04.png&w=256&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://tom2rd.sakura.ne.jp/hanakotech/2020/08/17/post-15002/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.nocodelab.jp/entry/2019/07/30/Glide_/_glideapps_%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plat.io/ja/posts/glide-apps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsflyer.com/ja/solutions/agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-app.jp/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appstep.jp/media/what-is-glide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/glideapps",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/glideapps",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.reddit.com/r/glideapps/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.honeycomb.io/resources/case-studies/customer-story-glide-apps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.madcapsoftware.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=syQGsEOUjYc",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Glideapps 日本 導入",
+   "results": [
+    "https://www.glideapps.com/",
+    "https://tom2rd.sakura.ne.jp/hanakotech/2020/08/17/post-15002/",
+    "https://blog.nocodelab.jp/entry/2019/07/30/Glide_/_glideapps_%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9",
+    "https://plat.io/ja/posts/glide-apps",
+    "https://note.com/shinya_matsui/n/ne448b5a7c6f3",
+    "https://www.glideapps.com/platform",
+    "https://www.youtube.com/watch?v=gTxnXi8pkxA",
+    "https://www.uni-spot.com/blog_post/nocode-glide/",
+    "https://qiita.com/tomohisaota/items/475dad3a41125932e7ee"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Glideapps 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.glideapps.com/solutions/agencies",
+    "https://www.appsflyer.com/ja/solutions/agencies/",
+    "https://gmo-app.jp/partner/",
+    "https://appstep.jp/media/what-is-glide/",
+    "https://note.com/shinya_matsui/n/nbf1fc28fda9c",
+    "https://digital-business.exa-corp.co.jp/solutions/portal.html",
+    "https://geniee.co.jp/media/crm/agency-management-system/",
+    "https://www.lumapps.jp/news/partnership_gxp/",
+    "https://www.itreview.jp/categories/agency-management-system"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Glideapps Japan",
+   "results": [
+    "https://www.glideapps.com/",
+    "https://x.com/glideapps",
+    "https://www.linkedin.com/company/glideapps",
+    "https://www.reddit.com/r/glideapps/",
+    "https://www.youtube.com/glideapps",
+    "https://blog.nocodelab.jp/entry/2019/07/30/Glide_/_glideapps_%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9",
+    "https://app.glide.com/",
+    "https://github.com/glideapps",
+    "https://www.crunchbase.com/organization/glide-apps"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Glideapps manufacturing customer case study",
+   "results": [
+    "https://www.glideapps.com/customers",
+    "https://www.honeycomb.io/resources/case-studies/customer-story-glide-apps",
+    "https://www.madcapsoftware.com/case-studies/",
+    "https://www.youtube.com/watch?v=syQGsEOUjYc",
+    "https://www.l2l.com/case-studies",
+    "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "https://glide.co.uk/case-studies/",
+    "https://www.glean.com/resources/customer-stories",
+    "https://www.glideapps.com/blog/2025-year-in-review"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Glideapps white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Glideapps founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Glideapps",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Glideapps",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Glideapps",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Glideapps",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Glideapps note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Glideapps X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部12頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部12頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部12頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部12頁・検索12回）"
+ }
+}

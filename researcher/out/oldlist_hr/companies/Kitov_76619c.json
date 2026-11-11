@@ -1,0 +1,1461 @@
+{
+ "name": "Kitov",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-10T23:31:08.983706+00:00",
+ "official_url": "https://www.kitov.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "of manufacturing insights across complex parts and products.",
+    "url": "https://kitov.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A broad range of industries and sectors – from electronics and automotive to defense, medical and retail, among others – benefit from using KITOV’s AI-powered engine to build automated inspection systems – tailored precisely to their needs.",
+    "url": "https://kitov.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "As an open platform, machine builders, system integrators, and planners can integrate KITOV’s software with their new and existing production processes, including best-in-breed detectors and hardware components. 3D metrology is supported as well.",
+    "url": "https://kitov.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "As the basis for building automated inspection systems, the software can support production lines in many sectors and across a wide range of applications, such as inspection, metrology and others",
+    "url": "https://kitov.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Novel Vision System Provides Quality Control for Missile Interceptor System",
+    "url": "https://kitov.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Kitov helps one of the world’s leading producers of injection molded plastic parts produce a multipart plastic toolbox for a high-end U.S.-based power tools supplier.",
+    "url": "https://kitov.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Hybrid Vision System Inspects Highly Variable Electronic Product Mix",
+    "url": "https://kitov.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Vision Inspection System Delivers Rapid Return on Investment for Innovative EV Components Project",
+    "url": "https://kitov.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "The Preh Group implemented a Kitov vision inspection system for the production of a high-performance sports car’s DC/DC multi-converter.",
+    "url": "https://kitov.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Gary has held pivotal sales leadership roles at industry giants including Cisco Systems (Country Manager, Near East), Digital Equipment, and Audiocodes, as well as high-growth ventures like Allot and Provigent (acquired by Broadcom). As an investor and advisor to the startup ecosystem, he has contributed to few companies that reached successful acquisitions.",
+    "url": "https://kitov.ai/management/",
+    "pass": 1
+   },
+   {
+    "quote": "He holds a BSc in Computer Engineering from the Technion and an MBA in Information Systems & Marketing from Tel Aviv University.",
+    "url": "https://kitov.ai/management/",
+    "pass": 1
+   },
+   {
+    "quote": "privately held and publicly traded multinationals companies in the high-tech",
+    "url": "https://kitov.ai/management/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Printing and Online consumer operation).",
+    "url": "https://kitov.ai/management/",
+    "pass": 1
+   },
+   {
+    "quote": "Previously, Mr. Lifschitz held CFO positions at NOVELSAT, Velox,",
+    "url": "https://kitov.ai/management/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product & Marketing Officer",
+    "url": "https://kitov.ai/management/",
+    "pass": 1
+   },
+   {
+    "quote": "Aviv is a strategic product and marketing executive with 30+ years of experience driving innovation and growth across various technology landscapes. Drawing on deep market, business, and technology insight, he formulates and executes product and marketing strategies that create differentiated offerings and meaningful impact in global B2B environments.",
+    "url": "https://kitov.ai/management/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/management/",
+    "pass": 1
+   },
+   {
+    "quote": "Based on artificial intelligence, KITOV’s platform is a game-changer for industries that manufacture complex parts and products. The open platform automates CAD-based specification and planning of visual inspection as part of the manufacturing and visual inspection processes.",
+    "url": "https://kitov.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "KITOV’s open software platform is designed for easy integration with any robotic and automation environment, control environment, and line quality or enterprise software systems.",
+    "url": "https://kitov.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "inspection processes.",
+    "url": "https://kitov.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We are looking for an energetic algorithm engineer/manager to join and lead the inspection algorithms group. The candidate should have a suitable background in Computer Vision and AI, be passionate and knowledgeable about software with a hands-on approach, have excellent interpersonal skills and have a “can do” approach.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Take part in the SW version release process.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Work with the product management on the definitions of new products and features.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Ability to work hard and smart under pressure.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The ideal candidate should have expertise in robotics algorithms such as motion planning, collision avoidance, robotic arms-kinematics, 3D CAD geometry, and 3D point cloud processing.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The candidate should also have experience in 3D simulations, 2D/3D camera calibration and integration, and interfacing with different types of robotics arms and tools.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Solid understanding of linear algebra/3D programming, such as gaming engines or CAD software programming.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Object Oriented Programming in C# – a major advantage.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "If you’re excited about the prospect of working with cutting-edge technologies and contributing to the development of innovative software solutions, we encourage you to apply.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "GE-01（Pros Cons）",
+    "url": "https://www.defect-inspectiondevice.com/object/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": "（Unauthorized copying prohibited.）",
+    "url": "https://www.defect-inspectiondevice.com/object/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": "【PR】目的別・外観検査装置選定マニュアル",
+    "url": "https://www.defect-inspectiondevice.com/object/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": "画像処理ソフトウエアのプロセスツール （Process Tool） を",
+    "url": "https://www.shi.co.jp/tech/tech_report/pdf/208_09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan, and Kitov, a developer and provider of automated smart visual inspection software solutions, headquartered in Petah Tikva, Israel, announced today the signing of a partnership agreement. The agreement will enable Mitutoyo to integrate Kitov’s technologies across its metrology solutions.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov’s proprietary AI, Robotics, and Computer Vision technologies allow complete semantic understanding of the part or product under inspection including its 3D structure and components. This results in automated highly reliable and cost-effective visual inspection and measurement solutions that significantly improve quality control and reduce manufacturing costs.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "“While constantly striving to identify the best complementary technologies for our leading metrology systems, we have been seeking for an effective technology that can help us to fully automate and further enhance our measurement and inspection solutions. Kitov’s technology is an advanced and innovative solution that meets Mitutoyo’s high standards,” says Yoshiaki Numata, Mitutoyo President.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "Mitutoyo is a global leader in the field of precision measuring equipment.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "As a comprehensive manufacturer of precision measurement instruments, the Mitutoyo name is known around the world. Mitutoyo products have a leading market share both in Japan and overseas and continues to be the choice across industries and nations. Major companies all over the world put their trust in Mitutoyo.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov is a supplier of smart visual inspection solutions for a broad range of production lines in the electronics, defense, aerospace, automotive, and medical device industries. Kitov develops a fully automated, universal, and flexible 3D visual inspection system that can be trained by a non-expert in a fast and intuitive manner to inspect a large variety of products.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Inspection System Delivers Rapid Return on Investment for Innovative EV Components Project",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "KITOV.ai Unveils KITOV X-Prime: Advanced Surface Inspection System for High-End, Single-Material Parts with Complex Geometries",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "We develop fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Our systems help manufacturers reduce costs, improve quality and efficiency as they endorse digital transformation in the Industry 4.0 world.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov-CorePlus- our initial product offering and the first smart inspection planning product in the market – was launched in mid-2016 and has been successfully deployed by Tier 1 customers in Europe, China, Malaysia, USA, Mexico, Japan and Israel.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "“Kitov-CorePlus enables operators with no previous machine vision, robotics or programming to set up the system in just a few hours.”",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens AG is a global powerhouse in the fields of industry, energy, healthcare and smart infrastructure solutions. Siemens Dynamo is a commercialization program for start-ups that was launched in Tel-Aviv in 2018. The program’s goal is to serve as a commercialization vehicle for start-up companies with Siemens and with Siemens’ customers and partners.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "The HAHN Group’s mission is to simplify industrial processes with automation robots, to optimize total cost of ownership and to address dynamic customer requirements with flexible automation solutions.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Contel is a leading Israeli distributor and system integrator for Automation and control in all industry segments. With solid reputation and strong market presence in Israel, Contel is Kitov representative in Israel",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "represents automation",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "our clients’ human workforce potential and",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "productivity and safety.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Cobot Team provides a",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "staffing model approach with the",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "of manufacturing insights across complex parts and products.",
+    "url": "https://kitov.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Based Inspections for Industrial Manufacturing",
+    "url": "https://kitov.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A broad range of industries and sectors – from electronics and automotive to defense, medical and retail, among others – benefit from using KITOV’s AI-powered engine to build automated inspection systems – tailored precisely to their needs.",
+    "url": "https://kitov.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "As the basis for building automated inspection systems, the software can support production lines in many sectors and across a wide range of applications, such as inspection, metrology and others",
+    "url": "https://kitov.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Turbine Jet DISC Inspection",
+    "url": "https://kitov.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Quality control was done manually at NVIDIA’s subcontractor plant, until the company learned about a Kitov solution, which was able to automate the visual inspection task quickly and cost-effectively.",
+    "url": "https://kitov.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "industry (Semiconductors, System, IP, Software, Medical devices, Automotive,",
+    "url": "https://kitov.ai/management/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/management/",
+    "pass": 1
+   },
+   {
+    "quote": "KITOV.ai offers a sophisticated software platform to plan and perform visual inspection to large manufacturers, machine builders, and system integrators.",
+    "url": "https://kitov.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Based on artificial intelligence, KITOV’s platform is a game-changer for industries that manufacture complex parts and products. The open platform automates CAD-based specification and planning of visual inspection as part of the manufacturing and visual inspection processes.",
+    "url": "https://kitov.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading tier-1 manufacturers use KITOV.ai",
+    "url": "https://kitov.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "of their manufacturing and visual",
+    "url": "https://kitov.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "to plan and perform visual inspection to large manufacturers, machine builders, and system integrators.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Advantage: Experience with visual inspection and/or advanced manufacturing.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Kitov’s proprietary AI, Robotics, and Computer Vision technologies allow complete semantic understanding of the part or product under inspection including its 3D structure and components. This results in automated highly reliable and cost-effective visual inspection and measurement solutions that significantly improve quality control and reduce manufacturing costs.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "As a comprehensive manufacturer of precision measurement instruments, the Mitutoyo name is known around the world. Mitutoyo products have a leading market share both in Japan and overseas and continues to be the choice across industries and nations. Major companies all over the world put their trust in Mitutoyo.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov is a supplier of smart visual inspection solutions for a broad range of production lines in the electronics, defense, aerospace, automotive, and medical device industries. Kitov develops a fully automated, universal, and flexible 3D visual inspection system that can be trained by a non-expert in a fast and intuitive manner to inspect a large variety of products.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "Hyperscale Cloud and Technology Leader Expands Deployment of AI-Driven Visual Inspection to Ensure Reliability and Scale Mission-Critical Infrastructure Manufacturing",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "Fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "DEFENSE AND AEROSPACE",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "GENERAL MANUFACTURING",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "We develop fully automated visual inspection solutions for a broad range of production lines and markets.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Our systems help manufacturers reduce costs, improve quality and efficiency as they endorse digital transformation in the Industry 4.0 world.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "“Kitov-CorePlus enables operators with no previous machine vision, robotics or programming to set up the system in just a few hours.”",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "The HAHN Group’s mission is to simplify industrial processes with automation robots, to optimize total cost of ownership and to address dynamic customer requirements with flexible automation solutions.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Elas Kft has 20 years history as a leading distributor of high tech production and test equipment for manufacturers in Hungary. Elas is reperesenting 15 leading brands and companies from all over the world.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "ECA, a leading design and manufacturer for automation solutions was incorporated in 1993 with our HQ in Penang, Malaysia.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "AMTECH, spol. s r. o. has been founded in February 1993 as sales & service company. Since early years of pilot machine supplies, AMTECH has matured to become a recognized regional leader in selling complex technological solutions as well as materials to the SMT and electronic industry. AMTECH represents world leading manufacturers in the regions of Czech Republic and Slovakia.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturers must visually inspect",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "like these cost manufacturers time and money,",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "visual inspection on the manufacturing line.",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "In addition, the manufacturer assembled more",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "implementation time. In 2016, the manufacturer",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "for the manufacturer, the defective products",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturer sought an automated solution",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "regardless of waste, the manufacturer may",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "unnecessary waste and costs. Manufacturers",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "like the one the manufacturer offers presents",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "industrial processes within reach.",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the manufacturing process, the system",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "product model and manufacturer needs.",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "With the new system, the manufacturer also",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing process improvement. Return",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "inspection platform across its manufacturing",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "complex products, ” concluded the manufacturer",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturer as defective. However, inspecting fine wires at the bottom of cavities with reliability and accuracy requires",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "DEFENSE AND AEROSPACE",
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "pass": 3
+   },
+   {
+    "quote": "GENERAL MANUFACTURING",
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "pass": 3
+   },
+   {
+    "quote": "Ports inspection is today a major challenge for manufacturers.",
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "pass": 3
+   },
+   {
+    "quote": "For the first time in the history of industrial manufacturing, a new and advanced technology is available to help manufacturers tackle these challenges: smart visual inspection.",
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "pass": 3
+   },
+   {
+    "quote": "This case study is a typical example of how Kitov’s innovative technology has helped a high-end electronic equipment manufacturer deal with the challenges of quality and rapid NPI (new product introduction and manufacturing) in a high mix environment.",
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you’re manufacturing servers, switches, routers, communication platforms or electronics as standalone products or for integration into mission critical systems in MedTech, Energy, Automotive or Defense industries, this case study demonstrates how you can benefit from Kitov’s solution.",
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY: HIGH END SWITCHES",
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "pass": 3
+   },
+   {
+    "quote": "The customer is a leading supplier of end-to-end communication solutions, storage, and hyper-converged infrastructure. It offers a range of high-performance network adapters and switches. The customer manufactures a portfolio of high mix products by engaging several different contract manufacturers that employ manufacturing processes similar to its own.",
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Gary has held pivotal sales leadership roles at industry giants including Cisco Systems (Country Manager, Near East), Digital Equipment, and Audiocodes, as well as high-growth ventures like Allot and Provigent (acquired by Broadcom). As an investor and advisor to the startup ecosystem, he has contributed to few companies that reached successful acquisitions.",
+    "url": "https://kitov.ai/management/",
+    "pass": 1
+   },
+   {
+    "quote": "Based on artificial intelligence, KITOV’s platform is a game-changer for industries that manufacture complex parts and products. The open platform automates CAD-based specification and planning of visual inspection as part of the manufacturing and visual inspection processes.",
+    "url": "https://kitov.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of the agreement, Mitutoyo will invest and become a shareholder in Kitov. The agreement also establishes the framework for joint-development of new solutions that combine Mitutoyo’s measurement technologies and Kitov’s planning and inspection technologies.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "are part of the Hahn Group).",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "CPS supply machines, devices, materials and technologies for the production of modern electronic devices, provide installation of purchased equipment, warranty and post-warranty service. We have spare parts and consumables necessary for their proper operation and maintenance",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Training and certifying employees to be quality",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Whereas the manufacturing process has been automated in many aspects including handling, assembly and functional testing, extensive visual inspection is performed manually on all products. This manual process required a major investment in order to train and certify dedicated employees as quality inspectors prior to joining the manufacturing line.",
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "pass": 3
+   },
+   {
+    "quote": "Despite allocating two fulltime employees to inspect every box, the customer’s high-quality demands meant that a single defective part resulted in the complete rejection of the entire shipment. Productivity and profitability suffered as a result.",
+    "url": "https://old.kitov.ai/solutions/general-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/233721-46",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/233721-46",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov.ai has 25 total employees.",
+    "url": "https://pitchbook.com/profiles/company/233721-46",
+    "pass": 3
+   },
+   {
+    "quote": "What is Kitov.ai’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/233721-46",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Kitov.ai is",
+    "url": "https://pitchbook.com/profiles/company/233721-46",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "詳細は装置販売元である住友重機械工業株式会社のKITOV紹介ページをご参照ください",
+    "url": "https://www.schwalbel.com/product/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": "外観検査システム「KITOV」 | 住友重機械工業株式会社メカトロニクス事業部 (shi-mechatronics.jp)",
+    "url": "https://www.schwalbel.com/product/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": "DMK-Ⅲ（日本エレクトロセンサリデバイス）",
+    "url": "https://www.defect-inspectiondevice.com/object/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": "チューブ容器内面検査装置（ライオンエンジニアリング株式会社）",
+    "url": "https://www.defect-inspectiondevice.com/object/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": "パイプ内面自動検査装置（株式会社オートインスペクト）",
+    "url": "https://www.defect-inspectiondevice.com/object/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": "住友重機械工業株式会社は、変減速機や位置決め装置などの製造関連機械からロジスティック、エネルギー、ライフラインの分野まで、様々な機械を製造している総合機械メーカーです",
+    "url": "https://www.defect-inspectiondevice.com/object/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都品川区大崎2-1-1 Thinkpark Tower",
+    "url": "https://www.defect-inspectiondevice.com/object/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan, and Kitov, a developer and provider of automated smart visual inspection software solutions, headquartered in Petah Tikva, Israel, announced today the signing of a partnership agreement. The agreement will enable Mitutoyo to integrate Kitov’s technologies across its metrology solutions.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "As a comprehensive manufacturer of precision measurement instruments, the Mitutoyo name is known around the world. Mitutoyo products have a leading market share both in Japan and overseas and continues to be the choice across industries and nations. Major companies all over the world put their trust in Mitutoyo.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov-CorePlus- our initial product offering and the first smart inspection planning product in the market – was launched in mid-2016 and has been successfully deployed by Tier 1 customers in Europe, China, Malaysia, USA, Mexico, Japan and Israel.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "In late 2018 Kitov completed a funding round to scale up the business and increase market penetration. The funding was led by RSBG, a leading international equity firm, and the HAHN Group together with the participation of Global IOT Technology Venture (GiTV) from Japan.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibition, Tokyo Big Site, February 12-14 2020, Hall 1F, Booth No. 4-2",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibition, Tokyo Big Site, February 12-14 2020, Hall 1F, Booth No. 4-2",
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibition, Tokyo Big Site, February 12-14 2020, Hall 1F, Booth No. 4-2",
+    "url": "https://old.kitov.ai/solutions/general-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka, Japan",
+    "url": "https://pitchbook.com/profiles/company/233721-46",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Home - Kitov.ai - Smart AI based visual inspection — A broad range of industries and sectors – from electronics and automotive to defense, medical and retail, among others – benefit from using KITOV’s AI-powered engine to build automated inspection systems – tailored precisely to their needs.",
+    "url": "https://kitov.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "SCHWALBEL（シュヴァルベル）| 製品情報（KITOV/AI搭載型 3次元追従外... — 外観検査のパイオニアとしてソリューションを提供しているKITOV.AI社が開発した世界最高水準の外観置システム、KITOV-Core/Core+（以降KITOVとする）の販売及びインテグレーションを行っています。",
+    "url": "https://www.schwalbel.com/product/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": "住友重機械工業の外観検査システム「KITOV」を解説 — 特別な知識がなくても設定・操作できる KITOVは、特別な知識がなくても簡単に操作できる見やすいシンプルなインターフェース。 画面上で必要事項を設定するだけ で使用でき、CADデータの取り込みや3Dスキャンでの製品情報も自動で取得されます。",
+    "url": "https://www.defect-inspectiondevice.com/object/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": "外観検査装置KITOVの特長 - 住友重機械工業 ... — 1 はじめに 当社は,さまざまな製品を対象とした外観検査装置 KITOV-ONEをリニューアルし,KITOV-COREシリーズの販売を開始した。 本報では,その主な機能について解説する。",
+    "url": "https://www.shi.co.jp/tech/tech_report/pdf/208_09.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ミツトヨとKitov、戦略的提携で測定技術とAI検査を融合 — ミツトヨとKitovが戦略的提携。 ミツトヨがKitovへ出資、測定技術とAI/ロボティクス/コンピュータビジョン検査技術を融合。 3D構造の意味論的理解で自動外観検査・測定実現。 主要グローバルメーカーで採用実績。",
+    "url": "https://ja.mfgrobots.com/mfg/acs/1007024306.html",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov Systems Signs Partnership Agreement With Mitutoyo ... — Kitov is a supplier of smart visual inspection solutions for a broad range of production lines in the electronics, defense, aerospace, automotive, and medical device industries.",
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "pass": 3
+   },
+   {
+    "quote": "ABOUT - Kitov.ai — Kitov-CorePlus- our initial product offering and the first smart inspection planning product in the market – was launched in mid-2016 and has been successfully deployed by Tier 1 customers in Europe, China, Malaysia, USA, Mexico, Japan and Israel.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SCHWALBEL（シュヴァルベル）| 製品情報（KITOV/AI搭載型 3次元追従外... — KITOVは官能検査とよばれる、職人でしか判別できない微細な傷や打痕などの外観検査を人工知能と独自のデータ解析の技術を駆使して実現させた統合システムです。 最大の特徴として、光沢のある金属製品やゴム製品、樹脂製品など、画像処理が苦手とされていたワークに対する検査を可能とします。 また、従来の機械学習では考えられないほどの学習機能があり、良品・不良品の画像を数枚程度学習させるだけで、そのパフォーマンスを発揮します。 KITOVでの高度な画像処理技術は大きく2つの柱で成り立っています。 1つは画像処理の閾値を人間が設定するルールベース、もう1つはディープラーニングによるAIベース。",
+    "url": "https://www.schwalbel.com/product/kitov.html",
+    "pass": 3
+   },
+   {
+    "quote": "KITOV Case Study - Electronics Inspection — With the new system, the manufacturer also collects valuable inspection data to drive manufacturing process improvement. Return on investment took less than six months, and the customer also adopted Kitov's smart visual inspection platform across its manufacturing facilities on a global scale.",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "HIGH END ELECTRONICS - Kitov.ai — Whether you’re manufacturing servers, switches, routers, communication platforms or electronics as standalone products or for integration into mission critical systems in MedTech, Energy, Automotive or Defense industries, this case study demonstrates how you can benefit from Kitov’s solution.",
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "pass": 3
+   },
+   {
+    "quote": "GENERAL MANUFACTURING - Kitov.ai — Despite allocating two fulltime employees to inspect every box, the customer’s high-quality demands meant that a single defective part resulted in the complete rejection of the entire shipment.",
+    "url": "https://old.kitov.ai/solutions/general-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "KITOV Systems Industrial IoT Case Study | Asia Growth Partners — AGP’s case study database provides clients with real-world examples of successful industrial and enterprise technology deployments.",
+    "url": "https://asiagrowthpartners.com/supplier/kitov-systems/case-study/v2716",
+    "pass": 3
+   },
+   {
+    "quote": "KITOVai - 2026-03-31 - Company Overview — “The KITOV Core+ reduced inspection time of complex discs by 80% from 1 hour to 12 minutes while providing the flexibility to simply change inspection plans for different part sizes”",
+    "url": "https://willrich.com/wp-content/uploads/2025/10/KITOVai-2026-03-31-Company-Overview.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov.ai 2026 Company Profile: Valuation, Funding & Investors ...Kitov.ai – Revenue, Valuation & Top Competitors – 2026Kitov - 2026 Company Profile, Team, Funding & Competitors ...Kitov: Funding, Team & Investors | Startup IntrosKitov.ai Valuation, Funding & Secondary Market Data — $17.3M ...Kitov — venture-backed company profile | DealroomKitov.ai - Products, Competitors, Financials, Employees ..",
+    "url": "https://pitchbook.com/profiles/company/233721-46",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov.ai – Revenue, Valuation & Top Competitors – 2026 — At Kitov.ai, each employee is estimated to contribute about $136K in annual revenue. More than 30+ individuals currently work at Kitov.ai. Kitov.ai saw a 6% rise in total headcount last year. Kitov.ai operates in a competitive market alongside 5 tracked alternatives. Team size increased 6% as Kitov.ai scaled operations.",
+    "url": "https://compworth.com/company/kitov-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov - 2026 Company Profile, Team, Funding & Competitors ...Kitov: Funding, Team & Investors | Startup IntrosKitov.ai Valuation, Funding & Secondary Market Data — $17.3M ...Kitov — venture-backed company profile | DealroomKitov.ai - Products, Competitors, Financials, Employees ... — Feb 8, 2026 · Explore Kitov's in-depth company profile, including funding details, key investors, leadership, and c",
+    "url": "https://tracxn.com/d/companies/kitov/__DVmcYk-WtHfMS1bmD2sLAlxzDVVV5_zhqgbUMMzdg1Q",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions How much funding has Kitov raised? Kitov has raised $13.1M in total across 1 funding round. Who are Kitov's investors? Kitov's investors include RSBG Ventures, GiTV.",
+    "url": "https://startupintros.com/orgs/kitov",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov.ai Valuation, Funding & Secondary Market Data — $17.3M ... — No funding rounds for Kitov.ai are on record yet — either the company hasn't raised institutional capital, or the raise hasn't surfaced in our sources. Pro members can request priority coverage with a 48-hour turnaround.",
+    "url": "https://privatemarketview.com/companies/kitov-ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us to set up a call with one of our smart inspection PLANNING experts.",
+    "url": "https://old.kitov.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "info@kitov.ai www.kitov.ai",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us to set up a call with one of our smart inspection PLANNING experts.",
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us to set up a call with one of our smart inspection PLANNING experts.",
+    "url": "https://old.kitov.ai/solutions/general-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Email or Password incorrect, please try again.",
+    "url": "https://asiagrowthpartners.com/supplier/kitov-systems/case-study/v2716",
+    "pass": 3
+   },
+   {
+    "quote": "Please enter your username or email.",
+    "url": "https://asiagrowthpartners.com/supplier/kitov-systems/case-study/v2716",
+    "pass": 3
+   },
+   {
+    "quote": "Register with your work email and create a new case study profile for your business.",
+    "url": "https://asiagrowthpartners.com/supplier/kitov-systems/case-study/v2716",
+    "pass": 3
+   },
+   {
+    "quote": "* Invalid email address",
+    "url": "https://asiagrowthpartners.com/supplier/kitov-systems/case-study/v2716",
+    "pass": 3
+   },
+   {
+    "quote": "No thanks, I don't want to receive any marketing emails from AGP.",
+    "url": "https://asiagrowthpartners.com/supplier/kitov-systems/case-study/v2716",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/233721-46",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "many OEMs keep up with customer demands,",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "is a critical system component and the OEM",
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Kitov (@KitovUK) / X Kitov has had 100+ people a week coming through our educational workshops across the UK. We have 2 new exciting...",
+    "url": "https://x.com/KitovUK",
+    "pass": 3
+   },
+   {
+    "quote": "Alexander Kitov (@_akitov) / Posts / X Alexander Kitov (@_akitov) - Posts - VP Product @TelerikAcademy . 11+ years as Product Manager and Entrepreneur. Father, continuous lear... | X (formerly Twitter)",
+    "url": "https://x.com/_akitov",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov Systems (@KitovSystems) / Posts / X Kitov Systems (@KitovSystems) - Posts - Automatic Inspection Planning | X (formerly Twitter)",
+    "url": "https://x.com/KitovSystems",
+    "pass": 3
+   },
+   {
+    "quote": "Oleg Kitov (@olegikitov) / Posts / X Oleg Kitov (@olegikitov) - Posts - Economist @CamEcon @Cambridge_Uni , Fellow @Selwyn1882 . The opinion of the author does not nece... | X (formerly Twitter)",
+    "url": "https://x.com/olegikitov",
+    "pass": 3
+   },
+   {
+    "quote": "Grupo Kitov (@grupokitov) / Posts / X Nov 5, 2014 · Grupo Kitov (@grupokitov) - Posts - | X (formerly Twitter) Grupo Kitov grupokitov Joined: Nov 5, 2014 1 8 13",
+    "url": "https://x.com/grupokitov",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "KITOV.ai - LinkedIn Ensuring productivity, quality, and safety, KITOV.ai is redefining the standard of excellence for the era of smart manufacturing.",
+    "url": "https://www.linkedin.com/company/kitovai",
+    "pass": 3
+   },
+   {
+    "quote": "Kitov.ai - LinkedIn Get your production line smarter with AI-powered, fully automated, visual inspection planning and big data analytics! | Kitov Systems Kitov.ai is a smart inspection planning company.",
+    "url": "https://www.linkedin.com/company/kitov-systems/?_hsenc=p2ANqtz--FCTZPmp1Xmk4TjD3FIGSkblfEqfnRaOvmNo7mZcVvNn9ToR9wHTlDD8zP0jWtWEkpyD2GIetdAa-o9wqOnszUDAn4cux2UxVl8qbKH960iU_J-Pc",
+    "pass": 3
+   },
+   {
+    "quote": "KITOV.ai - LinkedIn KAbout KITOV.ai KITOV.ai is a leading provider of AI-Powered Quality Discovery solutions. Our Physical AI-driven technology is a game-changer for high-end visual inspection and the effortless...",
+    "url": "https://il.linkedin.com/company/kitovai",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Tabor - Co-Founder & President at Kitov.ai | Driving ...Andrey Kitov - Chief Information Officer at Korzinka | Retail ...KITOV INFRATECH - KITOV INFRATECH | Future-Ready ...Ivan Kitov,CFA - Co-Founder at Guidy | AI-Powered Digital ... As Co-Founder & President at Kitov.ai, I help manufacturers embrace Industry 4.0 by delivering AI-driven automated visual inspection solutions that reduce costs",
+    "url": "https://il.linkedin.com/in/adamtabor1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Kitov Kitov (@kitov.kitov) • Facebook, Connect with friends Kitov Kitov is on Facebook. Join Facebook to connect with Kitov Kitov and others you may know. Facebook gives people the power to share and makes the...",
+    "url": "https://www.facebook.com/kitov.kitov/",
+    "pass": 3
+   },
+   {
+    "quote": "Imprenta Kitov | Montemorelos - FacebookGeorgi Kitov - FacebookKITOV - FacebookKITOV - 150+ people joining me on The Life Mastery... | FacebookKitov.ai | Petah Tikva - FacebookTimofej Kitov Profiles - Facebook Apr 8, 2024 · Imprenta Kitov, Montemorelos. 1,593 followers · 2 talking about this · 1 was here. Kitov tiene como objetivo brindarte el mejor servicio y los mejores... Mar 17, 2016 · Georgi ",
+    "url": "https://www.facebook.com/imprentakitov/",
+    "pass": 3
+   },
+   {
+    "quote": "Georgi Kitov - Facebook Mar 17, 2016 · Georgi Kitov. 2,675 likes · 475 talking about this. Digital creator",
+    "url": "https://www.facebook.com/georgipkitov/",
+    "pass": 3
+   },
+   {
+    "quote": "KITOV - Facebook May 9, 2023 · KITOV. 275 followers. Our engaging and powerful live workshops will reveal game-changing principles so that you can engage intelligently with your...",
+    "url": "https://www.facebook.com/kitovcharity/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kitov.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitov.ai/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitov.ai/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitov.ai/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitov.ai/management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitov.ai/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitov.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitov.ai/wp-content/uploads/2023/03/other.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kitov.ai/wp-content/uploads/2023/03/med-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kitov.ai/wp-content/uploads/2023/02/001-scaled.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kitov.ai/wp-content/uploads/2023/03/Auto.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kitov.ai/wp-content/uploads/2023/03/aero.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://kitov.ai/wp-content/uploads/2023/03/Partners-logos_0008_logo.svg.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kitov.ai/wp-content/uploads/2023/03/Partners-logos_0007_logo.png.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kitov.ai/wp-content/uploads/2023/03/Partners-logos_0010_logo_cps_22.png.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kitov.ai/wp-content/uploads/2023/03/Partners-logos_0000_HAHN-GROUP_Logo.png.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kitov.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.schwalbel.com/product/kitov.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.defect-inspectiondevice.com/object/kitov.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shi.co.jp/tech/tech_report/pdf/208_09.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitov.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://old.kitov.ai/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.schwalbel.com/product/kitov.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://old.kitov.ai/solutions/high-end-electronics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://old.kitov.ai/solutions/general-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiagrowthpartners.com/supplier/kitov-systems/case-study/v2716",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/233721-46",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/kitov-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/kitov/__DVmcYk-WtHfMS1bmD2sLAlxzDVVV5_zhqgbUMMzdg1Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/kitov",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/KitovUK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_akitov",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KitovSystems",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/olegikitov",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/kitovai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/kitov-systems/?_hsenc=p2ANqtz--FCTZPmp1Xmk4TjD3FIGSkblfEqfnRaOvmNo7mZcVvNn9ToR9wHTlDD8zP0jWtWEkpyD2GIetdAa-o9wqOnszUDAn4cux2UxVl8qbKH960iU_J-Pc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/kitovai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/adamtabor1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kitov.kitov/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/imprentakitov/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/georgipkitov/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kitovcharity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/grupokitov",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Kitov 日本 導入",
+   "results": [
+    "https://kitov.ai/",
+    "https://www.schwalbel.com/product/kitov.html",
+    "https://www.defect-inspectiondevice.com/object/kitov.html",
+    "https://www.shi.co.jp/tech/tech_report/pdf/208_09.pdf",
+    "https://ja.mfgrobots.com/mfg/acs/1007024306.html",
+    "https://fitgap.com/jp/products/kitov-3d-inspection",
+    "https://www.itreview.jp/products/kitov/profile"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kitov 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://kito.co.jp/company"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kitov Japan",
+   "results": [
+    "https://kitov.ai/",
+    "https://kitov.ai/mitutoyo-corporation-and-kitov-systems-ltd-have-signed-a-partnership-agreement-to-integrate-kitovs-automated-planning-and-smart-visual-inspection-technology-into-mitutoyos-metrology/",
+    "https://old.kitov.ai/about/",
+    "https://www.schwalbel.com/product/kitov.html",
+    "https://kito.co.jp/en/company",
+    "https://kito.co.jp/en/company/globalnetwork",
+    "https://www.kito.net/en/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kitov manufacturing customer case study",
+   "results": [
+    "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Electronics-Inspection.pdf",
+    "https://old.kitov.ai/solutions/high-end-electronics/",
+    "https://old.kitov.ai/solutions/general-manufacturing/",
+    "https://asiagrowthpartners.com/supplier/kitov-systems/case-study/v2716",
+    "https://willrich.com/wp-content/uploads/2025/10/KITOVai-2026-03-31-Company-Overview.pdf",
+    "https://www.linkedin.com/posts/kitov-systems_casestudy-server-serverrack-activity-7191734033540661249-IOPr",
+    "https://kitov.ai/wp-content/uploads/2026/06/KITOV-Case-Study-Plastics-Inspection.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kitov white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.seoreseller.com/",
+    "https://www.canva.com/partners/reseller/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kitov founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/233721-46",
+    "https://compworth.com/company/kitov-ai",
+    "https://tracxn.com/d/companies/kitov/__DVmcYk-WtHfMS1bmD2sLAlxzDVVV5_zhqgbUMMzdg1Q",
+    "https://startupintros.com/orgs/kitov",
+    "https://privatemarketview.com/companies/kitov-ai",
+    "https://dealroom.co/companies/kitov/",
+    "https://www.cbinsights.com/company/kitov-systems"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Kitov",
+   "results": [
+    "https://note.com/geoscience16",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/fujkta/n/nfef25b417793",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/itsupportstation/n/nd5ded195aa8e",
+    "https://note.com/imobie_jp/n/nd1875c34035e",
+    "https://note.com/zokusekogeki/n/n0cfe43d82214"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Kitov",
+   "results": [
+    "https://x.com/KitovUK",
+    "https://x.com/_akitov",
+    "https://x.com/KitovSystems",
+    "https://x.com/olegikitov",
+    "https://x.com/grupokitov",
+    "https://x.com/MeatBG/status/2079886084662505950",
+    "https://x.com/HistContent/status/2092068946526560612"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Kitov",
+   "results": [
+    "https://www.linkedin.com/company/kitovai",
+    "https://www.linkedin.com/company/kitov-systems/?_hsenc=p2ANqtz--FCTZPmp1Xmk4TjD3FIGSkblfEqfnRaOvmNo7mZcVvNn9ToR9wHTlDD8zP0jWtWEkpyD2GIetdAa-o9wqOnszUDAn4cux2UxVl8qbKH960iU_J-Pc",
+    "https://il.linkedin.com/company/kitovai",
+    "https://il.linkedin.com/in/adamtabor1",
+    "https://uz.linkedin.com/in/andrey-kitov-21ab616a",
+    "https://in.linkedin.com/in/kitov-infratech-b45146275",
+    "https://bg.linkedin.com/in/ivan-kitov-cfa-b9239368"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Kitov",
+   "results": [
+    "https://www.facebook.com/kitov.kitov/",
+    "https://www.facebook.com/imprentakitov/",
+    "https://www.facebook.com/georgipkitov/",
+    "https://www.facebook.com/kitovcharity/",
+    "https://www.facebook.com/kitovcharity/posts/150-people-joining-me-on-the-life-mastery-journey-you-can-too-create-a-value-dri/4146460292065444/",
+    "https://www.facebook.com/KitovSystems/",
+    "https://www.facebook.com/public/Timofej-Kitov/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kitov note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kitov X 投稿",
+   "results": [
+    "https://kitov.ai/",
+    "https://kitov.ai/kitov-ai-unveils-kitov-x-prime/",
+    "https://x.com/grupokitov",
+    "https://www.minichart.com.sg/2026/09/10/sarines-kitov-ai-unveils-x-prime-ai-surface-inspection-system-targeting-aerospace-defense-and-medical-markets-ahead-of-q4-2026-commercial-launch/",
+    "https://www.schwalbel.com/product/kitov.html",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://tansajp.org/investigativejournal/13936/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

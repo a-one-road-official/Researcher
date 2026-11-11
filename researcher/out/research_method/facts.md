@@ -5331,54 +5331,56 @@
 ## 市場規模の資料が食い違うときの照合（商品の範囲・地域・売上か出荷額か・実績か予測か）（reconciling conflicting market size estimates scope geography revenue shipments forecast）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説｜インティメート・マージャーのData Driven NOTE」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「市場規模の調べ方ー情報源・算出方法・活用法を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「数値を引用するときは、発表主体、調査時点、対象範囲、集計方法を記録してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「公表された市場規模を調べる5ステップ」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「Step1：市場の定義と調査目的を1文にする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「Step2：キーワードと類義語を洗い出す」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「Step4：数字の定義と調査範囲をそろえる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「トップダウンは、上位概念の市場規模に、対象地域、顧客属性、利用率などの条件を掛け合わせる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「ボトムアップは、現場に近いデータを積み上げる方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
 - 突き合わせ・推定：
-  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
+  - 「市場規模を調べるときは、定義、情報源の選び方、公開データを調べる5ステップ、データがない場合のトップダウン・ボトムアップ・フェルミ推定、TAM・SAM・SOMへの落とし込み方を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「ただし、各社が独自の市場定義や推計方法を使っているため、数字だけを比較しないでください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「購入前に、対象カテゴリー、地域、期間、推計方法、更新頻度、利用・転載条件を確認します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「一次調査は、市場規模そのものを直接測るだけでなく、ボトムアップ推計に使う「対象者の割合」「利用頻度」「1回あたりの支出」などの前提を得るためにも使えます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「AIリサーチは、公開情報の探索、仮説の整理、対象者の関心の把握を効率化する選択肢です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「Step5：複数ソースをクロスチェックする」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「その場合は、計算式と仮定を明示して推計します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「上位概念の市場規模 × 対象地域比率 × 対象顧客比率 × 利用率 ＝ 対象市場の推計規模」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「対象顧客数 × 利用率 × 1回あたりの単価 × 年間利用回数 ＝ 年間市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「実際の調査では、顧客数、利用率、単価、頻度それぞれの根拠と、値が変わった場合の推計レンジを示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「出典・対象年・単位・実測値／推定値／仮定の区分」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「特定企業の売上高と市場シェアが確認できる場合は、次の考え方で市場全体を推計できます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「企業の対象事業売上高 ÷ 市場シェア ＝ 市場規模の推計」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「フェルミ推定は、直接の統計がない数字を、入手できる情報と仮定に分解して概算する方法です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
 - 一次情報の探し方：
-  - 「しかし、検索して見つけた資料によって市場規模の数字が違ったり、そもそも細分化された市場の統計が見つからなかったりすることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「最初に確認したいのは、政府統計や各省庁の白書です」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「: 政府統計をキーワード、分野、作成機関などから探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「: 生産、出荷、販売、サービスなどの統計を探せます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「公的統計は、調査対象や定義が公開されていることが多く、全体像を把握する入口になります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「業界団体の統計や企業の決算資料は、業界の売上、出荷、企業数、シェアを補う場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「一方で、業界団体の統計は加盟企業のみを対象にしていることがあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「民間の市場調査レポートには、官公庁統計にない細かなカテゴリー、企業シェア、チャネル別データ、将来予測が含まれる場合があります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「その場合は、アンケートやインタビューで一次情報を集めます」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「Step3：公的統計・業界資料・民間レポートを調べる」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「まず公的資料で市場の土台となる数字を確認し、業界団体・企業資料・民間レポートで細かなカテゴリーや企業情報を補います」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「会員企業だけの統計を業界全体の数字として扱っていないか」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「最終報告では、採用値だけを見せるのではなく、なぜその資料を採用したのかを説明します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「公的統計を使う場合は、資料名・統計表番号・対象年・URLを記録します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
+  - 「しかし、参照する統計やレポートによって対象範囲や集計方法が異なる場合があるため、数値を扱う際は」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「一次情報に近いデータから順にアプローチし、整理済みのレポートで補完する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「具体的には、官公庁の公的統計や業界団体のデータで市場の「全体像（総量）」を把握します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「官公庁が公表する統計や行政資料には、調査目的や対象、抽出・集計方法といった調査設計が詳細に明記されており、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「各府省等が公表する統計データ、公表予定、新着情報、調査票項目情報などの各種統計情報を閲覧することが可能です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「総務省統計局、統計研究研修所の共同運営」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「対象とする市場がBtoB分野なのか、モノ（製造業）中心なのか、あるいはサービス産業なのかによって最適な統計は異なります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「自社の調査目的に合致した統計を選択すること」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「たとえ統計データそのものが正確であっても、解釈や読み替えを誤ると、全く別の市場を測定してしまうことになりかねません」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「これらは官公庁の統計とは異なる独自の製品カテゴリや用途区分で集計されていることが多いため、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「代表的な業界団体・協会の調査データを下表にまとめました」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「生産統計（数字でわかる！見て学ぶ！2026」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「既存の統計データや業界レポートが存在しない新しい市場やニッチなカテゴリ、あるいは自社独自のターゲット定義で市場規模を把握したい場合は、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
 - 失敗・落とし穴：
+  - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
   - 「TAM・SAM・SOMを売上目標へ移すときの注意」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
   - 「デスクリサーチの方法ー6ステップと情報源・注意点を解説」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
   - 「概要だけでなく、調査方法・利用上の注意・訂正情報にも目を通します」（https://teikoku-no1.jp/industry-research）
@@ -5392,24 +5394,22 @@
   - 「2. 第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
   - 「・締切直前に準備不足に気づく → 第2章 公募要領の精読と逆算スケジュール――応募資格・期限・事前着手の落とし穴」（https://note.com/sansan2/n/n038e934f7207）
   - 「申込前に潰す、ありがちな失敗2件」（https://note.com/sansan2/n/n038e934f7207）
-  - 「失敗1｜設備が欲しくて雇用系助成金に寄せた」（https://note.com/sansan2/n/n038e934f7207）
-  - 「失敗2｜上限に合わせ、買う物を膨らませた」（https://note.com/sansan2/n/n038e934f7207）
 - 実例：
-  - 「その反面、元データの定義が自社の狙いと少しでもズレていると、最終的な算出結果に大きな誤差が生じるリスクも含んでいます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「東京都内の小売店舗数 × 1店舗あたりの平均冷凍ショーケース（扉）数 × 1扉あたりの平均陳列パック数 × 1日の棚回転率（％） × 1パックあたりの平均単価 × 1年の営業日」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「結果を左右する重要なパラメータを見極めること」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
-  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「そのため、出力を市場規模の根拠として使うには、情報源の確認や事実検証が必要となり、結局時間がかかってしまうというケースがよくあります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「中堅企業従業員と生成AI・リスキリング関連キーワード群を掛け合わせた抽出条件と結果」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「抽出結果は、次のとおりです」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「この結果から、中堅企業従業員のセグメントでは、DMP全体と比べて生成AI・リスキリング関連キーワードの出現頻度が高い傾向が示されました」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
-  - 「4. 実証結果から分かることと、追加確認が必要なこと」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=0cfefd49fcd64c589f01a097eefb79dc）
+  - 「これらの前提を事前に整理しておくことで、調査結果の説得力は格段に向上します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「＜関連コラム＞ 商品開発のフェーズとは？事例と各フェーズの進め方を解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「この記事では、商品開発における主要なフェーズの進め方について、具体的な事例を交えながら解説します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「業界団体や協会が発行する調査データやレポートには、会員企業へのアンケート結果や出荷・販売実績、需給見通しなどが掲載されています」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「人材紹介大手3社転職実績集計結果」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「業況調査集計結果では、有料職業紹介事業の常用求人数、新規求職申込件数、常用就職件数、手数料額について、会員企業の実績を集計したデータが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「また、人材紹介大手3社転職実績集計結果では、転職紹介実績の推移や転職紹介人数推移などが確認できます」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「たとえば、新規参入の判断においては、市場全体の把握よりも、価格帯別・顧客業種別の構成や、勝ち筋に直結する「顧客の購買プロセス」といった具体的なデータの方が、価値が高いケースも多々あります」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「既存のレポートが存在していても、地域や用途、販売チャネルなどの切り口が自社の想定と異なれば、そのまま実務に活用できないケースが多いためです」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「前提条件の置き方によって結果が大きく変動します」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
+  - 「でチャット感覚で市場調査を効率化した事例を見てみてください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「どのデータを参照しているか、推定値と実測値が区別されているか、結果を検証できるかを確認してください」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「この作業をすると、検索結果だけでなく、官公庁統計や業界団体の資料も探しやすくなります」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「フェルミ推定では、結果の数字だけでなく、「なぜこの変数を置いたのか」「仮定を変えると結果がどう変わるのか」を示します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
+  - 「「企業売上高÷市場シェア」で市場規模を求める方法とは別に、ここでは別の方法で算出した結果を検算します」（https://note.intimatemerger.com/n/n8e62c0d1f2ed?gs=1c44220bacded9b32ec9ace673278db1）
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
@@ -8610,6 +8610,14 @@
 ## AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ）（auditing AI chat output fabricated statistics verification）
 - 文脈：検証
 - 手順・やり方：
+  - 「How to Fact-Check AI-Generated Answers in 2026」（https://aofirs.org/articles/fact-checking-ai/）
+  - 「How to Fact-Check an AI Answer」（https://aofirs.org/articles/fact-checking-ai/）
+  - 「How to Document an AI Fact-Check」（https://aofirs.org/articles/fact-checking-ai/）
+  - 「How to Classify AI Claims After Fact-Checking」（https://aofirs.org/articles/fact-checking-ai/）
+  - 「The first step is to stop treating the AI response as one piece of information.」（https://aofirs.org/articles/fact-checking-ai/）
+  - 「The existing AOFIRS article identifies lateral reading as a core method for checking AI-generated claims.」（https://aofirs.org/articles/fact-checking-ai/）
+  - 「Generative AI SEO in 2026: How to Optimize for AI Search, AEO and GEO」（https://aofirs.org/articles/fact-checking-ai/）
+  - 「How to Find Work as an Independent Online Research Specialist in 2026」（https://aofirs.org/articles/fact-checking-ai/）
   - 「2-1. 業務で特に警戒すべきは「事実型」と「創造型」」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「2-2. 「文脈型」「構造型」は長い会話・複雑な指示で起きやすい」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「しかし「事実型」「創造型」のハルシネーションは、文章として完璧に自然であるがゆえに、専門知識がないと誤りに気づけません」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
@@ -8617,15 +8625,9 @@
   - 「たとえば「存在しない統計データ（事実型）」を、もっともらしい論理展開（構造型）で説明してくる、というように」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「こうした複合型のハルシネーションは、個々の要素を見ると自然であるため、文章全体としての違和感にも気づきにくいという特徴があります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「方法が、最も効果の高い対策のひとつです」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
-  - 「どのツールを使うにしても、最も安全な使い方は」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
-  - 「NotebookLMのような出典明示型のツールや、ClaudeのProjects機能のように資料を読み込ませて使う機能を積極的に活用しましょう」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
-  - 「「事実型」「創造型」は特に見抜きにくく、業務での警戒度が高い」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
-  - 「ここから先の進め方は、大きく2つあります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
-  - 「でClaude Code／Codexの使い方から業務設計・社内定着まで伴走を受けながら、社内に仕組みを作る道があります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
-  - 「でこの記事のような定型業務を丸ごと預ける道があります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
-  - 「請求処理・データ入力・問い合わせ対応などの定型業務を、AI×人の品質管理体制で丸ごと代行」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
-  - 「Q. ハルシネーションを完全に防ぐ方法はありますか？」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
 - 突き合わせ・推定：
+  - 「AI can miscalculate percentages or confuse estimates with observed figures.」（https://aofirs.org/articles/fact-checking-ai/）
+  - 「Locate the original data, identify the values and period being measured, independently check the calculation, and determine whether the figure is an actual measurement, estimate, forecast, or projection.」（https://aofirs.org/articles/fact-checking-ai/）
   - 「社外提出資料・契約関連：必ず人間が原典と突き合わせて確認」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「配信管理画面の数値とAI生成レポートの数値を照合」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「専門外の情報こそ、他の情報源（公式サイト・専門家）と照合する」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
@@ -8639,9 +8641,8 @@
   - 「AI同士の照合は怪しい語を見つける補助で、原典を読む代わりにはなりません」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「社内に「裏取り」を根づかせる体制と、社内だけで決めきれない境目」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「裏取りを根づかせるのは個人の心がけではなく、書類の行き先ごとに「誰が・何を・どこまで見るか」を決めた1枚の表です」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「作成者が4種類の語に印をつけて原典と突き合わせ、別の1人が印の語だけを見てから送る」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「判例・統計・引用・金額は「原典と突き合わせるまでが完了」と決める」（https://panhouse.jp/insight/what-is-hallucination/）
 - 一次情報の探し方：
+  - 「For each claim, identify the most appropriate source for verification, such as an official record, original study, government database, company filing, or primary document.」（https://aofirs.org/articles/fact-checking-ai/）
   - 「単なる「分かりません」という回答ではなく、存在しない統計データや架空の文献、間違った固有名詞を、違和感のない自然な文章で提示してくる点が厄介なポイントです」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「たとえば「存在しない統計データ（事実型）」を、もっともらしい論理展開（構造型）で説明してくる、というように」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「引用元のない統計データを、公的な数値であるかのように提示してしまう」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
@@ -8656,8 +8657,8 @@
   - 「御社の公開情報と業界の一次統計をもとに、本当の課題、選んだテーマの解決策、効果の試算の式、最初の30日までを」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「PDF・15ページ」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
   - 「質問文と、社内の資料や原典のPDF」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
-  - 「段階2でAIに社内の資料や原典のPDFを渡して答えさせておくと、段階3で突き合わせる先が最初から手元にそろいます」（https://boostx-inc.com/blog/ai-hallucination-fact-check/）
 - 失敗・落とし穴：
+  - 「Common AI Fact-Checking Mistakes」（https://aofirs.org/articles/fact-checking-ai/）
   - 「8-3. 視点3：「やけに都合がいい回答」には注意する」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「パターンを知っておくことで、どの場面で特に注意すべきかが見えてきます」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「数値の誤りや架空の文献引用は、一見するとまったく違和感のない形で出力されるため、知識がない人ほど見抜きにくいという特徴があります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
@@ -8672,8 +8673,8 @@
   - 「は、誤りが外部の信用やお金に直結する場面です」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「個人の注意力だけに頼る体制は、担当者が変わったり忙しくなったりした瞬間に崩れてしまいます」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「失敗を隠さず共有できる空気があるだけで、組織としてのAIリテラシーの伸び方がまったく変わってきます」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
-  - 「経営リスクとして、信用の失墜・経営判断の誤り・法的リスクにつながり得る」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
 - 実例：
+  - 「For example, a study might report an」（https://aofirs.org/articles/fact-checking-ai/）
   - 「海外では、AIが生成した架空の判例をそのまま裁判所に提出してしまった弁護士が懲戒処分を受けた事例や、航空会社のチャットボットが誤った割引案内をして企業側が責任を問われた事例も実際に起きています」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「と、実際に起きた国内外の事例」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「3-1. 架空の判例を法廷に提出してしまった弁護士の事例」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
@@ -8688,7 +8689,6 @@
   - 「特に、複数人が関わる業務フローでは「誰かが確認しているだろう」という思い込みが生まれやすく、結果として誰も原典を確認しないまま誤情報が社内の「常識」として定着してしまうことがあります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「ハルシネーションに気づいた事例を、個人の中で終わらせず」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
   - 「「こういう聞き方をしたら誤情報が出た」という事例が蓄積されていくほど、組織全体のAIリテラシーが高まっていきます」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
-  - 「チャットツールに専用のチャンネルを作り、「AIの回答がおかしかった事例」を気軽に投稿できる文化を作るだけでも効果があります」（https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/）
 
 ## 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）（Berkeley Protocol digital open source investigations search bias verification steps）
 - 文脈：検証
@@ -15262,6 +15262,7 @@
   - 「生産統計（数字でわかる！見て学ぶ！2026」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「既存の統計データや業界レポートが存在しない新しい市場やニッチなカテゴリ、あるいは自社独自のターゲット定義で市場規模を把握したい場合は、」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
 - 失敗・落とし穴：
+  - 「相関係数とは？求め方や意味、見方、注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「まず「市場規模」に関わる基本的な部分から、ご自身で推計する際の具体的なアプローチである「トップダウン」「ボトムアップ」「フェルミ推定」などの算出方法、消費者調査を専門とする調査会社に依頼する推計方法、市場規模を調査する上での注意点などについて解説」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「実際にデータを利用する際は、調査対象が全数か抽出か、特定の規模制限があるかといった点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「ただし、これらのデータは基本的に会員企業の数値に基づいている点に注意が必要です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
@@ -15293,6 +15294,7 @@
   - 「※ 感度分析とは、前提条件や入力変数（パラメータ）を変化させた際に、それが最終的な出力結果（利益、解析の結論など）にどの程度の影響を与えるかを定量的に確認・評価する手法です」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「複数社で同様の逆算を行い、結果が近いレンジに収束するかを確認する」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
 - 検索結果の抜粋：
+  - 「Market Sizing for Remote Entry: TAM, SAM and SOM GuideHow to Calculate Apparent Consumption from Production ...Apparent Consumption Methodology - furnilytics.comMethodology for estimating market size and market forecastImport Share and Export Exposure Methodology - furnilytics.comWhat Is TAM SAM SOM: Methods & Data 2026 | VantaInsightsHow to Calculate Market Size: Step-by-Step (2026) — Nov 2, 2026」（https://www.efinancialmodels.com/market-sizing-for-remote-entry-tam-sam-and-som-guide/）
   - 「Market Sizing for Remote Entry: TAM, SAM and SOM GuideHow to Calculate Apparent Consumption from Production ...Methodology for estimating market size and market forecastApparent Consumption Methodology - furnilytics.comImport Share and Export Exposure Methodology - furnilytics.comDescription of the International Trade Statistical Programest-consumption – ARTIS Manual - GitHub Pages — Nov 2, 2026 ·」（https://www.efinancialmodels.com/market-sizing-for-remote-entry-tam-sam-and-som-guide/）
 
 ## データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）（bad data guide false precision hand-edited data red flags journalism checklist）
@@ -16391,15 +16393,24 @@
 
 ## GIJN・IRE のデータ報道の誤りの手引き（10 Common Mistakes in Data Journalism・10 Simple Data Errors That Can Ruin an Investigation・Numbers in the Newsroom・4-125）（GIJN tipsheet common mistakes data journalism simple data errors investigation IRE Numbers in the Newsroom）
 - 文脈：数字の点検
+- 手順・やり方：
+  - 「, who teaches data visualization and research methods at the University of California, Berkeley’s Graduate School of Journalism, and」（https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/）
+  - 「Use a simple method to calculate “one out of” risk probabilities.」（https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/）
+- 突き合わせ・推定：
+  - 「, plus the New Year’s Day suicide bombing incident in Las Vegas, and also underestimated the number of controversial vehicles sold.)」（https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/）
 - 失敗・落とし穴：
+  - 「Notorious mistakes that investigative reporters make with numbers include trying to calculate percentages by adding or subtracting from other percentage values. (A drop in successful prosecutions from 12% to 7%, for example, is」（https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/）
+  - 「10 Common Mistakes in Data Journalism」（https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/）
+  - 「Cohen compares this common newsroom mistake to “overcooking a vegetable medley,” and writes: “Sometimes, reporters take a bunch of percent changes, say, in a budget, and compute an average for the “average percent change.” This treats the 140% increase in a new, small department the same as the 2% increase for education.”」（https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/）
   - 「Lessons Learned: 10 Common Mistakes in Data Journalism – Global Investigative Journalism Network」（https://gijn.org/stories/10-common-mistakes-data-journalism/）
   - 「Lessons Learned: 10 Common Mistakes in Data Journalism」（https://gijn.org/stories/10-common-mistakes-data-journalism/）
   - 「CUNY’s Caplan said newsrooms should assess whether they exhibit negativity-bias — and warned that audiences notice when the story balance between negative data and at least some positive data “is out of whack.”」（https://gijn.org/stories/10-common-mistakes-data-journalism/）
   - 「This <a target="_blank" href="https://gijn.org/stories/10-common-mistakes-data-journalism/">article</a> first appeared on <a target="_blank" href="https://gijn.org">Global Investigative Journalism Network</a> and is republished here under a Creative Commons license.」（https://gijn.org/stories/10-common-mistakes-data-journalism/）
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 実例：
+  - 「Notorious mistakes that investigative reporters make with numbers include trying to calculate percentages by adding or subtracting from other percentage values. (A drop in successful prosecutions from 12% to 7%, for example, is」（https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/）
+  - 「Experts note that numbers in the billions are used so commonly in the media that both reporters and readers can lose the sense of how vast these figures are. Some perspective: one million seconds represent just 11 days, but one billion seconds equals almost 32 years. It is also surprisingly easy to confuse millions and billions in financial statements. Dowdell cited a recent case in which」（https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/）
+  - 「In a fun case from 2021, National Public Radio」（https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/）
 - 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 会社の実在の確かめ方（偽の会社・ペーパーカンパニーを登記・住所・電話・登録簿で見抜く調査報道の手順・自称と登記の食い違い・4-125）（verify company exists ghost firm shell company investigative journalism registry address checks）
 - 文脈：会社の確かめ

@@ -1,0 +1,513 @@
+{
+ "name": "JOBS S.p.A.",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜AI送信済み",
+ "researched_at": "2026-11-10T23:07:38.495247+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.indeed.com/q-japanese-spa-jobs.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.workjapan.jp/jobs/113540/massage-spatherapist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glassdoor.com/Job/japan-spa-manager-jobs-SRCH_IL.0,5_IN123_KO6,17.htm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://spastaff.com/jobs/Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.londonwellnessacademy.com/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.leonardo.com/en/global/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://careers.ihg.com/en/job-details/?jobref=Sales+Manager++%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9+ANA%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%81%E3%83%8D%E3%83%B3%E3%82%BF%E3%83%AB%E5%88%A5%E5%BA%9C%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88and%E3%82%B9%E3%83%91%7CIHG_en_ZA%7C168315",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://bealinternational.com/jp/jobs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indeed.com/q-japanese-spa-jobs.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://spastaff.com/jobs/Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glassdoor.com/Job/japan-spa-manager-jobs-SRCH_IL.0,5_IN123_KO6,17.htm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.workjapan.jp/jobs/?industry=Massage%20Spa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prometai.app/case-studies/spa-examples",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.criteriacorp.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mau.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.supersaas.com/info/developers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indeed.com/q-private-label-beauty-wellness-jobs.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skininc.com/business/finance/article/22936029/us-spa-revenue-visits-and-employment-are-rising",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://bookedin.com/blog/spa-industry-statistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://beautymatter.com/articles/the-us-spa-industry-reaches-record-23-5-billion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/jobandtalent",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "JOBS S.p.A.",
+   "results": [
+    "https://www.indeed.com/q-spa-l-san-jose,-ca-jobs.html",
+    "https://www.linkedin.com/jobs/spa-jobs-san-jose-ca",
+    "https://www.indeed.com/q-spa-l-san-francisco,-ca-jobs.html",
+    "https://www.simplyhired.com/search?q=spa&l=los+angeles%2C+ca",
+    "https://www.ziprecruiter.com/Jobs/Spa/-in-Fresno,CA",
+    "https://careers.equinox.com/employment/new-york-new-york-united-states-spa-jobs/433/38318/6252001-5128638-5128581/4",
+    "https://www.indeed.com/q-spa-l-reno,-nv-jobs.html",
+    "https://www.linkedin.com/jobs/spa-jobs-los-angeles-ca",
+    "https://www.glassdoor.com/Job/houston-spa-jobs-SRCH_IL.0,7_IC1140171_KO8,11.htm"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "株式会社JOBS S.p.A.",
+   "results": [
+    "https://www.jobs.it/en",
+    "https://www.linkedin.com/company/jobs-s-p-a",
+    "https://www.thedayspa.jp/recruit/",
+    "https://jp.indeed.com/q-spa-job-japan-%E6%B1%82%E4%BA%BA.html",
+    "https://www.glassdoor.com/Job/tokyo-spa-jobs-SRCH_IL.0,5_IC2851580_KO6,9.htm",
+    "https://spa.com/careers/",
+    "https://ispa.careerwebsite.com/",
+    "https://www.spaandwellnesscareers.com/jobs.cfm",
+    "https://masterspasjobs.com/jobs/101"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBS S.p.A. 株式会社",
+   "results": [
+    "https://www.jobs.it/en",
+    "https://spa.com/careers/",
+    "https://www.glassdoor.com/Job/tokyo-spa-jobs-SRCH_IL.0,5_IC2851580_KO6,9.htm",
+    "https://ispa.careerwebsite.com/",
+    "https://www.indeed.com/q-japanese-spa-jobs.html",
+    "https://www.spaandwellnesscareers.com/jobs.cfm",
+    "https://www.linkedin.com/company/jobs-s-p-a",
+    "https://www.me-spas.com/career",
+    "https://www.careercross.com/en/job/detail-1610792"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ＪＯＢＳ　Ｓ．ｐ．Ａ．",
+   "results": [
+    "https://spa.com/careers/",
+    "https://www.indeed.com/q-spa-l-san-jose,-ca-jobs.html",
+    "https://www.linkedin.com/jobs/spa-jobs-san-jose-ca",
+    "https://ispa.careerwebsite.com/",
+    "https://careers.spglobal.com/",
+    "https://www.spaandwellnesscareers.com/jobs.cfm",
+    "https://www.indeed.com/q-spa-l-san-francisco,-ca-jobs.html",
+    "https://www.spa.edu/about/careers/employment-listing",
+    "https://experienceispa.com/careers/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBSS.p.A.",
+   "results": [
+    "https://www.pa.gov/agencies/employment/open-jobs",
+    "https://www.governmentjobs.com/careers/pabureau",
+    "https://www.facebook.com/PAStateJobs/",
+    "https://www.aapa.org/career-central/pa-jobsource/",
+    "https://www.pa.gov/agencies/employment",
+    "https://www.pareap.net/jobsrch.php",
+    "https://www.indeed.com/l-pittsburgh,-pa-jobs.html",
+    "https://www.pennlive.com/jobs/",
+    "https://www.higheredjobs.com/state/search.cfm?State=PA&Remote=1"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBS S.p.A. Japan",
+   "results": [
+    "https://www.indeed.com/q-japanese-spa-jobs.html",
+    "https://spastaff.com/jobs/Japan",
+    "https://www.glassdoor.com/Job/japan-spa-manager-jobs-SRCH_IL.0,5_IN123_KO6,17.htm",
+    "https://www.workjapan.jp/jobs/?industry=Massage%20Spa",
+    "https://jobsinjapan.com/jobs/1468507/ryko-spa-spa-therapist/",
+    "https://aoyama-headspa.ch/careers-at-aoyama/",
+    "https://www.crawljobs.com/jobs/spa-therapist+country-japan?sort=salary_high",
+    "https://japaneseheadspaco.com/japanese-head-spa-work-with-us/",
+    "https://rikkaspa.com/careers"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBS S.p.A. 日本",
+   "results": [
+    "https://spastaff.com/jobs/Japan",
+    "https://www.workjapan.jp/jobs/?industry=Massage%20Spa",
+    "https://www.indeed.com/q-japanese-spa-jobs.html",
+    "https://www.glassdoor.com/Job/japan-spa-manager-jobs-SRCH_IL.0,5_IN123_KO6,17.htm",
+    "https://jobsinjapan.com/jobs/1468507/ryko-spa-spa-therapist/",
+    "https://jp.linkedin.com/jobs/spa-therapist-jobs",
+    "https://www.workjapan.jp/jobs/113540/massage-spatherapist",
+    "https://www.spaandwellnesscareers.com/jobs.cfm",
+    "https://aoyama-headspa.ch/careers-at-aoyama/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBS S.p.A. K.K.",
+   "results": [
+    "https://www.amazon.com/Spanked-Job-Discipline-Quick-Read-ebook/dp/B0CF2NVQG4",
+    "https://www.imdb.com/title/tt4136982/mediaviewer/rm4287952128/",
+    "https://www.indeed.com/q-spanking-jobs.html",
+    "https://www.ziprecruiter.com/Jobs/Full-Time-Spanking",
+    "https://www.quora.com/Has-anyone-ever-been-spanked-at-work",
+    "https://www.healthline.com/health/healthy-sex/spanking-therapy",
+    "https://www.reddit.com/r/Serverlife/comments/tbvm5d/getting_spanked_at_work/",
+    "https://www.alohatube.com/top/office_spanking",
+    "https://xhamster.com/videos/first-day-at-the-office-super-sexy-girls-get-spanked-at-work-12814235"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBS S.p.A. 日本 導入",
+   "results": [
+    "https://www.indeed.com/q-japanese-spa-jobs.html",
+    "https://www.workjapan.jp/jobs/113540/massage-spatherapist",
+    "https://www.glassdoor.com/Job/japan-spa-manager-jobs-SRCH_IL.0,5_IN123_KO6,17.htm",
+    "https://spastaff.com/jobs/Japan",
+    "https://jobsinjapan.com/",
+    "https://careers.intuitive.com/jp/our-locations/apac/careers-in-japan/",
+    "https://jp.linkedin.com/jobs/massage-therapist-jobs",
+    "https://www.careercross.com/en/job-search/category-8120",
+    "https://marriottemployment.dejobs.org/tokyo-jpn/%E3%82%B9%E3%83%91-%E3%83%AC%E3%82%BB%E3%83%97%E3%82%B7%E3%83%A7%E3%83%8B%E3%82%B9%E3%83%88spa-receptionist/2ED61A1705DF4D42996DEF909F357919/job/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBS S.p.A. 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.londonwellnessacademy.com/japan/",
+    "https://www.leonardo.com/en/global/japan",
+    "https://careers.ihg.com/en/job-details/?jobref=Sales+Manager++%E6%9D%B1%E4%BA%AC%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9+ANA%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%81%E3%83%8D%E3%83%B3%E3%82%BF%E3%83%AB%E5%88%A5%E5%BA%9C%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88and%E3%82%B9%E3%83%91%7CIHG_en_ZA%7C168315",
+    "https://bealinternational.com/jp/jobs/",
+    "https://jp.linkedin.com/jobs/Skincare+lifestyle+themes+and+%22Novaluxia+is+legit%22.lei-jobs",
+    "https://flowserve.wd1.myworkdayjobs.com/ja-JP/applied/job/BUYER_R-15491",
+    "https://www.nouryon.com/",
+    "https://www.pentair.com/en-us.html",
+    "https://www.brembogroup.com/en/careers"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBS S.p.A. Japan",
+   "results": [
+    "https://www.indeed.com/q-japanese-spa-jobs.html",
+    "https://spastaff.com/jobs/Japan",
+    "https://www.glassdoor.com/Job/japan-spa-manager-jobs-SRCH_IL.0,5_IN123_KO6,17.htm",
+    "https://www.workjapan.jp/jobs/?industry=Massage%20Spa",
+    "https://jobsinjapan.com/jobs/1468507/ryko-spa-spa-therapist/",
+    "https://aoyama-headspa.ch/careers-at-aoyama/",
+    "https://www.crawljobs.com/jobs/spa-therapist+country-japan?sort=salary_high",
+    "https://japaneseheadspaco.com/japanese-head-spa-work-with-us/",
+    "https://rikkaspa.com/careers"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBS S.p.A. manufacturing customer case study",
+   "results": [
+    "https://prometai.app/case-studies/spa-examples",
+    "https://www.criteriacorp.com/resources/case-studies",
+    "https://mau.com/case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://pimcore.com/en/customers",
+    "https://www.icims.com/community/success-stories/",
+    "https://www.linkedin.com/company/systems-planning-and-analysis-inc",
+    "https://www.quesscorp.com/case-studies/boosting-customer-engagement-for-manufacturing-client/",
+    "https://go.demandforce.com/spa/wts-case-study"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBS S.p.A. white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://www.supersaas.com/info/developers",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.indeed.com/q-private-label-beauty-wellness-jobs.html",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://posbytz.com/en/partners/",
+    "https://simplybook.me/en/white-label-partner-program",
+    "https://timbercreekdistillery.com/private-label-spirits-for-your-brand/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBS S.p.A. founded funding employees revenue",
+   "results": [
+    "https://www.skininc.com/business/finance/article/22936029/us-spa-revenue-visits-and-employment-are-rising",
+    "https://bookedin.com/blog/spa-industry-statistics/",
+    "https://beautymatter.com/articles/the-us-spa-industry-reaches-record-23-5-billion",
+    "https://getlatka.com/companies/jobandtalent",
+    "https://gaps.com/recruiting/",
+    "http://d10-web-app.abmp.com/updates/news/spa-industry-experienced-upswing-revenue-and-staffing",
+    "https://experienceispa.com/press-releases/big-news-for-u-s-spa-revenue-growth/",
+    "https://pabau.com/blog/med-spa-owner-salary/",
+    "https://leadmagic.io/funded-startups/11-to-50-employees"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com JOBS S.p.A.",
+   "results": [
+    "https://note.com/rin1117/n/n4c603f70b6d1?hl=en",
+    "https://note.com/petenshoku/n/nf677a4fa9347?hl=en",
+    "https://note.com/sora_0795/n/n51322c1ba4b4?hl=en",
+    "https://note.com/mika_ham1977/n/n1be0a1252e0c?hl=en",
+    "https://note.com/petenshoku/n/n0ac358d15f9d?hl=en",
+    "https://note.com/ikyu_com/n/n41481f2adae7?hl=en",
+    "https://note.com/careercompass_c/n/nd86714eb7f88?hl=en",
+    "https://note.com/fast_poppy8050/n/n54ae0e72936f?hl=en",
+    "https://note.com/rapid_knot32/n/nee91e5a0364b?hl=en",
+    "https://note.com/frepara/n/nb3474a95d362?hl=en"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com JOBS S.p.A.",
+   "results": [
+    "https://x.com/Jobnetworkng/status/2119372493504868670",
+    "https://x.com/cacd_news",
+    "https://x.com/AU_SPA/status/2119451381593485702",
+    "https://x.com/thecvcook/status/2119796360312443348",
+    "https://x.com/mvcollege/status/2092688602698252507",
+    "https://x.com/thecvcook/status/2119830312729415895",
+    "https://x.com/houzz/status/2120113447522513242",
+    "https://x.com/MarktheSpaman/status/2119388330047750630",
+    "https://x.com/grandhotel1847/status/2115807670238142566"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com JOBS S.p.A.",
+   "results": [
+    "https://www.linkedin.com/jobs/spa-jobs-san-jose-ca",
+    "https://www.linkedin.com/jobs/spa-jobs-sacramento-ca",
+    "https://www.linkedin.com/jobs/spa-jobs-san-francisco-bay-area",
+    "https://www.linkedin.com/jobs/spa-jobs-los-angeles-ca",
+    "https://mc.linkedin.com/jobs/spa-jobs",
+    "https://www.linkedin.com/jobs/spa-jobs-orlando-fl",
+    "https://ie.linkedin.com/jobs/spa-jobs",
+    "https://ec.linkedin.com/company/jobs-s-p-a",
+    "https://www.linkedin.com/jobs/view/season-is-coming-lmts-for-busy-boca-spa-flex-schedule-ft-pt-bonus-at-hand-stone-massage-and-facial-spa-4475607796"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com JOBS S.p.A.",
+   "results": [
+    "https://www.facebook.com/Handjobspaskincare/",
+    "https://www.facebook.com/groups/645616162169648/",
+    "https://www.facebook.com/SpaBuildersofKY/posts/-were-hiring-looking-for-something-different-come-join-our-team-like-traveling-y/1626529619486548/",
+    "https://www.facebook.com/groups/484632492493973/posts/1568400360783842/",
+    "https://www.facebook.com/groups/124250677785815/posts/2643393302538194/",
+    "https://www.facebook.com/groups/massageandbodyworkers/posts/1884126409424632/",
+    "https://www.facebook.com/RedcurrantJobs/",
+    "https://www.facebook.com/groups/1880883765562246/",
+    "https://www.facebook.com/legacyresortandspa/posts/come-join-our-team-check-out-our-current-job-openings-and-apply-online-today-san/1834969645303951/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBS S.p.A. note 社長",
+   "results": [
+    "https://careers.fourseasons.com/us/en/c/spa-and-recreation-jobs",
+    "https://note.com/notahotel_inc/n/n192683042be3?hl=en",
+    "https://www.spaontheave.com/employment",
+    "https://www.spaandwellnesscareers.com/jobs.cfm",
+    "https://www.bamboohr.com/job-description/spa-manager",
+    "https://www.italfarmaco.com/career/",
+    "https://www.reddit.com/r/AskSF/comments/1h66v7z/looking_for_a_better_spa_job_that_is_actually/",
+    "https://www.indeed.com/hire/job-description/spa-therapist",
+    "https://careers.marriott.com/mgr-spa-fitness-japanese-speaker/job/P1-7602036-0"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "JOBS S.p.A. X 投稿",
+   "results": [
+    "https://x.com/XCareers",
+    "https://spaxwellness.com/career/",
+    "https://jobfairx.com/",
+    "https://ispa.careerwebsite.com/",
+    "https://www.youtube.com/watch?v=d7gNn8mNiAI",
+    "https://spastaff.com/jobs/USA---United-States",
+    "https://www.indeed.com/q-spa-l-post-falls,-id-jobs.html",
+    "https://www.facebook.com/groups/medicalspaowner/posts/1461641499395745/",
+    "https://www.workjapan.jp/jobs/?industry=Massage%20Spa"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "料金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "連絡先": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "製造業の実績": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "日本の担い手": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "規模・親会社": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）"
+ }
+}

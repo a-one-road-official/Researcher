@@ -9,7 +9,7 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-09T09:27:59.770588+00:00",
+ "researched_at": "2026-11-10T23:06:32.836974+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -45,12 +45,17 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/koyoko/n/nd5e1dc457e2e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.reddit.com/r/driving/comments/1gxdob2/i_ran_a_red_light_i_dont_even_know_how_that/?tl=ja",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://note.com/keiophonetics/n/n0b66e1eeac94",
+    "url": "https://note.com/frederick_mouse/n/n827f1ed1ee1a",
     "status": "ok",
     "method": "http"
    },
@@ -60,19 +65,14 @@
     "method": "pdf"
    },
    {
+    "url": "https://note.com/07?gs=b619f93fb20720421d33d71940c98d32",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "http://library.jsce.or.jp/jsce/open/00039/200511_no32/pdf/229.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/9/31/14723",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://note.com/07?gs=b2c382835c446dc7b4fb57eca25a921c",
-    "status": "ok",
-    "method": "browser"
    },
    {
     "url": "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85/%E4%BF%A1%E5%8F%B7%E7%84%A1%E8%A6%96%E3%81%AE%E4%BA%8B%E6%95%85%E3%81%AE%E9%81%8E%E5%A4%B1%E5%89%B2%E5%90%88%E3%81%AF%E3%81%A9%E3%81%86%E3%81%AA%E3%82%8B%E3%81%8B/",
@@ -95,12 +95,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://jafmate.jp/car/surveyteam_20240205.html",
+    "url": "https://atomfirm.com/media/39014",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://atomfirm.com/media/39014",
+    "url": "https://jafmate.jp/car/surveyteam_20240205.html",
     "status": "ok",
     "method": "http"
    },
@@ -115,7 +115,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.kouri-sdas.com/%E7%AE%A1%E7%90%86%E8%80%85%E6%94%AF%E6%8F%B4%E3%83%9A%E3%83%BC%E3%82%B8/%E3%83%92%E3%83%A4%E3%83%AA%E3%83%8F%E3%83%83%E3%83%88%E5%88%86%E6%9E%90%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9F%E6%8C%87%E5%B0%8E%E6%96%B9%E6%B3%95/%E3%83%92%E3%83%A4%E3%83%AA%E3%83%8F%E3%83%83%E3%83%88%E5%88%86%E6%9E%90%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9F%E6%8C%87%E5%B0%8E%E6%96%B9%E6%B3%956-%E4%BF%A1%E5%8F%B7%E4%BA%A4%E5%B7%AE%E7%82%B9/",
+    "url": "https://bengo-line.com/post-12059/",
     "status": "ok",
     "method": "http"
    },
@@ -125,17 +125,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.tatsuki.org/tlabwp/wp-content/uploads/2022/03/2020_1109171017_IMAYOSHI_RIKU.pdf",
+    "url": "https://note.com/jinzai_saiyo/n/n971e917c3c35",
     "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.sonysonpo.co.jp/auto/guide/agde942.html",
-    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.pass4sure.com/blog/spotting-red-flags-in-data-10-warning-signs-of-low-quality-data/",
+    "url": "https://biz.flora-tech.jp/ja/column/engagement-hrdev/jinji-data-dedokoro-setsumei",
     "status": "ok",
     "method": "http"
    },
@@ -145,12 +140,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.commonroom.io/blog/firmographic-and-technographic-data/",
+    "url": "https://www.acceldata.io/blog/how-to-fix-conflicting-metrics-across-teams-a-practical-guide",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.acceldata.io/blog/how-to-fix-conflicting-metrics-across-teams-a-practical-guide",
+    "url": "https://www.open-contracting.org/wp-content/uploads/2016/11/OCP2016-Red-flags-for-integrityshared.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.commonroom.io/blog/firmographic-and-technographic-data/",
     "status": "ok",
     "method": "http"
    },
@@ -160,7 +160,7 @@
     "method": "browser"
    },
    {
-    "url": "https://www.varsitytutors.com/practice/subjects/business-statistics/lessons/data-quality-issues",
+    "url": "https://stape.io/blog/data-discrepancies-troubleshooting",
     "status": "ok",
     "method": "http"
    }
@@ -190,22 +190,22 @@
   {
    "query": "出どころどうしの値が割れたときに平均せず赤信号にする実務（会社データの照合・人数の割れの閾値・期待される記録の欠け・確かさの帯で人の確認に回す・4-114） note",
    "results": [
+    "https://note.com/koyoko/n/nd5e1dc457e2e",
     "https://www.reddit.com/r/driving/comments/1gxdob2/i_ran_a_red_light_i_dont_even_know_how_that/?tl=ja",
-    "https://note.com/keiophonetics/n/n0b66e1eeac94",
+    "https://note.com/frederick_mouse/n/n827f1ed1ee1a",
     "https://www.transport.iis.u-tokyo.ac.jp/poster/031-060/46.pdf",
-    "http://library.jsce.or.jp/jsce/open/00039/200511_no32/pdf/229.pdf",
-    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/9/31/14723",
     "https://note.shiftinc.jp/07/",
+    "http://library.jsce.or.jp/jsce/open/00039/200511_no32/pdf/229.pdf",
+    "https://futana-e.esnet.ed.jp/json/blogs/saveLikeJson/1/21/4553",
+    "https://mita-js.minato-tky.ed.jp/json/blogs/saveLikeJson/1/13/14806",
     "https://norudakeset-ishikawa.net/wp-content/uploads/8.pdf",
-    "https://note.com/posi7293/n/n53e7aed0e9e8",
-    "https://note.com/jinzai_saiyo/n/n971e917c3c35",
-    "https://note.com/imuret_/n/n4518c3cf3339"
+    "https://note.com/jinzai_saiyo/n/n971e917c3c35"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "出どころどうしの値が割れたときに平均せず赤信号にする実務（会社データの照合・人数の割れの閾値・期待される記録の欠け・確かさの帯で人の確認に回す・4-114） やり方",
@@ -214,32 +214,12 @@
     "https://mcm-www.jwu.ac.jp/~mathphys/mejirosai/m/2023/4.natsui/images/isogaba.pdf",
     "https://www.sbisonpo.co.jp/car/column/column87.html",
     "https://www.itarda.or.jp/contents/274/jirei-100.pdf",
-    "https://jafmate.jp/car/surveyteam_20240205.html",
     "https://www.reddit.com/r/driving/comments/1gxdob2/i_ran_a_red_light_i_dont_even_know_how_that/?tl=ja",
     "https://atomfirm.com/media/39014",
+    "https://jafmate.jp/car/surveyteam_20240205.html",
+    "https://www.jikosos.net/basic-knowledge/violationpoints",
     "https://www-hs.yamagata-u.ac.jp/wp-content/uploads/2017/11/kiyou14_07.pdf",
-    "https://www.keishicho.metro.tokyo.lg.jp/kotsu/doro/singoukisetchi/hitsuyoujyoken.html",
     "https://xtech.nikkei.com/atcl/nxt/column/18/00286/020600250/"
-   ],
-   "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "出どころどうしの値が割れたときに平均せず赤信号にする実務（会社データの照合・人数の割れの閾値・期待される記録の欠け・確かさの帯で人の確認に回す・4-114） 事例",
-   "results": [
-    "https://kotsujiko.law/kasituwariai/dousi/780-784.php",
-    "https://www.moj.go.jp/content/001417818.pdf",
-    "https://www.sbisonpo.co.jp/car/column/column87.html",
-    "https://www.kouri-sdas.com/%E7%AE%A1%E7%90%86%E8%80%85%E6%94%AF%E6%8F%B4%E3%83%9A%E3%83%BC%E3%82%B8/%E3%83%92%E3%83%A4%E3%83%AA%E3%83%8F%E3%83%83%E3%83%88%E5%88%86%E6%9E%90%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9F%E6%8C%87%E5%B0%8E%E6%96%B9%E6%B3%95/%E3%83%92%E3%83%A4%E3%83%AA%E3%83%8F%E3%83%83%E3%83%88%E5%88%86%E6%9E%90%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9F%E6%8C%87%E5%B0%8E%E6%96%B9%E6%B3%956-%E4%BF%A1%E5%8F%B7%E4%BA%A4%E5%B7%AE%E7%82%B9/",
-    "https://mcm-www.jwu.ac.jp/~mathphys/mejirosai/m/2023/4.natsui/images/isogaba.pdf",
-    "https://www.itarda.or.jp/contents/274/jirei-100.pdf",
-    "https://www-hs.yamagata-u.ac.jp/wp-content/uploads/2017/11/kiyou14_07.pdf",
-    "https://www.tatsuki.org/tlabwp/wp-content/uploads/2022/03/2020_1109171017_IMAYOSHI_RIKU.pdf",
-    "https://www.sonysonpo.co.jp/auto/guide/agde942.html",
-    "https://koutsujiko-ehime.jp/jirei/車両修理費用請求額について相手方の保険会社と/"
    ],
    "engines": [
     "ddgs:google",
@@ -248,17 +228,37 @@
    "n_hits": 16
   },
   {
+   "query": "出どころどうしの値が割れたときに平均せず赤信号にする実務（会社データの照合・人数の割れの閾値・期待される記録の欠け・確かさの帯で人の確認に回す・4-114） 事例",
+   "results": [
+    "https://kotsujiko.law/kasituwariai/dousi/780-784.php",
+    "https://dprofessions.co.jp/%E5%BC%81%E8%AD%B7%E5%A3%AB/%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F/%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85/%E4%BF%A1%E5%8F%B7%E7%84%A1%E8%A6%96%E3%81%AE%E4%BA%8B%E6%95%85%E3%81%AE%E9%81%8E%E5%A4%B1%E5%89%B2%E5%90%88%E3%81%AF%E3%81%A9%E3%81%86%E3%81%AA%E3%82%8B%E3%81%8B/",
+    "https://www.moj.go.jp/content/001417818.pdf",
+    "https://www.sbisonpo.co.jp/car/column/column87.html",
+    "https://mcm-www.jwu.ac.jp/~mathphys/mejirosai/m/2023/4.natsui/images/isogaba.pdf",
+    "https://www.itarda.or.jp/contents/274/jirei-100.pdf",
+    "https://www.reddit.com/r/driving/comments/1gxdob2/i_ran_a_red_light_i_dont_even_know_how_that/?tl=ja",
+    "https://bengo-line.com/post-12059/",
+    "https://www-hs.yamagata-u.ac.jp/wp-content/uploads/2017/11/kiyou14_07.pdf",
+    "https://note.com/jinzai_saiyo/n/n971e917c3c35"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
    "query": "firmographic data conflicting sources do not average red flag headcount discrepancy threshold expected missing data",
    "results": [
-    "https://www.pass4sure.com/blog/spotting-red-flags-in-data-10-warning-signs-of-low-quality-data/",
     "https://improvado.io/blog/minimizing-data-discrepancies",
-    "https://www.commonroom.io/blog/firmographic-and-technographic-data/",
     "https://www.acceldata.io/blog/how-to-fix-conflicting-metrics-across-teams-a-practical-guide",
+    "https://www.open-contracting.org/wp-content/uploads/2016/11/OCP2016-Red-flags-for-integrityshared.pdf",
+    "https://www.commonroom.io/blog/firmographic-and-technographic-data/",
     "https://hginsights.com/blog/firmographic-technographic-data-b2b-gtm/",
-    "https://www.varsitytutors.com/practice/subjects/business-statistics/lessons/data-quality-issues",
     "https://stape.io/blog/data-discrepancies-troubleshooting",
-    "https://www.ovaledge.com/blog/data-quality-problems",
+    "https://www.varsitytutors.com/practice/subjects/business-statistics/lessons/data-quality-issues",
     "https://streamkap.com/resources-and-guides/how-to-improve-data-quality",
+    "https://www.ovaledge.com/blog/data-quality-problems",
     "https://demandscience.com/resources/blog/firmographic-data-attributes-quality/"
    ],
    "engines": [
@@ -275,8 +275,8 @@
     "https://note.com/honepoo/n/n71b80ce3ced4",
     "https://note.com/karadade_yomu/n/n58b443b0e2bd",
     "https://note.com/yotten1021/n/n4d25bec3d38b",
-    "https://note.com/tender_garlic620/n/ne3a02baab600",
     "https://note.com/beep21/n/n32adc0e6fbdd",
+    "https://note.com/tender_garlic620/n/ne3a02baab600",
     "https://note.com/live_with_/n/n93c2e1deeefe",
     "https://note.com/ocaml/n/nb4b3368f1c7a",
     "https://note.com/ocaml/n/n27b7431b0b5e"
@@ -296,10 +296,10 @@
     "https://x.com/kyookine/status/2116286857323680034",
     "https://x.com/ninjalgogo",
     "https://x.com/anrisan2020",
-    "https://x.com/willyoes/all?lang=ar",
     "https://x.com/posconchan",
     "https://x.com/DariosSawm",
-    "https://x.com/24yoshifumi"
+    "https://x.com/24yoshifumi",
+    "https://x.com/propagate_life"
    ],
    "engines": [
     "ddgs:google",
@@ -335,26 +335,26 @@
     "https://www.facebook.com/yilin.yang.9/videos/平均では見えない日本人の金融資産の現実/1736522297545994/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "出どころどうしの値が割れたときに平均せず赤信号にする実務（会社データの照合・人数の割れの閾値・期待される記録の欠け・確かさの帯で人の確認に回す・4-114） note 社長",
    "results": [
-    "https://note.com/koyoko/n/nd5e1dc457e2e",
-    "https://www.nishimura.com/ja/knowledge/publications?currentstatus=0&unselect_seminar_sponsor=0&page=289",
     "https://note.com/frederick_mouse/n/n827f1ed1ee1a",
+    "https://techblitz.com/startup-interview/notraffic/",
     "https://www.youtube.com/watch?v=WkMSPWj5FBk",
-    "https://note.com/shomin_shinkai/n/n69affb4fe720",
     "https://note.shiftinc.jp/07/",
+    "https://note.com/tkira26/n/na43c16e26407",
     "https://norudakeset-ishikawa.net/wp-content/uploads/8.pdf",
     "https://www.transport.iis.u-tokyo.ac.jp/poster/031-060/46.pdf",
-    "https://www.reddit.com/r/LegalAdviceUK/comments/1osokcf/learner_ran_a_red_lighti_think/?tl=ja",
-    "https://x.com/noble_ai_lab/status/2114878730183311683"
+    "http://library.jsce.or.jp/jsce/open/00039/200511_no32/pdf/229.pdf",
+    "https://note.haba.co.jp/article/staff-notes/news/detail/486",
+    "https://note.com/showtime_0409/n/na6204e07dc19"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -362,16 +362,16 @@
   {
    "query": "出どころどうしの値が割れたときに平均せず赤信号にする実務（会社データの照合・人数の割れの閾値・期待される記録の欠け・確かさの帯で人の確認に回す・4-114） X 投稿",
    "results": [
-    "https://x.com/gigazine/status/2074954185317986567",
+    "https://x.com/trickcal_jp/article/2117542310758207749/media/2117504721053429760",
     "https://www.youtube.com/watch?v=edCGGeP-9D4",
     "https://www.humancentrix.com/columns/x-btob-marketing",
-    "https://www.asahi.com/articles/ASR955Q1DR95UTIL012.html",
-    "https://www.youtube.com/watch?v=Sj4rjcZWXOk",
     "https://comemo.nikkei.com/n/n93c5d9c1f28a",
-    "https://www.gixo.jp/blog/3597/",
+    "https://www.asahi.com/articles/ASR955Q1DR95UTIL012.html",
     "https://sinis-x.tetemarche.co.jp/blog/X-algorithm-explanation",
-    "https://note.com/socialtravelerh/n/ne17e274b7a24",
-    "https://x.com/belajar_ai_noob/status/2106190129119527049"
+    "https://www.soumu.go.jp/main_content/000938666.pdf",
+    "https://camtsuku.com/guide/3811",
+    "https://note.com/good_clover3128/n/n14f55d7214d1",
+    "https://x.com/signalz_jp/status/2115233330841215171"
    ],
    "engines": [
     "ddgs:google",
@@ -382,22 +382,21 @@
   {
    "query": "firmographic data conflicting sources do not average red flag headcount discrepancy threshold expected missing data site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/brian-bruzzi_intent-data-doesnt-find-you-buyers-it-sells-activity-7511417205901651968-aNBK",
-    "https://www.linkedin.com/company/grow-with-clay",
-    "https://www.linkedin.com/top-content/marketing/lead-generation-techniques/how-to-use-data-for-lead-generation/",
-    "https://www.linkedin.com/in/jered-heinrich",
-    "https://www.linkedin.com/top-content/science/best-practices-for-data-management/data-hygiene-best-practices-for-sustainable-marketing/",
-    "https://www.linkedin.com/in/majavoje",
     "https://www.linkedin.com/top-content/sales/sales-reporting-systems/building-reliable-sales-data-sources/",
+    "https://www.linkedin.com/top-content/business-strategy/risk-management-in-strategy/using-data-for-risk-segmentation-strategies/",
+    "https://www.linkedin.com/company/grow-with-clay",
+    "https://www.linkedin.com/top-content/business-strategy/the-role-of-data-in-business/how-data-hygiene-affects-business-performance/",
+    "https://www.linkedin.com/in/jered-heinrich",
+    "https://www.linkedin.com/in/majavoje",
+    "https://www.linkedin.com/top-content/marketing/lead-generation-techniques/how-to-use-data-for-lead-generation/",
+    "https://www.linkedin.com/top-content/science/best-practices-for-data-management/data-hygiene-best-practices-for-sustainable-marketing/",
     "https://www.linkedin.com/posts/james-hanzimanolis_most-people-criticize-zoominfo-for-their-activity-7393698250798706688-PXMn",
-    "https://www.linkedin.com/company/kernelai",
     "https://www.linkedin.com/top-content/sales/b2b-sales-strategies/how-to-build-a-strong-abm-strategy/"
    ],
    "engines": [
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   }
  ],
  "missing": {
@@ -408,6 +407,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T22:42:42.281937+00:00"
 }

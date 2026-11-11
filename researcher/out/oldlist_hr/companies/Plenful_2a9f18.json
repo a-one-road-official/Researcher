@@ -1,0 +1,1127 @@
+{
+ "name": "Plenful",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T23:49:23.828080+00:00",
+ "official_url": "https://plenful.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$63,000",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$76,000,000",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "03-Oct-2023 $9M $9M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/468888-31",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/468888-31",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "2,426,481 $0.000010  $2.78 $2.78 1x $2.78 14.05%",
+    "url": "https://pitchbook.com/profiles/company/468888-31",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Intelligent Document Processing",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Plenful helps me sleep at night, knowing our 340B program is compliant. With Plenful, we're now auditing 100% of our 340B claims.\"",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Performance Improvement",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Plenful comes from pharmacy operations, they just get it. Their AI platform has given us the scalable infrastructure we need to handle increasing medication volumes without proportionally increasing our staffing costs.\"",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Adam Porath, Vice President of Pharmacy",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Plenful's executive dashboards give us visibility into trends across our 340B program. Because of this, Plenful helps us solve a problem that was previously unsolvable.”",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shane Gabriszeski, Sr. 340B Program Analyst",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven at Enterprise Scale",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plenful operates as your centralized enterprise platform, connecting disparate systems and file formats. Our AI platform offers highly configurable options for data ingestion, processing, and export. Benefit from unlimited rules and crosswalks. Integrate your existing data formats, including PDFs, flat files, APIs, HL7, SFTPs, databases, and more.",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Incorporate AI tailored specifically to your data and processes. Unlock optimizations and capture additional revenue opportunities. Increase output and improve results.",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plenful helps you maximize ROI by empowering your team to prioritize critical tasks. Eliminate the need for manual effort in filling in missing information or navigating disparate systems. No more wasted staff time clicking through disorganized data.",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmacies & Infusion Practices",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamlining care coordination across specialty pharmacy, infusion practices, and retail",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering with innovative specialty providers to automate workflows and capture revenue",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intake & Prior Authorization",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solving one of the biggest problems plaguing healthcare, delayed patient care",
+    "url": "https://www.plenful.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2021, Plenful was created to clear that operational path. Our growing team brings shared passion and experience as pharmacy leaders, healthcare advocates, and AI technologists to efficiently and thoughtfully solve real problems using advanced technology. We’ve lived the complexity of high-stakes workflows and understand how much invisible work it takes to move care forward.",
+    "url": "https://www.plenful.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer",
+    "url": "https://www.plenful.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Plenful is committed to building an enterprise-grade AI platform that moves pharmacy forward, so patient care can happen faster and more sustainably. Achieving this mission requires a motivating organizational culture where every team member can excel and reach their full potential.",
+    "url": "https://www.plenful.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our company values shape our culture, guide our hiring process, and inform our daily interactions, both internally and with our expanding list of customers and partners.",
+    "url": "https://www.plenful.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive medical, dental, and vision coverage for teammates and dependents. Monthly wellness reimbursement credit.",
+    "url": "https://www.plenful.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent Document Processing",
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": "This announcement reflects two years of hard work alongside the Cencora team and the strength of the technology we’ve built at Plenful. Together, we’re combining our AI platform with deep pharmacy expertise to solve complex problems and deliver meaningful value to pharmacy teams and their patients.",
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": "Getting a patient started on therapy requires confirming insurance coverage, gathering clinical documentation, and securing the required prior authorization. The information needed to make those decisions and the work required to act on them have historically been disparate and disorganized. When patient information and platform tools are disconnected, patients wait longer for the care they need.",
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": "That’s where our partnership comes in. Plenful leverages Cencora’s eBenefit Services to help providers and pharmacy teams",
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": "validate access, out-of-pocket costs, formulary, and prior authorization information within a single workflow",
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": ". We’re seeing customers reduce intake and PA processing time by more than",
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you to David Tinsley and our partners at Cencora across the Accelerate Pharmacy Solutions team, our colleagues at Plenful, and the hundreds of customers who make this work possible. I’m proud of what we’ve built together and can’t wait for what’s next as we continue deepening our integrations and joint solutions for specialty teams.",
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": "Intake & Prior Authorization",
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": "Intellegent Document Processing",
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent Document Processing",
+    "url": "https://www.plenful.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "HL7v2, FHIR, REST APIs, delimited text files such as csv, and more can be processed through Plenful",
+    "url": "https://www.plenful.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We have a rich repository of healthcare integrations off the shelf and prioritize new ones based on our customers' needs",
+    "url": "https://www.plenful.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "\"10/10 satisfaction. We haven’t found anything quite like Plenful that can assist with the optimization of the 340B processes, especially in relation to the organizational-specific configuration flexibility that we need to be able to address our use-cases.",
+    "url": "https://www.plenful.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Intake & Prior Authorization",
+    "url": "https://www.plenful.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Mercy Medical Center leveraged Plenful's 340B Audit & Optimization suite to scale their program with confidence.",
+    "url": "https://www.plenful.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "process across our messy workflows”",
+    "url": "https://www.plenful.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Specialty Provider Group",
+    "url": "https://www.plenful.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Plenful helps me sleep at night, knowing our 340B program is compliant. With Plenful, we're now auditing 100% of our 340B claims.\"",
+    "url": "https://www.plenful.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Performance Improvement",
+    "url": "https://www.plenful.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Plenful comes from pharmacy operations, they just get it. Their AI platform has given us the scalable infrastructure we need to handle increasing medication volumes without proportionally increasing our staffing costs.\"",
+    "url": "https://www.plenful.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Adam Porath, Vice President of Pharmacy",
+    "url": "https://www.plenful.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Plenful's executive dashboards give us visibility into trends across our 340B program. Because of this, Plenful helps us solve a problem that was previously unsolvable.”",
+    "url": "https://www.plenful.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Shane Gabriszeski, Sr. 340B Program Analyst",
+    "url": "https://www.plenful.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent Document Processing",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "5 hospitals with approximately 322 licensed beds",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "By automating the 340B ESP reporting process and seamlessly applying complex eligibility logic required by the manufacturers, Plenful saves the Samaritan team valuable time (reduced by 96%) and increases the accuracy of their reporting process.",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "Samaritan Health Services is a non-profit healthcare system based in Corvallis, Oregon, operating five hospitals and over 110 physician clinics throughout the mid-Willamette Valley and central Oregon Coast.",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "Established in 1997, they employ nearly 7,000 staff and offer a comprehensive range of services, including emergency care, surgery, and specialty clinics.",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "Loads of Team Time Spent on Manual Recurring Work",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "Reporting to the 340B ESP Portal requires incredible manual work due to the specific reporting requirements of the platform and the complexity of drug qualification created by the manufacturers. Healthcare systems also have to account for strict eligibility rules to ensure they report out accurately, otherwise risking program eligibility and significant 340B savings.",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "These bi-weekly reporting cycles would require the Samaritan team to be stuck in piles of spreadsheets doing painstaking and manual work to ensure their program remained compliant.",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "Since onboarding Plenful in 2024, Samaritan has recognized a huge reduction in time spent on their ESP reporting cycles –",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "Days spent wrangling hairy spreadsheets and stitching together information across a wide variety of data sources are now behind them.",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "The Samaritan team not only benefits from time back to focus on higher-value work, but can also rest easy at night. Plenful's reports fueled by the power of machine learning and AI are more accurate than human-led audits, helping protect critical 340B savings. For most Plenful clients, these savings can add up to millions of dollars annually.",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "Plenful’s report is more accurate than what Samaritan was previously able to produce manually. Accurate reporting ensures maintenance of their 340B drug pricing, securing millions of dollars in critical cost savings and program benefits.",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "Intellegent Document Processing",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent Document Processing",
+    "url": "https://www.plenful.com/case-studies/how-mercy-med-leveraged-automation-to-optimize-340b-savings-and-audit-coverage",
+    "pass": 1
+   },
+   {
+    "quote": "Plenful's Missed Opportunities solution enabled Mercy Medical Center to identify and recapture 340B savings from claims incorrectly assigned as ineligible by TPAs. Automation made these insights possible by processing millions of rows of encounter, dispensing, and location data - work that would have been impossible to do manually and with Mercy Medical Center’s growing volume of claims.",
+    "url": "https://www.plenful.com/case-studies/how-mercy-med-leveraged-automation-to-optimize-340b-savings-and-audit-coverage",
+    "pass": 1
+   },
+   {
+    "quote": "In an increasingly complex 340B landscape, Mercy Medical Center's leadership maintains a clear, guiding principle. As Greg Smith, Chief Pharmacy Officer, explains:",
+    "url": "https://www.plenful.com/case-studies/how-mercy-med-leveraged-automation-to-optimize-340b-savings-and-audit-coverage",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Built by pharmacy operators and world-class technologists, and backed by top AI and healthcare investors.",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re a team of passionate healthcare operators & AI technologists",
+    "url": "https://www.plenful.com/company",
+    "pass": 1
+   },
+   {
+    "quote": ". These workflows augment lean 340B teams and positively impact pharmacy financial performance as manufacturer and regulatory requirements continue to evolve. Plenful customers like Mercy Medical Center have reported as much as",
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": "By automating the 340B ESP reporting process and seamlessly applying complex eligibility logic required by the manufacturers, Plenful saves the Samaritan team valuable time (reduced by 96%) and increases the accuracy of their reporting process.",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   },
+   {
+    "quote": "Reporting to the 340B ESP Portal requires incredible manual work due to the specific reporting requirements of the platform and the complexity of drug qualification created by the manufacturers. Healthcare systems also have to account for strict eligibility rules to ensure they report out accurately, otherwise risking program eligibility and significant 340B savings.",
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Incorporate AI tailored specifically to your data and processes. Unlock optimizations and capture additional revenue opportunities. Increase output and improve results.",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering with innovative specialty providers to automate workflows and capture revenue",
+    "url": "https://www.plenful.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI platform is purpose-built for pharmacy teams and delivers real value: streamlined workflows, reduced errors, and unlocked revenue.",
+    "url": "https://www.plenful.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Plenful is headquartered in San Francisco, with an additional office hub in New York City, and remote employees located across the United States.",
+    "url": "https://www.plenful.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Daily lunch stipend for in-office and remote employees.",
+    "url": "https://www.plenful.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "401k matching contribution plan for all full-time employees.",
+    "url": "https://www.plenful.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Cencora’s Accelerate Pharmacy Solutions is collaborating with Plenful as part of its expanded technology ecosystem. Our work together spans intake authorization, 340B optimization, rebate and MFP management, and other critical pharmacy workflows.",
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": "fewer barriers between patient and therapy.",
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "pass": 1
+   },
+   {
+    "quote": "This is why Plenful’s automated compliance workflows have become a critical part of Mercy Medical Center’s 340B infrastructure.",
+    "url": "https://www.plenful.com/case-studies/how-mercy-med-leveraged-automation-to-optimize-340b-savings-and-audit-coverage",
+    "pass": 1
+   },
+   {
+    "quote": "As claim volume increased, achieving full audit coverage manually required more dedicated full-time staffing. In today’s climate, recruitment of qualified candidates is challenging, and it would be too costly to employ the number of full-time employees required. Plenful offered a different path.",
+    "url": "https://www.plenful.com/case-studies/how-mercy-med-leveraged-automation-to-optimize-340b-savings-and-audit-coverage",
+    "pass": 1
+   },
+   {
+    "quote": "This New England Health System serves as a cornerstone of healthcare delivery in the region. With over 8000 employees and a commitment to providing high-quality care to the community, the system sought innovative solutions to enhance its 340B program in order to care for its patients.",
+    "url": "https://www.plenful.com/case-studies/how-a-large-new-england-health-system-automated-their-340b-auditing-and-financial-reporting-with-plenful",
+    "pass": 1
+   },
+   {
+    "quote": "Plenful Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Plenful",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Plenful?",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Plenful have?",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of AI-powered healthcare automation software designed to automate repetitive and manual workflows. The company's platform increases efficiency and data accuracy in manual and administrative healthcare operational workflows, enabling healthcare providers to save healthcare workers time, reduce costs, and drive revenue growth.",
+    "url": "https://pitchbook.com/profiles/company/468888-31",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/468888-31",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful has 121 total employees.",
+    "url": "https://pitchbook.com/profiles/company/468888-31",
+    "pass": 3
+   },
+   {
+    "quote": "What is Plenful’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/468888-31",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Plenful is",
+    "url": "https://pitchbook.com/profiles/company/468888-31",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Plenfulとは？AIで医療業務を自動化する最新ツールの活用方法と導入メ... — Feb 6, 2025 · 医療業務の効率化やコスト削減に関心がある病院経営者や事務管理者が、Plenfulを導入することで、財務面・業務面でのメリットを得られます。 薬局チェーンの運営者 全国に展開する大手薬局では、在庫管理や契約料金の最適化が重要です。",
+    "url": "https://generative-ai.co.jp/usecase/medical-healthcare-ai/ai-startup-usecase-plenful/",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful — \"Plenful comes from pharmacy operations, they just get it. Their AI platform has given us the scalable infrastructure we need to handle increasing medication volumes without proportionally increasing our staffing costs.\"",
+    "url": "https://www.plenful.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful's Workflow Automation Solutions — Explore Plenful's comprehensive workflow automation solutions, including 340B claims management, inventory management, intelligent document processing, and more.",
+    "url": "https://www.plenful.com/solutions",
+    "pass": 3
+   },
+   {
+    "quote": "【医療の未来がここに！】Plenfulが9億円を調達し、医療ワークフロー... — Oct 11, 2023 · 「Plenfulはパンデミックの間に設立され、COVIDによる緊急のニーズへの迅速な対応力を備えています」と彼女は述べています。 「業界のAIへの関心の向上、増加する医療支出、持続的な労働力不足の連鎖により、会社の急成長に大きく貢献しています。",
+    "url": "https://eletsu.jp/5912/",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful、薬局業務の自動化に1,700万ドルを調達 — Plenful は、新たな資金調達により、インフラストラクチャを拡張し、自動化サービスを顧客のニーズに合わせて調整し、特に大規模言語モデル (LLM) における機械学習機能を強化して、顧客体験を向上させる予定です。",
+    "url": "https://www.generatived.com/news/plenful-secures-$17m-to-automate-pharmacy-operations",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful — Plenful offers a greater number of automations and supports more complex workflows than any other healthcare platform. With increased efficiency, you can accelerate patient care. Plenful’s AI identifies all your revenue opportunities among your messy data and data sources.",
+    "url": "https://www.plenful.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful Jobs — All qualified applicants will receive consideration for employment without regard to these protected characteristics. If you need a reasonable accommodation to participate in the application or interview process, please let us know via talent@plenful.com and we'll work with you to provide one.",
+    "url": "https://jobs.ashbyhq.com/plenful",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful — Plenful ... Plenful",
+    "url": "https://app.plenful.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful's Workflow Automation Solutions — Explore Plenful's comprehensive workflow automation solutions, including 340B claims management, inventory management, intelligent document processing, and more. Discover how our no-code platform streamlines operations, reduces costs, and drives revenue growth for healthcare organizations.",
+    "url": "https://www.plenful.com/solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Customer and Success Stories - Plenful — Dive into our customer success stories and use cases to see how solutions streamline operations, reduces costs, and identifies revenue opportunities.",
+    "url": "https://www.plenful.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful B2B Case Studies & Customer Successes — See how Plenful solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/plenful",
+    "pass": 3
+   },
+   {
+    "quote": "How a Large Multi-State Specialty Provider ... - Plenful — This specialty healthcare provider utilized AI automation with Plenful to streamline document processes, reducing manual effort by 95% and optimizing compliance and savings opportunities.",
+    "url": "https://www.plenful.com/case-studies/how-a-large-multi-state-specialty-provider-automated-their-daily-orders-and-referrals-with-plenful",
+    "pass": 3
+   },
+   {
+    "quote": "4 Plenful Case Studies, Success Stories, & Customer Stories — Narrow down 4 case studies by company size & industry to find out how Plenful works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/plenful/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful - 2026 Company Profile, Team, Funding & Competitors ...Plenful Revenue, Funding & Valuation - prospeo.ioPlenful 2026 Company Profile: Valuation, Funding & Investors ...Plenful – Growth Analysis & Alternative Companies – 2026Plenful Revenue 2025: $13.6M Est. - getlatka.comPlenful - Overview, News & Similar companies | ZoomInfo.comPlenful: Funding, Team & Investors | Startup Intros — Sep 11,",
+    "url": "https://tracxn.com/d/companies/plenful/__AUFKD9pojqOJksSGsSgq6GK_oYd___TlpXBE9fySKg0",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful Revenue, Funding & Valuation - prospeo.io — Plenful has revenue of $4,570,000, estimated valuation of $14,700,000, $76,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful 2026 Company Profile: Valuation, Funding & Investors ...Plenful – Growth Analysis & Alternative Companies – 2026Plenful Revenue 2025: $13.6M Est. - getlatka.comPlenful - Overview, News & Similar companies | ZoomInfo.comPlenful: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and executives for Plenful. Use the PitchBook Platform to exp",
+    "url": "https://pitchbook.com/profiles/company/468888-31",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful – Growth Analysis & Alternative Companies – 2026 — Plenful's current annual revenue estimate stands at $13.6M. This translates to an estimated $247.7K in revenue per employee for Plenful. Across all rounds, Plenful has brought in $76M in funding. Plenful maintains a staff of approximately 50+. Plenful grew their employee count by 175% last year.",
+    "url": "https://compworth.com/company/plenful",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful Revenue 2025: $13.6M Est. - getlatka.com — Oct 30, 2026 · How many employees does Plenful have? Plenful has 72 employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/plenful.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/468888-31",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "John Lynn on X: \"Plenful Secures $17M Series A to Streamline ... Plenful Secures $17M Series A to Streamline Pharmacy Operations with AI-Powered Workflow Automation #HITsm #Plenful https://t.co/L6daBylfHx",
+    "url": "https://x.com/techguy/status/1803053992005533873",
+    "pass": 3
+   },
+   {
+    "quote": "@plenful | X The latest posts from @plenful",
+    "url": "https://x.com/plenful",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Plenful - LinkedIn As the leading AI automation platform purpose-built for pharmacy teams, Plenful eliminates administrative burden, enhances compliance, and unlocks sustainable growth.",
+    "url": "https://www.linkedin.com/company/plenful",
+    "pass": 3
+   },
+   {
+    "quote": "Joy Liu - Founder & CEO at Plenful | LinkedInPlenful: Jobs | LinkedInMatt Savard - Plenful | Enterprise Pharmacy AI Automation ...Plentiful - LinkedInAman Shahi - Chief Product Officer at Plenful | Building AI ...Plenful: Culture | LinkedIn Plenful eliminates manual work and captures revenue for pharmacy and healthcare operations teams through our AI automation platform. Plenful is backed by leadi",
+    "url": "https://www.linkedin.com/in/joyliu1",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful: Jobs | LinkedIn As the leading AI automation platform purpose-built for pharmacy teams, Plenful eliminates administrative burden, enhances compliance, and unlocks sustainable growth.",
+    "url": "https://www.linkedin.com/company/plenful/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Matt Savard - Plenful | Enterprise Pharmacy AI Automation ...Plentiful - LinkedInAman Shahi - Chief Product Officer at Plenful | Building AI ...Plenful: Culture | LinkedIn Plenful is the only no-code, AI automation platform built by healthcare operators, pharmacists and people who care deeply about creating a more efficient healthcare system. Plentiful | 898 followers on LinkedIn. people and food,",
+    "url": "https://www.linkedin.com/in/matt-savard",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "PlentifelPlate - FacebookPlenful, Inc. | San Francisco CA - FacebookPlenful, Inc. | San Francisco CA - FacebookPlenful, Inc. | San Francisco CA - FacebookPlanful, Inc. - FacebookPlentiful: Bowls & Salads - FacebookPlenful, Inc. - Facebook Oct 23, 2026 · PlentifelPlate, Lewes. 1,728 followers · 610 talking about this. Homemade (& semi-homemade) meals for the busy home cook ️ Big flavor, pantry stap",
+    "url": "https://www.facebook.com/PlentifelPlate/",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful, Inc. | San Francisco CA - Facebook Feb 17, 2025 · Plenful, Inc. , San Francisco. 25 likes. We are dedicated to streamlining administrative workflows.",
+    "url": "https://www.facebook.com/61572979423449/",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful, Inc. | San Francisco CA - Facebook Feb 17, 2025 · Plenful, Inc. , San Francisco. 27 followers. We are dedicated to streamlining administrative workflows.",
+    "url": "https://www.facebook.com/p/Plenful-Inc-61572979423449/",
+    "pass": 3
+   },
+   {
+    "quote": "Plenful, Inc. | San Francisco CA - Facebook Plenful, Inc. , San Francisco. We are dedicated to streamlining administrative workflows.",
+    "url": "https://www.facebook.com/p/Plenful-Inc-61572475096270/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.plenful.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plenful.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plenful.com/blog/plenful-and-cencora-partner-to-power-the-future-of-pharmacy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plenful.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plenful.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plenful.com/case-studies/samaritan-health-esp-reporting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plenful.com/case-studies/how-mercy-med-leveraged-automation-to-optimize-340b-savings-and-audit-coverage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plenful.com/case-studies/how-a-large-new-england-health-system-automated-their-340b-auditing-and-financial-reporting-with-plenful",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plenful.com/case-studies/how-a-large-health-system-pharmacy-automates-their-inventory-planning-and-optimization",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/660fbd6612719d1bb9190fb2/69b168a2894257b8696812b5_darkGreen-800x600_0000_Notable_Capital_logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/660fbd6612719d1bb9190fb2/69b168a2d3cd6b9520cc97ee_darkGreen-800x600_0001_Bessemer_Logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/660fbd6612719d1bb9190fb2/69b1aa7dc6eb5e1b3c3dc37e_Investor-Logos_0000_forbes.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/660fbd6612719d1bb9190fb2/69b1aa7d250ab5ecffb51b26_Investor-Logos_0001_beckers-hospital-review.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://generative-ai.co.jp/usecase/medical-healthcare-ai/ai-startup-usecase-plenful/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plenful.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plenful.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eletsu.jp/5912/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plenful.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/plentiful",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jobs.ashbyhq.com/plenful",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://app.plenful.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.plenful.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.cfosolutions.com/manufacturing-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/plenful",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plenful.com/case-studies/how-a-large-multi-state-specialty-provider-automated-their-daily-orders-and-referrals-with-plenful",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/plenful/__AUFKD9pojqOJksSGsSgq6GK_oYd___TlpXBE9fySKg0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/plenful-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/468888-31",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/plenful",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/techguy/status/1803053992005533873",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/plenful",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/joyliu1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/plenful/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/matt-savard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PlentifelPlate/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61572979423449/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Plenful-Inc-61572979423449/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Plenful-Inc-61572475096270/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/plenful",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Plenful 日本 導入",
+   "results": [
+    "https://generative-ai.co.jp/usecase/medical-healthcare-ai/ai-startup-usecase-plenful/",
+    "https://www.plenful.com/",
+    "https://www.plenful.com/solutions",
+    "https://eletsu.jp/5912/",
+    "https://www.generatived.com/news/plenful-secures-$17m-to-automate-pharmacy-operations",
+    "https://www.firstcvc.jp/global/plenful.com",
+    "https://innovatopia.jp/healthcare/healthcare-news/28368/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plenful 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.playful-dc.com/",
+    "https://e-shop.kanful.com/",
+    "https://www.plein.com/jp/women/women-shoes/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plenful Japan",
+   "results": [
+    "https://www.plenful.com/",
+    "https://dictionary.cambridge.org/dictionary/english-japanese/plentiful",
+    "https://jobs.ashbyhq.com/plenful",
+    "https://app.plenful.com/",
+    "https://www.plenful.com/solutions",
+    "https://www.linkedin.com/in/joyliu1",
+    "https://www.linkedin.com/company/plenful"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plenful manufacturing customer case study",
+   "results": [
+    "https://www.plenful.com/customers",
+    "https://go.cfosolutions.com/manufacturing-1",
+    "https://www.casestudies.com/company/plenful",
+    "https://www.plenful.com/case-studies/how-a-large-multi-state-specialty-provider-automated-their-daily-orders-and-referrals-with-plenful",
+    "https://www.featuredcustomers.com/vendor/plenful/case-studies",
+    "https://cfosolutions.com/resources/cfo-case-studies/planful-support-services-manufacturing/",
+    "https://www.casestudies.com/company/plenful/case-study/how-a-large-multi-state-specialty-provider-automated-their-daily-orders-and-referrals-with-plenful"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plenful white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.canva.com/partners/reseller/",
+    "https://partners.spectrum.com/",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plenful founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/plenful/__AUFKD9pojqOJksSGsSgq6GK_oYd___TlpXBE9fySKg0",
+    "https://prospeo.io/c/plenful-revenue",
+    "https://pitchbook.com/profiles/company/468888-31",
+    "https://compworth.com/company/plenful",
+    "https://getlatka.com/companies/plenful.com",
+    "https://www.zoominfo.com/c/plenful/566162614",
+    "https://startupintros.com/orgs/plenful"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Plenful",
+   "results": [
+    "https://note.com/yukidaruma824/n/n012183eb7ae5?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://tales.note.com/",
+    "https://note.com/nyanyawith_akira/n/nf82b0634b7c4?hl=en",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/motomoto_kz/n/n90e13c08508a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Plenful",
+   "results": [
+    "https://x.com/techguy/status/1803053992005533873",
+    "https://x.com/ObbeVermeij",
+    "https://x.com/Planful/status/2111080042457391322",
+    "https://x.com/PlentifulGame",
+    "https://x.com/planful",
+    "https://x.com/ObbeVermeij/status/2051718173204852778",
+    "https://x.com/Plentiful_Earth"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Plenful",
+   "results": [
+    "https://www.linkedin.com/company/plenful",
+    "https://www.linkedin.com/in/joyliu1",
+    "https://www.linkedin.com/company/plenful/jobs/",
+    "https://www.linkedin.com/in/matt-savard",
+    "https://www.linkedin.com/company/plentiful-people-and-food-connected",
+    "https://www.linkedin.com/in/amanshahi",
+    "https://www.linkedin.com/company/plenful/life"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Plenful",
+   "results": [
+    "https://www.facebook.com/PlentifelPlate/",
+    "https://www.facebook.com/61572979423449/",
+    "https://www.facebook.com/p/Plenful-Inc-61572979423449/",
+    "https://www.facebook.com/p/Plenful-Inc-61572475096270/",
+    "https://www.facebook.com/PlanfulInc/",
+    "https://www.facebook.com/61572475096270/",
+    "https://www.facebook.com/plentifulbowlsandsalads/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plenful note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://x.com/i/trending/2046863236369465539",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/lithe_cobra3581/n/nb9722a5c806f",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Plenful X 投稿",
+   "results": [
+    "https://x.com/plenful",
+    "https://www.plenful.com/",
+    "https://app.plenful.com/",
+    "https://try.plenful.com/",
+    "https://app.aws.plenful.com/",
+    "https://x.com/PlentifulGame",
+    "https://x.com/_Rlyeh/status/2054135409693831634"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部34頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

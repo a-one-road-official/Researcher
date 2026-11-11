@@ -1,0 +1,873 @@
+{
+ "name": "Voltfang",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Energy Systems｜AUMS不適合",
+ "researched_at": "2026-11-10T23:37:09.933627+00:00",
+ "official_url": "https://voltfang.de/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "DE / Aachen",
+    "url": "https://deeptech.nextblue.com/startups/voltfang",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "Aachen, Germany",
+    "url": "https://startupintros.com/orgs/voltfang",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "10. Seed Round",
+    "value": "10-May-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/voltfang",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Großprojekte & Netzintegration",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Batteriespeicher für Ihren Betrieb – passend zu Ihrer Branche und Ihrem Lastprofil.",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrie & Produktion",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Einbindung von dynamischen Strompreisen",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Übersicht Großprojekte & Netz",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Großspeicher-Projekte als Investment – ob Kauf, Co-Investment oder Kooperation.",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Container-Speicher ab 2,5 MW | 5,3 MWh – ein Vertrag, ein Ansprechpartner: vom Bauantrag bis zur Wartung.",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Pressemitteilungen und Medienmaterial für Journalisten.",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Unsere Kunden sprechen für sich",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Unkalkulierbare Strompreise belasten Ihre Betriebskosten erheblich.",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Volatile Strompreise treffen Ihr Unternehmen ungefiltert – ohne Möglichkeit gegenzusteuern.",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Individuelle Projektplanung",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Ob Leasing oder Mietkauf – gemeinsam mit Deutsche Leasing finden wir die Finanzierung die Ihr Projekt trägt.",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "So profitierenSie in der Praxis",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Sedo Treepoint aus Hessen versorgt Produktion und 16 E-Fahrzeuge mit eigener Solarenergie – dank 174 kWh Batteriespeicher unabhängig, nachhaltig und kosteneffizient.",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamische Strompreise",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Die mittelständische Myrenne GmbH bietet aus der Eifel heraus Gesamtlösungen im Maschinenbau. Der Produktionsbetrieb verfügt über eine 268 kWp PV-Anlage und skaliert seither die Batteriespeicherkapazität.",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Mehr Projekte ansehen",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Ein Zentraler Ansprechpartner von Anfang bis Ende",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Sie planen ein Speicherprojekt?",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Großprojekte & Netz im Überblick",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Privatsphäre-Einstellungen ändern",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Historie der Privatsphäre-Einstellungen",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Voltfang repurposes decommissioned EV batteries into stationary battery energy storage systems (BESS), addressing both the growing need for grid-scale storage and the sustainability challenges of lithium‑ion production and disposal.",
+    "url": "https://www.aenu.com/insights/why-we-invested-in-voltfang/",
+    "pass": 3
+   },
+   {
+    "quote": "Avoids premature scrapping of EV batteries in the absence of large-scale recycling.",
+    "url": "https://www.aenu.com/insights/why-we-invested-in-voltfang/",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang’s impact aligns with SDG 7 (Clean & Affordable Energy) and SDG 12 (Sustainable Consumption & Production) by enabling cleaner grids and more circular use of battery resources. The company tracks and improves impact KPIs related to material use, emissions, and storage deployment.",
+    "url": "https://www.aenu.com/insights/why-we-invested-in-voltfang/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Apr 2025",
+    "url": "https://www.aenu.com/insights/why-we-invested-in-voltfang/",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang, a German company providing sustainable energy storage solutions using second-life batteries, needed to optimize performance and introduce real-time monitoring for their systems. They partnered with Lemberg Solutions to develop an IoT telemetry solution for efficiently collecting BMS data and integrating with an AWS-hosted database.",
+    "url": "https://www.casestudies.com/company/lemberg-solutions/case-study/voltfang-collects-data-from-6-bmss-with-lemberg-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "Requalification procedures for electric vehicle batteries for reuse in stationary energy storage systems",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang’s primary industry is Energy Storage.",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "Is Voltfang a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "PropTech1 Ventures",
+    "url": "https://startupintros.com/orgs/voltfang",
+    "pass": 3
+   },
+   {
+    "quote": ": Uses requalified EV batteries (80%+ residual capacity) from European automotive overproduction or end-of-vehicle-life, avoiding imports of rare materials; combines 2nd-life and new-life modules for reliability up to 10 years.[2][3][4][5]",
+    "url": "https://startupintros.com/orgs/voltfang",
+    "pass": 3
+   },
+   {
+    "quote": ": Deep learning algorithms predict module lifespans; 24/7 cell-level oversight optimizes energy flow, ensures security, and guarantees full capacity via 10-year unlimited-cycle warranty with free replacements.[2][3][5]",
+    "url": "https://startupintros.com/orgs/voltfang",
+    "pass": 3
+   },
+   {
+    "quote": ": Turnkey deployment, comprehensive consulting, and proven green impact (e.g., 2023 Impact Report); reduces ecological footprint while delivering cost savings for C&I users.[1][4][5]",
+    "url": "https://startupintros.com/orgs/voltfang",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang's investors include FORWARD.one, Aurum Impact, Daphni, Fiege Logistics, Helen Ventures, Interzero, Newberry Investments, PropTech1 Ventures, Beau Anne Chilla, Max Viessmann, Dr. Fabian Heilemann, AENU.",
+    "url": "https://startupintros.com/orgs/voltfang",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Am Logistikstandort von Fiege in Greven steigert ein Voltfang Batteriespeicher den Eigenverbrauch der PV-Anlage und kappt Lastspitzen. Voltfang realisiert ihn als Generalunternehmer in zwei Phasen, der Ausbau auf 5 MWh ist geplant.",
+    "url": "https://voltfang.de/",
+    "pass": 1
+   },
+   {
+    "quote": "HF-free fluorochemical manufacturing",
+    "url": "https://deeptech.nextblue.com/startups/voltfang",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Voltfang enhances energy storage monitoring with Lemberg Solutions' IoT telemetry solution | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/lemberg-solutions/case-study/voltfang-collects-data-from-6-bmss-with-lemberg-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Voltfang enhances energy storage monitoring with Lemberg Solutions' IoT telemetry solution",
+    "url": "https://www.casestudies.com/company/lemberg-solutions/case-study/voltfang-collects-data-from-6-bmss-with-lemberg-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/lemberg-solutions/case-study/voltfang-collects-data-from-6-bmss-with-lemberg-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/lemberg-solutions/case-study/voltfang-collects-data-from-6-bmss-with-lemberg-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": ": Uses requalified EV batteries (80%+ residual capacity) from European automotive overproduction or end-of-vehicle-life, avoiding imports of rare materials; combines 2nd-life and new-life modules for reliability up to 10 years.[2][3][4][5]",
+    "url": "https://startupintros.com/orgs/voltfang",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Tragen Sie Ihre E-Mail und das Passwort in die vorgesehenen Felder ein.",
+    "url": "https://voltfang.de/partnerportal/login/",
+    "pass": 1
+   },
+   {
+    "quote": "Benutzername oder E-Mail-Adresse",
+    "url": "https://voltfang.de/partnerportal/login/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "技術的優位性・市場背景・TRL×調達ステージ・日本産業との接続は、Deep会員が読めます",
+    "url": "https://deeptech.nextblue.com/startups/voltfang",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Voltfang - DeepTech.NEXTBLUE — 産業・系統向け蓄電システム Voltfangはアーヘンを拠点に、産業・商業・系統規模向けの蓄電システムを提供する。2026年までに追加で250MWhの蓄電容量を供給する計画。",
+    "url": "https://deeptech.nextblue.com/startups/voltfang",
+    "pass": 3
+   },
+   {
+    "quote": "Why Is Voltfang Betting on EV Batteries for Grid Storage — Jul 2, 2026 · Voltfang built its name on second-life EV batteries — but its scale-up from 20 MWh to 1 GWh annually by 2030, backed by a €250M infrastructure partnership, increasingly runs on new automotive ...",
+    "url": "https://www.linkedin.com/pulse/why-voltfang-betting-second-life-ev-batteries-grid-julian-renpenning-hvvle",
+    "pass": 3
+   },
+   {
+    "quote": "Why we invested in Voltfang - AENU — May 17, 2023 · Why AENU invested in Voltfang: repurposing EV batteries into commercial energy storage systems for a circular energy economy.",
+    "url": "https://www.aenu.com/insights/why-we-invested-in-voltfang/",
+    "pass": 3
+   },
+   {
+    "quote": "【德国亚琛】Voltfang启用欧洲最大的翻新电池工厂 – 全球再生塑料资讯... — Aug 25, 2025 · 基于这一愿景，德国初创公司Voltfang最近在亚琛启用了其宣称的欧洲最大的、用于固定储能的二次利用电池工厂。 该工业基地旨在满足日益增长的储能解决方案需求，以弥补太阳能和风能的间歇性问题。",
+    "url": "https://www.replasinfo.com/2025/08/insights/【德国亚琛】voltfang启用欧洲最大的翻新电池工厂/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy solutions with storage & trading | Reduce ... - Voltfang — Reduce your operating costs immediately: Start clear energy solutions with battery storage & trading. From planning to grid connection, everything from a single source. Maximize yields now!\"",
+    "url": "https://voltfang.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The company Voltfang | About us — Voltfang is a system integrator for battery energy storage systems (BESS). We plan, implement, and support energy systems holistically—from the initial analysis and planning through storage and energy management to energy trading, operation, optimization, and financing.",
+    "url": "https://voltfang.de/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang - LinkedIn — Voltfang | 13,681 followers on LinkedIn. Every day, we build, connect and operate battery solutions to make renewables reliable and affordable. | We requalify electrical vehicle batteries after ...",
+    "url": "https://www.linkedin.com/company/voltfang",
+    "pass": 3
+   },
+   {
+    "quote": "Why Is Voltfang Betting on EV Batteries for Grid Storage — Jun 28, 2026 · Voltfang transforms used EV batteries into commercial and grid-scale storage. Learn how this Aachen startup is scaling to 1 GWh capacity by 2030.",
+    "url": "https://battery-tech.net/why-is-voltfang-betting-on-second-life-ev-batteries-for-grid-storage/",
+    "pass": 3
+   },
+   {
+    "quote": "Insights into case studies: How companies benefit from Voltfang — Our case studies show in a practical way how companies from industry, trade and logistics use Voltfang battery storage systems. You will receive detailed analyses of load profiles, concrete results on cost savings and in-depth insights into the technologies used. Discover how customized solutions can increase energy efficiency and s",
+    "url": "https://voltfang.de/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Voltfang enhances energy storage monitoring with ... — Voltfang collects data from 6 BMSs with Lemberg Solutions Voltfang, a German company providing sustainable energy storage solutions using second-life batteries, needed to optimize performance and introduce real-time monitoring for their systems. They partnered with Lemberg Solutions to develop an IoT telemetry solution for efficien",
+    "url": "https://www.casestudies.com/company/lemberg-solutions/case-study/voltfang-collects-data-from-6-bmss-with-lemberg-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Energy solutions with storage & trading | Reduce ... - Voltfang — Kemapack GmbH uses a PV system and a Voltfang second-life storage system to efficiently supply packaging machines and charging points with green electricity. This reduces energy costs and increases independence from the grid.",
+    "url": "https://voltfang.de/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang: Circular Economy Leading the Energy Transition: A ... — Cedric Haubennestel, Julie Vandegaar, and Alexander Vorndran Abstract This article discusses the role of Voltfang, a company pioneering the cir-cular economy by repurposing electric vehicle (EV) batteries for stationary energy storage systems. It highlights the environmental and economic challenges associ-ated with EV battery dispos",
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-032-13293-2_16.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Enhancing Voltfang's energy storage systems with an IoT ... — Learn how Lemberg Solutions developed an IoT solution for Voltfang’s energy storage systems using Infineon XMC4700, a robust automotive-grade microcontroller.",
+    "url": "https://lembergsolutions.com/case-study/enhancing-voltfangs-energy-storage-systems-iot-telemetry-solution",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang - 2026 Company Profile, Team, Funding, Competitors ...Voltfang – Industry Ranking & Company Valuation – 2026Voltfang 2026 Company Profile: Valuation, Funding & Investors ...Voltfang: Funding, Team & Investors | Startup IntrosVoltfang — Company Profile, Funding & InvestorsVoltfang: Funding, Investors & Team (Oct 2026) | FundedIQVoltfang — venture-backed company profile | Dealroom — Feb 9, ",
+    "url": "https://tracxn.com/d/companies/voltfang/__-UQY5f-Xj-fiiRg1IJh97BeZVTc_oWC4SO2Lfv9VXVk",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang – Industry Ranking & Company Valuation – 2026 — About This Data Revenue, valuation, and funding figures for Voltfang are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods. Employee counts are derived from professional networks and company disclosures. Data Accuracy: While we ",
+    "url": "https://compworth.com/company/voltfang",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang 2026 Company Profile: Valuation, Funding & Investors ...Voltfang: Funding, Team & Investors | Startup IntrosVoltfang — Company Profile, Funding & InvestorsVoltfang: Funding, Investors & Team (Oct 2026) | FundedIQVoltfang — venture-backed company profile | Dealroom — Voltfang is a Private company. What is Voltfang’s current revenue? The current revenue for Voltfang is . How much funding ha",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Through their Venma energy management system, Voltfang also provides intelligent control to optimize energy use and efficiency for businesses. The company was founded in 2020 by Afshin Doostdar, Roman Alberti, and David Oudsandji.",
+    "url": "https://startupintros.com/orgs/voltfang",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang — Company Profile, Funding & Investors — Voltfang company profile with $27.4M raised across 7 funding rounds, HQ in Aachen, Germany, founded 2021. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/voltfang-1176665",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang has 101 total employees.",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "What is Voltfang’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Voltfang is",
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "pass": 3
+   },
+   {
+    "quote": ": Deep learning algorithms predict module lifespans; 24/7 cell-level oversight optimizes energy flow, ensures security, and guarantees full capacity via 10-year unlimited-cycle warranty with free replacements.[2][3][5]",
+    "url": "https://startupintros.com/orgs/voltfang",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#Voltfang\" - Results on X | Live Posts & Updates Results for \"#Voltfang\" on X (Twitter). Find the latest posts, discussions, and updates about #Voltfang. 8 results found.",
+    "url": "https://x.com/hashtag/Voltfang",
+    "pass": 3
+   },
+   {
+    "quote": "EEPower (@EEPwr) / X Toyota, Mazda, and Voltfang are developing energy storage technologies with used electric vehicle batteries.",
+    "url": "https://x.com/eepwr",
+    "pass": 3
+   },
+   {
+    "quote": "@voltfang1 | X The latest posts from @voltfang1",
+    "url": "https://x.com/voltfang1",
+    "pass": 3
+   },
+   {
+    "quote": "Volt fang on X: \"Yeah so I cook and stuff sometimes\" / X Sep 15, 2026 · Yeah so I cook and stuff sometimes Continue with phone Continue with Apple Continue with Google",
+    "url": "https://x.com/voltwolp/status/2099915870046720317",
+    "pass": 3
+   },
+   {
+    "quote": "Volt fang on X: \"Wait a second….\" / X Apr 22, 2026 · Wait a second…. It’s not easy being a fat chud 😔",
+    "url": "https://x.com/voltwolp/status/2046754493644059078",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Voltfang | Aachen - FacebookWeekly Tip | Voltfang’s Special Skill ... - FacebookVoltfang wird 5 Jahre. Wenn aus einer fixen Idee plötzlich ...Palmon: - Weekly Tip | Voltfang’s Special ... - Facebook„Energiespeicherung ist keine Option, sie ist essenziell.“ ...Voltfang schließt die Finanzierungsrunde ab und möchte ...Second-Life für Batterien: Wie Voltfang die Energiewende ... Sep 10, 2026 · Voltfa",
+    "url": "https://www.facebook.com/Voltfang/",
+    "pass": 3
+   },
+   {
+    "quote": "Weekly Tip | Voltfang’s Special Skill ... - Facebook Jul 18, 2026 · Weekly Tip | Voltfang’s Special Skill Upon entering battle, Voltfang’s Moonburst Claw deals damage to all enemies based on a percentage of their current HP—the more HP they have, the more damage it...",
+    "url": "https://www.facebook.com/PalmonSurvival/posts/-weekly-tip-voltfangs-special-skillupon-entering-battle-voltfangs-moonburst-claw/122207389352516338/",
+    "pass": 3
+   },
+   {
+    "quote": "Voltfang wird 5 Jahre. Wenn aus einer fixen Idee plötzlich ... Voltfang wird 5 Jahre. Wenn aus einer fixen Idee plötzlich Realität wird. Wenn man nicht mehr nur darüber nachdenkt, wie die Welt besser werden könnte – sondern beginnt, sie aktiv mitzugestalten....",
+    "url": "https://www.facebook.com/Voltfang/videos/voltfang-wird-5-jahrewenn-aus-einer-fixen-idee-plötzlich-realität-wird-wenn-man-/1192836679144371/",
+    "pass": 3
+   },
+   {
+    "quote": "Palmon: - Weekly Tip | Voltfang’s Special ... - Facebook Jul 18, 2026 · Weekly Tip | Voltfang’s Special Skill Upon entering battle, Voltfang’s Moonburst Claw deals damage to all enemies based on a percentage of their...",
+    "url": "https://www.facebook.com/PalmonSurvival/photos/-weekly-tip-voltfangs-special-skillupon-entering-battle-voltfangs-moonburst-claw/122207389340516338/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voltfang.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voltfang.de/partnerportal/login/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://deeptech.nextblue.com/startups/voltfang",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/why-voltfang-betting-second-life-ev-batteries-grid-julian-renpenning-hvvle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aenu.com/insights/why-we-invested-in-voltfang/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replasinfo.com/2025/08/insights/%E3%80%90%E5%BE%B7%E5%9B%BD%E4%BA%9A%E7%90%9B%E3%80%91voltfang%E5%90%AF%E7%94%A8%E6%AC%A7%E6%B4%B2%E6%9C%80%E5%A4%A7%E7%9A%84%E7%BF%BB%E6%96%B0%E7%94%B5%E6%B1%A0%E5%B7%A5%E5%8E%82/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voltaiyo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/why-voltfang-betting-second-life-ev-batteries-grid-julian-renpenning-hvvle",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://deeptech.nextblue.com/startups/voltfang",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/voltfang",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/lemberg-solutions/case-study/voltfang-collects-data-from-6-bmss-with-lemberg-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/content/pdf/10.1007/978-3-032-13293-2_16.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.extremenetworks.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/voltfang/__-UQY5f-Xj-fiiRg1IJh97BeZVTc_oWC4SO2Lfv9VXVk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/voltfang",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/494769-97",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/voltfang",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/Voltfang",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/eepwr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Voltfang/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PalmonSurvival/posts/-weekly-tip-voltfangs-special-skillupon-entering-battle-voltfangs-moonburst-claw/122207389352516338/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Voltfang/videos/voltfang-wird-5-jahrewenn-aus-einer-fixen-idee-plötzlich-realität-wird-wenn-man-/1192836679144371/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PalmonSurvival/photos/-weekly-tip-voltfangs-special-skillupon-entering-battle-voltfangs-moonburst-claw/122207389340516338/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/voltfang1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/Voltfang",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/voltwolp/status/2099915870046720317",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/voltwolp/status/2046754493644059078",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Voltfang 日本 導入",
+   "results": [
+    "https://deeptech.nextblue.com/startups/voltfang",
+    "https://www.linkedin.com/pulse/why-voltfang-betting-second-life-ev-batteries-grid-julian-renpenning-hvvle",
+    "https://www.aenu.com/insights/why-we-invested-in-voltfang/",
+    "https://www.replasinfo.com/2025/08/insights/【德国亚琛】voltfang启用欧洲最大的翻新电池工厂/",
+    "https://voltfang.de/en/",
+    "https://www.phoenixcontact.com/ja-jp/company/all-electric-society/voltfang-application-example",
+    "https://prtimes.jp/main/html/rd/p/000000019.000055167.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voltfang 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://voltaiyo.com/",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://voltfang.de/en/",
+    "https://www.houjin.info/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voltfang Japan",
+   "results": [
+    "https://voltfang.de/en/about-us/",
+    "https://www.linkedin.com/pulse/why-voltfang-betting-second-life-ev-batteries-grid-julian-renpenning-hvvle",
+    "https://deeptech.nextblue.com/startups/voltfang",
+    "https://www.linkedin.com/company/voltfang",
+    "https://battery-tech.net/why-is-voltfang-betting-on-second-life-ev-batteries-for-grid-storage/",
+    "https://voltfang.de/en/",
+    "https://eepower.com/news/new-life-for-old-batteries-ev-power-becomes-energy-storage/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voltfang manufacturing customer case study",
+   "results": [
+    "https://voltfang.de/en/case-studies/",
+    "https://www.casestudies.com/company/lemberg-solutions/case-study/voltfang-collects-data-from-6-bmss-with-lemberg-solutions",
+    "https://voltfang.de/en/",
+    "https://link.springer.com/content/pdf/10.1007/978-3-032-13293-2_16.pdf",
+    "https://lembergsolutions.com/case-study/enhancing-voltfangs-energy-storage-systems-iot-telemetry-solution",
+    "https://www.veeam.com/resources/customer-stories.html",
+    "https://www.phoenixcontact.com/en-de/company/all-electric-society/voltfang-application-example"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voltfang white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.extremenetworks.com/partners",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voltfang founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/voltfang/__-UQY5f-Xj-fiiRg1IJh97BeZVTc_oWC4SO2Lfv9VXVk",
+    "https://compworth.com/company/voltfang",
+    "https://pitchbook.com/profiles/company/494769-97",
+    "https://startupintros.com/orgs/voltfang",
+    "https://acquirezy.com/organization/voltfang-1176665",
+    "https://fundediq.co/voltfang-voltfang-de-funding/",
+    "https://dealroom.co/companies/voltfang/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Voltfang",
+   "results": [
+    "https://note.com/beloved_tomoka",
+    "https://note.com/beloved_tomoka/all",
+    "https://note.com/kogolab",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/momiji_man_10/n/n62ea2d9a9a9a",
+    "https://note.com/suits_ceo/n/nb0b8f737e821",
+    "https://note.com/bellem/n/ne002e05f8e35"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Voltfang",
+   "results": [
+    "https://x.com/hashtag/Voltfang",
+    "https://x.com/",
+    "https://x.com/VoltFang10/status/2103521362061271505",
+    "https://x.com/eepwr",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/jennmckay007/status/2115109181711908916",
+    "https://x.com/youdoingtoomuch/status/2114185237387456512"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Voltfang",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Voltfang",
+   "results": [
+    "https://www.facebook.com/Voltfang/",
+    "https://www.facebook.com/PalmonSurvival/posts/-weekly-tip-voltfangs-special-skillupon-entering-battle-voltfangs-moonburst-claw/122207389352516338/",
+    "https://www.facebook.com/Voltfang/videos/voltfang-wird-5-jahrewenn-aus-einer-fixen-idee-plötzlich-realität-wird-wenn-man-/1192836679144371/",
+    "https://www.facebook.com/PalmonSurvival/photos/-weekly-tip-voltfangs-special-skillupon-entering-battle-voltfangs-moonburst-claw/122207389340516338/",
+    "https://www.facebook.com/Voltfang/videos/-voltfang-schließt-die-finanzierungsrunde-ab-und-möchte-damit-kmus-vor-steigende/1575679869457495/",
+    "https://www.facebook.com/VereinDeutscherIngenieure/videos/-second-life-für-batterien-wie-voltfang-die-energiewende-neu-denkt-was-passiert-/547627968382618/",
+    "https://www.facebook.com/ONI.Waermetrafo.GmbH/videos/energiespeicherung-ist-keine-option-sie-ist-essenziell-voltfang-ist-als-mitausst/810774804707230/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voltfang note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://voltfang.de/en/company/press/06-05-voltfang-secures-top-executives-for-growth-and-global-expansion/",
+    "https://rocketreach.co/voltfang-management_b7c54927c18c77e5",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.listennotes.com/podcasts/startupradiotm/voltfang-second-life-ev-sjgt9lT7qwk/",
+    "https://fundediq.co/voltfang-voltfang-de-funding/",
+    "https://voltfang.de/en/",
+    "https://startupintros.com/orgs/voltfang",
+    "https://voltfang.de/en/about-us/press/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Voltfang X 投稿",
+   "results": [
+    "https://x.com/voltfang1",
+    "https://x.com/hashtag/Voltfang",
+    "https://x.com/voltwolp/status/2099915870046720317",
+    "https://x.com/voltwolp/status/2046754493644059078",
+    "https://x.com/voltwolp/status/2099121611269939211",
+    "https://x.com/voltwolp/status/2099121498174718383",
+    "https://x.com/voltwolp/status/2078116665296916728"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

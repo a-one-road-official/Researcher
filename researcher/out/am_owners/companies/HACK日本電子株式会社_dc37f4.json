@@ -1,0 +1,465 @@
+{
+ "name": "HACK日本電子株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=日本電子 出典=https://www.yrl.com/fwp/casestudy/detail_23/",
+ "researched_at": "2026-11-10T22:57:08.367409+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.jeol.co.jp/corporate/outline/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jip.co.jp/corporate/outline/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jem-net.co.jp/profile/outline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/column/detail001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/equipment/other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/ir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/holder?code=6951",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://irbank.net/E01905/holder",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jeol.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp1014/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jip.co.jp/corporate/outline/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "HACK日本電子",
+   "results": [
+    "https://www.jeol.co.jp/",
+    "https://www.facebook.com/jeol.jp/?locale=ja_JP",
+    "https://www.youtube.com/watch?v=N-gh21aES_E",
+    "https://x.com/JEOL_Japan",
+    "https://www.youtube.com/user/JEOLG",
+    "https://www.zdh.co.jp/customer/jeol/",
+    "https://www.linkedin.com/company/jeol-ltd-ja",
+    "https://www.youtube.com/watch?v=Iiuo3R5G1W4",
+    "http://jvia.gr.jp/wordpress/wp-content/uploads/2014/11/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.pdf",
+    "https://ja.wikipedia.org/wiki/日本電子"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "株式会社HACK日本電子",
+   "results": [
+    "https://www.jeol.co.jp/",
+    "https://x.com/JEOL_Japan",
+    "https://www.facebook.com/jeol.jp/?locale=ja_JP",
+    "https://www.youtube.com/watch?v=RqlKU-l81VY",
+    "https://hack-co.com/",
+    "https://www.zdh.co.jp/customer/jeol/",
+    "https://www.linkedin.com/company/jeol-ltd-ja",
+    "https://www.seaj.or.jp/semi/recruit/working-life/05.html",
+    "https://job.mynavi.jp/28/pc/search/corp1014/outline.html",
+    "https://www.hackjapan.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HACK日本電子 株式会社",
+   "results": [
+    "https://www.jeol.co.jp/",
+    "https://www.facebook.com/jeol.jp/?locale=ja_JP",
+    "https://x.com/JEOL_Japan",
+    "https://www.youtube.com/watch?v=N-gh21aES_E",
+    "https://www.linkedin.com/company/jeol-ltd-ja",
+    "https://www.zdh.co.jp/customer/jeol/",
+    "https://job.mynavi.jp/28/pc/search/corp1014/outline.html",
+    "https://www.youtube.com/watch?v=RqlKU-l81VY",
+    "https://kitaishihon.com/company/6951/story",
+    "https://ja.wikipedia.org/wiki/日本電子"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ＨＡＣＫ日本電子",
+   "results": [
+    "https://www.jeol.co.jp/",
+    "https://www.facebook.com/jeol.jp/?locale=ja_JP",
+    "https://www.youtube.com/watch?v=N-gh21aES_E",
+    "https://x.com/JEOL_Japan",
+    "https://www.youtube.com/user/JEOLG",
+    "https://www.zdh.co.jp/customer/jeol/",
+    "https://www.linkedin.com/company/jeol-ltd-ja",
+    "https://www.youtube.com/watch?v=Iiuo3R5G1W4",
+    "http://jvia.gr.jp/wordpress/wp-content/uploads/2014/11/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.pdf",
+    "https://ja.wikipedia.org/wiki/日本電子"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HACK日本電子 Japan",
+   "results": [
+    "https://www.jeol.co.jp/",
+    "https://www.facebook.com/jeol.jp/?locale=ja_JP",
+    "https://x.com/JEOL_Japan",
+    "https://en.wikipedia.org/wiki/JEOL",
+    "https://www.jeol.co.jp/corporate/outline/about.html",
+    "https://www.linkedin.com/company/jeol-ltd-ja",
+    "https://www.zdh.co.jp/customer/jeol/",
+    "https://www.youtube.com/user/JEOLG",
+    "https://digital-business.exa-corp.co.jp/cases/pim-jeol.html",
+    "https://www.hackjapan.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HACK日本電子 日本",
+   "results": [
+    "https://www.jeol.co.jp/",
+    "https://www.facebook.com/jeol.jp/?locale=ja_JP",
+    "https://x.com/JEOL_Japan",
+    "https://www.youtube.com/watch?v=N-gh21aES_E",
+    "https://www.zdh.co.jp/customer/jeol/",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "https://www.youtube.com/watch?v=Iiuo3R5G1W4",
+    "https://www.linkedin.com/posts/jeol-ltd_%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-solutions-for-innovation-activity-7122024416904966144-FfSh",
+    "https://digital-business.exa-corp.co.jp/cases/pim-jeol.html",
+    "https://ja.wikipedia.org/wiki/日本電子"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HACK日本電子 K.K.",
+   "results": [
+    "https://www.jeol.co.jp/",
+    "https://www.facebook.com/jeol.jp/?locale=ja_JP",
+    "https://x.com/JEOL_Japan",
+    "https://www.linkedin.com/company/jeol-ltd-ja",
+    "https://www.youtube.com/watch?v=N-gh21aES_E",
+    "https://en.wikipedia.org/wiki/JEOL",
+    "https://kitaishihon.com/company/6951/story",
+    "https://www.zdh.co.jp/customer/jeol/",
+    "https://strainer.jp/companies/JP-6951/history",
+    "https://www.info-clipper.com/en/company/japan/hack-kk.jpdb908uk.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HACK日本電子 会社概要 資本金 設立",
+   "results": [
+    "https://www.jeol.co.jp/corporate/outline/about.html",
+    "https://www.jip.co.jp/corporate/outline/",
+    "https://www.jem-net.co.jp/profile/outline",
+    "https://kitaishihon.com/company/6951/story",
+    "https://job.mynavi.jp/28/pc/search/corp1014/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6951",
+    "https://and-pro.jp/company-info-11265/",
+    "https://www.taxan.co.jp/jp/company/outline.php",
+    "https://strainer.jp/companies/JP-6951/history",
+    "https://alarmbox.jp/companyinfo/entities/8122001031112"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HACK日本電子 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "https://www.youtube.com/watch?v=3tTh80fOumA",
+    "https://www.jeol.co.jp/products/science/3d.html",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/3djam-5200ebm-210531/",
+    "https://www.manufacturing-world.jp/tokyo/ja-jp/search/2026mto0701/directory/directory-details.%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-02ea70a7-5f8b-4a61-92a5-91f6f5f1f1f7.html",
+    "http://3d.kinzoku-kakou-odec.com/column/column-832/",
+    "https://www.jeol.co.jp/products/technology_cases/story/07.html",
+    "https://www.jeol.co.jp/products/technology_cases/cases/am_01.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HACK日本電子 金属積層造形 設備",
+   "results": [
+    "https://www.jeol.co.jp/products/industrial/am/JAM-5200EBM.html",
+    "https://jampt.jp/equipment/other/",
+    "https://webmagazine.nedo.go.jp/practical-realization/articles/202101jeol/",
+    "https://www.nims.go.jp/cccenter/ismg/equipments.html",
+    "https://www.youtube.com/watch?v=3tTh80fOumA",
+    "http://3d.kinzoku-kakou-odec.com/column/column-832/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/3djam-5200ebm-210531/",
+    "https://www.nikkei.com/article/DGKKZO91789550X01C25A0L01000/",
+    "https://www.mit.pref.miyagi.jp/services/voice/jampt_interview/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HACK日本電子 株主 出資 親会社",
+   "results": [
+    "https://www.jeol.co.jp/ir/",
+    "https://kabutan.jp/stock/holder?code=6951",
+    "https://irbank.net/E01905/holder",
+    "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90",
+    "https://kitaishihon.com/company/6951/board-of-director",
+    "https://www.buffett-code.com/company/6951/mainshareholder",
+    "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20250515/20250514552361.pdf",
+    "https://www.cmp.co.jp/ir/news/ir_news/20181031.html",
+    "https://www.tsuruha-hd.co.jp/ir/integration/",
+    "https://irbank.net/E01905/ac"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "HACK日本電子 売上高 従業員数",
+   "results": [
+    "https://www.jeol.co.jp/corporate/",
+    "https://job.mynavi.jp/28/pc/search/corp1014/outline.html",
+    "https://www.jip.co.jp/corporate/outline/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=6951",
+    "https://www.bizreach.jp/companies/10941/",
+    "https://go.jikiden.jp/app/webroot/files/doc/3402_1196.pdf",
+    "https://www.onecareer.jp/companies/6501",
+    "https://www.jeol.co.jp/corporate/outline/about.html",
+    "https://j-lic.com/companies/6951/employee-and-salary",
+    "https://kaisharirekisho.com/companies/6951/employees/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com HACK日本電子",
+   "results": [
+    "https://note.com/nikkei_staff/m/m3f19ed06244b/hashtag",
+    "https://note.com/nikkei_staff/m/m3f19ed06244b/archive/2018-11",
+    "https://note.com/xhack",
+    "https://note.com/nikkei_staff/m/m3f19ed06244b",
+    "https://note.com/darkpedia/n/nae3a51b9d7f2",
+    "https://note.com/fic2021/n/n3083e9ee2f23",
+    "https://note.com/taichi_endoh/n/n19afa0b72982",
+    "https://note.com/darkpedia/n/n73aea894fc5e",
+    "https://note.com/ryonakano/n/nd8176238f1f6",
+    "https://note.com/domonjo01/n/nc0997ab96e12"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com HACK日本電子",
+   "results": [
+    "https://x.com/dahatake/status/1790609496768925758?lang=ar",
+    "https://x.com/nikkei/status/1886399332762488989",
+    "https://x.com/jec_cc1995",
+    "https://x.com/Kinsel01/status/2117743307044556880",
+    "https://x.com/EconomistWeekly/status/1895389873005326787",
+    "https://x.com/JPHACKS_PR/status/2115334613979845100",
+    "https://x.com/famitsu/status/1777667851450720507",
+    "https://x.com/nikkei_recruit/status/2057714840584794447",
+    "https://x.com/famitsu/status/1674696824765190146",
+    "https://x.com/jeol_japan"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com HACK日本電子",
+   "results": [
+    "https://jp.linkedin.com/in/matvey-matvienko-2b022b228",
+    "https://www.linkedin.com/in/charlene-shelton-20",
+    "https://www.linkedin.com/in/hussein-elsebaei-6b04b2225",
+    "https://jp.linkedin.com/in/yunolay/en",
+    "https://jp.linkedin.com/in/yota-imai",
+    "https://www.linkedin.com/company/growthhackyourcareer",
+    "https://jp.linkedin.com/in/yunolay",
+    "https://in.linkedin.com/company/excel-daily-hack",
+    "https://jp.linkedin.com/in/umiwatarin"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com HACK日本電子",
+   "results": [
+    "https://www.facebook.com/hacknaokanji/posts/thi%E1%BA%BFt-b%E1%BB%8B-v%C3%A0-d%E1%BB%A5ng-c%E1%BB%A5-%C4%91i%E1%BB%87n-t%E1%BB%AD-%E9%9B%BB%E5%AD%90%E6%A9%9F%E5%99%A8%E5%B7%A5%E5%85%B711-%E9%9B%BB%E5%AD%90%E6%A9%9F%E5%99%A8%E3%81%A7%E3%82%93%E3%81%97%E3%81%8D%E3%81%8D-thi%E1%BA%BFt-b%E1%BB%8B-%C4%91i%E1%BB%87n-t%E1%BB%AD12-%E9%9B%BB%E6%BA%90%E3%81%A7%E3%82%93%E3%81%92%E3%82%93-ngu%E1%BB%93n-%C4%91/1621250930016389/",
+    "https://www.facebook.com/hackosaka/posts/day212051255here-are-the-profiles-of-the-speakers-for-each-session-of-hack-osaka/756832006488651/",
+    "https://www.facebook.com/OtagoSciences/posts/-tautoko-dr-jervee-m-punzalan-who-recently-completed-her-phd-and-has-been-awarde/1695782939224697/",
+    "https://www.facebook.com/MeijiU.LIBERTY.ACADEMY/posts/%E7%89%B9%E5%88%A5%E4%BC%81%E7%94%BB%E7%84%A1%E6%96%99%E5%85%AC%E9%96%8B%E8%AC%9B%E5%BA%A7%E7%81%BD%E7%A6%8D%E3%81%AF%E5%A4%89%E9%9D%A9%E3%81%AE%E6%BA%90-%E6%98%8E%E6%B2%BB%E5%A4%A7%E5%AD%A6%E9%80%A3%E5%90%88%E9%A7%BF%E5%8F%B0%E4%BC%9A%E5%AF%84%E4%BB%98%E8%AC%9B%E5%BA%A7%E4%B8%96%E7%95%8C%E3%83%88%E3%83%83%E3%83%97%E3%82%B7%E3%82%A7%E3%82%A2%E3%81%AE%E9%9B%BB%E5%AD%90%E9%A1%95%E5%BE%AE%E9%8F%A1%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E3%81%9D%E3%81%AE%E5%86%8D%E6%88%90%E9%95%B7%E3%81%AE%E5%8E%9F%E5%8B%95%E5%8A%9B%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8C%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF%E7%9B%B4%E5%89%8D%E3%81%AE%E7%A4%BE/1603489398381392/",
+    "https://www.facebook.com/gameseisaku/videos/tgs2023-%E6%9C%AC%E6%97%A5920%E3%81%AF%E6%9D%B1%E4%BA%AC%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%A7%E3%82%A62023%E3%83%96%E3%83%BC%E3%82%B9%E8%A8%AD%E5%96%B6%E3%82%92%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99-%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E5%B0%82%E9%96%80%E5%AD%A6%E6%A0%A1%E3%81%AE%E5%AD%A6%E7%94%9F%E3%82%82%E6%BA%96%E5%82%99%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99-%E9%A0%91%E5%BC%B5%E3%82%8A%E3%81%BE%E3%81%99%EF%B8%8F/696817838545061/",
+    "https://www.facebook.com/gameseisaku/videos/tgs2024-%E6%9C%AC%E5%B9%B42024%E5%B9%B49%E6%9C%8826%E6%97%A5%E3%81%8B%E3%82%8929%E6%97%A5%E3%81%BE%E3%81%A7%E5%B9%95%E5%BC%B5%E3%83%A1%E3%83%83%E3%82%BB%E3%81%AB%E3%81%A6tokyo-game-show-2024%E3%81%8C%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99-%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E9%96%80%E5%AD%A6%E6%A0%A1%E3%81%AF%E4%BB%8A%E5%B9%B4%E3%82%82%E5%87%BA%E5%B1%95%E3%82%92%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE/1035577931196832/",
+    "https://www.facebook.com/gameseisaku/videos/tgs2025-%E7%8F%BE%E5%9C%A8aimracing2025%E3%82%82%E5%90%AB%E3%82%81%E3%81%A6%E6%B2%A2%E5%B1%B1%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%92%E9%96%8B%E7%99%BA%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99-%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%AE%9F%E9%A8%93%E7%9A%84%E3%81%AA%E4%BD%9C%E5%93%81%E3%82%B0%E3%83%BC%E3%83%8B%E3%83%A3%E3%83%B3%E3%81%AE%E5%88%B6%E4%BD%9C%E9%80%94%E4%B8%AD%E3%81%AE%E6%98%A0%E5%83%8F%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B-%E3%82%B2%E3%83%BC%E3%83%A0%E5%88%B6%E4%BD%9C/1362392718692878/",
+    "https://www.facebook.com/fb.ro.seculab/posts/%E7%B1%B3%E9%80%A3%E9%82%A6%E9%81%B8%E6%8C%99%E5%A7%94%E5%93%A1%E4%BC%9Afec%E3%81%AB%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%AE%E8%A9%A6%E3%81%BF%E6%94%BF%E6%B2%BB%E8%B3%87%E9%87%91%E3%81%AE%E9%9B%BB%E5%AD%90%E7%94%B3%E5%91%8A%E3%81%8C%E5%81%9C%E6%AD%A2-%E4%B8%AD%E9%96%93%E9%81%B8%E6%8C%99%E7%9B%B4%E5%89%8D%E3%81%AE%E9%9A%9C%E5%AE%B310%E6%9C%8829%E6%97%A5%E3%81%AB%E5%88%A9%E7%94%A8%E5%86%8D%E9%96%8B-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%AF%BE%E7%AD%96lab-security-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86/122213888246753697/",
+    "https://www.facebook.com/UN.Japan/videos/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%83%8F%E3%83%8E%E3%82%A4%E3%81%A7%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E7%8A%AF%E7%BD%AA%E5%AF%BE%E7%AD%96%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%A8%E3%81%97%E3%81%9F%E5%9B%BD%E9%80%A3%E6%9D%A1%E7%B4%84%E3%81%AE%E7%BD%B2%E5%90%8D%E5%BC%8F%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93%E3%81%AE%E6%9D%A1%E7%B4%84%E3%81%AF%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E5%9B%BA%E6%9C%89%E7%8A%AF%E7%BD%AA%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%E6%94%BB%E6%92%83%E3%82%84%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E6%94%BB%E6%92%83%E3%81%AA%E3%81%A9%E7%8A%AF%E7%BD%AA%E3%81%AE%E5%AE%9F%E8%A1%8C%E3%81%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC/1740646893314848/",
+    "https://www.facebook.com/jeol.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "HACK日本電子 note 社長",
+   "results": [
+    "https://note.com/xhack",
+    "https://japan.cnet.com/article/35121086/",
+    "https://www.jepa.or.jp/sem/20260225/",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://www.techpolicy.press/kenji-yoshino/",
+    "https://kitaishihon.com/company/6951/board-of-director",
+    "https://the-shashi.com/tse/6951/ceo/",
+    "https://www.bizreach.jp/column/strategy-40/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "HACK日本電子 X 投稿",
+   "results": [
+    "https://x.com/JEOL_Japan",
+    "https://www.facebook.com/jeol.jp/videos/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9jaenstack-pressure-holder-for-battery-sem%E9%9B%BB%E6%B1%A0%E7%94%A8sem%E6%8B%98%E6%9D%9F%E5%9C%A7%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%81%8C-microscopy-today/778428698691625/",
+    "https://www.jeol.co.jp/",
+    "https://note.com/xhack",
+    "https://post.lurk.org/tags/hack",
+    "https://www.theguardian.com/technology/blog/2010/sep/21/twitter-hack-explained-xss-javascript",
+    "https://www.x-hack.jp/",
+    "https://www.japanpost.jp/news/notice-impersonate/",
+    "https://en.wikipedia.org/wiki/2020_Twitter_account_hijacking",
+    "https://x.com/cnet_japan/status/2038507026851213354"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "金属AM装置の保有（型番・製造元・台数・導入年）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "用途・客の産業": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）",
+  "資本金・株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索18回）"
+ }
+}

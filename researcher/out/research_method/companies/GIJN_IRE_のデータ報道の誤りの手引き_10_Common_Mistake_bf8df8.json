@@ -8,9 +8,41 @@
  ],
  "context": "数字の点検",
  "kind": "market",
- "researched_at": "2026-11-09T09:20:06.279838+00:00",
+ "researched_at": "2026-11-10T22:59:26.968960+00:00",
  "evidence": {
+  "手順・やり方": [
+   {
+    "quote": ", who teaches data visualization and research methods at the University of California, Berkeley’s Graduate School of Journalism, and",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Use a simple method to calculate “one out of” risk probabilities.",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
   "失敗・落とし穴": [
+   {
+    "quote": "Notorious mistakes that investigative reporters make with numbers include trying to calculate percentages by adding or subtracting from other percentage values. (A drop in successful prosecutions from 12% to 7%, for example, is",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "10 Common Mistakes in Data Journalism",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Cohen compares this common newsroom mistake to “overcooking a vegetable medley,” and writes: “Sometimes, reporters take a bunch of percent changes, say, in a budget, and compute an average for the “average percent change.” This treats the 140% increase in a new, small department the same as the 2% increase for education.”",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
    {
     "quote": "Lessons Learned: 10 Common Mistakes in Data Journalism – Global Investigative Journalism Network",
     "url": "https://gijn.org/stories/10-common-mistakes-data-journalism/",
@@ -35,13 +67,46 @@
     "pass": 3,
     "first_seen": "2026-11-09"
    }
+  ],
+  "実例": [
+   {
+    "quote": "Notorious mistakes that investigative reporters make with numbers include trying to calculate percentages by adding or subtracting from other percentage values. (A drop in successful prosecutions from 12% to 7%, for example, is",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Experts note that numbers in the billions are used so commonly in the media that both reporters and readers can lose the sense of how vast these figures are. Some perspective: one million seconds represent just 11 days, but one billion seconds equals almost 32 years. It is also surprisingly easy to confuse millions and billions in financial statements. Dowdell cited a recent case in which",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "In a fun case from 2021, National Public Radio",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": ", plus the New Year’s Day suicide bombing incident in Las Vegas, and also underestimated the number of controversial vehicles sold.)",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/u_sn_notes/n/n46a764b32de4",
+    "url": "https://note.com/black_velocity/n/n34fff68e5e3a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/koho_youchisha/n/n1744e822faed",
     "status": "ok",
     "method": "http"
    },
@@ -56,17 +121,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/black_velocity/n/n34fff68e5e3a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/koho_youchisha/n/n1744e822faed",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/large_iris4216/n/n72a8cc3f7e6a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yaoyoroztech/n/n16baa00dcd18",
     "status": "ok",
     "method": "http"
    },
@@ -76,19 +136,19 @@
     "method": "http"
    },
    {
-    "url": "https://gijn.org/academy/6-tips-reporting-leaks/",
+    "url": "https://gijn.org/resource/guide/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://gijn.org/topic/research/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.jiyujyutaku-navi.com/en-us/column/tag/report",
+    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
+   },
+   {
+    "url": "https://slownews.com/n/ne04e905d070c?gs=6dad15b108dcd3fc990901094122ffc3",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://researchmap.jp/blogs/blog_entries/view/76494/887bcb2fb48952f9a69e42df5e3e5f13?frame_id=706711",
@@ -96,17 +156,12 @@
     "method": "browser"
    },
    {
-    "url": "https://note.com/kazukio/n/nd4f0e127fd31",
+    "url": "https://note.com/kazukio/n/n2fccd4795353",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://gijn.org/ja/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC%E3%81%AA%E3%81%97/%E4%B8%96%E7%95%8C%E8%AA%BF%E6%9F%BB%E5%A0%B1%E9%81%93%E5%A4%A7%E4%BC%9A%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%99-%E5%85%88%E8%A1%8C%E5%91%8A%E7%9F%A5/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://gijn.org/academy/data-journalism-basics-practical-guide/",
     "status": "http_403",
     "method": "http"
    },
@@ -131,12 +186,17 @@
     "method": "http"
    },
    {
+    "url": "http://jcej.info/lib/?doc=handbook",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://gijn.org/ja/%E5%A0%B1%E5%91%8A/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://slownews.com/n/ne04e905d070c?gs=5a8e3b17d7a76c2ccf0bb2ebd683708f",
+    "url": "http://www.asahi.com/miraimedia/dj/case/",
     "status": "ok",
     "method": "http"
    },
@@ -146,9 +206,14 @@
     "method": "browser"
    },
    {
-    "url": "http://www.asahi.com/miraimedia/dj/case/",
+    "url": "https://researchmap.jp/read0133965/others/29600988",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000867454.pdf",
+    "status": "ok",
+    "method": "pdf"
    },
    {
     "url": "https://www.nhk.or.jp/bunken/d/research/domestic/BUNA0000010710090002/",
@@ -156,14 +221,9 @@
     "method": "http"
    },
    {
-    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20190914-00000107-kyodonews-soci&lang=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://gijn.org/stories/10-common-mistakes-data-journalism/",
-    "status": "ok",
-    "method": "browser"
+    "status": "http_403",
+    "method": "http"
    },
    {
     "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
@@ -176,17 +236,17 @@
     "method": ""
    },
    {
-    "url": "https://datajournalism.com/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://guides.lib.utexas.edu/c.php?g=530875&p=9581055",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://shorthand.com/the-craft/how-to-create-great-data-journalism/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://guides.lib.utexas.edu/c.php?g=530875&p=9581055",
     "status": "ok",
     "method": "http"
    }
@@ -196,16 +256,16 @@
   {
    "query": "GIJN・IRE のデータ報道の誤りの手引き（10 Common Mistakes in Data Journalism・10 Simple Data Errors That Can Ruin an Investigation・Numbers in the Newsroom・4-125） site:note.com",
    "results": [
-    "https://note.com/u_sn_notes/n/n46a764b32de4",
-    "https://note.com/seodoa_academy/n/n7d0eb393dbeb",
-    "https://note.com/kazukio/n/nf178e4d3f085",
     "https://note.com/black_velocity/n/n34fff68e5e3a",
     "https://note.com/koho_youchisha/n/n1744e822faed",
+    "https://note.com/seodoa_academy/n/n7d0eb393dbeb",
+    "https://note.com/kazukio/n/nf178e4d3f085",
     "https://note.com/large_iris4216/n/n72a8cc3f7e6a",
-    "https://note.com/kazukio/n/n2a704557e23c"
+    "https://note.com/yaoyoroztech/n/n16baa00dcd18",
+    "https://note.com/akatsuka_loveu/n/n157598f4a384"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -213,15 +273,15 @@
    "query": "GIJN・IRE のデータ報道の誤りの手引き（10 Common Mistakes in Data Journalism・10 Simple Data Errors That Can Ruin an Investigation・Numbers in the Newsroom・4-125） note",
    "results": [
     "https://gijn.org/topic/reporting-tools-tips/",
-    "https://gijn.org/academy/6-tips-reporting-leaks/",
-    "https://gijn.org/topic/research/",
-    "https://www.jiyujyutaku-navi.com/en-us/column/tag/report",
+    "https://gijn.org/resource/guide/",
+    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-35037",
+    "https://slownews.com/n/ne04e905d070c",
     "https://researchmap.jp/blogs/blog_entries/view/76494/887bcb2fb48952f9a69e42df5e3e5f13?frame_id=706711",
-    "https://note.com/kazukio/n/nd4f0e127fd31",
+    "https://note.com/kazukio/n/n2fccd4795353",
     "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
     "https://www.nhk.or.jp/bunken/d/research/domestic/BUNA0000010710090002/",
-    "https://note.com/kazukio/n/n2fccd4795353",
-    "https://gijn.org/stories/10-common-mistakes-data-journalism/"
+    "https://note.com/everprogress/n/na8acbac40fe5",
+    "https://gijn.org/"
    ],
    "engines": [
     "ddgs:bing",
@@ -233,14 +293,14 @@
    "query": "GIJN・IRE のデータ報道の誤りの手引き（10 Common Mistakes in Data Journalism・10 Simple Data Errors That Can Ruin an Investigation・Numbers in the Newsroom・4-125） やり方",
    "results": [
     "https://gijn.org/ja/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E3%83%BC%E3%81%AA%E3%81%97/%E4%B8%96%E7%95%8C%E8%AA%BF%E6%9F%BB%E5%A0%B1%E9%81%93%E5%A4%A7%E4%BC%9A%EF%BC%92%EF%BC%90%EF%BC%91%EF%BC%99-%E5%85%88%E8%A1%8C%E5%91%8A%E7%9F%A5/",
-    "https://gijn.org/academy/data-journalism-basics-practical-guide/",
-    "https://gijn.org/academy/6-tips-reporting-leaks/",
     "https://gijn.org/topic/reporting-tools-tips/",
     "https://www.iadb.org/ja/viewer/EZIDB0001607-1580678510-44",
     "https://www.stat.go.jp/info/mdm/pdf/part3.pdf",
     "https://j-forum.org/resource15-booksandfilms/",
     "https://www.tv-tokyo.co.jp/main/yoriyoi/rinri.html",
     "http://jcej.info/lib/?doc=handbook",
+    "https://www.iiss.org/ja-JP/manual-migration/online-analysis-do-not-use/commentary/",
+    "https://www.pressnet.or.jp/statement/report/",
     "https://ja.wikipedia.org/wiki/グローバル調査報道ネットワーク"
    ],
    "engines": [
@@ -255,13 +315,13 @@
     "https://gijn.org/topic/reporting-tools-tips/",
     "https://gijn.org/ja/%E5%A0%B1%E5%91%8A/",
     "https://slownews.com/n/ne04e905d070c",
-    "https://unesdoc.unesco.org/ark:/48223/pf0000391647",
     "http://www.asahi.com/miraimedia/dj/case/",
+    "https://unesdoc.unesco.org/ark:/48223/pf0000391647",
+    "https://researchmap.jp/read0133965/others/29600988",
+    "https://www.soumu.go.jp/main_content/000867454.pdf",
     "https://www.nhk.or.jp/bunken/d/research/domestic/BUNA0000010710090002/",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20190914-00000107-kyodonews-soci&lang=ja",
-    "https://www.soumu.go.jp/main_content/000945550.pdf",
-    "https://klis.tsukuba.ac.jp/current-students/pdf/thesis/2018/s1511509-20190212223451A.pdf",
-    "https://gijn.org/stories/10-common-mistakes-data-journalism/"
+    "https://cir.nii.ac.jp/crid/1390582540215364480",
+    "https://gijn.org/"
    ],
    "engines": [
     "ddgs:google",
@@ -275,28 +335,30 @@
     "https://gijn.org/stories/10-common-mistakes-data-journalism/",
     "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
     "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-journalists-often-use-standard-references-to-put-very-large-or-very-small-thing/1517388197096943/",
-    "https://datajournalism.com/",
-    "https://guides.lib.utexas.edu/c.php?g=530875&p=9581055",
+    "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
     "https://shorthand.com/the-craft/how-to-create-great-data-journalism/index.html",
+    "https://guides.lib.utexas.edu/c.php?g=530875&p=9581055",
+    "https://datajournalism.com/read/handbook/two/working-with-data/experiencing-data/data-methods-in-journalism",
     "https://gijn.org/resource/",
     "https://www.youtube.com/watch?v=Zo00y1gK_QQ",
-    "https://ijec.org/databook/chapter-11-data-and-tips/"
+    "https://gijn.org/stories/10-simple-data-errors-that-can-ruin-an-investigation/"
    ],
    "engines": [
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 15
   },
   {
    "query": "site:note.com GIJN・IRE のデータ報道の誤りの手引き（10 Common Mistakes in Data Journalism・10 Simple Data Errors That Can Ruin an Investigation・Numbers in the Newsroom・4-125）",
    "results": [
-    "https://note.com/u_sn_notes/n/n46a764b32de4",
-    "https://note.com/seodoa_academy/n/n7d0eb393dbeb",
     "https://note.com/black_velocity/n/n34fff68e5e3a",
     "https://note.com/koho_youchisha/n/n1744e822faed",
+    "https://note.com/seodoa_academy/n/n7d0eb393dbeb",
+    "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "https://note.com/yaoyoroztech/n/n16baa00dcd18",
     "https://note.com/kamokita/n/nf0acee677b08",
-    "https://note.com/kibaroku/n/n5edeebc20c82",
-    "https://note.com/aiyoroz/n/n382d484c9cfe"
+    "https://note.com/large_iris4216/n/n72a8cc3f7e6a"
    ],
    "engines": [
     "ddgs:google"
@@ -326,16 +388,16 @@
   {
    "query": "site:linkedin.com GIJN・IRE のデータ報道の誤りの手引き（10 Common Mistakes in Data Journalism・10 Simple Data Errors That Can Ruin an Investigation・Numbers in the Newsroom・4-125）",
    "results": [
-    "https://jp.linkedin.com/pulse/your-summer-recap-gijns-must-read-resources-hxqte?tl=ja",
     "https://www.linkedin.com/posts/rozina-islam_investigativejournalism-gijn-ire-activity-7514747049741844480-6USB",
-    "https://jp.linkedin.com/pulse/gijns-substack-how-investigated-global-investigative-journalism-ne-hinae?tl=ja",
     "https://www.linkedin.com/company/global-investigative-journalism-network",
+    "https://jp.linkedin.com/pulse/gijns-substack-how-investigated-global-investigative-journalism-ne-hinae?tl=ja",
     "https://az.linkedin.com/company/queensite?trk=ppro_cprof",
     "https://de.linkedin.com/showcase/gijn-deutsch/",
+    "https://jp.linkedin.com/pulse/your-summer-recap-gijns-must-read-resources-hxqte?tl=ja",
     "https://nl.linkedin.com/posts/jennifervangijn_wij-zijn-enorm-aan-het-groeien-en-zijn-daarom-activity-6780056320872628224-ETZc"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -345,32 +407,32 @@
     "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/",
     "https://www.facebook.com/SlowNewsJP/posts/gijn世界調査報道ネットワークの国際会議に参加した大矢英代さんによる最新報告を今日から2回にわたってお届けします前編は命を狙われるジャーナリストたちウクライナ/1018490058800151/",
     "https://www.facebook.com/GlobalInvestigativeJournalismNetwork/posts/-new-gijn-reporting-guide-detecting-ai-generated-contentjournalists-face-growing/1168760971959669/",
-    "https://www.facebook.com/ProyectosMisumi/posts/la-traducción-de-la-ruta-de-mizuha-de-giniro-haruka-ya-esta-completaactualmente-/1459555122872358/",
     "https://www.facebook.com/yuji.matsumoto.73/posts/多くの方にこの事実を知って欲しいし誤った報道を繰り返したメディアの方々はキチンと誤りを認めてワクチン接種のキャンペーンに参加して欲しいと考えてます大きなウェーブ/39280698898245368/",
     "https://www.facebook.com/japanfactcheckcenter/videos/finalmp4/1782261746416056/",
-    "https://www.facebook.com/ipaprjp/posts/プレスリリースデータ連携の仕組みに関するガイドラインの手引き-サプライチェーン共通編を改訂し20-版を公開しました本書はサプライチェーンにおける企業間データ連携/1788709496592590/"
+    "https://www.facebook.com/ipaprjp/posts/プレスリリースデータ連携の仕組みに関するガイドラインの手引き-サプライチェーン共通編を改訂し20-版を公開しました本書はサプライチェーンにおける企業間データ連携/1788709496592590/",
+    "https://www.facebook.com/WPGinGUNMA/posts/2499136083643047/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "GIJN・IRE のデータ報道の誤りの手引き（10 Common Mistakes in Data Journalism・10 Simple Data Errors That Can Ruin an Investigation・Numbers in the Newsroom・4-125） note 社長",
    "results": [
-    "https://gijn.org/resource/guide/",
-    "https://www.jiyujyutaku-navi.com/en-us/column/tag/report",
-    "https://note.com/ichi_twnovel/n/na700447ab043",
+    "https://note.com/kazukio/n/n2fccd4795353",
     "https://researchmap.jp/read0133965/others/29600988",
+    "https://note.com/yomi_tokyo_saiyo/n/nc665acccdcd7",
     "https://www.nhk.or.jp/bunken/d/research/domestic/BUNA0000010710090002/",
-    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
-    "https://www.youtube.com/watch?v=jZHlhLZ93XM",
     "http://jcej.info/lib/?doc=handbook",
-    "https://unesdoc.unesco.org/ark:/48223/pf0000391647",
+    "https://project.nikkeibp.co.jp/NHCdigital/special/051400032/index.html",
+    "https://note.com/ichi_twnovel/n/na700447ab043",
+    "https://www.soumu.go.jp/main_content/000913996.pdf",
+    "https://note.haba.co.jp/article/staff-notes/news/detail/486",
     "https://ja.wikipedia.org/wiki/グローバル調査報道ネットワーク"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -380,21 +442,20 @@
    "results": [
     "https://gijn.org/ja/",
     "https://x.com/gijn",
-    "https://gijn.org/stories/mapping-data-journalism-on-twitter/",
+    "https://gijn.org/topic/reporting-tools-tips/",
     "http://jcej.info/lib/?doc=handbook",
     "https://jp.weforum.org/stories/industries-in-depth/social-media-incentive-structures-combat-misinformation",
+    "https://www.gov-online.go.jp/article/202403/entry-5920.html",
     "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://www.tv-tokyo.co.jp/main/yoriyoi/rinri.html",
-    "https://www.kottolaw.com/column/000509.html",
-    "https://kaztaira.wordpress.com/2013/10/07/what-not-to-do-in-data-journalism/",
+    "https://formative.jmir.org/2023/1/e47798",
+    "https://note.com/reading_monkey/n/n7cec8589626d",
     "https://gijn.org/"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 20
+   "n_hits": 16
   },
   {
    "query": "GIJN tipsheet common mistakes data journalism simple data errors investigation IRE Numbers in the Newsroom site:linkedin.com",
@@ -402,10 +463,10 @@
     "https://www.linkedin.com/posts/gijn-africa_lessons-learned-10-common-mistakes-in-data-activity-7188852696693559296-phj3",
     "https://www.linkedin.com/posts/gijn-africa_data-donts-expert-tips-to-avoid-misleading-activity-7322492321537708032-D748",
     "https://th.linkedin.com/posts/global-investigative-journalism-network_10-simple-data-errors-that-can-ruin-an-investigation-activity-7041005334248718336-MH7n",
-    "https://www.linkedin.com/posts/global-investigative-journalism-network_data-donts-expert-tips-to-avoid-misleading-activity-7321518374767779840-hXmm",
     "https://www.linkedin.com/posts/veriokuryazarligidernegi_lessons-learned-10-common-mistakes-in-data-activity-7221426292028522496-_rSM",
+    "https://www.linkedin.com/posts/global-investigative-journalism-network_data-donts-expert-tips-to-avoid-misleading-activity-7321518374767779840-hXmm",
     "https://www.linkedin.com/advice/3/what-most-common-data-journalism-pitfalls-avoid-skills-journalism-vmswc",
-    "https://www.linkedin.com/posts/ellenclegg_lessons-learned-10-common-mistakes-in-data-activity-7192541676035264513-yMuV"
+    "https://www.linkedin.com/posts/journalists-resource_10-simple-data-errors-that-can-ruin-an-investigation-activity-7074029440854282240-85bp"
    ],
    "engines": [
     "ddgs:google"
@@ -414,39 +475,72 @@
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": ", who teaches data visualization and research methods at the University of California, Berkeley’s Graduate School of Journalism, and",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Use a simple method to calculate “one out of” risk probabilities.",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
   "失敗・落とし穴": [
    {
-    "quote": "Lessons Learned: 10 Common Mistakes in Data Journalism – Global Investigative Journalism Network",
-    "url": "https://gijn.org/stories/10-common-mistakes-data-journalism/",
+    "quote": "Notorious mistakes that investigative reporters make with numbers include trying to calculate percentages by adding or subtracting from other percentage values. (A drop in successful prosecutions from 12% to 7%, for example, is",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "Lessons Learned: 10 Common Mistakes in Data Journalism",
-    "url": "https://gijn.org/stories/10-common-mistakes-data-journalism/",
+    "quote": "10 Common Mistakes in Data Journalism",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "CUNY’s Caplan said newsrooms should assess whether they exhibit negativity-bias — and warned that audiences notice when the story balance between negative data and at least some positive data “is out of whack.”",
-    "url": "https://gijn.org/stories/10-common-mistakes-data-journalism/",
+    "quote": "Cohen compares this common newsroom mistake to “overcooking a vegetable medley,” and writes: “Sometimes, reporters take a bunch of percent changes, say, in a budget, and compute an average for the “average percent change.” This treats the 140% increase in a new, small department the same as the 2% increase for education.”",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Notorious mistakes that investigative reporters make with numbers include trying to calculate percentages by adding or subtracting from other percentage values. (A drop in successful prosecutions from 12% to 7%, for example, is",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
    },
    {
-    "quote": "This <a target=\"_blank\" href=\"https://gijn.org/stories/10-common-mistakes-data-journalism/\">article</a> first appeared on <a target=\"_blank\" href=\"https://gijn.org\">Global Investigative Journalism Network</a> and is republished here under a Creative Commons license.",
-    "url": "https://gijn.org/stories/10-common-mistakes-data-journalism/",
+    "quote": "Experts note that numbers in the billions are used so commonly in the media that both reporters and readers can lose the sense of how vast these figures are. Some perspective: one million seconds represent just 11 days, but one billion seconds equals almost 32 years. It is also surprisingly easy to confuse millions and billions in financial statements. Dowdell cited a recent case in which",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "In a fun case from 2021, National Public Radio",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": ", plus the New Year’s Day suicide bombing incident in Las Vegas, and also underestimated the number of controversial vehicles sold.)",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
    }
   ]
  },
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-09T09:20:06.279838+00:00"
 }

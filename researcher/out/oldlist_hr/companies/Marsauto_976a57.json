@@ -1,0 +1,1054 @@
+{
+ "name": "Marsauto",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T23:17:39.075933+00:00",
+ "official_url": "https://marsauto.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$12,400,000",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Seoul, Korea, Republic of",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "South Korea",
+    "url": "https://startupintros.com/orgs/mars-auto",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://startupintros.com/orgs/mars-auto",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Watch the driving video",
+    "url": "https://marsauto.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous trucking is unusually difficult because the system must work continuously. It drives for hours, encounters edge cases as a normal condition, and must remain stable at highway speed while carrying heavy loads.",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build and deploy real-time driving software that runs on production Class-8 trucks hauling freight daily in Korea and the United States",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build and scale the data acquisition flywheel from trucks operating daily in production",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You understand how computers actually work, including memory, threads, syscalls, caches, and hardware",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You have built systems that run continuously in production environments",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You have competitive programming experience, such as IOI, Topcoder, or Codeforces",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Built for production from the start, not demos or research milestones",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Develop automatic data acquisition and labeling systems that continuously improve the models",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Improve model performance under real-world conditions, not just offline metrics",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You understand machine learning fundamentals and can implement them from first principles",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You can take ideas from papers and make them work in practice",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You have worked on computer vision problems involving real-world data",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You have trained models on large-scale image or video datasets",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Seeking engineers capable of delivering production autonomy.",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "They offer several dozen products.",
+    "url": "https://www.sellerratings.com/amazon/japan/marsauto-jp%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+    "pass": 3
+   },
+   {
+    "quote": "They have improved from the 7,745th position last month.",
+    "url": "https://www.sellerratings.com/amazon/japan/marsauto-jp%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+    "pass": 3
+   },
+   {
+    "quote": "Marsauto-JP(⬅メールでお問い合わせ） profile on Amazon.co.jp",
+    "url": "https://www.sellerratings.com/amazon/japan/marsauto-jp%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+    "pass": 3
+   },
+   {
+    "quote": "Previously known as XAUTO-US, and have since changed the seller name.",
+    "url": "https://www.sellerratings.com/amazon/japan/marsauto-jp%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+    "pass": 3
+   },
+   {
+    "quote": "MarsAuto US Official Website | Premium Automotive Lighting",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MarsAuto - Illuminate Your Drive with Premium Automotive Lighting",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "View Featured Products",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MarsAuto is a U.S.-based brand specializing in high-performance automotive lighting. Since 2003, we’ve been engineering innovative lighting products that enhance safety, visibility, and aesthetics for drivers across the country. Whether you're upgrading factory halogens or seeking the brightest LEDs on the market, MarsAuto has you covered.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our mission is simple: to bring cutting-edge lighting technology to every vehicle, at a price drivers can afford. With over 5,000 SKUs, we offer one of the most comprehensive selections of LED, HID, and interior lighting in the industry.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "🔥 Our Featured Product Lineup",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A flagship product and customer favorite, the M1 H11 is engineered with a slim profile and powerful dual-beam output.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Beam Pattern: Precise, anti-glare distribution that mimics halogen focus",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Energy Saving: Low voltage draw protects your battery",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "✨ Makes your car look clean, modern, and premium on the inside.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect for projector headlights, this HID bulb set offers unmatched night vision.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "All MarsAuto products are stored and shipped from our domestic fulfillment centers, ensuring 2–4 day shipping to most states. Our dedicated U.S.-based support team is available 24/7 to answer your fitment, installation, or warranty questions.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MarsAuto US is dedicated to engineering and providing top-quality automotive lighting solutions. We focus on innovation, quality, and customer satisfaction to help you make the best choice for your vehicle. Our products are designed for car enthusiasts and everyday drivers alike, aiming to enhance your safety and style on the road.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We believe in the power of good lighting to transform your driving experience. From bright LED headlights to vibrant interior lights, MarsAuto offers a comprehensive range to help you see the difference and drive with confidence.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Brief content visible, double tap to read full content.",
+    "url": "https://www.amazon.co.jp/Marsauto-H8-IP68%E9%98%B2%E6%B0%B4%E9%98%B2%E7%B5%90%E9%9C%B2-led%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%88-50000%E6%99%82%E9%96%93%E4%BB%A5%E4%B8%8A%E5%AF%BF%E5%91%BD/dp/B0HBB3LCS7",
+    "pass": 3
+   },
+   {
+    "quote": "Full content visible, double tap to read brief content.",
+    "url": "https://www.amazon.co.jp/Marsauto-H8-IP68%E9%98%B2%E6%B0%B4%E9%98%B2%E7%B5%90%E9%9C%B2-led%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%88-50000%E6%99%82%E9%96%93%E4%BB%A5%E4%B8%8A%E5%AF%BF%E5%91%BD/dp/B0HBB3LCS7",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous technology will be applied to the trucking industry before anywhere else. Mars Auto is in a unique position to be one of the first companies to deploy driverless trucks on the road. Our data-driven approach allows us to learn driving policy from actual driving data, and our system can be deployed at a fraction of the cost of other solutions.",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto has approximately",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Product Differentiators",
+    "url": "https://startupintros.com/orgs/mars-auto",
+    "pass": 3
+   },
+   {
+    "quote": "combined with multi-sensor fusion (LiDAR, radar, cameras) and hybrid machine learning algorithms to estimate payload, road conditions, and vehicle dynamics in real-time without relying on traditional sensors like weight or tire pressure sensors[4][5].",
+    "url": "https://startupintros.com/orgs/mars-auto",
+    "pass": 3
+   },
+   {
+    "quote": ": Their data-driven approach learns driving policies from actual driving data, enabling continuous improvement through over-the-air (OTA) updates and predictive maintenance capabilities[4][7].",
+    "url": "https://startupintros.com/orgs/mars-auto",
+    "pass": 3
+   },
+   {
+    "quote": "rocketreach.co/mars-auto-inc-profile_b4305f41c1f517c0",
+    "url": "https://startupintros.com/orgs/mars-auto",
+    "pass": 3
+   },
+   {
+    "quote": "promptloop.com/directory/what-does-mars-auto-do",
+    "url": "https://startupintros.com/orgs/mars-auto",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by major carriers and shippers",
+    "url": "https://marsauto.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marsauto-JP(⬅メールでお問い合わせ） is a Top Rated seller trusted by hundreds of Amazon.co.jp customers in Japan.",
+    "url": "https://www.sellerratings.com/amazon/japan/marsauto-jp%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+    "pass": 3
+   },
+   {
+    "quote": "MarsAuto US Official Website | Premium Automotive Lighting",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MarsAuto - Illuminate Your Drive with Premium Automotive Lighting",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MarsAuto is a U.S.-based brand specializing in high-performance automotive lighting. Since 2003, we’ve been engineering innovative lighting products that enhance safety, visibility, and aesthetics for drivers across the country. Whether you're upgrading factory halogens or seeking the brightest LEDs on the market, MarsAuto has you covered.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "🔧 Direct replacement for factory HID systems in luxury vehicles like BMW, Audi, Mercedes.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Top-ranked in Automotive Lighting categories on major marketplaces",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by car modders, mechanics, and everyday drivers",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MarsAuto US is dedicated to engineering and providing top-quality automotive lighting solutions. We focus on innovation, quality, and customer satisfaction to help you make the best choice for your vehicle. Our products are designed for car enthusiasts and everyday drivers alike, aiming to enhance your safety and style on the road.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto is building autonomous trucks to completely automate warehouse-to-warehouse truck operations.",
+    "url": "https://startupintros.com/orgs/mars-auto",
+    "pass": 3
+   },
+   {
+    "quote": "autonomous trucks designed to fully automate warehouse-to-warehouse (middle-mile) shipping operations",
+    "url": "https://startupintros.com/orgs/mars-auto",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Trusted by major carriers and shippers",
+    "url": "https://marsauto.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our trucks haul commercial freight every day in live operations. Carriers rely on the system as part of their business, and the vehicles run on public highways along ordinary shipping routes.",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are building unmanned Class-8 trucks and scaling them into real freight networks to automate long-haul shipping. The software you write directly controls a moving vehicle and affects real operations. This system operates in the physical world. Errors carry consequences, and correctness is non-negotiable.",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous trucking is unusually difficult because the system must work continuously. It drives for hours, encounters edge cases as a normal condition, and must remain stable at highway speed while carrying heavy loads.",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build and scale the data acquisition flywheel from trucks operating daily in production",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Develop automatic data acquisition and labeling systems that continuously improve the models",
+    "url": "https://marsauto.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "All MarsAuto products are stored and shipped from our domestic fulfillment centers, ensuring 2–4 day shipping to most states. Our dedicated U.S.-based support team is available 24/7 to answer your fitment, installation, or warranty questions.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Mars Auto",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Mars Auto?",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mars Auto have?",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "If you want to move freight with autonomous trucks, contact us.",
+    "url": "https://marsauto.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marsauto-JP(⬅メールでお問い合わせ） business name, phone number, address, and email might be available on their",
+    "url": "https://www.sellerratings.com/amazon/japan/marsauto-jp%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mars Auto — Superhuman AI driver Most autonomous trucking systems depend on HD maps and can operate only on routes prepared in advance. Long-haul shipping requires flexible routing across constantly changing lanes. Mars Auto does not use maps. We built a vision-focused end-to-end AI driving agent that learns directly from real driving data. The vehicle is equipped with seven cameras, and the syste",
+    "url": "https://marsauto.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SKT-マースオート、AIで大型トラックの自動運転高度化に向けて協力 | ... — Oct 23, 2023 · SKテレコム(SKT)はトラック自律走行スタートアップであるマースオート（Mars Auto）と人工知能(AI)大型トラック自律走行高度化事業協力のための業務協約(MOU)を締結したと23日、明らかにした。マースオートは貨物運送用トラックのためのAI基盤の自律走行ソフトウェアを開発する自律走行トラッ...",
+    "url": "https://japan.ajunews.com/view/20231023173033168",
+    "pass": 3
+   },
+   {
+    "quote": "Marsauto-JP(⬅メールでお問い合わせ） on Amazon.co.jp Marketplace — Marsauto-JP (⬅メールでお問い合わせ） is a Top Rated seller trusted by hundreds of Amazon.co.jp customers in Japan. They have been selling on the Amazon.co.jp marketplace since 2025. They offer several dozen products. They are a Top 5000 Amazon.co.jp seller, ranked 2,656th overall. They have improved from the 7,755th position last month. Seller rank is ba",
+    "url": "https://www.sellerratings.com/amazon/japan/marsauto-jpメールでお問い合わせ",
+    "pass": 3
+   },
+   {
+    "quote": "MarsAuto US Official Website | Premium Automotive Lighting — MarsAuto US is dedicated to engineering and providing top-quality automotive lighting solutions. We focus on innovation, quality, and customer satisfaction to help you make the best choice for your vehicle. Our products are designed for car enthusiasts and everyday drivers alike, aiming to enhance your safety and style on the road.",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Marsauto h11 led フォグランプ 爆光 H8 ... - Amazon — Marsauto h11 led フォグランプ 爆光 H8 フォグ イェロー 車検対応 10000LM フォグランプ H8 H11 H16 バルブ IP68防水防結露 キャンセラー内蔵 0.1s瞬間起動 ledフォグライト 3000K 24連 LEDチップ搭載 DC12V対応 50000時間以上寿命 黄色 2個セット 2年保証 (JF2シリーズ)がフォグランプストアでいつでもお買い得。当日 ...",
+    "url": "https://www.amazon.co.jp/Marsauto-H8-IP68防水防結露-ledフォグライト-50000時間以上寿命/dp/B0HBB3LCS7",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: Marsauto H11/H16/H8 LED Headlight, High ... — Marsauto H11/H16/H8 LED Headlight, High Brightness, Explosion Light, 30,000 LM, 6,500 K, 40 W, Fog Light, H8 Bulb, Equipped with 16 LED Chips, Copper Circuit Boards, Aluminum Alloy, Temperature",
+    "url": "https://www.amazon.co.jp/-/en/Marsauto-Headlight-Brightness-Explosion-Temperature/dp/B0H26TMJ42",
+    "pass": 3
+   },
+   {
+    "quote": "MarsAuto - amazon.com — MarsAuto focuses on manufacturing convenient, environmentally friendly, energy-saving, and long-life lighting and auto parts products. It always pays attention to road safety and strives to create a more secure and comfortable driving experience. Since its establishment, it has taken into consideration the needs of consumers, strictly controlled the quality of its products,",
+    "url": "https://www.amazon.com/stores/MarsAuto/page/9D7AA681-6047-4DFD-9254-A1E2EFFE10A1",
+    "pass": 3
+   },
+   {
+    "quote": "REAL - Mars Auto — Mars Auto builds autonomy by training an end-to-end driving model directly from human driving data, without relying on maps or manually engineered rules. The system learns how humans actually drive rather than memorizing routes or edge cases. Learning replaces patching.",
+    "url": "https://marsauto.com/technology",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto Revenue, Funding & Valuation - prospeo.io — Mars Auto has revenue of $1,283,325, estimated valuation of $4,200,000, $12,400,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto 2026 Company Profile: Valuation, Funding ...Mars Auto — Company Profile & Funding | Indexed.vcMars Auto: Funding, Team & Investors | Startup IntrosMars Auto Revenue 2024: $1.7M Est. ARR, $5M ValuationMars Auto - Products, Competitors, Financials, Employees ...MARS Auto — Company Profile, Funding & Investors — Mars Auto has 20 total employees. What industry is Mars Auto in? Mars Auto’s pr",
+    "url": "https://pitchbook.com/profiles/company/231346-72",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto — Company Profile & Funding | Indexed.vc — Mars Auto is an Autonomous Vehicles company based in South Korea, founded in 2017. It has raised $12.0M in total across 1 round, most recently a $12.0M Series A round in Mar 2022. Investors include GFT Ventures and Mirae Asset Venture Investment.",
+    "url": "https://indexed.vc/companies/marsauto",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Mars Auto? Mars Auto was founded in 2017 by Ilsu Park (Founder). How much funding has Mars Auto raised? Mars Auto has raised $12.0M in total across 1 funding round. Who are Mars Auto's investors? Mars Auto's investors include Jeff Herbst.",
+    "url": "https://startupintros.com/orgs/mars-auto",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto Revenue 2024: $1.7M Est. ARR, $5M Valuation — Apr 10, 2025 · Mars Auto 2024 estimated revenue: $1.7M ARR. Valuation: $5M. 11 employees. Industry: Generative AI Software. Founded 2017 Updated Apr 10, 2025.",
+    "url": "https://getlatka.com/companies/marsauto.com",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Marsauto-JP(⬅メールでお問い合わせ） is a Top Rated seller trusted by hundreds of Amazon.co.jp customers in Japan.",
+    "url": "https://www.sellerratings.com/amazon/japan/marsauto-jp%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Arc Position: OEM-aligned for optimal beam focus",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   },
+   {
+    "quote": "D2S OEM Replacement Bulbs",
+    "url": "https://marsautous.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Nighttime visibility is transformed. Can you graduate from ... May 16, 2026 · While driving at night, have you ever suddenly felt that the road surface is hard to see? On main roads with few streetlights or dark mountain passes on rainy days, there are times when you inevitably feel the limits of the range reached by standard halogen bulbs.Product link Marsauto H11 led",
+    "url": "https://note.com/garage_tk/n/n018553cd6ee3?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "夜間の視界が激変する。Marsauto H11 LEDヘッドライトでハロゲンから卒業できるか？｜ガレージT | DIYで楽しむカーライフ",
+    "url": "https://note.com/garage_tk/n/n018553cd6ee3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "夜間の視界が激変する。Marsauto H11 LEDヘッドライトでハロゲンから卒業できるか？",
+    "url": "https://note.com/garage_tk/n/n018553cd6ee3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "夜のドライブ中、ふと「なんだか路面が見えにくいな」と感じることはないだろうか。街灯の少ない幹線道路や、雨の日の暗い峠道。純正のハロゲンバルブを使っていると、どうしても光の届く範囲に限界を感じてしまう場面がある。",
+    "url": "https://note.com/garage_tk/n/n018553cd6ee3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "対向車の眩しいLEDライトを目にするたびに、自分の愛車のライトが少し心もとなく思えてくるのも、車好きなら一度は経験する悩みだと思う。そんな視認性の課題を、DIYで手軽に解決できる選択肢として注目したいのが、MarsautoのH11 LEDヘッドライトだ。",
+    "url": "https://note.com/garage_tk/n/n018553cd6ee3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、LEDヘッドライトへの交換が必要なのか",
+    "url": "https://note.com/garage_tk/n/n018553cd6ee3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "長年ハロゲンバルブを使用していると、フィラメントの劣化によって光量が落ちてくる。また、そもそもハロゲンという光源自体の特性として、LEDに比べると色の純度や明るさで一歩譲る部分があるのも事実だ。",
+    "url": "https://note.com/garage_tk/n/n018553cd6ee3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "LED化の最大のメリットは、単なる「明るさ」だけではない。",
+    "url": "https://note.com/garage_tk/n/n018553cd6ee3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": 白色の光（6000K）により、路面の白線や標識がくっきりと浮かび上がる。",
+    "url": "https://note.com/garage_tk/n/n018553cd6ee3?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mars Automobiles Trading LLC (@Marsauto1) / X Luxury doesn’t have to be synonymous with a high price tag. It's time to experience true luxury in the all-new Toyota Highlander Platinum 2021 #🚘 For any inquiry please contact us: 📞Ahmed: 0555505562 📞Mohammed: 0566405539 #marsauto #Automobile #toyota #toyotahighlander #Dubai Mars Automobiles Trading LLC @Marsauto1 Sep 25, 2021 Luxury and performance c",
+    "url": "https://x.com/Marsauto1",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto Trade (@MarsAutoTrade) / X 7 followers · 0 following. Kissimmee, FL. Joined Dec 2014. See the latest conversations with @MarsAutoTrade",
+    "url": "https://x.com/MarsAutoTrade",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto Repair (@MarsAutoRepair) / Posts / X Its still the beginning of this new year, start it off right with by getting your vehicle serviced with Mars Auto... fb.me/2TGiWyMRC ...",
+    "url": "https://x.com/MarsAutoRepair",
+    "pass": 3
+   },
+   {
+    "quote": "@marsautogroup | X The latest posts from @marsautogroup",
+    "url": "https://x.com/marsautogroup",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mars Auto | LinkedIn Mars Auto | 1,712 followers on LinkedIn. Autonomous trucking company | Mars Auto is building autonomous trucks to fully automate long-haul truck operations. We are bringing self-driving technology ...",
+    "url": "https://www.linkedin.com/company/marsauto",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto | LinkedIn Mars Auto | 1,717 followers on LinkedIn. Autonomous trucking company | Mars Auto is building autonomous trucks to fully automate long-haul truck operations. We are bringing self-driving technology to the commercial trucking industry. Autonomous technology will be applied to the trucking industry before anywhere else.",
+    "url": "https://hk.linkedin.com/company/marsauto",
+    "pass": 3
+   },
+   {
+    "quote": "MARSAUTO - LinkedIn MarsAuto is a provider of secondary parts for vehicles, catering to local and international markets. We specialize in utilizing technology-driven solutions to offer innovative and efficient ...",
+    "url": "https://www.linkedin.com/company/marsautobrokerage",
+    "pass": 3
+   },
+   {
+    "quote": "Ilsu Park - CEO at Mars Auto | LinkedIn CEO at Mars Auto · Experience: Mars Auto, Inc. · Education: Y Combinator · Location: Austin, Texas Metropolitan Area · 500+ connections on LinkedIn. View Ilsu Park’s profile on LinkedIn, a ...",
+    "url": "https://www.linkedin.com/in/daftshady",
+    "pass": 3
+   },
+   {
+    "quote": "Ilsu Park - CEO at Mars Auto | LinkedIn加藤貞顕 - WikipediaMasAuto Launches Korea’s First Autonomous Trailer Route at ...Mars Auto Leadership Team, Executives & Contacts마스오토, 자율주행 트럭 주행거리 70만km 돌파 - 로봇신문마스오토(자율주행 트럭용 소프트웨어) - 기업정보 | 투자, 매출, 기... CEO at Mars Auto · Experience: Mars Auto, Inc. · Education: Y Combinator · Location: Austin, Texas Metropolitan Area · 500+ connections on LinkedIn. View Ilsu",
+    "url": "https://www.linkedin.com/in/daftshady",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mars Auto - FacebookMARS Auto Group | Manassas VA - FacebookMarsauto - FacebookMarsauto Parts - FacebookMars Auto Trade | Orlando FL - FacebookMars Auto Parts - FacebookMARS Auto | Male - Facebook Oct 15, 2026 · Mars Auto. 12,398 followers · 575 talking about this. Powering Next-Gen Automotive Dubai, UAE MARS Auto Group, Manassas. 27 followers. MARS Automotive Group has proudly served the D.C. Met",
+    "url": "https://www.facebook.com/marsautomobile/",
+    "pass": 3
+   },
+   {
+    "quote": "Marsauto - Facebook Aug 19, 2018 · Marsauto. 131 likes · 1 talking about this. Marsauto specializes in providing high performance LED bulbs for cars.Our mission is to bring you a safety and comfortable experience with our led bulbs.",
+    "url": "https://www.facebook.com/profile.php/?id=100067958717936",
+    "pass": 3
+   },
+   {
+    "quote": "Marsauto Parts - Facebook Marsauto Parts is on Facebook. Join Facebook to connect with Marsauto Parts and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/marsautoparts/",
+    "pass": 3
+   },
+   {
+    "quote": "Mars Auto Trade | Orlando FL - FacebookMars Auto Parts - FacebookMARS Auto | Male - Facebook 3 days ago · Mars Auto Trade, Orlando. 10,069 followers · 1,995 talking about this · 3,384 were here. Used Cars - coches usados - finance - financiamiento - buy here pay here - trade in, carros usados, carros,... Facebook is showing information to help you better understand the purpose of a Page. See actio",
+    "url": "https://www.facebook.com/marsautotrade/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://marsauto.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marsauto.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://response.jp/article/2026/11/09/418790.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.msn.com/ja-jp/autos/trucks/%E3%83%87%E3%82%AB%E3%81%99%E3%81%8E-%E5%85%A8%E9%95%B75-9%EF%BD%8D%E3%81%AE%E3%82%A2%E3%83%A1%E8%BB%8A-%E3%83%A9%E3%83%A01500-%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%AB%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B/ar-AA2h1bkl",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://carview.yahoo.co.jp/news/detail/97301ff7e2b3563550128ef8c68e7f6712335b38/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sellerratings.com/amazon/japan/marsauto-jp%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marsautous.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Marsauto-H8-IP68%E9%98%B2%E6%B0%B4%E9%98%B2%E7%B5%90%E9%9C%B2-led%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%88-50000%E6%99%82%E9%96%93%E4%BB%A5%E4%B8%8A%E5%AF%BF%E5%91%BD/dp/B0HBB3LCS7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Marsauto-Headlight-Brightness-Explosion-Temperature/dp/B0H26TMJ42",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.automationanywhere.com/resources/customer-stories/mars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.coursehero.com/file/54609862/GSCM540-wk2-MARS-case-studydocx/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/customers/mars",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/mars-auto-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/231346-72",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/marsauto",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/mars-auto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/garage_tk/n/n018553cd6ee3?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Marsauto1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MarsAutoTrade",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MarsAutoRepair",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/marsauto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hk.linkedin.com/company/marsauto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/marsautobrokerage",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/daftshady",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/marsautomobile/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=100067958717936",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/marsautoparts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/marsautotrade/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/daftshady",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/marsautogroup",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Marsauto 日本 導入",
+   "results": [
+    "https://response.jp/article/2026/11/09/418790.html",
+    "https://www.msn.com/ja-jp/autos/trucks/デカすぎ-全長5-9ｍのアメ車-ラム1500-が日本にやってくる/ar-AA2h1bkl",
+    "https://carview.yahoo.co.jp/news/detail/97301ff7e2b3563550128ef8c68e7f6712335b38/",
+    "https://marsauto.com/",
+    "https://japan.ajunews.com/view/20231023173033168",
+    "https://trafficnews.jp/post/725198",
+    "https://marsauto.com/technology"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Marsauto 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Marsauto Japan",
+   "results": [
+    "https://www.sellerratings.com/amazon/japan/marsauto-jpメールでお問い合わせ",
+    "https://marsautous.com/",
+    "https://www.amazon.co.jp/Marsauto-H8-IP68防水防結露-ledフォグライト-50000時間以上寿命/dp/B0HBB3LCS7",
+    "https://www.amazon.co.jp/-/en/Marsauto-Headlight-Brightness-Explosion-Temperature/dp/B0H26TMJ42",
+    "https://www.amazon.com/stores/MarsAuto/page/9D7AA681-6047-4DFD-9254-A1E2EFFE10A1",
+    "https://marsauto.com/",
+    "https://marsauto.com/technology"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Marsauto manufacturing customer case study",
+   "results": [
+    "https://www.automationanywhere.com/resources/customer-stories/mars",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.coursehero.com/file/54609862/GSCM540-wk2-MARS-case-studydocx/",
+    "https://cloud.google.com/customers/mars",
+    "https://marsauto.com/technology",
+    "https://marsauto.com/",
+    "https://yespress.io/mars-auto"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Marsauto white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Marsauto founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/mars-auto-revenue",
+    "https://pitchbook.com/profiles/company/231346-72",
+    "https://indexed.vc/companies/marsauto",
+    "https://startupintros.com/orgs/mars-auto",
+    "https://getlatka.com/companies/marsauto.com",
+    "https://www.cbinsights.com/company/mars-auto",
+    "https://acquirezy.com/organization/mars-auto"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Marsauto",
+   "results": [
+    "https://note.com/tag/我々は宇宙人",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/garage_tk/n/n018553cd6ee3?hl=en",
+    "https://note.com/spacecityproject/n/na320275ade9a?hl=en",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Marsauto",
+   "results": [
+    "https://x.com/Marsauto1",
+    "https://about.x.com/en",
+    "https://x.com/MarsAutoTrade",
+    "https://x.com/MarsAutoRepair",
+    "https://x.com/MarsAutoCare",
+    "https://x.com/tintian8",
+    "https://x.com/randneazt/status/2120208131993317566"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Marsauto",
+   "results": [
+    "https://www.linkedin.com/company/marsauto",
+    "https://hk.linkedin.com/company/marsauto",
+    "https://www.linkedin.com/company/marsautobrokerage",
+    "https://www.linkedin.com/in/daftshady",
+    "https://www.linkedin.com/check/en",
+    "https://www.linkedin.com/company/marsautomobiles/",
+    "https://www.linkedin.com/posts/marsauto_self-driving-truck-startup-mars-auto-eyes-activity-7141338812659470337-aYvj"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Marsauto",
+   "results": [
+    "https://www.facebook.com/marsautomobile/",
+    "https://www.facebook.com/profile.php/?id=100067958717936",
+    "https://www.facebook.com/marsautoparts/",
+    "https://www.facebook.com/marsautotrade/",
+    "https://www.facebook.com/pages/Mars-Auto-Parts/156636434362195/",
+    "https://www.facebook.com/marsauto.store/",
+    "https://www.facebook.com/marsautogroup/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Marsauto note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/daftshady",
+    "https://dbr.donga.com/kfocus/view/en/article_no/3054",
+    "https://marsauto.com/",
+    "https://getlatka.com/companies/marsauto.com/contacts",
+    "https://www.irobotnews.com/news/articleView.html?idxno=32049",
+    "https://thevc.kr/marsauto"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Marsauto X 投稿",
+   "results": [
+    "https://x.com/marsautogroup",
+    "https://www.instagram.com/marsauto/",
+    "https://marsautous.com/",
+    "https://marsauto.com/",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://note.com/tsuchi278/n/nc8d73e342450",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

@@ -1,0 +1,545 @@
+{
+ "name": "Test Industry S.r.l. - Bimal Brand",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜未接触",
+ "researched_at": "2026-11-10T22:57:02.257806+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.test-industry.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital.agritechnica.com/exhibitor/test-industry-srl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it.linkedin.com/company/test-industry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/testindustrysrl/videos/welcome-to-test-industry-bimal-plant-in-perugia-italyheres-a-sneaky-peek-of-the-/872074291540729/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.test-industry.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/test-industry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://digital.agritechnica.com/exhibitor/test-industry-srl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kemtech.in/bimal.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.test-industry.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/test-industry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital.agritechnica.com/exhibitor/test-industry-srl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/test-industry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.test-industry.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital.agritechnica.com/exhibitor/test-industry-srl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.test-industry.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/test-industry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://digital.agritechnica.com/exhibitor/test-industry-srl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.igisgr.it/en/investments/test-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/test-industry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.igisgr.it/en/investments/test-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digital.agritechnica.com/exhibitor/test-industry-srl",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://www.linkedin.com/company/test-industry",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.agriculture-xprt.com/companies/bimal-brand-of-test-industry-srl-115009",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "https://www.test-industry.com/expert-designers-of-industrial-test-benches/",
+    "https://www.test-industry.com/impulse-test-benches/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "株式会社Test Industry S.r.l. - Bimal Brand",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://it.linkedin.com/company/test-industry",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://www.agriculture-xprt.com/companies/bimal-brand-of-test-industry-srl-115009",
+    "https://www.facebook.com/testindustrysrl/",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "https://www.test-industry.com/expert-designers-of-industrial-test-benches/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand 株式会社",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://it.linkedin.com/company/test-industry",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://www.agriculture-xprt.com/companies/bimal-brand-of-test-industry-srl-115009",
+    "https://www.facebook.com/testindustrysrl/",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "https://www.test-industry.com/expert-designers-of-industrial-test-benches/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Ｔｅｓｔ　Ｉｎｄｕｓｔｒｙ　Ｓ．ｒ．ｌ．　－　Ｂｉｍａｌ　Ｂｒａｎｄ",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://www.linkedin.com/company/test-industry",
+    "https://www.kemtech.in/bimal.html",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://www.agriculture-xprt.com/companies/bimal-brand-of-test-industry-srl-115009",
+    "https://www.test-industry.it/progettazione-e-costruzione-banchi-prova-bimal/",
+    "https://www.test-industry.it/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "TestIndustryS.r.l.-BimalBrand",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://www.linkedin.com/company/test-industry",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.facebook.com/testindustrysrl/",
+    "https://arxiv.org/abs/2508.21553",
+    "https://www.bvna.com/softline-testing",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.polinggroup.com/testing_end",
+    "https://www.testmark.net/",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand Japan",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://www.linkedin.com/company/test-industry",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "https://www.agriculture-xprt.com/companies/bimal-brand-of-test-industry-srl-115009",
+    "https://www.facebook.com/testindustrysrl/",
+    "https://www.test-industry.com/expert-designers-of-industrial-test-benches/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand 日本",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://www.linkedin.com/company/test-industry",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://www.agriculture-xprt.com/companies/bimal-brand-of-test-industry-srl-115009",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "https://www.facebook.com/testindustrysrl/",
+    "http://www.bimal.it/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand K.K.",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://www.linkedin.com/company/test-industry",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.agriculture-xprt.com/companies/bimal-brand-of-test-industry-srl-115009",
+    "https://www.facebook.com/testindustrysrl/",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "https://www.test-industry.com/expert-designers-of-industrial-test-benches/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand 日本 導入",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://it.linkedin.com/company/test-industry",
+    "https://www.facebook.com/testindustrysrl/videos/welcome-to-test-industry-bimal-plant-in-perugia-italyheres-a-sneaky-peek-of-the-/872074291540729/",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "https://www.agriculture-xprt.com/companies/bimal-brand-of-test-industry-srl-115009",
+    "https://www.directindustry.com/ja/soc/test-industry-235121.html",
+    "http://www.bimal.it/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://www.linkedin.com/company/test-industry",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://www.agriculture-xprt.com/companies/bimal-brand-of-test-industry-srl-115009",
+    "https://www.facebook.com/testindustrysrl/",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "https://we-are-imv.com/about/company/global-agent-dss/",
+    "https://ja.wikipedia.org/wiki/クロール_(会社)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand Japan",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://www.linkedin.com/company/test-industry",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "https://www.agriculture-xprt.com/companies/bimal-brand-of-test-industry-srl-115009",
+    "https://www.facebook.com/testindustrysrl/",
+    "https://www.test-industry.com/expert-designers-of-industrial-test-benches/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand manufacturing customer case study",
+   "results": [
+    "https://www.linkedin.com/company/test-industry",
+    "https://www.test-industry.com/",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.facebook.com/testindustrysrl/",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLWY80INzCR4WDC4jnAA-k-XO3MmKH28sC26lbj9ChHOizMrCa6",
+    "https://cyclelabs.io/customer-success-stories/",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand white label OR reseller OR partner program",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://www.linkedin.com/company/test-industry",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://probatix.com/en/white-label-testkits/",
+    "https://karpahealth.com/resources/how-white-label-lab-testing-works/",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.facebook.com/testindustrysrl/",
+    "https://www.mycompanyworks.com/reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand founded funding employees revenue",
+   "results": [
+    "https://www.linkedin.com/company/test-industry",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://www.kemtech.in/bimal.html",
+    "https://growjo.com/company/iTest",
+    "https://www.youtube.com/watch?v=BCt8dvagvO0",
+    "https://nto1.medium.com/the-top-20-test-automation-investments-are-now-of-1-5b-784ac8f0a6d5",
+    "https://rocketreach.co/test-industry-profile_b40c1288ffcdd124"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Test Industry S.r.l. - Bimal Brand",
+   "results": [
+    "https://note.com/tenorsharejp/n/nd3c5804e4bd0",
+    "https://note.com/wataruasada/n/n25402ddb880d",
+    "https://note.com/bug_hug/n/nbc2ff4257256",
+    "https://note.com/sekou_kaito_juku/n/nea3bd2c482a3",
+    "https://note.com/watahumi_mina/n/nc9d80911a14e",
+    "https://note.com/mapquest_m/n/ncee1f29b9a6e",
+    "https://note.com/dpsk/n/n2ba2bf1e249f"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Test Industry S.r.l. - Bimal Brand",
+   "results": [
+    "https://x.com/xuexianclown/status/2092517780981797063",
+    "https://x.com/BimalBorah119",
+    "https://jf.x.com/images/media-preview/2109130980430909524",
+    "https://jf.x.com/images/media-preview/2105447381861056708",
+    "https://business.x.com/en/help/ads-policies/brand-safety",
+    "https://x.com/mr_bimalpradhan",
+    "https://x.com/bimald/status/2108314497874084024"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Test Industry S.r.l. - Bimal Brand",
+   "results": [
+    "https://www.linkedin.com/company/test-industry",
+    "https://it.linkedin.com/company/test-industry-america-inc",
+    "https://it.linkedin.com/in/nicolacirulli",
+    "https://it.linkedin.com/in/daniel-cesar-spezzaballi-29666476",
+    "https://www.linkedin.com/in/bimalmaharjan",
+    "https://it.linkedin.com/in/valentina-roscini-6729a5115",
+    "https://it.linkedin.com/in/roberto-malfagia-0b055b192",
+    "https://bd.linkedin.com/in/bimal-silva-1a149740",
+    "https://it.linkedin.com/in/mastrostefano",
+    "https://it.linkedin.com/in/domenico-laurendi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Test Industry S.r.l. - Bimal Brand",
+   "results": [
+    "https://www.facebook.com/testindustrysrl/",
+    "https://www.facebook.com/testindustrysrl/mentions/",
+    "https://www.facebook.com/groups/306361854010114/posts/1506864680626486/",
+    "https://www.facebook.com/2mkablo/videos/ul-crush-resistance-test-evaluates-how-cables-withstand-mechanical-crushingcondu/2002629226947975/",
+    "https://www.facebook.com/UFIFiltersGroup/videos/ufi-lab-oil-cooler/3126049920915821/",
+    "https://www.facebook.com/RamMNK/posts/sarla-aviations-sylla-10-has-successfully-completed-its-integrated-flight-test-c/1550851493069237/",
+    "https://www.facebook.com/groups/2243285759216948/posts/2969730839905766/",
+    "https://www.facebook.com/StorckBicycle/posts/four-exclusive-signature-special-models-for-markus-storcks-60th-birthdayto-mark-/935136345298454/",
+    "https://www.facebook.com/department.dastu.polimi/posts/visual-methodologies-for-a-city-in-the-makingliving-portraits-diaries-and-archiv/1774400471359458/",
+    "https://www.facebook.com/testindustrysrl/posts/welcome-to-test-industry-bimal-plant-in-perugia-italyheres-a-sneaky-peek-of-the-/1156448006486482/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand note 社長",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://it.linkedin.com/company/test-industry",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.agriculture-xprt.com/companies/bimal-brand-of-test-industry-srl-115009",
+    "https://www.facebook.com/testindustrysrl/",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "https://www.test-industry.com/test-industry-organisational-structure/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Test Industry S.r.l. - Bimal Brand X 投稿",
+   "results": [
+    "https://www.test-industry.com/",
+    "https://www.linkedin.com/company/test-industry",
+    "https://digital.agritechnica.com/newfront/exhibitor/test-industry-srl",
+    "https://www.euroguss.de/en/exhibitors/test-industry-srl-2463704",
+    "https://www.kemtech.in/bimal.html",
+    "https://www.igisgr.it/en/investments/test-industry/",
+    "https://www.agriculture-xprt.com/companies/bimal-brand-of-test-industry-srl-115009",
+    "https://www.facebook.com/testindustrysrl/",
+    "https://www.test-industry.com/design-and-construction-of-test-benches-bimal/",
+    "http://www.bimal.it/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "料金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "連絡先": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "製造業の実績": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "日本の担い手": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）",
+  "規模・親会社": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部24頁・検索20回）"
+ }
+}

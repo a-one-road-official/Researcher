@@ -1,0 +1,188 @@
+{
+ "name": "Kaso",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T23:26:38.192391+00:00",
+ "official_url": "https://www.kaso.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "KASO - AI-Powered Food Procurement",
+    "url": "https://kaso.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Procurement for Restaurants and Suppliers",
+    "url": "https://kaso.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Over 5M+ orders processed - faster, simpler, smarter.",
+    "url": "https://kaso.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding time for restaurants",
+    "url": "https://kaso.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock better prices via KASO collective purchasing power",
+    "url": "https://kaso.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“We run a daily ‘KASO hour’ to review new leads. KASO increased our new restaurant onboardings by 40%.”",
+    "url": "https://kaso.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“KASO Discovery saved me hours in prospecting. I haven’t seen anything else like it in the market.”",
+    "url": "https://kaso.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We found the sweet spot that supports business goals for restaurants and suppliers while eliminating larger issues in society and the environment. Kaso was built to solve big problems through simple solutions and smarter executions. Lasting change starts with Kaso.",
+    "url": "https://kaso.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Kaso is designed to help you work faster and smarter by digitalizing your ordering process",
+    "url": "https://kaso.ai/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 2,000+ suppliers and 5,000+ restaurants across MENA.",
+    "url": "https://kaso.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the top food suppliers in the region",
+    "url": "https://kaso.ai/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Incremental revenue uplift for suppliers",
+    "url": "https://kaso.ai/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kaso.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaso.ai/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/KASSE_JAPAN",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Kaso 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Kaso 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Kaso Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/KASSE_JAPAN"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "Kaso manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Kaso white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Kaso founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Kaso",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Kaso",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Kaso",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Kaso",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Kaso note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Kaso X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部1頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部1頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部1頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部1頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部1頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部1頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部1頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部1頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部1頁・検索12回）"
+ }
+}

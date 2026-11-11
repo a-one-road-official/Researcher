@@ -8,192 +8,8 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-09T08:44:53.338068+00:00",
+ "researched_at": "2026-11-10T22:58:59.901986+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "I. Example of a review exercise for a historical backcasting project ................................................................ 35",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "D. Examples of Communication Output of a Major update and backcasting exercise: ..................................... 46",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "case there is no sure way to know how earlier estimates would have changed if, for instance, new",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "economic history unless the change is justified by a documentable phenomenon. For example,",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "alternative backcasting techniques and integration procedures. It describes various examples of",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "project. It discusses that assumptions underlying these methods and presents some examples of",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2.10 Examples for use of bottom up could be a re-sectori zation exercise to identify quasi-",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2.11 Another example would be the compilation of Researc h and Development Expenditures",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "can be recompiled using detailed sources. An example could be newly acquired access to payroll",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2.13 In some cases, a new methodology which caused a dis crepancy between the old and new",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "assumption. It should be used with caution. For example, if a new data source in the recent period",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "new estimates. In the example above, if the casual worker phenomenon was known to have been",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2.22 In the example above, if the phenomenon of missing wages of causal employment could",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "aggregates. For example, a new survey could reveal that a five-digit level (COICOP) expenditure",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "this case. In the case of a source data change or redesign, it would be preferable to parse the",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "Chapter 2: Backcasting methods .......................................................................................... 21",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "B. Backcasting methods consistency issues. .............................................................. ........................................ 21",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "C. Integration Methods for the backcasted sequence of accounts ...................................................................... 26",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5. Changes to accounting methods (valuation and timing of recording of transactions); ........................... 31",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "6. Improvements in compilation methodologies and quali ty of source data. ............................................. 31",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "E. Assess methodological options for each consistency issue. .......................................................................... 32",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Individual revision topics and methods ............................................................... ................................................. 48",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Technical Backcasting methodologies .................................................................. ............................................... 48",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Research papers and methods for long time series ..................................................... .......................................... 48",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "implementing new interpolation/projection technique s and other methodological changes.",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "methodological guidance in applying backcasting tec hniques to maintain coherent timeseries. In",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "required for the process, and articulate key steps such as analysing existing database, compiling",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "be produced. The Data Quality Assessment Framework for National Accounts published by the",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1.3 The premise of this Handbook is to provide guidance on how to produce a consistent set",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of the DQAF to set a framework for developing backcasted series, integrating them into a National",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "EN.PDF/3544793c-0bde-4381-a7ad-a5cfe5d8c8d0",
@@ -385,15 +201,219 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Chapter 2: Backcasting methods .......................................................................................... 21",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "B. Backcasting methods consistency issues. .............................................................. ........................................ 21",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "C. Integration Methods for the backcasted sequence of accounts ...................................................................... 26",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5. Changes to accounting methods (valuation and timing of recording of transactions); ........................... 31",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6. Improvements in compilation methodologies and quali ty of source data. ............................................. 31",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "E. Assess methodological options for each consistency issue. .......................................................................... 32",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Individual revision topics and methods ............................................................... ................................................. 48",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Technical Backcasting methodologies .................................................................. ............................................... 48",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Research papers and methods for long time series ..................................................... .......................................... 48",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "implementing new interpolation/projection technique s and other methodological changes.",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodological guidance in applying backcasting tec hniques to maintain coherent timeseries. In",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "required for the process, and articulate key steps such as analysing existing database, compiling",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "be produced. The Data Quality Assessment Framework for National Accounts published by the",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1.3 The premise of this Handbook is to provide guidance on how to produce a consistent set",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of the DQAF to set a framework for developing backcasted series, integrating them into a National",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "I. Example of a review exercise for a historical backcasting project ................................................................ 35",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "D. Examples of Communication Output of a Major update and backcasting exercise: ..................................... 46",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "case there is no sure way to know how earlier estimates would have changed if, for instance, new",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "economic history unless the change is justified by a documentable phenomenon. For example,",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "alternative backcasting techniques and integration procedures. It describes various examples of",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "project. It discusses that assumptions underlying these methods and presents some examples of",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.10 Examples for use of bottom up could be a re-sectori zation exercise to identify quasi-",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.11 Another example would be the compilation of Researc h and Development Expenditures",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "can be recompiled using detailed sources. An example could be newly acquired access to payroll",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.13 In some cases, a new methodology which caused a dis crepancy between the old and new",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assumption. It should be used with caution. For example, if a new data source in the recent period",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "new estimates. In the example above, if the casual worker phenomenon was known to have been",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.22 In the example above, if the phenomenon of missing wages of causal employment could",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "aggregates. For example, a new survey could reveal that a five-digit level (COICOP) expenditure",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "this case. In the case of a source data change or redesign, it would be preferable to parse the",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
+    "url": "https://www.stat.go.jp/training/2kenkyu/research/pdf/resear44.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/9241/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
     "url": "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20200116-51130624-bbc-int&lang=ja",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
@@ -401,37 +421,17 @@
     "method": "http"
    },
    {
-    "url": "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
+    "url": "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0030.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191129-00000004-bbt-l16&lang=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
+    "url": "https://www.tsukuba.ac.jp/journal/pdf/p20261029131500.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
     "url": "https://www.shiho-shoshi.or.jp/cms/wp-content/uploads/2014/03/200301_12.pdf",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://jicpa.or.jp/specialized_field/files/4-11-0-2j-20170731.pdf",
     "status": "robots_disallowed",
     "method": ""
    },
@@ -451,27 +451,12 @@
     "method": "http"
    },
    {
-    "url": "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191026-00142843-bcn-sci&lang=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000128820&page=ref_view&ldtl=1&fi=5_%E7%A4%BE%E4%BC%9A%E4%BA%BA%208_21%202_9%203_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B&mcmd=25&type=reference",
+    "url": "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001481535.pdf",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researchmap.jp/Yasuhiro_Okazawa/presentations/15530272/attachment_file.pdf",
-    "status": "http_403",
     "method": "pdf"
    },
    {
     "url": "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001355147.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.mlit.go.jp/sogoseisaku/jouhouka/content/001481535.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -481,9 +466,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.ey.com/ja_jp/technical/corporate-accounting/commentary/retroactive-adjustment/commentary-retroactive-adjustment-2013-11-21-01",
+    "url": "https://www.cirje.e.u-tokyo.ac.jp/research/workshops/stateng/statpaper2021/stat0507.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
@@ -491,9 +476,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.nli-research.co.jp/report/detail/id=84399?site=nli",
+    "url": "https://www.mhlw.go.jp/content/10700000/000688449.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
@@ -531,56 +516,16 @@
   {
    "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） site:note.com",
    "results": [
+    "https://www.stat.go.jp/training/2kenkyu/research/pdf/resear44.pdf",
+    "https://www.issoh.co.jp/column/details/9241/",
     "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_02.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20200116-51130624-bbc-int&lang=ja",
     "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
-    "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
-    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191129-00000004-bbt-l16&lang=ja",
-    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
-    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
+    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0030.pdf",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261029131500.pdf",
     "https://www.shiho-shoshi.or.jp/cms/wp-content/uploads/2014/03/200301_12.pdf",
-    "https://jicpa.or.jp/specialized_field/files/4-11-0-2j-20170731.pdf",
     "https://note.com/kamokita/n/n9c6a763ce31e"
-   ],
-   "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） note",
-   "results": [
-    "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
-    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
-    "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
-    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191129-00000004-bbt-l16&lang=ja",
-    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
-    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
-    "https://www.shiho-shoshi.or.jp/cms/wp-content/uploads/2014/03/200301_12.pdf",
-    "https://jicpa.or.jp/specialized_field/files/4-11-0-2j-20170731.pdf",
-    "https://www.soumu.go.jp/main_content/000438604.pdf"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
-   "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） やり方",
-   "results": [
-    "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
-    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
-    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191026-00142843-bcn-sci&lang=ja",
-    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
-    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
-    "https://www.shiho-shoshi.or.jp/cms/wp-content/uploads/2014/03/200301_12.pdf",
-    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000128820&page=ref_view&ldtl=1&fi=5_%E7%A4%BE%E4%BC%9A%E4%BA%BA%208_21%202_9%203_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B&mcmd=25&type=reference",
-    "https://researchmap.jp/Yasuhiro_Okazawa/presentations/15530272/attachment_file.pdf",
-    "https://www.soumu.go.jp/main_content/000438604.pdf"
    ],
    "engines": [
     "ddgs:google",
@@ -589,21 +534,61 @@
    "n_hits": 16
   },
   {
-   "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） 事例",
+   "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） note",
    "results": [
+    "https://www.stat.go.jp/training/2kenkyu/research/pdf/resear44.pdf",
+    "https://www.issoh.co.jp/column/details/9241/",
     "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_02.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20200116-51130624-bbc-int&lang=ja",
     "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
-    "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
-    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191129-00000004-bbt-l16&lang=ja",
-    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
-    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
+    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0030.pdf",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261029131500.pdf",
     "https://www.shiho-shoshi.or.jp/cms/wp-content/uploads/2014/03/200301_12.pdf",
-    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000128820&page=ref_view&ldtl=1&fi=5_%E7%A4%BE%E4%BC%9A%E4%BA%BA%208_21%202_9%203_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B&mcmd=25&type=reference",
-    "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/about_old_kaku/about_old_kaku.html"
+    "https://www.soumu.go.jp/main_content/000438604.pdf"
    ],
    "engines": [
     "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） やり方",
+   "results": [
+    "https://www.stat.go.jp/training/2kenkyu/research/pdf/resear44.pdf",
+    "https://www.issoh.co.jp/column/details/9241/",
+    "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_02.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20200116-51130624-bbc-int&lang=ja",
+    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
+    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0030.pdf",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261029131500.pdf",
+    "https://www.shiho-shoshi.or.jp/cms/wp-content/uploads/2014/03/200301_12.pdf",
+    "https://www.soumu.go.jp/main_content/000438604.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） 事例",
+   "results": [
+    "https://www.stat.go.jp/training/2kenkyu/research/pdf/resear44.pdf",
+    "https://www.issoh.co.jp/column/details/9241/",
+    "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_02.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20200116-51130624-bbc-int&lang=ja",
+    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
+    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0030.pdf",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261029131500.pdf",
+    "https://www.shiho-shoshi.or.jp/cms/wp-content/uploads/2014/03/200301_12.pdf",
+    "https://www.soumu.go.jp/main_content/000438604.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -617,13 +602,13 @@
     "https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.20/2018/mtg1/3a_Item_7_Backcasting_UNSD_23_May_2018.pdf",
     "https://erc.undp.org/methods-center/methods/evaluation-techniques/backcasting",
     "https://ec.europa.eu/eurostat/web/nace/backcasting",
-    "https://www.rabobank.com/knowledge/d011310657-backcasting-the-us-economy-with-dynamic-factor-models",
     "https://www.shrm.org/enterprise-solutions/insights/backcasting-future-back-thinking",
     "https://jfsdigital.org/transition-scenarios-via-backcasting/",
+    "https://www.rabobank.com/knowledge/d011310657-backcasting-the-us-economy-with-dynamic-factor-models",
     "https://www.sciencedirect.com/science/article/pii/S0040162524000817"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -633,14 +618,14 @@
    "results": [
     "https://note.com/kounotori17/n/ndc15bb83654d",
     "https://note.com/kamokita/n/n9c6a763ce31e",
-    "https://note.com/todobuono/n/n4500b9df68d9",
     "https://note.com/todobuono/n/nea823d9a8ab4",
-    "https://note.com/genial_moraea172/n/nded518ea002c",
+    "https://note.com/todobuono/n/n4500b9df68d9",
     "https://note.com/todobuono/n/n5a514ba6467a",
-    "https://note.com/mu0283/n/n13ed937ca717"
+    "https://note.com/mu0283/n/n13ed937ca717",
+    "https://note.com/genial_moraea172/n/nded518ea002c"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -649,11 +634,11 @@
    "results": [
     "https://x.com/taka_peace369/status/2099689206889222277",
     "https://x.com/webkanoshi/status/1108955647872102403",
-    "https://x.com/8pq3aioo/status/2086178183133728969",
     "https://x.com/umekichkun/status/1108751174235111424",
-    "https://x.com/michihito_ando/status/2030548742936604965",
-    "https://x.com/nkinvestigation/status/2106889779531108419",
-    "https://x.com/junpeiakashi/status/1097779516380930048"
+    "https://x.com/bot_kanazawa/status/2114190213756957097",
+    "https://x.com/AiAicolarArt23/status/2111779826822705366",
+    "https://x.com/Chisiki1/status/2100105704912863330",
+    "https://x.com/8pq3aioo/status/2086178183133728969"
    ],
    "engines": [
     "ddgs:google"
@@ -667,12 +652,12 @@
     "https://www.linkedin.com/posts/satoshi-kamei-1648b335_docomo-business-forum22-activity-6988138681140228096--QIL",
     "https://www.linkedin.com/pulse/データの正規性確認不良データのバラつきを科学的に評価する実験計画法を実践する前に知っておくべき統計的思考-鈴木-xjnbc/",
     "https://jp.linkedin.com/pulse/comprehensive-roadmap-learning-statistics-from-basics-abd-ur-rahman-dalff?tl=ja",
-    "https://jp.linkedin.com/posts/yamatoman_コンビニ3社2026年生存戦略-王者セブン失速で勢力図激変へ-時を同じくして-activity-7456473686888603648-Q3fO",
     "https://www.linkedin.com/feed/update/urn:li:activity:7268942474927054848/",
-    "https://jp.linkedin.com/posts/ryusuke-gondo-03801611b_power-bi-レポートの数字の単位をスライサーで変更できるようにする-千円-activity-7081500841014132736-96lz"
+    "https://jp.linkedin.com/posts/yamatoman_コンビニ3社2026年生存戦略-王者セブン失速で勢力図激変へ-時を同じくして-activity-7456473686888603648-Q3fO",
+    "https://jp.linkedin.com/posts/shenzhenfan_中国の社会保険住宅積立金過去差額問題一括追納従業員の申立て会計上の引当処理-activity-7503249580541493248-vBst"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -685,43 +670,25 @@
     "https://www.facebook.com/miki521424noguchi/posts/新規事業が売れないと商品を作り直すhpを変える広告費を増やすでもその前に商品ではなく市場への入口がズレているだけかもしれません10月からcrafanテストマーケ/3441309832704945/",
     "https://www.facebook.com/stat.japan/posts/総務省統計局からのお知らせ明日への統計2025を統計局ホームページに掲載しました統計調査の結果をグラフや図を用いてわかりやすく説明しています日本の社会経済の今の/1111615271002500/",
     "https://www.facebook.com/nhknewsweb/videos/熊本県八代市の八代ジャンクション付近で撮影した映像を元に立体化したものです高速道路の路面がずれて継ぎ目部分に段差ができています橋脚近くの地面などにも筋状の亀裂が/2181847399213755/",
-    "https://www.facebook.com/StatsGuild.jp/posts/統計学という学問分野は医学を志す人の興味をほとんどひかない細かいところが多く複雑で理解するのに時間がかかり身につけるためにはさらに多くの時間がかかるうえに医学で/251203348291127/"
+    "https://www.facebook.com/otohanachouka/videos/レビューを頼まれたけれど内容がボロボロすぎて1から直したくなったでもレビューというのは完成に向かうものを磨く作業であって土台から作り直すことではないだから指摘だ/1676431496957697/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） note 社長",
    "results": [
+    "https://www.stat.go.jp/training/2kenkyu/research/pdf/resear44.pdf",
+    "https://www.issoh.co.jp/column/details/9241/",
     "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
-    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
-    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191026-00142843-bcn-sci&lang=ja",
-    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
-    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
-    "https://www.shiho-shoshi.or.jp/cms/wp-content/uploads/2014/03/200301_12.pdf",
-    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000128820&page=ref_view&ldtl=1&fi=5_%E7%A4%BE%E4%BC%9A%E4%BA%BA%208_21%202_9%203_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B&mcmd=25&type=reference",
-    "https://researchmap.jp/Yasuhiro_Okazawa/presentations/15530272/attachment_file.pdf"
-   ],
-   "engines": [
-    "yahoo_jp"
-   ],
-   "n_hits": 9
-  },
-  {
-   "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） X 投稿",
-   "results": [
-    "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
-    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_02.pdf",
     "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
-    "https://www.jasendai.or.jp/about/magazine/pdf/bn_s/2210.pdf",
-    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20191129-00000004-bbt-l16&lang=ja",
-    "https://www.tsukuba.ac.jp/journal/pdf/p20261001141500.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20200116-51130624-bbc-int&lang=ja",
+    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261029131500.pdf",
     "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
-    "https://www.shiho-shoshi.or.jp/cms/wp-content/uploads/2014/03/200301_12.pdf",
-    "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000128820&page=ref_view&ldtl=1&fi=5_%E7%A4%BE%E4%BC%9A%E4%BA%BA%208_21%202_9%203_%E6%96%87%E7%8C%AE%E7%B4%B9%E4%BB%8B&mcmd=25&type=reference",
     "https://www.soumu.go.jp/main_content/000438604.pdf"
    ],
    "engines": [
@@ -731,24 +698,46 @@
    "n_hits": 16
   },
   {
+   "query": "統計の段差の前の年を細かい単位から作り直す遡及の実務と、過去を変えてよい条件（国連・OECD・各国統計局の backcasting の手引き・重なる年が無いときの扱い） X 投稿",
+   "results": [
+    "https://www.stat.go.jp/training/2kenkyu/research/pdf/resear44.pdf",
+    "https://www.issoh.co.jp/column/details/9241/",
+    "https://www.nistep.go.jp/activities/sti-horizon%E8%AA%8C/vol-02no-04/stih00048/",
+    "https://www.jasendai.or.jp/about/magazine/pdf/kawara/140_r4_02.pdf",
+    "https://hosei.ecats-library.jp/da/repository/00024852/vol12_07.pdf",
+    "https://agora.ex.nii.ac.jp/cgi-bin/dt/article.pl?id=20200116-51130624-bbc-int&lang=ja",
+    "https://www-cycle.nies.go.jp/jp/report/OECD_EPRJPNsummary.html",
+    "https://www.tsukuba.ac.jp/journal/pdf/p20261029131500.pdf",
+    "https://www.ryokunaisho.jp/about/jigyo/magazine/backnumber/0010.pdf",
+    "https://www.soumu.go.jp/main_content/000438604.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
    "query": "backcasting statistical break bottom-up reconstruction overlap year linking conditions site:linkedin.com",
    "results": [
+    "https://uk.linkedin.com/in/nasdag",
     "https://www.linkedin.com/pulse/backtesting-backcasting-validation-approaches-stronger-analytics-oe0ee",
     "https://www.linkedin.com/pulse/supply-chain-reconstruction-action-plan-sourcing-eo-nasir-jamil-mknhc",
-    "https://pe.linkedin.com/pulse/how-build-breakthrough-secret-backcasting-shane-kramps",
     "https://kr.linkedin.com/posts/martin-karlberg-phd-5ab07410_backcasting-statisticalbusinessregisters-activity-7354522013601787904-XsBF?tl=ko",
     "https://www.linkedin.com/pulse/from-vision-action-why-backcasting-strategic-strategy-dessert-apf-vntqe/",
+    "https://pe.linkedin.com/pulse/how-build-breakthrough-secret-backcasting-shane-kramps",
     "https://et.linkedin.com/posts/international-association-of-survey-statisticians-iass_dataintegration-timeseries-activity-7039142358830985216-P2bm",
     "https://pe.linkedin.com/posts/govinda-timilsina-6b455a44_dear-dr-timilsina-we-are-pleased-to-let-activity-6827933179505061888-le-E"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 8
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 13,
+ "runs": 14,
  "first_researched_at": "2026-11-06T08:04:59.950178+00:00"
 }

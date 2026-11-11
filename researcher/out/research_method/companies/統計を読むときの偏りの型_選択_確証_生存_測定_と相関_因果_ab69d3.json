@@ -8,7 +8,7 @@
  ],
  "context": "失敗・落とし穴",
  "kind": "market",
- "researched_at": "2026-11-09T09:03:23.378234+00:00",
+ "researched_at": "2026-11-10T23:04:07.500565+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -19,12 +19,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/reading_monkey/n/n2cfc3066ddd3",
+    "url": "https://note.com/reading_monkey/n/n5857b805b15c",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/reading_monkey/n/n5857b805b15c",
+    "url": "https://note.com/reading_monkey/n/n2cfc3066ddd3",
     "status": "ok",
     "method": "http"
    },
@@ -34,12 +34,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/reading_monkey/n/n37003ccd28a2",
+    "url": "https://note.com/reading_monkey/n/n49ee2b5c5d34",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/reading_monkey/n/n23a778aff8fd",
+    "url": "https://note.com/li_fe_igaku/n/nd53a818ba0ab",
     "status": "ok",
     "method": "http"
    },
@@ -59,11 +59,6 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.nri.com/jp/knowledge/glossary/causal_inference.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/reading_monkey/n/naf5fcdef9d99",
     "status": "ok",
     "method": "http"
@@ -74,7 +69,22 @@
     "method": "http"
    },
    {
+    "url": "https://diamond.jp/articles/-/364379",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nri.com/jp/knowledge/glossary/causal_inference.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://smart-analytics.jp/learning/statistics-entry/statistics-entry-006/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/correlation-analysis",
     "status": "ok",
     "method": "http"
    },
@@ -89,27 +99,22 @@
     "method": "http"
    },
    {
+    "url": "https://gmo-research.ai/research-column/correlation-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.jmp.com/ja/statistics-knowledge-portal/what-is-correlation/correlation-vs-causation",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.med.hirosaki-u.ac.jp/~uro/research/Statistical_Analysis_v3.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.statweb.jp/method",
-    "status": "ok",
+    "url": "https://r-portal.gmo-research.ai/trendnavi/articles/causality-correlation/",
+    "status": "http_403",
     "method": "http"
    },
    {
     "url": "https://growth-marketing.jp/knowledge/causation-correlation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://qiqumo.jp/contents/knowhow/3241",
     "status": "ok",
     "method": "http"
    },
@@ -119,22 +124,12 @@
     "method": ""
    },
    {
-    "url": "https://mmedici.co.jp/mmedici-library/AWy3IHC3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://papalife-lab.com/%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F%E7%B5%B1%E8%A8%88%E5%AD%A6%E3%81%A7%E6%9C%80%E3%82%82%E6%B3%A8%E6%84%8F%E3%81%99%E3%81%B9%E3%81%8D%E3%80%8C%E5%81%8F/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://best-biostatistics.com/design/bias.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9378569/",
+    "url": "https://minerva-clinic.or.jp/academic/terminololgyofmedicalgenetics/selection-bias/",
     "status": "ok",
     "method": "http"
    },
@@ -144,7 +139,7 @@
     "method": "http"
    },
    {
-    "url": "https://metricgate.com/blogs/selection-bias-vs-survivorship-bias/",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9378569/",
     "status": "ok",
     "method": "http"
    },
@@ -152,6 +147,11 @@
     "url": "https://www.facebook.com/groups/888403489920073/posts/1354766216617129/",
     "status": "robots_disallowed",
     "method": ""
+   },
+   {
+    "url": "https://metricgate.com/blogs/selection-bias-vs-survivorship-bias/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://plus.maths.org/maths-minute-selection-and-survivorship-bias",
@@ -170,18 +170,18 @@
    "query": "統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果 site:note.com",
    "results": [
     "https://note.com/suntarooo3/n/n35f88f8999e9",
-    "https://note.com/reading_monkey/n/n2cfc3066ddd3",
     "https://note.com/reading_monkey/n/n5857b805b15c",
+    "https://note.com/reading_monkey/n/n2cfc3066ddd3",
     "https://note.com/lyco_pene/n/n0a98a30418bb",
+    "https://note.com/reading_monkey/n/n49ee2b5c5d34",
+    "https://note.com/li_fe_igaku/n/nd53a818ba0ab",
     "https://note.com/reading_monkey/n/n37003ccd28a2",
     "https://note.com/reading_monkey/n/n23a778aff8fd",
     "https://note.com/reading_monkey/n/n2815d9dcdb4e",
-    "https://note.com/li_fe_igaku/n/nd53a818ba0ab",
-    "https://note.com/ichi_twnovel/n/n9bde056023e1",
-    "https://note.com/reading_monkey/n/n14ce5baceede"
+    "https://note.com/ichi_twnovel/n/n9bde056023e1"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -192,12 +192,12 @@
     "https://note.com/globis_engineers/n/n3f45bc222df8",
     "https://note.com/transree/n/n7623fbd6f145",
     "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
-    "https://www.nri.com/jp/knowledge/glossary/causal_inference.html",
     "https://note.com/reading_monkey/n/naf5fcdef9d99",
     "https://note.com/takaos/n/na9757f5c1b2b",
     "https://diamond.jp/articles/-/364379",
     "https://www.youtube.com/watch?v=LS_lyRqfc2A",
     "https://www.krsk-phs.com/entry/data_measurement",
+    "https://takuti.me/ja/note/cognitive-science-and-behavioral-economics/",
     "https://note.com/tasklab_biz/n/n2c27ce5d0f55"
    ],
    "engines": [
@@ -211,13 +211,13 @@
    "results": [
     "https://www.nri.com/jp/knowledge/glossary/causal_inference.html",
     "https://smart-analytics.jp/learning/statistics-entry/statistics-entry-006/",
+    "https://data-viz-lab.com/correlation-analysis",
     "https://www.nttcoms.com/service/research/dataanalysis/causation-correlation/",
     "https://www.macromill.com/service/words/correlation-causation/",
-    "https://www.jmp.com/ja/statistics-knowledge-portal/what-is-correlation/correlation-vs-causation",
-    "https://www.med.hirosaki-u.ac.jp/~uro/research/Statistical_Analysis_v3.pdf",
     "https://kunitomo-lab.sakura.ne.jp/2021-3-3Open(S).pdf",
-    "https://www.statweb.jp/method",
+    "https://gmo-research.ai/research-column/correlation-analysis",
     "https://www.youtube.com/watch?v=G8XVzaMKvgQ",
+    "http://www.f-edu.u-fukui.ac.jp/~c-matumo/jugyou/k_toukei2019/7.pdf",
     "https://papalife-lab.com/バイアスとは何か？統計学で最も注意すべき「偏/"
    ],
    "engines": [
@@ -232,12 +232,12 @@
     "https://www.nri.com/jp/knowledge/glossary/causal_inference.html",
     "https://www.nttcoms.com/service/research/dataanalysis/causation-correlation/",
     "https://www.jmp.com/ja/statistics-knowledge-portal/what-is-correlation/correlation-vs-causation",
-    "https://www.youtube.com/watch?v=LS_lyRqfc2A",
+    "https://r-portal.gmo-research.ai/trendnavi/articles/causality-correlation/",
     "https://growth-marketing.jp/knowledge/causation-correlation/",
     "https://www.macromill.com/service/words/correlation-causation/",
-    "https://qiqumo.jp/contents/knowhow/3241",
+    "https://www.youtube.com/watch?v=LS_lyRqfc2A",
+    "https://note.com/globis_engineers/n/n3f45bc222df8",
     "https://www.sas.com/content/dam/SAS/documents/event-collateral/2020/ja/japan-sas-users-group-forum/2-01-yada-intro-causal.pdf",
-    "https://mmedici.co.jp/mmedici-library/AWy3IHC3",
     "https://papalife-lab.com/バイアスとは何か？統計学で最も注意すべき「偏/"
    ],
    "engines": [
@@ -249,10 +249,10 @@
   {
    "query": "statistical literacy bias types survivorship selection measurement correlation causation",
    "results": [
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9378569/",
     "https://data36.com/statistical-bias-types-explained/",
-    "https://metricgate.com/blogs/selection-bias-vs-survivorship-bias/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9378569/",
     "https://www.facebook.com/groups/888403489920073/posts/1354766216617129/",
+    "https://metricgate.com/blogs/selection-bias-vs-survivorship-bias/",
     "https://plus.maths.org/maths-minute-selection-and-survivorship-bias",
     "https://www.youtube.com/watch?v=_tSQySJkhHg",
     "https://www.varsitytutors.com/practice/subjects/biostatistics/lessons/bias-and-confounding",
@@ -270,15 +270,15 @@
    "query": "site:note.com 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果",
    "results": [
     "https://note.com/suntarooo3/n/n35f88f8999e9",
-    "https://note.com/reading_monkey/n/n2cfc3066ddd3",
     "https://note.com/reading_monkey/n/n5857b805b15c",
+    "https://note.com/reading_monkey/n/n2cfc3066ddd3",
     "https://note.com/lyco_pene/n/n0a98a30418bb",
+    "https://note.com/reading_monkey/n/n49ee2b5c5d34",
     "https://note.com/li_fe_igaku/n/nd53a818ba0ab",
     "https://note.com/reading_monkey/n/n2815d9dcdb4e",
     "https://note.com/reading_monkey/n/n23a778aff8fd",
     "https://note.com/ichi_twnovel/n/n9bde056023e1",
-    "https://note.com/reading_monkey/n/n14ce5baceede",
-    "https://note.com/kagawatomo/n/nc05f33e67be0"
+    "https://note.com/reading_monkey/n/n14ce5baceede"
    ],
    "engines": [
     "ddgs:yahoo",
@@ -299,7 +299,7 @@
     "https://x.com/developer_quant/status/2065407779758825829"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -323,6 +323,7 @@
   {
    "query": "site:facebook.com 統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果",
    "results": [
+    "https://www.facebook.com/groups/aiacademy.jp/",
     "https://www.facebook.com/imakarasuugaku/videos/この動画ではデータの散らばりとは第3回-分布の形を読む統計学をやさしく解説の記事内容を-notebooklm-を使って分かりやすくダイジェストでご紹介します-a/1253590809970893/",
     "https://www.facebook.com/imakarasuugaku/videos/本動画では和から株式会社が公開した記事データを見る統計グラフ第2回-相関を読む散布図を基にnotebooklmを使って要点をぐっと凝縮しました2つの変数の関係性/1933922237562484/",
     "https://www.facebook.com/JMPjpn/photos/-統計をゼロから学べる無料オンラインコース30hほどの動画で統計スキルアップ製造業以外の方にもオススメです-探索的データ解析の基本-品質手法-相関と回帰-実験計/1288283793307773/",
@@ -332,9 +333,10 @@
     "https://www.facebook.com/watch/?v=1510148662838863"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 8
   },
   {
    "query": "統計を読むときの偏りの型（選択・確証・生存・測定）と相関・因果 note 社長",
@@ -347,11 +349,11 @@
     "https://note.com/kyoto_gonchan/n/n88523509f7cf",
     "https://www.krsk-phs.com/entry/data_measurement",
     "https://www.youtube.com/watch?v=LS_lyRqfc2A",
-    "https://takuti.me/ja/note/cognitive-science-and-behavioral-economics/",
+    "https://comemo.nikkei.com/n/neec7d5c18666",
     "https://note.com/tasklab_biz/n/n2c27ce5d0f55"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -362,12 +364,12 @@
     "https://www.youtube.com/watch?v=G8XVzaMKvgQ",
     "https://hkashima.github.io/FSM2018_12.pdf",
     "https://note.com/globis_engineers/n/n3f45bc222df8",
-    "https://www.digitalreactor.net/blog/causal-inference-basics/",
     "https://x.com/kspub_kodansha/status/2118282367752380824",
-    "https://cogpsy.educ.kyoto-u.ac.jp/personal/Kusumi/datasem11/tanaka.pdf",
     "https://www.hungyichen.com/ja/insights/berksons-paradox",
-    "https://www.krsk-phs.com/entry/data_measurement",
+    "https://www.digitalreactor.net/blog/causal-inference-basics/",
+    "https://cogpsy.educ.kyoto-u.ac.jp/personal/Kusumi/datasem11/tanaka.pdf",
     "https://healthpolicyhealthecon.wordpress.com/2014/09/30/study-design-overview/",
+    "https://www.kenkoudai.ac.jp/wp-content/uploads/2022/09/5c46b120c92affe1ef004307f7ec64d8.pdf",
     "https://papalife-lab.com/バイアスとは何か？統計学で最も注意すべき「偏/"
    ],
    "engines": [
@@ -382,16 +384,16 @@
     "https://www.linkedin.com/posts/bruceratner_why-statistical-bias-is-the-silent-killer-activity-7453770674961014784-6ePJ",
     "https://www.linkedin.com/posts/poornachandra-kongara_%F0%9D%97%A6%F0%9D%98%81%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0-%F0%9D%97%A5%F0%9D%97%BC%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BD-%F0%9D%97%B3%F0%9D%97%BC%F0%9D%97%BF-activity-7477688581545738240-IpXt",
     "https://www.linkedin.com/top-content/training-development/data-analysis-skills-training/practical-skills-for-statistics-graduates/",
-    "https://www.linkedin.com/pulse/correlation-vs-causation-academic-debate-here-what-costs-mark-stouse-wxgic",
     "https://www.linkedin.com/top-content/education/exploring-mathematical-concepts/strengthening-statistical-understanding/",
+    "https://www.linkedin.com/pulse/correlation-vs-causation-academic-debate-here-what-costs-mark-stouse-wxgic",
     "https://www.linkedin.com/top-content/technology/data-analysis-and-decision-making/improving-analytical-thinking-with-statistics/",
     "https://www.linkedin.com/top-content/career/professional-development-workshops/analytical-thinking-and-data-interpretation/",
     "https://www.linkedin.com/posts/poornachandra-kongara_anyone-can-build-a-dashboard-very-few-can-activity-7504884510740901888-NACX",
-    "https://www.linkedin.com/top-content/training-development/technical-skill-development/advanced-data-analysis-techniques/",
-    "https://ca.linkedin.com/in/yutong-lu-lorraine"
+    "https://www.linkedin.com/posts/mehul-mehta4_quantfinance-statistics-activity-7513795450269827072-oYZT",
+    "https://www.linkedin.com/top-content/training-development/technical-skill-development/advanced-data-analysis-techniques/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -405,6 +407,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 22,
+ "runs": 23,
  "first_researched_at": "2026-11-05T08:06:31.787472+00:00"
 }

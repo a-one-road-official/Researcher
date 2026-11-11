@@ -1,0 +1,775 @@
+{
+ "name": "Freterium",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T23:00:20.636389+00:00",
+ "official_url": "https://freterium.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Freterium connects your entire logistics ecosystem on a single intelligent layer. Seamlessly manage your in-house fleet and external transporters from first to last mile with a platform designed for intuitive flexibility—turning your logistics center into a profit engine.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive ETAs for your customers. Aggregates data from any GPS, temperature sensor or driver app.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I spot the exceptions that matter, so you can act before they become problems.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Document Processor Agent",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I match orders, rates, and invoices—and I prevent overpayments and revenue leakage.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle inspections, preventive and corrective maintenance, vehicles and drivers expenses.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I proactively manage fleet risk—flagging delays, rising costs, and breakdowns early.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Legacy Process (Plan → Track → Bill)",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Freterium does not provide hardware. Instead, we connect to any existing hardware in your fleet or your transporters' fleet. We have 50+ off-the-shelf integrations with main hardware vendors in the market.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How is Freterium priced?",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. We use enterprise-grade encryption for data at rest and in transit, and we host on secure top-tier cloud infrastructure.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What support and training do you offer?",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide comprehensive user training during onboarding and offer dedicated Customer Success Managers for enterprise accounts, plus 24/7 technical support.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate primary and secondary transportation in one platform. Manage your owned fleet and outsourced carriers side by side. Control cost-to-serve, reduce transport spend, and get end-to-end visibility across every shipment.",
+    "url": "https://freterium.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize middle-mile and last-mile operations with AI-generated routes and loads—built around your real-world constraints: time windows, product categories, multi-temperature, mixed fleets, road restrictions, and more. Reduce cost per pallet/carton and gain full visibility from pickup to proof of delivery.",
+    "url": "https://freterium.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Stop juggling spreadsheets. Centralize orders from all your channels (ERP, WMS, Excel, Email) into one unified, intelligent dashboard.",
+    "url": "https://freterium.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary algorithms that solve complex multi-drop routing and full-truck rotation problems in seconds, not hours.",
+    "url": "https://freterium.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive ETAs for your customers. We aggregate data from GPS devices, IoT sensors, and our Driver App.",
+    "url": "https://freterium.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the financial side. AI matches invoices to agreed rates and PODs to instantly approve payments or flag discrepancies.",
+    "url": "https://freterium.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive lifecycle management. Track preventive maintenance, vehicle inspections (DVIR), expenses, and driver compliance.",
+    "url": "https://freterium.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Press & Announcements",
+    "url": "https://freterium.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Press & Announcements",
+    "url": "https://freterium.ai/request-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2020 by Mehdi Cherif Alami (CEO) and Omar El Kouhene (CPO), Freterium connects shippers to the different parties involved in the logistics ecosystem, enabling all supply chain actors to collaborate easily and verify order traceability. The startup currently works with over 20 enterprises and caters to more than 3,000 users.",
+    "url": "https://www.wamda.com/2022/02/freterium-raises-4-million-seed",
+    "pass": 3
+   },
+   {
+    "quote": "The startup plans to use the funds to invest in its tech and product development to fuel growth and serve more companies in Africa and the Middle East.",
+    "url": "https://www.wamda.com/2022/02/freterium-raises-4-million-seed",
+    "pass": 3
+   },
+   {
+    "quote": "Morocco-headquartered Transport Management Software provider Freterium announced today that it has raised $4M in its latest funding round closed in December. The SEED round was led by Partech, with Y Combinator, Flexport, CDG Invest, Swiss Founders Fund, Outlierz Ventures, and Business Angels from the U.S., Europe, Asia, and Africa also participating.",
+    "url": "https://www.wamda.com/2022/02/freterium-raises-4-million-seed",
+    "pass": 3
+   },
+   {
+    "quote": "“The value proposition of Freterium is unique and we are convinced that their product will significantly impact the industry. It's a Moroccan gem that we are proud to support in its development and growth.” concluded Yassine Haddaoui, Managing Partner at CDG Invest.",
+    "url": "https://www.wamda.com/2022/02/freterium-raises-4-million-seed",
+    "pass": 3
+   },
+   {
+    "quote": "After graduating from the prestigious Y Combinator program last summer, Freterium, the Moroccan Logistics Tech startup closed a $4 million round of financing led by Partech in December",
+    "url": "https://partechpartners.com/news/freterium-raises-4m-seed-round-disrupt-4-trillion-trucking-industry",
+    "pass": 3
+   },
+   {
+    "quote": "- Morocco-headquartered Transport Management Software provider",
+    "url": "https://partechpartners.com/news/freterium-raises-4m-seed-round-disrupt-4-trillion-trucking-industry",
+    "pass": 3
+   },
+   {
+    "quote": "It currently has 20+ enterprise customers and more than 3,000 users of its software. With the latest funding, it plans to invest in its tech and product development to fuel growth and serve more companies in Africa and the Middle East. They are planning to double the size of the team within the next 12 months.",
+    "url": "https://partechpartners.com/news/freterium-raises-4m-seed-round-disrupt-4-trillion-trucking-industry",
+    "pass": 3
+   },
+   {
+    "quote": "“The value proposition of Freterium is unique and we are convinced that their product will significantly impact the industry. It's a Moroccan gem that we are proud to support in its development and growth.” said Yassine Haddaoui, Managing Partner at CDG Invest.",
+    "url": "https://partechpartners.com/news/freterium-raises-4m-seed-round-disrupt-4-trillion-trucking-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Their cloud-based transport management platform offers the easiest and most automated way for manufacturers, retailers and logistics providers, to manage their daily road freight shipments.",
+    "url": "https://partechpartners.com/news/freterium-raises-4m-seed-round-disrupt-4-trillion-trucking-industry",
+    "pass": 3
+   },
+   {
+    "quote": "Born in San Francisco and Paris, Partech is one of the most active tech investors in the world, bringing together capital, operational experience, and strategic support for entrepreneurs at seed, venture and growth stages. The current portfolio includes 200+ companies in more than 30 countries, of which 14 are valued at more than $1B.",
+    "url": "https://partechpartners.com/news/freterium-raises-4m-seed-round-disrupt-4-trillion-trucking-industry",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manage bulk movements. Plan full-truckload trips between port, factories, warehouses and hubs.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Operations Director at Commodities Manufacturer",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See Manufacturer Features",
+    "url": "https://freterium.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Their cloud-based transport management platform offers the easiest and most automated way for manufacturers, retailers and logistics providers, to manage their daily road freight shipments.",
+    "url": "https://partechpartners.com/news/freterium-raises-4m-seed-round-disrupt-4-trillion-trucking-industry",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Give shippers and carriers a portal to share orders, book slots, get status updates, PODs, invoices and reports.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I match orders, rates, and invoices—and I prevent overpayments and revenue leakage.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate primary and secondary transportation in one platform. Manage your owned fleet and outsourced carriers side by side. Control cost-to-serve, reduce transport spend, and get end-to-end visibility across every shipment.",
+    "url": "https://freterium.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "For 3PLs & Carriers",
+    "url": "https://freterium.ai/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate phone tag. Give shippers and carriers a dedicated portal to share orders, book slots, and get status updates.",
+    "url": "https://freterium.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "The unified operating system for the modern supply chain. Connecting Shippers, Carriers, and Fleets in one AI-native platform.",
+    "url": "https://freterium.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The unified operating system for the modern supply chain. Connecting Shippers, Carriers, and Fleets in one AI-native platform.",
+    "url": "https://freterium.ai/request-demo",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Centralize orders from all channels (ERP, WMS, Excel, Email) in one unified dashboard.",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I read emails & PDFs to create orders automatically. Zero data entry, no errors",
+    "url": "https://freterium.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop juggling spreadsheets. Centralize orders from all your channels (ERP, WMS, Excel, Email) into one unified, intelligent dashboard.",
+    "url": "https://freterium.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "AI Ingestion from PDF & Email",
+    "url": "https://freterium.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Please check your email to confirm your subscription.",
+    "url": "https://www.wamda.com/2022/02/freterium-raises-4-million-seed",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About Us - Freterium — About Us - Freterium Freterium https://freterium.ai > company",
+    "url": "https://freterium.ai/company",
+    "pass": 3
+   },
+   {
+    "quote": "Freterium - LinkedIn — Freterium - LinkedIn LinkedIn https://www.linkedin.com > freterium",
+    "url": "https://www.linkedin.com/company/freterium",
+    "pass": 3
+   },
+   {
+    "quote": "Freterium — Freterium Freterium https://freterium.ai",
+    "url": "https://freterium.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Freterium raises $4 million Seed - Wamda — Freterium raises $4 million Seed - Wamda Wamda https://www.wamda.com > 2022/02",
+    "url": "https://www.wamda.com/2022/02/freterium-raises-4-million-seed",
+    "pass": 3
+   },
+   {
+    "quote": "Emirates Logistics Global selects Freterium's TMS platform — Emirates Logistics Global selects Freterium's TMS platform Logistics Middle East https://www.logisticsmiddleeast.com > ...",
+    "url": "https://www.logisticsmiddleeast.com/logistics/emirates-logistics-global-selects-freteriums-tms-platform",
+    "pass": 3
+   },
+   {
+    "quote": "A TMS built for performance. — A TMS built for performance. freterium-g.com https://freterium-g.com > tms",
+    "url": "https://freterium-g.com/tms",
+    "pass": 3
+   },
+   {
+    "quote": "Resources | Freterium — Resources | Freterium Freterium https://freterium.ai > resources",
+    "url": "https://freterium.ai/resources",
+    "pass": 3
+   },
+   {
+    "quote": "Freterium raises $4M Seed round to disrupt the $4 trillion ... — Freterium raises $4M Seed round to disrupt the $4 trillion ... Partech https://partechpartners.com > news > f...",
+    "url": "https://partechpartners.com/news/freterium-raises-4m-seed-round-disrupt-4-trillion-trucking-industry",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tech3arabi.com on X: \"شركة Freterium تحصل على تمويل بقيمة 4 ... Feb 26, 2022 · شركة Freterium تحصل على تمويل بقيمة 4 مليون دولار أمريكي إليك التفاصيل من خلال الرابط التالي youtu.be/fgVThUh1sAU أو من خلال تطبيق #تك_عربي المتوفر على جوجل بلاي و آب ستور و هواوي آب جاليري tech3arabi.com/app.html ...",
+    "url": "https://x.com/tech3arabi/status/1497645661063426051",
+    "pass": 3
+   },
+   {
+    "quote": "Mouad Ennaciri (@mdennaciri) / Posts / X Feb 23, 2023 · Mouad Ennaciri (@mdennaciri) - Posts - Indie hacker building rowslint.io and kallnext.com Software engineer @Freterium (YC S21) | X (formerly Twitter)",
+    "url": "https://x.com/mdennaciri",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Freterium - LinkedIn Freterium - LinkedIn LinkedIn https://www.linkedin.com > freterium",
+    "url": "https://www.linkedin.com/company/freterium",
+    "pass": 3
+   },
+   {
+    "quote": "Mehdi Cherif-Alami, CEO & Co-Founder of Freterium ... Mehdi Cherif-Alami, CEO & Co-Founder of Freterium ... LinkedIn https://www.linkedin.com > posts > th...",
+    "url": "https://www.linkedin.com/posts/theceomagazine_leadership-ceoprofiles-logisticstech-activity-7438116747930607616-FCMQ",
+    "pass": 3
+   },
+   {
+    "quote": "Mehdi Cherif-Alami‏ - ‏CEO & Founder @ Freterium - LinkedIn Mehdi Cherif-Alami‏ - ‏CEO & Founder @ Freterium - LinkedIn LinkedIn https://ae.linkedin.com > mehdi-ca",
+    "url": "https://ae.linkedin.com/in/mehdi-ca",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Freterium - Facebook Freterium - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/freterium/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://freterium.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freterium.ai/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freterium.ai/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freterium.ai/platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freterium.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://freterium.ai/request-demo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://freterium.ai/_next/image?url=%2Fmanufacturing.jpg&w=3840&q=75&dpl=dpl_MGMUUCQBYSzhF72xcQZqHEmuSzJp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://freterium.ai/_next/image?url=%2Flogos%2Fdanone.png&w=128&q=75&dpl=dpl_MGMUUCQBYSzhF72xcQZqHEmuSzJp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://freterium.ai/_next/image?url=%2Flogos%2Fmondelez.png&w=128&q=75&dpl=dpl_MGMUUCQBYSzhF72xcQZqHEmuSzJp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://freterium.ai/logos/air-liquide.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.sonatus.com/ja/company/press-release/sonatus-expands-global-reach-into-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ZzY2rHyOrXM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=1000488624640_1777939200243",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/freterium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.wamda.com/2022/02/freterium-raises-4-million-seed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.logisticsmiddleeast.com/logistics/emirates-logistics-global-selects-freteriums-tms-platform",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f5.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ptc.com/en/case-studies?srsltid=AYCX9vJ8Qe3CmaixARpbfO1sylGkkTfubKUa_Wut1HisFrOnwccrGTdd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.freightoptics.com/company/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partechpartners.com/news/freterium-raises-4m-seed-round-disrupt-4-trillion-trucking-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wamda.com/2022/02/freterium-raises-4-million-seed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/fretron.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Freight_Tiger",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tech3arabi/status/1497645661063426051",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mdennaciri",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/freterium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/theceomagazine_leadership-ceoprofiles-logisticstech-activity-7438116747930607616-FCMQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ae.linkedin.com/in/mehdi-ca",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/freterium/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Freterium 日本 導入",
+   "results": [
+    "https://www.sonatus.com/ja/company/press-release/sonatus-expands-global-reach-into-japan/",
+    "https://www.stellantis.jp/",
+    "https://www.youtube.com/watch?v=ZzY2rHyOrXM",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://jp.fdi-corp.com/",
+    "https://jp.inceptio.ai/news/99019.html",
+    "https://www.youtube.com/watch?v=jIcuwpdYzoc",
+    "https://jidounten-lab.com/u_53039",
+    "https://freterium.ai/",
+    "https://freterium.ai/resources"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Freterium 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://freterium.ai/company",
+    "https://product.torexsemi.com/ja/sample-and-purchase/distributor?_pid=1000488624640_1777939200243",
+    "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "https://www.manageengine.jp/pace/",
+    "https://partner.infinicloud.com/agencypartner.html",
+    "https://fercamjapan.co.jp/network/",
+    "https://careerforum.net/ja/event/on3/companylist_69/3318/company_detail/",
+    "https://www.robot-digest.com/contents/?id=1637314615-620652",
+    "https://www.e-frontier.com/news/press/?p=2186",
+    "https://ja.wikipedia.org/wiki/秦英之"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Freterium Japan",
+   "results": [
+    "https://www.linkedin.com/company/freterium",
+    "https://freterium.ai/",
+    "https://www.wamda.com/2022/02/freterium-raises-4-million-seed",
+    "https://www.logisticsmiddleeast.com/logistics/emirates-logistics-global-selects-freteriums-tms-platform",
+    "https://freterium-g.com/tms",
+    "https://apps.apple.com/jp/app/freterium/id6447266118",
+    "https://freterium.ai/resources",
+    "https://jawlah.co/en/tag/freterium",
+    "https://www.facebook.com/freterium/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Freterium manufacturing customer case study",
+   "results": [
+    "https://freterium.ai/resources",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.f5.com/case-studies",
+    "https://www.ptc.com/en/case-studies?srsltid=AYCX9vJ8Qe3CmaixARpbfO1sylGkkTfubKUa_Wut1HisFrOnwccrGTdd",
+    "https://www.averitt.com/resources/case-studies",
+    "https://663810.fs1.hubspotusercontent-na1.net/hubfs/663810/2022%20-%20CLEVR%20Success%20Stories%20EBooks/CLEVR%20Success%20Stories%20-%20Manufacturing%20-%20ENG.pdf",
+    "https://uxpressia.com/blog/customer-experience-in-manufacturing-challenges-and-opportunities",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKLhaEyBtR-yTGWGo3HJF5ofdqpxrkbNX2Dp5E8NKXNkX69Yyil",
+    "https://www.supplychainbrain.com/case-studies/article/15845264/customer-profiles",
+    "https://www.scribd.com/document/1028137598/Freterium-Business-Case-Consumer-Goods-Distributor"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Freterium white label OR reseller OR partner program",
+   "results": [
+    "https://www.freightoptics.com/company/white-label/",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Freterium founded funding employees revenue",
+   "results": [
+    "https://partechpartners.com/news/freterium-raises-4m-seed-round-disrupt-4-trillion-trucking-industry",
+    "https://www.wamda.com/2022/02/freterium-raises-4-million-seed",
+    "https://getlatka.com/companies/fretron.com",
+    "https://growjo.com/company/Freight_Tiger",
+    "https://freterium.ai/resources",
+    "https://gaps.com/finance/",
+    "https://tracxn.com/d/companies/vector/__8XrLVHy7s7HiQHXlbDnMbW14F8KU6gwwK_VBXURqIHQ",
+    "https://austria.dealroom.co/companies/freterium",
+    "https://bullfincher.io/",
+    "https://compworth.com/company/freterium"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Freterium",
+   "results": [
+    "https://note.com/nekota_toure/n/na8caab0bb72e?hl=en",
+    "https://note.com/sada_815/n/n34c16756953d",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/panzer03/n/nefad1ef71f41",
+    "https://note.com/clean_ixora696/n/n5a518cac2482",
+    "https://note.com/power_uncovered/n/n7fbd3966fdff",
+    "https://note.com/abeshun/n/nc7ecafe2bbd9"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Freterium",
+   "results": [
+    "https://x.com/tech3arabi/status/1497645661063426051",
+    "https://x.com/mdennaciri",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/GOKForFree/status/2117551629918785974"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Freterium",
+   "results": [
+    "https://www.linkedin.com/company/freterium",
+    "https://www.linkedin.com/posts/theceomagazine_leadership-ceoprofiles-logisticstech-activity-7438116747930607616-FCMQ",
+    "https://www.linkedin.com/posts/theceomagazine_mehdicherifalami-freterium-logistics-activity-7525044686005420032-x_RI",
+    "https://ae.linkedin.com/in/mehdi-ca",
+    "https://ae.linkedin.com/in/kupcikas",
+    "https://ma.linkedin.com/in/omar-aboudrar-19b71411",
+    "https://ma.linkedin.com/in/omar-el-kouhene-981b0412/en",
+    "https://www.linkedin.com/posts/omar-el-kouhene-981b0412_startup-founders-logistics-activity-7241411915908804610-KzEe",
+    "https://www.linkedin.com/posts/omar-el-kouhene-981b0412_how-morocco-based-freterium-is-looking-to-activity-7024353110676439040-ZLL8",
+    "https://www.linkedin.com/products/freterium/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Freterium",
+   "results": [
+    "https://www.facebook.com/freterium/",
+    "https://www.facebook.com/klakicelandicstartups/posts/lets-meet-the-startup-supernova-2026-teams-freightflowfreightflow-is-software-fo/1751254090005043/",
+    "https://www.facebook.com/startupsceneME/posts/egyptian-logistics-startup-turuq-innovations-has-secured-seed-investment-from-de/1538005665015554/",
+    "https://www.facebook.com/MoroccoWorldNews/posts/mustapha-rafiki-has-joined-tech-first-gulf-tfg-as-general-manager-for-the-maghre/1570685755093085/",
+    "https://www.facebook.com/PartechPartners/",
+    "https://www.facebook.com/CegepAndreLaurendeau/posts/-le-pdg-romain-bonnifet-de-lentreprise-fastercom-inc-%C3%A9tait-r%C3%A9cemment-pr%C3%A9sent-lor/1265740398127520/",
+    "https://www.facebook.com/61588680645681/posts/tangier-are-you-ready-to-shape-the-future-of-technology-from-october-7th-to-9th-/122113974201289354/",
+    "https://www.facebook.com/2m.officiel/posts/morocco-has-received-nine-nominations-for-the-2026-women-in-tech-mena-awards-rec/1666434558185320/",
+    "https://www.facebook.com/SmartVisionGroupEg1/posts/highlights-from-some-of-our-interactive-sessions-and-panel-discussions-at-svs-mo/1566112472224074/",
+    "https://www.facebook.com/freterium/videos/freterium-invité-de-ouadih-dada-sur-info-soir/303679628193830/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Freterium note 社長",
+   "results": [
+    "https://note.com/miyasakago/n/n31faaa4d887e",
+    "https://note.com/trex_ai",
+    "https://note.com/l_f_i",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.facebook.com/freterium/",
+    "https://note.flywheel.jp/",
+    "https://note.com/dirbato",
+    "https://note.com/trex_ai/m/mc8045ce24717/hashtag/AI%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Freterium X 投稿",
+   "results": [
+    "https://app.freterium.com/",
+    "https://freterium-g.com/",
+    "https://play.google.com/store/apps/details?id=com.freterium",
+    "https://freterium.ai/",
+    "https://www.facebook.com/freterium/",
+    "https://x.com/FRMFXtra/status/1900198544331436531",
+    "https://chromewebstore.google.com/detail/twitter-post-exporter-dow/jdegdcamkndlebppmdlkgolkknkbjcne?hl=ja",
+    "https://freterium-g.com/tms",
+    "https://note.com/soh_ainsight/n/nf2f67e343db3",
+    "https://freterium.ai/resources"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}

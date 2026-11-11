@@ -1,0 +1,1794 @@
+{
+ "name": "Powerx",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial IoT / Sensors｜AUMS不適合",
+ "researched_at": "2026-11-10T23:48:31.153833+00:00",
+ "official_url": "http://www.powerx.co",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "Welcome back! Please enter your email and password to continue.",
+    "url": "https://dashboard.powerx.co/",
+    "pass": 1
+   },
+   {
+    "quote": "These are tracked in various places, some Fibery and some not (e.g. Hubspot, email, adhoc!). We use Fibery to provide a flexible tool here to “think around” the ideas – whiteboards, documents, even entire new workspaces to test out processes.",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "産業用の中型定置用蓄電システム「PowerX Cube」と蓄電池型急速EV充電システム「PowerX Hypercharger Pro」を発表、受注開始",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2月 - 「PowerX Hypercharger Pro」の販売・施工を担う認定販売事業パートナー制度を公表",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "Made in Japan Promise",
+    "url": "https://power-x.jp/ja/intl",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、卸電力市場（JEPX）への参加や、再エネ電源のFIP（Feed-in Premium）制度下で蓄電併用による出力最適化を行うケースも増えてきた",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "At POWERX, we make power work. As the leading provider of comprehensive power services, we excel in delivering solutions that meet the highest standards of quality and reliability. Whether providing NETA accredited field services, delivering engineering and consulting expertise, or ensuring compliance with certifications and regulations, our integrated approach drives safety and performance.",
+    "url": "https://powerxco.com/",
+    "pass": 3
+   },
+   {
+    "quote": "At POWERX, our people are our purpose. By prioritizing safety, innovation, and integrity, we create lasting relationships with our clients, delivering exceptional value every step of the way.",
+    "url": "https://powerxco.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This international tower company had an experienced team that relied on manual processes to see through hundreds of billions of data points from tens of thousands of towers to find the sites with power infrastructure issues and extract actionable insights. See how PowerX automated manual tower operations and scaled optimisations across the network without increasing manpower.",
+    "url": "https://powerx.ai/casestudy03",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX provided a closed-loop, cloud-based solution that required no site visits or additional on-site equipment—making deployment fast and efficient across multiple countries, regardless of existing power hardware variations. This made the business case a clear win.",
+    "url": "https://powerx.ai/casestudy03",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond the technology, the customer was impressed by the responsiveness of the PowerX team during implementation. The AI-led approach quickly delivered actionable insights from massive volumes of data, uncovering efficiencies previously hidden. Key results included:",
+    "url": "https://powerx.ai/casestudy03",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX’s AI-led approach de-risks both investment and operational costs, boosting agility and competitiveness. Longer-term opportunities include smarter CapEx planning, enhanced uptime SLAs with higher tenancy ratios, and stronger offerings to attract new tenants.",
+    "url": "https://powerx.ai/casestudy03",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX streamlines software development and prototyping with Fibery",
+    "url": "https://www.casestudies.com/customer/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX scales IoT production from pilot to 200,000 units with Very",
+    "url": "https://www.casestudies.com/customer/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: PowerX scales IoT production from pilot to 200,000 units with Very | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/very1/case-study/powerx-scales-from-2000-to-200000-units-with-very",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: PowerX scales IoT production from pilot to 200,000 units with Very",
+    "url": "https://www.casestudies.com/company/very1/case-study/powerx-scales-from-2000-to-200000-units-with-very",
+    "pass": 3
+   },
+   {
+    "quote": "How PowerX tracks development and prototypes work in Fibery",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "We have an AI platform that optimises power usage particularly in mobile networks for developing economies, saving 50% on costs and reducing CO2 emissions by 30%, and provides visibility and operational support for network health",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "We are using Fibery for keeping track of our software development process, managing product strategy, standards and regulatory compliance, and prototyping work.",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "I have found it to be an extremely flexible and powerful tool, once I got my head around it I've found it seeping into every aspect of our process. Whenever we need to experiment with process iterations or new workflows, Fibery is our first port of call.",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "I’m a process experimenter, and we love iteration and continuous improvement internally, so Fibery gives us the flexibility to easily play without getting bogged down. In previous lives I have used a variety of tools and found them often to be too opinionated, too narrowly defined, or with clunky UI/UX. We use Fibery to replace a classic post-it developer wall,",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "Now spill the tea: How does your Software Development process look like?",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "We are a heavily customer-focused company in terms of iterating our offering towards product-market fit, so we have requirements come in from all directions: sales demos, more mature customers, market research, internal R&D, etc.",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "These are tracked in various places, some Fibery and some not (e.g. Hubspot, email, adhoc!). We use Fibery to provide a flexible tool here to “think around” the ideas – whiteboards, documents, even entire new workspaces to test out processes.",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "Once these get refined and accepted, we’ll start using our fairly customised software process workspace to generate stories with detailed requirements and acceptance criteria, which then get estimated and moved through implementation, QA and release in a fairly traditional agile fashion using Fibery’s tools.",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "How do you track and analyze progress?",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "Full disclosure time! We started off using Fibery as our wiki, but have recently moved to Notion. I’m not sure how I’d articulate why, but Notion does make it easier to manage documents rather than semi-structured processes/workspaces.",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "We have retros every sprint. We initially used Fibery whiteboards for this but had issues with lag when lots of people were using them together. Actions typically get turned into Stories to be accounted for in people’s priorities.",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "Praise time: What is your favorite Fibery feature and why?",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "Rather than any single feature, it’s more the holistic aspect that makes me reach for it — I have a new process, project, or prototyping to do, I can spin something up really quickly to keep on top of it.",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "For two recent examples, we have been implementing ISO27k information security standards and it took me all of 20 minutes to build a risk assessment tracker, and we also had a complex onboarding of a client that required tracking several hundred assets through a fairly involved onboarding process which we ended up tracking entirely in Fibery.",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "The whiteboards could definitely be improved — I tend to default to Miro, which is a pity as Fibery shines for that early prototyping, thinking-with-tools aspect for me, of which whiteboards are a large part. They’re just a little clunky and don’t translate intention into outcome in a very intuitive way.",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "How product studio uses Fibery to build an MVP of their NFT project",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "All this content is for you, not for SEO (doesn't work anyway)",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX Company Profile and Key Stats",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 23, 2021",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX raised $4.0M in a Seed announced in Apr 2021.",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "HELIOS® is a technology company that assists athletes and teams in improving at a quicker pace. Through their…",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Tutor Intelligence is a comprehensive robotics and automation company designed to assist contract packagers.…",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "An AI startup that builds custom AI models and \"Specific Intelligence\" solutions for enterprises.",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Serval provides an AI-native IT service management platform designed to automate help desk operations, access…",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Ravical assists skilled firms in adopting an AI-focused approach for the future. We create AI solutions that…",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Broccoli provides automated phone support solutions for plumbing, HVAC, and electrical businesses, enabling…",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ tracks announced funding rounds and refreshes this profile every week. Round dates,",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Radar from $49/mo · Pro from $149/mo. Card required, nothing charged until",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "[Pre-IPO] Thorough Analysis of PowerX, Inc.: The Background of 'Going Public Despite Losses' and Key Considerations for Investors｜牛嶋",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Pre-IPO] Thorough Analysis of PowerX, Inc.: The Background of 'Going Public Despite Losses' and Key Considerations for Investors",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I usually work in customer success at a SaaS company, but as an individual investor, I also research promising companies and make investment decisions every day.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you are interested in PowerX but feel a bit uneasy hearing about their losses, I hope this provides some helpful insight.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I will analyze the company's growth potential and risks, and even delve into the question of whether one can aim for a profit of over 10% from a short-term trading perspective.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The company's products, which combine these three elements, have already",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "secured large orders for energy storage projects nationwide",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "expanded to more than four times that of the previous year (approximately 41.7 billion yen)",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The market for BESS and EV chargers is highly competitive. Amidst a crowd of prominent players such as Tesla, CATL, and major heavy electric manufacturers, PowerX is competing with the following points of differentiation:",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Price competitiveness x Reliability",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Price levels comparable to overseas products, combined with the reliability and maintenance system unique to Japanese manufacturing.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, the company's strength lies in its evolution from a simple manufacturer into a 'comprehensive solution provider that includes infrastructure operation'.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": A market that evaluates future high growth. Profitability is not a mandatory requirement.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Sales growth from 2023 to 2024 was over +1800% (from 327 million to 6.16 billion yen). Continued growth of approximately 3x is expected in 2025.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Clear path to profitability",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2026, the global technology industry is facing unprecedented 'physical constraints.' It is not a shortage of semiconductors, but a 'shortage of power supply.' With the scaling of AI models, the power consumption density of data centers is soaring, with power consumption per facility jumping by orders of magnitude from a few megawatts (MW) to hundreds of megawatts.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The concept that has emerged to break this deadlock is 'Grid Bypass.' This literally refers to a strategy of physically avoiding (bypassing) grid constraints by utilizing independent power sources or large-scale energy storage systems on the premises of the demand site (data center) or adjacent land, rather than waiting for connection to the existing, congested power grid.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "4月 - 蓄電池製品及びその関連製品の製造を目的として、株式会社PowerX Manufacturingを新設分割により設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by PowerX",
+    "url": "https://www.casestudies.com/customer/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: PowerX scales IoT production from pilot to 200,000 units with Very | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/very1/case-study/powerx-scales-from-2000-to-200000-units-with-very",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: PowerX scales IoT production from pilot to 200,000 units with Very",
+    "url": "https://www.casestudies.com/company/very1/case-study/powerx-scales-from-2000-to-200000-units-with-very",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/very1/case-study/powerx-scales-from-2000-to-200000-units-with-very",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/very1/case-study/powerx-scales-from-2000-to-200000-units-with-very",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "They are involved in the development and manufacturing of next-generation infrastructure such as EV chargers and storage batteries, and they are actually",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Particularly noteworthy are the large container-type storage battery “Mega Power” (2.7MWh) and its successor model, “Mega Power 2500.” Integrated manufacturing at their own factory, software-based control, and “Made in Japan” quality management.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The market for BESS and EV chargers is highly competitive. Amidst a crowd of prominent players such as Tesla, CATL, and major heavy electric manufacturers, PowerX is competing with the following points of differentiation:",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The only domestic manufacturer of large-scale storage batteries",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Completing everything from cell modularization to system construction at their own factory in Okayama.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Price levels comparable to overseas products, combined with the reliability and maintenance system unique to Japanese manufacturing.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, the company's strength lies in its evolution from a simple manufacturer into a 'comprehensive solution provider that includes infrastructure operation'.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Cost improvements and profitability through in-house manufacturing",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It was common sense for conventional data centers to be built in urban areas where communication infrastructure is concentrated (such as Otemachi in Tokyo or Inzai in Chiba). However, power shortages are most severe in these 'prime locations.' As a result, developers are forced to look to rural areas with spare capacity in the power grid or to land adjacent to renewable energy power plants.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This figure signifies more than just breaking even. Depending on the scale of revenue, an operating profit exceeding 2 billion yen suggests that the 'mass production system' as a manufacturer is on track and that sufficient shipment volume has been secured to fully absorb fixed costs.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Increased utilization rate of the Okayama factory",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": In manufacturing, factory utilization is directly linked to profit margins. Large orders (18 units) for Nomura Real Estate (Nomuraya Holdings), mentioned later, and potential demand from the partnership with IIJ appear to have pushed the factory's utilization rate above the break-even point.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Approx. 25% reduction compared to conventional methods Cost reduction through modularization of parts and factory production",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For PowerX, a hardware manufacturer, this partnership means gaining the 'strongest customer' and the 'strongest operational partner.' IIJ has a track record of verifying and commercializing containerized data centers utilizing outside air cooling at its Matsue Data Center Park (such as co-IZmo/I), and has a deep understanding of container DCs.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "5.1 Strategic Value of the Okayama Factory",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The source of PowerX's competitiveness lies in 'Power Base,' one of Japan's largest battery factories located in Tamano City, Okayama Prefecture.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX's competitors can be broadly divided into two categories: 'battery manufacturers' and 'data center operators,' but it has established a unique position in the area that integrates both.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If the relationship with battery cell suppliers (likely Chinese manufacturers, etc.) deteriorates, there is a risk that production will stop. Diversifying suppliers is an urgent task.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Chapter 8: Case Study — Real Demand Seen in Collaboration with Nomura Real Estate",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Investments in factory expansion and automation are underway to establish a 6.8 GWh system by 2029.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Beyond hardware sales, the ratio of software business (SaaS/PaaS) will increase, integrating and managing thousands of BESS and DC units distributed nationwide via the cloud to function as a Virtual Power Plant (VPP).",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX (485A.T) — from 2026 onwards, that name will be etched into Japanese industrial history as the 'standard-bearer of the energy revolution.'",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "has solidified its position as the premier orchestrator of Japan's decentralized energy revolution. Since its IPO, the company has transformed from a high-potential startup into a scalable industrial giant, recently securing a landmark",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mother Factory Upgrades",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "3月 - 株式会社パワーエックスを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "6月 - 本社を東京都港区",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "から東京都港区赤坂九丁目7番1号ミッドタウン・タワー43階に移転",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "4月 - 蓄電池製品及びその関連製品の製造を目的として、株式会社PowerX Manufacturingを新設分割により設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2月 - 電気運搬船の開発・販売及び海上電力輸送関連事業の企画運営を目的として、株式会社海上パワーグリッドを設立",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "- 株式会社パワーエックス、2025年11月25日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "- 株式会社東京証券取引所上場部、2025年11月25日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "- 株式会社パワーエックス、2025年12月23日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "- 日本経済新聞（2025年11月25日）、2025年11月25日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "- 日本経済新聞（2023年8月30日）、2025年11月25日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社パワーエックスとの資本業務提携契約締結に関するお知らせ",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "- 今治造船株式会社、2025年11月25日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社パワーエックスとの資本業務提携を締結～安価な蓄電池の大量生産と電気運搬船の製造を推進～(pdf)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "- 関西電力株式会社 ・合同会社K4 Ventures、2025年11月25日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "- 日本経済新聞（2025年7月25日）、2025年11月25日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "- 日本経済新聞（2024年5月28日）、2025年11月25日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2021年設立の日本企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "Made in Japan Promise",
+    "url": "https://power-x.jp/ja/intl",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社PowerXーー蓄電×ソフト×輸送インフラの実装物語｜DeepTech Stories Japan",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社PowerXーー蓄電×ソフト×輸送インフラの実装物語",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "DeepTech Stories Japan",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "再生可能エネルギーの急拡大と電力網の制約、災害リスクとEV電化の波——日本のエネルギーシステムは四重の圧力に晒されている",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "日本では再生可能エネルギーの導入比率が年々高まっている",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "地理的なミスマッチ、例えば、再エネ資源に恵まれた地域と需要の大きい都市圏の隔たりが、日本の電力システムに新たなひずみを生んでいる",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、日本列島は災害の頻発する大地である",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本で送電線網を新設・強化するには膨大な時間とコストがかかり、ルート選定や環境アセスメント、地元合意などの壁がある",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "日本発のスタートアップ「PowerX（パワーエックス）」は、まさにこの「蓄電×ソフト×輸送」を一つに束ねた独自のインフラ戦略を掲げ、再エネ大量導入時代の電力システム刷新に挑んでいる",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "このように、エネルギー転換期の日本で直面する課題に対し、PowerXは蓄電池・電力輸送・需要制御を組み合わせた新たな電力インフラの物語を描こうとしている",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "2021年3月、東京と岡山を拠点にPowerXが産声を上げた背景には、日本のエネルギー危機に対する強い問題意識があった",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "当時、日本は化石燃料価格の高騰や寒波による電力需給逼迫を経験し、電力市場価格が高騰する「2021年電力危機」を迎えていた",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "また東日本大震災以降の原発停止で電力自給率が低下し、エネルギーの海外依存や電力供給不安が社会問題となっていた",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "IT業界でキャリアを積んだ彼は、災害多発国である日本において“電気を貯め、運び、制御する”新たな産業基盤の必要性を痛感し、PowerXを立ち上げたのだ",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "「Made in Japanの蓄電池を世界へ」という同社の掲げるモットーには、エネルギー自給と地域振興の想いが込められている",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "実際、日本では容量市場（発電容量を供給する対価を得る仕組み）や需給調整市場（周波数調整力などをオークション提供する場）が整備され始めており、蓄電池はこれらに参加して収益を上げることが可能だ",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "PowerXは日本発の蓄電インフラ企業として、主要技術を内製化しつつ幅広い協業関係を築く戦略を採っている",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "これらは既に日本の調整力市場で商品化されており、PowerXは自社の蓄電ネットワークがこれらサービスを提供できるようソフトウェア面を強化している",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "日本の電力供給において、この地理的ギャップは大きな課題である",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "従来は送電線や海底ケーブルを敷設して電力融通を図ってきたが、海底地形が険しかったり地震リスクが高い日本近海では、長大な送電ケーブル計画は技術的・費用的ハードルが高い",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "PowerXは2023年に今治造船などと提携し、海上送電事業会社「Ocean Power Grid株式会社」を設立",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "幸い、日本各地の臨海部には休廃止となった火力発電所が存在するケースが多く、その受変電設備や送電網への接続インフラを転用できる可能性がある",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "それでも、バッテリータンカーが実現すれば、日本のみならず世界中の島嶼地域や海峡を隔てたエリアに新たな電力流通オプションが生まれる",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "PowerXのBESS製品は国際規格であるIEC 62619（蓄電池の安全要求）やIEC 62933（エネルギー貯蔵システムの安全）に準拠し、日本国内規格のJIS C 8715-2（定置リチウム電池設備）やJIS C 4441（蓄電システム用電力変換装置）などにも対応している",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "さらに日本の消防法では一定規模以上の蓄電池は指定可燃物として規制対象となるが、消火設備や区画設計など所定の基準を満たすことで屋内外への設置認可を取得する",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2025, the most anticipated company in the domestic startup scene will finally list on the Tokyo Stock Exchange Growth Market. The company name is",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "as their weapons, they are attracting intense attention from investors both in Japan and abroad.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Particularly noteworthy are the large container-type storage battery “Mega Power” (2.7MWh) and its successor model, “Mega Power 2500.” Integrated manufacturing at their own factory, software-based control, and “Made in Japan” quality management.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This indicates that the company's BESS is becoming integrated into Japan's decarbonization and power stabilization infrastructure.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Price levels comparable to overseas products, combined with the reliability and maintenance system unique to Japanese manufacturing.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It was common sense for conventional data centers to be built in urban areas where communication infrastructure is concentrated (such as Otemachi in Tokyo or Inzai in Chiba). However, power shortages are most severe in these 'prime locations.' As a result, developers are forced to look to rural areas with spare capacity in the power grid or to land adjacent to renewable energy power plants.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The large-scale share buyback of 'up to 7.23% of issued shares,' announced simultaneously with the guidance for an operating profit, is extremely unusual for the Japanese growth market. Typically, growth companies are reluctant to pay dividends or buy back shares because they reinvest their cash on hand. The clear intent of management can be read into this timing.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On February 13, 2026, PowerX announced the signing of an MOU with Internet Initiative Japan Inc. (IIJ). IIJ is a pioneer from the dawn of the internet in Japan and possesses overwhelming experience in high-quality backbone networks, cloud services, and data center operations.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The source of PowerX's competitiveness lies in 'Power Base,' one of Japan's largest battery factories located in Tamano City, Okayama Prefecture.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Planned to expand to a maximum of 6.8 GWh per year by 2029. This is a massive capacity comparable to the scale of the entire Japanese residential battery market.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "5.2 'Made in Japan Promise' and Security",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX upholds the 'Made in Japan Promise,' thoroughly internalizing not only product design and assembly but also control software (BMS and PMS).",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2025, Sanae Takaichi became Prime Minister of Japan, and an economic policy called 'Sanae-nomics' was launched. The birth of this new administration is a powerful tailwind for PowerX.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Under Sanae-nomics, the Bank of Japan may move to raise interest rates to correct the weak yen and curb inflation. For a capital-intensive equipment industry like PowerX, rising borrowing costs will put pressure on profits.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Leveraging the reliability of 'Made in Japan,' the company is eyeing entry into Southeast Asia, where power grids are unstable, and the U.S. market, where there is high security awareness.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX (485A.T) — from 2026 onwards, that name will be etched into Japanese industrial history as the 'standard-bearer of the energy revolution.'",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While 30 minutes per session is the standard for fast charging in Japan, PowerX allows for continuous charging of up to 75 minutes. If you have a large-capacity battery EV in the 100kWh class, you can bring it back to near full charge in one go.",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "2025年12月19日上場",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "新規上場申請のための有価証券報告書(Iの部)(pdf)",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "- 株式会社東京証券取引所上場部、2025年11月25日閲覧",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "蓄電池新興のパワーエックス、12月19日に東証グロース上場",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "2025年上場の企業",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "pass": 3
+   },
+   {
+    "quote": "I’m a process experimenter, and we love iteration and continuous improvement internally, so Fibery gives us the flexibility to easily play without getting bogged down. In previous lives I have used a variety of tools and found them often to be too opinionated, too narrowly defined, or with clunky UI/UX. We use Fibery to replace a classic post-it developer wall,",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "Manuel Schonfeld is listed as CEO at PowerX.",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does PowerX have?",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "[Pre-IPO] Thorough Analysis of PowerX, Inc.: The Background of 'Going Public Despite Losses' and Key Considerations for Investors｜牛嶋",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Pre-IPO] Thorough Analysis of PowerX, Inc.: The Background of 'Going Public Despite Losses' and Key Considerations for Investors",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I have compiled an analysis of PowerX, Inc., which is scheduled for an IPO in December 2025, from both a corporate and investment perspective.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“Wait, is it okay to have an IPO while losing money?”—many readers will likely have this question.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Listed in 2021. AI marketing SaaS. Even with a deficit of over 2 billion yen at the time of listing, it was evaluated for its growth potential and entered the Growth market.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Listed in 2022. D2C for complete nutritional food. Despite being in the red due to advertising investment, it attracted attention for its rapidly growing LTV-based model.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Listed in 2023. A drug discovery startup that went public before monetization.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX is indeed operating at a loss. However, this loss is a \"positive deficit\" backed by a clear strategy and a future revenue model.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Expansion of recurring revenue such as PPA and maintenance services",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The era of equating a loss-making IPO with a bad company is over. Buy growth and support change.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This figure signifies more than just breaking even. Depending on the scale of revenue, an operating profit exceeding 2 billion yen suggests that the 'mass production system' as a manufacturer is on track and that sufficient shipment volume has been secured to fully absorb fixed costs.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The three arrows of Sanae-nomics are 'National Crisis Management and Growth,' 'Proactive and Responsible Fiscal Policy,' and 'Government-Responsible Monetary Policy.' Especially in the context of 'crisis management,' energy security and the cultivation of domestic technology are positioned as the most important issues.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is its biggest appeal. Since you can reserve a charging slot from 3 days in advance via the dedicated app, you can completely prevent the worst-case time loss of \"arriving at the SA only to find someone else there and having to wait 30 minutes.\"",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "⚠️ Arriving too early will result in \"waiting time\"",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even if the roads are clear and you arrive 20 minutes early, the system will not start until your reserved time. You need to be careful with your pace when planning your arrival time.",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "has solidified its position as the premier orchestrator of Japan's decentralized energy revolution. Since its IPO, the company has transformed from a high-potential startup into a scalable industrial giant, recently securing a landmark",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": The proprietary charging service, \"PowerX First,\" has successfully monetized high-demand urban charging locations, providing a steady stream of recurring revenue alongside its heavy-industry BESS sales.",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "PowerXは2021年に設立され、2025年12月に東証グロース市場へ上場したエネルギー関連企業です",
+    "url": "https://note.com/kenkeninvest/n/n933943fe978b",
+    "pass": 3
+   },
+   {
+    "quote": "2025年12月には東証グロース市場への上場を果たしています",
+    "url": "https://note.com/kenkeninvest/n/n933943fe978b",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "パワーエックス - Wikipedia — 産業用の中型定置用蓄電システム「PowerX Cube」と蓄電池型急速EV充電システム「PowerX Hypercharger Pro」を発表、受注開始。 9月 - 定置用蓄電システムの新製品2機種「PowerX Mega Power 2700L」及び「PowerX Mega Power 2500」を発表、受注開始。",
+    "url": "https://ja.wikipedia.org/wiki/パワーエックス",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX, Inc. — From battery power plants to advanced BESS, PowerX is driving Japan’s energy independence with in-house manufactured large-scale energy storage systems.",
+    "url": "https://power-x.jp/en",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社PowerXーー蓄電×ソフト×輸送インフラの実装物語 — Nov 8, 2025 · 1. 導入：なぜ今、PowerXなのか？ 再生可能エネルギーの急拡大と電力網の制約、災害リスクとEV電化の波——日本のエネルギーシステムは四重の圧力に晒されている。 PowerXは「蓄電×ソフト×輸送」の統合によって、その難題に応えようとしている。",
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "pass": 3
+   },
+   {
+    "quote": "PowerXの実際のデータセンター向けBESS戦略：メガパワーDC戦略の裏側... — May 14, 2026 · PowerXの解決策は、メガパワーDCというコンテナ化されたデータセンターです。 このデータセンターにはエネルギー貯蔵装置が内蔵されており、分散処理のS曲線を指数関数的に拡大する前に、その問題を解決します。",
+    "url": "https://www.ainvest.com/ja/news/powerx-real-data-center-bess-play-mega-power-dc-strategy-japan-expansion-2605/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社パワーエックス - PowerX — パワーエックスは、大型蓄電池の開発・製造から、量産型コンテナデータセンター、超急速EV充電ステーション、法人向けの電力供給・アグリゲーションサービスまでを手がけています。系統用・産業用の蓄電システムを国内最大級の自社工場より製造・出荷しています。",
+    "url": "https://power-x.jp/ja",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX, Inc. — From battery power plants to advanced BESS, PowerX is driving Japan’s energy independence with in-house manufactured large-scale energy storage systems.",
+    "url": "https://power-x.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX Homepage - PowerX — Power Solutions ExpertsWE MAKE POWER WORK Powering Businesses & Communities Nationwide Learn MoreTalk to an Expert Powered by Excellence At POWERX, we make power work. As the leading provider of comprehensive power services, we excel in delivering solutions that meet the highest standards of quality and reliability. Whether providing NETA accredited field services, deliv",
+    "url": "https://powerxco.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX, Inc. - LinkedIn — Accelerating the adoption of renewable energy. About us PowerX pioneers renewable energy solutions by providing advanced BESS, ultrafast EV chargers, and the world's first Battery Tankers.",
+    "url": "https://www.linkedin.com/company/powerx-inc",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX（Japanese storage battery company）_Baiduwiki — PowerX Co., Ltd. is a Japanese storage battery company established in March 2021, headquartered in Minato, Tokyo, with Masahiro Ito as its President and CEO.",
+    "url": "https://baike.baidu.com/en/item/PowerX/5755894",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX - 2026 Company Profile, Team, Funding, Competitors ...PowerX Japan | MirantisPowerX Energy - PowerX, Inc. — Mar 13, 2026 · PowerX is a public company based in Minato (Japan), founded in 2021 by Masahiro Ito. It operates as a Manufacturer of stationary battery storage systems and related energy services. PowerX has raised $112M in funding from investors like Nippon Gases, SMBC Nikko Securiti",
+    "url": "https://tracxn.com/d/companies/powerx/__oKKhjzFdrCFuFslH0LBf2rmDJuuaGSN6lYEFvqp-BSc",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX Japan | Mirantis — Founded in 2021, PowerX (PowerX Inc.) is a company revolutionizing next-generation energy storage and distribution technology to address global energy challenges.",
+    "url": "https://www.mirantis.com/cloud-case-studies/powerx-japan-en/",
+    "pass": 3
+   },
+   {
+    "quote": "casestudy03 - powerx.ai — The net-OPEX improvements enabled by PowerX’s self-funding solution are driving long-term shareholder value. The customer chose PowerX for its expertise in leveraging deep data analytics and AI, its proven ability to automate manual processes, and its robust, data-driven architecture.",
+    "url": "https://powerx.ai/casestudy03",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How PowerX Uses Software & Services — Explore case studies featuring PowerX as the customer — learn how vendors and partners helped PowerX solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: PowerX scales IoT production from pilot to ... — The customer, PowerX, a manufacturer of home energy monitoring solutions, faced the challenge of scaling its production from 2,000 to 200,000 units to fulfill pre-orders from Fortune 500 companies.",
+    "url": "https://www.casestudies.com/company/very1/case-study/powerx-scales-from-2000-to-200000-units-with-very",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX customer story — Fibery — Check out how PowerX technology startup uses Fibery for keeping track of their software development process, managing product strategy, and prototyping work.",
+    "url": "https://fibery.com/customer-stories/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX Mega Power Case Study - PowerX, Inc. — Products Mega Power Grid Connector Data Center PowerX Cube Hypercharger Services PowerX App PowerX Energy EV Charging for Biz Corporate",
+    "url": "https://power-x.jp/en/mega-power/casestudy",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX - 2026 Company Profile, Team, Funding & Competitors ... — Sep 27, 2026 · PowerX - About the company PowerX is a seed company based in Brooklyn (United States), founded in 2019 by Manuel Schonfeld. It operates as a Provider of energy management solutions for restaurants. PowerX has raised $4M in funding from Springtide Capital and Climate Capital.",
+    "url": "https://tracxn.com/d/companies/powerx/__ickcfDNNtvtfIL_NVCZ6uHDCUjObDtKY2j2htU9HuOc",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX – Company Profile & Market Insights – 2026 – Brooklyn — Discover PowerX's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX 2026 Company Profile: Valuation, Funding & Investors ...PowerX: Funding, Investors & Team (Oct 2026) | FundedIQPowerX: Funding, Team & Investors | Startup IntrosPowerX Revenue, Funding & ValuationAbout Us - PowerX — Information on valuation, funding, cap tables, investors, and executives for PowerX. Use the PitchBook Platform to explore the full profile. PowerX helps to identify the individ",
+    "url": "https://pitchbook.com/profiles/company/234748-18",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX: Funding, Investors & Team (Oct 2026) | FundedIQ — PowerX helps to identify the individual appliances and water outlets like a garden faucet that are driving up the utility bill each month. The company was founded in 2020 and based in Brooklyn, New York.",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded PowerX? PowerX was founded in 2020 by Manuel Schoenfeld (Founder). How much funding has PowerX raised? PowerX has raised $73.5M in total across 4 funding rounds.",
+    "url": "https://startupintros.com/orgs/powerx",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Pre-IPO] Thorough Analysis of PowerX, Inc.: The Background ... In this article, I will thoroughly dissect PowerX just before its listing from an investor's perspective. I will analyze the company's growth potential and risks, and even delve into the question of whether one can aim for a profit of over 10% from a short-term trading perspective.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2026: PowerX (485A.T) and the 'Grid Bypass' Revolution ... Feb 26, 2026 · PowerX's solution perfectly aligns with this trend of 'regional decentralization.' Because of its containerized modular design, there is no need to build large-scale buildings, and it can be deployed in a short period on idle land or former power plant sites.",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Summary Version] [2026 Latest] PowerX Reviews and How to Use ... Sep 3, 2026 · However, PowerX is a groundbreaking service that completely overturns that common knowledge. In this article, I will explain the appeal of PowerX, smart ways to use it, and points you should know, from the perspective of an active EV owner who has used it many times!",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Equity Analysis】PowerX (485A): Japan’s Energy Disruptor ... Apr 6, 2026 · PowerX is more than a battery company; it is the operating system for Japan’s new energy grid. By solving the fundamental problem of renewable energy—intermittency—through storage and maritime transport, PowerX has made itself an indispensable partner to the Japanese government and industry.",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "第2回 蓄電池革命！2030年の ... - note（ノート） 4 days ago · 第2回🔋蓄電池革命！2030年の勝者を探せ ！PowerX（485A）は日本のエネルギー産業を変えられるか？― 伊藤ハム創業家出身の社長、中国製電池への依存、独自技術と2030年の成長可能性 ―",
+    "url": "https://note.com/kenkeninvest/n/n933943fe978b",
+    "pass": 3
+   },
+   {
+    "quote": "『9月度古新田大学校 - PowerX 伊藤社長ご講演』が開催されました！｜... Sep 13, 2024 · 株式会社パワーエックス 取締役 代表執行役社長CEO 伊藤 正裕様！ 通算約260億円を調達する、日本を代表するスタートアップ！ 再生可能エネルギーの蓄電池モジュール生産設備として日本最大級規模の工場を岡山県玉野市に持たれております。",
+    "url": "https://note.com/hitoyane_cw_5410/n/nf07f9e6543b2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Pre-IPO] Thorough Analysis of PowerX, Inc.: The Background of 'Going Public Despite Losses' and Key Considerations for Investors｜牛嶋",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Pre-IPO] Thorough Analysis of PowerX, Inc.: The Background of 'Going Public Despite Losses' and Key Considerations for Investors",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello, this is Ushijima.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I usually work in customer success at a SaaS company, but as an individual investor, I also research promising companies and make investment decisions every day.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am particularly drawn to companies that sit at the intersection of technology and social issues.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I have compiled an analysis of PowerX, Inc., which is scheduled for an IPO in December 2025, from both a corporate and investment perspective.",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“Why can they go public even while in the red?”",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "“Is this company truly going to grow?”",
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2026: PowerX (485A.T) and the 'Grid Bypass' Revolution — Energy Security and the Redefinition of Corporate Value in the AI Era｜AI × 投資アナリティクス | データで語る未来",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2026: PowerX (485A.T) and the 'Grid Bypass' Revolution — Energy Security and the Redefinition of Corporate Value in the AI Era",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI × 投資アナリティクス | データで語る未来",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction: The Shock of 'February 2026' That Transformed Market Valuation",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In mid-February 2026, the stock price movement of PowerX, Inc. (Securities Code: 485A.T) on the Tokyo Stock Exchange Growth Market captured the attention of investors and the industry alike. The background to the sudden limit-up and surge in trading volume for a company long viewed as a loss-making 'deep-tech startup' contains the portents of a structural industrial shift that transcends mere spec",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The trigger was the announcement of a dramatic 'turn to profitability' in the earnings guidance for the fiscal year ending February 2026, along with a resolution for a large-scale share buyback amounting to 7.23% of issued shares. The V-shaped recovery scenario, projecting an operating profit of 2.0 to 2.5 billion yen for fiscal 2026 compared to the 677 million yen operating loss of the previous f",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, more important than the improvement in financial figures is the 'drastic change in the business environment' behind them. With the explosive spread of generative AI, the power demand of data centers (DCs) is increasing exponentially, and the 'power wall' problem—where existing power grids become bottlenecks and stall new DC construction—is becoming globally severe. In response to this cri",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This report comprehensively analyzes PowerX's 2026 growth scenario, starting with its strategic partnership with IIJ, the production capacity of its Okayama factory, and the policy tailwinds from 'Sanae-nomics' under the Sanae Takaichi administration. We will unravel the full picture of the role PowerX intends to play at the intersection of the two massive trends of AI and energy, from technical, ",
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Summary Version] [2026 Latest] PowerX Reviews and How to Use! A Planned EV Life Mastering Reservation-Based, 150kW Ultra-Fast Charging｜トット",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Summary Version] [2026 Latest] PowerX Reviews and How to Use! A Planned EV Life Mastering Reservation-Based, 150kW Ultra-Fast Charging",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When it comes to EV fast charging, there has always been a gambling element of \"not knowing if it's available until you get there.\" However, PowerX is a groundbreaking service that completely overturns that common knowledge.",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will explain the appeal of PowerX, smart ways to use it, and points you should know, from the perspective of an active EV owner who has used it many times!",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article is a summary version. For a more detailed explanation, please see the main blog post.",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "👇 Click here for the main post",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ 3 Greatest Advantages That Make PowerX Different from Other Chargers",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "① Zero waiting time with a \"complete reservation system\" starting 3 days in advance",
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Equity Analysis】PowerX (485A): Japan’s Energy Disruptor Accelerates into the \"Grid-Scale\" Era｜Pheue（ふ～）⭐️|医療従事者の年収1,000万円資産形成処方箋",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Equity Analysis】PowerX (485A): Japan’s Energy Disruptor Accelerates into the \"Grid-Scale\" Era",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pheue（ふ～）⭐️|医療従事者の年収1,000万円資産形成処方箋",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "has solidified its position as the premier orchestrator of Japan's decentralized energy revolution. Since its IPO, the company has transformed from a high-potential startup into a scalable industrial giant, recently securing a landmark",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "for large-scale Battery Energy Storage Systems (BESS) from a major domestic energy utility.",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Massive Scaling: From Okayama to \"Power Base Hokkaido\"",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The production strategy of PowerX has entered a new phase of geographic diversification and capacity expansion.",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Hokkaido Expansion",
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "第2回🔋蓄電池革命！2030年の勝者を探せ ！PowerX（485A）は日本のエネルギー産業を変えられるか？― 伊藤ハム創業家出身の社長、中国製電池への依存、独自技術と2030年の成長可能性 ―｜kenkeninvest｜ｹﾝｹﾝｲﾝﾍﾞｽﾄ",
+    "url": "https://note.com/kenkeninvest/n/n933943fe978b",
+    "pass": 3
+   },
+   {
+    "quote": "第2回🔋蓄電池革命！2030年の勝者を探せ ！PowerX（485A）は日本のエネルギー産業を変えられるか？― 伊藤ハム創業家出身の社長、中国製電池への依存、独自技術と2030年の成長可能性 ―",
+    "url": "https://note.com/kenkeninvest/n/n933943fe978b",
+    "pass": 3
+   },
+   {
+    "quote": "kenkeninvest｜ｹﾝｹﾝｲﾝﾍﾞｽﾄ",
+    "url": "https://note.com/kenkeninvest/n/n933943fe978b",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは！KenKeninvestです🌴",
+    "url": "https://note.com/kenkeninvest/n/n933943fe978b",
+    "pass": 3
+   },
+   {
+    "quote": "未来産業投資シリーズ「蓄電池革命！2030年の勝者を探せ」。",
+    "url": "https://note.com/kenkeninvest/n/n933943fe978b",
+    "pass": 3
+   },
+   {
+    "quote": "第2回は、日本発の蓄電池企業、PowerX（パワーエックス・485A）を取り上げます。",
+    "url": "https://note.com/kenkeninvest/n/n933943fe978b",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータセンター、再生可能エネルギー、電気自動車（EV）。",
+    "url": "https://note.com/kenkeninvest/n/n933943fe978b",
+    "pass": 3
+   },
+   {
+    "quote": "これらの成長産業に共通する課題が、電力の安定供給です。",
+    "url": "https://note.com/kenkeninvest/n/n933943fe978b",
+    "pass": 3
+   },
+   {
+    "quote": "『9月度古新田大学校 - PowerX 伊藤社長ご講演』が開催されました！｜コワーキングスペース ひとやね",
+    "url": "https://note.com/hitoyane_cw_5410/n/nf07f9e6543b2",
+    "pass": 3
+   },
+   {
+    "quote": "『9月度古新田大学校 - PowerX 伊藤社長ご講演』が開催されました！",
+    "url": "https://note.com/hitoyane_cw_5410/n/nf07f9e6543b2",
+    "pass": 3
+   },
+   {
+    "quote": "9/12(木)にひとやねで古新田大学校が開催されました！",
+    "url": "https://note.com/hitoyane_cw_5410/n/nf07f9e6543b2",
+    "pass": 3
+   },
+   {
+    "quote": "いつもはクローズで開催している古新田大学校。9月期は久しぶりのオープン企画。講演&懇親会でした！",
+    "url": "https://note.com/hitoyane_cw_5410/n/nf07f9e6543b2",
+    "pass": 3
+   },
+   {
+    "quote": "今回ご講演いただいたのはなんとなんと・・・",
+    "url": "https://note.com/hitoyane_cw_5410/n/nf07f9e6543b2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社パワーエックス 取締役 代表執行役社長CEO 伊藤 正裕様！",
+    "url": "https://note.com/hitoyane_cw_5410/n/nf07f9e6543b2",
+    "pass": 3
+   },
+   {
+    "quote": "通算約260億円を調達する、日本を代表するスタートアップ！再生可能エネルギーの蓄電池モジュール生産設備として日本最大級規模の工場を岡山県玉野市に持たれております。",
+    "url": "https://note.com/hitoyane_cw_5410/n/nf07f9e6543b2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社パワーエックス(PowerX,Inc.) とは・・・？",
+    "url": "https://note.com/hitoyane_cw_5410/n/nf07f9e6543b2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "POWERX - LinkedIn At POWERX, we make power work. As the leading provider of comprehensive power services, we excel in delivering solutions that meet the highest standards of quality and reliability.",
+    "url": "https://www.linkedin.com/company/powerxco",
+    "pass": 3
+   },
+   {
+    "quote": "Powerx.co - LinkedIn PowerX is an energy management solution that empowers businesses to cut operating costs and reduce energy usage. | PowerX is on a mission to help businesses waste less energy and money.",
+    "url": "https://www.linkedin.com/company/powerx",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX Technology | LinkedIn Tower teams can only harness the power of the data for such vast and complex networks with PowerX artificial intelligence tools. They help operational teams reveal hidden efficiencies in the...",
+    "url": "https://in.linkedin.com/company/powerx-technology",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX, Inc. - LinkedIn Accelerating the adoption of renewable energy. | PowerX pioneers renewable energy solutions by providing advanced BESS, ultrafast EV chargers, and the world's first Battery Tankers.",
+    "url": "https://www.linkedin.com/company/powerx-inc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "POWERX - FacebookPowerX International LLC | Pewaukee WI - FacebookPowerX | Phoenix AZ - FacebookPowerX Gym | Lisbon - FacebookPowerXone Wallet - FacebookPowerX Insurance and Financial Services | Lawrenceville GAPowerX - Big changes are happening at the new @POWERX ... Sep 24, 2026 · POWERX's bespoke energy exchange platform cuts through the complexities of trading, ensuring producers have massive ",
+    "url": "https://www.facebook.com/POWERX/",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX International LLC | Pewaukee WI - FacebookPowerX | Phoenix AZ - FacebookPowerX Gym | Lisbon - FacebookPowerXone Wallet - FacebookPowerX Insurance and Financial Services | Lawrenceville GAPowerX - Big changes are happening at the new @POWERX ... Oct 8, 2026 · PowerX hydraulic tools deliver the force and control needed for demanding industrial applications. From fabrication and maintenance to",
+    "url": "https://www.facebook.com/PowerXIntl/",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX | Phoenix AZ - Facebook May 15, 2025 · At POWERX, our success is powered by teamwork — it's the foundation of everything we do. Whether it's in the office, out in the field, or at special events like Powertest, our team brings the energy, and knows how to get the job done.",
+    "url": "https://www.facebook.com/powerxedge/",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX Gym | Lisbon - FacebookPowerXone Wallet - FacebookPowerX Insurance and Financial Services | Lawrenceville GAPowerX - Big changes are happening at the new @POWERX ... Eu afinava para ficar mais “PowerX” e com mais impacto: 🏁 POWERX VAI COM TUDO PARA O ESTORIL! Mais de 32 atletas, motores afinados e corpos preparados para dar tudo até ao último metro. 🌍 POWERX ONE IS MOVING ON TWO FRONTS. ⚡️ ",
+    "url": "https://www.facebook.com/powerxbgym/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "伊藤正裕 PowerX CEO (@masahiro_ito) / X Aug 3, 2009 · 伊藤正裕 PowerX CEO @masahiro_ito PowerX 創設者・社長兼CEO、 日本産業芸術財団 代表理事、 Tokyo, Japan power-x.jp Joined August 2009",
+    "url": "https://x.com/masahiro_ito",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX EV チャージステーション on X: \"充電報告といつも美味しそう... 那須の #千本松牧場 @ senbonmatsufarm で、とっても美味しい #ソフトクリーム を食べながら @ PowerX_JP で、事前に予約をして急速充電中です。",
+    "url": "https://x.com/PowerX_JP/status/1826809096764285353",
+    "pass": 3
+   },
+   {
+    "quote": "PowerX EV チャージステーション (@PowerX_JP) / X 【お知らせ】PowerX EVチャージステーションが最大出力240kWの高電圧充電を開始しました🚗⚡️ 第一弾は東京有明エリア「Livedoor URBAN SPORTS PARK」からスタート！",
+    "url": "https://x.com/powerx_jp",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://dashboard.powerx.co/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%82%A8%E3%83%83%E3%82%AF%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://power-x.jp/ja/intl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ainvest.com/ja/news/powerx-real-data-center-bess-play-mega-power-dc-strategy-japan-expansion-2605/",
+    "status": "http_202",
+    "method": "http"
+   },
+   {
+    "url": "https://power-x.jp/ja/intl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://powerxco.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://power-x.jp/ja/intl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/powerx-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://baike.baidu.com/en/item/PowerX/5755894",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/powerx/__oKKhjzFdrCFuFslH0LBf2rmDJuuaGSN6lYEFvqp-BSc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://powerx.ai/casestudy03",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/powerx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/very1/case-study/powerx-scales-from-2000-to-200000-units-with-very",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fibery.com/customer-stories/powerx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/powerx/__ickcfDNNtvtfIL_NVCZ6uHDCUjObDtKY2j2htU9HuOc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/powerx",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/234748-18",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/powerx-powerx-co-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/powerxco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/powerx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/powerx-technology",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/powerx-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/POWERX/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PowerXIntl/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/powerxedge/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/powerxbgym/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kenkeninvest/n/n933943fe978b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/masahiro_ito",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hitoyane_cw_5410/n/nf07f9e6543b2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PowerX_JP/status/1826809096764285353",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/powerx_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Powerx 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/パワーエックス",
+    "https://power-x.jp/en",
+    "https://note.com/deeptech_japan/n/nd6e438f3a15d",
+    "https://www.ainvest.com/ja/news/powerx-real-data-center-bess-play-mega-power-dc-strategy-japan-expansion-2605/",
+    "https://power-x.jp/ja",
+    "https://news.livedoor.com/article/detail/32745593/",
+    "https://note.com/mahjong_lab/n/nf32ec3be37c3"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Powerx 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://power-x.jp/",
+    "https://powerxco.com/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Powerx Japan",
+   "results": [
+    "https://power-x.jp/en",
+    "https://www.linkedin.com/company/powerx-inc",
+    "https://baike.baidu.com/en/item/PowerX/5755894",
+    "https://tracxn.com/d/companies/powerx/__oKKhjzFdrCFuFslH0LBf2rmDJuuaGSN6lYEFvqp-BSc",
+    "https://www.mirantis.com/cloud-case-studies/powerx-japan-en/",
+    "https://service.power-x.jp/",
+    "https://power-x.jp/?gl=JP"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Powerx manufacturing customer case study",
+   "results": [
+    "https://powerx.ai/casestudy03",
+    "https://www.casestudies.com/customer/powerx",
+    "https://www.casestudies.com/company/very1/case-study/powerx-scales-from-2000-to-200000-units-with-very",
+    "https://fibery.com/customer-stories/powerx",
+    "https://power-x.jp/en/mega-power/casestudy",
+    "https://www.verytechnology.com/how-powerx-transformed-their-smart-home-product-line-for-scalability",
+    "https://www.verytechnology.com/case-studies/how-powerx-transformed-their-smart-home-product-line-for-scalability"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Powerx white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.extremenetworks.com/partners",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Powerx founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/powerx/__ickcfDNNtvtfIL_NVCZ6uHDCUjObDtKY2j2htU9HuOc",
+    "https://compworth.com/company/powerx",
+    "https://pitchbook.com/profiles/company/234748-18",
+    "https://fundediq.co/powerx-powerx-co-funding/",
+    "https://startupintros.com/orgs/powerx",
+    "https://prospeo.io/c/powerx-revenue",
+    "https://powerxco.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Powerx",
+   "results": [
+    "https://note.com/sai_no_nichijou/n/nf99c2089f5bc?hl=en",
+    "https://note.com/aibased_analysis/n/ne70ece72c446?hl=en",
+    "https://note.com/my_energy_asset/n/nc4e37d3bb188?hl=en",
+    "https://note.com/tekkan/n/ne8887672652e?hl=en",
+    "https://note.com/tekkan/n/nc2f71c6cda0a?hl=en",
+    "https://note.com/en104/n/n6bcaca93aac4?hl=en",
+    "https://note.com/jrs1188/n/n0d5e1d6c7390?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Powerx",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Powerx",
+   "results": [
+    "https://www.linkedin.com/company/powerxco",
+    "https://www.linkedin.com/company/powerx",
+    "https://in.linkedin.com/company/powerx-technology",
+    "https://www.linkedin.com/company/powerx-inc",
+    "https://www.linkedin.com/company/powerxsa",
+    "https://www.linkedin.com/company/powerxco/jobs/",
+    "https://www.linkedin.com/posts/powerxco_powerx-wemakepowerwork-activity-7298692443003072513-I6P8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Powerx",
+   "results": [
+    "https://www.facebook.com/POWERX/",
+    "https://www.facebook.com/PowerXIntl/",
+    "https://www.facebook.com/powerxedge/",
+    "https://www.facebook.com/powerxbgym/",
+    "https://www.facebook.com/PowerXoneWallet/",
+    "https://www.facebook.com/powerxinsurance/",
+    "https://www.facebook.com/powerxedge/posts/big-changes-are-happening-at-the-new-powerx-headquarters-in-phoenix-over-the-pas/1065797915569935/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Powerx note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/伊藤正裕",
+    "https://note.com/kenkeninvest/n/n933943fe978b",
+    "https://x.com/masahiro_ito",
+    "https://note.com/hitoyane_cw_5410/n/nf07f9e6543b2",
+    "https://power-x.jp/ja/investors/message?gl=JP",
+    "https://enehub.jp/news/インタビュー-パワーエックス-ceo-伊藤正裕/",
+    "https://business.nikkei.com/atcl/NBD/19/00119/00309/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Powerx X 投稿",
+   "results": [
+    "https://x.com/PowerX_JP/status/1826809096764285353",
+    "https://x.com/powerx_jp",
+    "https://power-x.jp/en/newsroom",
+    "https://powerxco.com/",
+    "https://power-x.jp/?gl=JP",
+    "https://press.power-x.jp/",
+    "https://powerxone.carrd.co/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）"
+ }
+}

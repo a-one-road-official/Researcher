@@ -8,8 +8,370 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-09T09:22:52.876614+00:00",
+ "researched_at": "2026-11-10T22:56:57.012051+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "2.4 Relative Bias ................................................................................................................................ 19",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "survey. The 2021 ABS, for example, covers the reference year 2020. This nonresponse bias analysis is",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Statistical Quality Standards (census.gov) and is the motivation for this nonresponse bias analysis.",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "According to the Census Bureau quality standard sub-requirement D3-3.6, nonresponse bias analysis is",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and nonrespondents. The study also researches the potential biases due to nonresponse in the survey.",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "estimates. A substantial amount of nonresponse could create substantial nonresponse bias in the",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "being measured for responding units. Nonresponse bias for a sample mean is the product of",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "suggests that a high rate of nonresponse does not necessarily imply a large bias, nor does a low rate of",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "nonresponse necessarily imply a small bias. The nonresponse rate is easy to calculate, while its impact is",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "rate may only decrease the risk of nonresponse bias, investigating or estimating bias must be done in an",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "concludes by looking at the relative bias based on the mean differences between the respondents and",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "RDIT are R&D activity and innovation. We cannot directly measure nonresponse bias for these key items",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and a frame variable, we can analyze the nonresponse bias of the frame variable as a proxy for the key",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "sections, we will consider weighted estimates when investigating if non-response bias is impacting our",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "predictors of DCB key items and will not be used to evaluate nonresponse bias in the DCB estimates.",
+    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Conducting Nonresponse Bias Analysis for Business",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias analysis when response rates fail to m eet target values. The literature focuses",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "largely on nonresponse bias analysis methods for demographic surveys. Such surveys",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "designs with highly skewed populations. This paper examines nonresponse bias analysis",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Key Words: nonresponse bias analysis, response rate, business survey, response model,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "missingness is the potential for nonresponse bias. Bias in survey estimates could lead to",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "not necessarily indicate nonresponse bias (Groves et al., 2008), they are often used as a",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "evaluate nonresponse bias when expected unit response rates are less than 80% (Graham,",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "nonresponse bias. Much of the research in this area focuses on conducting nonresponse",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias studies for household surveys. We need additional tools for analyzing business",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "bias studies for business or establishment surveys. It is also meant to generate discussion",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods of assessing nonresponse bias, focusing on methods particularly helpful in the",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "U.S. Census Bureau. The conclusion provid es nonresponse bias questions to consider for",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "For evaluating a business program’s nonresponse bias potential, the above rate computed",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "these “important” units, any nonresponse causes nonr esponse bias. It is unlikely that this",
+    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Best Practices for Nonresponse Bias Reporting",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Prepared by the Nonresponse Bias Subcommittee of the",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "SM, Fakhouri THI, Piscopo KD. 2023. Best Practices for Nonresponse Bias Reporting, FCSM-23-01",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Nonresponse Bias Subcommittee, Federal Committee on Statistical Methodology. June 2023.",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Nonresponse Bias Subcommittee",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Best Practices for Nonresponse Bias Reporting June 2023 1",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "GUIDANCE FOR DEVELOPING A NONRESPONSE BIAS REPORT ..................................... 10",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Best Practice 1: Describe the survey that is the subject of the nonresponse bias analysis ............. 10",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "the nonresponse bias analysis......................................................................................................... 13",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "nonresponse bias ................................................................................................................................. 14",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Guideline 2.7. Discuss the potential for nonresponse bias given weighted response rates,",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Best Practice 3: Describe the plan for evaluating and quantifying nonresponse bias and any",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Guideline 3.1. Describe and justify all nonresponse bias evaluation methods used .................. 21",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Guideline 3.2. Describe the analysis plan for comparing and assessing nonresponse bias levels",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Best Practices for Nonresponse Bias Reporting June 2023 2",
+    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "A Systematic Review of Nonresponse Bias Studies in",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Elise Christopher, and Jennifer Madans. 2020. A Systematic Review of Nonresponse Bias Studies in Federally",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "MEMBERS OF THE NONRESPONSE BIAS ANALYSIS SUBCOMMITTEE",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "less than 80% conduct an analysis of nonresponse bias (NRB). Since 2006, federal surveys have",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "to assess NRB or whether mitigating strategies reduced bias.",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "whether post-survey adjustments reduced bias. The reported NRB methods were grouped into",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "majority of studies reported bias in some variables prior to weight adjustment but noted that bias",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "data collection. Most studies reported a reduction in bias after weighting. However, in most",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "instances, a reduction in nonresponse bias was declared, but not explicitly documented, in the",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "However, a lower response rate is not always associated with higher levels of nonresponse bias",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "with the threats posed by nonresponse bias and potential methods for detecting and reducing",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "potential bias (Groves and Brick 2005). In 2009, the Federal Committee on Statistical",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "information may be useful in developing guidelines and best practices for nonresponse bias",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "87 documents from 11 federal statistical agencies; two agencies had no nonresponse bias studies",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and additional nonresponse bias studies were collected through a variety of methods. An online",
+    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "The Census Bureau produces two separate sets of ABS estimates: firm and owner characteristics",
@@ -1031,368 +1393,6 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "2.4 Relative Bias ................................................................................................................................ 19",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "survey. The 2021 ABS, for example, covers the reference year 2020. This nonresponse bias analysis is",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Statistical Quality Standards (census.gov) and is the motivation for this nonresponse bias analysis.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "According to the Census Bureau quality standard sub-requirement D3-3.6, nonresponse bias analysis is",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and nonrespondents. The study also researches the potential biases due to nonresponse in the survey.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimates. A substantial amount of nonresponse could create substantial nonresponse bias in the",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "being measured for responding units. Nonresponse bias for a sample mean is the product of",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "suggests that a high rate of nonresponse does not necessarily imply a large bias, nor does a low rate of",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "nonresponse necessarily imply a small bias. The nonresponse rate is easy to calculate, while its impact is",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "rate may only decrease the risk of nonresponse bias, investigating or estimating bias must be done in an",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "concludes by looking at the relative bias based on the mean differences between the respondents and",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "RDIT are R&D activity and innovation. We cannot directly measure nonresponse bias for these key items",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and a frame variable, we can analyze the nonresponse bias of the frame variable as a proxy for the key",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "sections, we will consider weighted estimates when investigating if non-response bias is impacting our",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "predictors of DCB key items and will not be used to evaluate nonresponse bias in the DCB estimates.",
-    "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Conducting Nonresponse Bias Analysis for Business",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bias analysis when response rates fail to m eet target values. The literature focuses",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "largely on nonresponse bias analysis methods for demographic surveys. Such surveys",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "designs with highly skewed populations. This paper examines nonresponse bias analysis",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Key Words: nonresponse bias analysis, response rate, business survey, response model,",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "missingness is the potential for nonresponse bias. Bias in survey estimates could lead to",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "not necessarily indicate nonresponse bias (Groves et al., 2008), they are often used as a",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "evaluate nonresponse bias when expected unit response rates are less than 80% (Graham,",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "nonresponse bias. Much of the research in this area focuses on conducting nonresponse",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bias studies for household surveys. We need additional tools for analyzing business",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "bias studies for business or establishment surveys. It is also meant to generate discussion",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "methods of assessing nonresponse bias, focusing on methods particularly helpful in the",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "U.S. Census Bureau. The conclusion provid es nonresponse bias questions to consider for",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "For evaluating a business program’s nonresponse bias potential, the above rate computed",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "these “important” units, any nonresponse causes nonr esponse bias. It is unlikely that this",
-    "url": "http://www.asasrms.org/Proceedings/y2010/Files/306113_55883.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Best Practices for Nonresponse Bias Reporting",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Prepared by the Nonresponse Bias Subcommittee of the",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "SM, Fakhouri THI, Piscopo KD. 2023. Best Practices for Nonresponse Bias Reporting, FCSM-23-01",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Nonresponse Bias Subcommittee, Federal Committee on Statistical Methodology. June 2023.",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Nonresponse Bias Subcommittee",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Best Practices for Nonresponse Bias Reporting June 2023 1",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "GUIDANCE FOR DEVELOPING A NONRESPONSE BIAS REPORT ..................................... 10",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Best Practice 1: Describe the survey that is the subject of the nonresponse bias analysis ............. 10",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "the nonresponse bias analysis......................................................................................................... 13",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "nonresponse bias ................................................................................................................................. 14",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Guideline 2.7. Discuss the potential for nonresponse bias given weighted response rates,",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Best Practice 3: Describe the plan for evaluating and quantifying nonresponse bias and any",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Guideline 3.1. Describe and justify all nonresponse bias evaluation methods used .................. 21",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Guideline 3.2. Describe the analysis plan for comparing and assessing nonresponse bias levels",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Best Practices for Nonresponse Bias Reporting June 2023 2",
-    "url": "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "A Systematic Review of Nonresponse Bias Studies in",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Elise Christopher, and Jennifer Madans. 2020. A Systematic Review of Nonresponse Bias Studies in Federally",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "MEMBERS OF THE NONRESPONSE BIAS ANALYSIS SUBCOMMITTEE",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "less than 80% conduct an analysis of nonresponse bias (NRB). Since 2006, federal surveys have",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "to assess NRB or whether mitigating strategies reduced bias.",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "whether post-survey adjustments reduced bias. The reported NRB methods were grouped into",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "majority of studies reported bias in some variables prior to weight adjustment but noted that bias",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "data collection. Most studies reported a reduction in bias after weighting. However, in most",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "instances, a reduction in nonresponse bias was declared, but not explicitly documented, in the",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "However, a lower response rate is not always associated with higher levels of nonresponse bias",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "with the threats posed by nonresponse bias and potential methods for detecting and reducing",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "potential bias (Groves and Brick 2005). In 2009, the Federal Committee on Statistical",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "information may be useful in developing guidelines and best practices for nonresponse bias",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "87 documents from 11 federal statistical agencies; two agencies had no nonresponse bias studies",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and additional nonresponse bias studies were collected through a variety of methods. An online",
-    "url": "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ]
  },
  "figures": {},
@@ -1439,6 +1439,11 @@
     "method": "http"
    },
    {
+    "url": "https://www.interviewz.io/blog/bias-questionnaire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.dm-insight.jp/column/response-bias/",
     "status": "ok",
     "method": "http"
@@ -1449,12 +1454,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://r-portal.gmo-research.ai/trendnavi/articles/case-nrc-online-research/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
+    "url": "https://note.com/globis_engineers/n/n5dc591dc8551",
     "status": "ok",
     "method": "http"
    },
@@ -1469,12 +1469,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
+    "url": "https://qiqumo.jp/contents/knowhow/7500",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://qiqumo.jp/contents/knowhow/7500",
+    "url": "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
     "status": "ok",
     "method": "http"
    },
@@ -1482,6 +1482,16 @@
     "url": "https://www.ipss.go.jp/syoushika/bunken/data/pdf/20760403.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://r-portal.gmo-research.ai/trendnavi/articles/case-nrc-online-research/",
+    "status": "http_403",
+    "method": "http"
    },
    {
     "url": "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf",
@@ -1494,14 +1504,14 @@
     "method": "pdf"
    },
    {
-    "url": "https://metricgate.com/docs/ja/nonresponse-adjustment/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://jgss.daishodai.ac.jp/research/monographs/jgssm11/jgssm11_20.pdf",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://metricgate.com/docs/ja/nonresponse-adjustment/",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www2.census.gov/programs-surveys/abs/technical-documentation/methodology/2021/abs_nonresponse_analysis.pdf",
@@ -1529,9 +1539,9 @@
     "method": "pdf"
    },
    {
-    "url": "https://casrai.org/guides/non-response-bias",
+    "url": "https://www.norc.org/content/dam/norc-org/pdf2023/jsm-2023-gss-nonresponse-bias-analysis-final-clean.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    }
   ]
  },
@@ -1551,7 +1561,7 @@
     "https://note.com/tasklab_biz/n/n01e064fda30b"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -1561,20 +1571,20 @@
    "results": [
     "https://www.soumu.go.jp/main_content/000626568.pdf",
     "https://www.issoh.co.jp/column/details/6772/",
+    "https://www.interviewz.io/blog/bias-questionnaire/",
     "https://www.dm-insight.jp/column/response-bias/",
     "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
+    "https://note.com/globis_engineers/n/n5dc591dc8551",
+    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
     "https://r-portal.gmo-research.ai/trendnavi/articles/case-nrc-online-research/",
     "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
-    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
-    "https://jasr.or.jp/wp/asr/asrpdf/asr5/asr05_020.pdf",
-    "https://www.interviewz.io/blog/bias-questionnaire/",
-    "https://ja.wikipedia.org/wiki/除外変数バイアス"
+    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 12
   },
   {
    "query": "非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査） やり方",
@@ -1585,8 +1595,8 @@
     "https://www.dm-insight.jp/column/response-bias/",
     "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
     "https://jasr.or.jp/wp/asr/asrpdf/asr5/asr05_020.pdf",
-    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
     "https://qiqumo.jp/contents/knowhow/7500",
+    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
     "https://www.ipss.go.jp/syoushika/bunken/data/pdf/20760403.pdf",
     "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/"
    ],
@@ -1600,21 +1610,21 @@
    "query": "非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査） 事例",
    "results": [
     "https://www.soumu.go.jp/main_content/000626568.pdf",
-    "https://www.issoh.co.jp/column/details/6772/",
     "https://www.nira.or.jp/paper/research-report/2022/23.html",
+    "https://www.issoh.co.jp/column/details/6772/",
     "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
     "https://www.dm-insight.jp/column/response-bias/",
     "https://jasr.or.jp/wp/asr/asrpdf/asr5/asr05_020.pdf",
     "https://qiqumo.jp/contents/knowhow/7500",
     "https://r-portal.gmo-research.ai/trendnavi/articles/case-nrc-online-research/",
-    "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
-    "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf"
+    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
+    "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 14
   },
   {
    "query": "nonresponse bias analysis business survey frame variables response rate by industry",
@@ -1624,8 +1634,8 @@
     "https://statspolicy.gov/assets/fcsm/files/docs/FCSM%20NRBA%20Report%20062623.pdf",
     "https://nces.ed.gov/fcsm/pdf/A_Systematic_Review_of_Nonresponse_Bias_Studies_Federally_Sponsored_SurveysFCSM_20_02_032920.pdf",
     "https://www.gesis.org/fileadmin/admin/Dateikatalog/pdf/guidelines/nonresponse_bias_analysis_felderer_2024.pdf",
-    "https://casrai.org/guides/non-response-bias",
     "https://www.norc.org/content/dam/norc-org/pdf2023/jsm-2023-gss-nonresponse-bias-analysis-final-clean.pdf",
+    "https://casrai.org/guides/non-response-bias",
     "https://manuelgarcia.info/guides/research/guide/nonresponse-bias",
     "https://www.scb.se/contentassets/ca21efb41fee47d293bbee5bf7be7fb3/response-rates-in-business-surveys-going-beyond-the-usual-performance-measure.pdf",
     "https://statspolicy.gov/assets/fcsm/files/docs/FCSM+NRBA+Report+062623.pdf"
@@ -1644,9 +1654,9 @@
     "https://note.com/globis_engineers/n/n5dc591dc8551",
     "https://note.com/tasklab_biz/n/n01e064fda30b",
     "https://note.com/nikkei_r_finsol/n/n7882bbdc21ee",
-    "https://note.com/kento_kuroha/n/n0e27201c551c",
     "https://note.com/takaos/n/n572d25860ed6",
-    "https://note.com/makememo/n/n7ae565d6e7f0"
+    "https://note.com/makememo/n/n7ae565d6e7f0",
+    "https://note.com/kento_kuroha/n/n0e27201c551c"
    ],
    "engines": [
     "ddgs:google",
@@ -1660,13 +1670,13 @@
     "https://x.com/grok/status/2118302203551027687",
     "https://x.com/santa__oj/status/2038418032578711672",
     "https://x.com/tsuda/status/2043863540415787233",
-    "https://x.com/9qmqsa/status/2117435519823118538",
     "https://x.com/IslandPon/status/2110317544016167189",
     "https://x.com/KNHjyohokyoku/status/2072130518045647203",
+    "https://x.com/9qmqsa/status/2117435519823118538",
     "https://x.com/maedaosamu1962/status/2081493232136094142"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1674,45 +1684,35 @@
    "query": "site:linkedin.com 非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査）",
    "results": [
     "https://jp.linkedin.com/pulse/unveiling-bias-data-collection-analysis-understanding-lkjff?tl=ja",
-    "https://jp.linkedin.com/pulse/hidden-truth-behind-survey-responses-uncovering-bias-bob-roitblat-kh1ac?tl=ja",
+    "https://jp.linkedin.com/pulse/strategies-avoid-bias-your-data-doug-rose-fthje?tl=ja",
     "https://www.linkedin.com/posts/york-date_組織サーベイで本音の回答を得るにはバイアスを抑制する技術-activity-7198470463545618432-Gsr8",
     "https://www.linkedin.com/posts/kenjinishiyama_ブログ一人の行為はなぜ集団の性質に変わるのか-帰属の非対称性と確証バイアス-activity-7507240028620673025-4YQU",
-    "https://jp.linkedin.com/pulse/strategies-avoid-bias-your-data-doug-rose-fthje?tl=ja",
-    "https://jp.linkedin.com/pulse/research-methodology-navigating-errors-surveys-ashish-agarwal-ttsvf?tl=ja",
-    "https://jp.linkedin.com/pulse/correcting-invisible-bias-understanding-heckmans-aashish-juneja-ph-d-dhiqf?tl=ja"
+    "https://jp.linkedin.com/pulse/correcting-invisible-bias-understanding-heckmans-aashish-juneja-ph-d-dhiqf?tl=ja",
+    "https://jp.linkedin.com/pulse/hidden-truth-behind-survey-responses-uncovering-bias-bob-roitblat-kh1ac?tl=ja",
+    "https://jp.linkedin.com/pulse/research-methodology-navigating-errors-surveys-ashish-agarwal-ttsvf?tl=ja"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:facebook.com 非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査）",
-   "results": [
-    "https://www.facebook.com/unconsciousbias.lab/",
-    "https://www.facebook.com/kandokoganei/posts/445228357710256/",
-    "https://www.facebook.com/tatsuo.hisamatsu2/posts/某国立大学からのアンケート調査なのだが回答しようとして指が止まるこういうインセンティブは回答バイアスを生むので学術調査ではあまりやらないのではないだろうかそして/29477448848506929/",
-    "https://www.facebook.com/printingjournal/posts/1264238884518299/",
-    "https://www.facebook.com/rihejoho/posts/高教研ディスカッションペーパー-no1520213交絡変数の測定誤差が合流点バイアスをもたらす影響について合流点バイアスと交絡統制のジレンマに対する考察ㅤㅤ中尾/1612955535580322/",
-    "https://www.facebook.com/town.otaki/posts/千葉県男女共同参画地域推進員東上総地域主催事業アンコンシャスバイアスとは何かを見たり聞いたりしたときに無意識にこうだと思い込むことです女性だから男性だからなど知/1239865404845825/",
-    "https://www.facebook.com/nissoken.osaka/posts/セミナーピックアップkyt５sなぜなぜ分析の実務への活用法只今好評配信中-指導講師福丸典芳氏有限会社福丸マネジメントテクノ-代表取締役-医療安全を組織文化として/902255495242980/"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   },
   {
    "query": "非回答バイアスの分析の実務（名簿の変数で答えた先と答えない先を比べる・業種別の回収率・重み付けの有無・事業所調査） note 社長",
    "results": [
     "https://www.soumu.go.jp/main_content/000626568.pdf",
     "https://www.issoh.co.jp/column/details/6772/",
-    "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
     "https://www.dm-insight.jp/column/response-bias/",
-    "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
+    "https://www.ism.ac.jp/editsec/toukei/pdf/67-1-051.pdf",
+    "https://note.com/globis_engineers/n/n5dc591dc8551",
     "https://r-portal.gmo-research.ai/trendnavi/articles/case-nrc-online-research/",
+    "https://best-biostatistics.com/toukei-er/entry/practical-manual-for-researchers-struggling-with-low-response-rates-evaluating-and-correcting-non-response-bias/",
     "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
-    "https://note.com/tasklab_biz/n/n01e064fda30b",
     "https://www.interviewz.io/blog/bias-questionnaire/",
     "https://www.jstage.jst.go.jp/article/arepj/63/0/63_322/_pdf"
    ],
@@ -1745,15 +1745,15 @@
   {
    "query": "nonresponse bias analysis business survey frame variables response rate by industry site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/posts/meltem-chadwick_nonresponse-bias-in-household-inflation-expectations-activity-7387302244372840450-fuSg",
+    "https://www.linkedin.com/top-content/communication/guidelines-for-effective-surveys/response-rate-impact-on-survey-accuracy/",
     "https://www.linkedin.com/posts/joachim-schork_statistics-rstats-surveystatistics-activity-7517977467220033536-yXFS",
+    "https://www.linkedin.com/top-content/artificial-intelligence/ai-bias-issues/bias-in-citizen-data-sampling/",
     "https://www.linkedin.com/posts/james-benford-1801b25a_building-a-clearer-picture-of-the-labour-activity-7510282649786044416-Ohtm",
     "https://www.linkedin.com/in/jennifer-kali",
-    "https://www.linkedin.com/pulse/csat-silence-bias-when-satisfied-majority-doesnt-count-pizziniaco-hkamf",
     "https://www.linkedin.com/in/staskolenikov",
-    "https://www.linkedin.com/in/rebecca-goldring-b6a63711",
-    "https://www.linkedin.com/posts/helen-kelley_the-uk-va-survey-2026-results-have-landed-activity-7515323600732848128-6NAP",
+    "https://www.linkedin.com/pulse/csat-silence-bias-when-satisfied-majority-doesnt-count-pizziniaco-hkamf",
     "https://www.linkedin.com/pulse/building-reliable-surveys-timely-topics-dos-donts-christos-makridis-f5eze",
+    "https://www.linkedin.com/posts/helen-kelley_the-uk-va-survey-2026-results-have-landed-activity-7515323600732848128-6NAP",
     "https://www.linkedin.com/in/micah-gell-redman"
    ],
    "engines": [
@@ -1765,6 +1765,6 @@
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 5,
+ "runs": 6,
  "first_researched_at": "2026-11-08T00:52:18.617078+00:00"
 }

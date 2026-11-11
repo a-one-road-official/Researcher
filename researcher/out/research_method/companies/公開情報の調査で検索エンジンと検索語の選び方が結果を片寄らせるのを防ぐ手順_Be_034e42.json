@@ -8,8 +8,184 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-09T09:30:00.712708+00:00",
+ "researched_at": "2026-11-10T23:04:31.303948+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "これらのドキュメントは、このドキュメントに関するあなたの権利と制限について説明しているため、注意深く確認してください",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "彼らは、明確な主張をするのは時期尚早であるが、プロトコル設計の選択が人権に与える影響をより注意深く分析する必要があると主張しています",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "さらに、（1）特定のプロトコルが人権に与える影響の注意深い検討、および（2）人権に関連するプロトコル設計の決定を文書化する慣行の普及に貢献します",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ここでの評価は、これらのプロトコルに関する一般的な判断ではなく、これらのプロトコルが持つ可能性のある人権に対するすべての潜在的なマイナスまたはプラスの影響の完全なリストではないことに注意することが重要です",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、DNSSECは現在ドメイン名レジストラで広くサポートまたは展開されていないため、認証して正しく使用することが難しいことに注意することが重要です",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "攻撃者は、Sybil攻撃を使用して、P2Pネットワークが攻撃者の利点に集合的に行う選択にバイアスをかけることができます",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このコンテキストでのSybil攻撃（たとえば、宇宙飛行）は、P2Pプロトコル以外にも関連があることに注意することが重要です",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "「すべてのインターネットユーザーは、特定のWebサイトにアクセスしようとして失敗したときに、「404 Not Found」ハイパーテキスト転送プロトコル（HTTP）ステータスコードに遭遇しました」[Cath]",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "それにもかかわらず、HTTPステータスコード451は検閲のすべての状況を検出するソリューションではないことに注意することが重要です",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "ただし、プロトコルの影響は、その設計からのみ推定できるわけではないことに注意してください",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "このセクションで提供されるガイダンスは、特定のプラクティスを推奨するものではないことに注意してください",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "（識別子など、一部の文字列はコンテンツ要素とプロトコル要素の両方であることに注意してください",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "信頼性のために、パケット配信が失敗した場合、サービスがユーザーに通知する必要があります",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "インターネットの根本的にオープンな性質を維持し、インターネットの開発を継続できるようにするには、無許可のイノベーションの維持または削減に対するプロトコルの影響に注意する必要があります",
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and structural biases to affect their work and",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Inherent biases in the Internet’s architecture",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "counterbalance such biases by applying",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "correct for their own biases, which may be",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "chances of biased selection, interpretation and",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "biases in the data available online. All of",
+    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "真正性：本物であり、検証および信頼できる特性",
@@ -563,214 +739,63 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "これらのドキュメントは、このドキュメントに関するあなたの権利と制限について説明しているため、注意深く確認してください",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "彼らは、明確な主張をするのは時期尚早であるが、プロトコル設計の選択が人権に与える影響をより注意深く分析する必要があると主張しています",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "さらに、（1）特定のプロトコルが人権に与える影響の注意深い検討、および（2）人権に関連するプロトコル設計の決定を文書化する慣行の普及に貢献します",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ここでの評価は、これらのプロトコルに関する一般的な判断ではなく、これらのプロトコルが持つ可能性のある人権に対するすべての潜在的なマイナスまたはプラスの影響の完全なリストではないことに注意することが重要です",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、DNSSECは現在ドメイン名レジストラで広くサポートまたは展開されていないため、認証して正しく使用することが難しいことに注意することが重要です",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "攻撃者は、Sybil攻撃を使用して、P2Pネットワークが攻撃者の利点に集合的に行う選択にバイアスをかけることができます",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このコンテキストでのSybil攻撃（たとえば、宇宙飛行）は、P2Pプロトコル以外にも関連があることに注意することが重要です",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "「すべてのインターネットユーザーは、特定のWebサイトにアクセスしようとして失敗したときに、「404 Not Found」ハイパーテキスト転送プロトコル（HTTP）ステータスコードに遭遇しました」[Cath]",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "それにもかかわらず、HTTPステータスコード451は検閲のすべての状況を検出するソリューションではないことに注意することが重要です",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "ただし、プロトコルの影響は、その設計からのみ推定できるわけではないことに注意してください",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "このセクションで提供されるガイダンスは、特定のプラクティスを推奨するものではないことに注意してください",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "（識別子など、一部の文字列はコンテンツ要素とプロトコル要素の両方であることに注意してください",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "信頼性のために、パケット配信が失敗した場合、サービスがユーザーに通知する必要があります",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "インターネットの根本的にオープンな性質を維持し、インターネットの開発を継続できるようにするには、無許可のイノベーションの維持または削減に対するプロトコルの影響に注意する必要があります",
-    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and structural biases to affect their work and",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Inherent biases in the Internet’s architecture",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "counterbalance such biases by applying",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "correct for their own biases, which may be",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "chances of biased selection, interpretation and",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "biases in the data available online. All of",
-    "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vJACS0X0QxFSlFFNPKo_ddnC5Go-3ygsQzFWHfFHzQ9f2smtMNi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/websearch/answer/10622781?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vLGu8B9rppHw_1m_eEqFNJxzpYoKgh3Mr5h56fiSX4V41AbrOkv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiopentext.itd.cnr.it/japanese/chapter/behind-the-search-lens-effects-of-search-on-the-individual-on-the-society/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/kensho_note/n/n80379e531cfb",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/red_structure/n/na2c79b00d217",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/chemical_cbs/n/n717792e7b33b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/akira_sakai/n/n76af874c644c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/re_birth_ai/n/ne9939f58ff51",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tkashiwazaki/n/ndf564afbafba",
     "status": "ok",
     "method": "http"
    },
@@ -780,12 +805,22 @@
     "method": "http"
    },
    {
-    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
+    "url": "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vIjCyKChyVKxvUwSutH4As4DOHeK0moatw35hURrIm44-oD79ZM",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://cybersecurity-info.com/column/40141/",
+    "url": "https://www.reuters.com/jp/markets/global-markets/ZVBTNMZD3ZLXBBTIX4ZFXLD54E-2025-11-14/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
     "status": "ok",
     "method": "http"
    },
@@ -795,17 +830,17 @@
     "method": "http"
    },
    {
-    "url": "https://it.miyazaki.tv/osint/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.octoparse.jp/blog/what-is-osint",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "url": "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vJIQ7tLcQGLU7Im6SOYz3VZvQRKMoRKIF_ijZ0Bf3YYV_x4lT61",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it.miyazaki.tv/osint/",
     "status": "ok",
     "method": "http"
    },
@@ -815,24 +850,9 @@
     "method": "http"
    },
    {
-    "url": "https://book.st-hakky.com/purpose/search-engine-information-retrieval-mechanism",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/",
-    "status": "ok",
-    "method": "http"
    },
    {
     "url": "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
@@ -845,8 +865,18 @@
     "method": "browser"
    },
    {
-    "url": "https://www.stoprapenow.org/resource/berkeley-protocol-on-digital-open-source-investigations/",
+    "url": "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
     "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unhumanrights.medium.com/advancing-human-rights-investigations-now-and-for-the-future-67ae9be1129a",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.loc.gov/item/2024740877/",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -855,118 +885,141 @@
   {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） site:note.com",
    "results": [
-    "https://note.com/kensho_note/n/n80379e531cfb",
-    "https://note.com/red_structure/n/na2c79b00d217",
-    "https://note.com/chemical_cbs/n/n717792e7b33b",
-    "https://note.com/akira_sakai/n/n76af874c644c",
-    "https://note.com/re_birth_ai/n/ne9939f58ff51",
-    "https://note.com/tkashiwazaki/n/ndf564afbafba",
-    "https://note.com/dialogs_develop/n/ndae2681a918d"
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
+    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vJACS0X0QxFSlFFNPKo_ddnC5Go-3ygsQzFWHfFHzQ9f2smtMNi",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
+    "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
+    "https://support.google.com/websearch/answer/10622781?hl=ja",
+    "https://www.reuters.com/jp/markets/global-markets/ZVBTNMZD3ZLXBBTIX4ZFXLD54E-2025-11-14/",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html",
+    "https://aiopentext.itd.cnr.it/japanese/chapter/behind-the-search-lens-effects-of-search-on-the-individual-on-the-society/",
+    "https://note.com/kensho_note/n/n80379e531cfb"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） note",
    "results": [
-    "https://note.com/kensho_note/n/n80379e531cfb",
-    "https://shiraberu-note.com/osint-basic-tools-guide/",
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "https://cybersecurity-info.com/column/40141/",
-    "https://cysec148.hatenablog.com/entry/2024/04/26/234305",
-    "https://it.miyazaki.tv/osint/",
-    "https://www.octoparse.jp/blog/what-is-osint",
-    "https://qiita.com/securitytimes/items/5c380709711cfedae0bc"
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
+    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vLGu8B9rppHw_1m_eEqFNJxzpYoKgh3Mr5h56fiSX4V41AbrOkv",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
+    "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html",
+    "https://support.google.com/websearch/answer/10622781?hl=ja",
+    "https://aiopentext.itd.cnr.it/japanese/chapter/behind-the-search-lens-effects-of-search-on-the-individual-on-the-society/",
+    "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "https://note.com/kensho_note/n/n80379e531cfb"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 16
   },
   {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） やり方",
    "results": [
-    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
-    "https://shiraberu-note.com/osint-basic-tools-guide/",
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "https://www.octoparse.jp/blog/what-is-osint",
-    "https://it.miyazaki.tv/osint/",
-    "https://qiita.com/securitytimes/items/5c380709711cfedae0bc",
-    "https://cysec148.hatenablog.com/entry/2024/04/26/234305"
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
+    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vIjCyKChyVKxvUwSutH4As4DOHeK0moatw35hURrIm44-oD79ZM",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
+    "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html",
+    "https://support.google.com/websearch/answer/10622781?hl=ja",
+    "https://www.reuters.com/jp/markets/global-markets/ZVBTNMZD3ZLXBBTIX4ZFXLD54E-2025-11-14/",
+    "https://aiopentext.itd.cnr.it/japanese/chapter/behind-the-search-lens-effects-of-search-on-the-individual-on-the-society/",
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） 事例",
    "results": [
-    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "https://it.miyazaki.tv/osint/",
-    "https://shiraberu-note.com/osint-basic-tools-guide/",
-    "https://book.st-hakky.com/purpose/search-engine-information-retrieval-mechanism",
-    "https://note.com/kensho_note/n/n80379e531cfb",
-    "https://cysec148.hatenablog.com/entry/2024/04/26/234305"
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
+    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vJIQ7tLcQGLU7Im6SOYz3VZvQRKMoRKIF_ijZ0Bf3YYV_x4lT61",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
+    "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html",
+    "https://support.google.com/websearch/answer/10622781?hl=ja",
+    "https://aiopentext.itd.cnr.it/japanese/chapter/behind-the-search-lens-effects-of-search-on-the-individual-on-the-society/",
+    "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "Berkeley Protocol digital open source investigations search bias verification steps",
    "results": [
     "https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf",
-    "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source",
-    "https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/",
     "https://humanrights.berkeley.edu/projects/developing-the-berkeley-protocol-on-digital-open-source-investigations/",
     "https://digitallibrary.un.org/record/3973652",
-    "https://www.stoprapenow.org/resource/berkeley-protocol-on-digital-open-source-investigations/",
-    "https://archive.org/stream/ohchr-berkeley-protocol-on-digital-open-source-investigations/OHCHR-Berkeley-Protocol-on-Digital-Open-Source-Investigations-ENGLISH_djvu.txt"
+    "https://lieber.westpoint.edu/strengthening-atrocity-cases-digital-open-source-investigations/",
+    "https://unhumanrights.medium.com/advancing-human-rights-investigations-now-and-for-the-future-67ae9be1129a",
+    "https://www.loc.gov/item/2024740877/",
+    "https://repository.essex.ac.uk/32642/1/Outlining%20a%20Human-Rights%20Based%20Approach%20to%20Digital%20Open%20Source%20Investigations.pdf",
+    "https://www.ibanet.org/session-details/se_101024",
+    "https://freedomlab.io/tools-for-hrds/berkeley-protocol/",
+    "https://www.ohchr.org/en/publications/policy-and-methodological-publications/berkeley-protocol-digital-open-source"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "site:note.com 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）",
    "results": [
-    "https://note.com/dialogs_develop/n/ndae2681a918d",
-    "https://note.com/kensho_note/n/n80379e531cfb",
-    "https://note.com/red_structure/n/na2c79b00d217",
-    "https://note.com/7ironote/n/n1c61ab76e738",
-    "https://note.com/chemical_cbs/n/n717792e7b33b",
-    "https://note.com/tkashiwazaki/n/ndf564afbafba",
-    "https://note.com/ai_labo26/n/nd63df0f78e84"
+    "https://note.com/ichi_twnovel/n/nc7a804e0096d",
+    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
+    "https://note.com/ichi_twnovel/n/nb85aec486947",
+    "https://note.com/vast_cosmos500/n/nfc3ee4cea095",
+    "https://note.com/yoshikouki/n/ne085a5301c9e",
+    "https://note.com/jack4manastalk/n/n1bdb80a03e67",
+    "https://note.com/harryfaoki/n/n407bff1cc697",
+    "https://note.com/_takumi_inoue_/n/n4d400f4f18a0",
+    "https://note.com/kanakagishippo/n/nc3f8277f2507",
+    "https://note.com/noxomi/n/nbab8449667ac"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:x.com 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）",
    "results": [
+    "https://x.com/MuppyxMuppy",
+    "https://x.com/ucchy",
     "https://x.com/kzkhykw/status/2081564955183374688",
     "https://x.com/i/trending/2081692852749574391",
-    "https://x.com/i/trending/2115189296395153712",
-    "https://help.x.com/ja/safety-and-security/remove-x-profile-from-google-search",
-    "https://help.x.com/ja/safety-and-security/public-and-protected-posts",
     "https://x.com/polymarketjapan/status/2081967801707950334",
-    "https://x.com/yousukezan/status/2115791601700385023",
-    "https://help.x.com/ja/rules-and-policies/x-search-policies"
+    "https://help.x.com/ja/safety-and-security/remove-x-profile-from-google-search",
+    "https://x.com/i/trending/2115189296395153712",
+    "https://x.com/MGT_maccha/article/2073014053153480914",
+    "https://x.com/yousukezan/status/2115791601700385023"
    ],
    "engines": [
     "ddgs:google",
-    "ddgs:yahoo"
+    "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 9
   },
   {
    "query": "site:linkedin.com 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）",
@@ -988,46 +1041,12 @@
    "query": "site:facebook.com 公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き）",
    "results": [
     "https://www.facebook.com/manamina.valuesccg/posts/検索キーワード分析検索エンジンと検索エンジン以外の媒体における検索で検索内容や求める情報は異なるのでしょうか-本稿では車検索者を題材に検索エンジンとの比較や閲覧/1163686354578267/",
-    "https://www.facebook.com/cyberagent.advertising/posts/seoラボ主催セミナー開催検索エンジンと検索者が好むウェブサイトとコンテンツ詳細お申し込みはこちらhttpswwwcyberagent-adagencycome/938078633069017/",
     "https://www.facebook.com/pecopla.net/posts/seo対策と検索するとびっくりするくらい多くの情報がヒットします-あまりに情報が多すぎて何が正解なのか見極められないという方も多いのではないでしょうか-そこで本/3852761604826956/",
     "https://www.facebook.com/help/instagram/147542625391305/",
     "https://www.facebook.com/tsuhannews/posts/909372231201690/",
     "https://www.facebook.com/ccs.inc/posts/2347358142012276/",
-    "https://www.facebook.com/nistep.japan/posts/デルファイ調査検索改訂版第12回調査結果追加の公開6242025年5月21日水に科学技術学術政策研究所nistepでは第12回科学技術予測調査-科学技術等の中長/1181689440669787/"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） note 社長",
-   "results": [
-    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス",
-    "https://shiraberu-note.com/osint-basic-tools-guide/",
-    "https://note.com/kensho_note/n/n80379e531cfb",
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "https://cybersecurity-info.com/column/40141/",
-    "https://cysec148.hatenablog.com/entry/2024/04/26/234305",
-    "https://it.miyazaki.tv/osint/",
-    "https://www.octoparse.jp/blog/what-is-osint"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "ddgs:google"
-   ],
-   "n_hits": 8
-  },
-  {
-   "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） X 投稿",
-   "results": [
-    "https://yasashii-cybersecurity.com/osint-open-source-intelligence-beginners-guide/",
-    "https://shiraberu-note.com/osint-basic-tools-guide/",
-    "https://it.miyazaki.tv/osint/",
-    "https://cysec148.hatenablog.com/entry/2024/04/26/234305",
-    "https://cybersecurity-info.com/column/40141/",
-    "https://qiita.com/securitytimes/items/5c380709711cfedae0bc",
-    "https://www.octoparse.jp/blog/what-is-osint"
+    "https://www.facebook.com/nistep.japan/posts/デルファイ調査検索改訂版第12回調査結果追加の公開6242025年5月21日水に科学技術学術政策研究所nistepでは第12回科学技術予測調査-科学技術等の中長/1181689440669787/",
+    "https://www.facebook.com/CyberPatent/posts/動画公開aiを活用した検索結果並べ替え-cyberpatent-deskでは探している内容に文献を検索結果一覧の上位へ表示させることで作業効率を大幅にアップでき/1652092031614664/"
    ],
    "engines": [
     "ddgs:bing"
@@ -1035,24 +1054,68 @@
    "n_hits": 7
   },
   {
-   "query": "Berkeley Protocol digital open source investigations search bias verification steps site:linkedin.com",
+   "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） note 社長",
    "results": [
-    "https://www.linkedin.com/pulse/berkeley-protocol-digital-open-source-investigations-danny-haas",
-    "https://www.linkedin.com/pulse/ethical-effective-digital-human-rights-inquiries-galal-abukhashaba-hnyuc",
-    "https://za.linkedin.com/posts/human-rights-center-uc-berkeley_in-ukraine-berkeley-experts-are-shaping-activity-7034956151909744640-zloV",
-    "https://www.linkedin.com/posts/ohchr_berkeley-protocol-on-digital-open-source-activity-7216370884654096384-pX--",
-    "https://www.linkedin.com/posts/betsy-popken-a447844_thrilled-to-see-featured-the-berkeley-protocol-activity-7461118415789838336-bCt4",
-    "https://www.linkedin.com/posts/human-rights-center-uc-berkeley_berkeley-protocol-on-digital-open-source-activity-7079577080912363521-jJTO",
-    "https://www.linkedin.com/posts/human-rights-center-uc-berkeley_the-human-rights-centers-professional-training-activity-7387163456371683329-ApfS"
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
+    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vJXzTYEzUa1KQ5uicprR5GjU_BJikLAPypWoqdlc8KdB11JarKJ",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
+    "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html",
+    "https://support.google.com/websearch/answer/10622781?hl=ja",
+    "https://aiopentext.itd.cnr.it/japanese/chapter/behind-the-search-lens-effects-of-search-on-the-individual-on-the-society/",
+    "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "https://shiraberu-note.com/osint-basic-tools-guide/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
+  },
+  {
+   "query": "公開情報の調査で検索エンジンと検索語の選び方が結果を片寄らせるのを防ぐ手順（Berkeley Protocol・デジタル公開情報の調査の国連の手引き） X 投稿",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9",
+    "https://developer.chrome.com/blog/search-speculation-rules?hl=ja",
+    "https://www.principle-c.com/column/searching-for-correct-information/?srsltid=AYCX9vLZC2gdKHogDej7Kf5qvGWQUa0CReKF5V4QQBB0wvqII3-cyTDa",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendohajimeni_files/10120202.pdf",
+    "https://www.mext.go.jp/b_menu/shingi/bunka/gijiroku/010/07101103/003/005.htm",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r01/html/nd114210.html",
+    "https://support.google.com/websearch/answer/10622781?hl=ja",
+    "https://aiopentext.itd.cnr.it/japanese/chapter/behind-the-search-lens-effects-of-search-on-the-individual-on-the-society/",
+    "https://tex2e.github.io/rfc-translater/html/rfc8280.html",
+    "https://ja.wikipedia.org/wiki/オープン・ソース・インテリジェンス"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Berkeley Protocol digital open source investigations search bias verification steps site:linkedin.com",
+   "results": [
+    "https://www.linkedin.com/in/rosiefoulds",
+    "https://www.linkedin.com/posts/tomasdodds_the-third-paper-in-our-digital-journalism-activity-7517917708181520384-NOsB",
+    "https://www.linkedin.com/in/melindazou",
+    "https://www.linkedin.com/in/maneh-davityan",
+    "https://www.linkedin.com/in/vyoma-raman",
+    "https://www.linkedin.com/posts/irina-tsukerman-4b04595_i-was-honored-to-take-part-in-this-important-activity-7481433936540119040-5ghQ",
+    "https://www.linkedin.com/in/dimitrios-konstantinidis-8734406",
+    "https://www.linkedin.com/in/jonathanstray",
+    "https://www.linkedin.com/in/max-abubucker",
+    "https://uk.linkedin.com/in/farah23"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 11,
+ "runs": 12,
  "first_researched_at": "2026-11-06T17:59:58.829669+00:00"
 }

@@ -1,0 +1,1545 @@
+{
+ "name": "SimScale",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-10T23:58:59.490141+00:00",
+ "official_url": "https://www.simscale.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$94,000",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$29,200,000",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Ridlerstraße 31B, Munich, Bayern 80339, DE",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2012",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Innovation cycles are shrinking. Product complexity is rising.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant prediction of physical behavior using AI models linked to high-fidelity simulation. Leverage past CAE data for instant parametric design optimization.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time prediction and design exploration using Physics AI models linked to high-fidelity simulation.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SimScale's cloud-native architecture enables scalable compute for multiphysics simulation. Engineers can run multiple design variants simultaneously, accelerating exploration without being constrained by local hardware or queue times, backed by enterprise grade security.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Simulation becomes a team capability, not an isolated expert task. Share projects, standardize workflow templates, and collaborate across teams — with an expert-in-the-loop model that provides real-time access to simulation and physics specialists. This ensures consistency, accelerates problem-solving, and enables faster, more confident engineering decisions.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic engineering in practice",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud & AI delivers the promise of simulation democratization by supporting design engineers to apply simulation early, broadly, and with confidence.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Integrating simulation early in the product development process allows us to better understand the physics and gain confidence in design choices. With SimScale every design engineer has access to simulation.\"",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomously explore thousands of design alternatives to submit stronger RFQs and protect margins",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compress time-to-market with Engineering AI agents that run parallel simulations and surface design insights in seconds.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The key advantage of using SimScale for us is to extract fast design insights at the early stages. We can then arrive at a final design faster and have more confidence when moving to the physical prototyping stage.”",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Replace costly physical prototypes with AI-native, high-fidelity virtual testing — delivered at cloud scale by Physics AI.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We were able to shorten our CFD simulation feedback loop, which in turn allowed us to iterate and evaluate many design options at the earliest design phases of our projects. This proved to be particularly innovative because design changes during this time have the potential for the biggest impact on performance.\"",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Physics AI–powered models connected to live operational data deliver continuous, instant engineering intelligence — so every product decision is grounded in physics, not guesswork.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“I have been using SimScale in my product development routine (weekly) and it has been a game changer in critical design decisions where industrial equipment is used in large scale industrial operations.”",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering AI encodes your simulation experts' knowledge into agentic workflows any engineer on the team can run, scaling expertise across the product org without scaling headcount.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“SimScale was very easy to get started with. I was the only CFD expert and in several projects, people from the department decided to include CFD as they found it very easy to use after a 1-hour explanation… This has broadened access to simulation within Tecnalia.”",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pressure loss and flow distribution analysis",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimization of flow-driven processes",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why text to CAD falls short for manufacturing, how the Onshape FeatureScript MCP turns prompts into reusable parametric tools, and how the SimScale agent tests them.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live poll results from Agentic Unlocks: only 1 in 20 engineering teams are scaling AI, plus practitioner advice for every stage of adoption.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering AI Blueprint: how agents, physics AI, and open integration fit together",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Using SimScale in the early R&D stages of the product, we were able to fully leverage simulation capabilities into our product design process. This allowed us to quickly set up different cooling scenarios for our battery cells using SimScale's CHT module to efficiently analyze the impact of design changes on battery module performance.\"",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Using SimScale in the early R&D stages of the product, we were able to fully leverage simulation capabilities into our product design process. This allowed us to quickly set up different cooling scenarios for our battery cells using SimScale's CHT module to efficiently analyze the impact of design changes on battery module performance.\"",
+    "url": "https://www.simscale.com/technology/integrations-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SimScale runs manufacturing-equipment and process simulation across CFD, FEA, and thermal analysis in one cloud-native platform, so OEMs, process plants, and contract manufacturers can validate machines, tools, and lines from a browser.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "reduction in engineering time per project",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "and process simulation across CFD, FEA, and thermal analysis in one cloud-native platform, so OEMs, process plants, and contract manufacturers can validate machines, tools, and lines from a browser.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Replace development test loops with cloud simulation and bring new equipment to market months faster. Manufacturing teams using SimScale report cutting development cycles by 2–3 months and saving over 100 engineering hours per product.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Run simulation before tooling to reduce material spend, cut prototype iterations, and lower energy costs. Structural FEA on sheet-metal components can reduce gauge without compromising load capacity; airflow optimisation on process equipment cuts new-product development cost directly.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Disqualify weak designs before tooling. ISO-aligned impact tests, mould-flow studies, and structural validation all run in simulation before molds are cut, prototypes machined, or lines retooled.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing crosses domains. Run CFD on a food-processing drum, FEA on injection-mould snap-fits, thermal analysis on infrared heating modules, and structural FEA on sheet-metal AHU panels in the same project. One mesh, one results store.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Physics AI for instant predictions",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Physics AI delivers near-instant predictions trained on high-fidelity simulation data, so designers can sweep tooling, mould, and process geometry variants in seconds before committing to a full CFD or FEA run.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Mechanical designers, process engineers, and plant managers see the same simulation in the browser with real-time support inside the project. SolidWorks, CATIA, and STEP imports land directly in SimScale.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven across the manufacturing portfolio",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "From injection-mould snap-fits to food-processing lines, SimScale covers the breadth of manufacturing-process and equipment simulation OEMs and operators run every day.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Process plant: food, chemical, recycling",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "CFD on infrared drums, cyclones, heating and cooling modules, and recycling lines. Optimise airflow, pressure drop, and energy consumption across process zones.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "FEA on spindles, fixtures, brackets, and tooling under static, dynamic, and modal loads. Run vibration and modal analyses to cut prototype testing cycles before hardware commitment.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Simulation can provide quantitative evidence and documentation to our customers and provides a greater level of confidence in product decision-making.\"",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "25% new-product cost reduction / 120 hours saved per product / 2-3 months to market",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Verifying performance in SimScale is now the de-facto workflow before moving to prototype stage and manufacturing, and this has reduced labor costs.\"",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "One prototype iteration / sheet-metal cost cut",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Development Engineer at Oxygen8",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "\"From rapid concept evaluation to final optimization, cloud-native simulation enabled faster iteration, better decision-making, and superior product performance during the entire development process.\"",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "What types of manufacturing equipment and processes can SimScale simulate?",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Injection-mould plastic parts, snap-fit fasteners, food-processing drums and cyclones, AHU and HVAC manufacturing, tooling and spindle fixtures, thermal packaging, sheet-metal assemblies, impact and vibration tests. CFD, FEA, and thermal analysis run in one project.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "No. SimScale runs in the browser. There's no install, no VPN, no on-prem HPC to maintain. Designers can run simulation at customer premises or on the factory floor without specialist hardware.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. A manufacturing line often needs thermal, fluid, and structural coupling on the same geometry. SimScale runs these in one platform with shared meshes and a single results store, so a thermal-mechanical food-processing unit or a fluid-structural AHU analysis stays in one project.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "From thermal management to structural analysis, SimScale covers every physics type across every industry, in one AI-native cloud platform. Explore use cases, industries, and applications to see how engineering teams are solving harder problems, faster.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "See how SimScale connects your simulations to live data with Physics AI for real-time predictive insights and continuous improvement.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate new product development using AI and cloud simulation, bringing better products to market faster.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "SimScale uses AI-powered tools to scale engineering expertise, accelerate onboarding, reduce errors, and help teams work consistently at a high level.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "SimScale's RFQ Automation uses Engineering AI and Physics AI to deliver simulation-backed engineering proposals in hours, not days.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Validate aerodynamics, structural integrity, thermal management, and propulsion across aircraft, drones, and eVTOL programs from concept to certification.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Simulate wind comfort, indoor airflow, thermal performance, and structural loads for buildings and urban environments from early design stages.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver client simulation projects faster across CFD, FEA, thermal, and electromagnetic analysis - without switching tools or adding overhead.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Validate hull resistance, propeller performance, structural integrity, and onboard ventilation across marine vessels and offshore energy systems.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Validate your robot's structural, thermal, and vibration performance through simulation - before committing to a physical prototype.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict airflow uniformity, track contamination pathways, and verify ISO 14644 and EU GMP classification compliance before construction.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Mechanical Engineer at ITW Automotive",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“I have been using SimScale in my product development routine (weekly) and it has been a game changer in critical design decisions where industrial equipment is used in large scale industrial operations.”",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive & Transportation",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore automotive solutions",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Equipment & Machinery",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore industrial equipment solutions",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Text to CAD to simulation and optimization for manufacturing",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why text to CAD falls short for manufacturing, how the Onshape FeatureScript MCP turns prompts into reusable parametric tools, and how the SimScale agent tests them.",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Varisco Cuts Industrial Pump Design Cycles from Weeks to Hours with SimScale Physics AI",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 900,000+ engineers worldwide",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "saved by avoiding plant downtime, with a fix designed in 8 hours",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Implicit modeling and direct simulations on implicit geometry is a real step change in speed and robustness of optimization workflows and necessary to unlock the real potential of additive manufacturing.\"",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "reduction in insertion-force variability on automotive fastening components",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Implicit modeling and direct simulations on implicit geometry is a real step change in speed and robustness of optimization workflows and necessary to unlock the real potential of additive manufacturing.\"",
+    "url": "https://www.simscale.com/technology/integrations-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Simulation Software | SimScale Cloud CAE",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Simulation",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing simulation in the cloud, from tooling to finished line",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "SimScale runs manufacturing-equipment and process simulation across CFD, FEA, and thermal analysis in one cloud-native platform, so OEMs, process plants, and contract manufacturers can validate machines, tools, and lines from a browser.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 900,000+ engineers worldwide",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "SimScale runs manufacturing-equipment",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "and process simulation across CFD, FEA, and thermal analysis in one cloud-native platform, so OEMs, process plants, and contract manufacturers can validate machines, tools, and lines from a browser.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How SimScale benefits manufacturing teams",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Replace development test loops with cloud simulation and bring new equipment to market months faster. Manufacturing teams using SimScale report cutting development cycles by 2–3 months and saving over 100 engineering hours per product.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Move to first-time-right manufacturing",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Simulation built for manufacturing",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing crosses domains. Run CFD on a food-processing drum, FEA on injection-mould snap-fits, thermal analysis on infrared heating modules, and structural FEA on sheet-metal AHU panels in the same project. One mesh, one results store.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud-native collaboration across factory floors",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Mechanical designers, process engineers, and plant managers see the same simulation in the browser with real-time support inside the project. SolidWorks, CATIA, and STEP imports land directly in SimScale.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven across the manufacturing portfolio",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "From injection-mould snap-fits to food-processing lines, SimScale covers the breadth of manufacturing-process and equipment simulation OEMs and operators run every day.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Injection moulding and plastics manufacturing",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Process plant: food, chemical, recycling",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Air handling, HVAC, and ventilation manufacturing",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing case studies",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Real manufacturers, measurable outcomes — in tooling costs, development cycles, and time to market.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Verifying performance in SimScale is now the de-facto workflow before moving to prototype stage and manufacturing, and this has reduced labor costs.\"",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "New to manufacturing simulation or evaluating SimScale? Here are the questions we hear most.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "What types of manufacturing equipment and processes can SimScale simulate?",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Injection-mould plastic parts, snap-fit fasteners, food-processing drums and cyclones, AHU and HVAC manufacturing, tooling and spindle fixtures, thermal packaging, sheet-metal assemblies, impact and vibration tests. CFD, FEA, and thermal analysis run in one project.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive & Transportation",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Run CFD, FEA, thermal, and EM simulation in one browser-based platform to validate automotive designs faster.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery & Industrial Equipment",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Simulate, optimize, and validate complex industrial machinery faster using cloud-native CFD, FEA, thermal, and electromagnetic analysis tools.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Run CFD, FEA, and thermal simulations in your browser to validate designs, cut costs, and speed up manufacturing cycles.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial and Industrial Fan Design",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Simulate commercial and industrial fans early to optimize efficiency, meeting standards like ASHRAE and EU regulations without slow physical redesign.",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Implicit modeling and direct simulations on implicit geometry is a real step change in speed and robustness of optimization workflows and necessary to unlock the real potential of additive manufacturing.\"",
+    "url": "https://www.simscale.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 900,000+ engineers worldwide",
+    "url": "https://www.simscale.com/industries/architecture-engineering-construction-aec/",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery & Industrial Equipment",
+    "url": "https://www.simscale.com/industries/architecture-engineering-construction-aec/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive & Transportation",
+    "url": "https://www.simscale.com/industries/architecture-engineering-construction-aec/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Implicit modeling and direct simulations on implicit geometry is a real step change in speed and robustness of optimization workflows and necessary to unlock the real potential of additive manufacturing.\"",
+    "url": "https://www.simscale.com/industries/architecture-engineering-construction-aec/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace & Defense Simulation Software | SimScale",
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Aerospace & Defense?",
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace & Defense Simulation",
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace simulation in the cloud, from drones to airliners",
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "SimScale runs aerospace simulation across CFD, FEA, thermal, and electromagnetic analysis in one AI-native cloud platform, so OEMs, suppliers, and air-mobility start-ups can validate aerodynamics, structures, and thermal management from a browser.",
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 900,000+ engineers worldwide",
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace validation is too slow, too expensive, and too hardware-dependent.",
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Simulation built for aerospace",
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "How SimScale benefits Aerospace & Defense",
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“The key advantage of using SimScale for us is to extract fast design insights at the early stages. We can then arrive at a final design faster and have more confidence when moving to the physical prototyping stage.”",
+    "url": "https://www.simscale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run CFD on compressor and turbine stages, ducted fans, and rotor arrangements with MRF and sliding-mesh rotation. Generate performance maps and validate impeller geometry across pitch, chord, and blade count.",
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "No VPN, no remote desktop, no HPC setup. Every engineer on your team can access simulations from a browser, run models in parallel, and collaborate in real time. Projects, results, and best-practice templates are shared across sites and time zones, lowering the barrier for organization-wide simulation adoption.",
+    "url": "https://www.simscale.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "Simulate blade aerodynamics, wake interactions, and array performance at full scale using RANS and LES turbulence models. Maximize energy yield through simulation-driven iteration of rotor geometry, tip-speed ratio, and cut-in wind speed.",
+    "url": "https://www.simscale.com/industries/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "SimScale produces traceable CFD and FEA evidence that engineering teams use inside their internal V&V documentation and dossier preparation. The platform itself is not FDA-cleared (the device gets cleared, not the simulation tool), but customers like Withings and BellaSeno use SimScale as part of the design evidence for medical-grade products.",
+    "url": "https://www.simscale.com/industries/life-sciences-healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Thermofluids Expert at Convion (part of HD Hyundai)",
+    "url": "https://www.simscale.com/industries/machinery-industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "“With SimScale these economic barriers are removed — it is possible to run hundreds of design iterations in parallel.”",
+    "url": "https://www.simscale.com/product/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re excited about SimScale’s mission. We believe in the future we’re building, and are proud to be part of the journey.",
+    "url": "https://www.simscale.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Interested in becoming a SimScaler? You will get the opportunity to work in an international environment, with endless opportunities, and the chance to be part of SimScale’s success story!",
+    "url": "https://www.simscale.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "SimScale Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At SimScale",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of SimScale?",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SimScale have?",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "SimScale runs manufacturing-equipment and process simulation across CFD, FEA, and thermal analysis in one cloud-native platform, so OEMs, process plants, and contract manufacturers can validate machines, tools, and lines from a browser.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "and process simulation across CFD, FEA, and thermal analysis in one cloud-native platform, so OEMs, process plants, and contract manufacturers can validate machines, tools, and lines from a browser.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "From injection-mould snap-fits to food-processing lines, SimScale covers the breadth of manufacturing-process and equipment simulation OEMs and operators run every day.",
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "SimScale runs aerospace simulation across CFD, FEA, thermal, and electromagnetic analysis in one AI-native cloud platform, so OEMs, suppliers, and air-mobility start-ups can validate aerodynamics, structures, and thermal management from a browser.",
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Browser-based access and real-time collaboration let OEM-supplier pairs and consortium partners review CFD and FEA results together, without VPN, file transfers, or time on shared workstations.",
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "SimScale runs automotive simulation across CFD, FEA, thermal, and electromagnetic analysis in one AI-native platform, so OEM and supplier teams can validate vehicle aero, battery cooling, e-motors, and structural integrity in minutes, not days.",
+    "url": "https://www.simscale.com/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "so OEM and supplier teams can validate vehicle aero, battery cooling, e-motors, and structural integrity in minutes, not days.",
+    "url": "https://www.simscale.com/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale simulation across OEM and supplier teams",
+    "url": "https://www.simscale.com/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Browser-based, Google-Docs-style collaboration means design engineers, simulation engineers, and CAE leads all work on the same project, with central quality control across OEM and supplier teams.",
+    "url": "https://www.simscale.com/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "OEM teams in Munich, supplier teams in Detroit, and CFD specialists in Bangalore work on the same simulation in the browser. Real-time support sits inside the platform.",
+    "url": "https://www.simscale.com/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "From fasteners and solenoids to battery packs and full-vehicle aero, SimScale covers the breadth of automotive simulation OEMs and suppliers run every day.",
+    "url": "https://www.simscale.com/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Can SimScale be rolled out across an OEM or supplier organisation?",
+    "url": "https://www.simscale.com/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "From sports gear to small appliances, SimScale covers the full breadth of consumer product simulation that brands, OEMs, and contract manufacturers run every day.",
+    "url": "https://www.simscale.com/industries/consumer-products/",
+    "pass": 1
+   },
+   {
+    "quote": "SimScale’s AI-native platform gives equipment OEMs and plant engineers instant access to CFD, FEA, and thermal simulation. Run hundreds of design variants in parallel and get results in hours, not weeks.",
+    "url": "https://www.simscale.com/industries/machinery-industrial-equipment/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Tokyowheel tested 10 carbon-wheel designs in 30 minutes per simulation using 16 cores, replacing weeks of physical prototyping. Browser-based parallel runs mean designers can iterate inside a single sprint.",
+    "url": "https://www.simscale.com/industries/consumer-products/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch design failures before tooling, not after. Tokyowheel saved $40k comparing 10 wheel profiles in simulation; SolidTrust cut muffler pressure drop 75% before cutting a single part; CRYO Science eliminated a thermal bridge without physical iteration.",
+    "url": "https://www.simscale.com/industries/consumer-products/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict drag, lift, and stability on bikes, wheels, helmets, and personal-mobility devices using rotating-domain CFD. Tokyowheel ran a full virtual wind tunnel with MRF for rotating carbon wheels.",
+    "url": "https://www.simscale.com/industries/consumer-products/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead Engineer Tokyowheel",
+    "url": "https://www.simscale.com/industries/consumer-products/",
+    "pass": 1
+   },
+   {
+    "quote": "No. SimScale runs in the browser. There's no install, no VPN, no on-prem HPC to maintain. Tokyowheel runs CFD on 16 cores in 30 minutes per simulation; SolidTrust iterates muffler designs without local hardware.",
+    "url": "https://www.simscale.com/industries/consumer-products/",
+    "pass": 1
+   },
+   {
+    "quote": "大和ハウス工業株式会社様・SimScale導入事例インタビュー",
+    "url": "https://simscale.kke.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本機械学会 スポーツ工学・ヒューマンダイナミクス部門講演会2026（SHD2026）にて出展および研究発表します",
+    "url": "https://simscale.kke.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本機械学会 第39回 計算力学講演会（CMD2026)」に展示出展します (9月14日～16日)",
+    "url": "https://simscale.kke.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "SimScaleは学生フォーミュラ日本大会2026を応援します / 協賛・出展のお知らせ",
+    "url": "https://simscale.kke.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "大和ハウス工業株式会社様・SimScale導入事例インタビュー",
+    "url": "https://simscale.kke.co.jp/application-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "導入後も日本語サポートでお客様の解析運用をサポートいたします",
+    "url": "https://simscale.kke.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーガイドには豊富な日本語記事がごさいます",
+    "url": "https://simscale.kke.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語にも対応しており、CAEの経験が浅いユーザーでも安心して解析を進められます",
+    "url": "https://simscale.kke.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の資料(マニュアル/ソルバーガイド/チュートリアル)が豊富に用意されています",
+    "url": "https://simscale.kke.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "PRISMADD Japan uses SimScale to optimize their water cooling systems for high temperature aluminum casting",
+    "url": "https://www.casestudies.com/company/simscale",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyowheel achieves significantly improved wheel aerodynamics and rapid design iteration with SimScale",
+    "url": "https://www.casestudies.com/company/simscale",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SimScale | AIとクラウドで進化するCAE — SimScaleは、AIとクラウドを活用したCAE・シミュレーションプラットフォームです。 流体 (CFD)、構造 (FEA)、熱、電磁界解析に対応し、ブラウザ上で高速なシミュレーションを実行できます。",
+    "url": "https://simscale.kke.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事例 | SimScale | AIとクラウドで進化するCAE — SimScaleを活用した流体解析（CFD）・構造解析（FEA）・熱解析・風環境解析などの導入事例をご紹介。 各業界における課題解決や設計効率化の実績をご覧ください。",
+    "url": "https://simscale.kke.co.jp/application-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "SimScaleとは | SimScale | AIとクラウドで進化するCAE — SimScale（シムスケール）の概要と特長。 完全クラウドネイティブなCAEプラットフォームとして、Webブラウザ上で流体解析・構造解析・熱解析・AI解析を自在に実行できます。",
+    "url": "https://simscale.kke.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale Partners with KKE Japan | SimScale — KKE and SimScale will show customers how to digitally transform their product design and development processes and have announced a series of launch events in Japan on July 25th and 27th where SimScale CEO David Heiny will be presenting.",
+    "url": "https://www.simscale.com/press/simscale-partners-kke-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "完全クラウドのCAEプラットフォーム「SimScale」の 国内販売を開始し... — Jun 26, 2023 · SimScaleは、ドイツSimScale社が開発した業界初の完全クラウドCAEプラットフォームです。 全世界で40万人以上が利用しており（2023年6月時点）、ハードウェアが不要でいつでもどこからでもアクセス可能な設計・開発のためのシミュレーションツールです。",
+    "url": "https://www.kke.co.jp/release/14213",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Native Engineering Simulation Software in the Cloud | SimScale — Nov 2, 2026 · AI-Native Engineering Simulation in the Cloud SimScale empowers engineers everywhere to innovate faster by exploring thousands of engineering decisions in seconds.",
+    "url": "https://www.simscale.com/",
+    "pass": 3
+   },
+   {
+    "quote": "japan on SimScale | SimScale — Public Profile japan's profile Most Popular Room Ventilation - Copy by japan about 1 year ago",
+    "url": "https://www.simscale.com/projects/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "完全クラウドCAEソリューション SimScale — クラウドを最大限活用したシミュレーション体験をユーザーに提供する クラウドネイティブCAE SimScale。 ウェブブラウザでログインするだけ で解析のセットアップから可視化まで可能です。",
+    "url": "https://simscale.kke.co.jp/lp-general/",
+    "pass": 3
+   },
+   {
+    "quote": "プラン | SimScale | AIとクラウドで進化するCAE — SimScaleの料金プラン一覧。 無償プランから商用解析・高度なアドオンが使えるProfessionalプランまで、用途に合わせた最適なプランをご案内。 2週間の無料評価利用も可能です。",
+    "url": "https://simscale.kke.co.jp/plan/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Case Studies | SimScale — Thousands of successful companies worldwide use SimScale. Find out how cloud-based CAE helps them build amazing products faster and more cost-efficiently.",
+    "url": "https://www.simscale.com/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Ati Motors Pvt. Ltd | Customer Success Story | SimScale — Learn how Ati Motors worked with SimScale's cloud-based simulation platform to improve their product design.",
+    "url": "https://www.simscale.com/customers/ati-motors/",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale B2B Case Studies & Customer Successes — See how SimScale solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/simscale",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How SimScale Uses Software & Services — Explore case studies featuring SimScale as the customer — learn how vendors and partners helped SimScale solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/simscale",
+    "pass": 3
+   },
+   {
+    "quote": "90 SimScale Case Studies, Success Stories, & Customer Stories — Narrow down 90 case studies by company size & industry to find out how SimScale works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/simscale/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale - 2026 Company Profile, Team, Funding, Competitors ...SimScale – Revenue Estimate & Market Landscape – 2026Simscale 2026 Company Profile: Valuation, Funding & Investors ...SimScale Revenue, Funding & Valuation - prospeo.ioSimscale Revenue 2024: $21.6M Est. - getlatka.comSimScale raises €25M to transform product design and R&D ...SimScale - Crunchbase Company Profile & Funding — Mar 31, 20",
+    "url": "https://tracxn.com/d/companies/simscale/__K54i0AwbPnXMgomWOjZx-lKgHW2uAhXi7W-venEc5EA",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale – Revenue Estimate & Market Landscape – 2026 — SimScale's operations are expected to yield yearly revenues near $29.2M. SimScale’s operational efficiency results in $182.8K revenue per employee. SimScale has received total funding worth $59M. SimScale has scaled its team to over 100+ members. SimScale grew their employee count by 7% last year.",
+    "url": "https://compworth.com/company/simscale",
+    "pass": 3
+   },
+   {
+    "quote": "Simscale 2026 Company Profile: Valuation, Funding & Investors ...SimScale Revenue, Funding & Valuation - prospeo.ioSimscale Revenue 2024: $21.6M Est. - getlatka.comSimScale raises €25M to transform product design and R&D ...SimScale - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for Simscale. Use the PitchBook Platform to explore t",
+    "url": "https://pitchbook.com/profiles/company/56157-04",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale Revenue, Funding & Valuation - prospeo.io — SimScale has revenue of $14,000,000, estimated valuation of $44,800,000, $29,200,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Simscale Revenue 2024: $21.6M Est. - getlatka.com — Oct 7, 2026 · How many employees does Simscale have? Simscale had 144 employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/simscale.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "SimScale achieves 68% higher email open rates and 15% more MQLs with Act-On Software",
+    "url": "https://www.casestudies.com/customer/simscale",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SimScale (@SimScale) / Posts / X Methanex turned to SimScale to simulate a leak containment system in real-time. Within just 8 hours, they were able to design and optimize a solution that contained the leak.",
+    "url": "https://x.com/simscale/",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale on X: \" Are your #batteries safe to transport ... SimScale on X: \"🔋 Are your #batteries safe to transport? Using the structural vibration simulation capabilities of SimScale can vastly improve the safety of your product and help it meet UN 38.3 requirements.",
+    "url": "https://x.com/SimScale/status/1696160206189707354",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale on X: \"In this on-demand webinar with ITW, you will ... SimScale @SimScale In this on-demand webinar with ITW, you will learn: • How to use cloud-native structural analysis software • How to get started with #FEA #simulation • Case study setup, simulation, and results analysis of a plastic pipe & anchor clip 🖥 Watch here 👉 simscale.com",
+    "url": "https://x.com/SimScale/status/1644279344544509952",
+    "pass": 3
+   },
+   {
+    "quote": "\"#SimScaleSummit\" - Results on X | Live Posts & Updates ご登壇者様、ご参加いただいた皆さま、ありがとうございました！ 多くの方にお越しいただき、「CAEの未来」をともに考える熱気あふれる時間になりました🔥 会場の熱気を励みに、これからも進化を続けます。 #SimScaleSummit #SimScale #クラウド #CAE #AI 💬 0",
+    "url": "https://x.com/hashtag/SimScaleSummit",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SimScale - LinkedIn SimScale is the world’s first AI-native cloud platform for engineering simulation. Trusted by more than 700,000 users, SimScale empowers engineers everywhere to innovate faster by exploring...",
+    "url": "https://www.linkedin.com/company/simscale/",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale - LinkedIn Learn how SimScale is the world’s first production-ready SaaS application for engineering simulation, providing accessible and cost-efficient simulation for everyone!",
+    "url": "https://www.linkedin.com/products/simscale-gmbh-simscale/",
+    "pass": 3
+   },
+   {
+    "quote": "Jon Wilde - SimScale | LinkedInMatthew Bemis - SimScale - Simulation in your web browser ...SimScale’s Mission - LinkedInNolan Halliday - SimScale | LinkedInSimScale's Engineering AI is now available directly inside ... I'm a Product Manager and still a geeky engineer at heart, who loves talking to people… · Experience: SimScale · Location: Portishead · 500+ connections on LinkedIn. View Jon Wilde",
+    "url": "https://uk.linkedin.com/in/wildejon80",
+    "pass": 3
+   },
+   {
+    "quote": "Matthew Bemis - SimScale - Simulation in your web browser ...SimScale’s Mission - LinkedInNolan Halliday - SimScale | LinkedInSimScale's Engineering AI is now available directly inside ... SimScale - Simulation in your web browser · I help engineers build better products by improving their product development cycle. Dec 14, 2022 · SimScale empowers engineers with AI-native cloud simulation, enabli",
+    "url": "https://www.linkedin.com/in/matthew-bemis-6b9396112",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SimScale | Munich - FacebookSimScale - FacebookSimScale has made high-fedility aerodynamics simulation ...SimScale - SimScale offers a powerful and efficient... | FacebookSimScale - This short step-by-step tutorial shows how you ...With the SimScale #tutorials, you can access multiple ...The built-in CAD Mode in SimScale enables you to modify the ... Aug 21, 2026 · SimScale AI features, which deli",
+    "url": "https://www.facebook.com/SimScale/",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale - Facebook Sep 21, 2024 · Whether you're into engineering, CFD, FEA, or thermal analysis, this community is designed to share insights, solve problems, and explore the full potential of SimScale together.",
+    "url": "https://www.facebook.com/groups/simscale/",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale has made high-fedility aerodynamics simulation ... Jun 11, 2024 · SimScale has made high-fedility aerodynamics simulation technically and economically accessible. ️ In this video, you will learn how to use SimScale to...",
+    "url": "https://www.facebook.com/SimScale/videos/simscale-has-made-high-fedility-aerodynamics-simulation-technically-and-economic/1002196387956843/",
+    "pass": 3
+   },
+   {
+    "quote": "SimScale - SimScale offers a powerful and efficient... | Facebook Apr 19, 2023 · SimScale offers a powerful and efficient solution for indoor environmental simulations that can account for the complex physical phenomena needed to...",
+    "url": "https://www.facebook.com/SimScale/posts/simscale-offers-a-powerful-and-efficient-solution-for-indoor-environmental-simul/698310965627443/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.simscale.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/technology/integrations-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/industries/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/industries/architecture-engineering-construction-aec/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/industries/aerospace-defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/industries/automotive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/industries/consumer-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/industries/electronics-high-tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/industries/energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/industries/life-sciences-healthcare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/industries/machinery-industrial-equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/product/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/use-cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/customers/bohme/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/customers/kreyenborg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.simscale.com/customers/oxygen8/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://frontend-assets.simscale.com/media/2026/10/Onshape-Battery-Pack-with-SimScale-Assistant-e1791811439459.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://frontend-assets.simscale.com/media/2026/06/manufacturing-icon.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://frontend-assets.simscale.com/media/2026/06/manufacturing-icon.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://frontend-assets.simscale.com/media/2026/06/open-api-integration.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://simscale.kke.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simscale.kke.co.jp/application-cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simscale.kke.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simscale.kke.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simscale.kke.co.jp/lp-general/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/simscale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/simscale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/simscale/__K54i0AwbPnXMgomWOjZx-lKgHW2uAhXi7W-venEc5EA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/simscale",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/56157-04",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/simscale-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/simscale/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SimScale/status/1696160206189707354",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SimScale/status/1644279344544509952",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/SimScaleSummit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/simscale/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/simscale-gmbh-simscale/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/wildejon80",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/matthew-bemis-6b9396112",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SimScale/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/simscale/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SimScale/videos/simscale-has-made-high-fedility-aerodynamics-simulation-technically-and-economic/1002196387956843/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SimScale/posts/simscale-offers-a-powerful-and-efficient-solution-for-indoor-environmental-simul/698310965627443/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SimScale 日本 導入",
+   "results": [
+    "https://simscale.kke.co.jp/",
+    "https://simscale.kke.co.jp/application-cases/",
+    "https://simscale.kke.co.jp/about/",
+    "https://www.simscale.com/press/simscale-partners-kke-japan/",
+    "https://www.kke.co.jp/release/14213",
+    "https://simscale.kke.co.jp/lp-general/",
+    "https://prtimes.jp/main/html/rd/p/000000060.000023284.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SimScale 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.simscale.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.3ds.com/ja/about/company/office-locations/japan/tokyo-osaki"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SimScale Japan",
+   "results": [
+    "https://simscale.kke.co.jp/",
+    "https://www.simscale.com/press/simscale-partners-kke-japan/",
+    "https://www.simscale.com/projects/japan/",
+    "https://simscale.kke.co.jp/lp-general/",
+    "https://simscale.kke.co.jp/plan/",
+    "https://simscale.kke.co.jp/news/",
+    "https://www.simscale.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SimScale manufacturing customer case study",
+   "results": [
+    "https://www.simscale.com/customers/",
+    "https://www.simscale.com/customers/ati-motors/",
+    "https://www.casestudies.com/company/simscale",
+    "https://www.casestudies.com/customer/simscale",
+    "https://www.featuredcustomers.com/vendor/simscale/case-studies",
+    "https://www.linkedin.com/posts/simscale_customer-case-studies-simscale-activity-7092905210167087104-giT3",
+    "https://www.linkedin.com/posts/simscale_customer-case-studies-simscale-activity-7063239731685281792-PZ6n"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SimScale white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SimScale founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/simscale/__K54i0AwbPnXMgomWOjZx-lKgHW2uAhXi7W-venEc5EA",
+    "https://compworth.com/company/simscale",
+    "https://pitchbook.com/profiles/company/56157-04",
+    "https://prospeo.io/c/simscale-revenue",
+    "https://getlatka.com/companies/simscale.com",
+    "https://www.simscale.com/press/simscale-raises-25m/",
+    "https://www.crunchbase.com/organization/simscale"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com SimScale",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/wise_turtle184",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/goku1up/n/n664f4cfd41e1",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com SimScale",
+   "results": [
+    "https://x.com/simscale/",
+    "https://x.com/SimScale/status/1696160206189707354",
+    "https://x.com/SimScale/status/1644279344544509952",
+    "https://x.com/hashtag/SimScaleSummit",
+    "https://x.com/SimScale/status/1838497855494926745",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com SimScale",
+   "results": [
+    "https://www.linkedin.com/company/simscale/",
+    "https://www.linkedin.com/products/simscale-gmbh-simscale/",
+    "https://uk.linkedin.com/in/wildejon80",
+    "https://www.linkedin.com/in/matthew-bemis-6b9396112",
+    "https://www.linkedin.com/pulse/simscales-mission-simscale",
+    "https://www.linkedin.com/in/nolspeed29",
+    "https://www.linkedin.com/posts/simscale_simscales-engineering-ai-is-now-available-activity-7505630598795845636-d1B5"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com SimScale",
+   "results": [
+    "https://www.facebook.com/SimScale/",
+    "https://www.facebook.com/groups/simscale/",
+    "https://www.facebook.com/SimScale/videos/simscale-has-made-high-fedility-aerodynamics-simulation-technically-and-economic/1002196387956843/",
+    "https://www.facebook.com/SimScale/posts/simscale-offers-a-powerful-and-efficient-solution-for-indoor-environmental-simul/698310965627443/",
+    "https://www.facebook.com/SimScale/posts/this-short-step-by-step-tutorial-shows-how-you-can-set-up-and-simulate-the-flow-/1724592397699983/",
+    "https://www.facebook.com/SimScale/videos/with-the-simscale-tutorials-you-can-access-multiple-analysis-types-and-learn-how/2141572016141274/",
+    "https://www.facebook.com/SimScale/videos/the-built-in-cad-mode-in-simscale-enables-you-to-modify-the-geometry-to-prepare-/328765022985336/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SimScale note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "SimScale X 投稿",
+   "results": [
+    "https://x.com:8443/SimScale",
+    "https://www.simscale.com/",
+    "https://simscale.kke.co.jp/",
+    "https://www.simscale.com/forum/",
+    "https://www.qingkeai.online/blog/SimScale",
+    "https://zhuanlan.zhihu.com/p/2027725214247661784",
+    "https://github.com/OpenDriveLab/SimScale"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

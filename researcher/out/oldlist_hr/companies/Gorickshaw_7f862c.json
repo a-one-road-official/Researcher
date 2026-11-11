@@ -1,0 +1,411 @@
+{
+ "name": "Gorickshaw",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T23:18:41.027584+00:00",
+ "official_url": "https://gorickshaw.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "· Spreadsheet integration",
+    "url": "https://gorickshaw.com/",
+    "pass": 1
+   },
+   {
+    "quote": "· Professional, background-checked couriers",
+    "url": "https://gorickshaw.com/",
+    "pass": 1
+   },
+   {
+    "quote": "· Brand representation & FAQ answers",
+    "url": "https://gorickshaw.com/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://gorickshaw.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.garage-route48.com/autorickshaw/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/2022/4cfc5cbd6a6367d3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcartop.jp/2025/02/1547173/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helhoard.com/2021-05-21-1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Rickshaw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/suhaimiyusofofficial/videos/rickshaws-in-japan-known-as-jinrikisha-%E4%BA%BA%E5%8A%9B%E8%BB%8A-are-traditional-human-powered-vehicle/2137575193399609/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tokyocheapo.com/entertainment/tokyo-rickshaw/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebisuya.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaglogistics.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ek-tech.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wirediq.com/partners/white-label-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hopskipdrive.com/blog/how-hopskipdrive-will-use-37m-in-funding-to-modernize-school-transportation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.peak-urban.org/blog/financial-precarity-and-enduring-poverty-among-indias-rickshaw-workers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forbesmiddleeast.com/innovation/startups/on-course-gaurav-biswas",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=2tMgJtXxzso",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gorickshaw 日本 導入",
+   "results": [
+    "https://www.garage-route48.com/autorickshaw/",
+    "https://www.jetro.go.jp/biz/areareports/2022/4cfc5cbd6a6367d3.html",
+    "https://www.webcartop.jp/2025/02/1547173/",
+    "https://user.keio.ac.jp/~rhotta/hellog/2021-05-21-1.html",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%8A%9B%E8%BB%8A",
+    "https://merkmal-biz.jp/post/3073",
+    "https://motor-fan.jp/headline/1252499/",
+    "https://japanlifediary.com/rickshaw-japan-guide/",
+    "https://smart-mobility.jp/_ct/17700878"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Gorickshaw 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://www.rakus.co.jp/rakurakucloud/hanbai/column/2021/0202.php",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://rkd-inc.jp/business-introduction/agency-business",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Gorickshaw Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Rickshaw",
+    "https://www.facebook.com/suhaimiyusofofficial/videos/rickshaws-in-japan-known-as-jinrikisha-%E4%BA%BA%E5%8A%9B%E8%BB%8A-are-traditional-human-powered-vehicle/2137575193399609/",
+    "https://tokyocheapo.com/entertainment/tokyo-rickshaw/",
+    "https://www.ebisuya.com/en/",
+    "https://www.youtube.com/watch?v=sKg_f8DGVEY",
+    "https://locally.matcha-jp.com/en/20740",
+    "https://www.gettyimages.com/photos/japanese-rickshaw",
+    "https://www.klook.com/en-US/activity/1033-asakusa-rickshaw-tour-tokyo/",
+    "https://japanlifediary.com/rickshaw-japan-guide/",
+    "https://www.japanflowai.com/japan-jinrikisha-guide"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Gorickshaw manufacturing customer case study",
+   "results": [
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.kaglogistics.com/case-studies/",
+    "https://www.ek-tech.com/resources/case-studies/",
+    "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "https://shipamerican.com/resources/case-studies",
+    "https://www.cubic.com/news/success-stories",
+    "https://www.columbusglobal.com/industries/manufacturing/",
+    "https://kpisolutions.com/case-studies/",
+    "https://www.smartmfgindia.com/case-studies",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Gorickshaw white label OR reseller OR partner program",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.wirediq.com/partners/white-label-program/",
+    "https://jungleworks.com/tookan/whitelabel-delivery-app/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.restolabs.com/restolabs-white-label-reseller-program",
+    "https://www.cloudblue.com/glossary/white-label-reseller/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Gorickshaw founded funding employees revenue",
+   "results": [
+    "https://www.hopskipdrive.com/blog/how-hopskipdrive-will-use-37m-in-funding-to-modernize-school-transportation/",
+    "https://www.peak-urban.org/blog/financial-precarity-and-enduring-poverty-among-indias-rickshaw-workers",
+    "https://www.forbesmiddleeast.com/innovation/startups/on-course-gaurav-biswas",
+    "https://www.youtube.com/watch?v=2tMgJtXxzso",
+    "https://www.facebook.com/EnablersTeam/posts/how-a-rickshaw-driver-achieved-9-million-in-annual-sales-online-start-from-here-/915532407496600/",
+    "https://www.briefs.co/news/corgi-insurance-startup-hits-4-billion-after-eight-week-fund/",
+    "https://tracxn.com/d/companies/chariot-giving/__ou1OPy1fp51y5ZJRgBY5lsXRw3_8ljdFmpKAS6V6UeM",
+    "https://katalystwealth.com/2025/09/23/stock-idea-ritco-logistics-created-a-startup-like-porter-under-the-company/",
+    "https://www.owler.com/company/formanmills",
+    "https://startupintros.com/orgs/rickshaw"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Gorickshaw",
+   "results": [
+    "https://note.com/kobaton1/n/na859a871ff51",
+    "https://note.com/arashiyama_guide/n/n4a8d289ea1ef?hl=en",
+    "https://note.com/seigo77",
+    "https://note.com/glossy_sheep5310/n/n8cd4ce16dd26?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hayaf3/n/n353065b6f06c?hl=en",
+    "https://note.com/su_ec/n/ne4051db5361a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Gorickshaw",
+   "results": [
+    "https://x.com/DrunkenNovice",
+    "https://x.com/RickshawTheatre",
+    "https://x.com/L4LM/status/2118764625718370776",
+    "https://x.com/BaytAlFann/status/1617825854293446659",
+    "https://x.com/hashtag/Rickshaw",
+    "https://x.com/symplyDAPO/status/2069096121637433479",
+    "https://x.com/TheEconomist/status/872055015149645825",
+    "https://x.com/DrPyaricetamoI/status/2119094312239849923",
+    "https://x.com/nutshell_today/status/2119740048790663391",
+    "https://x.com/GORICKSHA"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Gorickshaw",
+   "results": [
+    "https://www.linkedin.com/posts/micah-stairs_data-is-absolutely-fascinating-to-dig-into-activity-7512209138874068992-4aF7",
+    "https://de.linkedin.com/in/zainab-marvi",
+    "https://www.linkedin.com/in/dbalsam",
+    "https://www.linkedin.com/in/annyhe",
+    "https://www.linkedin.com/in/chrisyambo",
+    "https://www.linkedin.com/in/worku",
+    "https://pk.linkedin.com/in/irfan-aslam-93934610",
+    "https://www.linkedin.com/in/battbuckley",
+    "https://www.linkedin.com/in/jonah-seguin",
+    "https://in.linkedin.com/company/gkrickshaw"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Gorickshaw",
+   "results": [
+    "https://www.facebook.com/RickshawKaraoke/",
+    "https://www.facebook.com/groups/2319751818161940/",
+    "https://www.facebook.com/groups/258577490987879/posts/3504668816378714/",
+    "https://www.facebook.com/groups/vallejocommunity/posts/1706387906925159/",
+    "https://www.facebook.com/fossbytes/videos/they-built-the-most-modified-rickshaw-you-will-ever-see-and-they-are-not-done-/2078510526093627/",
+    "https://www.facebook.com/eatatrickshaw/",
+    "https://www.facebook.com/groups/alaskafoodiecatalog/posts/1078388243266272/",
+    "https://www.facebook.com/groups/alaskafoodiecatalog/posts/1333758027729291/",
+    "https://www.facebook.com/gorickshaw/",
+    "https://lite.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Gorickshaw note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://note.com/naofumit",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.com/__bridgo__",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://tokyotorch.mec.co.jp/pickup/150/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Gorickshaw X 投稿",
+   "results": [
+    "https://x.com/thikklikegritss",
+    "https://www.facebook.com/100044398090570/posts/c-reallycorking-on-twitter-/2527387900813605/?locale=zh_CN",
+    "https://www.instagram.com/heckofthenorth/",
+    "https://en.wikipedia.org/wiki/Gregory_Kershaw",
+    "https://x.com/grxvxty/highlights",
+    "https://open.spotify.com/artist/7xDNKSEDodegTCQirmVKRC",
+    "https://www.imdb.com/name/nm3450359/",
+    "https://www.facebook.com/KingLucario448/posts/twitter/1657516085820864/",
+    "https://makezine.com/article/craft/photography-video/introducing-the-hickshaw/",
+    "https://x.com/GORICKSHA"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

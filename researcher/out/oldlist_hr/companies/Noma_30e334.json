@@ -1,0 +1,1803 @@
+{
+ "name": "Noma",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-10T23:44:29.201049+00:00",
+ "official_url": "https://noma.security",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The Agent Security & Governance Platform that helps enterprise security teams enable agent adoption without losing control.",
+    "url": "https://noma.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents are the fastest growing attack surface in your org. They drift, go rogue, and get manipulated, all in milliseconds. Stopping risks without stopping work takes precise runtime context.",
+    "url": "https://noma.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Approve, review, or block every agent, MCP server, and skill. Scope actions by user, team, or tool sensitivity. This is the baseline for what agents are allowed to do. Then, monitor their actions in runtime to catch even when permitted actions become risky.",
+    "url": "https://noma.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Noma partners with best-of-breed AI infrastructure, so you don't have to compromise.",
+    "url": "https://noma.security/",
+    "pass": 1
+   },
+   {
+    "quote": "SECURING THE AGENTIC ENTERPRISE - TOGETHER",
+    "url": "https://noma.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Competitive pricing, tier-based margin protection, and incentive programs to reward performance",
+    "url": "https://noma.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Joint planning, sales alignment, and priority access to co-sell into Noma's enterprise opportunities.",
+    "url": "https://noma.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated Channel Account Manager, pre-sales access, and partner success frameworks.",
+    "url": "https://noma.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Map the full blast radius of each agent, including skills, tools, MCPs, models, data sources, communication channels, and other agents. Surface and prioritize risks and toxic combinations of capabilites.",
+    "url": "https://noma.security/solutions/ai-asset-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive coverage",
+    "url": "https://noma.security/solutions/ai-asset-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "With integrations with 80+ services and coverage spanning endpoint, SaaS, and cloud agents, Noma is the long-term enterprise partner for agent security and governance.",
+    "url": "https://noma.security/solutions/ai-asset-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Support for both on-prem and SaaS deployments, so no model, training data, or security events leave your environment.",
+    "url": "https://noma.security/solutions/ai-asset-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Every new agent, configuration change, and MCP connection is detected as it appears, whether a coding agent spreads across developer machines or a business user spins up a new agent on Copilot Studio.",
+    "url": "https://noma.security/solutions/ai-asset-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Noma governs agent behavior at runtime, so agents can safely access sensitive systems and stay productive.",
+    "url": "https://noma.security/solutions/agent-behavior-runtime-control",
+    "pass": 1
+   },
+   {
+    "quote": "Use hundreds of out-of-the-box policies, benchmarks, and protection profiles, tuned by industry, agent function, and agent type, based on experience working with dozens Fortune 500 customers.",
+    "url": "https://noma.security/solutions/agent-behavior-runtime-control",
+    "pass": 1
+   },
+   {
+    "quote": "Noma protects against adversarial threats as well as rogue agents making mistakes, across endpoint, SaaS, and cloud agents. Risky actions can be blocked, steered, or alert a human, while sensitive data is masked inline.",
+    "url": "https://noma.security/solutions/agent-behavior-runtime-control",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive coverage",
+    "url": "https://noma.security/solutions/agent-behavior-runtime-control",
+    "pass": 1
+   },
+   {
+    "quote": "With integrations with 80+ services and coverage spanning endpoint, SaaS, and cloud agents, Noma is the long-term enterprise partner for agent security and governance.",
+    "url": "https://noma.security/solutions/agent-behavior-runtime-control",
+    "pass": 1
+   },
+   {
+    "quote": "Support for both on-prem and SaaS deployments, so no model, training data, or security events leave your environment.",
+    "url": "https://noma.security/solutions/agent-behavior-runtime-control",
+    "pass": 1
+   },
+   {
+    "quote": "Discover agents, MCP servers, and skills across your organization. Use that inventory to build a registry of approved components, including agents employees introduced without a security review.",
+    "url": "https://noma.security/solutions/agentic-identity",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive coverage",
+    "url": "https://noma.security/solutions/agentic-identity",
+    "pass": 1
+   },
+   {
+    "quote": "With integrations with 80+ services and coverage spanning endpoint, SaaS, and cloud agents, Noma is the long-term enterprise partner for agent security and governance.",
+    "url": "https://noma.security/solutions/agentic-identity",
+    "pass": 1
+   },
+   {
+    "quote": "Support for both on-prem and SaaS deployments, so no model, training data, or security events leave your environment.",
+    "url": "https://noma.security/solutions/agentic-identity",
+    "pass": 1
+   },
+   {
+    "quote": "Most agents never appear in the IdP, and new protocols like XAA are far from enterprise-ready authorization. Noma governs agent access today, keyed to the IdP groups you already maintain.",
+    "url": "https://noma.security/solutions/agentic-identity",
+    "pass": 1
+   },
+   {
+    "quote": "MCP Security: Discover, Govern, and Protect MCP Servers | Noma",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Discover, govern, and protect every MCP server",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Discover approved and shadow MCP servers",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "See which MCP servers are installed, which agents use them, and which tools they expose. Noma surfaces unapproved servers alongside approved ones.",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Approve, review, or block MCP servers. Restrict individual tools within approved servers and enforce those decisions when agents attempt to connect or act. Policies are based on identity, so agents with different owners can have different levels of access to tools within the same MCP.",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Noma inspects MCP tool responses for hidden instructions, prompt injection, workflow hijacking, and data exfiltration patterns. Detect threats before agents act on risky responses.",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Noma's research team discovered ContextCrush, a vulnerability in Context7, one of the most widely used MCP servers (50,000+ GitHub stars, 8M+ npm downloads). Anyone could register a library on the Context7 platform and set \"Custom Rules\" that were served verbatim to every developer querying that library. The full attack chain, from registration to credential exfiltration, took minutes.",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive coverage",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "With integrations with 80+ services and coverage spanning endpoint, SaaS, and cloud agents, Noma is the long-term enterprise partner for agent security and governance.",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Support for both on-prem and SaaS deployments, so no model, training data, or security events leave your environment.",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "MCP security is the discovery, risk assessment, governance, and runtime protection of MCP (Model Context Protocol) servers: the connectors that give AI agents access to tools, data, and systems.",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Unpinned versions that auto-pull compromised updates, excessive tool permissions, low-trust packages, secrets exposure, and tool poisoning, where a compromised server embeds instructions in its responses to hijack agent behavior.",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Tool poisoning is an attack where an MCP server's responses carry hidden instructions that redirect an agent's behavior. Noma monitors tool call responses in real time and detects embedded prompt injection and exfiltration patterns before the agent acts.",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Can I approve an MCP server but block specific tools?",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Noma discovers every MCP server across the organization, including ones employees installed without approval, and shows which agents connect to each server and which tools it exposes.",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "The governance layer for AI agents across the enterprise",
+    "url": "https://noma.security/solutions/agent-control-plane",
+    "pass": 1
+   },
+   {
+    "quote": "Noma provides a single governance layer that spans discovery, access control, and runtime enforcement across every agent environment.",
+    "url": "https://noma.security/solutions/agent-control-plane",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive coverage",
+    "url": "https://noma.security/solutions/agent-control-plane",
+    "pass": 1
+   },
+   {
+    "quote": "With integrations with 80+ services and coverage spanning endpoint, SaaS, and cloud agents, Noma is the long-term enterprise partner for agent security and governance.",
+    "url": "https://noma.security/solutions/agent-control-plane",
+    "pass": 1
+   },
+   {
+    "quote": "Support for both on-prem and SaaS deployments, so no model, training data, or security events leave your environment.",
+    "url": "https://noma.security/solutions/agent-control-plane",
+    "pass": 1
+   },
+   {
+    "quote": "Can the control plane produce compliance evidence?",
+    "url": "https://noma.security/solutions/agent-control-plane",
+    "pass": 1
+   },
+   {
+    "quote": "Model scanning and provenance",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "Noma scans models from open registries for malicious artifacts, hidden instructions, and known vulnerabilities. Each model is traced to its source: which registry it came from, which application uses it, and which account deployed it. For organizations pulling models from Hugging Face, Noma acts as a security proxy that scans and validates models before they enter your environment.",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "Every MCP server in your organization is assessed for AI-specific supply chain risks: unpinned versions, excessive tool permissions, low-trust packages, known vulnerabilities, and secrets exposure. Noma flags toxic combinations where risks compound, like a low-health package with unpinned versions connected to production systems.",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "Define which agents, MCPs, and skills are approved, which require review, and which are blocked. Enforce tool-based or user-based policies that dictate which actions every agent can take. For example, users from different IdP groups may have different levels of access to agent actions using the same MCPs, or certain actions might be denied org-wide.",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive coverage",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "With integrations with 80+ services and coverage spanning endpoint, SaaS, and cloud agents, Noma is the long-term enterprise partner for agent security and governance.",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "Support for both on-prem and SaaS deployments, so no model, training data, or security events leave your environment.",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "AI supply chain security is the process of scanning, governing, and monitoring every component that AI agents depend on, including models, MCP servers, skills, tools, and packages.",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. For organizations pulling models from Hugging Face, Noma acts as a security proxy that scans models before they land in the environment.",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Public skill registries can carry malicious entries, including hidden instructions in skill files, external links that later swap in attacker-controlled content, and credential theft disguised as productivity tools.",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "How do I see which agents a compromised component affects?",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain a current record of agents, models, and connected tools across your organization. Give reviewers a clear view of the AI systems your governance program covers.",
+    "url": "https://noma.security/solutions/ai-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Use AI Red Teaming to assess security, privacy, and compliance risks across challenging scenarios. Bring test results into reviews to demonstrate resilience and identify where safeguards need improvement.",
+    "url": "https://noma.security/solutions/ai-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Prove that runtime controls are being enforced",
+    "url": "https://noma.security/solutions/ai-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Review prompts, tool calls, detections, and enforcement actions together. Give auditors and security leaders evidence of how agents behaved and how your policies responded.",
+    "url": "https://noma.security/solutions/ai-compliance",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by over 10% of the Fortune 100",
+    "url": "https://noma.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 10% of the Fortune 100",
+    "url": "https://noma.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 10% of the Fortune 100",
+    "url": "https://noma.security/solutions/ai-asset-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 10% of the Fortune 100",
+    "url": "https://noma.security/solutions/agent-behavior-runtime-control",
+    "pass": 1
+   },
+   {
+    "quote": "Noma detects actions that drift from the intended task, as well as adversarial threats. This helps catch risky behavior caused by an agent misunderstanding a legitimate request.",
+    "url": "https://noma.security/solutions/agent-behavior-runtime-control",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 10% of the Fortune 100",
+    "url": "https://noma.security/solutions/agentic-identity",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 10% of the Fortune 100",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 10% of the Fortune 100",
+    "url": "https://noma.security/solutions/agent-control-plane",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 10% of the Fortune 100",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 10% of the Fortune 100",
+    "url": "https://noma.security/solutions/ai-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 10% of the Fortune 100",
+    "url": "https://noma.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "93, in an old warehouse on the waterfront of the",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": ". Dry fish, salted herring, whale oil and skins are among the goods that were stored in and around the warehouse before being sold off to European markets.",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "In 2003, the warehouse was turned into",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "Notable dishes include \"The Hen and the Egg\", a meal cooked by the diners themselves, which consists of potato chips, a wild duck egg, slightly wet hay, salt, herbs, wild forest plants, hay oil, thyme, butter, and",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Noma",
+    "url": "https://www.casestudies.com/customer/noma",
+    "pass": 3
+   },
+   {
+    "quote": "Noma - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/noma",
+    "pass": 3
+   },
+   {
+    "quote": "Snøhetta Case Study: Noma – Noma - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/snohetta/case-study/noma-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Noma - Customer Case Study",
+    "url": "https://www.casestudies.com/company/snohetta/case-study/noma-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Noma used Snøhetta",
+    "url": "https://www.casestudies.com/company/snohetta/case-study/noma-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/snohetta/case-study/noma-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/snohetta/case-study/noma-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The close frames test manufacturing texture and the machine's single physical action.",
+    "url": "https://github.com/MoscowJiro/NOMA-AIGC-Brand-Campaign/blob/main/case-study/README.md",
+    "pass": 3
+   },
+   {
+    "quote": "is included as an editable source artifact. GitHub displays this Markdown case study directly.",
+    "url": "https://github.com/MoscowJiro/NOMA-AIGC-Brand-Campaign/blob/main/case-study/README.md",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Noma connects to cloud platforms, SaaS agent platforms, code repositories, and endpoints through existing EDR and MDM tools, so agents employees never reported show up in the inventory automatically.",
+    "url": "https://noma.security/solutions/ai-asset-discovery",
+    "pass": 1
+   },
+   {
+    "quote": "Use hundreds of out-of-the-box policies, benchmarks, and protection profiles, tuned by industry, agent function, and agent type, based on experience working with dozens Fortune 500 customers.",
+    "url": "https://noma.security/solutions/agent-behavior-runtime-control",
+    "pass": 1
+   },
+   {
+    "quote": "Discover the agents your employees are using, define what each one is allowed to do, and stop the ones that break the rules at runtime.",
+    "url": "https://noma.security/solutions/agentic-identity",
+    "pass": 1
+   },
+   {
+    "quote": "Discover agents, MCP servers, and skills across your organization. Use that inventory to build a registry of approved components, including agents employees introduced without a security review.",
+    "url": "https://noma.security/solutions/agentic-identity",
+    "pass": 1
+   },
+   {
+    "quote": "Agents owned by different users might need different access to the same tool. Noma uses identity and tool sensitivity to determine which actions an agent is allowed to take with MCPs and skills.",
+    "url": "https://noma.security/solutions/agentic-identity",
+    "pass": 1
+   },
+   {
+    "quote": "Tool poisoning is an attack where an MCP server's responses carry hidden instructions that redirect an agent's behavior. Noma monitors tool call responses in real time and detects embedded prompt injection and exfiltration patterns before the agent acts.",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Noma discovers every MCP server across the organization, including ones employees installed without approval, and shows which agents connect to each server and which tools it exposes.",
+    "url": "https://noma.security/solutions/mcp-security",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Public skill registries can carry malicious entries, including hidden instructions in skill files, external links that later swap in attacker-controlled content, and credential theft disguised as productivity tools.",
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "pass": 1
+   },
+   {
+    "quote": "Help empower visionary teams to safely and responsibly innovate, accelerating their AI adoption with fewer barriers, greater trust, and stronger outcomes.",
+    "url": "https://noma.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "Help empower visionary teams to safely and responsibly innovate, accelerating their AI adoption with fewer barriers, greater trust, and stronger outcomes.",
+    "url": "https://noma.security/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of a team built on trust, respect, and continuous growth.",
+    "url": "https://noma.security/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of a team that truly champions your success",
+    "url": "https://noma.security/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Acquisition Partner",
+    "url": "https://noma.security/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The restaurant itself also moved from its previous Strandgade location, now housing Restaurant Barr, to its current location at Refshalevej 96.",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "Redzepi planned to keep this open for at least a part of the summer 2020.",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2026, through interviews of 35 previous employees,",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "reported that Redzepi physically abused dozens of employees at Noma. Thirty employees reported that being hit by Redzepi was \"routine.\" When employees broke rules, Redzepi was known to punch them or publicly ridicule them.",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "List of Michelin-starred restaurants in Denmark",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "Wallop, Harry (26 April 2010).",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "\"World-Renowned Restaurant Noma Closes As Workers Speak Out About Bizarre Conditions\"",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "Michelin-starred restaurants in Copenhagen",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": ", the northernmost part of the",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "It carries a cash prize of $10,000 along with a business-class round-trip ticket to Japan, and is open to translations in any language, emphasizing works that capture the nuances of Japanese literary expression; the award is given biennially.",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": "Since its inception, the award has celebrated a diverse array of translations, from poetry and short stories to novels addressing themes like war, identity, and human experience, thereby elevating Japanese literature's global profile amid the rise of authors such as Yukio Mishima and Haruki Murakami.",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": ", which exemplified the prize's focus on faithful yet evocative renderings of postwar Japanese narratives.",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": "The Noma Award for the Translation of Japanese Literature was founded in 1990 by Kodansha, Japan's largest publishing company, as part of its Noma Prize series honoring Shoichi Noma, the firm's former president who served from 1956 until his death in 1984.",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": "By recognizing excellence in translation, it sought to elevate the visibility of contemporary Japanese authors abroad and encourage broader dissemination of their narratives beyond Japan.",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimately, the award plays a vital role in bridging cultural gaps by supporting translators who convey not only the linguistic nuances but also the deeper societal and emotional issues at the heart of Japanese literature, encouraging worldwide readers to engage with Japan's modern narratives.",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": ", a haunting narrative blending fantasy and psychological depth that exemplified Kita's unique pseudonymous voice. The following year, 1993, saw German recipients Siegfried Schaarschmidt for his translation of Yukio Mishima's",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": ", showcasing postwar narratives of rebellion and introspection. Finally, in 1999, German translator Otto Putz was recognized for translating Natsume Sōseki's satirical",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": "These awards have particularly spotlighted Murakami's surreal narratives, with Rubin's 2003 win for",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": "highlighted a translation that confronts Japan's wartime experiences in a way accessible to non-Japanese readers, setting a benchmark for nuanced, empathetic rendering of complex narratives.",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": "The product candidate was defined before campaign production: compact rounded body, warm off-white polymer, narrow aluminium module, one physical dial, tiny indicator, short nozzle, integrated steel tray.",
+    "url": "https://github.com/MoscowJiro/NOMA-AIGC-Brand-Campaign/blob/main/case-study/README.md",
+    "pass": 3
+   },
+   {
+    "quote": "Noma Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Noma",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Noma?",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Noma generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Noma have?",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Drone as a First Responder (DFR) technology giving first responders a live view before they arrive",
+    "url": "https://fundediq.co/noma-noma-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Noma have?",
+    "url": "https://fundediq.co/noma-noma-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/noma-noma-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/noma-noma-security-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "展示会、カンファレンスなどの能率普及事業は、国際モダンホスピタルショウ（日本病院会",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "を受け教示を得るために、 全国評議員会 （東京） を 11 月に開催した",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2025 年度は、東京ビッグサイト西展示棟全ホールを使用し、３つの展示会を合同で開",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "全国町村議会議長会、東京都、NHK など 19 機関・団体",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "協 賛：一般社団法人行政情報システム研究所、一般財団法人地域活性化センター、日本商工会",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "議所、東京商工会議所など 25 機関・団体",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会 場：東京ビッグサイト 西展示棟 西 3・4 ホール",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "政法人中小企業基盤整備機構、一般財団法人日本立地センター、独立行政法人日本貿易振",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "興機構、日本商工会議所、東京商工会議所、全国商工会連合会、一般社団法人日本経済団",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企画事業：企業立地相談コーナー （協力：一般財団法人日本立地センター）",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4.2.1 看護フェア 2025 (令和 7 年度公益社団法人日本看護協会通常総会併設展)",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "後 援：総務省、消防庁、外務省、文部科学省、厚生労働省、経済産業省、環境省、東京都など",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "協 賛：社会福祉法人全国社会福祉協議会、一般社団法人日本医療機器産業連合会など 34 機関・",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会 場：東京ビッグサイト 西展示棟 西 1・2・4 ホール",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "東京ビッグサイト西展示棟全ホールを使用して同時開催した",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネス・経営の実務ならびに最新の課題を習得するために、東京・関西・中部の各地",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "主 題 ： 「日本の人材マネジメントの現在地」",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "5.3.1 経営人事懇話会＜第 28～29 期＞（東京）",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの西日本経営教育大会（マネジメントフォーラム）を未来イノベーション塾に改め、福",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "スキル の習得を目的とした 「行政管理講座」を、 東京・関西・中部・九州の各 地域で 605",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9.2.1 地方公務員人事管理研究会＜第 52 期＞（東京）",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9.2.2 地方自治体女性職員交流研究会＜第 38 回＞（東京）",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "研究テーマ： 日本企業の DX の変遷とその経済価値に関する定量的研究",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（一社） 行政情報システム研究所、 （公社） 全日本能率連盟、 日本中小企業経営協会 、",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023年の春に期間限定でオープンし、大成功を収めた世界一のレストラン「noma（ノーマ）」が再び京都にやってくる！ ２度目のポップアップでは日本の秋、冬の食材にフォーカス",
+    "url": "https://www.elle.com/jp/gourmet/gourmet-restaurants-events/g60105353/noma-202403/",
+    "pass": 3
+   },
+   {
+    "quote": "そんな「ノーマ」は2023年春、日本の旬の食材や食文化をも取り入れた「ノーマ京都」として京都・烏丸御池の「エースホテル京都」に期間限定ポップアップレストランをオープン",
+    "url": "https://www.elle.com/jp/gourmet/gourmet-restaurants-events/g60105353/noma-202403/",
+    "pass": 3
+   },
+   {
+    "quote": "ランチ、ディナー共に、予約受付は2024年5月14日（火）の日本時間20時、一斉スタート",
+    "url": "https://www.elle.com/jp/gourmet/gourmet-restaurants-events/g60105353/noma-202403/",
+    "pass": 3
+   },
+   {
+    "quote": "日本限定1台",
+    "url": "https://www.elle.com/jp/gourmet/gourmet-restaurants-events/g60105353/noma-202403/",
+    "pass": 3
+   },
+   {
+    "quote": "明日の日本の経営を顧客とともにInnovationし続ける",
+    "url": "https://www.noma.or.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【西日本の自治体・企業の皆さま、自治体へのサービス展開を考える企業の皆さまへ】官民連携の総合展示会「自治体総合フェア」、初の九州開催が決定 ― 2026年12月16日・17日、福岡国際センター",
+    "url": "https://www.noma.or.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【日本経営協会がコーポレートサイトを全面刷新】新オウンドメディア「D-OMNi」も同時開設",
+    "url": "https://www.noma.or.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「自治体総合フェア2026」開幕 初日から官民連携の熱気、東京ビッグサイトに全国の自治体・企業が集結",
+    "url": "https://www.noma.or.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "全国の自治体・省庁の行政課題130件を一挙公開 企業から解決提案を募集する「官民MEET東京 in 自治体総合フェア」開催",
+    "url": "https://www.noma.or.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【開催のお知らせ】コスト高止まり・採用難・BCP・補助金活用ー経営課題の解は「地域」にある―全国56団体・自治体が集結する3日間「企業立地フェア2026」、東京ビッグサイトで7月8日〜10日開催",
+    "url": "https://www.noma.or.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人日本経営協会(NOMA)は、日本企業の経営を支援し、歩みを進めてきました",
+    "url": "https://www.noma.or.jp/",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan, in December 2024.",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan, ending on 18 December 2024.",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "On 29 March 2014, Noma announced that the restaurant would be relocating to Japan for two months at the beginning of 2015.",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan. In May 2024, it was announced that Noma would return to Kyoto from 8 October through 18 December, and that this would be the last dates for restaurant service from Noma.",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese breed of horse",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": ", Noma-uma) is an endangered Japanese",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": ", the smallest of the four principal islands of Japan,",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "native horse breeds of Japan",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese horses are thought to derive from stock brought at several different times from various parts of the Asian mainland; the first such importations took place by the sixth century at the latest.",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "among Japanese horse breeds in 2003 found the Noma to be",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "to three other Japanese small-island breeds, the",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "List of Japanese horse breeds",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "Breed data sheet: Noma / Japan (Horse)",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Native Horses",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese native livestock breeds",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "A rare, short breed returns: Back from near extinction, a Japanese Noma horse comes to Tokyo",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s smallest horse saved from extinction",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "[Editorial Committee Office of the Japanese Country Report, Animal Genetic Resources Laboratory, National Institute of Agrobiological Sciences, Japan] ([n.d.]).",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "Microsatellite Variation in Japanese and Asian Horses and Their Phylogenetic Relationship Using a European Horse Outgroup",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "Horse breeds of Japan",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "Horse breeds originating in Japan",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "Noma Award for the Translation of Japanese Literature — Grokipedia",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": "Noma Award for the Translation of Japanese Literature",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": "is a prestigious Japanese literary prize established in 1989 to honor outstanding translations of modern Japanese literature into foreign languages, fostering international cultural understanding by recognizing translators as essential bridges between cultures.",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "2025 年度事業報告書 - noma.or.jp — オンライン講座、オンデマンド講座の拡充を進めるとともに、既存講座の見直し、時流に沿ったテーマの新規開講を実施した。 次年度に向けて、新たなセミナー申込システム(マナブル)の導入を実施し、より効率的で利便性の高い受講環境の提供を目指す。",
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024年秋「ノーマ（noma）京都」が再び「エースホテル京都」にオープ... — そんな「ノーマ」は2023年春、日本の旬の食材や食文化をも取り入れた「ノーマ京都」として京都・烏丸御池の「エースホテル京都」に期間限定 ...",
+    "url": "https://www.elle.com/jp/gourmet/gourmet-restaurants-events/g60105353/noma-202403/",
+    "pass": 3
+   },
+   {
+    "quote": "一般社団法人 日本経営協会 — 令和8年熊本地震により被災された皆様へ NOMA公開セミナーにおける「請求書・領収書」の運用変更について（2026年7月2日） NOMA公開セミナーお申込み方法について（2026年3月6日）",
+    "url": "https://www.noma.or.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Noma (restaurant) - Wikipedia — In May 2024, it was announced that Noma would return to Kyoto from 8 October through 18 December, and that this would be the last dates for restaurant service from Noma.",
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "pass": 3
+   },
+   {
+    "quote": "Noma horse - Wikipedia — The Noma is a small, compact and sturdy horse, the smallest of the eight native horse breeds of Japan. [5]: 12 It is hardy and strong, and agile on difficult mountain terrain. [6][7]",
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "pass": 3
+   },
+   {
+    "quote": "Noma Award for the Translation of Japanese Literature — The Noma Award for the Translation of Japanese Literature is a prestigious Japanese literary prize established in 1989 to honor outstanding translations of modern Japanese literature into foreign languages, fostering international cultural understan…",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": "Noma Kyoto 2024 — Mar 5, 2024 · During the sakura season in 2023, after many years of traveling and exploring all corners of Japan, our entire staff moved to Japan’s ancient capital, along with their children, spouses, and significant others.",
+    "url": "https://noma.dk/noma-kyoto-2024/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Noma Uses Software & Services — Explore case studies featuring Noma as the customer — learn how vendors and partners helped Noma solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/noma",
+    "pass": 3
+   },
+   {
+    "quote": "Noma - Customer Case Study — Noma (Restaurants) partnered with Snøhetta (Architecture & Planning) to solve key challenges. \"Noma - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/snohetta/case-study/noma-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "NOMA-AIGC-Brand-Campaign/case-study/README.md at main ... — NOMA is a fictional brand. Develop a restrained campaign for a compact premium coffee maker in a believable urban apartment. The visual system needs to work across product images, lifestyle scenes, human actions, and campaign formats. A better morning doesn't need more. It needs less.",
+    "url": "https://github.com/MoscowJiro/NOMA-AIGC-Brand-Campaign/blob/main/case-study/README.md",
+    "pass": 3
+   },
+   {
+    "quote": "Noma Ceramics Case Study | Creovus Media — Noma made beautiful small-batch ceramics, but its Instagram did not communicate why the pieces were worth seeking out. Posts appeared irregularly, product shots had no shared visual language, and captions rarely gave people a reason to save, share, or start a conversation.",
+    "url": "https://creovus.com/case-studies/noma-ceramics",
+    "pass": 3
+   },
+   {
+    "quote": "Noma – Company Insights & Financial Strength – 2026 — Discover Noma's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/noma",
+    "pass": 3
+   },
+   {
+    "quote": "Noma Revenue, Funding & Valuation - prospeo.ioNOMA - 2026 Company Profile, Funding & Competitors - TracxnNoma: Funding, Investors & Team (Nov 2026) - FundedIQNomadar (NOMA) Financials Overview - Stock AnalysisNoma Global Revenue, Funding & Valuation - prospeo.ioNoma: Funding, Team & Investors | Startup Intros — Founded in Copenhagen in 2003 by Chef René Redzepi, Noma is a three-Michelin Star resta",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "NOMA - 2026 Company Profile, Funding & Competitors - Tracxn — May 23, 2026 · NOMA - About the company NOMA is a series B company based in Tel Aviv (Israel), founded in 2023. It operates as a Provider of AI security platform designed for enterprise AI applications. NOMA has raised $132M in funding from Evolution Equity Partners and Ballistic Ventures.",
+    "url": "https://tracxn.com/d/companies/noma/__yl3Gn-LC_zyQVHnbGUMOFbNa6J0r8gsbc8FFFB8L-EY",
+    "pass": 3
+   },
+   {
+    "quote": "Noma: Funding, Investors & Team (Nov 2026) - FundedIQ — Noma is a Privacy and Security company in Herzliya, Israel. Raised $32.0M across 2 rounds; latest round Jun 2025. Investors, founders and funding history.",
+    "url": "https://fundediq.co/noma-noma-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Nomadar (NOMA) Financials Overview - Stock Analysis — 1 day ago · Financials overview for Nomadar (NOMA) with charts and tables for revenue, profits, cash, debt, cash flow, margins and dividends.",
+    "url": "https://stockanalysis.com/stocks/noma/financials/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Subsequent winners have included Roger Pulvers for his bilingual English-Japanese edition of Kenji Miyazawa's poems in",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": "and literary blogs, emphasizing the awarded works to broaden awareness of Japanese literature abroad. For example, Pulvers' win received attention for introducing Miyazawa's poems to English readers.",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   },
+   {
+    "quote": "(and selected poems) by Kenji Miyazawa",
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/noma-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Noma team: 1 of 2 have an email address on file.",
+    "url": "https://fundediq.co/noma-noma-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/noma-noma-security-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "NOMA -世界一のレストランは世界一のクリエイティブチームだった Jul 3, 2024 · あらゆる国から、NOMAで働き、学ぶことを目指して、料理を愛する若者たちが集まっている。 世界中から訪れるゲストに対して完璧なおもてなしをすることと、世界中の食材や調理法を試してベストな料理を発明することの二つが、NOMAでは求められる。",
+    "url": "https://note.com/taka0916/n/n55e87f4622d5",
+    "pass": 3
+   },
+   {
+    "quote": "【AIR】世界一のレストラン「noma」閉店が日本のファインダイニングに... Apr 25, 2023 · nomaは、北欧の風土や自然とのつながりを表現するレストランとして2003年に開業、地域にフォーカスしたメニュー開発に注力し、北欧産の食材を使うことにこだわり、その季節、その時期、その場所だからこそ食せる料理を提供。",
+    "url": "https://note.com/murase/n/n14a5017cac0e",
+    "pass": 3
+   },
+   {
+    "quote": "2025年冬、世界一のレストランNoma最後のシーズンに行ってきた Mar 14, 2026 · 「高いから美味しいとは限らない」というNomaへの疑いは覆されたとも言えるし、そうでもないとも言える。 Nomaは、「食べる」を体験する場所だった。 16品のうち半分は思い出せないし、理解できない料理もあった。",
+    "url": "https://note.com/kaz_intheus/n/n32c3240e3d55",
+    "pass": 3
+   },
+   {
+    "quote": "다원주의적 코레아네스크 아트의 탄생 ― 언어·소리·빛·신체성의 미학 Nov 11, 2026 · 다원주의적 코레아네스크 아트의 탄생 ― 언어·소리·빛·신체성의 미학 The Birth of Polycentric Koreanesque Art: The Aesthetics of Language, Sound, Light, and Corporeality．NOMA Hideki 노마 히데키",
+    "url": "https://note.com/noma_h/n/n65df2bd062c6",
+    "pass": 3
+   },
+   {
+    "quote": "【初投稿】はじめまして｜Noma - note（ノート） Feb 5, 2026 · #初投稿 #自己顕示欲 8 Noma フォロー しがなきDKの思ひたることを、徒然なる儘に書き殴りたりけり X： https://x.com/nomaisataoka_x?s=21 Travy： https://share.travy.jp/user/46226 8",
+    "url": "https://note.com/tender_deer8875/n/n34e7322d6cd0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "NOMA -世界一のレストランは世界一のクリエイティブチームだった｜三浦崇宏",
+    "url": "https://note.com/taka0916/n/n55e87f4622d5",
+    "pass": 3
+   },
+   {
+    "quote": "NOMA -世界一のレストランは世界一のクリエイティブチームだった",
+    "url": "https://note.com/taka0916/n/n55e87f4622d5",
+    "pass": 3
+   },
+   {
+    "quote": "人生を変える食事というのは、確かに存在する。",
+    "url": "https://note.com/taka0916/n/n55e87f4622d5",
+    "pass": 3
+   },
+   {
+    "quote": "これは美食家のグルメレビューではなく、一人のクリエイターが衝撃を受け、自分の仕事観・人生観を見つめ直した、ちょっとした旅の記録だ。",
+    "url": "https://note.com/taka0916/n/n55e87f4622d5",
+    "pass": 3
+   },
+   {
+    "quote": "NOMAへ-アイデアは移動距離に比例する（ジャックデリダ）-",
+    "url": "https://note.com/taka0916/n/n55e87f4622d5",
+    "pass": 3
+   },
+   {
+    "quote": "NOMA-ちょっとでも食事に興味がある人間ならば名前を聞いたことがあるかもしれない。開業以来20年間、「世界のベストレストラン50」における5度の世界1位獲得、ミシュラン3つ星といった、料理におけるあらゆる名誉を勝ち取った、名実ともに世界最高と言われる、デンマーク、コペンハーゲンのレストランだ。",
+    "url": "https://note.com/taka0916/n/n55e87f4622d5",
+    "pass": 3
+   },
+   {
+    "quote": "お世話になっている経営者の先輩からのお誘いで、そのテーブルを囲む機会をいただいた。",
+    "url": "https://note.com/taka0916/n/n55e87f4622d5",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん初めてのNOMA、初めてのコペンハーゲンなので、行く前から期待感は高まりまくる。いわく、国が禁じるほどのブラック労働。いわく、虫がめっちゃ出てくる。いわく、和食に通じる部分もある。などなど、断片的な噂ばかりが耳に届く。そんなわけで17時間のフライトを物ともせず、コペンハーゲンまでやってきた。",
+    "url": "https://note.com/taka0916/n/n55e87f4622d5",
+    "pass": 3
+   },
+   {
+    "quote": "【AIR】世界一のレストラン「noma」閉店が日本のファインダイニングにも問いかけるもの｜村瀬正尊/MasatakaMurase",
+    "url": "https://note.com/murase/n/n14a5017cac0e",
+    "pass": 3
+   },
+   {
+    "quote": "【AIR】世界一のレストラン「noma」閉店が日本のファインダイニングにも問いかけるもの",
+    "url": "https://note.com/murase/n/n14a5017cac0e",
+    "pass": 3
+   },
+   {
+    "quote": "「世界のベストレストランラキング50」で4年連続1位を獲得し、世界一のレストランとも称されているデンマークのコペンハーゲンにあるレストラン「noma」。nomaを率いるシェフ、レネ・レゼピに密着したドキュメンタリー映画「ノーマ、世界を変える料理」は日本でも公開され話題となりました。",
+    "url": "https://note.com/murase/n/n14a5017cac0e",
+    "pass": 3
+   },
+   {
+    "quote": "https://longride.jp/noma-movie/",
+    "url": "https://note.com/murase/n/n14a5017cac0e",
+    "pass": 3
+   },
+   {
+    "quote": "最近の話題だと今年の3月15日から5月20日までの期間限定で日本の京都にやってきて「エースホテル京都」でポップアップレストラン「noma kyoto」としてオープンしています。",
+    "url": "https://note.com/murase/n/n14a5017cac0e",
+    "pass": 3
+   },
+   {
+    "quote": "・いよいよ来月京都にオープン！ 世界一のレストラン「ノーマ（noma）」をおさらい",
+    "url": "https://note.com/murase/n/n14a5017cac0e",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.elle.com/jp/gourmet/gourmet-restaurants/g42735930/noma-restaurant-2302/",
+    "url": "https://note.com/murase/n/n14a5017cac0e",
+    "pass": 3
+   },
+   {
+    "quote": "nomaは、北欧の風土や自然とのつながりを表現するレストランとして2003年に開業、地域にフォーカスしたメニュー開発に注力し、北欧産の食材を使うことにこだわり、その季節、その時期、その場所だからこそ食せる料理を提供。nomaを目的に世界各国からデンマークを訪れる人が登場するまでとなり、国の観光自体も活性化され、美食を通じた経済効果も生み出したとして、ガストロノミーツーリズムの好例としても知られています。",
+    "url": "https://note.com/murase/n/n14a5017cac0e",
+    "pass": 3
+   },
+   {
+    "quote": "2025年冬、世界一のレストランNoma最後のシーズンに行ってきた｜松本和実｜サンフランシスコ暮らし",
+    "url": "https://note.com/kaz_intheus/n/n32c3240e3d55",
+    "pass": 3
+   },
+   {
+    "quote": "2025年冬、世界一のレストランNoma最後のシーズンに行ってきた",
+    "url": "https://note.com/kaz_intheus/n/n32c3240e3d55",
+    "pass": 3
+   },
+   {
+    "quote": "もともと2025年冬の、コペンハーゲンにおけるNoma閉店前の食レポを昨日公開する予定にしていましたが、折しもNomaのヘッドシェフであるレネ・レゼッピ（René Redzepi）への抗議が話題になっており、それについてひとまずわたしの意見を述べておく記事を出しました。",
+    "url": "https://note.com/kaz_intheus/n/n32c3240e3d55",
+    "pass": 3
+   },
+   {
+    "quote": "昨日の記事を読まなくても今日の記事には差し支えありませんが、レストランという舞台のなかで食材、それを料理にするシェフ、サービススタッフ、そして客であるわたしたちという人がいる空間は、誰もが安全に感じる場所であって欲しいと思っています。",
+    "url": "https://note.com/kaz_intheus/n/n32c3240e3d55",
+    "pass": 3
+   },
+   {
+    "quote": "店長やベテランがバイトを客の前で怒鳴っている食べ物屋が時々ありますが、ご飯が本当に美味しくなくなります。客として参加する場合も、シェフも、サービススタッフも等しくよい空間にする義務があると思っています。",
+    "url": "https://note.com/kaz_intheus/n/n32c3240e3d55",
+    "pass": 3
+   },
+   {
+    "quote": "前置きが長くなりました。ここからが本編です。",
+    "url": "https://note.com/kaz_intheus/n/n32c3240e3d55",
+    "pass": 3
+   },
+   {
+    "quote": "その日のディナーテーブルについた全員が、このレストランのためだけに飛行機に乗ってはるばるコペンハーゲンまでやってきた。",
+    "url": "https://note.com/kaz_intheus/n/n32c3240e3d55",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーが数年来「Nomaに行きたい」と言い続けていて、最後のシーズンにたまたま予約が取れた。ただし予約というのは、悠長に日時や人数を選んでいると一瞬で埋まる。取れる日に取れる席を取る。結果、ホリデーシーズンでもない12月の平日、六人テーブル。二人で行くのに、六人。知人家族に片っ端から声をかけたが人数が集まりきらず、最終的に知人の知人のカップルが来てくれた。そのカップルもNomaのためにわざわざ飛行機で来たというから、食への執念は同レベルだ。",
+    "url": "https://note.com/kaz_intheus/n/n32c3240e3d55",
+    "pass": 3
+   },
+   {
+    "quote": "다원주의적 코레아네스크 아트의 탄생 ― 언어·소리·빛·신체성의 미학 The Birth of Polycentric Koreanesque Art: The Aesthetics of Lan｜noma hideki",
+    "url": "https://note.com/noma_h/n/n65df2bd062c6",
+    "pass": 3
+   },
+   {
+    "quote": "다원주의적 코레아네스크 아트의 탄생 ― 언어·소리·빛·신체성의 미학 The Birth of Polycentric Koreanesque Art: The Aesthetics of Language, Sound, Light, and Corporeality．NOMA Hideki 노마 히데키",
+    "url": "https://note.com/noma_h/n/n65df2bd062c6",
+    "pass": 3
+   },
+   {
+    "quote": "The Birth of Polycentric Koreanesque Art: The Aesthetics of Language, Sound, Light, and Corporeality",
+    "url": "https://note.com/noma_h/n/n65df2bd062c6",
+    "pass": 3
+   },
+   {
+    "quote": "Discourse on K-pop has largely focused on what surrounds the works: state policy, markets, platforms, and fandom. Drawing on linguistics and aesthetics, this presentation illuminates the works themselves and argues that K-pop has become \"K-art,\" a twenty-first-century Gesamtkunstwerk of language, sound, light, and corporeality. Its mode of existence is what I call LAVnet: Language, Audio, and Visu",
+    "url": "https://note.com/noma_h/n/n65df2bd062c6",
+    "pass": 3
+   },
+   {
+    "quote": "다원주의적 코레아네스크 아트의 탄생 ― 언어·소리·빛·신체성의 미학",
+    "url": "https://note.com/noma_h/n/n65df2bd062c6",
+    "pass": 3
+   },
+   {
+    "quote": "K-POP을 둘러싼 담론은 그동안 주로 국가 정책, 시장, 플랫폼, 팬덤 등 작품을 둘러싼 것들에 초점을 맞추어 왔다. 이 논문은 언어학과 미학의 관점에서 작품 자체를 조명하며, K-POP이 ‘K-art’로 변모했음을 논한다. 즉 K-art는 언어·소리·빛·신체성으로 이루어진 21세기의 종합예술(Gesamtkunstwerk)이다. 나는 그 존재 양식을 LAVnet이라고 부른다. LAVnet은 Language, Audio, and Visual이 인터넷을 가로질러 질주하며, 그 안에서 작품이 공유되고, 춤으로 재현되며, 다시 창조되는 ‘전 세계가 공유하는 오페라’이다.",
+    "url": "https://note.com/noma_h/n/n65df2bd062c6",
+    "pass": 3
+   },
+   {
+    "quote": "음성학적으로는 한국어가 K-POP의 음향적 미학을 어떻게 형성하는지를 살펴본다. 여기에는 음절을 기반으로 하는 리듬, 개방되지 않는 일곱 가지 종성 자음, 풍부한 의성·의태어, 그리고 ‘보이지 않는 음표’로 기능하는 의도적으로 삽입된 성문 폐쇄음이 있다.",
+    "url": "https://note.com/noma_h/n/n65df2bd062c6",
+    "pass": 3
+   },
+   {
+    "quote": "시각적으로는 ‘춤추는 카메라’와 코리안에스크를 논한다. 로마네스크가 로마의 형식들로부터 새로운 예술로 다시 태어났듯이, 코리안에스크는 한국의 전통을 그대로 인용하는 것이 아니다. 그것을 변형하여 21세기의 트랜스-코리안적이고 글로벌한 미학으로 탈바꿈시킨다.",
+    "url": "https://note.com/noma_h/n/n65df2bd062c6",
+    "pass": 3
+   },
+   {
+    "quote": "普段は主にYouTubeやX上で活動しています。",
+    "url": "https://note.com/tender_deer8875/n/n34e7322d6cd0",
+    "pass": 3
+   },
+   {
+    "quote": "この度このプラットフォームにも支部を配置した理由は、何か日常で思いついたことを記しておいたり、思ったことを共有したり、今後の創作活動に向けて文章構成の練習場としたり、あるいはそれらの集積を見て満悦に浸ったりできたらいいなと思ったからです。",
+    "url": "https://note.com/tender_deer8875/n/n34e7322d6cd0",
+    "pass": 3
+   },
+   {
+    "quote": "基本的に自己満の世界なので、閲覧数やいいね数（ここではスキと呼称するようですね）は求めません。",
+    "url": "https://note.com/tender_deer8875/n/n34e7322d6cd0",
+    "pass": 3
+   },
+   {
+    "quote": "またどういった基準で私の記事が人の目に触れたり、スキを押されたりするのか等も一切理解していませんし、今のところしようとも思いません。そのうち気が向いたらするかもです。",
+    "url": "https://note.com/tender_deer8875/n/n34e7322d6cd0",
+    "pass": 3
+   },
+   {
+    "quote": "私は自分の思っていることを、言葉では滔々と並べ連ねられる割に文にするのは極端に苦手なタイプなので、土台この場所での活動は向いてないのかも知れませんが、それを指摘する人も指摘されて生じる不利益も無いので問題ないと思っています。",
+    "url": "https://note.com/tender_deer8875/n/n34e7322d6cd0",
+    "pass": 3
+   },
+   {
+    "quote": "さて、ここまで書いてきてなんですが、今日は取り敢えず一筆書いてみようくらいの気持ちで筆もといスマホを取ったので、もうこれ以上書くことは特にありません。",
+    "url": "https://note.com/tender_deer8875/n/n34e7322d6cd0",
+    "pass": 3
+   },
+   {
+    "quote": "これ以上内容を無理に引き延ばしても冗長な文が完成するだけなので、今回はこの辺りで終わりにします。",
+    "url": "https://note.com/tender_deer8875/n/n34e7322d6cd0",
+    "pass": 3
+   },
+   {
+    "quote": "もしこの文章の存在を認識し、閲覧してくれた聖人君子のような方がいたならば、心よりの御礼を申し上げます。",
+    "url": "https://note.com/tender_deer8875/n/n34e7322d6cd0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Noma (@noma_network) / X NOMA is now featured on @BitgetWallet 🎉 Discover #NOMA through Bitget Wallet and explore a new way to access personal AI agents, connect with multiple AI models, and unlock more possibilities across the AI ecosystem.",
+    "url": "https://x.com/noma_network",
+    "pass": 3
+   },
+   {
+    "quote": "restaurant noma (@nomacph) / X The day is finally here, the opening of Noma Kyoto. It’s incredibly humbling for us to have the opportunity to be here in this beautiful city. To say we are grateful for this opportunity is an understatement, and we can’t wait to make Kyoto our home for the next ten weeks!",
+    "url": "https://x.com/nomacph",
+    "pass": 3
+   },
+   {
+    "quote": "よさこいチーム〜々〜【NOMA】 (@NOMA_nomore) / X #安濃津よさこい セミファイナル演舞順が決定しました。 2番目【16:06頃】の予定です。 そして本日をもって 々〜NOMA〜は解散します。 『最後の踊りを再び』 どの演舞でも々〜NOMA〜としてやることは変わらず、 皆さんの心にずっと残る演舞をお届けします。",
+    "url": "https://x.com/NOMA_nomore",
+    "pass": 3
+   },
+   {
+    "quote": "noma (@_enoeme) / X 【SPECIAL CYPHER2026】 noma/Whoopee Bomb/ICHIRO/TOKYO世界/Itaq 番組出演経験を持つ5人のラッパー達による特別なサイファー (というより最早マリオカート)が明日20時プレミア公開。 お楽しみに！ ！！ #ラップスタア #ラップスタア2026 #ラップスタア誕生",
+    "url": "https://x.com/_enoeme",
+    "pass": 3
+   },
+   {
+    "quote": "noma akira on X: \"Xのテスト投稿#1 PASF\" Nov 3, 2026 · Xのテスト投稿#1 PASF noma akira @pasf7677 Show translation Xのテスト投稿#1 PASF 1:04 AM · Nov 3, 2026 · 7 Views",
+    "url": "https://x.com/pasf7677/status/2117422655687319854",
+    "pass": 3
+   },
+   {
+    "quote": "noma akira on X: \"テスト投稿 #2\" Nov 3, 2026 · テスト投稿 #2 noma akira @pasf7677 Show translation テスト投稿 #2 1:19 AM · Nov 3, 2026 · 1 Views",
+    "url": "https://x.com/pasf7677/status/2117426385396645906",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://noma.security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noma.security/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noma.security/solutions/ai-asset-discovery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noma.security/solutions/agent-behavior-runtime-control",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noma.security/solutions/agentic-identity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noma.security/solutions/mcp-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noma.security/solutions/agent-control-plane",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noma.security/solutions/ai-supply-chain-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noma.security/solutions/ai-compliance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noma.security/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noma.security/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noma.security/positions/position-0e_27b",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6a26af028fd645aaf775e517/6aa1d373a74e0b8f18d77710_NOMA%20-%20Compliance%20reporting%203x.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a26af028fd645aaf775e517/6aa1c2e015c19c62e665b795_NOMA%20-%20Framework%20mappings.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a26af028fd645aaf775e517/6aaad101758907755f1c4861_evolution.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a26af028fd645aaf775e517/6aaad1953988f18f13edc357_glilot.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.elle.com/jp/gourmet/gourmet-restaurants-events/g60105353/noma-202403/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.noma.or.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.noma.co.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/No_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Noma_horse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/noma",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/snohetta/case-study/noma-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customermanufacturing.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/MoscowJiro/NOMA-AIGC-Brand-Campaign/blob/main/case-study/README.md",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namesilo.com/reseller",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/noma",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/noma-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/noma/__yl3Gn-LC_zyQVHnbGUMOFbNa6J0r8gsbc8FFFB8L-EY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/noma-noma-security-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/taka0916/n/n55e87f4622d5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/murase/n/n14a5017cac0e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kaz_intheus/n/n32c3240e3d55",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/noma_h/n/n65df2bd062c6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/noma_network",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nomacph",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NOMA_nomore",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_enoeme",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pasf7677/status/2117422655687319854",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pasf7677/status/2117426385396645906",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tender_deer8875/n/n34e7322d6cd0",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Noma 日本 導入",
+   "results": [
+    "https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf",
+    "https://www.elle.com/jp/gourmet/gourmet-restaurants-events/g60105353/noma-202403/",
+    "https://www.noma.or.jp/",
+    "https://www.noma.co.jp/case/",
+    "https://www.noma.co.jp/case/jichitai/",
+    "https://www.rbbtoday.com/article/2026/11/04/255393.html",
+    "https://www.tjapan.jp/food/17650934"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Noma 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.noma.co.jp/",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Noma Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/No_Japan",
+    "https://en.wikipedia.org/wiki/Noma_(restaurant)",
+    "https://en.wikipedia.org/wiki/Noma_horse",
+    "https://grokipedia.com/page/noma_award_for_the_translation_of_japanese_literature",
+    "https://noma.dk/noma-kyoto-2024/",
+    "https://noma.dk/japan/",
+    "https://www.noma-collective.com/editions/japan-osaka-2027",
+    "https://nomaprojects.com/products/noma-in-kyoto",
+    "https://noma.org/event/japan-fest-presented-by-hancock-whitney/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Noma manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/noma",
+    "https://www.casestudies.com/company/snohetta/case-study/noma-customer-case-study",
+    "https://customermanufacturing.com/resources/case-studies/",
+    "https://github.com/MoscowJiro/NOMA-AIGC-Brand-Campaign/blob/main/case-study/README.md",
+    "https://creovus.com/case-studies/noma-ceramics",
+    "https://www.noma.tech/en/category/case/",
+    "https://www.noma-global.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Noma white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.namesilo.com/reseller",
+    "https://partners.spectrum.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Noma founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/noma",
+    "https://prospeo.io/c/noma-revenue",
+    "https://tracxn.com/d/companies/noma/__yl3Gn-LC_zyQVHnbGUMOFbNa6J0r8gsbc8FFFB8L-EY",
+    "https://fundediq.co/noma-noma-security-funding/",
+    "https://stockanalysis.com/stocks/noma/financials/",
+    "https://prospeo.io/c/noma-global-revenue",
+    "https://startupintros.com/orgs/noma"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Noma",
+   "results": [
+    "https://note.com/taka0916/n/n55e87f4622d5",
+    "https://note.com/murase/n/n14a5017cac0e",
+    "https://note.com/kaz_intheus/n/n32c3240e3d55",
+    "https://note.com/noma_h/n/n65df2bd062c6",
+    "https://tales.note.com/nomaei_6794/wtwmxxv35xhro",
+    "https://tales.note.com/nomaei_6794/board/threads/ta6wqy4qu4rbr",
+    "https://note.com/noma_h/n/n65df2bd062c6?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Noma",
+   "results": [
+    "https://x.com/noma_network",
+    "https://x.com/nomacph",
+    "https://x.com/NOMA_nomore",
+    "https://x.com/_enoeme",
+    "https://x.com/no0mq_",
+    "https://x.com/noma113",
+    "https://x.com/_N0MA_"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Noma",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Noma",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Noma note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Noma X 投稿",
+   "results": [
+    "https://x.com/pasf7677/status/2117422655687319854",
+    "https://x.com/pasf7677/status/2117426385396645906",
+    "https://noma-x-o.fanbox.cc/",
+    "https://note.com/tender_deer8875/n/n34e7322d6cd0",
+    "https://www.tiktok.com/@noma.x",
+    "https://noma-x-o.fanbox.cc/posts",
+    "https://noma032.fanbox.cc/posts"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部35頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

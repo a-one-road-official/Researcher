@@ -1,0 +1,753 @@
+{
+ "name": "Sekilo",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T23:37:53.671571+00:00",
+ "official_url": "https://sekilo.com/en/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Processing,",
+    "url": "https://sekilo.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "– A dynamic Startup redefining the landscape of poultry distribution and processing in the middle-downstream food service industry. Whether you’re a catering SME, part of a hotel or restaurant chain, an industry player, an e-grocery Startup, or a D2C processed meat factory, Sekilo is your go-to partner.",
+    "url": "https://sekilo.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience excellence through competitive pricing, unmatched quality, and timely custom deliveries. At Sekilo, we ensure unparalleled value, consistency, and convenience for all our customers.",
+    "url": "https://sekilo.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging advanced technology for seamless warehouse management, inventory control, operations and logistics all powered by innovative processing management for an uparalleled quality-driven journey.",
+    "url": "https://sekilo.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "We prioritize Halal and NKF certifications, delivering a reliable and compliant supply in line with the principles of Aman, Sehat, Utuh, and Halal (ASUH)",
+    "url": "https://sekilo.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient logistics, end-to-end inventory management, and attentive customer care guarantee consistent deliveries aligned with buyer protocols.",
+    "url": "https://sekilo.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated sales agents ensure a smooth buying experience and comprehensive after-sales support.",
+    "url": "https://sekilo.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore a range of sizes, curated cuts, and indulge in our expert marination options and processing techniques.",
+    "url": "https://sekilo.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "How Sekilo Built Its Success in Poultry Processing",
+    "url": "https://reforgers.com/startups/sekilo",
+    "pass": 3
+   },
+   {
+    "quote": "Poultry processing & supply chain for the SME foodservice industry.",
+    "url": "https://reforgers.com/startups/sekilo",
+    "pass": 3
+   },
+   {
+    "quote": "Through its robust supply chain capabilities, customization options, efficient business model, and dedication to consistency, Sekilo is revolutionizing the poultry distribution and processing landscape, offering unparalleled value and reliability to its customers.",
+    "url": "https://reforgers.com/startups/sekilo",
+    "pass": 3
+   },
+   {
+    "quote": "Webinar | Women’s Nutrition: Nourishing Womanhood From Pregnancy To Menopause",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Driving Decisions Across 6000+ Boardrooms. Join Companies prioritizing innovation to yield 22% higher profits.",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Invalidity Contentions",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "How a Pharmaceutical Company Evaluated Needle-Cap Designs to Improve Prefilled Syringe Performance",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "A pharmaceutical company wanted to improve the performance and usability of needle caps used with its prefilled syringe platforms. The objective was to make the caps easier to remove while",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Advertised, Printed, Measured: Building an LED Lighting Infringement Case on Spectrometer Evidence",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Value Delivered The client moved from a claim that looked unprovable on paper to an infringement case backed by spectrometer-verified evidence. The patent claimed an LED lamp whose emitted light",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore GreyB programs that spotlight high-impact companies, uncover promising startups, and turn innovation signals into actionable R&D and IP intelligence.",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Transforming poultry processing & supply chain distribution with tech-driven efficiencies for the foodservice sector in Indonesia.",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Indonesia’s poultry foodservice supply chain faces fragmented processing, inconsistent cold-chain execution, and inefficient distribution.",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Technology-enabled poultry processing, inventory, cold-chain logistics, and foodservice distribution.",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "A centralized, data-driven poultry-processing and distribution platform for foodservice buyers.",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Processed poultry and technology-enabled distribution services for foodservice customers.",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Demo Product or Complete Product?",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "System Prior-art Search",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Gapura Cideng Lt. 11, Jl. Suryopranoto No. 12A, Petojo Selatan, Gambir, Jakarta Pusat 10130",
+    "url": "https://1001startup.id/company/sekilo",
+    "pass": 3
+   },
+   {
+    "quote": "Same entity as Dropezy (YC W22 grocery app), rebranded to Sekilo in 2023 after pivoting to poultry supply. US$3M total per CB Insights under the Dropezy entity; a US$2.5M pre-Series A led by Forge Ventures is reported post-rebrand (Forge lists Sekilo in its portfolio) but the amount is not confirmed by a primary source, so the conservative total is used.",
+    "url": "https://1001startup.id/company/sekilo",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "– A dynamic Startup redefining the landscape of poultry distribution and processing in the middle-downstream food service industry. Whether you’re a catering SME, part of a hotel or restaurant chain, an industry player, an e-grocery Startup, or a D2C processed meat factory, Sekilo is your go-to partner.",
+    "url": "https://sekilo.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging advanced technology for seamless warehouse management, inventory control, operations and logistics all powered by innovative processing management for an uparalleled quality-driven journey.",
+    "url": "https://sekilo.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive and Mobility",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "1 technology & manufacturing link (1 supplier, 0 customers). Every one links to the page or filing it came from; each was re-checked on 29 Sep 2026.",
+    "url": "https://1001startup.id/company/sekilo",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Swift negotiations, custom drops and nationwide delivery across Indonesia. Explore marination, repackaging, and rebranding options with SOP-compliant adaptability. Enjoy Flexible financing & credit payment through our fintech partners.",
+    "url": "https://sekilo.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Same entity as Dropezy (YC W22 grocery app), rebranded to Sekilo in 2023 after pivoting to poultry supply. US$3M total per CB Insights under the Dropezy entity; a US$2.5M pre-Series A led by Forge Ventures is reported post-rebrand (Forge lists Sekilo in its portfolio) but the amount is not confirmed by a primary source, so the conservative total is used.",
+    "url": "https://1001startup.id/company/sekilo",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "– A dynamic Startup redefining the landscape of poultry distribution and processing in the middle-downstream food service industry. Whether you’re a catering SME, part of a hotel or restaurant chain, an industry player, an e-grocery Startup, or a D2C processed meat factory, Sekilo is your go-to partner.",
+    "url": "https://sekilo.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Patent Acquisition Study",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "GWP Limits, PFAS Rules, and TFA Scrutiny Are Narrowing the Field of Low-GWP Refrigerants",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Patent Deals & Acquisitions",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Sekilo Revenue 2024: $1M Est.",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Sekilo has not published its revenue. GetLatka estimates it at about $1M a year (December 2024).",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Sekilo CEO, founders & employees",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Chandni Chainani founded Sekilo in 2019 and runs it as CEO. Sekilo had 5 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sekilo's revenue?",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Sekilo's revenue at about",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Sekilo have?",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "11 employees × Rp 550 million of value added per worker — the Agritech anchor",
+    "url": "https://1001startup.id/company/sekilo",
+    "pass": 3
+   },
+   {
+    "quote": "Output is gross value added — what the company adds to GDP: the part of what it earns that it creates itself, after taking out everything it buys in from other firms. Revenue is a bigger number, and the wage bill is one component of this one. Nobody publishes value added, so the census estimates it from headcount and a BPS sector anchor; funding, valuation and GMV never enter.",
+    "url": "https://1001startup.id/company/sekilo",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sekilo Indonesia — Experience excellence through competitive pricing, unmatched quality, and timely custom deliveries. At Sekilo, we ensure unparalleled value, consistency, and convenience for all our customers.",
+    "url": "https://sekilo.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Indonesian firm spots gap in the domestic poultry marketHow Sekilo Built Its Success in Poultry ProcessingSekilo - GreyBIndonesia’s Dropezy drops quick commerce, pivots to poultryCase Studies | McKinsey & CompanyQuick commerce startup expands into downstream poultry ... — Dec 29, 2023 · As well as SMEs, Sekilo will be looking to offers its services to e-grocery start-ups and processed meat compani",
+    "url": "https://www.wattagnet.com/broilers-turkeys/broilers/article/15660973/indonesian-firm-spots-gap-in-the-domestic-poultry-market",
+    "pass": 3
+   },
+   {
+    "quote": "How Sekilo Built Its Success in Poultry Processing — Sekilo revolutionizes poultry processing & supply chain for SME foodservice with cutting-edge tech, ensuring quality, hygiene, and efficient delivery in Indonesia.",
+    "url": "https://reforgers.com/startups/sekilo",
+    "pass": 3
+   },
+   {
+    "quote": "Sekilo - GreyB — Sekilo (YC W22), a category-first consumer food company in Indonesia, is revolutionizing the poultry industry with innovative technology. At the forefront of poultry distribution and processing, our robust supply chain, fortified with stringent cold chain control, guarantees excellence from procurement to final delivery, setting a new industry ...",
+    "url": "https://greyb.com/startups/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Indonesia’s Dropezy drops quick commerce, pivots to poultryCase Studies | McKinsey & CompanyQuick commerce startup expands into downstream poultry ... — Dec 28, 2023 · The company, which previously raised US$3 million in disclosed funding, has rebranded as Sekilo, focusing on poultry processing and distribution. Sep 29, 2026 · Explore McKinsey client case studies on how we partner with businesses ",
+    "url": "https://www.techinasia.com/dropezy-is-now-sekilo-a-poultry-business",
+    "pass": 3
+   },
+   {
+    "quote": "Sekilo 2026 Company Profile: Valuation, Funding & Investors ...Sekilo - 2026 Company Profile, Team, Funding & Competitors ...Sekilo Revenue 2024: $1M Est. ARR (Bootstrapped)Sekilo — founders, funding, valuation — 1001startup.idHow Sekilo hit $1M revenue with a 5 person team in 2024.Sekilo — Company Profile & Funding | Indexed.vcSekilo — Funding, Investors & Team | Seedtable — Sekilo is a Private c",
+    "url": "https://pitchbook.com/profiles/company/462198-52",
+    "pass": 3
+   },
+   {
+    "quote": "Sekilo - 2026 Company Profile, Team, Funding & Competitors ... — May 21, 2026 · Sekilo is a funded company based in Jakarta (Indonesia), founded in 2023 by Chandni Chainani. It operates as a Distributor of meat. The company has 173 active competitors, including 27 that have exited. Its top competitor s include companies like Lakeview Farms, IKI and Mirha Exports.",
+    "url": "https://tracxn.com/d/companies/sekilo/__qyKPxpFPjqjEdCmRHTP63NPxnI-SAZEyfI6kFy2Qq_A",
+    "pass": 3
+   },
+   {
+    "quote": "Sekilo Revenue 2024: $1M Est. ARR (Bootstrapped) — Aug 10, 2026 · Sekilo 2024 estimated revenue: $1M ARR. Bootstrapped (no outside funding). 5 employees. Industry: Foodservice Distribution Software Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Sekilo — founders, funding, valuation — 1001startup.id — agritech — halal poultry processing and distribution for foodservice According to the 1001startup.id census (updated 26 Oct 2026), Sekilo was founded by Chandni Chainani and Nitish Chellaram in 2019; has 11 employees on record (read 2026-08-29); disclosed funding of US$3M; its head office is in Jakarta Pusat. Cite as Sekilo, 1001startup.id, ",
+    "url": "https://1001startup.id/company/sekilo",
+    "pass": 3
+   },
+   {
+    "quote": "How Sekilo hit $1M revenue with a 5 person team in 2024. — When was Sekilo founded? Sekilo was founded in 2019. How much revenue does Sekilo generate? Sekilo generates $1M in revenue. Click for revenue growth graph. How much funding does Sekilo have? Sekilo raised $0. How many employees does Sekilo have? Sekilo has 5 employees. Where is Sekilo headquarters? Sekilo is headquartered at Jakarta, Indo",
+    "url": "https://getlatka.com/companies/sekilo.com/team",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "sekilo.com (@sekilo_com) / Posts / X sekilo.com (@sekilo_com) - Posts - Official Twitter Account For sekilo.com A Place To Buy & Sell Made In Brunei | X (formerly Twitter)",
+    "url": "https://x.com/sekilo_com",
+    "pass": 3
+   },
+   {
+    "quote": "Sekilo (@Sekiloqq) / Posts / X 📊14 📎 0 🔁Reposted by Sekilo SekiloSekiloqq 0 0h kqzukzgxidzoo4 💬0 🔄1 🤍1 📊12 📎 0 🔁Reposted by Sekilo SekiloSekiloqq 0 0h aqjvmpcuyafi1m 💬0 🔄1 🤍1 📊11 📎 0 🔁Reposted by Sekilo SekiloSekiloqq 0 0h xuuikrhwhwl9qi 💬0 🔄1 🤍1 📊11 📎 0 🔁Reposted by Sekilo SekiloSekiloqq 0 0h anderson_m49550 ...",
+    "url": "https://x.com/Sekiloqq",
+    "pass": 3
+   },
+   {
+    "quote": "Dimakatso Sekilo (@SekiloDimakatso) / X I design my OWN LIFE @SekiloDimakatso hasn’t posted When they do, their posts will show up here.",
+    "url": "https://x.com/SekiloDimakatso",
+    "pass": 3
+   },
+   {
+    "quote": "@tempodotco Ayam sekilo 30 rb aku datang https://t.co ... Thanarata2 (i=Thanateria!). 100 likes 1 replies. @tempodotco Ayam sekilo 30 rb aku datang 😍😍😍 https://t.co/rsY931fgzF",
+    "url": "https://x.com/Thanarata2/status/2119671511577706992",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sekilo (YC W22) - LinkedIn Sekilo, a category-first consumer food company, is revolutionizing the poultry industry with innovative technology. At the forefront of poultry distribution and processing, our robust supply chain ...",
+    "url": "https://www.linkedin.com/company/sekilo",
+    "pass": 3
+   },
+   {
+    "quote": "Indonesian quick commerce platform Dropezy announced its ... Indonesian quick commerce platform Dropezy announced its pivot to a poultry downstream supply-chain enabler called Sekilo. “We don’t just distribute; we handle from procurement to in-house ...",
+    "url": "https://www.linkedin.com/posts/startuprise-asia-pacific_indonesian-quick-commerce-platform-dropezy-activity-7145382622435680256--mof",
+    "pass": 3
+   },
+   {
+    "quote": "Nitish Chellaram - Co-Founder & COO at Sekilo (YC W22 ...Chandni Chainani - Co-Founder & CEO at Sekilo (YC W22 ...#poultry #supplychain #flexibility #startupmindset #sekilo ...Sekilo Joins Grab Ventures Velocity Partnership - LinkedInSekilo Indonesia | Nitish Chellaram - LinkedIn Co-Founder & COO at Sekilo (YC W22) (Formerly Dropezy) | Forbes Asia 30U30 🚀 · Nitish Chellaram is a business owner and",
+    "url": "https://id.linkedin.com/in/nitishchellaram",
+    "pass": 3
+   },
+   {
+    "quote": "Chandni Chainani - Co-Founder & CEO at Sekilo (YC W22 ...#poultry #supplychain #flexibility #startupmindset #sekilo ...Sekilo Joins Grab Ventures Velocity Partnership - LinkedInSekilo Indonesia | Nitish Chellaram - LinkedIn Co-Founder & CEO at Sekilo (YC W22 - formerly Dropezy) | Forbes 30U30 Asia · Pengalaman: Sekilo (YC W22) · Pendidikan: Singapore Institute of Management · Lokasi: Indonesia · 5",
+    "url": "https://id.linkedin.com/in/chandni-chainani",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sekilo (@sekilo) • Facebook, Connect with friends Sekilo is on Facebook. Join Facebook to connect with Sekilo and others you may know. Facebook gives people the power to share and makes the world more...",
+    "url": "https://www.facebook.com/sekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Char Kuey Teow Kambing Sekilo | Batu Pahat - FacebookSebongile Sekilo - FacebookLiabo Sekilo - FacebookRedi sayap ngepok sekilo 35 | Wati Jihan - FacebookSekilo Foundation | Mafeteng - FacebookBurger Sekilo Seremban | Senawang - Facebook Mar 18, 2026 · Char Kuey Teow Kambing Sekilo, Batu Pahat. 5,262 followers · 1,969 were here. PORT CHAR KUEY TEOW, NASI LEMAK, NASI PENYET, WESTERN 🔥 Sebongile Sek",
+    "url": "https://www.facebook.com/cktkambingsekilo/",
+    "pass": 3
+   },
+   {
+    "quote": "Sebongile Sekilo - Facebook Sebongile Sekilo. 5,096 followers · 69 talking about this. ️啕Lêbøhæñg變Mækœæê輸",
+    "url": "https://www.facebook.com/p/Sebongile-Sekilo-61567160374758/",
+    "pass": 3
+   },
+   {
+    "quote": "Liabo Sekilo - Facebook Liabo Sekilo is on Facebook. Join Facebook to connect with Liabo Sekilo and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/dsekilo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sekilo.com/en/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seko.com/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiyajapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thejapanesefactory.com/collections/seiko",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seikowatches.com/jp-ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiko.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wattagnet.com/broilers-turkeys/broilers/article/15660973/indonesian-firm-spots-gap-in-the-domestic-poultry-market",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://reforgers.com/startups/sekilo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://greyb.com/startups/sekilo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/462198-52",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sekilo/__qyKPxpFPjqjEdCmRHTP63NPxnI-SAZEyfI6kFy2Qq_A",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/sekilo.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1001startup.id/company/sekilo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sekilo_com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Sekiloqq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SekiloDimakatso",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Thanarata2/status/2119671511577706992",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sekilo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/startuprise-asia-pacific_indonesian-quick-commerce-platform-dropezy-activity-7145382622435680256--mof",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://id.linkedin.com/in/nitishchellaram",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://id.linkedin.com/in/chandni-chainani",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sekilo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cktkambingsekilo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Sebongile-Sekilo-61567160374758/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/dsekilo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Sekiloqq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sekilo_com",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sekilo 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Sekilo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.seko.com/jp",
+    "https://www.secotools.com/?language=ja",
+    "https://industrial.filtrationgroup.com/ja/联系我们/",
+    "https://www.sekologistics.com/en/contact-us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sekilo Japan",
+   "results": [
+    "https://www.seiyajapan.com/",
+    "https://thejapanesefactory.com/collections/seiko",
+    "https://www.seikowatches.com/jp-ja",
+    "https://www.seiko.co.jp/en/",
+    "https://www.seikowatches.com/us-en",
+    "https://store.seikowatches.com/",
+    "https://www.seiko.co.jp/en/products/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sekilo manufacturing customer case study",
+   "results": [
+    "https://sekilo.com/en/",
+    "https://www.wattagnet.com/broilers-turkeys/broilers/article/15660973/indonesian-firm-spots-gap-in-the-domestic-poultry-market",
+    "https://reforgers.com/startups/sekilo",
+    "https://greyb.com/startups/sekilo/",
+    "https://www.techinasia.com/dropezy-is-now-sekilo-a-poultry-business",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://asiafoodbeverages.com/quick-commerce-startup-expands-into-downstream-poultry-industry/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sekilo white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Sekilo founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/462198-52",
+    "https://tracxn.com/d/companies/sekilo/__qyKPxpFPjqjEdCmRHTP63NPxnI-SAZEyfI6kFy2Qq_A",
+    "https://getlatka.com/companies/sekilo.com",
+    "https://1001startup.id/company/sekilo",
+    "https://getlatka.com/companies/sekilo.com/team",
+    "https://indexed.vc/companies/sekilo",
+    "https://seedtable.com/companies/sekilo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sekilo",
+   "results": [
+    "https://note.com/tag/ポケカ",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/fukuso_sutaro/n/nf365aa7a3733",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/ikedanob/n/nf9fd1f265432"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sekilo",
+   "results": [
+    "https://x.com/sekilo_com",
+    "https://x.com/Sekiloqq",
+    "https://x.com/SekiloDimakatso",
+    "https://x.com/Thanarata2/status/2119671511577706992",
+    "https://x.com/sukunajaksel/status/2102038602117242999",
+    "https://x.com/doubleuindchat/status/2103665272842485948",
+    "https://x.com/eloisepickles/status/2119731935060594706"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sekilo",
+   "results": [
+    "https://www.linkedin.com/company/sekilo",
+    "https://www.linkedin.com/posts/startuprise-asia-pacific_indonesian-quick-commerce-platform-dropezy-activity-7145382622435680256--mof",
+    "https://id.linkedin.com/in/nitishchellaram",
+    "https://id.linkedin.com/in/chandni-chainani",
+    "https://www.linkedin.com/posts/fintia-agia-widiya-49a3b8a7_poultry-supplychain-flexibility-activity-7308727659281141765-omt6",
+    "https://www.linkedin.com/posts/nitishchellaram_sekilo-grab-gvv-activity-7506565830126731264-luDQ",
+    "https://www.linkedin.com/posts/nitishchellaram_sekilo-indonesia-activity-7505122836798132225-rw8F"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sekilo",
+   "results": [
+    "https://www.facebook.com/sekilo/",
+    "https://www.facebook.com/cktkambingsekilo/",
+    "https://www.facebook.com/p/Sebongile-Sekilo-61567160374758/",
+    "https://www.facebook.com/dsekilo/",
+    "https://www.facebook.com/pak.kade.608749/videos/redi-sayap-ngepok-sekilo-35/2374650700006593/",
+    "https://www.facebook.com/sekilofoundation/",
+    "https://www.facebook.com/BURGERSEKILOSEREMBAN/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sekilo note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://tracxn.com/d/companies/sekilo/__qyKPxpFPjqjEdCmRHTP63NPxnI-SAZEyfI6kFy2Qq_A",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sekilo X 投稿",
+   "results": [
+    "https://x.com/Sekiloqq",
+    "https://x.com/sekilo_com",
+    "https://sekilo.com/en/",
+    "https://www.xvideos.com/?k=露出投稿",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://xkings.jp/",
+    "https://www.xvideos.com/?k=Posição+missionary+orgasm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

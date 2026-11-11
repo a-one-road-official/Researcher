@@ -8,9 +8,307 @@
  ],
  "context": "検証",
  "kind": "market",
- "researched_at": "2026-11-09T09:05:34.350967+00:00",
+ "researched_at": "2026-11-10T23:06:50.336602+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "For each claim, identify the most appropriate source for verification, such as an official record, original study, government database, company filing, or primary document.",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "単なる「分かりません」という回答ではなく、存在しない統計データや架空の文献、間違った固有名詞を、違和感のない自然な文章で提示してくる点が厄介なポイントです",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "たとえば「存在しない統計データ（事実型）」を、もっともらしい論理展開（構造型）で説明してくる、というように",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "引用元のない統計データを、公的な数値であるかのように提示してしまう",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "AIの回答を鵜呑みにせず、数値や事実については可能な限り一次情報（公式発表・契約書・元データ）に立ち返って確認することが、経営リスクを避けるうえで重要です",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "この仕組みは「RAG（検索拡張生成）」と呼ばれ、NotebookLMのように渡した資料の中だけで回答するツールは、この考え方を採用しています",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "日報生成・採用選考・問い合わせ対応など、実際の企業で動いている自動化の中身を紹介",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "日報・採用・問い合わせ対応・経費精算・議事録・データ集計・営業リスト等の定型業務を、AIに代行させる体制を経営者と一緒に作り込む",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "【2026年11月最新】試用期間の延長はできる？能力不足のときの要件・手続き・本採用拒否の注意点と、社労士事務所が顧問先の試用期間管理をAIで自動化する方法",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "社会保険料・採用費・教育コストもかかりません",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "e-Gov法令検索、発行元のPDF",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Webの記事、プレスリリース、採用ページ",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "御社の公開情報と業界の一次統計をもとに、本当の課題、選んだテーマの解決策、効果の試算の式、最初の30日までを",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PDF・15ページ",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "質問文と、社内の資料や原典のPDF",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "段階2でAIに社内の資料や原典のPDFを渡して答えさせておくと、段階3で突き合わせる先が最初から手元にそろいます",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "社内の資料や原典のPDFを渡し、「この資料に書かれている範囲で答える」「書かれていなければ、書かれていないと答える」と範囲を決めると、作り話の入る余地は小さくなります",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "COMPANY PROFILE ／ PDF 全46ページ",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "その外側——最新の出来事、社内だけの情報、ニッチな統計——を聞かれると、近そうな情報から推測で埋めてしまいます",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "判例・法令・統計数値の引用、契約条件、顧客への公式回答——正解が1つで、間違いが外に出る／法的な力を持つ",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "判例・統計・引用・金額は「原典と突き合わせるまでが完了」と決める",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "いずれも公的な決定文・当事者の発表・報道で確認できたものです（事例1〜5は2026年9月27日、事例6は10月15日確認）",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "著者の大学教員は、「スタンフォード大学図書館バーチャル判例集国際犯罪裁判記録」というデータベースのURLを生成AIに渡して事例を出すよう指示し、AIが出した英文の判例をデータベースから引き出したものと思い込んで、確認せずに採用していました（",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "採用・人材育成の実務経験を活かし、企業向け「AI活用研修」の講師を担当",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "AI can miscalculate percentages or confuse estimates with observed figures.",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Locate the original data, identify the values and period being measured, independently check the calculation, and determine whether the figure is an actual measurement, estimate, forecast, or projection.",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "社外提出資料・契約関連：必ず人間が原典と突き合わせて確認",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "配信管理画面の数値とAI生成レポートの数値を照合",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "専門外の情報こそ、他の情報源（公式サイト・専門家）と照合する",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "A. 「数値・固有名詞は必ず元データと照合する」「社外に出る資料は人間が最終確認する」という2点だけでも、最低限のルールとして徹底する価値があります",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "完璧に見抜く必要はなく、「出典を聞く」「専門外の情報は別の情報源と照合する」「都合の良すぎる回答は疑う」という3つの視点を持つだけで、多くのケースに気づけるようになります",
+    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "1つ目は、作成者が確かめる語（数字・固有名詞・日付・条文や引用）に印をつけ、原典と1語ずつ突き合わせること",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "段階3に作成者の突き合わせ（確認①）、段階4に別の人の確認（確認②）を足し、段階3で残した原典の控えを段階6で使います（確認③）",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "印をつけた語を1語ずつ原典で突き合わせたか",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "増える作業は、段階3の突き合わせと、段階4の別の1人の確認です",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "段階2でAIに社内の資料や原典のPDFを渡して答えさせておくと、段階3で突き合わせる先が最初から手元にそろいます",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AI同士の照合は怪しい語を見つける補助で、原典を読む代わりにはなりません",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "社内に「裏取り」を根づかせる体制と、社内だけで決めきれない境目",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "裏取りを根づかせるのは個人の心がけではなく、書類の行き先ごとに「誰が・何を・どこまで見るか」を決めた1枚の表です",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "作成者が4種類の語に印をつけて原典と突き合わせ、別の1人が印の語だけを見てから送る",
+    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "判例・統計・引用・金額は「原典と突き合わせるまでが完了」と決める",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：引用した判例が公式の判例データベースに実在するかを、事件番号で照合する",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "同紙の検証では、推薦図書以外の記事にも、実在の人物が言っていない発言や、実在が確認できない専門家の発言が見つかりました（",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Chicago Sun-Times による検証記事、2025年5月29日",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "：脚注・参考文献を1件ずつ原典と照合する",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "AIの出力そのものより「原典と照合する工程が無い、または形だけだったこと」が損害につながっている",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "事例から逆算した、AIを使った成果物を社外に出す前の確認項目です",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "原資料を開き、数字だけでなく単位・対象年・対象範囲まで照合する",
+    "url": "https://panhouse.jp/insight/what-is-hallucination/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "失敗・落とし穴": [
+   {
+    "quote": "Common AI Fact-Checking Mistakes",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
    {
     "quote": "8-3. 視点3：「やけに都合がいい回答」には注意する",
     "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
@@ -234,141 +532,55 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "社外提出資料・契約関連：必ず人間が原典と突き合わせて確認",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "配信管理画面の数値とAI生成レポートの数値を照合",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "専門外の情報こそ、他の情報源（公式サイト・専門家）と照合する",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "A. 「数値・固有名詞は必ず元データと照合する」「社外に出る資料は人間が最終確認する」という2点だけでも、最低限のルールとして徹底する価値があります",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "完璧に見抜く必要はなく、「出典を聞く」「専門外の情報は別の情報源と照合する」「都合の良すぎる回答は疑う」という3つの視点を持つだけで、多くのケースに気づけるようになります",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "1つ目は、作成者が確かめる語（数字・固有名詞・日付・条文や引用）に印をつけ、原典と1語ずつ突き合わせること",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "段階3に作成者の突き合わせ（確認①）、段階4に別の人の確認（確認②）を足し、段階3で残した原典の控えを段階6で使います（確認③）",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "印をつけた語を1語ずつ原典で突き合わせたか",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "増える作業は、段階3の突き合わせと、段階4の別の1人の確認です",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "段階2でAIに社内の資料や原典のPDFを渡して答えさせておくと、段階3で突き合わせる先が最初から手元にそろいます",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AI同士の照合は怪しい語を見つける補助で、原典を読む代わりにはなりません",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "社内に「裏取り」を根づかせる体制と、社内だけで決めきれない境目",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "裏取りを根づかせるのは個人の心がけではなく、書類の行き先ごとに「誰が・何を・どこまで見るか」を決めた1枚の表です",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "作成者が4種類の語に印をつけて原典と突き合わせ、別の1人が印の語だけを見てから送る",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "判例・統計・引用・金額は「原典と突き合わせるまでが完了」と決める",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：引用した判例が公式の判例データベースに実在するかを、事件番号で照合する",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "同紙の検証では、推薦図書以外の記事にも、実在の人物が言っていない発言や、実在が確認できない専門家の発言が見つかりました（",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Chicago Sun-Times による検証記事、2025年5月29日",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "：脚注・参考文献を1件ずつ原典と照合する",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "AIの出力そのものより「原典と照合する工程が無い、または形だけだったこと」が損害につながっている",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "事例から逆算した、AIを使った成果物を社外に出す前の確認項目です",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "原資料を開き、数字だけでなく単位・対象年・対象範囲まで照合する",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "How to Fact-Check AI-Generated Answers in 2026",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "How to Fact-Check an AI Answer",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "How to Document an AI Fact-Check",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "How to Classify AI Claims After Fact-Checking",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The first step is to stop treating the AI response as one piece of information.",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The existing AOFIRS article identifies lateral reading as a core method for checking AI-generated claims.",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Generative AI SEO in 2026: How to Optimize for AI Search, AEO and GEO",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "How to Find Work as an Independent Online Research Specialist in 2026",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
    {
     "quote": "2-1. 業務で特に警戒すべきは「事実型」と「創造型」",
     "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
@@ -497,6 +709,12 @@
    }
   ],
   "実例": [
+   {
+    "quote": "For example, a study might report an",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
    {
     "quote": "海外では、AIが生成した架空の判例をそのまま裁判所に提出してしまった弁護士が懲戒処分を受けた事例や、航空会社のチャットボットが誤った割引案内をして企業側が責任を問われた事例も実際に起きています",
     "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
@@ -683,298 +901,123 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "単なる「分かりません」という回答ではなく、存在しない統計データや架空の文献、間違った固有名詞を、違和感のない自然な文章で提示してくる点が厄介なポイントです",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "たとえば「存在しない統計データ（事実型）」を、もっともらしい論理展開（構造型）で説明してくる、というように",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "引用元のない統計データを、公的な数値であるかのように提示してしまう",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "AIの回答を鵜呑みにせず、数値や事実については可能な限り一次情報（公式発表・契約書・元データ）に立ち返って確認することが、経営リスクを避けるうえで重要です",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "この仕組みは「RAG（検索拡張生成）」と呼ばれ、NotebookLMのように渡した資料の中だけで回答するツールは、この考え方を採用しています",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "日報生成・採用選考・問い合わせ対応など、実際の企業で動いている自動化の中身を紹介",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "日報・採用・問い合わせ対応・経費精算・議事録・データ集計・営業リスト等の定型業務を、AIに代行させる体制を経営者と一緒に作り込む",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "【2026年11月最新】試用期間の延長はできる？能力不足のときの要件・手続き・本採用拒否の注意点と、社労士事務所が顧問先の試用期間管理をAIで自動化する方法",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "社会保険料・採用費・教育コストもかかりません",
-    "url": "https://genai-ai.co.jp/ai-kanri/blog/ai-hallucination-risk/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "e-Gov法令検索、発行元のPDF",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Webの記事、プレスリリース、採用ページ",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "御社の公開情報と業界の一次統計をもとに、本当の課題、選んだテーマの解決策、効果の試算の式、最初の30日までを",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PDF・15ページ",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "質問文と、社内の資料や原典のPDF",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "段階2でAIに社内の資料や原典のPDFを渡して答えさせておくと、段階3で突き合わせる先が最初から手元にそろいます",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "社内の資料や原典のPDFを渡し、「この資料に書かれている範囲で答える」「書かれていなければ、書かれていないと答える」と範囲を決めると、作り話の入る余地は小さくなります",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "COMPANY PROFILE ／ PDF 全46ページ",
-    "url": "https://boostx-inc.com/blog/ai-hallucination-fact-check/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "その外側——最新の出来事、社内だけの情報、ニッチな統計——を聞かれると、近そうな情報から推測で埋めてしまいます",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "判例・法令・統計数値の引用、契約条件、顧客への公式回答——正解が1つで、間違いが外に出る／法的な力を持つ",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "判例・統計・引用・金額は「原典と突き合わせるまでが完了」と決める",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "いずれも公的な決定文・当事者の発表・報道で確認できたものです（事例1〜5は2026年9月27日、事例6は10月15日確認）",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "著者の大学教員は、「スタンフォード大学図書館バーチャル判例集国際犯罪裁判記録」というデータベースのURLを生成AIに渡して事例を出すよう指示し、AIが出した英文の判例をデータベースから引き出したものと思い込んで、確認せずに採用していました（",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "採用・人材育成の実務経験を活かし、企業向け「AI活用研修」の講師を担当",
-    "url": "https://panhouse.jp/insight/what-is-hallucination/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/tasty_yak6599/n/nc1d4f580ba77",
+    "url": "https://note.com/astarte_cpa/n/ned1f17cd7352",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hirotsuchida/n/n2d58413173f0",
+    "url": "https://note.com/domonjo01/n/nf217e248a6a6",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tshiraiwa/n/nc9aeb5d7914e",
+    "url": "https://note.com/aiyoroz/n/n34090547400b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/taka_sas_1979/n/n5ed6cb81ee5a",
+    "url": "https://note.com/domonjo01/n/n3c8623b7456d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/domonjo01/n/n4af5e6094d1c",
+    "url": "https://note.com/audit_ai/n/n93bf08e1ea1d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/s14hattyann/n/n311e967b1d28",
+    "url": "https://note.com/teritamadozo/n/n0388bdbad599",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/sunaomunakata/n/nc0927ce45bea",
+    "url": "https://www.pwc.com/jp/ja/knowledge/prmagazine/pwcs-view/202609/64-07.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://iaudit.jp/column/ai-governance-audit/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/misaki_ai_work/n/nafe734bc2b2a",
+    "url": "https://www.itscom.co.jp/forbiz/column/office-environment/19156/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ushikun_desu/n/n1f1267060ce6",
+    "url": "https://www.ey.com/ja_jp/insights/digital/info-sensor-2025-02-07-digital-and-innovation",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/ishizakahiroshi/n/n442f37fbec3b",
+    "url": "https://iaudit.jp/themes/ai/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/masuda441/n/n2cbb9c2d8626",
+    "url": "https://ai-feed.jp/guide/ai-audit-checklist",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.city.sanda.lg.jp/soshiki/65/taisetsu/seitoshidou/MIRAInote/30902.html",
+    "url": "https://www.jcc-ltd.com/column/column_2465/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://help.salesforce.com/s/articleView?id=ai.generative_ai_feedback_about.htm&language=ja&type=5",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://www.fsa.go.jp/frtc/seika/discussion/2025/DP2025-3.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://jp.linkedin.com/pulse/how-conduct-ai-audit-your-own-business-complete-guide-nick-skillicorn-vriof?tl=ja",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://www.ifra.jp/pdf/2023/1/178_web.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.deloitte.com/jp/ja/services/audit-assurance/blogs/ai-governance-09.html",
+    "url": "https://www.lrm.jp/security_magazine/ai-audit-and-governance/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.ibm.com/jp-ja/think/topics/ai-audit",
+    "url": "https://business.ntt-east.co.jp/column/bizdrive/prompt-audit-ai-risk.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://blog.visional.inc/n/n16d04d3b9b4a?gs=7b506d1298569765227176d9764e29ff",
+    "url": "https://www.ey.com/ja_jp/services/forensic-integrity-services/gen-ai-audit-log-analysis",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.marubeni-idigio.com/insight-hub/information-leakage-caused-by-generative-ai/",
+    "url": "https://kpmg.com/jp/ja/services/audit/digital-audit/aiassurance/auditresponsestoai.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://boostx-inc.com/blog/generative-ai-audit-checklist/",
+    "url": "https://www.pertamapartners.com/insights/chatgpt-output-evaluation",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hirotsuchida/n/n2725e0766fed",
+    "url": "https://chata.ai/resources/blog/how-to-audit-ai-generated-reports-for-accuracy",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ai-revolution.co.jp/media/ai-in-audit/",
+    "url": "https://www.alphabold.com/ai-output-validation/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.kansa.or.jp/support/library/post-15073/",
+    "url": "https://libguides.lib.umt.edu/ai/evaluation",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://internalauditor.theiia.org/en/voices/2026/august/ai-output-responsible-use/",
+    "url": "https://discoverai.tools/articles/how-to-verify-ai-generated-work-errors-misinformation-2026",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://medium.com/@deolesopan/how-to-audit-gen-ai-output-a-5-minute-accuracy-bias-safety-checklist-4de36bab4473",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/seeing-real-value-ai-depends-being-able-to-verify-its-outputs",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1vxtz5v/workflow_6_rules_for_auditing_ai_agent_reports/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
-    "url": "https://manuelgarcia.info/guides/research/guide/ai-fabricated-research-data-detection",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.articulate.com/blog/how-to-fact-check-ai-content-like-a-pro/",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
     "status": "ok",
     "method": "http"
    }
@@ -984,244 +1027,287 @@
   {
    "query": "AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ） site:note.com",
    "results": [
-    "https://note.com/tasty_yak6599/n/nc1d4f580ba77",
-    "https://note.com/hirotsuchida/n/n2d58413173f0",
-    "https://note.com/tshiraiwa/n/nc9aeb5d7914e",
-    "https://note.com/taka_sas_1979/n/n5ed6cb81ee5a",
-    "https://note.com/domonjo01/n/n4af5e6094d1c",
-    "https://note.com/s14hattyann/n/n311e967b1d28",
-    "https://note.com/tsunobuchi/n/n9bb2512ea810",
-    "https://note.com/cuon/n/n938cb7eed840",
-    "https://note.com/digitalpirce/n/ne8cf2e813952",
-    "https://note.com/hirotsuchida/n/n70a460811ce8"
+    "https://note.com/astarte_cpa/n/ned1f17cd7352",
+    "https://note.com/domonjo01/n/nf217e248a6a6",
+    "https://note.com/aiyoroz/n/n34090547400b",
+    "https://note.com/domonjo01/n/n3c8623b7456d",
+    "https://note.com/audit_ai/n/n93bf08e1ea1d",
+    "https://note.com/teritamadozo/n/n0388bdbad599",
+    "https://note.com/audit_ai/n/ne28e6e85b3d9"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ） note",
    "results": [
-    "https://note.com/sunaomunakata/n/nc0927ce45bea",
-    "https://note.com/misaki_ai_work/n/nafe734bc2b2a",
-    "https://note.com/ushikun_desu/n/n1f1267060ce6",
-    "https://www.youtube.com/watch?v=dkEHf9M2mMk",
-    "https://note.com/ishizakahiroshi/n/n442f37fbec3b",
-    "https://note.com/masuda441/n/n2cbb9c2d8626",
-    "https://www.city.sanda.lg.jp/soshiki/65/taisetsu/seitoshidou/MIRAInote/30902.html",
-    "https://help.salesforce.com/s/articleView?id=ai.generative_ai_feedback_about.htm&language=ja&type=5",
-    "https://note.com/t_a_ka/n/n684734f54217"
+    "https://note.com/astarte_cpa/n/ned1f17cd7352",
+    "https://note.com/aiyoroz/n/n34090547400b",
+    "https://www.pwc.com/jp/ja/knowledge/prmagazine/pwcs-view/202609/64-07.html",
+    "https://iaudit.jp/column/ai-governance-audit/",
+    "https://www.itscom.co.jp/forbiz/column/office-environment/19156/",
+    "https://www.ey.com/ja_jp/insights/digital/info-sensor-2025-02-07-digital-and-innovation",
+    "https://iaudit.jp/themes/ai/"
    ],
    "engines": [
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ） やり方",
    "results": [
-    "https://www.youtube.com/watch?v=dkEHf9M2mMk",
-    "https://help.salesforce.com/s/articleView?id=ai.generative_ai_feedback_about.htm&language=ja&type=5",
-    "https://www.fsa.go.jp/frtc/seika/discussion/2025/DP2025-3.pdf",
-    "https://jp.linkedin.com/pulse/how-conduct-ai-audit-your-own-business-complete-guide-nick-skillicorn-vriof?tl=ja",
-    "https://www.ifra.jp/pdf/2023/1/178_web.pdf",
-    "https://www.deloitte.com/jp/ja/services/audit-assurance/blogs/ai-governance-09.html",
-    "https://www.ibm.com/jp-ja/think/topics/ai-audit",
-    "https://biz.moneyforward.com/ai/basic/3547/",
-    "https://www.ey.com/ja_jp/services/forensic-integrity-services/gen-ai-audit-log-analysis",
-    "https://ai-feed.jp/guide/ai-audit-checklist"
+    "https://ai-feed.jp/guide/ai-audit-checklist",
+    "https://www.pwc.com/jp/ja/knowledge/prmagazine/pwcs-view/202609/64-07.html",
+    "https://www.jcc-ltd.com/column/column_2465/",
+    "https://www.ey.com/ja_jp/insights/digital/info-sensor-2025-02-07-digital-and-innovation",
+    "https://www.itscom.co.jp/forbiz/column/office-environment/19156/",
+    "https://www.lrm.jp/security_magazine/ai-audit-and-governance/",
+    "https://business.ntt-east.co.jp/column/bizdrive/prompt-audit-ai-risk.html"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ） 事例",
    "results": [
-    "https://www.youtube.com/watch?v=yP8OcFF5EM8",
-    "https://www.ifra.jp/pdf/2023/1/178_web.pdf",
-    "https://blog.visional.inc/n/n16d04d3b9b4a",
-    "https://www.marubeni-idigio.com/insight-hub/information-leakage-caused-by-generative-ai/",
-    "https://www.fsa.go.jp/frtc/seika/discussion/2025/DP2025-3.pdf",
-    "https://boostx-inc.com/blog/generative-ai-audit-checklist/",
-    "https://note.com/hirotsuchida/n/n2725e0766fed",
-    "https://ai-revolution.co.jp/media/ai-in-audit/",
-    "https://www.kansa.or.jp/support/library/post-15073/",
-    "https://www.ey.com/ja_jp/insights/digital/info-sensor-2025-02-07-digital-and-innovation"
+    "https://www.ey.com/ja_jp/insights/digital/info-sensor-2025-02-07-digital-and-innovation",
+    "https://www.pwc.com/jp/ja/knowledge/prmagazine/pwcs-view/202609/64-07.html",
+    "https://www.ey.com/ja_jp/services/forensic-integrity-services/gen-ai-audit-log-analysis",
+    "https://www.lrm.jp/security_magazine/ai-audit-and-governance/",
+    "https://kpmg.com/jp/ja/services/audit/digital-audit/aiassurance/auditresponsestoai.html",
+    "https://iaudit.jp/themes/ai/",
+    "https://business.ntt-east.co.jp/column/bizdrive/prompt-audit-ai-risk.html"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "auditing AI chat output fabricated statistics verification",
    "results": [
-    "https://internalauditor.theiia.org/en/voices/2026/august/ai-output-responsible-use/",
-    "https://medium.com/@deolesopan/how-to-audit-gen-ai-output-a-5-minute-accuracy-bias-safety-checklist-4de36bab4473",
-    "https://mitsloan.mit.edu/ideas-made-to-matter/seeing-real-value-ai-depends-being-able-to-verify-its-outputs",
-    "https://www.reddit.com/r/ClaudeWorkflows/comments/1vxtz5v/workflow_6_rules_for_auditing_ai_agent_reports/",
-    "https://manuelgarcia.info/guides/research/guide/ai-fabricated-research-data-detection",
-    "https://www.articulate.com/blog/how-to-fact-check-ai-content-like-a-pro/",
-    "https://www.frisbyaiops.com/industries/government",
-    "https://arxiv.org/abs/2310.01297",
-    "https://answers.databricks.com/verify-accuracy-ai-generated-data-insights",
-    "https://www.pertamapartners.com/insights/chatgpt-output-evaluation"
+    "https://www.pertamapartners.com/insights/chatgpt-output-evaluation",
+    "https://chata.ai/resources/blog/how-to-audit-ai-generated-reports-for-accuracy",
+    "https://www.alphabold.com/ai-output-validation/",
+    "https://libguides.lib.umt.edu/ai/evaluation",
+    "https://discoverai.tools/articles/how-to-verify-ai-generated-work-errors-misinformation-2026",
+    "https://aofirs.org/articles/fact-checking-ai/",
+    "https://aisally.substack.com/p/fact-check-ai-generated-content"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "site:note.com AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ）",
    "results": [
-    "https://note.com/tshiraiwa/n/nc9aeb5d7914e",
-    "https://note.com/hirotsuchida/n/n2d58413173f0",
-    "https://note.com/s14hattyann/n/n311e967b1d28",
-    "https://note.com/tsunobuchi/n/n9bb2512ea810",
-    "https://note.com/lisalisaann/n/nb026a7076b1e",
-    "https://note.com/tolove/n/n01d732fa2fa4",
-    "https://note.com/hirotsuchida/n/n0fc5608ed71a",
-    "https://note.com/tasty_yak6599/n/nc1d4f580ba77",
-    "https://note.com/tsunobuchi/n/n5b7c563944ab",
-    "https://note.com/yasuhitoo/n/nb862db1d5eef"
+    "https://note.com/astarte_cpa/n/ned1f17cd7352",
+    "https://note.com/domonjo01/n/nf217e248a6a6",
+    "https://note.com/aiyoroz/n/n34090547400b",
+    "https://note.com/domonjo01/n/n3c8623b7456d",
+    "https://note.com/audit_ai/n/n93bf08e1ea1d",
+    "https://note.com/teritamadozo/n/n0388bdbad599",
+    "https://note.com/audit_ai/n/ne28e6e85b3d9"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:x.com AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ）",
    "results": [
-    "https://x.com/ai_ai_ailover/status/2076515159581794584",
-    "https://x.com/m316jp2",
-    "https://x.com/MakeAI_CEO/article/2087343694538264720",
-    "https://x.com/MakeAI_CEO/article/2080166594915742012",
-    "https://x.com/AI_RESKILL/article/2099493255289463047",
-    "https://x.com/kimuai08/status/2081501550678253840",
-    "https://x.com/mithrilweb/article/2109113398638354492",
-    "https://x.com/KagawaTomo/status/2118969570304409852",
-    "https://x.com/KagawaTomo/status/2119194011420565771",
-    "https://x.com/aoyama48215960"
+    "https://x.com/jasba0517/status/2107333265241817206",
+    "https://x.com/TakashiSasaki95/status/2107474142824181837",
+    "https://x.com/jasba0517/status/2107375169631408483",
+    "https://x.com/keirijouhou/status/2117046743724679251",
+    "https://x.com/jasba0517/status/2109818665910849725",
+    "https://x.com/ai_joshisu",
+    "https://x.com/deloitte_jp/status/1892405313053069381"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ）",
    "results": [
-    "https://jp.linkedin.com/pulse/ai%E3%82%AC%E3%83%90%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%AEkpi%E5%8F%96%E7%B7%A0%E5%BD%B9%E4%BC%9A%E3%81%AB%E3%81%AF%E4%BD%95%E3%82%92%E5%87%BA%E3%81%9B%E3%81%B0%E3%81%84%E3%81%84%E3%81%AE%E3%81%8B-%E5%8D%83%E5%B0%8B-%E6%9F%B4%E7%94%B0-bodbc",
-    "https://jp.linkedin.com/pulse/routine-ai-use-weakening-crisis-communicators-philippe-borremans-zjdte?tl=ja",
-    "https://jp.linkedin.com/pulse/why-generative-ai-features-dont-fit-traditional-sdlc-stephen-higgins-grkye?tl=ja",
-    "https://jp.linkedin.com/pulse/have-you-ever-known-secret-were-bursting-tell-alan-rambam-ylcyc?tl=ja",
-    "https://www.linkedin.com/posts/shusaku-harada-aa183a279_aix%E6%8E%A8%E9%80%B2%E3%82%92%E6%8B%85%E3%81%86%E5%86%85%E8%A3%BD%E5%8C%96%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E7%B5%84%E7%B9%94global-tech-center%E3%81%AE-activity-7512704391439912962-uxl2",
-    "https://jp.linkedin.com/pulse/conversation-unmukt-raizada-founder-ceo-trustevalsai-massimo-bellino-uzixc?tl=ja",
-    "https://jp.linkedin.com/pulse/why-your-site-invisible-chatgpt-even-when-google-you-vallamsetla-3qmac?tl=ja",
-    "https://jp.linkedin.com/pulse/aivasp-security-standard-ai-native-engineering-dharmendra-kumar-av3nf?tl=ja",
-    "https://jp.linkedin.com/pulse/i-spoke-20-reward-leaders-ai-every-single-one-asked-me-giac-soliman-ojhse?tl=ja",
-    "https://jp.linkedin.com/posts/masaya-mori-26661178_ai%E3%82%92%E4%BD%BF%E3%81%86%E3%81%93%E3%81%A8%E3%81%A7%E4%BA%BA%E9%96%93%E5%81%B4%E3%81%AE%E8%AA%8D%E7%9F%A5%E7%9A%84%E5%8A%AA%E5%8A%9B%E3%81%8C%E4%BD%8E%E4%B8%8B%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E7%A0%94%E7%A9%B6%E5%A0%B1%E5%91%8A%E3%81%8C%E6%98%A8%E5%B9%B4%E8%A9%B1%E9%A1%8C%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F-activity-7415318068597301248-Mdgl"
+    "https://www.linkedin.com/pulse/aiを内部監査対象とする方法-千尋-柴田-dk4zc/",
+    "https://jp.linkedin.com/pulse/practical-guide-auditing-generative-ai-systems-public-troy-macfarlane-wsnje?tl=ja",
+    "https://jp.linkedin.com/pulse/overview-auditing-generative-ai-methodology-risk-best-srivastava-bj3rc?tl=ja",
+    "https://www.linkedin.com/posts/pwc-japan-グループ_pwc内部監査における生成aiの活用事例未来像2023年10月開催セミナー-activity-7255050396904169472-Ctmc",
+    "https://jp.linkedin.com/pulse/generative-ai-internal-audit-key-use-cases-stronger-compliance-5wdpc?tl=ja",
+    "https://jp.linkedin.com/pulse/my-take-auditing-generative-ai-tools-organizations-jai-sisodia-ndelc?tl=ja",
+    "https://jp.linkedin.com/posts/akira-mizusaki-317b3613_過去数か月生成aiを徹底活用してどこまで生成aiを監査に活用できるかやってみた-activity-7450711486827728896-mGu_"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ）",
    "results": [
-    "https://www.facebook.com/kotatsuneko/posts/20260426%E6%96%B0%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E9%96%8B%E8%AC%9B%E7%94%9F%E6%88%90ai%E5%85%B1%E8%82%B2%E3%83%A9%E3%83%9C%E7%AC%AC1%E5%9B%9E-%E5%9F%BA%E7%A4%8E%E3%82%BC%E3%83%9F-%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E7%94%9F%E6%88%90ai%E3%81%93%E3%81%93%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B-%E7%94%9F%E6%88%90ai%E3%81%A3%E3%81%A6%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%91%E3%81%A9%E3%81%BE%E3%81%A0%E4%BD%BF%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%81%8C%E3%81%AA%E3%81%84%E8%A7%A6%E3%81%A3%E3%81%A6%E3%81%AF%E3%81%84%E3%82%8B/26848668108090968/",
-    "https://www.facebook.com/groups/713390697225371/posts/1553246196573146/",
-    "https://www.facebook.com/KPMG.JP/videos/%E8%96%AC%E5%B1%80ai%E6%B4%BB%E7%94%A8%E3%81%AE%E4%B8%BB%E5%BD%B9%E3%81%AFai%E3%81%A7%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93-ai%E3%81%AB%E3%82%88%E3%82%8B%E6%94%AF%E6%8F%B4%E3%82%92%E6%82%A3%E8%80%85%E3%81%B8%E3%81%AE%E4%BE%A1%E5%80%A4%E3%81%AB%E5%A4%89%E3%81%88%E3%82%8B%E3%81%AE%E3%81%AF%E8%96%AC%E5%89%A4%E5%B8%AB%E3%81%AE%E7%A2%BA%E8%AA%8D%E8%A3%9C%E6%AD%A3%E5%88%A4%E6%96%AD%E3%81%A7%E3%81%99%E3%81%9D%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%81%AFai%E3%81%AB%E4%BB%BB%E3%81%9B%E3%82%8B%E6%A5%AD%E5%8B%99%E3%82%84%E6%83%85%E5%A0%B1%E3%81%AE%E5%8F%96%E6%89%B1%E3%81%84%E7%8F%BE%E5%A0%B4%E8%96%AC%E5%89%A4%E5%B8%AB%E7%AE%A1%E7%90%86/1010393812137910/",
-    "https://www.facebook.com/groups/713390697225371/",
-    "https://www.facebook.com/100inc/posts/vol286ai%E3%81%AE%E7%B2%BE%E5%BA%A6%E3%81%AF%E3%81%9D%E3%81%AE%E6%89%8B%E5%89%8D%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A7%E6%B1%BA%E3%81%BE%E3%82%8Bai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%92%E5%8B%95%E3%81%8B%E3%81%97%E3%81%A6%E3%82%82%E5%87%BA%E5%8A%9B%E3%81%AE%E7%B2%BE%E5%BA%A6%E3%81%8C%E4%BC%B8%E3%81%B3%E3%81%AA%E3%81%84%E5%8E%9F%E5%9B%A0%E3%81%AE%E5%A4%9A%E3%81%8F%E3%81%AF%E5%AE%9F%E3%81%AF%E3%83%87%E3%83%BC%E3%82%BF%E5%81%B4%E3%81%AB%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E5%85%A86%E5%9B%9E%E3%81%AE%E5%AE%9F%E8%B7%B5%E3%83%A9%E3%83%9Cvol2%E3%81%AF%E3%81%99%E3%81%B9/1518191816773505/",
-    "https://www.facebook.com/100inc/",
-    "https://www.facebook.com/kidera.yoshi/",
-    "https://www.facebook.com/hisashikomiya/posts/%E4%BB%8A%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%81%AE%E9%87%91%E8%9E%8D%E5%88%B6%E5%BA%A6%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%8F%E5%A4%89%E3%82%8F%E3%82%8D%E3%81%86%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E7%B1%B3%E9%80%9A%E8%B2%A8%E7%9B%A3%E7%9D%A3%E5%BA%81occ%E3%81%AF%E6%B1%BA%E6%B8%88%E7%94%A8%E3%82%B9%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%88%B6%E5%BA%A6%E6%95%B4%E5%82%99%E3%82%92%E9%80%B2%E3%82%81%E5%9C%B0%E5%9F%9F%E9%87%91%E8%9E%8D%E6%A9%9F%E9%96%A2%E3%82%92%E5%90%AB%E3%82%80%E9%8A%80%E8%A1%8C%E3%81%AB%E3%82%82%E6%96%B0%E3%81%97%E3%81%84%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E9%87%91%E8%9E%8D%E3%81%B8%E5%8F%82/3751433165008994/",
-    "https://www.facebook.com/myplaw/",
-    "https://www.facebook.com/100064515737150/?locale=be_BY"
+    "https://www.facebook.com/EYJapanOfficial/posts/cfo内部監査が押さえるべきaiガバナンスhttpsowlyk3ls50ymf8vai活用が企業価値に直結する時代においてaiガバナンスは経営全体で取り組むべき/1457173659753950/",
+    "https://www.facebook.com/EYJapanOfficial/posts/新着記事監査業務におけるaiへの対応と活用事例情報センサー2025年2月-デジタルイノベーションhttpsgoeycom4igu3ngaiを活用した監査保証業務/1151982433606409/",
+    "https://www.facebook.com/Deloitte.Japan/posts/有限責任監査法人トーマツは監査プラットフォームomniaにaiエージェントによる監査調書レビュー機能を搭載し会計士ら約5000人が利用予定ですaiエージェントが/1244982537649305/",
+    "https://www.facebook.com/Deloitte.Japan/posts/東京大学未来ビジョン研究センター技術ガバナンス研究ユニット-ai監査研究会にデロイト-トーマツ-グループのプロフェッショナルが参画していますこの度人工知能aiを/756163606531203/",
+    "https://www.facebook.com/PwCJapan/posts/動画公開内部監査における生成aiの活用事例未来像2023年10月に開催したセミナーのアーカイブ動画をyoutubeで公開しました本動画では生成aiの活用事例プロ/956226983200312/",
+    "https://www.facebook.com/PwCJapan/posts/内部監査におけるai活用のポイントai技術を導入することで内部監査のルーティン業務を自動化高度化することが可能です本稿では特定業務におけるai活用の事例や部門全/1291945372961803/",
+    "https://www.facebook.com/KPMG.JP/posts/ニュースリリース有限責任-あずさ監査法人はsakana-ai-株式会社と監査に関する共同研究契約を締結しました本契約に基づく研究の第一弾の成果としてcoffee/1441526584661201/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ） note 社長",
    "results": [
-    "https://note.com/misaki_ai_work/n/nafe734bc2b2a",
-    "https://note.com/ushikun_desu/n/n1f1267060ce6",
-    "https://note.com/sunaomunakata/n/nc0927ce45bea",
-    "https://www.youtube.com/watch?v=dkEHf9M2mMk",
-    "https://note.com/hirotsuchida/n/n3146409747ff",
-    "https://note.jp.pwc.com/n/n22af44555f1a",
-    "https://note.com/aatoku/n/nad6a278e329a",
-    "https://jicpa.or.jp/specialized_field/20240813dfu.html",
-    "https://ai-keiei.shift-ai.co.jp/ai-usage-audit-methods/",
-    "https://note.com/astarte_cpa/n/ned1f17cd7352"
+    "https://note.com/astarte_cpa/n/ned1f17cd7352",
+    "https://note.com/aiyoroz/n/n34090547400b",
+    "https://www.pwc.com/jp/ja/knowledge/prmagazine/pwcs-view/202609/64-07.html",
+    "https://iaudit.jp/themes/ai/",
+    "https://www.ey.com/ja_jp/insights/digital/info-sensor-2025-02-07-digital-and-innovation",
+    "https://jicpa.or.jp/cpainfo/journal_202512.pdf",
+    "https://alion.jp/posts/generative-ai-audit-governance-guide/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "AIとの対話・生成物を調べ物に使ったときの監査（疑問文が断定に変わる・存在しない統計・出典の実在の確かめ） X 投稿",
    "results": [
-    "https://boostx-inc.com/blog/generative-ai-input-ng-checklist/",
-    "https://markable-ai.techro.co.jp/media/ai-sns/creation/ai-x-post-writing/",
-    "https://biz.moneyforward.com/ai/basic/2595/",
-    "https://ledge.ai/articles/x_ai_note_writer_api_launch",
-    "https://coplus-one.jp/ai-joho-shushu/",
-    "https://www.chem-station.com/blog/2026/07/review.html",
-    "https://tech-lab.sios.jp/archives/54667",
-    "https://www.youtube.com/watch?v=C1GqClKoCqY",
-    "https://note.com/yo4shi80/n/nbd9c06dc4775",
-    "https://business.ntt-east.co.jp/column/bizdrive/prompt-audit-ai-risk.html"
+    "https://www.ey.com/ja_jp/insights/digital/info-sensor-2025-02-07-digital-and-innovation",
+    "https://business.ntt-east.co.jp/column/bizdrive/prompt-audit-ai-risk.html",
+    "https://www.itscom.co.jp/forbiz/column/office-environment/19156/",
+    "https://qiita.com/YushiYamamoto/items/1fb0c70803574f60fc5e",
+    "https://kpmg.com/jp/ja/insights/2026/09/genai-internal-audit.html",
+    "https://www.jcc-ltd.com/column/column_2465/",
+    "https://jicpa.or.jp/specialized_field/20240813dfu.html"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "auditing AI chat output fabricated statistics verification site:linkedin.com",
    "results": [
+    "https://www.linkedin.com/pulse/how-verify-ai-outputs-simple-auditable-process-guy-alvarez-ljaif",
+    "https://www.linkedin.com/pulse/combating-ai-hallucinations-verification-strategies-consider-donovan-ovpse",
+    "https://www.linkedin.com/pulse/how-do-you-audit-any-ai-output-60-seconds-dc-fawcett-spgwe",
     "https://www.linkedin.com/top-content/artificial-intelligence/ai-evaluation-methods/how-to-fact-check-ai-outputs/",
-    "https://www.linkedin.com/posts/deepak-lalit_ai-mistakes-that-will-make-every-accountant-activity-7485038946146570240-HNla",
-    "https://www.linkedin.com/posts/verlith-io_four-states-have-issued-specific-guidance-activity-7503756839986225153-bT7y",
-    "https://www.linkedin.com/posts/saidot_heres-what-happened-in-troms%C3%B8-in-2025-activity-7394298694302343168-Z6vT",
-    "https://www.linkedin.com/top-content/artificial-intelligence/understanding-ai-systems/how-to-address-misleading-ai-claims/",
-    "https://www.linkedin.com/top-content/artificial-intelligence/ai-governance-practices/anthropic-audit-challenges-in-ai-governance/",
-    "https://www.linkedin.com/posts/stephen-gpt_im-finding-and-summarising-interesting-ai-activity-7506267933216739328-HjCw",
-    "https://www.linkedin.com/posts/jason-thatcher-0329764_academicjourney-activity-7519726673140039680-M49w",
-    "https://www.linkedin.com/top-content/artificial-intelligence/ai-safety-and-risk-management/how-to-manage-language-model-output-risks/",
-    "https://www.linkedin.com/posts/verityw_ai-chat-logs-are-foi-able-lets-let-that-activity-7394316482253447168-fqhL"
+    "https://www.linkedin.com/pulse/your-ai-cite-statistics-dont-exist-heres-how-check-evidence-johnmar-0bbqc",
+    "https://www.linkedin.com/pulse/understanding-addressing-inaccurate-misleading-outputs-death-zyure",
+    "https://www.linkedin.com/pulse/fabrication-problem-why-ai-invents-facts-how-catch-part-preksha-shah-thohc"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 11,
+ "new_this_run": {
+  "一次情報の探し方": [
+   {
+    "quote": "For each claim, identify the most appropriate source for verification, such as an official record, original study, government database, company filing, or primary document.",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "AI can miscalculate percentages or confuse estimates with observed figures.",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Locate the original data, identify the values and period being measured, independently check the calculation, and determine whether the figure is an actual measurement, estimate, forecast, or projection.",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Common AI Fact-Checking Mistakes",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "How to Fact-Check AI-Generated Answers in 2026",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "How to Fact-Check an AI Answer",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "How to Document an AI Fact-Check",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "How to Classify AI Claims After Fact-Checking",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The first step is to stop treating the AI response as one piece of information.",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "The existing AOFIRS article identifies lateral reading as a core method for checking AI-generated claims.",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "Generative AI SEO in 2026: How to Optimize for AI Search, AEO and GEO",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   },
+   {
+    "quote": "How to Find Work as an Independent Online Research Specialist in 2026",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "For example, a study might report an",
+    "url": "https://aofirs.org/articles/fact-checking-ai/",
+    "pass": 3,
+    "first_seen": "2026-11-10"
+   }
+  ]
+ },
+ "runs": 12,
  "first_researched_at": "2026-11-06T17:13:37.218618+00:00"
 }

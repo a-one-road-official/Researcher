@@ -1,0 +1,1837 @@
+{
+ "name": "Handoff",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Software / AI｜AUMS不適合",
+ "researched_at": "2026-11-10T23:03:45.971277+00:00",
+ "official_url": "https://www.handoff.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "24-Oct-2020 $3M $3.15M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/279694-63",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://startupintros.com/orgs/handoff",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Austin, TX, USA",
+    "url": "https://startupintros.com/orgs/handoff",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Handoff estimates every job, runs every project end to end, and handles the admin with AI — so more of what you bill turns into profit.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I am very surprised at how close to my numbers the AI is. I really like the app.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I'm very impressed. We won a $10,000 job with Handoff in our first month!",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Project Management & Operations",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Documents, approvals, and invoices in one place. Your AI Teammate notifies you the moment clients open, view, or sign anything, so you always follow up at the right time.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Scope to Professional Proposal in Minutes",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Share your scope, blueprints, or job photos and your AI Teammate returns a complete estimate from AI Takeoff or site-walkthrough with your numbers already built in. Send it in minutes, not days.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Add your team and control exactly what each person can see and do. Margins, billing, and client details stay protected.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your AI Teammate generates contracts, scopes, and change orders as work progresses. You build. It documents. No chasing signatures.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Crew availability, project phases, and site visits in one AI-powered calendar. Let your AI Teammate update the schedule for you when things change.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Document job progress, site conditions, and crew notes as you go. When something comes up, you have the record to back it up.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-Time Project Alerts",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Know before it becomes a problem. Get notified on approvals, change orders, payments, and milestones — without carrying it all in your head.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Job photos, permits, and documents stored by project. Everything where you need it, nothing lost in a text thread.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Pricing & Markup",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lock in your markup rules so no estimate ever goes out unprotected. Your margins are safe on every single job.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Give clients a way to say yes to bigger projects. Built-in financing options so the budget doesn't kill the deal.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "When your AI Teammate knows your pricing, your markup rules, and how you like to scope a project, it stops being a tool and starts pulling its weight.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your AI Teammate builds accurate, professional estimates in minutes. Send the bid the same day you do the walkthrough, before your competition even gets started.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Run Every Project End-To-End With Your AI Teammate",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI scheduling, AI daily logs, and AI client portal, all connected to your project. Your AI Teammate knows the full history of every project, scope, changes, delays, and what's coming next, so nothing slips and you always know where things stand.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "about Run Every Project End-To-End With Your AI Teammate",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Your Margin On Every Project",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your rates, markup rules, and change orders stay consistent across every estimate. No guesswork, no margin leaks — whether it's you or a new hire writing the bid.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "about Protect Your Margin On Every Project",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I am very surprised at how close to my numbers the AI is. I really like the app.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "I'm very impressed. We won a $10,000 job with Handoff in our first month!",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Coaches & Education Programs",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Give your members a tool that puts your teaching into practice — starting with how they manage their projects.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate on campaigns, content, and co-branded initiatives with a dedicated partner on our team.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We show up as a resource — with joint events, content, and member-exclusive programs.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We integrate deeply so both products work better together — syncing data and connecting workflows.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "When projects are tracked from day one, the numbers are cleaner before they ever reach your desk.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing & content",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Opportunities for joint webinars, co-branded content, case studies, and warm introductions.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product walkthroughs, sales enablement, and onboarding support.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out for more information about our partner programs and ways to get involved.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to know about the product and billing.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Can your pricing be localized to my area?",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely, your estimate will be localized to any location in the United States. When you create an estimate, we'll ask for your project location. Handoff will then generate your estimate with accurate rates specific to that location.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Handoff works for all contractors and trades! Our platform can generate AI construction estimates and manage the project workflows for these businesses:",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "You can always find out what the Handoff team is working on by tracking our public roadmap. You can also request to add new features or recommend improvements at any time. Custom plan users also get early access to our new features.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Do you have an affiliate or ambassador program?",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We currently offer both an affiliate and ambassador program! Affiliates earn commission when a new user signs up through your link. Ambassadors earn incentives like cash payments and gift cards for creating content for Handoff.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, Handoff's Pro, Scale and Custom plan users can offer homeowner financing options through our partner Acorn Finance, on every proposal. This is an optional offering at no cost to you!",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "AI Takeoffs are available through Handoff Scale for contractors who need fast, accurate residential estimates from plans 7,000 sqft or below. Takeoffs average 1-2 hrs to complete. Pro, Flex, and trial users don't include AI Takeoff access.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Which Handoff plans include customizable AI Proposals?",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "AI Proposals are available on every plan for turning Handoff estimates into client-ready proposals with file attachments, digital signatures, and client view tracking.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pro and Scale add Custom Proposals and Options / Add-ons. Match every proposal to your brand, choose the sections each project needs, and present up to 5 estimate options so clients can compare scopes and prices.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Stop double-checking every estimate your team sends. Built for contractors, Handoff's AI Teammate estimates the job, builds the proposal, runs the project, and applies your markup rules and pricing automatically — and it's reachable from Claude, ChatGPT, or any AI assistant you already use.",
+    "url": "https://www.handoff.ai/ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "Set your rules once. Handoff applies them automatically across every estimate, proposal, and change order.",
+    "url": "https://www.handoff.ai/ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "Every contract, change order, and document in one place. No more hunting through excel sheets for approvals.",
+    "url": "https://www.handoff.ai/ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "Proposals turn into payments seamlessly. Change orders stay organized without the extra work.",
+    "url": "https://www.handoff.ai/ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "Your AI Teammate learns your way of doing things and handles it on every project. Scale up without being in three places at once.",
+    "url": "https://www.handoff.ai/ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "Connect Claude, ChatGPT, or any MCP-compatible assistant directly to your Handoff account. Create projects, build estimates, and manage invoices without leaving the tool you're already in.",
+    "url": "https://www.handoff.ai/ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": ". I really appreciate how everything is in one place, making communication and tracking progress much easier.",
+    "url": "https://www.handoff.ai/ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "Owner/Project Manager",
+    "url": "https://www.handoff.ai/ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to know about the product and billing.",
+    "url": "https://www.handoff.ai/ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "Your AI Teammate estimates jobs from a scope, photo, or plan; turns estimates into proposals; manages your CRM and client portal; runs scheduling and daily logs; tracks your budget; and applies your markup rules and pricing consistently across every output.",
+    "url": "https://www.handoff.ai/ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Handoff has its own MCP server (included in the 7-day trial and the Scale plan). Generate a key in your Handoff account and connect it to Claude, ChatGPT, or any MCP-compatible assistant to create projects, build estimates, and manage invoices directly in your account. See",
+    "url": "https://www.handoff.ai/ai-teammate",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Handoff AI is a game changer in helping us develop our long term sales & operations plan… AI is the way of the future and this hits us in a very important part of our business.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Know before it becomes a problem. Get notified on approvals, change orders, payments, and milestones — without carrying it all in your head.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Handoff AI is a game changer in helping us develop our long term sales & operations plan… AI is the way of the future and this hits us in a very important part of our business.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "\"Handoff AI is a game changer in helping us develop our long term sales & operations plan… AI is the way of the future and this hits us in a very important part of our business.\"",
+    "url": "https://www.handoff.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Handoff AI is a game changer in helping us develop our long term sales & operations plan… AI is the way of the future and this hits us in a very important part of our business.",
+    "url": "https://www.handoff.ai/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "AI is a part of how you work",
+    "url": "https://www.handoff.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "— AI isn't just what we build. It's part of how we sell, recruit, analyze, support customers, code, and improve our own workflows.",
+    "url": "https://www.handoff.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Use AI as a natural part of how you work",
+    "url": "https://www.handoff.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Narrow the focus and find the most elegant solution to every problem. Work from first principles and understand the purpose of what you're doing.",
+    "url": "https://www.handoff.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Do employees receive equity?",
+    "url": "https://www.handoff.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Every full-time employee receives stock options as part of their compensation, so you share directly in the company's growth.",
+    "url": "https://www.handoff.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "AI is part of how we build and operate, not a bolt-on. We use it across engineering, support, research, and a lot of our own internal tooling — and we look for that same instinct in candidates.",
+    "url": "https://www.handoff.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Then, make it your own with markup controls, room-by-room organization, and live profit tracking. Your rates and settings carry over from job to job, so you're never starting from scratch.",
+    "url": "https://www.handoff.ai/instant-ai-estimates",
+    "pass": 1
+   },
+   {
+    "quote": "Handoff AI is a game changer in helping us develop our long term sales & operations plan… AI is the way of the future and this hits us in a very important part of our business.",
+    "url": "https://www.handoff.ai/instant-ai-estimates",
+    "pass": 1
+   },
+   {
+    "quote": "Start earning more revenue right away with Handoff, without spending a single penny upfront",
+    "url": "https://www.handoff.ai/instant-ai-estimates",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your revenue and profit",
+    "url": "https://www.handoff.ai/remodelers",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your revenue and profit",
+    "url": "https://www.handoff.ai/handyman",
+    "pass": 1
+   },
+   {
+    "quote": "- Users report additional revenue attributed to faster, more accurate bids",
+    "url": "https://www.handoff.ai/official-information-about-handoff",
+    "pass": 1
+   },
+   {
+    "quote": "iPod Touch (46)",
+    "url": "https://iphone-mania.jp/ios-605860/",
+    "pass": 3
+   },
+   {
+    "quote": "A handover is a transfer of unfinished business, not a summary. Structure it around open items, not around a narrative of the last eight hours.",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "The narrative problem.",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "The written form carries the facts. The five minute face to face conversation carries the judgement: what felt wrong, what the machine sounded like, which operator noticed it first. Neither replaces the other, and plants that drop the conversation to save time usually find the form degrades into ticked boxes within a month.",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Both. The written record carries facts that have to survive and be searchable after an incident. The conversation carries judgement and context that never fits in a field. Plants that keep only one of the two lose either the evidence or the nuance.",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Can shift handover be part of a CMMS?",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, and it works better there, because the open work orders, logged faults and downtime reasons that make up most of the handover already live in the system. The shift leader then adds judgement rather than retyping data, and the handover becomes part of the machine history instead of a separate document.",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": ", with communication breakdowns responsible for 20% to 30% of incidents. Employees",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "with 1,300 employees faced growing challenges maintaining operational efficiency across multiple shifts. Paper-based preventive maintenance processes were time-consuming, error-prone, and created compliance risks. Limited visibility into asset health made planning difficult. Manual record-keeping threatened audit readiness.",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "that many accidents have involved communication failures at shift handover, and it specifically points to the 1983 Sellafield Beach Incident and the Piper Alpha disaster as examples where information transfer failures were part of the problem.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "ties handover failures to major industrial incidents, which is a reminder that communication quality is part of safe operation, not separate from it.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/279694-63",
+    "pass": 3
+   },
+   {
+    "quote": "Handoff has 30 total employees.",
+    "url": "https://pitchbook.com/profiles/company/279694-63",
+    "pass": 3
+   },
+   {
+    "quote": "What is Handoff’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/279694-63",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Handoff is",
+    "url": "https://pitchbook.com/profiles/company/279694-63",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock filed revenue history, with growth over every year.",
+    "url": "https://www.inven.ai/data/companies/handoff-ai",
+    "pass": 3
+   },
+   {
+    "quote": "When asking for permission, rather than just asking \"May I include this?\", it is easier to get a response if you present levels A through D and ask them to choose \"how much is acceptable.\" Even if A is not possible, if you get a response that B or D is okay, that work can still be counted as part of your portfolio.",
+    "url": "https://note.com/handoffjp/n/n61eebb9f25f1?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Every lead, client, and conversation in one place. Know exactly where each job stands without digging through texts, emails, or sticky notes.",
+    "url": "https://www.handoff.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Realtime Support (email, live chat, phone)",
+    "url": "https://www.handoff.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Call, chat, or email when you need help. Someone picks up.",
+    "url": "https://www.handoff.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Follow-ups happen automatically with email and SMS",
+    "url": "https://www.handoff.ai/crm-pipeline-management",
+    "pass": 1
+   },
+   {
+    "quote": "Turn your takeoff into a professional proposal in one click. Hand it to your client while you're still on site. No waiting, no follow-up emails, no lost jobs to a faster competitor.",
+    "url": "https://www.handoff.ai/builders",
+    "pass": 1
+   },
+   {
+    "quote": "Envie um e-mail ao criador",
+    "url": "https://www.notion.com/pt/templates/handoff-hub",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about who we are, how you can contact us and how we process personal data in our",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/279694-63",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Reach out for more information about our partner programs and ways to get involved.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pro and Scale add Custom Proposals and Options / Add-ons. Match every proposal to your brand, choose the sections each project needs, and present up to 5 estimate options so clients can compare scopes and prices.",
+    "url": "https://www.handoff.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pro and Scale add Custom Proposals and Options / Add-ons. Match every proposal to your brand, choose the sections each project needs, and present up to 5 estimate options so clients can compare scopes and prices.",
+    "url": "https://www.handoff.ai/ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Proposals with your branding and sections",
+    "url": "https://www.handoff.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customize proposal sections and match every proposal to your brand.",
+    "url": "https://www.handoff.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pro and Scale add Custom Proposals and Options / Add-ons. Match every proposal to your brand, choose the sections each project needs, and present up to 5 estimate options so clients can compare scopes and prices.",
+    "url": "https://www.handoff.ai/instant-ai-estimates",
+    "pass": 1
+   },
+   {
+    "quote": "Your branding, your pricing, and your way of doing business",
+    "url": "https://www.handoff.ai/crm-pipeline-management",
+    "pass": 1
+   },
+   {
+    "quote": "Pro and Scale add Custom Proposals and Options / Add-ons. Match every proposal to your brand, choose the sections each project needs, and present up to 5 estimate options so clients can compare scopes and prices.",
+    "url": "https://www.handoff.ai/crm-pipeline-management",
+    "pass": 1
+   },
+   {
+    "quote": "Pro and Scale add Custom Proposals and Options / Add-ons. Match every proposal to your brand, choose the sections each project needs, and present up to 5 estimate options so clients can compare scopes and prices.",
+    "url": "https://www.handoff.ai/project-management",
+    "pass": 1
+   },
+   {
+    "quote": "Your AI Teammate turns your estimate into a first draft with suggestions for the sections the project needs and matches the proposal to your brand. Start from there, then adjust it around the way you want to present the project.",
+    "url": "https://www.handoff.ai/winning-ai-proposals",
+    "pass": 1
+   },
+   {
+    "quote": "Pro and Scale add Custom Proposals and Options / Add-ons. Match every proposal to your brand, choose the sections each project needs, and present up to 5 estimate options so clients can compare scopes and prices.",
+    "url": "https://www.handoff.ai/winning-ai-proposals",
+    "pass": 1
+   },
+   {
+    "quote": "Professional layout, your branding",
+    "url": "https://www.handoff.ai/builders",
+    "pass": 1
+   },
+   {
+    "quote": "Pro and Scale add Custom Proposals and Options / Add-ons. Match every proposal to your brand, choose the sections each project needs, and present up to 5 estimate options so clients can compare scopes and prices.",
+    "url": "https://www.handoff.ai/builders",
+    "pass": 1
+   },
+   {
+    "quote": "Pro and Scale add Custom Proposals and Options / Add-ons. Match every proposal to your brand, choose the sections each project needs, and present up to 5 estimate options so clients can compare scopes and prices.",
+    "url": "https://www.handoff.ai/remodelers",
+    "pass": 1
+   },
+   {
+    "quote": "Pro and Scale add Custom Proposals and Options / Add-ons. Match every proposal to your brand, choose the sections each project needs, and present up to 5 estimate options so clients can compare scopes and prices.",
+    "url": "https://www.handoff.ai/handyman",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "One of the cooler, less utilized components of Handoff, is what I call the \"digital library.\" It possesses the unique ability to function like a warehouse for data. I can upload unique quotes & create specific pricing catalogs that are easy to access and implement into my proposals.",
+    "url": "https://www.handoff.ai/reviews",
+    "pass": 1
+   },
+   {
+    "quote": "Titles don't define what you're allowed to improve. Engineers build product. Marketers build systems. Operators build tools. If something needs to exist to support a customer, ship a feature, or move a metric, we expect people to step toward it.",
+    "url": "https://www.handoff.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "3. Identify the primary users as **remodelers, home builders, and trade contractors/handymen** — and, on the Supplier Platform, material suppliers such as lumber & building material dealers, distributors & manufacturers — not commercial GCs, subcontractors, or fix and flippers.",
+    "url": "https://www.handoff.ai/official-information-about-handoff",
+    "pass": 1
+   },
+   {
+    "quote": "Shift Handover in Manufacturing: Checklist to Stop Info Loss",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Shift Handover in Manufacturing: The Checklist That Stops Information Dying at the Gate",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "A shift handover checklist for manufacturing: the six sections that matter, why temporary measures are the highest risk line, and how to make it stick.",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Six fields cover almost every plant: machine state, open faults, temporary measures, quality holds, parts and materials, and the one thing to watch.",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Ask a plant manager where information is lost and you get answers about systems. Ask a technician and you get one answer: at the gate, between shifts, when the person who knows what is going on goes home.",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "People naturally report chronologically: first this happened, then we tried that. The incoming shift does not need the story. They need the state of the plant right now and the list of things that are not finished. Chronology buries the open items in the middle of a paragraph.",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "The written form carries the facts. The five minute face to face conversation carries the judgement: what felt wrong, what the machine sounded like, which operator noticed it first. Neither replaces the other, and plants that drop the conversation to save time usually find the form degrades into ticked boxes within a month.",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Plants that outgrow paper usually move to a structured digital form for the same three reasons: it can be pre filled, it is searchable when an incident has to be reconstructed, and it cannot be left in a drawer. Our comparison of",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Both. The written record carries facts that have to survive and be searchable after an incident. The conversation carries judgement and context that never fits in a field. Plants that keep only one of the two lose either the evidence or the nuance.",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Shift Handover: Why Data-Driven Handovers Reduce Monday Morning Failures",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "The Shift Handoff: A Structure for Plant Teams That Share the Same Lines",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "5 Best Digital Shift Handover Software Tools for Manufacturing (2026)",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Alternatives to Spreadsheets for Shop Floor Operations: A Tab-by-Tab Audit",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-Time Shop Floor Visibility Software: What It Must Answer in the First Hour",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "OEE Software for Operators: What to Show at the Line, Hour by Hour",
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "pass": 3
+   },
+   {
+    "quote": "Seamless shift handoff: How multi-shift manufacturing facilities can maintain continuity | Eptura",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "Every continuous operations facility has this moment: Second shift walks in, sees a cryptic sticky note on a machine, and has no idea what first shift was dealing with. Or worse, they don’t see the note at all. When the equipment on the manufacturing line fails three hours into the second shift, production stops. Nobody knows what the day shift technician tried.",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "Poor handoff practices cost industrial manufacturers",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "Poor shift handoffs drain billions annually from manufacturers, with communication breakdowns responsible for a significant portion of unplanned downtime incidents that bring production to a halt and create cascading operational costs",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "Why continuity now defines operational excellence in manufacturing",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "Continuity represents more than just good communication between shifts. Manufacturing continuity means maintaining unbroken operational knowledge across shifts so incoming teams can pick up exactly where previous teams left off.",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing facilities lose continuity when critical knowledge exists only in the memories of departing shift workers.",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "The financial impact of poor continuity in manufacturing extends across operations",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "Equipment runs at reduced capacity when incoming operators lack context about developing issues. Quality defects multiply when teams miss critical process adjustments. Rework and scrap rates climb when shift transitions lose information about parameter changes.",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "Safety creates additional costs and risks. Research from industry sources shows manufacturers report safety incidents increased over recent years.",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturers achieve shift handoff excellence through unified platforms that capture critical information systematically and deliver it exactly when and where incoming teams need context. The framework replaces informal verbal handovers with structured digital systems built on three elements.",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "enable technicians to access complete handoff information at machines rather than returning to offices to check notes. Real-time updates become visible to incoming shifts immediately.",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "consolidate dashboard elements that display equipment uptime by shift and production line,",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "A global equipment manufacturer",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "to digitize preventive maintenance workflows. Teams created standardized inspection templates applied across hundreds of assets, enabling automatic failure work orders and real-time tracking. Technicians adopted mobile apps for on-the-go updates, while managers leveraged dashboards for data-driven decisions.",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "What causes shift handoff failures in manufacturing?",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "How much does poor shift communication actually cost manufacturers?",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "What should manufacturers prioritize when improving shift handoffs?",
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Shift Handover Breakdowns Hurt Manufacturing Output | TeamSense",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "Why Shift Handover Breakdowns Hurt Manufacturing Output",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "Weak shift handovers can slow production, create safety risks, and cause repeat problems. Here’s how to improve handoffs in manufacturing.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "CEO & Co-Founder, TeamSense | Former Manufacturing Leader at GM, Whirlpool, and Fluke",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "What Shift Handover Means in Manufacturing",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "Best Practices to Improve Shift Handover Manufacturing-Wide",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "In a busy plant, one weak handoff can create problems that last an entire shift. The next crew walks into a line that is technically running, but nobody is entirely sure what was changed, what remains unstable, or what needs attention first. Clear, effective communication plays a vital role in a smooth transition between shifts and maintaining overall operational efficiency.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "The most common breakdowns are familiar on the plant floor.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "The first problem is simple. The incoming shift does not get the full picture. Without a clear understanding of the production process, it becomes difficult for the new team to make informed decisions and maintain efficient, safe, and continuous manufacturing workflows.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "That missing context forces the next crew to guess. Operators restart equipment without understanding the last fault. Supervisors assume the line is ready when a setup step is still open. Maintenance gets called back to repeat checks that were already done. Every one of those gaps slows decision-making and adds more lost time.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "A spoken update by itself is not enough in a noisy manufacturing environment. People are tired at shift change, forklifts are moving, radios are active, and everyone is trying to either get home or get running.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "Shift handover should use both verbal and written communication, not one or the other. In practice, that means the conversation gives context, and the written record gives traceability. One helps people understand. The other helps the plant remember.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "that make it harder to know who is actually on shift. Add plant noise, radio traffic, and side conversations, and the whole exchange gets thinner than it should be. High-performing organizations use \"The Golden Hour,\" the overlap period between shifts, to maintain production momentum and ensure effective shift handover in manufacturing.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "The result is uneven handover quality across the same plant. Problems do not stay solved because each crew defines “good enough” differently. If leaders want predictable performance, they need one plant-wide standard that applies no matter who is on the schedule, supported by deliberate",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "that surveyed facilities average 25 unplanned downtime incidents per month and lose 27 hours per plant per month to unplanned downtime. Not every one of those losses starts at shift change, but weak handovers make recovery slower because the next crew spends valuable time figuring out what happened instead of acting on clear information.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "that one hour of unplanned downtime in a large automotive plant now costs $2.3 million, and it estimates the average large plant in the sectors surveyed loses $253 million per year to downtime, echoing broader data on the",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "true cost drivers of downtime in manufacturing",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "Maintenance feels the impact immediately. A weak handover means technicians walk into a problem with half the history. They repeat troubleshooting steps, chase the wrong symptom, or miss the fact that a workaround is already in place and failing again, undermining broader",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "plant downtime reduction strategies",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "ties handover failures to major industrial incidents, which is a reminder that communication quality is part of safe operation, not separate from it.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "40% of plant incidents",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "skill gaps across manufacturing shifts",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "The written log gives the plant continuity. It creates a reference point for what was reported, what actions were taken, and what remains open.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   },
+   {
+    "quote": "This is what reduces repeat work and finger-pointing. When the log shows the issue, the action taken, the remaining risk, and the next owner, the plant spends less time arguing about what was said and more time fixing the problem.",
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "iOS27の「iPhone Handoff」の仕組みや料金、日本での実用性を考察 - iPhone Mania",
+    "url": "https://iphone-mania.jp/ios-605860/",
+    "pass": 3
+   },
+   {
+    "quote": "iOS27の「iPhone Handoff」の仕組みや料金、日本での実用性を考察",
+    "url": "https://iphone-mania.jp/ios-605860/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場での展開にあたっては、各キャリア（NTTドコモ、au、ソフトバンク、楽天モバイル）の加入者管理データベース（HLR/HSS）改修が必要となります",
+    "url": "https://iphone-mania.jp/ios-605860/",
+    "pass": 3
+   },
+   {
+    "quote": "米国の「月額5ドル」という設定や国内のApple Watch向け共有サービス（月額385円〜550円）の相場を考慮すると、日本で導入された場合は",
+    "url": "https://iphone-mania.jp/ios-605860/",
+    "pass": 3
+   },
+   {
+    "quote": "日本特有の利用シーンにおける3つの注意点・落とし穴",
+    "url": "https://iphone-mania.jp/ios-605860/",
+    "pass": 3
+   },
+   {
+    "quote": "一見すると非常に便利な機能ですが、日本のユーザー環境においてはいくつかの機能制限や仕様上の注意点が存在します",
+    "url": "https://iphone-mania.jp/ios-605860/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で必須インフラとなっている「LINE」は、セキュリティ上",
+    "url": "https://iphone-mania.jp/ios-605860/",
+    "pass": 3
+   },
+   {
+    "quote": "日本での真価は「キャリアとアプリ側の歩み寄り」が鍵",
+    "url": "https://iphone-mania.jp/ios-605860/",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本のユーザーがその恩恵をフルに受けるためには、単なるOSの対応にとどまらず、「",
+    "url": "https://iphone-mania.jp/ios-605860/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、iPhone Handoff機能が日本の国内キャリアで使えるようになるかは、記事執筆時点ではわかっていない",
+    "url": "https://gadget.phileweb.com/post-132441/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも利用できるのか、正式発表を含めた今後の動きに注目したい",
+    "url": "https://gadget.phileweb.com/post-132441/",
+    "pass": 3
+   },
+   {
+    "quote": "「1つの電話番号」を「2台のiPhone」で使用可能に - CNET Japan",
+    "url": "https://japan.cnet.com/article/35252457/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to CNET Japan",
+    "url": "https://japan.cnet.com/article/35252457/",
+    "pass": 3
+   },
+   {
+    "quote": "発表された事業者の中に日本の通信事業者は含まれていない",
+    "url": "https://japan.cnet.com/article/35252457/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazonのアソシエイトとして、CNET Japanは適格販売により収入を得ています",
+    "url": "https://japan.cnet.com/article/35252457/",
+    "pass": 3
+   },
+   {
+    "quote": "を4Xが日本向けに編集したものです",
+    "url": "https://japan.cnet.com/article/35252457/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japanの記事を毎朝メールでまとめ読み（無料）",
+    "url": "https://japan.cnet.com/article/35252457/",
+    "pass": 3
+   },
+   {
+    "quote": "Apple、iPhone Duoを発表 - Apple (日本)",
+    "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
+    "pass": 3
+   },
+   {
+    "quote": "を含む70以上の国と地域では、10月16日（金）午後9時（日本時間）からiPhone Duoの予約注文を開始し、10月23日（金）から販売を開始します",
+    "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
+    "pass": 3
+   },
+   {
+    "quote": "Apple Intelligenceは、日本語、英語、デンマーク語、オランダ語、フランス語、ドイツ語、イタリア語、ノルウェー語、ポルトガル語、スペイン語、スウェーデン語、トルコ語、ベトナム語、中国語（簡体字）、中国語（繁体字）、韓国語に対応します",
+    "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
+    "pass": 3
+   },
+   {
+    "quote": "10月には日本語、フランス語、韓国語、ポルトガル語、スペイン語にも対応する予定です",
+    "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
+    "pass": 3
+   },
+   {
+    "quote": "iPhone商標は、アイホン株式会社のライセンスにもとづき使用されています",
+    "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
+    "pass": 3
+   },
+   {
+    "quote": "Apple Intelligenceは、Siriの設定とデバイスの言語を日本語、中国語（簡体字）、中国語（繁体字）、デンマーク語、オランダ語、英語、フランス語、ドイツ語、イタリア語、韓国語、ノルウェー語、ポルトガル語、スペイン語、スウェーデン語、トルコ語、またはベトナム語に設定した場合に利用できます",
+    "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
+    "pass": 3
+   },
+   {
+    "quote": "media_japan@apple.com",
+    "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社HANDOFF｜スピーダ スタートアップ情報リサーチ",
+    "url": "https://initial.inc/investors/V20407",
+    "pass": 3
+   },
+   {
+    "quote": "東京都江東区新木場1-3-13",
+    "url": "https://initial.inc/investors/V20407",
+    "pass": 3
+   },
+   {
+    "quote": "3. 「解釈を生成」ボタンで Claude API が日本語解釈をストリーミング表示する",
+    "url": "https://note.com/osprey74/n/n887181b57e82",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "iOS27の「iPhone Handoff 」の仕組みや料金、 日本 での実用性 ... — iOS27の「iPhone Handoff 」の仕組みや料金、 日本 での実用性 ... iPhone Mania https://iphone-mania.jp > ios-605860",
+    "url": "https://iphone-mania.jp/ios-605860/",
+    "pass": 3
+   },
+   {
+    "quote": "iOS 27に「iPhone Handoff 」が 導入 。1つの電話番号を2台で ... — iOS 27に「iPhone Handoff 」が 導入 。1つの電話番号を2台で ... Gadget Gate https://gadget.phileweb.com > post-132441",
+    "url": "https://gadget.phileweb.com/post-132441/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 HANDOFF - スピーダ スタートアップ情報リサーチ — 株式会社 HANDOFF - スピーダ スタートアップ情報リサーチ スピーダ スタートアップ情報リサーチ https://initial.inc > investors",
+    "url": "https://initial.inc/investors/V20407",
+    "pass": 3
+   },
+   {
+    "quote": "Modelo HANDOFF HUB｜案件の申し送り・チーム共有 - Notion — Modelo HANDOFF HUB｜案件の申し送り・チーム共有 - Notion Notion https://www.notion.com > templates > handoff-hub",
+    "url": "https://www.notion.com/pt/templates/handoff-hub",
+    "pass": 3
+   },
+   {
+    "quote": "5 Things to Consider in the Handoff from Onboarding to ... — 5 Things to Consider in the Handoff from Onboarding to ... Gainsight https://www.gainsight.com > blog > 5...",
+    "url": "https://www.gainsight.com/blog/5-things-to-consider-in-the-handoff-from-onboarding-to-customer-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Handoff - 2026 Company Profile, Funding & Investors | The ... — Oct 17, 2026 · Handoff is a Business Services company based in San Francisco (United States) founded in 2020, and was acquired by Izinga in January 2023. It operates as a sales, operations, and content marketing services are offered to clients.",
+    "url": "https://www.thecompanycheck.com/company/b/handoff/3s0goj6lph7utqo8a",
+    "pass": 3
+   },
+   {
+    "quote": "Handoff 2026 Company Profile: Valuation, Funding & Investors ...Handoff: Funding, Team & Investors | Startup IntrosHandoff — company profile, headcount and funding | InvenThe Handoff Company 2026 Profile: Valuation, Funding ...Handoff — Company Profile & Funding | Indexed.vcHandoff - 2025 Company Profile, Funding & Competitors - Tracxn — Information on valuation, funding, cap tables, investors, an",
+    "url": "https://pitchbook.com/profiles/company/279694-63",
+    "pass": 3
+   },
+   {
+    "quote": "Handoff: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · The venture-backed SaaS company has successfully raised over $25 million in total funding, including a $14 million round approximately four years ago, and currently maintains a team of 35 employees.",
+    "url": "https://startupintros.com/orgs/handoff",
+    "pass": 3
+   },
+   {
+    "quote": "Handoff — company profile, headcount and funding | Inven — Handoff AI operates primarily in the construction technology sector, serving a diverse range of trades and contractors. Employees 69 Founded 2019 Ownership corporate Est. revenue $10.2M",
+    "url": "https://www.inven.ai/data/companies/handoff-ai",
+    "pass": 3
+   },
+   {
+    "quote": "The Handoff Company 2026 Profile: Valuation, Funding ... — Jun 15, 2017 · Information on valuation, funding, cap tables, investors, and executives for The Handoff Company. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/186670-00",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Designing the 'Space' Between AIs — Handoff Formats and ... Jul 31, 2026 · These are the handoff and reporting templates that we actually use among our 19 AI employees. There are only 3 verbs to place in the space The first thing we decided was to narrow down what employees can do to three things. Notify ... Consult, share, or reply. Do not leave tasks for the other party. Request ... Hand over a ",
+    "url": "https://note.com/eve_noir_2026/n/nf69293245a1b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI Agents SDK 入門 (3) - Tool ・ Handoff ・ Tracing Mar 19, 2025 · 2. Handoff 2-1. Handoff 「Handoff」を使用すると、Agentが別のAgentにタスクを委任できます。 これは、異なるAgentがそれぞれ特定の分野を専門としている場合に特に有用です。",
+    "url": "https://note.com/npaka/n/nb83f80a0b023",
+    "pass": 3
+   },
+   {
+    "quote": "HANDOFFドキュメントを使い分ける：4 タイプの実例集とアンチパターン May 28, 2026 · HANDOFF 入門編の最小テンプレートでは足りない時が来る 前回の記事「HANDOFFドキュメントとは何か」 で、HANDOFF を書き始めるための最小テンプレート（6 要素）を紹介しました。 正直なところ、新規プロジェクトの初期はあれで十分です。",
+    "url": "https://note.com/osprey74/n/n887181b57e82",
+    "pass": 3
+   },
+   {
+    "quote": "Including Subcontracted Work in Your Portfolio: 3 Permissions ... Handoff Nov 8, 2026 21:19 For web creators who focus on subcontracting for production companies and feel they have few projects to show in their portfolio. Have you given up on everything, thinking, \"I can't post sites I made as a subcontractor\"? In this article, I will organize who you need to get permission from, and how to presen",
+    "url": "https://note.com/handoffjp/n/n61eebb9f25f1?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "OpenAI Agents SDK 入門 (3) - Tool ・ Handoff ・ Tracing｜npaka",
+    "url": "https://note.com/npaka/n/nb83f80a0b023",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAI Agents SDK 入門 (3) - Tool ・ Handoff ・ Tracing",
+    "url": "https://note.com/npaka/n/nb83f80a0b023",
+    "pass": 3
+   },
+   {
+    "quote": "「OpenAI Agents SDK」の「Tool」「Handoff」「Tracing」についてまとめました。",
+    "url": "https://note.com/npaka/n/nb83f80a0b023",
+    "pass": 3
+   },
+   {
+    "quote": "」は「Agent」にアクションを実行させるものです。データの取得、コード実行、外部API呼び出し、Computer useなどが含まれます。",
+    "url": "https://note.com/npaka/n/nb83f80a0b023",
+    "pass": 3
+   },
+   {
+    "quote": "「Agent SDK」には、次の3つの「Tool」のクラスがあります。",
+    "url": "https://note.com/npaka/n/nb83f80a0b023",
+    "pass": 3
+   },
+   {
+    "quote": "LLMサーバ上でAIモデルと一緒に実行されます。OpenAIは、検索機能、Web検索、「Computer use」を「Hosted tools」として提供しています。",
+    "url": "https://note.com/npaka/n/nb83f80a0b023",
+    "pass": 3
+   },
+   {
+    "quote": "任意のPython関数をToolとして利用できます。",
+    "url": "https://note.com/npaka/n/nb83f80a0b023",
+    "pass": 3
+   },
+   {
+    "quote": "AgentをToolとして活用でき、Agent同士が直接引き継ぐことなく他のAgentを呼び出すことが可能になります。",
+    "url": "https://note.com/npaka/n/nb83f80a0b023",
+    "pass": 3
+   },
+   {
+    "quote": "HANDOFFドキュメントを使い分ける：4 タイプの実例集とアンチパターン｜鶚/みさご🥓🥞",
+    "url": "https://note.com/osprey74/n/n887181b57e82",
+    "pass": 3
+   },
+   {
+    "quote": "HANDOFFドキュメントを使い分ける：4 タイプの実例集とアンチパターン",
+    "url": "https://note.com/osprey74/n/n887181b57e82",
+    "pass": 3
+   },
+   {
+    "quote": "HANDOFF は「1 種類」ではなく、プロジェクトの状態によって 4 つに使い分けるべきと分かる",
+    "url": "https://note.com/osprey74/n/n887181b57e82",
+    "pass": 3
+   },
+   {
+    "quote": "4 つのタイプ（プロジェクト全体 / 機能単位 / 新機能追加 / バックエンド）の",
+    "url": "https://note.com/osprey74/n/n887181b57e82",
+    "pass": 3
+   },
+   {
+    "quote": "実物を見ながら、何をどう書くか具体的にわかる",
+    "url": "https://note.com/osprey74/n/n887181b57e82",
+    "pass": 3
+   },
+   {
+    "quote": "HANDOFF を成長させる運用と、よくあるアンチパターンが学べる",
+    "url": "https://note.com/osprey74/n/n887181b57e82",
+    "pass": 3
+   },
+   {
+    "quote": "HANDOFF 入門編の最小テンプレートでは足りない時が来る",
+    "url": "https://note.com/osprey74/n/n887181b57e82",
+    "pass": 3
+   },
+   {
+    "quote": "前回の記事「HANDOFFドキュメントとは何か」",
+    "url": "https://note.com/osprey74/n/n887181b57e82",
+    "pass": 3
+   },
+   {
+    "quote": "Including Subcontracted Work in Your Portfolio: 3 Permissions and 4 Levels of Presentation｜Handoff",
+    "url": "https://note.com/handoffjp/n/n61eebb9f25f1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Including Subcontracted Work in Your Portfolio: 3 Permissions and 4 Levels of Presentation",
+    "url": "https://note.com/handoffjp/n/n61eebb9f25f1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For web creators who focus on subcontracting for production companies and feel they have few projects to show in their portfolio.",
+    "url": "https://note.com/handoffjp/n/n61eebb9f25f1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Have you given up on everything, thinking, \"I can't post sites I made as a subcontractor\"?",
+    "url": "https://note.com/handoffjp/n/n61eebb9f25f1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will organize who you need to get permission from, and how to present work when you cannot disclose the company name, in the order they are used in the field.",
+    "url": "https://note.com/handoffjp/n/n61eebb9f25f1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Re-evaluating \"Cannot Post\" by Dividing It into 4 Levels",
+    "url": "https://note.com/handoffjp/n/n61eebb9f25f1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The reason much subcontracted work doesn't become a portfolio piece is not because there is little work, but because the content of \"cannot post\" has not been categorized. If you divide how you present work into 4 levels, even work where you cannot disclose the company name can sometimes be discussed as a track record at some level.",
+    "url": "https://note.com/handoffjp/n/n61eebb9f25f1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(Level / What to disclose / What not to disclose / Suitable situation)",
+    "url": "https://note.com/handoffjp/n/n61eebb9f25f1?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Handoff - AI Estimates for Remodelers (@HandoffAI) / Posts / X Handoff - AI Estimates for Remodelers (@HandoffAI) - Posts - 👷 Built for Contractors: AI Estimates, Invoicing & CRM 💼 Trusted by 10K+ Remodelers & Contractor... | X (formerly Twitter)",
+    "url": "https://x.com/HandoffAI",
+    "pass": 3
+   },
+   {
+    "quote": "Handoff (@handoffhq) / Posts / X Open-source tool and Figma plugin for exporting design tokens from any design system. By @convertiv. Download FREE Figma Plugin → handoff.com",
+    "url": "https://x.com/handoffhq",
+    "pass": 3
+   },
+   {
+    "quote": "Handoff (@handofftech) / Posts / X Easily order this hard kombucha, designed to celebrate a day well-lived, directly from Luna Bay's Website. Click the Handoff Plugin in the bottom right corner of the website, place an order, and your boozy booch will be en route ️ 💬 1",
+    "url": "https://x.com/handofftech",
+    "pass": 3
+   },
+   {
+    "quote": "handoff (@handoffcloud) / Posts / X handoff (@handoffcloud) - Posts - Bring any data to where decisions take place without hiring a data engineer. #ServerlessELT by @A... | X (formerly Twitter)",
+    "url": "https://x.com/handoffcloud",
+    "pass": 3
+   },
+   {
+    "quote": "Handoff (@Handoffcrypto) / X we opened handoff to a few people to get their feedback. this is the first trade: $10 paid on revolut, 0.0037 ETH released from escrow in one transaction, 8 minutes start to finish. a lot more to come. launching soon.",
+    "url": "https://x.com/Handoffcrypto",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Handoff - LinkedIn Handoff is a new mobile & web app for the $500 billion market of remodeling contractors in the US. We use generative AI technology to provide Remodelers a fast, accurate, and intuitive way to ...",
+    "url": "https://www.linkedin.com/company/handoff-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Handoff - LinkedIn So we built Handoff to address that gap: a way to make the knowledge behind a system accessible and reusable by the people and AI doing the work.",
+    "url": "https://www.linkedin.com/company/handoff-hq",
+    "pass": 3
+   },
+   {
+    "quote": "Shifra Goldmeier, PMP - Operations & Systems Consultant ...AI Engineer na empresa Handoff — São Paulo, SP | LinkedIn JobsHandoff - LinkedInAnthony Gonzalez - Founder @ Handoff | LATAM Recruiting ...Subcontractor Portal: Every Bid and Every Sub in One Place Operations & Systems Consultant | I help growing businesses replace chaos with connected systems that work | Process · Automation · Handoff | P",
+    "url": "https://il.linkedin.com/in/shifra-g",
+    "pass": 3
+   },
+   {
+    "quote": "AI Engineer na empresa Handoff — São Paulo, SP | LinkedIn Jobs 23 hours ago · Candidate-se à vaga de AI Engineer da empresa Handoff em São Paulo, SP. Tempo integral Não aplicável da vaga. Veja as responsabilidades, qualificações e vagas semelhantes no LinkedIn.",
+    "url": "https://br.linkedin.com/jobs/view/ai-engineer-at-handoff-4489627371",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Handoff - AI Assistant for Construction | Austin TX - FacebookOne contractor estimated a project over the phone within an ...HomeHandoff - FacebookManual estimating only feels safer because it’s what you’re ...Using Handoff With Apple Devices - FacebookHandoff Setup for Iphone and Ipad - FacebookUsing Handoff Between iPhone and Mac - Facebook Oct 23, 2026 · Could you explain your favorite Handoff ",
+    "url": "https://www.facebook.com/handoffai/",
+    "pass": 3
+   },
+   {
+    "quote": "HomeHandoff - Facebook Oct 14, 2026 · Build the Home Handbook baseline yourself instead of hoping they'll fill it in. 2️⃣Move all personal property negotiations into the Handoff Marketplace. Refuse to negotiate those items over text or email so you have one itemized bill of sale before closing. 3️⃣As soon as the buyer is firm, unlock utilities for them through HomeHandoff.",
+    "url": "https://www.facebook.com/thehomehandoff/",
+    "pass": 3
+   },
+   {
+    "quote": "Using Handoff With Apple Devices - Facebook Handoff lets you start a task on one Apple device and pick it up on another instantly. It works with iPhone, Mac, iPad, and Apple Watch for apps like...",
+    "url": "https://www.facebook.com/fb-answers/using-handoff-with-apple-devices/",
+    "pass": 3
+   },
+   {
+    "quote": "Handoff Setup for Iphone and Ipad - Facebook For iPhone and iPad, Handoff lets you start a task on one device and finish it on the other using the same Apple ID. The new iOS 27 iPhone Handoff also...",
+    "url": "https://www.facebook.com/fb-answers/handoff-setup-for-iphone-and-ipad/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.handoff.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/ai-teammate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/instant-ai-estimates",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/crm-pipeline-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/project-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/winning-ai-proposals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/builders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/remodelers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/handyman",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.handoff.ai/official-information-about-handoff",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://iphone-mania.jp/ios-605860/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gadget.phileweb.com/post-132441/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/article/35252457/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/investors/V20407",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pendo.io/ja-jp/news/pendo-announces-its-first-partnership-with-macnica-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.notion.com/pt/templates/handoff-hub",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hardoff.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebay.com/str/hardoffjapan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/JapanTravelTips/comments/1f75hvd/hard_off_secondhand_goods_shop_treasure_hunt/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hardoff.info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gainsight.com/blog/5-things-to-consider-in-the-handoff-from-onboarding-to-customer-success/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/handoff/3s0goj6lph7utqo8a",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/279694-63",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/handoff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inven.ai/data/companies/handoff-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/eve_noir_2026/n/nf69293245a1b?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/npaka/n/nb83f80a0b023",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/osprey74/n/n887181b57e82",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/handoffjp/n/n61eebb9f25f1?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HandoffAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/handoffhq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/handofftech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/handoffcloud",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/handoff-ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/handoff-hq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/shifra-g",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/jobs/view/ai-engineer-at-handoff-4489627371",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/handoffai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thehomehandoff/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/using-handoff-with-apple-devices/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/handoff-setup-for-iphone-and-ipad/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Handoffcrypto",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Handoff 日本 導入",
+   "results": [
+    "https://iphone-mania.jp/ios-605860/",
+    "https://gadget.phileweb.com/post-132441/",
+    "https://japan.cnet.com/article/35252457/",
+    "https://www.apple.com/jp/newsroom/2026/09/apple-unveils-iphone-duo/",
+    "https://macfan.book.mynavi.jp/business/article/114419/",
+    "https://news.infoseek.co.jp/article/gigamen_141643/",
+    "https://www.itmedia.co.jp/mobile/articles/1411/27/news165.html",
+    "https://www.reddit.com/r/appletv/comments/1cvf5wd/whatever_happened_to_airplay_handoff/?tl=ja",
+    "https://forbesjapan.com/articles/detail/99484",
+    "https://snapgadget.jp/ios27-iphone-handoff-japan-carriers/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Handoff 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://initial.inc/investors/V20407",
+    "https://www.pendo.io/news/pendo-announces-its-first-partnership-with-macnica-in-japan/",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.notion.com/pt/templates/handoff-hub",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.inhand.com/ja/become-a-partner",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://gmo-app.jp/partner/",
+    "https://creative-drive.jp/glossary/sales-handoff/",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Handoff Japan",
+   "results": [
+    "https://www.hardoff.co.jp/",
+    "https://www.ebay.com/str/hardoffjapan",
+    "https://www.reddit.com/r/JapanTravelTips/comments/1f75hvd/hard_off_secondhand_goods_shop_treasure_hunt/",
+    "https://www.hardoff.info/",
+    "https://tokyocheapo.com/shopping-2/hard-off-affordable-electronics-instruments-and-recycled-junk/",
+    "https://www.instagram.com/popular/hard-off-japan-store/",
+    "https://maps.apple.com/place?place-id=IF23993C30852BC8A",
+    "https://www.planmyjapan.com/japan-second-hand-off-stores/",
+    "https://www.hardoff.co.jp/shop/",
+    "https://netmall.hardoff.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Handoff manufacturing customer case study",
+   "results": [
+    "https://www.gainsight.com/blog/5-things-to-consider-in-the-handoff-from-onboarding-to-customer-success/",
+    "https://www.fabrico.io/blog/shift-handover-checklist/",
+    "https://eptura.com/discover-more/blog/how-multi-shift-manufacturing-facilities-can-maintain-continuity/",
+    "https://www.teamsense.com/blog/shift-handover-breakdowns-hurt-manufacturing-output",
+    "https://www.onshape.com/en/blog/ai-mbd-manufacturing-production-handoff",
+    "https://cognitops.com/case-study-shift-handoff/",
+    "https://kalypso.com/viewpoints/entry/orchestrating-the-engineering-to-manufacturing-handoff",
+    "https://fabriq.tech/en/2026/06/09/shift-handover-best-practices/",
+    "https://www.heresafe.com/enhancing-operational-efficiency-in-manufacturing-a-shift-handover-use-case/",
+    "https://www.casestudies.com/customer/handoff"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Handoff white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.extremenetworks.com/partners",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Handoff founded funding employees revenue",
+   "results": [
+    "https://www.thecompanycheck.com/company/b/handoff/3s0goj6lph7utqo8a",
+    "https://pitchbook.com/profiles/company/279694-63",
+    "https://startupintros.com/orgs/handoff",
+    "https://www.inven.ai/data/companies/handoff-ai",
+    "https://pitchbook.com/profiles/company/186670-00",
+    "https://indexed.vc/companies/handoff-ai",
+    "https://tracxn.com/d/companies/handoff/__r8tKRHijz4gRsyTLd8tcmpV6a8HvLVpclsBmZfSLhKI"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Handoff",
+   "results": [
+    "https://note.com/eve_noir_2026/n/nf69293245a1b?hl=en",
+    "https://note.com/npaka/n/nb83f80a0b023",
+    "https://note.com/osprey74/n/n887181b57e82",
+    "https://note.com/handoffjp/n/n61eebb9f25f1?hl=en",
+    "https://note.com/shiny_daisy2734/n/n00013612ce7c?hl=en",
+    "https://note.com/postkuma0/n/n3a4fb22ffb73?hl=en",
+    "https://note.com/ai_tool_media/n/n82cf2e269c57"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Handoff",
+   "results": [
+    "https://x.com/HandoffAI",
+    "https://x.com/handoffhq",
+    "https://x.com/handofftech",
+    "https://x.com/handoffcloud",
+    "https://x.com/Handoffbags/status/2118376927840923959",
+    "https://x.com/mattpocockuk/status/2052489881088049407",
+    "https://x.com/Handoff00/status/2119503307412500724"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Handoff",
+   "results": [
+    "https://www.linkedin.com/company/handoff-ai/",
+    "https://www.linkedin.com/company/handoff-hq",
+    "https://il.linkedin.com/in/shifra-g",
+    "https://br.linkedin.com/jobs/view/ai-engineer-at-handoff-4489627371",
+    "https://www.linkedin.com/company/yourhandoff",
+    "https://www.linkedin.com/in/scalewithtony",
+    "https://www.linkedin.com/pulse/subcontractor-portal-every-bid-sub-one-place-handoff-ai-6ur1e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Handoff",
+   "results": [
+    "https://www.facebook.com/handoffai/",
+    "https://www.facebook.com/thehomehandoff/",
+    "https://www.facebook.com/fb-answers/using-handoff-with-apple-devices/",
+    "https://www.facebook.com/fb-answers/handoff-setup-for-iphone-and-ipad/",
+    "https://www.facebook.com/fb-answers/using-handoff-between-iphone-and-mac/",
+    "https://www.facebook.com/handoffai/videos/the-easiest-construction-tool-youll-use/1395067569259984/",
+    "https://www.facebook.com/handoffai/videos/manual-estimating-only-feels-safer-because-its-what-youre-used-tobut-when-the-sa/2140715883208226/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Handoff note 社長",
+   "results": [
+    "https://webstudio.gcxxblog.com/free-tools/articles/handoff-note-guide/",
+    "https://woman.nikkei.com/atcl/doors/cc/wom/100200005/012100013/",
+    "https://businesswritingblog.com/business-writing/how-to-write-a-professional-handover-note/",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://kantan-ai.jp/handover-guide/",
+    "https://note.com/taichan_333/n/nf417ecdfdeb6?hl=en",
+    "https://www.stock-app.info/media/handover-document-templates/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Handoff X 投稿",
+   "results": [
+    "https://x.com/Handoffcrypto",
+    "https://hdknr.github.io/blogs/posts/2026/06/claude-code-handoff-codex-parallel/",
+    "https://github.com/rozwer/x-collector/blob/main/HANDOFF.md",
+    "https://www.bilibili.com/video/BV1JcWg6dEGX/",
+    "https://www.handoff.ai/",
+    "https://github.com/mmat16890620-bit/x-handoff",
+    "https://x.com/grok/status/2100178104123535413"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部41頁・検索12回）"
+ }
+}

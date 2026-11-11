@@ -1,0 +1,822 @@
+{
+ "name": "Odysaviation",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T23:44:23.588685+00:00",
+ "official_url": "https://www.odysaviation.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Los Angeles, CA, USA",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The U.S. Department of Defense has openly identified gaps in UAV availability, affordability, and scalability. Modern airspace security demands a solution that moves the engagement zone to the horizon. Odys provides the only platform that combines long-range flight, runway-independent operations, and counter-UAS defeat options at an accessible price point.",
+    "url": "https://www.odysaviation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Odys Aviation and ST Engineering Sign MOU to Advance Hybrid-Electric Propulsion for the DrN-600 Medium-Lift Cargo UAS",
+    "url": "https://www.odysaviation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sumit has more than 10 years of experience as a professional journalist. Having written for The Independent, Evening Standard, and others, his role here allows him to explore his enthusiasm for aviation and travel. Having built strong relationships with United Airlines, Singapore Airlines, Iberia, Icelandair, and more. Sumit excels in both travel history and market analysis. Based in London, UK.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "Here is a fact-based summary of the story contents:",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": ". With these prospects in mind, Simple Flying recently caught up with the firm's CEO and co-founder, James Dorris, to learn more about the overall program.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "is being designed to transport nine passengers at a maximum speed of 345 mph (555 km/h) and a range of 1,000 mi (1,609 km). So, this experience will undoubtedly prove to be valuable.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "Our 1,000-mile range hybrid-electric vertical takeoff and landing (VTOL) aircraft connects city helipads and local airports, picking passengers up much closer to where they start and taking them much closer to their actual destination. No more dealing with congested airports for these short trips.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "SS: How do you stand out compared to other VTOL programs?",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "JD: Odys is different from most other VTOL programs in three main ways: First, we focus on much longer routes where air travel demand already exists, and the passenger experience isn’t great. Second, we use a hybrid-electric propulsion system that uses zero-CO2 on routes less than 200 miles and reduces CO2 by 76% vs. regional jets on an LA to SF type route.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "Finally, the way we take off vertically is different. We don’t tilt wings or rotors and instead use a high-lift flap system to vector thrust. This approach uses mechanisms that regulators are already comfortable with and results in high cruise efficiency once the flaps stow.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "SS: How will projects such as yours shape the airport experience over the next decade?",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimately, Odys is building a future where travelers fly point-to-point regional routes, city-center to city-center, skipping major airport hubs and cutting travel time in half. Imagine flying from the existing Manhattan 34th St helipad directly to a vertiport in downtown Washington DC - a truly hassle-free experience at economy plus prices.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "JD: Last month I flew from London to Amsterdam. It was 42 minutes wheels up to wheels down and 4 hours door-to-door, and that was using London City Airport. By connecting city centers via helipads and future vertiports, we can easily cut door-to-door travel time in half on these busy routes.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "JD: Continuing with the London to Amsterdam example, that’s approximately 230 miles, including departure and approach patterns. Our aircraft would reduce the CO2 on that flight by 91% relative to the regional jet that I flew. As battery technology improves, our electric range will increase from 200 miles at launch to 265 miles by 2030, and this same flight becomes zero-CO2.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "SS: What is the prime focus for the second half of the year?",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "SS: Is there anything else you’d like to highlight about the program?",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "Boeing To Cut 2,500 Commercial Airplane Jobs As Production Ramp-Up Slows",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "By subscribing, you agree to receive newsletter and marketing emails, and accept our",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock Personalized Content & Exclusive Features",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "and key insiders. The capital will be used to accelerate U.S. full-scale aircraft flight testing of its Laila aircraft and to expand the team as the company prepares for its first international global launch operations in Q1 2026.",
+    "url": "https://www.latimes.com/b2b/banking-finance/story/2025-10-20/odys-aviation-raises-26m-series-a-round",
+    "pass": 3
+   },
+   {
+    "quote": ", chief executive of Odys Aviation, in a statement. “We’ve already proven the technology and performance potential of hybrid-electric VTOL. Now, our focus shifts to scaling operations, bringing together the right people, systems and partners to demonstrate what a full AAM ecosystem looks like in practice, not theory.”",
+    "url": "https://www.latimes.com/b2b/banking-finance/story/2025-10-20/odys-aviation-raises-26m-series-a-round",
+    "pass": 3
+   },
+   {
+    "quote": "Building on major technical milestones achieved over the past two years, Odys is entering the next phase of execution, proving that advanced air mobility is not just about aircraft in isolation but about building the operational ecosystem that will connect regions, economies and ultimately communities in entirely new ways.",
+    "url": "https://www.latimes.com/b2b/banking-finance/story/2025-10-20/odys-aviation-raises-26m-series-a-round",
+    "pass": 3
+   },
+   {
+    "quote": "such as personalizing your experience and ads.",
+    "url": "https://www.latimes.com/b2b/banking-finance/story/2025-10-20/odys-aviation-raises-26m-series-a-round",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "Aaron Rankin (Sprout Social)",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "Practical Venture Capital",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid-Electric Propulsion:",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "Over $9 billion in Letters of Intent and pre-orders, signaling strong market demand and customer confidence[1].",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "Completed sub-scale and full-scale prototype flights with ongoing U.S. flight test campaigns validating performance and autonomy systems[1][5][6].",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "sustainable hybrid-electric propulsion",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "in defense and logistics. The timing is critical as global events increase the urgency for sovereign airpower, autonomous systems, and rapid deployment capabilities, while commercial airlines seek to reduce travel times and carbon footprints[3][6].",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Patient and emergency medical transportation options are opened up significantly thanks to our VTOL capabilities, allowing operators to expand their ability to support underserved populations. Operating a smaller aircraft allows logistics, commercial and NGO operations across the remote regions.",
+    "url": "https://www.odysaviation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Odys Aviation Joins Honeywell Aerospace In EU Initiative For Safely Integrating eVTOLs And Cargo Drones Into European Airspace",
+    "url": "https://www.odysaviation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Honeywell Aerospace and Odys Aviation Create Airborne Counter-UAS Defense Solution",
+    "url": "https://www.odysaviation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace, Defense and Space Tech",
+    "url": "https://www.latimes.com/b2b/banking-finance/story/2025-10-20/odys-aviation-raises-26m-series-a-round",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation is a cutting-edge aerospace company developing",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "Their influence is likely to grow as they demonstrate operational viability and cost-effectiveness, potentially redefining regional air travel and logistics. By building not just aircraft but also the supporting infrastructure and autonomy frameworks, Odys aims to lead the next generation of aerospace innovation, reclaiming leadership in sustainable, versatile VTOL technology[5][7].",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "evtol.news/craft-aerospace-unnamed-evtol",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ハイブリッドVTOL開発のOdys Aviation、シリーズAで2600万ドル調達 ｜アドバンスドテクノロジーX株式会社",
+    "url": "https://www.atx-research.co.jp/contents/Odys-Aviation-Secures-Series-A-Funding-to-Accelerate-Full-Scale-Flight-Testing-and-Global-Operational-Launches",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンスドテクノロジーX株式会社 代表取締役",
+    "url": "https://www.atx-research.co.jp/contents/Odys-Aviation-Secures-Series-A-Funding-to-Accelerate-Full-Scale-Flight-Testing-and-Global-Operational-Launches",
+    "pass": 3
+   },
+   {
+    "quote": ", including intra-California, the Northeast US corridor, intra-Europe, South Korea, and Japan, much more efficient. This means using zero CO2 and cutting the door-to-door travel time in half.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimately, Odys is building a future where travelers fly point-to-point regional routes, city-center to city-center, skipping major airport hubs and cutting travel time in half. Imagine flying from the existing Manhattan 34th St helipad directly to a vertiport in downtown Washington DC - a truly hassle-free experience at economy plus prices.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "JD: Last month I flew from London to Amsterdam. It was 42 minutes wheels up to wheels down and 4 hours door-to-door, and that was using London City Airport. By connecting city centers via helipads and future vertiports, we can easily cut door-to-door travel time in half on these busy routes.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation Revenue 2024: $4.4M Est.",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation revenue",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation has not published its revenue. GetLatka estimates it at about $4.4M a year (December 2024).",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation CEO, founders & employees",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "James Dorris founded Odys Aviation in 2019 and runs it as CEO. Odys Aviation had 29 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Odys Aviation's revenue?",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Odys Aviation's revenue at about",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Odys Aviation have?",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ハイブリッドVTOL開発のOdys Aviation、シリーズAで2600万ドル調達 — Oct 17, 2025 · 機体制御には、ティルトローター方式に代わる独自の“flap-based thrust vectoring（フラップ駆動推力制御）”を導入。 翼面フラップの角度を変えて推力方向を調整する仕組みで、構造の簡素化と軽量化を実現した。",
+    "url": "https://www.atx-research.co.jp/contents/Odys-Aviation-Secures-Series-A-Funding-to-Accelerate-Full-Scale-Flight-Testing-and-Global-Operational-Launches",
+    "pass": 3
+   },
+   {
+    "quote": "Mobilizing Power | Odys | About — Meet the Odys Aviation leadership team building the next generation of hybrid-electric VTOL aircraft. Learn about our mission to revolutionize regional air travel.",
+    "url": "https://www.odysaviation.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviationの資金調達・投資家情報 | 海外スタートアップ | FIRST ... — Y Combinatorのポートフォリオに掲載される海外スタートアップOdys Aviationの企業プロフィール。Odys Aviation（旧称：Craft Aerospace）は、2019年に設立された米国カリフォルニア州ロングビーチに本社を置く次世代航空機開発企業である。民間航空、航空物流、防衛分野の課題...",
+    "url": "https://www.firstcvc.jp/global/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation Employee Directory, Headcount & Staff | LeadIQ — Browse Odys Aviation's employee directory of 53 employees. Find verified email addresses and direct contact information with LeadIQ.",
+    "url": "https://leadiq.com/c/odys-aviation/5fb52fef4133a8a89a786db4/employee-directory",
+    "pass": 3
+   },
+   {
+    "quote": "In Conversation: Skipping The Airport With James Dorris - CEO ... — Jul 30, 2022 · James Dorris: Odys Aviation is focused on making the world’s busiest travel corridors, including intra-California, the Northeast US corridor, intra-Europe, South Korea, and Japan, much more efficient. This means using zero CO2 and cutting the door-to-door travel time in half.",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   },
+   {
+    "quote": "ハイブリッドVTOL開発のOdys Aviation、シリーズAで2600万ドル調達 — Oct 17, 2025 · 同社は、ハイブリッド推進と独自のフラップ推力制御技術を組み合わせ、長距離飛行と安全性を両立させる次世代VTOLを開発。 米国でのフルスケール試験と2026年の国際実証運航を通じ、認証取得や標準化を推進する。 政府・航空会社との連携により運用体制を整備し、空のモビリティ実装の実現を目指している。 同社は、電動モーターと内燃エンジンを組み合わせたハイブリッド推進システムを採用し、電動機のみでは限界となる航続距離と積載性能を補っている。 これにより数百マイル級の中距離飛行が可能となり、発電と推進を分離した効率的な設計で信頼性を高め、物流・防衛・旅客輸送など幅広い用途に対応することを目指している。",
+    "url": "https://www.atx-research.co.jp/contents/Odys-Aviation-Secures-Series-A-Funding-to-Accelerate-Full-Scale-Flight-Testing-and-Global-Operational-Launches",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation | LinkedIn — Odys Aviation designs, develops and manufactures sustainable, technologically advanced VTOL aircraft that solve global challenges for commercial airlines and private operators.",
+    "url": "https://jp.linkedin.com/company/odys-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "202 Odoo Case Studies, Success Stories, & Customer StoriesOdys Aviation Raises $26M Series A for Hybrid-Electric ...Odys Aviation: Vertical takeoff and landing aircraft for ...Startup Spotlight: Odys Aviation — Discover how other companies use Odoo, get inspired, and find ways to improve your business. Oct 20, 2025 · “Odys is positioned to meet strong customer demand for longer-range, high-efficie",
+    "url": "https://www.featuredcustomers.com/vendor/odoo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation Raises $26M Series A for Hybrid-Electric ... — Oct 20, 2025 · “Odys is positioned to meet strong customer demand for longer-range, high-efficiency regional mobility,” said Justin Hamilton, managing director of Nova Threshold. “Their innovative aircraft...",
+    "url": "https://www.latimes.com/b2b/banking-finance/story/2025-10-20/odys-aviation-raises-26m-series-a-round",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation + Nominal: From SD Cards to Real-Time Flight ... — May 7, 2026 · Odys Aviation is building an aircraft around an architecture that doesn't exist anywhere else, scalable from UAV logistics to crewed regional passenger travel and designed for an endless range of missions.",
+    "url": "https://nominal.io/blog/odys-aviation-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation Revenue 2024: $4.4M Est. - getlatka.com — Sep 2, 2026 · Who is the CEO of Odys Aviation? James Dorris is the CEO of Odys Aviation and founded the company in 2019.",
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation - 2026 Company Profile, Team, Funding ... - Tracxn — Feb 16, 2026 · Odys Aviation is a series A company based in Long Beach (United States), founded in 2019 by James Dorris and Axel Radermacher. It operates as a Designer and manufacturer of a VTOL aircraft. Odys Aviation has raised $38.5M in funding from investors like Y Combinator, Soma Capital and Giant Ventures.",
+    "url": "https://tracxn.com/d/companies/odysaviation/__avrS8wiYqpHHUC6-OeaGRpUmJ-HACuAC5Hmguc07iVk",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation 2026 Company Profile: Valuation, Funding ...Odys Aviation - Overview, News & Similar companies - ZoomInfoOdys Aviation: Funding, Team & Investors | Startup IntrosAnnual Revenue, Growth & Competitor Analysis Report for Odys ...Odys Aviation: Funding, Investors & Team (Oct 2026) - FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Odys Aviation. Use",
+    "url": "https://pitchbook.com/profiles/company/454617-64",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2019 by CEO James Dorris, Odys Aviation (formerly Craft Aerospace) emerged from stealth mode after completing Y Combinator in 2021 and raising $12.4 million in seed funding.",
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "By subscribing, you agree to receive newsletter and marketing emails, and accept our",
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Odys Aviation on X: \"Laila is complete! This is the pre ... Laila is complete! This is the pre-production prototype that will undergo flight testing in the United States. Laila was built at our facility in Long Beach, California, and following US flight testing, it will travel to Oman for our Operational Launch Program (OLP).",
+    "url": "https://x.com/OdysAviation/status/1990836751360012317",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation (@OdysAviation) / X Odys builds vertical takeoff & landing aircraft for major airlines. We cut travel time in half on the busiest routes by using city helipads and local airports.",
+    "url": "https://x.com/OdysAviation",
+    "pass": 3
+   },
+   {
+    "quote": "\"#OdysAviation\" - Results on X | Live Posts & Updates Honeywell Aerospace and Odys Aviation integrate SAMURAI with Laila UAV for persistent airborne counter-UAS defense. The hybrid UAV flies 8 hours, covering 450 miles to protect critical infrastructure.",
+    "url": "https://x.com/hashtag/OdysAviation",
+    "pass": 3
+   },
+   {
+    "quote": "Zero. That’s how many feet of runway Laila or Alta will need ... Odys Aviation (@OdysAviation). 7 likes 120 views. Zero. That’s how many feet of runway Laila or Alta will need to take off. It’s also the number of tilt rotors used on either aircraft. Our aircraft utilize flap-based thrust vectoring to direct thrust downward and provide vertical lift. Find out more: https://t.co/TDp98Qr2DU",
+    "url": "https://x.com/OdysAviation/status/2011498752851476946",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Odys Aviation - LinkedIn Odys Aviation designs, develops and manufactures sustainable, technologically advanced VTOL aircraft that solve global challenges for commercial airlines and private operators.",
+    "url": "https://www.linkedin.com/company/odys-aviation",
+    "pass": 3
+   },
+   {
+    "quote": "James Dorris - Co-Founder, CEO at Odys Aviation (YC S21 ...Jonathan Stephens – Head of Airworthiness & Certification ...#aam #hybridaviation #vtol #advancedairmobility # ... - LinkedIn#odysaviation #fijiairways #sustainableaviation #hybridvtol # ...#odysaviation #internspotlight #softwareengineering # ...Odys Aviation Secures Series A Funding to Accelerate Full ... Feb 18, 2009 · Odys Aviation bui",
+    "url": "https://www.linkedin.com/in/jdorris3",
+    "pass": 3
+   },
+   {
+    "quote": "Jonathan Stephens – Head of Airworthiness & Certification ...#aam #hybridaviation #vtol #advancedairmobility # ... - LinkedIn#odysaviation #fijiairways #sustainableaviation #hybridvtol # ...#odysaviation #internspotlight #softwareengineering # ...Odys Aviation Secures Series A Funding to Accelerate Full ... As Head of Airworthiness and Certification at Odys Aviation, I lead the certification and q",
+    "url": "https://de.linkedin.com/in/jonathan-stephens-airworthiness",
+    "pass": 3
+   },
+   {
+    "quote": "#aam #hybridaviation #vtol #advancedairmobility # ... - LinkedIn#odysaviation #fijiairways #sustainableaviation #hybridvtol # ...#odysaviation #internspotlight #softwareengineering # ...Odys Aviation Secures Series A Funding to Accelerate Full ... The Odys Aviation team has been heads down throughout 2024. A couple of weeks ago, at Mojave Airport in California, we achieved transition of our sub-sc",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7262169710484430848/",
+    "pass": 3
+   },
+   {
+    "quote": "James Dorris - Co-Founder, CEO at Odys Aviation (YC S21 ...James Dorris | CEO at Odys Aviation | F6S Member ProfilePowering What Matters Most | OdysOdys On Track For Deliveries By Year-End, CEO SaysJames Dorris - DARTIn Conversation: Skipping The Airport With James Dorris - CEO ... Feb 18, 2009 · Co-Founder, CEO at Odys Aviation (YC S21) · Deeply passionate about solving the most difficult pain po",
+    "url": "https://www.linkedin.com/in/jdorris3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Odyssey Aviation US - FacebookOdys Aviation - FacebookStart-up of the Week: @Odys Aviation and UAE’s ... - FacebookIt's always about the people - ODYS Aviation CEO ... - FacebookFacebookWe're thrilled to share the news that Odys Aviation, founded ...Daniel Turn - Facebook Mar 6, 2022 · Odyssey Aviation US. 1,535 followers. We are Fixed Base Operations with two locations. One in Kissimmee, Florida ",
+    "url": "https://www.facebook.com/OdysseyAviationUS/",
+    "pass": 3
+   },
+   {
+    "quote": "Odys Aviation - Facebook Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/Odys-Aviation-109027885123116/",
+    "pass": 3
+   },
+   {
+    "quote": "It's always about the people - ODYS Aviation CEO ... - FacebookFacebookWe're thrilled to share the news that Odys Aviation, founded ...Daniel Turn - Facebook Dec 3, 2025 · We're also very judicious about how and when and where we take risk throughout our program. Risk is what lets us take bigger steps and go faster. Now, it's about engineers doing the hard engineering work and our team is second t",
+    "url": "https://www.facebook.com/WestGhostLLC/videos/its-always-about-the-people-odys-aviation-ceo-james-dorris-explains-the-next-ste/614747348361304/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.odysaviation.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.atx-research.co.jp/contents/Odys-Aviation-Secures-Series-A-Funding-to-Accelerate-Full-Scale-Flight-Testing-and-Global-Operational-Launches",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/odysaviation.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atx-research.co.jp/contents/Odys-Aviation-Secures-Series-A-Funding-to-Accelerate-Full-Scale-Flight-Testing-and-Global-Operational-Launches",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/odoo/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.latimes.com/b2b/banking-finance/story/2025-10-20/odys-aviation-raises-26m-series-a-round",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.namesilo.com/reseller",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/odysaviation.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/odysaviation/__avrS8wiYqpHHUC6-OeaGRpUmJ-HACuAC5Hmguc07iVk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/454617-64",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/odys-aviation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OdysAviation/status/1990836751360012317",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OdysAviation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/OdysAviation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OdysAviation/status/2011498752851476946",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/odys-aviation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jdorris3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/jonathan-stephens-airworthiness",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7262169710484430848/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OdysseyAviationUS/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Odys-Aviation-109027885123116/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WestGhostLLC/videos/its-always-about-the-people-odys-aviation-ceo-james-dorris-explains-the-next-ste/614747348361304/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jdorris3",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Odysaviation 日本 導入",
+   "results": [
+    "https://www.odysaviation.com/",
+    "https://www.atx-research.co.jp/contents/Odys-Aviation-Secures-Series-A-Funding-to-Accelerate-Full-Scale-Flight-Testing-and-Global-Operational-Launches",
+    "https://www.odysaviation.com/about",
+    "https://www.firstcvc.jp/global/odysaviation.com",
+    "https://press.jal.co.jp/ja/release/202610/009760.html",
+    "https://www.aviationwire.jp/archives/353053",
+    "https://news.yahoo.co.jp/articles/7e8e9d8f826948182e4dbc4f565346478b28df0f"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Odysaviation 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.odysaviation.com/",
+    "https://www.odysaviation.com/about",
+    "https://leadiq.com/c/odys-aviation/5fb52fef4133a8a89a786db4/employee-directory",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://jp.linkedin.com/company/conferma"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Odysaviation Japan",
+   "results": [
+    "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/",
+    "https://www.odysaviation.com/",
+    "https://www.odysaviation.com/about",
+    "https://www.atx-research.co.jp/contents/Odys-Aviation-Secures-Series-A-Funding-to-Accelerate-Full-Scale-Flight-Testing-and-Global-Operational-Launches",
+    "https://jp.linkedin.com/company/odys-aviation",
+    "https://x.com/OdysAviation/status/1990836751360012317",
+    "https://aerospaceglobalnews.com/news/odys-honeywell-laila-samurai-cuas/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Odysaviation manufacturing customer case study",
+   "results": [
+    "https://www.featuredcustomers.com/vendor/odoo/case-studies",
+    "https://www.odysaviation.com/blog-2025-review",
+    "https://www.latimes.com/b2b/banking-finance/story/2025-10-20/odys-aviation-raises-26m-series-a-round",
+    "https://www.odysaviation.com/",
+    "https://nominal.io/blog/odys-aviation-case-study",
+    "https://www.ycombinator.com/companies/odys-aviation",
+    "https://aviationweek.com/aerospace/advanced-air-mobility/startup-spotlight-odys-aviation",
+    "https://dot.la/odys-aviation-raise-2656626552.html",
+    "https://www.prnewswire.com/news-releases/odys-aviation-formally-craft-aerospace-secures-12-4m-in-seed-funding-to-take-the-friction-out-of-travel-301479573.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Odysaviation white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "https://www.namesilo.com/reseller",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Odysaviation founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/odysaviation.com",
+    "https://tracxn.com/d/companies/odysaviation/__avrS8wiYqpHHUC6-OeaGRpUmJ-HACuAC5Hmguc07iVk",
+    "https://pitchbook.com/profiles/company/454617-64",
+    "https://startupintros.com/orgs/odys-aviation",
+    "https://incfact.com/company/odysaviation-longbeach-ca/",
+    "https://fundediq.co/odys-aviation-odysaviation-com-funding/",
+    "https://www.zoominfo.com/c/odys-aviation/557689592"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Odysaviation",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/fujkta/n/nfef25b417793",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Odysaviation",
+   "results": [
+    "https://x.com/OdysAviation/status/1990836751360012317",
+    "https://x.com/OdysAviation",
+    "https://x.com/hashtag/OdysAviation",
+    "https://x.com/OdysAviation/status/2011498752851476946",
+    "https://x.com/AirProNews/status/2029621198796005807",
+    "https://x.com/PeterBordes/status/2035816687497289781",
+    "https://x.com/AirProNews/status/1968564309639770136"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Odysaviation",
+   "results": [
+    "https://www.linkedin.com/company/odys-aviation",
+    "https://www.linkedin.com/in/jdorris3",
+    "https://de.linkedin.com/in/jonathan-stephens-airworthiness",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7262169710484430848/",
+    "https://www.linkedin.com/posts/odys-aviation_odysaviation-fijiairways-sustainableaviation-activity-7372330214242242560-3XW4",
+    "https://www.linkedin.com/posts/odys-aviation_odysaviation-internspotlight-softwareengineering-activity-7333893222596825089-u7rb",
+    "https://www.linkedin.com/posts/odys-aviation_odys-aviation-secures-series-a-funding-to-activity-7382088456904138752-HM9h"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Odysaviation",
+   "results": [
+    "https://www.facebook.com/OdysseyAviationUS/",
+    "https://www.facebook.com/Odys-Aviation-109027885123116/",
+    "https://www.facebook.com/WestGhostLLC/videos/its-always-about-the-people-odys-aviation-ceo-james-dorris-explains-the-next-ste/614747348361304/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/changcorp/videos/odys-aviation/1166351244042383/",
+    "https://www.facebook.com/daniel.turn/",
+    "https://www.facebook.com/InternationalFinanceMagazine/videos/978310746523530/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Odysaviation note 社長",
+   "results": [
+    "https://www.odysaviation.com/about",
+    "https://www.linkedin.com/in/jdorris3",
+    "https://www.f6s.com/member/jamesdorris1",
+    "https://www.odysaviation.com/",
+    "https://aviationweek.com/defense/aircraft-propulsion/odys-track-deliveries-year-end-ceo-says",
+    "https://mbdart.org/person/james-dorris/",
+    "https://simpleflying.com/in-conversation-james-dorris-ceo-odys-aviation/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Odysaviation X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

@@ -1,0 +1,1145 @@
+{
+ "name": "Opensea",
+ "aliases": [],
+ "context": "旧営業リスト｜NFT/Web3 Platform｜AUMS不適合",
+ "researched_at": "2026-11-10T23:28:01.238149+00:00",
+ "official_url": "https://opensea.io",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立日",
+    "value": "設立日：2018年11月28日",
+    "url": "https://www.nadanews.com/learn/opensea/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$427.2M",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "海外のマーケットプレイスであるが、日本語対応しているため日本人も利用しやすい",
+    "url": "https://www.nadanews.com/learn/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "トップクラスの取り扱いNFT数、ユーザー数、月間取引高を誇り、日本を含めた世界中の人々がNFTを取引している",
+    "url": "https://www.nadanews.com/learn/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の法律によって運営されていないため、トラブルがあった際には日本の司法を頼れない",
+    "url": "https://www.nadanews.com/learn/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "海外のサービスであることから、日本の法律の保護下にない点など不安もあるため、リスクを理解した上で利用を検討しよう",
+    "url": "https://www.nadanews.com/learn/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "Openseaは日本語・日本円に対応している？",
+    "url": "https://www.nadanews.com/learn/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "Openseaは日本語に対応しているが、日本円やクレジットカードに対応していない",
+    "url": "https://www.nadanews.com/learn/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "※日本はMoonPayのサポート地域外で、利用不可",
+    "url": "https://diamond.jp/crypto/nft/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSeaは海外業者が提供するサービスであり、日本の法律の認可を受けたものではない",
+    "url": "https://diamond.jp/crypto/nft/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "利用者保護の面などでリスクがあり、なにかトラブルが発生しても、日本の法律を頼りにすることはできない",
+    "url": "https://diamond.jp/crypto/nft/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、日本はMoonPayのサポート地域外であるため、日本で利用することはできない",
+    "url": "https://diamond.jp/crypto/nft/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、日本に在住の方は基本的に仮想通貨を用いて決済することになる",
+    "url": "https://diamond.jp/crypto/nft/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSeaでは現在、日本語に対応している",
+    "url": "https://diamond.jp/crypto/nft/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、日本語での利用を望む方でも利用しやすくなっているといえるだろう",
+    "url": "https://diamond.jp/crypto/nft/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "Is OpenSea Down in Japan? OpenSea Japan Status & Outages | DownRightNow",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Japan - Service is working. Working normally.",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Good News: OpenSea Japan is currently working normally. If you're still facing issues, try these steps:",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Is OpenSea down in Japan right now?",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Why is OpenSea not working in Japan?",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Is OpenSea down for everyone in Japan or just me?",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Japan not loading, what to do?",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "When will OpenSea be back in Japan?",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Japan not loading / UI broken?",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Japan transaction failing?",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Japan rewards not showing?",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Japan liquidity position stuck?",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Japan governance not working?",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "※月間取引高・月間アクティブユーザー数ともに、DappRader調べ",
+    "url": "https://diamond.jp/crypto/nft/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "When DeFi Protocols Typically Have Issues",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "DeFi depends on blockchain congestion — issues spike when gas prices surge.",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Hard forks and upgrades can pause protocol functionality",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "DeFi Protocol Service Patterns",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "DeFi protocols depend on blockchain network health and frontend hosting independently.",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "DeFi protocols themselves don't go \"down\" — the smart contracts are always on-chain. Issues are usually frontend UI, subgraph indexing, or network congestion causing failed transactions.",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "DeFi Protocol Issues — Safety First",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "DeFi protocol not working? Blockchain congestion or smart contract issue?",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Do NOT interact with a protocol showing unusual behavior — may be exploit",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Check gas prices (etherscan.io/gastracker) — high gas = network congestion, not protocol issue",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Check protocol's Discord/Twitter for official status updates",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "If funds are locked: check if protocol has emergency governance process",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "DeFi Protocol Down — When to Worry",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "DeFi protocol outages could signal exploits — here's how to react.",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Check protocol's Discord/Twitter for announcements. Do NOT approve new transactions.",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Potential exploit in progress. Revoke token approvals (revoke.cash). Move funds if possible.",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Likely exploit or protocol pause. Check if governance vote is needed. Join community coordination.",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "DeFi has no consumer protection. Immediately revoke approvals if an exploit is suspected. Monitor rekt.news and protocol governance.",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Collect & prioritize customer feedback",
+    "url": "https://www.featurebase.app/customers/opensea",
+    "pass": 3
+   },
+   {
+    "quote": "“Featurebase has helped us prioritize projects to ensure every user is valued and heard.”",
+    "url": "https://www.featurebase.app/customers/opensea",
+    "pass": 3
+   },
+   {
+    "quote": "“Featurebase helps us maintain transparency, better prioritize features, and deliver updates more efficiently.”",
+    "url": "https://www.featurebase.app/customers/opensea",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - ProjectOpenSea/opensea-whitelabel: Easily whitelabel an OpenSea marketplace for your own website · GitHub",
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "This project was bootstrapped with",
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "In the project directory, you can run:",
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "Builds the app for production to the",
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "It correctly bundles React in production mode and optimizes the build for the best performance.",
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "at any time. This command will remove the single build dependency from your project.",
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except",
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "OS2, platform redevelopment (2025–present)",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "fixed-price sales and auctions",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "accepted OpenSea into its accelerator program in 2018.",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "After finishing the pre-seed round by Y Combinator, OpenSea raised $2.1 million in",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "On April 25, 2022, OpenSea announced the acquisition of the NFT marketplace",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "On July 14, 2022, the company laid off approximately twenty percent of its employees.",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "Following the SEC Wells notice issuing, OpenSea pledged $5 million to Stand With Crypto, a nonprofit spun off from",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "The interface improved search capabilities, aggregated marketplace listings, cross-chain purchasing, lower fees, and a gamified rewards system called Voyages.",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "In that same month, charges against former OpenSea head of product Nate Chastain were overturned.",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "He had previously been convicted in May 2023 of wire fraud and",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": ", having been sentenced to three months in prison",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "Through the first two weeks of October 2025, following the release of OS2, OpenSea processed $1.6 billion in cryptocurrency trades and $230 million in NFT transactions.",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2025, Finzer was interviewed by",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": ", which displayed humanoid robots with hyper-realistic heads of prominent individuals in tech and art, like",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2020, OpenSea announced that any user could mint NFTs on its platform for free. Later, in March 2021, OpenSea announced NFT collections would not need to be approved to be listed.",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "Ramaswamy, Anita (25 April 2022).",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "\"Justin Sun, SEC Seek 'Pause' in Case Against Crypto Entrepreneur\"",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "\"Pro Premium: First Look\"",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "\"Ex-OpenSea manager sentenced to 3 months in prison for NFT insider trading\"",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "\"OpenSea's 'SEA' Token is Coming with $1 Million Prize Vault Already Stacked\"",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "\"After Announcing NFT Limit, OpenSea Reverses Course Amid User Uproar\"",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea is privately held, so there is no OpenSea stock to buy. Investors valued it at $13.3B in its January 2022 Series C.",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "No. OpenSea is a private company, so its shares aren't traded on a stock exchange.",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "OpenSeaとは？日本からの始め方・手数料・注意点を解説 — Oct 29, 2026 · この記事はこんな方におすすめ！ * OpenSeaがどんなサービスなのか、基礎から知りたい方 * 日本からOpenSeaを使い始める流れを確認したい方 * OpenSeaにかかる手数料やガス代を事前に知りたい方 * OpenSeaを使う前に知っておきたい注意点を押さえたい方 OpenSeaという名前は知っていても、どんな ...",
+    "url": "https://blog.coin-trade.cc/columns/column-123/",
+    "pass": 3
+   },
+   {
+    "quote": "Opensea（オープンシー）とは？ 始め方・使い方、NFTの買い方・売り方... — Jan 20, 2026 · Opensea（オープンシー）は、2017年12月に設立された「Ozone Networks, Inc」によって運営される世界最大級のNFTマーケットプレイス。 トップクラスの取り扱いNFT数、ユーザー数、月間取引高を誇り、日本を含めた世界中の人々がNFTを取引している。",
+    "url": "https://www.nadanews.com/learn/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "ja - プロフィール | OpenSea — 暗号コレクティブルの最大のマーケットプレイス OpenSea で ja の NFT とトークンをチェックしてみましょう。",
+    "url": "https://opensea.io/ja/JA",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea(オープンシー)とは？使い方やNFTの出品・購入方法、ガス代な... — Oct 8, 2026 · OpenSeaは、数あるNFTマーケットプレイスの中でも、世界最大規模の取引量を誇るプラットフォームだ。 2023年3月には、イーサリアムチェーン上の ...",
+    "url": "https://diamond.jp/crypto/nft/opensea/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSeaの始め方・使い方（登録～出品・購入）【完全ガイド】 — OpenSeaとは？ OpenSeaの特徴 使いやすいサイト設計 NFTを無料で作れる 何でも売れる 複数ブロックチェーン対応 多様な取引方法が選べる OpenSeaの始め方・使い方①（登録まで） コインチェックの口座開設 MetaMaskの導入と送金 OpenSeaに登録 OpenSeaアカウント登録手順①：OpenSea公式サイトにアクセス ...",
+    "url": "https://fukugyo-salaryman.com/opensea-start/",
+    "pass": 3
+   },
+   {
+    "quote": "About | OpenSea — About OpenSea OpenSea is building the exchange for the ownership economy — a future where making is owning, taste is earning, prediction pays, and every intelligence, human or artificial, trades value without asking permission.",
+    "url": "https://opensea.io/about-opensea",
+    "pass": 3
+   },
+   {
+    "quote": "ja - Profile | OpenSea — Check out ja's NFTs and tokens on OpenSea, the largest marketplace for crypto collectibles.",
+    "url": "https://opensea.io/JA",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Japan Status — Is OpenSea Down in Japan? — Users report no issues with OpenSea currently. Check if OpenSea is down in Japan right now. Real-time status monitoring & outage reports.",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Status — Welcome to OpenSea's home for real-time and historical data on system performance.",
+    "url": "https://status.opensea.io/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Case Studies — Read more about how Partners like Creature World, Invisible Friends, and Probably A Label dropped their projects using OpenSea.",
+    "url": "https://opensea.io/partners/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea B2B Case Studies & Customer Successes — See how OpenSea solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/opensea",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How OpenSea Uses Software & Services — Explore case studies featuring OpenSea as the customer — learn how vendors and partners helped OpenSea solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/opensea",
+    "pass": 3
+   },
+   {
+    "quote": "Featurebase – OpenSea Customer Case Study — OpenSea is the world's largest NFT marketplace for buying, selling, and discovering digital collectibles.",
+    "url": "https://www.featurebase.app/customers/opensea",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea X Puma | Case Study — The GutterMelo team chose to partner with OpenSea to maximize the success of their drop – with a specific focus on custom technical support and marketing amplification.",
+    "url": "https://opensea.io/partners/case-studies/puma",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Whitelabel Marketplace - GitHub — Easily whitelabel an OpenSea marketplace for your own website - ProjectOpenSea/opensea-whitelabel",
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea - Wikipedia — OpenSea is an American digital asset platform founded in 2017 by Devin Finzer and Alex Atallah. It facilitates the trading of cryptocurrencies and the buying, selling, and minting of non-fungible tokens (NFTs) across a range of blockchains. Headquartered in Miami, OpenSea supports fixed-price sales and auctions for digital assets including artwork, music, gaming items, and do",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea – Overview – Funding, Revenue & Growth – 2026 — OpenSea is growing steadily with estimated revenue of $33M, company valuation nearing $13.3B, team of around 700+ employees and presence in New York C...",
+    "url": "https://compworth.com/company/opensea",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea - 2026 Company Profile, Team, Funding & Competitors ...OpenSea Revenue 2024: $33M Est., $427.2M RaisedOpenSea 2026 Company Profile: Valuation, Funding & Investors ...OpenSea - WikipediaOpenSea Revenue, Funding & Valuation - prospeo.ioOpenSea: Funding, Team & Investors | Startup Intros — Mar 16, 2026 · OpenSea is a series C company based in New York City (United States), founded in 2017 by ",
+    "url": "https://tracxn.com/d/companies/opensea/__PgZo-l1S-uMjJHJx3XlljSdM5w2BMXVQacR6ud7OE2A",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Revenue 2024: $33M Est., $427.2M Raised — Sep 2, 2026 · OpenSea revenue, valuation & funding NFT Platforms · New York · Founded 2017 · CEO Devin Finzer OpenSea is the world’s leading peer-to-peer marketplace for NFTs opensea.io LinkedIn Updated Sep 2, 2026 Annual revenue $33M Dec 2024 EST Valuation $13.3B Jan 2022 Total raised $427.2M 6 rounds Employees 746 Nov 2025",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea 2026 Company Profile: Valuation, Funding & Investors ...OpenSea - WikipediaOpenSea Revenue, Funding & Valuation - prospeo.ioOpenSea: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and executives for OpenSea. Use the PitchBook Platform to explore the full profile. OpenSea is an American digital asset platform founded in 2017 by Devin F",
+    "url": "https://pitchbook.com/profiles/company/226883-35",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Want your brand on this page?",
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - ProjectOpenSea/opensea-whitelabel: Easily whitelabel an OpenSea marketplace for your own website · GitHub",
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Whitelabel Marketplace",
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "Easily whitelabel an OpenSea marketplace for your own website",
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "pass": 3
+   },
+   {
+    "quote": "opensea-whitelabel.herokuapp.com/",
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Success Stories about Software and Services used by OpenSea",
+    "url": "https://www.casestudies.com/customer/opensea",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/opensea",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Customer Case Study – Featurebase",
+    "url": "https://www.featurebase.app/customers/opensea",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Growth and acquisitions (2022–2025)",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "Later that month, OpenSea acquired",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "On April 25, 2022, OpenSea announced the acquisition of the NFT marketplace",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "On July 14, 2022, the company laid off approximately twenty percent of its employees.",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2025, OpenSea acquired Rally, a",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2025, OpenSea announced plans to spend more than $1 million building a \"Flagship Collection\" of NFTs, beginning with the acquisition of a",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2020, OpenSea announced that any user could mint NFTs on its platform for free. Later, in March 2021, OpenSea announced NFT collections would not need to be approved to be listed.",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "\"NFT aggregator Gem.xyz acquired by OpenSea shortly after ousting co-founder for sexual misconduct\"",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "\"Former OpenSea exec arrested and charged with insider trading of NFTs\"",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Revenue 2024: $33M Est., $427.2M Raised",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea has not published its revenue. GetLatka estimates it at about $33M a year (December 2024).",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea CEO, founders & employees",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "Devin Finzer founded OpenSea in 2017 and runs it as CEO. OpenSea has 746 employees (November 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is OpenSea's revenue?",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates OpenSea's revenue at about",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does OpenSea have?",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/opensea.io",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "On June 30, 2022, OpenSea reported an email",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "after a senior engineer at an email vendor, Customer.io, misused access to share 1.8 million OpenSea user email addresses with an \"external bad actor.\"",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   },
+   {
+    "quote": "\"NFT giant OpenSea reports major email data breach\"",
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "OpenSea (@opensea) / X OpenSea Mobile is now open to everyone. Everything you own. Everything you trade. Everyone you trade with. Memes, art, trading cards, perps. 25+ chains, all your wallets, one app. Trade everything, together.",
+    "url": "https://x.com/opensea",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Foundation (@openseafdn) / X 79717 followers · 1 following. Joined May 2024. See the latest conversations with @openseafdn",
+    "url": "https://x.com/openseafdn",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea Pro (@openseapro) / X 1/ OpenSea Pro is now live on @0xPolygon! 🟣 Wen Multichain? Now. OpenSea Pro just became the go-to destination to buy, sell, and list NFTs across marketplaces AND blockchains! Find your favorite collections on Ethereum and Polygon 👉 pro.opensea.io",
+    "url": "https://x.com/openseapro",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea on X: \"OpenSea Mobile is now open to everyone ... OpenSea Mobile is now open to everyone. Everything you own. Everything you trade. Everyone you trade with. Memes, art, trading cards, perps. 25+ chains, all your wallets, one app. Trade everything, together.",
+    "url": "https://x.com/opensea/status/2112654029595529229",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea on X: \"OpenSea has evolved. Beta complete. Full token ... May 29, 2025 · OpenSea has evolved. Beta complete. Full token universe unlocked. New rewards program live. Welcome to the new OpenSea — the best place to discover, own, and trade anything onchain.",
+    "url": "https://x.com/opensea/status/1928154151306838432",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "OpenSea - LinkedIn OpenSea | 90,881 followers on LinkedIn. This isn't just a marketplace; we're shaping the future of digital economies. Join us at opensea.io/careers | At OpenSea, you'll be challenged to exceed ...",
+    "url": "https://www.linkedin.com/company/opensea-io",
+    "pass": 3
+   },
+   {
+    "quote": "Devin Finzer - Co-founder and CEO at OpenSea (YC W18). We're ...OpenSea: Jobs | LinkedInAlex Atallah - Cofounder & CEO of OpenRouter ... - LinkedInOpenSea: Culture | LinkedInLaura Brookover - General Counsel at OpenSea | formerly ...Opensea Jobs in United States (7,000+ Open Roles) | LinkedIn Co-founded OpenSea, the first peer-to-peer marketplace for blockchain-based assets. We're funded by YCombi",
+    "url": "https://www.linkedin.com/in/dfinzer",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea: Jobs | LinkedIn OpenSea | 90,859 followers on LinkedIn. This isn't just a marketplace; we're shaping the future of digital economies. Join us at opensea.io/careers | At OpenSea, you'll be challenged to exceed ...",
+    "url": "https://www.linkedin.com/company/opensea-io/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Alex Atallah - Cofounder & CEO of OpenRouter ... - LinkedInOpenSea: Culture | LinkedInLaura Brookover - General Counsel at OpenSea | formerly ...Opensea Jobs in United States (7,000+ Open Roles) | LinkedIn Cofounder & CEO of OpenRouter, the first LLM router and marketplace. Cofounder of OpenSea, the first NFT marketplace. Helped grow OpenSea to over $4B in monthly volume from 2017 to 2022. Founded",
+    "url": "https://www.linkedin.com/in/alexatallah",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "OpenSea - FacebookOpen Sea Carnival TM Center | Pasay City - FacebookOpensea NFT Marketplace - FacebookFacebookOpenSea - FacebookOpenSea Support - FacebookOpensea | Athens - Facebook OpenSea. 16,101 followers · 41 talking about this. The largest marketplace for NFTs and the decentralized web. Create, buy, sell, and discover unique d Oct 30, 2026 · Open Sea Carnival TM Center, Pasay City. 82,377 fo",
+    "url": "https://www.facebook.com/projectopensea/",
+    "pass": 3
+   },
+   {
+    "quote": "Open Sea Carnival TM Center | Pasay City - Facebook Oct 30, 2026 · Open Sea Carnival TM Center, Pasay City. 82,377 followers · 437 talking about this · 359 were here. The official Facebook page of Open Sea, Carnival Cruise Line's authorized crewing partner in the...",
+    "url": "https://www.facebook.com/OpenSeaCarnivalTMCenter/",
+    "pass": 3
+   },
+   {
+    "quote": "OpenSea - Facebook 🌊OpenSea сега со нова амбалажа од 400ml 🌊 OpenSea помага во секој период од годината,со тоа што ја зајакнува косата и спречува на губење на косата од разни етиологии ,исто така овозможува и брз раст ...",
+    "url": "https://www.facebook.com/p/OpenSea-100092397665081/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://opensea.io/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://blog.coin-trade.cc/columns/column-123/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nadanews.com/learn/opensea/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/crypto/nft/opensea/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://downrightnow.in/status/opensea-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/crypto/nft/opensea/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/opensea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/opensea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featurebase.app/customers/opensea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/OpenSea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/opensea",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/opensea/__PgZo-l1S-uMjJHJx3XlljSdM5w2BMXVQacR6ud7OE2A",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/opensea.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/opensea",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/openseafdn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/openseapro",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/opensea/status/2112654029595529229",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/opensea-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/dfinzer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/opensea-io/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/alexatallah",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/projectopensea/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OpenSeaCarnivalTMCenter/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/OpenSea-100092397665081/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/opensea",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/opensea/status/1928154151306838432",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Opensea 日本 導入",
+   "results": [
+    "https://blog.coin-trade.cc/columns/column-123/",
+    "https://www.nadanews.com/learn/opensea/",
+    "https://opensea.io/ja/JA",
+    "https://diamond.jp/crypto/nft/opensea/",
+    "https://fukugyo-salaryman.com/opensea-start/",
+    "https://pacific-meta.co.jp/magazine/learn/nft/92336/",
+    "https://shota-blog.com/opensea"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opensea 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://opensea.io/about-opensea",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.linkedin.com/pulse/exploring-market-entry-options-japan-branch-office-takuya-takeyama-lucdc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opensea Japan",
+   "results": [
+    "https://opensea.io/ja/JA",
+    "https://opensea.io/JA",
+    "https://downrightnow.in/status/opensea-japan",
+    "https://diamond.jp/crypto/nft/opensea/",
+    "https://status.opensea.io/",
+    "https://pacific-meta.co.jp/magazine/learn/nft/92336/",
+    "https://support.opensea.io/en/articles/8866954-how-do-i-change-the-language-on-opensea"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opensea manufacturing customer case study",
+   "results": [
+    "https://opensea.io/partners/case-studies",
+    "https://www.casestudies.com/company/opensea",
+    "https://www.casestudies.com/customer/opensea",
+    "https://www.featurebase.app/customers/opensea",
+    "https://opensea.io/partners/case-studies/puma",
+    "https://www.featuredcustomers.com/vendor/opensea/case-studies",
+    "https://realgrowthmatters.com/learn/case-studies/opensea-brand-repositioning-campaign/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opensea white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://github.com/ProjectOpenSea/opensea-whitelabel",
+    "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "https://opensrs.com/",
+    "https://www.seoreseller.com/",
+    "https://www.namesilo.com/reseller"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opensea founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/OpenSea",
+    "https://compworth.com/company/opensea",
+    "https://tracxn.com/d/companies/opensea/__PgZo-l1S-uMjJHJx3XlljSdM5w2BMXVQacR6ud7OE2A",
+    "https://getlatka.com/companies/opensea.io",
+    "https://pitchbook.com/profiles/company/226883-35",
+    "https://prospeo.io/c/opensea-revenue",
+    "https://startupintros.com/orgs/opensea"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Opensea",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Opensea",
+   "results": [
+    "https://x.com/opensea",
+    "https://x.com/openseafdn",
+    "https://x.com/openseapro",
+    "https://x.com/opensea/status/2112654029595529229",
+    "https://x.com/_0pensea_",
+    "https://x.com/opensea/status/2098132834661650511",
+    "https://x.com/opensea/status/2103152140151865499"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Opensea",
+   "results": [
+    "https://www.linkedin.com/company/opensea-io",
+    "https://www.linkedin.com/in/dfinzer",
+    "https://www.linkedin.com/company/opensea-io/jobs/",
+    "https://www.linkedin.com/in/alexatallah",
+    "https://www.linkedin.com/company/opensea-io/life/learnaboutopensea",
+    "https://www.linkedin.com/in/laura-brookover",
+    "https://www.linkedin.com/jobs/opensea-jobs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Opensea",
+   "results": [
+    "https://www.facebook.com/projectopensea/",
+    "https://www.facebook.com/OpenSeaCarnivalTMCenter/",
+    "https://www.facebook.com/groups/OpenSea/",
+    "https://www.facebook.com/p/OpenSea-100092397665081/",
+    "https://www.facebook.com/groups/openseasupport/about/",
+    "https://www.facebook.com/opensea/",
+    "https://www.facebook.com/groups/openseanftmarketplace/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opensea note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://en.wikipedia.org/wiki/OpenSea",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/tkopensae",
+    "https://note.jp/n/ncc37a1d4aa0b"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opensea X 投稿",
+   "results": [
+    "https://x.com/opensea",
+    "https://x.com/opensea/status/1928154151306838432",
+    "https://diamond.jp/crypto/nft/opensea/",
+    "https://zhuanlan.zhihu.com/p/413419114",
+    "https://opensea.io/collection/the-arc-begins/overview",
+    "https://nochihareblog.com/opensea-selling/",
+    "https://www.neweconomy.jp/posts/430619"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

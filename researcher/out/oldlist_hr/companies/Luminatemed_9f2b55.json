@@ -1,0 +1,892 @@
+{
+ "name": "Luminatemed",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T23:22:30.976457+00:00",
+ "official_url": "https://www.luminatemed.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Fully integrated with your existing provider",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform for nurse-led at-home cancer treatment. We partner with health systems and practices to treat patients at home while maintaining drug dispensing with the provider.",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By keeping drug dispensing within the originating clinic, we maintain provider oversight and quality.",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Getting the right care in the right setting reduces costs for patients, providers, and plans.",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enables safe, at-home chemotherapy care. By reducing clinic visits, Lotus frees up infusion chairs, eases staff pressure, and supports better care delivery.",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "to make at-home cancer care affordable for you and your provider.",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "fully-integrated extension of the your current oncology provider",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We reduce the total cost of care while maintaining your existing provider network.",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our technologies reduce side effects and improve adherence.",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our teams across the US and Ireland build technology-enabled solutions to enable low-cost infusions and prevent key side effects.",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything we build is shaped by the people who use it - patients, providers, and partners alike.",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide technology-enabled solutions that help oncology healthcare professionals and health plans make cancer care better for patients.",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Information on this website pertains to pre-clinical or clinical-stage medical devices in development that have not been approved by the Food and Drug Administration.",
+    "url": "https://www.luminatemed.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improving treatment experience",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "We work with clinical, commercial, and medical affairs teams to support you in rolling out new medicines, technologies, and value-based care programs designed to improve cancer care.",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're exploring real-world evidence generation, enhancing trial experiences for your patients, or planning for market differentiation, we can provide partnership options that fit to your goals.",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Integrates into clinical protocols",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Our Lotus program uses oncology-certified nurses to deliver complex infusion therapies in the patient's home.",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Our Infusion Set and Software programs enable patients to receive treatment remotely under nurse supervision.",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Supportive Care and Side Effect Prevention",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Lilac and Lily use a novel compression therapy to prevent key drug delivery-related side effects.",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Our technologies are designed for seamless integration—whether as part of clinical trials, combination protocols, or commercial programs.",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "We collaborate with pharmaceutical teams to improve treatment delivery, support tolerability, and unlock new clinical and commercial possibilities.",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "We provide technology-enabled solutions that help oncology healthcare professionals and health plans make cancer care better for patients.",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Information on this website pertains to pre-clinical or clinical-stage medical devices in development that have not been approved by the Food and Drug Administration.",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Keep dispensing in-practice",
+    "url": "https://www.luminatemed.com/patients",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce pressure on clinic capacity",
+    "url": "https://www.luminatemed.com/patients",
+    "pass": 1
+   },
+   {
+    "quote": "Improve patient comfort",
+    "url": "https://www.luminatemed.com/patients",
+    "pass": 1
+   },
+   {
+    "quote": "Lotus is our program to deliver your cancer drug infusions at home.",
+    "url": "https://www.luminatemed.com/patients",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up to express your interest.",
+    "url": "https://www.luminatemed.com/patients",
+    "pass": 1
+   },
+   {
+    "quote": "We're growing our footprint across the United States. Add your name to our list to let your provider and health plans know that you're interested.",
+    "url": "https://www.luminatemed.com/patients",
+    "pass": 1
+   },
+   {
+    "quote": "We provide technology-enabled solutions that help oncology healthcare professionals and health plans make cancer care better for patients.",
+    "url": "https://www.luminatemed.com/patients",
+    "pass": 1
+   },
+   {
+    "quote": "Information on this website pertains to pre-clinical or clinical-stage medical devices in development that have not been approved by the Food and Drug Administration.",
+    "url": "https://www.luminatemed.com/patients",
+    "pass": 1
+   },
+   {
+    "quote": "We provide safe, integrated home infusion services that keep your physicians and pharmacy teams at the center of care delivery.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Keep dispensing in-practice",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce pressure on clinic capacity",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Improve patient comfort",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing the Lotus Home Infusion Program",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Lotus integrates directly into existing oncology workflows; maintaining drug dispensing with the provider while shifting eligible infusions into the home. The result is more capacity, less strain on staff, and a better experience for every patient.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "By keeping drug dispensing within the originating clinic, Lotus preserves oversight, continuity, and vital margins for providers.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering the right care in the right setting reduces total cost per treatment for patients, providers, and payers.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Luminate partners with health plans and providers to make home infusion safe, seamless, and sustainable.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": ", offering home oncology drug infusions as an alternate site of care while maintaining drug purchasing and dispensing in your pharmacy. We partner with your pharmacy, physicians, and administrative staff to deliver a seamless transition to home infusion - including scheduling integration, prior authorization support, and access to insurance coverage for home infusion visits for your patients.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Our OCN-accredited nursing staff and full-stack pharmacy team are ready to support your practice in integrating a new home infusion model. We work as your partner throughout, meaning:",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Resources for Providers",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about implementing a home infusion program.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "The UPenn Cancer Care @ Home program scaled by more than 700% month-on-month during the COVID-19 pandemic.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "The VA’s Close to Me program has trialled subcutaneous infusions in the home in rural settings to great success, enabling better access to care.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Mayo Clinic’s Cancer Care Beyond Walls program is exploring expansion of home infusion into chemotherapies such as paclitaxel.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "We provide technology-enabled solutions that help oncology healthcare professionals and health plans make cancer care better for patients.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Information on this website pertains to pre-clinical or clinical-stage medical devices in development that have not been approved by the Food and Drug Administration.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "Everything we build is shaped by the people who use it - patients, providers, and partners alike.",
+    "url": "https://www.luminatemed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "At the University of Galway, when medical device researchers Aaron Hannon, Dr. Bárbara Oliveira, and Prof. Martin O’Halloran were inspired to tackle chemotherapy-related side effects through technology, starting with hair loss. Enterprise Ireland's Commercialisation Fund grant helped kickstart our journey",
+    "url": "https://www.luminatemed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "At the University of Galway, Aaron Hannon, Dr. Bárbara Oliveira, and Prof. Martin O’Halloran were inspired to address the side effects of chemotherapy through medical device technolgy, starting with hair loss.",
+    "url": "https://www.luminatemed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Joined Y Combinator’s Summer 2021 batch alongside alumni like Airbnb, Stripe, and Dropbox, and commercially validated our hair-loss prevention technology while completing our first fundraise",
+    "url": "https://www.luminatemed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Joined Y Combinator’s Summer 2021 batch alongside alumni like Airbnb, Stripe, and Dropbox, and validated our hair-loss prevention technology while completing our first fundraise.",
+    "url": "https://www.luminatemed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Secured €4.7M in funding to advance Lily, and support clinical trials across the U.S. and EU. Momentum starts to build from our Galway HQ to New York, we grow our R&D team, welcoming product designers, clinicians, and engineers",
+    "url": "https://www.luminatemed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Secured €4.7M in funding to advance Lily, and support clinical trials across the US and EU. Momentum starts to build from our Galway HQ to New York, we grow our R&D team, adding product designers, clinicians, and engineers.",
+    "url": "https://www.luminatemed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Awarded second DTIF for €4.4m, demonstrate first evidence of prevention of hair loss and peripheral neuropathy in human chemotherapy patients",
+    "url": "https://www.luminatemed.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Prof. Martin O'Halloran",
+    "url": "https://www.luminatemed.com/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We’re building a growing set of solutions—each designed to solve a different barrier to delivering better cancer care at scale.",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Our technologies are designed for seamless integration—whether as part of clinical trials, combination protocols, or commercial programs.",
+    "url": "https://www.luminatemed.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Lotus partners with health plans to enable participating clinics to maintain dispensing revenue and earn value-based care payments.",
+    "url": "https://www.luminatemed.com/providers",
+    "pass": 1
+   },
+   {
+    "quote": "That purpose, combined with a team that truly values you, makes Luminate a place I'm proud to be part of.",
+    "url": "https://www.luminatemed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The most exciting part of being on the Luminate team is the opportunity to build something meaningful and impactful from the ground up.",
+    "url": "https://www.luminatemed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of the Luminati - a fun, energetic, and supportive team that celebrate all of the moments along the journey, big and small.",
+    "url": "https://www.luminatemed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "to be a leading contributor to our latest device in our product range, bringing the device from proof of concept phase through to a market - ready product. This is an exciting opportunity to be part of a multi-award-winning team and play a decisive part in the development and production of life changing devices.",
+    "url": "https://www.luminatemed.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/luminatemed.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/luminatemed.com",
+    "pass": 3
+   },
+   {
+    "quote": "Carrick Therapeutics is pioneering a portfolio of unique, first in class, cancer treatments that target…",
+    "url": "https://fundediq.co/luminate-medical-luminatemed-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Luminate Medical have?",
+    "url": "https://fundediq.co/luminate-medical-luminatemed-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/luminate-medical-luminatemed-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/luminate-medical-luminatemed-com-funding/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading healthcare and tech investors",
+    "url": "https://www.luminatemed.com/about",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Luminateの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 出典・生成情報 本ページの企業情報は、公式サイト（https://luminatemed.com）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです。 内容の正確性については公式サイト・出典をご確認ください。",
+    "url": "https://www.firstcvc.jp/global/luminatemed.com",
+    "pass": 3
+   },
+   {
+    "quote": "What I learned after leaving the corporate MedTech world for ... — What I learned after leaving the corporate MedTech world for a startup luminatemed.com 55 3 Comments",
+    "url": "https://www.linkedin.com/posts/luminate-medical_what-i-learned-after-leaving-the-corporate-activity-7130619394614800384-si8t",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive | This Startup Wants to Bring Cancer Patients Care ... — Jan 7, 2026 · For cancer patients, traveling to receive drug infusions is often a regular part of treatment. Luminate Medical wants to bring infusions to them.",
+    "url": "https://www.wsj.com/articles/this-startup-wants-to-bring-cancer-patients-care-at-home-440fe7bc",
+    "pass": 3
+   },
+   {
+    "quote": "Irish company developing medical devices that could allow ... — Jun 19, 2025 · Irish company Luminate Medical’s early success was built on its development of devices to reduce chemotherapy side effects. Photograph: Getty Images. When it comes to cancer treatment, there...",
+    "url": "https://www.irishtimes.com/business/2025/06/19/irish-company-developing-medical-devices-that-could-allow-cancer-patients-to-treat-themselves-at-home/",
+    "pass": 3
+   },
+   {
+    "quote": "Luminate Medical 2026 Company Profile: Valuation, Funding ...Luminate Medical - 2026 Company Profile, Team, Funding ...Luminate Medical: Funding, Investors & Team (Oct 2026)Luminate Medical – Financial Footprint & Growth Factors – 2026Luminate - Crunchbase Company Profile & FundingLuminate Medical - Overview, News & Similar companies ...Luminate Medical | Valuation, Funding Rounds & Stock Price ..",
+    "url": "https://pitchbook.com/profiles/company/483489-46",
+    "pass": 3
+   },
+   {
+    "quote": "Luminate Medical - 2026 Company Profile, Team, Funding ...Luminate Medical: Funding, Investors & Team (Oct 2026)Luminate Medical – Financial Footprint & Growth Factors – 2026Luminate - Crunchbase Company Profile & FundingLuminate Medical - Overview, News & Similar companies ...Luminate Medical | Valuation, Funding Rounds & Stock Price ... — Feb 7, 2026 · When was Luminate Medical founded? Luminate",
+    "url": "https://tracxn.com/d/companies/luminate-medical/__hiC8SajO8NpIQGdt4f3maYedNtMerjG1QN1gzkOwXY8",
+    "pass": 3
+   },
+   {
+    "quote": "Luminate Medical: Funding, Investors & Team (Oct 2026) — Luminate Medical is a Biotechnology company in Galway, Ireland. Raised $54.2M across 5 rounds; latest a Series A in Jan 2026. Investors and funding history.",
+    "url": "https://fundediq.co/luminate-medical-luminatemed-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Luminate - Crunchbase Company Profile & FundingLuminate Medical - Overview, News & Similar companies ...Luminate Medical | Valuation, Funding Rounds & Stock Price ... — Who invested in Luminate? Luminate has 18 investors including Lachy Groom and 8VC. When was the last funding round for Luminate? Luminate closed its last funding round on. from a Series A round. Who are Luminate's competitors? Alte",
+    "url": "https://www.crunchbase.com/organization/luminate-medical",
+    "pass": 3
+   },
+   {
+    "quote": "Luminate Medical | Valuation, Funding Rounds & Stock Price ... — What is the current stock price of Luminate Medical? How much is Luminate Medical worth (valuation)? Can I buy Luminate Medical stock? When was Luminate Medical's last funding round? Who are the main investors in Luminate Medical? Will Luminate Medical IPO soon? How can I track Luminate Medical secondary market activity?",
+    "url": "https://www.caplight.com/company/luminatemed",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact details for the Luminate Medical team: 1 of 2 have an email address on file.",
+    "url": "https://fundediq.co/luminate-medical-luminatemed-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/luminate-medical-luminatemed-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Luminate Medical (@LuminateMed) / Posts / X Luminate Medical (@LuminateMed) - Posts - Portable, comfortable and effective prevention of hair loss during chemotherapy. YC S21. @TMDLab ... | X (formerly Twitter)",
+    "url": "https://x.com/LuminateMed",
+    "pass": 3
+   },
+   {
+    "quote": "Luminate Medical Aesthetics (@LuminateMedical) / Posts / X Luminate Medical Aesthetics (@LuminateMedical) - Posts - | X (formerly Twitter) Luminate Medical Aesthetics LuminateMedical Location: Edmonton, Alberta Joined: Nov 13, 2018 0 0 1",
+    "url": "https://x.com/LuminateMedical",
+    "pass": 3
+   },
+   {
+    "quote": "Congrats to the team @LuminateMed (YC S21) on the $15M Series ... Sep 19 Congrats to the team @LuminateMed (YC S21) on the $15M Series A! Luminate makes devices that help cancer patients prevent the side effects of cancer treatment. Their first product, Lily, is a cap that enables chemotherapy patients to prevent hair loss.",
+    "url": "https://x.com/ycombinator/status/1836801797597372934",
+    "pass": 3
+   },
+   {
+    "quote": "Well done to @LuminateMed for winning the Biomedical ... Engineering Excellence Awards (@eexawards). 35 views. Well done to @LuminateMed for winning the Biomedical Engineering Project of the Year award! #EngineeringAwardsIRL",
+    "url": "https://x.com/eexawards/status/1849189580488212908",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ellen Cahill, PhD - Luminate Medical | LinkedInBuild the future of cancer treatment | Luminate Medical ...Proud to be a Luminati | Adriana Arriaga - LinkedIn PerúCareers | Luminate | Luminate - LinkedIn Experience: Luminate Medical · Location: Ireland · 500+ connections on LinkedIn. View Ellen Cahill, PhD’s profile on LinkedIn, a professional community of 1 billion members. If you're looking for a",
+    "url": "https://ie.linkedin.com/in/ellen-cahill",
+    "pass": 3
+   },
+   {
+    "quote": "Proud to be a Luminati | Adriana Arriaga - LinkedIn Perú 15 Minutes with: Adriana Arriaga luminatemed.com 28 4 comentarios 731 seguidores 30 publicaciones",
+    "url": "https://pe.linkedin.com/feed/update/urn:li:activity:7235042417588998144/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Luminate | Dallas TX - FacebookLuminate Clinic | Tulsa OK - FacebookFacebookLuminate Esthetics - Brick, NJ | Brick Township NJ - FacebookLuminate Living - FacebookLuminate Co Wellness Centre - FacebookLuminate Media - Facebook Oct 28, 2026 · Luminate, Dallas. 1,161 followers · 46 talking about this · 1 was here. Luminate is a private wealth advisory practice of Ameriprise Financial Services, LLC O",
+    "url": "https://www.facebook.com/LuminatedForLife/",
+    "pass": 3
+   },
+   {
+    "quote": "Luminate Clinic | Tulsa OK - FacebookFacebookLuminate Esthetics - Brick, NJ | Brick Township NJ - FacebookLuminate Living - FacebookLuminate Co Wellness Centre - FacebookLuminate Media - Facebook Oct 21, 2026 · Luminate Clinic, Tulsa. 2,277 followers · 118 talking about this · 335 were here. Tulsa's Secret Weapon; Luminate is a patient centered, results driven clinic offering Medical Aesthetics an",
+    "url": "https://www.facebook.com/luminatetulsa/",
+    "pass": 3
+   },
+   {
+    "quote": "Luminate Living - FacebookLuminate Co Wellness Centre - FacebookLuminate Media - Facebook Oct 2, 2026 · Luminate Living. 202,516 followers · 924 talking about this. Where Passion Meets Creativity Discover and shop our wide selection of quality and modern indoor lighting fixtures from chandeliers,... Luminate Co Wellness Centre. 134 followers · 2 talking about this. HRM's Comprehensive Wellness Tea",
+    "url": "https://www.facebook.com/LuminateLiving/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.luminatemed.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luminatemed.com/industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luminatemed.com/patients",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luminatemed.com/providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luminatemed.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.luminatemed.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/luminatemed.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000131096.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jw-webmagazine.com/tips/winter-illuminations-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsunagujapan.com/attracted-by-the-world-view-8-popular-japanese-illumination-spots/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jrailpass.com/blog/winter-illuminations-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.timeout.com/tokyo/things-to-do/best-illuminations-and-light-displays-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/luminate-medical_what-i-learned-after-leaving-the-corporate-activity-7130619394614800384-si8t",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.wsj.com/articles/this-startup-wants-to-bring-cancer-patients-care-at-home-440fe7bc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/483489-46",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/luminate-medical/__hiC8SajO8NpIQGdt4f3maYedNtMerjG1QN1gzkOwXY8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/luminate-medical-luminatemed-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/luminate-medical",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/LuminateMed",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LuminateMedical",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ycombinator/status/1836801797597372934",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/eexawards/status/1849189580488212908",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ie.linkedin.com/in/ellen-cahill",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/feed/update/urn:li:activity:7235042417588998144/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LuminatedForLife/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/luminatetulsa/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LuminateLiving/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LuminateMed",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Luminatemed 日本 導入",
+   "results": [
+    "https://www.firstcvc.jp/global/luminatemed.com",
+    "https://www.luminatemed.com/",
+    "https://www.luminatemed.com/pipeline",
+    "https://prtimes.jp/main/html/rd/p/000000025.000131096.html",
+    "https://gantaisaku.net/fmt-luminate/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://hacobu.jp/blog/archives/809"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Luminatemed 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/91/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://tryable.jp/news/314",
+    "https://prtimes.jp/main/html/rd/p/000000687.000032317.html",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.luminatemed.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Luminatemed Japan",
+   "results": [
+    "https://jw-webmagazine.com/tips/winter-illuminations-in-japan/",
+    "https://www.tsunagujapan.com/attracted-by-the-world-view-8-popular-japanese-illumination-spots/",
+    "https://www.jrailpass.com/blog/winter-illuminations-japan",
+    "https://www.timeout.com/tokyo/things-to-do/best-illuminations-and-light-displays-in-japan",
+    "https://www.luminatemed.com/",
+    "https://www.luminatemed.com/pipeline",
+    "https://app.luminatemed.com/login"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Luminatemed manufacturing customer case study",
+   "results": [
+    "https://www.linkedin.com/posts/luminate-medical_what-i-learned-after-leaving-the-corporate-activity-7130619394614800384-si8t",
+    "https://www.luminatemed.com/",
+    "https://www.luminatemed.com/pipeline",
+    "https://www.wsj.com/articles/this-startup-wants-to-bring-cancer-patients-care-at-home-440fe7bc",
+    "https://www.irishtimes.com/business/2025/06/19/irish-company-developing-medical-devices-that-could-allow-cancer-patients-to-treat-themselves-at-home/",
+    "https://www.eit.europa.eu/news-events/news/luminate-medical-raises-usd-15-million-accelerate-innovative-cancer-care",
+    "https://finance.yahoo.com/news/luminate-raises-21-million-funding-130500107.html?fr=sycsrp_catchall"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Luminatemed white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://skyswitch.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Luminatemed founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/483489-46",
+    "https://tracxn.com/d/companies/luminate-medical/__hiC8SajO8NpIQGdt4f3maYedNtMerjG1QN1gzkOwXY8",
+    "https://fundediq.co/luminate-medical-luminatemed-com-funding/",
+    "https://www.crunchbase.com/organization/luminate-medical",
+    "https://www.caplight.com/company/luminatemed",
+    "https://compworth.com/company/luminate-medical",
+    "https://www.zoominfo.com/c/luminate-medical-corp/528859997"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Luminatemed",
+   "results": [
+    "https://note.com/mikaya_8/n/n87e411ba85d3",
+    "https://note.com/asabamiyuki",
+    "https://note.com/hero1_hmk0814/n/nd5890a1ba1b6",
+    "https://note.com/chef_mint/n/n30878561853d",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/3121okotas/n/n8ed4cce2bace"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Luminatemed",
+   "results": [
+    "https://x.com/LuminateMed",
+    "https://x.com/LuminateMedical",
+    "https://x.com/ycombinator/status/1836801797597372934",
+    "https://x.com/eexawards/status/1849189580488212908",
+    "https://x.com/AaronDHannon",
+    "https://x.com/ptimlin127",
+    "https://x.com/luminatehealth"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Luminatemed",
+   "results": [
+    "https://ie.linkedin.com/company/luminate-medical",
+    "https://www.linkedin.com/company/lumenate-medical",
+    "https://ie.linkedin.com/in/ellen-cahill",
+    "https://pe.linkedin.com/feed/update/urn:li:activity:7235042417588998144/",
+    "https://www.linkedin.com/company/luminate-health",
+    "https://www.linkedin.com/posts/luminate-medical_careers-luminate-activity-7521265894216540160-AV-_",
+    "https://it.linkedin.com/posts/aoife-lowery-1a8b81b0_build-the-future-of-cancer-treatment-activity-6859781424501915648-wWW7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Luminatemed",
+   "results": [
+    "https://www.facebook.com/LuminatedForLife/",
+    "https://www.facebook.com/luminatetulsa/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/LuminateLiving/",
+    "https://www.facebook.com/LuminateCoWellnessCentre/",
+    "https://www.facebook.com/p/Luminate-Esthetics-Brick-NJ-100092350642954/",
+    "https://www.facebook.com/luminateremedia/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Luminatemed note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://www.luminatemed.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Luminatemed X 投稿",
+   "results": [
+    "https://x.com/LuminateMed",
+    "https://x.com/LuminateMe",
+    "https://www.luminatemed.com/",
+    "https://www.sponichi.co.jp/entertainment/news/2026/10/19/kiji/20261019s00041000135000c.html",
+    "https://x.com/x2775co/status/2119925387631493260",
+    "https://x.com/luminatettv",
+    "https://news.livedoor.com/article/detail/32710275/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

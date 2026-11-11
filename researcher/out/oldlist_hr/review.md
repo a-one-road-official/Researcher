@@ -1201,6 +1201,12 @@
 - 「The more I hear about insect farming, the more it seems like a flawless business. In Japan, MUSCA comes to mind as a company engaged in similar efforts. I would like to research this company in the future as well.」（https://note.com/mushizukan_note/n/n9e696f7ecec6?hl=en）
 - 「日本では類似する取り組みをしている会社としてMUSCAが思い浮かびます」（https://note.com/mushizukan_note/n/n9e696f7ecec6）
 
+## Glideapps（https://www.glideapps.com/）
+- 「【GlideApps】日本語のドキュメントないので少し翻訳」（https://tom2rd.sakura.ne.jp/hanakotech/2020/08/17/post-15002/）
+- 「字幕の日本語訳でもしようか？って前にサンプルを送ったのですが」（https://tom2rd.sakura.ne.jp/hanakotech/2020/08/17/post-15002/）
+- 「項目だけでも日本語化して、リンクしておきました」（https://tom2rd.sakura.ne.jp/hanakotech/2020/08/17/post-15002/）
+- 「ManBow, a subsidiary of Manfield Paris, is a group of luxury shoe brands founded in 1844. With around 50 shoe shops and five brands, it is a family-owned business that is passionate about its products and finding the best materials. They work with small family-owned factories in Italy, Portugal, the」（https://www.glideapps.com/customers/manbow）
+
 ## Heartaerospace（https://www.heartaerospace.com）
 - 「日本のような狭小な島国だからこそこのような航空機は需要がありそう」（https://note.com/kazumat/n/n353d25dd658e）
 
@@ -1208,6 +1214,76 @@
 - 「日本128間信用金庫ATM大癱瘓 3,430間分行受影響 逾5小時後全...」（https://unwire.hk/2026/03/16/heyfood/life-tech/）
 - 「日本正式批准 iPS 細胞療法 重新編程成人細胞治柏金遜症」（https://unwire.hk/2026/03/16/heyfood/life-tech/）
 - 「日本研究：無糖強氣泡水減疲勞 電競玩家飲用後犯錯次數明顯減少」（https://unwire.hk/2026/03/16/heyfood/life-tech/）
+
+## Icarus（https://www.icarus.one/）
+- 「Japanese Localization at Icarus Nexus - Mods and community」（https://www.nexusmods.com/icarus/mods/170）
+- 「Japanese Localization」（https://www.nexusmods.com/icarus/mods/170）
+- 「This mod adds new Japanese localization. このModは追加でMod版の日本語ローカライズを追加します」（https://www.nexusmods.com/icarus/mods/170）
+
+## In Unison（https://www.in-unison.com/）
+- 「in unison とは 日本語訳と意味 | Goong.com - 新世代の辞書」（https://goong.com/ja/word/in-unison-%E3%81%A8%E3%81%AF-%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3%E3%81%A8%E6%84%8F%E5%91%B3/）
+- 「日本語WordNet(英和)での「in Unison」の意味」（https://ejje.weblio.jp/content/in+Unison）
+- 「How to say "in unison" in Japanese | Kotomora」（https://kotomora.com/en/ja/guide/in-unison）
+- 「Founding partner at NFX. Founder of Playtika (NASDAQ: PLTK)」（https://unison.co/）
+
+## Jerry（https://jerry.ai/）
+- 「（2017年12月閉店）、日本再進出した」（https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3&%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BA）
+- 「にららぽーと豊洲店を閉店し、同年3月にはミニカップ商品の納品も終えて、再度日本から撤退する方針が明らかになった」（https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3&%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BA）
+- 「(日本経済新聞社). (2012年2月27日)」（https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3&%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%82%BA）
+- 「a wholly-owned subsidiary of Unilever. The company produces」（https://cdn.featuredcustomers.com/CustomerCaseStudy.document/infinityqs-international_ben-jerrys_75346.pdf）
+
+## Maisa（https://maisa.ai）
+- 「日本企業のAI実装は「見せる」から「使い倒す」へ：Google Vids・Maisa AI・Netstockに学ぶ統治・HITL・ROIの実務」（https://aipulse.jp/post/ai-implementation-in-japanese-companies-moves-from-showing-to-using-to-the-hilt-governance-hitl-and-roi-practices-learned-from-google-vids-maisa-ai-and-netstock）
+- 「日本企業にとっては、コスト削減とスピードだけでなく、監査・法規制・品質保証を同時に満たす運用設計が競争力の差になります」（https://aipulse.jp/post/ai-implementation-in-japanese-companies-moves-from-showing-to-using-to-the-hilt-governance-hitl-and-roi-practices-learned-from-google-vids-maisa-ai-and-netstock）
+- 「日本語音声の自然さ、音素タイミング、用語読みの精度も事前検証を推奨します」（https://aipulse.jp/post/ai-implementation-in-japanese-companies-moves-from-showing-to-using-to-the-hilt-governance-hitl-and-roi-practices-learned-from-google-vids-maisa-ai-and-netstock）
+- 「UiPath (NYSE: PATH) is on a mission to uplevel knowledge work so more people can work more creatively, collaboratively, and strategically. The AI-powered UiPath Business Automation Platform combines the leading …」（https://www.featuredcustomers.com/vendor/maisa/case-studies）
+
+## Markaz（https://www.markaz.app）
+- 「Tablighi Jamaat in Japan - Tablighi Jamaat」（https://tablighi-jamaat.com/en/tablighi-jamaat-japan/）
+- 「Tablighi Jamaat first arrived in Japan from Pakistan in」（https://tablighi-jamaat.com/en/tablighi-jamaat-japan/）
+- 「, but remained largely dormant until the late 1980s when Muslim immigrant workers transformed the movement. Tablighi Jamaat has adapted to Japanese society’s unique cultural constraints, evolving from a small immigrant religious group into an established religious organization serving an estimated」（https://tablighi-jamaat.com/en/tablighi-jamaat-japan/）
+
+## Mintlify（https://mintlify.com）
+- 「ネット上の日本語情報はほぼ全部古いままです」（https://aipicks.jp/mag/mintlify-guide-2026）
+- 「日本語にも対応し、Mac・Windowsのどの入力欄でも使える（無料は1,000語まで）」（https://aipicks.jp/mag/mintlify-guide-2026）
+- 「日本語の解説記事には「Growthプラン月150ドル」「Pro月250ドル」といった記載がまだ残っています」（https://aipicks.jp/mag/mintlify-guide-2026）
+
+## Momentic（https://momentic.ai）
+- 「AIを活用してソフトウェアテストを自動化するスタートアップ企業「Momentic（モメンティック）」が、なんと1500万ドル（日本円にして約22億円！）もの巨額な資金調達に成功したというんです！」（https://note.com/2wd/n/ne84444f0c0da）
+- 「AIを活用してソフトウェアテストを自動化するスタートアップ企業「Momentic（モメンティック）」が、なんと1500万ドル（日本円にして約22億円！）もの巨額な資金調達に成功したというんです！」（https://note.com/2wd/n/ne84444f0c0da?hl=en）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/momentic/case-studies）
+
+## Nebia（https://www.brondell.com）
+- 「Italy, Portugal, Japan, and South Korea.」（https://www.brondell.com/healthy-living-blog/clearing-up-the-top-10-misconceptions-about-bidets/）
+- 「Nebia in Japanese Katakana and Japanese Hiragana - Your Name in Japanese - Nippon-names.com」（https://www.nippon-names.com/en/name/Nebia）
+
+## Noma（https://noma.security）
+- 「展示会、カンファレンスなどの能率普及事業は、国際モダンホスピタルショウ（日本病院会」（https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf）
+- 「協 賛：一般社団法人行政情報システム研究所、一般財団法人地域活性化センター、日本商工会」（https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf）
+- 「政法人中小企業基盤整備機構、一般財団法人日本立地センター、独立行政法人日本貿易振」（https://www.noma.or.jp/Portals/0/images/noma/report/report25.pdf）
+
+## Opensea（https://opensea.io）
+- 「海外のマーケットプレイスであるが、日本語対応しているため日本人も利用しやすい」（https://www.nadanews.com/learn/opensea/）
+- 「トップクラスの取り扱いNFT数、ユーザー数、月間取引高を誇り、日本を含めた世界中の人々がNFTを取引している」（https://www.nadanews.com/learn/opensea/）
+- 「日本の法律によって運営されていないため、トラブルがあった際には日本の司法を頼れない」（https://www.nadanews.com/learn/opensea/）
+
+## Proxy（https://proxy.co）
+- 「プロキシサーバー日本で活用する最適解は？2026最新解説 - KUJO Proxy」（https://www.kujoproxy.jp/japan-proxy-server/）
+- 「プロキシサーバー日本で活用する最適解は？2026最新解説」（https://www.kujoproxy.jp/japan-proxy-server/）
+- 「プロキシサーバー日本国内での利用は、単なる通信の中継という枠を超え、データ収集、セキュリティ強化、そしてマーケティングの精度向上に欠かせないインフラとなっています」（https://www.kujoproxy.jp/japan-proxy-server/）
+
+## SiPearl（https://sipearl.com/）
+- 「文部科学省が進める次世代計算基盤「富岳NEXT」の仕様策定において、汎用CPUと量子アクセラレータの結合強度が問われる日本の計算機アーキテクトにとっても、直接参照すべき先行事例となります」（https://techshift.jp/2026/10/12/post-2543/）
+- 「日本のHPC・半導体エコシステムへの波及効果」（https://techshift.jp/2026/10/12/post-2543/）
+- 「欧州におけるCPUとQPUの垂直統合の動きは、日本国内の計算機アーキテクチャ戦略に対して具体的な論点を投げかけています」（https://techshift.jp/2026/10/12/post-2543/）
+
+## Thinkbright（https://www.thinkbright.mx）
+- 「Japanese Family Crests (Kamon)」（https://www.teacherspayteachers.com/Product/World-History-Projects-Bundle-14605675）
+- 「– Investigate symbolism and family heritage by creating unique Japanese-inspired crests.」（https://www.teacherspayteachers.com/Product/World-History-Projects-Bundle-14605675）
+- 「Cogeco Peer 1 is a wholly owned subsidiary of Cogeco Communications Inc. (TSX:CCA) and is a global」（https://cdn.featuredcustomers.com/CustomerCaseStudy.document/cogeco-peer-1_thinkbright_None.pdf）
+
+## Voltfang（https://voltfang.de/）
+- 「技術的優位性・市場背景・TRL×調達ステージ・日本産業との接続は、Deep会員が読めます」（https://deeptech.nextblue.com/startups/voltfang）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

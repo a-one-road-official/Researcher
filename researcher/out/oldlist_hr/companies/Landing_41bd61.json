@@ -1,0 +1,1758 @@
+{
+ "name": "Landing",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-10T23:29:26.018824+00:00",
+ "official_url": "https://landing.ai/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金体系",
+    "value": "スモールスタートから大規模導入まで",
+    "url": "https://skywork.ai/skypage/ja/landing-ai-image-recognition/1984194728318390272",
+    "pass": 3
+   },
+   {
+    "label": "料金体系",
+    "value": "スモールスタートから大規模導入まで Landing AIは、ユーザーが試しやすい柔軟な料金体系を用意しています",
+    "url": "https://skywork.ai/skypage/ja/landing-ai-image-recognition/1984194728318390272",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://startupintros.com/orgs/landing",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Birmingham, AL, USA",
+    "url": "https://startupintros.com/orgs/landing",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "LandingAI - Agentic APIs for Intelligent Document Processing",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate, Production-Ready AI",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Convert any document into accurate, structured data. Fully auditable, traceable, and production-ready from day one.",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "you can prove, not guess",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven on real-world layouts, complex tables, and multi-page documents delivering consistent results in production, not just in benchmarks.",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Results come with proof",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Verify parsed results with page numbers and precise coordinates for each chunk. Confidence scoring surfaces results that may need human review.",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate processing bottlenecks and scale effortlessly. ADE handles thousands of pages per minute.",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Structured content blocks including text, tables, and figures, with hierarchy preserved",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Precise citations for every block (page, coordinates, and table-cell grounding)",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reconciliation, compliance checks, reporting, and approvals—without manual reviews.",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "autonomous document processing",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our proprietary vision models reliably extract data from complex tables, dense layouts, and multi-page documents. Our system improves accuracy faster through built-in feedback and control.",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Accuracy improves through better, curated data, while failure cases are captured, audited, and systematically fed back to reduce errors and rework.",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud, on-premises, or virtual private deployment options",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Zero data retention option",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Over 50+ enterprise customers trust LandingAI to stay ahead of document processing. We beat the industry with <2 second processing time.",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Images and documents processed",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Document Extraction has proven to be both accurate and easy to use. We are building on that foundation to deliver reliable, transparent, and scalable automation that our customers can validate and trust.”",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Process Automation",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product, TCG Process",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trust is the product. Accuracy alone isn’t enough at enterprise scale—what matters is provenance, traceability, and control. LandingAI gives us confidence that every extracted value can be traced back to its source, audited, and defended. That’s what makes it deployable in regulated, real-world environments.”",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager, GreenLite",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ADE has significantly outperformed other document extractors we’ve used. It has helped us build an Agentic RAG answer engine, based on unique healthcare institutional content, to offer instant, validated support to medical professionals at the point of care.”",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I appreciate its reliability and the fact that they're constantly innovating with new models, which helps us work smarter. The service is essential for handling heavy workloads in financial institutions as it provides the necessary infrastructure for high accuracy and fast throughput. I also find it adaptable to specific use cases because they're always working on new models.”",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ". Please provide as much detail as possible about the topics you wish to discuss.",
+    "url": "https://landing.ai/builder",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support embedded video.",
+    "url": "https://landing.ai/builder",
+    "pass": 1
+   },
+   {
+    "quote": "Agent skills, Python library, benchmarks, and messaging guides to get production-ready fast",
+    "url": "https://landing.ai/builder",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Rate Limit & Feature Access",
+    "url": "https://landing.ai/builder",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible & Predictable Pricing",
+    "url": "https://landing.ai/builder",
+    "pass": 1
+   },
+   {
+    "quote": "Credit-based pricing, with feature-specific add-ons to fit your product and GTM model",
+    "url": "https://landing.ai/builder",
+    "pass": 1
+   },
+   {
+    "quote": "“LandingAI’s Builder Program aligns perfectly with phData’s mission to help enterprises build reliable, production-grade AI. With ADE, developers and data teams gain structured, governed access to document intelligence—whether it’s parsing financial filings, extracting healthcare data, or streamlining legal reviews. We’re excited to bring this capability to customers and co-create new solutions.”",
+    "url": "https://landing.ai/builder",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic APIs Pricing - LandingAI",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Simple and Transparent Pricing for Every Stage",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "All Agentic Document Extraction APIs run on credits. Purchase credits here, then use them flexibly for all your document processing needs.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "For developers validating and prototyping a use case or for non-recurring work which does not require features of the Team plan.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary advanced parsing models",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "For internal teams and solution providers shipping document workflows. Plans from 25,000 to 200,000 credits per month.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Zero data retention available",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "HIPAA-compliant processing with BAA",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "For enterprises needing custom infrastructure or SaaS customers needing more than 200,000 credits per month.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored pricing, support, and deployment options.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS, VPC, and on-prem deployments",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Zero Data Retention (ZDR)",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Credits are usage units that get consumed each time you process a document. Every document processing task uses some amount of credits.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Which factors most impact price?",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "The model selected and the service tier have the greatest impact on price.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "The Standard service tier costs 50% less than the Priority tier. The DPT-3 Verity model costs roughly 66% less than the DPT-3 Pro model.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "The exact same page run on DPT-3 Pro on Priority can cost 75-90% less when run on DPT-3 Verity on the Standard tier.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "The DPT-3 Pro model was calibrated to cost roughly 1.5 credits for a typical business document with 4,000 characters on the page on the Standard service tier.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "The DPT-3 Verity (Preview) model was calibrated to cost roughly 0.55 credits per page for a typical business document with 4,000 characters on the page on the Standard service tier.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Content-light pages cost less while content-heavy pages cost more.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "2) Ratio of Standard to Priority service tier usage for Parsing. Use Priority only when a person or agent is waiting for the response.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "3) Ratio of DPT-3 Pro to DPT-3 Verity usage. DPT-3 Verity is less expensive for digital-native documents with Latin scripts.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "What is Zero Data Retention (ZDR)?",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "When the ZDR option is enabled for your account, LandingAI retains your data only long enough to process your request and deliver the result. Your documents and all intermediate processing data are deleted when the operation finishes. ZDR is only available for Team and Enterprise plans.",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, Agentic Document Extraction supports HIPAA compliance on its Team and Enterprise plans. To ensure HIPAA compliance, you must do two things:",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "Already a customer and need a hand? Get help with your account, ask a product question, or report an issue.",
+    "url": "https://landing.ai/inquiries",
+    "pass": 1
+   },
+   {
+    "quote": "Document Processing for Banking & Financial Services | LandingAI",
+    "url": "https://landing.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Financial institutions process millions of documents every day—account applications, client questionnaires, KYC packs, financial statements, term sheets, the list goes on.",
+    "url": "https://landing.ai/industries/financial-services",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Schema-first extraction (flat or nested, arrays, multi-table)",
+    "url": "https://landing.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Shrink time-to-revenue on new accounts",
+    "url": "https://landing.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Compressing document processing cycle times in prior authorization and revenue cycle management reduces administrative delays that directly affect patient access to care and reimbursement speed.",
+    "url": "https://landing.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent document processing across hospital systems, health plans, physician practices, and revenue cycle operations is extremely difficult due to the sheer diversity of document types, the inconsistent layouts and the domain expertise required. This complexity is compounded by multi-language content, handwriting, scanned images, photos, and legacy formats like faxes.",
+    "url": "https://landing.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Capture all billable services documented in the record to improve net revenue",
+    "url": "https://landing.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate contract turnaround to shorten time to revenue on new client engagements",
+    "url": "https://landing.ai/industries/legal",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce document review costs by narrowing the relevant set before attorney review begins",
+    "url": "https://landing.ai/industries/legal",
+    "pass": 1
+   },
+   {
+    "quote": "Extract shipment details, carrier information, and cargo data from bills of lading and shipping documents.",
+    "url": "https://landing.ai/industries/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "ADE extracts against a schema Autyn defines, so output arrives as predictable, typed data — consistent even when the underlying document format varies from one borrower to the next.",
+    "url": "https://landing.ai/case-studies/how-autyn-cut-loan-processing-from-2-hours-to-2-minutes-at-98-accuracy",
+    "pass": 1
+   },
+   {
+    "quote": "Every value ADE returns carries a confidence score and a source tag. Autyn uses that metadata to:",
+    "url": "https://landing.ai/case-studies/how-autyn-cut-loan-processing-from-2-hours-to-2-minutes-at-98-accuracy",
+    "pass": 1
+   },
+   {
+    "quote": "Automated extraction from incident reports, arrest records, and supporting documentation reduces the administrative time officers and investigators spend on data entry, freeing capacity for active case work.",
+    "url": "https://landing.ai/industries/public-safety-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Extract incident type, location, subject information, narrative, and disposition data from police reports, fire incident reports, EMS patient care reports, and use-of-force documentation to populate case management systems and support investigative workflows.",
+    "url": "https://landing.ai/industries/public-safety-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "- Solar power project management in Japan and internationally, including identification and acquisition of an overseas system integrator.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ａ．We can arrange a half a day session so we can find what is needed for you to start your Japanese business.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "その後、David Marrによる3D表現の理論的研究、そして2012年のAlexNetの登場による深層学習（CNN）のブレークスルーを経て、CV技術は飛躍的に進化しました",
+    "url": "https://skywork.ai/skypage/ja/landing-ai-image-recognition/1984194728318390272",
+    "pass": 3
+   },
+   {
+    "quote": "Preservation efforts underscore the game's rarity today, with only 16 known instances owned by active members of the Video Arcade Preservation Society (VAPS), classifying it as \"uncommon\" among collectors who seek its specialized yoke controls and dual-monitor setup.",
+    "url": "https://grokipedia.com/page/landing_high_japan",
+    "pass": 3
+   },
+   {
+    "quote": "demonstrates how systematic testing, behavioral analysis, and iterative refinement can significantly increase revenue without increasing traffic acquisition costs.",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ". Conversion lifts, lead growth, revenue increases, and engagement improvements quantify the effectiveness of the optimization process. Transparent reporting of metrics strengthens credibility and provides strategic direction for future experiments.",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The campaign delivered both lower acquisition costs and clearer insight into customer motivation. Lessons from landing page testing were later applied to email and webinar campaigns, creating a more cohesive, performance-driven marketing strategy.",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "NeuroMD’s optimization strategy focused on rebuilding trust and addressing objections directly. Multiple landing page formats – including advertorials, listicles, and revised hero pages – were tested to identify the strongest narrative structure. Messaging shifted to prioritize credibility, clarity, and alignment with customer language rather than a purely visual redesign.",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI eCommerce Optimization: The Smarter Way to Grow Revenue Without Guesswork",
+    "url": "https://wingify.com/blog/landing-page-optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Landing's investors include David Schaller, Alumni Ventures, Firebrand Ventures, Foundry Group, H20 Capital Innovation, Greycroft, Chris Moody, Maveron, Nick Hanauer, Warren Jenson, Ian Sigalow, Abstract Ventures.",
+    "url": "https://startupintros.com/orgs/landing",
+    "pass": 3
+   },
+   {
+    "quote": "After prospects click on an ad, they’ll arrive at a landing page, which uses one or many of the tactics below to get customers to buy immediately:",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "Landing pages are an integral part of a B2B lead generation, conversion, or social media ad campaigns. That’s why it is crucial to learn what strategies and tactics work well and apply them to any new landing page design.",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "If you have additional questions, contact us at",
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "pass": 1
+   },
+   {
+    "quote": "info@landing-japan.com",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "info@landing-japan.com",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The campaign delivered both lower acquisition costs and clearer insight into customer motivation. Lessons from landing page testing were later applied to email and webinar campaigns, creating a more cohesive, performance-driven marketing strategy.",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Their initial research suggested that the email address field next to the CTA was probably creating friction among visitors.",
+    "url": "https://wingify.com/blog/landing-page-optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Based on this observation, they created a new version of the landing page, removing the email address field and retaining only the primary CTA.",
+    "url": "https://wingify.com/blog/landing-page-optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "You can also email us at",
+    "url": "https://wingify.com/blog/landing-page-optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "In many cases, B2B ad campaigns drive customers to a lead capture landing page that encourages them to fill out a form. This strategy enables them to download an ebook or report, or sign up for an email newsletter, course, webinar, or live-streaming event.",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "After completing the lead gen form, customers are directed to a thank you page, which provides a link to download the report pdf. A confirmation message indicates that a link will be sent to the prospect’s email address, as well.",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "Most LinkedIn users already have an account, so their personal information is automatically pulled into the pop-up landing page. They simply need to provide their preferred email address to download an ebook or report, or sign up for a webinar or event, which saves valuable time.",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "To help prospective customers reach a support person for further information via phone, email, or chat, there should also be clear and short contact copy and/or links displayed at the top of the landing page.",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "Be relevant to the message conveyed in the ad, social media post, or email that drove a user to the landing page",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Interested in building on LandingAI or partnering as a reseller? Learn how to work with us.",
+    "url": "https://landing.ai/inquiries",
+    "pass": 1
+   },
+   {
+    "quote": "Public Safety Agencies",
+    "url": "https://landing.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Document Processing for Public Safety Agencies | LandingAI",
+    "url": "https://landing.ai/industries/public-safety-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Public safety agencies process high volumes of documents every day — incident reports, use-of-force records, evidence logs, chain-of-custody forms, EMS patient care reports, grant applications, and after-action reports, the list goes on.",
+    "url": "https://landing.ai/industries/public-safety-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Inaccurate or delayed document processing creates evidentiary risk, exposes agencies to compliance findings, and consumes officer time that should be spent on public safety operations.",
+    "url": "https://landing.ai/industries/public-safety-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Public Safety Agencies",
+    "url": "https://landing.ai/industries/public-safety-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Document Extraction enables public safety agencies to automate document-intensive processes that traditionally require manual review.",
+    "url": "https://landing.ai/industries/public-safety-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Landing's investors include David Schaller, Alumni Ventures, Firebrand Ventures, Foundry Group, H20 Capital Innovation, Greycroft, Chris Moody, Maveron, Nick Hanauer, Warren Jenson, Ian Sigalow, Abstract Ventures.",
+    "url": "https://startupintros.com/orgs/landing",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "enables organizations to convert complex, unstructured documents into structured, LLM-ready data at scale, leveraging the robust and secure infrastructure of AWS. LandingAI's solutions are trusted by enterprises across industries to drive efficiency, accuracy, and innovation in document-intensive workflows.",
+    "url": "https://landing.ai/case-studies/how-autyn-cut-loan-processing-from-2-hours-to-2-minutes-at-98-accuracy",
+    "pass": 1
+   },
+   {
+    "quote": "enables organizations to convert complex, unstructured documents into structured, LLM-ready data at scale, leveraging the robust and secure infrastructure of AWS. LandingAI’s solutions are trusted by enterprises across industries to drive efficiency, accuracy, and innovation in document-intensive workflows.",
+    "url": "https://landing.ai/case-studies/how-green-lite-cut-plan-review-time-by-50-with-reliable-document-extraction",
+    "pass": 1
+   },
+   {
+    "quote": "enables organizations to convert complex, unstructured documents into structured, LLM-ready data at scale, leveraging the robust and secure infrastructure of AWS. LandingAI’s solutions are trusted by enterprises across industries to drive efficiency, accuracy, and innovation in document-intensive workflows.",
+    "url": "https://landing.ai/case-studies/eolas-medical-enhances-clinical-knowledge-access-with-agentic-document-extraction",
+    "pass": 1
+   },
+   {
+    "quote": "- Evaluation and introduction of overseas fuel cell and hydrogen related companies (including, but not exclusively, from US, Canada, UK, EU) to Japanese industrial majors in the power, gas, engineering and automotive sectors.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "図表：世界の産業用AI市場予測 出典: IoT Analytics, Industrial AI Market Report 2025–2030 (2025-08) IoT Analyticsの予測によれば、産業用AI市場は2024年の436億ドルから2030年には1,539億ドルへと、年平均23%の驚異的な成長を遂げると見られています",
+    "url": "https://skywork.ai/skypage/ja/landing-ai-image-recognition/1984194728318390272",
+    "pass": 3
+   },
+   {
+    "quote": "For accessibility and group play, the seated configuration provides a stable, ergonomic setup that mimics a commercial airliner cockpit, allowing players to focus on procedural tasks without standing. Installations often featured clusters of 10 or more units in dedicated warehouse spaces, enabling observers to watch multiple simultaneous sessions and fostering a communal arcade experience.",
+    "url": "https://grokipedia.com/page/landing_high_japan",
+    "pass": 3
+   },
+   {
+    "quote": "The game's nostalgia factor persists through online communities and rediscoveries, such as the 2021 unearthing of approximately 10 cabinets from a warehouse, which sparked YouTube playthroughs and discussions among retro gaming fans.",
+    "url": "https://grokipedia.com/page/landing_high_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Landing Gear Supplier Case Study - Manufacturing Efficiency",
+    "url": "https://ideasengg.com/case-studies/global-aerospace-landing-gear-supplier-enhances-manufacturing-efficiency-by-leveraging-our-engineering-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Tier 1 Aerospace Landing Gear Supplier",
+    "url": "https://ideasengg.com/case-studies/global-aerospace-landing-gear-supplier-enhances-manufacturing-efficiency-by-leveraging-our-engineering-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Global Aerospace Landing Gear Supplier Enhances Manufacturing Efficiency by Leveraging Our Engineering Solutions",
+    "url": "https://ideasengg.com/case-studies/global-aerospace-landing-gear-supplier-enhances-manufacturing-efficiency-by-leveraging-our-engineering-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Operates over 18 manufacturing facilities in North America and Europe",
+    "url": "https://ideasengg.com/case-studies/global-aerospace-landing-gear-supplier-enhances-manufacturing-efficiency-by-leveraging-our-engineering-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier to Aerospace & Defense including Boeing, Lockheed Martin, ITP Aero & more",
+    "url": "https://ideasengg.com/case-studies/global-aerospace-landing-gear-supplier-enhances-manufacturing-efficiency-by-leveraging-our-engineering-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Collaboration",
+    "url": "https://ideasengg.com/case-studies/global-aerospace-landing-gear-supplier-enhances-manufacturing-efficiency-by-leveraging-our-engineering-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": ": Partnered closely with the manufacturing team, navigating operational challenges to ensure seamless implementation and validation",
+    "url": "https://ideasengg.com/case-studies/global-aerospace-landing-gear-supplier-enhances-manufacturing-efficiency-by-leveraging-our-engineering-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "In this case study, you’ll learn how to organize landing pages into a content engine",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Landing Page Optimization Case Study?",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A landing page optimization case study is a",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "In a comprehensive landing page optimization case study, every aspect of the page is scrutinized. This includes examining the visual design, user experience (UX) elements, copywriting, call-to-action (CTA) buttons, and the overall layout.",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The case study typically highlights the",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "made, such as A/B testing page versions, refining messaging, or simplifying navigation. The case study also emphasizes the importance of data-driven",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Incorporating the following best practices and tips can significantly enhance the effectiveness of your case study:",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Images, charts, and graphs can clarify data and make the case study more engaging.",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Clear headings organize case study content:",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Structuring the case study with well-defined sections improves readability and flow.",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Periodically revisiting and updating the case study ensures the information stays current and continues to provide value.",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "1. AvidXchange Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Artur Jabłoński Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "3. 1-800-DENTIST Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Good.co Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "5. ClickMechanic Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "6. NeuroMD Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "7. TruckersReport Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "8. firstSTREET Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "9. Ensighten Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "10. SafeSoft Solutions Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "11. Kaya Skin Clinic Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "12. Kuźnia Kadr Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "13. Bonduelle Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "14. Rent Like Home Landing Page Optimization Case Study",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by 4000+ leading brands globally",
+    "url": "https://wingify.com/blog/landing-page-optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ": 99.99% uptime, trusted by 30K+ users for 1B+ images/year; strong developer experience with integrations like Snowflake, plus operating support from Ng's expertise.[3][5]",
+    "url": "https://startupintros.com/orgs/landing",
+    "pass": 3
+   },
+   {
+    "quote": ": Backed by top VCs, Forbes-recognized employer, and real-world wins like improving manufacturing efficiency.[2][7]",
+    "url": "https://startupintros.com/orgs/landing",
+    "pass": 3
+   },
+   {
+    "quote": "Some thank you pages also will try to drive customers into a branded website by prompting users to read a blog post, ebook, or case study at the very bottom of the page.",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ブログ運営のオープンソースを実測で比較（ライセンス・日本語対応・更新）",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "OSSを自分で立てて日本語化する代わりに、日本語で作った当社の製品を自社のサーバーに置く方法もあります",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サイト向けのSEO診断を自社サーバーで",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、この土台に対して日本語化、画面や項目の変更、権限、帳票、既存システムとの連携を加えて、御社の業務に合う状態にします",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "landingには日本語のファイルがありません",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "機能の一覧、日本語ファイルの実測、同じ分類のOSSとの比べ方など、技術者向けの情報は",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "landingの日本語化・改修・導入（バイブOSS）を、御社のお客様に販売できます",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス、日本語対応、規模を比べて選べます",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "かかるのはサーバー代と、日本語化や自社向けの変更にかかる費用です",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "判定は、GitHubの公開ファイル一覧から日本語ロケールの実ファイルを数えた結果です（配布用のビルド成果物は除外）",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語化が必要な場合は、当社がその作業を含めて導入します",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "この用途に使えるオープンソースとして公開されており、当社ではこれを土台に日本語化と自社向けの変更を行って導入します",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "Landing Japan | ランディングジャパン",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場、海外市場を問わず、",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は設立時より環境・社会・ガバナンスというESGの重要性を事業の中核におき、起業、ベンチャー企業支援、日本から海外への進出など、様々なビジネス業態の応援をして参りました",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "輸出入業務、合弁会社運営、代理店ビジネス、ライセンス事業、新会社設立、雇用支援など、会社運営から、営業コンサルまで各種業務請負を行っておりますので、お気軽にご相談下さい",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は海外企業の日本市場進出をサポートする事業からその礎を築き始めました",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内市場、海外市場のどちらもグローバル市場と捉えたビジネス展開を重要な視点としてサポートしています",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "海外からの日本市場への進出サポートを積極的に行っています",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は様々な観光資源や文化で海外からの来訪者を魅了し続けています",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした海外企業からの日本市場進出にあたって、法制に則った、即効性があり効果の高い業務支援を行うべく、外資系企業の対日進出促進事業に力を入れています",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "そこでサービス終了とすることも、我々を引き続きビジネスの代理店としてご利用頂くことも可能です",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は元々海外企業が日本市場への進出する際のサポートをお手伝いする業務から事業をスタートさせました",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "外国企業が日本での法人設立を手がけるにあたりコンサルティング業務を提供して参りました",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語⇄英語を中心に様々な言語に安価でスピード感を持って対応致します",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "無償、円借款などの日本の助成金、世界銀行資金等を活用した途上国インフラ整備など、政府開発援助プロジェクトに従事",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "海外の燃料電池及び水素関連企業との提携を通じ、電力、ガス、エンジニアリング、自動車セクター等の日本の産業へ紹介",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本法人設立準備から設立、10年に及ぶビジネス開発に従事",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業との開発契約や技術ライセンス契約、及び日英間のJV設立を達成",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業との戦略的事業開発業務に従事し、日英ビジネスの推進",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本法人や支社の設立、設立後の運営コンサル業務",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 Landing Japan （ランディングジャパン）",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "info@landing-japan.com",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "To assist those from overseas who want to make their first market entry into Japan. Or to support those who have already entered the Japanese market and are ready to connect and grow by utilising our extensive experience and network.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "You may have already thought about entering into the Japanese market. Or perhaps you are currently thinking about possibility of entering the Japanese market.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Your interest would be almost certainly worth exploring further. However, sometimes the Japanese market can be challenging and there are a number of difficulties to be overcome such as language, business cultures, legislative procedure",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our mission is to encourage you and provide appropriate guidance. With considerable experience of the mechanisms of Japan industry, commerce and overseas business, we can give you a smoother entry to the market. So please do not hesitate to get in touch with us!",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "When you start your preparation work for business in Japan, you will notice that you have to go through various legal processes. For that you might need to have advice from lawyers, accountant, tax experts, etc. and you may wonder if you are doing right things. Sometimes it is a very frustrating process. We want to help you with that!",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We can undertake marketing or business development locally on your behalf and also establish and manage export/import connectivity between Japan and your country. Starting flexibly with 6 months to 12 months initial marketing work with recommendations and progress reports. throughout the period.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We can help you recruit and identify personnel for early stage local employee roles in Japan. Whilst this process is taking place we can initiate and manage local business on your behalf, including acting as a conduit to your new customers and continuing to extend your outreach into the Japanese market",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Consultancy services to cope with any issues in Japan.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We can advise you about recruiting in Japan.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "- Engaged in Official Development Assistance projects, such as Japanese Governmental Grants, Yen Credit, World Bank funded projects in the telecommunication and power distribution areas.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "- Solar power project management in Japan and internationally, including identification and acquisition of an overseas system integrator.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "- Evaluation and introduction of overseas fuel cell and hydrogen related companies (including, but not exclusively, from US, Canada, UK, EU) to Japanese industrial majors in the power, gas, engineering and automotive sectors.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "with foreign companies entering and operating in the Japanese market",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Incorporation of Japanese entity and whole management on daily/monthly bases for 9 years",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Achieved multi million commercial deals and license and JV agreement between Japan and UK",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic business development services to targeting Japanese companies",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Promotion of business between Japan and UK",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Business consultancy assessing Japanese industry opportunities",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Landing Japan Corporation",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "K813 Knowledge Capital 8F, Grand Front Osaka 3-1 Ofuka-cho Kita-ku, Osaka 530-0011, Japan",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "info@landing-japan.com",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ａ．We can arrange a half a day session so we can find what is needed for you to start your Japanese business.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【日本市場特集】Landing AIは日本の「ものづくり」をどう変えるか？",
+    "url": "https://skywork.ai/skypage/ja/landing-ai-image-recognition/1984194728318390272",
+    "pass": 3
+   },
+   {
+    "quote": "私が実際にLanding AIを試し、その思想に触れた経験を基に、核心技術の深層から具体的な操作方法、主要な競合ツールとの徹底比較、そして日本市場における独自の可能性まで、あらゆる角度からLanding AIを解剖します",
+    "url": "https://skywork.ai/skypage/ja/landing-ai-image-recognition/1984194728318390272",
+    "pass": 3
+   },
+   {
+    "quote": "特に、日本のRist社との提携は、日本市場への強いコミットメントを示しています",
+    "url": "https://skywork.ai/skypage/ja/landing-ai-image-recognition/1984194728318390272",
+    "pass": 3
+   },
+   {
+    "quote": "【日本市場特集】Landing AIは日本の「ものづくり」をどう変えるか？ 海外で生まれた優れたツールも、日本の特有の環境や課題に適合しなければ普及は望めません",
+    "url": "https://skywork.ai/skypage/ja/landing-ai-image-recognition/1984194728318390272",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、Landing AIが日本の「ものづくり」が抱える根深い課題に対し、いかに有効なソリューションとなり得るかを考察します",
+    "url": "https://skywork.ai/skypage/ja/landing-ai-image-recognition/1984194728318390272",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "landingでブログ運営｜業務での使い方と導入 — Oct 26, 2026 · landingをブログ運営の業務にどう使うかと、導入の進め方をまとめました。 Bootstrap 5をベースにした、100以上のセクションを含む高機能なUIキットです。 名古屋のシステム開発会社が日本語化から導入まで行います。",
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "pass": 3
+   },
+   {
+    "quote": "Landing Japan | ランディングジャパン — 日本市場参入、海外進出など、様々な業態の事業を開始される貴社へ、初期のマーケティング、事業展開を請け負います。 国内、海外から日本での法人設立及び運営に、法務、会計、税務、社則作成、労務、雇用等のコンサルティング業務を提供いたします。",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Landing Japan — To assist those from overseas who want to make their first market entry into Japan. Or to support those who have already entered the Japanese market and are ready to connect and grow by utilising our extensive experience and network.",
+    "url": "https://www.landing-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Landing AI徹底解説：AI画像認識の未来を拓く — Nov 3, 2025 · AI開発を民主化するプラットフォームの全貌 創業者Andrew Ng氏のビジョンと核心哲学「データセントリックAI」 主要プロダクト群：現場の課題を解決する4つの柱 ターゲットユーザー：専門家から現場担当者まで 料金体系：スモールスタートから大規模導入 ...",
+    "url": "https://skywork.ai/skypage/ja/landing-ai-image-recognition/1984194728318390272",
+    "pass": 3
+   },
+   {
+    "quote": "Landing High Japan — Landing High Japan is a flight simulation arcade video game developed and published by Taito in 1999. In the game, players assume the role of a commercial airline pilot, navigating the challenges of takeoff and landing at various Japanese airports w…",
+    "url": "https://grokipedia.com/page/landing_high_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Landing Japan | ランディングジャパン — Landing Japanは 日本市場、海外市場を問わず、 あらゆる ビジネスに必要なサポートを提供します。 起業、新規サービス、事業拡大、海外進出、貴社のビジネス展開において、マーケティングからコンサルティング業務まであらゆるサポートを提供します。",
+    "url": "https://www.landing-japan.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Landing in Japan — your first 72 hours — Practical, checked information for your first 72 hours in Japan: getting out of the airport, getting connected, money, luggage, and your first train. Written in Japan.",
+    "url": "https://www.landinginjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Landing Japan Corporation | LinkedIn — We provide professional services for your market entry into Japan. | Consulting firm providing professional services for foreign companies to start business in Japan.",
+    "url": "https://jp.linkedin.com/company/landing-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Landing Gear Supplier Case Study - Manufacturing ... — Case study: How IDEAS helped a global aerospace landing gear supplier triple production, cut cycle time by 70% and reduce engineering costs by 50%",
+    "url": "https://ideasengg.com/case-studies/global-aerospace-landing-gear-supplier-enhances-manufacturing-efficiency-by-leveraging-our-engineering-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Landing Page Optimization Case Studies: 14 Best Examples — Mar 2, 2026 · Explore the 14 best landing page optimization case studies that showcase how top companies significantly boosted their conversion rates and user engagement through strategic design tweaks, A/B testing, and data-driven decisions.",
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "5 Landing Page Optimization Case Studies: Top Brands | Wingify — Oct 27, 2026 · Want to boost conversions? Check out 5 landing page optimization case studies by top brands with clear goals, solutions, results, and takeaways.",
+    "url": "https://wingify.com/blog/landing-page-optimization-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "AEROSPACE AND DEFENSE CASE STUDY MESSIER-BUGATTI-DOWTY — Airlines save on fuel through new composite materials, including titanium, used for machining equipment and landing gear, thus reducing their weight, environmental impact and operating costs.",
+    "url": "https://www.3ds.com/sites/default/files/2020-03/messier-bugatti-dowty-case-study-2015.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Landing – Business Snapshot & Rival Analysis – 2026 — Discover Landing's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/landing",
+    "pass": 3
+   },
+   {
+    "quote": "Landing 2026 Company Profile: Valuation, Funding & Investors ...Landing - 2026 Company Profile, Team, Funding & Competitors ...Landing: Funding, Team & Investors | Startup IntrosLanding AI – Financials, Industry Trends & Funding Info – 2026Landing: Funding, Investors & Team (Oct 2026) | FundedIQLanding - Products, Competitors, Financials, Employees ... — Information on valuation, funding, acquisit",
+    "url": "https://pitchbook.com/profiles/company/399473-11",
+    "pass": 3
+   },
+   {
+    "quote": "Landing - 2026 Company Profile, Team, Funding & Competitors ...Landing: Funding, Team & Investors | Startup IntrosLanding AI – Financials, Industry Trends & Funding Info – 2026Landing: Funding, Investors & Team (Oct 2026) | FundedIQLanding - Products, Competitors, Financials, Employees ... — Mar 24, 2026 · Landing - About the company Landing is a series C company based in San Francisco (United Sta",
+    "url": "https://tracxn.com/d/companies/landing/__c2o-mcBXCSCjh3CraSp0gAeODQfKAmIRGjj6pJKlubU",
+    "pass": 3
+   },
+   {
+    "quote": "Landing: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · [2] [3] The company has raised $57 million in funding, employs around 107 people, and generates approximately $10.5-19.3 million in annual revenue, with strong growth evidenced by 30K+ users and recognition as a top startup employer by Forbes.",
+    "url": "https://startupintros.com/orgs/landing",
+    "pass": 3
+   },
+   {
+    "quote": "Landing AI – Financials, Industry Trends & Funding Info – 2026 — At Landing AI, each employee is estimated to contribute about $305.5K in annual revenue. Landing AI has secured approximately $57M through various funding rounds. More than 100+ individuals currently work at Landing AI. Landing AI saw a 8% rise in total headcount last year.",
+    "url": "https://compworth.com/company/landing-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Landing Furnished Apartments (@HelloLanding) / X Life should move with you. Whether you're renovating, planning a getaway, or test-driving a new neighborhood, we're here to make the 'in-between' never feel temporary. One platform. Hundreds of cities. Wherever life takes you, stay with Landing.",
+    "url": "https://x.com/HelloLanding",
+    "pass": 3
+   },
+   {
+    "quote": "Prairie Landing (@PrairieLanding) / X French Market on Sunday, August 16, 2026, from 10:00 AM – 3:00 PM. Join us at Prairie Landing Golf Club for a French Market showcasing local makers and small businesses. Best of all, it is free to enter!",
+    "url": "https://x.com/prairielanding",
+    "pass": 3
+   },
+   {
+    "quote": "Landing Company (@LandingCompany) / X Landing Company designs, creates, and curates fine jewelry inspired by Florida’s coastal beauty and crafted with the world’s finest materials.",
+    "url": "https://x.com/landingcompany",
+    "pass": 3
+   },
+   {
+    "quote": "Landing.Jobs (@Landing_jobs) / X We've launched a survey at Landing.Jobs called 'Tech Hiring Trends 2024.' It's crucial for managers and recruiters. Your input will help create a valuable report for HR professionals worldwide. Please participate in the survey at bit.ly/THT24 and share it!",
+    "url": "https://x.com/Landing_jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Landing - LinkedIn For a week-long getaway or an extended adventure, Landing delivers a familiar and frictionless guest experience that’s perfect for any travel occasion, for work or pleasure.",
+    "url": "https://www.linkedin.com/company/hellolanding",
+    "pass": 3
+   },
+   {
+    "quote": "CIO Landing - LinkedIn At CIO Landing, we act as your trusted Outsourced IT department, offering expert cybersecurity solutions and CIO oversight to streamline your IT operations, ensure compliance, and foster growth.",
+    "url": "https://www.linkedin.com/company/cio-landing-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive Guide to Landing Pages | LinkedIn Ads Discover everything you need to know about landing pages, including practical examples, optimization tips, different types, and more. Boost your marketing strategy and drive better conversions.",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "The Landing Restaurant Group - LinkedIn The Landing Group is a full service restaurant group catering to a wide variety of tastes reflective of the vibrancy of our communities. Our sprawling patios and warm interiors embrace the...",
+    "url": "https://ca.linkedin.com/company/the-landing-restaurant-group",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・本文）": [
+   {
+    "quote": "Comprehensive Guide to Landing Pages | LinkedIn Ads",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "Try A/B Testing on LinkedIn",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about Landing Page:",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Landing Page?",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "Types of landing pages and examples",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "How to optimize a landing page",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "Landing pages are integral for B2B ad campaign success",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   },
+   {
+    "quote": "What is a landing page?",
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "The Public Landing Restaurant | Lockport IL - FacebookThe Landing Strip Bar and Grill | Schiller Park IL - FacebookMallard Landing | FacebookThe Landing - Houston | Houston TX - FacebookSwans Landing | Marshall IL - FacebookThe Landings at Amhurst Lake | Waukegan IL - FacebookCIO Landing, Inc. | Northfield IL - Facebook 3 days ago · The Public Landing Restaurant, Lockport. 14,541 followers · 294 t",
+    "url": "https://www.facebook.com/PublicLandingRestaurant/",
+    "pass": 3
+   },
+   {
+    "quote": "The Landing Strip Bar and Grill | Schiller Park IL - FacebookMallard Landing | FacebookThe Landing - Houston | Houston TX - FacebookSwans Landing | Marshall IL - FacebookThe Landings at Amhurst Lake | Waukegan IL - FacebookCIO Landing, Inc. | Northfield IL - Facebook The Landing Strip Bar and Grill, Schiller Park. 5,110 likes · 34 talking about this · 6,284 were here. The Landing Strip Bar and Gri",
+    "url": "https://www.facebook.com/TheLandingStripBarandGrill/",
+    "pass": 3
+   },
+   {
+    "quote": "Mallard Landing | Facebook Dec 20, 2023 · Mallard Landing is a peaceful neighborhood where you can relax and enjoy the simple things in life. It's the perfect place to call home!",
+    "url": "https://business.facebook.com/groups/1061678885026835/",
+    "pass": 3
+   },
+   {
+    "quote": "The Landing - Houston | Houston TX - FacebookSwans Landing | Marshall IL - FacebookThe Landings at Amhurst Lake | Waukegan IL - FacebookCIO Landing, Inc. | Northfield IL - Facebook Oct 19, 2026 · For ten years, The Landing has had the privilege of walking alongside survivors as they pursue safety, healing, stability, and the freedom to build a life of their own. Oct 23, 2026 · 🥦 Soup's on at Swans",
+    "url": "https://www.facebook.com/TheLandingHOU/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://landing.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/pricing-agentic-apis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/inquiries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/industries/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/industries/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/industries/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/industries/energy-utility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/industries/legal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/industries/logistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/case-studies/how-autyn-cut-loan-processing-from-2-hours-to-2-minutes-at-98-accuracy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/case-studies/how-a-global-tier-1-bank-transformed-client-due-diligence-with-landingai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/case-studies/how-green-lite-cut-plan-review-time-by-50-with-reliable-document-extraction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/case-studies/eolas-medical-enhances-clinical-knowledge-access-with-agentic-document-extraction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landing.ai/industries/public-safety-agencies",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://landing.ai/_next/static/media/logo-insight-partners.0d7zbdpvnpzze.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://exbridge.jp/ai-system/landing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landing-japan.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landing-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skywork.ai/skypage/ja/landing-ai-image-recognition/1984194728318390272",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://grokipedia.com/page/landing_high_japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landing-japan.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landing-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.landinginjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ideasengg.com/case-studies/global-aerospace-landing-gear-supplier-enhances-manufacturing-efficiency-by-leveraging-our-engineering-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://landingi.com/landing-page/optimization-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/en-us/learn/lp/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wingify.com/blog/landing-page-optimization-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wpmudev.com/reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/landing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/399473-11",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/landing/__c2o-mcBXCSCjh3CraSp0gAeODQfKAmIRGjj6pJKlubU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/landing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HelloLanding",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/prairielanding",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/landingcompany",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Landing_jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hellolanding",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/cio-landing-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/the-landing-restaurant-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PublicLandingRestaurant/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheLandingStripBarandGrill/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/1061678885026835/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheLandingHOU/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Landing 日本 導入",
+   "results": [
+    "https://exbridge.jp/ai-system/landing/",
+    "https://www.landing-japan.com/jp/",
+    "https://www.landing-japan.com/",
+    "https://skywork.ai/skypage/ja/landing-ai-image-recognition/1984194728318390272",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://stripe.com/jp/resources/more/landing-page-payments-japan",
+    "https://global.toyota/jp/newsroom/toyota/44960600.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Landing 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://biz.moneyforward.com/contract/basic/8378/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Landing Japan",
+   "results": [
+    "https://grokipedia.com/page/landing_high_japan",
+    "https://www.landing-japan.com/jp/",
+    "https://www.landing-japan.com/",
+    "https://www.landinginjapan.com/",
+    "https://jp.linkedin.com/company/landing-japan",
+    "https://landinjp.com/en/",
+    "https://tommyslegal.com/landing-procedure-japan-en/",
+    "https://danayao.com/what-to-do-after-landing-in-japan/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Landing manufacturing customer case study",
+   "results": [
+    "https://ideasengg.com/case-studies/global-aerospace-landing-gear-supplier-enhances-manufacturing-efficiency-by-leveraging-our-engineering-solutions/",
+    "https://landingi.com/landing-page/optimization-case-studies/",
+    "https://www.dell.com/en-us/learn/lp/customer-stories",
+    "https://wingify.com/blog/landing-page-optimization-case-studies/",
+    "https://www.3ds.com/sites/default/files/2020-03/messier-bugatti-dowty-case-study-2015.pdf",
+    "https://abmatic.ai/blog/how-to-use-customer-case-studies-on-landing-page",
+    "https://unbounce.com/landing-page-optimization/case-studies/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Landing white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://wpmudev.com/reseller/",
+    "https://www.seoreseller.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "https://www.20i.com/us/reseller-hosting"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Landing founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/landing",
+    "https://pitchbook.com/profiles/company/399473-11",
+    "https://tracxn.com/d/companies/landing/__c2o-mcBXCSCjh3CraSp0gAeODQfKAmIRGjj6pJKlubU",
+    "https://startupintros.com/orgs/landing",
+    "https://compworth.com/company/landing-ai",
+    "https://fundediq.co/landing-hellolanding-com-funding/",
+    "https://www.cbinsights.com/company/landing/financials"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Landing",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Landing",
+   "results": [
+    "https://x.com/HelloLanding",
+    "https://x.com/prairielanding",
+    "https://x.com/landingcompany",
+    "https://x.com/Landing_jobs",
+    "https://x.com/aviationbrk/status/2060611775221932083",
+    "https://x.com/IAF_MCC/status/2118960412414935294",
+    "https://x.com/thlanding"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Landing",
+   "results": [
+    "https://www.linkedin.com/company/hellolanding",
+    "https://www.linkedin.com/company/cio-landing-inc-",
+    "https://business.linkedin.com/advertise/resources/marketing-terms/landing-page",
+    "https://ca.linkedin.com/company/the-landing-restaurant-group",
+    "https://business.linkedin.com/hire/landing-pages",
+    "https://lc.linkedin.com/in/arlien-dyer-5128896",
+    "https://in.linkedin.com/company/the-landing-page-company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Landing",
+   "results": [
+    "https://www.facebook.com/PublicLandingRestaurant/",
+    "https://www.facebook.com/TheLandingStripBarandGrill/",
+    "https://business.facebook.com/groups/1061678885026835/",
+    "https://www.facebook.com/TheLandingHOU/",
+    "https://www.facebook.com/p/Swans-Landing-61581401521118/",
+    "https://www.facebook.com/LandingsAtAmhurstLake/",
+    "https://www.facebook.com/ciolanding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Landing note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://note.com/softlanding_jp",
+    "https://note.com/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Landing X 投稿",
+   "results": [
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://x.com/",
+    "https://x-force.thinkforce.co.jp/archives/461",
+    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/",
+    "https://note.com/kagura6284/n/n96b2006704cf",
+    "https://help.x.com/ja/using-x/posting-gifs-and-pictures"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像1件／外部36頁・検索12回）"
+ }
+}

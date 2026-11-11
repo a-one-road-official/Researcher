@@ -1,0 +1,410 @@
+{
+ "name": "Joinblok",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜AUMS不適合",
+ "researched_at": "2026-11-10T23:24:49.674962+00:00",
+ "official_url": "https://www.joinblok.co",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "A critical bug reaching production",
+    "url": "https://www.seldon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A decision under pressure",
+    "url": "https://www.seldon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Faced with incomplete information and competing priorities, an actor weighs their options and chooses a course of action.",
+    "url": "https://www.seldon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "New intelligence changes an actor's assessment, prompting a shift in strategy.",
+    "url": "https://www.seldon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "how strategies hold up under pressure",
+    "url": "https://www.seldon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Their goals, the information available to them and the people around them also matter. Change who an agent represents or the situation they face to explore how their choices change.",
+    "url": "https://www.seldon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Behavioral simulation only becomes useful when it faithfully reproduces how real people make decisions. Behavioral fidelity is the measure of that trust.",
+    "url": "https://www.seldon.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Personality, beliefs and past experience shape how people make decisions. Seldon's agents carry these influences into the choices they make.",
+    "url": "https://www.seldon.com/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "BLOK | Smart Cutting Board Paired with On-demand Cooking ... — BLOK | Smart Cutting Board Paired with On-demand Cooking ... joinblok.com https://joinblok.com",
+    "url": "https://joinblok.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "BLOK - FacebookBLOK - Introducing BLOK A patent-pending smart...BLOK - FUN, ENGAGING CHEFS Never take a ... - FacebookTHE FINISHING TOUCH for every countertop … Reserve your ...BLOK - JOIN THE BLOK COMMUNITY beautiful wood prep...BLOK - NOW, LET’S DOCK THE BLOK Move ... - FacebookGet your BLOK now at joinblok.com and start cooking like a ... Nov 6, 2025 · BLOK. 1,025 followers. BLOK is more than a",
+    "url": "https://www.facebook.com/Jointheblok/",
+    "pass": 3
+   },
+   {
+    "quote": "BLOK - FUN, ENGAGING CHEFS Never take a ... - Facebook Aug 30, 2021 · 🔪 Never take a boring cooking class again. Learn, laugh, and let loose with BLOK’s energetic expert chefs offering a wide variety of unique recipes to fit your busy lifestyle and dietary needs. 🥗 To see the full video and reserve your BLOK visit preorder.joinblok.com Edith Shannon and 8 others 9",
+    "url": "https://www.facebook.com/Jointheblok/posts/fun-engaging-chefs-never-take-a-boring-cooking-class-again-learn-laugh-and-let-l/114851630900477/",
+    "pass": 3
+   },
+   {
+    "quote": "BLOK - JOIN THE BLOK COMMUNITY beautiful wood prep... Reserve yours NOW: preorder.joinblok.com More than a smart cutting board! | JOIN THE BLOK COMMUNITY 🔪 beautiful wood prep surface 🔪 sleek digital display 🔪 fun live and on-demand cooking classes 🔪 interact with friends and... | By BLOK",
+    "url": "https://www.facebook.com/Jointheblok/posts/join-the-blok-community-beautiful-wood-prep-surface-sleek-digital-display-fun-li/114577050927935/",
+    "pass": 3
+   },
+   {
+    "quote": "BLOK - NOW, LET’S DOCK THE BLOK Move ... - Facebook Aug 27, 2021 · Aug 27, 2021 NOW, LET’S DOCK THE BLOK 🔪 🔪Move seamlessly throughout the kitchen while cooking delicious meals with friends and following recipes from expert chefs🍴 Reserve your BLOK now at its most discounted price plus a FREE year subscription: preorder.joinblok.com COMING SOON TO KICKSTARTER 💥 FN Mancuso and 2 ...",
+    "url": "https://www.facebook.com/Jointheblok/posts/now-lets-dock-the-blok-move-seamlessly-throughout-the-kitchen-while-cooking-deli/114067004312273/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "JoinTheBLOK (@JoinTheBlok) / X BLOK: Smart Cutting Board & Virtual Cooking Classes 🧑🍳 From kickstarter.com JoinTheBLOK @JoinTheBlok Sep 1, 2021 Meet your new sous chef 🙌 •interchangeable •washable •conveniently stored •wireless charging Reserve your BLOK now 🔗 preorder.joinblok.com 00:00",
+    "url": "https://x.com/jointheblok",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by JoinTheBLOK (@JoinTheBlok) / X More than a smart cutting board, it’s a community. Learn how to cook delicious meals from expert chefs with friends and family. joinblok.com Joined January 2021 0Following 4Followers Mention Follow PostsPosts RepliesRepliesRepostsRepostsMediaMedia",
+    "url": "https://x.com/JoinTheBlok/with_replies",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.seldon.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://joinblok.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nichibenren.or.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://block.xyz/careers/jobs/5230415008",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/onlyinjapango",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLIhd_RUp361HoZ-EUOO4E5Q-HwmklXPznzTJgRnSh58w4pGXDw",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tryleverage.ai/case-study-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/Jointheblok/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Jointheblok/posts/fun-engaging-chefs-never-take-a-boring-cooking-class-again-learn-laugh-and-let-l/114851630900477/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Jointheblok/posts/join-the-blok-community-beautiful-wood-prep-surface-sleek-digital-display-fun-li/114577050927935/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Jointheblok/posts/now-lets-dock-the-blok-move-seamlessly-throughout-the-kitchen-while-cooking-deli/114067004312273/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/jointheblok",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JoinTheBlok/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Joinblok 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://trafficnews.jp/post/725198",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://x.com/car_watch/status/2117506082629370157",
+    "https://www.mlit.go.jp/kokusai/content/001758513.pdf",
+    "https://www.mlit.go.jp/toshi/content/001990766.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Joinblok 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.rakus.co.jp/rakurakucloud/hanbai/column/2021/0202.php",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://www.qubo.jp/agency",
+    "https://www.genb.jp/topics-detail/854/",
+    "https://partner-prop.com/lab/partner-business/agency/256/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Joinblok Japan",
+   "results": [
+    "https://joinblok.com/",
+    "https://www.nichibenren.or.jp/en/",
+    "https://block.xyz/careers/jobs/5230415008",
+    "https://www.youtube.com/onlyinjapango",
+    "https://www.jflalc.org/libby",
+    "https://www.prnewswire.com/news-releases/japan-football-association-launches-us-talent-camp-inspired-by-hit-anime-blue-lock-302768263.html",
+    "https://finance.yahoo.com/markets/crypto/articles/japan-eyes-blockchain-instant-stock-185027992.html",
+    "https://www.uclawsf.edu/2025/10/16/japan-chapter-launch-strengthens-uc-law-sfs-global-alumni-network/",
+    "https://www.join-future.co.jp/english/about/company/",
+    "https://x.com/jointheblok"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Joinblok manufacturing customer case study",
+   "results": [
+    "https://c3.ai/customers",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLIhd_RUp361HoZ-EUOO4E5Q-HwmklXPznzTJgRnSh58w4pGXDw",
+    "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "https://tryleverage.ai/case-study-manufacturing",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.storyblok.com/case-studies",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://f7i.ai/case-studies",
+    "https://kt.team/cases/manufacturing",
+    "https://www.featuredcustomers.com/vendor/join/case-studies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Joinblok white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Joinblok founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Joinblok",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://tales.note.com/",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Joinblok",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Joinblok",
+   "results": [
+    "https://www.linkedin.com/company/joinblok",
+    "https://in.linkedin.com/company/joinblock",
+    "https://ca.linkedin.com/company/joinblock",
+    "https://au.linkedin.com/company/joinblock",
+    "https://www.linkedin.com/company/joinblock/jobs",
+    "https://www.linkedin.com/posts/joinblok_blok-joinblok-cooking-activity-7124786566396289025-lYcI",
+    "https://www.linkedin.com/posts/joinblok_cooking-chef-food-activity-7142888866188783616-sL13"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Joinblok",
+   "results": [
+    "https://www.facebook.com/Jointheblok/",
+    "https://www.facebook.com/Jointheblok/posts/fun-engaging-chefs-never-take-a-boring-cooking-class-again-learn-laugh-and-let-l/114851630900477/",
+    "https://www.facebook.com/Jointheblok/posts/join-the-blok-community-beautiful-wood-prep-surface-sleek-digital-display-fun-li/114577050927935/",
+    "https://www.facebook.com/Jointheblok/posts/now-lets-dock-the-blok-move-seamlessly-throughout-the-kitchen-while-cooking-deli/114067004312273/",
+    "https://www.facebook.com/reel/1740407593398581/",
+    "https://www.facebook.com/Jointheblok/posts/introducing-blok-a-patent-pending-smart-cutting-board-and-docking-station-thats-/111705494548424/",
+    "https://www.facebook.com/Jointheblok/videos/1052515708891449/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Joinblok note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Joinblok X 投稿",
+   "results": [
+    "https://x.com/jointheblok",
+    "https://x.com/JoinTheBlok/with_replies",
+    "https://www.tiktok.com/@jointheblok",
+    "https://x.com/",
+    "https://joinblok.com/",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://linktr.ee/joinblok"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）"
+ }
+}

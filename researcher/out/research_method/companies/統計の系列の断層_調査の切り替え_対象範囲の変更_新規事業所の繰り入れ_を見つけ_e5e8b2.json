@@ -8,468 +8,8 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-09T08:48:26.328737+00:00",
+ "researched_at": "2026-11-10T23:01:50.391951+00:00",
  "evidence": {
-  "実例": [
-   {
-    "quote": "➢ 毎月勤労統計調査では、毎年１月分結果において、サンプル入れ替えやベンチマーク（ウェイト）更新 （※１）を行",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "このため、新たな「経済センサス基礎調査」等の結果をベンチマークとし、母集団労働者数の実態との乖離を是正している",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "計方法や季節調整法の見直しなど、更なる結果精度の向上を目指し、調査の改善に取り組む」（継続実施）とされている",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "の向上） 、その結果を資料４に整理",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "➢ これらの検討結果を調査実務上、実装していくには、所要の予算・定員に係る措置や、効率的に調査を実施する上",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "➢ 併せて、母集団労働者数のベンチマーク更新（令和９年１月結果から対応予定） 、新しい日本標準産業分類への",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "対応（令和 10 年１月結果から対応予定）等についても検討する",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "• ベンチマーク更新については、第２回WGにおいて試算結果をお示しし、ご意見を伺う予定",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "第２回WGにおいて試算結果をお示しし、個別の論点",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "令和９年１月分結果から対応",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "令和10年１月分結果から対応",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "• 令和７年度調査研究事業の結果と、これを踏まえた検討方針案について（資料４）",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "に参考とした月次の基幹統計調査において結果を遡及改定していないことを踏まえ、毎月勤労統計調査の賃金指数における「ウエイト（ベンチ",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.7 In some situations, the price comparisons might only involve a single commodity. This simply involves directly comparing the two price observations. For example, a household might want to compare the price of shampoo today with the price of shampoo at a previous time.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.29 The examples in Table 4.1 reflect some of these possibilities.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.35 In this example, the Laspeyres Chain Index for period 2 is calculated as follows:",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.43 The Laspeyres and Paasche indexes are two special cases of the Lowe price index. When the quantities are those of the price reference period, that is when",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.48 Theory suggests that the APR formula will produce the largest estimate of price change, the GM the least and the RAP a little larger but close to the GM.¹⁰ Empirical examples generally support this proposition,¹¹ although with a small sample as in the example above, substantially different rankings for the RAP formula are possible depending on the prices.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": ". The calculation is straightforward when a single item is involved. However, in the case of an expenditure total that is the sum of several items, breaking up that expenditure into its price and quantity components becomes more complicated.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.61 All the index formulas discussed above require observations on the same items in each period. In some situations it may be necessary to change the items or outlets included in the price sample or, if weights are used, to re-weight the price observations. Examples of changes in a price sample include:",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.63 In the case of the GM formula, the process involves:",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.64 In the case of the RAP formula, the method is similar, but prices are used instead of price relatives. The RAP formula uses the arithmetic mean of prices (not the geometric mean of price relatives as in the GM example) The index for RAP can be calculated from the period-to-period price movements:",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.65 In any period, an event may occur that makes it impossible to obtain a price measure for an item. For example, an item could be temporarily out of stock or the quality is not up to standard (as may occur with fresh fruit and vegetables because of climatic conditions).",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.68 An example of imputing using the first two approaches for the equally weighted formula is provided in Table 4.5. The example assumes that there is no price observation from respondent B in period 2.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.75 Changes to goods or services that are perceived to have little or no increase in user value should be treated as a price change. This can also be the case for government mandated changes such as energy rating standards for newly constructed dwellings. For more information on quality change see",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.78 The use of a hedonics or characteristics approach may assist in defining new goods. For example, the hedonics approach might suggest that smart phones are not actually new goods, but rather a better bundling of telephony, computing, photography and other characteristics that people value.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Use appropriate formulas in compiling elementary aggregate indexes. In many cases this will be the GM formula. In elementary aggregates where it is not easy to switch between product offerings the RAP formula may be more appropriate.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(iii) Closely monitor and update price samples to reflect changes in the outlets from which households purchase. For example, there is clearly a need to plan for the inclusion in consumer price indexes of purchases from outlets operating exclusively online.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "separate industries as employment, wages and earnings. A specific example is the",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "index numbers, in this case of combining a diversity of measures of changing product in",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "could be constructed. Two examples may be quoted. For some purposes, as during a",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "production. There are, in any case, difficulties in computing movements in the \"volume\" of",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "manufacturing. Construction is a rather more difficult case, but the difficulties arise",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "groups which add up to the major groups. Fo r example, coal mining (group 11) and",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "there are others depending on distinctions, for example, between domestic and export",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "This can never be done uniquely; there is always a choice of components. For example,",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "paragraph 51). The product pq represents some valuation of net output; for example p0q0",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "existing weight base or whether to adopt new weights and, in the latter case, which year",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "made, for example, by using such partial data as the wage bill by industries.",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "cannot be calculated precisely. For example, one category in the industrial classification",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ship-building and construction. In these case s alternative steps have to be taken to",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "something rather broader which can be called \"census value added\". In most cases,",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "net output. For example, there may be avail able some partial information on costs of",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "４．母集団労働者数の推計方法の見直し（規模変更時の抽出率逆数の考え方等残された課題について） WG",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "➢ これまで、ベンチマーク（ウェイト）として用いる母集団労働者数の推計方法の改善等、断層縮小に向けた検討を",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "計方法や季節調整法の見直しなど、更なる結果精度の向上を目指し、調査の改善に取り組む」（継続実施）とされている",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "このため、当面の措置としては、公表方法等の改善により、統計ユーザーに誤解を与えず利便性を高める形での公",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "最新の第１４回日本標準産業分類は令和６年４月に改定され 、令和６年次フレーム（令和８年３月から利用",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "第１回（公表方法の改善／新産業分類対応に係る課題整理）",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "標本抽出方法の一元化・ローテーション見直し、",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "• 本ワーキンググループの進め方・検討すべき更なる課題について（資料１）",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "• 毎月勤労統計調査の公表方法等の改善に関する対応案について（資料２）",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "イト（ベンチマーク）更新に伴うギャップの処理方法が注目を集めた",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "労統計」の接続方法及び情報提供に係る統計委員会の評価」を取りまとめ、新旧データ接続検討ワーキンググループにおいて考え方を整理する際",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "マーク）更新に起因するギャップ」についても、遡及改定しないことが適当な処理方法であることを明確化した",
-    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Consumer Price Index: Concepts, Sources and Methods",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.5 This section focuses on traditional price index methods, however in the past fifteen years there have been significant developments in new price index construction methods involving transactions (scanner) data. These methods are discussed in more detail in",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.19 In essence, an index number is an average of either prices or quantities compared with the corresponding average in a base period. The problem is how to calculate the average.",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.20 The price index problem is how to derive an index of price",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Practical index aggregation methodology",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "4.64 In the case of the RAP formula, the method is similar, but prices are used instead of price relatives. The RAP formula uses the arithmetic mean of prices (not the geometric mean of price relatives as in the GM example) The index for RAP can be calculated from the period-to-period price movements:",
-    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "STUDIES IN METHODS S eries F No.1",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "XI. The use of sampling methods ............................................. 113 - 120 51",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "methodology and concepts. This task was carri ed out by the Statistical Office of the",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "method of adjustment should be stated.",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "methods of imputation which are discussed in section VII",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "convenient, in practice, to proceed in two steps. The first stage is to fix the main industry",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ship-building and construction. In these case s alternative steps have to be taken to",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "should use be made of the more approximate method of using relative \"census values",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "census data are not available should resort be made to cruder methods of estimating net",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "of clothing prices. These two methods are not basically different, but rather alternative",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "answer. There is no choice between the two methods except on the basis of practical",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "-thumb method for selecting the series which approximates most closely. The choice",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "items to include and how to weight them.",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "76. There is a good deal of choice between different methods of imputation, for",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Whatever method is adopted, t here must be an explicit assu mption that two or more",
-    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "（統計・情報システム管理、労使関係担当）",
@@ -787,38 +327,513 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "４．母集団労働者数の推計方法の見直し（規模変更時の抽出率逆数の考え方等残された課題について） WG",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "➢ これまで、ベンチマーク（ウェイト）として用いる母集団労働者数の推計方法の改善等、断層縮小に向けた検討を",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "計方法や季節調整法の見直しなど、更なる結果精度の向上を目指し、調査の改善に取り組む」（継続実施）とされている",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このため、当面の措置としては、公表方法等の改善により、統計ユーザーに誤解を与えず利便性を高める形での公",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "最新の第１４回日本標準産業分類は令和６年４月に改定され 、令和６年次フレーム（令和８年３月から利用",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第１回（公表方法の改善／新産業分類対応に係る課題整理）",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "標本抽出方法の一元化・ローテーション見直し、",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• 本ワーキンググループの進め方・検討すべき更なる課題について（資料１）",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• 毎月勤労統計調査の公表方法等の改善に関する対応案について（資料２）",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "イト（ベンチマーク）更新に伴うギャップの処理方法が注目を集めた",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "労統計」の接続方法及び情報提供に係る統計委員会の評価」を取りまとめ、新旧データ接続検討ワーキンググループにおいて考え方を整理する際",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "マーク）更新に起因するギャップ」についても、遡及改定しないことが適当な処理方法であることを明確化した",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Consumer Price Index: Concepts, Sources and Methods",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.5 This section focuses on traditional price index methods, however in the past fifteen years there have been significant developments in new price index construction methods involving transactions (scanner) data. These methods are discussed in more detail in",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.19 In essence, an index number is an average of either prices or quantities compared with the corresponding average in a base period. The problem is how to calculate the average.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.20 The price index problem is how to derive an index of price",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Practical index aggregation methodology",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.64 In the case of the RAP formula, the method is similar, but prices are used instead of price relatives. The RAP formula uses the arithmetic mean of prices (not the geometric mean of price relatives as in the GM example) The index for RAP can be calculated from the period-to-period price movements:",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "STUDIES IN METHODS S eries F No.1",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "XI. The use of sampling methods ............................................. 113 - 120 51",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methodology and concepts. This task was carri ed out by the Statistical Office of the",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "method of adjustment should be stated.",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "methods of imputation which are discussed in section VII",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "convenient, in practice, to proceed in two steps. The first stage is to fix the main industry",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ship-building and construction. In these case s alternative steps have to be taken to",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "should use be made of the more approximate method of using relative \"census values",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "census data are not available should resort be made to cruder methods of estimating net",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of clothing prices. These two methods are not basically different, but rather alternative",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "answer. There is no choice between the two methods except on the basis of practical",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "-thumb method for selecting the series which approximates most closely. The choice",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "items to include and how to weight them.",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "76. There is a good deal of choice between different methods of imputation, for",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Whatever method is adopted, t here must be an explicit assu mption that two or more",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "➢ 毎月勤労統計調査では、毎年１月分結果において、サンプル入れ替えやベンチマーク（ウェイト）更新 （※１）を行",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "このため、新たな「経済センサス基礎調査」等の結果をベンチマークとし、母集団労働者数の実態との乖離を是正している",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "計方法や季節調整法の見直しなど、更なる結果精度の向上を目指し、調査の改善に取り組む」（継続実施）とされている",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "の向上） 、その結果を資料４に整理",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "➢ これらの検討結果を調査実務上、実装していくには、所要の予算・定員に係る措置や、効率的に調査を実施する上",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "➢ 併せて、母集団労働者数のベンチマーク更新（令和９年１月結果から対応予定） 、新しい日本標準産業分類への",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "対応（令和 10 年１月結果から対応予定）等についても検討する",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• ベンチマーク更新については、第２回WGにおいて試算結果をお示しし、ご意見を伺う予定",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "第２回WGにおいて試算結果をお示しし、個別の論点",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "令和９年１月分結果から対応",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "令和10年１月分結果から対応",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "• 令和７年度調査研究事業の結果と、これを踏まえた検討方針案について（資料４）",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "に参考とした月次の基幹統計調査において結果を遡及改定していないことを踏まえ、毎月勤労統計調査の賃金指数における「ウエイト（ベンチ",
+    "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.7 In some situations, the price comparisons might only involve a single commodity. This simply involves directly comparing the two price observations. For example, a household might want to compare the price of shampoo today with the price of shampoo at a previous time.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.29 The examples in Table 4.1 reflect some of these possibilities.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.35 In this example, the Laspeyres Chain Index for period 2 is calculated as follows:",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.43 The Laspeyres and Paasche indexes are two special cases of the Lowe price index. When the quantities are those of the price reference period, that is when",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.48 Theory suggests that the APR formula will produce the largest estimate of price change, the GM the least and the RAP a little larger but close to the GM.¹⁰ Empirical examples generally support this proposition,¹¹ although with a small sample as in the example above, substantially different rankings for the RAP formula are possible depending on the prices.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": ". The calculation is straightforward when a single item is involved. However, in the case of an expenditure total that is the sum of several items, breaking up that expenditure into its price and quantity components becomes more complicated.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.61 All the index formulas discussed above require observations on the same items in each period. In some situations it may be necessary to change the items or outlets included in the price sample or, if weights are used, to re-weight the price observations. Examples of changes in a price sample include:",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.63 In the case of the GM formula, the process involves:",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.64 In the case of the RAP formula, the method is similar, but prices are used instead of price relatives. The RAP formula uses the arithmetic mean of prices (not the geometric mean of price relatives as in the GM example) The index for RAP can be calculated from the period-to-period price movements:",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.65 In any period, an event may occur that makes it impossible to obtain a price measure for an item. For example, an item could be temporarily out of stock or the quality is not up to standard (as may occur with fresh fruit and vegetables because of climatic conditions).",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.68 An example of imputing using the first two approaches for the equally weighted formula is provided in Table 4.5. The example assumes that there is no price observation from respondent B in period 2.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.75 Changes to goods or services that are perceived to have little or no increase in user value should be treated as a price change. This can also be the case for government mandated changes such as energy rating standards for newly constructed dwellings. For more information on quality change see",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "4.78 The use of a hedonics or characteristics approach may assist in defining new goods. For example, the hedonics approach might suggest that smart phones are not actually new goods, but rather a better bundling of telephony, computing, photography and other characteristics that people value.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Use appropriate formulas in compiling elementary aggregate indexes. In many cases this will be the GM formula. In elementary aggregates where it is not easy to switch between product offerings the RAP formula may be more appropriate.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(iii) Closely monitor and update price samples to reflect changes in the outlets from which households purchase. For example, there is clearly a need to plan for the inclusion in consumer price indexes of purchases from outlets operating exclusively online.",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "separate industries as employment, wages and earnings. A specific example is the",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "index numbers, in this case of combining a diversity of measures of changing product in",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "could be constructed. Two examples may be quoted. For some purposes, as during a",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "production. There are, in any case, difficulties in computing movements in the \"volume\" of",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "manufacturing. Construction is a rather more difficult case, but the difficulties arise",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "groups which add up to the major groups. Fo r example, coal mining (group 11) and",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "there are others depending on distinctions, for example, between domestic and export",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "This can never be done uniquely; there is always a choice of components. For example,",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "paragraph 51). The product pq represents some valuation of net output; for example p0q0",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "existing weight base or whether to adopt new weights and, in the latter case, which year",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "made, for example, by using such partial data as the wage bill by industries.",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "cannot be calculated precisely. For example, one category in the industrial classification",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ship-building and construction. In these case s alternative steps have to be taken to",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "something rather broader which can be called \"census value added\". In most cases,",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "net output. For example, there may be avail able some partial information on costs of",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
+    "url": "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/pdf/2020kijun/20251119announce.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/001021457.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shijochosa_labo/n/ne78033b3e7e3",
+    "url": "https://www.pref.toyama.jp/1117/keizaigeppo/20230119.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/nanto_econ/n/n480d956bf5a9",
+    "url": "https://www.stat.go.jp/data/kojinke/index2.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/macromill/n/nbf9e14608d06",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/shijochosa_labo/n/n20f5320a7bdb",
+    "url": "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130214_006797.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dlri.co.jp/report/macro/442079.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/dmaruyama/n/n772058a8a05a",
+    "url": "https://www.meti.go.jp/statistics/tyo/zenkatu/qa.html",
     "status": "ok",
     "method": "http"
    },
@@ -848,42 +863,42 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.soumu.go.jp/main_content/000576512.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.mhlw.go.jp/content/10700000/001729987.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.elibrary.imf.org/display/book/9781484354841/ch09.xml",
+    "url": "https://www.pref.tottori.lg.jp/secure/1353747/R6.1dansousetsumei.pdf",
     "status": "ok",
-    "method": "browser"
+    "method": "pdf"
    },
    {
-    "url": "http://statstricks360.com/statistics/applied-statistics-ii/unit2.html",
+    "url": "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.imf.org/-/media/Files/Data/CPI/chapter-9-updating-the-weights-and-linking-series.ashx",
+    "url": "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber12acomparisonofindexnumbermethodologyusedonukwebscrapedpricedata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecb.europa.eu/pub/pdf/scpsps/ecb.sps40~fb2e530fe6.en.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0828282X24013199",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.elibrary.imf.org/downloadpdf/display/book/9781484354841/ch09.pdf",
-    "status": "http_405",
-    "method": "pdf"
-   },
-   {
-    "url": "https://w3.unece.org/Stories/2025/04/cpi_class_n/webpage6.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.imf.org/-/media/files/data/cpi/chapter-12-errors-and-bias.pdf",
+    "url": "https://www.imf.org/-/media/files/data/cpi/chapter-9-updating-the-weights-and-linking-series.pdf",
     "status": "http_403",
     "method": "pdf"
    }
@@ -893,82 +908,102 @@
   {
    "query": "統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手） site:note.com",
    "results": [
-    "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
-    "https://note.com/shijochosa_labo/n/ne78033b3e7e3",
-    "https://note.com/nanto_econ/n/n480d956bf5a9",
-    "https://note.com/macromill/n/nbf9e14608d06",
-    "https://note.com/shijochosa_labo/n/n20f5320a7bdb",
-    "https://note.com/dmaruyama/n/n772058a8a05a",
-    "https://note.com/manabu_ikarashi/n/n96ef0ad858cd"
+    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/pdf/2020kijun/20251119announce.pdf",
+    "https://www.soumu.go.jp/main_content/001021457.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "https://www.pref.toyama.jp/1117/keizaigeppo/20230119.html",
+    "https://www.stat.go.jp/data/kojinke/index2.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130214_006797.pdf",
+    "https://www.dlri.co.jp/report/macro/442079.html",
+    "https://www.meti.go.jp/statistics/tyo/zenkatu/qa.html",
+    "https://note.com/hiroshi_gomi/n/n244c6a44f6b4"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手） note",
    "results": [
-    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf",
-    "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf",
-    "https://www.soumu.go.jp/main_content/000438604.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/kijyun/051031/shiryou4.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/taikei/041129/shiryou6.pdf",
-    "https://www.soumu.go.jp/main_content/000576512.pdf",
-    "https://www.mhlw.go.jp/content/10700000/001729987.pdf"
+    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/pdf/2020kijun/20251119announce.pdf",
+    "https://www.soumu.go.jp/main_content/001021457.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "https://www.pref.toyama.jp/1117/keizaigeppo/20230119.html",
+    "https://www.stat.go.jp/data/kojinke/index2.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130214_006797.pdf",
+    "https://www.dlri.co.jp/report/macro/442079.html",
+    "https://www.meti.go.jp/statistics/tyo/zenkatu/qa.html",
+    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手） やり方",
    "results": [
-    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf",
-    "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf",
-    "https://www.soumu.go.jp/main_content/000438604.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/kijyun/051031/shiryou4.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/taikei/041129/shiryou6.pdf",
-    "https://www.soumu.go.jp/main_content/000576512.pdf",
-    "https://www.mhlw.go.jp/content/10700000/001729987.pdf"
+    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/pdf/2020kijun/20251119announce.pdf",
+    "https://www.soumu.go.jp/main_content/001021457.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "https://www.pref.toyama.jp/1117/keizaigeppo/20230119.html",
+    "https://www.stat.go.jp/data/kojinke/index2.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130214_006797.pdf",
+    "https://www.dlri.co.jp/report/macro/442079.html",
+    "https://www.meti.go.jp/statistics/tyo/zenkatu/qa.html",
+    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手） 事例",
    "results": [
-    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf",
-    "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf",
-    "https://www.soumu.go.jp/main_content/000438604.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/kijyun/051031/shiryou4.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/taikei/041129/shiryou6.pdf",
-    "https://www.soumu.go.jp/main_content/000576512.pdf",
-    "https://www.mhlw.go.jp/content/10700000/001729987.pdf"
+    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/pdf/2020kijun/20251119announce.pdf",
+    "https://www.soumu.go.jp/main_content/001021457.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "https://www.pref.toyama.jp/1117/keizaigeppo/20230119.html",
+    "https://www.stat.go.jp/data/kojinke/index2.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130214_006797.pdf",
+    "https://www.dlri.co.jp/report/macro/442079.html",
+    "https://www.meti.go.jp/statistics/tyo/zenkatu/qa.html",
+    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "statistical series break linking coverage change fixed base index bias practice",
    "results": [
-    "https://www.elibrary.imf.org/display/book/9781484354841/ch09.xml",
-    "https://nrstatlab.github.io/planning-for-future/statistics/applied-statistics-ii/unit2.html",
-    "https://www.imf.org/-/media/Files/Data/CPI/chapter-9-updating-the-weights-and-linking-series.ashx",
-    "https://www.elibrary.imf.org/downloadpdf/display/book/9781484354841/ch09.pdf",
+    "https://www.abs.gov.au/statistics/detailed-methodology-information/concepts-sources-methods/consumer-price-index-concepts-sources-and-methods/2025/price-index-theory",
+    "https://unstats.un.org/unsd/distributive_trade/SeriesF_1.pdf",
+    "https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber12acomparisonofindexnumbermethodologyusedonukwebscrapedpricedata",
+    "https://www.ecb.europa.eu/pub/pdf/scpsps/ecb.sps40~fb2e530fe6.en.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S0828282X24013199",
+    "https://www.imf.org/-/media/files/data/cpi/chapter-9-updating-the-weights-and-linking-series.pdf",
     "https://w3.unece.org/Stories/2025/04/cpi_class_n/webpage6.html",
-    "https://www.imf.org/-/media/files/data/cpi/chapter-12-errors-and-bias.pdf",
-    "https://www.bls.gov/osmr/research-papers/2017/pdf/st170100.pdf"
+    "https://link.springer.com/article/10.1007/s00362-021-01233-4",
+    "https://www.facebook.com/Premiumtimes/posts/under-the-revised-approach-the-nbs-linked-the-old-cpi-series-to-a-rebased-and-re/1329923932501261/",
+    "https://nrstatlab.github.io/planning-for-future/statistics/applied-statistics-ii/unit2.html"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 15
   },
   {
    "query": "site:note.com 統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手）",
@@ -977,9 +1012,9 @@
     "https://note.com/macromill/n/nbf9e14608d06",
     "https://note.com/hiroshi_gomi/n/n244c6a44f6b4",
     "https://note.com/nanto_econ/n/n480d956bf5a9",
+    "https://note.com/shijochosa_labo/n/n668acbaf00dc",
     "https://note.com/shijochosa_labo/n/ne78033b3e7e3",
-    "https://note.com/hama_n_1/n/n5c70b74b38fd",
-    "https://note.com/shijochosa_labo/n/n668acbaf00dc"
+    "https://note.com/dmaruyama/n/n772058a8a05a"
    ],
    "engines": [
     "ddgs:google"
@@ -993,12 +1028,12 @@
     "https://x.com/smo_yutohisano/status/2075165578747342927",
     "https://x.com/tweet_taiki/status/2107065764557824203",
     "https://x.com/i/status/2078135756472901749",
-    "https://x.com/AISTATSCH/status/2074109719967683039",
+    "https://x.com/toukei_kentei/status/2073937196181295453",
     "https://x.com/shindanchu/status/2114484172475793652",
-    "https://x.com/toukei_kentei/status/2073937196181295453"
+    "https://x.com/AISTATSCH/status/2074109719967683039"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -1006,12 +1041,12 @@
    "query": "site:linkedin.com 統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手）",
    "results": [
     "https://www.linkedin.com/pulse/作業ログ20240526-koji-hirai-h8pnf",
-    "https://www.linkedin.com/help/learning/answer/a522782?lang=ja-JP",
     "https://jp.linkedin.com/pulse/statistical-characteristics-time-series-comprehensive-fatma-al-ajmi-beigf?tl=ja",
     "https://jp.linkedin.com/learning/mos-cert-prep-excel-2019-associate/3863053",
+    "https://www.linkedin.com/help/learning/answer/a522782?lang=ja-JP",
     "https://jp.linkedin.com/pulse/hidden-challenge-tracking-documenting-scope-changes-avoid-irfan-ahmad-gstxc?tl=ja",
-    "https://jp.linkedin.com/learning/excel-2016-pivot-tables/580389",
-    "https://jp.linkedin.com/learning/excel-essential-training-microsoft-365-26102908/4035317"
+    "https://jp.linkedin.com/learning/excel-essential-training-microsoft-365-26102908/4035317",
+    "https://jp.linkedin.com/pulse/concise-basic-stats-series-part-xi-introduction-time-fonseca-aefse?tl=ja"
    ],
    "engines": [
     "ddgs:google"
@@ -1022,69 +1057,79 @@
    "query": "site:facebook.com 統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手）",
    "results": [
     "https://www.facebook.com/PRI.MOF.Japan/posts/9月1日-法人企業統計調査-令和7年46月期令和6年度年次別調査の結果を公表いたしました下記リンクから調査の結果についてご確認いただけますのでどうぞご覧ください/1192735222894708/",
+    "https://www.facebook.com/groups/764293973963585/posts/2819668035092825/",
     "https://www.facebook.com/nliresearch/posts/1056325512955525/",
     "https://www.facebook.com/SankeiShimbun/posts/28日に政府の地震調査委員会が公表した近畿地域における活断層の長期評価は20の主要活断層帯での見直しに加え24の活断層も新たに対象とした近畿地域は国内でも特に活/1539282641570408/",
     "https://www.facebook.com/seikatsusoken/posts/ニュースリリース生活者への長期時系列調査-生活定点19922024の最新結果を発表本リリースではコロナ禍前後の意識や行動の変化に注目しましたhttpsseika/988707399727818/",
     "https://www.facebook.com/seikatsusoken/posts/サイト更新長期時系列調査生活定点の最新2024年データを公開中膨大なデータをグラフィカルに分かりやすく表示するとともに意外な発見やヒントを得たい方のために様々な/988155229783035/",
-    "https://www.facebook.com/nliresearch/photos/ｉｍｆ-世界経済見通しワクチン普及などで回復格差が拡大ｉｍｆは今回の見通しを世界経済回復の断層線-亀裂の広がりfault-lines-widen-in-the-/3681231441978994/",
     "https://www.facebook.com/ABeamConsultingJapan/posts/アビームコンサルティングは直近５年間で企業において新規事業開発に関与した経験者620名を対象に新規事業の取り組みに関する実態調査を実施しましたことをお知らせしま/1182836766434129/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手） note 社長",
    "results": [
-    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf",
-    "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/kijyun/051031/shiryou4.pdf",
-    "https://www.soumu.go.jp/main_content/000438604.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/taikei/041129/shiryou6.pdf",
-    "https://www.soumu.go.jp/main_content/000576512.pdf",
-    "https://www.mhlw.go.jp/content/10700000/001729987.pdf"
+    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/pdf/2020kijun/20251119announce.pdf",
+    "https://www.soumu.go.jp/main_content/001021457.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "https://www.pref.toyama.jp/1117/keizaigeppo/20230119.html",
+    "https://www.stat.go.jp/data/kojinke/index2.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130214_006797.pdf",
+    "https://www.dlri.co.jp/report/macro/442079.html",
+    "https://www.meti.go.jp/statistics/tyo/zenkatu/qa.html",
+    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "統計の系列の断層（調査の切り替え・対象範囲の変更・新規事業所の繰り入れ）を見つけて接続する実務と、固定基準の指数が基準から遠いほど偏る点の扱い（鉱工業指数の作り方の解説・統計の利用者の書き手） X 投稿",
    "results": [
-    "https://www.stat.go.jp/data/roudou/kaisetsu/pdf/hndbk3_04.pdf",
-    "https://www.stat.go.jp/data/roudou/pdf/hndbk03.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/kijyun/051031/shiryou4.pdf",
-    "https://www.soumu.go.jp/main_content/000438604.pdf",
-    "https://www.soumu.go.jp/main_content/000576512.pdf",
-    "https://www.esri.cao.go.jp/jp/sna/seibi/kaigi/shiryou/pdf/taikei/041129/shiryou6.pdf",
-    "https://www.mhlw.go.jp/content/10700000/001729987.pdf"
+    "https://www.esri.cao.go.jp/jp/sna/seibi/kouhou/pdf/2020kijun/20251119announce.pdf",
+    "https://www.soumu.go.jp/main_content/001021457.pdf",
+    "https://www.nli-research.co.jp/report/detail/id=36515?site=nli",
+    "https://www.pref.toyama.jp/1117/keizaigeppo/20230119.html",
+    "https://www.stat.go.jp/data/kojinke/index2.html",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.dir.co.jp/report/research/introduction/economics/indicator/20130214_006797.pdf",
+    "https://www.dlri.co.jp/report/macro/442079.html",
+    "https://www.meti.go.jp/statistics/tyo/zenkatu/qa.html"
    ],
    "engines": [
-    "ddgs:bing"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "statistical series break linking coverage change fixed base index bias practice site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/parallel-series-tasks-merge-bias-glen-alleman",
-    "https://www.linkedin.com/advice/0/how-can-you-address-bias-confounding-variables",
-    "https://pe.linkedin.com/pulse/ai-practice-managing-bias-drift-training-data-vikas-sharma-oimhc",
-    "https://www.linkedin.com/advice/1/how-can-you-test-structural-breaks-time-series-data-econometric-rtg6e",
-    "https://www.linkedin.com/advice/0/how-do-you-prevent-bias-your-data-models-skills-data-analysis",
-    "https://www.linkedin.com/pulse/survivorship-bias-look-ahead-corporate-action-index-one-sri-rangan-jjgde",
-    "https://www.linkedin.com/advice/0/youre-analyzing-statistical-data-sets-how-do-you-avoid-fl6jc"
+    "https://www.linkedin.com/in/meri-nova",
+    "https://www.linkedin.com/in/linlin-li",
+    "https://www.linkedin.com/in/bilal-yurdakul-phd",
+    "https://www.linkedin.com/posts/tebogo-july_quantfinance-statisticalarbitrage-commodities-activity-7516490397158711296-kVb3",
+    "https://www.linkedin.com/in/fengyuz",
+    "https://www.linkedin.com/posts/wallstreetmojo_financialmodeling-valuation-equityresearch-activity-7503686589735383041-h0ff",
+    "https://uk.linkedin.com/in/dr-shixuan-wang",
+    "https://uk.linkedin.com/in/hogan-tong",
+    "https://www.linkedin.com/in/sebastianraschka",
+    "https://www.linkedin.com/posts/danleedata_what-is-multicollinearity-vif-lets-learn-activity-7511440120315715586-BREx"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-08T06:58:03.882303+00:00"
 }

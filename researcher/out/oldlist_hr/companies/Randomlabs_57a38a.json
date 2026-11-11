@@ -1,0 +1,859 @@
+{
+ "name": "Randomlabs",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-10T23:53:52.642301+00:00",
+ "official_url": "https://randomlabs.ai",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$500,000",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "United States",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "I'll split this into parallel tracks: one subagent will map the auth guard flow, one will sketch the dashboard route shell, one will align the API/types layer, one will inspect the existing session wiring, and one will prep the final integration pass.",
+    "url": "https://randomlabs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Read app/routes/_protected.tsx",
+    "url": "https://randomlabs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Slate keeps a task alive across exploration, implementation, builds, test failures, and follow-up edits instead of treating each prompt like a fresh start.",
+    "url": "https://randomlabs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "It can split independent research, coding, and verification work into focused threads, then bring the useful results back into the main session.",
+    "url": "https://randomlabs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Slate plans implicitly. When given a task, Slate will start by researching it, and then present its plan to you. Slate doesn't have plan mode because a good plan is not made by asking 3 questions. A good plan is made by having an agent that has a discussion with you about how to solve a task.",
+    "url": "https://randomlabs.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to create general software agents and interfaces that allow engineers to maximally leverage them. Our first tool, Slate, is in open beta. We are actively hiring.",
+    "url": "https://randomlabs.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Explore essential topics in Physics with our comprehensive courses.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive curriculum",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "designed to cater to varying levels of student proficiency",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This fall, we are excited to introduce our Physics 1.1, 2.1, and 3.1 classes, along with five levels of accelerator programs designed to enhance students' learning experiences. Join us to explore the fascinating world of physics and accelerate your academic journey!",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We are excited to introduce our new Physics Accelerator sessions, designed to complement select courses by providing students with the opportunity to practice material intensively and elevate their skills.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs Accelerator Programs focus on the practical application of essential questions and concepts through hands-on practice.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This intermediate physics class will help high achieving middle and high school students to increase their physics knowledge and prepare them for AP tests.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Physics 3 dives deep into the subject at a level equivalent to AP Physics C. For high acheiving high school students, the course will dive in depth and teach students techniques to solve difficult contest problems.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Physics F = ma Preparation",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The course primarily aims to rigorously prepare students for the F = ma contest. Physics knowledge up to level 3 is required.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "are designed to cater to students of all levels, from building foundations to preparing for competitions.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "are designed to complement our select courses through intense practice.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Financial Aid Program",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "financial aid program.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "when signing up for programs",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Take an assessment and get placed in a program.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Provide us with your W2 form via email.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "社内テストでは、このスレッドシステムのごく初期バージョンが、Terminal Bench 2.0スイート内の「make-mips-interpreter」タスクにおいて、3分の2のテストをパスしました",
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs has approximately",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us at team [@] randomlabs.ai",
+    "url": "https://randomlabs.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Provide us with your W2 form via email.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Please contact us at information@randommath.com for current information about out policy.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Random Labs — npm i -g @randomlabs/slate && slate Quickstart docs -> terms privacy security status",
+    "url": "https://randomlabs.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs — information@randomlabs.com Address 21580 Stevens Creek Blvd. Suite #106, Cupertino, CA Follow us on our socials",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【生成AI最新ニュース】Random Labsが「Thread Weaving」でAIコーディ... — Mar 13, 2026 · 特に企業環境での導入においては、生成されたコードの品質、セキュリティ脆弱性、知的財産権の問題などについて、厳格なコードレビュープロセスやセキュリティポリシーの見直しが必要となるでしょう。",
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "pass": 3
+   },
+   {
+    "quote": "About randomlabs — randomlabs is a small gallery of original aesthetic wallpapers. Every design is generated in-house with custom algorithms — layered gradients, flow fields, waves and minimal compositions — so you get pieces you won’t find anywhere else.",
+    "url": "https://randomlabs.art/about/",
+    "pass": 3
+   },
+   {
+    "quote": "RandomLabs — RandomLabs — Feito com curiosidade. Software para a mente curiosa. Ferramentas de IA que ajudam você a aprender, pensar e reter mais.",
+    "url": "https://www.randomlabs.com.br/",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs — Slate keeps a task alive across exploration, implementation, builds, test failures, and follow-up edits instead of treating each prompt like a fresh start. It can split independent research, coding, and verification work into focused threads, then bring the useful results back into the main session.",
+    "url": "https://randomlabs.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs — Explore essential topics in Physics with our comprehensive courses. Comprehensive curriculum designed to cater to varying levels of student proficiency. Dedicated support from experienced instructors to foster academic and competitive success.",
+    "url": "https://randomlabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs Revenue, Funding & Valuation - prospeo.io — Random Labs has revenue of $85,555, estimated valuation of $273,776, $500,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Random Labs. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/845876-26",
+    "pass": 3
+   },
+   {
+    "quote": "Randomlabs.ai - 2026 Company Profile, Funding & Competitors ... — Randomlabs.ai is a funded company based in San Francisco (United States), founded in 2023. It operates as a Developer of code generation and open-source software engineering agents.",
+    "url": "https://tracxn.com/d/companies/randomlabsai/__2qqqDIdWnsUgymxq51wqJCmxmNdQhb4SNEH9qi5wJm8",
+    "pass": 3
+   },
+   {
+    "quote": "Randomlabs.ai - 2025 Company Profile, Funding & Competitors ... — Dec 27, 2025 · Explore Randomlabs.ai's in-depth company profile, including funding details, key investors, and competitors.",
+    "url": "https://tracxn.com/d/companies/randomlabs.ai/__2qqqDIdWnsUgymxq51wqJCmxmNdQhb4SNEH9qi5wJm8",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Random Labs was founded in 2024 by Mihir Chintawar and Kiran, who share a vision that software development should remain in the hands of people and that there is an almost infinite demand for new software that current developer supply cannot meet.",
+    "url": "https://startupintros.com/orgs/random-labs",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Random Labs Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Random Labs",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Random Labs?",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Random Labs have?",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【生成AI最新ニュース】Random Labsが「Thread Weaving」でAIコーディ... Mar 13, 2026 · これは、モデルの管理自体が実世界の生産性向上における主要なボトルネックとなっている現状を指します。 Random Labsは、この「システム問題」を解決し、AI時代のエンジニアリングにおける生産性のボトルネックを解消することを目指しています。",
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "pass": 3
+   },
+   {
+    "quote": "【生成AI最新ニュース】Random ... - note（ノート） Mar 13, 2026 · 概要と背景 Y Combinatorの支援を受けるサンフランシスコのスタートアップRandom Labsは、2024年にKiran Chintawar氏とMihir Chintawar氏によって共同設立され、この度、初の「スウォームネイティブ（swarm-native）」な自律型コーディングエージェント「Slate V1」を正式にローンチしました。このツールは、大 ...",
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【生成AI最新ニュース】Random Labsが「Thread Weaving」でAIコーディングエージェントの限界を突破：Slate V1ローンチ｜ばるす＠私のつぶやき",
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "pass": 3
+   },
+   {
+    "quote": "【生成AI最新ニュース】Random Labsが「Thread Weaving」でAIコーディングエージェントの限界を突破：Slate V1ローンチ",
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinatorの支援を受けるサンフランシスコのスタートアップRandom Labsは、2024年にKiran Chintawar氏とMihir Chintawar氏によって共同設立され、この度、初の「スウォームネイティブ（swarm-native）」な自律型コーディングエージェント「Slate V1」を正式にローンチしました。このツールは、大規模な並列処理を伴う複雑なエンジニアリングタスクの実行を目的として設計されています。",
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "pass": 3
+   },
+   {
+    "quote": "現代のソフトウェアエンジニアリングは、AIモデルの能力向上に伴い、新たな課題に直面しています。フロンティアモデルの生来の知能は非常に高いものの、タスクが長期にわたる場合や、深いコンテキストウィンドウを必要とする場合、その知能の活用が困難になるという「システム問題」が顕在化しています。これは、モデルの管理自体が実世界の生産性向上における主要なボトルネックとなっている現状を指します。",
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labsは、この「システム問題」を解決し、AI時代のエンジニアリングにおける生産性のボトルネックを解消することを目指しています。Slate V1は、人間開発者の代替ではなく、コラボレーションツールとして「次の2000万人のエンジニア」の能力を拡張することを目標に掲げています。オープンベータ期間を経ての今回の公式リリースは、AIを活用したソフトウェア開発の新たな局面を示すものと位置付けられます。",
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "pass": 3
+   },
+   {
+    "quote": "Slate V1の核心にあるのは、「Thread Weaving（スレッドウィービング）」と呼ばれる革新的なアーキテクチャです。これは、従来のAIコーディングアシスタントが抱えていた、硬直したタスクツリーや、情報圧縮（compaction）における情報損失といった課題を解決するために開発されました。Slateは単なる既存モデルのラッパーやファイルアクセス機能を持つチャットボットではなく、「hive mind（集合精神）」哲学を実装し、人間の組織のようにスケーラブルなエージェントワークを実現します。",
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "pass": 3
+   },
+   {
+    "quote": "Recursive Language Models (RLM) とアクションスペース",
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "pass": 3
+   },
+   {
+    "quote": "Slateの効率性の中心には、Recursive Language Models (RLM) への深い関与があります。従来のAIエージェントでは、「バグを修正する」といった高レベルの指示に対して、モデルが高レベルの戦略と低レベルの実行を同時に処理する必要がありました。Random Labsはこれを「Knowledge Overhang（知識の過剰供給）」の問題と定義しています。これは、モデルが潜在的に持つ知能を、戦術的なタスクに圧倒されて効果的に活用できない状態を指します。",
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Random Labs (@wearerandomlabs) / X At Random Labs, We mostly care about one thing: making ai actually work for software engineering. If this sounds interesting, contact us at team@randomlabs.ai Anyways here's a hardstyle edit of a support ticket on our discord because one of our mods thought it would go hard",
+    "url": "https://x.com/wearerandomlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Now you know what we've been up to - x.com Mar 12 Today. Im happy to announce. Slate V1. Slate V1 is the first swarm native agent. Use any of the supported models to orchestrate and execute. Massively parallel. And incredibly token efficient. We are building agents that scale like an organization. npm i -g @randomlabs/slate 💬 34",
+    "url": "https://x.com/0xrandomlabs/status/2032250309926666440",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs Launches Slate V1 Open-Source AI Coding Agent Imagine dozens of AI agents working together like a hive mind to crack tough coding problems. Random Labs just made that real with Slate V1. Slate V1, installable via a simple npm command, orchestrates parallel AI threads for planning, searching, and coding using top models like Claude Sonnet and GPT-5 variants.",
+    "url": "https://x.com/i/trending/2032220005874446539",
+    "pass": 3
+   },
+   {
+    "quote": "Today we're launching programs in slate Programs allow you to ... Random Labs (@wearerandomlabs). 16 likes. Today we're launching programs in slate Programs allow you to engineer your agent orchestration Autoresearch, /goal, Deep Research All of these are just programs Make reusable components and build a system All with your existing subscriptions and any model",
+    "url": "https://x.com/wearerandomlabs/status/2073170271532720457",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs (@wearerandomlabs) / X Lots of new improvements coming to Slate asap! - Programs will be much easier to use - More subscriptions will be supported (i.e. Grok) - Agent behavior + UI bugs actively being fixed We'd also love to give you credits to hear about your experience! Email team@randomlabs.ai",
+    "url": "https://x.com/wearerandomlabs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Random Labs - LinkedIn Random Labs | 276 followers on LinkedIn. We are building llm based systems for end to end software engineering.",
+    "url": "https://www.linkedin.com/company/randomlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Stevens - Assistant to Chief Executive Officer chez ...Mihir Chintawar - Co-founder, Random Labs (YC S24) | LinkedInPorting Browser Use to TypeScript with Slate in under $60#randomlabs #summercamp2025 #stemeducation #creativelearning ...Random Labs (YC S24) is building open-source software ... Assistant to Chief Executive Officer chez RandomLabs · Experience: RandomLabs · Location: Montreal. ",
+    "url": "https://ca.linkedin.com/in/nick-stevens-5b277227a",
+    "pass": 3
+   },
+   {
+    "quote": "Mihir Chintawar - Co-founder, Random Labs (YC S24) | LinkedInPorting Browser Use to TypeScript with Slate in under $60#randomlabs #summercamp2025 #stemeducation #creativelearning ...Random Labs (YC S24) is building open-source software ... Co-founder, Random Labs (YC S24) · Experience: Random Labs · Education: Y Combinator · Location: San Francisco · 500+ connections on LinkedIn. Porting Browser U",
+    "url": "https://www.linkedin.com/in/mihir-chintawar-95008a1b9",
+    "pass": 3
+   },
+   {
+    "quote": "#randomlabs #summercamp2025 #stemeducation #creativelearning ... 🌟 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗶𝗻𝗴 𝗥𝗮𝗻𝗱𝗼𝗺 𝗟𝗮𝗯𝘀 𝗦𝘂𝗺𝗺𝗲𝗿 𝗖𝗮𝗺𝗽 𝟮𝟬𝟮𝟱! 🌟 Random Labs is designed to complement ...",
+    "url": "https://www.linkedin.com/posts/random-math_randomlabs-summercamp2025-stemeducation-activity-7303246394822193152-7BLQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Random Labs - Facebook Jul 18, 2015 · Random Labs. 47 likes. Random Labs is a company based within the online virtual world Second Life® where I build and script my digital toys. I create...",
+    "url": "https://www.facebook.com/RandomLabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs - Facebook Jan 14, 2022 · Campaña para Bistrot Sainz. Levantamiento de foto, edición, retoque y creación de identidad gráfica. #RandomLabs",
+    "url": "https://www.facebook.com/randomlabsmx/",
+    "pass": 3
+   },
+   {
+    "quote": "Random Labs - I've started making some beginner Second ... Oct 18, 2013 · Random Labs Mar 7, 2014 First demo video of my upcoming IOS (and later Android) release, Roid Runner. Enemy AI is coming along nicely, so far these tests consist of endless waves while I tweak the settings, but with explosions and lock-on missiles recently added, it's starting to feel like a real game :) http://www.youtube.",
+    "url": "https://www.facebook.com/RandomLabs/posts/ive-started-making-some-beginner-second-life-scripting-tutorials-aimed-at-people/463391407111636/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://randomlabs.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://randomlabs.ai/about",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://randomlabs.ai/logos/gravity.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://randomlabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lucky_hornet941/n/n30e4f9e0d292",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://randomlabs.art/about/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.randomlabs.com.br/",
+    "status": "http_530",
+    "method": "http"
+   },
+   {
+    "url": "https://randomlabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customerlabs.com/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.customerlabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/random-labs-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/845876-26",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/randomlabsai/__2qqqDIdWnsUgymxq51wqJCmxmNdQhb4SNEH9qi5wJm8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/randomlabs.ai/__2qqqDIdWnsUgymxq51wqJCmxmNdQhb4SNEH9qi5wJm8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/wearerandomlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/0xrandomlabs/status/2032250309926666440",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/trending/2032220005874446539",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wearerandomlabs/status/2073170271532720457",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/randomlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/nick-stevens-5b277227a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mihir-chintawar-95008a1b9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/random-math_randomlabs-summercamp2025-stemeducation-activity-7303246394822193152-7BLQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RandomLabs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/randomlabsmx/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RandomLabs/posts/ive-started-making-some-beginner-second-life-scripting-tutorials-aimed-at-people/463391407111636/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/wearerandomlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wearerandomlabs/status/2073170271532720457",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/0xrandomlabs/status/2032250309926666440",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Randomlabs 日本 導入",
+   "results": [
+    "https://randomlabs.ai/",
+    "https://randomlabs.com/",
+    "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "https://note.com/lucky_hornet941/n/n30e4f9e0d292",
+    "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "https://unchainedlabs.com/jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Randomlabs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://randomlabs.com/",
+    "https://www.ycombinator.com/companies/random-labs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Randomlabs Japan",
+   "results": [
+    "https://randomlabs.art/about/",
+    "https://www.randomlabs.com.br/",
+    "https://randomlabs.ai/",
+    "https://randomlabs.com/",
+    "https://unchainedlabs.com/jp/",
+    "https://www.linkedin.com/company/randomlabs",
+    "https://www.ycombinator.com/companies/random-labs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Randomlabs manufacturing customer case study",
+   "results": [
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.customerlabs.com/case-study/",
+    "https://www.customerlabs.com/",
+    "https://www.coursehero.com/file/87895323/Case-Study-Toledo-Custom-Manufacturing-Quality-Controldocx/",
+    "https://www.protolabs.com/en-gb/resources/case-studies/",
+    "https://randomlabs.ai/blog"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Randomlabs white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "https://www.resellercluster.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Randomlabs founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/random-labs-revenue",
+    "https://pitchbook.com/profiles/company/845876-26",
+    "https://tracxn.com/d/companies/randomlabsai/__2qqqDIdWnsUgymxq51wqJCmxmNdQhb4SNEH9qi5wJm8",
+    "https://tracxn.com/d/companies/randomlabs.ai/__2qqqDIdWnsUgymxq51wqJCmxmNdQhb4SNEH9qi5wJm8",
+    "https://startupintros.com/orgs/random-labs",
+    "https://www.zoominfo.com/c/random-labs/1342547904",
+    "https://rocketreach.co/random-labs-profile_b422d746feecea25"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Randomlabs",
+   "results": [
+    "https://note.com/hirokimiyano/n/nb412bcb34dd0?hl=en",
+    "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://tales.note.com/",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/on_consul/n/n2e1165fffbb0",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Randomlabs",
+   "results": [
+    "https://x.com/wearerandomlabs",
+    "https://x.com/0xrandomlabs/status/2032250309926666440",
+    "https://x.com/i/trending/2032220005874446539",
+    "https://x.com/wearerandomlabs/status/2073170271532720457",
+    "https://x.com/momo_mattomo/status/2032183088575627324",
+    "https://x.com/0xrandomlabs/status/2018767663615615280",
+    "https://x.com/i/trending/2080510459363696930"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Randomlabs",
+   "results": [
+    "https://www.linkedin.com/company/randomlabs",
+    "https://ca.linkedin.com/in/nick-stevens-5b277227a",
+    "https://www.linkedin.com/in/mihir-chintawar-95008a1b9",
+    "https://www.linkedin.com/posts/random-math_randomlabs-summercamp2025-stemeducation-activity-7303246394822193152-7BLQ",
+    "https://www.linkedin.com/posts/random-math_randomlabs-stemforkids-stemeducation-activity-7310468958451564544-3uDH",
+    "https://www.linkedin.com/posts/y-combinator_random-labs-yc-s24-is-building-open-source-activity-7237928870358736896-Z26D",
+    "https://www.linkedin.com/posts/randomlabs_we-ported-browser-use-a-project-with-846k-activity-7443326135482060800-KqwC"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Randomlabs",
+   "results": [
+    "https://www.facebook.com/RandomLabs/",
+    "https://www.facebook.com/randomlabsmx/",
+    "https://www.facebook.com/randomlabtaipei/",
+    "https://www.facebook.com/RandomLabs/posts/ive-started-making-some-beginner-second-life-scripting-tutorials-aimed-at-people/463391407111636/",
+    "https://www.facebook.com/RandomLabs/posts/episode-2-of-my-new-second-life-scripting-series-in-this-episode-i-talk-about-th/463392307111546/",
+    "https://www.facebook.com/RandomLabs/posts/there-have-been-price-cuts-across-the-board-this-week-i-decided-to-lower-the-pri/455281834589260/",
+    "https://www.facebook.com/RandomLabs/posts/strapping-my-phone-to-my-face-to-test-out-a-virtual-reality-mode-for-my-unity-ga/840691969381576/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Randomlabs note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/zero_startup_lab",
+    "https://randomlabs.com/about-us",
+    "https://note.com/hitori_de_life/n/n93c356fd243b",
+    "https://www.ycombinator.com/companies/random-labs",
+    "https://randomlabs.ai/",
+    "https://randomlabs.ai/blog"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Randomlabs X 投稿",
+   "results": [
+    "https://x.com/wearerandomlabs",
+    "https://x.com/wearerandomlabs/status/2073170271532720457",
+    "https://x.com/0xrandomlabs/status/2032250309926666440",
+    "https://randomlabs.ai/",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://x.com/hashtag/投稿",
+    "https://randomlabs.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部38頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部38頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部38頁・検索12回）"
+ }
+}

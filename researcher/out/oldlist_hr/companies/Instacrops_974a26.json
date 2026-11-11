@@ -1,0 +1,974 @@
+{
+ "name": "Instacrops",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-10T23:26:25.835162+00:00",
+ "official_url": "https://www.instacrops.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.",
+    "url": "https://www.instacrops.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "#1 Product of the Day",
+    "url": "https://moge.ai/ja/product/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "・市場定義と提供価値：スマート農業・精密農業（PAaaS: Precision Agriculture as a Service）市場において、農業管理のデータ化を進め、水や肥料の消費を抑えながら収量と品質を向上させる価値を提供する",
+    "url": "https://www.firstcvc.jp/global/instacrops.com",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Series A（2022-12）",
+    "url": "https://www.firstcvc.jp/global/instacrops.com",
+    "pass": 3
+   },
+   {
+    "quote": ", a Chile-based agricultural-technology company developing AI agents that help farmers use real-time field data to make growing decisions. Bustamante explained how Instacrops combines data from sensors, satellites, and weather systems to provide recommendations on irrigation, crop management, and other agricultural decisions.",
+    "url": "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "pass": 3
+   },
+   {
+    "quote": "Together, these sources give our AI agents a more complete picture of each field. The system interprets these signals in context. For example, a soil sensor may show moisture dropping quickly while a weather forecast predicts rain later in the day. Combining those signals helps the system account for changing conditions when generating recommendations.",
+    "url": "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "pass": 3
+   },
+   {
+    "quote": "The AI agents also account for uncertainty. If key information is missing, such as incomplete soil-moisture data or a sudden change in weather, the system identifies the gap and requests additional context instead of making a guess. We continuously compare what the system recommends with what happens in the field and use those results to improve its performance.",
+    "url": "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "pass": 3
+   },
+   {
+    "quote": "5 Q’s with Owen Kent, Chief Marketing Officer...",
+    "url": "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "pass": 3
+   },
+   {
+    "quote": "How Data-Rich Workplaces Can Improve Worker Safety, Health, and Experience",
+    "url": "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "pass": 3
+   },
+   {
+    "quote": "From Cart to Claim: Addressing Product Liability in Online Marketplaces",
+    "url": "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "pass": 3
+   },
+   {
+    "quote": "We give farmers IoT sensors to put in their field. We combine that data with satellite and drone data to provide analytics on the health of their farms. Farmers use this to increase their crops yield by 12% on average.",
+    "url": "https://www.ycombinator.com/companies/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "What is your company going to make? Please describe your product and what it does or will do.",
+    "url": "https://www.ycombinator.com/companies/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops.AI | Agricultura de precisión e inteligencia artificial",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Monitorea, predice y optimiza tu campo en tiempo real con datos, sensores e inteligencia artificial.",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Monitorea un campo con 30 consultas mensuales, análisis de imágenes, NDVI mensual y pronóstico agroclimático, y mucho más. Sin tarjeta de crédito.",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Confían en nosotros los principales inversores y aceleradoras del mundo",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Recomendaciones inteligentes de riego basadas en datos en tiempo real y modelos predictivos.",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Maximiza la producción mediante condiciones de cultivo optimizadas y gestión de recursos.",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Obtén consejos prácticos para la gestión de riego, fertilización y manejo de cultivos a través de nuestro potente equipo agronómico experto en agricultura de precisión",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Conecta sensores, datos y agentes de inteligencia artificial para automatizar decisiones agrícolas y producir más con menos.",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tecnología de punta hecha simple. Sin curvas de aprendizaje, sin instalaciones complicadas.",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Procesamos 15 millones de puntos de datos por hora, analizando +80 variables para entender exactamente qué necesita tu cultivo.",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Alertas y recomendaciones llegan directo a tu WhatsApp con nuestro agente Instadrop. Te decimos cuándo regar, cuánto aplicar y qué problemas prevenir.",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Produces Más con Menos",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ahorra hasta 30% en agua, aumenta rendimiento 10-20% y reduce costos operacionales. Resultados medibles desde el primer mes.",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "IA que estima tu cosecha y fecha óptima de inicio con 90% de precisión",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Predicción de rendimiento con 90% de precisión",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimización de procesos de producción",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Aprende de tu operación con cada consulta",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops ya está en Product Hunt. Deja tu reseña y apoya la agricultura impulsada por IA.",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Orgullo nacional: Revolucionaria startup chilena Instacrops brilla entre las 200 startups más prometedoras del mundo",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Construyamos juntos el futuro de la agricultura de precisión",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Add as a preferred source on Google",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "A Chilean startup is tackling agriculture's massive water problem with AI that's already helping 260 farms slash water use by 30% while boosting crop yields up to 20%.",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "processes 15 million data points hourly to revolutionize irrigation timing, and they're presenting at TechCrunch Disrupt this month as part of Startup Battlefield.",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "The transformation from hardware to AI completely restructured the company's operations and scale. \"We are processing - more or less - 15 million data points per hour. Almost 10 years ago, that was the amount for a year,\" Bustamante explained. \"We're reducing cost, team members, and generating more impact with less.\"",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "For more technologically advanced operations, Instacrops can directly control irrigation systems, automating the entire water management process. The startup focuses on high-value crops across Latin America, including apples, avocados, blueberries, almonds, and cherries. Farmers pay an annual per-hectare fee for access to the irrigation insights.",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "The company's trajectory reflects the broader shift from commoditized IoT hardware toward AI-driven agriculture solutions. As frost detection sensors became widely available and cheap, Instacrops evolved into something far more valuable - a comprehensive water optimization platform that addresses one of agriculture's most pressing challenges.",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "With global water stress intensifying and agricultural demands growing, Instacrops represents a new generation of agtech startups using AI to solve resource efficiency problems at scale. Their 30% water reduction isn't just impressive - it's potentially transformative for regions facing severe water scarcity.",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "The Jensen Huang File: What's Proven, Alleged and Next",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops is a Chilean AI startup that optimizes farm irrigation by processing 15 million data points hourly across 80+ parameters including satellite imagery, soil moisture, and weather data. The system sends irrigation recommendations to farmers via mobile apps or WhatsApp.",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops' AI reduces farm water consumption by up to 30% while simultaneously increasing crop yields by up to 20%. The system currently serves 260 farms across Latin America with these proven results.",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops originally deployed IoT frost sensors but pivoted to AI-powered irrigation when frost sensors became commoditized. The shift allowed them to process 15 million data points hourly compared to processing that amount annually 10 years ago.",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "When will Instacrops present at TechCrunch Disrupt 2025?",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops is participating in TechCrunch Disrupt 2025's Startup Battlefield program and will demo their water-saving AI technology later this month in San Francisco. They graduated from Y Combinator's summer 2021 batch.",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "AI Security Gaps Expose Enterprise Supply Chains to Risk",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "Trump: FBI Probing Nvidia CEO Over Chinese Spy Affair",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 1, 2021",
+    "url": "https://startupintros.com/orgs/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops has raised $3.1M across 2 funding rounds. Most recently, it raised $3.0M Series A in April 2021.",
+    "url": "https://startupintros.com/orgs/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops helps reduce water consumption by up to 30% and minimizes fertilizer and pesticide use, promoting environmentally responsible farming practices[1][2].",
+    "url": "https://startupintros.com/orgs/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Data Scale and Processing Power:",
+    "url": "https://startupintros.com/orgs/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "The system processes millions of data points hourly, enabling precise and timely decision-making that was previously impossible at this scale[4].",
+    "url": "https://startupintros.com/orgs/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an AI (artificial intelligence)-agentic farming platform designed to help farmers save water, prevent crop losses, and improve crop yields.",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an AI (artificial intelligence)-agentic farming platform designed to help farmers save water, prevent crop losses, and improve crop yields. The company offers generative AI integration, IoT (Internet of Things) soil sensors, and a WhatsApp-based AI agent, enabling farmers to receive real-time, field-specific guidance, improving resilience and sustainability in agriculture.",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   },
+   {
+    "quote": "Santiago, Providencia 7500000",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   },
+   {
+    "quote": "10-Apr-2024",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   },
+   {
+    "quote": "11. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/instacrops.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/instacrops.com",
+    "pass": 3
+   },
+   {
+    "quote": "We’re live on 300+ farms across Latam and have reached more than $200.000 in monthly revenue, growing 2X YoY.",
+    "url": "https://www.ycombinator.com/companies/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Ahora sin barreras de entrada",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Obtén consejos prácticos para la gestión de riego, fertilización y manejo de cultivos a través de nuestro potente equipo agronómico experto en agricultura de precisión",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Obtén tus sensores sin pago inicial y accede a equipos, plataforma y soporte mediante una sola cuota fija mensual.",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "processes 15 million data points hourly to revolutionize irrigation timing, and they're presenting at TechCrunch Disrupt this month as part of Startup Battlefield.",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "But Bustamante's betting AI can flip the script on farm water waste. His startup pivoted dramatically from deploying IoT frost sensors to building sophisticated irrigation intelligence, and the numbers are staggering. Across 260 farms, Instacrops is cutting water use by up to 30% while simultaneously boosting crop yields by as much as 20%. The company's part of",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic's IPO by the Numbers: Range, Cornerstones and the Bill",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic Launches Claude Meetings Days Before IPO",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "Anthropic Ships Mythos and Fable Models Days Before IPO",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "Barros Borgoño 160",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops has 15 total employees.",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   },
+   {
+    "quote": "What is Instacrops’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Instacrops is",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Instacrops: AI搭載農業インサイト | AgTecher — Instacropsは、IoTとAIを活用して、作物の収量と効率を向上させるインサイトを農家に提供します。 モバイルアプリとWhatsApp連携によるリアルタイム監視と推奨により、データ駆動型の農業を身近にします。",
+    "url": "https://agtecher.com/ja/software/instacrops/",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops:農家にリアルタイムの圃場監視、実行可能な洞察、資源最適... — Instacropsは、農家が作物を精密に監視・管理できる包括的なデジタルプラットフォームです。 IoTセンサー、衛星・ドローン画像、高度な分析を統合することで、Instacropsは土壌、天候、灌漑、植物の健康に関するリアルタイムデータを提供します。",
+    "url": "https://moge.ai/ja/product/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Instacropsの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Instacropsは、農業分野においてIoTセンサー、衛星画像、気象データを統合し、人工知能（AI）を活用してリアルタイムの栽培意思決定を支援するチリ発のアグリテック企業である。 同社は「バーチャル・クロ...",
+    "url": "https://www.firstcvc.jp/global/instacrops.com",
+    "pass": 3
+   },
+   {
+    "quote": "5 Q’s with Mario Bustamante, CEO of Instacrops – Center for ... — Sep 17, 2026 · Bustamante explained how Instacrops combines data from sensors, satellites, and weather systems to provide recommendations on irrigation, crop management, and other agricultural decisions.",
+    "url": "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops：精密農業のためのAI搭載AgTechプラットフォーム - ToolMa... — Aug 12, 2025 · Instacropsで収穫量と収益性を最大化します。 当社のAI駆動プラットフォームは、IoTセンサーと衛星画像を使用して、灌漑、土壌、作物の健康状態をリアルタイムで監視します。 よりスマートな農業のための実行可能な洞察を得てください。",
+    "url": "https://www.toolmage.com/ja/tool/instacrops/",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops: Helping farmers maximize crop yield | Y Combinator — Instacrops is a simple dashboard that helps farmers maximize their crop yield. We give farmers IoT sensors to put in their field. We combine that data with satellite and drone data to provide analytics on the health of their farms. Farmers use this to increase their crops yield by 12% on average.",
+    "url": "https://www.ycombinator.com/companies/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops Inc (YC S21) - LinkedIn — Instacrops builds AI-powered infrastructure for agriculture. The platform combines in-field IoT sensors, weather monitoring, and machine learning to help farmers decide when and how much to...",
+    "url": "https://www.linkedin.com/company/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "5 Q’s with Mario Bustamante, CEO of Instacrops – Center for ... — Sep 17, 2026 · The Center for Data Innovation recently spoke with Mario Bustamante, CEO of Instacrops, a Chile-based agricultural-technology company developing AI agents that help farmers use real-time field data to make growing decisions.",
+    "url": "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops: Helping farmers maximize crop yield | Y Combinator — Today, with Instacrops, we are operating in 350+ farms wondering how to improve the food production with Software and AI reducing food security risks. As an electronics engineer with 10+ years of experience, I developed personalized IoT devices selling 11,000+ units which led to my first exit.",
+    "url": "https://www.ycombinator.com/companies/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops.AI | Agricultura de precisión e inteligencia ... — Instacrops AI: El poder de un agrónomo experto, en tu bolsillo. Monitorea, predice y optimiza tu campo en tiempo real con datos, sensores e inteligencia artificial.",
+    "url": "https://www.instacrops.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops' AI Cuts Farm Water Use 30% While Boosting Yields 20% — Oct 4, 2025 · Instacrops' dramatic pivot from hardware to AI demonstrates how startups can evolve rapidly to tackle bigger problems. By processing massive data streams in real-time, they're not just optimizing irrigation - they're reshaping how agriculture approaches water scarcity.",
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops Funding | $3.9M Revenue | Complete Analysis — Apr 3, 2017 · Explore Instacrops complete analysis: product features, pricing model, market positioning, and business strategy.",
+    "url": "https://www.extruct.ai/hub/instacrops-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · With 34 employees, Instacrops reports over $200,000 in monthly revenue, demonstrating 2X year-over-year growth. Its development has been supported by participation in the Y Combinator Summer 2021 batch and investment from SVG Ventures. Instacrops was founded in 2014 by Mario Bustamante.",
+    "url": "https://startupintros.com/orgs/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops 2026 Company Profile: Valuation, Funding ...Instacrops – Business Snapshot & Rival Analysis – 2026Instacrops - Crunchbase Company Profile & FundingInstaCrops - 2025 Company Profile, Funding & Competitors - TracxnInstacrops — Funding, Investors & Team | SeedtableInstacrops — Company Profile & Funding | Indexed.vc — Information on valuation, funding, cap tables, investors, and executives ",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops – Business Snapshot & Rival Analysis – 2026 — Discover Instacrops's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops - Crunchbase Company Profile & FundingInstaCrops - 2025 Company Profile, Funding & Competitors - TracxnInstacrops — Funding, Investors & Team | SeedtableInstacrops — Company Profile & Funding | Indexed.vc — Serving fruit growers, exporters, and agricultural enterprises across the region, Instacrops enables data-driven decision-making at scale and is advancing toward agentic AI solutions",
+    "url": "https://www.crunchbase.com/organization/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "InstaCrops - 2025 Company Profile, Funding & Competitors - Tracxn — Mar 28, 2025 · InstaCrops is a series A company based in Providencia (Chile), founded in 2014 by Mario Andres Bustamante Bernucci and Jorge Vega Aravena. It operates as a Provider of cloud and AI-powered sensors systems for agricultural applications. InstaCrops has raised $3.32M in funding from investors like Y Combinator, Fundaci",
+    "url": "https://tracxn.com/d/companies/instacrops/__UlPRGpTeFYoSYUdQ22tvj0R5hT01-A5Z5vKInBKzyLU",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "2025年10月5日 今朝のAIニュースまとめ｜こたぽん Oct 5, 2025 · AIに関する最近の動向や企業の取り組みが多数報じられています。 Instacropsは水保存と作物の生産性向上を目的としたAI技術をデモンストレーションする予定で、また、Sam AltmanはSoraに細かいオプトイン制の著作権管理機能を追加することを発表しました。",
+    "url": "https://note.com/cotapon/n/n5558ac73a8ed",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Instacrops Inc. (@instacrops) / Posts / X Con la nueva App de #Instacrops tendrás una conexión directa con tus cultivos y frutales desde tu dispositivo móvil 🤳, simplificando y optimizando la toma de decisiones para maximizar su rendimiento.",
+    "url": "https://x.com/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops Colombia (@instacropscol) / Posts / X Instacrops quiere darte la oportunidad de que seas parte de esta nueva tecnología, accede a un DEMO GRATIS de 45 minutos. Llena el formato y no te quedes sin tu DEMO.",
+    "url": "https://x.com/instacropscol",
+    "pass": 3
+   },
+   {
+    "quote": "Han sido muy productivos nuestros días instalando @instacrops ... Instacrops Inc. (@instacrops). Han sido muy productivos nuestros días instalando @instacrops_cl en México. Cada vez se suman nuevos clientes, lo que nos tiene muy contentos! La oportunidad de crecer en este fascinante país es tremenda 👩🏼🌾🍃👨🏻💻 #internetofplants #agtech #thinkbigorgohome",
+    "url": "https://x.com/instacrops/status/1056006286259687424",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops Inc. on X: \"Estamos muy contentos por ser los ... Instacrops Inc. on X: \"Estamos muy contentos por ser los ganadores del premio nacional de innovación Avonni 2017 en la categoría de... https://t.co/qyxxaqTpnf\"",
+    "url": "https://x.com/instacrops/status/928866377359876097",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops Inc. (@instacrops) / Posts / X Apr 24, 2015 · Julio Alegría, Growth Manager y Gerente Comercial de Instacrops, explica la plataforma Agtech, su funcionamiento y beneficios para la toma de decisiones en huertos de especies frutales.",
+    "url": "https://x.com/instacrops",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Instacrops Inc (YC S21) - LinkedIn Instacrops builds AI-powered infrastructure for agriculture. The platform combines in-field IoT sensors, weather monitoring, and machine learning to help farmers decide when and how much to...",
+    "url": "https://www.linkedin.com/company/instacrops",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops Inc (YC S21) | LinkedIn Instacrops builds AI-powered infrastructure for agriculture. The platform combines in-field IoT sensors, weather monitoring, and machine learning to help farmers decide when and how much to...",
+    "url": "https://na.linkedin.com/company/instacrops/",
+    "pass": 3
+   },
+   {
+    "quote": "Mario Andrés Bustamante Bernucci - AI Agents for agriculture ...Juan Ridolfo - Founder & CEO Nexterra Group and Instacrops ...Mario Andrés Bustamante Bernucci - AI-Agentic Farming ...Instacrops Inc (YC S21) en LinkedIn: #instacrops #instacroper ...Instacrops Inc (YC S21) en LinkedIn: #instacrops #agtech # ... Sep 15, 2015 · Instacrops turn sensor data into AI-powered irrigation advice for high-val",
+    "url": "https://cl.linkedin.com/in/mario-andrés-bustamante-bernucci-36a79030/en",
+    "pass": 3
+   },
+   {
+    "quote": "Juan Ridolfo - Founder & CEO Nexterra Group and Instacrops ...Mario Andrés Bustamante Bernucci - AI-Agentic Farming ...Instacrops Inc (YC S21) en LinkedIn: #instacrops #instacroper ...Instacrops Inc (YC S21) en LinkedIn: #instacrops #agtech # ... Founder & CEO Nexterra Group and Instacrops Argentina · A Mechanical Engineer with over 15 years of local and international experience in the automotive ",
+    "url": "https://www.linkedin.com/in/juan-ridolfo-5692b9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Instacrops Inc. | Santiago - FacebookInstacrops Colombia - FacebookInstacrops Inc. - ¡Iniciamos el último mes del año en...Instacrops Inc. - Super excited to share that Instacrops...La agricultura ya no se trata solo de intuición ... - FacebookTomar mejores decisiones en el campo comienza con tener la ...El mercado agroexportador sigue creciendo, y con él también ... Sep 28, 2026 · Con Instacrops ",
+    "url": "https://www.facebook.com/instacrops/",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops Colombia - FacebookInstacrops Inc. - ¡Iniciamos el último mes del año en...Instacrops Inc. - Super excited to share that Instacrops...La agricultura ya no se trata solo de intuición ... - FacebookTomar mejores decisiones en el campo comienza con tener la ...El mercado agroexportador sigue creciendo, y con él también ... Oct 5, 2021 · Gracias al tremendo trabajo de todo el equipo de Inst",
+    "url": "https://www.facebook.com/instacropscol/",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops Inc. - ¡Iniciamos el último mes del año en... Dec 1, 2023 · ¡Iniciamos el último mes del año en grande! Nuestro equipo trabajó con éxito en proyectos clave esta semana, llevando la revolución agrícola de #Instacrops a nuevos niveles. También dimos inicio al proyecto en conjunto con nuestro aliado @basfagro_global en Agrícola Los Cerezos.",
+    "url": "https://www.facebook.com/instacrops/posts/-iniciamos-el-último-mes-del-año-en-grande-nuestro-equipo-trabajó-con-éxito-en-p/847317814065028/",
+    "pass": 3
+   },
+   {
+    "quote": "Instacrops Inc. - Super excited to share that Instacrops... Super excited to share that Instacrops was selected in the first batch of #GrowthtoImpact program of the most super power accelerator of LATAM 💪🏻💪🏻...",
+    "url": "https://www.facebook.com/instacrops/posts/super-excited-to-share-that-instacrops-was-selected-in-the-first-batch-of-growth/3253951218025208/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.instacrops.ai/",
+    "status": "http_522",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://agtecher.com/ja/software/instacrops/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/instacrops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/instacrops.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/instacrops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/instacrops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://agtecher.com/ja/software/instacrops/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/instacrops",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/instacrops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instacrops.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/instacrops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/168414-76",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/instacrops",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/instacrops",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cotapon/n/n5558ac73a8ed",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/instacrops",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/instacropscol",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/instacrops/status/1056006286259687424",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/instacrops/status/928866377359876097",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/instacrops",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://na.linkedin.com/company/instacrops/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cl.linkedin.com/in/mario-andrés-bustamante-bernucci-36a79030/en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/juan-ridolfo-5692b9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/instacrops/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/instacropscol/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/instacrops/posts/-iniciamos-el-último-mes-del-año-en-grande-nuestro-equipo-trabajó-con-éxito-en-p/847317814065028/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/instacrops/posts/super-excited-to-share-that-instacrops-was-selected-in-the-first-batch-of-growth/3253951218025208/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/instacrops",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Instacrops 日本 導入",
+   "results": [
+    "https://agtecher.com/ja/software/instacrops/",
+    "https://moge.ai/ja/product/instacrops",
+    "https://www.firstcvc.jp/global/instacrops.com",
+    "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "https://www.toolmage.com/ja/tool/instacrops/",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "https://journal.meti.go.jp/hotperson/47847/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instacrops 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.ipsen.com/japan/会社/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instacrops Japan",
+   "results": [
+    "https://www.ycombinator.com/companies/instacrops",
+    "https://moge.ai/ja/product/instacrops",
+    "https://agtecher.com/ja/software/instacrops/",
+    "https://www.linkedin.com/company/instacrops",
+    "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "https://instacrops.dev/",
+    "https://www.instacrops.com/ai-agents"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instacrops manufacturing customer case study",
+   "results": [
+    "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "https://www.ycombinator.com/companies/instacrops",
+    "https://www.instacrops.com/",
+    "https://www.techbuzz.ai/articles/instacrops-ai-cuts-farm-water-use-30-while-boosting-yields-20",
+    "https://www.extruct.ai/hub/instacrops-com/",
+    "https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/",
+    "https://www.agwatersummit.com/chilean-developed-virtual-assistant-makes-farming-operations-more-efficient/?lang=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instacrops white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instacrops founded funding employees revenue",
+   "results": [
+    "https://startupintros.com/orgs/instacrops",
+    "https://pitchbook.com/profiles/company/168414-76",
+    "https://compworth.com/company/instacrops",
+    "https://www.crunchbase.com/organization/instacrops",
+    "https://tracxn.com/d/companies/instacrops/__UlPRGpTeFYoSYUdQ22tvj0R5hT01-A5Z5vKInBKzyLU",
+    "https://seedtable.com/companies/instacrops",
+    "https://indexed.vc/companies/instacrops"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Instacrops",
+   "results": [
+    "https://note.com/contest/創作大賞2026",
+    "https://note.com/uirodet/n/n2b6763fae312",
+    "https://note.com/cotapon/n/n5558ac73a8ed",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/d_f/n/nc4a6a48a6fd8",
+    "https://note.com/kaa_kun_/n/n0c3b5a994b74",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Instacrops",
+   "results": [
+    "https://x.com/instacrops",
+    "https://x.com/instacropscol",
+    "https://x.com/instacrops/status/1056006286259687424",
+    "https://x.com/instacrops/status/928866377359876097",
+    "https://x.com/instacrops/status/1486819757487755266",
+    "https://x.com/THRIVEAgriFood/status/1294294759981244416",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Instacrops",
+   "results": [
+    "https://www.linkedin.com/company/instacrops",
+    "https://na.linkedin.com/company/instacrops/",
+    "https://cl.linkedin.com/in/mario-andrés-bustamante-bernucci-36a79030/en",
+    "https://www.linkedin.com/in/juan-ridolfo-5692b9",
+    "https://cl.linkedin.com/in/mario-andrés-bustamante-bernucci-36a79030",
+    "https://es.linkedin.com/posts/instacrops_instacrops-instacroper-instacrops-activity-7149109195085119489-ggpe",
+    "https://es.linkedin.com/posts/instacrops_instacrops-agtech-agricultura-activity-6834257574821416960-1GF6"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Instacrops",
+   "results": [
+    "https://www.facebook.com/instacrops/",
+    "https://www.facebook.com/instacropscol/",
+    "https://www.facebook.com/instacrops/posts/-iniciamos-el-último-mes-del-año-en-grande-nuestro-equipo-trabajó-con-éxito-en-p/847317814065028/",
+    "https://www.facebook.com/instacrops/posts/super-excited-to-share-that-instacrops-was-selected-in-the-first-batch-of-growth/3253951218025208/",
+    "https://www.facebook.com/instacrops/videos/la-agricultura-ya-no-se-trata-solo-de-intuición-se-trata-de-datos-que-impulsan-d/26418669417788592/",
+    "https://www.facebook.com/instacrops/videos/tomar-mejores-decisiones-en-el-campo-comienza-con-tener-la-información-correcta-/1348291430788779/",
+    "https://www.facebook.com/instacrops/videos/el-mercado-agroexportador-sigue-creciendo-y-con-él-también-aumentan-las-exigenci/1080156834356134/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instacrops note 社長",
+   "results": [
+    "https://datainnovation.org/2026/09/5-qs-with-mario-bustamante-ceo-of-instacrops/",
+    "https://www.cbinsights.com/company/instacrops/people",
+    "https://www.crunchbase.com/person/mario-bustamante",
+    "https://wellfound.com/company/instacrops-1/people",
+    "https://www.f6s.com/company/instacrops/",
+    "https://techcrunch.com/startup-battlefield/company/instacrops/",
+    "https://startupintros.com/orgs/instacrops"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Instacrops X 投稿",
+   "results": [
+    "https://x.com/instacrops",
+    "https://www.instacrops.com/",
+    "https://www.instagram.com/instacrops_inc/",
+    "https://web.instacrops.com/login",
+    "https://dashboard.instacrops.ai/",
+    "https://x.com/smalllabryu/status/2119121784234782781",
+    "https://note.com/mgane/n/n1c0d7384c8a0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

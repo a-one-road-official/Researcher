@@ -1,0 +1,350 @@
+{
+ "name": "ATLAS İTHALAT İHR.TİC.LTD.ŞTİ.",
+ "aliases": [],
+ "context": "旧営業リスト｜Machine Tools / Production Equipment｜未接触",
+ "researched_at": "2026-11-10T23:05:12.619246+00:00",
+ "official_url": "https://www.atlasithalat.com.tr/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.atlasithalat.com.tr/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=3mImzioTjIs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/atlas.ints/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "http://www.atlas-osk.co.jp/en/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlascopcogroup.com/ja-jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlas-mts.jp/contact/local-representatives",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlascopco.com/ja-jp/compressors/sales-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.laplace.co.jp/%E3%82%A2%E3%83%88%E3%83%A9%E3%82%B9%E3%82%B3%E3%83%97%E3%82%B3%E7%A4%BE%E3%81%A8%E5%9C%B0%E5%9F%9F%E4%BB%A3%E7%90%86%E5%BA%97%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%90/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/16373/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.atlas-osk.co.jp/en/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theatlasgroup.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlas-ndt.co.jp/%E6%B2%BF%E9%9D%A9?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlaskk.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.valtech.com/work/atlas-copco/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atlas-x.com/project/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atlas-ips.com/results/manufacturingcasestudy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atlaspolicy.com/category/rand/case-studies/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://atlasagent.ai/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://agencyatlas.ai/reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atlasti.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Atlas_Holdings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/atlas-technology-solution/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/atlastechgroup",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/atlas/__6GTTxLPuMyWXqLLz_tpE-eoLiLZE6qqg13Jyji3rD6I",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ATLAS İTHALAT İHR.TİC.LTD.ŞTİ. 日本 導入",
+   "results": [
+    "https://www.youtube.com/watch?v=3mImzioTjIs",
+    "https://www.facebook.com/atlas.ints/",
+    "http://www.atlas-osk.co.jp/en/company.html",
+    "https://www.atlascopcogroup.com/ja-jp",
+    "https://theatlasgroup.jp/",
+    "https://atlstech.com/en",
+    "https://atlas-international.com/",
+    "https://www.atlas-tech.co.jp/",
+    "https://www.atlas-scm.jp/pages/management?srsltid=AYCX9vLNYHGwfQ0CcLdXhTydVloOqHMZHb06I0MNFkANJZRliUnb-X0Q"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ATLAS İTHALAT İHR.TİC.LTD.ŞTİ. 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.atlas-mts.jp/contact/local-representatives",
+    "https://www.atlascopco.com/ja-jp/compressors/sales-distributor",
+    "https://www.laplace.co.jp/%E3%82%A2%E3%83%88%E3%83%A9%E3%82%B9%E3%82%B3%E3%83%97%E3%82%B3%E7%A4%BE%E3%81%A8%E5%9C%B0%E5%9F%9F%E4%BB%A3%E7%90%86%E5%BA%97%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%90/",
+    "https://metoree.com/companies/16373/distributors/",
+    "http://infox.hotims.com/16752-811",
+    "https://yandex.com.tr/maps/org/atlas_ithalat_ihracat/1069325081/",
+    "http://www.atlastanker.com/en.html",
+    "http://www.atlas-osk.co.jp/en/company.html",
+    "https://atlas-ark.co.jp/wp-content/uploads/2026/08/02-17-tesuriko_toritsukekanagu.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ATLAS İTHALAT İHR.TİC.LTD.ŞTİ. Japan",
+   "results": [
+    "http://www.atlas-osk.co.jp/en/company.html",
+    "https://theatlasgroup.jp/",
+    "https://www.atlas-ndt.co.jp/%E6%B2%BF%E9%9D%A9?lang=en",
+    "https://www.atlaskk.com/",
+    "https://atlstech.com/en",
+    "http://www.atlastanker.com/en.html",
+    "https://www.atlas.jp/english",
+    "http://www.atlas-shipping.co.jp/en/yard.html",
+    "https://tr.linkedin.com/company/atlas-ints"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ATLAS İTHALAT İHR.TİC.LTD.ŞTİ. manufacturing customer case study",
+   "results": [
+    "https://www.valtech.com/work/atlas-copco/",
+    "https://atlas-x.com/project/manufacturing/",
+    "https://atlas-ips.com/results/manufacturingcasestudy/",
+    "https://atlaspolicy.com/category/rand/case-studies/",
+    "https://www.azumuta.com/case-studies/atlas-copco/",
+    "https://www.atlascopco.com/en-us/itba/expert-hub/case-studies",
+    "https://www.facebook.com/GermanThaiChamberOfCommerce/posts/welcome-new-gtccmember-atlas-manufacturing-co-ltd-atlas-operates-as-a-smart-and-/1713434210788824/",
+    "https://learning.linkedin.com/elearning-case-studies/atlas-copco",
+    "https://www.stratasys.com/en/resources/case-studies/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ATLAS İTHALAT İHR.TİC.LTD.ŞTİ. white label OR reseller OR partner program",
+   "results": [
+    "https://atlasagent.ai/white-label",
+    "https://agencyatlas.ai/reseller-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://atlasti.com/reseller-program",
+    "https://www.makeitapp.com/en/reseller",
+    "https://johngalt.com/partner-portal",
+    "https://pages.atlashxm.com/partner_program_apac",
+    "https://atlasapp.ai/partners",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ATLAS İTHALAT İHR.TİC.LTD.ŞTİ. founded funding employees revenue",
+   "results": [
+    "https://growjo.com/company/Atlas_Holdings",
+    "https://www.reveliolabs.com/companies/atlas-technology-solution/employees",
+    "https://www.owler.com/company/atlastechgroup",
+    "https://tracxn.com/d/companies/atlas/__6GTTxLPuMyWXqLLz_tpE-eoLiLZE6qqg13Jyji3rD6I",
+    "https://www.crunchbase.com/organization/atlas-862e",
+    "https://www.privco.com/company/atlas-technology-solutions",
+    "https://getlatka.com/companies/atlasai.co",
+    "https://www.atlashxm.com/resources/atlas-transforms-the-employer-of-record-industry-in-2022",
+    "https://www.zoominfo.com/c/atlas-technology-solutions-inc/565391481"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com ATLAS İTHALAT İHR.TİC.LTD.ŞTİ.",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com ATLAS İTHALAT İHR.TİC.LTD.ŞTİ.",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com ATLAS İTHALAT İHR.TİC.LTD.ŞTİ.",
+   "results": [
+    "https://tr.linkedin.com/company/atlas-ints",
+    "https://tr.linkedin.com/directory/companies/a-3",
+    "https://www.linkedin.com/company/dnzfoods?trk=similar-pages_result-card_full-click",
+    "https://tr.linkedin.com/company/eksen-makina-ith-ihr-tic-ltd-%C5%9Fti-",
+    "https://tr.linkedin.com/company/mir-trade-tarim-urunleri-ith-ihr-tic-san-ltd-sti",
+    "https://tr.linkedin.com/company/akin-export-machinery",
+    "https://tr.linkedin.com/company/u%C4%9Fur-tekstil-konfeksiyon-makineleri-i%CC%87malat-i%CC%87thalat-i%CC%87hracat-ve-dahili-ticaret-ltd-%C5%9Fti",
+    "https://tr.linkedin.com/directory/companies/v-1",
+    "https://tr.linkedin.com/company/karahan-loji%CC%87sti%CC%87k",
+    "https://tr.linkedin.com/in/zeynep-sude-pinar-537b0823b"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com ATLAS İTHALAT İHR.TİC.LTD.ŞTİ.",
+   "results": [
+    "https://www.facebook.com/atlas.ints/videos/atlas-international-gaziantepte-bulunan-genel-merkezimizden-d%C3%BCnyan%C4%B1n-d%C3%B6rt-bir-ya/680028716501645/",
+    "https://www.facebook.com/SuvarogluHalicilik/",
+    "https://www.facebook.com/p/Topraklar-Gida-Nakliyat-Ithalat-Ihracat-Ve-Ticaret-Ltd-%C5%9Eti-100039928824563/",
+    "https://www.facebook.com/karahanlojistik.com.tr/",
+    "https://www.facebook.com/100071774512658/photos/368649093147426/",
+    "https://www.facebook.com/NEFISGOLDEN/",
+    "https://www.facebook.com/mygroupfilter/?locale=tr_TR",
+    "https://www.facebook.com/antepyagida/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "ATLAS İTHALAT İHR.TİC.LTD.ŞTİ. note 社長",
+   "results": [
+    "https://www.facebook.com/atlasindustriesvietnam/posts/atlas-is-delighted-to-welcome-an-important-new-addition-to-its-business-developm/1887016215805107/",
+    "http://atlasku.com/about.html",
+    "https://atlasgroupone.com/management/",
+    "http://www.atlas-osk.co.jp/en/company.html",
+    "https://atlasits.com.tr/",
+    "https://www.atlas-int.eu/about-us",
+    "https://finance.yahoo.com/quote/ATLAS.IS/",
+    "https://atlasinternationalexim.com/about-us/",
+    "https://atlstech.com/en"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ATLAS İTHALAT İHR.TİC.LTD.ŞTİ. X 投稿",
+   "results": [
+    "https://atlas-ints.com/",
+    "https://www.facebook.com/atlas.ints/",
+    "https://tr.linkedin.com/company/atlas-ints",
+    "https://www.facebook.com/atlas.ints/videos/auto_cropped_ar_ig_9_x_16_v4_corn-line-engmp4/1550402670186633/",
+    "https://www.instagram.com/atlas.ints/",
+    "https://atlas-international.com/",
+    "https://atlasoil.co/",
+    "https://connectamericas.com/company/trade-atlas-ticaretatlasi-bilgi-sistemleri-san-tic-ltd-sti",
+    "https://atlasforexport.com/tr/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "採用・広告の製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}
