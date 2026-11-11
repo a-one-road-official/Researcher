@@ -21,6 +21,7 @@ topics:
   mfg_recruit_pr: {run: true, shards: 7, per_run: 2}
   material_traders: {run: true, shards: 8, per_run: 5}
   am_software: {run: true, shards: 8, per_run: 5}
+  am_users: {run: true, shards: 6, per_run: 12}  # 2026-11-11 本人指示で追加。条件の正本は docs/am_users-criteria-2026-11-11.md
   field6_gap: {run: true, shards: 8, per_run: 4}  # 2026-11-05 穴埋め：造船の受注残と人手不足（一次）を追加（H7）。 2026-11-03 対象6分野33小区分：国内規模・参入社数・需給の差・法律・国の予算
   wl_field6: {run: true, shards: 8, per_run: 3}  # 2026-11-03 対象6分野33小区分の買い手向けホワイトラベルソフト（世界）と提供企業の黒字の証拠。第2段で会社ごとに黒字を三重確認
   wl_abc: {run: true, shards: 8, per_run: 1}  # 2026-11-03 問い合わせフォーム用 wl-A DfAM／wl-B 図面読み取り／wl-C 3D CAD（wl-Dは自作）の世界のホワイトラベルソフトと黒字の証拠
