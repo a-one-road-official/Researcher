@@ -1,0 +1,1195 @@
+{
+ "name": "Sixtyfour",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T07:39:58.472234+00:00",
+ "official_url": "https://sixtyfour.ai/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2025",
+    "url": "https://startupintros.com/orgs/sixtyfour",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/sixtyfour",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "6 applicants linked by an email pattern and a burner phone block",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven impact,",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sixtyfour XHigh leads at +70.6% weighted accuracy,",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "with 85.9% precision.",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sellers, hosts, and merchants at onboarding and at volume, and the rings operating behind them.",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our self-serve research API powers some of the leading data products in the world.",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Candidates and contractors who cleared every verification check and still are not who they claim to be.",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Threat actors, counterparties, and case subjects. One identifier to full footprint.",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Embed Sixtyfour's research agents into your onboarding flow, case",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Content-Type: application/json\"",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Professional email address\"",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"LinkedIn profile URL\"",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Short professional bio\"",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Define the fields your product needs. Sixtyfour researches people and companies and returns structured findings for your workflows.",
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "pass": 1
+   },
+   {
+    "quote": "\"Content-Type: application/json\"",
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "pass": 1
+   },
+   {
+    "quote": "\"professional_history\"",
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "pass": 1
+   },
+   {
+    "quote": "Fixed datasets answer the questions someone else chose. Sixtyfour lets you define a research schema for a person or company, so you can request the context your product needs and receive it in a structured response.",
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "pass": 1
+   },
+   {
+    "quote": "Provide known context",
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "pass": 1
+   },
+   {
+    "quote": "Field descriptions tell the agents what to research. Choose fields that answer a specific product question.",
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "pass": 1
+   },
+   {
+    "quote": "Research infrastructure for your product.",
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "pass": 1
+   },
+   {
+    "quote": "Research professional history, public profiles and other requested attributes from a known identity.",
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "pass": 1
+   },
+   {
+    "quote": "Run longer jobs asynchronously or process batches through the documented bulk endpoints.",
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "pass": 1
+   },
+   {
+    "quote": "The API supports different research depths. Start with the documented default and compare results on representative subjects. Higher tiers perform deeper research; high-tier intelligence requires enterprise access. See the docs for current access and pricing.",
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "pass": 1
+   },
+   {
+    "quote": "Can I process a batch of records?",
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Dedicated bulk intelligence endpoints accept CSV, JSON and NDJSON uploads. They return a task identifier so your application can track the background job.",
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "pass": 1
+   },
+   {
+    "quote": "Go deeper on the customers that need a closer look. Connect a business to its owners, its online footprint and the evidence your team needs to review.",
+    "url": "https://www.sixtyfour.ai/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Compare the stated activity with its website, professional presence and public records.",
+    "url": "https://www.sixtyfour.ai/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Product catalogue and contact details found",
+    "url": "https://www.sixtyfour.ai/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Different from the applicant’s registration",
+    "url": "https://www.sixtyfour.ai/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Research an unfamiliar merchant’s operating footprint and connected people when the application needs more context.",
+    "url": "https://www.sixtyfour.ai/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Confirms an identity document is genuine and that the person presenting it is its holder.",
+    "url": "https://www.sixtyfour.ai/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Takes that verified name forward and builds a sourced picture around it: public records, professional history, and anything that contradicts the file.",
+    "url": "https://www.sixtyfour.ai/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Give reviewers the underlying record, the reason it may relate to the subject and the questions that remain open. Sixtyfour adds investigative context to your existing screening and case review process.",
+    "url": "https://www.sixtyfour.ai/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Walk through an investigation with our team and see how the findings fit your review process.",
+    "url": "https://www.sixtyfour.ai/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "Decision-ready profile",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "researches linked profiles and records to uncover aliases, account history,",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Archived / Deleted content",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "A profile passes your KYB checks but the business has no web presence, no employees on LinkedIn, no digital trail beyond the registry filing. Our agents score how much corroborating evidence exists for a stated identity. Thin profile? That's the signal. We map beneficial ownership, connected entities, and shell company clusters across sources formal databases don't capture.",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "A seller listing counterfeit products often operates on multiple platforms under similar handles. Our agents cross reference a seller's identity across marketplaces, forums, and complaint threads to surface history your platform alone can't see. When they come back under a new name, our agents link the new account back to the same operator.",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce integrity & verification",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "A candidate or contractor submits credentials your team can't fully verify. Our agents trace their identity across professional platforms, public records, academic archives, and the open web to confirm the person is who they say they are. Fake degrees, fabricated work history, and synthetic identities surface when there's no corroborating evidence behind the claim.",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Investigate a suspicious profile using linked aliases, profiles, and public records. Compare shared identifiers and activity across accounts to find connections for your team to review.",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Follow the connections behind a profile.",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "profiles, public records, and business relationships to understand who may be",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "behind a profile and what connects them to others.",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "The linked website names Northstar Works. This connects the public profile to a business name.",
+    "url": "https://www.sixtyfour.ai/solutions/investigations",
+    "pass": 1
+   },
+   {
+    "quote": "A lead rarely arrives as a complete profile.",
+    "url": "https://www.sixtyfour.ai/solutions/investigations",
+    "pass": 1
+   },
+   {
+    "quote": "Exact handle found on a profile",
+    "url": "https://www.sixtyfour.ai/solutions/investigations",
+    "pass": 1
+   },
+   {
+    "quote": "An investigative lead supports further work. It is not, by itself, proof of wrongdoing.",
+    "url": "https://www.sixtyfour.ai/solutions/investigations",
+    "pass": 1
+   },
+   {
+    "quote": "Bring new leads into an existing investigation and keep the underlying source context close to the finding.",
+    "url": "https://www.sixtyfour.ai/solutions/investigations",
+    "pass": 1
+   },
+   {
+    "quote": "Follow the trail from a disposable handle to a broader digital footprint.",
+    "url": "https://www.sixtyfour.ai/solutions/investigations",
+    "pass": 1
+   },
+   {
+    "quote": "No. Shared names and reused handles can produce false matches. Inspect the supporting evidence and treat ambiguous links as leads until corroborated.",
+    "url": "https://www.sixtyfour.ai/solutions/investigations",
+    "pass": 1
+   },
+   {
+    "quote": "Candidate fraud detection and employee screening — Sixtyfour",
+    "url": "https://www.sixtyfour.ai/solutions/workforce-identity",
+    "pass": 1
+   },
+   {
+    "quote": "For hiring & security teams",
+    "url": "https://www.sixtyfour.ai/solutions/workforce-identity",
+    "pass": 1
+   },
+   {
+    "quote": "A convincing résumé is a starting point. Research the identity behind it, compare the claims with public evidence, and give your team better questions before the interview.",
+    "url": "https://www.sixtyfour.ai/solutions/workforce-identity",
+    "pass": 1
+   },
+   {
+    "quote": "See a candidate investigation",
+    "url": "https://www.sixtyfour.ai/solutions/workforce-identity",
+    "pass": 1
+   },
+   {
+    "quote": "Professional footprint",
+    "url": "https://www.sixtyfour.ai/solutions/workforce-identity",
+    "pass": 1
+   },
+   {
+    "quote": "Already part of the hiring conversation.",
+    "url": "https://www.sixtyfour.ai/solutions/workforce-identity",
+    "pass": 1
+   },
+   {
+    "quote": "Casco uses Sixtyfour to flag adverse media and résumé inaccuracies before getting on a call. The workflow starts with research that hiring and security teams can review together.",
+    "url": "https://www.sixtyfour.ai/solutions/workforce-identity",
+    "pass": 1
+   },
+   {
+    "quote": "The interview starts after the identity story.",
+    "url": "https://www.sixtyfour.ai/solutions/workforce-identity",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Begin with an email, name, phone number, company, or any other known data point.",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "6 applicants linked by an email pattern and a burner phone block",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Professional email address\"",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with an email or username. Sixtyfour",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Begin with an email, name, phone number, company, or any other known data point.",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "Start with an email or username. Research linked",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "An investigation might begin with a username, an email address or a company mentioned in a report. Sixtyfour researches across sources and organizes the relevant identities and connections, giving investigators a starting point they can inspect and build on.",
+    "url": "https://www.sixtyfour.ai/solutions/investigations",
+    "pass": 1
+   },
+   {
+    "quote": "Start with a known identifier such as a name, email address, phone number, username or company. Adding reliable context helps distinguish the subject from similar matches.",
+    "url": "https://www.sixtyfour.ai/solutions/investigations",
+    "pass": 1
+   },
+   {
+    "quote": "Stopping the flow requires tracing the digital footprint of the formation email, the shared registered agent, and cross-platform public records to find the human controller.",
+    "url": "https://www.sixtyfour.ai/blog/how-we-trace-hidden-beneficial-owners-behind-shell-companies",
+    "pass": 1
+   },
+   {
+    "quote": "The human operator never used his real name on the initial Amazon seller applications. Instead, investigators found an email address tied to a formation document. That email had surfaced in a 2018 data breach. Cross referencing the compromised email pulled up a specific burner phone number.",
+    "url": "https://www.sixtyfour.ai/blog/how-we-trace-hidden-beneficial-owners-behind-shell-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Here is how our agents resolve the network. The input is a single piece of evidence. Investigators can often start with just an entity name, a formation email, a phone number, or a law firm address.",
+    "url": "https://www.sixtyfour.ai/blog/how-we-trace-hidden-beneficial-owners-behind-shell-companies",
+    "pass": 1
+   },
+   {
+    "quote": "We query Sixtyfour proprietary identity databases, dark web sources, and underground marketplace mentions in parallel. We check breach records for compromised emails, phones, and password reuse. We scan social profiles across LinkedIn, GitHub, Reddit, and Telegram memberships. We pull clear web public records including LLC registries, court filings, and news mentions.",
+    "url": "https://www.sixtyfour.ai/blog/how-we-trace-hidden-beneficial-owners-behind-shell-companies",
+    "pass": 1
+   },
+   {
+    "quote": "A flagged phone number surfaces in a 2023 breach record tied to an email. The same email is the registered owner of two other corporate entities under different names. The output returns a mapped visual of connected accounts, confidence scores per edge, and the exact surfaced identifiers linking them.",
+    "url": "https://www.sixtyfour.ai/blog/how-we-trace-hidden-beneficial-owners-behind-shell-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Our agents can automate a reverse username search, tracking handle reuse across forgotten forums, dormant Discord servers, and old data to surface real names, locations, and emails in minutes.",
+    "url": "https://www.sixtyfour.ai/blog/how-we-use-agents-for-reverse-username-search-investigations",
+    "pass": 1
+   },
+   {
+    "quote": "On platforms like Roblox, which has 78 million daily active users, more than 40 percent of the user base consists of preteens. Because of strict compliance rules, gaming platforms cannot ask children for their real name, email, or phone number at signup. Every user is an anonymous username and a pixelated avatar.",
+    "url": "https://www.sixtyfour.ai/blog/how-we-use-agents-for-reverse-username-search-investigations",
+    "pass": 1
+   },
+   {
+    "quote": "Our agents follow that trail to surface a real name, location, email, and full digital profile from a handle alone. They automate the exact methodology a forensic accountant or federal investigator uses, executing the queries in parallel across thousands of disparate data sources.",
+    "url": "https://www.sixtyfour.ai/blog/how-we-use-agents-for-reverse-username-search-investigations",
+    "pass": 1
+   },
+   {
+    "quote": "The output is returned as structured JSON data. It includes the resolved real name, physical location, associated email addresses, linked corporate entities, and a confidence score for the match.",
+    "url": "https://www.sixtyfour.ai/blog/how-we-use-agents-for-reverse-username-search-investigations",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial equipment distributor",
+    "url": "https://www.sixtyfour.ai/solutions/financial-institutions",
+    "pass": 1
+   },
+   {
+    "quote": "As FinCEN rolls out stricter beneficial ownership reporting, operators will rely even more heavily on synthetic identities and dark web nominee rentals.",
+    "url": "https://www.sixtyfour.ai/blog/how-we-trace-hidden-beneficial-owners-behind-shell-companies",
+    "pass": 1
+   },
+   {
+    "quote": "Trust and safety teams rely on IP bans or device fingerprinting, but operators rotate hardware and VPNs.",
+    "url": "https://www.sixtyfour.ai/blog/how-we-use-agents-for-reverse-username-search-investigations",
+    "pass": 1
+   },
+   {
+    "quote": "Does the system work for operators located outside the United States?",
+    "url": "https://www.sixtyfour.ai/blog/how-we-use-agents-for-reverse-username-search-investigations",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in Tokyo in 2018 with the concept of \"pursuit of ordinary style, tribute to the conscientiousness of the manufacturer, while reflecting the mood of epoch, to be able to adore ageing together and forever”.",
+    "url": "https://www.sixty-four.co.jp/brand",
+    "pass": 3
+   },
+   {
+    "quote": "From the careful selection of ethically sourced materials to the implementation of environmentally conscious manufacturing processes, every step we take is a stride toward a greener and more sustainable industry.",
+    "url": "https://sixtyfour-official.com/about-us/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A profile passes your KYB checks but the business has no web presence, no employees on LinkedIn, no digital trail beyond the registry filing. Our agents score how much corroborating evidence exists for a stated identity. Thin profile? That's the signal. We map beneficial ownership, connected entities, and shell company clusters across sources formal databases don't capture.",
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "pass": 1
+   },
+   {
+    "quote": "A lead rarely arrives as a complete profile.",
+    "url": "https://www.sixtyfour.ai/solutions/investigations",
+    "pass": 1
+   },
+   {
+    "quote": "Already part of the hiring conversation.",
+    "url": "https://www.sixtyfour.ai/solutions/workforce-identity",
+    "pass": 1
+   },
+   {
+    "quote": "A constructed identity can arrive with polished credentials and a confident interview. Research the professional footprint behind the application: when it appeared, what corroborates it, and where the story conflicts. A missing record is a question to resolve, not a verdict.",
+    "url": "https://www.sixtyfour.ai/solutions/workforce-identity",
+    "pass": 1
+   },
+   {
+    "quote": "Can we investigate contractors as well as employees?",
+    "url": "https://www.sixtyfour.ai/solutions/workforce-identity",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2018, only 24 people have been arrested for abusing children they met on that specific platform. The reason predators evade capture is simple. Trust and safety teams ban the IP address. The operator boots up a residential proxy. The platform bans the account. The operator registers a new one.",
+    "url": "https://www.sixtyfour.ai/blog/how-we-use-agents-for-reverse-username-search-investigations",
+    "pass": 1
+   },
+   {
+    "quote": "SIXTYFOUR Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At SIXTYFOUR",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of SIXTYFOUR?",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SIXTYFOUR generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SIXTYFOUR have?",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Our dedication to quality, such as usage of leather stiffner for the counter, leather between the lining and upper as reinforcement, and other details erstwhile seen only in bespoke shoemaking, ensures durability of the product and suitable fit on your foot.",
+    "url": "https://www.sixty-four.co.jp/brand",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ほどよく上品に穏和な気分を求める女性のためというビジョンを持って東京で立ち上がりました",
+    "url": "https://www.sixty-four.co.jp/brand",
+    "pass": 3
+   },
+   {
+    "quote": "TEMPERATE was founded in Tokyo with the vision of bringing chic, stylish and simple designs to any season and all occasions for those who want to look effortlessly polished and feel their best.",
+    "url": "https://www.sixty-four.co.jp/brand",
+    "pass": 3
+   },
+   {
+    "quote": "年を重ねることを末永く一緒に楽しめるように』をコンセプトに東京にて設立",
+    "url": "https://www.sixty-four.co.jp/brand",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in Tokyo in 2018 with the concept of \"pursuit of ordinary style, tribute to the conscientiousness of the manufacturer, while reflecting the mood of epoch, to be able to adore ageing together and forever”.",
+    "url": "https://www.sixty-four.co.jp/brand",
+    "pass": 3
+   },
+   {
+    "quote": "日本語、他17言語",
+    "url": "https://store.steampowered.com/app/2659900/Sixty_Four/?l=japanese",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sixtyfour - Games Around The World — An international award-winning studio that creates games with a focus on innovative interaction, visual polish and a whallop of board-game inspired design.",
+    "url": "https://gamesaroundtheworld.com/ja/studio/sixtyfour/",
+    "pass": 3
+   },
+   {
+    "quote": "ブランド一覧 │ SIXTY FOUR — SIXTY FOUR取り扱いブランド一覧ページです。 TEMPERATEは2017年にシックでシンプルなデザインをオールシーズン、オールオケージョンで、 ほどよく上品に穏和な気分を求める女性のためというビジョンを持って東京で立ち上がりました。 オリジナルのバレリーナを代表に、私たちはシティーライフ ...",
+    "url": "https://www.sixty-four.co.jp/brand",
+    "pass": 3
+   },
+   {
+    "quote": "Sixtyfour — The World's Truth Layer | Identity Intelligence — Sixtyfour deploys AI agents that investigate any person or company, turning one identifier into a source-cited profile for trust, risk and investigations teams.",
+    "url": "https://www.sixtyfour.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Sixtyfour - LinkedIn — Sixtyfour Research Services Intelligence Infrastructure on People and Entities. About us Deploy AI agents that investigate, resolve identities, map relationships, and surface risk signals.",
+    "url": "https://www.linkedin.com/company/sixtyfourai",
+    "pass": 3
+   },
+   {
+    "quote": "Steamで50% OFF：Sixty FourAbout Us - sixtyfour-official.com六十四 (Sixty-four): Meaning & Origin – Japanese Kanji DesignSixtyfour | Intelligence Infrastructure on People and Entities — Sixty Fourは、アイドル、インクリメンタル、ストラテジーゲームからのシンプルでありながら魅力的な要素を組み合わせています。 常に改善を追求し、未知のエンティティからのメッセージの背後にある秘密を解き明かします。 24 人のキュレーターがこの製品をレビューしました。 チェックするには ここ をクリック。 シンプルなマシンを活気ある工場に変える『Sixty Four』の世界に飛び込もう。 進歩するたびに新しい課題が生まれ、非凡な宇宙",
+    "url": "https://store.steampowered.com/app/2659900/Sixty_Four/?l=japanese",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - sixtyfour-official.com — At SixtyFour, our journey to excellence starts with careful sourcing—we handpick materials that meet our high standards for durability, comfort, and street-ready style. Each piece is crafted with precision in top-tier manufacturing facilities, where every stitch reflects our attention to detail.",
+    "url": "https://sixtyfour-official.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "PSA: case study unlocked Sixtyfour went from \"what's ... — PSA: case study unlocked 🔓 Sixtyfour went from \"what's Context.dev (YC S26)?\" to testing production scraping workloads in under an hour.",
+    "url": "https://www.linkedin.com/posts/yahia-bakour_psa-case-study-unlocked-sixtyfour-activity-7513407880495046656--Mib",
+    "pass": 3
+   },
+   {
+    "quote": "Sixtyfour: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Sixtyfour AI was founded in January 2025 by Saarth Shah and Christopher Price, both with strong technical backgrounds and prior startup experience. Saarth Shah, a UC Berkeley Data Science graduate, previously worked at YC-backed companies like Whatnot and Deepgram and conducted research at Stanford.",
+    "url": "https://startupintros.com/orgs/sixtyfour",
+    "pass": 3
+   },
+   {
+    "quote": "Sixtyfour AI 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Sixtyfour AI. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/895503-43",
+    "pass": 3
+   },
+   {
+    "quote": "Sixtyfour — Funding, Investors & Team | Seedtable — Oct 3, 2026 · Sixtyfour is a San Francisco company, founded in 2025 by Saarth Shah and Christopher Price and part of Y Combinator's Spring 2025 batch, that sells research agents as intelligence infrastructure on people and entities.",
+    "url": "https://seedtable.com/companies/sixtyfour",
+    "pass": 3
+   },
+   {
+    "quote": "SIXTYFOUR Revenue, Funding & Valuation - prospeo.io — Sixtyfour Design creates digital educational experiences focused on science for museums. We develop large format videos, virtual and augmented reality experiences, and projection mapping that helps explain complex scientific concepts through interactive visuals.",
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Sixtyfour - Crunchbase Company Profile & Funding — Sixtyfour is a AI based reasech service company that automates to enrich specialized professionals, company data, and insights.",
+    "url": "https://www.crunchbase.com/organization/sixtyfour",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "When I’m Sixty Four｜みゃおん - note（ノート） Jan 25, 2026 · When I'm Sixty Four (Remastered 2009) The Beatles - Topic Watch on この曲を流す日が来るとは、、、、 感無量です。 10代の頃は、64歳⁉️そんなおばあちゃんになった頃の事なんて、想像もつけないーーー ️ なんて、言っていたような、、、、 まぁ、そんな日も来る訳です ...",
+    "url": "https://note.com/jolly_ruff1962/n/nc4361286a625",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "When I’m Sixty Four｜みゃおん",
+    "url": "https://note.com/jolly_ruff1962/n/nc4361286a625",
+    "pass": 3
+   },
+   {
+    "quote": "10代の頃は、64歳⁉️そんなおばあちゃんになった頃の事なんて、想像もつけないーーー❗️",
+    "url": "https://note.com/jolly_ruff1962/n/nc4361286a625",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sixtyfour (@sixtyfourai) / X Every person who signs up in the next 48 hours on Sixtyfour gets their full digital footprint pulled anonymously. Our agents go out and find it live, the way a human investigator would.",
+    "url": "https://x.com/sixtyfourai",
+    "pass": 3
+   },
+   {
+    "quote": "sixtyfour ⬆️ Vtuber (@sixtyfourVT) / X 1 9 104 sixtyfour ⬆️ Vtuber @sixtyfourVT Apr 15, 2025 alright, time to take a long, quiet drive in my car (that I definitely don't call \"gura\" because she's blue with a red interior which I took as a sign from the universe as the perfectcar for me) and definitely wont cry doing so",
+    "url": "https://x.com/sixtyfourVT",
+    "pass": 3
+   },
+   {
+    "quote": "SixtyFour - Wine Bar (@64WineBar) / X SixtyFour - Wine Bar @64WineBar Jun 21, 2017 We not only have incredible craft beers, gourmet food, and 64 wines by the glass, but we also… instagram.com/p/BVmzcGiAOn3/",
+    "url": "https://x.com/64winebar",
+    "pass": 3
+   },
+   {
+    "quote": "SixtyFour (@Slxty_four) / X SixtyFour @Slxty_four Mar 20, 2023 For anyone that's wondering - yes, I have purposely been avoiding anything smash related to focus on other things However, as things currently stand time will no longer be a scarce resource for me in the coming summer/fall so be prepared The Ganon and mk will return 😈😈😈 2 1 308 SixtyFour @Slxty_four ...",
+    "url": "https://x.com/Slxty_four",
+    "pass": 3
+   },
+   {
+    "quote": "LK-Sixtyfour (@LKsixtyfour) / X Jun 10, 2018 · I'm LK Sixtyfour. Doing fan animation for a living. FAN ACCOUNT. I'm not affiliated with the properties I draw or animating.",
+    "url": "https://x.com/LKsixtyfour",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sixtyfour - LinkedIn Sixtyfour | 2,058 followers on LinkedIn. Intelligence Infrastructure on People and Entities. | Deploy AI agents that investigate, resolve identities, map relationships, and surface risk signals.",
+    "url": "https://www.linkedin.com/company/sixtyfourai",
+    "pass": 3
+   },
+   {
+    "quote": "SIXTYFOUR - LinkedIn About us Sixtyfour Design creates digital educational experiences focused on science for museums.",
+    "url": "https://www.linkedin.com/company/64design",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Payne - Founder, Trakr // Founder: SixtyFour Music // Co ...Ethan Choi - Founder, VERMILLION | Ex-Growth @ Sixtyfour (YC ...SixtyFour Music - LinkedInSaarth Shah - CEO @ Sixtyfour | Infrastructure for Identity ...Henry Wang - Founding Engineer @ Sixtyfour | LinkedIn Founder, Trakr // Founder: SixtyFour Music // Co-founder: Music + Sound Awards · Music supervision and procurement specialist, e",
+    "url": "https://uk.linkedin.com/in/nickdavidpayne",
+    "pass": 3
+   },
+   {
+    "quote": "Ethan Choi - Founder, VERMILLION | Ex-Growth @ Sixtyfour (YC ... SixtyFour is a YC-backed people intelligence platform. I joined as one of two content hires on the growth team at a 13-person company, reporting to the Head of Growth.",
+    "url": "https://ca.linkedin.com/in/ethanchoi07",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "V-SIXTYFOUR | Ho Chi Minh City - FacebookSixtyfour Acoustic Classic Rock - FacebookSixty 4 Tribes Press | Jacksonville FL - FacebookSixtyFour Music | New York NY - FacebookThe 60 Four - FacebookSixtyFour - Reserve Room | Naperville IL - FacebookSixtyFour Daily Dose - Facebook V-SIXTYFOUR, Ho Chi Minh City. 78,204 followers · 598 talking about this · 81 were here. V-SIXTYFOUR - The denim expert, sh",
+    "url": "https://www.facebook.com/v64.vn/",
+    "pass": 3
+   },
+   {
+    "quote": "Sixtyfour Acoustic Classic Rock - FacebookSixty 4 Tribes Press | Jacksonville FL - FacebookSixtyFour Music | New York NY - FacebookThe 60 Four - FacebookSixtyFour - Reserve Room | Naperville IL - FacebookSixtyFour Daily Dose - Facebook Aug 14, 2026 · Sixtyfour Acoustic Classic Rock. 1,088 followers. Ulf Gottschalk und Harry Stingl gründeten 2014 das acoustic Duo Sixtyfour und freuen sich über jede",
+    "url": "https://www.facebook.com/sixtyfourmusic/",
+    "pass": 3
+   },
+   {
+    "quote": "Sixty 4 Tribes Press | Jacksonville FL - FacebookSixtyFour Music | New York NY - FacebookThe 60 Four - FacebookSixtyFour - Reserve Room | Naperville IL - FacebookSixtyFour Daily Dose - Facebook 3 days ago · Sixty 4 Tribes Press, Jacksonville. 100,656 followers · 13,415 talking about this. \"Sixty 4 Tribes Press\" was Founded in 2018 over the Course of The Civil-War in South Sudan, Africa. Nov 21, 20",
+    "url": "https://www.facebook.com/Official64tribespress/",
+    "pass": 3
+   },
+   {
+    "quote": "SixtyFour Music | New York NY - FacebookThe 60 Four - FacebookSixtyFour - Reserve Room | Naperville IL - FacebookSixtyFour Daily Dose - Facebook Nov 21, 2023 · We've expanded over at SixtyFour Music New York, welcoming Rachael LaCava to the team! Rachael has joined as Music Supervisor, bringing a wealth of experience, music knowledge and great energy to SixtyFour Music. Nov 1, 2026 · The 60 Four. ",
+    "url": "https://www.facebook.com/wearesixtyfourmusic/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sixtyfour.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sixtyfour.ai/solutions/research-api",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sixtyfour.ai/solutions/financial-institutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sixtyfour.ai/solutions/trust-and-safety",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sixtyfour.ai/solutions/investigations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sixtyfour.ai/solutions/workforce-identity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sixtyfour.ai/blog/how-we-trace-hidden-beneficial-owners-behind-shell-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sixtyfour.ai/blog/how-we-use-agents-for-reverse-username-search-investigations",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sixtyfour.ai/assets/customer-logos/mercor.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sixtyfour.ai/assets/customer-logos/gryphon-investors.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sixtyfour.ai/assets/customer-logos/cloaked.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sixtyfour.ai/assets/customer-logos/trm-labs.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://gamesaroundtheworld.com/ja/studio/sixtyfour/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.technoproholdings.com/news/detail.php?id=7856",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sixty-four.co.jp/brand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sixty-four.com/?page_id=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sixtyfour.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sixtyfourai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://store.steampowered.com/app/2659900/Sixty_Four/?l=japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sixtyfour-official.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infor.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/yahia-bakour_psa-case-study-unlocked-sixtyfour-activity-7513407880495046656--Mib",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/sixtyfour",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/895503-43",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/companies/sixtyfour",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/sixtyfour-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jolly_ruff1962/n/nc4361286a625",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sixtyfourai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sixtyfourVT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/64winebar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Slxty_four",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sixtyfourai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/64design",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/nickdavidpayne",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/ethanchoi07",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/v64.vn/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sixtyfourmusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Official64tribespress/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wearesixtyfourmusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sixtyfourai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sixtyfourVT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LKsixtyfour",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sixtyfour 日本 導入",
+   "results": [
+    "https://gamesaroundtheworld.com/ja/studio/sixtyfour/",
+    "https://www.technoproholdings.com/news/detail.php?id=7856",
+    "https://www.sixty-four.co.jp/brand",
+    "https://sixty-four.com/?page_id=2",
+    "https://global.honda/jp/news/2026/4260305b.html",
+    "https://motor-fan.jp/article/1616149/",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sixtyfour 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sixtyfour Japan",
+   "results": [
+    "https://www.sixtyfour.ai/",
+    "https://www.linkedin.com/company/sixtyfourai",
+    "https://store.steampowered.com/app/2659900/Sixty_Four/?l=japanese",
+    "https://sixtyfour-official.com/about-us/",
+    "https://kanji-code.tokyo/sixty-four-rokujuu-yon/",
+    "https://demo.sixtyfour.ai/",
+    "https://www.sixty-four.co.jp/brand"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sixtyfour manufacturing customer case study",
+   "results": [
+    "https://www.infor.com/customer-stories",
+    "https://www.linkedin.com/posts/yahia-bakour_psa-case-study-unlocked-sixtyfour-activity-7513407880495046656--Mib",
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.sixtyfour.ai/blog/case-study-how-whatnot-discovered-european-tcg-sellers-with-sixtyfour",
+    "https://www.grantthornton.com/insights/case-studies/manufacturing/2025/customer-experience-transformation-at-a-global-manufacturer"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sixtyfour white label OR reseller OR partner program",
+   "results": [
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.nextiva.com/company/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sixtyfour founded funding employees revenue",
+   "results": [
+    "https://startupintros.com/orgs/sixtyfour",
+    "https://pitchbook.com/profiles/company/895503-43",
+    "https://seedtable.com/companies/sixtyfour",
+    "https://prospeo.io/c/sixtyfour-revenue",
+    "https://www.crunchbase.com/organization/sixtyfour",
+    "https://getlatka.com/companies/sixtyfour.ai",
+    "https://salaryguide.com/companies/sixtyfour"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sixtyfour",
+   "results": [
+    "https://note.com/jolly_ruff1962/n/nc4361286a625",
+    "https://note.com/dailyrock/n/n094d48787edb",
+    "https://note.com/nus_t/n/n9db2e6624303",
+    "https://note.com/shiroiinu_bazi/n/n799e8bdae7cc",
+    "https://note.com/beatlelove/n/n37226ad46290",
+    "https://note.com/ogi_toshi/n/n427722f65cdc",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sixtyfour",
+   "results": [
+    "https://x.com/sixtyfourai",
+    "https://x.com/sixtyfourVT",
+    "https://x.com/64winebar",
+    "https://x.com/Slxty_four",
+    "https://x.com/i/trending/2070263402015207590",
+    "https://x.com/SixtyFourMusic",
+    "https://x.com/LKsixtyfour"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sixtyfour",
+   "results": [
+    "https://www.linkedin.com/company/sixtyfourai",
+    "https://www.linkedin.com/company/64design",
+    "https://uk.linkedin.com/in/nickdavidpayne",
+    "https://ca.linkedin.com/in/ethanchoi07",
+    "https://www.linkedin.com/company/sixtyfourmusic",
+    "https://www.linkedin.com/in/saarthshah",
+    "https://www.linkedin.com/in/henry00c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sixtyfour",
+   "results": [
+    "https://www.facebook.com/v64.vn/",
+    "https://www.facebook.com/sixtyfourmusic/",
+    "https://www.facebook.com/Official64tribespress/",
+    "https://www.facebook.com/wearesixtyfourmusic/",
+    "https://www.facebook.com/the60four/",
+    "https://www.facebook.com/64ReserveRoom/",
+    "https://www.facebook.com/sixtyfourdailydose/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sixtyfour note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sixtyfour X 投稿",
+   "results": [
+    "https://x.com/sixtyfourai",
+    "https://x.com/sixtyfourVT",
+    "https://x.com/LKsixtyfour",
+    "https://www.sixtyfour.ai/",
+    "https://x.com/SixtyFourMusic",
+    "https://x.com/SIXTYFOURFILMS",
+    "https://www.xvideos.com/?k=japanese+日本+熟女投稿"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部40頁・検索12回）"
+ }
+}

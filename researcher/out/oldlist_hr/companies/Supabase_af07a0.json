@@ -1,0 +1,2079 @@
+{
+ "name": "Supabase",
+ "aliases": [],
+ "context": "旧営業リスト｜B2B Infrastructure｜NG",
+ "researched_at": "2026-11-11T07:24:24.461545+00:00",
+ "official_url": "https://supabase.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email Support",
+    "value": "Not included in free",
+    "url": "https://supabase.com/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Email Support",
+    "value": "Not included in Included in Included in Included in",
+    "url": "https://supabase.com/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Email Support SLA",
+    "value": "Not included in Not included in Included in Included in",
+    "url": "https://supabase.com/pricing",
+    "pass": 1
+   },
+   {
+    "label": "E-mail",
+    "value": "pr@andai.net",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "Free (利用可能な場合)",
+    "url": "https://www.craftstadium.com/blog/tech-supabase",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都港区高輪4-22-11\nVillage高輪3F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2018年04月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "pass": 3
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：2018年4月18日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$995M",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "large files, from videos to images.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best of breed products. Integrated as a platform.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay productive and manage your app",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Kickstart your next project",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "with production ready templates",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Starter template and example use-cases for LangChain projects in Next.js, including chat, agents, and retrieval.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bryan Byrne, Product Manager, Lovable",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empowering 2,000+ employees to build production software with AI.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "@supabase shout out, their MCP is awesome. It's helping me create better row securities and telling me best practises for setting up a supabase app",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I love @supabase's built-in Advisors. The security and performance linters improve everything and boost my confidence in what I'm building!",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Very impressed by @supabase's growth. For new startups, they seem to have gone from \"promising\" to \"standard\" in remarkably short order.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Really impressed with @supabase's Assistant.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I definitely plan to use it on any and all future projects.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yesterday, I helped debug a founder’s vibe-coding project built with React + React Router — no backend server.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase is the best product experience I've had in years.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run supabase locally and just wow in silence! I am impressed! This is the kind of tooling I would want for my team.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover case studies on how Supabase is being used around the world to quickly create outstanding products and set new industry standards.",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How BeeAPro ships new features daily on Supabase with a technical team of three",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How VideoGen moved 3.3 million users off Firebase with two engineers",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Lingo.dev clears enterprise security reviews without a single database question",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How QA.tech built enterprise-ready AI testing agents on Supabase",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How delight.ai lets every team build production apps on Supabase",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Hyper builds AI marketing agents on Supabase",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How eXp Realty Unlocked Enterprise Innovation and Cut SaaS Costs with Supabase",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "From Hackathon to Funded Startup: How Soshi Built an AI Social Media Manager on Supabase",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Kayhan Space saw 8x improvement in developer speed when moving to Supabase",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Maergo's Express Delivery: How Supabase Helped Achieve Scalability, Speed, and Cost Saving",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Berri AI boosts productivity by migrating from AWS RDS to Supabase Vector",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Markprompt and Supabase - GDPR-compliant AI chatbots for docs and websites.",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Epsilon3 digitize paper-based procedures in the space industry using telemetry data, simplifying testing and operations.",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Xendit use Supabase and create a full solution shipped to production in less than one week.",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Ship client projects faster, scale with confidence, stay profitable.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You need to deliver production-ready applications quickly without sacrificing quality or accumulating technical debt. Supabase gives you a fully managed Postgres backend with everything needed to build and scale client applications while maintaining the flexibility your clients demand.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Our clients want reliability and scale. Supabase gives us a backend we can trust for production work.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase lets us build stable, secure products extremely fast.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase brings structure and clarity to our backend work. Its interface and tooling make it easy to deploy, manage, and scale projects without friction.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Lead Product Manager, Brthrs",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You want to deliver exceptional results for your clients while staying profitable and competitive. At the same time, you need the flexibility to customize solutions and the confidence that your applications will scale. Supabase is the complete Postgres developer platform of choice for agencies building production applications.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Ship client projects faster",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver production-ready applications in weeks, not months. Supabase provides a complete backend with auto-generated APIs and built-in features, letting you focus on what makes each client project unique rather than rebuilding the same infrastructure every time.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Give clients enterprise-grade security and compliance without the enterprise complexity. Supabase is “just Postgres,” offering SOC 2 and HIPAA compliance out of the box so their applications are built on battle-tested, portable technology they can grow with.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase includes everything you need to deliver complete, production-ready applications for your clients.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Secure your data properly.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "object storage for managing files, images, and videos.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Features that help agencies move quickly and deliver more projects profitably.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "context across AI prompts",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Issue: We have detected that you have enabled the email provider with an expiry time of more than an hour. It is recommended to set this value to less th...",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase ensures optimal database performance at any scale, so you can confidently promise your clients reliable, fast applications without worrying about infrastructure limitations.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Support a full range of potential clients. Supabase offers enterprise-grade security with SOC 2, HIPAA, and GDPR compliance. Client data is encrypted at rest and in transit, with built-in tools for monitoring and managing security threats.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Turn visual prototypes into production-ready applications by connecting front-end tools like Lovable and Bolt to a real Supabase, open-source Postgres backend.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "3. Do NOT use bare specifiers when importing dependecnies. If you need to use an external dependency, make sure it's prefixed with either 'npm:' or 'jsr:'. For example, '@supabase/supabase-js' should be written as 'npm:@supabase/supabase-js'.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "4. For external imports, always define a version. For example, 'npm:@express' should be written as 'npm:express@4.18.2'.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "5. For external dependencies, importing via 'npm:' and 'jsr:' is preferred. Minimize the use of imports from @'deno.land/x' , 'esm.sh' and @'unpkg.com' . If you have a package from one of those CDNs, you can replace the CDN hostname with 'npm:' specifier.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "View all prompts about https://supabase.com/docs/guides/getting-started/ai-prompts",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "A growing developer audience, the deep extensibility of Postgres, and a partner program our customers trust.",
+    "url": "https://supabase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "9 million developers and growing. Your product, in front of the ones already shipping.",
+    "url": "https://supabase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Every Supabase project is real Postgres. Standard interfaces, no proprietary glue, no rewrite every six months.",
+    "url": "https://supabase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "developer tools, SaaS products, hosting, observability, auth, billing, and anything else developers add to a Postgres project.",
+    "url": "https://supabase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "agencies, consultancies, and service providers.",
+    "url": "https://supabase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A direct line to the product team:",
+    "url": "https://supabase.com/partners",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by fast-growing companies worldwide",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Add types, functions, or operators to every Supabase project.",
+    "url": "https://supabase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Query Google BigQuery data warehouses from Postgres with full read and write support.",
+    "url": "https://supabase.com/partners/catalog",
+    "pass": 1
+   },
+   {
+    "quote": "The consolidation philosophy is not just about the customer facing product. Chatbase has built a growing collection of internal tools on Supabase that the entire company uses every day, and many of those tools are used by non engineers writing SQL conversationally with AI.",
+    "url": "https://supabase.com/customers/chatbase",
+    "pass": 1
+   },
+   {
+    "quote": "trusted by enterprises",
+    "url": "https://supabase.com/solutions/no-code",
+    "pass": 1
+   },
+   {
+    "quote": "trusted by enterprises",
+    "url": "https://supabase.com/solutions/beginners",
+    "pass": 1
+   },
+   {
+    "quote": "trusted by enterprises and startups",
+    "url": "https://supabase.com/solutions/developers",
+    "pass": 1
+   },
+   {
+    "quote": "trusted by enterprises and startups",
+    "url": "https://supabase.com/solutions/postgres-developers",
+    "pass": 1
+   },
+   {
+    "quote": "trusted by enterprises",
+    "url": "https://supabase.com/solutions/vibe-coders",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase is trusted by thousands of developers for building and deploying secure applications.",
+    "url": "https://supabase.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase Cuts AWS Marketplace Effort 80% with Clazar | Case Study",
+    "url": "https://clazar.io/case-studies/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase is supported by a large developer community and has extensive documentation. Various tutorials and sample code are available, making it widely used by everyone from beginners to advanced users. Some features have integrated AI assistants to support efficiency during the development process.",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Empowering 2,000+ employees to build production software with AI.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scaled from zero to $10M ARR on a single Postgres-backed platform.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase is built in the open because we believe great developer tools should be transparent, inspectable, and owned by the community. Read, contribute, self-host. You're never locked in, and always in control.",
+    "url": "https://supabase.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Is there a fee to be listed?",
+    "url": "https://supabase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "eXp Realty empowered 2,000+ non-technical employees to build production software using AI coding tools with Supabase, replacing millions in SaaS contracts with bespoke solutions.",
+    "url": "https://supabase.com/customers/exprealty",
+    "pass": 1
+   },
+   {
+    "quote": "This year, eXp embarked on one of the most ambitious internal innovation programs in its history. The goal: empower as many of their 2,000+ non-technical employees as possible to build production software using AI coding tools. Supabase became the foundation that made this transformation possible.",
+    "url": "https://supabase.com/customers/exprealty",
+    "pass": 1
+   },
+   {
+    "quote": "hundreds of non-technical employees",
+    "url": "https://supabase.com/customers/exprealty",
+    "pass": 1
+   },
+   {
+    "quote": "and gas drilling, mineral rights acquisition, and direct investment through corporate bonds. The team",
+    "url": "https://supabase.com/customers/phoenix-energy",
+    "pass": 1
+   },
+   {
+    "quote": "The consolidation play that took a single founder from zero to 10 million in ARR, and the bet that takes him to 100.",
+    "url": "https://supabase.com/customers/chatbase",
+    "pass": 1
+   },
+   {
+    "quote": "Chatbase is the platform behind tens of thousands of customer-facing AI support agents in production. Founded bootstrapped by Yasser Elsaid, it has grown past $10M ARR with 8,000+ paying customers on Supabase.",
+    "url": "https://supabase.com/customers/chatbase",
+    "pass": 1
+   },
+   {
+    "quote": "This is the story of how a strategy of consolidation onto a single Postgres backed platform let one founder go from zero to 10 million in ARR with a team of 18, and why that same strategy is the spine of Chatbase's plan to get from 10 to 100.",
+    "url": "https://supabase.com/customers/chatbase",
+    "pass": 1
+   },
+   {
+    "quote": "on it even if it's a big part of their business.",
+    "url": "https://supabase.com/customers/chatbase",
+    "pass": 1
+   },
+   {
+    "quote": "Going from 10 million in ARR to 100 million is the same kind of step change again, only larger. The work shifts to building an even more reliable platform that enterprise customers can depend on, brand and trust become a bigger part of the story, and the underlying infrastructure has to keep up without ever becoming the thing the team has to worry about.",
+    "url": "https://supabase.com/customers/chatbase",
+    "pass": 1
+   },
+   {
+    "quote": "An ARR that has climbed past 10 million dollars on a fully bootstrapped, no funding model",
+    "url": "https://supabase.com/customers/chatbase",
+    "pass": 1
+   },
+   {
+    "quote": "It was very developer centric. The documentation was so good that it felt like part of the",
+    "url": "https://supabase.com/customers/rally",
+    "pass": 1
+   },
+   {
+    "quote": "Build a customizable portal for onboarding new employees in a remote company. Show personalized checklists by role, with links to key docs, Slack channels, and tool logins. Let managers monitor completion status. Include a welcome board where coworkers can leave greetings. Use Supabase to manage checklists, users, and messages. Add role-based views for HR vs. employee.",
+    "url": "https://supabase.com/solutions/no-code",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring Revenue Dashboard for Indie SaaS",
+    "url": "https://supabase.com/solutions/no-code",
+    "pass": 1
+   },
+   {
+    "quote": "Create a financial dashboard for indie founders to track recurring revenue. Include metrics like MRR, ARR, churn, and LTV. Add charts for monthly trends. Let users manually enter Stripe or PayPal data, or auto-sync via webhook. Use Supabase to store data with per-user access control. Configure Slack integration for daily digests.",
+    "url": "https://supabase.com/solutions/no-code",
+    "pass": 1
+   },
+   {
+    "quote": ", and more, as if they were part of Supabase natively.",
+    "url": "https://supabase.com/solutions/beginners",
+    "pass": 1
+   },
+   {
+    "quote": "簡単な分野ではありませんが、新しい決済手段の追加と規模拡大、グローバルなアカウント構造の導入、税金の徴収開始、そして最終的な上場に向けて、Stripe が最適なパートナーであることを私たちは確信しています",
+    "url": "https://stripe.com/jp/customers/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us.",
+    "url": "https://www.realworkfromanywhere.com/jobs/database-support-engineer-japanese-speaking-supabase-1735",
+    "pass": 3
+   },
+   {
+    "quote": "This shift happened because Pulumi removed barriers to entry. “Since it’s just another programming language with control structures and external packages, it makes for a good transition from application code to infrastructure as code,” Paul explains.",
+    "url": "https://www.pulumi.com/customers/supabase/",
+    "pass": 3
+   },
+   {
+    "quote": "The demand was clear. Supabase was seeing consistent inbound interest through AWS Marketplace, but converting that interest into revenue required operational scale the team didn’t yet have. Marketplace workflows were fragmented across systems, and AWS Partner Central (ACE) wasn’t connected to the tools Supabase relied on daily.",
+    "url": "https://clazar.io/case-studies/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Despite strong marketplace interest, the sales team was hesitant to engage with the channel. Navigating ACE and managing multiple disconnected systems made marketplace deals feel like operational overhead rather than incremental revenue.",
+    "url": "https://clazar.io/case-studies/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Lost revenue from slow execution",
+    "url": "https://clazar.io/case-studies/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Clazar helped Supabase automate the inbound marketplace lead and co-sell workflow. When a new opportunity arrived in ACE, Clazar automatically created or updated the corresponding contact and deal records in HubSpot, mapped key fields (including deal value, partner engagement, and customer details), and routed the opportunity to the appropriate owner.",
+    "url": "https://clazar.io/case-studies/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Before Clazar, Supabase often struggled to convert inbound marketplace interest due to operational friction. With improved automation and CRM visibility, the team increased deal velocity, improved conversion, and accelerated marketplace-sourced revenue. Marketplace execution also strengthened Supabase’s partnership with AWS, increasing co-sell engagement and support.",
+    "url": "https://clazar.io/case-studies/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "2. Self-serve revenue channel unlocked",
+    "url": "https://clazar.io/case-studies/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "By integrating marketplace workflows into HubSpot and Slack, Supabase made marketplace selling a more natural part of the sales motion. What previously felt like extra work became a repeatable process the sales team could consistently execute.",
+    "url": "https://clazar.io/case-studies/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "The flamegraph revealed the hotspots in the call stack, one of them being an outdated ORM that spun up a connection pool for every customer database and tore it down when idle — churn that, across millions of tenants, carried a heavy memory footprint and drove the garbage collector into overdrive.",
+    "url": "https://platformatic.dev/case-studies/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "How we cover tool news: Create With's tool desk drafts these reports with AI from the sources listed above and checks them against those sources before publishing.",
+    "url": "https://createwith.com/tool/supabase/updates/launch-of-supabase-for-platforms-white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "London solo consultant uses an AI personal OS of markdown files—saving ~45% delivery time, boosting revenue 2.4×, and powering 33 community events for ~£250/mo.",
+    "url": "https://createwith.com/tool/supabase/updates/launch-of-supabase-for-platforms-white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase Revenue 2026: $170M Est., $10.5B Valuation",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase has not published its revenue. ARR Club puts it at about $170M a year (May 2026).",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 6 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase CEO, founders & employees",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Paul Copplestone founded Supabase in 2020 and runs it as CEO. Supabase has 350 employees (June 2026, Press & News), up from 127 a year earlier.",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Supabase's revenue?",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "ARR Club estimates Supabase's revenue at about",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Supabase have?",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of June 2026, according to a news report.",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "9 Supabase Statistics (2025): Valuation, Revenue, Competitors, Funding",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation, Revenue, Funding, Competitors",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase Acquisitions",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue in 2024.",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue in 2025.",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue in 2024, a",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue in 2025, contiuning its strong growth over the past few years.",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Here's a table of Supabase's estimated revenue from 2021 to 2025:",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase has made two acquisitions since the company started: Logflare in 2021 and OrioleDB in 2024.",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Below is a table of Supabase's acquisitions with the date, focus, and strategic purpose:",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "of company profits are distributed among employees based on a point system.",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "This approach to company ownership gives employees a direct stake in Supabase's success while maintaining the founders' leadership position.",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase currently has no plans for an IPO, focusing instead on long-term growth and development.",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "✅ Robust security meeting international standards (uses domestic AWS servers, ISO/IEC 27017, 27001, 27018, 27701 information security certifications acquired, certified by the Ministry of Land, Infrastructure, Transport and Tourism)",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Resend's Journey with Supabase: Scaling Email Infrastructure with Ease",
+    "url": "https://supabase.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "with email/password, magic links, OAuth (Google, GitHub, Twitter, etc.), SAML, SSO, and phone/SMS OTP.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Issue: We have detected that you have enabled the email provider with an expiry time of more than an hour. It is recommended to set this value to less th...",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Email for developers to reach humans instead of spam folders. Build, test, and deliver transactional emails at scale.",
+    "url": "https://supabase.com/partners/catalog",
+    "pass": 1
+   },
+   {
+    "quote": "Email for Developers, Marketers, & AI Agents",
+    "url": "https://supabase.com/partners/catalog",
+    "pass": 1
+   },
+   {
+    "quote": "Priority email support & SLAs",
+    "url": "https://supabase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Remove Supabase branding from emails",
+    "url": "https://supabase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Access Token (JWT), Send custom email/SMS",
+    "url": "https://supabase.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "login with email, Google, Apple, GitHub, and more",
+    "url": "https://supabase.com/solutions/no-code",
+    "pass": 1
+   },
+   {
+    "quote": "login with email, Google, Apple, GitHub",
+    "url": "https://supabase.com/solutions/beginners",
+    "pass": 1
+   },
+   {
+    "quote": "with email/password, magic links, OAuth (Google, GitHub, Twitter, etc.), SAML, SSO, and phone/SMS OTP.",
+    "url": "https://supabase.com/solutions/developers",
+    "pass": 1
+   },
+   {
+    "quote": "Issue: We have detected that you have enabled the email provider with an expiry time of more than an hour. It is recommended to set this value to less th...",
+    "url": "https://supabase.com/solutions/developers",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase enabled us to focus on building the best email infrastructure for developers — without worrying about backend complexity. Their authentication, database, and support have been game-changers for our rapid growth.",
+    "url": "https://supabase.com/solutions/developers",
+    "pass": 1
+   },
+   {
+    "quote": "with email/password, magic links, OAuth (Google, GitHub, Twitter, etc.), SAML, SSO, and phone/SMS OTP.",
+    "url": "https://supabase.com/solutions/postgres-developers",
+    "pass": 1
+   },
+   {
+    "quote": "Issue: We have detected that you have enabled the email provider with an expiry time of more than an hour. It is recommended to set this value to less th...",
+    "url": "https://supabase.com/solutions/postgres-developers",
+    "pass": 1
+   },
+   {
+    "quote": "login with email, Google, Apple, GitHub, and more",
+    "url": "https://supabase.com/solutions/vibe-coders",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase Auth supports OAuth 2.0, email and password, magic links, and third-party providers including Google, GitHub, and Azure. All user data, sessions, refresh tokens, and metadata are stored in your own database as readable rows and tables. There is no hidden identity layer; authentication events can be audited directly in SQL.",
+    "url": "https://www.miyagami.com/resources/articles/what-is-supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Don't watch forty changelogs. Read one email",
+    "url": "https://createwith.com/tool/supabase/updates/launch-of-supabase-for-platforms-white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "The authentication feature provided by Supabase is a service that allows you to set up multiple methods, such as email/password or OAuth, in one place. Even for beginners, a user management table is created in just a few clicks, and you can easily implement sign-up and sign-in using the JavaScript SDK.",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": supabase.auth.signUp({ email, password })",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": supabase.auth.signInWithPassword({ email, password })",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "await supabase.auth.signUp({ email: 'user@example.com', password: 'securePass123' });",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Supabase for Agencies",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "You want to deliver exceptional results for your clients while staying profitable and competitive. At the same time, you need the flexibility to customize solutions and the confidence that your applications will scale. Supabase is the complete Postgres developer platform of choice for agencies building production applications.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Features that help agencies move quickly and deliver more projects profitably.",
+    "url": "https://supabase.com/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "A growing developer audience, the deep extensibility of Postgres, and a partner program our customers trust.",
+    "url": "https://supabase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "agencies, consultancies, and service providers.",
+    "url": "https://supabase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Integration partners build technical products that connect to Supabase. Solution partners are agencies or consultancies that build on Supabase for clients.",
+    "url": "https://supabase.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "rebranded in early 2024 to reflect its evolution into a full-fledged energy company.",
+    "url": "https://supabase.com/customers/phoenix-energy",
+    "pass": 1
+   },
+   {
+    "quote": "Build a delightful next-generation tools experience for your customers, backed by a powerful white-label Supabase backend.",
+    "url": "https://supabase.com/solutions/ai-builders",
+    "pass": 1
+   },
+   {
+    "quote": "White label Supabase backends for your platform or tools.",
+    "url": "https://supabase.com/solutions/ai-builders",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase includes everything you need to create the perfect app for your brand, business, or just for fun.",
+    "url": "https://supabase.com/solutions/no-code",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase includes everything you need to create the perfect app for your brand, business, or just for fun.",
+    "url": "https://supabase.com/solutions/beginners",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase includes everything you need to create the perfect app for your brand, business, or just for fun.",
+    "url": "https://supabase.com/solutions/developers",
+    "pass": 1
+   },
+   {
+    "quote": "Supabase includes everything you need to create the perfect app for your brand, business, or just for fun.",
+    "url": "https://supabase.com/solutions/postgres-developers",
+    "pass": 1
+   },
+   {
+    "quote": "Launch of Supabase for Platforms White-Label Solution",
+    "url": "https://createwith.com/tool/supabase/updates/launch-of-supabase-for-platforms-white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase introduces a white-label solution designed for platforms to manage backends for their users. This tool allows you to maintain control over the user experience while leveraging the full power of Supabase's services. Explore more about this offering through the provided link.",
+    "url": "https://createwith.com/tool/supabase/updates/launch-of-supabase-for-platforms-white-label-solution",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「 Supabase 」の概要と環境構築。初心者向けガイド — 「 Supabase 」の概要と環境構築。初心者向けガイド CraftStadium https://www.craftstadium.com > blog > tech-supabase",
+    "url": "https://www.craftstadium.com/blog/tech-supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase | The Postgres Development Platform — Supabase | The Postgres Development Platform Supabase https://supabase.com",
+    "url": "https://supabase.com/",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ AI スタートアップが Supabase を選ぶのか - Logto blog — なぜ AI スタートアップが Supabase を選ぶのか - Logto blog Logto blog https://blog.logto.io > supabase-ai-limitation",
+    "url": "https://blog.logto.io/ja/supabase-ai-limitation",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase が Stripe を活用して 150 カ国で Backend-as-a ... — Supabase が Stripe を活用して 150 カ国で Backend-as-a ... Stripe https://stripe.com > customers > supabase",
+    "url": "https://stripe.com/jp/customers/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase （スパベース）とは？特徴や料金、使い方まで徹底 ... — Supabase （スパベース）とは？特徴や料金、使い方まで徹底 ... 株式会社Walkers https://walker-s.co.jp > what-is-supabase",
+    "url": "https://walker-s.co.jp/ai/what-is-supabase/",
+    "pass": 3
+   },
+   {
+    "quote": "supabase /i18n/README.jp.md at master - GitHub — supabase /i18n/README.jp.md at master - GitHub GitHub https://github.com > blob > master > README.jp.md",
+    "url": "https://github.com/supabase/supabase/blob/master/i18n/README.jp.md",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase の代替 - Reddit — Supabase の代替 - Reddit Reddit https://www.reddit.com > comments > supabase_alternatives",
+    "url": "https://www.reddit.com/r/Supabase/comments/13wtxuh/supabase_alternatives/?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "hirotaka/ supabase -ja - GitHub — hirotaka/ supabase -ja - GitHub GitHub https://github.com > supabase-ja",
+    "url": "https://github.com/hirotaka/supabase-ja",
+    "pass": 3
+   },
+   {
+    "quote": "Database Support Engineer (Japanese Speaking) at Supabase — Database Support Engineer (Japanese Speaking) at Supabase Real Work From Anywhere https://www.realworkfromanywhere.com > ...",
+    "url": "https://www.realworkfromanywhere.com/jobs/database-support-engineer-japanese-speaking-supabase-1735",
+    "pass": 3
+   },
+   {
+    "quote": "What is Supabase ? Features and pricing (2026) - Miyagami — What is Supabase ? Features and pricing (2026) - Miyagami Miyagami https://www.miyagami.com > articles",
+    "url": "https://www.miyagami.com/resources/articles/what-is-supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Spotlight Projects #3 | スタートアップのための Supabase 入門 — Spotlight Projects #3 | スタートアップのための Supabase 入門 Luma https://luma.com > ...",
+    "url": "https://luma.com/09zqpocc",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase | Case Studies - Pulumi — Supabase | Case Studies - Pulumi Pulumi https://www.pulumi.com > supabase",
+    "url": "https://www.pulumi.com/customers/supabase/",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase Cuts AWS Marketplace Effort 80% with Clazar — Supabase Cuts AWS Marketplace Effort 80% with Clazar Clazar https://clazar.io > supabase",
+    "url": "https://clazar.io/case-studies/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase : to a billion (requests) and beyond | Platformatic HQ — Supabase : to a billion (requests) and beyond | Platformatic HQ platformatic.dev https://platformatic.dev > supabase",
+    "url": "https://platformatic.dev/case-studies/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - Supabase — Customer Stories - Supabase Supabase https://supabase.com > customers",
+    "url": "https://supabase.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Inside Supabase's Breakout Growth: Lessons Scaling to 4.5 ... — Inside Supabase's Breakout Growth: Lessons Scaling to 4.5 ... Craft Ventures https://www.craftventures.com > articles",
+    "url": "https://www.craftventures.com/articles/inside-supabase-breakout-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing Supabase for Platforms — Introducing Supabase for Platforms Supabase https://supabase.com > Blog",
+    "url": "https://supabase.com/blog/introducing-supabase-for-platforms",
+    "pass": 3
+   },
+   {
+    "quote": "Launch of Supabase for Platforms White - Label Solution — Launch of Supabase for Platforms White - Label Solution Create With https://createwith.com > ... > Supabase",
+    "url": "https://createwith.com/tool/supabase/updates/launch-of-supabase-for-platforms-white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "Partner with Supabase — Partner with Supabase Supabase https://supabase.com > partners",
+    "url": "https://supabase.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase Partner Program (2026) | xAmplify — Supabase Partner Program (2026) | xAmplify xamplify.com https://xamplify.com > supabase",
+    "url": "https://xamplify.com/partner-programs/supabase/",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase Revenue 2026: $170M Est., $10.5B Valuation — Supabase Revenue 2026: $170M Est., $10.5B Valuation GetLatka https://getlatka.com > supabase",
+    "url": "https://getlatka.com/companies/supabase.com",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase Series F — Supabase Series F Supabase https://supabase.com > Blog",
+    "url": "https://supabase.com/blog/supabase-series-f",
+    "pass": 3
+   },
+   {
+    "quote": "9 Supabase Statistics (2025): Valuation, Revenue , Funding ... — 9 Supabase Statistics (2025): Valuation, Revenue , Funding ... TapTwice Digital https://taptwicedigital.com > supabase",
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase Raises $500M at $10B Valuation, Offers ... - LinkedIn — Supabase Raises $500M at $10B Valuation, Offers ... - LinkedIn LinkedIn https://www.linkedin.com > posts > p...",
+    "url": "https://www.linkedin.com/posts/paulcopplestone_supabase-has-raised-500m-at-a-10b-valuation-activity-7468361016393854976-MqFi",
+    "pass": 3
+   },
+   {
+    "quote": "What is the Future of Supabase ? - Reddit — What is the Future of Supabase ? - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/Supabase/comments/1jb4586/what_is_the_future_of_supabase/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "【日本国内初】生成AIサービスとモバイルアプリ開発を行う株式会社アンドエーアイ、オープンソースの開発プラットフォーム「Supabase」のエキスパートパートナーに認定 | 株式会社アンドエーアイのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "pass": 3
+   },
+   {
+    "quote": "【日本国内初】生成AIサービスとモバイルアプリ開発を行う株式会社アンドエーア�イ、オープンソースの開発プラットフォーム「Supabase」のエキスパートパートナーに認定",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIサービスとモバイルアプリ開発を行う株式会社アンドエーアイ（本社：東京都渋谷区、代表取締役社長：西 真央、以下：当社）は、高い技術力と専門知識を認められ、シンガポールを拠点とするスタートアップによって2020年から提供されているオープンソースの開発プラットフォームである「Supabase（スーパベース）」の日本国内初のエキスパートパートナーに認定されました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アンドエーアイは、2023年に開催された東京Flutterハッカソンにおいて、高い技術力とSupabaseの効果的な活用が高く評価され、Supabase賞を受賞しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "pass": 3
+   },
+   {
+    "quote": "この実績を受け、当社は2023年11月から日本国内初のSupabaseエキスパートパートナーとして認定されました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アンドエーアイは、「日本のすべての人に、AIのある生活を」というビジョンを掲げ、東京・大阪を中心に生成AIを使用したサービスの開発、及びモバイルアプリの開発を行っています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京オフィス：東京都渋谷区渋谷2-24-12 渋谷スクランブルスクエア 39F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区高輪4-22-11",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "pass": 3
+   },
+   {
+    "quote": "【日本国内初】オープンソースの開発プラットフォーム「Supabase」のエキスパートパートナーに認定されました",
+    "url": "https://andai.net/news/vfBhvWhb",
+    "pass": 3
+   },
+   {
+    "quote": "| お知らせ | AI活用・アプリ開発なら株式会社アンドエーアイ｜東京・大阪の開発会社",
+    "url": "https://andai.net/news/vfBhvWhb",
+    "pass": 3
+   },
+   {
+    "quote": "| お知らせ | AI活用・アプリ開発なら株式会社アンドエーアイ｜東京・大阪の開発会社 読み込まれました",
+    "url": "https://andai.net/news/vfBhvWhb",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIサービスとモバイルアプリ開発を行う株式会社アンドエーアイ（本社：東京都渋谷区、代表取締役社長：西 真央、以下：当社）は、高い技術力と専門知識を認められ、シンガポールを拠点とするスタートアップによって2020年から提供されているオープンソースの開発プラットフォームである「Supabase（スーパベース）」の日本国内初のエキスパートパートナーに認定されました",
+    "url": "https://andai.net/news/vfBhvWhb",
+    "pass": 3
+   },
+   {
+    "quote": "This repository provides Japanese translations of Supabase documentation. It is a community based activity by volunteers. If you have any questions about this repository, please contact",
+    "url": "https://github.com/hirotaka/supabase-ja",
+    "pass": 3
+   },
+   {
+    "quote": "注意：本リポジトリは、Supabaseドキュメントの日本語訳を公開しています",
+    "url": "https://github.com/hirotaka/supabase-ja",
+    "pass": 3
+   },
+   {
+    "quote": "日本語版Suapbaseドキュメントへの貢献（翻訳・修正など）に興味がある方は",
+    "url": "https://github.com/hirotaka/supabase-ja",
+    "pass": 3
+   },
+   {
+    "quote": "Database Support Engineer (Japanese Speaking) at Supabase",
+    "url": "https://www.realworkfromanywhere.com/jobs/database-support-engineer-japanese-speaking-supabase-1735",
+    "pass": 3
+   },
+   {
+    "quote": "We’re looking for an experienced, fluent Japanese speaking",
+    "url": "https://www.realworkfromanywhere.com/jobs/database-support-engineer-japanese-speaking-supabase-1735",
+    "pass": 3
+   },
+   {
+    "quote": "Must be a fluent bilingual Japanese/English Speaker",
+    "url": "https://www.realworkfromanywhere.com/jobs/database-support-engineer-japanese-speaking-supabase-1735",
+    "pass": 3
+   },
+   {
+    "quote": "Must have experience support complex technical products in Japanese with native speakers",
+    "url": "https://www.realworkfromanywhere.com/jobs/database-support-engineer-japanese-speaking-supabase-1735",
+    "pass": 3
+   },
+   {
+    "quote": "Ideally located in Japan, but location is flexible as long as you can work during Japan business hours.",
+    "url": "https://www.realworkfromanywhere.com/jobs/database-support-engineer-japanese-speaking-supabase-1735",
+    "pass": 3
+   },
+   {
+    "quote": ".Ai Agent provider Customer Cloud has proposed the concept of \"LBAI,\" Japan's first corporate AI brain, and \"AI2AI,\" where AI evolves AI, and has successfully led DX and AI implementation for hundreds of legacy industry companies. We will work closely with your company's real-world challenges to build a system that \"leads to results\" together.",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "✅ Innovating PR with \" .Ai SEO,\" Japan's first LLMO-specialized service",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Key Features of \" Supabase \" - Explained by Genspark｜木下寛士 Key Features of \" Supabase \" - Explained by Genspark｜木下寛士 note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-tenant DB Design with Supabase : Pitfalls of RLS (Row ... Multi-tenant DB Design with Supabase : Pitfalls of RLS (Row ... note https://note.com > ... > データベース",
+    "url": "https://note.com/koushaku_tei/n/nab1e7dcd205a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Concise Guide to Supabase Auth and RLS for Beginners ... A Concise Guide to Supabase Auth and RLS for Beginners ... note https://note.com > コンピュータ・IT > ウェブ開発",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "非エンジニアなのに、 Supabase でデータが動くようになった 非エンジニアなのに、 Supabase でデータが動くようになった note https://note.com > コンピュータ・IT > ウェブ開発",
+    "url": "https://note.com/peacewanwan/n/n1574469c6e58",
+    "pass": 3
+   },
+   {
+    "quote": "ランキング機能の追加のために初めて supabase を使ってみた話 ランキング機能の追加のために初めて supabase を使ってみた話 note https://note.com > ゲーム > ゲーム開発",
+    "url": "https://note.com/t1_office/n/n128dbf5da874",
+    "pass": 3
+   },
+   {
+    "quote": "40年前の技術が1.5兆円企業を生んだ真実 Supabase - note 40年前の技術が1.5兆円企業を生んだ真実 Supabase - note note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/humble_dog9839/n/n1a27fa4b1cd5",
+    "pass": 3
+   },
+   {
+    "quote": "supabase の人気・新着記事まとめ - note supabase の人気・新着記事まとめ - note note https://note.com > コンピュータ・IT",
+    "url": "https://note.com/hashtag/supabase",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Key Features of \"Supabase\" - Explained by Genspark｜木下寛士",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Key Features of \"Supabase\" - Explained by Genspark",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase is an open-source Backend as a Service (BaaS) platform built on top of the PostgreSQL database. It provides developer-friendly tools that enable the rapid development of applications.",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Supabase uses PostgreSQL and allows for real-time data management. You can easily create tables and insert data using the GUI.",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": User management and authentication are handled easily. Features such as sign-up, sign-in, and password reset are built-in.",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": It automatically generates an API for your database, allowing data access through a RESTful interface. This makes the integration of frontend and backend smooth.",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time Functionality",
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-tenant DB Design with Supabase: Pitfalls of RLS (Row Level Security)｜鄭光錫(Tei Koushaku) / Shineos Inc. CEO / ITコンサルタント",
+    "url": "https://note.com/koushaku_tei/n/nab1e7dcd205a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/koushaku_tei/n/nab1e7dcd205a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-tenant DB Design with Supabase: Pitfalls of RLS (Row Level Security)",
+    "url": "https://note.com/koushaku_tei/n/nab1e7dcd205a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "鄭光錫(Tei Koushaku) / Shineos Inc. CEO / ITコンサルタント",
+    "url": "https://note.com/koushaku_tei/n/nab1e7dcd205a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"In SaaS, designing it so that 'other companies' data cannot be seen' is harder than building features.\"",
+    "url": "https://note.com/koushaku_tei/n/nab1e7dcd205a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I talk about SaaS development with startup founders, this is the part that is hardest to convey. Nowadays, you can set up authentication (login) in half a day using any service. However, you have to design the guarantee yourself that 'the only data this person can see is their own company's data' after they log in.",
+    "url": "https://note.com/koushaku_tei/n/nab1e7dcd205a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is the second installment of the SaaS development build log. Following the technology selection from last time, this time I will write about",
+    "url": "https://note.com/koushaku_tei/n/nab1e7dcd205a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RLS (Row Level Security)",
+    "url": "https://note.com/koushaku_tei/n/nab1e7dcd205a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Concise Guide to Supabase Auth and RLS for Beginners with Implementation Examples｜Felix JP｜AIアプリ開発ガイド",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Concise Guide to Supabase Auth and RLS for Beginners with Implementation Examples",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is Supabase Auth?",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The authentication feature provided by Supabase is a service that allows you to set up multiple methods, such as email/password or OAuth, in one place. Even for beginners, a user management table is created in just a few clicks, and you can easily implement sign-up and sign-in using the JavaScript SDK.",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": supabase.auth.signUp({ email, password })",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": supabase.auth.signInWithPassword({ email, password })",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Get current user information with supabase.auth.getSession()",
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "非エンジニアなのに、Supabaseでデータが動くようになった 〜意識低い系おじさんがAIと何かを作る話⑩〜｜わんわん",
+    "url": "https://note.com/peacewanwan/n/n1574469c6e58",
+    "pass": 3
+   },
+   {
+    "quote": "非エンジニアなのに、Supabaseでデータが動くようになった 〜意識低い系おじさんがAIと何かを作る話⑩〜",
+    "url": "https://note.com/peacewanwan/n/n1574469c6e58",
+    "pass": 3
+   },
+   {
+    "quote": "前回、GitHubでファイルがどう管理されてるかの話を書いた。pushしたらVercelが勝手に反映してくれる、あの流れ。",
+    "url": "https://note.com/peacewanwan/n/n1574469c6e58",
+    "pass": 3
+   },
+   {
+    "quote": "GitHubとVercelで、ファイルをネットに出す流れはなんとか掴めてきた。「いけるかも」と思い始めたタイミングで、Claudeに言われた。「このサービスにはデータベースが必要です。Supabaseを使いましょう」。",
+    "url": "https://note.com/peacewanwan/n/n1574469c6e58",
+    "pass": 3
+   },
+   {
+    "quote": "データベース自体は昔MySQLを触ったことがある。といっても、phpMyAdminで中身を見たり、人が書いたSQLをコピペしたりした程度。設計なんかしたことない。そこに「Supabase」という新しい名前が降ってきた。",
+    "url": "https://note.com/peacewanwan/n/n1574469c6e58",
+    "pass": 3
+   },
+   {
+    "quote": "Claudeに「Supabaseのアカウントを作るにはどうすればいい？」と聞く。サイトにアクセスしたら、Googleアカウントで始められるボタンがあった。「これでいいの？」と聞いたら「それでOKです」と返ってきたので、そのままポチッと。",
+    "url": "https://note.com/peacewanwan/n/n1574469c6e58",
+    "pass": 3
+   },
+   {
+    "quote": "Vercelのときとまったく同じ感覚。自分が「やった」というより、「気づいたらできていた」に近い。毎回このパターン。理解が追いつく前に、モノだけ先にできあがっていく。",
+    "url": "https://note.com/peacewanwan/n/n1574469c6e58",
+    "pass": 3
+   },
+   {
+    "quote": "セットアップから少し経って、Supabaseからメールが来た。",
+    "url": "https://note.com/peacewanwan/n/n1574469c6e58",
+    "pass": 3
+   },
+   {
+    "quote": "フロントエンド完結のゲームを作っていたが、ランキング機能の追加のために初めてsupabaseを使ってみた話｜T1【ゲーム制作してます】",
+    "url": "https://note.com/t1_office/n/n128dbf5da874",
+    "pass": 3
+   },
+   {
+    "quote": "フロントエンド完結のゲームを作っていたが、ランキング機能の追加のために初めてsupabaseを使ってみた話",
+    "url": "https://note.com/t1_office/n/n128dbf5da874",
+    "pass": 3
+   },
+   {
+    "quote": "先日、制作中のゲーム『永刻のデュエルボーイズ』をテスト公開しました。",
+    "url": "https://note.com/t1_office/n/n128dbf5da874",
+    "pass": 3
+   },
+   {
+    "quote": "ありがたいことに多くの方に遊んでいただき、設置したアンケートにも丁寧に要望・コメントなどを頂戴しました。",
+    "url": "https://note.com/t1_office/n/n128dbf5da874",
+    "pass": 3
+   },
+   {
+    "quote": "特に要望として挙がってきたのは、以下の2点です。",
+    "url": "https://note.com/t1_office/n/n128dbf5da874",
+    "pass": 3
+   },
+   {
+    "quote": "余談：実はこれら2つ以外にもBGMやSEなどの要望も多かったです。これも対応しなきゃなぁ・・・。",
+    "url": "https://note.com/t1_office/n/n128dbf5da874",
+    "pass": 3
+   },
+   {
+    "quote": "さて、これまで私が制作してきたゲームは、ブラウザ上の処理で完結する「フロントエンド完結型」でした。データを外部に保存し、サーバー側で管理するという「バックエンド」については実装した経験がなかったため、これらの要望に対応するのは難しそうだなぁ、と少し弱腰になっていました。",
+    "url": "https://note.com/t1_office/n/n128dbf5da874",
+    "pass": 3
+   },
+   {
+    "quote": "とはいえ、なんとかできることからやってみよう、と考え、「プレイヤー同士の対戦機能」と「ランキング」の実装難易度を比較してみました。",
+    "url": "https://note.com/t1_office/n/n128dbf5da874",
+    "pass": 3
+   },
+   {
+    "quote": "40年前の技術が1.5兆円企業を生んだ真実 Supabase｜tyo",
+    "url": "https://note.com/humble_dog9839/n/n1a27fa4b1cd5",
+    "pass": 3
+   },
+   {
+    "quote": "40年前の技術が1.5兆円企業を生んだ真実 Supabase",
+    "url": "https://note.com/humble_dog9839/n/n1a27fa4b1cd5",
+    "pass": 3
+   },
+   {
+    "quote": "How Supabase Became One Of The Fastest Growing DevTool Companies In The World",
+    "url": "https://note.com/humble_dog9839/n/n1a27fa4b1cd5",
+    "pass": 3
+   },
+   {
+    "quote": "https://supabase.com/",
+    "url": "https://note.com/humble_dog9839/n/n1a27fa4b1cd5",
+    "pass": 3
+   },
+   {
+    "quote": "https://x.com/supabase",
+    "url": "https://note.com/humble_dog9839/n/n1a27fa4b1cd5",
+    "pass": 3
+   },
+   {
+    "quote": "Paul Copplestone /CEO:",
+    "url": "https://note.com/humble_dog9839/n/n1a27fa4b1cd5",
+    "pass": 3
+   },
+   {
+    "quote": "https://x.com/kiwicopple",
+    "url": "https://note.com/humble_dog9839/n/n1a27fa4b1cd5",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.linkedin.com/in/paulcopplestone/",
+    "url": "https://note.com/humble_dog9839/n/n1a27fa4b1cd5",
+    "pass": 3
+   },
+   {
+    "quote": "supabaseの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "PostgreSQLベースのバックエンドサービスとして、認証やデータベース機能を迅速に提供します。",
+    "url": "https://note.com/tag/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "AIを活用したアプリ開発の基盤として、実装手順や運用上の注意点に関する記事が集まっています。",
+    "url": "https://note.com/tag/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "PostgreSQLベースのバックエンドサービスとして、認証やデータベース機能を迅速に…",
+    "url": "https://note.com/tag/supabase",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Supabase - X Supabase - X X https://x.com > supabase",
+    "url": "https://x.com/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase is now fully available and open source thanks to ... - X Supabase is now fully available and open source thanks to ... - X X https://x.com > @supabase",
+    "url": "https://x.com/supabase/status/2112354750658425207",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase Update — September 2026 - X Supabase Update — September 2026 - X X https://x.com > @supabase",
+    "url": "https://x.com/supabase/article/2099489075032096993",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Supabase - LinkedIn Supabase - LinkedIn LinkedIn https://www.linkedin.com > supabase",
+    "url": "https://www.linkedin.com/company/supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Paul Copplestone - CEO @ supabase .com. Go to ... - LinkedIn Paul Copplestone - CEO @ supabase .com. Go to ... - LinkedIn LinkedIn https://www.linkedin.com > paulcopp...",
+    "url": "https://www.linkedin.com/in/paulcopplestone",
+    "pass": 3
+   },
+   {
+    "quote": "Adding a database with Supabase - Bolt.new Tutorial - LinkedIn Adding a database with Supabase - Bolt.new Tutorial - LinkedIn LinkedIn https://www.linkedin.com > learning > adding-a-database-...",
+    "url": "https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/adding-a-database-with-supabase",
+    "pass": 3
+   },
+   {
+    "quote": "Add a Supabase back end and authentication - LinkedIn Add a Supabase back end and authentication - LinkedIn LinkedIn https://www.linkedin.com > learning > add-a-supabase-ba...",
+    "url": "https://www.linkedin.com/learning/hands-on-ai-turn-spreadsheets-into-web-apps-with-google-ai-studio/add-a-supabase-backend-and-authentication",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "I am a beginner. I use supabase . But you guys seems to not ... I am a beginner. I use supabase . But you guys seems to not ... Facebook https://www.facebook.com > vibecodinglife > posts",
+    "url": "https://www.facebook.com/groups/vibecodinglife/posts/1911132372808624/",
+    "pass": 3
+   },
+   {
+    "quote": "Supabase (@supabaseDev) - Facebook Supabase (@supabaseDev) - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/supabaseDev/",
+    "pass": 3
+   },
+   {
+    "quote": "What is supabase ? i still not able to understand - Facebook What is supabase ? i still not able to understand - Facebook Facebook https://www.facebook.com > vibecodinglife > posts",
+    "url": "https://www.facebook.com/groups/vibecodinglife/posts/1899918270596701/",
+    "pass": 3
+   },
+   {
+    "quote": "What are alternatives to Supabase for app data centralization ... What are alternatives to Supabase for app data centralization ... Facebook https://www.facebook.com > vibecodinglife > posts",
+    "url": "https://www.facebook.com/groups/vibecodinglife/posts/1974921386429722/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://supabase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/solutions/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/partners/catalog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/customers/lovable",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/customers/exprealty",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/customers/phoenix-energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/customers/chatbase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/customers/rally",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/solutions/ai-builders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/solutions/no-code",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/solutions/beginners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/solutions/developers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/solutions/postgres-developers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/solutions/vibe-coders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/docs/guides/ai-tools/ai-prompts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://supabase.com/support",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://supabase.com/_next/image?url=%2Fimages%2Fcustomers%2Flogos%2Fon-dark%2Fbeeapro.png&w=3840&q=75&dpl=dpl_3uAJ2jd1kCAMMLJXQaYTjhfe3kvW",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://supabase.com/_next/image?url=%2Fimages%2Fcustomers%2Flogos%2Fon-light%2Fbeeapro.png&w=3840&q=75&dpl=dpl_3uAJ2jd1kCAMMLJXQaYTjhfe3kvW",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://supabase.com/images/customers/logos/on-dark/videogen.svg?dpl=dpl_3uAJ2jd1kCAMMLJXQaYTjhfe3kvW",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://supabase.com/images/customers/logos/on-light/videogen.svg?dpl=dpl_3uAJ2jd1kCAMMLJXQaYTjhfe3kvW",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.craftstadium.com/blog/tech-supabase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.logto.io/ja/supabase-ai-limitation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stripe.com/jp/customers/supabase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://andai.net/news/vfBhvWhb",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://stripe.com/jp/customers/supabase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/supabase/supabase/blob/master/i18n/README.jp.md",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/hirotaka/supabase-ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realworkfromanywhere.com/jobs/database-support-engineer-japanese-speaking-supabase-1735",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miyagami.com/resources/articles/what-is-supabase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulumi.com/customers/supabase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clazar.io/case-studies/supabase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platformatic.dev/case-studies/supabase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://createwith.com/tool/supabase/updates/launch-of-supabase-for-platforms-white-label-solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/supabase.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taptwicedigital.com/stats/supabase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/paulcopplestone_supabase-has-raised-500m-at-a-10b-valuation-activity-7468361016393854976-MqFi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/koushaku_tei/n/nab1e7dcd205a?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/supabase",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/supabase/status/2112354750658425207",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/supabase/article/2099489075032096993",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/supabase",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/paulcopplestone",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/adding-a-database-with-supabase",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/learning/hands-on-ai-turn-spreadsheets-into-web-apps-with-google-ai-studio/add-a-supabase-backend-and-authentication",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/vibecodinglife/posts/1911132372808624/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/supabaseDev/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/vibecodinglife/posts/1899918270596701/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/vibecodinglife/posts/1974921386429722/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/peacewanwan/n/n1574469c6e58",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/t1_office/n/n128dbf5da874",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/humble_dog9839/n/n1a27fa4b1cd5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/supabase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/supabase",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Supabase 日本 導入",
+   "results": [
+    "https://www.craftstadium.com/blog/tech-supabase",
+    "https://supabase.com/",
+    "https://blog.logto.io/ja/supabase-ai-limitation",
+    "https://stripe.com/jp/customers/supabase",
+    "https://walker-s.co.jp/ai/what-is-supabase/",
+    "https://zenn.dev/4geru/books/fukuoka-supabase-base-handson/viewer/project-setup",
+    "https://findy-tools.io/products/supabase/32",
+    "https://github.com/supabase/supabase/blob/master/i18n/README.jp.md",
+    "https://www.youtube.com/watch?v=XWYkpQRLsFk",
+    "https://shiftb.dev/articles/how-to-use-supabase"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Supabase 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000010.000060254.html",
+    "https://andai.net/news/vfBhvWhb",
+    "https://stripe.com/jp/customers/supabase",
+    "https://github.com/supabase/supabase/blob/master/i18n/README.jp.md",
+    "https://www.reddit.com/r/Supabase/comments/13wtxuh/supabase_alternatives/?tl=ja",
+    "https://www.youtube.com/watch?v=XWYkpQRLsFk",
+    "https://whatweuse.dev/tool/supabase",
+    "https://findy-tools.io/products/supabase/32",
+    "https://www.hexabase.com/column/supabase_vs_hexabase",
+    "https://ja.wikipedia.org/wiki/SAPジャパン"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Supabase Japan",
+   "results": [
+    "https://supabase.com/",
+    "https://github.com/hirotaka/supabase-ja",
+    "https://www.realworkfromanywhere.com/jobs/database-support-engineer-japanese-speaking-supabase-1735",
+    "https://www.miyagami.com/resources/articles/what-is-supabase",
+    "https://luma.com/09zqpocc",
+    "https://qiita.com/t-kurasawa/items/4ee7feb2af0993a54f8c",
+    "https://supabase.com/docs/guides/platform/regions",
+    "https://shiftb.dev/articles/how-to-use-supabase",
+    "https://seahawkmedia.com/ja/テクノロジー/スーパーベースとは/",
+    "https://qiita.com/UKI_datascience/items/19d690753890b63a29c6"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Supabase manufacturing customer case study",
+   "results": [
+    "https://www.pulumi.com/customers/supabase/",
+    "https://clazar.io/case-studies/supabase",
+    "https://platformatic.dev/case-studies/supabase",
+    "https://supabase.com/customers",
+    "https://www.craftventures.com/articles/inside-supabase-breakout-growth",
+    "https://www.youtube.com/watch?v=sG5aB79TE44",
+    "https://technologychecker.io/technology/supabase",
+    "https://www.vanta.com/customers/supabase",
+    "https://depthfirst.com/customer-stories/supabase",
+    "https://styx.studio/customers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Supabase white label OR reseller OR partner program",
+   "results": [
+    "https://supabase.com/blog/introducing-supabase-for-platforms",
+    "https://createwith.com/tool/supabase/updates/launch-of-supabase-for-platforms-white-label-solution",
+    "https://supabase.com/partners",
+    "https://supabase.com/",
+    "https://xamplify.com/partner-programs/supabase/",
+    "https://guptadeepak.com/startup-offers/programs/supabase-startups",
+    "https://supabase.com/open-source/contributing/supasquad",
+    "https://www.youtube.com/watch?v=bRtdk8D4X8w",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Supabase founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/supabase.com",
+    "https://supabase.com/blog/supabase-series-f",
+    "https://taptwicedigital.com/stats/supabase",
+    "https://www.linkedin.com/posts/paulcopplestone_supabase-has-raised-500m-at-a-10b-valuation-activity-7468361016393854976-MqFi",
+    "https://www.reddit.com/r/Supabase/comments/1jb4586/what_is_the_future_of_supabase/",
+    "https://sacra.com/c/supabase/",
+    "https://www.owler.com/company/supabase",
+    "https://www.cnbc.com/2026/06/04/database-startup-supabase-raises-500-million-10point5-billion-valuation.html",
+    "https://supabase.com/blog/supabase-series-e",
+    "https://www.thecompanycheck.com/company/b/supabase/k1vt2whkuarxba07v"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Supabase",
+   "results": [
+    "https://note.com/hiroshikinoshita/n/n4dac887a467d?hl=en",
+    "https://note.com/oft0nland/n/n11cb92daefcf?hl=en",
+    "https://note.com/koushaku_tei/n/nab1e7dcd205a?hl=en",
+    "https://note.com/felixjpstudio/n/n008992fba149?hl=en",
+    "https://note.com/mega_gorilla/n/ne737bd0b1bd6?hl=en",
+    "https://note.com/55clotho/n/n8518c5ab21ef?hl=en",
+    "https://note.com/tsukurun_d7/n/n950c03f72fef",
+    "https://note.com/yoshihiro3222/n/nbe78d583d7f7?hl=en",
+    "https://note.com/piko_ai_system/n/n1a285f5f951e",
+    "https://note.com/opensourcelab/n/nb15dbccd67d3?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Supabase",
+   "results": [
+    "https://x.com/supabase",
+    "https://x.com/supabase/status/2112354750658425207",
+    "https://x.com/supabase/article/2099489075032096993",
+    "https://x.com/ycombinator/status/2116176659795825035",
+    "https://x.com/supabase/status/2115121820391055406",
+    "https://x.com/supabase/highlights",
+    "https://x.com/AntWilson",
+    "https://x.com/theo/status/2017014575707935228",
+    "https://x.com/supabase/status/2118705279491780710",
+    "https://x.com/supabase/article/2086106572233781315"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com Supabase",
+   "results": [
+    "https://www.linkedin.com/company/supabase",
+    "https://www.linkedin.com/in/paulcopplestone",
+    "https://www.linkedin.com/learning/vibe-code-your-way-to-a-full-stack-app-with-bolt/adding-a-database-with-supabase",
+    "https://www.linkedin.com/learning/hands-on-ai-turn-spreadsheets-into-web-apps-with-google-ai-studio/add-a-supabase-backend-and-authentication",
+    "https://www.linkedin.com/learning/supabase-essential-training/creating-a-supabase-instance",
+    "https://www.linkedin.com/pulse/supabase-making-development-easy-scalable-affordable-conor-woods-ntzsc",
+    "https://www.linkedin.com/learning/supabase-essential-training/developing-application-backends-using-supabase",
+    "https://www.linkedin.com/in/sromberg7",
+    "https://www.linkedin.com/learning/supabase-essential-training/before-taking-this-course",
+    "https://uk.linkedin.com/in/ant-wilson-46179937"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Supabase",
+   "results": [
+    "https://www.facebook.com/groups/vibecodinglife/posts/1911132372808624/",
+    "https://www.facebook.com/supabaseDev/",
+    "https://www.facebook.com/groups/vibecodinglife/posts/1899918270596701/",
+    "https://www.facebook.com/groups/vibecodinglife/posts/1974921386429722/",
+    "https://www.facebook.com/groups/vibecodinglife/posts/2075348729720320/",
+    "https://www.facebook.com/groups/developerkaki/posts/3029745934037966/",
+    "https://www.facebook.com/groups/vibecodinglife/posts/2001468897108304/",
+    "https://www.facebook.com/groups/itphil/posts/2021951625135649/",
+    "https://www.facebook.com/groups/supabase/",
+    "https://www.facebook.com/fb-answers/what-is-supabase/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Supabase note 社長",
+   "results": [
+    "https://note.com/peacewanwan/n/n1574469c6e58",
+    "https://note.com/t1_office/n/n128dbf5da874",
+    "https://note.com/humble_dog9839/n/n1a27fa4b1cd5",
+    "https://note.com/hashtag/supabase",
+    "https://supabase.com/customers/cofounder",
+    "https://supabase.com/blog/bknd-joins-supabase",
+    "https://www.youtube.com/watch?v=KtxoJUZDgIU",
+    "https://note.com/kei_gaishi_it/n/n2dc95c500f56",
+    "https://supabase.com/company",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Supabase X 投稿",
+   "results": [
+    "https://supabase.com/docs/guides/auth/social-sign-in/auth-twitter",
+    "https://x.com/supabase",
+    "https://supabase.com/blog/x-twitter-oauth-2-provider",
+    "https://qiita.com/kaho_eng/items/6f9ac01d77ab198881f4",
+    "https://supabase.com/",
+    "https://zenn.dev/masa5714/articles/a1a0c9647c7e60",
+    "https://supabase.com/contribute",
+    "https://github.com/supabase/supabase",
+    "https://10-min-diary.com/web-app_for_starters_3/",
+    "https://trends.codecamp.jp/blogs/media/winter-break-special5"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部36頁・検索12回）"
+ }
+}

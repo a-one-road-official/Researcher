@@ -1,0 +1,729 @@
+{
+ "name": "Thebluedot",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T08:01:57.996774+00:00",
+ "official_url": "https://thebluedot.co/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Bluedot is not a bank. Banking services are provided by Piermont Bank, Member FDIC.",
+    "url": "https://www.thebluedot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Bluedot provides access to over 120,000 EV charging points, conveniently located in your neighborhood and across the entire US. We're your gateway to seamless EV charging, wherever your journey takes you.",
+    "url": "https://www.thebluedot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Enjoy a flat rate of $0.30/ kWh and transparent pricing at all stations, empowering you to plan and forecast your journey with ease and confidence",
+    "url": "https://www.thebluedot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience a new level of convenience with our state-of-the-art charging hub, designed exclusively for EV drivers. We provide quick, easy access to charging, ensuring your vehicle is always powered up and ready to go.",
+    "url": "https://www.thebluedot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I wait 25-45 mins while charging my car. I used to just sit and now Bluedot helps me find really great restaurants and have great offers with them. It also has a flat $0.30/kWh pricing.\"",
+    "url": "https://www.thebluedot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Roadside Assistance for EV Owners: When and How to Seek Help",
+    "url": "https://www.thebluedot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Through innovative technologies and personalized services, we streamline the adoption process, simplify operations, and optimize energy usage, paving the way for a sustainable, electrified future.",
+    "url": "https://www.thebluedot.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "efficiency and reliability in charging processes",
+    "url": "https://www.thebluedot.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "We break down barriers so teams can focus on what matters – working together to create products their customers love.",
+    "url": "https://www.thebluedot.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to boost remote productivity",
+    "url": "https://www.thebluedot.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerating Global Progress, One Charge at a Time",
+    "url": "https://www.thebluedot.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Facilitate seamless onboarding and offer charging as a benefit to encourage your drivers towards EVs.",
+    "url": "https://www.thebluedot.co/business",
+    "pass": 3
+   },
+   {
+    "quote": "Ensure a smooth user experience with convenient charging locations. With our platform, embrace sustainability while improving operational efficiency.",
+    "url": "https://www.thebluedot.co/business",
+    "pass": 3
+   },
+   {
+    "quote": "Aligned with funder priorities",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Refine, approve, submit",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "funding increase in the first year of use compared with the prior year",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "The development team wanted a more efficient grant-writing process without losing the organization's voice and knowledge.",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "A prompt framework aligned with funder priorities",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Hands-on training so the team could continue using the tools in-house",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "“We're now able to produce high-quality grants more efficiently than ever before.”",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Demand projections to support inventory planning",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "PII + privacy controls",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "of annotated video hours delivered, reported",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "The research program needed precise video collection, fast changes in direction, and strict privacy handling.",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Adaptable video collection operations",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "PII redaction and privacy-management controls",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Protect identifying information",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Manual patient intake and triage created a high administrative burden for healthcare professionals.",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "increase in recruiter productivity",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "candidate-job matching precision",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Manually screening thousands of resumes slowed candidate matching and limited recruiter capacity.",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Integration with the existing applicant tracking system",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Candidate ranking based on experience, certifications, and skills",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered survey analysis for multilingual insights, with a reported 90% reduction in data-processing time.",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, even if the blue dot is in the center of a large circle, it is premature to conclude that 'you are definitely at this exact spot.' The app itself is indicating that it has not narrowed down your location.",
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Google also explains that GPS accuracy may drop indoors or underground. When your location is uncertain to begin with, you need to respond appropriately to the situation, such as checking the guidance on the screen or moving to a place where signals can reach more easily.",
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "5% cash back on all qualifying automotive purchases",
+    "url": "https://www.thebluedot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Find a case study that fits your work. Explore the systems we built, the results, and the people behind them.",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We break down barriers so teams can focus on what matters – working together to create products their customers love.",
+    "url": "https://www.thebluedot.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Track your employees’ EV charging with controlled budgets, get one monthly bill, and view all the charging and sustainability data for all your drivers.",
+    "url": "https://www.thebluedot.co/business",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, even if the blue dot is in the center of a large circle, it is premature to conclude that 'you are definitely at this exact spot.' The app itself is indicating that it has not narrowed down your location.",
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "thebluedot.io - EV Charging — On Demand Electric Vehicle Charging for you",
+    "url": "https://thebluedot.io/",
+    "pass": 3
+   },
+   {
+    "quote": "The Blue Dot: Applied AI Consulting, Implementation & Training — Working with The Blue Dot Labs allowed our team to rapidly iterate on complex AI video projects. Their flexibility and responsiveness were unmatched. Their AI-powered triage chatbot drastically reduced our patient intake workload, giving our medical staff more time to provide focused care.",
+    "url": "https://thebluedot.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Implementation Case Studies | The Blue Dot — Explore AI work in healthcare, recruiting, grant writing, restaurant operations, and global health. See the problem, approach, and outcome of each project.",
+    "url": "https://thebluedot.ai/case-studies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "YC W23 Batch - Bluedot｜釈迦 - note（ノート） Jan 16, 2024 · 釈迦 2024年1月16日 04:53 Bluedot: Bluedot is a single payment platform for EV drivers and fleets. | Y Combinator Bluedot is a single payment platform for EV drivers and fleet www.ycombinator.com Simplify Your EV Charging - Bluedot Bluedot is single payment platform for EV drivers and fleets. www.thebluedot.co",
+    "url": "https://note.com/gautamashaka/n/n2f265faa7476",
+    "pass": 3
+   },
+   {
+    "quote": "The blue dot on Google Maps. There are times when it cannot ... The light blue circle surrounding the blue dot on Google Maps is not just for decoration. According to official help, it appears when your current location cannot be pinpointed accurately, and the smaller the circle, the higher the positioning accuracy.",
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The blue dot on Google Maps. There are times when it cannot definitively say 'you are here'｜通勤3分、よりみちノート",
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The blue dot on Google Maps. There are times when it cannot definitively say 'you are here'",
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The map says you are on the other side of the station. Even though your destination shop is right in front of you, the blue dot is on the next street over. At times like that, before you start walking based on the screen, take a look at what is around the dot.",
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The light blue circle surrounding the blue dot on Google Maps is not just for decoration. According to official help, it appears when your current location cannot be pinpointed accurately, and the smaller the circle, the higher the positioning accuracy.",
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, even if the blue dot is in the center of a large circle, it is premature to conclude that 'you are definitely at this exact spot.' The app itself is indicating that it has not narrowed down your location.",
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you are unaware of this display, a rather troublesome reversal can occur.",
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You trust the screen more than the actual signs and end up moving away from the correct entrance. Even though you are using a map, you get lost because you fail to read the uncertainty of the map.",
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Bluedot (@thebluedot_co) / X What do you love most about the EV life with @thebluedot_co? Share your #BestOfBluedot tweet and you could win 1 month of FREE EV charging with Bluedot! (valued at up to $150) Have fun and good luck!",
+    "url": "https://x.com/thebluedot_co",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Bluedot (@thebluedot_co) / X LACI startup @ thebluedot_co Co-Founders Selinay Parlak & Ferhat Babacan were named to @ Forbes ' 30 Under 30 list for 2024 for Manufacturing & Industry! Bluedot is a single-payment platform for EV drivers & fleets.",
+    "url": "https://x.com/thebluedot_co/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Bluedot (@thebluedot_co) / X What do you love most about the EV life with @ thebluedot_co? Share your #BestOfBluedot tweet and you could win 1 month of FREE EV charging with Bluedot! (valued at up to $150) Have fun and good luck!",
+    "url": "https://x.com/thebluedot_co/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "\"#TheBlueDot\" - Results on X | Live Posts & Updates Kwame Adu Ageyum from University of Ghana throws light on the problems and challenges faced by coastal communities in protecting marine living resources at #theBlueDot event.",
+    "url": "https://x.com/hashtag/TheBlueDot",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Bluedot (@thebluedot_co) / X 🎉 TOSV couldn't be more proud of @ ferhaatbabacaan and @ selinayfilizp for being named to Forbes 30 Under 30! @ thebluedot_co is truly making a huge impact in the EV space and helping to drive the transition to a sustainable future.",
+    "url": "https://x.com/thebluedot_co/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "@thebluedot_co | X ",
+    "url": "https://x.com/thebluedot_co/photo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Bluedot | San Francisco CA - FacebookThe Blue Dot - FacebookThe Blue Dot | Karachi - Facebookthebluedot_official - FacebookThe Blue Dot Studio | Naxxar - FacebookBlue Dot Air Conditioning and Heating | San Antonio TXThe Blue Dot - Facebook Sep 16, 2022 · Don’t forget to check it out our new debit card 👉 https://thebluedot.co/ #Macys #partnership #usa #business #advertisement #VoltaCharging Wouldn’",
+    "url": "https://www.facebook.com/thebluedot.co/",
+    "pass": 3
+   },
+   {
+    "quote": "The Blue Dot | Karachi - Facebookthebluedot_official - FacebookThe Blue Dot Studio | Naxxar - FacebookBlue Dot Air Conditioning and Heating | San Antonio TXThe Blue Dot - Facebook Jul 30, 2026 · Pakistan Stock Exchange- A proud identity by a glad team. All for Pakistan #PSX #PakistanStockExchange #BrandIdentity #AnniversaryBranding #TheBlueDot Art and photography Instagram: thebluedot_official Fol",
+    "url": "https://www.facebook.com/thebluedotpakistan/",
+    "pass": 3
+   },
+   {
+    "quote": "thebluedot_official - Facebook Art and photography Instagram: thebluedot_official Follow Posts About Photos Mentions",
+    "url": "https://www.facebook.com/thebluedot.officialpage/",
+    "pass": 3
+   },
+   {
+    "quote": "The Blue Dot Studio | Naxxar - FacebookBlue Dot Air Conditioning and Heating | San Antonio TXThe Blue Dot - Facebook The Blue Dot Studio, Naxxar. 1,898 followers · 11 talking about this · 493 were here. The Blue Dot is a creative studio where children can explore & develop creatively, acquiring skills & confidence.... Oct 20, 2026 · Blue Dot Air Conditioning and Heating, San Antonio. 520 followers",
+    "url": "https://www.facebook.com/thebluedot.mt/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.thebluedot.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thebluedot.co/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E6%AD%A6%E5%BF%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thebluedot.io/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thebluedot.co/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bluedottours.com/educational-tours/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bluedot.global/bluedot-partners-with-japan-to-revolutionize-global-infectious-disease-surveillance-with-innovative-early-warning-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thebluedot.io/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://blued.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bluedot.global/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bluedotinsights.com/customer-experience-satisfaction-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thebluedot.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bluedotinsights.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/thebluedot-co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/thebluedotco",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/bluedot/__rV11xUDqjsMtbM6c8IkFml1ScXME2jqdxngep55m2m4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/bluedot/__5ElQMGkbUhwu_gMX2Gp1s2zQfdRocdNhcl8SZXx7_Ns",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/gautamashaka/n/n2f265faa7476",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/thebluedot_co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thebluedot_co/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thebluedot_co/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/TheBlueDot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thebluedot.co/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thebluedotpakistan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thebluedot.officialpage/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thebluedot.mt/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thebluedot_co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thebluedot_co/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thebluedot_co/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/thebluedot_co/photo",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Thebluedot 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Thebluedot 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/黒田武志",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://thebluedot.io/",
+    "https://www.thebluedot.co/business",
+    "https://jpmktg.winbond.com/",
+    "https://maymobility.com/ja",
+    "https://ja.nozominetworks.com/company"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Thebluedot Japan",
+   "results": [
+    "https://www.bluedottours.com/educational-tours/japan",
+    "https://bluedot.global/bluedot-partners-with-japan-to-revolutionize-global-infectious-disease-surveillance-with-innovative-early-warning-system/",
+    "https://thebluedot.io/",
+    "https://blued.jp/",
+    "https://thebluedot.ai/",
+    "https://thebluedot.ai/team",
+    "https://www.thebluedot.co/about"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Thebluedot manufacturing customer case study",
+   "results": [
+    "https://bluedot.global/customer-stories/",
+    "https://bluedotinsights.com/customer-experience-satisfaction-study/",
+    "https://thebluedot.ai/case-studies",
+    "https://bluedotinsights.com/case-studies/",
+    "https://www.bludot.com/pages/about-us",
+    "https://thebluedot.ai/",
+    "https://www.bluedot.co/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Thebluedot white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.verkada.com/partners/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Thebluedot founded funding employees revenue",
+   "results": [
+    "https://www.extruct.ai/hub/thebluedot-co/",
+    "https://compworth.com/company/thebluedotco",
+    "https://tracxn.com/d/companies/bluedot/__rV11xUDqjsMtbM6c8IkFml1ScXME2jqdxngep55m2m4",
+    "https://tracxn.com/d/companies/bluedot/__5ElQMGkbUhwu_gMX2Gp1s2zQfdRocdNhcl8SZXx7_Ns",
+    "https://pitchbook.com/profiles/company/100148-32",
+    "https://fundediq.co/bluedot-thebluedot-co-funding/",
+    "https://www.extruct.ai/hub/thebluedot-co-funding/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Thebluedot",
+   "results": [
+    "https://note.com/gautamashaka/n/n2f265faa7476",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/blue_dot39/n/n8a7917cd2687?hl=en",
+    "https://note.com/nanahon_no_michi/n/n3ffc192741e6?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Thebluedot",
+   "results": [
+    "https://x.com/thebluedot_co",
+    "https://x.com/thebluedot_co/reposts",
+    "https://x.com/thebluedot_co/with_replies",
+    "https://x.com/hashtag/TheBlueDot",
+    "https://x.com/bluedotinsights",
+    "https://x.com/hellobluedot",
+    "https://x.com/BlueDotImpact"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Thebluedot",
+   "results": [
+    "https://www.linkedin.com/company/bluedottechnologies",
+    "https://ca.linkedin.com/company/bluedotinc",
+    "https://in.linkedin.com/company/bluedot-io",
+    "https://co.linkedin.com/company/bluedot-inc",
+    "https://au.linkedin.com/company/blue-dot-productions",
+    "https://www.linkedin.com/company/thebluedot-pk/",
+    "https://sa.linkedin.com/posts/y-combinator_bluedot-yc-w23-is-a-single-payment-platform-activity-7037188592607137792-qeCG"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Thebluedot",
+   "results": [
+    "https://www.facebook.com/thebluedot.co/",
+    "https://www.facebook.com/thebluedotpakistan/",
+    "https://www.facebook.com/thebluedot.officialpage/",
+    "https://www.facebook.com/thebluedot.mt/",
+    "https://www.facebook.com/strangebluedot/",
+    "https://www.facebook.com/bluedotpsi/",
+    "https://www.facebook.com/bluedothvac/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Thebluedot note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.bluedothq.com/solutions/founders",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://thebluedot.ai/",
+    "https://thebluedot.ai/team"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Thebluedot X 投稿",
+   "results": [
+    "https://x.com/thebluedot_co",
+    "https://x.com/thebluedot_co/with_replies",
+    "https://x.com/thebluedot_co/reposts",
+    "https://x.com/thebluedot_co/photo",
+    "https://x.com/BlueDotImpact",
+    "https://x.com/hellobluedot",
+    "https://x.com/BlueDotStudios1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

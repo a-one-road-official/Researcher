@@ -1,0 +1,1293 @@
+{
+ "name": "Sight Machine",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜返信あり",
+ "researched_at": "2026-11-11T07:42:23.915896+00:00",
+ "official_url": "https://sightmachine.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Sight Machine — Better production. Faster.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "That Understands Your Plant — and Improves It, Every",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agent-powered manufacturing that continuously finds more output, eliminates more waste, and improves with every run. Deploys in days.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents continuously investigate production, find where it can improve, and propose how. Every cycle, the plant gets better.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine's manufacturing intelligence flows across the enterprise stack, linking production to supply chain, logistics, and demand.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents work directly with your process experts to connect data, build the Manufacturing Context Layer, and find more output. Deploys in days.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect every OT and IT system — controls, historians, MES, ERP, and more. The platform maps your physical plant into one structured model and turns raw signals into production events and KPIs, ready for agents to act on.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production that responds",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine publishes manufacturing intelligence as an MCP server, so any agent in your enterprise can integrate plant floor AI. Push findings into Teams, run Omniverse simulations, connect Databricks ML models — intelligence flows both ways.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine Launches Agentic Manufacturing Platform That Understands Your Plant — and Improves It, Every Run",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Agents work directly with your process experts to connect data, build the Manufacturing Context Layer, and improve performance — deploying in days, compounding in value with every run",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "General-purpose AI platforms can’t make sense of raw industrial data. Sight Machine’s Manufacturing Context Layer changes that: it maps every signal to an asset, every asset to a process, and every process to the KPIs an operations team actually runs the plant on — giving agents the context to investigate, reason, and act with precision.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The platform continuously finds more output, eliminates more waste, and improves with every run. Agents build tools, the Manufacturing Context Layer grows, and every cycle makes the next one sharper.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Agents connect to all OT and IT systems — sensor readings, historians, MES, ERP, documents, SOPs, and enterprise data platforms like Microsoft Fabric. They extract, map, and structure that data into one consistently organized digital model of the facility.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Blueprint, Sight Machine’s proprietary small language model, automates the most labor-intensive step in any industrial data project: mapping thousands of tags to their physical assets by looking beyond field names to introspect data, recognize patterns, and infer meaning.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic Production: Production That Responds Continuously to Realtime Feedback",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "While most “manufacturing AI” sits on a dashboard waiting for someone to log in, Sight Machine agents work continuously — pursuing leads on quality drift, downtime patterns, and yield gaps, forming hypotheses, and bringing validated findings to process experts for review.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Agents investigate and propose; process experts validate and approve. Findings don’t land in a report to check later — they arrive as plain-language recommendations in the tools operations teams already have open: Microsoft Teams, Microsoft Excel, a kiosk on the floor. The recommendation is specific and immediate: exactly what to do, at the moment it matters.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "“Manufacturing has always had the data. What it lacked was a platform that could make that data legible to AI,” said Jon Sobel, CEO and Co-Founder of Sight Machine. “Sight Machine built that platform — and built it so that the people who know the plant are the ones who run it, from day one. That’s a completely different paradigm, and it’s what makes improvement compound with every run.”",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Agents: Plant Floor AI Unlocks Firmwide Optimization",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers are moving from data silos to data estates, yet plant floor intelligence has historically been the missing piece, trapped at the source and invisible to the enterprise systems that depend on it. Sight Machine changes that: manufacturing intelligence flows up to the enterprise, and enterprise context flows back to the plant.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine publishes its manufacturing intelligence as an MCP server — the open standard for agent-to-agent communication — so any permissioned agent in the enterprise can access it. Push findings into Microsoft Teams, Microsoft Fabric, and Microsoft Excel. Run Omniverse simulations. Connect Databricks ML models. Intelligence flows both ways, and the compound effects reach across the firm.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Progressive Autonomy, at a Pace Manufacturers Control",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "“Everything that previously required a full team — connecting data, modeling the plant, building applications — the agent now does directly with the process expert,” said Andrew Home, VP of Product at Sight Machine. “What used to require a development sprint now happens in the course of an investigation. The platform scales to new use cases and lines without being constrained by team size.”",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "“What used to require a development sprint now happens in the course of an investigation. The platform scales to new use cases and lines without being constrained by team size.”",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew Home, VP of Product, Sight Machine",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "to solve manufacturing’s toughest problems",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine’s Manufacturing Context Layer grounds agents in both a plant’s rules and process experts’",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "General-purpose AI can’t reliably interpret raw industrial data",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine ingests data from every source in the production process — controls, historians, MES, ERP, and document repositories — and then layers in SOPs, P&IDs, and line diagrams, so agents understand the plant’s structure.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Production data arrives with inconsistent names, units, structures, and meanings.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine then transforms all of that data into four core schemas: cycles, parts, downtime, and defects. The result is a semantic layer that ties every signal to an asset, every asset to a process, and every process to the KPIs a plant is measured by.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Each part or batch as it moves through the line, with the operations performed on it, inspection results, product attributes, and full process history.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Cycles and parts capture what produced good output. Downtime and defects capture what didn’t.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": ". Every event is stamped with its shift and production date, so “last shift” and “quarter to date” just work. Reference tables translate the codes machines report into the terms operators use. Each connection records how long material takes to travel between steps, so analysis can connect upstream conditions to downstream results.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "follow the same rules everywhere. Ideal throughput is calculated the same way for every shift. Part quality is determined by a fixed set of criteria. Because every KPI is linked to the same cycles, parts, downtime, and defects, every plant shares one foundation for improvement.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "kWh per physical case produced",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Every transformation, derived feature, signal, and KPI is informed by plant operations, created by an agent, and approved by an expert.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Agents build a knowledge base from the written know-how they read: SOPs, known issues, troubleshooting steps, and lessons from past investigations. When they learn something new — like an engineer’s explanation for why a sensor reads high — they propose adding it. And after each successful analysis, agents offer to save the work as a reusable tool, so each investigation builds on the last.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Ambient humidity, valve 18 cycle time, production speed.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Without guidance, agents fill gaps with assumptions that may not match how a plant works. The Manufacturing Context Layer replaces assumptions with the plant’s own definitions and procedures.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "ご存知のとおり、GE さんはPredixという IoT プラットフォームを持っています",
+    "url": "https://iotnews.jp/interview/89109/",
+    "pass": 3
+   },
+   {
+    "quote": "※ERP…Enterprise Resource Planning：企業資源計画",
+    "url": "https://iotnews.jp/interview/89109/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタルツインは各社定義があって、 Predixでいうとジェットエンジンのシミュレーションが有名ですが、われわれの標準パッケージではシミュレーションはできません",
+    "url": "https://iotnews.jp/interview/89109/",
+    "pass": 3
+   },
+   {
+    "quote": "構成は3層で、OT/ITの生データをエージェントが読める構造に変換するセマンティックモデル、工程を継続調査してリアルタイムに推奨を返すDynamic Production、MCPサーバ経由で製造インテリジェンスを全社に配信するEnterprise Agentsです",
+    "url": "https://mes-dx.com/vendors/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive manufacturer achieves 91% reduction in machine downtime through predictive downtime analytics",
+    "url": "https://www.casestudies.com/company/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "Global dairy processor optimized throughput and quality for a 5% increase in yield of its high-performance product line",
+    "url": "https://www.casestudies.com/company/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "Global Dairy Processor",
+    "url": "https://www.casestudies.com/company/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "World-class batch process manufacturer improved its throughput by 7% in only two months",
+    "url": "https://www.casestudies.com/company/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "Leading paper manufacturer improved energy use by analyzing thousands of data sources across all its processes",
+    "url": "https://www.casestudies.com/company/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Device Producer",
+    "url": "https://www.casestudies.com/company/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "Major automotive supplier controlled costs and reduced waste in their seat production and assembly line",
+    "url": "https://www.casestudies.com/company/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "Tier 1 Automotive Producer",
+    "url": "https://www.casestudies.com/company/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "Visit your regional NVIDIA website for local content, pricing, and where to buy partners specific to your country.",
+    "url": "https://www.nvidia.com/en-us/case-studies/sight-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "Professional Workstations",
+    "url": "https://www.nvidia.com/en-us/case-studies/sight-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "Guide for using NVIDIA NGC private registry with GPU cloud",
+    "url": "https://www.nvidia.com/en-us/case-studies/sight-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-enhanced voice and video for next-level streams, videos, and calls",
+    "url": "https://www.nvidia.com/en-us/case-studies/sight-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "AI PCs for gaming, creating, productivity and development",
+    "url": "https://www.nvidia.com/en-us/case-studies/sight-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise AI factory for model development and deployment",
+    "url": "https://www.nvidia.com/en-us/case-studies/sight-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerating professional AI, graphics, rendering and compute workloads",
+    "url": "https://www.nvidia.com/en-us/case-studies/sight-machine/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Sight Machine Launches Agentic Manufacturing Platform",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "That Understands Your Plant — and Improves It, Every",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic manufacturing",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agent-powered manufacturing that continuously finds more output, eliminates more waste, and improves with every run. Deploys in days.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Sight Machine’s AI-native platform powers agentic manufacturing",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world’s best manufacturers and leaders in AI",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "make sense of raw industrial data.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "manufacturing context layer",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "to global manufacturing.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine's Manufacturing Context Layer turns raw industrial data into something agents can reason on and your team can trust.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents continuously investigate production, find where it can improve, and propose how. Every cycle, the plant gets better.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine's manufacturing intelligence flows across the enterprise stack, linking production to supply chain, logistics, and demand.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents that understand your plant",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents work directly with your process experts to connect data, build the Manufacturing Context Layer, and find more output. Deploys in days.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Context Layer",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial data,",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect every OT and IT system — controls, historians, MES, ERP, and more. The platform maps your physical plant into one structured model and turns raw signals into production events and KPIs, ready for agents to act on.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plant floor AI unlocks",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine publishes manufacturing intelligence as an MCP server, so any agent in your enterprise can integrate plant floor AI. Push findings into Teams, run Omniverse simulations, connect Databricks ML models — intelligence flows both ways.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic Manufacturing Platform Launch — News — Sight Machine",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine Launches Agentic Manufacturing Platform That Understands Your Plant — and Improves It, Every Run",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Agents work directly with your process experts to connect data, build the Manufacturing Context Layer, and improve performance — deploying in days, compounding in value with every run",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "General-purpose AI platforms can’t make sense of raw industrial data. Sight Machine’s Manufacturing Context Layer changes that: it maps every signal to an asset, every asset to a process, and every process to the KPIs an operations team actually runs the plant on — giving agents the context to investigate, reason, and act with precision.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The platform continuously finds more output, eliminates more waste, and improves with every run. Agents build tools, the Manufacturing Context Layer grows, and every cycle makes the next one sharper.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Context Layer: Your Plant Data, Structured for Agents to Reason On",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Blueprint, Sight Machine’s proprietary small language model, automates the most labor-intensive step in any industrial data project: mapping thousands of tags to their physical assets by looking beyond field names to introspect data, recognize patterns, and infer meaning.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers who know the plant define events, validate mappings, and add the tacit knowledge agents can’t see. Operations teams trust the findings because they helped build the foundation the agent reasons from.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "While most “manufacturing AI” sits on a dashboard waiting for someone to log in, Sight Machine agents work continuously — pursuing leads on quality drift, downtime patterns, and yield gaps, forming hypotheses, and bringing validated findings to process experts for review.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "“Manufacturing has always had the data. What it lacked was a platform that could make that data legible to AI,” said Jon Sobel, CEO and Co-Founder of Sight Machine. “Sight Machine built that platform — and built it so that the people who know the plant are the ones who run it, from day one. That’s a completely different paradigm, and it’s what makes improvement compound with every run.”",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "“Manufacturing has always had the data. What it lacked was a platform that could make that data legible to AI. Sight Machine built that platform — and built it so that the people who know the plant are the ones who run it, from day one.”",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Agents: Plant Floor AI Unlocks Firmwide Optimization",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers are moving from data silos to data estates, yet plant floor intelligence has historically been the missing piece, trapped at the source and invisible to the enterprise systems that depend on it. Sight Machine changes that: manufacturing intelligence flows up to the enterprise, and enterprise context flows back to the plant.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine publishes its manufacturing intelligence as an MCP server — the open standard for agent-to-agent communication — so any permissioned agent in the enterprise can access it. Push findings into Microsoft Teams, Microsoft Fabric, and Microsoft Excel. Run Omniverse simulations. Connect Databricks ML models. Intelligence flows both ways, and the compound effects reach across the firm.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Security is structural throughout: each deployment is single-tenant by design, with its own database, namespace, and keys. Manufacturers retain full control over their data.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Progressive Autonomy, at a Pace Manufacturers Control",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "“Everything that previously required a full team — connecting data, modeling the plant, building applications — the agent now does directly with the process expert,” said Andrew Home, VP of Product at Sight Machine. “What used to require a development sprint now happens in the course of an investigation. The platform scales to new use cases and lines without being constrained by team size.”",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Context Layer — Sight Machine",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Context Layer",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "The plant-specific context that AI agents need",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "to solve manufacturing’s toughest problems",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine’s Manufacturing Context Layer grounds agents in both a plant’s rules and process experts’",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "See the Manufacturing Context Layer in action",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Plant data, AI-ready",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "General-purpose AI can’t reliably interpret raw industrial data",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "because it lacks the context to understand how plants really run.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine ingests data from every source in the production process — controls, historians, MES, ERP, and document repositories — and then layers in SOPs, P&IDs, and line diagrams, so agents understand the plant’s structure.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Drawing on 15 years of on-the-ground work in factories,",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine then transforms all of that data into four core schemas: cycles, parts, downtime, and defects. The result is a semantic layer that ties every signal to an asset, every asset to a process, and every process to the KPIs a plant is measured by.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "the plant really runs",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Sight Machine builds an operational digital twin by characterizing every asset and material flow and assembling them into lines and plants: an end-to-end model of how each step affects the next.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Plant operators name their own levels. For example,",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": ". Every event is stamped with its shift and production date, so “last shift” and “quarter to date” just work. Reference tables translate the codes machines report into the terms operators use. Each connection records how long material takes to travel between steps, so analysis can connect upstream conditions to downstream results.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "KPIs are a plant’s scorecard, and a scorecard needs consistent definitions.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "follow the same rules everywhere. Ideal throughput is calculated the same way for every shift. Part quality is determined by a fixed set of criteria. Because every KPI is linked to the same cycles, parts, downtime, and defects, every plant shares one foundation for improvement.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Plant · Filler, Capper, Labeler",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Plant · Larchmont 87.3 · Talus 84.6",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Plant · Larchmont 26.0 · Talus 21.5",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Plant · Larchmont 97.1 · Talus 98.2",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Plant · Larchmont 7.8 · Talus 6.4",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "Plant · Larchmont 97.4 · Talus 86.3",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Agents investigate and propose; process experts validate and approve. Findings don’t land in a report to check later — they arrive as plain-language recommendations in the tools operations teams already have open: Microsoft Teams, Microsoft Excel, a kiosk on the floor. The recommendation is specific and immediate: exactly what to do, at the moment it matters.",
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Production data arrives with inconsistent names, units, structures, and meanings.",
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "pass": 1
+   },
+   {
+    "quote": "How many employees are involved in the project?",
+    "url": "https://www.nvidia.com/en-us/case-studies/sight-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/sight-machine/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "They are practically part of the scenery.",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本の製造業は、高度な技術力と品質管理の伝統を持つ一方で、データ活用という新領域では取り組みが遅れている企業も多くあります",
+    "url": "https://roboin-fa.com/2026/04/05/sight-machine-industrial-ai-agents-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の製造業は「カイゼン文化」を持っています",
+    "url": "https://roboin-fa.com/2026/04/05/sight-machine-industrial-ai-agents-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造業にとって、このような先端企業の技術動向をキャッチしながら、自社の工場データをどう活かすかを検討することは、次の競争力構築の鍵になるでしょう",
+    "url": "https://roboin-fa.com/2026/04/05/sight-machine-industrial-ai-agents-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "運営は株式会社 New Innovations",
+    "url": "https://roboin-fa.com/2026/04/05/sight-machine-industrial-ai-agents-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "AIおよび工場のデジタルツインを活用し、リアルタイムの可視化とアクション可能な洞察を提示する製造分析プラットフォームを提供する米Sight Machine（サイトマシーン）が、2017年、東京にも拠点ができたことを受け、同社にてインタビューを実施した",
+    "url": "https://iotnews.jp/interview/89109/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アールジーン 代表取締役／IoTNEWS 代表 小泉耕二",
+    "url": "https://iotnews.jp/interview/89109/",
+    "pass": 3
+   },
+   {
+    "quote": "ミシガン州、シリコンバレー、ボストン、台湾、東京に拠点があり、グローバルでは80人ほど在籍しています",
+    "url": "https://iotnews.jp/interview/89109/",
+    "pass": 3
+   },
+   {
+    "quote": "国家AI始動、エヌビディアRubin GPU 2万7500基を日本は使い切れるのか",
+    "url": "https://iotnews.jp/interview/89109/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内での導入実績・日本語対応は個別確認が必要で、国内パートナーの有無も要確認",
+    "url": "https://mes-dx.com/vendors/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サオスの実務者が、貴社の現場に合わせた進め方をご提案します",
+    "url": "https://mes-dx.com/vendors/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "I realized how abnormal Japan is.",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, without a second thought,",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, we take it for granted to:",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I returned to Japan and walked through the city at night,",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I will explain the differences between the world and Japan based on facts,",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The reason why there are few vending machines outside of Japan is",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "because Japan is a very unique environment.",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japan has the premise that",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since labor costs are high in Japan,",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan,",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "⑤ Japan's unique \"evolution of vending machines\"",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese vending machines",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is a quite rare country where",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sight Machineが「世界で最も革新的な企業」に選出——製造現場のAIデー... — 特に中堅・中小製造業では、データ人材の不足が大きな課題です。 Sight Machine のような Industrial AI Agents のアプローチは、この課題を直接的に解決する可能性があります。",
+    "url": "https://roboin-fa.com/2026/04/05/sight-machine-industrial-ai-agents-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Sight Machine — Better production. Faster. — Sight Machine publishes manufacturing intelligence as an MCP server, so any agent in your enterprise can integrate plant floor AI. Push findings into Teams, run Omniverse simulations, connect Databricks ML models — intelligence flows both ways.",
+    "url": "https://www.sightmachine.com/",
+    "pass": 3
+   },
+   {
+    "quote": "データの前処理が必要ない分析プラットフォーム ーSIGHT MACHINE 志村... — Mar 20, 2018 · 特に明確な課題やゴール設定がない状態で行っているプロジェクトは苦労していますし、SIGHT MACHINEは簡単に使えるツールなのですが、そうはいっても意味のある結果を出すには何回かトライアンドエラーを繰り返すステップが必要です。",
+    "url": "https://iotnews.jp/interview/89109/",
+    "pass": 3
+   },
+   {
+    "quote": "Sight Machine Agentic Manufacturing Platform — Sight Machine Agentic Manufacturing Platform（Sight Machine／米国（カリフォルニア州サンフランシスコ））の提供形態、対応業種、ISA-95・OPC UAへの対応状況、ライセンス体系を一次情報にもとづき整理しました。",
+    "url": "https://mes-dx.com/vendors/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用による生産スケジューリングの最適化：MicrosoftとSight Machin... — Jun 4, 2026 · Microsoft社と製造業向けデータプラットフォームを提供するSight Machine社が、AIを活用して飲料メーカーの生産スケジューリング時間を75%削減した事例が報告されました。",
+    "url": "https://seisan-navi.com/20260604-aimicrosoftsight-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "Sight Machine | LinkedIn — For more than 15 years, Sight Machine has worked on the ground in factories, modeling manufacturing data. Today, that experience powers an AI-native platform for agentic manufacturing.",
+    "url": "https://jp.linkedin.com/company/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "データの前処理が必要ない分析プラットフォーム ーSIGHT MACHINE 志村... — Mar 20, 2018 · これはロジスティック回帰という統計のモデルを使っていて、専門知識のある方がデータの前処理からこの相関分析まで時間をかけてやればできることなのですが、SIGHT MACHINEを使うと誰でもすぐにこういった相関関係をあぶり出すことができます。",
+    "url": "https://iotnews.jp/interview/89109/",
+    "pass": 3
+   },
+   {
+    "quote": "Sight Machine B2B Case Studies & Customer Successes — See how Sight Machine solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "Sight Machine | NVIDIA Customer Stories — With AI and digital twins rapidly accelerating industrial automation and the path to more autonomous operations, Sight Machine is working to bring advanced agentic AI, simulation, and predictive capabilities to its Operator Agent platform.",
+    "url": "https://www.nvidia.com/en-us/case-studies/sight-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "Sight Machine Case Study: Major Industrial Manufacturer ... — Major Industrial Manufacturer partnered with Sight Machine (Computer Software) to solve key challenges. \"Sight Machine Helps Major Industrial Manufacturer Reduce Scrap Costs by 30% Within Three Weeks\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/sight-machine/case-study/sight-machine-helps-major-industrial-manufacturer-reduce-scrap-costs-by-30-within-three-weeks",
+    "pass": 3
+   },
+   {
+    "quote": "26 Sight Machine Case Studies, Success Stories, & Customer ... — Narrow down 26 case studies by company size & industry to find out how Sight Machine works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/sight-machine/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case study: Sight Machine Deploys Manufacturing Analytics at ... — Separately, this customer was experiencing a discrepancy in glue consumption at two facilities that manufactured similar products. Sight Machine’s first task was to normalize across variables like output volume, product size, and product model to understand if the glue discrepancy was warranted.",
+    "url": "https://web.luxresearchinc.com/hubfs/IIoT_Case_Study_Sight_Machine.pdf",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Business Email Address",
+    "url": "https://www.nvidia.com/en-us/case-studies/sight-machine/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/sight-machine/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/sight-machine/case-studies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "\"Vending machines\" are an extraordinary sight in the world. A vending machine is not just a machine. I thought it was a symbol of how much this country trusts people to keep society running. I looked for a vending machine while traveling abroad and couldn't find one. Even though it was just that, after I came back, the way I saw the city changed a little. Next time you buy a drink from a vending m",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "\"Vending machines\" are an extraordinary sight in the world.｜世界の山崎",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Vending machines\" are an extraordinary sight in the world.",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "★First, let me share a personal experience.",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Searching for a vending machine while traveling abroad,",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I realized how abnormal Japan is.",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "there are moments when I suddenly think, \"I'm thirsty.\"",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, without a second thought,",
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sight Machine - LinkedIn For more than 15 years, Sight Machine has worked on the ground in factories, modeling manufacturing data. Today, that experience powers an AI-native platform for agentic manufacturing.",
+    "url": "https://www.linkedin.com/company/sight-machine",
+    "pass": 3
+   },
+   {
+    "quote": "Kurt DeMaagd - Sight Machine | LinkedInAlan Simms - Sight Machine | LinkedInTurning Manufacturing Data Into Business Value: Sight Machine ...Nate Oostendorp - Sight Machine | LinkedInSudhir Arni - Sight Machine | LinkedInJeffrey Chalmers - Sight Machine | LinkedIn · Experience: Sight Machine · Education: University of Michigan · Location: Chelsea · 500+ connections on LinkedIn. Experience: Sight M",
+    "url": "https://www.linkedin.com/in/kurtdemaagd",
+    "pass": 3
+   },
+   {
+    "quote": "Alan Simms - Sight Machine | LinkedInTurning Manufacturing Data Into Business Value: Sight Machine ...Nate Oostendorp - Sight Machine | LinkedInSudhir Arni - Sight Machine | LinkedInJeffrey Chalmers - Sight Machine | LinkedIn Experience: Sight Machine · Education: University of Newcastle-upon-Tyne · Location: Leicester · 410 connections on LinkedIn. View Alan Simms’ profile on LinkedIn, a professi",
+    "url": "https://uk.linkedin.com/in/alan-simms-9b7a8175",
+    "pass": 3
+   },
+   {
+    "quote": "Turning Manufacturing Data Into Business Value: Sight Machine ... That’s why we’re excited to share how Sight Machine on Azure contextualizes all plant data, creating a common data foundation and operational twins that provide visibility across the entire...",
+    "url": "https://in.linkedin.com/posts/sight-machine_turning-manufacturing-data-into-business-activity-7051919221701709824-rgqa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sight Machine | San Francisco CA - Facebook Sight Machine, San Francisco, California. 179 likes · 5 were here. Making Manufacturing Stronger, Sustainable and Resilient",
+    "url": "https://www.facebook.com/p/Sight-Machine-100054655770834/",
+    "pass": 3
+   },
+   {
+    "quote": "Sight Machine - Facebook Fast Company named Sight Machine one of the World's Most Innovative Companies 2022 \"for putting an entire plant's data at your fingertips.\" Come join the team as we help lead the transformation of manufacturing. And it starts with data.",
+    "url": "https://www.facebook.com/pages/Sight-Machine/124076604273563/",
+    "pass": 3
+   },
+   {
+    "quote": "Sight Machine | San Francisco CA - Facebook Mar 9, 2022 · The Ann Arbor Sight Machine team did a ropes course through the UM Adventure Leadership Team program. Their experiential education philosophy allows everyone to engage at their own pace and comfort level.",
+    "url": "https://www.facebook.com/100054655770834/",
+    "pass": 3
+   },
+   {
+    "quote": "Bio Sight Medical Trading & Services | San Jose del MonteSight Machine’s... - Windpower Engineering & Development ...Mudcat's Precision Machine | Lincolnton NC - FacebookNathan Oostendorp - Facebook Bio Sight Medical Trading and Services 🧪 Laboratory Equipment 🩻 X-Ray & Imaging Equipment 🔧 Installation • Repair • PMS • Calibration 📋 Facility Set-Up & Regulatory Assistance 📩 Message us for a consul",
+    "url": "https://www.facebook.com/Biosightmedicaltrading/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sight Machine (@sightmachine) / Posts / X Jan 14, 2010 · Sight Machine (@sightmachine) - Posts - Making Manufacturing Stronger, Sustainable and Resilient. | X (formerly Twitter)",
+    "url": "https://x.com/sightmachine",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sightmachine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sightmachine.com/platform-semantic-model",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://roboin-fa.com/2026/04/05/sight-machine-industrial-ai-agents-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sightmachine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iotnews.jp/interview/89109/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mes-dx.com/vendors/sight-machine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-maker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sightmachine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/sight-machine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://iotnews.jp/interview/89109/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daidomachines.com/global/products/sightglass/sightglass_option.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sight-machine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nvidia.com/en-us/case-studies/sight-machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sight-machine/case-study/sight-machine-helps-major-industrial-manufacturer-reduce-scrap-costs-by-30-within-three-weeks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/sight-machine/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sight-machine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/kurtdemaagd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/alan-simms-9b7a8175",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/posts/sight-machine_turning-manufacturing-data-into-business-activity-7051919221701709824-rgqa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Sight-Machine-100054655770834/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/Sight-Machine/124076604273563/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100054655770834/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Biosightmedicaltrading/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sightmachine",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sight Machine 日本 導入",
+   "results": [
+    "https://roboin-fa.com/2026/04/05/sight-machine-industrial-ai-agents-manufacturing/",
+    "https://www.sightmachine.com/",
+    "https://iotnews.jp/interview/89109/",
+    "https://mes-dx.com/vendors/sight-machine",
+    "https://seisan-navi.com/20260604-aimicrosoftsight-machine/",
+    "https://www.microsoft.com/ja-jp/customers/story/26552-toyota-industries-corporation-azure",
+    "https://monoist.itmedia.co.jp/mn/articles/1809/21/news041.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sight Machine 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://japanesedistributors.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://shinapex.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sight Machine Japan",
+   "results": [
+    "https://www.sightmachine.com/",
+    "https://jp.linkedin.com/company/sight-machine",
+    "https://iotnews.jp/interview/89109/",
+    "https://www.daidomachines.com/global/products/sightglass/sightglass_option.php",
+    "https://www.daidomachines.com/global/products/sightglass/",
+    "https://www.sightmachine.com/solution-quality",
+    "https://www.microsoft.com/en/customers/story/26367-toyota-industries-corporation-azure/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sight Machine manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/sight-machine",
+    "https://www.nvidia.com/en-us/case-studies/sight-machine/",
+    "https://www.casestudies.com/company/sight-machine/case-study/sight-machine-helps-major-industrial-manufacturer-reduce-scrap-costs-by-30-within-three-weeks",
+    "https://www.featuredcustomers.com/vendor/sight-machine/case-studies",
+    "https://web.luxresearchinc.com/hubfs/IIoT_Case_Study_Sight_Machine.pdf",
+    "https://www.sightmachine.com/",
+    "https://www.featuredcustomers.com/vendor/sight-machine"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sight Machine white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.seoreseller.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sight Machine founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Sight Machine",
+   "results": [
+    "https://note.com/kyhn6513/n/n62466537e086?hl=en",
+    "https://note.com/smokesmokesmoker/n/n2518599a3144?hl=en",
+    "https://note.com/youyang6462/n/nd20bb15557fe?hl=en",
+    "https://note.com/izuku_idea/n/n412eb0af0e21",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/habibee/n/n50a8b6a6ca51",
+    "https://note.com/ikedanob/n/nc094e82438b1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sight Machine",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Sight Machine",
+   "results": [
+    "https://www.linkedin.com/company/sight-machine",
+    "https://www.linkedin.com/in/kurtdemaagd",
+    "https://uk.linkedin.com/in/alan-simms-9b7a8175",
+    "https://in.linkedin.com/posts/sight-machine_turning-manufacturing-data-into-business-activity-7051919221701709824-rgqa",
+    "https://www.linkedin.com/in/nateoostendorp",
+    "https://www.linkedin.com/in/sudhirarni",
+    "https://www.linkedin.com/in/jchalmers"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sight Machine",
+   "results": [
+    "https://www.facebook.com/p/Sight-Machine-100054655770834/",
+    "https://www.facebook.com/pages/Sight-Machine/124076604273563/",
+    "https://www.facebook.com/100054655770834/",
+    "https://www.facebook.com/Biosightmedicaltrading/",
+    "https://www.facebook.com/WindpowerEngineering/posts/sight-machines-expertise-in-the-field-of-digital-manufacturing-is-now-being-inte/10160132839605302/",
+    "https://www.facebook.com/p/Mudcats-Precision-Machine-61562872836271/",
+    "https://www.facebook.com/profile.php/?id=2262093"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sight Machine note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.sightmachine.com/about",
+    "https://www.sightmachine.com/",
+    "https://startupintros.com/orgs/sight-machine",
+    "https://www.linkedin.com/in/sudhirarni",
+    "https://jp.linkedin.com/company/sight-machine",
+    "https://www.cbinsights.com/company/sight-machine/people"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sight Machine X 投稿",
+   "results": [
+    "https://x.com/sightmachine",
+    "https://www.sightmachine.com/",
+    "https://www.sightmachine.com/news-agentic-manufacturing-platform",
+    "https://www.sightmachine.com/about",
+    "https://x.com/",
+    "https://photo-tools.tech/",
+    "https://x.com/ishida_chatgpt/article/2066323646180954330"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

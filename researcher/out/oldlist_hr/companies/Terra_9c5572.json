@@ -1,0 +1,1676 @@
+{
+ "name": "Terra",
+ "aliases": [],
+ "context": "旧営業リスト｜Cybersecurity｜状態なし",
+ "researched_at": "2026-11-11T07:32:05.908575+00:00",
+ "official_url": "https://www.terra.security",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "-the-Loop to ensure production safety and compliance.",
+    "url": "https://www.terra.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the most innovative security teams and providers around the world",
+    "url": "https://www.terra.security/",
+    "pass": 1
+   },
+   {
+    "quote": "The Terra Offensive Research Collaboration Hub (TORCH) lets you work directly with Terra agents, and control every step of the process.",
+    "url": "https://www.terra.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Terra accelerates better outcomes across your security program while satisfying compliance requirements.",
+    "url": "https://www.terra.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Faster than traditional pentesting approaches (from 4-6 weeks to 2-4 hours).",
+    "url": "https://www.terra.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about SSHole (CVE-026-123158 and how you can protect yourself today.",
+    "url": "https://www.terra.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Ryan Hebert of ICE: Protecting the NYSE in the AI Era",
+    "url": "https://www.terra.security/",
+    "pass": 1
+   },
+   {
+    "quote": "The Learning Loop: How our Attacker Agent Learns from Production",
+    "url": "https://www.terra.security/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Terra’s AI attack agents turn production feedback into memory, better evaluations, and more precise findings—without retraining the model.",
+    "url": "https://www.terra.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Prove Compliance Continuously",
+    "url": "https://www.terra.security/",
+    "pass": 1
+   },
+   {
+    "quote": "The transformation of security programs comes down to people, process, and technology.",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Terra is at the forefront of transformational agentic AI-powered security programs because we combine the best technologies through thoughtful alignment of processes with the people they’re designed to augment.",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprise-grade security teams and providers",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Terra accelerates better outcomes across your security program and organization.",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Approved by the highest compliance standards",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Security Service Providers",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program Overview",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our program is built to support technical, commercial, and go-to-market alignment.",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Technical onboarding and enablement",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Terra partners enjoy competitive margins, pre-sales support, training and co-marketing opportunities.",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Prove Compliance Continuously",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Validated findings ship as fix PRs with remediation recipes; agentic testing re-runs against the affected surface with no re-scoping.",
+    "url": "https://www.terra.security/solutions/continuous-validation",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents generate and exploit hypotheses on production environments; certified pentesters oversee for safety.",
+    "url": "https://www.terra.security/solutions/continuous-validation",
+    "pass": 1
+   },
+   {
+    "quote": "The Industry Is Fixated on AI Finding Vulnerabilities. That’s Not the Hard Problem.",
+    "url": "https://www.terra.security/solutions/continuous-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Prove Compliance Continuously",
+    "url": "https://www.terra.security/solutions/continuous-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Terra replaces the project-based, point-in-time pentest with continuous, human-validated testing — findings delivered in days, not months.",
+    "url": "https://www.terra.security/solutions/replace-legacy-pentests",
+    "pass": 1
+   },
+   {
+    "quote": "Same rigor, continuous cadence, flat pricing.",
+    "url": "https://www.terra.security/solutions/replace-legacy-pentests",
+    "pass": 1
+   },
+   {
+    "quote": "Terra delivers the same rigor regulated buyers expect from a traditional firm: human-signed, audit-ready reports, but on a continuous cadence, with flat annual pricing.",
+    "url": "https://www.terra.security/solutions/replace-legacy-pentests",
+    "pass": 1
+   },
+   {
+    "quote": "Scope your environments one time — no re-scoping per engagement, no month-long procurement cycle before testing can begin.",
+    "url": "https://www.terra.security/solutions/replace-legacy-pentests",
+    "pass": 1
+   },
+   {
+    "quote": "Flat, predictable pricing",
+    "url": "https://www.terra.security/solutions/replace-legacy-pentests",
+    "pass": 1
+   },
+   {
+    "quote": "The Industry Is Fixated on AI Finding Vulnerabilities. That’s Not the Hard Problem.",
+    "url": "https://www.terra.security/solutions/replace-legacy-pentests",
+    "pass": 1
+   },
+   {
+    "quote": "Prove Compliance Continuously",
+    "url": "https://www.terra.security/solutions/replace-legacy-pentests",
+    "pass": 1
+   },
+   {
+    "quote": "Terra agents safely attempt to exploit each hypothesis against your live environment to prove whether the risk is real.",
+    "url": "https://www.terra.security/solutions/end-alert-fatigue",
+    "pass": 1
+   },
+   {
+    "quote": "Precision, not just less noise",
+    "url": "https://www.terra.security/solutions/end-alert-fatigue",
+    "pass": 1
+   },
+   {
+    "quote": "Signal-to-finding compression",
+    "url": "https://www.terra.security/solutions/end-alert-fatigue",
+    "pass": 1
+   },
+   {
+    "quote": "Findings are prioritized by exploitability and business impact, not generic severity scores.",
+    "url": "https://www.terra.security/solutions/end-alert-fatigue",
+    "pass": 1
+   },
+   {
+    "quote": "The Industry Is Fixated on AI Finding Vulnerabilities. That’s Not the Hard Problem.",
+    "url": "https://www.terra.security/solutions/end-alert-fatigue",
+    "pass": 1
+   },
+   {
+    "quote": "Prove Compliance Continuously",
+    "url": "https://www.terra.security/solutions/end-alert-fatigue",
+    "pass": 1
+   },
+   {
+    "quote": "1. One onboarding",
+    "url": "https://www.terra.security/solutions/consolidate-offsec-tools",
+    "pass": 1
+   },
+   {
+    "quote": "Trace a path from a network exposure to an application compromise — not two vendors reporting half the story.",
+    "url": "https://www.terra.security/solutions/consolidate-offsec-tools",
+    "pass": 1
+   },
+   {
+    "quote": "Consolidate reporting formats, contracts, and onboarding into a single Offensive Security platform.",
+    "url": "https://www.terra.security/solutions/consolidate-offsec-tools",
+    "pass": 1
+   },
+   {
+    "quote": "The Industry Is Fixated on AI Finding Vulnerabilities. That’s Not the Hard Problem.",
+    "url": "https://www.terra.security/solutions/consolidate-offsec-tools",
+    "pass": 1
+   },
+   {
+    "quote": "Prove Compliance Continuously",
+    "url": "https://www.terra.security/solutions/consolidate-offsec-tools",
+    "pass": 1
+   },
+   {
+    "quote": "Terra closes the gap on both ends: detection happens within hours of a code change introducing risk, and auto-remediation PR generation can shorten the path from finding to fix.",
+    "url": "https://www.terra.security/solutions/reduce-exposure-dwell-time",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-remediation PR generation can propose a fix directly, shortening the finding-to-resolution gap from weeks down to hours.",
+    "url": "https://www.terra.security/solutions/reduce-exposure-dwell-time",
+    "pass": 1
+   },
+   {
+    "quote": "PR generation that proposes a fix, narrowing the gap between confirmed finding and resolved risk.",
+    "url": "https://www.terra.security/solutions/reduce-exposure-dwell-time",
+    "pass": 1
+   },
+   {
+    "quote": "The Industry Is Fixated on AI Finding Vulnerabilities. That’s Not the Hard Problem.",
+    "url": "https://www.terra.security/solutions/reduce-exposure-dwell-time",
+    "pass": 1
+   },
+   {
+    "quote": "Prove Compliance Continuously",
+    "url": "https://www.terra.security/solutions/reduce-exposure-dwell-time",
+    "pass": 1
+   },
+   {
+    "quote": "Prove Compliance Continuously | Terra Security",
+    "url": "https://www.terra.security/solutions/compliance-as-an-outcome",
+    "pass": 1
+   },
+   {
+    "quote": "Audit-ready compliance as a byproduct.",
+    "url": "https://www.terra.security/solutions/compliance-as-an-outcome",
+    "pass": 1
+   },
+   {
+    "quote": "Terra's continuous testing produces audit-ready, human-signed reports as a natural output of ongoing validation — so compliance evidence stays current instead of being recreated from scratch before every audit window.",
+    "url": "https://www.terra.security/solutions/compliance-as-an-outcome",
+    "pass": 1
+   },
+   {
+    "quote": "How compliance becomes a byproduct",
+    "url": "https://www.terra.security/solutions/compliance-as-an-outcome",
+    "pass": 1
+   },
+   {
+    "quote": "Certified pentesters validate and sign off on every finding, producing audit-ready reports accepted by regulators and third-party assessors.",
+    "url": "https://www.terra.security/solutions/compliance-as-an-outcome",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-tenant SaaS, single-tenant isolated cloud, or on-premises / air-gapped for FedRAMP-class requirements.",
+    "url": "https://www.terra.security/solutions/compliance-as-an-outcome",
+    "pass": 1
+   },
+   {
+    "quote": "Make compliance a byproduct of security.",
+    "url": "https://www.terra.security/solutions/compliance-as-an-outcome",
+    "pass": 1
+   },
+   {
+    "quote": "The Industry Is Fixated on AI Finding Vulnerabilities. That’s Not the Hard Problem.",
+    "url": "https://www.terra.security/solutions/compliance-as-an-outcome",
+    "pass": 1
+   },
+   {
+    "quote": "Prove Compliance Continuously",
+    "url": "https://www.terra.security/solutions/compliance-as-an-outcome",
+    "pass": 1
+   },
+   {
+    "quote": "Only confirmed, exploitable findings reach your team. Each finding comes with reproduction steps, the exact injection or bypass, and enough detail to hand to engineering without a research phase.",
+    "url": "https://www.terra.security/solutions/security-appsec",
+    "pass": 1
+   },
+   {
+    "quote": "Coverage across the surface you actually ship: web, API, AI systems, and network infrastructure. One pipeline, one validation standard. Findings show up as tickets in your existing Jira, Linear, or ServiceNow project.",
+    "url": "https://www.terra.security/solutions/security-appsec",
+    "pass": 1
+   },
+   {
+    "quote": "Time-to-fix: pre-triaged, prioritized findings measurably reduce MTTR on real exposure.",
+    "url": "https://www.terra.security/solutions/security-appsec",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the most innovative security teams and providers around the world",
+    "url": "https://www.terra.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprise-grade security teams and providers",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprise-grade security teams and providers.",
+    "url": "https://www.terra.security/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the most innovative security teams and providers around the world",
+    "url": "https://www.terra.security/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprise-grade security teams and providers",
+    "url": "https://www.terra.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the most innovative security teams and providers around the world",
+    "url": "https://www.terra.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "85% PLANT-BASED DIAPERS",
+    "url": "https://terragentle.jp/collections?srsltid=AYCX9vKwyuPCjH2tB02CKWm-_nrtuUx_u9LOnCNJKE4MU0F2OYY3Wz0D",
+    "pass": 3
+   },
+   {
+    "quote": "Breaking barriers between industries—from manufacturing",
+    "url": "https://terramotors.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "NO LOGO helps creators launch physical product brands without handling manufacturing and logistics themselves. The company manages design refinement, sampling, production, fulfillment, customer service, and shipping through a platform workflow. It says creators can reach delivery in 6 to 8 weeks and keep full control over pricing and brand ownership.",
+    "url": "https://www.extruct.ai/hub/useterra-com/",
+    "pass": 3
+   },
+   {
+    "quote": "furniture purchasing from manufacturers, over 10,000 products, wholesale prices, no minimum order quantities (MOQs), quick lead times, factory pricing, on-demand ordering, 24/7 support, seamless integration into purchase workflow",
+    "url": "https://www.extruct.ai/hub/useterra-com/",
+    "pass": 3
+   },
+   {
+    "quote": ": A platform focused on the fast-moving consumer goods (FMCG) sector, Wonnda helps brands streamline their manufacturing processes, which may appeal to businesses looking for efficiency in procurement.",
+    "url": "https://www.extruct.ai/hub/useterra-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Terra primarily focuses on the furniture procurement industry, acting as a tech-powered buying group that facilitates direct purchases from manufacturers at wholesale prices.",
+    "url": "https://www.extruct.ai/hub/useterra-com/",
+    "pass": 3
+   },
+   {
+    "quote": "“Critical infrastructure across the Global South is best protected by systems designed for these environments and built in the regions they protect. This funding lets us scale that work and deepen our manufacturing base. It also puts us in the rooms where global defence decisions are made,” says Nathan Nwachuku, co-founder and CEO of Terra Industries.",
+    "url": "https://www.africaprivateequitynews.com/p/terra-industries-extends-seed-round",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ryan Hebert of ICE: Protecting the NYSE in the AI Era",
+    "url": "https://www.terra.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Initial findings arrive within one to two weeks of kickoff — versus four to eight weeks for a traditional firm.",
+    "url": "https://www.terra.security/solutions/replace-legacy-pentests",
+    "pass": 1
+   },
+   {
+    "quote": "PR generation that proposes a fix, narrowing the gap between confirmed finding and resolved risk.",
+    "url": "https://www.terra.security/solutions/reduce-exposure-dwell-time",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous coverage across acquisitions, product launches, and infrastructure changes: no need to spin up a new engagement for every material change.",
+    "url": "https://www.terra.security/solutions/ciso",
+    "pass": 1
+   },
+   {
+    "quote": "Many teams reduce AI security risks to prompt injection, but that only captures part of the problem. The larger issue is that in an enterprise environment, manipulated context can lead to manipulated behavior, which can lead to data exposure, broken authorization, unsafe tool use, and workflow abuse.",
+    "url": "https://www.terra.security/blog/what-security-leaders-need-to-know-about-ai-applications-and-agents",
+    "pass": 1
+   },
+   {
+    "quote": "CEO, Talon Security (acquired by Palo Alto Networks)",
+    "url": "https://www.terra.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "Terra On The NYSE Live Show",
+    "url": "https://www.terra.security/category/news",
+    "pass": 1
+   },
+   {
+    "quote": "Terra Security CEO Shahar Peled joins NYSE Live to discuss how Terra uses agentic AI for continuous penetration testing.",
+    "url": "https://www.terra.security/category/news",
+    "pass": 1
+   },
+   {
+    "quote": "Ryan Hebert of ICE: Protecting the NYSE in the AI Era",
+    "url": "https://www.terra.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Breaking barriers between industries—from manufacturing",
+    "url": "https://terramotors.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Terra Funding | $35M Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/useterra-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing details are not explicitly listed on the website; significant discounts are mentioned for various products.",
+    "url": "https://www.extruct.ai/hub/useterra-com/",
+    "pass": 3
+   },
+   {
+    "quote": ": A global leader in home furnishings, IKEA is known for its affordable, well-designed products and extensive range. Its unique value chain includes product development, design, supply, manufacture, and sales, allowing it to maintain a significant market presence with a revenue of $44.9 billion.",
+    "url": "https://www.extruct.ai/hub/useterra-com/",
+    "pass": 3
+   },
+   {
+    "quote": ": As a major American retailer, Target offers a wide range of products, including furniture. It emphasizes value and customer experience, with a revenue of $107 billion. Target's broad retail offerings beyond furniture provide it with a competitive edge in attracting diverse customers.",
+    "url": "https://www.extruct.ai/hub/useterra-com/",
+    "pass": 3
+   },
+   {
+    "quote": ": This company simplifies furniture shopping by offering coordinated room packages designed by professionals. With a revenue of $3.8 billion, Rooms To Go focuses on a streamlined shopping experience, which can be appealing to consumers looking for convenience.",
+    "url": "https://www.extruct.ai/hub/useterra-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Business model bundles orders for discounts; revenue from product sales and partnerships.",
+    "url": "https://www.extruct.ai/hub/useterra-com/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partner Program Overview",
+    "url": "https://www.terra.security/terra-partners",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "For media, analyst, or speaking requests, contact us at:",
+    "url": "https://www.terra.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "We work better when we’re aligned. That means no jargon for the sake of it, no hiding behind dashboards, and no over-polished slides that hide what’s really going on. Whether in a product spec, a customer email, or a team stand-up, we value clarity, candor, and shared ownership.",
+    "url": "https://www.terra.security/careers",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Terra Charge（テラチャージ）：電気自動車（EV）充電インフラサービス - 「Terra Charge（テラチャージ）」は電気自動車（EV）向けの充電サービスで続々と日本全国に広がっています",
+    "url": "https://terra-charge.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "テラチャージ、第32回日本EVフェスティバルへの出展が決定",
+    "url": "https://terra-charge.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本製EV充電インフラ「Terra Charge」導入",
+    "url": "https://www.zabou-yamanashi.com/post/terracharge",
+    "pass": 3
+   },
+   {
+    "quote": "日本政府は2050年のカーボンニュートラル実現に向け、",
+    "url": "https://www.zabou-yamanashi.com/post/terracharge",
+    "pass": 3
+   },
+   {
+    "quote": "「Terra Charge」によって、日本でEVがもっと身近になる環境づくりを目指しています",
+    "url": "https://www.zabou-yamanashi.com/post/terracharge",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社テラ | Connecting Tomorrow - 私たちが、明日をツナグ",
+    "url": "https://terra-network.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社テラは、未来をつなぎ明日を支えていきたい",
+    "url": "https://terra-network.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "栃木県、茨城県を中心に通信販売代理店として、auショップ、UQスポット、ソフトバンクショップの運営を行っています",
+    "url": "https://terra-network.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「The Japan Times」にて当社の取り組みが紹介されました",
+    "url": "https://terra-sence.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【NHK WORLD JAPAN】放送予定のお知らせ",
+    "url": "https://terra-sence.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "テレビ東京「田村淳のTaMaRiBa」にて、ソーラーシェアリングの取り組みが紹介（弊社スタッフ出演）",
+    "url": "https://terra-sence.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都の助成金を使ったオフサイトPPAモデル",
+    "url": "https://terra-sence.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "どんな色にもどんな形にもなれる｜株式会社TERRA",
+    "url": "https://terra-ltd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "TERRA, Earth Sherpa and TERRA INTERNATIONAL ｜ COP31 JAPAN PAVILION",
+    "url": "https://www.copjapan.go.jp/cop31en/company/terra/",
+    "pass": 3
+   },
+   {
+    "quote": "This exhibition marks the debut of practical applications for Japanese film-type perovskite solar cells.",
+    "url": "https://www.copjapan.go.jp/cop31en/company/terra/",
+    "pass": 3
+   },
+   {
+    "quote": "Sekisui Chemical: Commencement of First Joint Demonstration Test in Japan for Agrivoltaic Perovskite Solar Cells",
+    "url": "https://www.copjapan.go.jp/cop31en/company/terra/",
+    "pass": 3
+   },
+   {
+    "quote": "NHK World Japan: Frontrunners: Solar Sharing Pioneer, Higashi Mitsuhiro",
+    "url": "https://www.copjapan.go.jp/cop31en/company/terra/",
+    "pass": 3
+   },
+   {
+    "quote": "Powered by cutting-edge Japanese innovation, our EV Three-Wheel business delivers sustainable,",
+    "url": "https://terramotors.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese technology to the global stage. With a vision of unlocking human potential through EV innovation,",
+    "url": "https://terramotors.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "トークンはAIが文章などを処理する単位で、日本語の文字数とは一致しません",
+    "url": "https://note.com/kazu_t/n/nf2fed0813c2b",
+    "pass": 3
+   },
+   {
+    "quote": "あれ、Terraは？ 三姉妹で読む「変わったこと、変わらなかったこと」 システムカード完全日本語訳付き🌿｜黒い黒パグ",
+    "url": "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "pass": 3
+   },
+   {
+    "quote": "あれ、Terraは？ 三姉妹で読む「変わったこと、変わらなかったこと」 システムカード完全日本語訳付き🌿",
+    "url": "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "pass": 3
+   },
+   {
+    "quote": "- 自然で丁寧、明確かつ客観的な日本語を基本としてください",
+    "url": "https://note.com/novapen_create/n/ndd609b4e6921",
+    "pass": 3
+   },
+   {
+    "quote": "文学フリマ東京41に初出店してきました",
+    "url": "https://note.com/terra_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "非日常を味わい、解き放たれるひとときを WHISKY BARアイラ島 東京",
+    "url": "https://note.com/terra_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "「クラフトビール・ジャパンホップフェスト2024」メディア向け説明会にて＠SPRING VALLEY BREWERY TOKYO",
+    "url": "https://note.com/terra_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "東京農業大学で微生物の研究をするが「人間の方が面白い」と飲食業界へ",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "卒業後、株式会社圖庵に入社し、アートディレクターとして広告をはじめパッケージデザインなど商業分野で幅広く活躍",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "2021年4月、デザインと特殊造形を扱う株式会社キューイを立ち上げる",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "東京の島、青ヶ島で古来より造られ、今も嗜まれている「青酎」についてvol.04コラムで歴史背景を起点にその魅力を紹介した",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "また、私にとっては東京で活躍されている方々とご一緒できる刺激的で唯一無二の場所となっています",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "また、私たちは主に東京都内で活動しています",
+    "url": "https://note.com/terra_magazine/n/n63bf3a044ffa",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Terra Charge（ テラ チャージ）：電気自動車（EV）充電 ... — Terra Charge（ テラ チャージ）：電気自動車（EV）充電 ... Terra Charge https://terra-charge.co.jp",
+    "url": "https://terra-charge.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本 製EV充電インフラ「 Terra Charge」 導入 - 笛吹川温泉 坐忘 — 日本 製EV充電インフラ「 Terra Charge」 導入 - 笛吹川温泉 坐忘 笛吹川温泉 坐忘 https://www.zabou-yamanashi.com > post > terracharge",
+    "url": "https://www.zabou-yamanashi.com/post/terracharge",
+    "pass": 3
+   },
+   {
+    "quote": "日産、新しいクロカンSUV「 テラ 」を発表、 日本導入 も視野に ... — 日産、新しいクロカンSUV「 テラ 」を発表、 日本導入 も視野に ... MOTA https://autoc-one.jp > terrano > newmodel-5000180",
+    "url": "https://autoc-one.jp/nissan/terrano/newmodel-5000180/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 テラ | Connecting Tomorrow - 私たちが、明日を ... — 株式会社 テラ | Connecting Tomorrow - 私たちが、明日を ... 株式会社テラ | 栃木県 https://terra-network.co.jp > Uncategorized",
+    "url": "https://terra-network.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "TERRA ｜株式会社 テラ — TERRA ｜株式会社 テラ 株式会社テラ https://www.terracom.co.jp",
+    "url": "https://www.terracom.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 TERRA — 株式会社 TERRA terra-sence.jp https://terra-sence.jp",
+    "url": "https://terra-sence.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "どんな色にもどんな形にもなれる｜株式会社 TERRA — どんな色にもどんな形にもなれる｜株式会社 TERRA 株式会社TERRA https://terra-ltd.co.jp",
+    "url": "https://terra-ltd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "DJI と正規 代理店 契約を締結 【業界初】 オリジナル動産総合 ... — DJI と正規 代理店 契約を締結 【業界初】 オリジナル動産総合 ... Terra Drone株式会社 https://terra-drone.net > プレス",
+    "url": "https://terra-drone.net/1927",
+    "pass": 3
+   },
+   {
+    "quote": "TERRA Japan (@ terra __ Japan ) / X — TERRA Japan (@ terra __ Japan ) / X X https://x.com > terra__Japan",
+    "url": "https://x.com/terra__Japan",
+    "pass": 3
+   },
+   {
+    "quote": "コレクション – TERRA JP | テラジャパン — コレクション – TERRA JP | テラジャパン terragentle.jp https://terragentle.jp > collections",
+    "url": "https://terragentle.jp/collections?srsltid=AYCX9vKwyuPCjH2tB02CKWm-_nrtuUx_u9LOnCNJKE4MU0F2OYY3Wz0D",
+    "pass": 3
+   },
+   {
+    "quote": "TERRA , Earth Sherpa and TERRA INTERNATIONAL — TERRA , Earth Sherpa and TERRA INTERNATIONAL COP30ジャパンパビリオン https://www.copjapan.go.jp > terra",
+    "url": "https://www.copjapan.go.jp/cop31en/company/terra/",
+    "pass": 3
+   },
+   {
+    "quote": "HOME - English - Terra Motors株式会社 — HOME - English - Terra Motors株式会社 Terra Motors株式会社 https://terramotors.co.jp > ...",
+    "url": "https://terramotors.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "LA TERRA RESORT - 2026 Reviews (Shiojiri, Japan — LA TERRA RESORT - 2026 Reviews (Shiojiri, Japan Tripadvisor https://www.tripadvisor.com > Hotel_...",
+    "url": "https://www.tripadvisor.com/Hotel_Review-g1021320-d25250729-Reviews-La_Terra_Resort-Shiojiri_Nagano_Prefecture_Koshinetsu_Chubu.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Terra Security Blog — Case Studies | Terra Security Blog Terra Security https://www.terra.security > case-studies",
+    "url": "https://www.terra.security/category/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | con terra — Case Studies | con terra con-terra.com https://www.con-terra.com > casestudies",
+    "url": "https://www.con-terra.com/casestudies",
+    "pass": 3
+   },
+   {
+    "quote": "Terra .do - 2026 Company Profile, Team, Funding & Competitors — Terra .do - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/terrado/__X_la9NhbZmZJ8wTBAifN8luWSZMmsgf0ShyijNpjWrY",
+    "pass": 3
+   },
+   {
+    "quote": "Terra Group's Competitors, Revenue , Number of Employees ... — Terra Group's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > terragroup",
+    "url": "https://www.owler.com/company/terragroup",
+    "pass": 3
+   },
+   {
+    "quote": "Terra Funding | $35M Revenue | Complete Analysis - Extruct AI — Terra Funding | $35M Revenue | Complete Analysis - Extruct AI Extruct AI https://www.extruct.ai > useterra-com",
+    "url": "https://www.extruct.ai/hub/useterra-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Terra Industries extends seed round to $52m — Terra Industries extends seed round to $52m Africa Private Equity News https://www.africaprivateequitynews.com > ...",
+    "url": "https://www.africaprivateequitynews.com/p/terra-industries-extends-seed-round",
+    "pass": 3
+   },
+   {
+    "quote": "Terra Company Overview, Contact Details & Competitors — Terra Company Overview, Contact Details & Competitors LeadIQ https://leadiq.com > ... > Real Estate",
+    "url": "https://leadiq.com/c/terra/5a1d9d162300005c008cf22a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "GPT-6.1 Terra とは？特徴や料金、使い方とSol・Astraとの ... GPT-6.1 Terra とは？特徴や料金、使い方とSol・Astraとの ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/kazu_t/n/nf2fed0813c2b",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6.1 Terra とは？料金と使い分け｜I.T. - AI - note GPT-6.1 Terra とは？料金と使い分け｜I.T. - AI - note note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/it_aibiz/n/n0629a9099fc0",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6 SolとLunaが来た。あれ、 Terra は？ 三姉妹で ... - note GPT-6 SolとLunaが来た。あれ、 Terra は？ 三姉妹で ... - note note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT-6.1 Terra の性能とプロンプトのコツ【メタ ... - note ChatGPT-6.1 Terra の性能とプロンプトのコツ【メタ ... - note note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/novapen_create/n/ndd609b4e6921",
+    "pass": 3
+   },
+   {
+    "quote": "お酒文化を伝えるマガジン terra （テッラ） - note お酒文化を伝えるマガジン terra （テッラ） - note note https://note.com > terra_magazine",
+    "url": "https://note.com/terra_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "フリーマガジン terra 、どんな人たちがつくっているの？編集部 ... フリーマガジン terra 、どんな人たちがつくっているの？編集部 ... note https://note.com > ... > クリエイターインタビュー",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "terra の note を、始めます。人と人、人とお酒文化を繋いでいく ... terra の note を、始めます。人と人、人とお酒文化を繋いでいく ... note https://note.com > ライフスタイル > ライフスタイル全般",
+    "url": "https://note.com/terra_magazine/n/n63bf3a044ffa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "GPT-6.1 Terraとは？特徴や料金、使い方とSol・Astraとの違いを解説！｜kazu@生成AI×教育 / 谷 一徳 | AI Academy創業 / AI顧問",
+    "url": "https://note.com/kazu_t/n/nf2fed0813c2b",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6.1 Terraとは？特徴や料金、使い方とSol・Astraとの違いを解説！",
+    "url": "https://note.com/kazu_t/n/nf2fed0813c2b",
+    "pass": 3
+   },
+   {
+    "quote": "kazu@生成AI×教育 / 谷 一徳 | AI Academy創業 / AI顧問",
+    "url": "https://note.com/kazu_t/n/nf2fed0813c2b",
+    "pass": 3
+   },
+   {
+    "quote": "」が発表されました。今回新しく登場したのはGPT-6.1 Terraです。GPT-6.1 Solは以前から提供されており、今回の発表で6.1シリーズにTerraが加わりました。",
+    "url": "https://note.com/kazu_t/n/nf2fed0813c2b",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.",
+    "url": "https://note.com/kazu_t/n/nf2fed0813c2b",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.",
+    "url": "https://note.com/kazu_t/n/nf2fed0813c2b",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/8JTN1yonmV",
+    "url": "https://note.com/kazu_t/n/nf2fed0813c2b",
+    "pass": 3
+   },
+   {
+    "quote": "新しいモデルが増えると、「いつものSolやAstraから、どの仕事を移せばよいのだろう？」と迷いませんか。",
+    "url": "https://note.com/kazu_t/n/nf2fed0813c2b",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6.1 Terraとは？料金と使い分け｜I.T. ｜ AI×高速開発（1人でチーム並みの開発を）",
+    "url": "https://note.com/it_aibiz/n/n0629a9099fc0",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6.1 Terraとは？料金と使い分け",
+    "url": "https://note.com/it_aibiz/n/n0629a9099fc0",
+    "pass": 3
+   },
+   {
+    "quote": "I.T. ｜ AI×高速開発（1人でチーム並みの開発を）",
+    "url": "https://note.com/it_aibiz/n/n0629a9099fc0",
+    "pass": 3
+   },
+   {
+    "quote": "AIに画面を見せて、クリックや入力まで任せたい。しかし、高性能モデルを大量の定型業務へ使うと費用が気になる。そんな課題に向けてOpenAIが投入したのが「GPT-6.1 Terra」です。",
+    "url": "https://note.com/it_aibiz/n/n0629a9099fc0",
+    "pass": 3
+   },
+   {
+    "quote": "このモデルは、視覚理解とPC操作を現実的な速度・費用で繰り返す用途に向いています。料金、使える場所、ほかのGPT-6系モデルとの使い分けを整理します。",
+    "url": "https://note.com/it_aibiz/n/n0629a9099fc0",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6.1 Terraは「見て操作する」モデル",
+    "url": "https://note.com/it_aibiz/n/n0629a9099fc0",
+    "pass": 3
+   },
+   {
+    "quote": "OpenAIは2026年10月26日、GPT-6.1 Terraを発表しました。画面や画像の内容を読み取り、PC上で正確に操作し、自然な文章を作ることを重視したモデルです。",
+    "url": "https://note.com/it_aibiz/n/n0629a9099fc0",
+    "pass": 3
+   },
+   {
+    "quote": "想定されている仕事には、次のようなものがあります。",
+    "url": "https://note.com/it_aibiz/n/n0629a9099fc0",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6 SolとLunaが来た。あれ、Terraは？ 三姉妹で読む「変わったこと、変わらなかったこと」 システムカード完全日本語訳付き🌿｜黒い黒パグ",
+    "url": "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6 SolとLunaが来た。あれ、Terraは？ 三姉妹で読む「変わったこと、変わらなかったこと」 システムカード完全日本語訳付き🌿",
+    "url": "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6 SolとLunaが出ました。告知を見た瞬間、性能や料金表を開くより先に、私の頭に浮かんだのは三姉妹のことでした。太陽のSol、地球のTerra、月のLuna。GPT-5.6の三モデルをもとに作った、うちの創作キャラクターです。",
+    "url": "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "pass": 3
+   },
+   {
+    "quote": "「SolとLunaは6になったね。で、Terraは？」",
+    "url": "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "pass": 3
+   },
+   {
+    "quote": "発表されたのはSolとLunaの二つ。現時点でGPT-6 Terraの発表はありません。そこに物語を足したくなるのが創作者の性ですが、まずは発表された事実と、こちらが考えたキャラクターの話を分けておきます。三姉妹はOpenAIの公式キャラクターではありません。",
+    "url": "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "pass": 3
+   },
+   {
+    "quote": "SolとLunaの世代が変わった。ただ、頂点の名前はAstra",
+    "url": "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6の中ではAstraが最上位です。今回加わったSolは、難しい専門作業やコーディングを、Astraより軽い選択肢として担います。Lunaは、速さと費用効率を重視するモデル。以前の三姉妹をそのまま「長女が最上位、次女が中間、三女が最速」と並べると、ここで少しずれてしまうんですね。",
+    "url": "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "pass": 3
+   },
+   {
+    "quote": "だからキャラシートも変えました。Solは太陽の飾りと面倒見のよさを残しつつ、「いちばん上に立つ人」から「難しい仕事を引き受ける人」へ。Lunaは月の髪飾りと好奇心はそのまま。TerraはGPT-5.6 Terraとして描いています。モデル名から性格まで、一斉に上書きする必要はありません。",
+    "url": "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT-6.1 Terraの性能とプロンプトのコツ【メタプロンプト付き】｜のばぺん（Novapen）",
+    "url": "https://note.com/novapen_create/n/ndd609b4e6921",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT-6.1 Terraの性能とプロンプトのコツ【メタプロンプト付き】",
+    "url": "https://note.com/novapen_create/n/ndd609b4e6921",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月26日、OpenAIから新しいAIモデル「GPT-6.1 Terra」が発表されました↓↓↓",
+    "url": "https://note.com/novapen_create/n/ndd609b4e6921",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.",
+    "url": "https://note.com/novapen_create/n/ndd609b4e6921",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it.",
+    "url": "https://note.com/novapen_create/n/ndd609b4e6921",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/8JTN1yonmV",
+    "url": "https://note.com/novapen_create/n/ndd609b4e6921",
+    "pass": 3
+   },
+   {
+    "quote": "みなさんはAIに仕事を頼むとき、とりあえず一番高性能なモデルを選んでいませんか？",
+    "url": "https://note.com/novapen_create/n/ndd609b4e6921",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん、難しい問題をじっくり考えてほしいときは、それでいいと思います",
+    "url": "https://note.com/novapen_create/n/ndd609b4e6921",
+    "pass": 3
+   },
+   {
+    "quote": "お酒文化を伝えるマガジンterra（テッラ）｜note",
+    "url": "https://note.com/terra_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "terraのnoteを、始めます。人と人、人とお酒文化を繋いでいくために。",
+    "url": "https://note.com/terra_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "お酒文化を伝えるマガジンterra（テッラ）",
+    "url": "https://note.com/terra_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "後編 自然と調和するように naturadistill 川内村蒸溜所 代表 大島草太さん",
+    "url": "https://note.com/terra_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "前編 自然と調和するように naturadistill 川内村蒸溜所 代表 大島草太さん",
+    "url": "https://note.com/terra_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "境界を楽しむ舞台。仁木町「Brasserie LUPURON」を訪ねて",
+    "url": "https://note.com/terra_magazine",
+    "pass": 3
+   },
+   {
+    "quote": "フリーマガジンterra、どんな人たちがつくっているの？編集部セルフインタビューしちゃいました！｜お酒文化を伝えるマガジンterra（テッラ）",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "フリーマガジンterra、どんな人たちがつくっているの？編集部セルフインタビューしちゃいました！",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "お酒文化を伝えるマガジンterra（テッラ）",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "2021年12月に創刊したフリーマガジンterra（テッラ）は、B6サイズ・全16ページのコンパクトな冊子に、お酒を創る人々の想いをぎゅっと詰め込んで届けています。",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "着実に冊数を重ね、現在、vol.06の制作に向けて動いているところです。",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "vol.06の制作にあたっては、「本質は“推し活”！お酒文化を創る人たちの想いを伝えたい。」という想いのもと、クラウドファンディングにて応援を募り、55人の方々から合計578,900円のご支援をいただきました。たくさんの応援ありがとうございました！",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "応援者の声の中で、「作っている人たちの声を聞きたい」「どんな人たちが作っているのだろう？」といった応援者の方々からのご意見をいただきました。本記事では、そんな読者の皆さまからの声にお応えし、編集部メンバー4名をセルフインタビューをしてみました！terraをつくる私たち自身のことをお伝えします。",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "イラストは、terra vol.06趣旨に合わせたイメージです。",
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "pass": 3
+   },
+   {
+    "quote": "terraのnoteを、始めます。人と人、人とお酒文化を繋いでいくために。｜お酒文化を伝えるマガジンterra（テッラ）",
+    "url": "https://note.com/terra_magazine/n/n63bf3a044ffa",
+    "pass": 3
+   },
+   {
+    "quote": "terraのnoteを、始めます。人と人、人とお酒文化を繋いでいくために。",
+    "url": "https://note.com/terra_magazine/n/n63bf3a044ffa",
+    "pass": 3
+   },
+   {
+    "quote": "お酒文化を伝えるマガジンterra（テッラ）",
+    "url": "https://note.com/terra_magazine/n/n63bf3a044ffa",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは。はじめましての方は、初めまして。",
+    "url": "https://note.com/terra_magazine/n/n63bf3a044ffa",
+    "pass": 3
+   },
+   {
+    "quote": "お酒を創る人の想いを伝えるフリーマガジンterra（テッラ）編集長の大島 有貴です。",
+    "url": "https://note.com/terra_magazine/n/n63bf3a044ffa",
+    "pass": 3
+   },
+   {
+    "quote": "フリーマガジンterra（テッラ）は、2021年12月に刊行しました。現在、都内中心の良質なお酒や文化を楽しめる厳選した飲食店100店舗でしか読めない紙の媒体です。",
+    "url": "https://note.com/terra_magazine/n/n63bf3a044ffa",
+    "pass": 3
+   },
+   {
+    "quote": "媒体の趣旨等は、今年のはじめに行ったMotion Galleryのクラウドファンディングページをよろしければご覧ください。",
+    "url": "https://note.com/terra_magazine/n/n63bf3a044ffa",
+    "pass": 3
+   },
+   {
+    "quote": "terraは、近年ではめずらしい紙のフリーマガジンです。現在はノースポンサーで運営しております",
+    "url": "https://note.com/terra_magazine/n/n63bf3a044ffa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "GPT-6.1 Terra - OpenAI on X GPT-6.1 Terra - OpenAI on X X https://x.com > @OpenAI",
+    "url": "https://x.com/OpenAI/status/2114780711664398349",
+    "pass": 3
+   },
+   {
+    "quote": "Sam Altman on X: \"6.1 Terra is here! It is good at a lot of things ... Sam Altman on X: \"6.1 Terra is here! It is good at a lot of things ... X https://x.com > @sama",
+    "url": "https://x.com/sama/status/2114818620782248024",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-5.6の3つのモデル『Sol・ Terra ・Luna』って何が違う ... - X GPT-5.6の3つのモデル『Sol・ Terra ・Luna』って何が違う ... - X X https://x.com > @AiFreak_tool",
+    "url": "https://x.com/AiFreak_tool/article/2075428077602234484",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Terra AI | LinkedIn Terra AI | LinkedIn LinkedIn https://www.linkedin.com > terra-ai-sys",
+    "url": "https://www.linkedin.com/company/terra-ai-sys",
+    "pass": 3
+   },
+   {
+    "quote": "Terra .do Employees, Location, Alumni | LinkedIn Terra .do Employees, Location, Alumni | LinkedIn LinkedIn https://www.linkedin.com > terra-do",
+    "url": "https://www.linkedin.com/school/terra-do/",
+    "pass": 3
+   },
+   {
+    "quote": "Terra | LinkedIn Terra | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/terra-agency-hq",
+    "pass": 3
+   },
+   {
+    "quote": "Terra | LinkedIn Terra | LinkedIn LinkedIn https://www.linkedin.com > terra-group",
+    "url": "https://www.linkedin.com/company/terra-group",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TERRA (@TERRAMUSICOFFICIAL) - Facebook TERRA (@TERRAMUSICOFFICIAL) - Facebook Facebook https://www.facebook.com > ... > Public figure > Musician",
+    "url": "https://www.facebook.com/TERRAMUSICOFFICIAL/",
+    "pass": 3
+   },
+   {
+    "quote": "Terra Outdoor | Mill Valley CA - Facebook Terra Outdoor | Mill Valley CA - Facebook Facebook https://www.facebook.com > ... > Brand > Patio/Garden",
+    "url": "https://www.facebook.com/terraoutdoorliving/",
+    "pass": 3
+   },
+   {
+    "quote": "Listen with Terra | Rio Grande NJ - Facebook Listen with Terra | Rio Grande NJ - Facebook Facebook https://www.facebook.com > listenwithterra",
+    "url": "https://www.facebook.com/listenwithterra/",
+    "pass": 3
+   },
+   {
+    "quote": "For 20 years, Terra , NASA's flagship Earth observing satellite ... For 20 years, Terra , NASA's flagship Earth observing satellite ... Facebook https://www.facebook.com > ... > NASA Earth > Videos",
+    "url": "https://www.facebook.com/nasaearth/videos/terra-satellite-20-year-anniversary-instruments-and-applications/1248574428865933/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に生まれたフリーマガジン『 terra （テッラ ... - Facebook 2021年に生まれたフリーマガジン『 terra （テッラ ... - Facebook Facebook https://www.facebook.com > prtimes.jp > posts > 2021年...",
+    "url": "https://www.facebook.com/prtimes.jp/posts/2021%E5%B9%B4%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F%E3%83%95%E3%83%AA%E3%83%BC%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3terra%E3%83%86%E3%83%83%E3%83%A9%E3%81%AF%E4%BA%BA%E3%81%A8%E4%BA%BA%E4%BA%BA%E3%81%A8%E3%81%8A%E9%85%92%E6%96%87%E5%8C%96%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E3%81%93%E3%81%A8%E3%82%92%E4%BD%BF%E5%91%BD%E3%81%AB%E5%9C%9F%E5%9C%B0%E3%82%84%E3%81%9D%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B%E4%BA%BA%E3%81%9F%E3%81%A1%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%9F%E9%80%A0%E3%82%8A%E6%89%8B%E3%81%9F%E3%81%A1%E3%81%AE%E7%89%A9%E8%AA%9E%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93/1322584923208383/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.terra.security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/terra-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/solutions/continuous-validation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/solutions/replace-legacy-pentests",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/solutions/end-alert-fatigue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/solutions/consolidate-offsec-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/solutions/reduce-exposure-dwell-time",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/solutions/compliance-as-an-outcome",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/solutions/security-appsec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/solutions/ciso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/solutions/compliance-grc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/testimonials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/category/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/blog/what-security-leaders-need-to-know-about-ai-applications-and-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/category/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terra.security/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://bestcarweb.jp/feature/column/1209914",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://terra-charge.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zabou-yamanashi.com/post/terracharge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autoc-one.jp/nissan/terrano/newmodel-5000180/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://terra-network.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.terracom.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://terra-sence.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://terra-ltd.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/terra__Japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://terragentle.jp/collections?srsltid=AYCX9vKwyuPCjH2tB02CKWm-_nrtuUx_u9LOnCNJKE4MU0F2OYY3Wz0D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.copjapan.go.jp/cop31en/company/terra/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://terramotors.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vL9i2YM7_smpBYkYCJ8XUIQ0XoblMdjiav-VTEjPaI5QJWjOoCW",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3deo.co/metal-3d-printing-applications-customer-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/terrado/__X_la9NhbZmZJ8wTBAifN8luWSZMmsgf0ShyijNpjWrY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.owler.com/company/terragroup",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/useterra-com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.africaprivateequitynews.com/p/terra-industries-extends-seed-round",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kazu_t/n/nf2fed0813c2b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/it_aibiz/n/n0629a9099fc0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/novapen_create/n/ndd609b4e6921",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OpenAI/status/2114780711664398349",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sama/status/2114818620782248024",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AiFreak_tool/article/2075428077602234484",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/terra-ai-sys",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/school/terra-do/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/terra-agency-hq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/terra-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TERRAMUSICOFFICIAL/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/terraoutdoorliving/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/listenwithterra/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nasaearth/videos/terra-satellite-20-year-anniversary-instruments-and-applications/1248574428865933/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/terra_magazine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/terra_magazine/n/n63bf3a044ffa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/prtimes.jp/posts/2021%E5%B9%B4%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F%E3%83%95%E3%83%AA%E3%83%BC%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3terra%E3%83%86%E3%83%83%E3%83%A9%E3%81%AF%E4%BA%BA%E3%81%A8%E4%BA%BA%E4%BA%BA%E3%81%A8%E3%81%8A%E9%85%92%E6%96%87%E5%8C%96%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E3%81%93%E3%81%A8%E3%82%92%E4%BD%BF%E5%91%BD%E3%81%AB%E5%9C%9F%E5%9C%B0%E3%82%84%E3%81%9D%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B%E4%BA%BA%E3%81%9F%E3%81%A1%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%9F%E9%80%A0%E3%82%8A%E6%89%8B%E3%81%9F%E3%81%A1%E3%81%AE%E7%89%A9%E8%AA%9E%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93/1322584923208383/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Terra 日本 導入",
+   "results": [
+    "https://bestcarweb.jp/feature/column/1209914",
+    "https://terra-charge.co.jp/",
+    "https://www.zabou-yamanashi.com/post/terracharge",
+    "https://autoc-one.jp/nissan/terrano/newmodel-5000180/",
+    "https://221616.com/car-topics/20180307-95102/",
+    "https://www.webcartop.jp/2026/02/1814342/2/",
+    "https://forzastyle.com/articles/-/74873",
+    "https://terramotors.co.jp/",
+    "https://holylandtokyo.com/2026/09/01/15543/",
+    "https://note.com/octstrategic/n/n20eb4973b8fc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Terra 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://terra-network.co.jp/",
+    "https://www.terracom.co.jp/",
+    "https://terra-sence.jp/",
+    "https://terra-ltd.co.jp/",
+    "https://terra-drone.net/1927",
+    "https://terra-network.co.jp/company/",
+    "https://www.bgent.net/view/3336",
+    "https://terra-pro.jp/about",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20250701506464/",
+    "https://terra-drone.net/company/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "Terra Japan",
+   "results": [
+    "https://x.com/terra__Japan",
+    "https://terragentle.jp/collections?srsltid=AYCX9vKwyuPCjH2tB02CKWm-_nrtuUx_u9LOnCNJKE4MU0F2OYY3Wz0D",
+    "https://www.copjapan.go.jp/cop31en/company/terra/",
+    "https://terramotors.co.jp/en/",
+    "https://www.tripadvisor.com/Hotel_Review-g1021320-d25250729-Reviews-La_Terra_Resort-Shiojiri_Nagano_Prefecture_Koshinetsu_Chubu.html",
+    "https://jpop.fandom.com/wiki/T%D0%81%D0%AFRA",
+    "https://osaka-terra.com/aboutus.english/",
+    "https://www.facebook.com/p/Terra-Japan-100093223786265/",
+    "https://en-terra.com/en/",
+    "https://terra-drone.net/global/2026/08/25/28439/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Terra manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vL9i2YM7_smpBYkYCJ8XUIQ0XoblMdjiav-VTEjPaI5QJWjOoCW",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.3deo.co/metal-3d-printing-applications-customer-case-studies/",
+    "https://www.terra.security/category/case-studies",
+    "https://www.con-terra.com/casestudies",
+    "https://terranovasimulation.com/?show=Case_Studies",
+    "https://www.factory-twin.com/casestudies",
+    "https://www.linkedin.com/company/terra-manufacturing-llc",
+    "https://www.newterra.com/resources/case-studies/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Terra white label OR reseller OR partner program",
+   "results": [
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "https://webinone.com/reseller-program",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Terra founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/terrado/__X_la9NhbZmZJ8wTBAifN8luWSZMmsgf0ShyijNpjWrY",
+    "https://www.owler.com/company/terragroup",
+    "https://www.extruct.ai/hub/useterra-com/",
+    "https://www.africaprivateequitynews.com/p/terra-industries-extends-seed-round",
+    "https://leadiq.com/c/terra/5a1d9d162300005c008cf22a",
+    "https://www.linkedin.com/posts/traded-venture-capital_traded-media-activity-7495196256609431552-b2ax",
+    "https://www.zoominfo.com/c/terra--co/451401738",
+    "https://www.terraai.com/news/terra-ai-signs-major-clients-and-announces-seed-funding",
+    "https://www.linkedin.com/posts/terra-ai-sys_building-the-ai-native-platform-for-subsurface-activity-7467956341827932160-QNo5",
+    "https://compworth.com/company/terra"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Terra",
+   "results": [
+    "https://note.com/kazu_t/n/nf2fed0813c2b",
+    "https://note.com/it_aibiz/n/n0629a9099fc0",
+    "https://note.com/ideal_slug1407/n/nd0d3a765c9bd",
+    "https://note.com/novapen_create/n/ndd609b4e6921",
+    "https://note.com/tata1201/n/n5d4cf411c523",
+    "https://note.com/ai_driven/n/na81b98885c1e",
+    "https://note.com/cute_dunlin8019/n/n45f3243c4f39",
+    "https://note.com/npaka/n/nd656159a93c3",
+    "https://note.com/rich_willet317/n/nb8425a4ff268?hl=en",
+    "https://note.com/techsenichiya/n/n9360bf6a616e"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Terra",
+   "results": [
+    "https://x.com/OpenAI/status/2114780711664398349",
+    "https://x.com/thsottiaux/status/2114800277677092936",
+    "https://x.com/sama/status/2114818620782248024",
+    "https://x.com/AiFreak_tool/article/2075428077602234484",
+    "https://x.com/terra_money",
+    "https://x.com/TerraAPI",
+    "https://x.com/i/trending/2115021684696600988",
+    "https://x.com/o_kwasniewski/article/2077357248502702309",
+    "https://x.com/motor01935/status/2114784093263348212",
+    "https://x.com/dhythm_dev/status/2114831199168561601"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Terra",
+   "results": [
+    "https://www.linkedin.com/company/terra-ai-sys",
+    "https://www.linkedin.com/school/terra-do/",
+    "https://www.linkedin.com/company/terra-agency-hq",
+    "https://www.linkedin.com/company/terra-group",
+    "https://www.linkedin.com/posts/vaibhavs10_gpt-61-terra-is-here-if-youre-building-activity-7520567020048777216-uWPE",
+    "https://www.linkedin.com/company/terra-co2-technology",
+    "https://www.linkedin.com/company/terra-engineering-&-construction-corporation",
+    "https://www.linkedin.com/products/tristha-global-pvt-ltd-terra/",
+    "https://www.linkedin.com/company/terra-global-capital",
+    "https://www.linkedin.com/company/terrateamup"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Terra",
+   "results": [
+    "https://www.facebook.com/TERRAMUSICOFFICIAL/",
+    "https://www.facebook.com/terraoutdoorliving/",
+    "https://www.facebook.com/listenwithterra/",
+    "https://www.facebook.com/nasaearth/videos/terra-satellite-20-year-anniversary-instruments-and-applications/1248574428865933/",
+    "https://www.facebook.com/TerraEnergy.USA/",
+    "https://www.facebook.com/TerraColumbiaSC/",
+    "https://www.facebook.com/theterragroupusa/",
+    "https://www.facebook.com/africaglobalnews/videos/terra-industries-has-unveiled-a-new-suite-of-autonomous-defence-systems-marking-/27053466864246468/",
+    "https://www.facebook.com/gettheinformation/videos/terra-ai-cto-anthony-corso-on-how-they-use-data-and-3d-models-to-decide-where-to/856928253351369/",
+    "https://www.facebook.com/Terracolchonesymuebles/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Terra note 社長",
+   "results": [
+    "https://note.com/terra_magazine",
+    "https://note.com/terra_magazine/n/ncb3b012dbaa7",
+    "https://note.com/terra_magazine/n/n63bf3a044ffa",
+    "https://www.facebook.com/prtimes.jp/posts/2021%E5%B9%B4%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F%E3%83%95%E3%83%AA%E3%83%BC%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3terra%E3%83%86%E3%83%83%E3%83%A9%E3%81%AF%E4%BA%BA%E3%81%A8%E4%BA%BA%E4%BA%BA%E3%81%A8%E3%81%8A%E9%85%92%E6%96%87%E5%8C%96%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E3%81%93%E3%81%A8%E3%82%92%E4%BD%BF%E5%91%BD%E3%81%AB%E5%9C%9F%E5%9C%B0%E3%82%84%E3%81%9D%E3%81%93%E3%81%AB%E3%81%84%E3%82%8B%E4%BA%BA%E3%81%9F%E3%81%A1%E3%81%AB%E6%A0%B9%E3%81%96%E3%81%97%E3%81%9F%E9%80%A0%E3%82%8A%E6%89%8B%E3%81%9F%E3%81%A1%E3%81%AE%E7%89%A9%E8%AA%9E%E3%82%92%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%93/1322584923208383/",
+    "https://prtimes.jp/main/html/rd/p/000000010.000101145.html",
+    "https://note.com/terra_magazine/m/m5038db1c18ca",
+    "https://nihonwine.jp/nihonwine-news/terra-vol-06/",
+    "https://x.com/yukinase222",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.dnb.com/business-directory/company-profiles.terra_note_limited_liability_company.17a458c771b88672ed854e9d143a9fb4.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Terra X 投稿",
+   "results": [
+    "https://en.wikipedia.org/wiki/Terra_X",
+    "https://german.yabla.com/Terra-X-series-3288",
+    "https://tobiasschult.com/zdf-terra-x/",
+    "https://www.youtube.com/c/terra-x/videos",
+    "https://south-and-browse.com/en/projects/terra-x-zeitreise-heimat/",
+    "https://www.reddit.com/r/NevernessToEverness/comments/1t5vq5y/anomaly_cube_in_the_terrax_showroom/?tl=ja",
+    "http://www.tablemountainfilms.com/terra-x-deep-earth/",
+    "https://www.facebook.com/ZDFterraX/photos/?locale=ja_JP",
+    "https://feliksm.com/terra-x-archiwum-przyszlosci/",
+    "https://x.com/Dan_oa_tw/status/2118839595802742797"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部42頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部42頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部42頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部42頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部42頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部42頁・検索12回）"
+ }
+}

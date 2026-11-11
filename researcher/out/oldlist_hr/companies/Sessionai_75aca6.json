@@ -1,0 +1,1191 @@
+{
+ "name": "Sessionai",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T07:49:31.095298+00:00",
+ "official_url": "https://www.sessionai.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "19-Mar-2018    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Apr-2017 $2.5M $2.5M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   },
+   {
+    "label": "Seed 2",
+    "value": "10,309,154 $0.000010 4% $0.25 $0.25 1x $0.25 13.77%",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   },
+   {
+    "label": "Seed 1",
+    "value": "7,918,910 $0.000010 4% $0.32 $0.32 1x $0.32 10.58%",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Session AI continuously predicts purchase intent",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "reduction in promotion spend",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet the Session Marketing Agent",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Session Marketing Agent predicts purchase intent in real time, decides when an intervention can change the outcome, and takes action based on the goals and guardrails you set.",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product recommendation",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From prediction to action",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously predict purchase intent as each session unfolds, updating with every click.",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Decide whether to intervene and choose the experience most likely to improve the outcome.",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect more margin. Convert more shoppers. Grow incremental revenue.",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Session AI is the pioneer and leader for in-session marketing, the critical capability digital brands need in a privacy-first world. We're proud to set the standard for what brands can achieve with the most advanced AI technology.",
+    "url": "https://sessionai.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We build on trust. Our work is grounded in honesty and mutual respect, and we don't compromise on ethics.",
+    "url": "https://sessionai.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We innovate beyond what the world thought possible to tackle hard problems. We don't take shortcuts to success.",
+    "url": "https://sessionai.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We work with discipline and develop our skills. The result is evident in our customer relationships, products, and outcomes.",
+    "url": "https://sessionai.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The Session AI in-session marketing platform",
+    "url": "https://sessionai.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "91 Springboard Business Hub, 74/II \"C\" Cross Road Opp Gate #2, Andheri East Mumbai, Mumbai City, MH 400093",
+    "url": "https://sessionai.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We take pride in what we've built. Session AI has pioneered in-session marketing, developing innovative new technologies that create outstanding value for our customers. We're making huge waves commercially, with fast growth and unlimited opportunity. We've come so far already—and we're still just getting started.",
+    "url": "https://sessionai.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our team consists of driven, skilled colleagues with the freedom and responsibility to do the work that matters most. We work best when we collaborate. We value trust above all else. We make time to help each other. We don't compromise on integrity. And we achieve big goals. It all seems remarkable when we think about it, but that's just how we experience every day at Session AI.",
+    "url": "https://sessionai.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize ecommerce revenue, conversions, and margin with your Session Marketing Agent.",
+    "url": "https://sessionai.com/industries/retail-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Some visitors are ready to buy now, while others need an extra incentive. The Session Marketing Agent automates the distribution of incentive resources, so brands can move from blanket discounting to targeted promo strategies.",
+    "url": "https://sessionai.com/industries/retail-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the most popular use cases that retailers achieve with the Session Marketing Agent.",
+    "url": "https://sessionai.com/industries/retail-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce Reliance on Promos",
+    "url": "https://sessionai.com/industries/retail-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Shift from blanket sitewide discounts to intelligent real-time targeted promotions.",
+    "url": "https://sessionai.com/industries/retail-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Complete more online bookings, increase incentive yields, and drive urgency with our automated Session Marketing Agent.",
+    "url": "https://sessionai.com/industries/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Some visitors want to book now, and others still need a little incentive. Our Session Marketing Agent reserves incentives for the travelers who need them, so travel and hospitality businesses can achieve higher average pricing for all inventories.",
+    "url": "https://sessionai.com/industries/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how the Session Marketing Agent can improve your online bookings.",
+    "url": "https://sessionai.com/industries/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize ROI on travel promotions by targeting only the right travelers, not everyone.",
+    "url": "https://sessionai.com/industries/travel-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "Use the Session Marketing Agent to increase new line subscriptions while reducing cost per incremental gross add and cross-sell at the right moment to maximize every visit.",
+    "url": "https://sessionai.com/industries/telecom",
+    "pass": 1
+   },
+   {
+    "quote": "In a highly competitive market, telecom providers need to strike the right balance between incentives and profitability, while reducing confusion, and providing a streamlined experience.",
+    "url": "https://sessionai.com/industries/telecom",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the most popular use cases that telecom providers achieve with the Session Marketing Agent.",
+    "url": "https://sessionai.com/industries/telecom",
+    "pass": 1
+   },
+   {
+    "quote": "Identify the right moment mid-session to introduce additional services without disrupting the primary purchase flow.",
+    "url": "https://sessionai.com/industries/telecom",
+    "pass": 1
+   },
+   {
+    "quote": "Principal, Venture at SignalFire",
+    "url": "https://sessionai.com/company/our-team",
+    "pass": 1
+   },
+   {
+    "quote": "A new tech-driven era of impactful marketing and sales",
+    "url": "https://sessionai.com/company/in-the-news",
+    "pass": 1
+   },
+   {
+    "quote": "Jenna Posner, former CDO of Solo Brands, in conversation with Salesforce president and CMO Ariel Kelman: A lot of brands need to figure out how to diversify the promotional landscape. There's tech that's out there, such as products by Session AI, that's leveraging AI incredibly well. […] I think anonymous data personalization is going to be one of the biggest things over the next couple years.",
+    "url": "https://sessionai.com/company/in-the-news",
+    "pass": 1
+   },
+   {
+    "quote": "Brent Peterson from Talk Commerce: “My conversation with John Reagh was truly enlightening. Session AI is not just another AI tool; it’s a powerful platform with the potential to revolutionize ecommerce marketing. The emphasis on real-time insights, continuous optimization, and demonstrable ROI distinguishes it from many other solutions in the market.”",
+    "url": "https://sessionai.com/company/in-the-news",
+    "pass": 1
+   },
+   {
+    "quote": "Jason Seeba, CMO of Session AI, an in-session AI platform provider, told CMSWire that as more businesses integrate AI into their DX stack, they must ensure that they are able to employ the latest models to stay current and meet customer expectations.",
+    "url": "https://sessionai.com/company/in-the-news",
+    "pass": 1
+   },
+   {
+    "quote": "“Google’s dominance in search hasn’t been because of anti-competitive practices. It’s because Google has been the best search experience out there for a really long time,” said Jason Seeba, chief marketing officer of Session AI. “This antitrust case isn’t going to change that, but new AI search will.”",
+    "url": "https://sessionai.com/company/in-the-news",
+    "pass": 1
+   },
+   {
+    "quote": "Session AI, the pioneer of in-session marketing, today announced AI Incentive Optimization, a real-time AI solution for ecommerce retailers to achieve commercial goals.",
+    "url": "https://sessionai.com/company/in-the-news",
+    "pass": 1
+   },
+   {
+    "quote": "For interview requests, speaker bookings, or media assets, reach our communications team.",
+    "url": "https://sessionai.com/company/in-the-news",
+    "pass": 1
+   },
+   {
+    "quote": "Eコマースやデジタル接点におけるリアルタイム行動データを解析し、顧客の購買意図予測とパーソナライズされたインセンティブ配信を自動化するAIプラットフォーム「Session Marketing Platform」および「Session...",
+    "url": "https://www.firstcvc.jp/global/sessionai.com",
+    "pass": 3
+   },
+   {
+    "quote": "BusinessNext（旧CRMNEXT、運営法人：Acidaes Solutions Private Limited）は、銀行や保険を中心とする金融サ...",
+    "url": "https://www.firstcvc.jp/global/sessionai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Gabit（運営会社: BetterLife Horizons Private Limited）は、予防医療と長寿（Longevity）をテーマに、ウェア...",
+    "url": "https://www.firstcvc.jp/global/sessionai.com",
+    "pass": 3
+   },
+   {
+    "quote": "VP of Performance Marketing",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Automotive Accessories Retailer achieves a projected $5.3M revenue increase and up to 46% conversion lift with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "a hardware accessories retailer reduces promotional spending and boosts revenue with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Hardware Retailer achieves 35% reduction in promotional spending with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tailored Brands improves margins and boosts conversion with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Automotive Accessories Retailer projects $5.3M revenue lift with Session AI",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Dynamic Yield is an AI-powered Personalization Anywhere™ platform that delivers individualized experiences at every customer touchpoint: web, apps, email, kiosks, IoT, and call centers. The platform’s data management capabilities provide …",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Insider One is the #1 platform that brings everything marketing and customer engagement teams need in one place so they can reach their peak potential and become unstoppable. With AI …",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a cloud-based marketing technology designed to provide real-time brand-to-user interactions across digital channels.",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading brands",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · Shoe Retailer",
+    "url": "https://sessionai.com/industries/retail-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Raghu Vamsi（Raghu Vamsi Aerospace Group）は、インド・ハイデラバードを拠点とする航空宇宙・防衛・エネルギー分野向けの...",
+    "url": "https://www.firstcvc.jp/global/sessionai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Furniture and Home Furnishings Manufacturing",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Automotive Accessories Retailer achieves a projected $5.3M revenue increase and up to 46% conversion lift with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Automotive Accessories Retailer Company",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "PacSun - Customer Case Study",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Automotive Accessories Retailer projects $5.3M revenue lift with Session AI",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "increase in revenue per visitor",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Not every shopper needs 15% off the minute they arrive.",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell Session AI what you're optimizing for, from revenue and conversion to margin.",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect more margin. Convert more shoppers. Grow incremental revenue.",
+    "url": "https://sessionai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize ecommerce revenue, conversions, and margin with your Session Marketing Agent.",
+    "url": "https://sessionai.com/industries/retail-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "revenue per visitor lift through targeted personalization",
+    "url": "https://sessionai.com/industries/retail-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "return on investment in ecommerce revenue",
+    "url": "https://sessionai.com/industries/retail-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize Revenue and Margin",
+    "url": "https://sessionai.com/industries/retail-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Let AI simultaneously maximize both revenue and margin without complex manual rule-setting.",
+    "url": "https://sessionai.com/industries/retail-ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": "Increase new lines, reduce acquisition cost",
+    "url": "https://sessionai.com/industries/telecom",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce acquisition cost by targeting only influenceable customers—stop spending on visitors who would sign up anyway.",
+    "url": "https://sessionai.com/industries/telecom",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://sessionai.com/company/our-team",
+    "pass": 1
+   },
+   {
+    "quote": "a health and wellness retailer achieves $17.7M in annualized new revenue with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Automotive Accessories Retailer achieves a projected $5.3M revenue increase and up to 46% conversion lift with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Automotive Accessories Retailer Company",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "a hardware accessories retailer reduces promotional spending and boosts revenue with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Furniture Retailer achieves $2.1M added revenue and major conversion lifts with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "a leading multi-brand retailer boosts revenue from anonymous visitors with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Leading specialty health & wellness retailer achieves $17.7M in annualized margin-positive revenue with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Leading U.S. Retailer achieves 20.2% lift in revenue per visitor with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Leading U.S. Retailer achieves 20.2% revenue lift with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Major Department Store Chain achieves $52M incremental revenue with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "National Furniture Retailer achieves $2.1M added revenue with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "National Furniture Retailer achieves 20% conversion lift and $2.9M annualized revenue with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "National Home & Furniture Retailer achieves 19% lift in revenue per visitor (RPV) and $6.1M incremental revenue with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 U.S. Retailer achieves 10%+ revenue uplift with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 U.S. Retailer Company achieves 22.6% revenue lift per visitor with Session AI",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Automotive Accessories Retailer projects $5.3M revenue lift with Session AI",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI has 85 total employees.",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   },
+   {
+    "quote": "What is Session AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Session AI is",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI Revenue 2024: $15M Est., $15M Raised",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI has not published its revenue. LeadIQ puts it at about $15M a year (November 2024).",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI CEO, founders & employees",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "Arnab Mukherjee founded Session AI in 2014 and runs it as CEO. Session AI had 26 employees (December 2024, LinkedIn), down from 129 a year earlier.",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "What is Session AI's revenue?",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "LeadIQ estimates Session AI's revenue at about",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Session AI have?",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SessionAI/README-JA.md at main · euphoriaer/SessionAI — ビルトインツール — @sessionai/fetch やファイル検索などの内蔵 MCP ツールを、追加サーバーなしで利用できます。 ツールループ上限 — MCP ツール呼び出しの最大ループ数を設定し、中断や停止したツールセッションから復帰しやすくなりました。",
+    "url": "https://github.com/euphoriaer/SessionAI/blob/main/README-JA.md",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI — Agentic Decisioning for Ecommerce — Meet the Session Marketing Agent An AI agent built to make smarter decisions for every ecommerce session. ... Explore our products SessionAI Marketing Agent Overview Audience Experiences A/B Testing Reporting Settings",
+    "url": "https://sessionai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Session AIの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 本ページの企業情報は、公式サイト（https://sessionai.com）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです。 内容の正確性については公式サイト・出典をご確認ください。 続きの詳しい内容は、無料会員登録でご覧いただけ ...",
+    "url": "https://www.firstcvc.jp/global/sessionai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Session AIの徹底解説（2025年版）：CEOサンジーブ・クルカルニが導く... — Nov 8, 2025 · Session AIは、匿名の訪問者の購入意図をリアルタイムで予測する行動AIプラットフォームです。利益率向上とプロモーション費用削減を実現します。",
+    "url": "https://skywork.ai/skypage/ja/session-ai-ecommerce-future/1985897927164633088",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI — Agentic Decisioning for Ecommerce — Session AI predicts purchase intent in real time, so you stop discounting shoppers who were already going to buy. Protect margin, convert more shoppers, grow incremental revenue.",
+    "url": "https://sessionai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI B2B Case Studies & Customer Successes — See how Session AI solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "19 Session AI Case Studies, Success Stories, & Customer ... — Narrow down 19 case studies by company size & industry to find out how Session AI works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "18 SessionM Case Studies, Success Stories, & Customer StoriesHardware Retailer Anonymous - go.sessionai.comHardware Retailer Anonymous — Discover how other companies use SessionM, get inspired, and find ways to improve your business. The VP of pricing and operations, in collaboration with colleagues in merchandising, finance, marketing, and ecommerce, launched a project to seek customer segmentati",
+    "url": "https://www.featuredcustomers.com/vendor/sessionm/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware Retailer Anonymous - go.sessionai.com — The VP of pricing and operations, in collaboration with colleagues in merchandising, finance, marketing, and ecommerce, launched a project to seek customer segmentation options that could have the effect of reducing overall discounting.",
+    "url": "https://go.sessionai.com/rs/013-XQF-706/images/Session_AI_Hardware_Retailer_Case_Study.pdf?version=0",
+    "pass": 3
+   },
+   {
+    "quote": "Resource center — Session AI — Listen in as Suzanne Scott highlights how in-session marketing helped achieve these goals while creating exceptional customer experiences. By implementing targeted promotions and real-time offers, this furniture retailer improved conversion rate by 7% with Session AI.",
+    "url": "https://www.sessionai.com/resource-library/?category=customer-success-story",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI – Valuation, Revenue & Market Scope – 2026 — Discover Session AI's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/session-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI 2026 Company Profile: Valuation, Funding ...Session AI Revenue 2024: $15M Est., $15M RaisedSession Revenue, Funding & Valuation - prospeo.ioSession AI - 2026 Company Profile, Team, Funding ... - TracxnSession AI Stock Price, Funding, Valuation, Revenue ...Session AI: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and executives for",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI Revenue 2024: $15M Est., $15M Raised — Oct 5, 2026 · Session AI 2024 estimated revenue: $15M (down from $15.1M in 2023). Total funding: $15M across 3 rounds. 26 employees. Founded 2014. Updated Oct 5, 2026.",
+    "url": "https://getlatka.com/companies/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 17, 2026 · Session AI is a series C company based in Milpitas (United States), founded in 2014 by Arnab Mukherjee and Debjani Deb. It operates as an AI-based platform offering predictive analytics solutions.",
+    "url": "https://tracxn.com/d/companies/sessionai/__ho3epACXc8PpKiOjH9mRlF73VHz_7n8FlT-IGtAV-Zw",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Dynamic Yield is an AI-powered Personalization Anywhere™ platform that delivers individualized experiences at every customer touchpoint: web, apps, email, kiosks, IoT, and call centers. The platform’s data management capabilities provide …",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Session AI (@Session_AI) / X Session AI is the pioneer of In-Session Marketing, the critical capability that leading online retailers need to convert site visitors in a privacy-first world.",
+    "url": "https://x.com/session_ai",
+    "pass": 3
+   },
+   {
+    "quote": "#SessionLab - Search / X Session AI is the pioneer of In-Session Marketing, the critical capability that leading online retailers need to convert site visitors in a privacy-first world.",
+    "url": "https://x.com/hashtag/SessionLab?f=user",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI (@Session_AI) / X Ready to power up your next session? 🚀 Check out Session's AI-powered platform! With real-time transcription, smart summaries, and advanced analytics, you can make every moment count and drive better outcomes.",
+    "url": "https://x.com/session_ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ZineOne | LinkedIn About us ZineOne is now Session AI. Learn more about us at https://www.linkedin.com/company/session-ai/ and www.sessionai.com.",
+    "url": "https://in.linkedin.com/company/zineone",
+    "pass": 3
+   },
+   {
+    "quote": "Sourav Dey - SDE3 @SessionAi | 800+ DSA @Leetcode+GFG | Full ...#ai #ecommerce | Session AI - LinkedIn PerúIsabel Maddocks - PhD Candidate and Sessional Lecturer at the ...Ingrid Studholme - Facilitator | Executive Coach | Sessional ... · Experience: Session AI · Education: West Bengal University of Technology, Kolkata · Location: Bengaluru · 500+ connections on LinkedIn. View Sourav Dey’s profile",
+    "url": "https://in.linkedin.com/in/sourav-dey-7027a61aa",
+    "pass": 3
+   },
+   {
+    "quote": "#ai #ecommerce | Session AI - LinkedIn Perú Thats where new behavioral AI comes in. Session AI converts anonymous visitors using AI in 5 clicks, with no customer data at all. This AI predicts purchase intent with just the data from those...",
+    "url": "https://pe.linkedin.com/posts/session-ai_ai-ecommerce-activity-7211411269650644993-rk2k",
+    "pass": 3
+   },
+   {
+    "quote": "Session AI - LinkedIn Session AI predicts purchase intent in real time, identifying when a shopper is ready to buy, when they need a reason to act, and which experience is most likely to drive conversion.",
+    "url": "https://www.linkedin.com/company/session-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Irie Lynne Session - Facebook In fact, just a few minutes ago I used Touchless Entry and TSA Pre check which kept me from standing in an incredibly long line. Did ya’ll know that each of these services, in one way or another, use AI to make travel easier for me AND many of you? Warren Kyle and 37 others 38 10 Irie Lynne Session AI content 2d",
+    "url": "https://www.facebook.com/revdririe/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sessionai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sessionai.com/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sessionai.com/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sessionai.com/industries/retail-ecommerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sessionai.com/industries/travel-hospitality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sessionai.com/industries/telecom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sessionai.com/company/our-team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sessionai.com/company/in-the-news",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sessionai.com/wp-content/uploads/2023/02/invest1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://sessionai.com/logos/trust/sephora.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://sessionai.com/logos/trust/mattress-firm.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://sessionai.com/logos/trust/new-balance.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://github.com/euphoriaer/SessionAI/blob/main/README-JA.md",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://sessionai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/sessionai.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://session-ai.net/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://camera-wiki.org/wiki/Schmidt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companydata.tsujigawa.com/company/2010001177818/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unival.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Sendai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japaneserituals.com/seijin-shiki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/SessionJapanTravel/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "http://session-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/session-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/sessionm/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.sessionai.com/rs/013-XQF-706/images/Session_AI_Hardware_Retailer_Case_Study.pdf?version=0",
+    "status": "http_500",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/session-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/103560-22",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/zineone",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/session-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/session_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/SessionLab?f=user",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/zineone",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/sourav-dey-7027a61aa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/posts/session-ai_ai-ecommerce-activity-7211411269650644993-rk2k",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/session-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/revdririe/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/session_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sessionai 日本 導入",
+   "results": [
+    "https://github.com/euphoriaer/SessionAI/blob/main/README-JA.md",
+    "https://sessionai.com/",
+    "https://www.firstcvc.jp/global/sessionai.com",
+    "https://session-ai.net/service/",
+    "https://skywork.ai/skypage/ja/session-ai-ecommerce-future/1985897927164633088",
+    "https://note.com/lucky_hornet941/n/n30e4f9e0d292",
+    "https://prtimes.jp/main/html/rd/p/000000001.000192563.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sessionai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://camera-wiki.org/wiki/Schmidt",
+    "https://companydata.tsujigawa.com/company/2010001177818/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.unival.jp/",
+    "https://about.x.com/ja",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sessionai Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Sendai",
+    "https://japaneserituals.com/seijin-shiki/",
+    "https://www.facebook.com/SessionJapanTravel/",
+    "http://session-japan.com/",
+    "https://sessionai.com/",
+    "https://sessionai.com/company/our-team",
+    "https://www.sessionsai.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sessionai manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/session-ai",
+    "https://www.featuredcustomers.com/vendor/session-ai/case-studies",
+    "https://www.featuredcustomers.com/vendor/sessionm/case-studies",
+    "https://go.sessionai.com/rs/013-XQF-706/images/Session_AI_Hardware_Retailer_Case_Study.pdf?version=0",
+    "https://www.sessionai.com/resource-library/?category=customer-success-story",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/session-ai_leading-specialty-retailer234_924342.pdf",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/session-ai_leading-hardware-retailer_924340.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sessionai white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://partner.vw.com/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sessionai founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/session-ai",
+    "https://pitchbook.com/profiles/company/103560-22",
+    "https://getlatka.com/companies/zineone",
+    "https://prospeo.io/c/session-revenue",
+    "https://tracxn.com/d/companies/sessionai/__ho3epACXc8PpKiOjH9mRlF73VHz_7n8FlT-IGtAV-Zw",
+    "https://www.cbinsights.com/company/sessionai/financials",
+    "https://startupintros.com/orgs/session-ai"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sessionai",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/yun_edi/n/n8f87f7493db7?hl=en",
+    "https://note.com/r7038xx/n/n3ee218274f9b?hl=en",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/aiplusjp/n/n146176c7e942?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/careerhaku/n/n7bc83c0f2ea8?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sessionai",
+   "results": [
+    "https://x.com/session_ai",
+    "https://x.com/hashtag/SessionLab?f=user",
+    "https://x.com/starsessionzai",
+    "https://x.com/SessionGame",
+    "https://x.com/session_token",
+    "https://x.com/endomaster2/status/2119957605594321327",
+    "https://x.com/bmmwu/status/2119077851723149735"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sessionai",
+   "results": [
+    "https://in.linkedin.com/company/zineone",
+    "https://in.linkedin.com/in/sourav-dey-7027a61aa",
+    "https://pe.linkedin.com/posts/session-ai_ai-ecommerce-activity-7211411269650644993-rk2k",
+    "https://www.linkedin.com/company/session-ai",
+    "https://www.linkedin.com/jobs/sessional-jobs",
+    "https://au.linkedin.com/in/ingrid-studholme-aa75286",
+    "https://ca.linkedin.com/in/isabel-maddocks"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sessionai",
+   "results": [
+    "https://secure.facebook.com/login/",
+    "https://business.facebook.com/groups/747117472640935/",
+    "https://business.facebook.com/groups/230058133851941/",
+    "https://www.facebook.com/revdririe/",
+    "https://www.facebook.com/61555633340304/posts/-agentic-minds-global-summit-2026-international-speaker-sessionai-explain-you-sc/122265336902187778/",
+    "https://developer.facebook.com/",
+    "https://www.facebook.com/61555633340304/posts/-agentic-minds-global-summit-2026-international-speaker-sessionai-explain-you-sc/122265332102187778/",
+    "https://www.facebook.com/TonAISessions/",
+    "https://www.facebook.com/p/Faring-Sessional-Sale-61553222228482/",
+    "https://www.facebook.com/scryai/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Sessionai note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/ceoai15",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://sessionai.com/",
+    "https://qiita.com/komure_slj/items/bd342d2033f4364e43fb"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Sessionai X 投稿",
+   "results": [
+    "https://x.com/Session_1530",
+    "https://vibs.jp/blog/2026-06-08-bb636a21",
+    "https://x.com/session_ai",
+    "https://note.com/aikachan_ai/n/n5bf03e58300f",
+    "https://note.com/munou_ac/n/n3489f9572885",
+    "https://www.tbsradio.jp/ss954/",
+    "https://stillworks-lab.hatenablog.com/entry/2026/05/28/130343"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

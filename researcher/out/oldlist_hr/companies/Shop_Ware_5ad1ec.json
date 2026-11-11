@@ -1,0 +1,998 @@
+{
+ "name": "Shop Ware",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T07:51:12.441192+00:00",
+ "official_url": "https://shop-ware.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Expert designed, customer improved",
+    "url": "https://shop-ware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shop-Ware’s auto repair estimating software feature allows you to prepare and share quotes in seconds. Harness real-time photos, videos, and chat for a seamless customer experience.",
+    "url": "https://shop-ware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize your shop’s value with our auto repair software. Deliver precise repair estimates that build trust, generate 5-star reviews, and keep customers coming back. With a work approval rate of 89%, you can confidently boost loyalty and grow your business.",
+    "url": "https://shop-ware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hit your parts pricing targets every time with our industry-first AI-powered tool.",
+    "url": "https://shop-ware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Speed up approvals without picking up the phone with our live chat functionality.",
+    "url": "https://shop-ware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "more. We’re proud to work with these organizations to help our shops increase their profitability",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "360 Payments is a payment processing and gateway services company for the automotive industry.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Autoshop Solutions is an award-winning website design and internet marketing agency based in Apex, N.C. Founded by a shop owner in 2005, Autoshop Solutions has been dedicated to the success of the aftermarket automotive industry.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Steer is a full-service marketing platform & provider of telematics.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We help change the automotive industry one conversation at a time. Whether you’re a technician, vendor, business owner, or car enthusiast, we hope to inspire you to improve for your customers, your careers, your businesses, and your families.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Amazing 7, LLC is a one stop provider for all your technology needs. The “Technology Tune-Up Experts” specializing in automotive shops, providing service and solutions that help you be amazing 24/7.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2012, Autoflow has helped thousands of shop owners, technicians, and advisors leverage best-in-class digital vehicle inspections enhanced with automated service reminders, online review generation, and follow-up marketing.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The Back Office specializes in making the accounting process simpler, faster, and operates with the customers needs in mind.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Broadly helps you grow your local business by getting more reviews, attracting more leads, and fostering loyal customer relationships.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The most comprehensive marketing, communications, and online reputation solution that helps businesses attract and retain customers.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Web-based customer retention solutions for automotive service providers.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Calls that don’t convert into appointments and service recommendations that don’t get approved are two of the biggest revenue leaks in your shop. GuestX connects your call activity to real outcomes, giving you real-time visibility into missed opportunities, tools to recover lost revenue, and clear performance insights to improve your team.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Mitchell 1 provides premium automotive repair software for professional auto care shops.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides customers with accurate, thorough and timely automotive data to help run their businesses more efficiently, effectively and profitably.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "OktoRocket is the all-in-one platform revolutionizing how automotive shops engage customers and drive growth. By combining intelligent customer communication tools with actionable performance analytics, they empower shops to deliver outstanding service, boost profits, and unlock their full potential.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your auto repair shop marketing and customer retention.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Interaction management solutions that connect you with your leads, customers, and teams.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "PULSE by DataDyne empowers automotive teams with real-time insights into profitability, performance, and efficiency. Owners, managers, advisors, and technicians get instant visibility into key metrics, driving engagement, motivation, and a high-performance shop environment.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "RSS DVI program brings affordability and function to the shop.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Royalty Rewards® brings together proven marketing, loyalty, customer surveys, online reviews, reporting, and dedicated coaching into one complete system designed to help Auto Repair Shops grow and thrive.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SI accurately predicts service needs, pre-inspection. SI marketing platform includes POS intel, CRM, emails, texting, postcards, websites, SEO, PPC and more.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Shopgenie is an all-in-one marketing platform for repair shops.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Highly targeted digital and print marketing solutions.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive your auto shop’s productivity higher than ever. Streamline your single-location auto repair shop with Shop-Ware’s all-in-one management platform. Effortlessly manage repairs, payments, and customer interactions from one easy-to-use dashboard, built specifically for independent shop owners looking to work smarter, keep customers satisfied, and drive profitability.",
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Run a Smarter, More Profitable Shop",
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Wow customers with immersive, transparent updates, complete with real-time photos, videos, and live chat. Watch approval rates soar.",
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Ditch the paperwork; track repairs, approvals, and communications seamlessly, all in one place.",
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable technicians to upload findings and progress instantly from their mobile device, keeping your team informed and accountable.",
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Harness AI to price parts profitably while staying competitive in your local market.",
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage inventory levels with precision and build quotes quickly using integrated OEM and aftermarket parts lookups.",
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "We wanted an automotive repair software package with integrated DVI and we got so much more: enhanced customer communication, instant financial reporting, and great work in progress visuals.",
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Shop-Ware’s cross-location analytics show you which shop is doing well and which one needs you, without an evening in a spreadsheet. Compare car count, average ticket, gross profit, and more across every shop you run in one report. Zoom into a single location or step back and see the whole business. Reporting runs across every location automatically, so you can see and manage it all from anywhere.",
+    "url": "https://shop-ware.com/features/multi-shop-organizations/",
+    "pass": 1
+   },
+   {
+    "quote": "Shop-Ware’s cross-location analytics let you compare car count, average ticket, gross profit, and more across every shop side by side, or zoom into a single location. You can schedule reports so the right people see the same numbers on your cadence, without having to ask.",
+    "url": "https://shop-ware.com/features/multi-shop-organizations/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Staff at any Shop-Ware location can open one customer profile with every invoice, and see what other locations did, said, and showed the customer. That includes repair orders migrated from your previous system, even if it didn’t support multishop.",
+    "url": "https://shop-ware.com/features/multi-shop-organizations/",
+    "pass": 1
+   },
+   {
+    "quote": "It follows the vehicle. Shop-Ware carries the recommendation to the new location with a link to the original repair order, so staff can read the context of the sale and any customer objection. It keeps its original price and can be updated to the local shop’s labor and parts pricing in one step.",
+    "url": "https://shop-ware.com/features/multi-shop-organizations/",
+    "pass": 1
+   },
+   {
+    "quote": "Speed up approvals without picking up the phone with our live chat functionality.",
+    "url": "https://shop-ware.com/features/multi-shop-organizations/",
+    "pass": 1
+   },
+   {
+    "quote": "Hit your parts pricing targets every time with our industry-first AI-powered tool.",
+    "url": "https://shop-ware.com/features/multi-shop-organizations/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Auto Repair Software Pricing Guide | Shop-Ware",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro plus:",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly Inventory Value & Gross Profit Tracking",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads Enablement *",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "*Does not include management fee or advertising budget.",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom offers and promotions",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "What Is Included in Each Shop-Ware Pricing Plan?",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "Each Shop-Ware pricing plan includes unlimited users, our AI Parts Matrix, the Digital Vehicle Experience, employee calendars and time tracking, basic reporting, inventory management, integrated parts ordering, and maintenance builders. Upgraded tiers add features like unlimited two-way texting, native parts catalogs, business analytics, and a customer relationship management suite.",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "Shop-Ware pricing is structured on a per-location basis, making it easy to choose the package that best fits your shop’s needs. We also offer tailored pricing options for multi-shop organizations. Contact our team to find the right plan for your business.",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "What Is the Best Shop-Ware Pricing Plan for Most Auto Repair Shops?",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "The Pro plan is our most popular starting option because it includes unlimited two-way texting, the MOTOR Labor Guide, and batch payments. It provides the ideal balance of efficiency tools and customer communication features to help you increase gross profit and streamline your workflow.",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "Shop-Ware is built for independent auto repair shops, family-owned garages, and multi-shop organizations that want to transition to a modern, digital workflow. It is the perfect partner for business owners focused on increasing transparency, building customer trust, and maximizing their gross profit.",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "Do I Need Training to Use Shop-Ware?",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, but customized to your needs. We offer simple, personalized training designed to accommodate your team’s goals and schedules. Whether you prefer one-on-one guidance from your dedicated Shop-Ware specialist or self-paced learning through our content library, we’ll make sure you’re set up for success.",
+    "url": "https://shop-ware.com/packages/",
+    "pass": 1
+   },
+   {
+    "quote": "A best-in-class team delivering a best-in-class product.",
+    "url": "https://shop-ware.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Shop-Ware serves the community of hard-working, intelligent professionals that make auto repair possible. We are a company of genuine individuals who take our work and others’ work seriously. Our appreciation applies to our colleagues and our clients.",
+    "url": "https://shop-ware.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We pride ourselves on creating software solutions that actually work in real shop environments – not just on paper. We help your business run more efficiently and more profitably so you can take care of your people – your customers, employees, and family.",
+    "url": "https://shop-ware.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2007 Carolyn Coquillette started Luscious Garage, a hybrid specialty shop catering to drivers in tech-savvy San Francisco. Her custom online management system proved central to business success, garnering international attention. The software continued to evolve over the years to better meet the needs of Luscious Garage and the other shops that expressed interest in using it.",
+    "url": "https://shop-ware.com/about/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Shop-Ware turns everyday shop management into an elevated experience. One that’s intuitive, transparent, and trusted by customers who expect more.",
+    "url": "https://shop-ware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let technicians quickly add their findings via an intuitive and user-friendly interface.",
+    "url": "https://shop-ware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Shop Software Partners | Shop-Ware",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "360 Payments is a payment processing and gateway services company for the automotive industry.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Autoshop Solutions is an award-winning website design and internet marketing agency based in Apex, N.C. Founded by a shop owner in 2005, Autoshop Solutions has been dedicated to the success of the aftermarket automotive industry.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We help change the automotive industry one conversation at a time. Whether you’re a technician, vendor, business owner, or car enthusiast, we hope to inspire you to improve for your customers, your careers, your businesses, and your families.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Parts Authority, is a leading national distributor of automotive replacement parts, tools/equipment, and transmissions.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Amazing 7, LLC is a one stop provider for all your technology needs. The “Technology Tune-Up Experts” specializing in automotive shops, providing service and solutions that help you be amazing 24/7.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2012, Autoflow has helped thousands of shop owners, technicians, and advisors leverage best-in-class digital vehicle inspections enhanced with automated service reminders, online review generation, and follow-up marketing.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Web-based customer retention solutions for automotive service providers.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Mitchell 1 provides premium automotive repair software for professional auto care shops.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides customers with accurate, thorough and timely automotive data to help run their businesses more efficiently, effectively and profitably.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The #1 Automotive e-Commerce Solution in North America.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "OktoRocket is the all-in-one platform revolutionizing how automotive shops engage customers and drive growth. By combining intelligent customer communication tools with actionable performance analytics, they empower shops to deliver outstanding service, boost profits, and unlock their full potential.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "PULSE by DataDyne empowers automotive teams with real-time insights into profitability, performance, and efficiency. Owners, managers, advisors, and technicians get instant visibility into key metrics, driving engagement, motivation, and a high-performance shop environment.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable technicians to upload findings and progress instantly from their mobile device, keeping your team informed and accountable.",
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "We wanted an automotive repair software package with integrated DVI and we got so much more: enhanced customer communication, instant financial reporting, and great work in progress visuals.",
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Owner of EuroService Automotive",
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Let technicians quickly add their findings via an intuitive and user-friendly interface.",
+    "url": "https://shop-ware.com/features/multi-shop-organizations/",
+    "pass": 1
+   },
+   {
+    "quote": "one of the automotive industry’s top software providers. With industry-focused tech that unlocks your potential by giving power to your people, Vehlo’s solutions give you the tools to work your way.",
+    "url": "https://shop-ware.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "How Main Street Automotive Raised the Standard with Shop-Ware",
+    "url": "https://shop-ware.com/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "36% digital revenue growth: How BUS - Industrial Tools transformed complex B2B commerce into a consumer-grade buying experience",
+    "url": "https://www.shopware.com/en/customers/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Annual repair order revenue",
+    "url": "https://shop-ware.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Calls that don’t convert into appointments and service recommendations that don’t get approved are two of the biggest revenue leaks in your shop. GuestX connects your call activity to real outcomes, giving you real-time visibility into missed opportunities, tools to recover lost revenue, and clear performance insights to improve your team.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "It follows the vehicle. Shop-Ware carries the recommendation to the new location with a link to the original repair order, so staff can read the context of the sale and any customer objection. It keeps its original price and can be updated to the local shop’s labor and parts pricing in one step.",
+    "url": "https://shop-ware.com/features/multi-shop-organizations/",
+    "pass": 1
+   },
+   {
+    "quote": "We pride ourselves on creating software solutions that actually work in real shop environments – not just on paper. We help your business run more efficiently and more profitably so you can take care of your people – your customers, employees, and family.",
+    "url": "https://shop-ware.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "MissPompadour saw 72% revenue growth and a 13% increase in average order value with Shopware",
+    "url": "https://www.shopware.com/en/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "36% digital revenue growth: How BUS - Industrial Tools transformed complex B2B commerce into a consumer-grade buying experience",
+    "url": "https://www.shopware.com/en/customers/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Mastertech.ai brings automation and intelligence to your shop with AI-built estimates, diagnostic support, and overdue-service detection, backed by CARFAX, shop data, and licensed OEM repair information.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage inventory levels with precision and build quotes quickly using integrated OEM and aftermarket parts lookups.",
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Websites, CRM, PPC, texting, email, postcards, analytics, DVI and more.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "SI accurately predicts service needs, pre-inspection. SI marketing platform includes POS intel, CRM, emails, texting, postcards, websites, SEO, PPC and more.",
+    "url": "https://shop-ware.com/partners/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Well-known online shops based on Shopware — Gain actionable insights and explore real-world case studies that highlight innovation, scalability, and proven strategies for sustainable success. Discover successful brands and explore the strategies and solutions that fueled their competitive edge. Learn from the best in your industry.",
+    "url": "https://www.shopware.com/en/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Shopware - 2026 Company Profile, Team, Funding, Competitors ...Shop-Ware — Company Profile | The Company CheckShop-Ware - 2026 Company Profile, Team, Funding ... - TracxnShop-Ware – Estimated Net Worth, Growth & Competitor Overview …Shop-Ware 2026 Company Profile: Valuation, Investors ...Shop-Ware Funding: $15.0M Raised, Investors & History (2026 ...Shopware – Strategic Position & Company Metrics ",
+    "url": "https://tracxn.com/d/companies/shopware/__-DxYqfrNewI2XA00GiRAp7eyrpqEebKO5uYDKWcSpOQ",
+    "pass": 3
+   },
+   {
+    "quote": "Shop-Ware 2026 Company Profile: Valuation, Investors ...Shop-Ware Funding: $15.0M Raised, Investors & History (2026 ...Shopware – Strategic Position & Company Metrics – 2026 — Information on acquisition, funding, investors, and executives for Shop-Ware. Use the PitchBook Platform to explore the full profile. Shop-Ware is a SaaS company based in San Francisco, United States, founded in 2013. It has",
+    "url": "https://pitchbook.com/profiles/company/277845-40",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Autumn Tobe Ware Festival 2026｜佐野さち Well, the Autumn Tobe Ware Festival is finally tomorrow! 🍁 I'm glad the weather looks like it will be sunny. ☀️Unlike the Spring Tobe Ware Festival, the Autumn Tobe Ware Festival features in-person sales, so it's a great chance to shop while talking directly with the potters. 👍️There will also",
+    "url": "https://note.com/fair_jacana9001/n/n2feed64177ea?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Autumn Tobe Ware Festival 2026｜佐野さち",
+    "url": "https://note.com/fair_jacana9001/n/n2feed64177ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/fair_jacana9001/n/n2feed64177ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Autumn Tobe Ware Festival 2026",
+    "url": "https://note.com/fair_jacana9001/n/n2feed64177ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Well, the Autumn Tobe Ware Festival is finally tomorrow! 🍁 I'm glad the weather looks like it will be sunny. ☀️",
+    "url": "https://note.com/fair_jacana9001/n/n2feed64177ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike the Spring Tobe Ware Festival, the Autumn Tobe Ware Festival features in-person sales, so it's a great chance to shop while talking directly with the potters. 👍️",
+    "url": "https://note.com/fair_jacana9001/n/n2feed64177ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There will also be delicious food, stage events, and more, so please everyone come to Tobe Town on the 7th and 8th! 🎵",
+    "url": "https://note.com/fair_jacana9001/n/n2feed64177ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I'm thinking of wandering around on the 7th, so I'd be happy if you said hello if you see me at the venue! 🤗",
+    "url": "https://note.com/fair_jacana9001/n/n2feed64177ea?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "#TobeWareFestival2026",
+    "url": "https://note.com/fair_jacana9001/n/n2feed64177ea?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Shopware (@shopware) / X We make ecommerce effortless! Build the exceptional with the leading open commerce platform. #shopware 💙 Find out more: ⬇️",
+    "url": "https://x.com/shopware",
+    "pass": 3
+   },
+   {
+    "quote": "Cookery Ware Shop (@CookeryWareShop) / Posts / X Apr 1, 2010 · Cookery Ware Shop (@CookeryWareShop) - Posts - Since 1969, COOKERY WARE SHOP has been owned and operated by three generations of women for over 35 ... | X (formerly Twitter)",
+    "url": "https://x.com/CookeryWareShop",
+    "pass": 3
+   },
+   {
+    "quote": "Shopware (@shopware) / X The brand new #MajorRelease is here! 🔥 Introducing Shopware 6.6, our newest major release. Discover the significance of this milestone, the exciting changes and advantages it brings, and what it implies for upcoming updates.",
+    "url": "https://x.com/shopware",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Shop-Ware | LinkedIn We are the industry’s premier enterprise-grade SaaS platform for shop management, and we are committed to developing sophisticated tools to help the automotive aftermarket thrive and grow.",
+    "url": "https://www.linkedin.com/company/shop-ware",
+    "pass": 3
+   },
+   {
+    "quote": "Shop-Ware | LinkedIn About Shop-Ware | Auto Repair Shop Management Software. Shop-Ware is the best auto repair shop management software for mechanical repair shops.",
+    "url": "https://www.linkedin.com/products/shop-ware",
+    "pass": 3
+   },
+   {
+    "quote": "Shopware - LinkedIn Shopware | 29,592 followers on LinkedIn. Open commerce for businesses building the future. | Shopware is the enterprise commerce platform built for B2C brands and B2B organizations that require ...",
+    "url": "https://www.linkedin.com/company/shopware-ag",
+    "pass": 3
+   },
+   {
+    "quote": "ShopWare - LinkedIn Streamline your shop floor with real-time insights based on world-class LEAN manufacturing practices. Track production, quality, and downtime instantly and make the information available...",
+    "url": "https://www.linkedin.com/company/shopware/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Shop-Ware - Shop Management Software | Knoxville TN - FacebookShop Ware - FacebookShopware | Schöppingen - FacebookTired of managing endless paperwork and juggling inefficient ...Shop-Ware User Group | FacebookWootton Solutions - FacebookB-Wear Sportswear - Facebook Repair shops that focus on delivering exceptional service tend to build loyalty and retain more customers than those focused on the l",
+    "url": "https://www.facebook.com/getshopware/",
+    "pass": 3
+   },
+   {
+    "quote": "Shop Ware - Facebook Dec 15, 2023 · Shop Ware. 63 followers. Elevate your shopping experience with ShopWare, your online haven for products with style and quality",
+    "url": "https://www.facebook.com/p/Shop-Ware-61554431854425/",
+    "pass": 3
+   },
+   {
+    "quote": "Shopware | Schöppingen - FacebookTired of managing endless paperwork and juggling inefficient ...Shop-Ware User Group | FacebookWootton Solutions - FacebookB-Wear Sportswear - Facebook What if your online store became more than a place to buy? For MissPompadour, that question is shaping the customer experience. By connecting its mobile app with its Shopware store, the team is creating a space wher",
+    "url": "https://www.facebook.com/shopware/",
+    "pass": 3
+   },
+   {
+    "quote": "Shop-Ware User Group | Facebook This group is a space for users to connect, share tips and tricks, discuss best practices, and learn from each other’s experiences with Shop-Ware. Whether you’re looking to optimize your workflow, troubleshoot alongside peers, or discover the benefit of new features, you’re in the right place.",
+    "url": "https://www.facebook.com/groups/1373153436124231/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://shop-ware.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop-ware.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop-ware.com/single-shop-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop-ware.com/features/multi-shop-organizations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop-ware.com/packages/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop-ware.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop-ware.com/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kutaniware.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanbargain.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalkitchenjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kutaniware.com/collections/kutani-ware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shopware.com/en/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/shop-ware",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/admios/case-study/shop-ware-expands-to-300-customers-and-1000-locations-with-admios",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/shopware/__-DxYqfrNewI2XA00GiRAp7eyrpqEebKO5uYDKWcSpOQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/shopware/l38icojwjqxr5d34f",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/shopware/__LA65sWftlystA7BayCqCv2i0E6Q-2EG0J5RWaU-U5mQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/shop-ware",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fair_jacana9001/n/n2feed64177ea?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/shopware",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CookeryWareShop",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/shop-ware",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/shop-ware",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/shopware-ag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/shopware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getshopware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Shop-Ware-61554431854425/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shopware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1373153436124231/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shopware",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Shop Ware 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Shop Ware 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shop Ware Japan",
+   "results": [
+    "https://kutaniware.com/",
+    "https://japanbargain.com/",
+    "https://www.globalkitchenjapan.com/",
+    "https://kutaniware.com/collections/kutani-ware",
+    "https://shop.miwa-japan.com/",
+    "https://utsuwabi.com/",
+    "https://www.japanese-cookware.com/collections/kitchenware"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shop Ware manufacturing customer case study",
+   "results": [
+    "https://www.shopware.com/en/customers/",
+    "https://shop-ware.com/customer-stories/",
+    "https://www.casestudies.com/customer/shop-ware",
+    "https://www.casestudies.com/company/admios/case-study/shop-ware-expands-to-300-customers-and-1000-locations-with-admios",
+    "https://www.featuredcustomers.com/vendor/shop-ware/case-studies",
+    "https://shop-ware.com/customer-stories/this-family-owned-shop-supercharged-gross-profits-to-58/",
+    "https://www.shopware.com/en/customers/case-studies/36-digital-revenue-growth-how-bus-industrial-tools-transformed-complex-b2b-commerce-into-a-consumer-grade-buying-experience/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shop Ware white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "https://www.seoreseller.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shop Ware founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/shopware/__-DxYqfrNewI2XA00GiRAp7eyrpqEebKO5uYDKWcSpOQ",
+    "https://www.thecompanycheck.com/company/b/shopware/l38icojwjqxr5d34f",
+    "https://tracxn.com/d/companies/shopware/__LA65sWftlystA7BayCqCv2i0E6Q-2EG0J5RWaU-U5mQ",
+    "https://compworth.com/company/shop-ware",
+    "https://pitchbook.com/profiles/company/277845-40",
+    "https://indexed.vc/companies/shop-ware",
+    "https://compworth.com/company/shopware"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Shop Ware",
+   "results": [
+    "https://note.com/fair_jacana9001/n/n2feed64177ea?hl=en",
+    "https://note.com/umeto_ki/n/n42e92bde7a7d?hl=en",
+    "https://note.com/rengetsu_shiga/n/nb28beb74c4f6?hl=en",
+    "https://note.com/wise_turtle184",
+    "https://note.com/clever_orchid805/n/nb5f9d7f7d8ca?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/nice_pony7618/n/ne7ca5e10ec57"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Shop Ware",
+   "results": [
+    "https://x.com/shopware",
+    "https://x.com/JessieWare",
+    "https://shop.x.com/",
+    "https://x.com/CookeryWareShop",
+    "https://x.com/DeMarcusWare",
+    "https://x.com/pcwarecomco",
+    "https://x.com/p0ptartkitty/status/2115926138987913708"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Shop Ware",
+   "results": [
+    "https://www.linkedin.com/company/shop-ware",
+    "https://www.linkedin.com/products/shop-ware",
+    "https://www.linkedin.com/company/shopware-ag",
+    "https://www.linkedin.com/company/shopware/",
+    "https://www.linkedin.com/in/nichole-goughnour-852042167",
+    "https://www.linkedin.com/in/carolyn-coquillette",
+    "https://www.linkedin.com/in/chris-loera-2b791679"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Shop Ware",
+   "results": [
+    "https://www.facebook.com/getshopware/",
+    "https://www.facebook.com/p/Shop-Ware-61554431854425/",
+    "https://www.facebook.com/shopware/",
+    "https://www.facebook.com/groups/1373153436124231/",
+    "https://www.facebook.com/profile.php/?id=100077090411916",
+    "https://www.facebook.com/bwearsportswear/",
+    "https://www.facebook.com/getshopware/videos/run-a-smarter-auto-repair-shop-with-shop-ware/3589050267911673/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shop Ware note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://store.shopware.com/en/kzph492484967762f/add-notes-to-orders-customers-products-and-more.html",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.amazon.co.jp/【決定版】2000社の赤字会社を黒字にした-社長のノートfinal-長谷川和廣/dp/4761275200"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shop Ware X 投稿",
+   "results": [
+    "https://x.com/shopware",
+    "https://warex.ai/how-to-use/",
+    "https://shop-ware.com/",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://photo-tools.tech/",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://x-force.thinkforce.co.jp/archives/461"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

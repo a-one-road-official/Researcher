@@ -1,0 +1,1625 @@
+{
+ "name": "Token",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T07:55:55.504163+00:00",
+ "official_url": "https://www.token.security",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "As AI use explodes, enterprises face a new class of identity threat: intelligent, autonomous agents with unchecked access to critical systems. These agents connect using identities that are:",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agent and non-human identitites span across on-prem, cloud and AI platforms, while outnumbering human identities by 50:1.",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "A single compromised agent can trigger cascading damage across every connected system it touches.",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Without understanding context and usage of each AI agent and identity, security and IAM teams fear breaking production systems.",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "We didn’t sprinkle AI on top. We built an integrated AI system, MCP + AI agents, to secure AI at scale.",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "“A non-human identity (NHI) solution is quickly becoming an essential tool for modern IT and Engineering environments and a crucial part of every comprehensive security program. Token has built a very strong team and a compelling product that knows how to address these problems and is a critical tool to implement for covering NHI risks spanning from legacy applications to modern AI agents.\"",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Non-human identity is a top priority for many teams and it is challenging to gain insight into the full scale and scope of the issue. Token provides an easy solution to get that visibility to then determine where you need to take action.\"",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Security and Trust at Klaviyo",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "“Token Security has enhanced our security by providing us",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "visibility into machine identity risks, something I have yet to see from other vendors. It's the first service I've seen that delivers on the widely-made claim of finding machine identity risk. It provides us with the right amount of detail to mitigate issues without burdening us with tens of rows of useless alerts.”",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "“Token helps customers bolster the management of their non-human identity security challenges, by providing increased visibility, critical risk prevention, and overall stronger security measures. Their approach surpasses all existing identity security solutions.\"",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Guardrails and prompt security fail when access is granted. Token secures agents at the identity level, where control is possible.",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Intent-Based Least-Privilege Enforcement",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Token applies intent-aware least-privilege to agents, ensuring they have only the permissions needed for their purpose, and only for the time required.",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "A machine-first, AI-native approach",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "on-prem, hybrid, and cloud environments.",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Token Security connects with AI, cloud services, CI/CD pipelines, on-prem systems, and more.",
+    "url": "https://www.token.security/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "AI Privilege Guardian",
+    "url": "https://www.token.security/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "We are on a mission to secure the autonomous enterprise. As AI agents evolve from simple assistants to independent actors, Token Security provides the identity lifecycle and intent-based access management required to securely turn AI potential into a competitive advantage.",
+    "url": "https://www.token.security/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Marketing",
+    "url": "https://www.token.security/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Token Security connects with AI, cloud services, CI/CD pipelines, on-prem systems, and more.",
+    "url": "https://www.token.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "AI Privilege Guardian",
+    "url": "https://www.token.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents and non-human identities are the fastest growing attack surface in the enterprise. Help your clients get ahead of the threats with Token Security.",
+    "url": "https://www.token.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provide your clients with a trusted, industry-leading vendor in AI Agent and NHI security. Offer discovery capabilities, actionable insights, and enforcement within one platform.",
+    "url": "https://www.token.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Built for how enterprises actually work",
+    "url": "https://www.token.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Addressing the most pressing challenge, fast",
+    "url": "https://www.token.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We're solving one of the most acute and visible problems enterprises face today, with very short time-to-value.",
+    "url": "https://www.token.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Token Security and Simeio Partner to Extend Enterprise Identity Security to AI Agents",
+    "url": "https://www.token.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Token Security connects with AI, cloud services, CI/CD pipelines, on-prem systems, and more.",
+    "url": "https://www.token.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "AI Privilege Guardian",
+    "url": "https://www.token.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "are designed for collaboration, meaningful work, and professional growth. We take coffee seriously, our top-tier machine works almost as hard as the team and keep the AC at the rare temperature where nobody freezes or melts.",
+    "url": "https://www.token.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our kitchen is fully stocked because no one should have to solve big problems on an empty stomach.",
+    "url": "https://www.token.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Try our Tetris game, you might surprise yourself.",
+    "url": "https://www.token.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "TPRM（サードパーティリスク管理）の比較",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "三菱UFJフィナンシャル・グループ（MUFG）4社＋Progmat＋Digital Asset",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "Progmat（MUFG信託系、SBI・JPX等が出資）",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.mufg.jp/dam/pressrelease/2026/pdf/news-20260813-002_ja.pdf",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "参考資料：Progmat（デジタルアセットプラットフォーム）公式サイト（",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "https://progmat.co.jp/",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル証券ならProgmatやBOOSTRYの「ibet for Fin」といった発行管理基盤、ステーブルコインなら信託型の発行基盤が代表例です",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "先ほどの3つの関わり方に当てると、発行管理基盤に乗せるならSecuritize JapanやProgmat Coin、自前開発を外部の技術力で進めるならConsensus Base、構想から規制対応まで伴走を頼むならConsensus Base・ICHIZEN HOLDINGS・Decentier・finojectが対応します",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "当事者マップで言及したProgmatのセキュリティトークン基盤や、同じくデジタル証券の発行管理基盤であるBOOSTRYの「ibet for Fin」は、主に金融機関の大型案件を担う基盤です",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "2. Progmat Coin（株式会社Progmat）",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "Progmatは、デジタルアセットの発行・管理基盤を提供する事業者で、MUFG信託系を中心にSBIやJPXなどが出資しています",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "Progmat Coinは、信託型ステーブルコイン（資金決済法上の電子決済手段＝特定信託受益権）を発行・管理するための基盤です",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "8. 日本円ステーブルコインJPYC Prepaid（JPYC株式会社）",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "「Token Electronics」の代理店・取扱店 - indexPro",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4404",
+    "pass": 3
+   },
+   {
+    "quote": "Token Electronicsの製品情報一覧 - indexPro",
+    "url": "https://www.indexpro.co.jp/SearchProduct/2788",
+    "pass": 3
+   },
+   {
+    "quote": "additive and traditional technologies with proprietary",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "their customers, reducing costs, and improving supply",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The prominent manufacturing platform needed a holistic",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "for improvement during the assessment, such as:",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "phase where comprehensive visibility into products and",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "cloud presented a potential risk of lateral movement.",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "deep expertise with collaborative approaches that are",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ColorTokens swiftly addressed the firm’s challenges through a comprehensive approach,",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "leveraging Xshield Enterprise Microsegmentation Platform and Xassure, ColorTokens’",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "our end-to-end approach:",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Lateral Movement Prevention: By reducing the attack surface across server",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "infrastructure, ColorTokens prevented lateral movement within multiple environments.",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“A non-human identity (NHI) solution is quickly becoming an essential tool for modern IT and Engineering environments and a crucial part of every comprehensive security program. Token has built a very strong team and a compelling product that knows how to address these problems and is a critical tool to implement for covering NHI risks spanning from legacy applications to modern AI agents.\"",
+    "url": "https://www.token.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Mergers and Acquisitions",
+    "url": "https://www.token.security/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mergers and acquisitions",
+    "url": "https://www.token.security/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mergers and Acquisitions",
+    "url": "https://www.token.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Mergers and acquisitions",
+    "url": "https://www.token.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Mergers and Acquisitions",
+    "url": "https://www.token.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Mergers and acquisitions",
+    "url": "https://www.token.security/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、海外で広がる上場株式のトークン化は、日本では制度面の制約から公衆への流通にまだ至っていません",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "海外では上場株式のトークン化が進む一方、日本では公衆への流通が実現していません",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "上場株式は株券を発行せず、権利の帰属が証券保管振替機構（ほふり）の振替口座簿の記載によって定まります",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "このため上場株式をトークン化すると、権利の正本である「ほふりの振替口座簿」と「ブロックチェーン上の記録」という2つの記録が並び立ってしまいます",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "トークンエコノミクス設計〜上場交渉・マーケットメイク、Web3研修",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "上場株式のトークン化は海外では広がっていますが、日本では公衆への流通がまだ実現していません",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "「MCB FinTechカタログ」は、東証プライム上場の金融企業マネックスグループが培った金融・テクノロジーの知見を用いて、FinTech領域の調査・研究を担う子会社のマネックスクリプトバンクが運営する、法人向けの金融ソリューション比較サイトです",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "Post-Acquisition Visibility Gap: After a recent",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "acquisition, the customer experienced a transitional",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Managed Security Services. Listed below are the key security use cases delivered through",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "sessions equipped the firm’s employees with best practices to identify and mitigate",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Post-Acquisition Visibility Gap: After a recent",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "acquisition, the customer experienced a transitional",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Managed Security Services. Listed below are the key security use cases delivered through",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "sessions equipped the firm’s employees with best practices to identify and mitigate",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "token Revenue 2024: $17.2M Est., $50M Raised",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "token has not published its revenue. GetLatka estimates it at about $17.2M a year (October 2024).",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "token CEO, founders & employees",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "Todd Clyde founded token in 2015 and runs it as CEO. token had 106 employees (December 2024, LinkedIn), down from 123 a year earlier.",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "What is token's revenue?",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates token's revenue at about",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does token have?",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "The Token Company has 5 total employees.",
+    "url": "https://pitchbook.com/profiles/company/1305629-65",
+    "pass": 3
+   },
+   {
+    "quote": "What is The Token Company’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/1305629-65",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for The Token Company is",
+    "url": "https://pitchbook.com/profiles/company/1305629-65",
+    "pass": 3
+   },
+   {
+    "quote": "A single token can be one character, part of a word, a whole word, or even punctuation.",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is why, when you provide a long document, it might only read part of it or refuse to process it.",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Perplexity's monthly payment amount is not listed on their pricing page (it is $20 for Pro on their official blog).",
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Authentication, which uses a Bearer Token, is also known as application-only authentication. A Bearer Token is a byte array of unspecified format that you generate using a script like a curl command. You can also obtain a Bearer Token from the Developer Console inside the keys and tokens section of your App’s settings. More information about this feature can be found on",
+    "url": "https://docs.x.com/fundamentals/authentication/oauth-2-0/bearer-tokens",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by teams building and securing AI",
+    "url": "https://www.token.security/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Fixed wirewound industrial resistor",
+    "url": "https://www.indexpro.co.jp/SearchProduct/2788",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY - 2024",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Manufacturing with",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Partners with",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A global leader in digital manufacturing, combining",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "software solutions designed for other manufacturers and",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "six conventional manufacturing methods, hundreds of",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "multiple manufacturing facilities in USA, and in the",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The prominent manufacturing platform needed a holistic",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "With the dynamic landscape of digital manufacturing, the",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“As a leader in digital manufacturing, we needed a",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CTO, leading digital manufacturing organization",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "With ColorTokens, the digital manufacturing firm achieved a profound understanding of its",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in the digital manufacturing landscape.",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing firm has successfully fortified its digital defenses, ensuring robust protection",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Splash Factory Case Study: Monarch Token – Monarch Token - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/splash-factory/case-study/monarch-token-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Monarch Token - Customer Case Study",
+    "url": "https://www.casestudies.com/company/splash-factory/case-study/monarch-token-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Monarch Token used Splash Factory",
+    "url": "https://www.casestudies.com/company/splash-factory/case-study/monarch-token-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/splash-factory/case-study/monarch-token-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/splash-factory/case-study/monarch-token-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY - 2024",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Manufacturing with",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Partners with",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A global leader in digital manufacturing, combining",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "software solutions designed for other manufacturers and",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "six conventional manufacturing methods, hundreds of",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "multiple manufacturing facilities in USA, and in the",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The prominent manufacturing platform needed a holistic",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "With the dynamic landscape of digital manufacturing, the",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“As a leader in digital manufacturing, we needed a",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "CTO, leading digital manufacturing organization",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "With ColorTokens, the digital manufacturing firm achieved a profound understanding of its",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "in the digital manufacturing landscape.",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing firm has successfully fortified its digital defenses, ensuring robust protection",
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Token",
+    "url": "https://www.casestudies.com/customer/token2",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本のトークン化の今｜RWA・デジタル証券・ステーブルコインの事例と規制、発行・開発の頼み先 - MCB FinTechカタログ",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "> 日本のトークン化の今｜RWA・デジタル証券・ステーブルコインの事例と規制、発行・開発の頼み先",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "日本のトークン化の今｜RWA・デジタル証券・ステーブルコインの事例と規制、発行・開発の頼み先",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "海外のトークン化（資産のブロックチェーン化）のニュースは目にするものの、「日本では実際どこまで来ているのか、誰が何を動かしているのか」が社内でうまく説明できない",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "経営層から「トークン化やRWA（実物資産のトークン化）が来ているらしい、日本の状況を調べてほしい」と言われて、情報を集め始めた方もいるはずです",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも2026年にかけて、国債のレポ取引のオンチェーン化、トークン化預金、円建てステーブルコイン、不動産のデジタル証券と、資産の種類ごとに具体的な取り組みが動き出しています",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、日本で今動いているトークン化の取り組みを資産の種類を横断して固有名詞で整理し、トークンの種類ごとにどの法律が効いて何が許され何が制約されるのかを切り分けます",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "日本で今動いているトークン化の取り組み（誰が・どの資産を・どの仕組みで・どの段階か）",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "株式のトークン化が日本で公衆流通できない「3つの壁」",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "日本で今動いているトークン化の当事者マップ",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "まず、日本で実際に動いている取り組みを資産の種類ごとに整理します",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Open Chain（G.U.Technologies等が運営、バリデータに日本企業が参加）／あおぞら銀行ほか",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "日本の主なトークン化の取り組み（各当事者の公表資料にもとづき整理",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "資産によって担い手のタイプが分かれるのが、日本の現状を読むうえでの要点です",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、海外で広がる上場株式のトークン化は、日本では制度面の制約から公衆への流通にまだ至っていません",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "出典：日本国債(JGB)レポ取引のオンチェーン化に係る実証実験開始について｜株式会社三菱UFJフィナンシャル・グループ（",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "出典：ブロックチェーン技術を活用した「トークン化預金」関連事業を開始｜株式会社Datachain（",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "参考資料：Japan Open Chain ドキュメント（",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.japanopenchain.org/docs",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "参考資料：JPYC株式会社 公式サイト（累計発行額の公表",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "参考資料：Securitize Japan 公式サイト（ソニー銀行・三井住友信託銀行向けデジタル証券の発表等",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、トークン化する資産の性質に応じて金融商品取引法・資金決済法・不動産特定共同事業法などが使い分けられており、同じ「トークン」でも規律される内容が異なります",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "海外では広がるが、日本では公衆への流通に後述の制度上の制約（開示義務・PTS規制・振替制度との二重管理）がある",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "海外では上場株式のトークン化が進む一方、日本では公衆への流通が実現していません",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "「3つの壁」という切り口自体はDecentier（株式会社Decentier）の分析にもとづく整理で、以下では各壁の中にある論点を、関係する法律の規定（条文）で補いながら紹介します",
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "pass": 3
+   },
+   {
+    "quote": "「Token Electronics」の代理店・取扱店 - indexPro",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4404",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・取扱店の登録、",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4404",
+    "pass": 3
+   },
+   {
+    "quote": "「Token Electronics」の代理店・取扱店：3件",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4404",
+    "pass": 3
+   },
+   {
+    "quote": "By the way, it is sometimes said that Japanese tends to have more tokens than English.",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For example, even with words like 'Konnichiwa' and 'Hello,' depending on how the AI splits them, the number of tokens for Japanese can sometimes be higher.",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A few years ago, some people might have heard things like 'English saves more tokens than Japanese.'",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Claude's prices include Japanese consumption tax; Grok's prices exclude tax. Limited-time discounts are not included.",
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "One question = 2,000 input tokens, 1,000 output tokens (in Japanese, this is about several thousand characters for the question and materials, and about 1,000 to 2,000 characters for the answer)",
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「Token Electronics」の代理店・取扱店 - indexPro — indexProが提供する、代理店検索サイトです。「Token Electronics」の製品を取り扱っている代理店・取扱店の情報をご提供します。",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4404",
+    "pass": 3
+   },
+   {
+    "quote": "「Token Electronics Industry Co., Ltd.」の代理店4社 注目ランキン... — 代理店注目ランキング導出方法について 代理店注目ランキングは、2026年11月時点でのToken Electronics Industry Co., Ltd.の代理店ページ内でのクリックシェアを基に算出しています。クリックシェアは、対象期間内の全企業の総クリック数を各企業のクリック数で割った値を指します。",
+    "url": "https://metoree.com/companies/2898/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "Token Electronics Industry・Token Electronics Industry代理店・部... — Aug 11, 2025 · Token Electronics Industry日本代理店・販売代理店、Token Electronics Industry会社電子部品のラインアップ一覧、とToken Electronics Industry PGM5537,PGM5539,PGM5516等。Token Electronics Industry電子パーツの検索・選択・調達。",
+    "url": "https://jp.findic.com/manufacturer/token-electronics-industry-367md3rZn.html",
+    "pass": 3
+   },
+   {
+    "quote": "Token Electronicsの製品情報一覧 - indexPro — Token Electronicsの製品情報や代理店・取扱店に関するページです。電子部品、産業部品、アプリケーション製品を探すなら国内約4600社の情報を収録している日本最大の電子・産業部品ポータルサイトindexProにお任せください。",
+    "url": "https://www.indexpro.co.jp/SearchProduct/2788",
+    "pass": 3
+   },
+   {
+    "quote": "TOKEN AZUMA通信 | 東商会 — TOKEN 2025.09.09 【TOKEN正規代理店が解説】 あなたのバイクのBBは スレッドタイプ？プレスフィットタイプ？ 2つの種類と選び方 ...",
+    "url": "http://eastwood.co.jp/lineup/token/",
+    "pass": 3
+   },
+   {
+    "quote": "Securing the Future of Digital Manufacturing with Zero Trust ... — The prominent manufacturing platform needed a holistic cybersecurity solution that would help to attain granular visibility across multiple environments and locations. After careful evaluation and testing, the team selected ColorTokens for their cybersecurity needs.",
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Monarch Token - Customer Case Study — Monarch Token partnered with Splash Factory (Information Technology and Services) to solve key challenges. \"Monarch Token - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/splash-factory/case-study/monarch-token-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Token Uses Software & Services — Explore case studies featuring Token as the customer — learn how vendors and partners helped Token solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/token2",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study of An Innovative Start Up: Token | PDF ... - Scribd — It is interesting to note how Melanie Shapiro, Token CEO, expresses in a recent interview (released by Samsung Next) two of her major concerns regarding the future of Token.",
+    "url": "https://www.scribd.com/document/556052379/paper-tokenize",
+    "pass": 3
+   },
+   {
+    "quote": "token Revenue 2024: $17.2M Est., $50M Raised - LATKA — Oct 30, 2026 · token 2024 estimated revenue: $17.2M (up from $8.1M in 2023). Total funding: $50M across 4 rounds. 3K customers, 106 employees. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/token",
+    "pass": 3
+   },
+   {
+    "quote": "Token – Growth Analysis & Alternative Companies – 2026 — Revenue, valuation, and funding figures for Token are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/tokenio",
+    "pass": 3
+   },
+   {
+    "quote": "Token – Strategic Position & Company Metrics – 2026 — Revenue, valuation, and funding figures for Token are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/token",
+    "pass": 3
+   },
+   {
+    "quote": "The Token Company 2026 Profile: Valuation, Funding ... — Jan 1, 2026 · Information on valuation, funding, cap tables, investors, and executives for The Token Company. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/1305629-65",
+    "pass": 3
+   },
+   {
+    "quote": "Token - 2026 Company Profile, Team, Funding, Competitors ...Token.io 2026 Company Profile: Valuation, Funding & Investors ...Token Revenue, Funding & Valuation - prospeo.io — Jul 24, 2026 · Token is a series C company based in London (United Kingdom), founded in 2015 by Steve Kirsch. It operates as a Provider of account-to-account payment infrastructure, variable recurring payments, and data solut",
+    "url": "https://tracxn.com/d/companies/token/__YrZzcMxaeKz3m0W6lt9S7LQ7OjKMAlg0Xvd02W5pejc",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/1305629-65",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "IT/AI Terms for Beginners 25: 'Token' | The Unit AI Uses to ... A token is, roughly speaking, 'a small chunk of text that an AI uses when reading or writing sentences.' Humans count text by 'characters' or 'words.' However, AI processes text by first breaking it down into small chunks. These chunks are tokens. A single token can be one character, part of a word, a whole word, or even punctuation. ",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Updated Daily] Comparing AI Pricing and Token Costs | How ... For those already using AI, I check the pricing, available models, usage limits, and API token costs for each company's plans every day. I prioritize official information from each company; items not publicly disclosed are marked as \"Undisclosed,\" and items I could not verify are marked as ...",
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub認証エラー「Invalid username or token」の解決方法 Aug 19, 2025 · ユーザー名とトークンが正しく含まれていることを確認 まとめ GitHubのパスワード認証廃止により、Personal Access TokenまたはSSHキーを使用する必要があります。 Personal Access Tokenは設定が簡単で、既存のHTTPS URLを維持できるため、移行が容易です。",
+    "url": "https://note.com/keitaro_aigc/n/ne1dce1e1ab20",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "🐈 IT/AI Terms for Beginners 25: 'Token' | The Unit AI Uses to Count Text｜まぐろねこ｜AIと暮らす",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "🐈 IT/AI Terms for Beginners 25: 'Token' | The Unit AI Uses to Count Text",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A few years ago, when I pasted a long document into an AI, it told me, 'It's too long.'",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I looked at the AI's price list, it said, 'X dollars per 1 million tokens.'",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, some of you might have seen '1 billion tokens if you enter an invitation code' on Muse.",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What exactly is this 'token'?",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A token is, roughly speaking,",
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Updated Daily] Comparing AI Pricing and Token Costs | How Much You Can Use with Each Monthly Model｜akitomato",
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Updated Daily] Comparing AI Pricing and Token Costs | How Much You Can Use with Each Monthly Model",
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Last checked: November 11, 2026",
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For those already using AI, I check the pricing, available models, usage limits, and API token costs for each company's plans every day. I prioritize official information from each company; items not publicly disclosed are marked as \"Not Disclosed,\" and items I could not verify are marked as \"Unverified.\"",
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Today's Changes (November 11)",
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Conclusion: Compared to the last check, there are no changes to the pricing of individual plans.",
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ": Checked the displays for ChatGPT, Gemini, Claude, Microsoft 365, Perplexity, and Grok, and they remain the same as last time.",
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub認証エラー「Invalid username or token」の解決方法｜keitaro_aigc",
+    "url": "https://note.com/keitaro_aigc/n/ne1dce1e1ab20",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub認証エラー「Invalid username or token」の解決方法",
+    "url": "https://note.com/keitaro_aigc/n/ne1dce1e1ab20",
+    "pass": 3
+   },
+   {
+    "quote": "Source TreeからのGitHub認証でエラーがでたので、備忘録として残します。",
+    "url": "https://note.com/keitaro_aigc/n/ne1dce1e1ab20",
+    "pass": 3
+   },
+   {
+    "quote": "SourceTreeからGitHubにプッシュしようとすると、以下のエラーが発生：",
+    "url": "https://note.com/keitaro_aigc/n/ne1dce1e1ab20",
+    "pass": 3
+   },
+   {
+    "quote": "remote: Invalid username or token. Password authentication is not supported for Git operations.",
+    "url": "https://note.com/keitaro_aigc/n/ne1dce1e1ab20",
+    "pass": 3
+   },
+   {
+    "quote": "fatal: Authentication failed for 'https://github.com/username/repository.git/'",
+    "url": "https://note.com/keitaro_aigc/n/ne1dce1e1ab20",
+    "pass": 3
+   },
+   {
+    "quote": "2021年8月13日以降、GitHubはパスワード認証を廃止",
+    "url": "https://note.com/keitaro_aigc/n/ne1dce1e1ab20",
+    "pass": 3
+   },
+   {
+    "quote": "しました。そのため、以下の認証方法のいずれかを使用する必要があります：",
+    "url": "https://note.com/keitaro_aigc/n/ne1dce1e1ab20",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "token.com (@tokencom_) / X The Token App has integrated with Seed Vault, Solana Seeker's built-in security layer that protects your keys directly on-device. No extensions and no extra wallets.",
+    "url": "https://x.com/tokencom_",
+    "pass": 3
+   },
+   {
+    "quote": "Token (@token) / X Phishing-resistant is being applied to credentials that don’t earn it. The FIDO2 ceremony is origin-bound. But synced passkeys inherit their cloud account’s recovery paths, and a stolen session token bypasses the strongest credential. The label has to cover the full chain.",
+    "url": "https://x.com/TOKEN",
+    "pass": 3
+   },
+   {
+    "quote": "Using and generating an app-only Bearer Token - X Follow the steps below: Login to your X account on developer.x.com. Navigate to the X App dashboard and open the X App for which you would like to generate access tokens. Navigate to the “keys and tokens” page. You’ll find the API keys, user Access Tokens, and Bearer Token on this page.",
+    "url": "https://docs.x.com/fundamentals/authentication/oauth-2-0/bearer-tokens",
+    "pass": 3
+   },
+   {
+    "quote": "TOKEN (@tokenized_token) / X WHAT CAN WE TOKENIZE? WHAT DOES THE COMMUNITY OWN NEXT? Today, $TOKEN holders can vote on buybacks. Tomorrow, the same treasury can move into tokenized stocks, commodities, crypto, or entirely new onchain assets. As more of the world becomes tokenized, the possibilities for our Show more",
+    "url": "https://x.com/tokenized_token",
+    "pass": 3
+   },
+   {
+    "quote": "Token X (@TokenX_Official) / X Token X would like to extend our sincere appreciation to the students from the Faculty of Economics, Chulalongkorn University for visiting us and engaging in an insightful discussion on Tokenization, Real-World Assets (RWA), Blockchain, and emerging financial technologies. .",
+    "url": "https://x.com/tokenx_official",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・本文）": [
+   {
+    "quote": "Using and generating an app-only Bearer Token - X",
+    "url": "https://docs.x.com/fundamentals/authentication/oauth-2-0/bearer-tokens",
+    "pass": 3
+   },
+   {
+    "quote": "Fetch the complete documentation index at:",
+    "url": "https://docs.x.com/fundamentals/authentication/oauth-2-0/bearer-tokens",
+    "pass": 3
+   },
+   {
+    "quote": "Use this file to discover all available pages before exploring further.",
+    "url": "https://docs.x.com/fundamentals/authentication/oauth-2-0/bearer-tokens",
+    "pass": 3
+   },
+   {
+    "quote": "Using and generating an app-only Bearer Token",
+    "url": "https://docs.x.com/fundamentals/authentication/oauth-2-0/bearer-tokens",
+    "pass": 3
+   },
+   {
+    "quote": "Make Your First Request",
+    "url": "https://docs.x.com/fundamentals/authentication/oauth-2-0/bearer-tokens",
+    "pass": 3
+   },
+   {
+    "quote": "OAuth 2.0 App-Only (Bearer Token)",
+    "url": "https://docs.x.com/fundamentals/authentication/oauth-2-0/bearer-tokens",
+    "pass": 3
+   },
+   {
+    "quote": "Generating and using app-only Bearer Tokens",
+    "url": "https://docs.x.com/fundamentals/authentication/oauth-2-0/bearer-tokens",
+    "pass": 3
+   },
+   {
+    "quote": "OAuth 2.0 Authorization Code Flow with PKCE",
+    "url": "https://docs.x.com/fundamentals/authentication/oauth-2-0/bearer-tokens",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Token - LinkedIn Built for all enterprises, regulated industries, and security-first organizations, Token makes stolen credentials worthless and shuts the front door on identity attacks.",
+    "url": "https://www.linkedin.com/company/token-core",
+    "pass": 3
+   },
+   {
+    "quote": "token.com - LinkedIn At token.com, we’re a diverse team of designers, engineers, product lovers and token enthusiasts, excited about shaping the future of tokens.",
+    "url": "https://www.linkedin.com/company/token-com",
+    "pass": 3
+   },
+   {
+    "quote": "Token Naturals - LinkedIn We produce products that enhance the experiences and well-being of those who enjoy cannabis as part of a full and balanced life. With roots in Alberta, Token is 100% Canadian owned and operated....",
+    "url": "https://ca.linkedin.com/company/token-naturals",
+    "pass": 3
+   },
+   {
+    "quote": "Ido Shlomo - Co-Founder & CTO @ Token Security | Identity ...Todd Clyde - CEO at Token Inc. | LinkedInMel Gelderman - CEO | token.com | LinkedInToken - LinkedIn Co-Founder & CTO @ Token Security | Identity-first AI Agents Security · Experienced Cybersecurity professional turned entrepreneur with a distinguished military service background from Unit... CEO at Token Inc. · Todd Clyde is the CEO of T",
+    "url": "https://il.linkedin.com/in/ido--shlomo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Token - FacebookToken Products | Taichung - FacebookGenerate an Access Token for the Admin System UserAccess Tokens Guide - Meta for DevelopersSocial technologies | Meta for DevelopersNeed help: “Invalid Scopes: manage_pages, pages_show_list ...Token - Dublin - Facebook 6 days ago · All my albums answer the question “where is token?” … but i always wanted to make an album that answered the questio",
+    "url": "https://www.facebook.com/tokenhiphop/",
+    "pass": 3
+   },
+   {
+    "quote": "Token Products | Taichung - FacebookGenerate an Access Token for the Admin System UserAccess Tokens Guide - Meta for DevelopersSocial technologies | Meta for DevelopersNeed help: “Invalid Scopes: manage_pages, pages_show_list ...Token - Dublin - Facebook Sep 1, 2026 · TOKEN is revolutionizing the world of bike components with their high-quality, innovative parts. From smooth-shifting drivetrains t",
+    "url": "https://www.facebook.com/TokenProducts/",
+    "pass": 3
+   },
+   {
+    "quote": "Generate an Access Token for the Admin System User Jun 21, 2026 · Make sure to copy the generated token as you won’t be able to access it again. If you lose the token, you will need to generate a new one.",
+    "url": "https://developers.facebook.com/documentation/ads-commerce/marketing-api/collaborative-ads/managed-partner-ads/api-guide/prerequisites/generate-access-token-system-user/",
+    "pass": 3
+   },
+   {
+    "quote": "Access Tokens Guide - Meta for Developers Sep 19, 2026 · This panel always generates a new User access token whenever you visit it. The token is automatically scoped to your user, since you are signed into your developer account when you access the panel.",
+    "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/access-tokens/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.token.security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.token.security/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.token.security/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.token.security/company/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6605b35d277178642c0ac57e/6981b6301af8a5fc0d81a39b_tlv%20partners.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6605b35d277178642c0ac57e/6ad60c9a8ae0364b2cd6d083_Close%20deals%20your%20customers%20can%E2%80%99t%20defer.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6605b35d277178642c0ac57e/6ae87eb824fe9bf0edaf7958_6ae0bf26d781d98d6f47ebff_Token%20and%20Simeio%20Partnership%20Glow.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.marketreport.jp/insight/tokenization-market-mrf/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://lifeconduct.com/%E6%97%A5%E6%9C%AC%E7%89%88%E3%80%8C%E6%A0%AA%E5%BC%8F%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E3%80%8D%E5%A7%8B%E5%8B%95%E3%81%B8-24%E6%99%82%E9%96%93%E3%83%BB1%E5%86%86%E5%8D%98/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.isotop.jp/archives/6888",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://catalog.monex.co.jp/article/?p=71091",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4404",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/2898/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.findic.com/manufacturer/token-electronics-industry-367md3rZn.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/SearchProduct/2788",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Tokyo,_Japan_10/28/95",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/company/splash-factory/case-study/monarch-token-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/token2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nutanix.com/partners/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/token",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/tokenio",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/token",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1305629-65",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keitaro_aigc/n/ne1dce1e1ab20",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tokencom_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TOKEN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://docs.x.com/fundamentals/authentication/oauth-2-0/bearer-tokens",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tokenized_token",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/token-core",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/token-com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/token-naturals",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/ido--shlomo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tokenhiphop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TokenProducts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://developers.facebook.com/documentation/ads-commerce/marketing-api/collaborative-ads/managed-partner-ads/api-guide/prerequisites/generate-access-token-system-user/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/access-tokens/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/tokenx_official",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Token 日本 導入",
+   "results": [
+    "https://www.marketreport.jp/insight/tokenization-market-mrf/",
+    "https://lifeconduct.com/日本版「株式トークン」始動へ-24時間・1円単/",
+    "https://news.isotop.jp/archives/6888",
+    "https://catalog.monex.co.jp/article/?p=71091",
+    "https://www.fidx.co.jp/tokenized-deposit-japan-global-trends-2026/",
+    "https://www.teamz.co.jp/news/security-token-guide",
+    "https://coinpost.jp/?p=736411"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Token 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4404",
+    "https://metoree.com/companies/2898/distributors/",
+    "https://jp.findic.com/manufacturer/token-electronics-industry-367md3rZn.html",
+    "https://www.indexpro.co.jp/SearchProduct/2788",
+    "http://eastwood.co.jp/lineup/token/",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.asahi-eng.co.jp/maker/token/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Token Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Tokyo,_Japan_10/28/95"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "Token manufacturing customer case study",
+   "results": [
+    "https://colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "https://www.casestudies.com/company/splash-factory/case-study/monarch-token-customer-case-study",
+    "https://mail.colortokens.com/wp-content/uploads/Colortokens_Digital_Manufacturing_Brand_Case_Study.pdf",
+    "https://www.casestudies.com/customer/token2",
+    "https://www.scribd.com/document/556052379/paper-tokenize",
+    "https://colortokens.com/wp-content/uploads/Colortokens_Apparel_Manufacturing_Brand_Case_Study.pdf",
+    "https://tokenoftrust.com/case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Token white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.nutanix.com/partners/resellers",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.seoreseller.com/",
+    "https://www.remitly.com/us/en/landing/partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Token founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/token",
+    "https://compworth.com/company/tokenio",
+    "https://compworth.com/company/token",
+    "https://pitchbook.com/profiles/company/1305629-65",
+    "https://tracxn.com/d/companies/token/__YrZzcMxaeKz3m0W6lt9S7LQ7OjKMAlg0Xvd02W5pejc",
+    "https://pitchbook.com/profiles/company/153640-09",
+    "https://prospeo.io/c/token-revenue"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Token",
+   "results": [
+    "https://note.com/magurocat/n/n2da5bef947c4?hl=en",
+    "https://note.com/akitomato/n/nc354a5301621?hl=en",
+    "https://tales.note.com/oki_token/wqtodb51iw2gm/episodes/e3yhzp0wvanhc",
+    "https://note.com/keitaro_aigc/n/ne1dce1e1ab20",
+    "https://note.com/harueasywork/n/nc5a6a5749bbf?hl=en",
+    "https://note.com/umaki11/n/n66a51d5f15b5?hl=en",
+    "https://note.com/rin_tokenlab"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Token",
+   "results": [
+    "https://x.com/tokencom_",
+    "https://x.com/TOKEN",
+    "https://docs.x.com/fundamentals/authentication/oauth-2-0/bearer-tokens",
+    "https://x.com/tokenized_token",
+    "https://x.com/TokenTunes",
+    "https://docs.x.com/fundamentals/authentication/oauth-1-0a/api-key-and-secret",
+    "https://help.x.com/en/business-and-advertising/financial-services"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Token",
+   "results": [
+    "https://www.linkedin.com/company/token-core",
+    "https://www.linkedin.com/company/token-com",
+    "https://ca.linkedin.com/company/token-naturals",
+    "https://il.linkedin.com/in/ido--shlomo",
+    "https://uk.linkedin.com/in/tclyde",
+    "https://uk.linkedin.com/in/mel-gelderman-a7596a10b",
+    "https://au.linkedin.com/company/tokenaustralia"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Token",
+   "results": [
+    "https://www.facebook.com/tokenhiphop/",
+    "https://www.facebook.com/TokenProducts/",
+    "https://developers.facebook.com/documentation/ads-commerce/marketing-api/collaborative-ads/managed-partner-ads/api-guide/prerequisites/generate-access-token-system-user/",
+    "https://developers.facebook.com/documentation/business-messaging/whatsapp/access-tokens/",
+    "https://www.facebook.com/TokenDublin/",
+    "https://developer.facebook.com/",
+    "https://developers.secure.facebook.com/community/threads/682156271616790/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Token note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/knn_tokenexpress",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Token X 投稿",
+   "results": [
+    "https://www.token-x.com/",
+    "https://x.com/tokenx_official",
+    "https://tokenx.finance/",
+    "https://www.token-x.cn/",
+    "https://x.com/higashinoki0191/status/2097887645104037909",
+    "https://www.token-x.cn/drama-review/new",
+    "https://www.asahi.com/articles/ASV3925VQV39ULFA006M.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部37頁・検索12回）"
+ }
+}

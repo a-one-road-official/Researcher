@@ -1,0 +1,740 @@
+{
+ "name": "Symbio Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T07:20:55.717221+00:00",
+ "official_url": "https://www.symbiorobotics.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "Symbio Robotics | LinkedIn — Symbio Robotics | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/symbio-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Symbio Robotics | BLITZ Portal イノベーション情報 ... — Symbio Robotics | BLITZ Portal イノベーション情報 ... blitzportal.com https://blitzportal.com > Symbio-Robotics-vgjL4Gjo",
+    "url": "https://blitzportal.com/startups/Symbio-Robotics-vgjL4Gjo",
+    "pass": 3
+   },
+   {
+    "quote": "Symbio Robotics - AIwire - Covering Scientific & Technical AI — Symbio Robotics - AIwire - Covering Scientific & Technical AI HPCwire https://www.hpcwire.com > 2021/03/01",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Symbio Robotics Announces Key Executive Hires to Support ... — Symbio Robotics Announces Key Executive Hires to Support ... Automation.com https://www.automation.com > article",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Data partially provided by",
+    "url": "https://blitzportal.com/startups/Symbio-Robotics-vgjL4Gjo",
+    "pass": 3
+   },
+   {
+    "quote": "Off the Wire Press Releases",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The modern factory floor is increasingly automated, but manufacturers are looking for ways to make industrial robots more flexible. Symbio Robotics, a Bay Area startup, is aiming to solve those problems using its new AI-based platform that allows robots to learn, adapt and execute new assembly tasks.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "development platform as robot-agnostic, meaning it can integrate real-time AI software with existing automated manufacturing lines. The robotics middleware and Python programming framework are billed as easing the programming of industrial robots to add intelligence.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Rigid and inflexible block-box automation tends to work well for manufacturing tasks such as welding, but AI tools are so far used sparingly in complex assembly tasks. For automated manufacturing, “Final assembly is the final frontier,” and the focus of Symbio Robotics’ AI efforts, Reynolds added in an interview.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The platform leverages huge volumes of real-time sensor data in the form of streaming video, combining those sensor inputs with control software that allows re-programmed robots to learn and expand their capabilities beyond narrow assembly-line steps.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The software-defined approach uses Python libraries to build real-time automation models. Manufacturing robots installed on an auto assembly line, for example, could be retrained to execute new processes, which could then optimize those new functions through repetition.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Along with Python, the SymbioDCS platform features concurrent, real-time sensor processing and control running on Linux via Docker containers.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "On the system front-end, sensors and cameras help the robot adapt to process variations. The opportunity, Reynolds added, is enhancing human-robot collaboration, then applying those improvements to specific workflows such as final assembly.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The software-defined approach also is promoted as the next step in smart manufacturing, creating what investors said are “intelligent, self-aware” robots capable of learning new assembly tasks.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Car makers are among the largest industrial adopters of robots. Rapid product cycles are forcing them to look beyond dedicated robots performing specific manufacturing tasks. The problem is many industrial robots run proprietary programming languages, further limiting their flexibility.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Symbio comes at the problem from a different angle: using AI to boost human-robot collaboration via a framework that supports programmers. SymbioDCS aims to help developers and domain experts in training machine learning models that allow robots to adapt to perform new tasks.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "“To do this, they are building products that leverage AI strengths and human insight in a symbiotic way,” said Anca Dragan, assistant professor of electrical engineering and computer sciences at the University of California at Berkeley, and an advisor to Symbio. Dragan co-founded the university’s AI research lab.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Reynolds said the startup is currently deploying its first systems in production, then scaling its collaboration with Toyota and other customers.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "who are seeking to marry AI technology with industrial applications. The emphasis is on closer collaboration between developers, domain experts and the robots they design. Human operators would provide feedback and design control policies for squeezing more performance out of robots. The machines could then move up the learning curve to tackle complex assembly tasks.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Symbio Robotics Announces Key Executive Hires to Support Growing List of Manufacturing Customers",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "ISA provides technical resources and standards to help industrial automation professionals advance their careers and the field. We enable automation professionals worldwide to solve problems and enhance their skills by bringing people together to create new technologies and share best practices with future automation professionals.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "framework. The expansion of its leadership roster and appointment of four new vice presidents demonstrates strong momentum, growth trajectory and Symbio’s deep commitment to serve as a leader in modernizing industrial manufacturing.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "“Symbio presents a once-in-a-lifetime opportunity to apply my experience to ignite a new wave of innovation in the industrial manufacturing space,” said Victor Lin, vice president of Engineering, Symbio. “The company is incredibly well-positioned to fundamentally change this decades-old industry by utilizing new software and AI technology developed for Internet, SDN, and robotics.”",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": ", a software engineering pioneer, joins Symbio as vice president of engineering after a decade at Google and an earlier career in networking and semiconductor startups.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "While at Google, Victor worked on a number of groundbreaking products, such as Google Assistant and Google Air, and Software Defined Network.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "David Wong joins the growing executive bench as vice president of finance. with 20 years of global experience in finance and operations.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "has been tapped to be Symbio’s vice president of sales.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "Before joining Symbio, Patrick was vice president of sales and marketing at autonomous vehicle supplier NAVYA Group.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": ", a key partner in Symbio’s initial growth phase, has been promoted to vice president of people.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "Moving forward, her role will focus on accelerating Symbio’s growth and impact through targeted recruiting and a people-first approach to HR.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2014, Symbio Robotics is dedicated to strengthening and revamping the fundamentals in industrial manufacturing through the creation of Al and Robotics technologies. Located in Emeryville, Calif., the company’s core product, SymbioDCS enables automation teams to build and deploy high-quality applications in any factory, at any scale that can assemble anything.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "Physical AI technology is ready to solve real-world problems by fusing AI and physical systems to create products that mimic human cognitive, sensory and physical capabilities.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "26 April, 2024",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "5 Robotic Manufacturing Companies for Smart Factories",
+    "url": "https://blitzportal.com/startups/Symbio-Robotics-vgjL4Gjo",
+    "pass": 3
+   },
+   {
+    "quote": "Symbio emerges from stealth with $30 million to automate industrial assembly",
+    "url": "https://blitzportal.com/startups/Symbio-Robotics-vgjL4Gjo",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Symbio Robotics Gets $30M Funding to Extend Factory Automation Using AI",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The modern factory floor is increasingly automated, but manufacturers are looking for ways to make industrial robots more flexible. Symbio Robotics, a Bay Area startup, is aiming to solve those problems using its new AI-based platform that allows robots to learn, adapt and execute new assembly tasks.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The company emerged last week, announcing partnerships with automakers along with $30 million in venture funding to be used for what it calls “breathing new life into existing industrial robots.” The company’s early investors include Andreessen Horowitz.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "development platform as robot-agnostic, meaning it can integrate real-time AI software with existing automated manufacturing lines. The robotics middleware and Python programming framework are billed as easing the programming of industrial robots to add intelligence.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Rigid and inflexible block-box automation tends to work well for manufacturing tasks such as welding, but AI tools are so far used sparingly in complex assembly tasks. For automated manufacturing, “Final assembly is the final frontier,” and the focus of Symbio Robotics’ AI efforts, Reynolds added in an interview.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The software-defined approach uses Python libraries to build real-time automation models. Manufacturing robots installed on an auto assembly line, for example, could be retrained to execute new processes, which could then optimize those new functions through repetition.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The software-defined approach also is promoted as the next step in smart manufacturing, creating what investors said are “intelligent, self-aware” robots capable of learning new assembly tasks.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Symbio also announced partnerships last week with Nissan Motor Corp. (OTCMKTS: NSANY) and Toyota Motor Corp. Toyota (NYSE: TM) is a pioneer in robotic auto manufacturing. Interestingly, electric car manufacturer Tesla, which relies heavily on robotic manufacturing, is just down the road from Symbio in Fremont, Calif.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Another early investor in Symbio is Eclipse Ventures. “Today’s automakers need more nimble and nuanced robotics to perform increasingly sophisticated assemblies,” said Greg Reichow, a partner at Eclipse Ventures and the former head of global manufacturing and automation engineering at Tesla (NASDAQ: TSLA).",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Car makers are among the largest industrial adopters of robots. Rapid product cycles are forcing them to look beyond dedicated robots performing specific manufacturing tasks. The problem is many industrial robots run proprietary programming languages, further limiting their flexibility.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "who are seeking to marry AI technology with industrial applications. The emphasis is on closer collaboration between developers, domain experts and the robots they design. Human operators would provide feedback and design control policies for squeezing more performance out of robots. The machines could then move up the learning curve to tackle complex assembly tasks.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Symbio Robotics Announces Key Executive Hires to Support Growing List of Manufacturing Customers",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "ISA provides technical resources and standards to help industrial automation professionals advance their careers and the field. We enable automation professionals worldwide to solve problems and enhance their skills by bringing people together to create new technologies and share best practices with future automation professionals.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": ", a pioneer in the future of industrial manufacturing through a combination of artificial intelligence (AI) and industrial robotics, today announced the addition of key executives to its leadership team. On the heels of the company’s official launch in February 2021, armed with $30M, Symbio is quickly focused on expanding its team to meet tremendous customer demand for its",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "framework. The expansion of its leadership roster and appointment of four new vice presidents demonstrates strong momentum, growth trajectory and Symbio’s deep commitment to serve as a leader in modernizing industrial manufacturing.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "“Symbio presents a once-in-a-lifetime opportunity to apply my experience to ignite a new wave of innovation in the industrial manufacturing space,” said Victor Lin, vice president of Engineering, Symbio. “The company is incredibly well-positioned to fundamentally change this decades-old industry by utilizing new software and AI technology developed for Internet, SDN, and robotics.”",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "As a technology and manufacturing sales industry veteran, Pylypuik’s team will support company growth by building key relationships with new and existing customers-- including partners.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "Cassie will build around the exceptional team at Symbio, and will make Symbio the epicenter for engineers working in industrial robotics, edge computing and AI.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": ", the company’s robot agnostic platform runs on edge computing infrastructure through industrial networks to inform and instruct current factory systems to make final assembly tasks available that were never automated before.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2014, Symbio Robotics is dedicated to strengthening and revamping the fundamentals in industrial manufacturing through the creation of Al and Robotics technologies. Located in Emeryville, Calif., the company’s core product, SymbioDCS enables automation teams to build and deploy high-quality applications in any factory, at any scale that can assemble anything.",
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The platform leverages huge volumes of real-time sensor data in the form of streaming video, combining those sensor inputs with control software that allows re-programmed robots to learn and expand their capabilities beyond narrow assembly-line steps.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Symbio also announced partnerships last week with Nissan Motor Corp. (OTCMKTS: NSANY) and Toyota Motor Corp. Toyota (NYSE: TM) is a pioneer in robotic auto manufacturing. Interestingly, electric car manufacturer Tesla, which relies heavily on robotic manufacturing, is just down the road from Symbio in Fremont, Calif.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Another early investor in Symbio is Eclipse Ventures. “Today’s automakers need more nimble and nuanced robotics to perform increasingly sophisticated assemblies,” said Greg Reichow, a partner at Eclipse Ventures and the former head of global manufacturing and automation engineering at Tesla (NASDAQ: TSLA).",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Reynolds is part of a wave of mechanical engineers out of robotics hotbeds like the University of Southern California’s",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "who are seeking to marry AI technology with industrial applications. The emphasis is on closer collaboration between developers, domain experts and the robots they design. Human operators would provide feedback and design control policies for squeezing more performance out of robots. The machines could then move up the learning curve to tackle complex assembly tasks.",
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Symbio Robotics | LinkedIn Symbio Robotics | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/symbio-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Symbio Robotics | LinkedIn Symbio Robotics | LinkedIn LinkedIn https://jp.linkedin.com > company > symbio-robotics",
+    "url": "https://jp.linkedin.com/company/symbio-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Joining the Board of Symbio Robotics ! - LinkedIn Joining the Board of Symbio Robotics ! - LinkedIn LinkedIn https://www.linkedin.com > pulse > jo...",
+    "url": "https://www.linkedin.com/pulse/joining-board-symbio-robotics-gary-gysin",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.symbiorobotics.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.linkedin.com/company/symbio-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://new.abb.com/products/robotics/ja",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=WKVXkJ4tTOk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jidounten-lab.com/u_40207",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/symbio-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://xelarobotics.jp/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blitzportal.com/startups/Symbio-Robotics-vgjL4Gjo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wing-robotics.com/news/00288/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/symbio-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mckinsey.com/industries/industrials/our-insights/japans-100-billion-opportunity-in-general-purpose-robotics",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softbankrobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuwarobotics.com/ja/en/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kawasakirobotics.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automate.org/robotics/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emerald.com/tqm/article/34/5/1076/381014/Symbiotic-relationship-between-robotics-and-Lean",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.universal-robots.com/case-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/symbio-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fruitcore-robotics.com/en/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bluestarinc.com/en-us/manufacturers/bear-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/robotics-top-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Collaborative_Robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/symbio-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/symbio-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/joining-board-symbio-robotics-gary-gysin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/symbio-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/symbio-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Symbio Robotics 日本 導入",
+   "results": [
+    "https://www.linkedin.com/company/symbio-robotics",
+    "https://new.abb.com/products/robotics/ja",
+    "https://www.youtube.com/watch?v=WKVXkJ4tTOk",
+    "https://jidounten-lab.com/u_40207",
+    "https://robotics.tokyo/",
+    "https://www.rr-hds.co.jp/business/hottopic/robotics/",
+    "https://blitzportal.com/startups/Symbio-Robotics-vgjL4Gjo",
+    "https://syriusrobotics.co.jp/",
+    "https://toyoroboinc.com/",
+    "https://robotstart.info/article/2026/10/20/382542.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Symbio Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.linkedin.com/company/symbio-robotics",
+    "https://xelarobotics.jp/distributors/",
+    "https://blitzportal.com/startups/Symbio-Robotics-vgjL4Gjo",
+    "https://wing-robotics.com/news/00288/",
+    "https://www.tokiwa-electric-fa.com/news/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%89%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-orionstar-robotics%E7%A4%BE%E3%81%A8%E3%81%AE%E4%BB%A3%E7%90%86%E5%BA%97%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%90",
+    "https://robotics.tokyo/",
+    "https://www.tesollo.com/jp/partners",
+    "https://smartshift-robotics.com/partners/",
+    "https://toyoroboinc.com/",
+    "https://ja.wikipedia.org/wiki/秦英之"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Symbio Robotics Japan",
+   "results": [
+    "https://www.linkedin.com/company/symbio-robotics",
+    "https://www.mckinsey.com/industries/industrials/our-insights/japans-100-billion-opportunity-in-general-purpose-robotics",
+    "https://www.softbankrobotics.com/",
+    "https://www.nuwarobotics.com/ja/en/company",
+    "https://ifr.org/ifr-press-releases/news/japan-is-worlds-number-one-robot-maker",
+    "https://en.wikipedia.org/wiki/Japanese_robotics",
+    "https://www.mobile-robots.com/location/asia/japan/",
+    "https://www.youtube.com/watch?v=x31tK6zoM5s",
+    "https://www.businesswire.com/news/home/20210503005302/en/Symbio-Robotics---The-Tech-Behind-Ford-Motor-Companys-AI-enabled-Assembly-Line",
+    "https://www.symbio-ras.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Symbio Robotics manufacturing customer case study",
+   "results": [
+    "https://kawasakirobotics.com/case-studies/",
+    "https://www.automate.org/robotics/case-studies",
+    "https://www.emerald.com/tqm/article/34/5/1076/381014/Symbiotic-relationship-between-robotics-and-Lean",
+    "https://www.universal-robots.com/case-stories/",
+    "https://www.roboticsfactory.org/case-studies",
+    "https://www.linkedin.com/company/symbio-robotics",
+    "https://ifr.org/case-studies/industry-robots-case-studies",
+    "https://motioncontrolsrobotics.com/about/case-studies/",
+    "https://www.businesswire.com/news/home/20210901005365/en/AI-Industrial-Automation-Company-Symbio-Robotics-Announces-Key-Executive-Hires-to-Support-Growing-List-of-Manufacturing-Customers"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Symbio Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://www.linkedin.com/company/symbio-robotics",
+    "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "https://www.fruitcore-robotics.com/en/whitelabel",
+    "https://www.bluestarinc.com/en-us/manufacturers/bear-robotics",
+    "https://smprobotics.com/products_autonomous_ugv/",
+    "https://kodyrobots.com/partner-with-us/",
+    "https://www.symbotic.com/news/symbotic-joins-stanford-robotics-center-industrial-affiliates-program/",
+    "http://www.alexchendesign.com/symbio-robotics",
+    "https://www.owler.com/company/symb",
+    "https://www.symbio.global/reseller-services"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Symbio Robotics founded funding employees revenue",
+   "results": [
+    "https://www.hpcwire.com/aiwire/2021/03/01/robotics-startup-extends-factory-automation-with-ai/",
+    "https://newmarketpitch.com/blogs/news/robotics-top-revenue",
+    "https://growjo.com/company/Collaborative_Robotics",
+    "https://www.automation.com/article/ai-industrial-automation-company-symbio-robotics-a",
+    "https://getlatka.com/companies/simberobotics.com",
+    "https://symbotic.gcs-web.com/news-releases/news-release-details/symbotic-reports-first-quarter-fiscal-year-2025-results",
+    "https://www.linkedin.com/company/symbio-robotics",
+    "https://pitchbook.com/profiles/company/243666-10",
+    "https://www.landbase.com/blog/fastest-growing-robotics-companies",
+    "https://pitchbook.com/profiles/company/110508-31"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Symbio Robotics",
+   "results": [
+    "https://note.com/space_buddha/n/n9cf1acbf5890?hl=en",
+    "https://note.com/kabutica/n/n622b138a3de4?hl=en",
+    "https://note.com/tosho_datamatrix/n/n45df47fb1cae?hl=en",
+    "https://note.com/kabutica/n/n5740fc76dcd2?hl=en",
+    "https://note.com/symbiomaker/n/n58f78a32d9f3?hl=en",
+    "https://note.com/logics_invest/n/n2793b91752e9?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/joyous_zebra493/n/n0dbd3466eafd?hl=en",
+    "https://note.com/testing_ground/n/n5f3cddbff6f8?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com Symbio Robotics",
+   "results": [
+    "https://x.com/Doza4444Art/status/2112753439591768150/photo/1",
+    "https://x.com/Symbiotized/status/1332303874099531776",
+    "https://x.com/Symbiotized/status/1543484274514567169",
+    "https://x.com/OneH2Fuel",
+    "https://x.com/rjohnweber",
+    "https://x.com/ClementDelangue/status/1870415867328204847",
+    "https://x.com/cookierunupdate/status/1270661161340375040",
+    "https://x.com/T313VISI0N/with_replies",
+    "https://x.com/HisaeOgido",
+    "https://x.com/SymbioResearch"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Symbio Robotics",
+   "results": [
+    "https://www.linkedin.com/company/symbio-robotics",
+    "https://jp.linkedin.com/company/symbio-robotics",
+    "https://www.linkedin.com/pulse/joining-board-symbio-robotics-gary-gysin",
+    "https://www.linkedin.com/in/brandoncpereira",
+    "https://www.linkedin.com/company/dorna-robotics",
+    "https://www.linkedin.com/in/zach-collins-a43708b4",
+    "https://www.linkedin.com/company/skip-robotics",
+    "https://www.linkedin.com/company/symbiokinetics",
+    "https://www.linkedin.com/in/hemanth-sarabu",
+    "https://www.linkedin.com/company/meka-robotics"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Symbio Robotics",
+   "results": [
+    "https://www.facebook.com/symbionext/",
+    "https://www.facebook.com/weareairlift/",
+    "https://www.facebook.com/symbiolaboratories/videos/step-inside-innovation-at-symbio-laboratories-our-new-virtual-laboratory-tour-fi/891084052519733/",
+    "https://www.facebook.com/scholarships.worldwide1/posts/fully-funded-phd-position-wearable-robotics-spring-2027/1674797281313999/",
+    "https://www.facebook.com/INGHubsRomania/posts/-the-results-are-in-for-the-%F0%9D%90%92%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A9-%F0%9D%90%9F%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB-%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%9B%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%9C%F0%9D%90%AC-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-this-r/1752628250204729/",
+    "https://www.facebook.com/VeoliaANZ/videos/veolia-bibra-lake-robot-arm/4260932367514083/",
+    "https://www.facebook.com/TraneCommercial/videos/were-honored-to-have-our-symbio-500-equipment-controller-and-thermal-battery-sto/417699411116080/",
+    "https://www.facebook.com/symbiohush/",
+    "https://www.facebook.com/abdul.karim.gazi.574170/posts/fully-funded-phd-positions-in-physical-embodied-ai-robotics-usa-the-university-o/2834894433561545/",
+    "https://www.facebook.com/realsophiarobot/videos/get-me-a-robot-passport-already-ill-be-goodbirthright-citizenship-worldcitizen-b/1727343205272622/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Symbio Robotics note 社長",
+   "results": [
+    "https://jp.linkedin.com/company/symbio-robotics",
+    "https://note.com/otl_sr/n/n32a245b3fb0f?hl=en",
+    "https://www.youtube.com/watch?v=fwtGIbLkRe4",
+    "https://researchmap.jp/shibam/research_interests/3617195",
+    "https://note.com/sustainergy/n/n77e217a10d07",
+    "https://us.softbankrobotics.com/about",
+    "https://www.simberobotics.com/about/who-we-are",
+    "https://bonsairobotics.ai/about/",
+    "https://blitzportal.com/startups/Symbio-Robotics-vgjL4Gjo",
+    "https://www.linkedin.com/company/symbio-robotics"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Symbio Robotics X 投稿",
+   "results": [
+    "https://www.linkedin.com/company/symbio-robotics",
+    "https://duyayun.github.io/",
+    "https://therobotindustrypodcast.com/podcast/symbio-robotics-force-torque-vision-and-ai-in-final-assembly/",
+    "https://x.com/mimicrobotics",
+    "http://www.alexchendesign.com/symbio-robotics",
+    "https://www.assemblymag.com/articles/96357-artificial-intelligence-enables-robots-to-assemble-transmissions",
+    "https://www.automationmag.com/symbio-robotics-provides-ai-enabled-assembly-for-ford/",
+    "https://www.businesswire.com/news/home/20210503005302/en/Symbio-Robotics---The-Tech-Behind-Ford-Motor-Companys-AI-enabled-Assembly-Line"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

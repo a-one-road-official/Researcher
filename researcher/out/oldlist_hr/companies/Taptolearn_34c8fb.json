@@ -1,0 +1,474 @@
+{
+ "name": "Taptolearn",
+ "aliases": [],
+ "context": "旧営業リスト｜K-12 Education｜未接触",
+ "researched_at": "2026-11-11T07:34:37.331349+00:00",
+ "official_url": "https://taptolearn.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Math, spelling, grammar, geography and science — each one wrapped in a game worth coming back to. 36 million downloads, and now our most-loved titles play free in your browser.",
+    "url": "https://www.taptolearn.com",
+    "pass": 1
+   },
+   {
+    "quote": "We're rebuilding our most-loved titles in HTML5 so they run anywhere — a Chromebook in class, a phone in the back seat, the family laptop at the kitchen table. Progress saves on the device.",
+    "url": "https://www.taptolearn.com",
+    "pass": 1
+   },
+   {
+    "quote": "Sixteen original titles, all ours — characters, art, music and content. Ten are on this page; the rest are",
+    "url": "https://www.taptolearn.com",
+    "pass": 1
+   },
+   {
+    "quote": "No ads, no chat, no accounts to create. The web games run entirely on your device and nothing leaves it.",
+    "url": "https://www.taptolearn.com",
+    "pass": 1
+   },
+   {
+    "quote": "Two billion children have a phone or tablet within arm's reach. We're helping turn that time into practice they'll thank you for later.",
+    "url": "https://www.taptolearn.com",
+    "pass": 1
+   },
+   {
+    "quote": "Progress and reports on the device — see what's mastered and what needs another go",
+    "url": "https://www.taptolearn.com",
+    "pass": 1
+   },
+   {
+    "quote": "36 million downloads",
+    "url": "https://www.taptolearn.com",
+    "pass": 1
+   },
+   {
+    "quote": "Math vs Zombies, Tiny Countries, Tiny Fractions and Grammar App play completely free in any web browser — no download, no account, no ads. The rest of the library was published as iPhone and iPad apps and is being brought to the web one game at a time.",
+    "url": "https://www.taptolearn.com",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The browser games are plain HTML5 and run on Chromebooks, iPads, Android tablets, phones and laptops with nothing to install. Progress is saved on the device.",
+    "url": "https://www.taptolearn.com",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. There are no ads, no chat and no sign-up. The browser games run entirely on your device and nothing is sent anywhere.",
+    "url": "https://www.taptolearn.com",
+    "pass": 1
+   },
+   {
+    "quote": "TapToLearn is a game studio founded in 2011 that has shipped over 50 learning apps with 36 million downloads, Top-20 education chart positions in 20+ countries and an Apple \"New & Noteworthy\" feature.",
+    "url": "https://www.taptolearn.com",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TapToLearn — Learning games kids actually want to play — TapToLearn — Learning games kids actually want to play taptolearn.com https://www.taptolearn.com",
+    "url": "https://www.taptolearn.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "TapToLearn (@taptolearn) / X TapToLearn @taptolearn Nov 4, 2013 TapToLearn is at Dust or Magic conference learning from and sharing with the Children's New Media Institute! #dustormagic",
+    "url": "https://x.com/taptolearn",
+    "pass": 3
+   },
+   {
+    "quote": "\"#TapToLearn\" - Results on X | Live Posts & Updates Results for \"#TapToLearn\" on X (Twitter). Find the latest posts, discussions, and updates about #TapToLearn. 3 results found.",
+    "url": "https://x.com/hashtag/TapToLearn",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.taptolearn.com",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://linchpin-consulting.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%87%AA%E5%8B%95%E8%BB%8A%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%86%8D%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8Bota%E3%82%A2%E3%83%83/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=_4q3teh-yQk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC103530Q2A210C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tomofuru.com/service/sample-service3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://guidetojapanese.org/learn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tofugu.com/learn-japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=FgCPc5qPCh0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rosettastone.com/learn-japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skillsoft.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/customer-stories/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/legendsoflearning",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/ai-education-top-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=7JH3tNDJgQU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://growjo.com/company/PlayShifu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/taptolearn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/TapToLearn",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Taptolearn 日本 導入",
+   "results": [
+    "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "https://linchpin-consulting.com/ja/%E6%97%A5%E6%9C%AC%E3%81%AE%E8%87%AA%E5%8B%95%E8%BB%8A%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%86%8D%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8Bota%E3%82%A2%E3%83%83/",
+    "https://www.youtube.com/watch?v=_4q3teh-yQk",
+    "https://www.nikkei.com/article/DGXZQOUC103530Q2A210C2000000/",
+    "https://x.com/i/trending/2023441258102821054",
+    "https://jidounten-lab.com/u_67463",
+    "https://apps.apple.com/jp/app/todaii-learn-japanese-%E6%97%A5%E6%9C%AC%E8%AA%9E/id1107177166",
+    "https://www.digital-knowledge.co.jp/archives/32104/",
+    "https://www.taptolearn.com/",
+    "https://www.taptolearn.com/about.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Taptolearn 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://tomofuru.com/service/sample-service3/",
+    "https://dairitenboshu.com/",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://www.spiral-platform.co.jp/article/sales-agent-support/522/",
+    "https://usen.com/portal/partner/column/successful-agency-business/",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://web-repo.jp/articles/1451"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Taptolearn Japan",
+   "results": [
+    "https://guidetojapanese.org/learn/",
+    "https://www.tofugu.com/learn-japanese/",
+    "https://www.youtube.com/watch?v=FgCPc5qPCh0",
+    "https://www.rosettastone.com/learn-japanese",
+    "https://www.taptolearn.com/",
+    "https://www.japan.travel/en/plan/japanese-language/",
+    "https://apps.apple.com/us/app/learn-japanese-phrasebook/id447047877",
+    "https://japanese.todaiinews.com/",
+    "https://www.abroadinjapan.com/category-studyingjapanese",
+    "https://www.taptolearn.com/about.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Taptolearn manufacturing customer case study",
+   "results": [
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.skillsoft.com/customer-stories",
+    "https://cadtalk.com/cadtalk-case-studies-for-manufacturers/",
+    "https://www.autodesk.com/customer-stories/case-studies",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.appliedinnovation.com/about-us/resources/case-studies/",
+    "https://www.elblearning.com/case-studies",
+    "https://fourjaw.com/tell-your-manufacturing-story",
+    "https://taller.us/case-studies/industry/industrial-manufacturing-supply-chain",
+    "https://www.taptolearn.com/about.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Taptolearn white label OR reseller OR partner program",
+   "results": [
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://ezycourse.com/blog/white-label-education-platforms",
+    "https://www.quora.com/If-you-build-a-successful-company-as-a-reseller-of-software-as-a-white-label-partner-will-a-company-ever-acquire-you-or-will-they-just-go-to-the-company-you-whitelabeled-from-Can-you-really-have-an-exit-starting-a",
+    "https://www.appilyappbuilder.com/reseller-apps-with-a-white-label-app-builder-and-start-earning-money",
+    "https://www.youtube.com/watch?v=UHSbzGSpTBQ",
+    "https://uthena.com/blogs/tips/top-platforms-for-reselling-white-label-courses-a-comparative-analysis/?srsltid=AYCX9vIH6u8sl5DRY0Z6EiBllsySQ8-wk-zAdBNvQyyyzQ3tSt9Os2QV",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Taptolearn founded funding employees revenue",
+   "results": [
+    "https://www.owler.com/company/legendsoflearning",
+    "https://newmarketpitch.com/blogs/news/ai-education-top-revenue",
+    "https://www.youtube.com/watch?v=7JH3tNDJgQU",
+    "https://growjo.com/company/PlayShifu",
+    "https://www.vccircle.com/june-software-receives-over-1m-silicon-valley-investors",
+    "https://dealroom.co/lists/gamification-startups/",
+    "https://tracxn.com/d/companies/splashlearn/__1nXMgpMHPxVhtq2cuSR42ida3DeSl9oM3Puj9O-N4m0",
+    "https://gaps.com/finance/",
+    "https://www.inven.ai/company-lists/top-25-educational-game-development-companies",
+    "https://getlatka.com/companies/taptolearn.com/customers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Taptolearn",
+   "results": [
+    "https://note.com/asabamiyuki",
+    "https://note.com/michiruf",
+    "https://note.com/arrows_column/n/nc266340c0609",
+    "https://note.com/nice_pony7618/n/ne7ca5e10ec57",
+    "https://note.com/_takumi_inoue_/n/n410a6d5a5a36",
+    "https://note.com/rich_hornet205/n/n0d2ee6e26fb6",
+    "https://note.com/yorimichi_sci/n/n9402d45ab144"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Taptolearn",
+   "results": [
+    "https://x.com/taptolearn",
+    "https://x.com/hashtag/TapToLearn",
+    "https://x.com/",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/AlexDemSoc_161/status/2114500677200126011",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/CogitoEdu/status/2117911840973861028"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Taptolearn",
+   "results": [
+    "https://in.linkedin.com/company/junesoftware",
+    "https://in.linkedin.com/in/avinash-pandey",
+    "https://in.linkedin.com/in/robytj",
+    "https://www.linkedin.com/company/judicata",
+    "https://www.linkedin.com/company/cucina-inc",
+    "https://www.linkedin.com/in/aamir-p-a3575318",
+    "https://in.linkedin.com/company/o2-software",
+    "https://www.linkedin.com/company/amberpoint",
+    "https://in.linkedin.com/in/sreejitj",
+    "https://www.linkedin.com/company/taptolearn-june"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Taptolearn",
+   "results": [
+    "https://www.facebook.com/bbccomedy/videos/lewis-capaldi-pranked-by-michael-mcintyre-toilet-selfie-text-michael-mcintyres-b/1789296485358808/",
+    "https://www.facebook.com/MathVsZombies/",
+    "https://www.facebook.com/groups/3058478544435773/posts/4141526216130995/",
+    "https://www.facebook.com/pennypincherworld/videos/electric-wheelchairs-compared/987294861114667/",
+    "https://www.facebook.com/groups/1035643930820106/posts/1444542289930266/",
+    "https://www.facebook.com/61574145966005/videos/-navigating-rent-to-own-car-agreements-a-comprehensive-guide/2172751013334944/",
+    "https://www.facebook.com/groups/412613699802095/posts/1609631923433594/",
+    "https://www.facebook.com/TapToLearn/",
+    "https://www.facebook.com/taptolearn.2023/",
+    "https://www.facebook.com/TapToLearn/posts/check-out-our-cool-new-game-for-learning-geography-httpsitunesapplecomusapptiny-/449709785087361/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Taptolearn note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/ai_shacho",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://nipponia.or.jp/blog/3571/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Taptolearn X 投稿",
+   "results": [
+    "https://www.taptolearn.com/products.html",
+    "https://x.com/masahirochaen/status/2033130909365370993",
+    "https://www.youtube.com/shorts/FXAfNdC048o",
+    "https://qiita.com/free-honda/items/c8d72698484b5914d30c",
+    "https://www.upload-post.com/ja/n8n/x-twitter-upload/",
+    "https://zenn.dev/beachone1155/articles/20251001-x-automation",
+    "https://notebookclipper.com/ja/docs/x-twitter/add-x-post",
+    "https://note.com/miraichi_ai/n/nb9e680aded12",
+    "https://www.taptolearn.com/contact.html",
+    "https://x.com/taptolearn"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

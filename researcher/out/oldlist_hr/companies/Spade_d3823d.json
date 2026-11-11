@@ -1,0 +1,1458 @@
+{
+ "name": "Spade",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜未接触",
+ "researched_at": "2026-11-11T07:28:50.676743+00:00",
+ "official_url": "https://www.spade.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Financial institutions process billions of transactions every day,",
+    "url": "https://www.spade.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give marketing teams true merchant and location-level clarity, enabling targeted, meaningful programs without messy data or guesswork.",
+    "url": "https://www.spade.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide consistent merchant context across cards, transfers, and third party sources — powering personalized offers, new product features, and better cross-sell opportunities.",
+    "url": "https://www.spade.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Power new products, rewards, and AI capabilities with a data foundation that scales.",
+    "url": "https://www.spade.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Clarity at enterprise scale",
+    "url": "https://www.spade.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven across payments and beyond",
+    "url": "https://www.spade.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We needed real-time controls that didn't create false declines. Spade's merchant and location data lets us approve legitimate fuel purchases while blocking misuse, and helps save our customers tens of thousands of dollars.",
+    "url": "https://www.spade.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As Mercury scaled, transactions became a core input to accounting, categorization, and other downstream financial workflows. Standard transaction data wasn’t reliable enough to support those processes until Mercury integrated Spade.",
+    "url": "https://www.spade.com/customers/mercury/",
+    "pass": 1
+   },
+   {
+    "quote": "Mercury provides banking and financial tools for startups and small businesses that want clarity and control over their finances. For many customers, Mercury functions as a financial operating system, where transactions flow directly into accounting, expense management, and financial automation.",
+    "url": "https://www.spade.com/customers/mercury/",
+    "pass": 1
+   },
+   {
+    "quote": "At Mercury’s scale, transaction data isn’t just displayed in a feed — it’s consumed by downstream systems that depend on accuracy and consistency. Merchant names, categories, and identities need to hold up not only for user visibility, but when passed directly into accounting workflows and automated processes.",
+    "url": "https://www.spade.com/customers/mercury/",
+    "pass": 1
+   },
+   {
+    "quote": "Like most fintechs, Mercury relied on Merchant Category Codes and raw transaction descriptors. In practice, this data was often inconsistent. The same merchant could appear under multiple names, categories were too broad to be useful, and edge cases required manual intervention.",
+    "url": "https://www.spade.com/customers/mercury/",
+    "pass": 1
+   },
+   {
+    "quote": "These gaps initially became evident in accounting processes. Inaccurate merchant data forced customers to reclassify transactions and reconcile records by hand, introducing friction into workflows that were meant to feel automated and reliable.",
+    "url": "https://www.spade.com/customers/mercury/",
+    "pass": 1
+   },
+   {
+    "quote": "The Mercury team responsible for accounting workflows was the first to integrate Spade’s API. Instead of parsing descriptors or relying on MCCs, each transaction could be tied to a stable business entity with reliable metadata. This improved accounting accuracy and reduced manual cleanup.",
+    "url": "https://www.spade.com/customers/mercury/",
+    "pass": 1
+   },
+   {
+    "quote": "As Mercury recognized that other parts of their platform could benefit from the same enriched transaction data, Spade became shared infrastructure across the business — including the corporate card experience, where consistent transaction context supports clearer categorization and more predictable behavior.",
+    "url": "https://www.spade.com/customers/mercury/",
+    "pass": 1
+   },
+   {
+    "quote": "Mercury’s experience highlights a broader pattern for fintechs building products where transactions feed downstream systems. As companies scale, transactions stop being an endpoint and become an input — powering accounting, automation, and customer-facing workflows.",
+    "url": "https://www.spade.com/customers/mercury/",
+    "pass": 1
+   },
+   {
+    "quote": "When transaction data is unreliable at the source, inconsistency compounds downstream. Investing in accurate, structured transaction enrichment as core infrastructure allows fintechs to reduce operational overhead, maintain data integrity across products, and scale without introducing additional complexity.",
+    "url": "https://www.spade.com/customers/mercury/",
+    "pass": 1
+   },
+   {
+    "quote": "Spade gives processors, networks, and platforms a universal data layer that keeps every partner in sync with clean, structured merchant intelligence.",
+    "url": "https://www.spade.com/industry/ecosystem-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by customers processing $100B+ in payments each year",
+    "url": "https://www.spade.com/industry/ecosystem-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enriched transaction data isn't just a feature; it's what makes new revenue streams possible for our customers. Spade's accuracy and speed are what allow platforms to build products they can actually monetize.",
+    "url": "https://www.spade.com/industry/ecosystem-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We need partners who can move at our pace and deliver quality at the same time. Spade's been great on both — fast to implement, responsive as we scale, and the data quality is exactly what our card programs need.",
+    "url": "https://www.spade.com/industry/ecosystem-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Director of Product Strategy & Innovation",
+    "url": "https://www.spade.com/industry/ecosystem-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Spade’s API transforms unstructured transaction feeds into clean, verified merchant data that’s ready to power any product or partner integration.",
+    "url": "https://www.spade.com/industry/ecosystem-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How Sardine Uses Transaction Intelligence to Improve Real-Time Fraud Decisions",
+    "url": "https://www.spade.com/industry/ecosystem-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "transactions processed every month",
+    "url": "https://www.spade.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading payment providers",
+    "url": "https://www.spade.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Bilt’s rewards program is built around rewarding members for spending at local businesses in their neighborhoods. Unlike traditional category-based programs, Bilt’s approach depends on accurately identifying",
+    "url": "https://www.spade.com/customers/bilt-enrichment-ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "location every transaction belongs to. That makes accurate attribution foundational to the program — and led Bilt to partner with Spade.",
+    "url": "https://www.spade.com/customers/bilt-enrichment-ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Allowed Bilt to scale a differentiated rewards program with sustainable unit economics",
+    "url": "https://www.spade.com/customers/bilt-enrichment-ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "When transactions aren’t matched correctly, members don’t receive promised rewards. And each miss can trigger customer frustration, hours of customer service investigation, and costly make-good payouts. At scale, even small attribution error rates become expensive.",
+    "url": "https://www.spade.com/customers/bilt-enrichment-ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "As Bilt’s partner network grew, so did the operational burden. Each misattributed transaction could take hours of investigation, so to protect the member experience, rewards were often issued regardless of confidence in the underlying data.",
+    "url": "https://www.spade.com/customers/bilt-enrichment-ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrating Spade’s transaction enrichment gave Bilt a reliable attribution foundation by linking transactions to verified merchants and locations. This improved accuracy across Bilt’s hyper-localized rewards program, ensuring customers were rewarded for the right transactions.",
+    "url": "https://www.spade.com/customers/bilt-enrichment-ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Bilt used Spade’s merchant graph to validate transactions against its growing partner list, increasing attribution accuracy and customer satisfaction. As the program expanded, however, that process still required manual reconciliation between enriched transaction data and local partner lists.",
+    "url": "https://www.spade.com/customers/bilt-enrichment-ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Spade’s merchant graph in real time. The team can now scale its rewards program efficiently without adding operational complexity as new merchants, neighborhoods, and customers are added.",
+    "url": "https://www.spade.com/customers/bilt-enrichment-ai-agent/",
+    "pass": 1
+   },
+   {
+    "quote": "Coast provides fuel and fleet cards designed to give small and mid-sized businesses greater visibility and control over vehicle-related spending. To deliver on that promise, Coast needed to enforce clear rules at authorization.",
+    "url": "https://www.spade.com/customers/coast/",
+    "pass": 1
+   },
+   {
+    "quote": "Transactions had to be approved only at the right merchants, in the right locations, and for approved uses like fuel or vehicle maintenance. Enabling that level of control depends on accurate, real-time merchant identity and location data — not broad categories or inconsistent descriptors.",
+    "url": "https://www.spade.com/customers/coast/",
+    "pass": 1
+   },
+   {
+    "quote": "Like most open-loop programs, Coast had to work within the limits of standard card data. Merchant Category Codes are broad and inconsistent, and transaction descriptors don’t reliably identify the business or confirm where a purchase occurred. Even when enhanced data exists, it often arrives",
+    "url": "https://www.spade.com/customers/coast/",
+    "pass": 1
+   },
+   {
+    "quote": "authorization which is too late to prevent unwanted transactions.",
+    "url": "https://www.spade.com/customers/coast/",
+    "pass": 1
+   },
+   {
+    "quote": "Instead, Coast integrated Spade’s real-time transaction enrichment directly into its authorization flow. In under 40ms, Spade returns a verified merchant identity and precise latitude and longitude for each transaction.",
+    "url": "https://www.spade.com/customers/coast/",
+    "pass": 1
+   },
+   {
+    "quote": "That enables proximity-based authorization — approving fuel transactions only when they occur within a defined distance of an expected location. Coast also uses Spade for merchant- and category-locked cards, allowing or blocking spend at specific gas station brands or approved use cases like fuel or vehicle maintenance.",
+    "url": "https://www.spade.com/customers/coast/",
+    "pass": 1
+   },
+   {
+    "quote": "Together, these controls help Coast reduce card abuse, improve expense visibility, and streamline administration — areas customers consistently point to when describing the savings they see from using Coast’s fuel and fleet cards. More accurate, real-time transaction data allows Coast to enforce these controls reliably at authorization, rather than after the fact.",
+    "url": "https://www.spade.com/customers/coast/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to turn messy, inconsistent transaction streams into structured intelligence that banks, fintechs, platforms, and AI companies can trust to build better products, for themselves and their customers.",
+    "url": "https://www.spade.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "transactions processed every month",
+    "url": "https://www.spade.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Proof from across the payments ecosystem",
+    "url": "https://www.spade.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Join a team that believes better data leads to better decisions.",
+    "url": "https://www.spade.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "At Spade, collaboration isn’t just a value. It’s how every product takes shape. We move fast, stay curious, and take pride in building tools that define the future of finance.",
+    "url": "https://www.spade.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Pride in the craft drives high standards, whether the moment calls for shipping fast or refining with care.",
+    "url": "https://www.spade.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Grit, urgency, and optimism power the push through hard problems, because the hardest problems matter most.",
+    "url": "https://www.spade.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive benefits to keep you happy and healthy",
+    "url": "https://www.spade.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our early exercise program and extended post-termination window give you more control over your equity.",
+    "url": "https://www.spade.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "A hybrid team with a dog-friendly HQ in NYC. Collaborate in person when it matters, work remotely when you prefer.",
+    "url": "https://www.spade.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Paid parental leave so you can focus on what matters most, without pressure or trade-offs.",
+    "url": "https://www.spade.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Cardless works with companies like Coinbase, Bilt, and others to launch card programs faster than legacy issuers can. Their model depends on speed to market and accuracy at scale.",
+    "url": "https://www.spade.com/customers/cardless/",
+    "pass": 1
+   },
+   {
+    "quote": "Spade became part of Cardless’s infrastructure because it could move as fast as they do. Implementation was quick. Data quality was consistent. Support stayed responsive as programs grew. “We move fast, and we need partners who can keep up,” the team said. “Spade delivered — they’re responsive, they understand what we’re building, and they’re agile enough to move at our pace as we scale.",
+    "url": "https://www.spade.com/customers/cardless/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved merchant identification for fraud and risk evaluation",
+    "url": "https://www.spade.com/customers/sardine/",
+    "pass": 1
+   },
+   {
+    "quote": "Enabled higher approval rates by reducing false positives tied to unclear merchant data",
+    "url": "https://www.spade.com/customers/sardine/",
+    "pass": 1
+   },
+   {
+    "quote": "Sardine provides fraud, risk, and compliance infrastructure for banks and fintechs that need to evaluate activity in real time. Today, the platform helps secure more than $150B in transactions and has helped stop over $21.3B in attempted fraud — a scale where signal quality and speed are critical.",
+    "url": "https://www.spade.com/customers/sardine/",
+    "pass": 1
+   },
+   {
+    "quote": "Like many risk platforms, Sardine initially worked with the merchant data available in standard transaction streams. Merchant Category Codes were often too broad to be useful, and transaction descriptors varied widely across networks and processors.",
+    "url": "https://www.spade.com/customers/sardine/",
+    "pass": 1
+   },
+   {
+    "quote": "To fill in the gaps, Sardine relied more heavily on rules, heuristics, and downstream analysis. That approach added operational overhead and made it harder to distinguish genuine fraud from normal behavior, particularly as new merchants and attack patterns emerged.",
+    "url": "https://www.spade.com/customers/sardine/",
+    "pass": 1
+   },
+   {
+    "quote": "This improved the quality of signals available",
+    "url": "https://www.spade.com/customers/sardine/",
+    "pass": 1
+   },
+   {
+    "quote": "decisions were made — allowing Sardine to approve more legitimate transactions while still identifying true risk. Clearer merchant context reduced false positives tied to ambiguous transactions and lowered the need for ongoing rule tuning and manual merchant mapping.",
+    "url": "https://www.spade.com/customers/sardine/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Enriching billions of transactions for category-defining fintechs & Fortune 500 banks every month",
+    "url": "https://www.spade.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Together, this foundation supports a company operating at significant scale with over 200,000 customers, one in three U.S. startups on the platform, and $650M in annualized revenue.",
+    "url": "https://www.spade.com/customers/mercury/",
+    "pass": 1
+   },
+   {
+    "quote": "Enriched transaction data isn't just a feature; it's what makes new revenue streams possible for our customers. Spade's accuracy and speed are what allow platforms to build products they can actually monetize.",
+    "url": "https://www.spade.com/industry/ecosystem-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Use enriched transaction insights to power new features, expand partner offerings, and create revenue opportunities across your ecosystem.",
+    "url": "https://www.spade.com/industry/ecosystem-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enriching billions of transactions for category-defining fintechs & Fortune 500 banks every month",
+    "url": "https://www.spade.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Like most open-loop programs, Coast had to work within the limits of standard card data. Merchant Category Codes are broad and inconsistent, and transaction descriptors don’t reliably identify the business or confirm where a purchase occurred. Even when enhanced data exists, it often arrives",
+    "url": "https://www.spade.com/customers/coast/",
+    "pass": 1
+   },
+   {
+    "quote": "Enriching billions of transactions for category-defining fintechs & Fortune 500 banks every month",
+    "url": "https://www.spade.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Spade became part of Cardless’s infrastructure because it could move as fast as they do. Implementation was quick. Data quality was consistent. Support stayed responsive as programs grew. “We move fast, and we need partners who can keep up,” the team said. “Spade delivered — they’re responsive, they understand what we’re building, and they’re agile enough to move at our pace as we scale.",
+    "url": "https://www.spade.com/customers/cardless/",
+    "pass": 1
+   },
+   {
+    "quote": "As transaction volume and customer complexity grew, Spade became a reliable part of how Sardine supported consistent risk evaluation without increasing operational overhead.",
+    "url": "https://www.spade.com/customers/sardine/",
+    "pass": 1
+   },
+   {
+    "quote": "Giving employees the ability to spend without manual processes and approval for each transaction helps teams scale – but it adds risk, unless granular controls like locking cards to categories and merchants can be implemented. Mercury uses Spade’s unified merchant IDs and accurate categories to do just that, allowing businesses to maintain control while operating efficiently.",
+    "url": "https://www.spade.com/customers/spade-mercury-building-a-best-in-class-corporate-card-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Additionally, Spade’s accurate industry system ensures reliability of category-locking cards, allowing founders and finance teams to confidently issue cards to their employees without manually reviewing each purchase.",
+    "url": "https://www.spade.com/customers/spade-mercury-building-a-best-in-class-corporate-card-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/spade/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/1366998-76",
+    "pass": 3
+   },
+   {
+    "quote": "Spade Technologies has 17 total employees.",
+    "url": "https://pitchbook.com/profiles/company/1366998-76",
+    "pass": 3
+   },
+   {
+    "quote": "What is Spade Technologies’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/1366998-76",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Spade Technologies is",
+    "url": "https://pitchbook.com/profiles/company/1366998-76",
+    "pass": 3
+   },
+   {
+    "quote": "The balance between practicality and playfulness shines through, even anticipating scenarios where work tools are carried.",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is easy to grasp the vehicle's dimensions, making it easy to handle even on narrow roads or when parking.",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the first-half earnings for the fiscal year ending March 2027, operating revenue, which corresponds to sales, increased by 9.5% year-on-year, operating profit rose by 9.2%, and net profit grew by 26.1%.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the Q1 fiscal year 2027 earnings report released on November 5, revenue increased by 11% compared to the same period last year.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Of particular note was the 16% increase in revenue for the flagship brand, COACH.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Adjusted earnings per share reached $1.82, and the company raised its full-year revenue and profit outlook.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While COACH is performing well, Kate Spade's revenue has decreased by 10% compared to the same period last year.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "※ This article provides information based on publicly available data and does not recommend the purchase or sale of any specific stock. Investing carries the risk of loss of principal. Please make final investment decisions at your own responsibility.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Minimized manual cleanup and customer frustration caused by inconsistent merchant data",
+    "url": "https://www.spade.com/customers/mercury/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by customers processing $100B+ in payments each year",
+    "url": "https://www.spade.com/industry/ecosystem-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading payment providers",
+    "url": "https://www.spade.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Big John Tree Spade Manufacturing boosts sales with Orsanna's comprehensive marketing services | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/orsanna/case-study/big-john-tree-spade-manufacturing-boosts-website-contacts-291-with-orsanna",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Big John Tree Spade Manufacturing boosts sales with Orsanna's comprehensive marketing services",
+    "url": "https://www.casestudies.com/company/orsanna/case-study/big-john-tree-spade-manufacturing-boosts-website-contacts-291-with-orsanna",
+    "pass": 3
+   },
+   {
+    "quote": "Big John Tree Spade Manufacturing boosts website contacts 291% with Orsanna",
+    "url": "https://www.casestudies.com/company/orsanna/case-study/big-john-tree-spade-manufacturing-boosts-website-contacts-291-with-orsanna",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/orsanna/case-study/big-john-tree-spade-manufacturing-boosts-website-contacts-291-with-orsanna",
+    "pass": 3
+   },
+   {
+    "quote": "Big John Tree Spade Manufacturing",
+    "url": "https://www.casestudies.com/company/orsanna/case-study/big-john-tree-spade-manufacturing-boosts-website-contacts-291-with-orsanna",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/orsanna/case-study/big-john-tree-spade-manufacturing-boosts-website-contacts-291-with-orsanna",
+    "pass": 3
+   },
+   {
+    "quote": "Spade Manufacturing prides itself on providing our customers, with unparalleled premium products and a variety of custom solutions. With over 20+ years of machine building & part feeding experience, we are prepared to take on any challenge.",
+    "url": "https://spademanufacturing.ca/",
+    "pass": 3
+   },
+   {
+    "quote": "Our client base is vast and spans over many industries, from pharmaceutical, aerospace, automotive to agricultural, casting and packaging. Our goal is to deliver the best independent or fully integrated Feed Systems in the industry. We strive to provide a world class and cost effective solution to every customer.",
+    "url": "https://spademanufacturing.ca/",
+    "pass": 3
+   },
+   {
+    "quote": "tkoutny@spademanufacturing.ca*",
+    "url": "https://spademanufacturing.ca/",
+    "pass": 3
+   },
+   {
+    "quote": "Spade Case Study: Citizens – Transaction data has to work across every product and every rail for Citizens Bank | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/spade/case-study/161c-transaction-data-has-to-work-across-every-product-and-every-rail-for-citizens-bank",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Citizens used Spade",
+    "url": "https://www.casestudies.com/company/spade/case-study/161c-transaction-data-has-to-work-across-every-product-and-every-rail-for-citizens-bank",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/spade/case-study/161c-transaction-data-has-to-work-across-every-product-and-every-rail-for-citizens-bank",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/spade/case-study/161c-transaction-data-has-to-work-across-every-product-and-every-rail-for-citizens-bank",
+    "pass": 3
+   },
+   {
+    "quote": "Clarify is the tool that lets you and your team easily share knowledge and explore industrial data - together. Helping your turn data into actual value - every day. They …",
+    "url": "https://www.featuredcustomers.com/vendor/spade/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/spade/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Initial discomfort caused by the difference in side mirror placement",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "IR & UV cut glass (Standard on G, manufacturer option on F, Y, and X)",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Standard on G, manufacturer option on F, Y, and X",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer option set with cold climate specifications",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer option for all models",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "- How changes in exchange rates, tariffs, and automotive demand will affect profits",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ただし型式は日本仕様と異なり、「NCP14#R」となる",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "東京地区では、トヨタ東京カローラとネッツトヨタ東京が合併により",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "、ネッツトヨタ東都、ネッツトヨタ多摩では同時期より姉妹車種のポルテの取扱が開始され、トヨタモビリティ東京同様に、スペイドとの併売となった",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "カタログ表紙の車名はアルファベットと日本語の併記となっているが、日本語はスペイドではなく「",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ東日本、小型車「ポルテ」全量生産 ダイハツから移管",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "』（プレスリリース）トヨタ自動車株式会社、2012年7月23日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "』（プレスリリース）トヨタ自動車株式会社、2014年4月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "』（プレスリリース）トヨタ自動車株式会社、2015年7月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "』（プレスリリース）トヨタ自動車株式会社、2016年6月30日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "』（プレスリリース）トヨタ自動車株式会社、2017年12月11日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "』（プレスリリース）トヨタ自動車株式会社、2018年11月5日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "』（プレスリリース）トヨタ自動車株式会社、2019年7月3日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "』（プレスリリース）トヨタ自動車株式会社、2019年10月4日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "』（プレスリリース）トヨタ自動車株式会社、2020年7月2日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "』（プレスリリース）トヨタ自動車株式会社、2020年12月1日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "2010年代の日本車",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "spade box とは何か？その本質と日本人が愛する理由を徹底解説｜開ける瞬間の感情価値と木の温かみが生まれる秘密",
+    "url": "https://jp.tao.co/article/13047202609210",
+    "pass": 3
+   },
+   {
+    "quote": "spade box とは何か？その本質と、なぜ日本人が愛するのか",
+    "url": "https://jp.tao.co/article/13047202609210",
+    "pass": 3
+   },
+   {
+    "quote": "日本の暮らしの中には、物を「大切に」しまうという感覚があります",
+    "url": "https://jp.tao.co/article/13047202609210",
+    "pass": 3
+   },
+   {
+    "quote": "一方、spade box は、その名の通り「スパード（spade）」という、日本語で「手を動かす」「開ける」という意味を持つ言葉に由来しており、**「開けること」そのものが、ひとつの儀礼**とされるのです",
+    "url": "https://jp.tao.co/article/13047202609210",
+    "pass": 3
+   },
+   {
+    "quote": "これは、日本ではあまり知られていない素材ですが、非常に高い密度と美しさを持つため、自然な風合いを保ちながらも、長期間にわたって変色や腐食を防ぐことができます",
+    "url": "https://jp.tao.co/article/13047202609210",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本の「お祝いの場」では、spade box をギフトとして渡すことで、相手に「大切にされている」というメッセージを伝えることができます",
+    "url": "https://jp.tao.co/article/13047202609210",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社北の達人コーポレーション（以下：北の達人コーポレーション）の新規事業である電子タバコ「SPADE（スペード）」において、株式会社SUPER STUDIO（以下：SUPER STUDIO）が提供するD2C支援事業やEC基幹システム「ecforce」を導入した",
+    "url": "https://ecnomikata.com/ecnews/ec_construction/36849/",
+    "pass": 3
+   },
+   {
+    "quote": "「近年、健康需要の増加に伴い日本国内の喫煙者は減少傾向にありますが、ニコチンとタールを含まない電子タバコの市場は拡大しています",
+    "url": "https://ecnomikata.com/ecnews/ec_construction/36849/",
+    "pass": 3
+   },
+   {
+    "quote": "日本化成、ECサイト「日本化成 仕上材ショップ」開設 プラットフォーム...",
+    "url": "https://ecnomikata.com/ecnews/ec_construction/36849/",
+    "pass": 3
+   },
+   {
+    "quote": "日本とLAで展開しており、北米越境に強みを持つ 単なるWe...",
+    "url": "https://ecnomikata.com/ecnews/ec_construction/36849/",
+    "pass": 3
+   },
+   {
+    "quote": "[November 6] 3 Japanese and US Stocks That Soared! Analyzing the Reasons for the Rise and Rebound Risks of Toyota, M3, and Tapestry | Comparing All Country World Index and S&P 500｜「トラックから降りたら開発者",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[November 6] 3 Japanese and US Stocks That Soared! Analyzing the Reasons for the Rise and Rebound Risks of Toyota, M3, and Tapestry | Comparing All Country World Index and S&P 500",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The AI Stock Investment Hunter for November 6 covers three stocks that saw significant gains in the Japanese and US markets.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a product that diversifies investment into stocks around the world, including Japan, the US, Europe, and emerging countries.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "トヨタ・スペイド - Wikipedia — 車名の由来 トランプ の スペード（SPADE♠） とSpace（空間）とWide（広い）を組み合わせた造語。 トランプのスペードが持つクールなイメージも付与している。",
+    "url": "https://ja.wikipedia.org/wiki/トヨタ・スペイド",
+    "pass": 3
+   },
+   {
+    "quote": "【ポーカーの登竜門】SPADIE POKER LEAGUE TOKYO 43rd が2026年11月19...汽車線上：微型大空間 TOYOTA SPADE日本登場北の達人コーポレーションの「D2C起業家育成プログラム」から誕生した...spade box とは何か？その本質と日本人が愛する理由を徹底解説｜開け...トヨタ・スペイド - Wikipedia電子タバコブランド「SPADE」でECプラットフォーム「ecforce」を導入 — 2 days ago · 【2026年最新】国内ポーカーイベント完全ガイド！ 「次に出る大会」が必ず見つかる 2025年に大きな盛り上がりを見せた日本のポーカーシーン。 2026年も、全国各地で多彩なイベントが開催されます。 この記事では、2026年後半から2027年にかけて国内で開催… Jul 27, 2012 · 這種強調空間使用的小型車款，在人口密集",
+    "url": "https://light-three.com/spadie/",
+    "pass": 3
+   },
+   {
+    "quote": "spade box とは何か？その本質と日本人が愛する理由を徹底解説｜開け... — spade box と wooden box、metal box の違いを実際の使い方で解説し、なぜ「心に響くか」を徹底的に明らかに。 感情的価値を重視する暮らしの人にこそ、必見の決定版ガイドです。",
+    "url": "https://jp.tao.co/article/13047202609210",
+    "pass": 3
+   },
+   {
+    "quote": "電子タバコブランド「SPADE」でECプラットフォーム「ecforce」を導入 — Oct 24, 2022 · 株式会社北の達人コーポレーション（以下：北の達人コーポレーション）の新規事業である電子タバコ「SPADE（スペード）」において、株式会社SUPER STUDIO（以下：SUPER STUDIO）が提供するD2C支援事業やEC基幹システム「ecforce」を導入した。",
+    "url": "https://ecnomikata.com/ecnews/ec_construction/36849/",
+    "pass": 3
+   },
+   {
+    "quote": "汽車線上：微型大空間 TOYOTA SPADE日本登場 — Jul 27, 2012 · 這種強調空間使用的小型車款，在人口密集的國家相當適合使用，可惜的是，它們目前僅在日本銷售。 近幾年台灣也在積極推銷擁有大空間的小型車款，其銷售成績還算不錯，位來或許TOYOTA公司可以考慮引進這兩款微型休旅車，提供消費者展新的選擇。",
+    "url": "https://www.auto-online.com.tw/news/21795",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Big John Tree Spade Manufacturing boosts sales ... — This approach delivered significant results for Big John, including a 291% increase in website contacts, a 188% increase in phone calls, and a 38% overall increase in customer leads, solidifying their industry position.",
+    "url": "https://www.casestudies.com/company/orsanna/case-study/big-john-tree-spade-manufacturing-boosts-website-contacts-291-with-orsanna",
+    "pass": 3
+   },
+   {
+    "quote": "Spade ManufacturingSpade Case Study: Citizens – Transaction data has to work ...14 Spade Case Studies, Success Stories, & Customer StoriesComprehensive Marketing for Increased Sales | OrsannaSpade & Unit: Enhancing card processing with clean, useful ...10 Manufacturing Case Studies [Detailed Review] [2026] — Spade Manufacturing prides itself on providing our customers, with unparalleled premium pr",
+    "url": "https://spademanufacturing.ca/",
+    "pass": 3
+   },
+   {
+    "quote": "Spade Case Study: Citizens – Transaction data has to work ... — Citizens (Banking) partnered with Spade (Financial Services) to solve key challenges. \"Transaction data has to work across every product and every rail for Citizens Bank\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/spade/case-study/161c-transaction-data-has-to-work-across-every-product-and-every-rail-for-citizens-bank",
+    "pass": 3
+   },
+   {
+    "quote": "14 Spade Case Studies, Success Stories, & Customer Stories — Learn what their customers think, get 14 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/spade/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Spade & Unit: Enhancing card processing with clean, useful ... — Jan 12, 2024 · How one embedded finance platform offers its customers a native data enrichment solution—and over 90% match rates—with Spade. Since 2019, Unit has helped leading tech companies embed financial services like banking, lending, and cards seamlessly into their digital products.",
+    "url": "https://spade.com/customers/unit-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Spade 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Spade. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/990892-99",
+    "pass": 3
+   },
+   {
+    "quote": "Spade – Strategic Position & Company Metrics – 2026 — Spade Revenue & Valuation With growing operations, Spade reportedly earns $4.8M per year. Spade's estimated revenue per employee stands at $165.1K. Spade has raised a total of $17M in funding.",
+    "url": "https://compworth.com/company/spade",
+    "pass": 3
+   },
+   {
+    "quote": "Spade Technologies 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Spade Technologies. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/1366998-76",
+    "pass": 3
+   },
+   {
+    "quote": "Spade — Company Profile, Funding & Investors — Spade company profile with $57.24M raised across 4 funding rounds, HQ in New York, United States, founded 2021. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/spade",
+    "pass": 3
+   },
+   {
+    "quote": "Spade Revenue 2024: $4.7M Est. - getlatka.com — Oct 30, 2026 · How many employees does Spade have? Spade had 31 employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/spade.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/spade/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/spade/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/1366998-76",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Was Being Too Convenient Its Downfall? Why the Hidden Gem ... May 2, 2026 · The Spade was a car that pursued ease of use, such as a large-opening sliding door specialized for the passenger side and an interior design meant as a living space. However, what the market wanted was not that kind of niche convenience, but rather “dual-side sliding doors” and “uniform ease of use” that anyone could under",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Essay] 'Riding the Rails Forever' - Part 11: '8-cut, Stairs ... Miyako-ochi (falling from grace), 9-return, Spade 3-counter... honestly, 8-cut, Stairs, and Revolution are more than enough. Anything else is just 'unreasonableness' invented by people who can't win with their own skill.",
+    "url": "https://note.com/prime_mole1993/n/ne2d180b6f03a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[November 6] 3 Japanese and US Stocks That Soared! Analyzing ... Trading volume: approx. 5.3 million shares Why did it rise? US-based Tapestry is a company that operates brands such as COACH and Kate Spade. In the Q1 fiscal year 2027 earnings report released on November 5, revenue increased by 11% compared to the same period last year. Of particular note was the 16% increase in revenue for the fla",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Was Being Too Convenient Its Downfall? Why the Hidden Gem Toyota Spade Was Discontinued｜CARNO",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Was Being Too Convenient Its Downfall? Why the Hidden Gem Toyota Spade Was Discontinued",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of this one point, the Toyota",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Spade was clearly an excellent car.",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Spade G (model with optional equipment)",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A large-opening sliding door, a low-floor design, and a boldly designed, expansive front passenger space.",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There are not many packages that make as much sense for daily scenes like getting in and out or loading and unloading luggage.",
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Essay] 'Riding the Rails Forever' - Part 11: '8-cut, Stairs, Revolution... and 11-back'｜トロッコ",
+    "url": "https://note.com/prime_mole1993/n/ne2d180b6f03a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/prime_mole1993/n/ne2d180b6f03a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Essay] 'Riding the Rails Forever' - Part 11: '8-cut, Stairs, Revolution... and 11-back'",
+    "url": "https://note.com/prime_mole1993/n/ne2d180b6f03a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'Ah, the 11th one... what should I write about?' As I was thinking this, the term '11-back' suddenly popped into my head. As anyone who has played Daifugo (President) knows, this is a rule where playing an 11 reverses the strength of the cards for the duration of that round. If you don't know the rules of Daifugo in the first place... please Google it. It's super simple, so you'll learn it in no t",
+    "url": "https://note.com/prime_mole1993/n/ne2d180b6f03a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Anyway, 11-back is a rule that causes a simplified revolution, and it is the worst among the local rules of Daifugo. Just having this rule lowers the fun and prestige of the 'Revolution' rule... Honestly, Daifugo has so many local rules, but most of them are crap. Miyako-ochi (falling from grace), 9-return, Spade 3-counter... honestly, 8-cut, Stairs, and Revolution are more than enough. Anything e",
+    "url": "https://note.com/prime_mole1993/n/ne2d180b6f03a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I complained a bit, but Daifugo is my favorite card game. It doesn't rely too much on luck, and everyone's skill is tested. The fact that I'm bad at games that emphasize luck, bluffing, and memory probably fuels my love for Daifugo. Games like Poker, Old Maid, and Concentration. Since I'm bad at these, I feel like I'm not really suited for card games, but...",
+    "url": "https://note.com/prime_mole1993/n/ne2d180b6f03a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I learned about Daifugo when I was in elementary school. At the time, I belonged to a Boy Scout-like organization. We went to Niigata for skiing in the winter, and I was invited to join a game of Daifugo at the pension where we were staying. Being naturally terrible at games that require brainpower, I was crushed, but I still had a blast. The rules at that time were a super simple configuration of",
+    "url": "https://note.com/prime_mole1993/n/ne2d180b6f03a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Daifugo is a game where your hand says it all. So, if you don't have a single A or 2 at the start, it becomes a pretty desperate match. Some might say that's the real thrill of Daifugo, but honestly, from the perspective of the poor or the poorest, it's extremely boring. That's where 8-cut comes in. By doing this, you can mitigate the problem unique to Daifugo where A, 2, and Joker are too strong.",
+    "url": "https://note.com/prime_mole1993/n/ne2d180b6f03a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[November 6] 3 Japanese and US Stocks That Soared! Analyzing the Reasons for the Rise and Rebound Risks of Toyota, M3, and Tapestry | Comparing All Country World Index and S&P 500｜「トラックから降りたら開発者",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[November 6] 3 Japanese and US Stocks That Soared! Analyzing the Reasons for the Rise and Rebound Risks of Toyota, M3, and Tapestry | Comparing All Country World Index and S&P 500",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The AI Stock Investment Hunter for November 6 covers three stocks that saw significant gains in the Japanese and US markets.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, we are focusing on Toyota Motor, M3, and Tapestry.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We will organize not only the results of the stock price surges but also the details of their earnings, the background of the rise, and the risks to watch out for in the future.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, in the second half, we will compare the differences between the popular long-term investment options, the 'All Country World Index' and the 'S&P 500'.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*Stock prices are based on the closing prices of each market on November 5, 2026.",
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Spade ♠️ (@SpadePicks) / X Spade ♠️ @SpadePicks Daily Sports Content🏆 | 2k+ Winning Members | Co-CEO of CapU🎓 | Join Premium with Link👇 JOIN THE VIP🏆 ️",
+    "url": "https://x.com/SpadePicks",
+    "pass": 3
+   },
+   {
+    "quote": "Spade | (@Spadelynnne) / X Oh my god I finally got them reunited 7 243 Spade | @Spadelynnne Oct 27 I'm at a point in life where I get excited whenever there's a new comment in a fanfic that hasn't updated in a while",
+    "url": "https://x.com/Spadelynnne",
+    "pass": 3
+   },
+   {
+    "quote": "spade (@spadearts) / X spade 🩷💜💙 @spadearts Nov 2 i would love to try to get into the puzzles and wpnz smg4 story but i genuinely cannot take it seriously or stay focused on it with its presentation style",
+    "url": "https://x.com/spadearts",
+    "pass": 3
+   },
+   {
+    "quote": "Spade ♠️ (@3898_Spade) / X Spade ♠️ @3898_Spade 3898spade@gmail.com pixiv.net/users/120710090 Joined October 2025",
+    "url": "https://x.com/3898_Spade",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Spade - LinkedIn Spade | 4,221 followers on LinkedIn. Enriched transaction data you can build on. | Spade is the only transaction data enrichment solution backed by real data.",
+    "url": "https://www.linkedin.com/company/spadedata",
+    "pass": 3
+   },
+   {
+    "quote": "Spade - LinkedIn Spade | 2,555 followers on LinkedIn. Power the future of food | We are building comprehensive intelligence infrastructure for dairy. Drive decisions, accelerate performance and grow with...",
+    "url": "https://www.linkedin.com/company/spade-ag",
+    "pass": 3
+   },
+   {
+    "quote": "Tony Koutny - Spade Manufacturing | LinkedInJacob Kamajian - Founder of Spade Services Corp | Credit ...Spadeworx Software Sevices - Owner, Spadeworx Software ...Spade Consulting and Services Pte Ltd - LinkedInSpade Infotech | LinkedIn Spade Manufacturing · Experience: Spade Manufacturing · Education: Conestoga College · Location: Brantford · 355 connections on LinkedIn. View Tony Koutny’s profile",
+    "url": "https://ca.linkedin.com/in/tony-koutny-3266b37b",
+    "pass": 3
+   },
+   {
+    "quote": "Jacob Kamajian - Founder of Spade Services Corp | Credit ...Spadeworx Software Sevices - Owner, Spadeworx Software ...Spade Consulting and Services Pte Ltd - LinkedInSpade Infotech | LinkedIn Founder of Spade Services Corp | Credit Analyst II, Specialty Products Analyst II at Essex Lease Financial Corporation | Passed CFA Level One · Founder of Spade, a platform that connects homeowners with trust",
+    "url": "https://ca.linkedin.com/in/jacob-kamajian",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Spades Royale - FacebookSpade & Co - FacebookDoug Spade for State Senate - FacebookJade Spade - FacebookDavid Spade - FacebookThat Spade Girl - FacebookSpade and Broom | Trinity NC - Facebook Spades Royale. 99,920 followers · 150 talking about this. The official #SpadesRoyale Facebook account The good old Spades game with EPIC special tables Aug 17, 2026 · The Spade & Co Health Smartwatch 4 is rig",
+    "url": "https://www.facebook.com/spadesroyale/",
+    "pass": 3
+   },
+   {
+    "quote": "Spade & Co - FacebookDoug Spade for State Senate - FacebookJade Spade - FacebookDavid Spade - FacebookThat Spade Girl - FacebookSpade and Broom | Trinity NC - Facebook Aug 17, 2026 · The Spade & Co Health Smartwatch 4 is right there on her wrist counting every step, every calorie, every good morning moment. This is what healthy looks like at its best. Oct 23, 2026 · Doug Spade for State Senate. 1,",
+    "url": "https://www.facebook.com/spadeandco.official/",
+    "pass": 3
+   },
+   {
+    "quote": "Doug Spade for State Senate - FacebookJade Spade - FacebookDavid Spade - FacebookThat Spade Girl - FacebookSpade and Broom | Trinity NC - Facebook Oct 23, 2026 · Doug Spade for State Senate. 1,939 followers · 51 talking about this. Check out my campaign website to learn more: http://www.dougspade.com/ Follow me on... 3 days ago · Jade Spade. 152,660 followers · 26,360 talking about this. www.jades",
+    "url": "https://www.facebook.com/SpadeforSenate/",
+    "pass": 3
+   },
+   {
+    "quote": "Jade Spade - Facebook 3 days ago · Jade Spade. 152,660 followers · 26,360 talking about this. www.jadespade.org",
+    "url": "https://www.facebook.com/Jade.Spade.X0/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.spade.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spade.com/customers/mercury/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spade.com/industry/ecosystem-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spade.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spade.com/customers/bilt-enrichment-ai-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spade.com/customers/coast/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spade.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spade.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spade.com/customers/cardless/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spade.com/customers/sardine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spade.com/customers/spade-mercury-building-a-best-in-class-corporate-card-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spade.com/customers/fis/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.spade.com/_next/image/?url=https%3A%2F%2Fspadewp.wpenginepowered.com%2Fwp-content%2Fuploads%2F2025%2F12%2Fecosystem-partners-masthead.jpg&w=1920&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://spadewp.wpenginepowered.com/wp-content/uploads/2025/12/ecosystem-partners-masthead-overlay.svg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.spade.com/_next/image/?url=https%3A%2F%2Fspadewp.wpenginepowered.com%2Fwp-content%2Fuploads%2F2025%2F12%2Fecosystem-partners-masthead-cutout.png&w=1920&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://light-three.com/spadie/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.tao.co/article/13047202609210",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ecnomikata.com/ecnews/ec_construction/36849/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/SAP%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/SAVE_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/orsanna/case-study/big-john-tree-spade-manufacturing-boosts-website-contacts-291-with-orsanna",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spademanufacturing.ca/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/spade/case-study/161c-transaction-data-has-to-work-across-every-product-and-every-rail-for-citizens-bank",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/spade/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sap.com/partners/partner-program.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/990892-99",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/spade",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/1366998-76",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://acquirezy.com/organization/spade",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/prime_mole1993/n/ne2d180b6f03a?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SpadePicks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Spadelynnne",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/spadearts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/3898_Spade",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/spadedata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/spade-ag",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tony-koutny-3266b37b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/jacob-kamajian",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/spadesroyale/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/spadeandco.official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SpadeforSenate/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Jade.Spade.X0/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Spade 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/トヨタ・スペイド",
+    "https://light-three.com/spadie/",
+    "https://jp.tao.co/article/13047202609210",
+    "https://ecnomikata.com/ecnews/ec_construction/36849/",
+    "https://www.auto-online.com.tw/news/21795",
+    "https://www.super-studio.jp/news/5WVudgtwHwot",
+    "https://japan.tapestry.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spade 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/SAPジャパン",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spade Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/SAVE_JAPAN"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "Spade manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/orsanna/case-study/big-john-tree-spade-manufacturing-boosts-website-contacts-291-with-orsanna",
+    "https://spademanufacturing.ca/",
+    "https://www.casestudies.com/company/spade/case-study/161c-transaction-data-has-to-work-across-every-product-and-every-rail-for-citizens-bank",
+    "https://www.featuredcustomers.com/vendor/spade/case-studies",
+    "https://spade.com/customers/unit-case-study/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.orsanna.com/small-business-marketing/portfolio/big-john-tree-spades"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spade white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.sap.com/partners/partner-program.html",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.seoreseller.com/",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spade founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/990892-99",
+    "https://compworth.com/company/spade",
+    "https://pitchbook.com/profiles/company/1366998-76",
+    "https://acquirezy.com/organization/spade",
+    "https://getlatka.com/companies/spade.com",
+    "https://tracxn.com/d/companies/spade/__XMxVJ6ABZhQQkXa2OibSTGZqCxE_DmOYb6aqmlB1Crg",
+    "https://fundediq.co/spade-spade-com-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Spade",
+   "results": [
+    "https://note.com/beloved_tomoka",
+    "https://note.com/carno_drive/n/n3132abb83fe5?hl=en",
+    "https://note.com/prime_mole1993/n/ne2d180b6f03a?hl=en",
+    "https://note.com/cool_crane8627/n/ndf8f885e1741?hl=en",
+    "https://note.com/bright_moose720/n/ndf064d98c9b8",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Spade",
+   "results": [
+    "https://x.com/SpadePicks",
+    "https://x.com/Spadelynnne",
+    "https://x.com/spadearts",
+    "https://x.com/3898_Spade",
+    "https://x.com/SpadeLovelight",
+    "https://x.com/cyanspade/status/2116251143273939222",
+    "https://x.com/spadearts/status/2118796643663245560"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Spade",
+   "results": [
+    "https://www.linkedin.com/company/spadedata",
+    "https://www.linkedin.com/company/spade-ag",
+    "https://ca.linkedin.com/in/tony-koutny-3266b37b",
+    "https://ca.linkedin.com/in/jacob-kamajian",
+    "https://in.linkedin.com/in/spadeworxsoftware",
+    "https://sg.linkedin.com/company/spade-consulting-and-services-pte-ltd",
+    "https://in.linkedin.com/company/spadeinfotech"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Spade",
+   "results": [
+    "https://www.facebook.com/spadesroyale/",
+    "https://www.facebook.com/spadeandco.official/",
+    "https://www.facebook.com/SpadeforSenate/",
+    "https://www.facebook.com/Jade.Spade.X0/",
+    "https://www.facebook.com/DavidSpade/",
+    "https://www.facebook.com/ThatSpadeGirl/",
+    "https://www.facebook.com/spadeandbroom/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spade note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/sadaaki",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://x.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Spade X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式12頁／PDF・画像3件／外部36頁・検索12回）"
+ }
+}

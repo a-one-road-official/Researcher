@@ -1,0 +1,1283 @@
+{
+ "name": "Sema4",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜状態なし",
+ "researched_at": "2026-11-11T07:54:19.367494+00:00",
+ "official_url": "https://sema4.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Jan-2024    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/569376-82",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "3,884,606 $0.000010  $6.17 $6.17 1x $6.17 15.13%",
+    "url": "https://pitchbook.com/profiles/company/569376-82",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Enterprise AI & AI Agents for Business | Sema4.ai",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Only 12% of enterprise AI proofs of concept reach production. Benchmark your organization against a five-stage maturity model with a practical roadmap to scale.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive productivity and growth with AI agents",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sema4.ai’s platform automates your toughest work back-office processes, enabling significant increases in productivity, efficiency, cost reduction, and customer service levels.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees waste time switching between apps, hindering productivity and increasing errors.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional automation tools struggle with complex processes requiring decision-making and adaptation.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual invoice reconciliation consumes significant man-hours and reduces team productivity.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A finance agent automates the process, freeing up time for higher-value financial management tasks.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Manually processing remittance emails and matching payments to invoices is painstaking and error prone.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A remittance agent reduces manual processing by up to 90% and significantly improves accuracy.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sema4.ai is the enterprise AI agent platform purpose-built for back-office operations. We help organizations build, run, and manage agents that automate document- and data-heavy, multi-step processes requiring deterministic, auditable outcomes.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From invoice reconciliation to receivables matching and AP help desk automation, our agents transform how finance teams operate. Processing times compress from hours to minutes, touchless rates exceed 80%, and intelligence compounds with every transaction, so each new use case deploys faster and costs less than the last.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Power the enterprise AI agent lifecycle",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate key back-office workflows, including quote to cash and procure to pay. These agents integrate with enterprise systems of record and applications as well as other data platforms in minutes.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Work with agents to automate and optimize team-based business workloads",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sema4.ai provides a true enterprise AI agent solution with the security, observability, and control needed to deploy agents at scale.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Use your enterprise-approved LLMs: OpenAI, Microsoft Azure, Amazon Bedrock, or Snowflake Cortex.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Access all your data without creating new data silos, providing agents with access to critical enterprise-context.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Get started with enterprise AI agents",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI Partnerships | Sema4.ai",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Rackspace Technology and Sema4.ai: driving enterprise AI deployment",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AWS infrastructure powers Sema4.ai Agents for secure enterprise AI transformation.",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sema4.ai Enterprise AI Agent Platform meets Rackspace FAIR operations for enterprise AI deployment.",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Docker MCP Gateway enables secure enterprise connectivity for Sema4.ai Agents.",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-built agent Platform: Complete infrastructure eliminates months of custom development",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade foundation: Built-in security and compliance removes enterprise development needs",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Platform foundation: Sema4.ai handles AI infrastructure, letting ISVs focus on unique product features",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer value: Resources go toward solving customer problems, not developing foundational technology",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Single API access: Agent API provides comprehensive programmatic access with less complexity",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Standard protocols: RESTful APIs and webhooks integrate seamlessly with existing ISV architectures",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Plug-and-play deployment: Pre-configured components require minimal setup to embed intelligent agent capabilities",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise ready open architecture",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A comprehensive platform that is easy to integrate and deploy in enterprise environments.",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "At FAIR, we view AI agents not just as digital assistants, but as autonomous digital coworkers that require the same level of reliability, security, and governance as any mission-critical operation. This solution, in collaboration with Sema4, isn’t just about deploying AI; it is about operationalizing enterprise intelligence at scale.",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "President of AI, Technology, and Sustainability | Rackspace Technology",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“The combination of Sema4.ai’s AI Agent Platform and Docker’s MCP Gateway and Toolkit creates a powerful solution for companies looking to quickly build and deploy production-grade agents.“",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sema4.ai accelerates partner success with enterprise-ready AI agents, enabling focus on competitive advantages over platform development.",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Get started with enterprise AI agents",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agent Pricing & Plans for Enterprise | Sema4.ai",
+    "url": "https://sema4.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Simple AI agent pricing aligned to your journey",
+    "url": "https://sema4.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore pricing for enterprise AI agents. From Starter Pack to Enterprise plans, we offer transparent, consumption-based pricing and dedicated support.",
+    "url": "https://sema4.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Best practices and proven delivery methodology developed across other successful deployments",
+    "url": "https://sema4.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Conversational Agents handle ad hoc work; Worker Agents automate multistep processes 24/7",
+    "url": "https://sema4.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy and manage custom AI agents across departments for your enterprise",
+    "url": "https://sema4.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "2 enterprise admin seats; 5 departmental admin seats",
+    "url": "https://sema4.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to get started? Fill out the form to get detailed AI agent pricing.",
+    "url": "https://sema4.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The best way to begin with Sema4.ai is the Starter Pack. It is designed to get your first AI agent up and running fast. The Starter Pack bundles everything you need to rapidly deploy an initial use case, including dedicated time with a deployment engineer who works alongside you to validate the use case and prove out ROI.",
+    "url": "https://sema4.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Sema4.ai have outcome-based pricing?",
+    "url": "https://sema4.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, you can work with our team around outcome-based pricing depending on your specific use cases and agent needs.",
+    "url": "https://sema4.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Get started with enterprise AI agents",
+    "url": "https://sema4.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Sema4.ai: The Best Enterprise AI Company for Building Agents",
+    "url": "https://sema4.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The best enterprise agentic AI platform for complex back-office work",
+    "url": "https://sema4.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Sema4.ai is the Enterprise AI Agent Platform purpose-built for the back office. Our agents work across complex, multi-step processes, connecting documents, enterprise data, and operational knowledge to deliver faster execution, fewer manual touches, and fully traceable, audit-ready decisions.",
+    "url": "https://sema4.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "For the first time, LLMs enable intent to be programmable, allowing users to express and execute complex tasks using natural language. We build",
+    "url": "https://sema4.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "For AI applications to transcend search use cases, they must respond to real-world conditions and take action against enterprise systems. With Sema4.ai, you can publish and deploy Actions to accelerate complex workflows.",
+    "url": "https://sema4.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Sema4.ai was founded by proven industry leaders with deep expertise and decades of experience spanning data management, distributed systems, application development, and open source from companies such as Cloudera, Docker, Hortonworks, SpringSource, and JBoss.",
+    "url": "https://sema4.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "SVP of Product and Customer Experience",
+    "url": "https://sema4.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "From processes too complex to automate to agents that finish them in minutes. See what sets us apart.",
+    "url": "https://sema4.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We empower enterprises to automate their most complex challenges with cutting-edge agentic AI. If you want to make an extraordinary impact, help us build the world as it could be.",
+    "url": "https://sema4.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Join a world-class team shaping agentic AI and powering the future of enterprise AI agents.",
+    "url": "https://sema4.ai/careers/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Sema4.ai automation is trusted by many of the world’s best companies",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocking the hidden power of your Snowflake investment. Turn your data warehouse into an intelligent agent platform—today.",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Conglomerate | Energy, Petroleum, Manufacturing, and Securities",
+    "url": "https://sema4.ai/customer-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing | Automation",
+    "url": "https://sema4.ai/customer-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world’s best companies",
+    "url": "https://sema4.ai/customer-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Large manufacturer reduces gas invoice processing from 3 hours to 2 minutes with 90%+ autonomous reconciliation across 350+ monthly invoices with varying formats",
+    "url": "https://sema4.ai/office-of-the-cfo/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing team reduces response time from 24-48 hours to 10 minutes, handling 150 daily tickets with only 10% requiring human intervention",
+    "url": "https://sema4.ai/office-of-the-cfo/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieving an agentic back office in manufacturing",
+    "url": "https://sema4.ai/office-of-the-cfo/",
+    "pass": 1
+   },
+   {
+    "quote": "For teams responsible for complex, team-based work processes across finance, procurement, supply chain, logistics, and manufacturing operations, the",
+    "url": "https://sema4.ai/blog/sema4ai-v3-team-based-work-lower-token-spend/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieving an agentic back office in manufacturing | Sema4.ai",
+    "url": "https://sema4.ai/resources/agentic-back-office-manufacturing-whitepaper/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide the Warehouse you want to use (optional - if not provided, the default warehouse will be used and NEEDS to be set up in Snowflake)",
+    "url": "https://sema4.ai/docs/team-edition/prereqs/partner-oauth",
+    "pass": 1
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/sema4",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Emerson boosts payment matching accuracy and speeds up cash application with Sema4.ai Agents | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/sema4/case-study/emerson-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Emerson boosts payment matching accuracy and speeds up cash application with Sema4.ai Agents",
+    "url": "https://www.casestudies.com/company/sema4/case-study/emerson-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Emerson - Customer Case Study",
+    "url": "https://www.casestudies.com/company/sema4/case-study/emerson-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The industrial manufacturer Emerson faced a challenge in manually extracting remittance data from emails and attachments for its payment processing system. This labor-intensive and error-prone process led to frequent payment matching discrepancies and inefficiencies.",
+    "url": "https://www.casestudies.com/company/sema4/case-study/emerson-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/sema4/case-study/emerson-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/sema4/case-study/emerson-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Employees waste time switching between apps, hindering productivity and increasing errors.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hear what drives our employees and makes their experience impactful",
+    "url": "https://sema4.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe that hard work should be rewarded. That’s why we offer equity to all our employees. We want everyone to be part of the value we are creating.",
+    "url": "https://sema4.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "This is a moment of change and tremendous potential. Do you want to be part of shaping the future of human-Al collaboration?",
+    "url": "https://sema4.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue recognition delays",
+    "url": "https://sema4.ai/office-of-the-cfo/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual document review and data entry across invoice processing extends revenue recognition cycles from weeks to months, increasing operating expenses while preventing finance teams from focusing on strategic analysis",
+    "url": "https://sema4.ai/office-of-the-cfo/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain complete audit trails, reduce month-end bottlenecks, ensure accurate revenue recognition and expense validation, and eliminate manual reconciliation errors that delay financial reporting",
+    "url": "https://sema4.ai/office-of-the-cfo/",
+    "pass": 1
+   },
+   {
+    "quote": "Use arrow keys to choose, Enter to insert. Each reference becomes a chip in your message. Remove a chip with backspace or by clicking its close button.",
+    "url": "https://sema4.ai/docs/v3/use/chat",
+    "pass": 1
+   },
+   {
+    "quote": "Drag a file into the composer or click the attach control. Documents, spreadsheets, PDFs, images: anything your Project can read becomes part of the message.",
+    "url": "https://sema4.ai/docs/v3/use/chat",
+    "pass": 1
+   },
+   {
+    "quote": "Sema4 Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4 Revenue",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Sema4",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Sema4?",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4 generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Sema4 have?",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/569376-82",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/569376-82",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4.ai’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/569376-82",
+    "pass": 3
+   },
+   {
+    "quote": "To view Sema4.ai’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/569376-82",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4.ai has 60 total employees.",
+    "url": "https://pitchbook.com/profiles/company/569376-82",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sema4.ai’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/569376-82",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Sema4.ai is",
+    "url": "https://pitchbook.com/profiles/company/569376-82",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Manually processing remittance emails and matching payments to invoices is painstaking and error prone.",
+    "url": "https://sema4.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sema4.ai Agents reduce manual processing, scan email for remittance data, and reduce errors by boosting matching accuracy.",
+    "url": "https://sema4.ai/customer-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Tired of manually processing remittance emails and struggling to match payments to invoices? Our cutting-edge AI agent solution is here to transform your accounts receivable workflow.",
+    "url": "https://sema4.ai/products/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect agents to emails, apps, data sources, and more, so they respond instantly.",
+    "url": "https://sema4.ai/products/agents/",
+    "pass": 1
+   },
+   {
+    "quote": "from emails, apps, and more.",
+    "url": "https://sema4.ai/products/agents/",
+    "pass": 1
+   },
+   {
+    "quote": "The new Agent Inbox capability also helps teams monitor Microsoft 365 and Google Workspace email in one place, handle webhooks in real time, and route work using plain-language rules.",
+    "url": "https://sema4.ai/blog/sema4ai-v3-team-based-work-lower-token-spend/",
+    "pass": 1
+   },
+   {
+    "quote": "Back-office workflows are rarely simple. Invoices, reconciliations, compliance reviews, and operational exceptions often span ERPs, documents, spreadsheets, email, and business policies.",
+    "url": "https://sema4.ai/blog/condensed-matter-partnership-enterprise-ai-agents/",
+    "pass": 1
+   },
+   {
+    "quote": "These workflows can respond to the events that create real work—such as incoming email, scheduled processes, file changes, webhooks, and connected systems. Routine items can progress automatically; exceptions are routed to people with the supporting context intact.",
+    "url": "https://sema4.ai/blog/condensed-matter-partnership-enterprise-ai-agents/",
+    "pass": 1
+   },
+   {
+    "quote": "Find companies with similar email marketing capabilities but targeting different market segments.",
+    "url": "https://sema4.ai/docs/team-edition/templates/template-similar-company",
+    "pass": 1
+   },
+   {
+    "quote": "The industrial manufacturer Emerson faced a challenge in manually extracting remittance data from emails and attachments for its payment processing system. This labor-intensive and error-prone process led to frequent payment matching discrepancies and inefficiencies.",
+    "url": "https://www.casestudies.com/company/sema4/case-study/emerson-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "By implementing Sema4.ai Agents, Sema4.ai automated the scanning of emails for critical remittance data. This solution significantly reduced manual processing and errors, boosting the system's unstructured data match rates by more than double. The result for Emerson was faster payments, a reduction in days sales outstanding, and greatly improved operational accuracy.",
+    "url": "https://www.casestudies.com/company/sema4/case-study/emerson-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/569376-82",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "White-label capabilities: Agent interfaces can be customized to match ISV branding",
+    "url": "https://sema4.ai/partners/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Enterprise AI & AI Agents for Business | Sema4.ai — Sema4.ai is the enterprise AI agent platform purpose-built for back-office operations. We help organizations build, run, and manage agents that automate document- and data-heavy, multi-step processes requiring deterministic, auditable outcomes.",
+    "url": "https://sema4.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "コッホが Sema4.ai と提携 | Koch - kochinc.com — Oct 15, 2025 · コッホは、Koch Disruptive Technologiesのポートフォリオ企業である Sema4.ai と提携し、複雑な作業を自動化し、業務を効率化し、両組織間で相互利益をもたらすために、社全体のエージェント型人工知能を導入しています。",
+    "url": "https://www.kochinc.com/ja-jp/news/koch-partners-with-sema4-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Snowflakeが注目するスタートアップ企業：Sema4.ai — Sema4.aiが、ビジネスの現場をエージェント開発の場へ変革します。 専門知識をAIに集約し、組織内のナレッジを最大限に引き出すプラットフォームの活用法を解説します。",
+    "url": "https://www.snowflake.com/ja/blog/startup-spotlight-sema4/",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4.aiで実現する企業業務のAI自動化と効率化最前線 | findAI — Mar 1, 2026 · 企業のデジタル変革が加速する中、AIエージェント技術は単なる補助ツールから、ビジネスプロセスの中核を担う存在へと進化しています。 その最前線に立つのが Sema4.ai です。",
+    "url": "https://ai.appmatch.jp/query-2124/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agent Platform for Enterprise | Sema4.ai — Streamline end-to-end processes including document processing, workflow execution, and business-critical tasks with accuracy. Share your favorite agents among teammates and collaborate on your work. Engage Agents with cowork by connecting your daily tools to Sema4.ai.",
+    "url": "https://sema4.ai/products/",
+    "pass": 3
+   },
+   {
+    "quote": "SEMA4 7 Inch Reissue Vinyl Punk Powerpop Neo Mods ... - eBay — This is a reissued 7-inch vinyl record by SEMA4, a highly regarded album in the punk, power pop, and neo-mod genres. The record is a Japanese reissue, meticulously preserved and in excellent condition, making it a valuable addition for collectors and enthusiasts.",
+    "url": "https://www.ebay.com/itm/358462454526",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agent Platform for Enterprise | Sema4.ai — Learn about building AI agents for complex business work, semantic data models, autonomous 24/7 agents, and deterministic accuracy. Business users build powerful agents using natural language and AI-assistance. Run AI agents within your VPC, maintaining complete control over data and security.",
+    "url": "https://sema4.ai/products/",
+    "pass": 3
+   },
+   {
+    "quote": "Sema 4 - In Memory Of... | リリース | Discogs — Discogs で Sema 4 - In Memory Of... に関するリリース、レビュー、クレジット、楽曲などを発見し、Sema 4 のコレクションを完成させましょう。",
+    "url": "https://www.discogs.com/ja/master/510617-Sema-4-In-Memory-Of",
+    "pass": 3
+   },
+   {
+    "quote": "SEMA 4 - In Memory Of... (Ltd.200 CD / Repress) - NAT RECORDS — David Jock Marston は極初期の Cyanide メンバー。 全 19 曲!! 今も昔も UK Punk ファンから Mod ファンまで深く愛される魅惑のバンド。 繊細で美しい蒼きメロディーと疾走するスピードが堪らない純英国産!! 旧くからコレクターアイテムとしても知られ, 収録すべての楽曲が大名曲という永遠の名作 7\" (共に '79 年発表) の 2 枚も完全収録 (8 曲), 更に未発表曲である名カバー「Keep On Running」の激熱 Punk Version (これこそが青春 Punk!! ) 他最高。 Live でもシングル曲以外も素晴らしいナンバーあります。",
+    "url": "https://natrecords.shop-pro.jp/?pid=145626235",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise AI Customer Success Stories | Sema4.ai — See how Koch, Emerson & other enterprises use Sema4.ai to reduce manual work, improve data accuracy, and power real business outcomes with AI agents.",
+    "url": "https://sema4.ai/customer-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4 B2B Case Studies & Customer Successes — See how Sema4 solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/sema4",
+    "pass": 3
+   },
+   {
+    "quote": "Achieving an agentic back office in manufacturing - sema4.ai — See how Sema4.ai Agents handle real manufacturing back office scenarios. Our team can demonstrate invoice reconciliation, AP help desk automation, and plant status reporting using your specific document types and workflows.",
+    "url": "https://sema4.ai/wp-content/uploads/2026/05/Sema4_Agentic-Back-Office-Manufacturing_Whitepaper.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Emerson boosts payment matching accuracy and ... — Emerson (Electrical/Electronic Manufacturing) partnered with Sema4 (Computer Software) to solve key challenges. \"Emerson - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/sema4/case-study/emerson-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "2 Sema4 Case Studies, Success Stories, & Customer Stories — Discover how other companies use Sema4, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/sema4/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4 - 2026 Company Profile, Team, Funding, Competitors ...Sema4 Revenue, Funding & Valuation - prospeo.ioSema4 – Competitor List & Expansion Signals – 2026Sema4.ai 2026 Company Profile: Valuation, Funding & Investors ...SEMA4 Limited Revenue, Funding & Valuation - prospeo.ioSema4 - 2025 Company Profile, Team, Funding & Competitors ...SEMA4 Limited – Financials, Industry Trends & Funding Info – 2",
+    "url": "https://tracxn.com/d/companies/sema4/__vlr_YmmBkiP2rV1VmvpBfmBJqwrvtnNc7LIFXpM8J54",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4 Revenue, Funding & Valuation - prospeo.io — What are the revenues of Sema4? Sema4 generates an estimated annual revenue of $362,321,000. This revenue figure reflects the company's market position and business performance in its industry. What is the valuation of Sema4? Sema4 has an estimated valuation of $1,159,500,000.",
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4 – Competitor List & Expansion Signals – 2026 — Discover Sema4's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/sema4",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4.ai 2026 Company Profile: Valuation, Funding & Investors ...SEMA4 Limited Revenue, Funding & Valuation - prospeo.ioSema4 - 2025 Company Profile, Team, Funding & Competitors ...SEMA4 Limited – Financials, Industry Trends & Funding Info – 2026 — Information on valuation, funding, cap tables, investors, and executives for Sema4.ai. Use the PitchBook Platform to explore the full profile. SEMA4 is",
+    "url": "https://pitchbook.com/profiles/company/569376-82",
+    "pass": 3
+   },
+   {
+    "quote": "SEMA4 Limited Revenue, Funding & Valuation - prospeo.io — SEMA4 is a quick-thinking, ultra-agile creative agency with a secret weapon – well, four of them actually. We harness the Power of 4 to deliver smart creative work that gets real results for our clients.",
+    "url": "https://prospeo.io/c/sema4-limited-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sema4 (@sema4) / X Sema4 is a patient-centered health intelligence company dedicated to advancing healthcare through data-driven insights.",
+    "url": "https://x.com/sema4",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4 (@Sema4pab) / Posts / X Sema4 (@Sema4pab) - Posts - Seamless overseas market entry. #Sema4 is a platform to help business to engage and communicate gl... | X (formerly Twitter)",
+    "url": "https://x.com/Sema4pab",
+    "pass": 3
+   },
+   {
+    "quote": "sema4 (@Sema4team) / Posts / X Sema4 - a creative marketing agency with a reputation for punching above our weight and helping clients do the same.",
+    "url": "https://x.com/sema4team",
+    "pass": 3
+   },
+   {
+    "quote": "Where are the sema4 criminal charges? Should I spell it out? 2026 John Flynn For CT US Congress District 4 (@Flynn2022). 109 views. Where are the sema4 criminal charges? Should I spell it out?",
+    "url": "https://x.com/Flynn2022/status/2069768417578537157",
+    "pass": 3
+   },
+   {
+    "quote": "まゆたん (@sema4_sema4) / X @sema4_sema4 8mama👦 不明 Born February 12 Joined April 2014 121 Following 157 Followers Mention Follow RepliesRepliesRepostsRepostsMediaMedia",
+    "url": "https://x.com/sema4_sema4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sema4 - LinkedIn Sema4 is transforming healthcare by applying AI and machine learning to multidimensional, longitudinal clinical and genomic data to build dynamic models of human health and defining optimal ...",
+    "url": "https://www.linkedin.com/company/sema4corp/",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4.ai - LinkedIn The Enterprise AI Agent Company | Sema4.ai provides a comprehensive enterprise AI agent platform that enables organizations to build, run, and manage AI agents at scale.",
+    "url": "https://www.linkedin.com/company/sema4-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "PAB SEMA4 - LinkedIn Helping you thrive worldwide with smarter, clearer cross-border communications. | PAB SEMA4 is dedicated to helping businesses thrive in global markets by providing a suite of services designed...",
+    "url": "https://uk.linkedin.com/showcase/pabsema4",
+    "pass": 3
+   },
+   {
+    "quote": "James Knight - Managing Director at SEMA4 | LinkedInSEMA4 Limited - LinkedInRam Venkatesh - Co-founder Sema4.ai | Ex-Cloudera CTO | LinkedInSema4 Jobs in United States (10,000+ Open Roles) | LinkedIn · Experience: SEMA4 · Location: Greater Bristol Area, United Kingdom · 500+ connections on LinkedIn. View James Knight’s profile on LinkedIn, a professional community of 1 billion members. SEMA4 is a ",
+    "url": "https://uk.linkedin.com/in/james-knight-45a29614",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sema4 | Stamford CT - FacebookSEMA4 - FacebookSema4 Graphics | Berkeley - FacebookSEMA4 - FacebookSema4 - The Sema4 Natalis newborn screen is extensive ...Mark Colyer - Sema4-2Largs - FacebookWe are excited to unveil new branding for Sema4, with a new ... Jan 9, 2023 · Sema4 today announced 3Q 2022 business highlights and financial results, and a new strategic direction that the company believes w",
+    "url": "https://www.facebook.com/Sema4/",
+    "pass": 3
+   },
+   {
+    "quote": "SEMA4 - FacebookSema4 Graphics | Berkeley - FacebookSEMA4 - FacebookSema4 - The Sema4 Natalis newborn screen is extensive ...Mark Colyer - Sema4-2Largs - FacebookWe are excited to unveil new branding for Sema4, with a new ... Feb 11, 2025 · Currently, as the Associate Consultant of Sema4 PAB Jacek assists all types of international businesses, from niche companies up to large household names and h",
+    "url": "https://www.facebook.com/pabsema4/",
+    "pass": 3
+   },
+   {
+    "quote": "Sema4 Graphics | Berkeley - FacebookSEMA4 - FacebookSema4 - The Sema4 Natalis newborn screen is extensive ...Mark Colyer - Sema4-2Largs - FacebookWe are excited to unveil new branding for Sema4, with a new ... Jun 18, 2025 · Sema4 Graphics Our services span a wide range - from giant graphics for exhibitions and conferences, to vehicle liv Signs & Banner Service · $$ All Sep 24, 2024 · These sculpt",
+    "url": "https://www.facebook.com/Sema4Graphics/",
+    "pass": 3
+   },
+   {
+    "quote": "SEMA4 - Facebook Sep 24, 2024 · These sculptures aren’t just beautiful to look at; they are a testament to the power of imagination and the limitless possibilities of artistic expression. At SEMA4 we believe in harnessing the power of creativity to captivate audiences and elevate brands.",
+    "url": "https://www.facebook.com/sema4agency/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sema4.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/customer-success/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/products/agents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/products/studio/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/office-of-the-cfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/blog/sema4ai-v3-team-based-work-lower-token-spend/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/docs/v3/build/project-context/instructions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/docs/v3/build",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/docs/v3/build/project-context/mcp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/docs/v3/use/chat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/resources/agentic-back-office-manufacturing-whitepaper/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/blog/condensed-matter-partnership-enterprise-ai-agents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/docs/solutions/data-access/queries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/docs/team-edition/prereqs/partner-oauth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sema4.ai/docs/team-edition/templates/template-similar-company",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.kochinc.com/ja-jp/news/koch-partners-with-sema4-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snowflake.com/ja/blog/startup-spotlight-sema4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai.appmatch.jp/query-2124/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-maker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/en-us/contact-us/companyinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebay.com/itm/358462454526",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.discogs.com/ja/master/510617-Sema-4-In-Memory-Of",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://natrecords.shop-pro.jp/?pid=145626235",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sema4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sema4/case-study/emerson-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sema4/__vlr_YmmBkiP2rV1VmvpBfmBJqwrvtnNc7LIFXpM8J54",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/sema4-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/sema4",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/569376-82",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/sema4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Sema4pab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sema4team",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Flynn2022/status/2069768417578537157",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sema4corp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sema4-ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/showcase/pabsema4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/james-knight-45a29614",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Sema4/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pabsema4/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Sema4Graphics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sema4agency/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sema4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sema4_sema4",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sema4 日本 導入",
+   "results": [
+    "https://sema4.ai/",
+    "https://www.kochinc.com/ja-jp/news/koch-partners-with-sema4-ai",
+    "https://www.snowflake.com/ja/blog/startup-spotlight-sema4/",
+    "https://ai.appmatch.jp/query-2124/",
+    "https://sema4.ai/products/",
+    "https://www.snowflake.com/ja/blog/sema4-ai-agentic-ai-snowflake-investment/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sema4 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://jpmktg.winbond.com/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.nokia.com/ja_jp/about-us/data/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sema4 Japan",
+   "results": [
+    "https://www.ebay.com/itm/358462454526",
+    "https://sema4.ai/products/",
+    "https://www.discogs.com/ja/master/510617-Sema-4-In-Memory-Of",
+    "https://natrecords.shop-pro.jp/?pid=145626235",
+    "https://sema-4.com/",
+    "https://diskunion.net/black/ct/list/0/72289098",
+    "https://www.discogs.com/ja/artist/956130-Sema-4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sema4 manufacturing customer case study",
+   "results": [
+    "https://sema4.ai/customer-success/",
+    "https://www.casestudies.com/company/sema4",
+    "https://sema4.ai/wp-content/uploads/2026/05/Sema4_Agentic-Back-Office-Manufacturing_Whitepaper.pdf",
+    "https://www.casestudies.com/company/sema4/case-study/emerson-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/sema4/case-studies",
+    "https://codeocean.com/case-studies/sema4",
+    "https://www.kochinc.com/news/koch-partners-with-sema4-ai"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sema4 white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.canva.com/partners/reseller/",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sema4 founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/sema4/__vlr_YmmBkiP2rV1VmvpBfmBJqwrvtnNc7LIFXpM8J54",
+    "https://prospeo.io/c/sema4-revenue",
+    "https://compworth.com/company/sema4",
+    "https://pitchbook.com/profiles/company/569376-82",
+    "https://prospeo.io/c/sema4-limited-revenue",
+    "https://tracxn.com/d/companies/sema4/__Tg6-Psdz9HpEdKRBzRTMwqZyhWxvnidHGUP2Vre9TxY",
+    "https://compworth.com/company/sema4-limited"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sema4",
+   "results": [
+    "https://note.com/kentabright",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/dashboard",
+    "https://note.com/tag/旅行エッセイ",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sema4",
+   "results": [
+    "https://x.com/sema4",
+    "https://x.com/Sema4pab",
+    "https://x.com/sema4team",
+    "https://x.com/Flynn2022/status/2069768417578537157",
+    "https://x.com/ZeeContrarian1/status/2057474406625206555",
+    "https://x.com/Flynn2022/status/2116537838892175829",
+    "https://x.com/CTCentinal/status/2116581090286555239"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sema4",
+   "results": [
+    "https://www.linkedin.com/company/sema4corp/",
+    "https://www.linkedin.com/company/sema4-ai/",
+    "https://uk.linkedin.com/showcase/pabsema4",
+    "https://uk.linkedin.com/in/james-knight-45a29614",
+    "https://www.linkedin.com/company/sema4",
+    "https://www.linkedin.com/in/ram-venkatesh-34166",
+    "https://www.linkedin.com/jobs/sema4-jobs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sema4",
+   "results": [
+    "https://www.facebook.com/Sema4/",
+    "https://www.facebook.com/pabsema4/",
+    "https://www.facebook.com/Sema4Graphics/",
+    "https://www.facebook.com/sema4agency/",
+    "https://www.facebook.com/Sema4/posts/323642468126385/",
+    "https://www.facebook.com/p/Mark-Colyer-Sema4-2Largs-61575092504317/",
+    "https://www.facebook.com/Sema4/videos/we-are-excited-to-unveil-new-branding-for-sema4-with-a-new-logo-and-visual-ident/1078560082978677/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sema4 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sema4 X 投稿",
+   "results": [
+    "https://x.com/sema4",
+    "https://x.com/sema4_sema4",
+    "https://sema4.ai/",
+    "https://sema4.ai/docs/v3/api",
+    "https://www.instagram.com/sema4_x/",
+    "https://www.instagram.com/x.sema4/",
+    "https://photo-tools.tech/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

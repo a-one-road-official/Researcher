@@ -1,0 +1,1543 @@
+{
+ "name": "Sweep",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-11T07:38:11.042907+00:00",
+ "official_url": "https://www.sweep.io/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The agentic layer for your enterprise systems",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by modern system teams from next-gen startups to established enterprises.",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "As systems scale and metadata complexity grows, Sweep provides a single agentic layer that connects, interprets, and governs how everything works together. Start your agentic layer",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI readiness, without the big project",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Sweep connects to your enterprise systems and continuously ingests metadata across objects, logic, permissions, and integrations.",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Visualize processes on an AI-powered visual workspace",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations professional",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "improvement in data quality",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Processes that used to take weeks with a consultant now happen in days.",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "I have enough Salesforce experience to say that projects that would have taken us weeks, took only days",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "faster project completion",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team has transformed into productivity ninjas, tackling projects previously budgeted for external help and completing them in-house, ahead of schedule.",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in team productivity",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "I would definitely say that there are definitely many projects that would take me over a week, involving multiple stakeholders, that I’ve been able to get done in less than a day.",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "I couldn't be happier with all of the capabilities Sweep provides, how innovative the product integration with Salesforce is, and their roadmap for the future is aligned with our tech stack plans.",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Sweep really met all of my needs, and made the process of migrating from LeanData to Sweep lightning quick and painless",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Seriously -- when I saw the documentation/AI portion of this demo, I knew I had to have it. As a solo admin who needs to troubleshoot pretty frequently, getting a detailed description of how my automations are working is a game changer.",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "improvement in tech stack consolidation",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Salesforce Professional",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Sync & interpret metadata",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "See how enterprises turn complex systems into context, and that context into action. Across",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": ", and more, teams use Sweep to compress every phase of the delivery lifecycle: discover, design, build, and monitor. From lead routing and deduplication to alerts, automations, and complex migrations, every change is grounded in real system dependencies and governed end to end, so teams can transform their systems in days, not months.",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Jay Mahoney, Principle Revenue Operations Manager, Deputy",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Salesforce is complex to build out, but that's where we partnered with Sweep. They provided us with the best practices to build what we needed.\"",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“There were projects that would take least a week and time from multiple stakeholders, and I was able to get it done in half a day.”",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Aaquil Rowe, Senior Manager of Sales and Marketing, Cognitiv",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Sweep really meets all of my needs, and made the process of migrating from LeanData to Sweep lightning quick and painless.”",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“If I had to synthesize the three things that Sweep did for us…first, it saved us money, second, it helped us move a lot faster, and third, it provided more clarity so nothing falls between the cracks.”",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“I have enough Salesforce experience to say that projects that would have taken us weeks, took us only days.”",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Stop reacting to duplicates, start preventing them.",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "To provide business and technical teams with the forward-thinking agentic infrastructure that they need to run operations in a way that doesn’t just respond to change, but anticipates it.",
+    "url": "https://www.sweep.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Development Representative",
+    "url": "https://www.sweep.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Careers at Sweep | Build the Future of Enterprise Systems | Sweep",
+    "url": "https://www.sweep.io/sweep-careers",
+    "pass": 1
+   },
+   {
+    "quote": "Sweep is the agentic layer for enterprise systems where teams and metadata agents plan, change, and govern systems with speed and confidence. We’re building something big and we want exceptional people to build it with us.",
+    "url": "https://www.sweep.io/sweep-careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Health Coverage",
+    "url": "https://www.sweep.io/sweep-careers",
+    "pass": 1
+   },
+   {
+    "quote": "From quarterly offsites to spontaneous karaoke nights, we make sure there’s plenty of time to connect, celebrate, and laugh between sprints.",
+    "url": "https://www.sweep.io/sweep-careers",
+    "pass": 1
+   },
+   {
+    "quote": "April 8, 2025",
+    "url": "https://www.sweep.io/blog/customer-stories-codametrix",
+    "pass": 1
+   },
+   {
+    "quote": "Salesforce onboarding as a service",
+    "url": "https://www.sweep.io/blog/customer-stories-codametrix",
+    "pass": 1
+   },
+   {
+    "quote": "As a startup with an eye towards efficiency, CodaMetrix originally worked with an external consultant to set up their Salesforce and support management efforts. “We brought in a contractor to avoid hiring a dedicated admin,” says Kate. “But we found that it just wasn't resonating. We were still lacking the knowledge on how to build Salesforce appropriately,” says Kate.",
+    "url": "https://www.sweep.io/blog/customer-stories-codametrix",
+    "pass": 1
+   },
+   {
+    "quote": "“Salesforce is complex to build out, but that’s where we partnered with Sweep,” says Kate. “They provided us with the best practices to build what we needed.”",
+    "url": "https://www.sweep.io/blog/customer-stories-codametrix",
+    "pass": 1
+   },
+   {
+    "quote": "By using Sweep, Kate and the CodaMetrix team were able to build, customize, and manage Salesforce in a way that improved efficiency, saved time, and reduced overall spend. If you want to learn more about how Sweep can support your team regardless of where you are in your Salesforce journey,",
+    "url": "https://www.sweep.io/blog/customer-stories-codametrix",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy Engine’s Revenue Operations team was losing over 20 hours a week to Salesforce troubleshooting, manual reporting, and support tickets. Sweep’s agentic workspace for Salesforce turned that operational drag into automated diagnostics, self-serve reporting, and proactive system monitoring. Here's how they got their time back.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "helps thousands of e-commerce brands personalize at scale. That level of personalization requires a Salesforce and Go-to-Market (GTM) systems ecosystem that can support high-volume data, constant automation, and rapid process iteration. As the company grew, so did the operational load, impacting reporting, forecasting, customer workflows, and cross-functional decision-making.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The org processes data from BigQuery into Data Cloud, triggers automations, and drives alerts and workflows across Sales, CS, and Partnerships — all amplified by Sweep as their automation and visibility layer.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "As Nicole described, “We have a lot of data points coming into Salesforce from different areas. We’re troubleshooting a lot of different things, with a lot of different fields, and all of that can get cumbersome over time. We have a lot of things in flight at one time. It’s definitely chaotic, and we had some complex processes that we needed to properly map out and redesign.”",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Preparing to cancel, Nicole mentioned the issue. Sweep offered to investigate live.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy implemented Sweep as an intelligent operations layer on top of Salesforce: documenting processes, monitoring architecture, powering support, and enabling natural-language access to data.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“The AI agents take the documentation a step further. My team member is more junior, so she might not know which object to go to or what a field is called. With the agentic piece, she can just say, ‘This field is causing these issues, do you know why?’ and talk to it. It has streamlined her processes and helped her get up to speed faster.”",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Nicole inherited significant tech debt. Sweep’s architecture agents surfaced issues instantly and provided precise fix instructions.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "This eliminated hours of manual investigation and aligned the org to best practices while allowing custom business rules where needed.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Process Visualization with Metadata Maps",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered process visualization",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“Our processes have gotten complicated over the past few years. Sweep helps us map them out so we can see what’s happening, what’s flowing through the pipeline stages, what’s working, what’s not, and where we can be better. Having a tool that can see all your metadata, do it for you, and visualize it is so powerful, instead of doing that manually, which is very time-consuming.”",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Model Context Protocol (MCP)",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "When the COO asked for 12-month AE retention rates, a report requiring multiple systems, datasets, and hours, Nicole simply asked MCP and it generated a full retention scorecard instantly.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“We trained our team leads on how to ask questions, get lists pulled, and get quick data points for meetings. It’s been fantastic.”",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“We use Alerts for close-won and close-lost deals, important demos, and to notify CS when a customer has a bill over $1,000 so they can move them to an annual agreement. We also surface product-usage signals to our cross-sell team and track annual renewals with timed alerts leading up to the due date.”",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Architecture is continuously monitored and improved.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Brand and Content Marketing",
+    "url": "https://www.sweep.io/blog/customer-stories-deputy",
+    "pass": 1
+   },
+   {
+    "quote": "“The documentation feature along with AI is a game-changer,” says Parbat. “It has helped me many times in figuring out our legacy processes and automations sitting within Salesforce.",
+    "url": "https://www.sweep.io/blog/customer-stories-deputy",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by modern system teams from next-gen startups to established enterprises.",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading global companies",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "If you love making sense of systems, fixing what’s broken, and building what’s next — you’ll do your best work here. We’re always looking for engineers, operators, and storytellers who think like architects and move like founders.",
+    "url": "https://www.sweep.io/sweep-careers",
+    "pass": 1
+   },
+   {
+    "quote": "Personal Care Product Manufacturing",
+    "url": "https://www.casestudies.com/company/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "Textile Manufacturing",
+    "url": "https://www.casestudies.com/company/sweep",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Revenue Operations professional",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations Manager",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Revenue Operations",
+    "url": "https://www.sweep.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Nicole Looker, Director of Revenue Operations, Rebuy Engine",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Josie Smets, Head of Revenue CRM at SailPoint.",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Tzvi Gerstle, Revenue Operations Manager, ClearGov",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Jay Mahoney, Principle Revenue Operations Manager, Deputy",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Emma Heist, Revenue Operations Manager, Passport",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Edward Cho, Manager of Revenue Operations, Esper",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Rouel Agustin, Revenue Operations Manager, Cybrary",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Luis Roca, Revenue Operations, Pave",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Alexandre Bejaoui, Head of Revenue Operations, OneFlow",
+    "url": "https://www.sweep.io/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Revenue Operations",
+    "url": "https://www.sweep.io/blog/customer-stories-codametrix",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy Engine’s Revenue Operations team was losing over 20 hours a week to Salesforce troubleshooting, manual reporting, and support tickets. Sweep’s agentic workspace for Salesforce turned that operational drag into automated diagnostics, self-serve reporting, and proactive system monitoring. Here's how they got their time back.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "During what was meant to be a standard Sweep demo, a critical Salesforce issue emerged: following their Data Cloud implementation, all Closed Won opportunities were overwritten with today’s date, corrupting forecasts and revenue reporting.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "“Something updated a bunch of records… it changed already closed won opportunities’ close dates. It was messing up our pipeline and old revenue reporting. We had no idea what was causing it.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Intelligence via Alerts",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ", consolidating systems and enabling revenue alerts around upsell signals, feature-install cross-sell triggers, high-value billing for annualization, renewal timelines, partner updates.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue signals reach the right teams instantly.",
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "As the head of Revenue Operations at Passport, Emma Heist had a big project on her hands. She inherited an existing Salesforce that had been implemented about a year before she had started at the company. And now, that instance required a complete overhaul.",
+    "url": "https://www.sweep.io/blog/customer-stories-passport",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Revenue Operations",
+    "url": "https://www.sweep.io/blog/customer-stories-cognitiv",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a broader data hygiene initiative, Aaquil identified duplicate accounts as a critical issue affecting data integrity and operational efficiency. He needed to find an automated solution that could not only detect existing duplicates but also prevent future occurrences.",
+    "url": "https://www.sweep.io/blog/customer-stories-cognitiv",
+    "pass": 1
+   },
+   {
+    "quote": "As Cognitiv looked to scale, Aaquil was tasked with streamlining deal management and improving data accuracy as part of the sales process. He was able to increase the number of Salesforce opportunity updates made via Sweep’s Slack integration by more than 20%. He was also able to reduce the average number of days between key sales stages by 5% with the support of Sweep’s workflows and automations.",
+    "url": "https://www.sweep.io/blog/customer-stories-cognitiv",
+    "pass": 1
+   },
+   {
+    "quote": "And after meeting the Sweep team, he realized that they could get the independence of building within Salesforce on their own with the support of an “in-house consultancy” in the form of Sweep’s customer success team. For example, when looking to calculate ARR within Salesforce, Paolo simply asked a member of the Sweep team to show him how to do it on the platform. And just like that, it was done.",
+    "url": "https://www.sweep.io/blog/customer-stories-graphite",
+    "pass": 1
+   },
+   {
+    "quote": "While managing Salesforce became part of Paolo’s role, it certainly wasn’t his only area of focus. So he used Sweep to optimize his time spent on the platform. “I think the most impactful feature was the automations,” he explains. “Ultimately it came down to all the time I could save and all the money we could save the company.”",
+    "url": "https://www.sweep.io/blog/customer-stories-graphite",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Revenue Operations",
+    "url": "https://www.sweep.io/blog/customer-stories-cybrary",
+    "pass": 1
+   },
+   {
+    "quote": "Rouel Agustin, Cybrary’s Director of Revenue Operations, was looking for simplicity and cost savings. He had been using LeanData for several years and their configuration had become bloated with hundreds of assignment and decision nodes. Rouel needed a solution that would increase functionality as they scaled without wrecking the budget.",
+    "url": "https://www.sweep.io/blog/customer-stories-cybrary",
+    "pass": 1
+   },
+   {
+    "quote": "When Pave kicked their growth into high gear, their Head of Revenue Operations Luis Roca was tasked with scaling their Salesforce to match their go-to-market machine’s new level of complexity.",
+    "url": "https://www.sweep.io/blog/customer-stories-pave",
+    "pass": 1
+   },
+   {
+    "quote": ", a digital contract platform based in Sweden, as its Head of Revenue Operations.",
+    "url": "https://www.sweep.io/blog/customer-stories-oneflow",
+    "pass": 1
+   },
+   {
+    "quote": "A new one every day, part of a series",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Every kanji, word and grammar point you starred — one place",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "barrer, pasar rápidamente, pasar majestuosamente…",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "varrer, arrastar, limpador de chaminés…",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "escombrar, arrossegar…",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "Click on the arrows to change the translation direction.",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "[Breaking News] Democrats Sweep Both Houses in US Midterms! What Happens to FANG+ with the Arrival of the 'Blue Wave'?｜ユースケ/月収20万/目標資産1000万円",
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Breaking News] Democrats Sweep Both Houses in US Midterms! What Happens to FANG+ with the Arrival of the 'Blue Wave'?",
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If the arrival of the Blue Wave causes the market to cool down temporarily and the FANG+ net asset value drops significantly, that is not a crisis, but rather the 'greatest buying opportunity given by God.'",
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It has been a year and a half since she left the workplace, but when she is in real trouble, she messages me on LINE. Perhaps she senses a part of me that is similar to herself.",
+    "url": "https://note.com/nyabu_218218/n/n6c78699df3c5?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "柔術のカルチャーを軸に、多方面で活動を展開する株式会社SWEEP（本社：東京都渋谷区、代表：堤達生）は、2025年7月1日（月）、柔術をライフスタイルとして提案する柔術スタジオ「SWEEP JIU-JITSU ACADEMY（スウィープ柔術アカデミー）」を東京都・千駄ヶ谷に開設しました",
+    "url": "https://sweep.love/posts/nK0u65tS",
+    "pass": 3
+   },
+   {
+    "quote": "住所：〒151-0051 東京都渋谷区千駄ケ谷4丁目24-15 鈴福ビル1階",
+    "url": "https://sweep.love/posts/nK0u65tS",
+    "pass": 3
+   },
+   {
+    "quote": "SWEEPは、日本を代表するベンチャーキャピタリストとして長年、投資家と活躍してきた堤達生が、柔術に出会い、柔術に魅せられ、柔術の素晴らしさをより多くの人々に伝えたいという想いから、生まれたプロジェクトです",
+    "url": "https://sweep.love/posts/nK0u65tS",
+    "pass": 3
+   },
+   {
+    "quote": "所在地 ：東京都渋谷区千駄ケ谷３丁目３９−２ VORT神宮北参道 4階",
+    "url": "https://sweep.love/posts/nK0u65tS",
+    "pass": 3
+   },
+   {
+    "quote": "環境省によると、日本は​​​​、企業の気候変動への取り組みに関する情報開示や、脱炭素に向けた目標設定は世界でも進んでいるという",
+    "url": "https://techblitz.com/startup-interview/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも一部の企業でSweepを導入しており、今後よりグローバルに展開することが目標です",
+    "url": "https://techblitz.com/startup-interview/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "――日本での導入事例について詳細を教えてください",
+    "url": "https://techblitz.com/startup-interview/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では大手の電気通信事業者で導入されています",
+    "url": "https://techblitz.com/startup-interview/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み",
+    "url": "https://techblitz.com/startup-interview/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る",
+    "url": "https://techblitz.com/startup-interview/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep in Japanese: スイープ (suiipu) — How to Say Sweep",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Your name in Japanese",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "The whole story from ancient Japan to the present day — and on every page, the Japanese name explained character by character.",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "1868 – 1912 · Japan opens to the world",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese place names are hard to read even for Japanese people. Every town here comes with its characters, its reading, and where the name came from.",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "All 47 regions of Japan",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Which side of Japan suits you?",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep in Japanese is “スイープ” (suiipu).",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Other ways to say “Sweep” in Japanese",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Looking for the other direction? Search any Japanese word in the",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Nihoner Japanese learning platform",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Choose a clear next step in Japanese.",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Numbers & Dates",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Your Name in Japanese",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn Japanese Online",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "SWEEP | translate English to Japanese - Cambridge Dictionary",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "– English–Japanese dictionary",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "Cambridge English–Japanese Dictionary",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "| GLOBAL English–Japanese Dictionary",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "GLOBAL English–Japanese",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "How to say sweep in Japanese",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-ef4d07e4307b258018cd9220b89bb5db7f509776.html",
+    "pass": 3
+   },
+   {
+    "quote": "More Japanese words for sweep",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-ef4d07e4307b258018cd9220b89bb5db7f509776.html",
+    "pass": 3
+   },
+   {
+    "quote": "Translate to Japanese",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-ef4d07e4307b258018cd9220b89bb5db7f509776.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"sweep\" in Japanese: 掃く, 掃討する, 広がる, 捜索する — which to use | Kotomora",
+    "url": "https://kotomora.com/en/ja/guide/sweep",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SWEEP | NEWS | 柔術をライフスタイルに──SWEEP運営のSWEEPが、 “これ... — 柔術のカルチャーを軸に、多方面で活動を展開する株式会社SWEEP（本社：東京都渋谷区、代表：堤達生）は、2025年7月1日（月）、柔術をライフスタイルとして提案する柔術スタジオ「SWEEP JIU-J...",
+    "url": "https://sweep.love/posts/nK0u65tS",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep 来日2026 | 日本公演日程・会場 | Nightlife Tokyo — 会場アクセス WORLD KYOTO イマージアムビル, 地下, 97 Shinchō, Shimogyo Ward, Kyoto, 600-8001, Japan",
+    "url": "https://nightlifetokyo.com/ja/kyoto/artists/djsweep13/来日-2026",
+    "pass": 3
+   },
+   {
+    "quote": "CO2排出データを収集、可視化して企業の環境対応を後押し 仏発スター... — Apr 19, 2022 · 日本でも一部の企業でSweepを導入しており、今後よりグローバルに展開することが目標です。 また、営業活動に集中するため、マーケティングに長けている人材やエンジニアの雇用も短期的な目標のひとつです。",
+    "url": "https://techblitz.com/startup-interview/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep in Japanese: スイープ (suiipu) — How to Say Sweep — Nov 2, 2026 · \"sweep\" in Japanese is スイープ (suiipu). See 3 ways to say sweep in Japanese with readings, romaji, kanji and audio pronunciation.",
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "pass": 3
+   },
+   {
+    "quote": "SWEEP | translate English to Japanese - Cambridge Dictionary — SWEEP translate: （ほうきで）～を掃く, （すごい勢いで）～を押し流す, 吹き飛ばす, 掃（は）く, 押（お）し流（なが）す, 沸（わ）き上（あ）がる, 席巻（せっけん）する. Learn more in the Cambridge English-Japanese Dictionary.",
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "How to say sweep in Japanese - WordHippo — Need to translate \"sweep\" to Japanese? Here are 3 ways to say it.",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-ef4d07e4307b258018cd9220b89bb5db7f509776.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to say \"sweep\" in Japanese | Kotomora — The English verb 'sweep' covers cleaning with a broom, moving quickly or forcefully, spreading rapidly, and more. This guide organizes the most useful Japanese equivalents by meaning.",
+    "url": "https://www.kotomora.com/en/ja/guide/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "sweep - Jisho.org — 10. Nagareru Nagareru is a 1956 Japanese film directed by Mikio Naruse... Read more",
+    "url": "https://jisho.org/search/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "Customers - Sweep — “We calculated our first carbon footprint with Sweep, and it was a success. We have identified the different emissions hot spots within each category of product or service.",
+    "url": "https://www.sweep.net/en-us/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Every business has the potential to become a forever ... - Sweep — Learn how we create a better world with our customers and help them scale their ambitious climate programs.",
+    "url": "https://www.sweep.net/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Sweep — Across Salesforce, ServiceNow, Snowflake, and more, teams use Sweep to compress every phase of the delivery lifecycle: discover, design, build, and monitor.",
+    "url": "https://www.sweep.io/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep B2B Case Studies & Customer Successes — See how Sweep solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Sweep Uses Software & Services — Explore case studies featuring Sweep as the customer — learn how vendors and partners helped Sweep solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/sweep",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep – Business Snapshot & Rival Analysis – 2026 — Sweep Revenue & Valuation Sweep reportedly generates an annual revenue of $8.4M. The company’s workforce productivity is estimated at $139.2K in annual revenue per employee. Funding raised by Sweep over the years amounts to $35M.",
+    "url": "https://compworth.com/company/sweepio",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep - 2026 Company Profile, Team, Funding & Competitors ...Sweep 2026 Company Profile: Valuation, Funding & Investors ...Sweep - 2025 Company Profile, Team, Funding & Competitors ...Sweep: funding rounds, valuation, investors and revenueSweep - Crunchbase Company Profile & FundingSweep (Business/Productivity Software) 2026 Company Profile ... — Mar 6, 2026 · Sweep is a series B company based in ",
+    "url": "https://tracxn.com/d/companies/sweep/__7b7jKCv7CuK_f_149dIVnfcKkszVUhnVVEcchf2RwRc",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Sweep. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/601698-34",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep - 2025 Company Profile, Team, Funding & Competitors ... — Sep 4, 2025 · Sweep is an acqui-hired company based in San Francisco (United States), founded in 2014 by Jackson Gates, Naveen Gattu and Matthew Purland. It operates as an App-based platform for finance management.",
+    "url": "https://tracxn.com/d/companies/sweep/__Qboz8Ea6pBhWADuBydh5nv7qC0t4Xxh7a6EPQafw158",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep: funding rounds, valuation, investors and revenue — Nov 1, 2026 · With around 30 employees, Sweep has offices in Tel Aviv, New York, Madrid, and Lisbon. The company has secured $22.5 million in Series B funding to enhance its offerings in intelligent business systems.",
+    "url": "https://ai.lounge.ai/companies/sweep",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "\"sweep\" （連戦全勝）=MLBで学ぶ英語（その48）= May 19, 2025 · エンゼルス、まさかのスイープ（rare sweep）です。 pull offは、「（困難などから）引っ張りだす」というイメージで、「難しいことを達成する」というニュアンスになります。 やってみないとわからないものですね。",
+    "url": "https://note.com/ecr_by_ryo_san/n/ncc7869e8e6c4",
+    "pass": 3
+   },
+   {
+    "quote": "[Breaking News] Democrats Sweep Both Houses in US Midterms ... 5 days ago · If this article helped you 'avoid being misled by the news of the Democrats' sweep of both houses in the midterms' or 'made you feel like you could calmly continue your accumulation,' please [Like ️] and [Follow/Save]!",
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "4. 最終秘密兵器｜ケメコ - note（ノート） May 18, 2024 · ・Liquidity Sweep（Manipulation） を見極めたら ちっさい足（たとえば15分足）でも おなじくラインチャート分析（Mapping マッピング） ちっさい足でトレードのセットアップがととのったら エントリー足（たとえば1分足）に落として ローソク足+Callixでエントリー",
+    "url": "https://note.com/phi618/n/n43e0ad44cf64",
+    "pass": 3
+   },
+   {
+    "quote": "In your 50s: Are people who sweep things under the rug just ... She is someone who cannot sweep things under the rug The other day, I met a younger female colleague I used to work with for the first time in a year and a half.",
+    "url": "https://note.com/nyabu_218218/n/n6c78699df3c5?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "\"sweep\" （連戦全勝）=MLBで学ぶ英語（その48）=｜リョウ さん の 英語教室",
+    "url": "https://note.com/ecr_by_ryo_san/n/ncc7869e8e6c4",
+    "pass": 3
+   },
+   {
+    "quote": "\"sweep\" （連戦全勝）=MLBで学ぶ英語（その48）=",
+    "url": "https://note.com/ecr_by_ryo_san/n/ncc7869e8e6c4",
+    "pass": 3
+   },
+   {
+    "quote": "フリーウェイシリーズ３連戦は、なんとドジャーズの３連敗。エンゼルスのスイープ（sweep）となりました。",
+    "url": "https://note.com/ecr_by_ryo_san/n/ncc7869e8e6c4",
+    "pass": 3
+   },
+   {
+    "quote": "本日の試合は見ていませんが、大谷翔平は、３安打１打点。菊池雄星投手には勝ち星はつかなかったと報じています。",
+    "url": "https://note.com/ecr_by_ryo_san/n/ncc7869e8e6c4",
+    "pass": 3
+   },
+   {
+    "quote": "エンゼルス、まさかのスイープ（rare sweep）です。",
+    "url": "https://note.com/ecr_by_ryo_san/n/ncc7869e8e6c4",
+    "pass": 3
+   },
+   {
+    "quote": "pull offは、「（困難などから）引っ張りだす」というイメージで、「難しいことを達成する」というニュアンスになります。",
+    "url": "https://note.com/ecr_by_ryo_san/n/ncc7869e8e6c4",
+    "pass": 3
+   },
+   {
+    "quote": "[Breaking News] Democrats Sweep Both Houses in US Midterms! What Happens to FANG+ with the Arrival of the 'Blue Wave'?｜ユースケ/月収20万/目標資産1000万円",
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Breaking News] Democrats Sweep Both Houses in US Midterms! What Happens to FANG+ with the Arrival of the 'Blue Wave'?",
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ユースケ/月収20万/目標資産1000万円",
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello, this is Yusuke😊",
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'Is it true that the Democrats won both the Senate and the House in the US midterms (Blue Wave)...?' 'With the Democrats in control of Congress, what kind of impact will this have on the highly anticipated FANG+ and tech stocks?'",
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The 2026 US midterm elections saw a record-breaking surge for the Democrats that exceeded prior expectations, resulting in a",
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "historic outcome where the Democrats reclaimed control of both the Senate and the House",
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SMC/ICT Kemeko Model 2024",
+    "url": "https://note.com/phi618/n/n43e0ad44cf64",
+    "pass": 3
+   },
+   {
+    "quote": "Orderblock（Supply & Demand）",
+    "url": "https://note.com/phi618/n/n43e0ad44cf64",
+    "pass": 3
+   },
+   {
+    "quote": "Liquidity Sweep （Manipulation）",
+    "url": "https://note.com/phi618/n/n43e0ad44cf64",
+    "pass": 3
+   },
+   {
+    "quote": "ここがOrderblock（Supply & Demand）",
+    "url": "https://note.com/phi618/n/n43e0ad44cf64",
+    "pass": 3
+   },
+   {
+    "quote": "ラインチャート分析（Mapping マッピング）",
+    "url": "https://note.com/phi618/n/n43e0ad44cf64",
+    "pass": 3
+   },
+   {
+    "quote": "・External PeakとExternal Trough（外山と外谷）",
+    "url": "https://note.com/phi618/n/n43e0ad44cf64",
+    "pass": 3
+   },
+   {
+    "quote": "・POI（Orderblock Supply & Demand FVG）",
+    "url": "https://note.com/phi618/n/n43e0ad44cf64",
+    "pass": 3
+   },
+   {
+    "quote": "In your 50s: Are people who sweep things under the rug just being cunning?｜Nyabuo@50代の生活",
+    "url": "https://note.com/nyabu_218218/n/n6c78699df3c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/nyabu_218218/n/n6c78699df3c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In your 50s: Are people who sweep things under the rug just being cunning?",
+    "url": "https://note.com/nyabu_218218/n/n6c78699df3c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Facing everything head-on is not always the right thing to do.",
+    "url": "https://note.com/nyabu_218218/n/n6c78699df3c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, there are times when I feel a sense of guilt for turning a blind eye.",
+    "url": "https://note.com/nyabu_218218/n/n6c78699df3c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As I have gotten older, my way of thinking has changed.",
+    "url": "https://note.com/nyabu_218218/n/n6c78699df3c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "She is someone who cannot sweep things under the rug",
+    "url": "https://note.com/nyabu_218218/n/n6c78699df3c5?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The other day, I met a younger female colleague I used to work with for the first time in a year and a half. As soon as she saw my face, she suddenly burst into tears.",
+    "url": "https://note.com/nyabu_218218/n/n6c78699df3c5?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sweep (@SweepGlobal) / X The wait is over. $SWEEP Phase 3 is officially LIVE! Here's what you need to know about the participation terms, sale allocation, and how to take part.",
+    "url": "https://x.com/sweepglobal",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep (@SweepFamily) / X Strategies launched on Sweep are exclusively tradable on @SweepFamily for now. Once the bonding curve is completed, they migrate to Uniswap and become tradable everywhere.",
+    "url": "https://x.com/SweepFamily",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep (@0xSweep) / X Sweep @0xSweep Co-Founder @ GlydeGG | Programmable Money & AI | Dubai 🇦🇪 | Contact me here: t.me/sweep0x t.me/jsdao",
+    "url": "https://x.com/0xSweep",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep on X: \"The wait is over. $SWEEP Phase 3 is officially ... Sweep is a Web3 ecosystem that turns your activity into rewards — play games, complete tasks and earn SWEEP tokens and USDT through transparent on-chain mechanics.",
+    "url": "https://x.com/SweepGlobal/status/2111132818486985080",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep on X: \"The wait is over. $SWEEP Phase 3 is officially ... Oct 16, 2026 · Sweep is a Web3 ecosystem that turns your activity into rewards — play games, complete tasks and earn SWEEP tokens and USDT through transparent on-chain mechanics.",
+    "url": "https://x.com/SweepGlobal/status/2111132818486985080",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SWEEP - LinkedIn Your sustainability data management platform. | Sweep is the enterprise sustainability data management platform trusted by the world’s leading companies and financial institutions.",
+    "url": "https://www.linkedin.com/company/sweep-softwareforsustainability",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep - LinkedIn Sweep enables governed AI at scale — helping enterprises modernize, integrate, and deploy agents without breaking what’s already built.",
+    "url": "https://www.linkedin.com/company/sweephq",
+    "pass": 3
+   },
+   {
+    "quote": "SWEEP - LinkedIn Sweep delivers transparent, granular, and actionable data-backed insights. Our platform empowers decision-makers to identify regulatory and climate risks, engage their supply chain, design robust...",
+    "url": "https://uk.linkedin.com/company/sweep-softwareforsustainability",
+    "pass": 3
+   },
+   {
+    "quote": "Patrick Guenther - Your carbon & ESG on-track - Account ...Rachel Delacour - CEO & Co-Founder at Sweep | B CORP | UBS ...Abigail Sweep - Strategy I Data I Transformation l ... - LinkedInSWEEP - LinkedIn Sweep is the all-in-one carbon tool to tackle the scale of corporate emissions: from mapping to measuring, reducing to reporting. It’s the enterprise-ready solution to help companies scale... Sweep",
+    "url": "https://uk.linkedin.com/in/patrickmguenther",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sweep | Rockford MI - FacebookSWEEP - FacebookSweep | Tallinn - FacebookSolid Waste Emergency & Efficiency Project - SWEEPSweep Racing USA | Whitestone NY - FacebookSweep Racing - FacebookSmart Sweep - Facebook Welcome to Sweep! Sweep challenges you to re-think house cleaning services. With Sweep, create custom, pre-priced orders and schedule/pay all on the Sweep app. Our goal is to make ordering ",
+    "url": "https://www.facebook.com/cleanwithsweep/",
+    "pass": 3
+   },
+   {
+    "quote": "SWEEP - FacebookSweep | Tallinn - FacebookSolid Waste Emergency & Efficiency Project - SWEEPSweep Racing USA | Whitestone NY - FacebookSweep Racing - FacebookSmart Sweep - Facebook May 18, 2026 · After every challenge, every round, and every battle for the top, the winners of The Masters: SWEEP Edition have officially been decided. Today, the leaderboard is no longer just numbers — it is a testame",
+    "url": "https://www.facebook.com/SWEEPGC/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweep | Tallinn - FacebookSolid Waste Emergency & Efficiency Project - SWEEPSweep Racing USA | Whitestone NY - FacebookSweep Racing - FacebookSmart Sweep - Facebook Oct 13, 2026 · At Sweep that's her - keeping the office running, the team taken care of, and the chaos just manageable enough. We asked her a few questions. The desk situation alone is worth reading about. 👇 What’s a typical day like f",
+    "url": "https://www.facebook.com/sweep.creative.agency/",
+    "pass": 3
+   },
+   {
+    "quote": "Solid Waste Emergency & Efficiency Project - SWEEPSweep Racing USA | Whitestone NY - FacebookSweep Racing - FacebookSmart Sweep - Facebook On October 5, 2026, The World Bank Group officials met with the Sindh Solid Waste Management Board (SSWMB) and the SWEEP project team to discuss the Pak-FLOW component and the way forward for its implementation. Jul 15, 2026 · We are back to the GT8 Class in fu",
+    "url": "https://www.facebook.com/SweepGOS/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sweep.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.io/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.io/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.io/sweep-careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.io/blog/customer-stories-codametrix",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.io/blog/rebuy-engine-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.io/blog/customer-stories-deputy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.io/blog/customer-stories-passport",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.io/blog/customer-stories-cognitiv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.io/blog/customer-stories-graphite",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.io/blog/customer-stories-cybrary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.io/blog/customer-stories-pave",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.io/blog/customer-stories-oneflow",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.sanity.io/images/9eu1m6zu/production/79baee5bd96ed36a4b70fae55e2f2bb340a26e8c-531x182.png?auto=format&dpr=1",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.sanity.io/images/9eu1m6zu/production/f940a0dfef4767d21448824884678b1b767c36b4-492x179.png?auto=format&dpr=1",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.sanity.io/images/9eu1m6zu/production/f8d318541d3da35d6a54aad3754fd965ead50194-1200x630.png?auto=format&dpr=1",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.sanity.io/images/9eu1m6zu/production/18d3d9ebca1031a23550acc8f674ca78a98b93fb-2400x1260.png?auto=format&dpr=1",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://sweep.love/posts/nK0u65tS",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nightlifetokyo.com/ja/kyoto/artists/djsweep13/来日-2026",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/sweep/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000040079.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nihoner.com/in-japanese/sweep/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dictionary.cambridge.org/dictionary/english-japanese/sweep",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-ef4d07e4307b258018cd9220b89bb5db7f509776.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kotomora.com/en/ja/guide/sweep",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.net/en-us/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweep.net/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sweep",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.salesforce.com/s/education/general/Partner_Program?language=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/sweepio",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sweep/__7b7jKCv7CuK_f_149dIVnfcKkszVUhnVVEcchf2RwRc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/601698-34",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sweep/__Qboz8Ea6pBhWADuBydh5nv7qC0t4Xxh7a6EPQafw158",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ecr_by_ryo_san/n/ncc7869e8e6c4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/phi618/n/n43e0ad44cf64",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nyabu_218218/n/n6c78699df3c5?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sweepglobal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SweepFamily",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/0xSweep",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SweepGlobal/status/2111132818486985080",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sweep-softwareforsustainability",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sweephq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/sweep-softwareforsustainability",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/patrickmguenther",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cleanwithsweep/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SWEEPGC/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sweep.creative.agency/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SweepGOS/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sweepglobal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SweepGlobal/status/2111132818486985080",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sweep 日本 導入",
+   "results": [
+    "https://sweep.love/posts/nK0u65tS",
+    "https://nightlifetokyo.com/ja/kyoto/artists/djsweep13/来日-2026",
+    "https://techblitz.com/startup-interview/sweep/",
+    "https://prtimes.jp/main/html/rd/p/000000010.000040079.html",
+    "https://www.itreview.jp/products/sweeep/profile",
+    "https://note.com/masakiyonakata/n/nffe29ceb6ec3",
+    "https://jp.mathworks.com/company/user_stories/nissan-increases-software-reliability.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sweep 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.sidebizz.net/blog/agent/general-agency/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sweep Japan",
+   "results": [
+    "https://nihoner.com/in-japanese/sweep/",
+    "https://dictionary.cambridge.org/dictionary/english-japanese/sweep",
+    "https://www.wordhippo.com/what-is/the/japanese-word-for-ef4d07e4307b258018cd9220b89bb5db7f509776.html",
+    "https://www.kotomora.com/en/ja/guide/sweep",
+    "https://jisho.org/search/sweep",
+    "https://kanjiwakaru.com/kanji/1645",
+    "https://japanesevocab.com/words/掃く"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sweep manufacturing customer case study",
+   "results": [
+    "https://www.sweep.net/en-us/customers",
+    "https://www.sweep.net/customers",
+    "https://www.sweep.io/customers",
+    "https://www.casestudies.com/company/sweep",
+    "https://www.casestudies.com/customer/sweep",
+    "https://www.featuredcustomers.com/vendor/sweep/case-studies",
+    "https://www.sweep-vac.com/cases"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sweep white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.salesforce.com/s/education/general/Partner_Program?language=en",
+    "https://www.seoreseller.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sweep founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/sweepio",
+    "https://tracxn.com/d/companies/sweep/__7b7jKCv7CuK_f_149dIVnfcKkszVUhnVVEcchf2RwRc",
+    "https://pitchbook.com/profiles/company/601698-34",
+    "https://tracxn.com/d/companies/sweep/__Qboz8Ea6pBhWADuBydh5nv7qC0t4Xxh7a6EPQafw158",
+    "https://ai.lounge.ai/companies/sweep",
+    "https://www.crunchbase.com/organization/sweep-d5fc",
+    "https://pitchbook.com/profiles/company/465576-67"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sweep",
+   "results": [
+    "https://note.com/ecr_by_ryo_san/n/ncc7869e8e6c4",
+    "https://note.com/yusukehitorigoto/n/n6827da23fa67?hl=en",
+    "https://note.com/phi618/n/n43e0ad44cf64",
+    "https://note.com/nyabu_218218/n/n6c78699df3c5?hl=en",
+    "https://note.com/bortrace_yui/n/nb6de755a602a?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sweep",
+   "results": [
+    "https://x.com/sweepglobal",
+    "https://x.com/SweepFamily",
+    "https://x.com/0xSweep",
+    "https://x.com/SweepGlobal/status/2111132818486985080",
+    "https://x.com/sweeptech_",
+    "https://x.com/sweep_haus",
+    "https://x.com/0xSweep/status/2098822616907940241"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sweep",
+   "results": [
+    "https://www.linkedin.com/company/sweep-softwareforsustainability",
+    "https://www.linkedin.com/company/sweephq",
+    "https://uk.linkedin.com/company/sweep-softwareforsustainability",
+    "https://uk.linkedin.com/in/patrickmguenther",
+    "https://fr.linkedin.com/in/wearecloudrachel",
+    "https://au.linkedin.com/in/abigail-sweep-43645533",
+    "https://www.linkedin.com/products/sweeptheplanet-sweep/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sweep",
+   "results": [
+    "https://www.facebook.com/cleanwithsweep/",
+    "https://www.facebook.com/SWEEPGC/",
+    "https://www.facebook.com/sweep.creative.agency/",
+    "https://www.facebook.com/SweepGOS/",
+    "https://www.facebook.com/sweepracingusa/",
+    "https://www.facebook.com/SweepRacing/",
+    "https://www.facebook.com/sweepschools/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sweep note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sweep X 投稿",
+   "results": [
+    "https://x.com/sweepglobal",
+    "https://x.com/SweepGlobal/status/2111132818486985080",
+    "https://www.instagram.com/sweep_x/",
+    "https://www.instagram.com/sweepx_/",
+    "https://x-sou.com/ja",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://booth.pm/ja/items/5236548"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部41頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部41頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部41頁・検索12回）"
+ }
+}

@@ -1,0 +1,767 @@
+{
+ "name": "Quotationfactory",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory Software / MES / Industrial Data｜リマイン1",
+ "researched_at": "2026-11-11T07:20:48.858500+00:00",
+ "official_url": "https://www.quotationfactory.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Turn CAD files into accurate quotes in minutes. A system that standardizes your costing, protects your margins, and keeps running when your best estimator is out of the office.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Hours spent per quote when an estimator has to open files, calculate manually, and build a price from scratch",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Person your entire pricing operation depends on when your senior estimator is the system",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Every hour spent on manual estimation is an hour not spent on production. Every quote that takes three days is a customer who might not wait. And every business that runs on one person's knowledge is one resignation away from a serious problem.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Quotes take hours or days to prepare",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing depends on who picks up the job",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "When they leave, so does the pricing logic",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Drop in a STEP, DXF, DWG, DSTV, NC1 or any of 30+ supported formats. Sheet metal parts, tube profiles, structural sections, full assemblies. Analysis starts immediately.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Built For Your Process",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Quotation Factory is not a generic tool adapted for metal. Every calculation, every production route, every material match is built around the specific processes your team runs every day.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Consistent pricing across jobs",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Tube, Profile & Structural Steel",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The same price, every time",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Two estimators, one part, one price. Standardized costing logic means consistent output regardless of who is working.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Your entire quoting operation in one place. CAD analysis, cost calculation, production routing, RFQ management and pricing logic all connected and running automatically.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The quote data flows directly into your ERP as a manufacturing BOM and into your CAM software as machine instructions. Zero manual re-entry between quoting and production.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Where we are today exceeded our expectations completely, but we continue improving workflows, automation, and operational efficiency step by step every single day.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Quotation Factory has helped us speed up our production process and make fewer mistakes.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "CEO, Polder Staalproducties",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "CEO Wim Dijkgraaf had been experimenting with AI around leads and sales conversations. He could see the opportunity. But a company does not become AI-first if every useful idea still has to pass through the founder.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Sales, customer success, marketing and finance needed more than access to another tool. They needed the confidence to describe their own processes, connect the right information and build something repeatable.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Bosar introduced the team to AI First Academy. Each employee received their own training account, with a practical path into Claude Code, Claude Cowork and the AI-first framework.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "After completing the training, Quotation Factory formed an internal AI-first project team. Employees started building skills and agents for their own responsibilities, with weekly meetings to keep the work moving.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "The starting point was ordinary work: a CRM update, a customer handover, a billing check, a product announcement. Each department built around the information and decisions it already understood.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "A rep finished a demo, reopened their notes, updated the CRM and wrote a follow-up from scratch. Preparing a software proposal meant finding the right product information and checking earlier conversations.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "A reusable Claude skill brings the call notes together with the account record and approved product information. It prepares the CRM update, outlines the customer’s requirements and drafts a follow-up with a clear next step. The rep checks it, adds their judgment and sends it.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Call notes + account history + product context",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "CRM update, follow-up and proposal outline",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "The rep confirms scope, pricing and the message.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "A handover arrived as a mix of messages, spreadsheets and sales notes. Customer success pieced together the manufacturer’s process, outstanding questions and onboarding requirements before every call.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Claude reads the agreed handover materials and prepares a customer brief: what the manufacturer wants to improve, what data is still missing and what the next session needs to cover. After the call, the same workflow updates the action list and prepares the customer recap.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Sales handover + onboarding files + meeting notes",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "An exception list, instead of another spreadsheet pass.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "A finance workflow compares the supplied account and billing exports, groups the discrepancies and prepares an exception list with links back to the source rows. Claude drafts the questions and follow-ups; finance reviews the amounts and approves every accounting action.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Approved terms + account export + invoice export",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Finance approves invoices, changes and reminders.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "One product update. A coherent set of communications.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Turning a release into a customer email, a LinkedIn post and a sales talking point meant starting three times. The product detail lived with developers and the tone depended on who had time to write.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing gives Claude the release notes, approved positioning and a defined audience. A shared skill prepares the email, post and sales summary together, using the same facts and language. The team checks the claims and edits the message before anything goes out.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing checks accuracy and publishes.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Product knowledge, customer definitions, tone of voice and operating rules give Claude a consistent foundation. Department skills then specify the task: what to read, what to produce and what must stay with a person.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Reviewed and approved by the person responsible.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "The same structure supports sales, customer success, finance and marketing without removing their judgment.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "That distinction matters. Preparing an invoice review is different from approving a financial change. Drafting a sales message is different from making a promise to a customer. The workflow carries the preparation; the team owns the decision.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing Quoting Software | Quotation Factory",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Quoting Software That Replaces Manual Estimation",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by metalworking teams across Europe and beyond",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Your factory's knowledge becomes a system asset",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Quoting logic built around how your factory actually works.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Quotation Factory is not a generic tool adapted for metal. Every calculation, every production route, every material match is built around the specific processes your team runs every day.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Built to run the way your factory runs.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The quote data flows directly into your ERP as a manufacturing BOM and into your CAM software as machine instructions. Zero manual re-entry between quoting and production.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "What manufacturing teams say after six months on the platform.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Real results from manufacturing teams.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Quotation Factory has helped us speed up our production process and make fewer mistakes.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "The questions manufacturers ask before making a decision.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Bosar × Quotation Factory | Bosar",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Quotation Factory builds quoting software for metalworking manufacturers. Its business is helping other companies turn complex requests into accurate quotations. Inside its own team, the challenge was broader: making AI useful beyond the developers who were already comfortable with it.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "After completing the training, Quotation Factory formed an internal AI-first project team. Employees started building skills and agents for their own responsibilities, with weekly meetings to keep the work moving.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "A handover arrived as a mix of messages, spreadsheets and sales notes. Customer success pieced together the manufacturer’s process, outstanding questions and onboarding requirements before every call.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Claude reads the agreed handover materials and prepares a customer brief: what the manufacturer wants to improve, what data is still missing and what the next session needs to cover. After the call, the same workflow updates the action list and prepares the customer recap.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Luc Versmissen · CFO, Quotation Factory",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Your best estimator's logic becomes part of the system. It stays when they take time off, move on or retire.",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "After completing the training, Quotation Factory formed an internal AI-first project team. Employees started building skills and agents for their own responsibilities, with weekly meetings to keep the work moving.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "A handover arrived as a mix of messages, spreadsheets and sales notes. Customer success pieced together the manufacturer’s process, outstanding questions and onboarding requirements before every call.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "That distinction matters. Preparing an invoice review is different from approving a financial change. Drafting a sales message is different from making a promise to a customer. The workflow carries the preparation; the team owns the decision.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "AI becomes part of how the company works when the people doing the work can shape it themselves.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Your customers upload their files and receive an accurate quote in minutes. No emails, no waiting, no back and forth. They order when ready. Your team handles exceptions",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Turning a release into a customer email, a LinkedIn post and a sales talking point meant starting three times. The product detail lived with developers and the tone depended on who had time to write.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing gives Claude the release notes, approved positioning and a defined audience. A shared skill prepares the email, post and sales summary together, using the same facts and language. The team checks the claims and edits the message before anything goes out.",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer email, LinkedIn draft and sales summary",
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Explore What's Possible - Quotation Factory — Explore What's Possible - Quotation Factory Quotation Factory https://www.quotationfactory.com > b...",
+    "url": "https://www.quotationfactory.com/en/book-a-demo",
+    "pass": 3
+   },
+   {
+    "quote": "Quoting Software Case Studies | Quotation Factory — Quoting Software Case Studies | Quotation Factory Quotation Factory https://www.quotationfactory.com > s...",
+    "url": "https://www.quotationfactory.com/en/showcases",
+    "pass": 3
+   },
+   {
+    "quote": "Quotation Factory : Manufacturing Quoting Software — Quotation Factory : Manufacturing Quoting Software Quotation Factory https://www.quotationfactory.com > ...",
+    "url": "https://www.quotationfactory.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Bosar × Quotation Factory — Bosar × Quotation Factory Bosar Agency https://bosar.agency > quotation-factory",
+    "url": "https://bosar.agency/work/quotation-factory/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Quotation Factory - LinkedIn Quotation Factory - LinkedIn LinkedIn https://nl.linkedin.com > company",
+    "url": "https://nl.linkedin.com/company/quotation-factory",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.quotationfactory.com/en",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amesha-world.com/info/detail.php?id=4277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendo02.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=9ATk6MQYh9c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fromjapan.co.jp/lp/japan/tf2408_fjfashion/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlasobscura.com/things-to-do/japan/factories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLJzQy49AyFY9D73A5ry06lm2sgPvdHYbflQC3HeQ2SmcmQlxrD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/factory.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bosar.agency/work/quotation-factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://factory.com/news/series-c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nl.linkedin.com/company/quotation-factory",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Quotationfactory 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://trafficnews.jp/post/725198",
+    "https://www.instagram.com/reel/DfTb76WgVjx/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.caranddriver.co.jp/newcar/114898/",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://github.com/QuotationFactory/",
+    "https://www.quotationfactory.com/en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Quotationfactory 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendo02.html",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://web-repo.jp/articles/1451",
+    "https://usen.com/portal/partner/column/successful-agency-business/",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Quotationfactory Japan",
+   "results": [
+    "https://www.quotationfactory.com/en/book-a-demo",
+    "https://www.youtube.com/watch?v=9ATk6MQYh9c",
+    "https://www.fromjapan.co.jp/lp/japan/tf2408_fjfashion/en/",
+    "https://www.atlasobscura.com/things-to-do/japan/factories",
+    "https://www.reuters.com/business/autos-transportation/tariff-crossfire-hits-toyota-nissan-ford-suppliers-japan-2025-05-23/",
+    "https://factory.com/news/factory-japan",
+    "https://thejapanesefactory.com/?srsltid=AYCX9vKOp6c4c0CpAWU2vOfsBWSrkN0tvEZ64FHkVzyLOM1Qf8dkh61w",
+    "https://www.youtube.com/watch?v=eMPnwAtaYAo",
+    "https://www.patreon.com/TheJapaneseFactory"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Quotationfactory manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLJzQy49AyFY9D73A5ry06lm2sgPvdHYbflQC3HeQ2SmcmQlxrD",
+    "https://www.quotationfactory.com/en/showcases",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.quora.com/Are-manufacturing-case-studies-useful-when-choosing-a-prototype-supplier",
+    "https://f7i.ai/case-studies",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://663810.fs1.hubspotusercontent-na1.net/hubfs/663810/2022%20-%20CLEVR%20Success%20Stories%20EBooks/CLEVR%20Success%20Stories%20-%20Manufacturing%20-%20ENG.pdf",
+    "https://www.quotationfactory.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Quotationfactory white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://sellful.com/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Quotationfactory founded funding employees revenue",
+   "results": [
+    "https://www.quotationfactory.com/en",
+    "https://getlatka.com/companies/factory.ai",
+    "https://bosar.agency/work/quotation-factory/",
+    "https://factory.com/news/series-c",
+    "https://theaiworld.org/news/factory-ai-raises-150m-series-c-hits-15b-valuation",
+    "https://gaps.com/finance/",
+    "https://bullfincher.io/",
+    "https://www.youtube.com/watch?v=dA3e9e2yjqE",
+    "https://pitchbook.com/profiles/company/459308-44",
+    "https://prospeo.io/c/quotation-factory-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Quotationfactory",
+   "results": [
+    "https://note.com/yoniumuhibi/all",
+    "https://note.com/choo/n/nf2a81eced17b",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/3syaku/n/ne77620e103a8",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/yusuke_motoyama/n/n2a1218636f56"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Quotationfactory",
+   "results": [
+    "https://x.com/",
+    "https://help.x.com/en",
+    "https://x.com/CryptoHog6/status/2119546177805021387",
+    "https://x.com/onaji__me/status/2118277679330001077",
+    "https://help.x.com/en/rules-and-policies/election-integrity-policy",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Marlayna29/status/2115433590150606880"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Quotationfactory",
+   "results": [
+    "https://nl.linkedin.com/company/quotation-factory",
+    "https://br.linkedin.com/in/willemnorbertdijkgraaf",
+    "https://www.linkedin.com/posts/willemnorbertdijkgraaf_engineering-cad-smartmanufacturing-activity-7382178246005596161-C9w7",
+    "https://nl.linkedin.com/in/matthewdulcey",
+    "https://nl.linkedin.com/in/kennethverbist",
+    "https://www.linkedin.com/in/shergaunroserie",
+    "https://www.linkedin.com/company/werk24/",
+    "https://be.linkedin.com/in/yves-hesemans-90354b16",
+    "https://pk.linkedin.com/company/qoutationgroup",
+    "https://www.linkedin.com/pulse/new-release-quotation-factory-quotation-factory"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Quotationfactory",
+   "results": [
+    "https://www.facebook.com/61578917482257/posts/canton-fair-guangzhou-2025-foshan-based-factory-with-years-of-experience-in-offi/122128563062963916/",
+    "https://www.facebook.com/61550271331278/videos/p1/2868425580207060/",
+    "https://www.facebook.com/kingnodfurniture.tj/posts/welcome-to-2026-oct-canton-fairmultiple-models-ergonomic-mesh-office-chairs-full/1618926369932976/",
+    "https://www.facebook.com/61567581655564/videos/-china-laser-welding-machine-factorylooking-for-a-reliable-laser-welding-machine/2548000288976609/",
+    "https://www.facebook.com/Metalclassstainlesssteel/posts/-free-quotation-factory-price-specialist-in-stainless-steel-works-stainless-stee/1623037132854554/",
+    "https://www.facebook.com/100089336894640/videos/natural-stone-delivers-premium-texture-yet-it-creates-big-design-constraintsheav/2613380052416701/",
+    "https://www.facebook.com/61588707278171/posts/-visit-our-office-furniture-factory-during-the-140th-canton-faircoming-to-china-/122117078601290242/",
+    "https://www.facebook.com/leadcomseatingco/posts/join-leadcom-at-the-138th-canton-fair-from-october-23-27-2026-discover-our-lates/1571670448096120/",
+    "https://www.facebook.com/100089336894640/videos/ravertine-brings-timeless-luxury-but-solid-travertine-slabs-create-big-headaches/953422980828863/",
+    "https://www.facebook.com/IrfanMehmood007/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Quotationfactory note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Quotationfactory X 投稿",
+   "results": [
+    "https://lifrell-tech.com/950/",
+    "https://www.youtube.com/watch?v=Mj1KCmSAwgE",
+    "https://www.quotationfactory.com/en",
+    "https://note.com/socialselling/n/n80449faef8e2",
+    "https://github.com/QuotationFactory/Integration.Quickstart",
+    "https://www.reddit.com/r/webdev/comments/1mwckii/is_it_still_possible_to_automate_posting_to_x/?tl=ja",
+    "https://qiita.com/Pyonaya/items/eb11dfa1592a512ac877",
+    "https://data-x.jp/blog/automatically-post-to-x-with-make/",
+    "https://shumatsu-lab.com/make-x-auto-post-alternative-guide/",
+    "https://x.com/QuotationFact"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）"
+ }
+}

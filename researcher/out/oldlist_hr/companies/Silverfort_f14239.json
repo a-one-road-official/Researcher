@@ -1,0 +1,1265 @@
+{
+ "name": "Silverfort",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AI送信済み",
+ "researched_at": "2026-11-11T07:40:03.841518+00:00",
+ "official_url": "https://www.silverfort.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "01-Apr-2016    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/170866-54",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$223.5M",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "See a real AI attack: From prompt to takeover",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Runtime Access Protection",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What if you could protect all the silos of your identity infrastructure? We found a way.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Push MFA beyond limits. Protect everything.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Privileged Access Security",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond managing your privileged accounts.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Legacy & On-Prem Environments",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale Privileged Access Protection",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vaultless Privileged Access Management",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Service Accounts",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your insureds to comply and protect.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Access release & product notes, technical specs and more.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See an autonomous AI attacker reroute, adapt, and chain its way to full compromise. Then see it stopped, inline and at runtime.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Remove AI attackers’ advantage with inline, runtime controls that protect every identity, from AD to AI.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to protect your enterprise",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover all identities, analyze risk context, and protect every access path from Active Directory to cloud and AI. Eliminate your blind spots and stop AI and identity-based attacks before they spread, all from a single platform.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect privilege without a vault",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enforce privileged access controls dynamically, with no vault required. Least privilege and JIT access at scale, without the endless deployment.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure privileged access at scale",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect AD and legacy systems",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your enterprise",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect: Runtime enforcement",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can't protect what you can't see.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Silverfort automatically discovers and maps every identity across your entire environment users, service accounts, non-human identities, and AI agents without proxies or manual configuration.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Privilege Access Security",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See a real AI attack: From prompt to takeover",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Runtime Access Protection",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "What if you could protect all the silos of your identity infrastructure? We found a way.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Push MFA beyond limits. Protect everything.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Privileged Access Security",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond managing your privileged accounts.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Legacy & On-Prem Environments",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale Privileged Access Protection",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Vaultless Privileged Access Management",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Service Accounts",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your insureds to comply and protect.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Access release & product notes, technical specs and more.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "See an autonomous AI attacker reroute, adapt, and chain its way to full compromise. Then see it stopped, inline and at runtime.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "By partnering with Silverfort, you can offer your customers every aspect of identity security, from universal MFA to lateral movement protection and rapid cyber insurance compliance.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Help your insureds check off all MFA requirements, detect and protect their service accounts, and stop identity threats.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Identity Security Alliance brings together next-gen technology partners to develop and deliver comprehensive, end-to-end security integrations with Silverfort that can dynamically adapt to evolving identity infrastructures.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Complement your existing IAM and MFA offerings with extended MFA coverage for all resources, including those that couldn’t be protected before.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance your XDR offering with proactive protection against lateral movement and ransomware propagation attacks.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "As a cyber insurance partner your insureds will have access to our special cyber insurance bundle and discounted pricing.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Giving your insureds the ability to detect and protect service accounts.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop identity threats such as account takeover, lateral movement and the spread of ransomware.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Service Account Protection",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Ransomware Prevention",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure Privileged Access",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "OT Network Protection",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "See a real AI attack: From prompt to takeover",
+    "url": "https://www.silverfort.com/partners/partner-directory/",
+    "pass": 1
+   },
+   {
+    "quote": "Runtime Access Protection",
+    "url": "https://www.silverfort.com/partners/partner-directory/",
+    "pass": 1
+   },
+   {
+    "quote": "What if you could protect all the silos of your identity infrastructure? We found a way.",
+    "url": "https://www.silverfort.com/partners/partner-directory/",
+    "pass": 1
+   },
+   {
+    "quote": "Push MFA beyond limits. Protect everything.",
+    "url": "https://www.silverfort.com/partners/partner-directory/",
+    "pass": 1
+   },
+   {
+    "quote": "Privileged Access Security",
+    "url": "https://www.silverfort.com/partners/partner-directory/",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond managing your privileged accounts.",
+    "url": "https://www.silverfort.com/partners/partner-directory/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Legacy & On-Prem Environments",
+    "url": "https://www.silverfort.com/partners/partner-directory/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale Privileged Access Protection",
+    "url": "https://www.silverfort.com/partners/partner-directory/",
+    "pass": 1
+   },
+   {
+    "quote": "Vaultless Privileged Access Management",
+    "url": "https://www.silverfort.com/partners/partner-directory/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Service Accounts",
+    "url": "https://www.silverfort.com/partners/partner-directory/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 1,000+ organizations.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://www.silverfort.com/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 1,000+ organizations.",
+    "url": "https://www.silverfort.com/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your industrial networks and overcome the risks of third-party access.",
+    "url": "https://www.silverfort.com/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your industrial networks and overcome the risks of third-party access.",
+    "url": "https://www.silverfort.com/solutions-and-use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Identity Security for Manufacturing | Silverfort",
+    "url": "https://www.silverfort.com/industry/identity-security-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Identity security for manufacturing.",
+    "url": "https://www.silverfort.com/industry/identity-security-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "“Silverfort is helping us to secure and protect over 50 legacy manufacturing servers with RDP access, which is protected with MFA. Silverfort is not only providing MFA protection, they are also giving us actionable insights about threat detection into each authentication request.”",
+    "url": "https://www.silverfort.com/industry/identity-security-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Silverfort enables manufacturers to overcome the inherent risks of extensive third-party access and legacy apps and infrastructure, and become resilience to unauthorized access and ransomware propagation",
+    "url": "https://www.silverfort.com/industry/identity-security-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Our unique technology secures identities and access at runtime, in ways that weren’t possible before. With the broadest identity security platform in the market, trusted by more than 1,000 customers, including many Fortune 100 companies, Silverfort is uniquely positioned to lead the fast-growing identity security category.",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our unique technology secures identities and access at runtime, in ways that weren't possible before. With the broadest identity security platform in the market, trusted by more than 1,000 customers, including many Fortune 100 companies, Silverfort is uniquely positioned to lead the fast-growing identity security category.",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Silverfort and Kayak: A Case Study",
+    "url": "https://www.silverfort.com/resources/silverfort-and-kayak-a-case-study/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to learn more about Silverfort solutions.",
+    "url": "https://www.silverfort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help insureds check off all their MFA requirements: email, remote network, and internal and external admin access.",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting against Business Email Compromise (BEC) with Silverfort",
+    "url": "https://www.silverfort.com/cyber-insurance-partner-ecosystem/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/170866-54",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partnerships are key to our continued success and growth. Our partner network includes leading value-added distributors and resellers, advisory consultants, global system integrators, technology partners and more.​",
+    "url": "https://www.silverfort.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our partner network includes leading value-added distributors and resellers, advisory consultants, global system integrators, technology partners and more.​ Browse our partner directory here.",
+    "url": "https://www.silverfort.com/partners/partner-directory/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're a recommending partner, referral partner, or reseller, our program is designed to support brokers in guiding their clients toward enhanced identity security and compliance.",
+    "url": "https://www.silverfort.com/cyber-insurance-partner-ecosystem/",
+    "pass": 1
+   },
+   {
+    "quote": "DUAL is one of the world’s largest international underwriting agencies, backed by many of the world’s most highly rated insurance and reinsurance capacity providers.",
+    "url": "https://www.silverfort.com/cyber-insurance-partner-ecosystem/",
+    "pass": 1
+   },
+   {
+    "quote": "Establish and maintain direct relationships with key channel partners, while working closely with Silverfort Channel Manager in support of full channel partner enablement",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience working collaboratively with channel partners — required",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Establish and maintain direct relationships with c-level executives in target end-customer accounts as well as in key channel partners",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Develop and cultivate channel partnerships across NSW & ACT to accelerate pipeline and revenue growth",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience developing and working through channel partners in the ANZ market is highly desirable",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Build and run PR strategy end to end (plan, metrics, measurement, iteration), leading our PR agencies to do their best work",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "10-13+ years of PR/comms experience at leading tech companies or agencies",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "\" After our reseller recommended Silverfort, we did a demo and POC – and our jaws dropped. We were",
+    "url": "https://www.silverfort.com/wp-content/uploads/2025/11/Womble-Bond-Dickinson-Case-Study-1.pdf",
+    "pass": 2
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Employees’ wellbeing matters, which is why we reimburse up to $100 USD monthly for personal care and wellness.",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "All permanent employees receive stock options since they are fundamental to our success.",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Joining Silverfort means becoming part of a fast-moving team with a culture of innovation and collaboration, that goes above and beyond to help our customers and each other, on a journey to reshape the future of identity security.",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive field-level account mapping, demand generation, and partner activation strategies to accelerate pipeline and revenue growth",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "5+ years of proven success in Channel or Technology Sales, with a consistent track record of achieving and exceeding revenue targets",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Strong strategic mindset with demonstrated ability to drive the partner lifecycle, including recruitment, enablement, pipeline development, marketing, and revenue growth",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritise new-logo acquisition (~75% of focus) across the priority verticals above, while expanding and renewing a strong existing NSW/ACT customer base (~25%)",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Develop and cultivate channel partnerships across NSW & ACT to accelerate pipeline and revenue growth",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven success running complex, multi-stakeholder enterprise sales cycles, including new-logo acquisition and account expansion",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow Silverfort's corporate communications function into a world-class operation, shaping and driving our global corporate narrative and keeping leadership, product, and go-to-market teams aligned",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Joining Silverfort means becoming part of a fast-moving team with a culture of innovation and collaboration that goes above and beyond to help our customers and each other on a journey to reshape the future of identity security.",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We are looking for a Senior Backend Software Engineer to join us. In this role, you'll be a key part of the team building Silverfort's proprietary low-level adapter, a critical component of our core solution. You'll contribute across the full development lifecycle: architecture and design, coding and implementation, and validation and deployment.",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead headcount planning and growth modeling with Finance and Talent Acquisition, and manage the HR department’s global budget and procurement",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Joining Silverfort means becoming part of a fast-moving team with a culture of innovation and collaboration that goes above and beyond to help our customers and each other, on a journey to reshape the future of identity security.",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We are looking for a Product Security Engineer to join us and own product security across Silverfort’s engineering organization. In this role, you will embed security into the software development lifecycle, partner closely with R&D as an enabler, and build the programs, tooling, and culture that make security a first-class part of how we build.",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Amazing people to work with, incredibly friendly and helpful. The work is interesting and the company is growing at an incredible rate. The customers love the product. Management recognise and care for their employees, they are regularly recognised in monthly company meetings.",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "So happy to be a part of this",
+    "url": "https://www.silverfort.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "When it comes to training employees on new security tools, too often it can be challenging for end-users to adopt. However,",
+    "url": "https://www.silverfort.com/wp-content/uploads/2025/11/Silverfort-Agilisys-Case-Study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/170866-54",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (2)",
+    "url": "https://pitchbook.com/profiles/company/170866-54",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/170866-54",
+    "pass": 3
+   },
+   {
+    "quote": "To view Silverfort’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/170866-54",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort has 589 total employees.",
+    "url": "https://pitchbook.com/profiles/company/170866-54",
+    "pass": 3
+   },
+   {
+    "quote": "What is Silverfort’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/170866-54",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Silverfort is",
+    "url": "https://pitchbook.com/profiles/company/170866-54",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort Revenue 2024: $82M Est., $1B Valuation",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, acquisition & funding",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort was acquired.",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort has not published its revenue. GetLatka estimates it at about $82M a year (December 2024).",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort CEO, founders & employees",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "Hed Kovetz founded Silverfort in 2016 and led it as CEO. Silverfort had 554 employees (November 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "What was Silverfort's revenue?",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Silverfort's revenue at about",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "across five funding rounds before it was acquired. The last was a $116M Series D in January 2024.",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Silverfort have?",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "東京都大田区南蒲田2-16-2 テクノポート大樹生命ビル",
+    "url": "https://products.nvc.co.jp/silverfort",
+    "pass": 3
+   },
+   {
+    "quote": "ITDRソリューション Silverfort | セキュリティ | 製品・サービス | 丸紅情報システムズ株式会社",
+    "url": "https://www.marubeni-idigio.com/product/silverfort/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Silverfort | AI、AD、クラウド向けのランタイムIDセキュリティ — Silverfort システム変更を必要とせず、インラインで、環境のあらゆる場所にランタイムIDセキュリティをもたらすことができる唯一のプラットフォームです。 すべてのIDを検出し、リスクコンテキストを分析し、すべてのアクセスパスを保護します。",
+    "url": "https://www.silverfort.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort | 全てのアイデンティティと認証を可視化し保護する統合ID... — いま求められているのは、取り残されがちなADを含め、すべての認証基盤に対して必要なセキュリティ基準で対策を講じることです。 「Silverfort」はまさにこれらの対策を実現する「統合IDセキュリティプラットフォーム」です。",
+    "url": "https://products.nvc.co.jp/silverfort",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort アイデンティティセキュリティプラットフォーム — 「配備以来 Silverfortランサムウェアの脅威に対する環境改善において重要なステップとして、既存アプリケーションにもセキュリティ制御と多要素認証（MFA）による保護を適用しました。",
+    "url": "https://www.silverfort.com/ja/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort | セキュリティ事業 | 丸紅I-DIGIO — Silverfort が提供するITDRは、IDの可視化や認証状況の分析を通じて、異常な振る舞いを検知するとともに、その結果をもとにした適切な対応を実現します。 また、その保護対象は個人のIDだけでは無く、サービスアカウントの保護まで含めた対応を実現します。",
+    "url": "https://www.marubeni-idigio.com/security/service/silverfort/",
+    "pass": 3
+   },
+   {
+    "quote": "ITDRソリューション Silverfort | セキュリティ | 製品・サービス | ... — お客様の仮想基盤/IaaS環境にSilverfortサーバを構築し、Microsoft社と共同開発した軽量で低負荷なアダプターをActive Directoryサーバにインストールするだけで導入できます。",
+    "url": "https://www.marubeni-idigio.com/product/silverfort/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact - Silverfort — Discover what it’s like to work at Silverfort and browse open job opportunities here.",
+    "url": "https://www.silverfort.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "ITDRソリューション Silverfort | セキュリティ | 製品・サービス | ... — Silverfortは、SentinelOneに対して、該当アカウントで検知しているリスク情報を提供します。 Silverfortのリスクベース認証と組み合わせることで、SOC側の脅威判定が完了するまで予防的な認証制御を実現できます。",
+    "url": "https://www.marubeni-idigio.com/product/silverfort/",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort – Valuation, Revenue & Market Scope – 2026 — Silverfort has completed 3 funding rounds, raising $223M in total. With 635 employees generating $219.1K in revenue per person, the company shows strong productivity metrics.",
+    "url": "https://compworth.com/company/silverfortcom",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort 2026 Company Profile: Valuation, Funding ...Silverfort - 2026 Company Profile, Team, Funding ... - TracxnSilverfort Revenue 2024: $82M Est., $1B Valuation - LATKASilverfort: funding rounds, valuation, investors and revenueSilverfort — Funding, Team & Competitive Intelligence ...Silverfort: Revenue, Competitors, Alternatives - Growjo — Information on valuation, funding, cap tables, inves",
+    "url": "https://pitchbook.com/profiles/company/170866-54",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort - 2026 Company Profile, Team, Funding ... - TracxnSilverfort Revenue 2024: $82M Est., $1B Valuation - LATKASilverfort: funding rounds, valuation, investors and revenueSilverfort — Funding, Team & Competitive Intelligence ...Silverfort: Revenue, Competitors, Alternatives - Growjo — Apr 3, 2026 · Silverfort is a series D company based in Tel Aviv (Israel), founded in 2016 by Matan Fattal,",
+    "url": "https://tracxn.com/d/companies/silverfort/__2kWv0FH0arL_K5P9xLexOqZMH5sPTWl03DhofPDr2Gw",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort Revenue 2024: $82M Est., $1B Valuation - LATKA — Oct 30, 2026 · Silverfort 2024 estimated revenue: $82M (up from $41.8M in 2023). Valuation: $1B. Total funding: $223.5M across 5 rounds. HQ: Israel. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort: funding rounds, valuation, investors and revenue — Silverfort is a cybersecurity company founded in 2016, specializing in end-to-end identity security. Headquartered in Tel Aviv, Israel, with a significant presence in Dallas, Texas, Silverfort serves over 1,000 enterprise customers globally, including many Fortune 50 companies.",
+    "url": "https://ai.lounge.ai/companies/silverfort",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Silverfort (@silverfort) / Posts / X 🚀 Silverfort is growing—come be part of something groundbreaking! 🚀 We’re looking for exceptional talent to help us push boundaries and define the future of identity security.",
+    "url": "https://x.com/silverfort",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort raises $116m to deliver a unified layer of ... Silverfort raises $116m to deliver a unified layer of identity security across all enterprise resources following a year of 100% revenue growth with more than 100 new customers joining us each quarter.",
+    "url": "https://x.com/silverfort/status/1749785317211505143",
+    "pass": 3
+   },
+   {
+    "quote": "kimimasa sato (@kimimasa) / X ゼロトラストの本質とは何か？ そして、なぜ今「アイデンティティ」が最重要なのか？ 本セミナーでは、Silverfortの全体像を通じて、現代のサイバーセキュリティ戦略における課題とその解決策をわかりやすくご紹介します。",
+    "url": "https://x.com/kimimasa",
+    "pass": 3
+   },
+   {
+    "quote": "BlueFort Security (@BlueFortSec) / X We had a fantastic time educating Identity Security experts on how Silverfort helps NHS organisations defend against advanced identity-based threats with ease and precision.",
+    "url": "https://x.com/BlueFortSec",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort (@silverfort) / Posts / X We talk a lot about our amazing (award-winning 👀 ) culture – but if you really want a taste of what it's like to work at Silverfort, you should head over to our Glassdoor page!",
+    "url": "https://x.com/silverfort",
+    "pass": 3
+   },
+   {
+    "quote": "noel o grady (@silverfort_) / X 1 followers · 21 following. Joined Jul 2009. See the latest conversations with @silverfort_",
+    "url": "https://x.com/Silverfort_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Silverfort - LinkedIn Silverfort is trusted by more than 1,200 leading organizations, including multiple Fortune 50 companies, and protects over 10 billion authentications every day.",
+    "url": "https://www.linkedin.com/company/silverfort",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort - LinkedIn Silverfort is trusted by more than 1,200 leading organizations, including multiple Fortune 50 companies, and protects over 10 billion authentications every day. With Silverfort, you can finally...",
+    "url": "https://sg.linkedin.com/company/silverfort",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort: Jobs | LinkedIn Identity security done right. | Silverfort is on a mission to bring identity security everywhere, and allow organizations to operate without fear or disruptions.",
+    "url": "https://www.linkedin.com/company/silverfort/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Hed Kovetz - Silverfort | LinkedInSilverfort - LinkedInSilverfort: Jobs | LinkedInSilverfort: Jobs | LinkedIn Silverfort Named a Gartner Cool Vendor in Identity and Access Management Gartner has just named Silverfort a “Cool Vendor” in Identity and Access Management (IAM). Needless to say, we are… Silverfort is the identity security platform the industry deserves, earning us the trust of more than",
+    "url": "https://il.linkedin.com/in/hed-kovetz-910ba5b9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Silverfort | Boston MA - FacebookSilverfort - Have you heard of the Silverfort Academy?! ...Silverfort - Identity is where your current security tools ...Silverfort - The growing wave of identity-related threats is ...Silverfort - Upcoming Webinar Alert: Unveiling NTLMv1 ...Silverfort - Meet the Silverfort team at IAM Exchange ...Have you heard Silverfort has raised $116m in series D ... May 13, 2",
+    "url": "https://www.facebook.com/silverfort/",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort - Have you heard of the Silverfort Academy?! ... Mar 13, 2024 · Have you heard of the Silverfort Academy?! 🎓 It's a free training portal where you can discover content to help you make the most of our Unified...",
+    "url": "https://www.facebook.com/silverfort/posts/have-you-heard-of-the-silverfort-academy-its-a-free-training-portal-where-you-ca/921481616647214/",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort - Identity is where your current security tools ... Mar 2, 2025 · This is identity security done right. Start your journey here 👉 https://www.silverfort.com/ #Identitysecurity #Identitysecuritydoneright",
+    "url": "https://www.facebook.com/silverfort/posts/identity-is-where-your-current-security-tools-end-and-every-attack-begins-identi/1187673173361389/",
+    "pass": 3
+   },
+   {
+    "quote": "Silverfort - The growing wave of identity-related threats is ... Jan 13, 2025 · The growing wave of identity-related threats is reshaping how organizations approach identity security. Join us tomorrow, January 14 2025 at 4:00 PM, as Silverfort and The Cyber Hut tackle the blind spots that could leave your organization vulnerable.",
+    "url": "https://www.facebook.com/silverfort/photos/the-growing-wave-of-identity-related-threats-is-reshaping-how-organizations-appr/1148869307241776/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.silverfort.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/partners/partner-directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/cyber-insurance-partner-ecosystem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/company/#about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/solutions-and-use-cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/industry/identity-security-for-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.silverfort.com/resources/silverfort-and-kayak-a-case-study/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.silverfort.com/wp-content/uploads/2025/11/Womble-Bond-Dickinson-Case-Study-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.silverfort.com/wp-content/uploads/2025/11/Silverfort-Agilisys-Case-Study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.silverfort.com/wp-content/uploads/2025/06/Evolution-equity-partners-logo.svg?w=728",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.silverfort.com/wp-content/uploads/2025/02/Manufacturing-1.png?w=800",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://products.nvc.co.jp/silverfort",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com:443/product/security/service/silverfort/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%96%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E6%9D%B1%E4%BA%AC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appexchangejp.salesforce.com/learn/japan-resellers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aon.com/japan/company-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/en-us/contact-us/companyinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://products.nvc.co.jp/silverfort",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubeni-idigio.com/product/silverfort/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/silverfortcom",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/170866-54",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/silverfort/__2kWv0FH0arL_K5P9xLexOqZMH5sPTWl03DhofPDr2Gw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/silverfort.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/silverfort",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/silverfort/status/1749785317211505143",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kimimasa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BlueFortSec",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/silverfort",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/silverfort",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/silverfort/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/hed-kovetz-910ba5b9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/silverfort/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/silverfort/posts/have-you-heard-of-the-silverfort-academy-its-a-free-training-portal-where-you-ca/921481616647214/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/silverfort/posts/identity-is-where-your-current-security-tools-end-and-every-attack-begins-identi/1187673173361389/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/silverfort/photos/the-growing-wave-of-identity-related-threats-is-reshaping-how-organizations-appr/1148869307241776/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/silverfort",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Silverfort_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Silverfort 日本 導入",
+   "results": [
+    "https://www.silverfort.com/ja/",
+    "https://products.nvc.co.jp/silverfort",
+    "https://www.silverfort.com/ja/platform/",
+    "https://www.marubeni-idigio.com/security/service/silverfort/",
+    "https://www.marubeni-idigio.com/product/silverfort/",
+    "https://products.nvc.co.jp/silverfort/faq",
+    "https://act1.co.jp/cyber-security/silverfort/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silverfort 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/イマーシブ・フォート東京",
+    "https://appexchangejp.salesforce.com/learn/japan-resellers",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.paypal.com/jp/digital-wallet/corporate/corporate-info",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://ja.nozominetworks.com/company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silverfort Japan",
+   "results": [
+    "https://www.silverfort.com/ja/",
+    "https://products.nvc.co.jp/silverfort",
+    "https://www.silverfort.com/contact/",
+    "https://www.marubeni-idigio.com/product/silverfort/",
+    "https://www.marubeni-idigio.com/security/service/silverfort/",
+    "https://www.nox.co.jp/products/silverfort/",
+    "https://products.nvc.co.jp/silverfort/inquiry"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silverfort manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Silverfort white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/digitalexperience/",
+    "https://www.sap.com/partners/partner-program",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silverfort founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/silverfortcom",
+    "https://pitchbook.com/profiles/company/170866-54",
+    "https://tracxn.com/d/companies/silverfort/__2kWv0FH0arL_K5P9xLexOqZMH5sPTWl03DhofPDr2Gw",
+    "https://getlatka.com/companies/silverfort.com",
+    "https://ai.lounge.ai/companies/silverfort",
+    "https://mandos.io/data/companies/silverfort",
+    "https://growjo.com/company/Silverfort"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Silverfort",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/dashboard",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/nge555/n/n9be457d29844",
+    "https://note.com/hirokimiyano/n/nb97d74a785ab",
+    "https://note.com/ma_strategynews/n/n0951679d550a",
+    "https://note.com/ipusiro/n/nc92ad555b463"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Silverfort",
+   "results": [
+    "https://x.com/silverfort",
+    "https://x.com/silverfort/status/1749785317211505143",
+    "https://x.com/kimimasa",
+    "https://x.com/BlueFortSec",
+    "https://x.com/faveda12/status/2118266963164303828",
+    "https://x.com/0patch",
+    "https://x.com/IdnetOfficial/status/2027212229884743979"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Silverfort",
+   "results": [
+    "https://www.linkedin.com/company/silverfort",
+    "https://sg.linkedin.com/company/silverfort",
+    "https://www.linkedin.com/company/silverfort/jobs",
+    "https://il.linkedin.com/in/hed-kovetz-910ba5b9",
+    "https://il.linkedin.com/company/silverfort",
+    "https://sg.linkedin.com/company/silverfort/jobs",
+    "https://be.linkedin.com/company/silverfort/jobs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Silverfort",
+   "results": [
+    "https://www.facebook.com/silverfort/",
+    "https://www.facebook.com/silverfort/posts/have-you-heard-of-the-silverfort-academy-its-a-free-training-portal-where-you-ca/921481616647214/",
+    "https://www.facebook.com/silverfort/posts/identity-is-where-your-current-security-tools-end-and-every-attack-begins-identi/1187673173361389/",
+    "https://www.facebook.com/silverfort/photos/the-growing-wave-of-identity-related-threats-is-reshaping-how-organizations-appr/1148869307241776/",
+    "https://www.facebook.com/silverfort/posts/-upcoming-webinar-alert-unveiling-ntlmv1-vulnerabilities-despite-microsofts-depr/1162301165898590/",
+    "https://www.facebook.com/silverfort/posts/meet-the-silverfort-team-at-iam-exchange-2023-26-27th-september-2023-hotel-amero/789241603204550/",
+    "https://www.facebook.com/silverfort/videos/have-you-heardsilverfort-has-raised-116m-in-series-d-funding-to-deliver-a-unifie/2468776813293322/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silverfort note 社長",
+   "results": [
+    "https://www.silverfort.com/ja/press-news/silverfort-appoints-howard-greenfield-president-and-cro/",
+    "https://siliconvalleyinvestclub.com/id/companies/silverfort/",
+    "https://www.theofficialboard.com/biography/hed-kovetz-d1g46",
+    "https://www.clay.com/dossier/silverfort-ceo",
+    "https://craft.co/silverfort/executives",
+    "https://www.silverfort.com/ja/blog/fireside-chat-with-president-and-cro-howard-greenfield/",
+    "https://jp.linkedin.com/in/hironobu-aoyama-ab3b57"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Silverfort X 投稿",
+   "results": [
+    "https://x.com/silverfort",
+    "https://x.com/Silverfort_",
+    "https://www.silverfort.com/",
+    "https://www.silverfort.com/ja/landing-page/general/thank-you-for-your-submission-rh-ex/",
+    "https://portal.silverfort.com/",
+    "https://academy.silverfort.com/learn/signin",
+    "https://products.nvc.co.jp/silverfort"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

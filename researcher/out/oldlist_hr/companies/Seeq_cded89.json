@@ -1,0 +1,1526 @@
+{
+ "name": "Seeq",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Software｜返信あり",
+ "researched_at": "2026-11-11T07:56:01.351348+00:00",
+ "official_url": "https://www.seeq.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Professional Services",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring together operational data, human expertise, and industrial analytics software to accelerate decisions, improve performance, and continuously optimize operations across assets, plants, and enterprises.",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine operational data, collective expertise, and AI to accelerate investigations, improve product quality, and drive compliant decision-making across the drug lifecycle.",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A transformational approach to scaling expertise and impact",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial teams face growing pressure to move faster, operate smarter, and do more with less. That takes more than data. It takes a smarter way to turn expertise into action. We combine expert knowledge, industrial Al, and connected systems to deliver faster insights, clearer decisions, and scalable impact across your operations.",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enhance human decision-making with traceable Al that adds context, speed, and precision.",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring people, data, and workflows together to drive consistent execution and continuous improvement.",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Seeq Intelligence is a notable step forward in the fast-moving Industrial AI ecosystem. Agent Q can reach across the broad stack of operational technologies, incorporate the expertise and context contained in Seeq, and provide the agentic layer needed to change the speed, quality, and strategic priority of decisions.”",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "– Matthew Littlefield, President and Research Lead, LNS Research",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Enable Forecast-Driven Outage Planning: A Data-Centric Approach from Dominion Energy",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it’s increasing uptime, improving product quality, or cutting costs, Seeq enables industrials to tackle their most pressing operational challenges.",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 Generative AI Product of the Year",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "G2 Top 50 Analytics Products 2026",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improving Asset Reliability with Seeq Condition Monitoring",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Specialty Chemical Margins Under Volatility",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Progress happens faster when the right people and technologies come together. By collaborating with leading technology providers, system integrators, and service partners, Seeq helps organizations connect data, strengthen operations, and scale insight with confidence to drive measurable business outcomes.",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AFRY provides engineering, design, digital and advisory services to accelerate the transition towards a sustainable society. We are 19,000 devoted experts in...",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Amitec is a leading Nordic software and services company, specialized in transforming real-time and historical PROCESS DATA into INSIGHTS. Since 1996, we...",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ATSYS is an Australian-owned engineering and technology solutions provider specialising in industrial automation, operational technology (OT), digital transformation, and process optimisation. We...",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a lean, agile team providing custom-tailored AI solutions to extract the data needed to optimize, predict and generate profit in...",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Calibr8 Systems, Inc is a Filipino-owned company that focuses on providing first-rate services and systems integration for OSIsoft PI System and other...",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Canary Labs provides enterprise historian and trending solutions that simplify and optimize data analysis driving more informed, confident decisions. Leading companies worldwide...",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Crucial Solutions and Services (CSS) prides itself as being one of the most advanced solutions providers in the GCC and greater MENA...",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Daven Technologies is a technology solutions company providing innovative and reliable IT solutions and services to businesses. The company focuses on helping...",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq’s industrial data integration process is simple.",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Your data doesn’t need to move before your team can use it. Seeq connects directly to historians, data lakes, and distributed sources with no data movement projects, no pipeline buildouts, no waiting.",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Future Proof Functionality",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Working with Databrick’s Lakehouse Platform, Seeq’s industrial data integration and AI capabilities empower process industries to unify, analyze, and act on their data at scale.",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq and AVEVA have been tightly integrated for over a decade, enabling the biggest, most innovative industrials to harness the power of their data – unlocking more efficient, sustainable, and profitable operations.",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Specialty Chemical Margins Through Chemical Process Optimization",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq’s agents, integrated with Amazon Quick, transform complex operational data into actionable, explainable insights accessible across the enterprise. By combining Seeq Intelligence with Amazon Quick, industrial organizations extend operational insights with seamless access to enterprise knowledge, connecting real-time data with business systems, documents, and organizational context.",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Quick serves as a secure bridge to enterprise systems, enriching Seeq insights with relevant operational procedures, engineering standards, past analyses, and company knowledge. This enables users to move beyond data analysis to fully contextualized decision-making.",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq has partnered with AWS to improve production and business outcomes for multiple industries, including oil and gas, pharmaceutical, utilities and power generation verticals.",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep the process simple and procure Seeq through the AWS Marketplace. Seeq is verified as “ready to run,” so your company can start realizing the benefits of our industrial AI and analytics right away.",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Specialty Chemical Margins Through Chemical Process Optimization",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.seeq.com/connectivity-partners/microsoft-azure/",
+    "pass": 1
+   },
+   {
+    "quote": "With integration across Azure Data Lake, Azure Synapse, and Azure Machine Learning, Seeq enables faster deployment, improved security, and enterprise-wide visibility. This bidirectional system ensures insights are accessible across the enterprise.",
+    "url": "https://www.seeq.com/connectivity-partners/microsoft-azure/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Intelligence meets Operational Intelligence",
+    "url": "https://www.seeq.com/connectivity-partners/microsoft-azure/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Specialty Chemical Margins Through Chemical Process Optimization",
+    "url": "https://www.seeq.com/connectivity-partners/microsoft-azure/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "The volume of operational data continues to explode, and managing your data is seemingly becoming more complex every day – and that’s before you do anything with it! Seeq and AVEVA have been tightly integrated for over a decade, enabling the biggest, most innovative industrials to harness the power of their data – unlocking more efficient, sustainable, and profitable operations.",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our collaboration with Seeq makes it simpler and more intuitive for customers to operationalize industrial analytics by leveraging Seeq’s analytics and CONNECT’s data-sharing capabilities. Our powerful combination enables the process industries to enhance data-driven decision making to optimize operations and unlock new opportunities.”",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Specialty Chemical Margins Through Chemical Process Optimization",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.seeq.com/connectivity-partners/databricks/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Specialty Chemical Margins Through Chemical Process Optimization",
+    "url": "https://www.seeq.com/connectivity-partners/databricks/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Promote agility and creativity",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq’s culture is collaborative and curious, built around smart, talented people who are encouraged to grow and keep improving together. Integrity, empathy, customer focus, open debate, and mutual respect are at the core of how teams work.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re open, honest, and straightforward with candidates and hiring managers at every stage. Whether it’s about timelines, feedback, compensation, or decisions. We do what we say we’ll do, stay accountable, and follow through on the commitments we make.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Every Candidate Is a Team Member in Waiting",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We treat every candidate with the same care and respect we give our coworkers, because many of them may soon be part of our team. We aim to create a fair, consistent, and human experience where people feel informed, valued, and never overlooked.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Great talent doesn’t sit still, and neither do we. We adjust our approach based on the role, get creative about how we find and connect with people, and keep things moving with the urgency the process deserves.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Hire for Customer Impact",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We look past the resume to find people who will make a real impact for Seeq’s customers. Every hire matters, so we focus on candidates who bring strong skills, good judgment, and a clear customer-first mindset.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Never Stop Improving Our Craft",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe recruiting is something we should always be improving. We use data, candidate feedback, and honest reflection to keep making our process better, improve outcomes, and create a stronger candidate experience.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq hires team members in countries around the world. While all our roles are remote, some positions have location-based eligibility requirements. If you have questions about location eligibility, our Talent Team will be happy to discuss them with you during the recruiting process.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial AI That Brings People and Systems Together",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "THE BEST INDUSTRIAL AI",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine human ingenuity, operational context, and industrial AI to accelerate better decisions.",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "TRUSTED BY THE LEADING INDUSTRIAL COMPANIES IN THE WORLD",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI That Scales Expertise",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring together operational data, human expertise, and industrial analytics software to accelerate decisions, improve performance, and continuously optimize operations across assets, plants, and enterprises.",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial teams face growing pressure to move faster, operate smarter, and do more with less. That takes more than data. It takes a smarter way to turn expertise into action. We combine expert knowledge, industrial Al, and connected systems to deliver faster insights, clearer decisions, and scalable impact across your operations.",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Seeq Intelligence is a notable step forward in the fast-moving Industrial AI ecosystem. Agent Q can reach across the broad stack of operational technologies, incorporate the expertise and context contained in Seeq, and provide the agentic layer needed to change the speed, quality, and strategic priority of decisions.”",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it’s increasing uptime, improving product quality, or cutting costs, Seeq enables industrials to tackle their most pressing operational challenges.",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing Seeq Intelligence: Bridging Industrial AI and Human Expertise for Smarter Operational Decisions",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate Outcomes in Semiconductor Manufacturing with Human-Centric Industrial AI",
+    "url": "https://www.seeq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partnerships that drive industrial innovation",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Apperture Solutions is a consulting and implementation services firm. Our clients are manufacturing companies looking to leverage their data and best-in-class technologies...",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ATSYS is an Australian-owned engineering and technology solutions provider specialising in industrial automation, operational technology (OT), digital transformation, and process optimisation. We...",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AVEVA is a global leader in industrial software, sparking ingenuity to drive responsible use of the world’s resources. The company’s secure industrial...",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the next generation of industrial intelligence with solutions built to optimize performance and innovation.",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Complete Industrial Data Integration with Leading Platforms",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq’s industrial data integration process is simple.",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "One platform. Total industrial data integration. Zero duplication.",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "When you pair AWS’s secure cloud services with the Seeq’s industrial AI capabilities, organizations gain transformative capabilities to unlock the full value of industrial data.",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Working with Databrick’s Lakehouse Platform, Seeq’s industrial data integration and AI capabilities empower process industries to unify, analyze, and act on their data at scale.",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq and AVEVA have been tightly integrated for over a decade, enabling the biggest, most innovative industrials to harness the power of their data – unlocking more efficient, sustainable, and profitable operations.",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Making industrial intelligence more accessible: Seeq and AWS expand the possibilities of Amazon Quick for energy organizations",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Human-In-The-Loop Industrial AI: Why Human Expertise Still Matters",
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq Industrial AI Solutions for AWS | AWS AI Integration",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq + AWS: Industrial AI that’s Better Together.",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Marathon Oil leveraged Seeq Industrial AI for AWS",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq’s agents, integrated with Amazon Quick, transform complex operational data into actionable, explainable insights accessible across the enterprise. By combining Seeq Intelligence with Amazon Quick, industrial organizations extend operational insights with seamless access to enterprise knowledge, connecting real-time data with business systems, documents, and organizational context.",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Strong Seeq + AWS industrial AI partnerships create better results",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq Achieves AWS Manufacturing and Industrial Competency",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerating Sustainable Manufacturing with Seeq and AWS",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Web Services – Simplifying Digital Transformation in Manufacturing with AWS",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep the process simple and procure Seeq through the AWS Marketplace. Seeq is verified as “ready to run,” so your company can start realizing the benefits of our industrial AI and analytics right away.",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the next generation of industrial intelligence with solutions built to optimize performance and innovation.",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Making industrial intelligence more accessible: Seeq and AWS expand the possibilities of Amazon Quick for energy organizations",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Human-In-The-Loop Industrial AI: Why Human Expertise Still Matters",
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq + Microsoft Manufacturing Analytics AI Integration",
+    "url": "https://www.seeq.com/connectivity-partners/microsoft-azure/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq + Microsoft Manufacturing Analytics Integration",
+    "url": "https://www.seeq.com/connectivity-partners/microsoft-azure/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq + Microsoft: Combining GenAI and Manufacturing Data Insights to Unleash Innovation",
+    "url": "https://www.seeq.com/connectivity-partners/microsoft-azure/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the next generation of industrial intelligence with solutions built to optimize performance and innovation.",
+    "url": "https://www.seeq.com/connectivity-partners/microsoft-azure/",
+    "pass": 1
+   },
+   {
+    "quote": "Making industrial intelligence more accessible: Seeq and AWS expand the possibilities of Amazon Quick for energy organizations",
+    "url": "https://www.seeq.com/connectivity-partners/microsoft-azure/",
+    "pass": 1
+   },
+   {
+    "quote": "Human-In-The-Loop Industrial AI: Why Human Expertise Still Matters",
+    "url": "https://www.seeq.com/connectivity-partners/microsoft-azure/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq’s Powerful Industrial AI Integration for AVEVA",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq + AVEVA: Industrial AI Integration",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "The volume of operational data continues to explode, and managing your data is seemingly becoming more complex every day – and that’s before you do anything with it! Seeq and AVEVA have been tightly integrated for over a decade, enabling the biggest, most innovative industrials to harness the power of their data – unlocking more efficient, sustainable, and profitable operations.",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our collaboration with Seeq makes it simpler and more intuitive for customers to operationalize industrial analytics by leveraging Seeq’s analytics and CONNECT’s data-sharing capabilities. Our powerful combination enables the process industries to enhance data-driven decision making to optimize operations and unlock new opportunities.”",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq industrial AI and AVEVA work together to innovate for you – bringing new, integrated capabilities to market to drive your pursuit of insights and accelerate your operational initiatives.",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "TALK TO US ABOUT SEEQ + AVEVA INDUSTRIAL AI",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the next generation of industrial intelligence with solutions built to optimize performance and innovation.",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "Making industrial intelligence more accessible: Seeq and AWS expand the possibilities of Amazon Quick for energy organizations",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "Human-In-The-Loop Industrial AI: Why Human Expertise Still Matters",
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq + Databricks Manufacturing Analytics and AI Integration",
+    "url": "https://www.seeq.com/connectivity-partners/databricks/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq + Databricks: Manufacturing Analytics Powered by AI",
+    "url": "https://www.seeq.com/connectivity-partners/databricks/",
+    "pass": 1
+   },
+   {
+    "quote": "– Shiv Trisal, Global Manufacturing Industry Leader at Databricks",
+    "url": "https://www.seeq.com/connectivity-partners/databricks/",
+    "pass": 1
+   },
+   {
+    "quote": "Looking for global scalability and security? Seeq’s Manufacturing Analytics for Databricks has you covered.",
+    "url": "https://www.seeq.com/connectivity-partners/databricks/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the next generation of industrial intelligence with solutions built to optimize performance and innovation.",
+    "url": "https://www.seeq.com/connectivity-partners/databricks/",
+    "pass": 1
+   },
+   {
+    "quote": "Making industrial intelligence more accessible: Seeq and AWS expand the possibilities of Amazon Quick for energy organizations",
+    "url": "https://www.seeq.com/connectivity-partners/databricks/",
+    "pass": 1
+   },
+   {
+    "quote": "Human-In-The-Loop Industrial AI: Why Human Expertise Still Matters",
+    "url": "https://www.seeq.com/connectivity-partners/databricks/",
+    "pass": 1
+   },
+   {
+    "quote": "Work with us. Help change manufacturing for the better.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq is made up of talented, thoughtful people who are passionate about redefining how industrial organizations operate. We’re deeply invested in what we do, and we also believe great outcomes happen when people enjoy working together. Below are just a few of the benefits and perks of being part of Seeq.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“Our collaboration with Seeq unlocks tremendous value for customers, making it simpler for organizations to operationalize and democratize loT datasets by leveraging the open and secure foundation of the Databricks Lakehouse Platform. This significantly lowers the barrier to data-driven innovation in the industry.”",
+    "url": "https://www.seeq.com/connectivity-partners/databricks/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq is made up of talented, thoughtful people who are passionate about redefining how industrial organizations operate. We’re deeply invested in what we do, and we also believe great outcomes happen when people enjoy working together. Below are just a few of the benefits and perks of being part of Seeq.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Company culture you’ll want to be a part of.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We treat every candidate with the same care and respect we give our coworkers, because many of them may soon be part of our team. We aim to create a fair, consistent, and human experience where people feel informed, valued, and never overlooked.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq offers benefits that are designed to support real life, with a remote work environment that gives employees flexibility and helps make work-life balance a little easier. It also provides comprehensive health benefits for eligible employees and their dependents, along with personalized Fringe benefits that let people choose the lifestyle perks that matter most to them.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq is led by an experienced executive team and board with deep expertise in process manufacturing, industrial automation, mission-critical systems, and enterprise SaaS—bringing the knowledge and perspective to help employees and customers succeed around the world.",
+    "url": "https://www.seeq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "in annual revenue per site generated by batch segmentation and optimization at Repsol",
+    "url": "https://www.seeq.com/industries/chemicals-petrochemicals/",
+    "pass": 1
+   },
+   {
+    "quote": "Downtime isn’t just inconvenient—it’s lost wafer starts, missed SLAs, and delayed AI workloads. In fabs and data centers, every unplanned outage shows up in your OEE, availability, and revenue attainment metrics. High-performing teams use data and semiconductor manufacturing analytics to see issues early, schedule interventions precisely, and keep critical systems online.",
+    "url": "https://www.seeq.com/industries/semiconductors/",
+    "pass": 1
+   },
+   {
+    "quote": "A privately held, fully virtual company, Seeq has employees across the globe and helps drive real transformation for many of the world’s most innovative industrial companies across oil and gas, specialty chemicals, pharma and life sciences, semiconductors, mining, and more.",
+    "url": "https://www.seeq.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Seeq is led by an experienced executive team and board with deep expertise in process manufacturing, industrial automation, mission-critical systems, and enterprise SaaS—bringing the knowledge and perspective to help employees and customers succeed around the world.",
+    "url": "https://www.seeq.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.seeq.com/company/team/",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/57270-16",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq has 198 total employees.",
+    "url": "https://pitchbook.com/profiles/company/57270-16",
+    "pass": 3
+   },
+   {
+    "quote": "What is Seeq’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/57270-16",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Seeq is",
+    "url": "https://pitchbook.com/profiles/company/57270-16",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq Corporation Revenue 2025: $25.3M Est.",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq Corporation revenue",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq Corporation has not published its revenue. GetLatka estimates it at about $25.3M a year (September 2025).",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq Corporation employees",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq Corporation has 230 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Seeq Corporation's revenue?",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Seeq Corporation's revenue at about",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Seeq Corporation have?",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Bi-directional, automated, secure data driven collaboration with key OEMs and Suppliers",
+    "url": "https://www.seeq.com/industries/semiconductors/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Seeq Accelerates Growth in Japan with MKI Partnership — Jul 12, 2022 · SEATTLE – July 12, 2022 – Seeq Corporation, a leader in manufacturing and Industrial Internet of Things advanced analytics software, today announced its silver level sponsorship at ARC Industry Forum Asia, along with the expansion of its Japan business development team and offerings in the region.",
+    "url": "https://www.seeq.com/resources/press-releases/seeq-accelerates-momentum-in-japan-with-mitsui-knowledge-industry-partnership-and-product-localization/",
+    "pass": 3
+   },
+   {
+    "quote": "Seeqの導入は三井情報 | 三井情報（MKI） — Seeqは、時系列データ専用のデータ分析用ソフトウェアです。 分析支援機能として、 WORKBENCH 、 ORGANIZER 、 DATA LAB の3つを用意しています。 これらの機能を利用することで、生産効率をあげるために必要なオペレーションと製造データから得られるインサイトの分析と共有が素早くできるようになります。 また、データ連携用のコネクタ―を準備していますので、既存データベースとSeeqを接続することができ、データの検索、コンテキストの追加、クレンジング、モデル化、パターンの検索、監視ポイントの確立、設備稼働状況の監視等、リアルタイムでのデータコラボレーションや蓄積していた時系列データの利活用を効率的に支援できるようになります。",
+    "url": "https://www.mki.co.jp/solution/product/seeq/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners - Seeq — By collaborating with leading technology providers, system integrators, and service partners, Seeq helps organizations connect data, strengthen operations, and scale insight with confidence to drive measurable business outcomes.",
+    "url": "https://www.seeq.com/company/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq ～プロセス製造業向けデータ分析ツール～ ⑤導入支援 | 三井情報... — 工場内で課題が発生した場合、改善対応の為の分析を行うとおもいます。 SeeqのWORKBENCHでデータを確認し、ORGANIZERでレポートを作成、フォーマットを保存しておくことで、業務を効率化することが出来、定期的にモニタリングすることが可能になります。",
+    "url": "https://www.mki.co.jp/solution/product/seeq/support.html",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories - Seeq — Uncover the impact of Seeq through real customer success stories. Find out how you can leverage our solutions to drive growth in your organization.",
+    "url": "https://www.seeq.com/resources/success-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Seeq Corporation - Growth Molecules — Our team of award-winning strategists are former customer success leaders who understand what it takes to increase revenue through customer success. Don't take it from us, take it from our customers through case studies and G2 Reviews to prove it.",
+    "url": "https://growthmolecules.com/wp-content/uploads/2023/09/Case-Study-Seeq_2023_GM.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Use Cases - Seeq — Discover Seeq’s outcome-oriented approach to solving challenges and building lasting, reliable solutions for industrial organizations. Discover how Seeq empowers diverse industries to tackle digital transformation challenges and achieve positive outcomes through innovative solutions.",
+    "url": "https://www.seeq.com/resources/use-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Lonza boosts manufacturing insights and ... — Lonza (Biotechnology) partnered with Seeq Corporation to solve key challenges. \"Lonza - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/seeq-corporation/case-study/lonza-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq Corporation B2B Case Studies & Customer Successes — See how Seeq Corporation solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/seeq-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq - 2026 Company Profile, Team, Funding & Competitors - TracxnSeeq Corporation – Overview – Funding, Revenue & Growth – 2026Seeq 2026 Company Profile: Valuation, Funding & Investors ...Seeq Corporation Revenue 2025: $25.3M Est. - getlatka.comSeeq: Funding, Investors & Team (Nov 2026) | FundedIQSeeq: Funding, Team & Investors | Startup IntrosSeeq Corporation: funding rounds, valuation · Lounge.a",
+    "url": "https://tracxn.com/d/companies/seeq/__Qu8sgGO7gXet4HargbELxExhyW9qiPl3zk85J6vVNHo",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq Corporation – Overview – Funding, Revenue & Growth – 2026 — Seeq Corporation has emerged with estimated revenue of $39M, team of around 200+ employees, located in Seattle, staying focused on customer-centric solutions.",
+    "url": "https://compworth.com/company/seeq-corporation",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq 2026 Company Profile: Valuation, Funding & Investors ...Seeq Corporation Revenue 2025: $25.3M Est. - getlatka.comSeeq: Funding, Investors & Team (Nov 2026) | FundedIQSeeq: Funding, Team & Investors | Startup IntrosSeeq Corporation: funding rounds, valuation · Lounge.ai — Information on valuation, funding, cap tables, investors, and executives for Seeq. Use the PitchBook Platform to explore th",
+    "url": "https://pitchbook.com/profiles/company/57270-16",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq Corporation Revenue 2025: $25.3M Est. - getlatka.com — Oct 7, 2026 · How many employees does Seeq Corporation have? Seeq Corporation has 230 employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/seeq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq: Funding, Investors & Team (Nov 2026) | FundedIQ — Seeq is a Data and Analytics company in Seattle, United States. Raised $100M across 2 rounds; latest a Series D in Aug 2024. Investors and funding history.",
+    "url": "https://fundediq.co/seeq-seeq-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/57270-16",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "盛りがいいのにコスパ最高！ 野菜をたっぷり味わえる創作料理「seeq（... May 30, 2024 · どんな時でもお腹と心の両方を満腹に満たしてくれるお店だと感じた。 また他のメニューも食べてみたいので定期的に通おうと思う。 美味しい創作イタリアンが高コスパで食べられるお店、「seeq」。 是非みなさんも行ってみてくださいね♪",
+    "url": "https://note.com/ponikos2777/n/n391960275f1e",
+    "pass": 3
+   },
+   {
+    "quote": "SeeQ Vaultハードディスクを購入した話｜はらへった Jul 2, 2025 · SeeQ Vault 対応ハードディスクは同一メーカー (正確には同じデータ形式)であれば別機器であっても再生が可能です。 特にPanasonic製のレコーダー (ディーガ)における SeeQ Vault 形式の最大録画タイトル数が10,000であり、大量の番組管理に適しています。",
+    "url": "https://note.com/harayaku/n/n715a04ad5769",
+    "pass": 3
+   },
+   {
+    "quote": "「SeeQ Creation lab 様」｜Tsuji Fudousan(tenant) Oct 23, 2018 · 「服飾雑貨デザイン製作販売」 業種 物販・製造業 オープン日 2018年10月 住所 京都府京都市上京区元北小路町152 最寄駅 市バス「今出川大宮」停より徒歩2分 連絡先 050-1581-1628 営業時間 13：00～21：00（詳細はホームページを確認下さい） 店舗HP https://www.seeq ...",
+    "url": "https://note.com/kyototenant/n/nccc8d8086096",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "住所：〒173-0024 東京都板橋区大山金井町39-1",
+    "url": "https://note.com/ponikos2777/n/n391960275f1e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "盛りがいいのにコスパ最高！ 野菜をたっぷり味わえる創作料理「seeq（シーク）」【店内犬OK】in大山｜Keiko🍹",
+    "url": "https://note.com/ponikos2777/n/n391960275f1e",
+    "pass": 3
+   },
+   {
+    "quote": "盛りがいいのにコスパ最高！ 野菜をたっぷり味わえる創作料理「seeq（シーク）」【店内犬OK】in大山",
+    "url": "https://note.com/ponikos2777/n/n391960275f1e",
+    "pass": 3
+   },
+   {
+    "quote": "2024年の2~4月はタイに約3週間、カンボジアに10日、フィリピンに2週間滞在して旅をしながら仕事をしていました💻",
+    "url": "https://note.com/ponikos2777/n/n391960275f1e",
+    "pass": 3
+   },
+   {
+    "quote": "私は普段は板橋区に住んでいるが、今回板橋区民の私が特におすすめしたいお店が創作イタリアンのお店「seeq」だ。",
+    "url": "https://note.com/ponikos2777/n/n391960275f1e",
+    "pass": 3
+   },
+   {
+    "quote": "住所：〒173-0024 東京都板橋区大山金井町39-1",
+    "url": "https://note.com/ponikos2777/n/n391960275f1e",
+    "pass": 3
+   },
+   {
+    "quote": "木土 →12:00～14:00、17:00～23:00",
+    "url": "https://note.com/ponikos2777/n/n391960275f1e",
+    "pass": 3
+   },
+   {
+    "quote": "大山駅から少し歩くとある、創作フレンチイタリアンのお店。",
+    "url": "https://note.com/ponikos2777/n/n391960275f1e",
+    "pass": 3
+   },
+   {
+    "quote": "彼の誕生日をお祝いしようと、誕生日プレートがあるお店を探していた時にたまたま見つけた。",
+    "url": "https://note.com/ponikos2777/n/n391960275f1e",
+    "pass": 3
+   },
+   {
+    "quote": "SeeQ Vaultハードディスクを購入した話｜はらへった",
+    "url": "https://note.com/harayaku/n/n715a04ad5769",
+    "pass": 3
+   },
+   {
+    "quote": "SeeQ Vaultハードディスクを購入した話",
+    "url": "https://note.com/harayaku/n/n715a04ad5769",
+    "pass": 3
+   },
+   {
+    "quote": "ブルーレイレコーダーの外付けHDDにSeeQ Vaultに対応した外付けハードディスクを購入しました。",
+    "url": "https://note.com/harayaku/n/n715a04ad5769",
+    "pass": 3
+   },
+   {
+    "quote": "通常のハードディスクにて録画したテレビ番組は別の機器で再生することはできません。",
+    "url": "https://note.com/harayaku/n/n715a04ad5769",
+    "pass": 3
+   },
+   {
+    "quote": "録画に使っていたレコーダーやテレビを買いかえると同じ型番のテレビであっても再生することはできないので注意が必要です。",
+    "url": "https://note.com/harayaku/n/n715a04ad5769",
+    "pass": 3
+   },
+   {
+    "quote": "対応ハードディスクは同一メーカー(正確には同じデータ形式)であれば別機器であっても再生が可能です。",
+    "url": "https://note.com/harayaku/n/n715a04ad5769",
+    "pass": 3
+   },
+   {
+    "quote": "特にPanasonic製のレコーダー(ディーガ)における",
+    "url": "https://note.com/harayaku/n/n715a04ad5769",
+    "pass": 3
+   },
+   {
+    "quote": "形式の最大録画タイトル数が10,000であり、大量の番組管理に適しています。",
+    "url": "https://note.com/harayaku/n/n715a04ad5769",
+    "pass": 3
+   },
+   {
+    "quote": "「SeeQ Creation lab 様」｜Tsuji Fudousan(tenant)",
+    "url": "https://note.com/kyototenant/n/nccc8d8086096",
+    "pass": 3
+   },
+   {
+    "quote": "「SeeQ Creation lab 様」",
+    "url": "https://note.com/kyototenant/n/nccc8d8086096",
+    "pass": 3
+   },
+   {
+    "quote": "Tsuji Fudousan(tenant)",
+    "url": "https://note.com/kyototenant/n/nccc8d8086096",
+    "pass": 3
+   },
+   {
+    "quote": "■住所 京都府京都市上京区元北小路町152",
+    "url": "https://note.com/kyototenant/n/nccc8d8086096",
+    "pass": 3
+   },
+   {
+    "quote": "■最寄駅 市バス「今出川大宮」停より徒歩2分",
+    "url": "https://note.com/kyototenant/n/nccc8d8086096",
+    "pass": 3
+   },
+   {
+    "quote": "■営業時間 13：00～21：00（詳細はホームページを確認下さい） ■店舗HP",
+    "url": "https://note.com/kyototenant/n/nccc8d8086096",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.seeq-kyoto.com/made-to-order",
+    "url": "https://note.com/kyototenant/n/nccc8d8086096",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SEEQ (@SEEQActive) / X 68 SEEQ @SEEQActive Oct 1, 2025 Energy check: Are you sprinting, strolling, or stretching into the year’s finish line?🐝",
+    "url": "https://x.com/SEEQActive",
+    "pass": 3
+   },
+   {
+    "quote": "SEEQ SUPPLY (@seeqsupply) / X Mama, we made it 😏🎯 Target is officially home to SEEQ! A dream come true for our Minnesota-founded brand. Huge thanks to our team, families, friends, and YOU for making this possible. Now go find us in Target near you—Stay Juicy! -Ben & Hannah, Co-Founders of SEEQ",
+    "url": "https://x.com/seeqsupply",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq (@SeeqMNG) / Posts / X SeeqMNG Jan 1 need manager Seeq SeeqMNG Dec 26 I’m looking for the following positions: 1x Editor ( work for free ) 1x fortnite manager Talents player ( around 10k pr ) 💼Contact: Me ( X or discord: .yoki.123 )",
+    "url": "https://x.com/SeeqMNG",
+    "pass": 3
+   },
+   {
+    "quote": "Streamline Genomics — seeq.bio (@streamlinegx) / Posts / X We are launching \"Seeq\", the search engine for genomics. Making all genomic information intuitive = rocket fuel for the adoption of precision medicine.",
+    "url": "https://x.com/streamlinegx",
+    "pass": 3
+   },
+   {
+    "quote": "SEEQ (@Seeqx_) / Posts / X Mar 20, 2022 · SEEQ 🎬 (@Seeqx_) - Posts - unleashing opportunities || amplifing AI | X (formerly Twitter)",
+    "url": "https://x.com/Seeqx_",
+    "pass": 3
+   },
+   {
+    "quote": "seeq 知念未祐 on X Jun 20, 2026 · seeq 知念未祐 (@x1uPrrlTtZzllSk) on X Continue with phone Continue with Apple Continue with Google",
+    "url": "https://x.com/x1uPrrlTtZzllSk/status/2068539752530469200",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Seeq Corporation - LinkedIn Seeq is a global leader in industrial AI that brings together operational data, human expertise, and AI to help industrial organizations accelerate better decisions and measurable outcomes.",
+    "url": "https://www.linkedin.com/company/seeqcorporation/",
+    "pass": 3
+   },
+   {
+    "quote": "Seeq - LinkedIn Seeq is the only enterprise SaaS platform that is purpose-built for time series data, and is trusted by the most recognizable names in oil & gas, pharmaceuticals, specialty chemicals, utilities...",
+    "url": "https://www.linkedin.com/products/seeqcorporation-seeq",
+    "pass": 3
+   },
+   {
+    "quote": "Kjell Raemdonck, P.Eng - Senior Director, Analytics ...Ray Scheppach - Chief Financial Officer at Seeq | LinkedInKeenan Kelly - CPG // CEO @ SEEQ | LinkedInBen Zaver - Co-Founder of SEEQ | #1 Clear Protein | LinkedInSEEQ - LinkedIn Currently serving as Sr Director of Analytics Engineering at Seeq, leading a global team of industry and product experts driving big outcomes with customers through tec",
+    "url": "https://ca.linkedin.com/in/kjell-raemdonck-p-eng-253b4323",
+    "pass": 3
+   },
+   {
+    "quote": "Ray Scheppach - Chief Financial Officer at Seeq | LinkedInKeenan Kelly - CPG // CEO @ SEEQ | LinkedInBen Zaver - Co-Founder of SEEQ | #1 Clear Protein | LinkedInSEEQ - LinkedIn Seeq is a global leader in industrial AI that brings together operational data, human expertise, and AI to help industrial organizations accelerate better decisions and measurable outcomes. CPG // CEO @ SEEQ · CPG executive",
+    "url": "https://www.linkedin.com/in/rsscheppach",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Seeq Corporation - FacebookMeet the new Seeq. Today, we’re introducing a new brand that ...A new Seeq deserves a new digital experience. Our ... - FacebookThat’s a wrap on #Conneqt2026 What made ... - FacebookBig news: Seeq has been named one of ... - FacebookEarly bird registration is now open... - Seeq ... - FacebookJoin us in Houston on March 3, 2026 to... - Seeq Corporation ... Oct 22, 2026 · ",
+    "url": "https://www.facebook.com/seeqcorp/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet the new Seeq. Today, we’re introducing a new brand that ... Aug 28, 2026 · Meet the new Seeq. Today, we’re introducing a new brand that reflects who Seeq is today, and where we’re headed. Industry is evolving. Data is growing. AI is advancing. But the most powerful source of industrial intelligence remains the people who know their operations best.",
+    "url": "https://www.facebook.com/seeqcorp/videos/meet-the-new-seeqtoday-were-introducing-a-new-brand-that-reflects-who-seeq-is-to/2149002382717912/",
+    "pass": 3
+   },
+   {
+    "quote": "A new Seeq deserves a new digital experience. Our ... - Facebook Aug 28, 2026 · From customer success stories and industry solutions to the latest in industrial AI, the new seeq.com is designed to help you find the insights and resources that matter most.",
+    "url": "https://www.facebook.com/seeqcorp/videos/a-new-seeq-deserves-a-new-digital-experienceour-new-website-is-live-bringing-our/4571786013080639/",
+    "pass": 3
+   },
+   {
+    "quote": "Big news: Seeq has been named one of ... - Facebook 📉 Downtime is costly. 🔍 Smarter, more sustainable fabs? That’s the future. See how Intel partnered with Seeq to build an anomaly detection platform that’s cutting unplanned downtime and boosting margins.",
+    "url": "https://www.facebook.com/story.php/?story_fbid=1310129684450168&id=100063594458908",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.seeq.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/company/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/connectivity-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/connectivity-partners/aws/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/connectivity-partners/microsoft-azure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/connectivity-partners/aveva/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/connectivity-partners/databricks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/industries/oil-gas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/industries/chemicals-petrochemicals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/industries/pharma-life-sciences/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/industries/mining-metals-and-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/industries/power-utilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/industries/food-beverage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/industries/semiconductors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/resources/success-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seeq.com/company/team/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDEwMDQiIHdpZHRoPSI3NjgiIGhlaWdodD0iMTAwNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzIwIDQ3OSIgd2lkdGg9IjcyMCIgaGVpZ2h0PSI0NzkiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/SCE_Japan_Studio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mki.co.jp/solution/product/seeq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growthmolecules.com/wp-content/uploads/2023/09/Case-Study-Seeq_2023_GM.pdf",
+    "status": "http_202",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/company/seeq-corporation/case-study/lonza-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/seeq/__Qu8sgGO7gXet4HargbELxExhyW9qiPl3zk85J6vVNHo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/seeq-corporation",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/57270-16",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/seeq.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ponikos2777/n/n391960275f1e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/harayaku/n/n715a04ad5769",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kyototenant/n/nccc8d8086096",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SEEQActive",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/seeqsupply",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SeeqMNG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/streamlinegx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/seeqcorporation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/seeqcorporation-seeq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/kjell-raemdonck-p-eng-253b4323",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rsscheppach",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/seeqcorp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/seeqcorp/videos/meet-the-new-seeqtoday-were-introducing-a-new-brand-that-reflects-who-seeq-is-to/2149002382717912/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/seeqcorp/videos/a-new-seeq-deserves-a-new-digital-experienceour-new-website-is-live-bringing-our/4571786013080639/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/story.php/?story_fbid=1310129684450168&id=100063594458908",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Seeqx_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/x1uPrrlTtZzllSk/status/2068539752530469200",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Seeq 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Seeq 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.seeq.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seeq Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/SCE_Japan_Studio",
+    "https://www.seeq.com/resources/press-releases/seeq-accelerates-momentum-in-japan-with-mitsui-knowledge-industry-partnership-and-product-localization/",
+    "https://www.mki.co.jp/solution/product/seeq/",
+    "https://www.seeq.com/company/partners/",
+    "https://www.mki.co.jp/solution/product/seeq/support.html",
+    "https://www.engineering-japan.com/companies/501-seeq",
+    "https://seeqinasia.com/collections",
+    "https://marketplace.microsoft.com/ja-jp/product/seeqcorporation.seeq_software"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Seeq manufacturing customer case study",
+   "results": [
+    "https://www.seeq.com/resources/success-stories/",
+    "https://growthmolecules.com/wp-content/uploads/2023/09/Case-Study-Seeq_2023_GM.pdf",
+    "https://www.seeq.com/resources/use-cases/",
+    "https://www.casestudies.com/company/seeq-corporation/case-study/lonza-customer-case-study",
+    "https://www.casestudies.com/company/seeq-corporation",
+    "https://partner.microsoft.com/en-us/case-studies/seeq",
+    "https://www.featuredcustomers.com/vendor/seeq-corporation/case-studies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seeq white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://reolink.com/distributor-reseller/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seeq founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/seeq/__Qu8sgGO7gXet4HargbELxExhyW9qiPl3zk85J6vVNHo",
+    "https://compworth.com/company/seeq-corporation",
+    "https://pitchbook.com/profiles/company/57270-16",
+    "https://getlatka.com/companies/seeq.com",
+    "https://fundediq.co/seeq-seeq-com-funding/",
+    "https://startupintros.com/orgs/seeq",
+    "https://lounge.ai/companies/seeq-corporation"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Seeq",
+   "results": [
+    "https://note.com/ponikos2777/n/n391960275f1e",
+    "https://note.com/harayaku/n/n715a04ad5769",
+    "https://note.com/kyototenant/n/nccc8d8086096",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/yasuhitoo/n/n76804fc8985c",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Seeq",
+   "results": [
+    "https://x.com/SEEQActive",
+    "https://x.com/seeqsupply",
+    "https://x.com/SeeqMNG",
+    "https://x.com/streamlinegx",
+    "https://x.com/Seeqent/status/2120252904577642684",
+    "https://x.com/Seeqent/status/2120227697679081936",
+    "https://x.com/Seeqent/status/2120004587893698864"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Seeq",
+   "results": [
+    "https://www.linkedin.com/company/seeqcorporation/",
+    "https://www.linkedin.com/products/seeqcorporation-seeq",
+    "https://ca.linkedin.com/in/kjell-raemdonck-p-eng-253b4323",
+    "https://www.linkedin.com/in/rsscheppach",
+    "https://www.linkedin.com/in/keenanfkelly",
+    "https://www.linkedin.com/in/ben-zaver-070593187",
+    "https://www.linkedin.com/company/seeq-supply"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Seeq",
+   "results": [
+    "https://www.facebook.com/seeqcorp/",
+    "https://www.facebook.com/seeqcorp/videos/meet-the-new-seeqtoday-were-introducing-a-new-brand-that-reflects-who-seeq-is-to/2149002382717912/",
+    "https://www.facebook.com/seeqcorp/videos/a-new-seeq-deserves-a-new-digital-experienceour-new-website-is-live-bringing-our/4571786013080639/",
+    "https://www.facebook.com/story.php/?story_fbid=1310129684450168&id=100063594458908",
+    "https://www.facebook.com/seeqcorp/posts/-early-bird-registration-is-now-open-for-conneqt-2026join-us-june-13-2026-in-orl/1545174370945697/",
+    "https://www.facebook.com/seeqcorp/posts/join-us-in-houston-on-march-3-2026-to-see-how-seeqs-industrial-analytics-ai-plat/1543500497779751/",
+    "https://www.facebook.com/seeqcorp/videos/thats-a-wrap-on-conneqt2026-what-made-this-week-memorable-was-more-than-the-sess/981051758037322/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seeq note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.seeq.com/company/team/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Seeq X 投稿",
+   "results": [
+    "https://x.com/Seeqx_",
+    "https://x.com/x1uPrrlTtZzllSk/status/2068539752530469200",
+    "https://seeq.qc.ca/",
+    "https://seeq.bkoservices.com/",
+    "https://twixive.net/faq",
+    "https://addness.co.jp/media/twitter-video-posting/",
+    "https://help.x.com/ja/using-x/how-to-post"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）"
+ }
+}

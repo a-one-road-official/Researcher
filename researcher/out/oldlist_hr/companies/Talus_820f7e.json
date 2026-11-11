@@ -1,0 +1,1296 @@
+{
+ "name": "Talus",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-11T07:17:49.438758+00:00",
+ "official_url": "https://www.talus.bio",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "One model for the full human proteome, including disordered targets beyond the reach of structure-based methods.",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Ptarmigan-1 predicts how proteins and small molecules engage without requiring a 3D structure or a known pocket. Where conventional methods build a structure for each protein-compound pair, Ptarmigan-1 skips folding and places every protein and every compound in one growing landscape where proximity predicts binding.",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Predicted engagement · Residue position →",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Proteins and compounds share an embedding space, where proximity predicts engagement. Illustrative predictions.",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Because Ptarmigan-1 never explicitly models a 3D pose, flexible, cryptic, and disordered sites become tractable where structure-based models struggle to represent them.",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Search billions of compounds against your target, then predict their engagement across the proteome.",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "3.4B compounds × 20,431 proteins",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Top-ligand retrieval in 20 H100 GPU-hours, after library embedding. Reported in the preprint; predictions require experimental validation.",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Resolve predictions to individual sites",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Test both which compounds engage a target and where, with predictions resolved to individual sites.",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "02 / Native-cell profiling",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "A functional proteomics technology powering Ptarmigan that measures proteins in their native context. Reports how compounds bind and alter protein localization in living human cells.",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Profile protein dynamics",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Measure compound–protein interactions at scale",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Profile complex protein dynamics",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Track how proteins redistribute in response to compounds, preserving the cellular context in which they function.",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Measure protein responses to small molecules at scale",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "We have tested 200 million compound–protein pairs in living human cells.",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine changes in protein localization with site-resolved evidence from covalent compounds to investigate how a molecule acts.",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Talus Bio announces collaboration with PRISM BioLab to discover novel modulators of transcription factor and protein-protein interaction targets",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Progress Update 2025",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn profile (opens in a new tab)",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Professor of Genome Sciences at UW",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Serial Entrepreneur, Biotech Executive",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring a target, a question, or a discovery challenge. Explore how Ptarmigan-1 and native-cell profiling could advance your program.",
+    "url": "https://www.talus.bio/",
+    "pass": 1
+   },
+   {
+    "quote": "An additively manufactured, or 3D printed, patient specific implant",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": "The Paragon 28® Patient Specific Talus Spacer is an alternative treatment option to fusion and amputation and requires talus replacement surgery. During this procedure the native talus bone is removed and replaced with a 3D printed replica. This is considered a joint-sparing procedure, as it allows the patient to maintain motion of his/her ankle joint.",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": "Provides pain relief and preserves motion of the ankle joint",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": "The Paragon 28® Patient Specific Talus Spacer is an additively manufactured, or 3D printed, patient specific implant that is designed and made individually for each patient using CT image data.",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": "The Paragon 28® Patient Specific Talus Spacer is indicated for avascular necrosis of the ankle joint. The anatomical landmarks necessary for the design and creation of the Paragon 28® Patient Specific Talus Spacer must be present and identifiable on computed tomography (CT) scan.",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": ", and requires talus replacement surgery. During this procedure the native talus bone is removed and replaced with a 3D printed replica. This is considered a",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": "joint-sparing procedure",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": "Subspecialty Procedures",
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "pass": 3
+   },
+   {
+    "quote": "April-June 2023; 13 (2): e22.00030",
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "pass": 3
+   },
+   {
+    "quote": "April 26, 2023",
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "pass": 3
+   },
+   {
+    "quote": "forms are provided with the online version of the article (",
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "pass": 3
+   },
+   {
+    "quote": "Downloads: 6",
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "pass": 3
+   },
+   {
+    "quote": "reported that alumina ceramic prostheses were superior in terms of congruency and durability of articular cartilage compared with 316L stainless steel in an in vivo test in dogs. Therefore, alumina ceramic is an ideal material for replacement of the talus to preserve postoperative hindfoot mobility.",
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "pass": 3
+   },
+   {
+    "quote": "During the resection of the talus, the attaching ligament and joint capsule are recommended to be debrided prior to osteotomy.",
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "pass": 3
+   },
+   {
+    "quote": "Although favorable long-term results have been reported, postoperative outcomes in patients with high body mass index have not been adequately investigated. This procedure should be carefully selected on the basis of the physical characteristics of the patient.",
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "pass": 3
+   },
+   {
+    "quote": "As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "the contents by NLM or the National Institutes of Health.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": ") which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Total talus replacements are a promising alternative to tibiotalocalcaneal fusion for patients with avascular necrosis of the talus; however, further studies are required to ensure reliable outcomes prior to widespread adoption of this technology.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Replacing part or all of the talus with a customized prosthesis has been developed for the treatment of a range of pathologies affecting the talus, but principally avascular necrosis (AVN) or osteonecrosis following trauma, medications, autoimmune conditions, and tumors.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "The talus is a complex bone with a unique shape and blood supply. The surface of the talus is composed of more than 60% cartilage and has minimal soft tissue attachments for arterial supply. This combination of factors leads to the risk of AVN from several pathologies including fractures of the talar neck.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Nonoperative treatment options for talar AVN are limited. These include activity modification, protected weightbearing and bracing, potential pharmacologic treatments, and even shockwave therapy has been proposed for earlier stages of the disease process.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Historically, the mainstay of surgery for talar AVN has been either a tibiotalocalcaneal (TTC) fusion using bulk allograft or tibiocalcaneal fusion with talar excision, often in conjunction with a limb-lengthening procedure. Although there are studies that report TTC fusion as having an improvement in functional scores,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "these procedures can be surgically challenging, with varied functional outcomes and high rates of reported nonunion and reoperation.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "The first talar replacement prostheses were implanted in 1974 in Thailand.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "In the first generation, they included a peg to fix into the neck of the talus, but this was subsequently removed after all of the first-generation prostheses loosened and the remaining talus necrosed. The second generation fared little better, and in 2012, they concluded that those patients who had been converted to a total talus replacement (TTR) appeared to fare best.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "The proposed advantages of talar replacement over fusion include preservation of joint mobility, limb length, and a shorter period of weightbearing restrictions, and the potential to delay the need for fusion surgery.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "). Because of the heterogeneity of the articles selected, it was inappropriate to consider performing a meta-analysis.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "PRISMA diagram for literature search.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "The inclusion criteria were (1) TTR, (2) at least 3 patients, (3) a mean follow-up of >1 year, and (4) English language. The exclusion criterion was partial talar prosthesis.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Two reviewers independently reviewed all articles. Data were extracted and recorded on Microsoft Excel using a standardized proforma. If there were any disagreements, then the senior author reviewed the data and came to a final decision. Data collected included demographic data, surgical technique, technique for producing the implant, postoperation complications, functional outcomes, and survival.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "). Six studies with 80 patients used a TTR alone and 3 studies with 35 patients combined TTRs with a tibial prosthesis of an ankle replacement above. All but 1 of the studies was a case series, and the majority lacked long-term follow-up.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "There was variation in the prosthetic materials used. Four studies used ceramic prostheses and 3 cobalt chromium—of which 1 had a titanium nitride coating, 1 used stainless steel, and 1 used titanium with a ceramic surface. Only 3 studies clearly recorded concomitant procedures at the time of surgery (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Surgical Technique and Adjuvant Procedures.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom-made prosthesis",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本流、フィジカルAIのつくり方",
+    "url": "https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device",
+    "pass": 3
+   },
+   {
+    "quote": "国を挙げて半導体産業振興を図るインドに日本はどう向き合えばよいのか",
+    "url": "https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device",
+    "pass": 3
+   },
+   {
+    "quote": "決算調査で判明、日本の大規模ITプロジェクトの真実",
+    "url": "https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device",
+    "pass": 3
+   },
+   {
+    "quote": "インド半導体の業界地図 タタ経済圏に450社、日本の突破口明らかに",
+    "url": "https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device",
+    "pass": 3
+   },
+   {
+    "quote": "日本製鉄、水素100％で低品位鉄鉱石から還元鉄 累計1000トン",
+    "url": "https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device",
+    "pass": 3
+   },
+   {
+    "quote": "都市の排水強化が加速、東京都は地下河川具体化へ 水害対策債で資金調達も",
+    "url": "https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device",
+    "pass": 3
+   },
+   {
+    "quote": "福井県工事でダンプ運搬の施工単価を過大算定、富士通Japanがデータ誤入力",
+    "url": "https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device",
+    "pass": 3
+   },
+   {
+    "quote": "Investigation performed at Nara Medical University, Kashihara, Nara, Japan",
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "pass": 3
+   },
+   {
+    "quote": "Department of Orthopaedic Surgery, Nara Medical University, Kashihara, Nara, Japan",
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "pass": 3
+   },
+   {
+    "quote": "JSSF = Japanese Society for Surgery of the Foot",
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "pass": 3
+   },
+   {
+    "quote": "Tanaka’s group in Japan developed an alumina ceramic talar body replacement from computed tomographic (CT) images.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Four studies were published from Japan, 3 from the USA, 1 from Thailand, and 1 from South Africa. Three of the studies from Japan came from the same institute. The mean age in the studies ranged from 27.6 to 72, with 5 of the 9 studies having a mean age of less than 50 years. Mean follow-up ranged from 12.8 to 152 months (",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Abbreviations: ADLs, activities of daily life; AOFAS, American Orthopaedic Foot & Ankle Society ankle-hindfoot scale; AOS, Ankle Osteoarthritis Scale; FAOS, Foot and Ankle Outcome Score; JSSF, Japanese Society for Surgery of the Foot; QoL, quality of life; SAFE-Q, Self-Administered Foot Evaluation Questionnaire; SF-36, 36-Item Short Form Health Survey; VAS, visual analog scale.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "All components of the Japanese Society for Surgery of the Foot (JSSF) score improved following surgery. There were 3 cases of delayed wound healing and 3 medial malleolar fractures, of which 1 occurred intraoperatively. None of these required revision surgery.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Business customers who wish to trade with us, please register on the Best Beer Japan EC site for business customers.",
+    "url": "https://note.com/gangibrewing/n/n7f2eacdf77a9?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "米Magmaのインプリメンテーション設計ツール「 Talus 」を 導入 — 米Magmaのインプリメンテーション設計ツール「 Talus 」を 導入 日経クロステック https://xtech.nikkei.com > article > NEWS",
+    "url": "https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device",
+    "pass": 3
+   },
+   {
+    "quote": "Total Talus Replacement - Paragon 28 — Total Talus Replacement - Paragon 28 Paragon 28 https://paragon28.com > products > t...",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": "Talus — Talus USGS (.gov) https://apps.usgs.gov > term-simple",
+    "url": "https://apps.usgs.gov/thesaurus/term-simple.php?thcode=4&code=1.5.5",
+    "pass": 3
+   },
+   {
+    "quote": "Total Talus Replacements - PMC - NIH — Total Talus Replacements - PMC - NIH National Institutes of Health (NIH) | (.gov) https://pmc.ncbi.nlm.nih.gov > articles",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Talus Manufacturing Ltd. - LinkedIn — Talus Manufacturing Ltd. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/talus-manufacturing-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Designing and additive manufacturing of talus implant for post ... — Designing and additive manufacturing of talus implant for post ... National Institutes of Health (NIH) | (.gov) https://pubmed.ncbi.nlm.nih.gov > ...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39175072/",
+    "pass": 3
+   },
+   {
+    "quote": "Talus Payments: Revenue , Competitors, Alternatives - Growjo — Talus Payments: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Talus_Payments",
+    "url": "https://growjo.com/company/Talus_Payments",
+    "pass": 3
+   },
+   {
+    "quote": "Talus Payments 2026 Company Profile - PitchBook — Talus Payments 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/90660-43",
+    "pass": 3
+   },
+   {
+    "quote": "Talus Pay - 2026 Company Profile & Team - Tracxn — Talus Pay - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/talus-pay/__agqqsYDsTjXJRUQhIW-A-qRCXDm9QW5gAFhWMXEnvHs",
+    "pass": 3
+   },
+   {
+    "quote": "Talus raises $11.2M to target undruggable transcription factors — Talus raises $11.2M to target undruggable transcription factors Drug Discovery World https://www.ddw-online.com > talus-r...",
+    "url": "https://www.ddw-online.com/talus-raises-11-2m-to-target-undruggable-transcription-factors-31240-202408/",
+    "pass": 3
+   },
+   {
+    "quote": "Talus | LinkedIn — Talus | LinkedIn LinkedIn https://www.linkedin.com > taluspay",
+    "url": "https://www.linkedin.com/company/taluspay",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "An additively manufactured, or 3D printed, patient specific implant",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": "Paragon 28® Patient Specific Talus Spacer is one of the only total talus implants on the market available in multiple materials",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": "The Paragon 28® Patient Specific Talus Spacer is an additively manufactured Paragon 28® Patient Specific Talus Implant.",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the only total talus implants on the market available in multiple materials",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": "The Paragon 28® Patient Specific Talus Spacer is an additively manufactured, or 3D printed, patient specific implant that is designed and made individually for each patient using CT image data.",
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "pass": 3
+   },
+   {
+    "quote": "When inserting the artificial talus, pull the entire foot distally by grasping the heel in order to avoid excessive plantar flexion.",
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "pass": 3
+   },
+   {
+    "quote": "The first talar replacement prostheses were implanted in 1974 in Thailand.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Two reviewers independently reviewed all articles. Data were extracted and recorded on Microsoft Excel using a standardized proforma. If there were any disagreements, then the senior author reviewed the data and came to a final decision. Data collected included demographic data, surgical technique, technique for producing the implant, postoperation complications, functional outcomes, and survival.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Surgical Implants and Technique",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "found no significant differences in pre- and postoperative dorsiflexion, plantarflexion, and total ROM. Morita et al",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "The materials and manufacturing of TTR have advanced, and now patient-specific implants are available. Several studies produced TTR using 3D printing based on CT images of the contralateral talus, which has been shown to be an almost exact match.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "The most commonly used total talar implants are alumina ceramic, stainless steel, and cobalt chrome, but more recent trends have turned to titanium nitride as a preferable material to articulate against native articular cartilage",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Total talus replacement implant coated in titanium nitride (image courtesy of Meshworks, Alloyed, Oxford, United Kingdom).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "A further consideration is whether to use the talar implant as an isolated implant or as part of a total ankle replacement (TAR) whereby a tibial tray and polyethylene insert are used to articulate against the TTR in cases where the ankle joint is arthritic. Creating such an articulation clearly introduces the risks of wear and related complications associated with TAR.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "A further note must be made that surgical treatment for a failed TTR is challenging. The surgery would potentially require a plantar arthrodesis and the management of a large bone void.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Total talar prosthesis with and without ankle ligament reconstruction using the three-dimensional computer-aided design and computer numerical control manufacturing techniques. Orthop Rev (Pavia). 2020;12(3):8844.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Titanium-nitride coating of orthopaedic implants: a review of the literature. Biomed Res Int. 2015;2015:485975.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "For Hawkins type I, and cases of Hawkins type II where the fracture site is anatomically reduced after manual reduction, fixation is performed by inserting two PA screws percutaneously from posterior to anterior. A 6.5 HCS is useful as an implant.",
+    "url": "https://note.com/yoshi_993711/n/n24808cf1fc48?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A further consideration is whether to use the talar implant as an isolated implant or as part of a total ankle replacement (TAR) whereby a tibial tray and polyethylene insert are used to articulate against the TTR in cases where the ankle joint is arthritic. Creating such an articulation clearly introduces the risks of wear and related complications associated with TAR.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "Talus Payments: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Talus_Payments",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Talus_Payments",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Talus_Payments",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Talus_Payments",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Talus_Payments",
+    "pass": 3
+   },
+   {
+    "quote": "When I hear \"spirits taking root in this land,\" I am reminded of Karamo the Korok who appears in Hyrule Warriors: Age of Calamity. Koroks are forest spirits that go on journeys to find places to take root.",
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I arrived at the Temple of Time, a voice memory reacted near the Goddess Statue.",
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The first queen is Sonia, the Sage of Time. She appears in The Legend of Zelda: Tears of the Kingdom and Hyrule Warriors: Age of Calamity. Zelda, whose inherited sacred power had not yet awakened, must have been filled with a sense of helplessness during the rituals. Since it seems people were able to visit the Temple of Time, I imagine many people visited and made wishes to the Goddess.",
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Toby Jennison, FRCS, University Hospitals Plymouth NHS Trust, Derriford Road, Plymouth, PL6 8DH, United Kingdom. Email:",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Talus_Payments",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Talus_Payments",
+    "pass": 3
+   },
+   {
+    "quote": "Email: info@ddw-online.com",
+    "url": "https://www.ddw-online.com/talus-raises-11-2m-to-target-undruggable-transcription-factors-31240-202408/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Thinking Traumatic Orthopedic Surgery Sub-notes 42. Talus ... Thinking Traumatic Orthopedic Surgery Sub-notes 42. Talus ... note https://note.com > 健康・医療 > 整形外科学",
+    "url": "https://note.com/yoshi_993711/n/n24808cf1fc48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Talus as the Fulcrum of Bipedal Movement - note The Talus as the Fulcrum of Bipedal Movement - note note https://note.com > スポーツ > ランニング・ジョギング",
+    "url": "https://note.com/kin_tsuzuike/n/n3f62daa214eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "MEET ME w/ Talus #4 Release!｜Gangi Brewing - note MEET ME w/ Talus #4 Release!｜Gangi Brewing - note note https://note.com > 料理・グルメ > ワイン・お酒",
+    "url": "https://note.com/gangibrewing/n/n7f2eacdf77a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Stone Talus of the Beginning #8 The Legend of Zelda - note Stone Talus of the Beginning #8 The Legend of Zelda - note note https://note.com > open_serval3378",
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Thinking Traumatic Orthopedic Surgery Sub-notes 42. Talus Fractures｜生涯学び続けたい外傷整形外科医の記録",
+    "url": "https://note.com/yoshi_993711/n/n24808cf1fc48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/yoshi_993711/n/n24808cf1fc48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Thinking Traumatic Orthopedic Surgery Sub-notes 42. Talus Fractures",
+    "url": "https://note.com/yoshi_993711/n/n24808cf1fc48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Regarding acute phase treatment",
+    "url": "https://note.com/yoshi_993711/n/n24808cf1fc48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The talus is a bone largely covered by articular cartilage and has a poor blood supply. Therefore, in acute phase treatment, it is important to perform early reduction and stabilization to minimize circulatory impairment.",
+    "url": "https://note.com/yoshi_993711/n/n24808cf1fc48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For talus fracture-dislocations with significant displacement, manual reduction should be performed as quickly as possible. In particular, in cases involving dislocation of the subtalar or ankle joints, delayed reduction increases the risk of skin/soft tissue damage and talar necrosis, so it should be handled as an emergency procedure even at night.",
+    "url": "https://note.com/yoshi_993711/n/n24808cf1fc48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On the other hand, in cases such as Hawkins type III or IV where sufficient reduction cannot be achieved by manual reduction, open reduction must be performed as soon as possible. The essence of acute phase treatment for talus fractures lies in 'not leaving dislocations untreated' and 'achieving anatomical reduction as early as possible'.",
+    "url": "https://note.com/yoshi_993711/n/n24808cf1fc48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2. Reduction and fixation methods for talar neck fractures",
+    "url": "https://note.com/yoshi_993711/n/n24808cf1fc48?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Talus as the Fulcrum of Bipedal Movement: The Unique Bone Supporting the 'Foundation' Together with the Calcaneus｜續池均（kintsuzuike）@MTR Method Lab®︎",
+    "url": "https://note.com/kin_tsuzuike/n/n3f62daa214eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Talus as the Fulcrum of Bipedal Movement: The Unique Bone Supporting the 'Foundation' Together with the Calcaneus",
+    "url": "https://note.com/kin_tsuzuike/n/n3f62daa214eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "續池均（kintsuzuike）@MTR Method Lab®︎",
+    "url": "https://note.com/kin_tsuzuike/n/n3f62daa214eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In a tensegrity structure, compression members are protected by tension members, yet they are the elements that determine the shape of the entire structure.",
+    "url": "https://note.com/kin_tsuzuike/n/n3f62daa214eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the human foot, the primary examples are the",
+    "url": "https://note.com/kin_tsuzuike/n/n3f62daa214eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". While these two bones serve as the 'key to compression' that receives force from the ground and transmits it to the entire body, they simultaneously enable movement in all directions as a",
+    "url": "https://note.com/kin_tsuzuike/n/n3f62daa214eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The calcaneus absorbs shock as the point of contact with the ground, while the talus is responsible for changing direction and making fine adjustments to angles above it.",
+    "url": "https://note.com/kin_tsuzuike/n/n3f62daa214eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The talus, to which no muscles attach directly, is a",
+    "url": "https://note.com/kin_tsuzuike/n/n3f62daa214eb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "MEET ME w/Talus #4 Release!｜Gangi Brewing",
+    "url": "https://note.com/gangibrewing/n/n7f2eacdf77a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/gangibrewing/n/n7f2eacdf77a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "MEET ME w/Talus #4 Release!",
+    "url": "https://note.com/gangibrewing/n/n7f2eacdf77a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pronunciation: Meet Me",
+    "url": "https://note.com/gangibrewing/n/n7f2eacdf77a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Style: Single Hop Pale Ale",
+    "url": "https://note.com/gangibrewing/n/n7f2eacdf77a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Malt & Grain: Golden Promise, Carapils, Wheat Malt",
+    "url": "https://note.com/gangibrewing/n/n7f2eacdf77a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"MEET ME\" is a single hop series that focuses on one type of hop. Batch 4 also uses Talus hops from the United States. It features a refreshing citrus aroma like lemon and a fruity aroma like peach. The sweetness and bitterness are well-balanced, and you can feel a unique vanilla-like flavor at the end. It is a standard beer with a light body and a clean finish.",
+    "url": "https://note.com/gangibrewing/n/n7f2eacdf77a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The \"MEET ME\" single hop series focuses on one type of hop. Batch 4 is also made with Talus hops from the United States. It has a fruity aroma of citrus fruits such as lemon and peach. The sweetness and bitterness are well balanced, with a distinctive vanilla-like flavor at the end. A regular beer with a light body and a clean, refreshing taste.",
+    "url": "https://note.com/gangibrewing/n/n7f2eacdf77a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Stone Talus of the Beginning #8 The Legend of Zelda: Breath of the Wild｜ゆー",
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Stone Talus of the Beginning #8 The Legend of Zelda: Breath of the Wild",
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recap of the story so far",
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article is a game essay on The Legend of Zelda: Breath of the Wild Switch 2 Edition.",
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The old man was the King of Hyrule. He lost his life in the Great Calamity 100 years ago, but he appeared as a spirit to tell Link about Princess Zelda, who is still holding Ganon back at Hyrule Castle.",
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After learning about the Great Calamity 100 years ago from the King of Hyrule, Link was told to go to Kakariko Village and meet Impa.",
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There is a place I want to visit before heading to Kakariko Village. It is the \"Forest of Spirits,\" a place I haven't stopped by yet, as there are no shrines nearby. I decided to warp to the Oman Au Shrine and explore it.",
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Talus (@TalusNetwork) / X Talus (@TalusNetwork) / X X https://x.com > TalusNetwork",
+    "url": "https://x.com/TalusNetwork",
+    "pass": 3
+   },
+   {
+    "quote": "Talus Labs (@Talus_Labs) / X Talus Labs (@Talus_Labs) / X X https://x.com > Talus_Labs",
+    "url": "https://x.com/Talus_Labs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Talus | LinkedIn Talus | LinkedIn LinkedIn https://www.linkedin.com > taluspay",
+    "url": "https://www.linkedin.com/company/taluspay",
+    "pass": 3
+   },
+   {
+    "quote": "Alex Federation - Co-Founder and CEO at Talus Bio - LinkedIn Alex Federation - Co-Founder and CEO at Talus Bio - LinkedIn LinkedIn https://www.linkedin.com > afederation",
+    "url": "https://www.linkedin.com/in/afederation",
+    "pass": 3
+   },
+   {
+    "quote": "Talus Bio - LinkedIn Talus Bio - LinkedIn LinkedIn https://www.linkedin.com > talus-bio",
+    "url": "https://www.linkedin.com/company/talus-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Talus Park - Director, Solutions Consulting at SPLX, a Zscaler ... Talus Park - Director, Solutions Consulting at SPLX, a Zscaler ... LinkedIn https://www.linkedin.com > talus-par...",
+    "url": "https://www.linkedin.com/in/talus-park-27b8a581",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "What Is the Talus ? Ankle Bone Anatomy and Function Explained What Is the Talus ? Ankle Bone Anatomy and Function Explained Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/scoolam24/videos/what-is-the-talus-the-talus-is-a-small-bone-in-the-ankle-that-connects-the-leg-t/1747170013202400/",
+    "pass": 3
+   },
+   {
+    "quote": "Total talus replacement for severe talar loss - Facebook Total talus replacement for severe talar loss - Facebook Facebook https://www.facebook.com > NYUGrossman > posts > sev...",
+    "url": "https://www.facebook.com/NYUGrossman/posts/severe-talus-injuries-can-be-especially-difficult-to-treat-when-extensive-bone-l/1803986911251651/",
+    "pass": 3
+   },
+   {
+    "quote": "Talus Fracture Support Group | Facebook Talus Fracture Support Group | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/1656961227896254/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.talus.bio/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.tellusxdp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toukei.co.jp/service/tops100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talo.co.jp/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rakus.co.jp/rakurakucloud/hanbai/column/2021/0202.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://paragon28.com/products/total-talus-replacement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://apps.usgs.gov/thesaurus/term-simple.php?thcode=4&code=1.5.5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39175072/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/talus-manufacturing-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIMO_-8bNIkwo974cTYQP3nYCe-pzQmOSQLLYwGlfZ59V3SviP5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Talus_Payments",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/90660-43",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/talus-pay/__agqqsYDsTjXJRUQhIW-A-qRCXDm9QW5gAFhWMXEnvHs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ddw-online.com/talus-raises-11-2m-to-target-undruggable-transcription-factors-31240-202408/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yoshi_993711/n/n24808cf1fc48?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kin_tsuzuike/n/n3f62daa214eb?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gangibrewing/n/n7f2eacdf77a9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TalusNetwork",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Talus_Labs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/taluspay",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/afederation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/talus-bio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/talus-park-27b8a581",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/scoolam24/videos/what-is-the-talus-the-talus-is-a-small-bone-in-the-ankle-that-connects-the-leg-t/1747170013202400/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NYUGrossman/posts/severe-talus-injuries-can-be-especially-difficult-to-treat-when-extensive-bone-l/1803986911251651/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1656961227896254/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TalusNetwork",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Talus 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device",
+    "https://corp.tellusxdp.com/",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://trafficnews.jp/post/725198",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://link.springer.com/article/10.1007/s00264-026-06947-4",
+    "https://crypto-times.jp/ama-talus/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Talus 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.toukei.co.jp/service/tops100/",
+    "https://www.talo.co.jp/agent/",
+    "https://www.rakus.co.jp/rakurakucloud/hanbai/column/2021/0202.php",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.spiral-platform.co.jp/article/sales-agent-support/522/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Talus Japan",
+   "results": [
+    "https://paragon28.com/products/total-talus-replacement/",
+    "https://www.jbjs.org/reader.php?rsuite_id=d90b94f1-1fcb-4f84-9995-d07baac26ec2",
+    "https://apps.usgs.gov/thesaurus/term-simple.php?thcode=4&code=1.5.5",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9893085/",
+    "https://www.linkedin.com/company/talus-manufacturing-ltd",
+    "https://talusholdings.com/",
+    "https://www.esri.com/partners/talus-technologies-i-a2T70000000TNfiEAG",
+    "https://blog.talus.network/",
+    "https://link.springer.com/article/10.1007/s00264-026-06947-4",
+    "https://twstalker.com/TalusJapan"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Talus manufacturing customer case study",
+   "results": [
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://pubmed.ncbi.nlm.nih.gov/39175072/",
+    "https://www.linkedin.com/company/talus-manufacturing-ltd",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIMO_-8bNIkwo974cTYQP3nYCe-pzQmOSQLLYwGlfZ59V3SviP5",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "https://www.lucasware.com/resource-types/case-studies/",
+    "https://tulip.co/case-studies/",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.xandermarketing.com/case-studies/talus/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Talus white label OR reseller OR partner program",
+   "results": [
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://suitedash.com/white-label-business-software/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Talus founded funding employees revenue",
+   "results": [
+    "https://growjo.com/company/Talus_Payments",
+    "https://pitchbook.com/profiles/company/90660-43",
+    "https://tracxn.com/d/companies/talus-pay/__agqqsYDsTjXJRUQhIW-A-qRCXDm9QW5gAFhWMXEnvHs",
+    "https://www.ddw-online.com/talus-raises-11-2m-to-target-undruggable-transcription-factors-31240-202408/",
+    "https://www.linkedin.com/company/taluspay",
+    "https://www.crunchbase.com/organization/talus-renewables",
+    "https://talusholdings.com/support/",
+    "https://www.businesswire.com/news/home/20240820497956/en/Talus-Bioscience-Announces-%2411.2M-in-New-Funding-Led-by-Two-Bear-Capital-to-Advance-AI-Platform-for-Transcription-Factor-Therapeutic-Discovery",
+    "https://www.prnewswire.com/news-releases/talus-renewables-announces-22-million-raised-in-series-a-financing-301974223.html",
+    "https://tracxn.com/d/companies/talus/__iaZbhrBftZFqXBIP6HF-VVnjOxfYIyOKaKT7OcCoccg"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Talus",
+   "results": [
+    "https://note.com/yoshi_993711/n/n24808cf1fc48?hl=en",
+    "https://note.com/kin_tsuzuike/n/n3f62daa214eb?hl=en",
+    "https://note.com/gangibrewing/n/n7f2eacdf77a9?hl=en",
+    "https://note.com/open_serval3378/n/n2dcc47a8216f?hl=en",
+    "https://note.com/yoshi_993711/n/n874064494824?hl=en",
+    "https://note.com/jaka/n/n28bd6b8eafd6?hl=en",
+    "https://note.com/senshinryochi/n/ne2289736e36b?hl=en",
+    "https://note.com/gangibrewing/n/nb1ac0e1fce9c",
+    "https://note.com/real_poppy4410/n/n157e9ddcf9f0?hl=en",
+    "https://note.com/medicalbookjapan/n/n06a3c2d41557?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Talus",
+   "results": [
+    "https://x.com/TalusNetwork",
+    "https://x.com/Talus_Labs",
+    "https://x.com/MedEd_Cases/status/1981898871987900648",
+    "https://x.com/EU_EDPB/status/2089268669213732932",
+    "https://x.com/Talus_Labs/status/2112891908985081913",
+    "https://x.com/talusbio",
+    "https://x.com/Talus_Labs/status/2112167017663086809",
+    "https://x.com/OfficialJAAOS/status/2115571063832617225",
+    "https://x.com/0xgmike",
+    "https://x.com/talusfoundation"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Talus",
+   "results": [
+    "https://www.linkedin.com/company/taluspay",
+    "https://www.linkedin.com/in/afederation",
+    "https://www.linkedin.com/company/talus-bio",
+    "https://www.linkedin.com/in/talus-park-27b8a581",
+    "https://www.linkedin.com/company/talus-manufacturing-ltd",
+    "https://www.linkedin.com/company/talus-solutions",
+    "https://www.linkedin.com/in/janet-talus-96154b108",
+    "https://www.linkedin.com/company/talus-mineral-company",
+    "https://www.linkedin.com/in/kimberlyfitzsimmons",
+    "https://www.linkedin.com/company/talusag"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Talus",
+   "results": [
+    "https://www.facebook.com/TulsaBoneAndJoint/videos/bone-of-the-week-talus/2363337364016504/",
+    "https://www.facebook.com/scoolam24/videos/what-is-the-talus-the-talus-is-a-small-bone-in-the-ankle-that-connects-the-leg-t/1747170013202400/",
+    "https://www.facebook.com/NYUGrossman/posts/severe-talus-injuries-can-be-especially-difficult-to-treat-when-extensive-bone-l/1803986911251651/",
+    "https://www.facebook.com/groups/1656961227896254/",
+    "https://www.facebook.com/scoolam24/videos/what-is-the-talus-the-talus-is-one-of-the-major-bones-of-the-ankle-and-serves-as/850369527688785/",
+    "https://www.facebook.com/GreatBasinNPS/posts/what-can-talus-tell-ustalus-is-a-slope-formed-by-the-accumulation-of-rocks-and-d/1496080312547916/",
+    "https://www.facebook.com/groups/8252067799/posts/10157940016662800/",
+    "https://www.facebook.com/groups/runnerslovingrunning/posts/24956326687378433/",
+    "https://www.facebook.com/groups/306385676851823/posts/993652374791813/",
+    "https://www.facebook.com/TalusApartments/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Talus note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/ai_shacho",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Talus X 投稿",
+   "results": [
+    "https://x.com/TalusNetwork",
+    "https://blog.talus.network/",
+    "https://seed.nih.gov/portfolio/nih-portfolio-company-showcase/talus-bioscience",
+    "https://www.talus.bio/terms/",
+    "https://github.com/juanbrujo/Talus",
+    "https://www.reddit.com/r/Orthopedics/comments/1fytfkp/debating_surgery_for_ocd_lesion_on_talus/",
+    "https://www.wjgnet.com/2307-8960/full/v8/i17/3814.htm",
+    "https://www.youtube.com/watch?v=awG0pEE3gYU",
+    "https://x.com/Talus_Labs",
+    "https://talus.network/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

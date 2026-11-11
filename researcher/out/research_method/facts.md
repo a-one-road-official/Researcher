@@ -1594,6 +1594,10 @@
 ## 情報機関の分析基準（ODNIの分析基準）を市場調査に使う（ODNI analytic standards applied business research）
 - 文脈：型
 - 手順・やり方：
+  - 「マルウェアを発見したときに本当にマルウェアか確認する方法【初心者向け完全ガイド】」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「タスクマネージャの使い方・便利な使い方・解析利用方法と分析ポイントを初心者向けに完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「Splunkの初期設定・データの入れ方・データの整え方・時刻の整合方法を解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「この記事ではSplunkの初期設定・データの入れ方・データの整え方・時刻の整合方法を、専門用語をかみ砕きながら丁寧に解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「SSHの仕組みと「なぜ安全なのか」の技術的な根拠・WindowsおよびMacからのSSH接続方法（複数手段を比較）・公開鍵認証の設定手順（最も安全な認証方式）・SSHのポートフォワーディング・多段SSH・SCPなど実践的な活用技術」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「メモリの中を読む無料ツールの使い方と6つの虫めがね」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「methodologies: Analytic products should identify underlying sources and methodologies upon」（https://publish-01.obsidian.md/access/09cfa50ec31c0f01873549787f02a7e0/assets/intel/ICD+203+Analytic+Standards.pdf）
@@ -1605,10 +1609,6 @@
   - 「この記事では、プログラミング初心者・セキュリティ初心者でも理解できるように、GitHubの仕組みから使い方、プログラムのアップロード、さらにはサーバを借りて自分のサービスを公開するところまで、ステップごとに丁寧に解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「AWS CloudTrail・Azure Monitor・GCP Audit Logsを使ったインシデント調査の手順と課題を初心者にも分かるよう完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
   - 「【初心者OK】ペネトレーションテストとは？自分のサーバを安全に攻撃する全手順」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「ペネトレーションテストとは何か？初心者でもわかるように仕組み・合法的な手順・使用ツールを完全解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「自分のサーバを攻撃して脆弱性を発見する方法をステップ別に紹介」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「Maltegoの応用利用方法：知られざる7つの最前線活用術」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「【解析】urlscan.io 完全ガイド 使い方とOSINT活用法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
 - 突き合わせ・推定：
   - 「なお、防衛分野の信号情報市場は2026年に約196億ドルと推計される一方(Mordor Intelligence, 2026)、市場規模や成長率の推計は情報源によって大きく食い違っている(SDKI Analytics, 2025)」（https://note.com/everprogress/n/nde8351a93d60）
   - 「一つの推計を鵜呑みにせず、複数の情報源で裏づける(トライアンギュレーション)必要があることは、方法論上の重要な教訓である」（https://note.com/everprogress/n/nde8351a93d60）
@@ -1729,6 +1729,7 @@
   - 「公開統計から取った値と、一次調査で置いた仮説は、同じ強さの根拠として扱いません」（https://media.spready.co.jp/how-to-estimate-market-size/）
   - 「市場規模の調べ方｜公的統計を式へつなぐ7工程」（https://media.spready.co.jp/how-to-estimate-market-size/）
 - 失敗・落とし穴：
+  - 「海外調査（Webアンケート）を失敗しないための注意点」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「BIツールだけでは顧客ニーズを見逃す！？ 従来の分析の落とし穴を解消する新時代のアプローチ」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「顧客満足度(CS)調査のやり方｜調査手法や分析手法、失敗例と注意点まで紹介」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
   - 「企業が見落としがちな“データの落とし穴”と解決策」（https://www.asmarq.co.jp/column/column-cat/how_to/market_size_analysis/）
@@ -1743,7 +1744,6 @@
   - 「Identifying Bias in Market Research Reports」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
   - 「? Identifying Bias in Market Research Reports」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
   - 「Triangulation involves comparing multiple data sources or methods to validate findings, helping to identify consistent patterns and reduce bias.」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
-  - 「Engaging stakeholders can provide diverse perspectives and insights, helping to contextualize the data and identify potential biases or gaps in the research.」（https://hrfraternity.com/marketing-excellence/navigating-conflicting-market-research-results-how-to-identify-the-most-accurate-analysis.html）
 - 実例：
   - 「Data tidying involves manipulating the way that data is set up to make it easier to interpret. For example, changing birth dates into age categories, or removing ‘don’t know’ categories.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
   - 「is called the raw data. The table below shows raw data for ten households (from a larger data file). Each row in a table of raw data represents the data from an individual respondent, and there are no blank rows. In this case, each respondent was a household. Each column is referred to as a variable. Each variable is a measure of some characteristic of the respondents.」（https://www.qresearchsoftware.com/market-research-guide-data-preparation）
@@ -5188,7 +5188,7 @@
   - 「./example1.json」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「ケース2: 総務省 「社会・人口統計体系」のダウンロード」（https://qiita.com/faux/items/efc4c8981510b78dd560）
   - 「参照したい政府統計に対して、一連の処理をすべてPythonスクリプトとして作成して、1つのパイプラインジョブにまとめれば、あとはスケジューラ(Airflow)を使って実行タイミングや実行結果のモニタリングを適切に設定すれば、APIからDWHへとデータを連携するためのバッチ処理が完成します．」（https://qiita.com/faux/items/efc4c8981510b78dd560）
-- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
 
 ## データジャーナリズムで因果を言う前の比べる相手（反事実・対照・交絡）と偶然の幅（小さい件数・誤差の範囲）の実務（data journalism counterfactual comparison confounding chance small counts margin of error guide）
 - 文脈：突き合わせ
@@ -8375,6 +8375,7 @@
 ## 会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検）（fiscal year calendar year alignment comparing statistics company data）
 - 文脈：失敗
 - 手順・やり方：
+  - 「残高確認書の差異を毎期の調査で終わらせない、発送範囲の決め方と差異の原因を月次の照合に戻す手順」（https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/）
   - 「図2 子会社の決算を使う場合の手順」（https://ipo-method.com/accounting/3393/）
   - 「決算日を揃えるかどうかの判断、子会社の決算を使う場合の整理の手順づくり、親子間の残高照合表の様式、在外子会社の換算レートの整理まで通してお受けします」（https://ipo-method.com/accounting/3393/）
   - 「上場準備では、申請期までにどちらの方法にするかを決め、毎期同じ方法で連結します」（https://ipo-method.com/accounting/3393/）
@@ -8389,8 +8390,8 @@
   - 「Inventory valuation methods (FIFO vs. LIFO) can create artificial timing differences during inflationary periods」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「Assumptions and methodology notes」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「Present methodology and results to senior team members before using in client deliverables」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
-  - 「For valuations that will be included in fairness opinions, solvency opinions, or SEC filings, calendarization methodology must be clearly disclosed. The SEC has increased scrutiny of valuation methodologies in proxy statements, particularly for going-private transactions and related-party deals.」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
 - 突き合わせ・推定：
+  - 「残高確認書の差異を毎期の調査で終わらせない、発送範囲の決め方と差異の原因を月次の照合に戻す手順」（https://cfozine.jp/posts/subsidiary-fiscal-year-alignment/）
   - 「実務では、親子間の債権債務の残高照合表を作るところから始めます」（https://ipo-method.com/accounting/3393/）
   - 「決算日を揃えるかどうかの判断、子会社の決算を使う場合の整理の手順づくり、親子間の残高照合表の様式、在外子会社の換算レートの整理まで通してお受けします」（https://ipo-method.com/accounting/3393/）
   - 「毎期、差異期間の親子間取引の一覧と残高照合表を作り、金額の大きいものから調整の要否を判断してください」（https://ipo-method.com/accounting/3393/）
@@ -8405,7 +8406,6 @@
   - 「Consensus estimates for forward periods」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「Validate that forward estimates align with consensus ranges」（https://www.ivaluate.eu/blog/calendarization-in-comps-mastering-fiscal-year-timing-adjustments-2026-04-29）
   - 「強気論と弱気論を区別し、2026年10月19日までの企業発表・公的資料・調査会社推計・報道と、筆者独自の将来シナリオを混同しない」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
-  - 「第30章 予測リストの検証――何がすでに起き、何が極端か」（https://note.com/kagawatomo/n/nfc3ca8f1e6ba）
 - 一次情報の探し方：
   - 「決算日が異なる子会社の連結｜3か月ルールと仮決算・調整仕訳」（https://ipo-method.com/accounting/3393/）
   - 「決算日が異なる子会社の連結｜3か月を超えると仮決算、判定表と調整仕訳」（https://ipo-method.com/accounting/3393/）
@@ -10613,38 +10613,43 @@
 ## 市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など）（market sizing top-down bottom-up reconcile assumptions table）
 - 文脈：推定
 - 手順・やり方：
+  - 「市場機会分析5つの実践手順でTAM/SAM/SOMを正しく算出し新規参入の失敗を防ぐ調査設計法｜Insight Journal」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「市場機会分析の中核を成すのがTAM/SAM/SOMという3層の市場規模フレームワークです」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「市場機会分析の正しい進め方5ステップ」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「ステップ1:市場セグメントの明確な定義」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「ステップ2:TAM(全市場規模)の算出」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「算出方法には主に2つのアプローチがあります」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「ステップ3:SAM(実現可能市場)の算出」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「ステップ4:SOM(獲得可能市場)の算出」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「ステップ5:市場機会の総合評価と意思決定」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「最終ステップでは、TAM/SAM/SOMの数値を統合し、投資対効果を評価します」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「海外調査（グローバルリサーチ）とは？方法と失敗しない進め方を解説」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「グローバル展開時に欠かせない海外調査の設計・実施方法を実務視点で解説」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「インタビューフローの作り方｜プロの作成方法を完全解説」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
   - 「市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法｜ヘンザップ梅山」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「・調査対象、価格・地域・顧客・販路・期間をそろえた市場定義の方法」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「・前年比成長率、CAGR、感度分析の計算方法」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「『どの顧客に、何を、いくらで、どの方法で販売し、その市場からどの程度の売上を現実的に獲得できるか』という経営判断につなげることです」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「前回の記事：S05「5 Forces分析の進め方を徹底解説」」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「3．公開統計の正しい使い方｜実在データと推計の境界」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「調査時に確認する項目は、発表日、対象年、対象商品、販売形態、集計単位、返品・税の扱い、推計方法、資料改訂の有無です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「トップダウンは、信頼できる大きな市場規模を起点に、顧客、価格帯、地域、用途、販路などの条件を順に適用して対象市場を求める方法です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「実務では、①公的統計を選ぶ、②自社が扱わない範囲を除外する、③セグメント比率の根拠を集める、④集計の重複を確認する、⑤仮定値に範囲を持たせる、という手順で行います」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「ボトムアップは、実際に販売できる顧客数や訪問数、購入率、購入金額などから、売上を積み上げる方法です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「7．実務手順｜市場規模分析の9ステップ」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「STEP 1｜意思決定を明確にする」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「STEP 2｜市場の定義を固定する」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「STEP 3｜一次資料を収集する」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
 - 突き合わせ・推定：
+  - 「データに基づいた市場規模推定と、そこから導かれる売上予測があって初めて、意思決定者は投資判断を下せます」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「事前に適切な市場規模推定を行っていれば、参入判断自体を見直せたはずです」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「ボトムアップ方式では、潜在顧客数×平均購買単価×購買頻度という計算式で推定します」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「筆者の経験では、両方の方式で算出し、結果を照合することで推定精度が高まります」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「意思決定では、楽観シナリオ、標準シナリオ、悲観シナリオの3パターンを用意し、最悪の場合でも事業が成立するかを検証します」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「TAMの算出では、健康志向菓子市場全体が1200億円というトップダウンのデータと、ターゲット人口×購買頻度×単価で算出したボトムアップの数字を照合し、800億円と設定しました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「結果、SAMは200億円と推定されました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「PMF検証を先行して実施していたことで、早期に方向転換できました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「アジャイルリサーチの考え方を取り入れ、仮説検証サイクルを素早く回すことで、市場機会の評価精度を継続的に改善できます」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「新しいカテゴリーを創る場合は、潜在顧客数×平均購買単価×購買頻度で推定するボトムアップ方式が適しています」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
   - 「市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法｜ヘンザップ梅山」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「市場規模推計・TAM/SAM/SOMの実務｜市場成長率と売上計画を根拠ある数字でつなぐ方法」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「・トップダウンとボトムアップで推計し、数字を照合する実務」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「・数値の根拠・仮定・未確認事項を残す市場規模推計表の作り方」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「仮想A社の企業情報、顧客比率、市場浸透率、売上シナリオ、推計係数はいずれも学習用の仮定です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「1．まず市場を定義する｜市場規模推計の出発点」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「推計表には単位・定義・期間・出典を必ず添えます」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「市場規模推計では、獲得可能性の異なる3つの市場を分けます」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「3．公開統計の正しい使い方｜実在データと推計の境界」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「調査時に確認する項目は、発表日、対象年、対象商品、販売形態、集計単位、返品・税の扱い、推計方法、資料改訂の有無です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「今回の2025年データは経産省の発表と、当該発表を報じた複数の資料を照合しています」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「4．トップダウン推計｜大きな市場から絞り込む」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「「公的統計を使っているから推計が正しい」とは言えません」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「5．ボトムアップ推計｜顧客や販売活動から積み上げる」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「この計算で重複注文、キャンセル・返品、値引き、税込・税抜、訪問数とユーザー数の違いを見落とすと過大推計になります」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
 - 一次情報の探し方：
+  - 「二つ目の失敗は、既存統計データの無批判な引用です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「業界団体の発表する市場規模や調査会社のレポートをそのまま使用し、自社の事業特性に合わせた再計算を怠るパターンです」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「これらの統計は市場全体の動向把握には有用ですが、特定セグメントや新しい製品カテゴリーの機会評価には不十分です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「トップダウン方式では、既存の市場統計や業界レポートから総市場規模を特定し、自社の定義に合わせて調整します」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「既存カテゴリーへの参入なら、市場統計や業界レポートの総市場規模を自社の定義に合わせて調整するトップダウン方式が向いています」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
   - 「※実在する市場統計と仮想ケースの計算を明確に分けます」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「金額で示す際は、「どの取引が含まれ、含まれないか」を定義しないと、異なる統計を比較して誤った結論になります」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「企業の売上は会計上の収益認識や返品控除等の基準で集計される一方、市場調査は別の取引額定義を採用することがあります」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
@@ -10655,30 +10660,38 @@
   - 「実務では、①公的統計を選ぶ、②自社が扱わない範囲を除外する、③セグメント比率の根拠を集める、④集計の重複を確認する、⑤仮定値に範囲を持たせる、という手順で行います」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「弱点は、最上位の統計が正しくても、途中で使う顧客比率や到達可能性が弱い仮定なら、結果全体が不確実になることです」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「「公的統計を使っているから推計が正しい」とは言えません」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「経産省のEC調査、政府統計、業界団体の公開資料、各社の決算資料、自社POS・ECデータなどを集め、資料名・公表日・対象期間・URL・担当者を残します」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「計算式・単位・統計の範囲、顧客セグメント重複、経営計画との整合をレビューします」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「M01｜国内衣類・服装雑貨等BtoC-EC｜2025年｜28,941億円｜経産省公表・二次資料照合｜確認済みの公開市場統計」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「失敗①：広い業界統計を自社TAMと呼んでしまう」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「失敗⑤：トップダウンとボトムアップが合わないのに都合の良い数字だけ採用する」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
 - 失敗・落とし穴：
+  - 「市場機会分析5つの実践手順でTAM/SAM/SOMを正しく算出し新規参入の失敗を防ぐ調査設計法｜Insight Journal」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「市場機会分析でよくある3つの失敗パターン」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「最も多い失敗は、TAMとSOMを混同した過大評価です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「二つ目の失敗は、既存統計データの無批判な引用です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「三つ目の失敗は、競合分析の欠如です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「SOMの算出では、競合の市場占有率、顧客のスイッチングコスト、流通チャネルの支配力などを考慮しなければ、実現可能性を見誤ります」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「社内だけで完結させようとせず、外部の調査会社を活用することで、バイアスのかかっていない市場評価が可能になります」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「海外調査（グローバルリサーチ）とは？方法と失敗しない進め方を解説」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「海外調査（グローバルリサーチ）とは？設計・実施・注意点を実務視点で解説」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「言語・文化的背景を踏まえた調査手法選択から注意点まで、ネットリサーチ・会場調査・定性調査…」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
   - 「これを3年間ずっと続く確定予測として使うのは誤りです」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「10．市場規模分析でよくある失敗」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「失敗①：広い業界統計を自社TAMと呼んでしまう」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「失敗②：SAMやSOMの割合を経験や印象で決め、根拠を残さない」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
   - 「失敗④：前年の成長率を将来に機械的に延長する」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「失敗⑤：トップダウンとボトムアップが合わないのに都合の良い数字だけ採用する」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「失敗⑥：市場規模だけで投資を承認しようとする」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
 - 実例：
-  - 「※実在する市場統計と仮想ケースの計算を明確に分けます」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「例えば「日本のアパレル市場」と「国内の衣類・服装雑貨BtoC-EC市場」は一致しません」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「例えば基準市場100億円、条件Aに当てはまる割合20%、そのうち実際に提供可能な割合50%なら、対象市場は10億円です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「弱点は、最上位の統計が正しくても、途中で使う顧客比率や到達可能性が弱い仮定なら、結果全体が不確実になることです」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「例えば100万セッション、CVR2%、注文当たり売上2万円の場合、年間注文数は2万件、売上は4億円です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「例えば仮想市場が2023年100億円、2025年121億円であれば、2年間のCAGRは10%です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「市場規模推計表の最小項目は、①行ID、②市場定義、③基準年、④基準市場規模、⑤絞り込み条件、⑥適用係数、⑦推計結果、⑧単位、⑨根拠資料、⑩確度、⑪レビュー状況です」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「9．仮想アパレルA社のケース｜市場の大きさから投資判断まで」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「［1］経済産業省「令和7年度電子商取引に関する市場調査の結果を取りまとめました」（2026年10月21日）」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
-  - 「［3］経済産業省「令和6年度電子商取引に関する市場調査の結果を取りまとめました」（2025年8月26日）」（https://note.com/jgiajfid_5293/n/nfff6807ef5ed）
+  - 「筆者がこれまで支援してきた企業の多くは、市場規模を過大評価したまま参入し、事業計画が破綻する事例を繰り返してきました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「筆者が支援したある消費財メーカーでは、市場機会分析を実施せずに新カテゴリーに参入した結果、想定市場規模の5分の1しか存在せず、3年で撤退を余儀なくされました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「理論上の全市場規模をそのまま自社の獲得可能市場として扱い、売上予測を立ててしまうケースが後を絶ちません」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「結果として計画の大幅な見直しを迫られ、初期投資の多くが無駄になりました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「例えば「健康食品市場」ではなく「30-40代女性向けの機能性表示食品で、月額5000円以上の継続購買層を対象とする通販市場」というレベルまで具体化します」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「筆者の経験では、両方の方式で算出し、結果を照合することで推定精度が高まります」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「例えば全国展開が難しい場合は特定地域に限定し、ECのみの販売なら店舗購買層を除外します」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「市場浸透率の設定では、類似カテゴリーの過去事例を参考にしますが、市場環境の違いを考慮した補正が必要です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「ある食品メーカーが健康志向の高まりを受けて、プロテイン入り菓子市場への参入を検討したケースを紹介します」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「結果、SAMは200億円と推定されました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「で購買意向率30%を確認し、CLT調査で試食評価を実施した結果、味と食感の改良が必要と判明しました」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「事前の市場機会分析が、現実的な計画立案と経営陣の承認獲得に貢献した事例です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「別の事例として、ある」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「企業が中小企業向けCRMツール市場への参入を検討した際、市場機会分析の結果、参入を見送った判断も重要です」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
+  - 「市場機会分析の結果は、単なる数字の羅列ではなく、経営判断を支える戦略ストーリーとして提示する必要があります」（https://researto.com/column/market-opportunity-analysis-tam-sam-som-calculation-research-design/）
 
 ## 官公データ（法人番号公表サイト・gBizINFO・適格請求書発行事業者公表サイト・EDINET）で企業リストを作り閉鎖・移転・重複を洗い直す手順（差分データ・鮮度の保ち方）-求人 -就活（government open data company list houjin bangou gBizINFO closed relocated duplicate cleanup）
 - 文脈：名寄せ
@@ -10983,21 +10996,21 @@
 ## 競合仮説分析（ACH）の限界と仮説マッピング：仮説を作る段の偏り・実証の弱さ（analysis of competing hypotheses limitations hypothesis mapping empirical evidence）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「al. (May 2005), "Extending Heuer's Analysis of Competing Hypotheses Method to Support Complex Decision Analysis",」（https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses）
-  - 「International Conference on Intelligence Analysis Methods and Tools」（https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses）
-  - 「Cluxton, Diane; Eick, Stephen G., "DECIDE Hypothesis Visualization Tool",」（https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses）
-  - 「加えて、情報分析そのものの進め方の改革の必要性が指摘されており、様々な」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「Stephen Marrin, ImproingIntelligence Analysis: Bridging the Gap between」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「Intelligence Centers: An Experiment in Applying Structured Methods, Joint Military」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「ホイヤーによるとこのステップが最も重要になります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「以上が情報分析の一つの方法である競合する仮説の分析ACHです」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「ACHは情報分析の方法を前進させましたが、当初は比較的非公式の表現でした」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「プロセスの最初のステップは可能性のあるすべての仮説を特定することです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「ホイヤーによるとこのステップが最も重要になります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「以上が情報分析の一つの方法である競合する仮説の分析ACHです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「「数学のやり方が大きく変わる」と捉えています」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「数学の歴史を振り返っても、研究の方法や枠組みが根本的に変わった転換点はいくつもあります」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「② ロボットの主役は、人型だけではない」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「そのため、適切な手順を踏めば完全なオフライン・ローカル環境で動かすことができます」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「GLM-5.3-Flashをローカルで実行する方法」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「) vLLM、SGLang、KTransformers、llama.cpp、Ollama を使用して GLM-5.3-Flash をローカルで実行する方法を、RAM、VRAM、GGUF およびハードウェア要件を含めて学ぶ」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「実務に必要な賢さを備えているLLMかどうかをクラウド上で確認したうえで、そのLLMを動かすことができるハードウェアを頑張って予算を取って購入するという手順が良いのではないでしょうか」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「GLM-5.3-Flash: How to Run Locally」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「2. 攻撃者が侵入を成功させた具体的な5ステップ」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「ステップ1：ターゲットの偵察（スキャン）」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「ステップ2：エクスプロイト（脆弱性の悪用）の実行」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「ステップ3：管理者アカウント（セッション）の窃取」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「ステップ4：Webシェル（バックドア）の設置」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「ステップ5：内部ネットワークへの展開（ラテラルムーブメント）」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「変なファイルが出現してたら、管理者がすぐ気づくのでは？あるいは、気づくための監視方法を教えて」（http://scienceandtechnology.jp/archives/category/uncategorized）
 - 突き合わせ・推定：
   - 「」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「①仮説 ②証拠 ③診断 ④改善 ⑤矛盾 ⑥感度 ⑦結論と評価」（https://note.com/ia_wake/n/ne7dcc8132cdf）
@@ -11015,54 +11028,55 @@
   - 「社会構造主義者の批判によると、ACHはグリッドを生み出すために使われる仮説の初期形成の問題の性質を十分に強調することができません」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「たとえば、仮説の生成に影響を与える可能性のある官僚的、心理的、また政治的なバイアスに加えて、文化やアイデンティティの要素も働いているというかなりの証拠があります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
 - 一次情報の探し方：
-  - 「その領域にはデータマイニングや認知心理学、視覚化、確率と統計などを含みます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「この論文では、これらの仮説形式をどうやって統計的に検証するかが説明されており、仮説検証型研究の進め方を学ぶ上で有用なガイドとなっています」（https://note.com/takahitosasaki83/n/n46a21dced431）
-  - 「どの前提を採用し、どの前提を排除するかという判断が、モデルの訓練データと目標関数に暗黙的に委ねられている」（https://note.com/finalvent/n/n265e0b3c3c31）
-  - 「LLMにおいて、どの前提が採用されるかは暗黙的な過程である」（https://note.com/finalvent/n/n265e0b3c3c31）
-  - 「たとえば、「明治維新の原因は何か」という問いに対して、LLMは一連の整合的な回答を生成するが、その回答が暗黙的に採用している分析枠組み──たとえば西洋近代化論、内発的発展論、世界システム論など──のうちどれに依拠しているかは明示されず、他の枠組みからの回答は体系的に抑圧される」（https://note.com/finalvent/n/n265e0b3c3c31）
-  - 「同様に、Active InferenceやJEPAが「本当に世界を理解しているのか」、それとも「理解しているように見える統計的パターンを学習しているだけか」を区別する明確な基準は存在しない」（https://note.com/finalvent/n/n265e0b3c3c31）
-  - 「しかし、認識論的に重要な仮説──支配的なナラティブとは異なる解釈、少数派の科学的仮説、反直観的だが検証可能な理論──は、まさに統計的に低確率であるがゆえに、効率性の名のもとに排除されやすい」（https://note.com/finalvent/n/n265e0b3c3c31）
-  - 「利用者が、どの前提を採用し、どの前提を修正し、どの前提を棄却するかを、情報に基づいて判断できるインターフェースを設計すること」（https://note.com/finalvent/n/n265e0b3c3c31）
-  - 「LLMは、この営為の一部──言語的な表現と統計的なパターンの活用──において、人類が到達しえなかった水準に達した」（https://note.com/finalvent/n/n265e0b3c3c31）
-  - 「インターネット上のウェブサイト、ソーシャルメディア、公的文書など、誰でもアクセス可能な情報源を活用して、必要な情報を体系的に収集・分析します」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
-  - 「仮説を1つずつ検討するのではなく、複数の仮説を同時に評価するプロセスを採用している点」（https://engineers.ntt.com/entry/202412-competing-hypothesis-analysis/entry）
-  - 「04B0000017, Bedford, MA: MITRE, October 2004. URL: https://pdfs.semanticscholar.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「org/7fe4/d4276e683293997f09758c79800787f52d0c.pdf. Accessed June 5, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「No. 7, January 2000, 50 pp. URL: https://fas.org/irp/eprint/folker.pdf. Accessed May 20, 2018.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
-  - 「www.doria.fi/bitstream/handle/10024/102142/Hart%20%28NetFinal%29.pdf?sequence=2.」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「https://github.com/openai/math/blob/main/preprints/A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026/main.pdf」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「なんと，第2回のSPReADの公募では，ファイル名の様式が変わって「姓と名の間に『半角スペース』を入れろ」とのこと（”第2回_様式0_申請様式チェックリスト_xxxxxxxxxxxxx_komori masashi.pdf”みたいに）．」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「AI for Science萌芽的挑戦研究創出事業(SPReAD)_第2回公募要領.pdf | Powered by Box」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「人工知能基本計画 ～「信頼できるＡＩ」による「日本再起」～ 令和７年12月23日 閣議決定 https://www8.cao.go.jp/cstp/ai/ai_plan/aiplan_20251223.pdf」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「AI for Scienceの推進に向けた 基本的な戦略方針 令和８年３月３１日 文部科学省 https://www.mext.go.jp/content/20260403-mxt_jyohoka01-000048752_1.pdf」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「(採用数)/(総応募数)が3％なのは既に公開されてるけど、(採用数)/(無作為抽出の対象数)=無作為抽出の当たり率はどのくらいなんだろう」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「公的資金で書いた論文は、出版と同時に公開されているのが当たり前、という方向へ寄っていく」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「統計の延長線上で「読解」が起きた理由：新井教授が「不可能」とした壁を、現在のAI（LLM）がどうやって乗り越えたのか」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「意味を理解する」アプローチではなく、「統計を極限まで突き詰める」アプローチ」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「指示代名詞（これ、それ）」の特定や、「文脈の裏読み」すらも、統計的な相関関係として処理」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「統計的解析にはWilcoxon順位和検定を用い、log2FC > 1かつ調整済みp値 < 0.01を基準として候補を絞り込む」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「・Kaken C et al. Glycoproteomic profiling of breast cancer cell surface reveals subtype-specific signatures. J Proteome Res, 23(1):89-102, 2024.」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「RNA‑seq により発現プロファイルを取得し、TCGA など公的コホートを統合解析して、TNBC 特異的高発現遺伝子を抽出する」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「発現と予後（無再発生存、全生存）、治療応答、臨床病理学的因子との関連を統計解析し、予後・予測バイオマーカーとしての有用性を評価する」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「典型的には「Jupyter Notebookで、PDF群からテキストを抽出して、正規表現でマッチングして、Excelに書き出す」といった、」（http://scienceandtechnology.jp/archives/category/uncategorized）
 - 失敗・落とし穴：
-  - 「また、確証バイアス」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「また、敵の欺瞞が行われること49や、味方の報告に誤りが」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「これに注意することにより、情況の思わぬ変化や敵の欺瞞に対応できる60」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「合、認知能力の限界から彼は確証バイアスの影響を受け、Ａを裏付けるインフ」（https://www.mod.go.jp/msdf/navcol/assets/pdf/ssg2013_05_07.pdf）
-  - 「1. Reduces Cognitive Bias」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
-  - 「ACH is specifically designed to counteract common mental pitfalls, such as confirmation bias and premature conclusions. By forcing the analyst to evaluate all plausible hypotheses and focus on disconfirming evidence, it encourages objectivity and balance.」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
-  - 「ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「この信念を裏付ける強力な経験的証拠はありませんが、認知バイアスを克服するのに役立つと広く信じされています」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「たとえば、仮説の生成に影響を与える可能性のある官僚的、心理的、また政治的なバイアスに加えて、文化やアイデンティティの要素も働いているというかなりの証拠があります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「これらの社会的に構成された要因は、どの仮説が最終的に検討されるかを制限または識別し選択されたものの確証バイアスを強化する場合があります」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「ACHは様々な分野のアナリストによって、間違いの発生しやすい判断を行う場合に使用されます」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「考えられるすべての仮説を考慮すると、認知バイアスが最小限に抑えられるからです」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「この信念を裏付ける強力な経験的証拠はありませんが、認知バイアスを克服するのに役立つと広く信じされています」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「たとえば、仮説の生成に影響を与える可能性のある官僚的、心理的、また政治的なバイアスに加えて、文化やアイデンティティの要素も働いているというかなりの証拠があります」（https://note.com/ia_wake/n/ne7dcc8132cdf）
+  - 「24.6万件の個人情報が漏えいか デジタル庁GSSへの不正アクセスで見えた「ゼロトラスト」の落とし穴」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「ADC開発の失敗の多くは効果不足ではなく on-target/off-tumor 毒性による」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「仮に相関が低いことが示されれば、それ自体が「既存の標的探索パイプラインは系統的なバイアスを持つ」という強い主張の実証となり、本研究の全構成を正当化する」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「「転写量に基づく標的探索の系統的バイアス」を定量的に示すことで、」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「こういう注意書きがあるので、元の僕の考え方なのだと思います（いい人が来るまで公募がオープン形式）」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「さすがに、どうしてもダメ(不備含む)が落とされて、その後抽選やと思っていた」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「無作為抽出による不採択、って制度設計の失敗じゃないかい」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「SPReAD、落ちたけど3時間も使ってないからあんまダメージないし、申請書書きやすかったし実験的なこと色々試してるし、まあ確かに3%ってのはちょっとよくなかったかもしれんが、そこ以外は割と好意的に見ている」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「#004 今回のAI for Science SPReAD1000って成功？それとも失敗？正直どう思った？ 山さんのラボ計画 山さんのラボ計画 チャンネル登録者数 3人」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「スーパーサイエンスハイスクールの生徒の対応を大学院生の頃したけど、引率の先生が「なんかないっすかね？」と丸投げで来て、生徒さんも3Dプリンターでこれを作ってテストしようと思うんですと言うは良い物の現実的に強度が足りてなかったり… もっと基礎的な所で失敗させた方が良いと思った」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「ハコは建った、でも人は来なかった——その失敗を繰り返すのか」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「SlowNews | スローニュース 2026年5月12日 11:30 2023年10月10日、A氏は別の研究員1人も同席のもとで、失敗に終わった追試の結果やマウス実験のデータの削除に気づいたことを小田氏に伝えた」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「5億円の間違いでは?」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「ハルシネーションや間違いを見抜く”高い専門性”がAI時代にこそ重要」「AIが出した設計を現実の材料・工程で成立させる技能者の価値は高まる」」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「土台がダメなとこに豪邸建てても、いずれ歪みが出て崩れる」（http://scienceandtechnology.jp/archives/category/uncategorized）
 - 実例：
-  - 「ACH is not always suited to fast-moving or reactive situations. Building and refining matrices, especially for complex cases with numerous hypotheses, can be labour-intensive.」（https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/）
-  - 「アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「アナリストは感度分析を使用して結果をテストします」（https://ameblo.jp/nodes-links/entry-12605882204.html）
-  - 「アナリストは調査結果を確認し、ギャップを特定し、残りの仮説をできるだけ多く否定するために必要な追加の証拠を収集します」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「ACH分析の結果自体が、アナリスト自身の判断を覆すべきではありません」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「アナリストは感度分析を使用して結果をテストします」（https://note.com/ia_wake/n/ne7dcc8132cdf）
-  - 「「合理的に判断したつもりが、なぜこんな結果に？」──そんな経験はありませんか？本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「専門的な知識がなくても理解できるように、実例や具体的な理論を交えて丁寧に解説していきますので、どうぞ最後までお付き合いください」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「これらはすべて、国家レベルでの情報分析が重大な判断ミスを犯した事例として知られています」（https://note.com/haurix/n/ncc5a33f069f9）
-  - 「例えば、「勉強時間が長いほど成績が良くなる」という関係を調べることができます」（https://note.com/takahitosasaki83/n/n46a21dced431）
-  - 「例えば、「勉強時間と成績の関係は、睡眠時間の長さによって変わる」という場合です」（https://note.com/takahitosasaki83/n/n46a21dced431）
-  - 「例えば、「勉強時間が増えると自信がつき、その自信が成績を上げる」といった関係です」（https://note.com/takahitosasaki83/n/n46a21dced431）
-  - 「例えば、「勉強時間が自信を高め、成績に影響するが、その効果は性別によって異なる」という場合です」（https://note.com/takahitosasaki83/n/n46a21dced431）
-  - 「例えば，MがX→Yの関連を媒介する効果が，少年には見出されるが少女には見出されないというケースも考えられる」（https://note.com/takahitosasaki83/n/n46a21dced431）
+  - 「例えば17世紀、デカルトらによって座標幾何学が発展し、それまで幾何学的に扱われていた問題を、代数的な方程式で研究できるようになりました」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「What does a superhuman level of mathematics look like? Here is one elementary example I could give to nonexperts.」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「The candidate function produced by SI gives a bound matching the known lower-bound examples up to a constant factor, including the sharp logarithmic correction.」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「「AIが良い候補を出せるか」だけでなく、「実験で確かめた結果をどれだけ速く次の設計に戻せるか」への関心」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「例えばbitBiomeは、微生物ゲノムデータ、AI、ラボ自動化を用いて酵素・菌株開発を支援しています」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「Webシェルが悪用される際、サーバーから外部の攻撃者サーバーへ向かって通信を確立させようとするケース（リバースシェル）が多いため、出口を固めます」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「大学の事務DX化のためのAIパソコン導入事例」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「大学運営上の機密情報を扱う目的でのAIパソコン導入事例」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「大学の経営・運営上の機密情報を扱う目的で、ローカルLLM（オンプレミスAI環境）の導入を考えている大学は多いのではないかと思いますが、具体的な事例やシステム運用の実態は、どのようなものなのでしょうか」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「されるケースも多く、クラウドLLMでは活用範囲が限定されがちです」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「RTX6000Ada搭載 参考価格３００万円 https://www.applied.ne.jp/hpc-casestudy/post-6401/」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「【導入事例紹介】 岡山大学 ローカルLLM環境 研究用途 MSI製 AIスーパーコンピュータ EdgeXpert 2台 ＋ QSFPリンクケーブルセット https://twitter.com/applied_HPC_AI/status/2074786459719180290」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「LOCAL LLMS: SAFEGUARDING DATA PRIVACY IN THE AGE OF GENERATIVE AI. A CASE STUDY AT THE UNIVERSITY OF ANDORRA」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「CASE STUDY FROM EMORY UNIVERSITY GPT stands for」（http://scienceandtechnology.jp/archives/category/uncategorized）
+  - 「AI Governance in Higher Education: Case Studies of Guidance at Big Ten Universities」（http://scienceandtechnology.jp/archives/category/uncategorized）
 - 検索結果の抜粋：
+  - 「Analysis of Competing Hypotheses — Analysis of Competing Hypotheses Stony Brook University PDF https://www3.cs.stonybrook.edu > ~mueller > teaching」（https://www3.cs.stonybrook.edu/~mueller/teaching/cse591_visAnalytics/Visual%20Analytics%20-%20Chapter%208.pdf）
   - 「Analysis of Competing Hypotheses (ACH part 1) - SANS ISC — Analysis of Competing Hypotheses (ACH part 1) - SANS ISC SANS Internet Storm Center https://isc.sans.edu > diary」（https://isc.sans.edu/diary/22460）
   - 「合理的に判断できない理由──バイアスと競合仮説分析の心理学 — Jun 2, 2025 · 「合理的に判断したつもりが、なぜこんな結果に？ 」──そんな経験はありませんか？ 本記事では、私たちの思考を無意識にゆがめる「認知バイアス」と、それを乗り越えるための方法として注目されている「競合仮説分析（ACH）」について解説します。」（https://note.com/haurix/n/ncc5a33f069f9）
   - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 現実的なスケールでのACHはアナリストを混乱・困惑させる。 ゲルダ―はACHに代わって 仮説マッピング を提案しました。 以上が情報分析の一つの方法である競合する仮説の分析ACHです。 最後まで目を通していただきありがとうございました。」（https://note.com/ia_wake/n/ne7dcc8132cdf）
@@ -11585,11 +11599,11 @@
 
 ## 分析の検証記録の付け方（検索ごとの件数・採った件数・一次0件の不達の記録・3つの仮説・確率と確信度の分離・ICD 203）（analytic tradecraft research log search hits accepted sources unreachable primary ICD 203 confidence likelihood separate）
 - 文脈：裏取り
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 手順・やり方：記載なし（読んだ17頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 実例：記載なし（読んだ17頁・検索12回）
 
 ## PDFの表の読み取りの確かめ方（文字の誤りと行・列・単位・注記の取り違えを分ける・印刷のページとファイルのページ）-求人 -就活（verify PDF table extraction errors footnote units row column journalist data checking）
 - 文脈：手法
@@ -12649,11 +12663,11 @@
 
 ## 運用会社・アナリストの企業取材と決算説明会の質疑の使い方（会社の説明の裏取り・仮説を先に持つ・ファンドマネージャーやアナリストの note）（fund manager company interview earnings call verification analyst note）
 - 文脈：会社・一次
-- 手順・やり方：記載なし（読んだ19頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
-- 実例：記載なし（読んだ19頁・検索12回）
+- 手順・やり方：記載なし（読んだ21頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ21頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ21頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ21頁・検索12回）
+- 実例：記載なし（読んだ21頁・検索12回）
 
 ## 情報の格付けと取り扱いの印（3x5x2・Admiralty・共有の範囲・出どころを伏せた写しの再評価）（intelligence grading 3x5x2 handling code dissemination OSINT）
 - 文脈：検証

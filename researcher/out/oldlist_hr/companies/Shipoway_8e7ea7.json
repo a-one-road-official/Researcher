@@ -1,0 +1,623 @@
+{
+ "name": "Shipoway",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T08:09:09.196548+00:00",
+ "official_url": "https://www.shipoway.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The common protocol for industrial systems, machines and partners.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect lines, plants and suppliers so production runs on one live plan.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "What Juno reads, decides and how we evaluate it.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Security, load balancing and remembering your privacy choices.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Anonymous measurement of how pages are used, so we can improve the site.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Measuring campaigns. Never on when your browser sends Global Privacy Control.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Read, quote, book, tender and produce across companies",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "for IOI and IOI Search pricing.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "See where demand converts and where it leaks, by lane, customer and product.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Price and book moves between sites in seconds, on capacity already in motion.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Juno reads the live state of an operation through IOI, decides what should happen next and acts. Here it fills the empty half of a truck already on the road with a short detour: the shipper pays 33% below market and the carrier earns 20% more on the lane.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "OWAY PARTIAL INDEX AUTOMATIC PRICING",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "IOI Enterprise Shipment Request",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "// Juno read the request and priced it",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "# Ask a supplier plant to produce, then move it",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "/v1/ioi/produce",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "ioi.propose_transfer(",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Awaiting approval from",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Owayはまた、より広義には産業自動化および研究企業としても自社を位置付けており、JunoをAIネイティブな調整エンジンとし、API、EDI、SMC3、Project44を通じたエンタープライズ接続もサポートしています",
+    "url": "https://aimyflow.com/ja/ai/shipoway-com",
+    "pass": 3
+   },
+   {
+    "quote": "— EDI、SMC3、Project44への対応から、Owayは一般的な輸送テクノロジー環境に適合するよう設計されていることがうかがえます",
+    "url": "https://aimyflow.com/ja/ai/shipoway-com",
+    "pass": 3
+   },
+   {
+    "quote": "— チームがすでにAPI、EDI、SMC3、Project44のワークフローを利用している場合は、重複した見積もりや配車プロセスを避けるため、導入前にデータ項目と引き継ぎポイントを整理してください",
+    "url": "https://aimyflow.com/ja/ai/shipoway-com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Oway | Industrial Automation, Distribution and Research",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI that reasons over your operation and acts.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The common protocol for industrial systems, machines and partners.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect lines, plants and suppliers so production runs on one live plan.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Run warehouses, fleets and partners as one network.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense and Aerospace",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Oway is building the common language of the physical economy. IOI connects the legacy systems industry runs on with the fleets, factories and robots that do the work. Juno, our industrial AI, reasons over it and acts, and Oway OS is where the work runs.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Oway gives the physical economy a common language. IOI connects legacy systems, fleets, factories and robots. Juno, our industrial AI, reasons and acts. Oway OS is where the work runs.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The Internet of Industrials.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated coordination across factories, fleets and robots, open to every company",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial AI that acts in seconds.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "REQUEST · BALTIMORE PLANT",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "IOI is built to work across every physical industry, from manufacturing and supply chains to robotics, mining and energy.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "# Ask a supplier plant to produce, then move it",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Oway is backed by some of the best investors in the world, helping us build world-class industrial systems.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Add Oway to your industrial operations.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Sets up like adding a carrier, with no complex ERP integration. Every system, machine and partner lands on one live model your teams and AI agents can act on.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Know where every dollar, pallet and hour goes. IOI Search gives your team instant answers on throughput, cost, suppliers and carriers, with the numbers and sources ready to act on.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Juno reads the live state of an operation through IOI, decides what should happen next and acts. Here it fills the empty half of a truck already on the road with a short detour: the shipper pays 33% below market and the carrier earns 20% more on the lane.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "CARRIER LANE REVENUE +20%",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier authority verified",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Shipper saves 33% · lane revenue +20%",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Fits the carrier’s BCO load",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Oway holds specialized carrier contracts and co-loading agreements. Every user on a shared load is informed, insured and legally authorized for each transaction, so shipping stays seamless.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": ", arrives",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   },
+   {
+    "quote": "本ページの企業情報は、公式サイト（https://shipoway.com）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです",
+    "url": "https://www.firstcvc.jp/global/shipoway.com",
+    "pass": 3
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/shipoway.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/shipoway.com",
+    "pass": 3
+   },
+   {
+    "quote": "<iframe src=\"https://aimyflow.com/ai/shipoway-com/embed\" width=\"100%\" height=\"400\" frameborder=\"0\"></iframe>",
+    "url": "https://aimyflow.com/ja/ai/shipoway-com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Ask Juno to quote, plan, book or reroute work, or drop in an email, CSV or purchase order.",
+    "url": "https://www.oway.io/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Owayの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 本ページの企業情報は、公式サイト（https://shipoway.com）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです。 内容の正確性については公式サイト・出典をご確認ください。 続きの詳しい内容は、無料会員登録でご覧いただけ ...",
+    "url": "https://www.firstcvc.jp/global/shipoway.com",
+    "pass": 3
+   },
+   {
+    "quote": "Oway OS: optimize your entire shipping stack - shipoway.com — Oway OS reviews every shipment you run and finds the ones that should ride as a partial on trucks already making the trip, at up to 50% less. Use it free on its own, or connect it to your TMS, ERP or quoting tool for free with our API docs. Log in now and access Oway OS and Juno for free.",
+    "url": "https://www.shipoway.com/platform/oway-os/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.oway.io/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.oway.io/assets/img/logos/c-yusen-logistics.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.oway.io/assets/img/logos/c-fairbanks-morse-defense.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.oway.io/assets/img/logos/c-cloudkitchens.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.oway.io/assets/img/logos/c-umg.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/shipoway.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aimyflow.com/ja/ai/shipoway-com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shipinc.co.jp/shipway/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ilemjapan.shipway.com/track",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/shipway",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ey.com/en_us/insights/supply-chain/how-a-manufacturer-gained-supply-chain-agility-by-land-air-and-sea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shipway.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/shopify/case-study/phool-takes-their-lifestyle-and-wellness-brand-online-with-shopify-leveraging-automation-with-ezyslips-and-shipway-to-scale-their-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/shipway/__5P2FGzggm75HEiRh-zSeYSjT1-Hrkvm_vL559mwfxDA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/shipway-deep-dive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/legal-entities/india/shipway-technology-private-limited/__2cUwVSy6E9d7Mi3e_7ujOKMNPe69Pe7_9Qln7ZLbfhA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/shipway-in",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Shipoway 日本 導入",
+   "results": [
+    "https://www.firstcvc.jp/global/shipoway.com",
+    "https://www.shipoway.com/",
+    "https://www.aimyflow.com/ja/ai/shipoway-com",
+    "https://www.shipinc.co.jp/shipway/",
+    "https://aws.amazon.com/jp/solutions/case-studies/nihon-shipyard-case-study/",
+    "https://www.nyk.com/stories/04/01/20260518.html",
+    "https://jp.linkedin.com/company/shipway"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shipoway 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.shipoway.com/",
+    "https://shipaway.io/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shipoway Japan",
+   "results": [
+    "https://ilemjapan.shipway.com/track",
+    "https://www.shipoway.com/platform/oway-os/",
+    "https://www.shipoway.com/",
+    "https://jp.linkedin.com/company/shipway",
+    "https://www.shipinc.co.jp/shipway/",
+    "https://shipwayworldwideinc.com/",
+    "https://www.shipway.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shipoway manufacturing customer case study",
+   "results": [
+    "https://www.ey.com/en_us/insights/supply-chain/how-a-manufacturer-gained-supply-chain-agility-by-land-air-and-sea",
+    "https://www.shipway.com/case-studies",
+    "https://www.shipoway.com/research/case-study-euri-lighting/",
+    "https://www.casestudies.com/company/shopify/case-study/phool-takes-their-lifestyle-and-wellness-brand-online-with-shopify-leveraging-automation-with-ezyslips-and-shipway-to-scale-their-business",
+    "https://www.casestudies.com/company/uxc-eclipse/case-study/bl-shipway-finds-improved-reporting-capabilities-with-microsoft-dynamics-nav-and-jet-reports",
+    "https://www.shipoway.com/",
+    "https://www.shipway.com/be-clinical-case-study"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shipoway white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://skyswitch.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shipoway founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/shipway/__5P2FGzggm75HEiRh-zSeYSjT1-Hrkvm_vL559mwfxDA",
+    "https://www.indianstartuptimes.com/startup-deep-dive/shipway-deep-dive/",
+    "https://tracxn.com/d/legal-entities/india/shipway-technology-private-limited/__2cUwVSy6E9d7Mi3e_7ujOKMNPe69Pe7_9Qln7ZLbfhA",
+    "https://compworth.com/company/shipway-in",
+    "https://getlatka.com/companies/shipway.com",
+    "https://www.cbinsights.com/company/shipway-technology",
+    "https://www.thecompanycheck.com/company/b/shipway/jiey9cbbb42ks1y83"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Shipoway",
+   "results": [
+    "https://note.com/watarutida/m/meef47a7cc358",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/ohitorigoto7/n/na53d50e3bb90",
+    "https://note.com/reading_monkey/n/n808970b87c47",
+    "https://note.com/shuma_sajimoto/n/n3824385dbdf2",
+    "https://note.com/kanjikotoyori/n/n668ac05cedd1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Shipoway",
+   "results": [
+    "https://x.com/ShipwayDotCom",
+    "https://x.com/Unicommerce_",
+    "https://x.com/ZeroPretense/status/2113715361229214176",
+    "https://x.com/alishipway",
+    "https://x.com/owayinc",
+    "https://x.com/ShipwayDotCom/status/1971171824726680044",
+    "https://x.com/SHIPWAY2030"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Shipoway",
+   "results": [
+    "https://www.linkedin.com/company/shipway",
+    "https://www.linkedin.com/company/shipwaylogistics",
+    "https://in.linkedin.com/in/gaurav-gupta-22217654",
+    "https://au.linkedin.com/in/debra-shipway-69a540191",
+    "https://au.linkedin.com/in/cameron-shipway-79730863",
+    "https://uk.linkedin.com/in/paulshipway",
+    "https://ca.linkedin.com/in/kelly-shipway-7b6645103"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Shipoway",
+   "results": [
+    "https://www.facebook.com/Shipway.vn/",
+    "https://www.facebook.com/shipway.in/",
+    "https://www.facebook.com/shipwaysialkot/",
+    "https://www.facebook.com/shipwaystairs/",
+    "https://www.facebook.com/cameron.shipway.2025/posts/1133900846291134/",
+    "https://www.facebook.com/public/Shipway/",
+    "https://www.facebook.com/shipwayconstructions/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shipoway note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://www.showa-note.co.jp/company/message.html",
+    "https://www.nichima.co.jp/news-6155/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shipoway X 投稿",
+   "results": [
+    "https://x.com/ShipwayDotCom",
+    "https://x.com/shipwayjs",
+    "https://www.shipoway.com/",
+    "https://linktr.ee/shipwayofficial",
+    "https://www.c805a6e.com/",
+    "https://x.com/owayinc",
+    "https://www.shipway.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部20頁・検索12回）"
+ }
+}

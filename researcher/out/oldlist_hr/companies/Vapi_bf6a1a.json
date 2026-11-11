@@ -1,0 +1,1780 @@
+{
+ "name": "Vapi",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-11T07:32:13.740757+00:00",
+ "official_url": "https://vapi.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$50M",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Your agents, your rules. Build, deploy, and improve voice agents as fast as you ship.",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "zero to production in two weeks, and 100% of our inbound volume",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "CSAT scores have improved",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted at enterprise scale",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Orchestration, real-time monitoring, and enterprise-grade configurability built for scale.",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Configure everything from voice and conversation flow, to telephony and integrations. Vapi handles the infrastructure so you can go from prompt to production fast.",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Track what's working across every call, surface what isn't, and continuously improve the experiences that drive your business forward.",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for Enterprises",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-ready capabilities",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise sign-on, OAuth2 for secure integrations, and granular access controls.",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built-in conversation guardrails prevent model hallucinations and ensure data integrity.",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We reached profitability in Mexico due to this transformation. We're serving twice the customers we were before... and we did this while focusing on the most important part that was the level of service and the experience that our customers were having.\"",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product & AI Officer, Kavak",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "uptime for enterprise clients",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build and deliver enterprise voice AI for your clients.",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Vapi is committed to a partner-first growth strategy by co-building go-to-market programs, investing in joint partner solutions, and delivering exceptional client experiences.",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "These specialized consultancies, global systems integrators, and agencies design conversational flows, integrate Vapi into existing systems, and deploy production-ready voice solutions at scale.",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Technology Partners provide complementary platforms and tools that extend Vapi's capabilities.",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "From model providers and AI infrastructure to workflow automation tools and telephony, these integrations enable customers to build more powerful voice AI solutions.",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Be at the frontier of voice solutions. Future-proof your business and your brand with high quality, human-like voice AI agents.",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Shape the future of voice and customer experiences in business. Stay ahead of the curve with roadmap previews, technical enablement, and early access to product features.",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Every partner is paired with a dedicated manager alongside technical checkpoints to keep projects on track.",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Reusable assets make it easy to onboard clients, and prove value quickly.",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing support for joint launches and case studies",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Here is how we collaborate on every project from kickoff to growth.",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Training & enablement",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to join the Vapi Solutions Partner Program?",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted at enterprise scale",
+    "url": "https://vapi.ai/sales",
+    "pass": 1
+   },
+   {
+    "quote": "From small businesses to global enterprises, Vapi enables organizations of all kinds to speak human to their customers",
+    "url": "https://vapi.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Reducing administrative barriers and creating a more responsive experience for candidates pursuing careers in autism care",
+    "url": "https://vapi.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Spring Venture Group lifts Medicare conversions 25% with voice AI",
+    "url": "https://vapi.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Ancile Services bet its logistics recruiting business on speed, and built it on Vapi",
+    "url": "https://vapi.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Ancile improved speed-to-lead by 432X",
+    "url": "https://vapi.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing aligned to your needs",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "14 days raw data retention",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "30 days raw data retention",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For scaling teams in production",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "180 days raw data retention",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Elevated orgs, concurrency, and data retention",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Named support team with Agent Strategist, FDE Advisor, and onboarding support",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Network and data transport services (Charged by provider, not Vapi)",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "HIPAA eligible data handling. Standard Data Processing Agreement and Business Associate Agreement",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Provider costs with no markup",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-paid, $0.05/min Vapi hosting.",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-paid, auto-renew",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted at enterprise scale",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How is the Pro package price calculated?",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What does support include on Pro and Premier?",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Who should I talk to about whether Pro or Premier is the right fit?",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Generous programs that support commuter costs, dependent care needs, and fitness memberships.",
+    "url": "https://vapi.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "$10,000 annual Learning & Development program to invest in your personal development.",
+    "url": "https://vapi.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive",
+    "url": "https://vapi.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager",
+    "url": "https://vapi.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "GitHub - CyberAgentAILab/ecommerce-proactive-sales-agent: Vapi AIを使用したECサイトの音声アシスタントデモ",
+    "url": "https://github.com/CyberAgentAILab/ecommerce-proactive-sales-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Prettierを使用してコードをフォーマットします：",
+    "url": "https://github.com/CyberAgentAILab/ecommerce-proactive-sales-agent",
+    "pass": 3
+   },
+   {
+    "quote": "の内容をAssistantのSystem Promptに設定してください",
+    "url": "https://github.com/CyberAgentAILab/ecommerce-proactive-sales-agent",
+    "pass": 3
+   },
+   {
+    "quote": "How do I configure SCIM provisioning?",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "What's the price of the Enterprise plan?",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "「答えを捏造しないこと」が重要なので、System Promptで調整しています",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "Could you suggest what voice configuration, prompting style, and transcriber would work best for this? Has anyone already tried something similar or found a good setup?",
+    "url": "https://www.skool.com/ai-automation-society/best-vapi-setup-for-english-sinhala-japanese",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Leading Latin American Automotive Marketplace",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How Kavak Drives Latin America's Used Car Market with AI Agents - YouTube",
+    "url": "https://www.youtube.com/watch?v=XiK-cL_tWGc",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How Kavak Drives Latin America's Used Car Market with AI Agents",
+    "url": "https://www.youtube.com/watch?v=XiK-cL_tWGc",
+    "pass": 3
+   },
+   {
+    "quote": "Used by teams that have scaled their business Vapi AI white-label",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to Amazon Ring, Vapi’s enterprise customers include Kavak, Instawork, New York Life, UnityAI, Cherry, and Intuit. The startup also operates a self-serve developer platform that has been used by more than 1 million developers.",
+    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "revenue growth, 250k monthly calls",
+    "url": "https://vapi.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Drive revenue together",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Reducing administrative barriers and creating a more responsive experience for candidates pursuing careers in autism care",
+    "url": "https://vapi.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "UnityAI grows revenue 5X with voice agents for healthcare",
+    "url": "https://vapi.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock unlimited agents, callers, automation workflows, and call-center revenue streams with",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How To Build AI Employees For Local Businesses (Full 1+ Hour Course)",
+    "url": "https://www.youtube.com/watch?v=i4tybrfJTKs&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "VoiceAIWrapper has been thoughtfully designed to help you resell Vapi agents to your clients for a profit. VoiceAIWrapper is an official integration partner with Vapi, and VoiceAIWrapper is listed as an official partner on",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Other investors participating in the Series B round included Microsoft’s M12, Kleiner Perkins, and Bessemer Venture Partners, bringing Vapi’s total funding to $72 million. The startup is currently at an annual recurring revenue run rate in the “healthy” eight figures, an investor source told TechCrunch.",
+    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "pass": 3
+   },
+   {
+    "quote": "The startup currently has around 100 employees and plans to use the new funding to expand its engineering, infrastructure, and go-to-market teams.",
+    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi Revenue 2025: $8M, $500M Valuation",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi's annual revenue was $8M in April 2025 (leanaileaderboard.com), the most recent figure on record.",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi CEO, founders & employees",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Jordan Dearsley founded Vapi in 2023 with Nikhil Gupta and runs it as CEO. Vapi has 100 employees (May 2026, TechCrunch), up from 30 a year earlier.",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Vapi's revenue?",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi's annual revenue was",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Vapi have?",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of May 2026, according to TechCrunch.",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "These specialized consultancies, global systems integrators, and agencies design conversational flows, integrate Vapi into existing systems, and deploy production-ready voice solutions at scale.",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Be at the frontier of voice solutions. Future-proof your business and your brand with high quality, human-like voice AI agents.",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to join the Vapi Solutions Partner Program?",
+    "url": "https://vapi.ai/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Voicerr AI - Whitelabel AI Voice Agents | Vapi",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Why Agencies Choose Voicerr AI",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Voicerr AI - Whitelabel AI Voice Agents",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi × Voicerr AI — the complete white-label platform for voice-AI agencies",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "vapi ai voice whitelabel",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Instant white-label portal",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "whitelabel AI voice agents",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label Vapi Integration | Launch Your Voice AI Agency in 30 Minutes",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How to set up Loxo for recruiters and staffing agencies",
+    "url": "https://www.youtube.com/watch?v=i4tybrfJTKs&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi White Label That You Can Resell | VoiceAIWrapper",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi White-Label for Agencies",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Everything that you’ve created inside your Vapi account syncs into your white label portal, including agents, workflows, tools, and the phone numbers that you’ve connected inside Vapi.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Used by teams that have scaled their business Vapi AI white-label",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "A Vapi white label built with an agency-first approach",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Just connect your Vapi API keys, and every asset, every tool call, every knowledge base, and every assistant that you have created inside your Vapi account is now available at your white-label client portal.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "02 / Create your branded client portal",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Connect your domain for your branded client portal.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "You can white-label Vapi if you are already heavily invested in Vapi and you have created multiple agents inside Vapi and want to continue using Vapi.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Launch your Vapi white-label in under 60 minutes",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "VoiceAIWrapper automates and streamlines most of the operational tasks so that you can create and launch your white-label AI offer in 60 minutes.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Our Vapi white-label allows you to use your Vapi API keys to offer AI voice agents. Alternatively, you can also use our native Voice AI engine inside VoiceAIWrapper, or if you use Retell AI or ElevenLabs, you can even use their API keys to resell AI voice agents to your clients.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "The AI agents that you create with the Vapi AI white-label configuration can be used both on phone calls and website chat. You can control whether you want to offer your clients AI phone agents or AI chat agents, or both, and you can bill them for both.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Learn the Vapi white label process",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "In this short video, we show you through how to connect Vapi API keys and create your branded client portals, how to create agents easily, and how to create client billing plans to launch your voice AI services business.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "You can sync your Vapi agents, create your branded client portal, connect your inbox for sending emails, and connect Stripe all under 60 minutes.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Questions that agencies ask us when they look for Vapi white-label solutions",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "These are some of the questions that most agencies ask us before they start working with us.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, absolutely. This is exactly what VoiceAIWrapper is built for. VoiceAIWrapper lets you run your own AI voice company with your own subdomain, logo, colors, and emails from your domain. Your clients never see the underlying provider or VoiceAIWrapper anywhere, and as far as they’re concerned, they are using a product from your brand and they’re paying you through your Stripe account.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "What does each client see in their Vapi white-label dashboard?",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS Creator is a unique feature offered by VoiceAIWrapper. It automates the whole process of client onboarding, client scoping, agent creation, portal allocation, and client billing setup for agencies. This allows agencies to onboard more clients with less effort in a shorter period of time and allows them to focus more on selling to new clients and retaining existing ones.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "What is a Vapi white-label platform?",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "A Vapi white-label platform lets your agency sell Vapi-powered voice AI services through your own branded client portals. Vapi supports white-label use through its APIs. VoiceAIWrapper adds the agency dashboard, client portals, access controls, and billing tools. You connect your Vapi organization, assign supported assistants to clients, and set your own client pricing.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "What should I prepare before setting up my Vapi white-label portal?",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Set up your Vapi white-label in under 60 minutes.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email support without SLA",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email + dedicated Slack support",
+    "url": "https://vapi.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "emailとpasswordのそれぞれに対してResourcesフォルダのリストをペイロードとして設定し、Intruderを実行します",
+    "url": "https://group.nec/jp/ja/solutions/cybersecurity/blog/220415",
+    "pass": 3
+   },
+   {
+    "quote": "Email address reading",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Configure the Voicemail tool",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Voicemail and call screening",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock 24/7 Booking Automation with Vapi AI's Instant Emails & Texts!",
+    "url": "https://www.youtube.com/watch?v=i4tybrfJTKs&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Connect your inbox to send client emails.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "You can sync your Vapi agents, create your branded client portal, connect your inbox for sending emails, and connect Stripe all under 60 minutes.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "There are step-by-step tutorials inside the app. 24/7 support is available on the Scale plan only via chat, email, web call, and Slack.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, absolutely. This is exactly what VoiceAIWrapper is built for. VoiceAIWrapper lets you run your own AI voice company with your own subdomain, logo, colors, and emails from your domain. Your clients never see the underlying provider or VoiceAIWrapper anywhere, and as far as they’re concerned, they are using a product from your brand and they’re paying you through your Stripe account.",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "You can contact or verify outreach from Jagmeet by emailing",
+    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": ": Deepgram（高精度な日本語音声認識）",
+    "url": "https://github.com/CyberAgentAILab/ecommerce-proactive-sales-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi（音声AIエージェントプラットフォーム）で日本語対応どこまで行けるか試してみる ##Cloudflare - Qiita",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi（音声AIエージェントプラットフォーム）で日本語対応どこまで行けるか試してみる",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "英語での構築はスムーズでしたが、日本語対応には若干苦戦しました",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "STT（文字起こし）、TTS（音声合成）、ターンテイキング、モデル選定……英語前提で作られている部分が多く、日本語で自然な会話にするには一つずつ潰していく必要があります",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi の日本語運用に関する日本語の実践情報はまだ少ないので、同じ壁にぶつかる方の役に立てば嬉しいです",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "ところが日本語に切り替えると、いろんなところが崩れました",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "① モデル：gpt-4o-mini の日本語が微妙",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "② 音声（TTS）：多言語ボイスが日本語だと微妙",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "→ 日本語特化のボイスを探し、",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "ちなみに ElevenLabs Scribe は日本語の素の精度は良かったのですが、Vapi 経由だと keyterm 相当の項目が無く、用語の作り込みはできませんでした",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "STT はプロバイダーによって日本語精度がかなり違うので、",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で話しているのに、",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "サフィックス）を用意し、指示文も全部日本語で書きました",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "らしく、日本語だと切るのが早すぎたり遅すぎたりしました",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "と文字起こしの endpointing タイマー）を日本語のリズムに合わせて調整",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "→ 確実に日本語で待たせるために、ツール側に日本語の request-start メッセージ（「少々お待ちください」）を仕込みました",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "モデルの気まぐれに任せず、決め打ちで日本語を流すのが確実でした",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "実運用にギリギリ耐えるレベルの日本語音声エージェントは作れたように思います",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "日本語音声は上位モデル（gpt-4o）が効く",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "多言語ボイスより日本語特化ボイス（Azure NanamiNeural 等）",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "一番の学びは、**「日本語対応 ＝ 翻訳」ではなく「日本語対応 ＝ 各レイヤーの作り込み」**だということです",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "モデル・音声・文字起こし・ターンテイキング……全部に日本語固有のチューニングが要ります",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "テキストでも音声でも試せます（日本語の品質差を見るなら",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "Best Vapi setup for English, Sinhala, Japanese? · AI Automation Society",
+    "url": "https://www.skool.com/ai-automation-society/best-vapi-setup-for-english-sinhala-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Best Vapi setup for English, Sinhala, Japanese?",
+    "url": "https://www.skool.com/ai-automation-society/best-vapi-setup-for-english-sinhala-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "I’m trying to build a single voice agent on Vapi that can handle English, Sinhala, and Japanese fluently. I want it to detect and respond in any of these three languages without issues.",
+    "url": "https://www.skool.com/ai-automation-society/best-vapi-setup-for-english-sinhala-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "特に「電話番号を誰が持つか」を間違えると、日本の電気通信事業法に抵触しかねません",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "しかし日本の飲食店案件をビジネスとして受託する場合、",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "トレタが「トレタ予約台帳」利用店舗の2024年1〜12月の予約データを分析した調査によると、電話予約の比率は1〜9月に45〜49%で推移し、12月には48.5%まで上昇しました（参照: 株式会社トレタ プレスリリース）",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "対話型音声AI SaaSの「IVRy」は、リクルートの予約管理アプリ「レストランボード」と連携し、2024年10月8日から電話予約・変更・キャンセルに24時間対応するAI電話予約サービスを提供しています（参照: 株式会社リクルート プレスリリース）",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "日本の番号は無料提供されておらず、Twilioなど別のプロバイダで取得した番号をVapiにインポートして使う必要があります（参照: Vapi公式ドキュメント）",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "Twilioで日本の電話番号（050／0120／0800）を利用するには、2つの条件があります",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "Twilio公式サポートは「日本法人（Japanese Corporation）」を前提として案内しており、住所確認は簡易書留などの物理的な郵送で行われます",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "Twilio公式サポートは、日本の電話番号のエンドユーザーでない者（＝自社の顧客に番号を払い出す中間業者としての立場）は日本の法律上「リセラー」（中間業者）とみなされる可能性が高いと明記しています",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "言い換えると、自分のTwilioアカウントで日本の番号を取得し、それをクライアントの店舗に貸し出して月額利用料を取るモデルは、電気通信事業者としての届出義務に触れる可能性があるということです",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "なお、Twilioの日本国内における提供体制も2023年に大きく変わっています",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社KDDIウェブコミュニケーションズは2023年5月1日をもってTwilioサービスの提供を終了し、同年10月16日からソフトバンク株式会社が国内での取り扱いを引き継ぎました（参照: KDDIウェブコミュニケーションズ公式・ソフトバンク公式）",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "Vapiの音声AIは日本語の電話予約でどこまで使えるのか",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "アシスタント設定の中で音声認識（transcriber）の言語を日本語（ja）に指定できます",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "音声合成側も日本語を含む30以上の言語に対応しています",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の飲食店予約に対応したシステムプロンプトの全文",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "VAPIとは？海外で広がるAI電話プラットフォームと日本での可能性｜Toshiki｜音声AIエージェント × AI業務自動化 in バンクーバー",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "VAPIとは？海外で広がるAI電話プラットフォームと日本での可能性",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも、大手の宅配便や通信会社では自動音声応対が導入されていますよね",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではコールセンターや大手企業で広く使われています",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "4. 日本市場における現状と課題",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "海外では実用が進んでいますが、日本にはいくつか課題があります",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "6. まとめ：日本で普及するのは時間の問題",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Vapi AIレビュー（2026年）：開発者が選ぶ音声AI？ — Vapi AIレビュー（2026年）：開発者が選ぶ音声AI？ eesel AI https://www.eesel.ai > eesel AI > Blog > Guides",
+    "url": "https://www.eesel.ai/ja/blog/vapi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi AIを使用したECサイトの音声アシスタントデモ ... - GitHub — Vapi AIを使用したECサイトの音声アシスタントデモ ... - GitHub GitHub https://github.com > ecommerce-proactive-sales-agent",
+    "url": "https://github.com/CyberAgentAILab/ecommerce-proactive-sales-agent",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi （音声AIエージェントプラットフォーム）で 日本 語対応 ... — Vapi （音声AIエージェントプラットフォーム）で 日本 語対応 ... Qiita https://qiita.com > AIエージェント",
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi - Build Advanced Voice AI Agents — Vapi - Build Advanced Voice AI Agents Vapi https://vapi.ai",
+    "url": "https://vapi.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェントによるコールセンターの構築 / Vapi / Twillio — AIエージェントによるコールセンターの構築 / Vapi / Twillio YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=o6tTh3-J2Vk",
+    "pass": 3
+   },
+   {
+    "quote": "Best Vapi setup for English, Sinhala, Japanese? — Best Vapi setup for English, Sinhala, Japanese? Skool https://www.skool.com > best-vapi-set...",
+    "url": "https://www.skool.com/ai-automation-society/best-vapi-setup-for-english-sinhala-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi | LinkedIn — Vapi | LinkedIn LinkedIn https://www.linkedin.com > vapi-ai",
+    "url": "https://www.linkedin.com/company/vapi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "トレーニングコンテンツ：脆弱なAPIラボ環境「 vAPI 」の紹介 — トレーニングコンテンツ：脆弱なAPIラボ環境「 vAPI 」の紹介 NEC https://group.nec > solutions > cybersecurity > blog",
+    "url": "https://group.nec/jp/ja/solutions/cybersecurity/blog/220415",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi AI Review (2026): Pricing, Features, Pros and Cons — Vapi AI Review (2026): Pricing, Features, Pros and Cons Retell AI https://www.retellai.com > blog > vap...",
+    "url": "https://www.retellai.com/blog/vapi-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi Customers | Kavak — Vapi Customers | Kavak Vapi https://vapi.ai > customers > kavak",
+    "url": "https://vapi.ai/customers/kavak",
+    "pass": 3
+   },
+   {
+    "quote": "How Vapi Uses Neon to Power the Next Generation of Voice ... — How Vapi Uses Neon to Power the Next Generation of Voice ... Neon https://neon.com > blog > vapi-voice-...",
+    "url": "https://neon.com/blog/vapi-voice-agents-neon",
+    "pass": 3
+   },
+   {
+    "quote": "Voicerr AI - Whitelabel AI Voice Agents - Vapi docs — Voicerr AI - Whitelabel AI Voice Agents - Vapi docs Vapi https://docs.vapi.ai > ... > Ecosystem",
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Possible to White Label /Create My Own Vapi ? : r/vapiai - Reddit — Possible to White Label /Create My Own Vapi ? : r/vapiai - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/vapiai/comments/1gjp5qq/possible_to_white_labelcreate_my_own_vapi/",
+    "pass": 3
+   },
+   {
+    "quote": "How To Easily White - Label Vapi AI Voice Agents - YouTube — How To Easily White - Label Vapi AI Voice Agents - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=i4tybrfJTKs&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi White Label That You Can Resell | VoiceAIWrapper — Vapi White Label That You Can Resell | VoiceAIWrapper VoiceAIWrapper https://voiceaiwrapper.com > uses > v...",
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Vapify: The Vapi .ai White - label Agency Platform — Vapify: The Vapi .ai White - label Agency Platform Vapify.agency https://vapify.agency",
+    "url": "https://vapify.agency/",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi .ai: AI voice platform with $8M revenue and ... - LinkedIn — Vapi .ai: AI voice platform with $8M revenue and ... - LinkedIn LinkedIn https://www.linkedin.com > posts > udimenkes_𝐖𝐡𝐚𝐭-...",
+    "url": "https://www.linkedin.com/posts/udimenkes_%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%A2%F0%9D%90%9F-%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%80%F0%9D%90%88-activity-7303429212323897344-fi-m",
+    "pass": 3
+   },
+   {
+    "quote": "AI voice startup Vapi hits $500M valuation after ... - TechCrunch — AI voice startup Vapi hits $500M valuation after ... - TechCrunch TechCrunch https://techcrunch.com > 2026/05/12",
+    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi Revenue 2025: $8M, $500M Valuation - GetLatka — Vapi Revenue 2025: $8M, $500M Valuation - GetLatka GetLatka https://getlatka.com > companies > vapi",
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi : Voice AI for developers. - Y Combinator — Vapi : Voice AI for developers. - Y Combinator Y Combinator https://www.ycombinator.com > vapi",
+    "url": "https://www.ycombinator.com/companies/vapi",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi - Crunchbase Company Profile & Funding — Vapi - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > vapi-9...",
+    "url": "https://www.crunchbase.com/organization/vapi-97c4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Vapi の5億ドル評価額は、AI音声で「顧客が自分で調整 ... - note Vapi の5億ドル評価額は、AI音声で「顧客が自分で調整 ... - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/entikemoto/n/n9c3eec163642",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi ×Twilioで飲食店の電話予約AI自動化を受託する方法 - note Vapi ×Twilioで飲食店の電話予約AI自動化を受託する方法 - note note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "VAPI とは？海外で広がるAI電話プラットフォームと日本での ... VAPI とは？海外で広がるAI電話プラットフォームと日本での ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "AI音声エージェント Vapi ：5億ドル企業を生んだ「制御と ... AI音声エージェント Vapi ：5億ドル企業を生んだ「制御と ... note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/humble_dog9839/n/n063e24d5fc0c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Vapiの5億ドル評価額は、AI音声で「顧客が自分で調整できること」の重要性を示しています｜池本毅（TAKESHI IKEMOTO）",
+    "url": "https://note.com/entikemoto/n/n9c3eec163642",
+    "pass": 3
+   },
+   {
+    "quote": "Vapiの5億ドル評価額は、AI音声で「顧客が自分で調整できること」の重要性を示しています",
+    "url": "https://note.com/entikemoto/n/n9c3eec163642",
+    "pass": 3
+   },
+   {
+    "quote": "AI Daily Digestへようこそ。",
+    "url": "https://note.com/entikemoto/n/n9c3eec163642",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon傘下のスマートドアベル・防犯カメラブランドであるRingが、カスタマーサポートの電話対応にVapiを採用しました。40社以上を比べたうえで選ばれた理由は、AIの性能だけでなく、現場で運用しやすい仕組みにありました。",
+    "url": "https://note.com/entikemoto/n/n9c3eec163642",
+    "pass": 3
+   },
+   {
+    "quote": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+    "url": "https://note.com/entikemoto/n/n9c3eec163642",
+    "pass": 3
+   },
+   {
+    "quote": "techcrunch.com（2026-05-12）",
+    "url": "https://note.com/entikemoto/n/n9c3eec163642",
+    "pass": 3
+   },
+   {
+    "quote": "VapiがRingのカスタマーサポート電話を全面的に任された決め手は、AIの賢さや低遅延の数字だけではありません。応答内容や動きを、Ring側のエンジニアと現場チームが自分たちで調整できることでした。",
+    "url": "https://note.com/entikemoto/n/n9c3eec163642",
+    "pass": 3
+   },
+   {
+    "quote": "AI音声スタートアップのVapiが、シリーズBで5,000万ドルを調達しました。リード投資家はPeak XV Partners、投資後評価額は約5億ドルです。今回のラウンドにはMicrosoftのM12、Kleiner Perkins、Bessemer Venture Partnersも参加し、累計調達額は7,200万ドルに到達しています。年次経常収益のラン・レートは「健全な8桁台」、つまり数千万ドル規模だと投資家筋が述べています。",
+    "url": "https://note.com/entikemoto/n/n9c3eec163642",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi×Twilioで飲食店の電話予約AI自動化を受託する方法｜番号は自分で持たないのが正解｜カイ",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi×Twilioで飲食店の電話予約AI自動化を受託する方法｜番号は自分で持たないのが正解",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi（音声AI）×Twilio（クラウド電話）で飲食店の予約を自動化できる仕組み",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "個人でも受託できるビジネスモデル（ただし電話番号の持ち方がポイント）",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "実装の具体的な手順・必要な法務知識・値付けの考え方",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "「予約の電話に出られなくて、機会損失が怖い」 「営業中は手が離せず、鳴り続ける電話にイライラしている」 「AIで電話予約を自動化する案件を受託したいけど、何から始めればいいか分からない」",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "飲食店の経営者からも、副業で技術案件を探すエンジニアからも、こうした声をよく聞きます。",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "音声AI API「Vapi」とクラウド電話基盤「Twilio」を組み合わせると、飲食店の電話予約を24時間自動応答させる仕組みを、個人でも構築できます。これが本記事のテーマです。",
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "pass": 3
+   },
+   {
+    "quote": "VAPIとは？海外で広がるAI電話プラットフォームと日本での可能性｜Toshiki｜音声AIエージェント × AI業務自動化 in バンクーバー",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "VAPIとは？海外で広がるAI電話プラットフォームと日本での可能性",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "Toshiki｜音声AIエージェント × AI業務自動化 in バンクーバー",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "カナダ・バンクーバーで音声AIエージェントを使った自動化サービスを提供しています。",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "「なぜVapiは“従来の自動応答”と違うのか？」",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも、大手の宅配便や通信会社では自動音声応対が導入されていますよね。ただし多くの場合、「1番を押してください」「2番を押してください」といった",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "※IVR（Interactive Voice Response）とは、電話をかけると自動音声が流れ「○番を押してください」と案内し、入力番号に応じて振り分ける仕組みのこと。日本ではコールセンターや大手企業で広く使われています。",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "自然な会話の中から相手の意図を汲み取り、その場で柔軟に対応してくれます。しかも声は人間に近く、会話テンポも",
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "pass": 3
+   },
+   {
+    "quote": "AI音声エージェントVapi：5億ドル企業を生んだ「制御とピボット」｜tyo",
+    "url": "https://note.com/humble_dog9839/n/n063e24d5fc0c",
+    "pass": 3
+   },
+   {
+    "quote": "AI音声エージェントVapi：5億ドル企業を生んだ「制御とピボット」",
+    "url": "https://note.com/humble_dog9839/n/n063e24d5fc0c",
+    "pass": 3
+   },
+   {
+    "quote": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+    "url": "https://note.com/humble_dog9839/n/n063e24d5fc0c",
+    "pass": 3
+   },
+   {
+    "quote": "カスタマーサポートに電話をかけて、無機質な自動音声にイライラした経験、あなたにもありませんか？",
+    "url": "https://note.com/humble_dog9839/n/n063e24d5fc0c",
+    "pass": 3
+   },
+   {
+    "quote": "企業にとっても、ピーク時の入電ラッシュへの対応は、コストと顧客満足度の間で常に頭を悩ませる深刻な課題です。",
+    "url": "https://note.com/humble_dog9839/n/n063e24d5fc0c",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、スマートホームの雄であるAmazon Ringが、昨年のホリデーシーズンに向けてある大きな決断を下しました。40社を超えるAIベンダーを徹底的に比較した末、当時まだ新鋭だったスタートアップ「Vapi」を採用したのです。",
+    "url": "https://note.com/humble_dog9839/n/n063e24d5fc0c",
+    "pass": 3
+   },
+   {
+    "quote": "現在、Ringへのインバウンドコールの100%が、Vapiのプラットフォームによって処理されています。",
+    "url": "https://note.com/humble_dog9839/n/n063e24d5fc0c",
+    "pass": 3
+   },
+   {
+    "quote": "この実績を引っ提げ、VapiはシリーズBで5,000万ドルを調達。評価額は約5億ドル（約750億円）というユニコーン一歩手前の規模にまで急成長を遂げました。",
+    "url": "https://note.com/humble_dog9839/n/n063e24d5fc0c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Vapi (@Vapi_AI) / X Vapi (@Vapi_AI) / X X https://x.com > Vapi_AI",
+    "url": "https://x.com/Vapi_AI",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi on X Vapi on X X https://x.com > @Vapi_AI",
+    "url": "https://x.com/Vapi_AI/status/2067646637170680140",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi on X: \"   You built the brain. Guava gives it a voice. Meet ... Vapi on X: \"   You built the brain. Guava gives it a voice. Meet ... X https://x.com > @Vapi_AI",
+    "url": "https://x.com/Vapi_AI/status/2119909158128341042",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Vapi | LinkedIn Vapi | LinkedIn LinkedIn https://www.linkedin.com > vapi-ai",
+    "url": "https://www.linkedin.com/company/vapi-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Trish English (she / her) - Vapi - LinkedIn Trish English (she / her) - Vapi - LinkedIn LinkedIn https://www.linkedin.com > trishenglish",
+    "url": "https://www.linkedin.com/in/trishenglish",
+    "pass": 3
+   },
+   {
+    "quote": "Gerard James Roy | Building @ Vapi | early Scale AI | Girl Dad Gerard James Roy | Building @ Vapi | early Scale AI | Girl Dad LinkedIn https://www.linkedin.com > gerardja...",
+    "url": "https://www.linkedin.com/in/gerardjamesroy",
+    "pass": 3
+   },
+   {
+    "quote": "Noah Burke - Vapi - LinkedIn Noah Burke - Vapi - LinkedIn LinkedIn https://www.linkedin.com > noah-bur...",
+    "url": "https://www.linkedin.com/in/noah-burke-738255221",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VAPI AI - Facebook VAPI AI - Facebook Facebook https://www.facebook.com > VAPI-AI-61557833414741",
+    "url": "https://www.facebook.com/p/VAPI-AI-61557833414741/",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi Industries Association (@vapivia) - Facebook Vapi Industries Association (@vapivia) - Facebook Facebook https://www.facebook.com > ... > Businesses > Local service",
+    "url": "https://www.facebook.com/vapivia/",
+    "pass": 3
+   },
+   {
+    "quote": "Avadh Utopia Vapi - Facebook Avadh Utopia Vapi - Facebook Facebook https://www.facebook.com > ... > Private Members Club",
+    "url": "https://www.facebook.com/AvadhUtopiaVapi/",
+    "pass": 3
+   },
+   {
+    "quote": "Vapi AI レセプショニストのレビュー:本当のユーザーが言って ... Vapi AI レセプショニストのレビュー:本当のユーザーが言って ... Facebook https://www.facebook.com > vapi-ai-receptionist-reviews",
+    "url": "https://www.facebook.com/fb-answers/vapi-ai-receptionist-reviews/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://vapi.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vapi.ai/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vapi.ai/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vapi.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vapi.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vapi.ai/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.eesel.ai/ja/blog/vapi-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/CyberAgentAILab/ecommerce-proactive-sales-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3242",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.google.com/business/answer/9199701?hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.domainnameapi.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mixwave.co.jp/p_audio/item/api.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skool.com/ai-automation-society/best-vapi-setup-for-english-sinhala-japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/vapi-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://group.nec/jp/ja/solutions/cybersecurity/blog/220415",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neon.com/blog/vapi-voice-agents-neon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=XiK-cL_tWGc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.vapi.ai/providers/voicerr-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/vapiai/comments/1gjp5qq/possible_to_white_labelcreate_my_own_vapi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=i4tybrfJTKs&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/udimenkes_%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%A2%F0%9D%90%9F-%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%80%F0%9D%90%88-activity-7303429212323897344-fi-m",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/vapi.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/vapi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/entikemoto/n/n9c3eec163642",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/humble_dog9839/n/n063e24d5fc0c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Vapi_AI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Vapi_AI/status/2067646637170680140",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Vapi_AI/status/2119909158128341042",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vapi-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/trishenglish",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gerardjamesroy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/noah-burke-738255221",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/VAPI-AI-61557833414741/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vapivia/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AvadhUtopiaVapi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/vapi-ai-receptionist-reviews/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Vapi_AI",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Vapi 日本 導入",
+   "results": [
+    "https://www.eesel.ai/ja/blog/vapi-ai",
+    "https://github.com/CyberAgentAILab/ecommerce-proactive-sales-agent",
+    "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "https://vapi.ai/",
+    "https://www.youtube.com/watch?v=o6tTh3-J2Vk",
+    "https://hackernoon.com/lang/ja/how-to-build-the-lowest-latency-voice-agent-in-vapi-achieving-465ms-end-to-end-latency",
+    "https://jp.linkedin.com/pulse/how-we-built-voice-ai-platform-costs-67-less-than-vapi-kushnir-lrqsf?tl=ja",
+    "https://forbesjapan.com/articles/detail/75908",
+    "https://moge.ai/ja/product/vapi",
+    "https://global-ai.jp/20260513-aivapi/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vapi 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3242",
+    "https://support.google.com/business/answer/9199701?hl=ja",
+    "https://www.domainnameapi.com/ja",
+    "https://www.mixwave.co.jp/p_audio/item/api.html",
+    "https://www.docodoco.jp/partners/",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://coplus-one.jp/chatgpt-hojin-dairiten/",
+    "https://www.reddit.com/r/AI_Agents/comments/1ru9rfg/im_looking_for_voice_ai_agencies_that_actually/?tl=ja",
+    "https://vapi.ai/partnerships"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vapi Japan",
+   "results": [
+    "https://vapi.ai/",
+    "https://www.skool.com/ai-automation-society/best-vapi-setup-for-english-sinhala-japanese",
+    "https://www.linkedin.com/company/vapi-ai",
+    "https://group.nec/jp/ja/solutions/cybersecurity/blog/220415",
+    "https://www.retellai.com/blog/vapi-ai-review",
+    "https://www.youtube.com/watch?v=8tRyf5AC_nc&vl=ja",
+    "https://www.bvp.com/news/our-investment-in-vapi-the-voice-ai-developer-platform",
+    "https://github.com/CyberAgentAILab/ecommerce-proactive-sales-agent",
+    "https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc",
+    "https://ai.codigital.co.jp/en/tools/vapi/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Vapi manufacturing customer case study",
+   "results": [
+    "https://vapi.ai/customers/kavak",
+    "https://neon.com/blog/vapi-voice-agents-neon",
+    "https://www.youtube.com/watch?v=XiK-cL_tWGc",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.automate.org/ai/industry-insights/case-studies-ai-advanced-manufacturing",
+    "https://c3.ai/customers",
+    "https://www.linkedin.com/posts/anand-butani_ai-voice-startup-vapi-hits-500m-valuation-activity-7460751130118156288-SSkr",
+    "https://www.squawkvoice.ai/blog/vapi-review",
+    "https://www.youtube.com/playlist?list=PLcQ1DKcRDC5HQjJpFmaEfUhK0FKP95zsN"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Vapi white label OR reseller OR partner program",
+   "results": [
+    "https://docs.vapi.ai/providers/voicerr-ai",
+    "https://www.reddit.com/r/vapiai/comments/1gjp5qq/possible_to_white_labelcreate_my_own_vapi/",
+    "https://www.youtube.com/watch?v=i4tybrfJTKs&vl=ja",
+    "https://voiceaiwrapper.com/uses/vapi-white-label",
+    "https://vapify.agency/",
+    "https://pulseai.studio/website/blog/best-white-label-ai-voice-agents.html",
+    "https://autocalls.ai/article/best-white-label-ai-voice-agent-platforms",
+    "https://five.co/blog/how-to-white-label-vapi-voice-ai-agents-the-3-best-options/",
+    "https://voicerr.ai/",
+    "https://www.fusioncalling.com/blog/vapi-white-label-platform"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Vapi founded funding employees revenue",
+   "results": [
+    "https://www.linkedin.com/posts/udimenkes_%F0%9D%90%96%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%A2%F0%9D%90%9F-%F0%9D%90%AC%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%80%F0%9D%90%88-activity-7303429212323897344-fi-m",
+    "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "https://getlatka.com/companies/vapi.ai",
+    "https://www.ycombinator.com/companies/vapi",
+    "https://www.crunchbase.com/organization/vapi-97c4",
+    "https://www.reddit.com/r/vapiai/comments/1tb7gh0/vapi_just_raised_a_50m_series_b_heres_what_were/",
+    "https://www.linkedin.com/posts/ai-insider-intel_aivoice-voiceai-seriesb-activity-7460603453967482880-JgGG",
+    "https://finance.yahoo.com/sectors/technology/articles/ai-voice-startup-vapi-hits-113000395.html",
+    "https://www.reuters.com/technology/voice-ai-startup-vapi-raises-20-mln-bessemer-y-combinator-backed-round-2024-12-12/",
+    "https://compworth.com/company/vapi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Vapi",
+   "results": [
+    "https://note.com/entikemoto/n/n9c3eec163642",
+    "https://note.com/kai_claudecode/n/n56cba5f533c2",
+    "https://note.com/toshiki_voiceai/n/nd7703e87a51c",
+    "https://note.com/humble_dog9839/n/n063e24d5fc0c",
+    "https://note.com/matcha_ai/n/n1fd6c8b6f93c",
+    "https://note.com/yondo/n/nfee9940642aa",
+    "https://note.com/gentle_seal8676/n/nfae00b5bf424",
+    "https://note.com/ikkaku0121/n/nc2f274778c76",
+    "https://note.com/yukikkoaimanabi/n/n82bbf355a3e9",
+    "https://note.com/humble_bobcat51/n/nc7f9612c62cc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Vapi",
+   "results": [
+    "https://x.com/Vapi_AI",
+    "https://x.com/jordan_dearsley",
+    "https://x.com/Vapi_AI/status/2067646637170680140",
+    "https://x.com/Vapi_AI/status/2119909158128341042",
+    "https://x.com/Vapi_AI/status/2119935606935412975",
+    "https://x.com/Vapi_AI/status/2115845660314620397",
+    "https://x.com/Vapi_AI/status/2118029301857603777",
+    "https://x.com/Vapi_AI/status/2120242598828806612",
+    "https://x.com/Vapi_AI/status/2119117683186696221",
+    "https://x.com/nikhilro_"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Vapi",
+   "results": [
+    "https://www.linkedin.com/company/vapi-ai",
+    "https://www.linkedin.com/in/trishenglish",
+    "https://www.linkedin.com/in/gerardjamesroy",
+    "https://www.linkedin.com/in/noah-burke-738255221",
+    "https://www.linkedin.com/in/bryan-parman",
+    "https://www.linkedin.com/posts/dhruv-mehra_livekit-vapi-voiceai-activity-7363581863702974467-2euk",
+    "https://in.linkedin.com/jobs/information-technology-jobs-vapi",
+    "https://www.linkedin.com/in/nikhilro",
+    "https://www.linkedin.com/company/vapi-ai/life",
+    "https://www.linkedin.com/in/jordandearsley"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Vapi",
+   "results": [
+    "https://www.facebook.com/p/VAPI-AI-61557833414741/",
+    "https://www.facebook.com/vapivia/",
+    "https://www.facebook.com/AvadhUtopiaVapi/",
+    "https://www.facebook.com/fb-answers/vapi-ai-receptionist-reviews/?locale=ja_JP",
+    "https://www.facebook.com/fellowshipschoolvapi/",
+    "https://www.facebook.com/61573019086815/posts/vapi-is-one-of-the-tools-our-students-are-exploring-in-the-advanced-no-code-app-/122199429278767302/",
+    "https://www.facebook.com/startupvapi/",
+    "https://www.facebook.com/St.XHSVapi/",
+    "https://www.facebook.com/vapitech/",
+    "https://www.facebook.com/aapnuvapi/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Vapi note 社長",
+   "results": [
+    "https://diamond.jp/articles/-/388572",
+    "https://x.com/sadaaki",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/ai_shacho",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Vapi X 投稿",
+   "results": [
+    "https://x.com/Vapi_AI",
+    "https://docs.vapi.ai/assistants/dynamic-variables",
+    "https://lifrell-tech.com/950/",
+    "https://uravation.com/media/x-auto-post-ai-guide-2026/",
+    "https://www.youtube.com/watch?v=Mj1KCmSAwgE",
+    "https://www.reddit.com/r/n8n/comments/1j0f6a7/n8n_x_vapi_ai_receptionist_agent_full_tutorial/?tl=ja",
+    "https://note.com/aikachan_ai/n/n5bf03e58300f",
+    "https://debono.co.jp/media/x-toko-ai-sakusei/",
+    "https://k-tai.watch.impress.co.jp/docs/news/2078522.html",
+    "https://x.com/vapi_network"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

@@ -8,7 +8,7 @@
  ],
  "context": "凄腕・統計",
  "kind": "market",
- "researched_at": "2026-11-09T11:34:08.430193+00:00",
+ "researched_at": "2026-11-11T07:27:46.495497+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -170,38 +170,6 @@
     "first_seen": "2026-11-05"
    }
   ],
-  "突き合わせ・推定": [
-   {
-    "quote": "象外事業所の推計が困難である「卸売販売額の販売先割合（本支店間移動の割合） 」",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "により公表されていたが、推計結果は調査結果を確定した上で実施することが望ま",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "他方で、国民経済計算の推計",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "しかしながら、国民経済計算の推計をはじめとした利活用の支障が生じないか確認",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "ｂ 国民経済計算の推計をはじめとした利活用に支障が生じないよう、どのような",
-    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
   "実例": [
    {
     "quote": "イ これについては、前述（２）の調査対象の範囲に基づき、試算した結果、現行計画",
@@ -293,6 +261,38 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "象外事業所の推計が困難である「卸売販売額の販売先割合（本支店間移動の割合） 」",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "により公表されていたが、推計結果は調査結果を確定した上で実施することが望ま",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "他方で、国民経済計算の推計",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "しかしながら、国民経済計算の推計をはじめとした利活用の支障が生じないか確認",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "ｂ 国民経済計算の推計をはじめとした利活用に支障が生じないよう、どのような",
+    "url": "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -369,7 +369,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.nstac.go.jp/support/make-support/enterprisesupport/?doing_wp_cron=1794155467.4001410007476806640625",
+    "url": "https://www.nstac.go.jp/support/make-support/enterprisesupport/?doing_wp_cron=1794382109.4287660121917724609375",
     "status": "ok",
     "method": "http"
    },
@@ -394,6 +394,11 @@
     "method": "http"
    },
    {
+    "url": "https://www.jstat.or.jp/mwbhpwp/wp-content/uploads/2022_02_p003-004_0001.pdf",
+    "status": "network_error:ConnectTimeout",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.chusho.meti.go.jp/koukai/chousa/kihon/index.html",
     "status": "ok",
     "method": "http"
@@ -405,11 +410,6 @@
    },
    {
     "url": "https://www.meti.go.jp/statistics/tyo/kkj/seizo_result.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.meti.go.jp/statistics/tyo/kkj/result2.html",
     "status": "ok",
     "method": "http"
    },
@@ -434,12 +434,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.tigerdata.com/blog/time-series-analysis-what-is-it-how-to-use-it",
+    "url": "https://ndlsearch.ndl.go.jp/en/rnavi/business/post_102100",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://ndlsearch.ndl.go.jp/en/rnavi/business/post_102100",
+    "url": "https://www.tigerdata.com/blog/time-series-analysis-what-is-it-how-to-use-it",
     "status": "ok",
     "method": "http"
    }
@@ -461,7 +461,7 @@
     "https://note.com/tskomatani/n/n541e686f42bd"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -476,16 +476,15 @@
     "https://www.e-stat.go.jp/index.php/stat-search/database?page=1&layout=dataset&toukei=00200555&toukei_kind=6&statdisp_id=0004030080",
     "https://www.jagat.or.jp/archives/99010",
     "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "https://d-infra.ier.hit-u.ac.jp/Japanese/census-survey/b005.html",
+    "https://www.nishi.or.jp/shisei/tokei/tokeichosakekka/keizaikouzou.html",
     "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
     "https://www.stat.go.jp/data/kkj/kekka/index.html"
    ],
    "engines": [
-    "ddgs:google",
     "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 14
   },
   {
    "query": "業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法 やり方",
@@ -512,21 +511,20 @@
    "results": [
     "https://www.stat.go.jp/data/kkj/index.html",
     "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
+    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
     "http://www.etisa.or.jp/kkj-1.htm",
     "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&alpha=2&toukei=00200555&result_page=1&statdisp_id=0003433760",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
     "https://www.jagat.or.jp/archives/99010",
     "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
-    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
-    "https://ja.wikipedia.org/wiki/%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88%E8%AA%BF%E6%9F%BB",
-    "https://www.soumu.go.jp/main_content/000744047.pdf",
+    "https://www.jstat.or.jp/mwbhpwp/wp-content/uploads/2022_02_p003-004_0001.pdf",
     "https://www.stat.go.jp/data/kkj/kekka/index.html"
    ],
    "engines": [
-    "ddgs:bing",
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 14
   },
   {
    "query": "how to read Japanese industrial statistics time series",
@@ -535,18 +533,18 @@
     "https://dashboard.e-stat.go.jp/en/timeSeries",
     "https://guides.library.yale.edu/c.php?g=295893&p=1975547",
     "https://www.meti.go.jp/english/statistics/index.html",
-    "https://www.tigerdata.com/blog/time-series-analysis-what-is-it-how-to-use-it",
     "https://rnavi.ndl.go.jp/en/post-485394.html",
-    "https://www.ametekmocon.com/solutions/testmethods/jis-test-methods",
+    "https://www.tigerdata.com/blog/time-series-analysis-what-is-it-how-to-use-it",
     "https://www.abs.gov.au/websitedbs/d3310114.nsf/home/time+series+analysis:+the+basics",
-    "https://ideagroupvn.com/how-to-read-jis-drawings/",
+    "https://blogs.ubc.ca/nakamura/files/2016/03/nakamura_jer_1998.pdf",
+    "https://www.ametekmocon.com/solutions/testmethods/jis-test-methods",
     "https://www.meti.go.jp/english/statistics/tyo/iip/index.html"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 15
   },
   {
    "query": "site:note.com 業界統計（工業統計・経済構造実態調査・中小企業実態基本調査）を時系列で読む方法",
@@ -554,13 +552,13 @@
     "https://note.com/kagawatomo/n/nfe51c4f0f92a",
     "https://note.com/epolicy_actvst/n/nca89858e3caf",
     "https://note.com/hirokimiyano/n/nd59c76298f07",
-    "https://note.com/kagawatomo/n/nd985c3959405",
     "https://note.com/jack4manastalk/n/n880406135053",
-    "https://note.com/tatsuya_sabato/n/ne84e5d12723f",
+    "https://note.com/kagawatomo/n/nd985c3959405",
     "https://note.com/mc_motto/n/n13f89168ab01",
+    "https://note.com/tatsuya_sabato/n/ne84e5d12723f",
     "https://note.com/humble_crane7701/n/n917c11401561",
     "https://note.com/tea3jp/n/n3dd10140069e",
-    "https://note.com/umaki11/n/nce9c68a07077"
+    "https://note.com/hirokimiyano/n/nf56f7e6de1a5"
    ],
    "engines": [
     "ddgs:google",
@@ -598,7 +596,7 @@
     "https://jp.linkedin.com/posts/daisuke-wakui-labz_日本企業のdx推進実態調査2024速報版足踏みする日本のdxの実態-activity-7223869165965602817-4np6"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -609,10 +607,10 @@
     "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査茨城県結果を公表しました事業所数従業者数製造品出荷額等付加価値額などを従業者規模地域別市町村別などに集計しました詳細は/1384167243755964/",
     "https://www.facebook.com/ibaraki.tokei/posts/2024年経済構造実態調査製造業事業所調査集計結果-茨城県概要2024年６月１日現在で実施した2024年経済構造実態調査製造業事業所調査集計結果の概要を９月２日/1209595741213116/",
     "https://www.facebook.com/smrjpr/",
+    "https://www.facebook.com/tokyo.smeca.johtoh/posts/2023430城東地区5区の産業構造等の概要について更新城東地区5区の産業構造等の概要についての第5版を作成しました今回第5版を作成するにあたるメンバー間で議論/704157815048103/",
     "https://www.facebook.com/stat.japan/posts/3月27日総務省統計局からお知らせします2025年経済構造実態調査一次集計結果-産業横断調査企業等に関する集計-総務省及び経済産業省は2025年6月に実施した2/1369600878537270/",
     "https://www.facebook.com/jpkanagata/posts/機械統計金型-10月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計し/1485580476904104/",
-    "https://www.facebook.com/jpkanagata/posts/機械統計金型-6月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1374119468050206/",
-    "https://www.facebook.com/horei.gis/posts/中小企業庁取引条件改善状況調査を実施令和7年度取引条件改善状況調査を実施しています-中小企業庁httpswwwchushometigojpkeieitorihi/1476879387642182/"
+    "https://www.facebook.com/jpkanagata/posts/機械統計金型-6月分発表機械統計とは金型を製造している従業員規模30名以上の事業所を調査対象として毎月生産金額生産数量生産重量の各項目を経済産業省が調査集計して/1374119468050206/"
    ],
    "engines": [
     "ddgs:google",
@@ -626,11 +624,11 @@
     "https://www.stat.go.jp/data/kkj/index.html",
     "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
     "https://www.soumu.go.jp/main_content/000744047.pdf",
-    "http://www.etisa.or.jp/kkj-1.htm",
+    "http://www.etisa.or.jp/kkj-2.htm",
     "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00553010&tstat=000001019842",
     "https://www.jagat.or.jp/archives/99010",
     "https://www.toukei.metro.tokyo.lg.jp/kougyou/kg-index.htm",
-    "https://www.pref.kumamoto.jp/uploaded/attachment/237024.pdf",
+    "https://www.jstat.or.jp/mwbhpwp/wp-content/uploads/2022_02_p003-004_0001.pdf",
     "https://www.pref.aomori.lg.jp/soshiki/kenko/kkenkofu/files/20190521betten3.pdf",
     "https://www.stat.go.jp/data/kkj/kekka/index.html"
    ],
@@ -645,17 +643,17 @@
    "results": [
     "https://www.stat.go.jp/data/kkj/index.html",
     "https://www.meti.go.jp/statistics/tyo/kkj/index.html",
-    "http://www.etisa.or.jp/kkj-1.htm",
-    "https://www.pref.nagano.lg.jp/tokei/tyousa/manufacture.html",
+    "http://www.etisa.or.jp/kkj-2.htm",
     "https://www.pref.chiba.lg.jp/toukei/toukeidata/kougyou/index.html",
+    "https://www.jagat.or.jp/archives/99010",
     "https://www.e-stat.go.jp/stat-search/database?page=1&layout=dataset&toukei=00200555&tstat=000001232565&lid=000001128869&result_page=1&statdisp_id=0004055501",
     "https://www.fooma.or.jp/%E7%B5%8C%E6%B8%88%E6%A7%8B%E9%80%A0%E5%AE%9F%E6%85%8B%E8%AA%BF%E6%9F%BB%E3%81%AE%E5%AE%9F%E6%96%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%EF%BC%BB%E7%B7%8F%E5%8B%99%E7%9C%81%E3%83%BB%E7%B5%8C%E6%B8%88/",
     "https://www.pref.mie.lg.jp/DATABOX/12133003755.htm",
-    "https://www.nstac.go.jp/support/make-support/enterprisesupport/",
+    "https://www.soumu.go.jp/main_content/000744047.pdf",
     "https://www.stat.go.jp/data/kkj/kekka/index.html"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -665,17 +663,17 @@
    "results": [
     "https://www.linkedin.com/pulse/how-use-machine-learning-time-series-forecasting-vegard-flovik-phd-1f",
     "https://www.linkedin.com/posts/poornachandra-kongara_time-series-concepts-every-data-analyst-should-activity-7511031286661033984-QHOA",
-    "https://www.linkedin.com/pulse/from-historian-databricks-moving-industrial-time-series-indranil-paul-ikaxc",
     "https://www.linkedin.com/posts/data-dawn_it-took-me-6-years-to-land-my-first-data-activity-7283490070278369280-7dgG",
     "https://www.linkedin.com/posts/jason-corso_time-series-forecasting-is-one-of-those-activity-7444758944931053568-TcQH",
-    "https://www.linkedin.com/in/davidpatricklundquist",
-    "https://www.linkedin.com/company/tdengine",
     "https://www.linkedin.com/in/morgan-l-frazier",
+    "https://www.linkedin.com/in/davidpatricklundquist",
     "https://www.linkedin.com/in/jhtao",
-    "https://uk.linkedin.com/in/statistics-ziyang-yang/en"
+    "https://www.linkedin.com/in/shanbaphd",
+    "https://uk.linkedin.com/in/statistics-ziyang-yang/en",
+    "https://www.linkedin.com/posts/spotfire_semiconductor-manufacturing-ai-activity-7430619778031038465--sW3"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -685,6 +683,6 @@
   "失敗・落とし穴": "記載なし（読んだ29頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 25,
+ "runs": 26,
  "first_researched_at": "2026-11-05T00:48:20.098134+00:00"
 }

@@ -1,0 +1,516 @@
+{
+ "name": "Solidfi",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜状態なし",
+ "researched_at": "2026-11-11T07:53:03.480994+00:00",
+ "official_url": "https://www.solidfi.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Solidfi Reviews, Pricing & Alternatives (2026) | Market Genius AI",
+    "url": "https://marketgenius.ai/products/solidfi",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise-grade security",
+    "url": "https://marketgenius.ai/products/solidfi",
+    "pass": 3
+   },
+   {
+    "quote": "Provides the foundational architecture to integrate banking services directly into any application or business model, enabling seamless account and ledger management.",
+    "url": "https://marketgenius.ai/products/solidfi",
+    "pass": 3
+   },
+   {
+    "quote": "Payment Processing Solutions",
+    "url": "https://marketgenius.ai/products/solidfi",
+    "pass": 3
+   },
+   {
+    "quote": "Another company owns Solid.. The date and price of the deal are not on record.",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Solidfi - marketgenius.ai — Whether a company is a startup looking to introduce embedded finance or an established institution seeking to modernize its service offerings, Solidfi delivers the tools and compliance frameworks necessary to build and manage high-quality, user-friendly banking products at scale.",
+    "url": "https://marketgenius.ai/products/solidfi",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Solid. Revenue 2023: $23.7M Est.",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue & acquisition",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   },
+   {
+    "quote": "Solid. has not published its revenue. Growjo puts it at about $23.7M a year (December 2023).",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   },
+   {
+    "quote": "Solid. CEO, founders & employees",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   },
+   {
+    "quote": "Arjun Thyagarajan founded Solid. and led it as CEO. Solid. had 180 employees (December 2023, Growjo estimate).",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   },
+   {
+    "quote": "What was Solid.'s revenue?",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates Solid.'s revenue at about",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Solid. have?",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "patrick alexander (@solidfi) / X Bruce R Watkins amphitheater w #TristianGriffinDanceCompany Saturday night performance #maskedanddistant #lewisandclarkview #brushcreek #kcmodance #kcmopublicart done right 1 patrick alexander @solidfi Dec 31, 2016",
+    "url": "https://x.com/solidfi",
+    "pass": 3
+   },
+   {
+    "quote": "#solidfi - Search / X See posts about #solidfi on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/solidfi",
+    "pass": 3
+   },
+   {
+    "quote": "SolidiFi☀️ Support Chat (@SolidFipools) / Posts / X The long awaited dApp BROWSER for SolidiFi Wallet 🔥v1.2 is packed with UI fixes, Mnemonic phrases (24 words) for new wallets, security enhancements as well as a web3 browser.",
+    "url": "https://x.com/SolidFipools",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Solid - LinkedIn Website https://www.solidfi.com Industry Financial Services Company size 51-200 employees Headquarters San Mateo, CA",
+    "url": "https://www.linkedin.com/company/solidfi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Platform Engineer at solidfi.com - Facebook Platform Engineer at solidfi.com",
+    "url": "https://www.facebook.com/Platform-Engineer-at-solidficom-111123644891038/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.solidfi.com/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_bunyaodan/software/015.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/news/press-releases/2026/06/08/japan-forward-deployed-engineer-partner-network/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricksoft.jp/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketgenius.ai/products/solidfi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidifi.com/solidifi-login-page/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidifi.com/leadership-team/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidifi.com/our-offices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://files.solidworks.com/casestudies_eng/pdf/Davis_FurnitureFINAL1.pdf",
+    "status": "network_error:ReadTimeout",
+    "method": "pdf"
+   },
+   {
+    "url": "https://solidifymfg.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/insights/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidworks.com/story/delmiaworks/erp-success/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/solidfi.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/solid",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://incfact.com/company/solidifius-buffalo-ny/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/solidifi",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/solidfi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/solidfi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SolidFipools",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/solidfi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Platform-Engineer-at-solidficom-111123644891038/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/solidfi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/solidfi",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Solidfi 日本 導入",
+   "results": [
+    "https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_bunyaodan/software/015.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
+    "https://www.salesforce.com/jp/news/press-releases/2026/06/08/japan-forward-deployed-engineer-partner-network/",
+    "https://www.ricksoft.jp/case-studies/",
+    "https://protocol.ooo/articles/solid",
+    "https://note.com/ripla_business/n/n695a56ac31c8",
+    "https://socious.io/ja/blog/issb-adoption-tracker/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solidfi 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.solifi.com/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solidfi Japan",
+   "results": [
+    "https://marketgenius.ai/products/solidfi",
+    "https://www.solidifi.com/solidifi-login-page/",
+    "https://www.solidifi.com/leadership-team/",
+    "https://www.solidifi.com/our-offices/",
+    "https://jp.linkedin.com/company/solidifi",
+    "https://www.solidifi.com/solidifi-in-the-community/",
+    "https://www.solidifi.com/valuation-services/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solidfi manufacturing customer case study",
+   "results": [
+    "https://files.solidworks.com/casestudies_eng/pdf/Davis_FurnitureFINAL1.pdf",
+    "https://solidifymfg.com/",
+    "https://www.3ds.com/insights/customer-stories/",
+    "https://www.solidworks.com/story/delmiaworks/erp-success/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.solidifi.com/wp-content/uploads/2025-Fall-Extraordinary_Magazine.pdf",
+    "https://www.solidifi.com/extraordinary-experiences-cultivate-loyal-brand-advocates/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solidfi white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.verkada.com/partners/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://reseller.amazon.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solidfi founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/solidfi.com",
+    "https://indexed.vc/companies/solid",
+    "https://incfact.com/company/solidifius-buffalo-ny/",
+    "https://compworth.com/company/solidifi",
+    "https://rocketreach.co/solidifi-profile_b5c7bce9f42e0d4b",
+    "https://connexy.co/us-company/solidifi-inc/8400464/",
+    "https://www.zoominfo.com/c/solidifi-corp/226246977"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Solidfi",
+   "results": [
+    "https://note.com/sji_heart/n/n86fd953e68e6",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/kanjikotoyori/n/n668ac05cedd1",
+    "https://note.com/manga_memo/n/na6e5a5573684",
+    "https://note.com/yu2025reb/n/nff1f36486216",
+    "https://note.com/chichiluck/n/n451e77aed9ff"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Solidfi",
+   "results": [
+    "https://x.com/solidfi",
+    "https://x.com/hashtag/solidfi",
+    "https://x.com/SolidFipools",
+    "https://x.com/SolidiFiHQ/status/2098389235858395478",
+    "https://x.com/ferdi_solidifi",
+    "https://x.com/SolidiFiLabs",
+    "https://x.com/Solidifi_"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Solidfi",
+   "results": [
+    "https://www.linkedin.com/company/solidfi",
+    "https://ca.linkedin.com/company/solidifi-canada",
+    "https://in.linkedin.com/company/solidefi",
+    "https://in.linkedin.com/company/southwest-financial-services-ltd",
+    "https://ca.linkedin.com/in/jason-smith-b12b7638",
+    "https://www.linkedin.com/company/abstrax-llc",
+    "https://www.linkedin.com/company/solidifi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Solidfi",
+   "results": [
+    "https://www.facebook.com/Platform-Engineer-at-solidficom-111123644891038/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/Solidifi-US-Inc-101854124836685/",
+    "https://www.facebook.com/public/Solidfi-Pricing-Model/",
+    "https://www.facebook.com/solidifi.labs/",
+    "https://www.facebook.com/SolidifiUS/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solidfi note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://www.solidifi.com/leadership-team/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Solidfi X 投稿",
+   "results": [
+    "https://x.com/solidfi",
+    "https://x.com/hashtag/solidfi",
+    "https://www.solidifi.com/solidifi-login-page/",
+    "https://dojin.dmm.co.jp/help/twitter",
+    "https://note.com/aikachan_ai/n/n5bf03e58300f",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://xfolio.jp/portfolio/official/fan_community/49770"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

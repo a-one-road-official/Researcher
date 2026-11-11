@@ -1,0 +1,809 @@
+{
+ "name": "Synthiolabs",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T07:36:28.571891+00:00",
+ "official_url": "https://synthiolabs.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "19-Nov-2025 $5M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Voice AI Proven Where It Matters",
+    "url": "https://synthiolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "by interpreting evidence and nuanced HCP intent",
+    "url": "https://synthiolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "grounded in approved label content",
+    "url": "https://synthiolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "with Veeva, Salesforce, MedInfo systems, knowledge bases, and enterprise CRM stacks",
+    "url": "https://synthiolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides consistent answers",
+    "url": "https://synthiolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Simulates expert-level synthesis, clinical interpretation, and treatment decision frameworks",
+    "url": "https://synthiolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Text, voice, and video interfaces tuned for pharma-grade HCP and patient interactions",
+    "url": "https://synthiolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Knowledge graphs + brand content",
+    "url": "https://synthiolabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Healthcare Entrepreneur | Leader, Investor, Advisor",
+    "url": "https://synthiolabs.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "VC | MD of Springboard Health Angels in Berlin",
+    "url": "https://synthiolabs.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Entrepreneur, Investor, CEO Compile",
+    "url": "https://synthiolabs.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Seeking rapid clinical feedback after ASCO 2025, a global oncology brand deployed Synthio Labs' synthetic HCP personas to generate insights with human-level nuance in under 24 hours while reducing costs by approximately 70%.",
+    "url": "https://synthiolabs.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Supreet Deshpande, CEO",
+    "url": "https://synthiolabs.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We provide AI infrastructure for life sciences to deliver precise, compliant, and empathetic engagement. We bridge the gap between global pharma and their customers, ensuring every HCP and patient interaction is grounded in scientific integrity",
+    "url": "https://synthiolabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our conversational AI works via chat, voice, video, and is grounded in clinical reasoning",
+    "url": "https://synthiolabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We move like owners. Everyone at SynthioLabs has the autonomy and the responsibility to drive projects, challenge decisions, and push things forward. We don’t wait for permission. If you see a gap, you fill it. If you see a better way, you try it.",
+    "url": "https://synthiolabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI helps patients navigate care, and helps doctors make better decisions. That means obsessing over safety, accuracy, and empathy without compromising on speed or ambition.",
+    "url": "https://synthiolabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We use AI like a second brain. From writing code to writing docs, debugging flows to exploring new ideas, AI is part of our daily rhythm. Everyone here gets hands-on with the tools, learns how to prompt better, and treats AI as a teammate.",
+    "url": "https://synthiolabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our team combines 25+ years of life sciences expertise with founders, engineers, and designers who previously built frontier LLMs. We architect accurate and natural conversations because it’s our responsibility to the patients and doctors who depend on it.",
+    "url": "https://synthiolabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "SynthioLabs Seller Profile | AWS Marketplace",
+    "url": "https://aws.amazon.com/marketplace/seller-profile?id=seller-teaxgoqe573yq",
+    "pass": 3
+   },
+   {
+    "quote": "Account-Based Marketing Software",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs is an Account-Based Marketing Software company based in San Francisco, founded in 2025.",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Browse Account-Based Marketing Software",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "All Account-Based Marketing Software companies, ranked",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing Automation Software",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Natural Language Processing (NLP) Software",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Best Marketing Software",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of clinical-grade voice and artificial intelligence platforms designed to improve pharmaceutical customer engagement through real-time access to compliant, evidence-based information.",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Systems (Healthcare)",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "01-Apr-2025",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "Is SynthioLabs a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Pharma’s Best Teams",
+    "url": "https://synthiolabs.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "AI Partner Elevation Capital | 2x Founder (IPO + Acquired)",
+    "url": "https://synthiolabs.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We use AI like a second brain. From writing code to writing docs, debugging flows to exploring new ideas, AI is part of our daily rhythm. Everyone here gets hands-on with the tools, learns how to prompt better, and treats AI as a teammate.",
+    "url": "https://synthiolabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "SynthioLabs Revenue 2025: $770K Est.",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs has not published its revenue. GetLatka estimates it at about $770K a year (September 2025).",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs employees",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs has 7 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is SynthioLabs' revenue?",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates SynthioLabs' revenue at about",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SynthioLabs have?",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs has 25 total employees.",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "What is SynthioLabs’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SynthioLabs is",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI-Powered Customer Engagement for Life Sciences — AI-Powered Customer Engagement for Life Sciences Synthio Labs https://synthiolabs.com",
+    "url": "https://synthiolabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Synthio Labs - LinkedIn — Synthio Labs - LinkedIn LinkedIn https://www.linkedin.com > synthiolabs",
+    "url": "https://www.linkedin.com/company/synthiolabs",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs launches AI Medical Expert for Pharma - LinkedIn — SynthioLabs launches AI Medical Expert for Pharma - LinkedIn LinkedIn https://www.linkedin.com > posts > y-combinator_pharma...",
+    "url": "https://www.linkedin.com/posts/y-combinator_pharma-spends-billions-on-medical-and-sales-activity-7324141352428982272-_qEt",
+    "pass": 3
+   },
+   {
+    "quote": "Jobs at Synthio Labs (P25) | Y Combinator's Work at a Startup — Jobs at Synthio Labs (P25) | Y Combinator's Work at a Startup Y Combinator's Work at a Startup https://www.workatastartup.com > sy...",
+    "url": "https://www.workatastartup.com/companies/synthio-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Why AI Agents for Pharma GTM Just Make Sense - Synthio Labs — Why AI Agents for Pharma GTM Just Make Sense - Synthio Labs Synthio Labs https://synthiolabs.com > blog > why-...",
+    "url": "https://synthiolabs.com/blog/why-ai-agents-for-pharma-gtm-just-make-sense",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs Seller Profile | AWS Marketplace — SynthioLabs Seller Profile | AWS Marketplace Amazon Web Services (AWS) https://aws.amazon.com > seller-profile",
+    "url": "https://aws.amazon.com/marketplace/seller-profile?id=seller-teaxgoqe573yq",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs Revenue 2025: $770K Est. - GetLatka — SynthioLabs Revenue 2025: $770K Est. - GetLatka GetLatka https://getlatka.com > synthiolabs",
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "pass": 3
+   },
+   {
+    "quote": "Announcing Our $5M Seed Fundraise led by Elevation Capital — Announcing Our $5M Seed Fundraise led by Elevation Capital Synthio Labs https://synthiolabs.com > blog",
+    "url": "https://synthiolabs.com/blog/announcing-our-5m-seed-fundraise-led-by-elevation-capital",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs 2026 Company Profile - PitchBook — SynthioLabs 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   },
+   {
+    "quote": "Synthio Labs has raised $5 million in a seed funding round ... — Synthio Labs has raised $5 million in a seed funding round ... Instagram https://www.instagram.com > reel",
+    "url": "https://www.instagram.com/reel/DRRp10cCN-x/",
+    "pass": 3
+   },
+   {
+    "quote": "SynthioLabs - Crunchbase Company Profile & Funding — SynthioLabs - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > synthi...",
+    "url": "https://www.crunchbase.com/organization/synthiolabs",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SynthioLabs has 5 agents: - Jarvis (sales), Ather (doctors ... - X SynthioLabs has 5 agents: - Jarvis (sales), Ather (doctors ... - X X https://x.com > @aliahmadai",
+    "url": "https://x.com/aliahmadai/status/2046919315744539130",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Synthio Labs - LinkedIn Synthio Labs - LinkedIn LinkedIn https://www.linkedin.com > synthiolabs",
+    "url": "https://www.linkedin.com/company/synthiolabs",
+    "pass": 3
+   },
+   {
+    "quote": "Rajashekar Vasantha - SynthioLabs - LinkedIn Rajashekar Vasantha - SynthioLabs - LinkedIn LinkedIn https://www.linkedin.com > rajasheka...",
+    "url": "https://www.linkedin.com/in/rajashekar-v",
+    "pass": 3
+   },
+   {
+    "quote": "Sahitya Sridhar - Co-Founder @ SynthioLabs (Y Combinator) Sahitya Sridhar - Co-Founder @ SynthioLabs (Y Combinator) LinkedIn https://www.linkedin.com > sahitya-sr...",
+    "url": "https://www.linkedin.com/in/sahitya-sridhar",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Life sciences-focussed AI startup Synthio Labs has raised $5 ... Life sciences-focussed AI startup Synthio Labs has raised $5 ... Facebook https://www.facebook.com > Inc42 > posts > life-sciences-...",
+    "url": "https://www.facebook.com/Inc42/posts/life-sciences-focussed-ai-startup-synthio-labs-has-raised-5-mn-around-inr-442-cr/1405672254490226/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://synthiolabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthiolabs.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthiolabs.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gqjapan.jp/article/20261107-cybertruck-dead-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bms.com/jp/researchers-and-partners/in-the-pipeline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://international.rhythmtx.com/ja/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3901",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://products.sint.co.jp/siob/price/distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/synthiolabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_pharma-spends-billions-on-medical-and-sales-activity-7324141352428982272-_qEt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.biolabs.io/biolabs-tokyo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJFONq0q1e0hbNkPVK9LEHBbO-kSZyjV1NP4nCvkm8mXAEiIKKK",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aws.amazon.com/marketplace/seller-profile?id=seller-teaxgoqe573yq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vida.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/blog/white-label-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/synthiolabs.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/803113-57",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DRRp10cCN-x/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aliahmadai/status/2046919315744539130",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/synthiolabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rajashekar-v",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sahitya-sridhar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Inc42/posts/life-sciences-focussed-ai-startup-synthio-labs-has-raised-5-mn-around-inr-442-cr/1405672254490226/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Synthiolabs 日本 導入",
+   "results": [
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.gqjapan.jp/article/20261107-cybertruck-dead-news",
+    "https://www.bms.com/jp/researchers-and-partners/in-the-pipeline.html",
+    "https://international.rhythmtx.com/ja/news",
+    "https://www.appliedintuition.com/ja/blog/inside-stellantis-applied-intuition-vehicle-os-partnership",
+    "https://www.shionogi.com/jp/ja/innovation/pipeline.html",
+    "https://sambanova.ai/ja/press",
+    "https://autobild.jp/55364/",
+    "https://app.deskrex.ai/discover/database/cmduxxgza001vzgt1oxioo3xu/entity/cmduygj8l007ky410azczszgz",
+    "https://startuply.vc/startup/synthiolabs-3mvl8a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Synthiolabs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://synthiolabs.com/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3901",
+    "https://products.sint.co.jp/siob/price/distributor",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.bioproscientific.io/ja/distributors",
+    "https://www.swtoo.com/ziflow/solution/agencies/",
+    "https://lifescience.toyobo.co.jp/user_data/dairiten.php",
+    "https://formlabs.com/jp/company/partners/",
+    "https://www.cosmobio.co.jp/ir/press/20150122_1.asp",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Synthiolabs Japan",
+   "results": [
+    "https://synthiolabs.com/",
+    "https://www.linkedin.com/company/synthiolabs",
+    "https://www.linkedin.com/posts/y-combinator_pharma-spends-billions-on-medical-and-sales-activity-7324141352428982272-_qEt",
+    "https://www.biolabs.io/biolabs-tokyo",
+    "https://www.workatastartup.com/companies/synthio-labs",
+    "https://investor.incyte.com/news-releases/news-release-details/incyte-japan-announces-approval-zynyzr-retifanlimab-first-line/",
+    "https://apps.apple.com/us/developer/synthiolabs/id1841539081",
+    "https://www.businesswire.com/news/home/20251119509940/en/Synthio-Labs-Raises-%245-Million-to-Build-the-Voice-AI-Operating-System-for-Life-Sciences-Customer-Engagement",
+    "https://sola-bio.com/sola-bio-japan/",
+    "https://app.synthiolabs.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Synthiolabs manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJFONq0q1e0hbNkPVK9LEHBbO-kSZyjV1NP4nCvkm8mXAEiIKKK",
+    "https://c3.ai/customers",
+    "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "https://synthiolabs.com/blog/why-ai-agents-for-pharma-gtm-just-make-sense",
+    "https://f7i.ai/case-studies",
+    "https://www.simio.com/blog/5-important-cases-ai-manufacturing",
+    "https://tryleverage.ai/case-study-manufacturing",
+    "https://www.linkedin.com/in/aman-madhukar",
+    "https://customer.io/learn/case-studies",
+    "https://synthiolabs.com/customers2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Synthiolabs white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://aws.amazon.com/marketplace/seller-profile?id=seller-teaxgoqe573yq",
+    "https://vida.io/partners",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.e2msolutions.com/ai-service-reseller-partner/",
+    "https://wolfbot.ai/partners",
+    "https://synthiolabs.com/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://sistava.com/en/ai-reseller-program",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Synthiolabs founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/synthiolabs.com",
+    "https://synthiolabs.com/blog/announcing-our-5m-seed-fundraise-led-by-elevation-capital",
+    "https://pitchbook.com/profiles/company/803113-57",
+    "https://www.instagram.com/reel/DRRp10cCN-x/",
+    "https://www.crunchbase.com/organization/synthiolabs",
+    "https://tracxn.com/d/companies/synthiolabs/__VYZWCE3EsGItthGrXgTbw_D0udSTnHDa_SzNjvXUBUg",
+    "https://getlatka.com/companies/913.ai/vs/synthiolabs.com",
+    "https://www.businesswire.com/news/home/20251119509940/en/Synthio-Labs-Raises-%245-Million-to-Build-the-Voice-AI-Operating-System-for-Life-Sciences-Customer-Engagement",
+    "https://www.linkedin.com/posts/flookupmb_synthiolabs-fundingupdate-seedround-activity-7396818508560596992-RbMp",
+    "https://fundediq.co/synthiolabs-synthiolabs-com-funding/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Synthiolabs",
+   "results": [
+    "https://note.com/fvmedia/n/n199c23c1798f"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:x.com Synthiolabs",
+   "results": [
+    "https://x.com/aliahmadai/status/2046919315744539130",
+    "https://x.com/ElevCap",
+    "https://x.com/pioneer_fund",
+    "https://x.com/wearetonik",
+    "https://x.com/SynthioLabs/status/2070561977169232049",
+    "https://x.com/iamsupreetd",
+    "https://x.com/SynthioLabs/status/2026734950565937387",
+    "https://x.com/SynthioLabs/status/2066550490331316615",
+    "https://x.com/SynthioLabs/status/2118051972490346648",
+    "https://x.com/SynthioLabs/status/2104619869979435406"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com Synthiolabs",
+   "results": [
+    "https://www.linkedin.com/company/synthiolabs",
+    "https://www.linkedin.com/in/rajashekar-v",
+    "https://www.linkedin.com/in/sahitya-sridhar",
+    "https://www.linkedin.com/in/aman-madhukar",
+    "https://www.linkedin.com/posts/y-combinator_pharma-spends-billions-on-medical-and-sales-activity-7324141352428982272-_qEt",
+    "https://www.linkedin.com/in/supreetdeshpande",
+    "https://www.linkedin.com/posts/synthiolabs_leadership-digitalhealth-venture-activity-7385672338136014848-_T5b",
+    "https://in.linkedin.com/in/parulpathakkk",
+    "https://www.linkedin.com/posts/mayankkhanduja_voice-ai-in-pharmalife-sciences-is-not-just-activity-7366046277970653185-y-u3",
+    "https://in.linkedin.com/in/aniket-pokle"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Synthiolabs",
+   "results": [
+    "https://www.facebook.com/cnbctv18india/videos/everyone-talks-about-ai-discovering-the-next-blockbuster-drug-few-are-talking-a/1013693237717987/",
+    "https://www.facebook.com/Inc42/posts/life-sciences-focussed-ai-startup-synthio-labs-has-raised-5-mn-around-inr-442-cr/1405672254490226/",
+    "https://www.facebook.com/Inc42/posts/-graph-ai-services-raises-133-mn-to-take-its-ai-powered-pharma-safety-platform-g/1650248166699299/",
+    "https://www.facebook.com/businessinsider/posts/synthesia-just-raised-a-200-million-series-e-funding-round-and-is-now-valued-at-/1261636692501279/",
+    "https://www.facebook.com/EntrepreneurInd/posts/confido-health-has-raised-125-million-in-a-series-a-extension-led-by-z47-with-pa/1422899726643064/",
+    "https://www.facebook.com/yourstorycom/posts/cent-has-raised-15-million-in-a-series-a-round-led-by-blume-ventures-and-existin/1624010826427552/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/SynthForgeLabs/",
+    "https://www.facebook.com/vananh.hoang.92102/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Synthiolabs note 社長",
+   "results": [
+    "https://www.facebook.com/gingerapp111/posts/note%E5%A7%8B%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E9%A0%86%E6%AC%A1%E3%83%96%E3%83%AD%E3%82%B0%E3%81%8B%E3%82%89note%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%99ceo%E3%83%8E%E3%83%BC%E3%83%88%E6%97%A7%E7%A4%BE%E9%95%B7%E3%83%96%E3%83%AD%E3%82%B0%E6%9B%B4%E6%96%B0%E8%A1%A8%E3%81%AB%E5%87%BA%E3%81%A6%E3%81%93%E3%81%AA%E3%81%84%E8%A6%8B%E3%81%88%E3%81%AB%E3%81%8F%E3%81%84%E4%BB%95%E4%BA%8B%E3%81%A3%E3%81%A6%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%81%AD1%E5%88%86%E3%81%A7%E8%AA%AD%E3%82%81%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%AE%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF/1668959115021754/",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/fvmedia/n/n199c23c1798f",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.jp/n/n56b48da27f29",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.com/yoheionishi_ine",
+    "https://startuply.vc/startup/synthiolabs-3mvl8a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Synthiolabs X 投稿",
+   "results": [
+    "https://synthiolabs.com/",
+    "https://x.com/celestiallysin",
+    "https://www.youtube.com/watch?v=mxuaoUg8zbA",
+    "https://synthiolabs.com/safety",
+    "https://www.syntheticsoulsx.com/",
+    "https://symfony.com/blog/making-sensiolabs-connect-more-inclusive",
+    "https://sensiolabs.com/",
+    "https://dev.to/sensiolabs",
+    "https://www.youtube.com/@sensiolabs9618",
+    "https://x.com/SynthioLabs"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

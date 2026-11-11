@@ -1,0 +1,1420 @@
+{
+ "name": "Rollstack",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T07:47:33.124988+00:00",
+ "official_url": "https://www.rollstack.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "Plans for Every Team and Scale | Rollstack",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "04-May-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/513066-61",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "01-Apr-2022 $125K $125K  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/513066-61",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Rollstack connects to a Tableau dashboard and a Snowflake warehouse, Rollstack's agents draft a quarterly business review from a prompt with the live data in it, then Rollstack creates and delivers a tailored deck for each of 248 clients.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rollstack's data agents analyze the data you already trust, from dashboards and warehouses to spreadsheets.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared for Brightline Retail · October 2026",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Confidential · Prepared for {client_name} by Norhaven",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explain what drove Q3 net retention",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mapped 9 approved metrics",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared for Wrenmere Health · October 2026",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared for Talus Partners · October 2026",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared for Oakridge Insurance · October 2026",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared for Juniper Foods · October 2026",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared for Vantage Media · October 2026",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared for Corrie Capital · October 2026",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared for Atlas Freight · October 2026",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared for Fenmore Hotels · October 2026",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared for Wren Telecom · October 2026",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared for Calder Pharma · October 2026",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepared for Hollis Education · October 2026",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rollstack's agents create and refresh the right deck for every audience, on demand or on schedule, with your connections, templates, lineage and approvals built in.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell Rollstack what you need to report. Data agents work across your trusted data and instructions to find relevant figures, identify what changed, and create slides and takeaways your leadership actually reads.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build and edit presentations in Rollstack's AI-native slides platform. Start with your company's templates, create charts, visualizations, analysis and slides with AI. Make edits live in the slides editor and shape the final story in your own or your company's style.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn any approved report into tailored decks for every client, team, region or brand. Refresh and deliver them on demand or on schedule, with the same vetted data logic applied consistently to every variant.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See the logic behind every number, where it came from and how it was calculated. The same approved logic is applied consistently at every refresh. Keep a clear trail from source data to final slide. Teams self-serve from the consensus and the central source of truth.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your permissions and approvals on every slide, SOC 2 Type II audited.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give every client, partner and practice their own review.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Close, report and present from one set of numbers.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Net revenue rose 10% to $124M on deposit growth, and the NPL ratio improved to 0.9% as early-arrears outreach reached every region.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Figures come from BI, the CRM and spreadsheets, and are pasted in by hand.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Committee packs, risk and liquidity reports and client reviews refresh from governed data in approved templates, and each builder sees only the data your BI tool allows.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Arrears fell to 1.8% as the early-contact program reached 9,300 customers, and expected credit loss dropped $8M.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Investor presentation",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "We had a powerful data stack, but the last mile, getting our insights into the decision-maker’s hands, was still a manual process. Rollstack gave us the critical bridge to ensure our world-class analysis and insights made it into the decks where decisions were being made.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Private equity and venture capital",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Rollstack is SOC 2 Type II audited and GDPR compliant, with SSO, AES-256 encryption and a published sub-processor list. Request the SOC 2 report from our trust center.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Volume rose 12% as tap to pay reached all 310 stores, and approvals climbed to 96.8% after smart retries went live in August.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Build marketing reviews for leadership and channel reports for every region and brand from the same templates, refreshed each cycle from your channel data.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Rollstack for Marketing",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Quarterly marketing review",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Pipeline from marketing",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing-sourced pipeline",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "How Tripadvisor saved each finance analyst 10 hours a week on business review prep",
+    "url": "https://www.rollstack.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Coolblue scaled reliable weekly reporting across every product category",
+    "url": "https://www.rollstack.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Media, advertising and digital platforms",
+    "url": "https://www.rollstack.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Equality Health scaled monthly reviews to 800+ practices without adding headcount",
+    "url": "https://www.rollstack.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing: Plans for Every Team and Scale | Rollstack",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible pricing for your needs",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re a startup or a large enterprise, there’s a Rollstack plan built for your team.",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced enterprise features and volume discounts",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Premium, plus:",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Premier support and dedicated CSM",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On-prem BI and VPN support",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "With Rollstack, our analysts are now able to focus on building narratives. Rollstack enabled us to shift our efforts from data preparation to analyzing its implication and answering crucial ‘so what’ questions for our clients.",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A destination refers to either a presentation or a document. A connection is Rollstack's access to a platform it gets visualizations and data from. For example: Tableau, Looker, Metabase, etc.",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do you work with enterprise-grade infrastructure?",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely, Rollstack offers Enterprise-grade infrastructure and security standards. From SOC 2 Type II compliance to AES-256 encryption, Rollstack's team and product come from the Enterprise and are built for it.",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We had a powerful data stack, but the last mile—getting our insights into the decision-maker’s hands—was still a manual process. Rollstack gave us the critical bridge to ensure our world-class analysis and insights made it into the decks where decisions were being made.",
+    "url": "https://www.rollstack.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "in data reporting. Despite a robust data infrastructure, getting insights into executive presentations where decisions are actually made was a painful, manual process.",
+    "url": "https://www.rollstack.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "The built-in synchronization between Google Sheets and Google Slides was unreliable, compromising the integrity of the final presentation.",
+    "url": "https://www.rollstack.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "This manual effort prevented finance and BI teams from fulfilling their strategic mission of analyzing insights and driving conclusions from the data.",
+    "url": "https://www.rollstack.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "SoFi sought a solution that could bridge the gap between their BI tools and the presentation layer. Rollstack proved to be the \"immediate no-brainer\" they needed.",
+    "url": "https://www.rollstack.com/customers/sofi",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the transfer of data and visualizations into polished Google Slides and PowerPoint presentations.",
+    "url": "https://www.rollstack.com/customers/sofi",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the world's best organizations",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rollstack connects to a Tableau dashboard and a Snowflake warehouse, Rollstack's agents draft a quarterly business review from a prompt with the live data in it, then Rollstack creates and delivers a tailored deck for each of 248 clients.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rollstack's data agents analyze the data you already trust, from dashboards and warehouses to spreadsheets.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your data whether from BI tools, warehouses or spreadsheets.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SAML SSO and SCIM, permissions that follow your BI tools and warehouse down to the row, and an audit log of every change.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's best organizations",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Energy, industrials and manufacturing",
+    "url": "https://www.rollstack.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's best organizations",
+    "url": "https://www.rollstack.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's best organizations",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's best organizations",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Automated reporting for energy and industrials | Rollstack",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Energy, industrials and manufacturing",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's best organizations",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Each plant, operation group or business unit reviews its own numbers on its own clock.",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "energy, industrials and manufacturing",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Operating reviews and site reports for every wind farm, plant and asset, with peer benchmarks each quarter.",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly operations reviews, demand planning decks and account reports, by plant and product line.",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial technology and electronics",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Business reviews and financial performance by product line, region and plant.",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, once that data is in a warehouse or BI tool Rollstack connects to, such as Snowflake, Power BI or Tableau. See",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Bursts split one template by site, plant or region, and each variant fills with that location's data. Change the template once and every site's report follows.",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, if your peer data sits in a sheet, warehouse table or dashboard. Rollstack refreshes the benchmark slides from it each quarter alongside your own numbers.",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Computers and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Rinsed scales QBRs for every customer with Rollstack | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Rinsed scales QBRs for every customer with Rollstack",
+    "url": "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Describe the report you need, and Rollstack builds the deck in your brand from live data.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Media, advertising and agencies",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "media, advertising and agencies",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies and activation platforms",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Net revenue by month ($M)",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Source: Snowflake · FINANCE.REVENUE",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Linked chart · Revenue Dashboard",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tableau · Revenue Dashboard",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build a Q3 business review for each of our clients from the Revenue dashboard",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "On it. I'll build a 12-slide client QBR template from the Revenue Dashboard.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Found the Revenue Dashboard",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Q3 revenue up 10% to $124M as digital adoption hit 91%",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue by month · from Tableau",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Source: Tableau · Revenue Dashboard, synced 9:00 AM",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Snowflake · FINANCE.REVENUE",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue, Q3 FY26",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We mapped our Tableau data to slides once with Rollstack. Now every executive report updates itself. It’s the part of our data stack we didn’t know was missing.",
+    "url": "https://www.rollstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Net revenue by quarter ($M)",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Net revenue rose 10% to $124M on deposit growth, and the NPL ratio improved to 0.9% as early-arrears outreach reached every region.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Arrears fell to 1.8% as the early-contact program reached 9,300 customers, and expected credit loss dropped $8M.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue by quarter ($M)",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue grew 14% as the Tay Valley wind farm came online, lifting EBITDA margin 2.4 pts to 31.0%.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Carry your governed metrics and permissions from the BI layer into every deck the business runs on, and stop fielding screenshot requests.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Q3 revenue and adoption",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue rose 10% to $124M as digital adoption passed 90% after the July 14 mobile relaunch, with EMEA up 14%.",
+    "url": "https://www.rollstack.com/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "With Rollstack, our analysts are now able to focus on building narratives. Rollstack enabled us to shift our efforts from data preparation to analyzing its implication and answering crucial ‘so what’ questions for our clients.",
+    "url": "https://www.rollstack.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We mapped our Tableau data to slides once with Rollstack. Now every executive report updates itself. It’s the part of our data stack we didn’t know was missing.",
+    "url": "https://www.rollstack.com/customers/tripadvisor",
+    "pass": 1
+   },
+   {
+    "quote": "The team successfully flipped the 80/20 time ratio (80% prep, 20% strategy). Account Managers now spend dramatically less time compiling data and significantly more time building narratives, providing actionable analysis, and delivering the crucial next steps to their dealer partners.",
+    "url": "https://www.rollstack.com/customers/cargurus",
+    "pass": 1
+   },
+   {
+    "quote": "Credit Risk is a part of the CFO org and plays a pivotal role in Octopus Energy’s operations. As an energy supplier, most of Octopus’ customers receive energy on credit. Unless they have a prepayment meter, they use energy first and pay the bill afterward. Here’s why credit analytics matters:",
+    "url": "https://www.rollstack.com/customers/octopus-energy",
+    "pass": 1
+   },
+   {
+    "quote": "In one specific instance, the automated reporting highlighted a spike in return rates for large-screen televisions. Because this insight was delivered in a timely fashion, the category manager identified the root cause and was able to quickly implement a long-term revenue saving solution.",
+    "url": "https://www.rollstack.com/customers/coolblue",
+    "pass": 1
+   },
+   {
+    "quote": "Refocusing Efforts on Insights: By reducing time spent on repetitive tasks, the team wanted to prioritize crafting impactful narratives and strategic insights for clients.",
+    "url": "https://www.rollstack.com/customers/relevate-health",
+    "pass": 1
+   },
+   {
+    "quote": "Supporting narratives for graphs and charts can be generated automatically in the Rollstack platform.",
+    "url": "https://www.rollstack.com/customers/equality-health",
+    "pass": 1
+   },
+   {
+    "quote": "Ad revenue and yield reports",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Streaming video drove 61% of fiber sign-ups at half the cost per acquisition of display.",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Keep revenue reports current from your data.",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Content partners get monthly viewing, audience and revenue-share reports for their own titles, refreshed each month.",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Weekly revenue report",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Ad revenue by channel",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Streaming ad revenue by week ($M)",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Streaming out-earned linear for a fourth straight week at 52% of ad revenue, led by live sports inventory.",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Northeast reach grew 24% once streaming carried the fiber launch, with frequency held near four.",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Viewing rose 16% after the slate joined the free streaming tier, lifting this month's revenue share to $184K.",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "With Rollstack, our analysts are now able to focus on building narratives. Rollstack enabled us to shift our efforts from data preparation to analyzing its implication and answering crucial ‘so what’ questions for our clients.",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Artist, label and content partner reports on streams, audiences and revenue, for every partner.",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue by quarter ($M)",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue grew 14% as the Tay Valley wind farm came online, lifting EBITDA margin 2.4 pts to 31.0%.",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Carry your governed metrics and permissions from the BI layer into every deck the business runs on, and stop fielding screenshot requests.",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Q3 revenue and adoption",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue rose 10% to $124M as digital adoption passed 90% after the July 14 mobile relaunch, with EMEA up 14%.",
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "pass": 1
+   },
+   {
+    "quote": "Generation revenue by quarter ($M)",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Customers in arrears by month (K)",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Arrears fell 6% to 18,300 customers as 1,000 more moved onto payment plans, and average debt dropped $18.",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue by quarter ($M)",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue grew 14% as the Tay Valley wind farm came online, lifting EBITDA margin 2.4 pts to 31.0%.",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Carry your governed metrics and permissions from the BI layer into every deck the business runs on, and stop fielding screenshot requests.",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Q3 revenue and adoption",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue rose 10% to $124M as digital adoption passed 90% after the July 14 mobile relaunch, with EMEA up 14%.",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We mapped our Tableau data to slides once with Rollstack. Now every executive report updates itself. It’s the part of our data stack we didn’t know was missing.",
+    "url": "https://www.rollstack.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "With Rollstack, our analysts are now able to focus on building narratives. Rollstack enabled us to shift our efforts from data preparation to analyzing its implication and answering crucial ‘so what’ questions for our clients.",
+    "url": "https://www.rollstack.com/customers/the-orchard",
+    "pass": 1
+   },
+   {
+    "quote": "for serving nearly 1k employees and over 10k clients.",
+    "url": "https://www.rollstack.com/customers/the-orchard",
+    "pass": 1
+   },
+   {
+    "quote": "Rollstackは、成長企業から「大規模な公開上場企業までの企業を含む顧客基盤が月間50%増加している」と主張しています",
+    "url": "https://eletsu.jp/5711/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/513066-61",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstack has 11 total employees.",
+    "url": "https://pitchbook.com/profiles/company/513066-61",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rollstack’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/513066-61",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "On the schedule you set, by email or in a shared drive, as PowerPoint or Google Slides. Site managers don't need to open a BI tool to read them.",
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/513066-61",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【一瞬で報告書が完成！】Rollstackがデータを自動的に同期する画期的... — Oct 2, 2023 · Rollstackは、成長企業から「大規模な公開上場企業までの企業を含む顧客基盤が月間50%増加している」と主張しています。 Nabilは収益やバーンレートについて開示しなかったが、Rollstackは2024年第1四半期までに7人のチームを倍増させる計画だと述べています。",
+    "url": "https://eletsu.jp/5711/",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstack | AI Slides for Business Reporting — Rollstack’s agentic platform creates polished slide decks on demand, refreshed every cycle, and tailored for every team, client and board, with numbers you can trust.",
+    "url": "https://www.rollstack.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstackで報告資料を回す4工程｜AIの要点は人が確かめる — Rollstack は、スタートアップの育成で知られる米国のYコンビネーターの2023年冬の期の出身で、拠点はニューヨークです。 同社の会社ページによれば、2023年の創業で、従業員は約30人、創業者の2人が最高経営責任者と最高製品責任者を務めています。",
+    "url": "https://debono.co.jp/media/rollstack-hokoku-shiryo-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Press and news | Rollstack — Read Rollstack press releases and partnership announcements. Rollstack (YC W23) has raised $11 million in Series A funding to automate data-driven slide decks and documents using AI.",
+    "url": "https://www.rollstack.com/press",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstackの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Insight Partners、Goodwater Capital、Y Combinatorのポートフォリオに掲載される海外スタートアップRollstackの企業プロフィール。Rollstack（Rollstack Inc.）は、ビジネスインテリジェンス（BI）ツールとプレゼンテーション資料および業務ドキュメン...",
+    "url": "https://www.firstcvc.jp/global/rollstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "Careers: Open Roles | Rollstack — Join Rollstack and help build the AI presentation platform that turns trusted data into the presentations leaders decide from. See our open roles.",
+    "url": "https://www.rollstack.com/careers",
+    "pass": 3
+   },
+   {
+    "quote": "Press and news | Rollstack — Read Rollstack press releases and partnership announcements.",
+    "url": "https://www.rollstack.com/press",
+    "pass": 3
+   },
+   {
+    "quote": "RollStack — Bulk Toilet Paper Delivered to Your Door — Save money, skip store runs, and keep your home stocked with premium bulk packs. Free shipping. Subscribe & save 15%.",
+    "url": "https://rollstack.shop/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories: AI Reporting at Scale | Rollstack — Customers Leading organizations use Rollstack to automate reporting, eliminate manual work and deliver executive-level analyses at scale.",
+    "url": "https://www.rollstack.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstack B2B Case Studies & Customer Successes — Rollstack maps leading business intelligence tools like Tableau and Looker, to PowerPoint, Word, and Google Slides for automated report generation and distribution. Build reports in minutes, replacing days and weeks of manual work. Distribute the reports to your clients and stakeholders automatically via scheduled email distribution.",
+    "url": "https://www.casestudies.com/company/rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Rinsed scales QBRs for every customer with Rollstack — Rinsed delivers QBRs to 100% of customers with Rollstack Rinsed, a CRM and software platform for car washes, faced a significant challenge in scaling its Quarterly Business Reviews (QBRs). The process of manually pulling data from sources like Metabase to build presentations in Google Slides was a massive resource drain, taking a w",
+    "url": "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "Customer success reporting and QBR automation | Rollstack — Customer success reporting, automated: build one QBR template and send every client a tailored, on-brand review, refreshed each cycle from your BI tools.",
+    "url": "https://www.rollstack.com/customer-success",
+    "pass": 3
+   },
+   {
+    "quote": "The importance of case studies with Rollstack — May 19, 2023 · Rollstack works perfectly for number 2. In almost every use case laid out above, Rollstack has a notable presence at meetings with non-Rollstack users. That said, there are a couple of things they could do to help their cause. First, I’d add more flexibility to their free version.",
+    "url": "https://upandtotheright.substack.com/p/the-importance-of-case-studies-with",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstack – Revenue, Valuation & Top Competitors – 2026 — Rollstack is an industry name backed by estimated revenue of $1.7M, team of around 20+ employees, from New York City, with plans for future expansion.",
+    "url": "https://compworth.com/company/rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstack 2026 Company Profile: Valuation, Funding ...Rollstack - 2025 Company Profile, Team, Funding & Competitors ...Rollstack Revenue 2024: $2M Est. ARR - getlatka.comRollstack - Crunchbase Company Profile & FundingRollstack — Company Profile | The Company CheckRollstack Found a $13 Million Business Hiding Between the — Rollstack FAQs When was Rollstack founded? Rollstack was founded in 2022. W",
+    "url": "https://pitchbook.com/profiles/company/513066-61",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstack - 2025 Company Profile, Team, Funding & Competitors ...Rollstack Revenue 2024: $2M Est. ARR - getlatka.comRollstack - Crunchbase Company Profile & FundingRollstack — Company Profile | The Company CheckRollstack Found a $13 Million Business Hiding Between the — Jul 31, 2025 · Rollstack is a series A company based in New York City (United States), founded in 2022 by Saad Bahir, Younes Jall",
+    "url": "https://tracxn.com/d/companies/rollstack/__NEWRz8gCLATKKb16Q0jjV5jZ-8VgTwzK4lZ5qj8BIXY",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstack Revenue 2024: $2M Est. ARR - getlatka.com — Sep 2, 2026 · Rollstack 2024 estimated revenue: $2M ARR. 13 employees. Industry: Team Collaboration Software. Founded 2022. HQ: United States Updated Sep 2, 2026.",
+    "url": "https://getlatka.com/companies/rollstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstack - Crunchbase Company Profile & FundingRollstack — Company Profile | The Company CheckRollstack Found a $13 Million Business Hiding Between the — Rollstack automatically generates and updates slide decks and documents reports using data from various sources, including Business Intelligence (BI) tools, CRMs, and data warehouses. Fortune 500 and mid-sized companies use Rollstack to automate",
+    "url": "https://www.crunchbase.com/organization/rollstack",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Y Combinator on X: \"Congrats to the team @Rollstack (YC W23 ... Congrats to the team @Rollstack (YC W23) on the $1.9M seed! Rollstack automatically creates and updates slide decks and documents using Business Intelligence (BI) tools, CRM, and data warehouses.",
+    "url": "https://x.com/ycombinator/status/1707063201496768799",
+    "pass": 3
+   },
+   {
+    "quote": "Nathan Corliss (@MrNathanCorliss) / X Nathan Corliss @MrNathanCorliss Apr 17, 2025 “How SoFi Automates PowerPoint Reports with Tableau and Rollstack” — Thursday, 10:30 AM, Stage 2 in the Content Pavillion at #TC25 Reserve your seat in the Salesforce Events app Agenda Builder: lnkd.in/gaAiSxbf #TableauConference #DataFam 1 1 5",
+    "url": "https://x.com/MrNathanCorliss",
+    "pass": 3
+   },
+   {
+    "quote": "@Rollstack | X The latest posts from @Rollstack",
+    "url": "https://x.com/Rollstack",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Rollstack - LinkedIn Rollstack | 8,000 followers on LinkedIn. The agentic reporting platform. Analyze, present and scale every report from your trusted data, all in one place. | Rollstack is the agentic reporting ...",
+    "url": "https://www.linkedin.com/company/rollstack",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstack - LinkedIn Rollstack | Rollstack automates slide decks and document reporting using AI and data integrations. Leading organizations like SoFi and Whirlpool use Rollstack to automate leadership reporting ...",
+    "url": "https://www.linkedin.com/products/rollstack/",
+    "pass": 3
+   },
+   {
+    "quote": "Elliot Gunn - Product Marketing Manager at Rollstack | LinkedInNabil Jallouli - Rollstack | LinkedInYounes Jallouli - CPO & Co-Founder at Rollstack | LinkedInSaad Bahir - CTO @ Rollstack | YC | LinkedInRollstack Jobs in United States (6,000+ Open Roles) | LinkedIn Product Marketing Manager at Rollstack · I’m a Technical Product Marketer who specializes in developer tooling and the modern data stac",
+    "url": "https://ca.linkedin.com/in/elliotgunn",
+    "pass": 3
+   },
+   {
+    "quote": "Nabil Jallouli - Rollstack | LinkedInYounes Jallouli - CPO & Co-Founder at Rollstack | LinkedInSaad Bahir - CTO @ Rollstack | YC | LinkedInRollstack Jobs in United States (6,000+ Open Roles) | LinkedIn Solving the last mile problem in the modern data stack. · Experience: Rollstack · Education: Y Combinator · Location: United States · 500+ connections on LinkedIn. View Nabil Jallouli’s ... CPO & Co",
+    "url": "https://www.linkedin.com/in/nabil-jallouli",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Rollstack | New York NY - Facebook Oct 2, 2023 · Rollstack is in San Francisco Bay Area. New Year! 🌟 Big Announcements! 🎉 Rollstack is honored to announce its backing by Y Combinator, which backed the likes of Airbnb, Coinbase, Cruise, DoorDash, Dropbox, Reddit, Stripe, and Twitch, to name a few.",
+    "url": "https://www.facebook.com/p/Rollstack-100088815979126/",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstack | New York NY - Facebook Oct 2, 2023 · Rollstack is honored to announce its backing by Y Combinator, which backed the likes of Airbnb, Coinbase, Cruise, DoorDash, Dropbox, Reddit, Stripe, and Twitch, to name a few. This is an additional step towards realizing Rollstack’s vision of automating the manual tasks professionals currently spend building slides and documents.",
+    "url": "https://www.facebook.com/people/Rollstack/100088815979126/",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstack, headquartered in New York City, announced $11 ... Dec 20, 2024 · Rollstack, headquartered in New York City, announced $11 million in Series A | \"Rollstack already automates more than 80% of our users' workflows, and we are on a path to 100%,\" says Nabil Jallouli, CEO of Rollstack.",
+    "url": "https://www.facebook.com/colaeb/videos/rollstack-headquartered-in-new-york-city-announced-11-million-in-series-a/3571347759676448/",
+    "pass": 3
+   },
+   {
+    "quote": "Rollstack - Why BI tools aren't making you data informed ... Why BI tools aren't making you data informed! #businessintelligence #Data #datascience #dataanalytics #slides #presentation #Documents #productivity",
+    "url": "https://www.facebook.com/100088815979126/posts/why-bi-tools-arent-making-you-data-informed-businessintelligence-data-datascienc/120837690886763/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rollstack.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/customers/sofi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/customers/tripadvisor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/customers/cargurus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/customers/octopus-energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/customers/coolblue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/customers/relevate-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/customers/channelsight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/customers/equality-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/media-advertising-and-digital-platforms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/energy-industrials-and-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rollstack.com/customers/the-orchard",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rollstack.com/logos/ink/troweprice.svg?v=4",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rollstack.com/logos/ink/sofi.svg?v=4",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rollstack.com/logos/ink/monzo.svg?v=4",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rollstack.com/logos/ink/turnrivercapital.svg?v=4",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://eletsu.jp/5711/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://debono.co.jp/media/rollstack-hokoku-shiryo-ai/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexbox.io/store/japan-metallized-rollstock-film-market-analysis-forecast-size-trends-and-insights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.volza.com/p/rollstock-film/export/export-from-japan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/rollstack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/rollstack",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/513066-61",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rollstack/__NEWRz8gCLATKKb16Q0jjV5jZ-8VgTwzK4lZ5qj8BIXY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/rollstack.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ycombinator/status/1707063201496768799",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MrNathanCorliss",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rollstack",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/rollstack/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/elliotgunn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/nabil-jallouli",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Rollstack-100088815979126/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Rollstack/100088815979126/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/colaeb/videos/rollstack-headquartered-in-new-york-city-announced-11-million-in-series-a/3571347759676448/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100088815979126/posts/why-bi-tools-arent-making-you-data-informed-businessintelligence-data-datascienc/120837690886763/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Rollstack",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rollstack 日本 導入",
+   "results": [
+    "https://eletsu.jp/5711/",
+    "https://www.rollstack.com/",
+    "https://debono.co.jp/media/rollstack-hokoku-shiryo-ai/",
+    "https://www.rollstack.com/press",
+    "https://www.firstcvc.jp/global/rollstack.com",
+    "https://eletsu.jp/5672/",
+    "https://ainiche.net/ja/tools/rollstack"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rollstack 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.rollstack.com/careers",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://jpmktg.winbond.com/",
+    "https://www.kroll.com/ja-jp",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://taimen-eigyo.com/words/so-dairiten/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Rollstack Japan",
+   "results": [
+    "https://www.rollstack.com/",
+    "https://www.rollstack.com/press",
+    "https://www.indexbox.io/store/japan-metallized-rollstock-film-market-analysis-forecast-size-trends-and-insights/",
+    "https://www.volza.com/p/rollstock-film/export/export-from-japan/",
+    "https://rollstack.shop/",
+    "http://prsync.com/market-research-update/japan-metallized-rollstock-pp-film-market-forces-transforming-consumer-and-enterprise-landscapes-forecast--to--4937656/",
+    "https://www.takigawa-corp.com/en/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rollstack manufacturing customer case study",
+   "results": [
+    "https://www.rollstack.com/customers",
+    "https://www.casestudies.com/company/rollstack",
+    "https://www.casestudies.com/company/rollstack/case-study/rinsed-delivers-qbrs-to-100-of-customers-with-rollstack",
+    "https://www.rollstack.com/customer-success",
+    "https://upandtotheright.substack.com/p/the-importance-of-case-studies-with",
+    "https://www.featuredcustomers.com/vendor/rollstack",
+    "https://www.featuredcustomers.com/vendor/rollstack/case-studies"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rollstack white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://reolink.com/distributor-reseller/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rollstack founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/rollstack",
+    "https://pitchbook.com/profiles/company/513066-61",
+    "https://tracxn.com/d/companies/rollstack/__NEWRz8gCLATKKb16Q0jjV5jZ-8VgTwzK4lZ5qj8BIXY",
+    "https://getlatka.com/companies/rollstack.com",
+    "https://www.crunchbase.com/organization/rollstack",
+    "https://www.thecompanycheck.com/company/b/rollstack/haafvbamnew7kuhhl",
+    "https://yespress.io/rollstack"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rollstack",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/seigo77",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/natty_toucan386/n/nf4936ae22459",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/masashi3122/n/n6f41b990b137"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rollstack",
+   "results": [
+    "https://x.com/ycombinator/status/1707063201496768799",
+    "https://x.com/MrNathanCorliss",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/TRobinsonNewEra/status/2115942393174167572",
+    "https://x.com/leaked_jp",
+    "https://x.com/Stack_Roll",
+    "https://x.com/AnniesTiddies/status/2120245872898523378"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rollstack",
+   "results": [
+    "https://www.linkedin.com/company/rollstack",
+    "https://www.linkedin.com/products/rollstack/",
+    "https://ca.linkedin.com/in/elliotgunn",
+    "https://www.linkedin.com/in/nabil-jallouli",
+    "https://www.linkedin.com/in/younesjallouli",
+    "https://www.linkedin.com/in/saad-bahir-6919355a",
+    "https://www.linkedin.com/jobs/rollstack-jobs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rollstack",
+   "results": [
+    "https://www.facebook.com/p/Rollstack-100088815979126/",
+    "https://www.facebook.com/people/Rollstack/100088815979126/",
+    "https://www.facebook.com/colaeb/videos/rollstack-headquartered-in-new-york-city-announced-11-million-in-series-a/3571347759676448/",
+    "https://www.facebook.com/100088815979126/posts/why-bi-tools-arent-making-you-data-informed-businessintelligence-data-datascienc/120837690886763/",
+    "https://www.facebook.com/rollnstack/",
+    "https://www.facebook.com/Tableau/posts/tripadvisors-data-team-went-from-hours-of-manual-reporting-to-automated-executiv/1407900588043186/",
+    "https://www.facebook.com/trie.yuliarti/videos/they-say-the-average-person-has-only-had-10-lets-see-how-you-stack-up-drop-your-/1480710324213158/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rollstack note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.rollstack.com/about",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260121536475/",
+    "https://fundediq.co/rollstack-rollstack-com-funding/",
+    "https://www.linkedin.com/in/nabil-jallouli",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rollstack X 投稿",
+   "results": [
+    "https://x.com/Rollstack",
+    "https://www.rollstack.com/",
+    "https://www.docs.rollstack.com/sending",
+    "https://api.rollstack.com/public/docs",
+    "https://docs.rollstack.com/api",
+    "https://docs.rollstack.com/",
+    "https://x.com/felixrieseberg/status/2119925633564463609"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

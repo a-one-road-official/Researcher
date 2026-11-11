@@ -1,0 +1,1304 @@
+{
+ "name": "Serviceup",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-11T07:51:02.762672+00:00",
+ "official_url": "https://serviceup.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$219,000",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$69,500,000",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Campbell, California, United States",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Repair still runs on phone calls, spreadsheets, and days spent waiting on an estimate. Every vehicle you add brings more of it. ServiceUp handles the work in between, so repairs close faster and your team gets back to running the fleet.",
+    "url": "https://www.serviceup.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every repair goes out against your fleet profile and shop preferences, yours, ours, or both. The network adjusts as performance data comes in, so routing gets sharper the longer you run.",
+    "url": "https://www.serviceup.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every estimate line is audited against your pricing, warranty, and maintenance policies before anyone sees it. Flags go up, valid repairs get approved in seconds.",
+    "url": "https://www.serviceup.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Slipping cycle times, cost spikes, and missed SLAs get caught and escalated before a vehicle is stuck out of service. Your team hears about a problem from ServiceUp, not from a driver.",
+    "url": "https://www.serviceup.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Repairs finish sooner because nothing sits waiting on a callback, an approval, or a follow-up.",
+    "url": "https://www.serviceup.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every estimate line runs against your policies. Mispriced work and policy violations get caught before approval, not after the invoice.",
+    "url": "https://www.serviceup.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fleet repair orders routed to your shop, approved before they arrive. More tickets through the bays you already have, without spending a dollar to win the work.",
+    "url": "https://www.serviceup.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Book a time to see it in action. We'll prove the ROI on your fleet.",
+    "url": "https://www.serviceup.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ServiceUp was built to replace fragmented, manual repair processes",
+    "url": "https://www.serviceup.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We built ServiceUp to change that. One platform that centralizes repairs, improves decision-making, and keeps vehicles moving.",
+    "url": "https://www.serviceup.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "President of Field Operations",
+    "url": "https://www.serviceup.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "VP of Marketing & Demand Generation",
+    "url": "https://www.serviceup.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Recruiting",
+    "url": "https://www.serviceup.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents now handle fleet repair intake, shop routing, estimate audits, and approvals, in manual, co-pilot, or autopilot mode.",
+    "url": "https://www.serviceup.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We’re hiring people who want to build modern software for a complex, real-world industry. If you’re excited about solving operational challenges with technology, ServiceUp is a place to do meaningful work.",
+    "url": "https://www.serviceup.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "\"The collaborative spirit, commitment to innovation, and support for professional growth make every day at ServiceUp an exciting journey in shaping the future of auto repair.\"",
+    "url": "https://www.serviceup.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Recruiting",
+    "url": "https://www.serviceup.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“I'm proud to work with a team of smart, down-to-earth people who thrive on collaboration. It's rewarding to build tools that challenge what can be done in the car repair industry.\"",
+    "url": "https://www.serviceup.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "VP of Marketing & Demand Generation",
+    "url": "https://www.serviceup.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents now handle fleet repair intake, shop routing, estimate audits, and approvals, in manual, co-pilot, or autopilot mode.",
+    "url": "https://www.serviceup.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re hiring people who want to build modern software for a complex, real-world industry. If you’re excited about solving operational challenges with technology, ServiceUp is a place to do meaningful work.",
+    "url": "https://www.serviceup.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You are a ServiceUp customer operating in the United States. The partnership is live today, and no separate contract with Stellantis Pro One is required.",
+    "url": "https://www.serviceup.com/blog/serviceup-partners-with-stellantis-pro-one-2-500-dealers-join-the-network",
+    "pass": 1
+   },
+   {
+    "quote": "The vehicle can be any make. Participating dealers stock bProAuto, the Stellantis all-makes-and-models parts line, which frequently lands below aftermarket pricing. A mixed fleet gets dealer-grade technicians and OEM-quality parts without adding a vendor relationship to manage.",
+    "url": "https://www.serviceup.com/blog/serviceup-partners-with-stellantis-pro-one-2-500-dealers-join-the-network",
+    "pass": 1
+   },
+   {
+    "quote": "Dealers show up in your dispatch options alongside the shops you already use, ranked against your fleet profile. You do not maintain a separate dealer list or call around for an opening.",
+    "url": "https://www.serviceup.com/blog/serviceup-partners-with-stellantis-pro-one-2-500-dealers-join-the-network",
+    "pass": 1
+   },
+   {
+    "quote": "Estimates from a dealer are audited against your pricing, warranty, and maintenance policies before they reach you, so warranty-covered line items get flagged rather than quietly paid.",
+    "url": "https://www.serviceup.com/blog/serviceup-partners-with-stellantis-pro-one-2-500-dealers-join-the-network",
+    "pass": 1
+   },
+   {
+    "quote": "Your shop preferences still shape the network. Fleets that bring their own shops keep them; the dealer network sits next to them, not on top of them.",
+    "url": "https://www.serviceup.com/blog/serviceup-partners-with-stellantis-pro-one-2-500-dealers-join-the-network",
+    "pass": 1
+   },
+   {
+    "quote": "ServiceUp is the agentic repair platform for modern fleets. Our agents handle the routing, the estimate review, the approval, and the payment, and that work is now backed by one of the largest franchise dealer networks in the country. If you're on the platform, Stellantis dealers will start appearing in your dispatch options based on your fleet profile. If you're not,",
+    "url": "https://www.serviceup.com/blog/serviceup-partners-with-stellantis-pro-one-2-500-dealers-join-the-network",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Marketing",
+    "url": "https://www.serviceup.com/company/news-press",
+    "pass": 1
+   },
+   {
+    "quote": "April 15, 2026",
+    "url": "https://www.serviceup.com/company/news-press",
+    "pass": 1
+   },
+   {
+    "quote": "ServiceUp, a platform that automates and manages the vehicle repair process, has raised $55 million in a Series B round of funding led by PeakSpan Capital, the company told Crunchbase News.",
+    "url": "https://www.serviceup.com/company/news-press",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents now handle fleet repair intake, shop routing, estimate audits, and approvals, in manual, co-pilot, or autopilot mode.",
+    "url": "https://www.serviceup.com/company/news-press",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Marketing",
+    "url": "https://www.serviceup.com/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents now handle fleet repair intake, shop routing, estimate audits, and approvals, in manual, co-pilot, or autopilot mode.",
+    "url": "https://www.serviceup.com/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "The hidden costs killing fleet operations (video podcast)",
+    "url": "https://www.serviceup.com/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "April 6, 2026",
+    "url": "https://www.serviceup.com/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "Coordination time, approval latency, markup leakage, and rework are where repair spend really leaks. Five metrics and a 120-unit worked example.",
+    "url": "https://www.serviceup.com/company/blogs",
+    "pass": 1
+   },
+   {
+    "quote": "ServiceUp Partners with Stellantis Pro One: 2,500+ Dealers Join the Network",
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Are you a repair provider?",
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Improve repair operations and decrease cycle time over 33%",
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce total repair costs and boost fleet profitability",
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "ServiceUp requires the contact information you provide to reach out regarding our products. You can unsubscribe from these communications at any time. For details on our privacy practices and commitment to safeguarding your privacy, refer to our",
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Control repair spend with streamlined approvals and better shop decisions",
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "ServiceUp is the agentic repair platform for modern fleets. AI Repair Agents automate the entire repair and maintenance process, intake, shop routing, estimate approval, and payment, so fleet teams spend less time coordinating repairs and more time running their fleet.",
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Preference Center",
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Manage Consent Preferences by Category",
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "These items are used to deliver advertising that is more relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and measure the effectiveness of advertising campaigns. Advertising networks usually place them with the website operator’s permission.",
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "These items allow the website to remember choices you make (such as your user name, language, or the region you are in) and provide enhanced, more personal features. For example, a website may provide you with local weather reports or traffic news by storing data about your current location.",
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Confirm my preferences and close",
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Parts, labor, tax, total. The invoice is the most precise document in the whole repair process and the least informative.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "What it does not show is the 40 minutes your coordinator spent on hold, the two days the estimate sat unread, the three line items priced above your matrix that nobody had time to check, or the comeback in six weeks for the same complaint. Those costs are real, they are recurring, and they are measurable. Most fleets simply do not measure them.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "This is the cost of the repair process itself, separate from the cost of the vehicle being off the road. Both matter. This one is the cheaper of the two to fix.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "Every RO (repair order) carries internal touch time: intake, finding a shop, chasing an estimate, relaying an approval, answering a driver, reconciling an invoice. None of it is billed to anyone. All of it is paid.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "notes that coordination problems between shops and fleet managers are a leading cause of repair delays, which means this leak funds the next one.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "The estimate arrives. Someone has to read it, check it against policy and warranty, decide, and tell the shop. Every hour between arrival and answer is an hour the vehicle is parked and the bay is idle. This is the single most controllable number in the whole process and the one fleets track least, because it lives in an inbox rather than a system.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "Approval latency. Median hours from estimate received to estimate approved or rejected. Track the median and the 90th percentile, because the tail is where the damage is.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "Estimate-to-invoice variance. Final invoice minus approved estimate, divided by approved estimate. Report it per shop, as a median and as a 90th percentile.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "First-pass approval rate. Estimates approved without a revision request, divided by all estimates. A low rate means your policy is not reaching the shop before the estimate is written.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "Comeback rate. Repair orders reopened for the same complaint within 30 days, divided by repair orders closed. Anything you cannot attribute to a specific shop is a data problem, not a quality problem.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "Approval latency: say one RO in five sits an extra day and a half waiting on a decision. That is nine ROs and about 13.5 extra vehicle-days a month. Priced at the low end of the published downtime range, $448 per vehicle per day (",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "Leakage: say 6% of line-item value is priced above your agreed terms and none of it gets caught. On $90,000 of spend, $5,400 a month.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Companies of All Sizes",
+    "url": "https://www.serviceup.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Companies of All Sizes",
+    "url": "https://www.serviceup.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The vehicle can be any make. Participating dealers stock bProAuto, the Stellantis all-makes-and-models parts line, which frequently lands below aftermarket pricing. A mixed fleet gets dealer-grade technicians and OEM-quality parts without adding a vendor relationship to manage.",
+    "url": "https://www.serviceup.com/blog/serviceup-partners-with-stellantis-pro-one-2-500-dealers-join-the-network",
+    "pass": 1
+   },
+   {
+    "quote": "\"We built this so that Stellantis vehicles get the repair experience they deserve,\" Carlson says, \"and fleet operators never have to leave ServiceUp to manage it.\"",
+    "url": "https://www.serviceup.com/blog/serviceup-partners-with-stellantis-pro-one-2-500-dealers-join-the-network",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by thousands of shops.",
+    "url": "https://www.serviceup.com/platform/shops",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Clearcover Reduces Repair Cycle Time with ServiceUp | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/serviceup/case-study/clearcover-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Clearcover Reduces Repair Cycle Time with ServiceUp",
+    "url": "https://www.casestudies.com/company/serviceup/case-study/clearcover-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Clearcover - Customer Case Study",
+    "url": "https://www.casestudies.com/company/serviceup/case-study/clearcover-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/serviceup/case-study/clearcover-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/serviceup/case-study/clearcover-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp Case Study: 30,000 Invoices in 3 Months With an AI Billing Agent | LedgerUp",
+    "url": "https://www.ledgerup.ai/case-studies/serviceup",
+    "pass": 3
+   },
+   {
+    "quote": "Tekmetric is a leading automotive repair shop software helping auto repair shops grow their businesses through the relentless pursuit of progress. Tekmetric’s cloud-based shop management software, including a shop management …",
+    "url": "https://www.featuredcustomers.com/vendor/serviceup/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "AutoLeap is a powerful all-in-one auto repair shop software that helps to keep complete track of your business – from scheduling appointments to managing technicians and generating invoices. AutoLeap makes …",
+    "url": "https://www.featuredcustomers.com/vendor/serviceup/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/serviceup/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of automotive repair services intended to revolutionize how auto repair and maintenance are done for consumers and businesses.",
+    "url": "https://pitchbook.com/profiles/company/466818-94",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of automotive repair services intended to revolutionize how auto repair and maintenance are done for consumers and businesses. The company's mobile application allows users to book an online appointment for services such as car diagnostics, brakes, cooling, and body damage repair, enabling customers to seamlessly repair collision or mechanical damage and get back on the road in no time.",
+    "url": "https://pitchbook.com/profiles/company/466818-94",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of automotive repair services intended to revolutionize how auto repair and maintenance are done for consumers",
+    "url": "https://pitchbook.com/profiles/company/466818-94",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp’s primary industry is Automotive.",
+    "url": "https://pitchbook.com/profiles/company/466818-94",
+    "pass": 3
+   },
+   {
+    "quote": "Abacus Employment Services supporting Permanent & Temporary recruitment in the Industrial, Distribution,…",
+    "url": "https://fundediq.co/serviceup-serviceup-com-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every estimate line is audited against your pricing, warranty, and maintenance policies before anyone sees it. Flags go up, valid repairs get approved in seconds.",
+    "url": "https://www.serviceup.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fleet repair orders routed to your shop, approved before they arrive. More tickets through the bays you already have, without spending a dollar to win the work.",
+    "url": "https://www.serviceup.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.serviceup.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Estimates from a dealer are audited against your pricing, warranty, and maintenance policies before they reach you, so warranty-covered line items get flagged rather than quietly paid.",
+    "url": "https://www.serviceup.com/blog/serviceup-partners-with-stellantis-pro-one-2-500-dealers-join-the-network",
+    "pass": 1
+   },
+   {
+    "quote": "Every RO (repair order) carries internal touch time: intake, finding a shop, chasing an estimate, relaying an approval, answering a driver, reconciling an invoice. None of it is billed to anyone. All of it is paid.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "The estimate arrives. Someone has to read it, check it against policy and warranty, decide, and tell the shop. Every hour between arrival and answer is an hour the vehicle is parked and the bay is idle. This is the single most controllable number in the whole process and the one fleets track least, because it lives in an inbox rather than a system.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "A labor rate half a point above the agreed matrix. A shop supplies line that should be capped. A part billed at list when your agreement says list minus fifteen. A repair covered under warranty and billed anyway. Each one is small enough to wave through when you have 40 estimates in a week, and that is exactly why they persist.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "Which pricing rules are actually enforced before an estimate is approved, rather than argued about after the invoice arrives?",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "No. TCO (total cost of ownership) spans acquisition, fuel, insurance, maintenance, and disposal across a vehicle’s life. What is described here is narrower and more immediate: the overhead generated by the repair process itself, which sits inside the maintenance line of TCO and is usually invisible there. You can attack it this quarter without touching your replacement cycle.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "How do I track approval latency if estimates arrive by email?",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "It does if a person does it. The reason fleets skip the audit is that a careful review takes 20 minutes and they have 40 estimates waiting. Rules-based checking against your pricing, warranty, and maintenance policy runs in seconds and escalates only the exceptions, which reverses the tradeoff instead of splitting the difference.",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "ServiceUp is the agentic repair platform for modern fleets. Every estimate is audited against your pricing, warranty, and maintenance policies, overcharges get flagged, valid repairs approve in seconds, and the coordination between intake and payment is handled by agents rather than by your team. Across fleets running on the platform, that shows up as 21% lower repair costs. More at",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "ServiceUp sends fleet repair orders to shops in our network. When a vehicle arrives, you send the estimate through ServiceUp. Everything after that, including updates and payment, is managed through ServiceUp, so you don’t have to call fleet managers or chase invoices.",
+    "url": "https://shops.serviceup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fleet repair orders routed straight to your bays, approved before they arrive. Every added ticket is revenue on overhead you're already paying for. We handle the coordination. You handle the repairs.",
+    "url": "https://www.serviceup.com/platform/shops",
+    "pass": 3
+   },
+   {
+    "quote": "Fleet repairs route to you on location, capability, availability, and how you've performed on past jobs. The vehicle arrives with its history attached.",
+    "url": "https://www.serviceup.com/platform/shops",
+    "pass": 3
+   },
+   {
+    "quote": "Fleet repair orders routed to your shop, approved before they arrive. More tickets through the bays you already have, without spending a dollar to win the work.",
+    "url": "https://www.serviceup.com/platform/shops",
+    "pass": 3
+   },
+   {
+    "quote": "The 80 hours a week of contractor time that AR used to consume moved to other pieces of accounting. Caitlyn got at least 10 hours a week back herself—enough to get back to the gym, leave work on time, and stop carrying the close into her evenings.",
+    "url": "https://www.ledgerup.ai/case-studies/serviceup",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/serviceup/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At ServiceUp",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Director, Global Talent Acquisition",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp is the AI-powered all-in-one platform modernizing vehicle repair and maintenance for fleets and insurance carriers. We’ve built a platform that uses AI automation to streamline the entire repair lifecycle, from pickup to drop-off, removing bottlenecks and keeping operations moving.",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of ServiceUp?",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does ServiceUp have?",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/466818-94",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp has 85 total employees.",
+    "url": "https://pitchbook.com/profiles/company/466818-94",
+    "pass": 3
+   },
+   {
+    "quote": "What is ServiceUp’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/466818-94",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for ServiceUp is",
+    "url": "https://pitchbook.com/profiles/company/466818-94",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does ServiceUp have?",
+    "url": "https://fundediq.co/serviceup-serviceup-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/serviceup-serviceup-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/serviceup-serviceup-com-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "The vehicle can be any make. Participating dealers stock bProAuto, the Stellantis all-makes-and-models parts line, which frequently lands below aftermarket pricing. A mixed fleet gets dealer-grade technicians and OEM-quality parts without adding a vendor relationship to manage.",
+    "url": "https://www.serviceup.com/blog/serviceup-partners-with-stellantis-pro-one-2-500-dealers-join-the-network",
+    "pass": 1
+   },
+   {
+    "quote": "Our Sr Creative Design Lead on the rebrand: a continuous S-U icon, a custom wordmark, and where More Road Time came from.",
+    "url": "https://www.serviceup.com/company/blogs",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "How do I track approval latency if estimates arrive by email?",
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "pass": 1
+   },
+   {
+    "quote": "Your estimate runs against the fleet's policies and comes back approved, or with the exceptions named. No voicemails, no waiting on somebody's inbox.",
+    "url": "https://www.serviceup.com/platform/shops",
+    "pass": 3
+   },
+   {
+    "quote": "A direct line to repair work from fleets, without the sales effort. Repair orders reach you already structured, with the vehicle, the damage, and the approval path sorted. You run the job in one place instead of across email, voicemail, and three different fleet portals.",
+    "url": "https://www.serviceup.com/platform/shops",
+    "pass": 3
+   },
+   {
+    "quote": "Email shopsuccess@serviceup.com and a real person will get back to you.",
+    "url": "https://www.serviceup.com/platform/shops",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/serviceup/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/serviceup/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/466818-94",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the ServiceUp team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/serviceup-serviceup-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/serviceup-serviceup-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "palplat株式会社は、化粧品・美容領域に特化したHRテック事業およびビューティープラットフォームを展開する日本のスタートアップです",
+    "url": "https://www.firstcvc.jp/global/serviceup.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ServiceUp | Fleet Repair and Maintenance Platform — Intake, handoffs, updates, and follow-ups run inside ServiceUp and stay in sync with the systems you already use. Adding vehicles stops meaning adding coordinators.",
+    "url": "https://www.serviceup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUpの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Zipcar、SIXT、Clearcoverなどの大手企業に導入されているほか、2026年8月にはStellantis Pro Oneとの提携により2,500以上の正規ディーラーネットワークを統合するなど、提携基盤を拡大しています。",
+    "url": "https://www.firstcvc.jp/global/serviceup.com",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp | Fleet Repair and Maintenance Platform — ServiceUp automates every repair and maintenance order, from intake to payment, across your existing systems and a shop network built around your fleet. Repair still runs on phone calls, spreadsheets, and days spent waiting on an estimate. Every vehicle you add brings more of it.",
+    "url": "https://www.serviceup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp — ServiceUp provides tools for managing vehicle repair processes, including shop selection, logistics, claims processing, and payments.",
+    "url": "https://shops.serviceup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp - For Shops — ServiceUp partners with auto repair shops, giving them the tools to save time, boost revenue, and get paid within 72 hours through our InstaPay feature.",
+    "url": "https://www.serviceup.com/platform/shops",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp - Custom Built Websites & Apps for You — ServiceUp is your headless site builder engine. Define your content once and instantly spin up matching websites, admin dashboards, and powerful APIs for every client project.",
+    "url": "https://serviceup.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "DSP - serviceup.com — Leverage mobile tire and maintenance support from shops right at your lot. Enter your info below and a ServiceUp account manager will get you started.",
+    "url": "https://www.serviceup.com/dsp",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Clearcover Reduces Repair Cycle Time with ServiceUp — Clearcover partnered with ServiceUp (Computer Software) to solve key challenges. \"Clearcover - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/serviceup/case-study/clearcover-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp B2B Case Studies & Customer Successes — See how ServiceUp solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/serviceup",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp Case Study: 30,000 Invoices in 3 Months With an AI ... — ServiceUp issued 30,000 invoices in 3 months with LedgerUp's AI billing agent, Ari — cutting month-end close from 15 days to 2–3 days, reconciling payments in minutes, and reallocating 80 contractor hours a week.",
+    "url": "https://www.ledgerup.ai/case-studies/serviceup",
+    "pass": 3
+   },
+   {
+    "quote": "3 ServiceUp Case Studies, Success Stories, & Customer Stories — Learn what their customers think, get 3 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/serviceup/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp | Fleet Repair and Maintenance Platform — Slipping cycle times, cost spikes, and missed SLAs get caught and escalated before a vehicle is stuck out of service. Your team hears about a problem from ServiceUp, not from a driver.",
+    "url": "https://www.serviceup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp - 2026 Company Profile, Funding & Investors | The ... — Oct 15, 2026 · ServiceUp is a Transportation, Automotive & Logistics company based in Los Gatos, United States. It has raised $69.5M across 2 funding rounds.",
+    "url": "https://www.thecompanycheck.com/company/b/serviceup/4xkfdj4veiylac9gl",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp Revenue, Funding & Valuation - prospeo.io — ServiceUp has revenue of $19,200,000, estimated valuation of $61,500,000, $69,500,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp 2026 Company Profile: Valuation, Funding ...ServiceUp: Funding, Investors & Team (Nov 2026) | FundedIQServiceUp - 2026 Company Profile, Team, Funding & Competitors ...ServiceUp - Company Profile, Full Acquisitions List, Funding ...ServiceUp: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and executives for ServiceUp. Use the PitchBo",
+    "url": "https://pitchbook.com/profiles/company/466818-94",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp: Funding, Investors & Team (Nov 2026) | FundedIQ — ServiceUp has raised $55.0M across 1 funding round on record, the most recent a Series B of $55.0M announced in Jul 2025. That round is above the $3.0M median round size for Other companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/serviceup-serviceup-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp - 2026 Company Profile, Team, Funding & Competitors ...ServiceUp - Company Profile, Full Acquisitions List, Funding ...ServiceUp: Funding, Team & Investors | Startup Intros — Mar 14, 2026 · ServiceUp is a series B company based in Los Gatos (United States), founded in 2020 by Brett Carlson and Brett Dashe. It operates as a Provider of car engine repairing and maintenance and replacement ",
+    "url": "https://tracxn.com/d/companies/serviceup/__wbMixONYI4YAXbZOGH2c3QXbr1Bnx4U2SGFkU_h64KQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ServiceUp (@ServiceUpAuto) / Posts / X We've just launched ServiceUp for Fleets! Whether you own or manage a fleet of 5 cars or 500 cars, ServiceUp for Fleets maximizes efficiency, increases transparency and lets you handle all fleet repairs with a single vendor.",
+    "url": "https://x.com/ServiceUpAuto",
+    "pass": 3
+   },
+   {
+    "quote": "#serviceup - Search / X See posts about #serviceup on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/ServiceUp",
+    "pass": 3
+   },
+   {
+    "quote": "FreightWaves on X: \"What if your vehicle could identify a ... What if your vehicle could identify a problem and tell you exactly where to get it fixed? On FreightWaves Today, ServiceUp COO Andy Klobnock shares his vision for the future of fleet maintenance, where AI and automation connect vehicle fault codes with real-world repair options.",
+    "url": "https://x.com/FreightWaves/status/2098543396470079715",
+    "pass": 3
+   },
+   {
+    "quote": "FreightWaves on X: \"Can AI eliminate some of the most tedious ... On FreightWaves Today, ServiceUp COO Andy Klobnock explains how AI agents can use repair data, cycle times and shop information to handle tasks that traditionally require human follow-up, including checking repair completion dates and parts availability.",
+    "url": "https://x.com/FreightWaves/status/2098843458282590625",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp (@ServiceUpAuto) / Posts / X This week we’d like to give a spotlight to Alex Rock to commend him on all the hard work he’s been doing here at ServiceUp. Alex has been with us for over a year and has been an absolute rockstar.",
+    "url": "https://x.com/ServiceUpAuto",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ServiceUp - LinkedIn ServiceUp is the fleet repair platform built to centralize repair and maintenance in one place. We give fleet operators full visibility and control over every repair so they can reduce downtime...",
+    "url": "https://www.linkedin.com/company/serviceupio/",
+    "pass": 3
+   },
+   {
+    "quote": "Serviceup[ Jobs in United States (3,000+ Open Roles) | LinkedIn Today’s top 3,000+ Serviceup [ jobs in United States. Leverage your professional network, and get hired. New Serviceup [ jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/serviceup[-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Brett Carlson - CEO at ServiceUp || Transforming Auto Repair ... CEO at ServiceUp || Transforming Auto Repair with AI Repair Agents · Location: San Francisco Bay Area · 500+ connections on LinkedIn.",
+    "url": "https://www.linkedin.com/in/brettcarlson418",
+    "pass": 3
+   },
+   {
+    "quote": "Andy Klobnock - Executive leader | cross‑functional, outcome ...Jeff Mercado - Software Architect/Engineer @ ServiceUp | LinkedInBrett Dashe - ServiceUp | LinkedInJoshua Hall - Service Manager @ ServiceUp | Automotive ... At ServiceUp, I lead operations for our car repair technology platform, simplifying vehicle repair for fleet and insurance customers. ServiceUp is an AI-powered fleet repair plat",
+    "url": "https://www.linkedin.com/in/andyklobnock",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ServiceUp | Campbell CA - FacebookServiceUp - FacebookServiceUp - With a click of a button, your car can be...No more hassling with mechanics or getting overcharged by ...How do we save you time and hassles? . It's simple! We handle ...ServiceUp - Let’s take a walk down memory lane. Do you...Get your car repaired or serviced with just a few clicks! We ... Jan 26, 2026 · The industry needs an overh",
+    "url": "https://www.facebook.com/ServiceUpio/",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp - Facebook Sep 2, 2020 · ServiceUp. 374 likes. Welcome to ServiceUp family. Connect with us on the path of revolution!!",
+    "url": "https://www.facebook.com/serviceupofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp - With a click of a button, your car can be... With a click of a button, your car can be picked up, repaired, and returned to you. ServiceUp allows you to focus on yourself while we focus on your...",
+    "url": "https://www.facebook.com/ServiceUpio/posts/with-a-click-of-a-button-your-car-can-be-picked-up-repaired-and-returned-to-you-/541794494045045/",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceUp - Let’s take a walk down memory lane. Do you... Check out some of the ServiceUp team’s first cars - some are still owned by us and running today! Ryan, our amazing driver in Denver, has 370K miles on his Toyota Prius.",
+    "url": "https://www.facebook.com/ServiceUpio/posts/lets-take-a-walk-down-memory-lane-do-you-remember-your-first-carcheck-out-some-o/750455223178970/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.serviceup.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.serviceup.com/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.serviceup.com/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.serviceup.com/blog/serviceup-partners-with-stellantis-pro-one-2-500-dealers-join-the-network",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.serviceup.com/company/news-press",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.serviceup.com/company/blogs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.serviceup.com/company/schedule-a-demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.serviceup.com/blog-category/case-study",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.serviceup.com/blog/the-true-cost-of-repair-what-fleets-are-still-getting-wrong",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/ServiceNow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.serviceup.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/serviceup.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dxc.com/ja/insights/knowledge-base/blogs/dxc-japan-blogs/servicenow-ai-key-points-for-successful-implementation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/ServiceNow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.houjin.info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kaisharesearch.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.serviceup.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shops.serviceup.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.serviceup.com/platform/shops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://serviceup.tech/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/serviceup/case-study/clearcover-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/serviceup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ledgerup.ai/case-studies/serviceup",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/serviceup/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/serviceup/4xkfdj4veiylac9gl",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/serviceup-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/466818-94",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/serviceup-serviceup-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ServiceUpAuto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ServiceUp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FreightWaves/status/2098543396470079715",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FreightWaves/status/2098843458282590625",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/serviceupio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/serviceup[-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/brettcarlson418",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/andyklobnock",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ServiceUpio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/serviceupofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ServiceUpio/posts/with-a-click-of-a-button-your-car-can-be-picked-up-repaired-and-returned-to-you-/541794494045045/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ServiceUpio/posts/lets-take-a-walk-down-memory-lane-do-you-remember-your-first-carcheck-out-some-o/750455223178970/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ServiceUp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ServiceUpAuto",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Serviceup 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ServiceNow",
+    "https://www.serviceup.com/",
+    "https://www.firstcvc.jp/global/serviceup.com",
+    "https://dxc.com/ja/insights/knowledge-base/blogs/dxc-japan-blogs/servicenow-ai-key-points-for-successful-implementation",
+    "https://www.sts-inc.co.jp/servicenow/case",
+    "https://www.hitachi.co.jp/Prod/comp/soft1/jp1/feature/servicenow/index.html",
+    "https://www.japan-systems.co.jp/solution/cloud/servicenow/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Serviceup 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ServiceNow",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.houjin.info/",
+    "https://kaisharesearch.com/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Serviceup Japan",
+   "results": [
+    "https://www.serviceup.com/",
+    "https://shops.serviceup.com/",
+    "https://www.serviceup.com/platform/shops",
+    "https://serviceup.tech/",
+    "https://www.serviceup.com/dsp",
+    "https://shops.serviceup.com/auth/signin",
+    "https://app.serviceup.com/login?redirectTo=/request"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Serviceup manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/serviceup/case-study/clearcover-customer-case-study",
+    "https://www.casestudies.com/company/serviceup",
+    "https://www.ledgerup.ai/case-studies/serviceup",
+    "https://www.featuredcustomers.com/vendor/serviceup/case-studies",
+    "https://www.serviceup.com/",
+    "https://www.serviceup.com/company/blogs",
+    "https://gist.githubusercontent.com/adanjibran1955/081c7e95ca90bd666c850fc5aad6d549/raw/3c44c5c4ba4e1876f9289a2f5584e9f1cd240518/index.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Serviceup white label OR reseller OR partner program",
+   "results": [
+    "https://upcloud.com/partner-program/",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Serviceup founded funding employees revenue",
+   "results": [
+    "https://www.thecompanycheck.com/company/b/serviceup/4xkfdj4veiylac9gl",
+    "https://prospeo.io/c/serviceup-revenue",
+    "https://pitchbook.com/profiles/company/466818-94",
+    "https://fundediq.co/serviceup-serviceup-com-funding/",
+    "https://tracxn.com/d/companies/serviceup/__wbMixONYI4YAXbZOGH2c3QXbr1Bnx4U2SGFkU_h64KQ",
+    "https://acquirezy.com/organization/serviceup-3272364",
+    "https://startupintros.com/orgs/serviceup"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Serviceup",
+   "results": [
+    "https://biz.note.com/n/na3988f7c6f1c?hl=en",
+    "https://note.com/seigo77",
+    "https://note.com/kotaro55/n/n556074ccd7b6?hl=en",
+    "https://note.com/odangosan3/n/n3ba0fdd38347?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://tales.note.com/",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Serviceup",
+   "results": [
+    "https://x.com/ServiceUpAuto",
+    "https://x.com/hashtag/ServiceUp",
+    "https://x.com/FreightWaves/status/2098543396470079715",
+    "https://x.com/FreightWaves/status/2098843458282590625",
+    "https://x.com/BrettECarlson",
+    "https://x.com/JennyGray101/status/2120173800960475426",
+    "https://x.com/p0ptartkitty/status/2115926138987913708"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Serviceup",
+   "results": [
+    "https://www.linkedin.com/company/serviceupio/",
+    "https://www.linkedin.com/jobs/serviceup[-jobs",
+    "https://www.linkedin.com/in/brettcarlson418",
+    "https://www.linkedin.com/in/andyklobnock",
+    "https://www.linkedin.com/in/jeffmercado",
+    "https://www.linkedin.com/in/bdashe",
+    "https://www.linkedin.com/in/joshua-hall-46ab577a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Serviceup",
+   "results": [
+    "https://www.facebook.com/ServiceUpio/",
+    "https://www.facebook.com/serviceupofficial/",
+    "https://www.facebook.com/ServiceUpio/posts/with-a-click-of-a-button-your-car-can-be-picked-up-repaired-and-returned-to-you-/541794494045045/",
+    "https://www.facebook.com/ServiceUpio/posts/lets-take-a-walk-down-memory-lane-do-you-remember-your-first-carcheck-out-some-o/750455223178970/",
+    "https://www.facebook.com/ServiceUpio/videos/no-more-hassling-with-mechanics-or-getting-overcharged-by-dealerships-serviceup-/263632206104854/",
+    "https://www.facebook.com/ServiceUp/videos/767487807581395/",
+    "https://www.facebook.com/ServiceUpio/videos/get-your-car-repaired-or-serviced-with-just-a-few-clicks-well-pick-up-service-an/1148462039138252/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Serviceup note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.com/sadaaki",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Serviceup X 投稿",
+   "results": [
+    "https://x.com/hashtag/ServiceUp",
+    "https://x.com/ServiceUpAuto",
+    "https://www.serviceup.com/",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://x.com/",
+    "https://note.com/mgane/n/n1c0d7384c8a0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

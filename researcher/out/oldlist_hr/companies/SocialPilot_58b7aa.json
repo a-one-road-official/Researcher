@@ -1,0 +1,1996 @@
+{
+ "name": "SocialPilot",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T07:35:36.549482+00:00",
+ "official_url": "https://www.socialpilot.co",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金プラン",
+    "value": "Standard $50 / M, Premium $100 / M, Ultimate $200 / M Standard $39 / M, Professional $79 / M, Advanced $149 / M, Enterprise $379 / M Pro $29 / M, Business $79 / M",
+    "url": "https://oai-market.com/products/socialpilot",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$163,000",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "16192 Coastal Hwy, Lewes, Delaware 19958, US",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2014",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Social Media Management and Scheduling Tool | SocialPilot",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The Only Social Media Management",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Kickstart your journey to drive a higher ROI with enterprise-grade capabilities.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "for Scaling Marketing Agencies and Brands",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Breakthrough the creative barriers and generate engaging content.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline social content review, feedback, and approval.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Access pre-approved content from the library for quick publishing.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Navigate an intuitive interface that makes it easy to onboard team members, manage client approvals, and schedule posts with zero hassle.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Robust reporting tools make it easy for your team members and clients to access complete analytics for multiple social media profiles.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Save countless hours every month and spend significantly less with an all-in-one solution that caters to every step of your social media strategy.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Use SocialPilot to enjoy intuitive usability, gain valuable insights, optimize budget allocation, and access prompt support when needed.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Add a new SaaS vertical to your business with world-class social media",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Concierge Onboarding and Migration",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "SocialPilot has emerged as the preferred social media management tool for more than 15000 customers.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "After spending 3 weeks comparing social media scheduling tools, SocialPilot emerged as the",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "The price can't be beaten and the amazing customer service you get when you experience",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Agency owner | Birdhouse Marketing & Design",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "providing valuable analytics for clients. Scheduling content is a breeze, and the",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Founding President | Red Ball Consultants",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "accounts without worrying about surprise billing. The impressive stats and analytics",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Marketing Director | The Click Town",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Professional",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Project Management Lead | DAS42",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Switching to Social Pilot was a game-changer. My previous scheduling app lacked",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Specialist | Cahaba Medical Care",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Social Media Marketing Software for Agencies",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "for Social Media Marketing",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Get clients the right social media ROI by engaging with the right audiences using the right content at the right time.",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Champion Social Media Management and Create a Strong Client Portfolio",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Manage the entire social media workflow, including planning, publishing, engagement, and analytics – all from one",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Promote Collaboration Among Team",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline communication and workflow to execute coordinated social media campaigns.",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Have someone just for you to help with your social media workflow, making everything run smoothly.",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Create strategic social media marketing campaigns, manage larger workloads, onboard new clients, and increase revenue.",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Social Media Work Efficiency",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule and manage up to 500 social media posts from a single interface, customizing each to suit the unique requirements of various networks.",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Amplify Social Media Operations",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "With Peak Productivity",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly generate engaging post ideas and write amazing captions to overcome creative blocks and ensure continuous content flow with AI Pilot.",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Access the Content Library of pre-saved content, including images, text, and videos, significantly to fast-track your content creation process.",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "All Social Media Networks",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Gain a deep understanding of engagement, audience demographics, reach, and other important metrics with Advanced Reports for refining social media strategies.",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify Social Media Analytics Reporting With Automation",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Setup 2FA for your SocialPilot account, and enforce it for your team members and clients to prevent unauthorized access and meet compliance requirements of enterprise customers.",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Some More Features for Better Social Media Management",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Content Approval Workflows",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Client Approval Workflows",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "SocialPilot has emerged as the preferred social media management tool for more than 13500 customers.",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "After spending 3 weeks comparing social media scheduling tools, SocialPilot emerged as the",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "The price can't be beaten and the amazing customer service you get when you experience",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Social Media Management Software | SocialPilot",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Social Media Tool to Build an Enterprise-Grade Brand",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a proven, scalable platform under your name without code, support tickets, or long timelines. It’s built. You’re just here to claim it!",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Offer a full-service social media platform under your brand, trusted by users across the world.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Drive Recurring Revenue by Reselling a Proven Platform",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver your marketing or social media services through a platform that carries your brand name, domain, and design across every touchpoint.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Manage content, teams, and reporting across 100+ clients with streamlined workflows and dedicated access for each brand.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Create branded logins and share ready-to-use content libraries to help partners consistently and at scale promote your services.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Instant Preview and Deployment",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Preview customizations before going live and then apply branding with just a click.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "for Scaling Marketing Agencies and Brands",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Success stories from agencies around the world.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Social Media Marketing Software for Agencies",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Social Media Management Software | SocialPilot",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Offer a full-service social media platform under your brand, trusted by users across the world.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver your marketing or social media services through a platform that carries your brand name, domain, and design across every touchpoint.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Give each region a custom dashboard while keeping central visibility. Every location runs on your brand, your rules.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Equip Partners To Sell or Serve Under Your Brand",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Set up your white-labeled platform using your brand, domain, and sender details with minimal effort or support.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Build It the Way Your Brand Deserves",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "From the first login to the final report, own the details and shape the platform around your brand.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Send all system-generated emails from a custom domain in line with your brand.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Upload custom logo, images, and colors so that your branding shines through.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "White-Labeled Reports",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Send analytics reports with your own logo and colors, keeping your brand in focus.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Launch Your White Labelled",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Resell a proven social media platform under your brand to",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Encourage conversations across social media networks and build a community around your brand.",
+    "url": "https://www.socialpilot.co/solutions/small-business",
+    "pass": 1
+   },
+   {
+    "quote": "Promote Your Brand Far and Wide",
+    "url": "https://www.socialpilot.co/solutions/small-business",
+    "pass": 1
+   },
+   {
+    "quote": "Get people talking about your brand with the best",
+    "url": "https://www.socialpilot.co/solutions/small-business",
+    "pass": 1
+   },
+   {
+    "quote": "Tailor all the posts to fit your unique requirements and reflect your brand identity.",
+    "url": "https://www.socialpilot.co/solutions/multi-location-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Setup Two-Factor Authentication (2FA) for yourself and enforce it for everyone to ensure that only authorized users from each location can manage campaigns for your brand.",
+    "url": "https://www.socialpilot.co/solutions/multi-location-brands",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Dashboard",
+    "url": "https://www.socialpilot.co/solutions/multi-location-brands",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Social Media Integration for SaaS | SocialPilot",
+    "url": "https://www.socialpilot.co/saas-white-label-integration",
+    "pass": 1
+   },
+   {
+    "quote": "seamless White Label integration, without any upfront investment.",
+    "url": "https://www.socialpilot.co/saas-white-label-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy With Your Own Branding",
+    "url": "https://www.socialpilot.co/saas-white-label-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver a fully white labeled experience where your users experience your own UI, domain, email communication, and support.",
+    "url": "https://www.socialpilot.co/saas-white-label-integration",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Integration",
+    "url": "https://www.socialpilot.co/saas-white-label-integration",
+    "pass": 1
+   },
+   {
+    "quote": "All communication comes from your own white-label email domain, fully aligned with your branding.",
+    "url": "https://www.socialpilot.co/saas-white-label-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Grow Your Brand With 5-Star Reviews on Every Listing",
+    "url": "https://www.socialpilot.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "The Growth Engine: How Agencies and Brands Use Social Analytics",
+    "url": "https://www.socialpilot.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "New LinkedIn Features and Updates to Grow Your Brand in 2026",
+    "url": "https://www.socialpilot.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "How Marketing Agencies Can Use Social Media to Build Authority and Attract Clients",
+    "url": "https://www.socialpilot.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Most agencies are brilliant at managing clients’ social media. Their own channels? A different…",
+    "url": "https://www.socialpilot.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "8-Step Social Media Marketing Strategy for Design Agencies",
+    "url": "https://www.socialpilot.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Inside the Approval Bottleneck: How Agencies Can Reclaim Their Time",
+    "url": "https://www.socialpilot.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for established agencies and multi-location brands.",
+    "url": "https://www.socialpilot.co/plans",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Agencies and Brands Worldwide",
+    "url": "https://www.socialpilot.co/plans",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies and businesses worldwide",
+    "url": "https://www.socialpilot.co/plans",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Brands and agencies",
+    "url": "https://www.socialpilot.co/plans",
+    "pass": 1
+   },
+   {
+    "quote": "As a bonus, SocialPilot’s white-label feature allowed Limelight to personalize the entire tool to match its brand identity. Now, their clients were no longer interacting with an external service provider but with Limelight’s own scheduling tool.",
+    "url": "https://www.socialpilot.co/case-study/limelight-marketing-systems",
+    "pass": 1
+   },
+   {
+    "quote": "A customizable white label feature",
+    "url": "https://www.socialpilot.co/case-study/limelight-marketing-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Limelight had not only switched to a low-cost solution but was also generating new revenues for the agency. With the white label capabilities of SocialPilot, Limelight was able to brand the tool as part of its value-added tech services. With a better value proposition, acquiring new clients and building trust and loyalty was easy.",
+    "url": "https://www.socialpilot.co/case-study/limelight-marketing-systems",
+    "pass": 1
+   },
+   {
+    "quote": ", the bill would go directly to the client’s credit card. With SocialPilot’s white-label tool, we are able to add a scheduling fee in our invoice without increasing the cost for the client.”",
+    "url": "https://www.socialpilot.co/case-study/limelight-marketing-systems",
+    "pass": 1
+   },
+   {
+    "quote": "“SocialPilot offers a lot of features for a really great price which is perfect for small business owners and small agencies.”",
+    "url": "https://www.socialpilot.co/case-study/limelight-marketing-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Moreover, the agency has always used tools that can be white-labeled. The agency wants to ensure that it presents unified branding across all the tools in its portfolio when exposed to the clients.",
+    "url": "https://www.socialpilot.co/case-study/milli-media-group",
+    "pass": 1
+   },
+   {
+    "quote": "The agency completely white-labeled SocialPilot to reflect custom branding including custom domain name, colors, etc. SocialPilot supports DIY white labeling as well as offers a concierge-supported white label setup at no additional cost. There is no technical expertise required and the turnaround time is almost instantaneous.",
+    "url": "https://www.socialpilot.co/case-study/milli-media-group",
+    "pass": 1
+   },
+   {
+    "quote": "The agency also plans to offer access to the white-labeled version of SocialPilot to its clients, thus generating additional revenues as a reseller. The flexibility of setting her own price for this access really excites the agency.",
+    "url": "https://www.socialpilot.co/case-study/milli-media-group",
+    "pass": 1
+   },
+   {
+    "quote": "“With the whitelabel feature, I can package the SocialPilot tool as a Milli Media Group asset that my clients can purchase. This is an added revenue for me.”",
+    "url": "https://www.socialpilot.co/case-study/milli-media-group",
+    "pass": 1
+   },
+   {
+    "quote": "Elevation Brands, a marketing & advertising company, has forged a defining presence thanks to their expertise in delivering outstanding results and their ability to package their wins with personal branding. The SocialPilot white-label user unveiled the secret to not only acquiring new clients but also cementing lasting connections.",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "SocialPilot was the winning social media management tool because of the easy scalability, white-label optimization, and exclusive customer support that comes with it.",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "In Mike’s experience, SocialPilot offers terrific potential for agencies to grow & establish themselves in the market.",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "White labeling gave voice to the value proposition.",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Knowing your value proposition is not enough. Your customers and potential clients need to recognize your brand’s value and success as your own. Therefore, integrating and branding all communication points, including your SaaS products, with your unique message is vital.",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "“SocialPilot’s white label feature has been essential in building the church program the way that we have. From the end user’s perspective, they are dealing with us, they buy from us, they are familiar with our logo, and they trust us.”",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "The personalized branding that comes with the white label feature of SocialPilot allows users to customize the tool with their agency’s logo and branding. The detailed analytical reports highlighted the agency’s success efficiently with the customized branding.",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "“White label gives credibility to our brand that adds longevity to our relationships with all our clients.”",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Backed by the support of SocialPilot’s white label solution, Elevation Brands was able to",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "What is Included in This Exclusive Partner Program by SocialPilot?",
+    "url": "https://www.socialpilot.co/socialpilot-for-education",
+    "pass": 1
+   },
+   {
+    "quote": "Students completing the course under the SocialPilot Education Partner program will receive a certificate to add to their resumes and LinkedIn profiles.",
+    "url": "https://www.socialpilot.co/socialpilot-for-education",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Breakthrough the creative barriers and generate engaging content.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "11-50 employees",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "25 employees",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Create strategic social media marketing campaigns, manage larger workloads, onboard new clients, and increase revenue.",
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Build a New Revenue Stream With a Platform Built to Scale",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Drive Recurring Revenue by Reselling a Proven Platform",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver your marketing or social media services through a platform that carries your brand name, domain, and design across every touchpoint.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "grow recurring revenue.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate Communication Barriers",
+    "url": "https://www.socialpilot.co/solutions/multi-location-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Add a new social media revenue channel quickly and easily, along with your existing product offerings.",
+    "url": "https://www.socialpilot.co/saas-white-label-integration",
+    "pass": 1
+   },
+   {
+    "quote": "SocialPilot is a part of daily lives of thousands of social media marketers and highly recommended for its capabilities.",
+    "url": "https://www.socialpilot.co/plans",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, all prices listed are before taxes, and applicable tax may be added based on local laws and regulations.",
+    "url": "https://www.socialpilot.co/plans",
+    "pass": 1
+   },
+   {
+    "quote": "Limelight had not only switched to a low-cost solution but was also generating new revenues for the agency. With the white label capabilities of SocialPilot, Limelight was able to brand the tool as part of its value-added tech services. With a better value proposition, acquiring new clients and building trust and loyalty was easy.",
+    "url": "https://www.socialpilot.co/case-study/limelight-marketing-systems",
+    "pass": 1
+   },
+   {
+    "quote": "faster and cost-efficient scalability, additional revenue capabilities, and a unique branded system to attract new clients",
+    "url": "https://www.socialpilot.co/case-study/limelight-marketing-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Team Infinite Laundry has years of combined experience doing just that, i.e. helping clients in this particular niche with little to no social media knowledge build their brand! They strategically build their social media presence from scratch to attract maximum reach and engagement, making way for increased business & revenue.",
+    "url": "https://www.socialpilot.co/case-study/infinite-laundry",
+    "pass": 1
+   },
+   {
+    "quote": "How Milli Media Group Grows Its Revenues with SocialPilot",
+    "url": "https://www.socialpilot.co/case-study/milli-media-group",
+    "pass": 1
+   },
+   {
+    "quote": "The agency also plans to offer access to the white-labeled version of SocialPilot to its clients, thus generating additional revenues as a reseller. The flexibility of setting her own price for this access really excites the agency.",
+    "url": "https://www.socialpilot.co/case-study/milli-media-group",
+    "pass": 1
+   },
+   {
+    "quote": "“With the whitelabel feature, I can package the SocialPilot tool as a Milli Media Group asset that my clients can purchase. This is an added revenue for me.”",
+    "url": "https://www.socialpilot.co/case-study/milli-media-group",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study - Elevation Brands: Low-Cost Revenue Stream",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "How Elevation Brands Added a Revenue Stream at a Low Cost: Case Study",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": ", has been navigating the ever-changing tide of social media marketing for more than 20 years now. When he noticed a niche market that was not being catered to, he knew this was his opportunity to jump on the wagon in order to add a new revenue stream.",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Every price below was checked in October, 2026 on Zoho’s US pricing page, carries its billing basis, and excludes local taxes. You’ll also see what a “brand” really covers, what the Free plan can’t do, how AI credits run out, and which setups make Zoho the cheaper pick.",
+    "url": "https://www.socialpilot.co/insights/zoho-social-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Zoho’s price file still carries a legacy USD list (Professional $35, Premium $55, Agency $275, Agency Plus $400, all billed monthly), and review sites still quote it.",
+    "url": "https://www.socialpilot.co/insights/zoho-social-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Less changed than Zoho’s new wording suggests. Every plan now comes with a monthly allowance of AI credits, and the agency plans now come with documented client-facing tools. The switch from “brands” to “clients” on the agency tiers is mostly a new label: the price per client matches what our previous version of this page listed per brand.",
+    "url": "https://www.socialpilot.co/insights/zoho-social-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Zoho’s own pages back up the “relabel” part, because they still use the old word. The feature table on the pricing page labels the agency column “BRAND(S)” with 10 and 20, and the agency FAQ still reads “You can manage 10 brands for your clients under the Agency Plan.” The five-client add-on is still $76 a month billed annually, the same figure our old page listed per five brands.",
+    "url": "https://www.socialpilot.co/insights/zoho-social-pricing",
+    "pass": 1
+   },
+   {
+    "quote": ". “Unused credits do not carry over to the next month.”",
+    "url": "https://www.socialpilot.co/insights/zoho-social-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On Zoho a brand is narrower, and brand count sets your Zoho Social cost before anything else. So, say you have 2 Instagram accounts for your brand, you will have to pay to add another brand, because the option to add just one account does not exist.",
+    "url": "https://www.socialpilot.co/insights/zoho-social-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Already running your business on Zoho? Then the case for Zoho Social gets strong quickly, and price is only part of it. Premium and the agency plans connect Zoho Social to Zoho CRM and Zoho Desk, so social activity sits next to the contacts and support tickets your team already works from. If your sales or support team lives in Zoho CRM, that’s a solid reason to keep social in the same family.",
+    "url": "https://www.socialpilot.co/insights/zoho-social-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Insights carries 30 days of history instead of unlimited",
+    "url": "https://www.socialpilot.co/insights/buffer-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "So here is the fact worth carrying away from this page.",
+    "url": "https://www.socialpilot.co/insights/buffer-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "usually works the other way. On SocialPilot, the plans carrying more user seats also carry more social media accounts, so seats and capacity rise together and the collaboration upgrade costs more the larger you get. On Buffer the two are unbundled, so team features get relatively cheaper the more channels you run.",
+    "url": "https://www.socialpilot.co/insights/buffer-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Seats are what decide most cases. Buffer’s Essentials tier is single-user at every channel count, and so is SocialPilot Essentials, which has no additional-user option. Extra seats start on SocialPilot Standard, which carries three, and Premium, which carries six.",
+    "url": "https://www.socialpilot.co/insights/buffer-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. Buffer sells three plans: Free, Essentials, and Team. An archived copy of Buffer's pricing page from August 2025 already shows the Agency plan gone, so it was retired before the November 2025 repricing, not as part of it. For ten or more client channels, Team plus the volume discount is the replacement.",
+    "url": "https://www.socialpilot.co/insights/buffer-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "She writes with an ear to the audience and an eye on business outcomes. At SocialPilot, she brings a sharp narrative instinct, strategic thinking, and a grounded understanding of how content shapes perception, trust, and growth.",
+    "url": "https://www.socialpilot.co/insights/buffer-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "With the acquisition of SocialPilot, group.one continues to expand its suite of integrated SaaS solutions designed to support the digital growth of small businesses and agencies.",
+    "url": "https://www.group.one/news/group-one-to-acquire-socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "Elevation Brands adds a low-cost revenue stream with SocialPilot",
+    "url": "https://www.casestudies.com/company/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "Milli Media Group scales faster and unlocks new revenue with SocialPilot",
+    "url": "https://www.casestudies.com/company/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/socialpilot/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Proven Customer Acquisition Strategies for Marketing Agencies That Actually Work",
+    "url": "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "White-label PDF reports arrive on Premium at $100 per month, which lets an agency send performance reports under its own logo and branding. That covers the most common client-facing deliverable. The interface, approval emails, and any client login remain SocialPilot-branded, so the white-labeling stops at the report.",
+    "url": "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Client approvals also arrive on Premium. Clients review by email and in the app, and reviewers count against the user allowance (6 on Premium, unlimited on Ultimate), with extra users at $5 per month.",
+    "url": "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "For branded PDF reports and client approvals at a low price, yes: both arrive on Premium at $100 per month. The interface, approval emails, and client login stay SocialPilot-branded, so it does not white-label the platform itself.",
+    "url": "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Opportunity to generate recurring revenue by reselling the branded platform to clients or embedding it as part of your services.",
+    "url": "https://www.whitelabelatlas.com/listing/socialpilot-2/",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/463563-10",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/463563-10",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot has 100 total employees.",
+    "url": "https://pitchbook.com/profiles/company/463563-10",
+    "pass": 3
+   },
+   {
+    "quote": "What is SocialPilot’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/463563-10",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SocialPilot is",
+    "url": "https://pitchbook.com/profiles/company/463563-10",
+    "pass": 3
+   },
+   {
+    "quote": "When was SocialPilot acquired?",
+    "url": "https://pitchbook.com/profiles/company/463563-10",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot was acquired on 23-Jul-2025.",
+    "url": "https://pitchbook.com/profiles/company/463563-10",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired SocialPilot?",
+    "url": "https://pitchbook.com/profiles/company/463563-10",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot was acquired by",
+    "url": "https://pitchbook.com/profiles/company/463563-10",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At SocialPilot",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of SocialPilot?",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Receive automated PDF Reports delivered right into the email inbox.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Top-notch customer support from day one on phone, email, chat, and app, so you can get all your queries resolved in real time.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Send all system-generated emails from a custom domain in line with your brand.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver a fully white labeled experience where your users experience your own UI, domain, email communication, and support.",
+    "url": "https://www.socialpilot.co/saas-white-label-integration",
+    "pass": 1
+   },
+   {
+    "quote": "All communication comes from your own white-label email domain, fully aligned with your branding.",
+    "url": "https://www.socialpilot.co/saas-white-label-integration",
+    "pass": 1
+   },
+   {
+    "quote": "Your Next Big Social Media Idea Is Just an Email Away!",
+    "url": "https://www.socialpilot.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Send PDF Report Via Email",
+    "url": "https://www.socialpilot.co/plans",
+    "pass": 1
+   },
+   {
+    "quote": "Institutions will need to provide details about the course, the number of licenses required, and the academic email IDs of their students. This ensures that every student enrolled in the relevant course has access to the SocialPilot Pro Plan for the duration of the program.",
+    "url": "https://www.socialpilot.co/socialpilot-for-education",
+    "pass": 1
+   },
+   {
+    "quote": "Client invite emails and portal customization with your logo, favicon and custom domain",
+    "url": "https://www.socialpilot.co/insights/zoho-social-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Scheduled and emailed reports, branded with your agency’s name",
+    "url": "https://www.socialpilot.co/insights/zoho-social-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "| Email Reports | No | Yes | Yes | Yes | Yes |",
+    "url": "https://www.socialpilot.co/socialpilot-pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "| Email Reports | Yes | Yes | Yes |",
+    "url": "https://www.socialpilot.co/socialpilot-pricing.md",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your email, set a password, then click Continue to start the 14-day trial.",
+    "url": "https://www.fahimai.com/ja/how-to-use-socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "Check your inbox for the confirmation email.",
+    "url": "https://www.fahimai.com/ja/how-to-use-socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "Enter an email address and pick a role.",
+    "url": "https://www.fahimai.com/ja/how-to-use-socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "Hit Export PDF or set a recurring email.",
+    "url": "https://www.fahimai.com/ja/how-to-use-socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/socialpilot/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/socialpilot/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "sales@cloudcampaign.com",
+    "url": "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "White-label PDF reports arrive on Premium at $100 per month, which lets an agency send performance reports under its own logo and branding. That covers the most common client-facing deliverable. The interface, approval emails, and any client login remain SocialPilot-branded, so the white-labeling stops at the report.",
+    "url": "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Client approvals also arrive on Premium. Clients review by email and in the app, and reviewers count against the user allowance (6 on Premium, unlimited on Ultimate), with extra users at $5 per month.",
+    "url": "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Small agencies with account-light clients, a team of six or fewer, and clients who are satisfied with a branded PDF report and an emailed approval. At that profile SocialPilot is among the cheapest complete setups available.",
+    "url": "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "For branded PDF reports and client approvals at a low price, yes: both arrive on Premium at $100 per month. The interface, approval emails, and client login stay SocialPilot-branded, so it does not white-label the platform itself.",
+    "url": "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "No. SocialPilot white-labels reports, not the platform. Clients see SocialPilot's branding in the interface and approval emails. A fully white-labeled platform, with branded dashboards and approval pages, is what tools like Cloud Campaign offer on Team and Agency plans.",
+    "url": "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Control over branding across all user‑facing touchpoints: custom domain, branded login and internal views, branded reports, emails etc.",
+    "url": "https://www.whitelabelatlas.com/listing/socialpilot-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Branded reporting & email templates so all client deliverables reinforce your identity.",
+    "url": "https://www.whitelabelatlas.com/listing/socialpilot-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Cakemail – Email Marketing Service",
+    "url": "https://www.whitelabelatlas.com/listing/socialpilot-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Cakemail is an email marketing platform that helps businesses design, send, and automate email campaigns.…",
+    "url": "https://www.whitelabelatlas.com/listing/socialpilot-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Please enter your username or email address, you will receive a link to create a new password via email.",
+    "url": "https://www.whitelabelatlas.com/listing/socialpilot-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/463563-10",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Your email will immediately display each comment you get on a connected page's LinkedIn post.",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/socialpilot",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Offer a full-service social media platform under your brand, trusted by users across the world.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Agencies and Brands Worldwide",
+    "url": "https://www.socialpilot.co/plans",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Brands and agencies",
+    "url": "https://www.socialpilot.co/plans",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study | Limelight Marketing Systems - Customer Service",
+    "url": "https://www.socialpilot.co/case-study/limelight-marketing-systems",
+    "pass": 1
+   },
+   {
+    "quote": "Infinite Laundry is a marketing and recruitment solutions agency catering exclusively to businesses in the linen and uniform industry across the world. Founded in 2009, the agency pioneered a unique approach to marketing by providing targeted marketing assistance to textile rental companies and industrial laundries. This made Infinite Laundry the first of its kind in the world.",
+    "url": "https://www.socialpilot.co/case-study/infinite-laundry",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study - Elevation Brands: Low-Cost Revenue Stream",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "How Elevation Brands Added a Revenue Stream at a Low Cost: Case Study",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 15,000+ businesses and creators",
+    "url": "https://www.socialpilot.co/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/socialpilot/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "It is trusted by 15,000+ agencies & brands worldwide to make social media management seamless, reliable, and impactful.",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "成長を目指すマーケティング代理店とブランド向けに",
+    "url": "https://socialpilotai.online/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilotの料金・機能アップデート・代替ツール情報を日本語でお届けします",
+    "url": "https://oai-market.com/products/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilotは長年運営されている代理店向けの予約投稿ツールで、クライアントやチームのワークフローに強みがあります",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店にとっては上位プランの価格に見合う価値がありますが、それ以外のユーザーにとっては、よりシンプルな一律料金の代替ツールの方がコスト面で有利なことが多いです",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Sendible、承認機能を備えた代理店向けツール",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "Sendibleは長年運営されている代理店向けプラットフォームで、クライアント管理、承認ワークフロー、統合受信箱を備えています",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店セグメントにおけるSocialPilotの強力な直接競合です",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントポータルと承認フローを求める代理店",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "3. Vista Social、モダンな代理店向け代替ツール",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "Vista Socialはモダンなインターフェースと強力な分析機能を備えた新しめの代理店向けツールで、代理店向けティアとしては妥当な価格設定(月額$99から)です",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilotやSendibleに代わるモダンなツールを求める代理店",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店向けの基本機能の大半をより低価格で使える堅実な中間層の選択肢です",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "Hootsuiteは深い連携カタログと統合受信箱を備えた、老舗の大規模代理店向けプラットフォームです",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "幅広い連携を必要とする大規模な代理店やチーム",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "8. Sked Social、ビジュアルブランド・代理店向け",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "Sked SocialはInstagram向けの強力なツール、ソーシャル受信箱、Grow以上のプランでの代理店承認ワークフローを提供しています",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "Instagram中心の投稿が必要なビジュアルブランドや代理店",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店のクライアント管理には、",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "socialpilot | ソーシャルメディア管理とスケジューリング — socialpilotは、公開、コラボレーション、分析、エンゲージメント、レビュー、ソーシャルメディアのスケジューリングを、シンプルな1つのプラットフォームに集約します。",
+    "url": "https://socialpilotai.online/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot | 最強のSNS管理ツール｜投稿スケジューリング・分析・エ... — ツール概要 SocialPilotは、企業やマーケティングチームが複数のソーシャルメディアアカウントを一元管理し、スムーズで効果的なマーケティング活動を実現するためのツールです。",
+    "url": "https://oai-market.com/products/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilotの使い方：2026年に5分でスケジュール設定を開始 — I have run client accounts through SocialPilot for two years and tested every feature covered here. This tutorial comes from real hands-on work, not vendor screenshots.",
+    "url": "https://www.fahimai.com/ja/how-to-use-socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "2026年に使うべきSocialPilotの代替ツール11選 — May 3, 2026 · SocialPilotの代替を探していますか？ 代理店向けのプラットフォームから一律料金の投稿ツールまで、幅広い価格帯の11のソーシャルメディア予約投稿ツールを紹介します。",
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilotの料金（2026年10月）：月額$30から・5プラン | Ciroapp — Oct 5, 2026 · SocialPilotの料金：月額$30 (≈ ￥4,748)から、5プラン。 2026年10月に価格を確認。 チームの実際のコスト、年払いの節約額、より安い代替ツール。",
+    "url": "https://ciroapp.com/ja/software/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot: About Us — About SocialPilot SocialPilot is an easy-to-use social media marketing tool that helps professionals, teams, and businesses automate their social media management. It helps customers at every step – right from publishing posts on their profiles to analyzing their posts’ performance.",
+    "url": "https://www.socialpilot.co/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Social Media Management and Scheduling Tool | SocialPilot — After spending 3 weeks comparing social media scheduling tools, SocialPilot emerged as the best option. It surpasses Hootsuite and Buffer in value, cost, and exceptional customer support.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Scale Social Media Operations With SocialPilot MCP Server — SocialPilot MCP Server connects AI assistants like Claude and ChatGPT to your SocialPilot account. Once connected, you can ask your assistant to create and schedule posts, save drafts, or check publishing status directly from your conversation.",
+    "url": "https://www.socialpilot.co/mcp-server",
+    "pass": 3
+   },
+   {
+    "quote": "group.one to acquire SocialPilot, expanding its SaaS offering ... — Oct 7, 2025 · Founded in 2014, SocialPilot provides a leading social media management platform for SMBs and agencies. The solution enables teams to schedule posts, collaborate on content, monitor engagement, and track performance across channels such as Facebook, LinkedIn, Instagram, Twitter, and more.",
+    "url": "https://www.group.one/news/group-one-to-acquire-socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot (@socialpilot_co) • Instagram photos and videosSocialPilot - LinkedInSocialPilot | 最強のSNS管理ツール｜投稿スケジューリング・分析・エ... — 2,057 Followers, 969 Following, 1,038 Posts - SocialPilot (@socialpilot_co) on Instagram: \"All-in-One Social Media Management Platform Built for agencies and brands\" Founded in 2014 by Jimit Bagadiya and Tejas Mehta, SocialPilot helps marketing agencies, brands, and busin",
+    "url": "https://www.instagram.com/socialpilot_co/",
+    "pass": 3
+   },
+   {
+    "quote": "Archive Case Study - SocialPilot — Case Study Our client’s success is our reward. Read how marketing agencies and growing businesses have been successful with the support of SocialPilot.",
+    "url": "https://www.socialpilot.co/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot B2B Case Studies & Customer Successes — See how SocialPilot solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "How Elevation Brands Added a Revenue Stream at ... - SocialPilot5 SocialPilot Case Studies, Success Stories, & Customer ...Case Study: Elevation Brands adds a low-cost revenue stream ...SocialPilot Case Studies & Customer Success | CusperaSocialPilot PRO — AI-Powered SaaS Case Study by Jayesh — The church program is one of Elevation Brand’s most significant offerings. Specifically catering to chur",
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "pass": 3
+   },
+   {
+    "quote": "5 SocialPilot Case Studies, Success Stories, & Customer ... — Discover how other companies use SocialPilot, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/socialpilot/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Elevation Brands adds a low-cost revenue stream ... — By implementing SocialPilot, Elevation Brands gained a white-label platform that allowed them to brand the tool with their own logo, adding credibility and strengthening client relationships.",
+    "url": "https://www.casestudies.com/company/socialpilot/case-study/how-elevation-brands-added-a-revenue-stream-at-a-low-cost",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Social Media Management Software | SocialPilot — Resell a white label social media management tool under your brand: custom domain, branded emails and login, white-label reports. Built for agencies.",
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "pass": 3
+   },
+   {
+    "quote": "Social Media Management and Scheduling Tool | SocialPilot — SocialPilot is a social media Scheduling and Management tool that helps agencies and brands to grow their presence on social media.",
+    "url": "https://www.socialpilot.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Is SocialPilot Effective for Agencies That Need White-Label ... — Is SocialPilot effective for agencies that need white-label social media management and branded client reporting? What it white-labels, what it costs at a real roster, and where it falls short. Prices verified September 2026.",
+    "url": "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot – White Label Atlas — Grab the SocialPilot white-label plan and start reselling a branded social media dashboard under your name. You get custom domain, logo, reports and you can serve 100+ clients without reinventing the wheel.",
+    "url": "https://www.whitelabelatlas.com/listing/socialpilot-2/",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot — SocialPilot Getting Started 6 articles Accounts Connections 10 articles Create Post 23 articles Content Planning 4 articles Content Scheduling 22 articles Content Management 10 articles Setup 8 articles Managing Media 5 articles Collaboration 11 articles Social Inbox 7 articles Analytics & Reports 11 articles White Label 2 articles Integrations 11 articles Billing Settings 12 article",
+    "url": "https://help.socialpilot.co/hc/en-us",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot – Industry Ranking & Company Valuation – 2026 — Revenue, valuation, and funding figures for SocialPilot are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot 2026 Company Profile: Valuation, Investors ...SocialPilot Revenue, Funding & Valuation - prospeo.ioSocialPilot - 2025 Company Profile, Team, Funding ... - TracxnSocialPilot - Overview, News & Similar companies | ZoomInfo.comSocialPilot Information - RocketReachSocialPilot - Crunchbase Company Profile & Funding — Information on acquisition, funding, investors, and executives for SocialP",
+    "url": "https://pitchbook.com/profiles/company/463563-10",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot Revenue, Funding & Valuation - prospeo.io — Founded in 2014 by Jimit Bagadiya and Tejas Mehta, SocialPilot helps marketing agencies, brands, and businesses of all sizes manage, schedule, and amplify their social media presence effortlessly.",
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot - 2025 Company Profile, Team, Funding ... - TracxnSocialPilot - Overview, News & Similar companies | ZoomInfo.comSocialPilot Information - RocketReachSocialPilot - Crunchbase Company Profile & Funding — Sep 10, 2025 · SocialPilot is an acquired company based in Walnut (United States), founded in 2014 by Jimit Bagadiya and Tejas Mehta. It operates as a Provider of solutions for social m",
+    "url": "https://tracxn.com/d/companies/socialpilot/__rChC5QfhVFo1oiWZUDe3swY-KQR-l9wBULw60CW1ar8",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot - Overview, News & Similar companies | ZoomInfo.com — SocialPilot is expanding and recently hired new employees. Here are the latest additions to the team. Compare insights from companies similar to SocialPilot, focusing on performance, financial data, growth rates, and unique benchmarks to identify key industry trends and opportunities.",
+    "url": "https://www.zoominfo.com/c/socialpilot-technologies-inc/426205973",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SocialPilot (@socialpilot_co) / X SocialPilot is a powerful social media suite for agencies, SMBs, & multi-location brands. Streamlined scheduling, powerful analytics & easy collaboration.",
+    "url": "https://x.com/socialpilot_co",
+    "pass": 3
+   },
+   {
+    "quote": "Social Pilot (@X_SocialPilot) / X X_SocialPilot 🚀 🚀 Social Media Growth & Account Management 📈 Strategy • Engagement • Marketing 🤝 Helping accounts grow & stay active 📩 DM for collaborations",
+    "url": "https://x.com/x_socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot on X: \"When your Instagram post brings real ... SocialPilot is a powerful social media suite for agencies, SMBs, & multi-location brands. Streamlined scheduling, powerful analytics & easy collaboration ...",
+    "url": "https://x.com/socialpilot_co/status/2118721098246173174",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot on X: \"Never run out of content ideas again. Here ... Never run out of content ideas again. Here’s your July 2026 Social Media Calendar to plan smarter, post better, and stay consistent all month. 📅 From Independence Day campaigns and summer celebrations to awareness themes and fun engagement opportunities, these key dates will help you create t…",
+    "url": "https://x.com/socialpilot_co/status/2069420371292422319",
+    "pass": 3
+   },
+   {
+    "quote": "Social Pilot (@X_SocialPilot) / X Aug 28, 2026 · X_SocialPilot 🚀 🚀 Social Media Growth & Account Management 📈 Strategy • Engagement • Marketing 🤝 Helping accounts grow & stay active 📩 DM for collaborations",
+    "url": "https://x.com/x_socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "@socialpilot | X The latest posts from @socialpilot",
+    "url": "https://x.com/socialpilot",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SocialPilot - LinkedIn Founded in 2014 by Jimit Bagadiya and Tejas Mehta, SocialPilot helps marketing agencies, brands, and businesses of all sizes manage, schedule, and amplify their social media presence effortlessly.",
+    "url": "https://www.linkedin.com/company/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot | LinkedIn Built with easy-to-use yet powerful tools like Bulk Scheduling, AI Content Assistance, and Content Library, SocialPilot simplifies social media marketing for teams and individuals. It is trusted...",
+    "url": "https://in.linkedin.com/company/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot | LinkedIn Marketing Partners SocialPilot has everything you need to make posts for your personal LinkedIn profile or for your Company page. View important indicators such as your follower count, recent changes, growth in...",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "Tejas Mehta - SocialPilot | LinkedInVimal Selvaraj - Head of Marketing at SocialPilot | LinkedInSmart Social Media Publishing - LinkedInSeamless Collaboration with Team & Clients | LinkedIn · Experience: SocialPilot · Location: Greater Chicago Area · 500+ connections on LinkedIn. View Tejas Mehta’s profile on LinkedIn, a professional community of 1 billion members. Head of Marketing at SocialPilot",
+    "url": "https://www.linkedin.com/in/tejasm",
+    "pass": 3
+   },
+   {
+    "quote": "Jimit B. - Entrepreneur | SaaS Expert | Marketer | Startup ...noteはAI時代の「コンテンツ流通インフラ」になる。CEO加藤貞顕×CSO深...経営チーム｜note株式会社SocialPilot - LinkedInSocialPilot 2026 Company Profile: Valuation, Investors ... Oct 17, 2019 · In 2014, Jimit and his college friend Tejas bootstrapped SocialPilot to help SMBs gain access to more customers using social media. SocialPilot continues to develop marketing products fo",
+    "url": "https://in.linkedin.com/in/jimitbagadiya",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・本文）": [
+   {
+    "quote": "SocialPilot | LinkedIn Marketing Partners",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "Helping Brands Expand Their Reach to Customers Worldwide",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about SocialPilot",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot, a SaaS platform, helps professionals, teams, and companies automate social media management. It helps customers add posts to their profiles and pages, assess their performance, and more.",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "How SocialPilot and LinkedIn work together",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "You can manage all of your LinkedIn accounts from a single location thanks to SocialPilot's integration with LinkedIn Marketing Solutions. SocialPilot has everything you need to make posts for your personal LinkedIn profile or for your Company page. View important indicators such as your follower count, recent changes, growth in interaction, clicks, and much more. The follower demographics drop-do",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "A downloadable PDF report will provide you with a comprehensive overview of your LinkedIn marketing metrics. Check out key metrics like the number of people who follow you, the updates you've made, the growth of engagement and clicks, and much more. Track which of your posts attracted the most attention and on what day your posts performed best. You can then post such material on high-reach days.",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/socialpilot",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot LinkedIn inbox lets you reply to comments and schedule posts across many pages. Improve your LinkedIn presence and establish yourself as a people-focused brand through regular engagement. LinkedIn Inbox lets you answer questions and join discussions instantly.",
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/socialpilot",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SocialPilot - FacebookSocialPilot - FacebookSocialPilot - FacebookSocialPilot - FacebookSocial Pilot - FacebookCurious to know about SocialPilot? Here's ... - FacebookClaude connected to Apify, Canva, and SocialPilot can run an ... 4 days ago · Keep your feed content fresh, consistent, and engaging by planning your posts in advance. ⏩ Try the Direct Publishing Instagram Post & Reel Scheduler on So",
+    "url": "https://www.facebook.com/socialpilot.co/",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot - Facebook SocialPilot. 4 likes · 7 talking about this. This is an automated social media manager including facebook, instagram, whatsapp.",
+    "url": "https://www.facebook.com/SocialPilot.Official/",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot - Facebook SocialPilot 6.1K likes • 6.4K followers",
+    "url": "https://www.facebook.com/socialpilot.co/groups/",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot - Facebook SocialPilot - Facebook ... SocialPilot",
+    "url": "https://www.facebook.com/socialpilot.co/events/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.socialpilot.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/solutions/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/white-label-solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/solutions/small-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/solutions/multi-location-brands",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/saas-white-label-integration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/plans",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/case-study/limelight-marketing-systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/case-study/infinite-laundry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/case-study/milli-media-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/case-study/elevation-brands",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/socialpilot-for-education",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/insights/zoho-social-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/insights/buffer-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/webinars/growth-engine-webinar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialpilot.co/socialpilot-pricing.md",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20594%20375'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "https://www.socialpilot.co/wp-content/uploads/2026/07/highly-recommended_2026.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%200'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://socialpilotai.online/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oai-market.com/products/socialpilot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fahimai.com/ja/how-to-use-socialpilot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-dma.org/trouble",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://socialpilotai.online/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.group.one/news/group-one-to-acquire-socialpilot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/socialpilot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/socialpilot/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitelabelatlas.com/listing/socialpilot-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/socialpilot",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463563-10",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/socialpilot-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/socialpilot/__rChC5QfhVFo1oiWZUDe3swY-KQR-l9wBULw60CW1ar8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/socialpilot_co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/x_socialpilot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/socialpilot_co/status/2118721098246173174",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/socialpilot_co/status/2069420371292422319",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/socialpilot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/socialpilot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.linkedin.com/advertise/partners/find-a-partner/socialpilot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/tejasm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/socialpilot.co/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SocialPilot.Official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/socialpilot.co/groups/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/socialpilot.co/events/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/jimitbagadiya",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/x_socialpilot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/socialpilot",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SocialPilot 日本 導入",
+   "results": [
+    "https://socialpilotai.online/ja/",
+    "https://oai-market.com/products/socialpilot",
+    "https://www.fahimai.com/ja/how-to-use-socialpilot",
+    "https://www.bulkpublish.com/ja/blog/socialpilot-alternatives/",
+    "https://ciroapp.com/ja/software/socialpilot",
+    "https://www.socialpilot.co/",
+    "https://dxmagazine.jp/news/2632ko93/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SocialPilot 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.socialpilot.co/about-us",
+    "https://j-dma.org/trouble",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SocialPilot Japan",
+   "results": [
+    "https://socialpilotai.online/ja/",
+    "https://www.socialpilot.co/",
+    "https://www.socialpilot.co/mcp-server",
+    "https://www.group.one/news/group-one-to-acquire-socialpilot",
+    "https://www.instagram.com/socialpilot_co/",
+    "https://jp.linkedin.com/company/socialpilot",
+    "https://oai-market.com/products/socialpilot"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SocialPilot manufacturing customer case study",
+   "results": [
+    "https://www.socialpilot.co/case-study",
+    "https://www.casestudies.com/company/socialpilot",
+    "https://www.socialpilot.co/case-study/elevation-brands",
+    "https://www.featuredcustomers.com/vendor/socialpilot/case-studies",
+    "https://www.casestudies.com/company/socialpilot/case-study/how-elevation-brands-added-a-revenue-stream-at-a-low-cost",
+    "https://www.cuspera.com/products/socialpilot-x-111/customer-story",
+    "https://mandalejayesh10-stack.github.io/dev-internship-portfolio/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SocialPilot white label OR reseller OR partner program",
+   "results": [
+    "https://www.socialpilot.co/white-label-solution",
+    "https://www.socialpilot.co/",
+    "https://www.cloudcampaign.com/smm-tips/is-socialpilot-effective-white-label-agencies",
+    "https://www.whitelabelatlas.com/listing/socialpilot-2/",
+    "https://help.socialpilot.co/hc/en-us",
+    "https://www.youtube.com/watch?v=Ritud8XL_hQ",
+    "http://gongju.biz/white-label-solution.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SocialPilot founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/socialpilot",
+    "https://pitchbook.com/profiles/company/463563-10",
+    "https://prospeo.io/c/socialpilot-revenue",
+    "https://tracxn.com/d/companies/socialpilot/__rChC5QfhVFo1oiWZUDe3swY-KQR-l9wBULw60CW1ar8",
+    "https://www.zoominfo.com/c/socialpilot-technologies-inc/426205973",
+    "https://rocketreach.co/socialpilot-profile_b5f1eef1f42d35eb",
+    "https://www.crunchbase.com/organization/socialpilot"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com SocialPilot",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/seigo77",
+    "https://note.com/vcrmnfeconi/n/nda597ceb4af4",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/zunda_dd/n/ncc81b0456705",
+    "https://note.com/itsupportstation/n/nd5ded195aa8e",
+    "https://note.com/hunter_5160/n/n05a6b0815fb8"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com SocialPilot",
+   "results": [
+    "https://x.com/socialpilot_co",
+    "https://x.com/x_socialpilot",
+    "https://x.com/socialpilot_co/status/2118721098246173174",
+    "https://x.com/socialpilot_co/status/2069420371292422319",
+    "https://x.com/socialpilot_co/status/2100586711688323564",
+    "https://x.com/socialpilot_co/status/1512204831523586051",
+    "https://x.com/socialpilot_co/status/1522467282534166529"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com SocialPilot",
+   "results": [
+    "https://www.linkedin.com/company/socialpilot",
+    "https://in.linkedin.com/company/socialpilot",
+    "https://business.linkedin.com/advertise/partners/find-a-partner/socialpilot",
+    "https://www.linkedin.com/in/tejasm",
+    "https://in.linkedin.com/in/vimal-selvaraj-growth",
+    "https://www.linkedin.com/products/socialpilot-smart-social-media-publishing/",
+    "https://www.linkedin.com/products/socialpilot-seamless-collaboration-with-team-clients/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com SocialPilot",
+   "results": [
+    "https://www.facebook.com/socialpilot.co/",
+    "https://www.facebook.com/SocialPilot.Official/",
+    "https://www.facebook.com/socialpilot.co/groups/",
+    "https://www.facebook.com/socialpilot.co/events/",
+    "https://www.facebook.com/socialmeditoolsonline/",
+    "https://www.facebook.com/socialpilot.co/videos/socialpilot-for-you/433632039189298/",
+    "https://www.facebook.com/socialpilot.co/videos/claude-connected-to-apify-canva-and-socialpilot-can-run-an-entire-social-media-w/921833307089112/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SocialPilot note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.crunchbase.com/person/jimit-bagadiya-09a8",
+    "https://in.linkedin.com/in/jimitbagadiya",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://jp.linkedin.com/company/socialpilot",
+    "https://pitchbook.com/profiles/company/463563-10"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SocialPilot X 投稿",
+   "results": [
+    "https://x.com/x_socialpilot",
+    "https://x.com/socialpilot",
+    "https://www.socialpilot.co/",
+    "https://www.socialpilot.co/social-media-analytics/twitter-x",
+    "https://help.socialpilot.co/hc/en-us/sections/49894914297361-Create-Post",
+    "https://oai-market.com/products/socialpilot",
+    "https://help.socialpilot.co/hc/en-us/articles/49894935069073-How-to-Create-a-Custom-Post-in-the-New-Create-Post-Dashboard"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

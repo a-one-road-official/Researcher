@@ -1,0 +1,1266 @@
+{
+ "name": "Torq",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜状態なし",
+ "researched_at": "2026-11-11T07:51:18.177387+00:00",
+ "official_url": "https://torq.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "14-Jan-2020 $8.2M $8.2M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/437288-23",
+    "pass": 3
+   },
+   {
+    "label": "Seed Preferred",
+    "value": "13,386,840   $0.61 $0.61 1x $0.61 13.96%",
+    "url": "https://pitchbook.com/profiles/company/437288-23",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://startupintros.com/orgs/torq",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Tel Aviv, Israel",
+    "url": "https://startupintros.com/orgs/torq",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "“Torq is the first solution we’ve seen that effectively enables SOC professionals to mitigate issues including alert fatigue, false positives, staff burnout, and attrition.”",
+    "url": "https://torq.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI SOC You Were Promised",
+    "url": "https://torq.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Let AI Agents find the threat needles in the alert haystack by analyzing, correlating, and enriching unprocessed events at machine speed.",
+    "url": "https://torq.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic AI chases down answers on complex, prioritized cases at speed and scale, using tools you specify and always showing its work.",
+    "url": "https://torq.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Torq Leads the AI SOC Era",
+    "url": "https://torq.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The 2026 Leadership Compass for the Emerging AI SOC from KuppingerCole Analysts names Torq a Leader across all four categories, calling it “A strong fit for sophisticated enterprise SOC teams.”",
+    "url": "https://torq.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Gartner® named Torq the company to beat in AI SOC Agents for Threat Investigation (Document ID: G00855833). See why we believe Torq’s unique architecture and enterprise traction is setting the pace.",
+    "url": "https://torq.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Torq helps you harness AI in the SOC to detect, prioritize, and respond to threats faster.",
+    "url": "https://torq.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Torq was founded in 2020 by cybersecurity trailblazers Ofer Smadari, Leonid Belkind, and Eldad Livni to rewrite the rules of security operations with the industry’s first enterprise-grade Hyperautomation platform.",
+    "url": "https://torq.io/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The headlines speak for themselves. In Forbes, Torq was called out for “carving an unconventional new lane in cybersecurity.” We’ve got Fortune 500 logos in production, 300% YoY growth, and a market-defining platform that’s changing how people think about SecOps.",
+    "url": "https://torq.io/company/",
+    "pass": 1
+   },
+   {
+    "quote": "At Black Hat 2026, Torq announced the Torq SOC Brain™, a continuously learning layer of the Torq AI SOC Platform that reasons from precedent, adapts to your team’s judgment, and gets more accurate with every investigation. Your data, your model, your intelligence.",
+    "url": "https://torq.io/company/",
+    "pass": 1
+   },
+   {
+    "quote": "operational and productivity boost",
+    "url": "https://torq.io/company/",
+    "pass": 1
+   },
+   {
+    "quote": "improvement in workflow execution time",
+    "url": "https://torq.io/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Torq helps you harness AI in the SOC to detect, prioritize, and respond to threats faster.",
+    "url": "https://torq.io/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Deepwatch Speeds Up MDR Customer Onboarding and Time to Value",
+    "url": "https://torq.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“Torq’s flexibility allows for so many ways to approach a problem. The ability to easily adapt the platform to the uniqueness of our environment has been incredibly useful.”",
+    "url": "https://torq.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "“With Torq, we can react automatically to problems before they become security incidents.”",
+    "url": "https://torq.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Torq helps you harness AI in the SOC to detect, prioritize, and respond to threats faster.",
+    "url": "https://torq.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "The Torq AMP Program is simple: Matched effort and mutual success.",
+    "url": "https://torq.io/alliances/",
+    "pass": 1
+   },
+   {
+    "quote": "When you put in the work for a well-documented joint solution, you can count on Torq to meet you with marketing support, collateral creation, and active brand promotion.",
+    "url": "https://torq.io/alliances/",
+    "pass": 1
+   },
+   {
+    "quote": "Flames! Skulls! Trevor! Torq’s marketing stands out in cybersecurity like nothing else. We’ll leverage our brand influence firepower to generate buzz about your partnership with Torq.",
+    "url": "https://torq.io/alliances/",
+    "pass": 1
+   },
+   {
+    "quote": "Oops, that was classified. Some program benefits will only be shared once you’re in.",
+    "url": "https://torq.io/alliances/",
+    "pass": 1
+   },
+   {
+    "quote": "Get ready to integrate with the most-talked-about company in cybersecurity. Sign up for program updates so you don’t miss a thing.",
+    "url": "https://torq.io/alliances/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign the program agreement.",
+    "url": "https://torq.io/alliances/",
+    "pass": 1
+   },
+   {
+    "quote": "Complete the technical training.",
+    "url": "https://torq.io/alliances/",
+    "pass": 1
+   },
+   {
+    "quote": "Get your hands on the AMP marketing launch kit.",
+    "url": "https://torq.io/alliances/",
+    "pass": 1
+   },
+   {
+    "quote": "AMP’d up? Apply for the Torq Alliance & Momentum Partner Program now.",
+    "url": "https://torq.io/alliances/",
+    "pass": 1
+   },
+   {
+    "quote": "Torq REV: Channel Partner Program | Win with Torq",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "the world’s most decorated AI SOC partner program.",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "5 Star Partner Program",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Faster MSSP customer onboarding",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Guaranteed margin, deal reg protection, co-selling support, joint marketing, and Partner Academy access",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Solution providers and GSIs delivering implementation and onboarding services",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Resell, plus first right of refusal on professional services and added margin for services attach",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Certified delivery talent and a services practice",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Managed security providers building or scaling an AI SOC offering",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign the program agreement.",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Full Torq tenant for demos, POCs, and hands-on practice",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "See security operations through the analyst’s lens. Learn their workflows, challenges, and priorities so you can confidently position Torq in real-world security operations.",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“New customers are seeing faster onboardings than we’ve ever seen.”",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“Torq offers unprecedented protection and drives extraordinary efficiency for RSM Defense and our customers.”",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid onboarding. Simplified deal registration. Co-selling built in.",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Deep technical enablement, joint marketing muscle, and a category leader who wins when you win.",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Joint GTM campaigns and co-marketing investment",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-branded content built around your motion",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Press, PR, and partner spotlights",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How does deal registration work, and how is it protected?",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Every deal registration is processed by your Channel Business Manager (CBM). Once you submit a DR, all stakeholders are notified, and you have 15 days to schedule a meeting on the account. If no meeting is set in that window, the lead opens up to others, with stakeholders notified at the 15- and 30-day marks.",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Once a meeting is confirmed and the DR is approved, the lead converts to an opportunity assigned to your Torq AE, and your registration protects that deal for 90 days from the original submission date. You’ll get a heads-up at 75 days before expiration, and the DR can be extended for another 90 days with your Torq AE’s approval.",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "What co-marketing and MDF investment is available?",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We don’t run a formal MDF program today, but we still invest in our partners’ marketing. Bring us the initiative you want to get going — campaigns, events, co-branded content, field activity — and we’ll work with you to make it happen.",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "What are the requirements to qualify for the REV program?",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive medical, dental, and vision coverage. You need it. We’ve got the good stuff.",
+    "url": "https://torq.io/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "“At Torq we get to build an exciting product from the ground up. We utilize a modern technology stack to solve the painful issue of automation. I wake up every day full of energy to tackle new challenges. I love being surrounded by passionate colleagues that feel as excited as me delivering an excellent product.”",
+    "url": "https://torq.io/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We move fast, think boldly, and support each other fiercely. These are the principles that guide everything we do.",
+    "url": "https://torq.io/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Torq helps you harness AI in the SOC to detect, prioritize, and respond to threats faster.",
+    "url": "https://torq.io/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Torq harnesses AI in your SOC to investigate, prioritize, and respond to threats faster.",
+    "url": "https://torq.io/blog/gartner-ai-vendor-race-company-to-beat/",
+    "pass": 1
+   },
+   {
+    "quote": "’s combination of deterministic and agentic reasoning, multi-agent system, and model context protocol integration makes it the pacesetter in AI SOC agents for threat investigations.",
+    "url": "https://torq.io/blog/gartner-ai-vendor-race-company-to-beat/",
+    "pass": 1
+   },
+   {
+    "quote": "capability converts natural-language intent into production-ready Torq HyperAgents.",
+    "url": "https://torq.io/blog/gartner-ai-vendor-race-company-to-beat/",
+    "pass": 1
+   },
+   {
+    "quote": "Socrates coordinates these specialized agents, managing handoffs and escalation decisions across the case lifecycle. Per the report, “Torq’s multiagent system represents the most mature multiagent implementation among dedicated AI SOC vendors.”",
+    "url": "https://torq.io/blog/gartner-ai-vendor-race-company-to-beat/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the World’s Best Security Teams",
+    "url": "https://torq.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the World’s Best Security Teams",
+    "url": "https://torq.io/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the World’s Best Security Teams",
+    "url": "https://torq.io/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Kenvue Proves SOC Value with Data-Driven Case Management | Torq",
+    "url": "https://torq.io/resources/kenvue-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: HWG Sababa Hyperautomates Their Managed SOC for Competitive Edge | Torq",
+    "url": "https://torq.io/resources/hwg-sababa-mssp-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than simply replacing the old tool, the automation team saw this as an opportunity to enhance and streamline as many security processes as possible. With hundreds of global customers, HWG Sababa had a multitude of playbooks and procedures ideal for automation. They also needed a fast and easy way to integrate the wide range of tools and technologies used by their customers.",
+    "url": "https://torq.io/resources/hwg-sababa-mssp-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Primarily serving medium and large Italian enterprises in highly industrialized and regulated sectors such as energy, utilities, transportation, finance, healthcare, and other industries with mission-critical infrastructures, HWG Sababa also supports clients in over 20 countries across Europe, the Middle East, and Central Asia.",
+    "url": "https://torq.io/resources/hwg-sababa-mssp-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "We will expand our product list by adding machinery tools to our screws and hardware for concrete, and contribute to the Japanese manufacturing with our industry-leading inventory size and distribution network.",
+    "url": "https://www.torq.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": ": Trusted by Fortune 500 for production use, with 300% YoY growth and global momentum in EMEA, Americas, and APAC; ends SOAR era by transforming SOCs into proactive, human-augmented powerhouses.[1][2][3]",
+    "url": "https://startupintros.com/orgs/torq",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The Fortune 500 Runs on Torq",
+    "url": "https://torq.io/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The headlines speak for themselves. In Forbes, Torq was called out for “carving an unconventional new lane in cybersecurity.” We’ve got Fortune 500 logos in production, 300% YoY growth, and a market-defining platform that’s changing how people think about SecOps.",
+    "url": "https://torq.io/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Torq’s 2026 acquisition of Jit brought a live Context Graph into the AI SOC Platform, giving every investigation a single, continuously-updated source of truth across your organization’s assets, relationships, and real-time state.",
+    "url": "https://torq.io/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Join Torq Revenue Enablement Velocity (REV) —",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue You Can Forecast",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "MSSP / MDR: You resell, manage, and service the platform as part of your own security offering, running it on behalf of your customers.",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Every role here is an essential driver of Torq’s success as the AI SOC platform of choice for security teams across the Fortune 500. We’d love to see what you can bring to the team!",
+    "url": "https://torq.io/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll just carry on actually being one of the best startups to work for.",
+    "url": "https://torq.io/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of Torq’s multi-agent system (MAS),",
+    "url": "https://torq.io/blog/gartner-ai-vendor-race-company-to-beat/",
+    "pass": 1
+   },
+   {
+    "quote": "Torq serves as both an MCP host (accessing external MCP servers) and a client (exposing its own workflows as MCP tools for other agents). This is what an AI-native architecture looks like in 2026, built from the ground up to operate as part of an interoperable agentic ecosystem.",
+    "url": "https://torq.io/blog/gartner-ai-vendor-race-company-to-beat/",
+    "pass": 1
+   },
+   {
+    "quote": "Phillip Tarrant, SOC Technical Manager",
+    "url": "https://torq.io/blog/gartner-ai-vendor-race-company-to-beat/",
+    "pass": 1
+   },
+   {
+    "quote": "HWG Sababa steadily adds customers every year and, in turn, must support a growing array of customer technologies.",
+    "url": "https://torq.io/resources/hwg-sababa-mssp-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Smadariによれば、顧客にはCarvana、Marriott、PepsiCo、Procter & Gamble、Siemens、Uber、Valvoline、Virgin Atlanticに加え、いわゆる「ユニコーン」段階の企業も含まれるという",
+    "url": "https://blackhatnews.tokyo/archives/56895",
+    "pass": 3
+   },
+   {
+    "quote": "IPOを視野に入れるTorqは、顧客数を250社以上にまで伸ばしており、この数字は過去1年で倍増したとSmadariは述べる",
+    "url": "https://blackhatnews.tokyo/archives/56895",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how to configure case management automatically as part of workspace provisioning.",
+    "url": "https://kb.torq.io/en/collections/8856042-cases",
+    "pass": 3
+   },
+   {
+    "quote": "TORQ Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/torq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At TORQ",
+    "url": "https://prospeo.io/c/torq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/torq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/torq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of TORQ?",
+    "url": "https://prospeo.io/c/torq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "TORQ generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/torq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/torq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/torq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does TORQ have?",
+    "url": "https://prospeo.io/c/torq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/torq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/437288-23",
+    "pass": 3
+   },
+   {
+    "quote": "Investments & Acquisitions (3)",
+    "url": "https://pitchbook.com/profiles/company/437288-23",
+    "pass": 3
+   },
+   {
+    "quote": "Torq’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/437288-23",
+    "pass": 3
+   },
+   {
+    "quote": "To view Torq’s complete investments and acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/437288-23",
+    "pass": 3
+   },
+   {
+    "quote": "Torq has 382 total employees.",
+    "url": "https://pitchbook.com/profiles/company/437288-23",
+    "pass": 3
+   },
+   {
+    "quote": "What is Torq’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/437288-23",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Torq is",
+    "url": "https://pitchbook.com/profiles/company/437288-23",
+    "pass": 3
+   },
+   {
+    "quote": "The company’s solutions are adopted by security teams across leading global enterprises, including Fortune 500 and Fortune 100 organizations. Torq’s strategic vision focuses on pioneering the autonomous SOC era, aiming for a future where AI empowers security analysts to unparalleled effectiveness, continuously advancing the AI SOC category.",
+    "url": "https://startupintros.com/orgs/torq",
+    "pass": 3
+   },
+   {
+    "quote": ": Trusted by Fortune 500 for production use, with 300% YoY growth and global momentum in EMEA, Americas, and APAC; ends SOAR era by transforming SOCs into proactive, human-augmented powerhouses.[1][2][3]",
+    "url": "https://startupintros.com/orgs/torq",
+    "pass": 3
+   },
+   {
+    "quote": "$100M ARR target in 2026",
+    "url": "https://startupintros.com/orgs/torq",
+    "pass": 3
+   },
+   {
+    "quote": "torq.io/news/torq-announces-revenue-and-employee-growth",
+    "url": "https://startupintros.com/orgs/torq",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "AMP’d up? Apply for the Torq Alliance & Momentum Partner Program now.",
+    "url": "https://torq.io/alliances/",
+    "pass": 1
+   },
+   {
+    "quote": "Torq REV: Channel Partner Program | Win with Torq",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "the world’s most decorated AI SOC partner program.",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "5 Star Partner Program",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers, VARs, and distributors adding the leading AI SOC platform to their portfolio",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-tenant platform, consumption-aligned economics, white-label options, and dedicated MSSP support",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to Become a Partner",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "REV’d Up? Apply to Become a Torq Channel Partner",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you support white-label and multi-tenant deployments for MSSPs?",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Currently, no white-label tenant features are available. This is a roadmap item. Yes, Torq is highly multi-tenant-capable.",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "None beyond a simple reseller agreement.",
+    "url": "https://torq.io/channel-partners/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Torq、AI駆動のハイパーオートメーションでSOARを超え、SOCを次の段階へ – TokyoBlackHatNews",
+    "url": "https://blackhatnews.tokyo/archives/56895",
+    "pass": 3
+   },
+   {
+    "quote": "を導入している顧客の大半は米国に本社を置く多国籍企業であり、ロンドン、ドイツ、日本にも一部存在する",
+    "url": "https://blackhatnews.tokyo/archives/56895",
+    "pass": 3
+   },
+   {
+    "quote": "We will expand our product list by adding machinery tools to our screws and hardware for concrete, and contribute to the Japanese manufacturing with our industry-leading inventory size and distribution network.",
+    "url": "https://www.torq.co.jp/en/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Torq — 自信と力を、取り戻す。 服をもっと綺麗に着たい、一日中しっかり支えられていたい。 TORQは、そんなあなたのために作られました。 イオン加圧生地 を採用し、体に心地よく沿うサポート感でシルエットを整え、一日中快適に。",
+    "url": "https://torqjapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Torq AI SOC Platform | AI Agents and Agentic SecOps — “Torq is the first solution we’ve seen that effectively enables SOC professionals to mitigate issues including alert fatigue, false positives, staff burnout, and attrition.”",
+    "url": "https://torq.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Torq、AI駆動のハイパーオートメーションでSOARを超え、SOCを次の段階... — Feb 1, 2026 · Torqはイスラエルに拠点を置くが、アラートのトリアージを自律的に管理するために構築されたAIネイティブのSOCプラットフォーム Torq HyperSOC を導入している顧客の大半は米国に本社を置く多国籍企業であり、ロンドン、ドイツ、日本にも一部存在する。",
+    "url": "https://blackhatnews.tokyo/archives/56895",
+    "pass": 3
+   },
+   {
+    "quote": "Step Runners | Torq Knowledge Base — Learn how to deploy, configure, and troubleshoot self-hosted Docker and Kubernetes (K8s) Step Runners in Torq.",
+    "url": "https://kb.torq.io/en/collections/14585724-step-runners",
+    "pass": 3
+   },
+   {
+    "quote": "Torqの日本進出可能性・営業としての魅力・企業研究 — Genba — Oct 24, 2026 · 日本を勤務地候補に含む初期APAC営業求人は強いシグナルだが、日本法人、専任体制、国内顧客事例は未確認。 攻撃と警告が人員より速く増える一方、企業は誤作動を抑え、権限、証跡、人の監督を残したまま調査と対応を高速化する必要がある。",
+    "url": "https://genbajapan.com/companies/torq",
+    "pass": 3
+   },
+   {
+    "quote": "TORQ Commodities - Global Leaders in Commodity Trading and ... — TORQ is a fast-growing global commodities group focused on the agricultural and hard commodities value chain.",
+    "url": "https://wearetorq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Torq — Torq is a hyperautomation platform that connects and automates security infrastructure with AI, offering workflows, triggers, and integrations for efficient operations.",
+    "url": "https://app.torq.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Home | Torq Knowledge Base — Torq Knowledge Base Master Torq HyperSOC and AI-Driven Hyperautomation with Torq Academy. Learn how to build efficient SOC using Torq HyperSOC best practices, AI-powered automation, and scalable workflows.",
+    "url": "https://kb.torq.io/en/",
+    "pass": 3
+   },
+   {
+    "quote": "TORQ Inc.－Sales company specializing in screws, hardware, and ..... — Sep 11, 2026 · Official site of TORQ Inc. a specialized trading company with the top market share in Japan.",
+    "url": "https://www.torq.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Torq について — Torq（トルク）は、毎日の暮らしをより便利に、より快適にするためのアイテムを世界中から厳選してお届けするライフスタイルブランドです。 テクノロジーは、目立つためではなく、暮らしを自然に支えるためにある。 私たちはそう考えています。",
+    "url": "https://torqjapan.com/pages/torq-について",
+    "pass": 3
+   },
+   {
+    "quote": "Japan - Tuff Torq Corporation — Japan Japan Kanzaki Kokyukoki Mfg. Co., Ltd. Distributor 2-18-1 Inadera Amagasaki, Hyogo Our Mission",
+    "url": "https://www.tufftorq.com/distributors/japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Archives | Torq — Global Hospitality Leader Builds Automations 40x Faster With Torq Read More Case Study",
+    "url": "https://torq.io/resources-type/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "AI SOC Customers | TorqTorq B2B Case Studies & Customer SuccessesCases | Torq Knowledge BaseTorq Torq Hyperautomation Platform: sourced case studiesTORQ ManufacturingB2B Case Studies: How Torq Uses Software & Services — The world’s biggest financial, health, retail, hospitality, and technology companies are achieving extraordinary outcomes with the Torq AI SOC Platform. See how Torq solves busines",
+    "url": "https://torq.io/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Torq B2B Case Studies & Customer Successes — See how Torq solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/torq",
+    "pass": 3
+   },
+   {
+    "quote": "Cases | Torq Knowledge Base — Customize Case State Transitions with Torq Workflows Learn how to customize case state transitions, ensuring each transition meets specific requirements before execution.",
+    "url": "https://kb.torq.io/en/collections/8856042-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Torq Torq Hyperautomation Platform: sourced case studies — Customer case studies that used Torq Torq Hyperautomation Platform, documented from their original published sources.",
+    "url": "https://www.casestudydesk.com/product/torq-torq-hyperautomation-platform",
+    "pass": 3
+   },
+   {
+    "quote": "TORQ Revenue, Funding & Valuation - prospeo.io — When was TORQ founded? TORQ was founded in 2008, making it 18 years old. The company has established itself as a significant player in its industry over this time.",
+    "url": "https://prospeo.io/c/torq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Torq – Revenue Estimate & Market Landscape – 2026 — Per employee, Torq is estimated to generate $178K in revenue. So far, investors have poured $332M into Torq. Torq’s estimated valuation currently stands at $1.2B. Torq's workforce currently comprises over 300+ employees. Disclosed rounds shown total $308.2M. Reported total funding is $332M.",
+    "url": "https://compworth.com/company/torq",
+    "pass": 3
+   },
+   {
+    "quote": "Torq 2026 Company Profile: Valuation, Funding & Investors ...Torq: Funding, Team & Investors | Startup IntrosTorq - $3.4 M Revenue, Employees & Growth | Kona EquityTorq Announces 300% Revenue Growth and 200% Employee Growth ...Torq (Financial Software) 2026 Company Profile: Valuation ... — Information on valuation, funding, cap tables, investors, and executives for Torq. Use the PitchBook Platform",
+    "url": "https://pitchbook.com/profiles/company/437288-23",
+    "pass": 3
+   },
+   {
+    "quote": "Torq: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2020 by cybersecurity veterans Ofer Smadari, Eldad Livni, and Leonid Belkind, Torq arose from their collective insights. They identified a critical need to redefine security operations, inspiring creation of the industry’s first hyperautomation platform.",
+    "url": "https://startupintros.com/orgs/torq",
+    "pass": 3
+   },
+   {
+    "quote": "Torq - $3.4 M Revenue, Employees & Growth | Kona Equity — Torq, has an estimated annual revenue of $3.4 M, with approximately 110 employees, headquartered in Portland, OR, operating in the Computer Software industry, founded in 2020.",
+    "url": "https://www.konaequity.com/company/torq-8695605626/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@torqcommodities.com",
+    "url": "https://wearetorq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe to our emails",
+    "url": "https://torqjapan.com/pages/torq-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Join our email list for exclusive offers and the latest news.",
+    "url": "https://torqjapan.com/pages/torq-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/torq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/437288-23",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Torq - LinkedIn AI SOC Leader | Torq is the AI SOC platform that combines agentic insights and automation so that enterprises can triage, investigate, and respond to actual risks, faster.",
+    "url": "https://www.linkedin.com/company/torqio",
+    "pass": 3
+   },
+   {
+    "quote": "Torq - LinkedIn Torq | 4,032 followers on LinkedIn. Challenge What's Possible. | Challenge what's possible with Torq. Here, we believe that consulting isn't a service; it's a true partnership.",
+    "url": "https://www.linkedin.com/company/gotorq",
+    "pass": 3
+   },
+   {
+    "quote": "Torq | LinkedIn Criado em 2018, o Torq é referência em inovação no setor financeiro. Por meio de inovação aberta e investimentos em startups, promove a adoção de novas tecnologias e inteligência de mercado.",
+    "url": "https://br.linkedin.com/company/torqventures",
+    "pass": 3
+   },
+   {
+    "quote": "TORQ - LinkedIn TORQ is focused on expanding throughout Alberta, across Canada, and into cross-border transportation, while developing a strong network of company equipment, professional drivers,...",
+    "url": "https://ca.linkedin.com/company/torqinc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TORQ Distribution - FacebookTORQ Tool Company - FacebookTORQ Coatings | Lombard IL - FacebookTorq - FacebookTorq Lubricants | Cape Town - FacebookTorqparts | Bayswater VIC - FacebookTorq MSP | Bakersfield CA - Facebook Oct 12, 2026 · Make sure to grab a commemorative BG Platinum® 44K® can, scan the QR code, and enter for your chance to win TORQ prizes and be automatically entered into the national",
+    "url": "https://www.facebook.com/Torqdist/",
+    "pass": 3
+   },
+   {
+    "quote": "TORQ Tool Company - FacebookTORQ Coatings | Lombard IL - FacebookTorq - FacebookTorq Lubricants | Cape Town - FacebookTorqparts | Bayswater VIC - FacebookTorq MSP | Bakersfield CA - Facebook TORQ Tool Company. 7,125 followers · 4 talking about this. TORQ® set out to develop a tool everyone would enjoy and understand: a streamlined machine... Oct 15, 2026 · Every TORQ installation involves multiple",
+    "url": "https://www.facebook.com/TorqToolCompany/",
+    "pass": 3
+   },
+   {
+    "quote": "TORQ Coatings | Lombard IL - Facebook Oct 15, 2026 · Every TORQ installation involves multiple steps, from preparing the concrete to applying the final topcoat. Each stage serves a purpose, and the work underneath is just as important as what you see when we’re finished.",
+    "url": "https://www.facebook.com/torqcoatings/",
+    "pass": 3
+   },
+   {
+    "quote": "Torq - FacebookTorq Lubricants | Cape Town - FacebookTorqparts | Bayswater VIC - FacebookTorq MSP | Bakersfield CA - Facebook With Torq’s Parallel Execution, security teams can focus on actual security responses without sacrificing precious time and resources to develop the workflows that deliver them. The Parallel Execution capability, as well as the workflow templates that use it, are available ",
+    "url": "https://www.facebook.com/torqhq/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Torque / とるく (@torque96k) / X \\お知らせ／ Torqueが代表をつとめるクリエイターチーム「ARTGATHER」にて楽曲を投稿しました🙌 架空のVsingerさんのオリジナル曲を作るという企画です。 聴いてください！",
+    "url": "https://x.com/torque96k",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://torq.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/channel-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/blog/gartner-ai-vendor-race-company-to-beat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/channel-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/resources/kenvue-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/resources/lennar-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/resources/hwg-sababa-mssp-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/resources/check-point-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torq.io/resources/bank-case-study/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://torq.io/wp-content/uploads/2025/09/callout-featured-logos.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://torq.io/wp-content/uploads/2025/06/evolution-equity-partners-logo-300x96.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://torq.io/wp-content/uploads/2025/06/bessemer-venture-partners-logo-300x129.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://torq.io/wp-content/uploads/2024/02/insight-partners-logo-300x103.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://torqjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blackhatnews.tokyo/archives/56895",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kb.torq.io/en/collections/14585724-step-runners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wearetorq.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.torq.io/auth/signIn?redirect=%2F",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kb.torq.io/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torqjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.torq.co.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://torqjapan.com/pages/torq-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/torq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kb.torq.io/en/collections/8856042-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/torq-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/torq",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/437288-23",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/torq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/torqio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/gotorq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/torqventures",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/torqinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Torqdist/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TorqToolCompany/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/torqcoatings/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/torqhq/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/torque96k",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Torq 日本 導入",
+   "results": [
+    "https://torqjapan.com/",
+    "https://torq.io/",
+    "https://blackhatnews.tokyo/archives/56895",
+    "https://kb.torq.io/en/collections/14585724-step-runners",
+    "https://genbajapan.com/companies/torq",
+    "https://www.torq.co.jp/",
+    "https://www.torq.co.jp/ir/press/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Torq 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://wearetorq.com/",
+    "https://app.torq.io/",
+    "https://kb.torq.io/en/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.torq.co.jp/company/",
+    "https://nejinet.jp/",
+    "https://www.rotork.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Torq Japan",
+   "results": [
+    "https://torqjapan.com/",
+    "https://www.torq.co.jp/en/",
+    "https://torqjapan.com/pages/torq-について",
+    "https://torq.io/",
+    "https://www.tufftorq.com/distributors/japan/",
+    "https://www.instagram.com/torq_japan/",
+    "https://trq.co.jp/",
+    "https://ja.wikipedia.org/wiki/TOP_JAPAN"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Torq manufacturing customer case study",
+   "results": [
+    "https://torq.io/resources-type/case-study/",
+    "https://torq.io/customers/",
+    "https://www.casestudies.com/company/torq",
+    "https://kb.torq.io/en/collections/8856042-cases",
+    "https://www.casestudydesk.com/product/torq-torq-hyperautomation-platform",
+    "https://www.torqmfg.com/",
+    "https://www.casestudies.com/customer/torq"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Torq white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://www.verkada.com/partners/",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Torq founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/torq-revenue",
+    "https://compworth.com/company/torq",
+    "https://pitchbook.com/profiles/company/437288-23",
+    "https://startupintros.com/orgs/torq",
+    "https://www.konaequity.com/company/torq-8695605626/",
+    "https://torq.io/news/torq-announces-revenue-and-employee-growth/",
+    "https://pitchbook.com/profiles/company/503211-52"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Torq",
+   "results": [
+    "https://note.com/tag/日付シート",
+    "https://note.com/wise_turtle184",
+    "https://note.com/tag/LoL",
+    "https://note.com/tag/断髪小説",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/katarimasu/n/n38201fed61b0",
+    "https://note.com/100yen_today/n/n721cd516a0fc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Torq",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Torq",
+   "results": [
+    "https://www.linkedin.com/company/torqio",
+    "https://www.linkedin.com/company/gotorq",
+    "https://br.linkedin.com/company/torqventures",
+    "https://ca.linkedin.com/company/torqinc",
+    "https://in.linkedin.com/company/torq-commodities",
+    "https://il.linkedin.com/in/yaron-bartov-5b72b721",
+    "https://in.linkedin.com/company/thetorqai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Torq",
+   "results": [
+    "https://www.facebook.com/Torqdist/",
+    "https://www.facebook.com/TorqToolCompany/",
+    "https://www.facebook.com/torqcoatings/",
+    "https://www.facebook.com/torqhq/",
+    "https://www.facebook.com/TorqLubricants/",
+    "https://www.facebook.com/torqparts/",
+    "https://www.facebook.com/torqmsp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Torq note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://jp.linkedin.com/in/toshiyuki-higaki",
+    "https://www.torq.co.jp/wp-content/uploads/20251212.pdf",
+    "https://www.torq.co.jp/company/president/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Torq X 投稿",
+   "results": [
+    "https://x.com/torque96k",
+    "https://torq.io/",
+    "https://www.instagram.com/torq_x_official/",
+    "https://www.chemicalguys.com/products/torqx-random-orbital-polisher",
+    "https://www.instagram.com/torq._x/",
+    "https://torq-x.com/",
+    "https://x.com/LOVE_Torq_/status/2038593729486000608"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部29頁・検索12回）"
+ }
+}

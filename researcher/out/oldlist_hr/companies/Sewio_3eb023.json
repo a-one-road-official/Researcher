@@ -1,0 +1,1483 @@
+{
+ "name": "Sewio",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T07:56:06.354853+00:00",
+ "official_url": "https://www.sewio.net",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Contact Us",
+    "value": "FAQ",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "label": "Contact Us",
+    "value": "FAQ",
+    "url": "https://www.sewio.net/company/about-us/",
+    "pass": 1
+   },
+   {
+    "label": "Contact Us",
+    "value": "FAQ",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "label": "Contact Us",
+    "value": "FAQ",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "label": "Contact Us",
+    "value": "FAQ",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "label": "Contact Us",
+    "value": "FAQ",
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "pass": 1
+   },
+   {
+    "label": "Contact Us",
+    "value": "FAQ",
+    "url": "https://www.sewio.net/company/sewio-rtls-mvp-program/",
+    "pass": 1
+   },
+   {
+    "label": "Contact Us",
+    "value": "FAQ",
+    "url": "https://www.sewio.net/become-a-solution-partner/",
+    "pass": 1
+   },
+   {
+    "label": "Contact Us",
+    "value": "FAQ",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-august-2023/",
+    "pass": 1
+   },
+   {
+    "label": "Contact Us",
+    "value": "FAQ",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-april-2022/",
+    "pass": 1
+   },
+   {
+    "label": "Contact Us",
+    "value": "FAQ",
+    "url": "https://www.sewio.net/company/newsletter/cisco-and-sewio-partner-to-bring-uwb-technology-to-the-global-market/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Work in Progress Tracking",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Make-to-Order Production",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "more productive, cost-effective and safe.",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "and AGV’s brought Volkswagen real-time data needed to improve the utilization of warehouse and decrease the distance traveled.",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Indoor tracking allowed the automation of booking in/out process, leading to saving 15% of employees and shortening the lead time by 50%, from six to three hours.",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Read how RTLS enabled Coninental to improve the efficiency of their equipment and processes and reduce downtime to a minimum.",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase Logistic Productivity",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Employee Safety",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to this digitalization project, we were able to reduce safety stock from eight to four hours and finally run a true Just-in-Time operation. The system paid for itself in two years, and we’re only starting to tap into its potential for many more applications.”",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "GL project team & digitalization, Toyota Motors",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Sewio is one of the most enthusiastic and agile companies I’ve been working with in the IoT space. Our cooperation with Sewio proved their engineering competence and prompt response times. They are a trustworthy partner with deep knowledge and understanding of location technologies. We believe that our cooperation will create important mutual synergies in the IoT space.",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "“I have been testing the RTLS since receiving the demo in early May. So far we have all been impressed with the Sewio platform. The accuracy is excellent and the RTLS Studio is very comprehensive.”",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "| April 9th, 2026",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Work in Progress Tracking",
+    "url": "https://www.sewio.net/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Make-to-Order Production",
+    "url": "https://www.sewio.net/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "unit, we now provide a complete portfolio of location services for indoor, outdoor and mixed environments that utilize",
+    "url": "https://www.sewio.net/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Work in Progress Tracking",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Make-to-Order Production",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "No More Searching, No More Waste: Innovating Production and Logistics",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your production and logistics processes with a single solution.",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "As a production/warehouse manager, you know how crucial it is to",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "of your production and logistical processes. Our",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "reliable and precise data",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Navigate your fleet, prevent incorrect (un)loads and reduce downtime",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Your Employees",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventing incorrect loads/unloads",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "of the final product. Plus,",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "by preventing the need to trash a final product due to insufficient quality.",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensuring the quality of the final product",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Planning and utilization improvement",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "by employing a collision prevention system – alerting forklift drivers whenever they get dangerously close to other personnel,",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "promoting a safer, more vigilant",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "prevent unnecessary waste disposal",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventing revenue leakage",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "increase of production efficiency",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "improvement in the digitalization of your production and logistics processes",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Full visibility of your live processes means",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "shorter time-to-value Industry 4.0-ready projects",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": ", resulting in optimized workflows, increased production and reduced costs.",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "in your region for your project based on customer/partner fit.",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to Improve Your Production and Logistics Processes?",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Work in Progress Tracking",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Make-to-Order Production",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "| April 9th, 2026",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "| April 10th, 2025",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "RTLS Studio 3.4 brings improvements for anyone managing large or complex tracking areas. Subnets now sync more smoothly[...]",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Work in Progress Tracking",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Make-to-Order Production",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how RTLS helps you cut production waste and go lean. Get our free ebook, read a case study, and claim free tickets to an industry event in Barcelona, Spain.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "In this issue, discover how the latest updates to RTLS Studio 3.4 bring flawless tracking across multiple networks, learn about the improved reliability and UI enhancements in MyRTLS Care",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Smoother setup and improved user experience brought by RTLS Studio 3.2 ensure your RTLS is both powerful and user-friendly.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Sewio News: On-premises version of myRTLS released!",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Sewio News: Immersive training for coping with deadly agents",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch a video on how first responders carry out their crucial training leveraging Sewio RTLS.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Sewio News: Accelerate Your RTLS Project Deployment",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Sewio News: Meet the Most Valuable Professionals in Our Community",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Sewio launches new MVP program to give industry recognition to outstanding professionals in the RTLS community. Check out the first recipients.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Sewio News: Join a Pre-Release Webinar Revealing New Features",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Be the first to explore the features of the new RTLS 2.5, learn to master combining location modes for your futures projects and more…",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "New anchor release, leverage new safety use cases with tag zones and watch three videos or join a webinar to get inspired for your next RTLS projects.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial Real-Time Location System (RTLS) | Sewio RTLS",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize Your Efficiency With Industrial Real-Time Location System (RTLS)",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Save 20% of Warehouse Space Just Like Volkswagen",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "and AGV’s brought Volkswagen real-time data needed to improve the utilization of warehouse and decrease the distance traveled.",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Accomplish 50% Shorten Lead Time as SEG Automotive Did",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase Your Plant’s OEE by 2% Just like Continental Did",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Bora Italy leveraged indoor tracking to increase the utilization of their warehouse by 10% and reduce picking time by 15% while completely eliminating errors.",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our new industrial RTLS infrastructure, built to stand the test of time.",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Factories 2026: Get a Free Pass and Meet Us There",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a discount code and see HID Industrial RTLS at Advanced Factories 2026 in Barcelona [...]",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "is a developer and manufacturer of industrial real-time location systems (RTLS).",
+    "url": "https://www.sewio.net/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Sewio customers include Volkswagen, Toyota, Budweiser Budvar, Škoda, and ENEL.",
+    "url": "https://www.sewio.net/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "As a production/warehouse manager, you know how crucial it is to",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Factories 2026: Get a Free Pass and Meet Us There",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a discount code and see HID Industrial RTLS at Advanced Factories 2026 in Barcelona [...]",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Get an Exclusive Pass to the American Automotive Summit",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re heading to Detroit this October—the heart of American automotive innovation—to be part of the American Automotive Summit. [...]",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Free Tickets to Advanced Factories 2025, Barcelona, Spain",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us at Advanced Factories 2025 in Barcelona! Be among the first to see our industrial RTLS with UWB, GPS, and BLE in action. [...]",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Enjoy the largest industrial trade show in Poland where experts gather to share knowledge, innovative ideas and passion for new technologies. [...]",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how RTLS helps you cut production waste and go lean. Get our free ebook, read a case study, and claim free tickets to an industry event in Barcelona, Spain.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "In our August 2024 newsletter, we explore the impact of the new UWB EU regulations on RTLS. Plus, learn how lean manufacturing can help you reduce waste and see where you can meet us in September.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Our May newsletter highlights the Sewio RTLS 3.3 release, enhancing interoperability, and explores geolocation’s impact on automotive efficiency and optimizing milk runs in intralogistics.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Sewio News: RTLS industrial deployment success is now at your fingertips",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "See how we can support factories in the current Covid-19 climate, check out our latest RTLS evangelizing animation and read about Locatify’s project helping visually impaired people.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "What are the key industrial use cases that bring ROI? New RTLS platform introduction and voting on next Sewio Summit!",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "The ROI and Cost Efficiency of Indoor Tracking Services in the Industrial Market",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "See how the cabling producer Prakab reached 11 months pay back period and join our webinar on how Sewio estimates and measures ROI in industrial projects.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Sewio awarded again by Deloitte, new RTLS Studio and a case study on Ensuring the Production Quality in Germany.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "A revolutionary case study, top three factors for great RTLS and a Sewio Summit recap.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "See how RTLS can enhance Kanban and MTO production methodologies. Learn on the dilution of precision and read the latest case study.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a $25 Visa gift card for a review, case study on RFID replacement, the updated online RTLS Studio demo and more news from Sewio.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "Updated Customer Section, brand new case study and news about Sewio Summit.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "paperless manufacturing",
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "To digitize the Kanban flow and move towards paperless manufacturing, the current paper Kanban cards are being replaced by",
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "and transparency throughout the manufacturing organization. And not having",
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-life Case Study of eKanban",
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The following results were obtained using eKanban delivered by Sewio RTLS in one automotive – yet, due to an NDA,",
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Managers now have full, real-time visibility and control over the manufacturing process, allowing quicker decisions, better planning and continuous process optimization.",
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "technologies and their deployment within automotive industry showed us that harsh metallic environment is the common attribute of all the projects and the main reason why technologies other than Sewio failed. Sewio UWB TDoA based technology is not just a right-first time option for industry projects, but often the only reliable solution on the market.”",
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Smart Factory Department at",
+    "url": "https://www.sewio.net/company/sewio-rtls-mvp-program/",
+    "pass": 1
+   },
+   {
+    "quote": ". Learn which industry giants trust and use our Real-Time Location System (RTLS) to transform their industrial shop floors. Join us as we march towards our tenth year, promising innovation and continued success.",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-august-2023/",
+    "pass": 1
+   },
+   {
+    "quote": "manufacturing companies",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-august-2023/",
+    "pass": 1
+   },
+   {
+    "quote": "Revolutionizing Shop Floor Efficiency: Join us at ITUSA 2023, Indianapolis, USA!",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-august-2023/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Transformation USA",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-august-2023/",
+    "pass": 1
+   },
+   {
+    "quote": "influence on manufacturing",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-august-2023/",
+    "pass": 1
+   },
+   {
+    "quote": "you can now experience Sewio RTLS in the context of SAP’s production and manufacturing solutions at the SAP Experience Center Newtown Square. Can’t make it to Philly? Discover",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-august-2023/",
+    "pass": 1
+   },
+   {
+    "quote": "This March, we officially announced our partnership with the global sensor manufacturer, SICK, and",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-april-2022/",
+    "pass": 1
+   },
+   {
+    "quote": ". This is an incredibly exciting partnership that can establish UWB as the de facto standard for industrial indoor positioning!",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-april-2022/",
+    "pass": 1
+   },
+   {
+    "quote": "Webinar: 2 Use Cases How RTLS Can Greatly Improve Manufacturing & Increase",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-april-2022/",
+    "pass": 1
+   },
+   {
+    "quote": "Join our live webinar and learn how RTLS can greatly improve manufacturing & increase transparency. Together with our experts",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-april-2022/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Indoor tracking allowed the automation of booking in/out process, leading to saving 15% of employees and shortening the lead time by 50%, from six to three hours.",
+    "url": "https://www.sewio.net/",
+    "pass": 1
+   },
+   {
+    "quote": "About Sewio (part of HID) | UWB RTLS",
+    "url": "https://www.sewio.net/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": ", part of HID,",
+    "url": "https://www.sewio.net/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "within HID and to be an active part of our community.",
+    "url": "https://www.sewio.net/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2024, we were acquired by the American HID, the global leader in access controls. As part of its",
+    "url": "https://www.sewio.net/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "“SEWIO” is a word trademark registered at EU IPO under nr. 018754885.",
+    "url": "https://www.sewio.net/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Your Employees",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure the safety and security of your employees",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "(ex. coil cooling areas) and warn your employees with alerts when entering these zones. Or",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Increasing the safety and security of your employees",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventing revenue leakage",
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re heading to Detroit this October—the heart of American automotive innovation—to be part of the American Automotive Summit. [...]",
+    "url": "https://www.sewio.net/company/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch a video on how first responders carry out their crucial training leveraging Sewio RTLS.",
+    "url": "https://www.sewio.net/company/newsletter/",
+    "pass": 1
+   },
+   {
+    "quote": "carrying the same information and extending it with",
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer employees needed to cover the operation",
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Three Employees Saved",
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Three employees over three shifts had to manually collect, sort and insert the Kanban cards back into the Kanban box. eKanban automated this system and eliminated the error-prone work process.",
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Your Ticket and Become a Part of It",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-august-2023/",
+    "pass": 1
+   },
+   {
+    "quote": ". Including offering employees a three-day paid leave to volunteer, Sewio has seen its team members use this time to do a variety of charitable acts of their own volition.",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-april-2022/",
+    "pass": 1
+   },
+   {
+    "quote": "1285% revenue growth",
+    "url": "https://www.sewio.net/company/newsletter/cisco-and-sewio-partner-to-bring-uwb-technology-to-the-global-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Sewio Networks 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/123170-86",
+    "pass": 3
+   },
+   {
+    "quote": "3. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/123170-86",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio Networks has 50 total employees.",
+    "url": "https://pitchbook.com/profiles/company/123170-86",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sewio Networks’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/123170-86",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Sewio Networks is",
+    "url": "https://pitchbook.com/profiles/company/123170-86",
+    "pass": 3
+   },
+   {
+    "quote": "When was Sewio Networks acquired?",
+    "url": "https://pitchbook.com/profiles/company/123170-86",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio Networks was acquired on 06-Aug-2024.",
+    "url": "https://pitchbook.com/profiles/company/123170-86",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Sewio Networks?",
+    "url": "https://pitchbook.com/profiles/company/123170-86",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio Networks was acquired by",
+    "url": "https://pitchbook.com/profiles/company/123170-86",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partner Program Benefits",
+    "url": "https://www.sewio.net/become-a-solution-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "A transparent Partner Program",
+    "url": "https://www.sewio.net/become-a-solution-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Free ready-to-rebrand marketing materials",
+    "url": "https://www.sewio.net/become-a-solution-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "The Partner Program offers true partnership benefits, assisting in the development of high-profile projects, and providing high-quality referrals to RTLS-ready clients, customizable marketing collaterals, and joint representation at events.",
+    "url": "https://www.sewio.net/become-a-solution-partner/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "You are receiving this email because you opted in at our website or you have been in contact with Sewio in the past.",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-august-2023/",
+    "pass": 1
+   },
+   {
+    "quote": "You are receiving this email because of you opted in at our website or you have been in contact with Sewio in the past.",
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-april-2022/",
+    "pass": 1
+   },
+   {
+    "quote": "You are receiving this email because of you opted in at our website or you have been in contact with Sewio in the past.",
+    "url": "https://www.sewio.net/company/newsletter/cisco-and-sewio-partner-to-bring-uwb-technology-to-the-global-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/123170-86",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Industrial Real-Time Location System (RTLS) | Sewio RTLS — Sewio delivers industrial real-time location systems (RTLS) using UWB, BLE and GPS to increase efficiency and safety in manufacturing.",
+    "url": "https://www.sewio.net/",
+    "pass": 3
+   },
+   {
+    "quote": "HID Sewio UWB RTLS | High-Precision Real-Time Location System — HID傘下となったSewioは、産業環境向けに設計された超高精度リアルタイム位置情報システム（RTLS）を提供しています。 超広帯域無線（UWB）技術を活用することで、Sewioは企業の業務効率向上、プロセス自動化、そして様々な分野の安全性向上を実現します。",
+    "url": "https://www.hidglobal.com/ja/products/sewio-uwb-based-real-time-location-system",
+    "pass": 3
+   },
+   {
+    "quote": "HID Sewio RTLS Studio | Real-Time Location Software — RTLS Studioは、Sewio UWBベースのリアルタイム位置情報システム（RTLS）を支える強力な位置情報エンジンです。 UWBアンカーとタグからリアルタイムの位置データを収集し、運用管理の強化に必要な洞察をメーカーに提供します。",
+    "url": "https://www.hidglobal.com/ja/products/sewio-rtls-studio",
+    "pass": 3
+   },
+   {
+    "quote": "RoviSys Adds Sewio As Technology Platform Partner - News — RoviSys has been integrating Sewio technology since 2017 and is a certified Sewio Gold Digital Transformation Solutions Partner. RoviSys has demonstrated proven knowledge of both Sewio technology and business with multiple successful enterprise-level projects.",
+    "url": "https://www.rovisys.com/jp-jpn/news/blog/rovisys-adds-sewio-as-technology-platform-partner/",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio myRTLS Insights | RTLS Dashboard for Manufacturing — 統合: Sewio UWB RTLS とネイティブに連携し、外部分析ツール用の BI コネクタが含まれています ユーザーインターフェース: オペレーター、チームリーダー、マネージャー向けのWebベースの役割別ダッシュボード",
+    "url": "https://www.hidglobal.com/ja/products/sewio-myrtls-insights",
+    "pass": 3
+   },
+   {
+    "quote": "HID Sewio UWB RTLS | High-Precision Real-Time Location System — Sewio, now a part of HID, delivers ultra-precise real-time location systems (RTLS) designed for industrial environments. By leveraging ultra-wideband (UWB) technology, Sewio enables businesses to enhance operational efficiency, automate processes and increase safety across a variety of sectors.",
+    "url": "https://www.hidglobal.com/products/sewio-uwb-based-real-time-location-system",
+    "pass": 3
+   },
+   {
+    "quote": "About Sewio (part of HID) | UWB RTLS — Learn about Sewio, a developer of UWB real-time location systems (RTLS) for industrial tracking, now part of HID.",
+    "url": "https://www.sewio.net/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio Networks B2B Case Studies & Customer Successes — See how Sewio Networks solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/sewio-networks",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Marmon Foodservice Technologies: Indoor Locating ... — Sewio’s Real-Time Location Tracking System with Digital Twin provides information that is extremely difficult to obtain in any other way.”",
+    "url": "https://www.sewio.net/wp-content/uploads/2025/01/Sewio-Case-Study-Marmon-Online.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Intralogistics Optimization for an Automotive ... - sewio.net — Utilizing the Sewio RTLS system alongside Asseco CEIT’s visualization, our team has developed tools to identify and communicate problems that were previously hidden. We now have data to address these issues and demonstrate the real impact of our improvements.”",
+    "url": "https://www.sewio.net/wp-content/uploads/2025/01/Sewio-Case-Study-Automotive-Manufacturer-Online.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Continental increases plant OEE with Sewio ... — Continental (Automotive) partnered with Sewio Networks (Information Technology and Services) to solve key challenges. \"Continental - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/sewio-networks/case-study/continental-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Marmon Foodservice Technologies | HID RTLS — Quality control improvement: Marmon integrated HID Sewio RTLS with digital twin and quality tester, so they can track the production end-to-end and ensure only high-quality products leave the line. Workers can now also see if there’s any issue and they can quickly solve it.",
+    "url": "https://rtls.hidglobal.com/industrial/case-studies/marmon-foodservice",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio Networks s.r.o. – Business Snapshot & Rival Analysis – 2026 — Revenue, valuation, and funding figures for Sewio Networks s.r.o. are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/sewio-networks-s-r-o",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio - 2026 Company Profile, Team, Funding, Competitors ...Sewio Networks 2026 Company Profile: Valuation, Investors ...Sewio — Company Profile, Funding & InvestorsSewio Reports Record-Breaking Fiscal Year - Sewio RTLSSewio - Crunchbase Company Profile & FundingSewio - Overview, News & Similar companies | ZoomInfo.com — Sewio is an acquired company based in Brno (Czech Republic), founded in 2014 ",
+    "url": "https://tracxn.com/d/companies/sewio/__gq-9-Z1-3nsJh9dIkQ2mBPmTCNk8RNwB7AThA9nqJ9Q",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio Networks 2026 Company Profile: Valuation, Investors ...Sewio — Company Profile, Funding & InvestorsSewio Reports Record-Breaking Fiscal Year - Sewio RTLSSewio - Crunchbase Company Profile & FundingSewio - Overview, News & Similar companies | ZoomInfo.com — Information on acquisition, funding, cap tables, investors, and executives for Sewio Networks. Use the PitchBook Platform to explore the ",
+    "url": "https://pitchbook.com/profiles/company/123170-86",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio — Company Profile, Funding & Investors — Sewio company profile with HQ in Brno, Czech Republic, founded 2014. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/sewio",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio Reports Record-Breaking Fiscal Year - Sewio RTLS — Sewio, a UWB-based real-time location system (RTLS) vendor, announces an exceptional 71% annual billing growth for FY 2022, showcasing its accelerated adoption and recognition as first-time-right technology for Industrial RTLS.",
+    "url": "https://www.sewio.net/sewio-reports-record-breaking-fiscal-year/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SEWIO (@SEWIOnet) / Posts / X Our newest release – Sewio RTLS 3.3 is now available, and it’s all about standardization and interoperability. With this release, we move towards truly standardizing interoperability by integrating the omlox standard into Sewio RTLS.",
+    "url": "https://x.com/SEWIOnet",
+    "pass": 3
+   },
+   {
+    "quote": "SEWIO on X: \"The industrial world never stops, so why should ... Take your RTLS experience to the next level with our brand-new package of services and software – myRTLS Care and say goodbye to costly, preventable downtime 👋 Check out the full package: sewio.net/myrtls-care",
+    "url": "https://x.com/SEWIOnet/status/1523635748833873921",
+    "pass": 3
+   },
+   {
+    "quote": "SEWIO on X: \"Kudos to Roland Rais, who just got @Soitron to ... Kudos to Roland Rais, who just got @ Soitron to be certified partner on Sewio #RTLS for indoor positioning! Great to see Soitron with 27 years of experience as our new certified partner.",
+    "url": "https://x.com/sewionet/status/1004015003702263809",
+    "pass": 3
+   },
+   {
+    "quote": "Edna Bundy on X: \"bni sewio: (\" / X bni sewio: ( 18 Oct 2026 16:24:54",
+    "url": "https://x.com/sillyliledna/status/2111856053562261523",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "HID Industrial RTLS - LinkedIn Sewio Networks is a manufacturer of real-time location system (RTLS) that drives business results for manufacturers, warehouses, distribution centers, OEMs and more.",
+    "url": "https://www.linkedin.com/company/sewio-networks-s-r-o-",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio RTLS - LinkedIn Sewio Networks is a manufacturer of real-time location system (RTLS) that drives business results for manufacturers, warehouses, distribution centers, OEMs and more.",
+    "url": "https://www.linkedin.com/products/sewio-networks-s-r-o--sewio-rtls",
+    "pass": 3
+   },
+   {
+    "quote": "HID Industrial RTLS - LinkedIn Sewio Networks is a manufacturer of real-time location system (RTLS) that drives business results for manufacturers, warehouses, distribution centers, OEMs and more.",
+    "url": "https://cz.linkedin.com/company/hid-industrial-rtls",
+    "pass": 3
+   },
+   {
+    "quote": "#hid #industrialrtls #rtls #smartmanufacturing # ... - LinkedIn 🔷 Starting today, we’re changing our LinkedIn profile name from Sewio to HID Industrial RTLS.🔷 The world is complicated enough. So, when we can make things clearer, we do.",
+    "url": "https://www.linkedin.com/posts/sewio-networks-s-r-o-_hid-industrialrtls-rtls-activity-7462133798667747329--fVW",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sewio | Brno - FacebookSewio - FacebookSewio - Just in time for the Holidays, a gift ... - FacebookSewio - We're Back! It's been a while ... - FacebookSewio - Sewio keeps on growing in the US ... - FacebookSewio - GPS got us outdoors, but UWB is taking us inside ...Sewio - UWB technology just got a rocket boost! We’re... Nov 12, 2025 · Tentokrát vás vezmeme do společnosti Sewio – brněnské technolo",
+    "url": "https://www.facebook.com/SewioNetworks/",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio - Facebook Oct 8, 2026 · Sewio. 926 followers. HIP-HOP DANCER : DANCE TEACHER, WORKSHOPS, PROFESSIONAL PERFORMER DJ, PRODUCER",
+    "url": "https://www.facebook.com/SewioDance/",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio - Just in time for the Holidays, a gift ... - Facebook Dec 16, 2024 · 🎁 Just in time for the Holidays, a gift for all Sewio RTLS users! RTLS Studio 3.4 is here, bringing: - Flawless tracking across multiple networks - More...",
+    "url": "https://www.facebook.com/SewioNetworks/posts/-just-in-time-for-the-holidays-a-gift-for-all-sewio-rtls-usersrtls-studio-34-is-/1141985147928310/",
+    "pass": 3
+   },
+   {
+    "quote": "Sewio - We're Back! It's been a while ... - Facebook Sewio breakfast prepared by our amazing management team — it was the perfect way to start the day with full stomachs! 😅 And to wrap up the week, we held our annual Broken Cup — this year in the form of a volleyball tournament! 🏐 🎉Congratulations to this year’s champions: Patrik Rybníček, Michal Stejskal and Jiří Zvěřina ...",
+    "url": "https://www.facebook.com/SewioNetworks/posts/-were-back-its-been-a-while-since-our-last-post-but-were-excited-to-reconnect-an/1237969401663217/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sewio.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/company/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/rtls-in-metal-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/company/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/company/newsletter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/ekanban-for-material-flow-analysis-in-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/company/sewio-rtls-mvp-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/company/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/become-a-solution-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-august-2023/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/company/newsletter/sewio-general-newsletter-april-2022/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/company/newsletter/cisco-and-sewio-partner-to-bring-uwb-technology-to-the-global-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/wp-content/uploads/2019/05/Paper-Kanban-versus-Digital-Kanban-eKanban-1024x724.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sewio.net/wp-content/uploads/2019/05/Anchor-Placement-in-eKanban.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sewio.net/wp-content/uploads/2019/05/Tag-Placement-in-eKanban.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sewio.net/wp-content/uploads/2019/05/eKanban-Production-Hall.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sewio.net/become-a-solution-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/become-a-solution-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/become-a-solution-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sewio.net/become-a-solution-partner/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sewio.net/wp-content/uploads/2020/06/Sewio-RTL-Named-a-2020-Gartner-Peer-Insights-Customers%E2%80%99-Choice-for-Indoor-Location-Services.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27630%27%20viewBox%3D%270%200%20600%20630%27%3E%3Crect%20width%3D%27600%27%20height%3D%27630%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27600%27%20height%3D%27630%27%20viewBox%3D%270%200%20600%20630%27%3E%3Crect%20width%3D%27600%27%20height%3D%27630%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.hidglobal.com/ja/products/sewio-uwb-based-real-time-location-system",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hidglobal.com/ja/products/sewio-rtls-studio",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rovisys.com/jp-jpn/news/blog/rovisys-adds-sewio-as-technology-platform-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/en-us/contact-us/companyinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hidglobal.com/ja/products/sewio-uwb-based-real-time-location-system",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hidglobal.com/products/sewio-uwb-based-real-time-location-system",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seiyajapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sewio-networks",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sewio-networks/case-study/continental-customer-case-study",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/sewio-networks-s-r-o",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sewio/__gq-9-Z1-3nsJh9dIkQ2mBPmTCNk8RNwB7AThA9nqJ9Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/123170-86",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://acquirezy.com/organization/sewio",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SEWIOnet",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SEWIOnet/status/1523635748833873921",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sewionet/status/1004015003702263809",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sillyliledna/status/2111856053562261523",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sewio-networks-s-r-o-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/sewio-networks-s-r-o--sewio-rtls",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cz.linkedin.com/company/hid-industrial-rtls",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/sewio-networks-s-r-o-_hid-industrialrtls-rtls-activity-7462133798667747329--fVW",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SewioNetworks/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SewioDance/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SewioNetworks/posts/-just-in-time-for-the-holidays-a-gift-for-all-sewio-rtls-usersrtls-studio-34-is-/1141985147928310/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SewioNetworks/posts/-were-back-its-been-a-while-since-our-last-post-but-were-excited-to-reconnect-an/1237969401663217/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SEWIOnet",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SEWIOnet/status/1523635748833873921",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sewio 日本 導入",
+   "results": [
+    "https://www.sewio.net/",
+    "https://www.hidglobal.com/ja/products/sewio-uwb-based-real-time-location-system",
+    "https://www.hidglobal.com/ja/products/sewio-rtls-studio",
+    "https://www.rovisys.com/jp-jpn/news/blog/rovisys-adds-sewio-as-technology-platform-partner/",
+    "https://www.hidglobal.com/ja/products/sewio-myrtls-insights",
+    "https://www.bestskip.com/technology/iot",
+    "https://www.nexty-ele.com/actual/detail/zerokey01/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sewio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://global.brother/en/corporate/network/japan",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://www.aon.com/japan/company-overview",
+    "https://metoree.com/companies/427/distributors/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8963",
+    "https://metoree.com/companies/427/distributors/tokyo/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Sewio Japan",
+   "results": [
+    "https://www.sewio.net/",
+    "https://www.hidglobal.com/ja/products/sewio-uwb-based-real-time-location-system",
+    "https://www.hidglobal.com/products/sewio-uwb-based-real-time-location-system",
+    "https://www.seiyajapan.com/",
+    "https://www.sewio.net/company/about-us/",
+    "https://sewio.bandcamp.com/track/japan-law",
+    "https://www.seikowatches.com/jp-ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sewio manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/sewio-networks",
+    "https://www.sewio.net/wp-content/uploads/2025/01/Sewio-Case-Study-Marmon-Online.pdf",
+    "https://www.sewio.net/wp-content/uploads/2025/01/Sewio-Case-Study-Automotive-Manufacturer-Online.pdf",
+    "https://www.casestudies.com/company/sewio-networks/case-study/continental-customer-case-study",
+    "https://rtls.hidglobal.com/industrial/case-studies/marmon-foodservice",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/sewio-networks_bora-spa_897060.pdf",
+    "https://www.featuredcustomers.com/vendor/sewio-networks/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sewio white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/",
+    "https://www.20i.com/us/reseller-hosting"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sewio founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/sewio-networks-s-r-o",
+    "https://tracxn.com/d/companies/sewio/__gq-9-Z1-3nsJh9dIkQ2mBPmTCNk8RNwB7AThA9nqJ9Q",
+    "https://pitchbook.com/profiles/company/123170-86",
+    "https://acquirezy.com/organization/sewio",
+    "https://www.sewio.net/sewio-reports-record-breaking-fiscal-year/",
+    "https://www.crunchbase.com/organization/sewio",
+    "https://www.zoominfo.com/c/sewio/369230879"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sewio",
+   "results": [
+    "https://note.com/akira_umapro",
+    "https://note.com/dashboard",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/tnishimaki/n/n93f799203153",
+    "https://note.com/fuma_ai_lab/n/nd505d18a8b79",
+    "https://note.com/hearty_coot3780/n/n04f74167008c"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sewio",
+   "results": [
+    "https://x.com/SEWIOnet",
+    "https://x.com/SEWIOnet/status/1523635748833873921",
+    "https://x.com/sewionet/status/1004015003702263809",
+    "https://x.com/sillyliledna/status/2111856053562261523",
+    "https://x.com/",
+    "https://x.com/SimekMil",
+    "https://x.com/itscelyunique/status/2117839228826521620"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sewio",
+   "results": [
+    "https://www.linkedin.com/company/sewio-networks-s-r-o-",
+    "https://www.linkedin.com/products/sewio-networks-s-r-o--sewio-rtls",
+    "https://cz.linkedin.com/company/hid-industrial-rtls",
+    "https://www.linkedin.com/posts/sewio-networks-s-r-o-_hid-industrialrtls-rtls-activity-7462133798667747329--fVW",
+    "https://www.linkedin.com/posts/hidglobal_our-acquisition-of-sewio-expands-hids-growing-activity-7226574296649752577-RCC9",
+    "https://www.linkedin.com/pulse/sewio-news-pioneering-interoperability-33-sewio-networks-s-r-o--rnric",
+    "https://www.linkedin.com/posts/scottmullarkey_sewio-case-study-automotive-manufacturer-onlinepdf-activity-7380634260816400384-Iqrd"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sewio",
+   "results": [
+    "https://www.facebook.com/SewioNetworks/",
+    "https://www.facebook.com/SewioDance/",
+    "https://www.facebook.com/SewioNetworks/posts/-just-in-time-for-the-holidays-a-gift-for-all-sewio-rtls-usersrtls-studio-34-is-/1141985147928310/",
+    "https://www.facebook.com/SewioNetworks/posts/-were-back-its-been-a-while-since-our-last-post-but-were-excited-to-reconnect-an/1237969401663217/",
+    "https://www.facebook.com/SewioNetworks/posts/-sewio-keeps-on-growing-in-the-us-market-and-we-are-thrilled-to-welcome-viren-ma/1649731808561710/",
+    "https://www.facebook.com/SewioNetworks/posts/gps-got-us-outdoors-but-uwb-is-taking-us-inside-do-you-remember-when-gps-changed/1436100708516751/",
+    "https://www.facebook.com/SewioNetworks/posts/uwb-technology-just-got-a-rocket-boost-were-thrilled-to-announce-that-sewio-has-/1035411261919033/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sewio note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sewio X 投稿",
+   "results": [
+    "https://x.com/SEWIOnet",
+    "https://x.com/SEWIOnet/status/1523635748833873921",
+    "https://www.sewio.net/",
+    "https://x.com/Seikoshoji_SL/status/2105877202659340438",
+    "https://x.com/kaneyanwu2/status/2089412245667402030",
+    "https://x.com/renna1208",
+    "https://x.com/i/trending/2086485292601512362"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像3件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像3件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像3件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像3件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像3件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像3件／外部34頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像3件／外部34頁・検索12回）"
+ }
+}

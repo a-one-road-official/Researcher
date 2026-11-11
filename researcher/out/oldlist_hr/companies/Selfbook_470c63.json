@@ -1,0 +1,1145 @@
+{
+ "name": "Selfbook",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T07:23:09.365617+00:00",
+ "official_url": "https://www.selfbook.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$31.6M",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "A comprehensive, embedded booking and payment solution directly on hotel websites.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   },
+   {
+    "quote": "delivers comprehensive solutions designed to enhance hotel commerce, elevate guest experiences, and maximize revenue.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Selfbook distributes your private rates to nearly half a billion authenticated users across high-intent channels—helping you grow direct revenue while maintaining full control of your brand narrative, guest experience, and pricing strategy.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Armed with PCI DSS compliance, payment validation, and two-factor authentication, our proprietary technology is built to support the most secure payment journey. Selfbook also complies with GDPR and ADA requirements to ensure a seamless and inclusive user experience.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From world-class hospitality groups to modern payment partners and rewards programs, Selfbook is the Switzerland of connectivity.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", the fast growing fintech company that is empowering hotels with streamlined bookings and payments automation, today announced an official partnership with Relais & Châteaux. With this collaboration, Selfbook will bring forward its proprietary technology to the hotel group’s outstanding collection of global properties, making the connection between hotels and their guests more seamless than ever.",
+    "url": "https://selfbook.com/info-hub/selfbook-officially-partners-with-relais-chateaux",
+    "pass": 1
+   },
+   {
+    "quote": "With a focus on the human experience that is central to our industry, Relais & Châteaux is a key partner for Selfbook as we bring our technology to more global properties dedicated to enhancing their connection to their",
+    "url": "https://selfbook.com/info-hub/selfbook-officially-partners-with-relais-chateaux",
+    "pass": 1
+   },
+   {
+    "quote": "“Our partnership with Relais & Châteaux feels like a natural extension of our values here at Selfbook,” said Gautier Colin, VP, Partnerships at Selfbook. “With a focus on the human experience that is central to our industry, Relais & Châteaux is a key partner for Selfbook as we bring our technology to more global properties dedicated to enhancing their connection to their guests.”",
+    "url": "https://selfbook.com/info-hub/selfbook-officially-partners-with-relais-chateaux",
+    "pass": 1
+   },
+   {
+    "quote": "Relais & Châteaux, established in 1954, is an association of 580 unique hotels and restaurants throughout the world, owned and operated by independent entrepreneurs – most often families – who are passionate about their craft and deeply committed to forging warm, lasting relationships with their guests.",
+    "url": "https://selfbook.com/info-hub/selfbook-officially-partners-with-relais-chateaux",
+    "pass": 1
+   },
+   {
+    "quote": "Relais & Châteaux members protect and promote the wealth and diversity of the world’s culinary and hospitality traditions, to ensure they continue to thrive. They are equally dedicated to preserving local heritage and the environment, as articulated in the association’s Vision presented to UNESCO in November 2014.",
+    "url": "https://selfbook.com/info-hub/selfbook-officially-partners-with-relais-chateaux",
+    "pass": 1
+   },
+   {
+    "quote": "... guests are more confident to book our highest-end products online thanks to Selfbook’s efficient and clean",
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "pass": 1
+   },
+   {
+    "quote": "performance since Selfbook’s implementation in 2021 compared to the same period two years prior. 2020 has been excluded due to abnormal pandemic travel patterns.",
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "pass": 1
+   },
+   {
+    "quote": "avg. revenue lift for premium rooms",
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "pass": 1
+   },
+   {
+    "quote": "more confident to book our highest-end products online",
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "pass": 1
+   },
+   {
+    "quote": "A hotel dedicated to catering to its guests’ preferences down to the finest details to ensure a memorable stay, Eden Rock has harnessed Selfbook’s technology to extend its best-in-class service offering to its online experience as well.",
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "pass": 1
+   },
+   {
+    "quote": ", an enchanting boutique hotel beloved by locals in the Parisian neighborhood of the same name, stands out by providing guests with an effortlessly authentic experience in the City of Lights. A consistent meeting place for the artists and musicians of the area, Le Pigalle has also long attracted a jet-set international crowd.",
+    "url": "https://selfbook.com/case-study/39-conversion-lift-at-le-pigalle-paris",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to its new-and-improved user booking experience, Le Pigalle can become a home away from home for even more guests, and increase its direct booking share while doing so.",
+    "url": "https://selfbook.com/case-study/39-conversion-lift-at-le-pigalle-paris",
+    "pass": 1
+   },
+   {
+    "quote": "April 11, 2023",
+    "url": "https://selfbook.com/case-study/11-average-order-value-increase-at-11-howard",
+    "pass": 1
+   },
+   {
+    "quote": "lift in premium room bookings",
+    "url": "https://selfbook.com/case-study/11-average-order-value-increase-at-11-howard",
+    "pass": 1
+   },
+   {
+    "quote": "11 Howard has seen a significant uptick in room upgrades since integrating with Selfbook. With Selfbook’s conveniently located and instantly activated upgrade button, guests have been able to quickly opt into higher-end room options when presented with the opportunity to do so.",
+    "url": "https://selfbook.com/case-study/11-average-order-value-increase-at-11-howard",
+    "pass": 1
+   },
+   {
+    "quote": "At 11 Howard, the King rooms, which are a direct upgrade from the Queen, experienced a 49% increase in reservations. When these differences in price are kept small, it can lead to a large volume of upgrades.",
+    "url": "https://selfbook.com/case-study/11-average-order-value-increase-at-11-howard",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing vs. Number of Orders",
+    "url": "https://selfbook.com/case-study/11-average-order-value-increase-at-11-howard",
+    "pass": 1
+   },
+   {
+    "quote": "11 Howard’s excellent upsell performance is largely driven by the small price changes between room types, particularly among entry-level rooms. Across Selfbook’s portfolio, the average upsell price is $70, highlighting that a low-price and high-volume strategy can be quite effective.",
+    "url": "https://selfbook.com/case-study/11-average-order-value-increase-at-11-howard",
+    "pass": 1
+   },
+   {
+    "quote": "The right upselling strategy for your hotel will depend on the property type and guest demographics. The chart above shows how one of Selfbook’s hotels found success in selling $175+ upgrades, albeit with lower volume.",
+    "url": "https://selfbook.com/case-study/11-average-order-value-increase-at-11-howard",
+    "pass": 1
+   },
+   {
+    "quote": "on Google since 2017. Hotels have adapted by offering special promotions for same- and next-day bookings, with Kalibri Labs noting a",
+    "url": "https://selfbook.com/info-hub/how-much-should-hoteliers-care-about-mobile",
+    "pass": 1
+   },
+   {
+    "quote": "Despite high consumer interest and updated rates and promotions, a majority of hospitality providers miss out on additional revenue due to poor user experience, particularly on mobile, where conversion rates average around",
+    "url": "https://selfbook.com/info-hub/how-much-should-hoteliers-care-about-mobile",
+    "pass": 1
+   },
+   {
+    "quote": "The decision to book a same-day hotel may be an unexpected treat after a night out, something that happens as someone is rushing to or from the airport, or the result of being unsatisfied with one’s present accommodation and checking out in a hurry. The common thread? Guests in these situations will most likely book via mobile.",
+    "url": "https://selfbook.com/info-hub/how-much-should-hoteliers-care-about-mobile",
+    "pass": 1
+   },
+   {
+    "quote": "Unsurprisingly, when it comes to digital wallets like Apple Pay and Google Pay, users are most likely to use them on a mobile device as part of an entirely seamless experience. More than 1 in 4 reservations made on a mobile device today are paid for using a digital wallet.",
+    "url": "https://selfbook.com/info-hub/how-much-should-hoteliers-care-about-mobile",
+    "pass": 1
+   },
+   {
+    "quote": "It's a fact. People who book hotel stays at the last minute have different habits than those planning months in advance. To capture these guests, hotels need to acknowledge the differences and cater to this segment appropriately.",
+    "url": "https://selfbook.com/info-hub/how-much-should-hoteliers-care-about-mobile",
+    "pass": 1
+   },
+   {
+    "quote": "Selfbook's ability to drive last-minute conversions, particularly on mobile, comes down to its user-friendly interface and the modern payment methods it supports. Hotels that take advantage of these e-commerce best practices will remove barriers and be in the best position to capitalize on this rapidly growing consumer segment.",
+    "url": "https://selfbook.com/info-hub/how-much-should-hoteliers-care-about-mobile",
+    "pass": 1
+   },
+   {
+    "quote": "2�? ���#�;1��Jm�kn���8�\u0006�̳NWV��\u0016�fƪ+���~q�fzV��ʬ8\u0011�%�qn��:�\u0005��+�?�$5��\u00060�\u0001 `�\u0003\u0018��\u0006�IZ\u0003\u001a�\u0001� $5��\u00060�\u0001 `�\u0003\u0018�@�\u001apr+衎rS+��\u0016'mfŭ/\\�Mc���w�]���� u��� Ks,�z�ټO ����֪T��ҵ��V\\\u0011�1?�wl-�8���� ����$�\u0001\u00060�\u0001 `�\u0003\u0018��\u00060\u0010N�\u001a��\u000e�M �\u0001\u00060�\u0001 `�\u0003\u0018��\u0006�׀n��",
+    "url": "https://selfbook.com/_nuxt/image/27201e.auto",
+    "pass": 2
+   },
+   {
+    "quote": "�uy\\~���kN 4��\u0018�(w������X4*NEdo�h���g\u0018��w��d��s�QsSV\u0016��j��\u0018���2�]m�V�{ AM������~d�1�/�_W�g�w�\u0019�\u0017Z}?5���Z[]!m��\u0015��^?({�s-��!�W�ƥ; $J�4� 9\u0017�����f:. \u0015��n������뗣� ���d ��qTN��Y s�1��n�βmPw�pr�j�� �g��\\���\u0003\u0018��\u00060\u0010�\u00064�y�y�1�\u0001 `�\u0004\u0019�;�#�23�!mUץ�ʻ��7\u0016s�Y�FL\u000e���Oi�Ƕ>ϋ�����3��4;��������tG��\u0018ϭ�\u0011ݏ�x�#�~����L�35�^j�pv\"�&z������+(Y\u0013�A��[",
+    "url": "https://selfbook.com/_nuxt/image/27201e.auto",
+    "pass": 2
+   },
+   {
+    "quote": "^��ƒt�ߕ��g ���\u0012�jt��r��U���U���7|_\u0011���ay��Prkl����-փ ���O�� S��ǯ�Dx�#\u0001",
+    "url": "https://selfbook.com/_nuxt/image/27201e.auto",
+    "pass": 2
+   },
+   {
+    "quote": "Selfbook is a network that enables the automation of digital marketing sending via selection criteria issued by paying users (companies) going directly into a mailbox of the regular user; in addition to an ultra-precise real-time geolocation system, making it possible to know the people / companies within a defined perimeter including 2 different lists. Booking will never be so easy and fun.",
+    "url": "https://www.selfbook.org/home",
+    "pass": 3
+   },
+   {
+    "quote": "NEW YORK, NY - Selfbook, a unique, comprehensive hotel payment software platform bringing direct bookings and modern payment technology to hotels worldwide, today announced a strategic investment from Amex Ventures. The investment follows a $40 million Series A and A+ round led by Tiger Global.",
+    "url": "https://selfbook.com/info-hub/hotel-payment-software-platform-selfbook-announces-a-strategic-investment-from-amex-ventures",
+    "pass": 3
+   },
+   {
+    "quote": "This announcement highlights Selfbook’s continuous growth within the hospitality space. As it continues to broaden its reach in the travel industry, Selfbook looks forward to working with American Express following this investment.",
+    "url": "https://selfbook.com/info-hub/hotel-payment-software-platform-selfbook-announces-a-strategic-investment-from-amex-ventures",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook enables hotels to offer guests a seamless, one-step checkout experience directly on their websites while elevating the user experience and streamlining the payment process for hotels, which can increase conversion and boost revenue. Selfbook also groups multiple services, such as restaurant reservations, spa appointments and activities, into a single payment flow to easily drive upsells.",
+    "url": "https://selfbook.com/info-hub/hotel-payment-software-platform-selfbook-announces-a-strategic-investment-from-amex-ventures",
+    "pass": 3
+   },
+   {
+    "quote": "Global hotel brand YOTEL is an industry leader on the cutting-edge of hospitality. They’ve leveraged the power of brand, stylish design, and technology to build a forward-thinking guest experience. With dozens of locations around the globe and expansion plans on the horizon, this innovative hotel group wanted to integrate new technologies to improve guest experience and accelerate growth.",
+    "url": "https://selfbook.com/case-study/yotel-grows-direct-bookings",
+    "pass": 3
+   },
+   {
+    "quote": "increase in loyalty program enrollments",
+    "url": "https://selfbook.com/case-study/yotel-grows-direct-bookings",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Marketing Director for the LINE Hotels",
+    "url": "https://selfbook.com/case-study/how-the-line-hotels-doubled-mobile-bookings-with-selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "As Lil Newman, Senior Marketing Director for the LINE Hotels, says, “Since partnering with Selfbook, our guests have shown how comfortable they are booking on mobile. They’ve been great at adapting and are eager to take advantage of making quick and easy bookings on their phones and paying with mobile wallets.”",
+    "url": "https://selfbook.com/case-study/how-the-line-hotels-doubled-mobile-bookings-with-selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "From 2019 to today, the LINE properties have experienced a jump in conversions across devices, with a striking 118% increase in completed mobile bookings. While ecommerce cart abandonment is",
+    "url": "https://selfbook.com/case-study/how-the-line-hotels-doubled-mobile-bookings-with-selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "the LINE has made the most of its partnership with Selfbook to harness the tools that keep guests on its website through the entire booking process.",
+    "url": "https://selfbook.com/case-study/how-the-line-hotels-doubled-mobile-bookings-with-selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Growth Across All Properties",
+    "url": "https://selfbook.com/case-study/how-the-line-hotels-doubled-mobile-bookings-with-selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, the LINE has experienced significant growth across the board since partnering with Selfbook in October 2021, despite varying traffic levels across the destinations where it has properties in the fall and early winter months. The hotel’s receptive audience is indicative of just how in-demand digital wallets, easy mobile browsing, and one-step checkout are today.",
+    "url": "https://selfbook.com/case-study/how-the-line-hotels-doubled-mobile-bookings-with-selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "The LINE also recently relaunched its website in April 2022 led by Spherical which will further enhance user experience and direct bookings.",
+    "url": "https://selfbook.com/case-study/how-the-line-hotels-doubled-mobile-bookings-with-selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle Procurement Cloud",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle JD Edwards EnterpriseOne",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Pacific Coast Producers",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle NetSuite Procurement",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Exterro Zapproved ZDiscovery",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Since 2010, our global team of researchers has been studying Selfbook customer wins around the world, aggregating massive amounts of data points that form the basis of our forecast assumptions and perhaps the rise and fall of certain vendors and their products on a quarterly basis.",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "for Reservation and Booking Management and many others from public (Press Releases, Customer References, Testimonials, Case Studies and Success Stories) and proprietary sources, including the customer size, industry, location, implementation status, partner involvement, LOB Key Stakeholders and related IT decision-makers contact details.",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "customer wins are being incorporated in our Enterprise Applications Buyer Insight and Technographics Customer Database which has over 100 data fields that detail company usage of",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook revenue by product",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "enterprise applications. Gain ongoing access to real-time prospects and uncover hidden opportunities. Companies Actively Evaluating",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": ", a India based Professional Services organization with 10 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "This page summarizes Selfbook applications, market coverage, and verified customer counts across products, industries, and countries.",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Q3. Which Selfbook products have the most recorded customers?",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "streamlines direct distribution by empowering AI-search and highly habitual apps trusted by millions worldwide.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrates seamlessly with widely used platforms and fintechs trusted by millions.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Upsells are not the only way a hotel can drive incremental revenue. For more inspiration on how to boost average order value at your hotel using attribute-based selling, read our case study about",
+    "url": "https://selfbook.com/case-study/11-average-order-value-increase-at-11-howard",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Selfbook distributes your private rates to nearly half a billion authenticated users across high-intent channels—helping you grow direct revenue while maintaining full control of your brand narrative, guest experience, and pricing strategy.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "instantly connects hotels with a global audience of engaged, identified wallet users. Every booking experience is intuitive, secure and compliant, enabling hotels to effortlessly manage their brand narrative and optimize their rate strategy.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   },
+   {
+    "quote": "delivers comprehensive solutions designed to enhance hotel commerce, elevate guest experiences, and maximize revenue.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Through a first-of-its-kind Direct Distribution Network—the most lucrative channel for hotels—leveraging a streamlined checkout that connects hotels instantly with an extensive network of half a billion authenticated users, ensuring frictionless instant bookings by marrying trust and value.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   },
+   {
+    "quote": "empowers hotels to tailor every touchpoint of the reservation flow—enhancing guest engagement, increasing conversions, and unlocking new revenue opportunities.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Selfbook distributes your private rates to nearly half a billion authenticated users across high-intent channels—helping you grow direct revenue while maintaining full control of your brand narrative, guest experience, and pricing strategy.",
+    "url": "https://selfbook.com/",
+    "pass": 1
+   },
+   {
+    "quote": "43% Lift in Direct Revenue at Eden Rock St Barths | Selfbook",
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "pass": 1
+   },
+   {
+    "quote": "43% Lift in Direct Revenue at Eden Rock St Barths",
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "pass": 1
+   },
+   {
+    "quote": "Conversion and Revenue Boost",
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "pass": 1
+   },
+   {
+    "quote": "Throughout the examined period, the hotel experienced a 43% lift in direct revenue. With a smoother booking flow and lower bounce rate, guests were more inclined to stay on the website all the way through checkout, leading to a conversion rate increase of 87.9%.",
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "pass": 1
+   },
+   {
+    "quote": "lift in direct revenue",
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "pass": 1
+   },
+   {
+    "quote": "avg. revenue lift for premium rooms",
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "pass": 1
+   },
+   {
+    "quote": "already luxurious stay to the next level, these special touches increase the hotel’s average order value and contribute to overall higher revenue.",
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "pass": 1
+   },
+   {
+    "quote": "Upsells: A Key Incremental Revenue Driver",
+    "url": "https://selfbook.com/case-study/11-average-order-value-increase-at-11-howard",
+    "pass": 1
+   },
+   {
+    "quote": "Upsells are not the only way a hotel can drive incremental revenue. For more inspiration on how to boost average order value at your hotel using attribute-based selling, read our case study about",
+    "url": "https://selfbook.com/case-study/11-average-order-value-increase-at-11-howard",
+    "pass": 1
+   },
+   {
+    "quote": "Despite high consumer interest and updated rates and promotions, a majority of hospitality providers miss out on additional revenue due to poor user experience, particularly on mobile, where conversion rates average around",
+    "url": "https://selfbook.com/info-hub/how-much-should-hoteliers-care-about-mobile",
+    "pass": 1
+   },
+   {
+    "quote": "From Selfbook’s data, more than 80% of same-day bookings were made on a mobile device. In fact, out of all the reservations made on mobile devices, same-day arrivals accounted for 18%, nearly 1 in 5.",
+    "url": "https://selfbook.com/info-hub/how-much-should-hoteliers-care-about-mobile",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile Bookings Are Significant Revenue Generators",
+    "url": "https://selfbook.com/info-hub/how-much-should-hoteliers-care-about-mobile",
+    "pass": 1
+   },
+   {
+    "quote": "Unsurprisingly, when it comes to digital wallets like Apple Pay and Google Pay, users are most likely to use them on a mobile device as part of an entirely seamless experience. More than 1 in 4 reservations made on a mobile device today are paid for using a digital wallet.",
+    "url": "https://selfbook.com/info-hub/how-much-should-hoteliers-care-about-mobile",
+    "pass": 1
+   },
+   {
+    "quote": "Selfbook's ability to drive last-minute conversions, particularly on mobile, comes down to its user-friendly interface and the modern payment methods it supports. Hotels that take advantage of these e-commerce best practices will remove barriers and be in the best position to capitalize on this rapidly growing consumer segment.",
+    "url": "https://selfbook.com/info-hub/how-much-should-hoteliers-care-about-mobile",
+    "pass": 1
+   },
+   {
+    "quote": "Selfbook enables hotels to offer guests a seamless, one-step checkout experience directly on their websites while elevating the user experience and streamlining the payment process for hotels, which can increase conversion and boost revenue. Selfbook also groups multiple services, such as restaurant reservations, spa appointments and activities, into a single payment flow to easily drive upsells.",
+    "url": "https://selfbook.com/info-hub/hotel-payment-software-platform-selfbook-announces-a-strategic-investment-from-amex-ventures",
+    "pass": 3
+   },
+   {
+    "quote": "overall lift in revenue",
+    "url": "https://selfbook.com/case-study/how-the-line-hotels-doubled-mobile-bookings-with-selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "boost in overall mobile revenue",
+    "url": "https://selfbook.com/case-study/how-the-line-hotels-doubled-mobile-bookings-with-selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Marriott International",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "(revenue, employees, asset)",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook revenue by industry",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook revenue by geography",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook revenue by company size",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook revenue by revenue type",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook revenue by channel",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook revenue by product",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": ", a India based Professional Services organization with 10 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook Revenue 2024: $5.9M Est., $31.6M Raised",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook has not published its revenue. GetLatka estimates it at about $5.9M a year (October 2024).",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook CEO, founders & employees",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Khalid Meniri founded Selfbook in 2020 and runs it as CEO. Selfbook had 46 employees (January 2025, LinkedIn), down from 57 a year earlier.",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "What is Selfbook's revenue?",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Selfbook's revenue at about",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Selfbook have?",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "employees in January 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "出版のできる編集プロダクションがあなたのブランディングをお手伝い ...Home | SelfbookHotel Payment Software Platform Selfbook Announces a ...Selfbook - LinkedInInfo Hub | Selfbook — セルフブック.jpがあなたのブランディングをお手伝いいたします。 セルフブック.jpの最大の強みは、どこよりも手軽にリーズナブルに、そして品質にこだわってあなたの「本」を出版するお手伝いができることです。 自費出版サービスの会社は多くありますが、その多くは元原稿を自前で用意 ... Selfbook is a network that enables the automation of digital marketing sending via selection criteria issued b",
+    "url": "https://www.selfbook.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Home | Selfbook — Selfbook is a network that enables the automation of digital marketing sending via selection criteria issued by paying users (companies) going directly into a mailbox of the regular user; in addition to an ultra-precise real-time geolocation system, making it possible to know the people / companies within a defined perimeter including 2 different lists. Booking will never be so e",
+    "url": "https://www.selfbook.org/home",
+    "pass": 3
+   },
+   {
+    "quote": "Hotel Payment Software Platform Selfbook Announces a ... — Selfbook, a unique, comprehensive hotel payment software platform bringing direct bookings and modern payment technology to hotels worldwide, today announced a strategic investment from Amex Ventures. The investment follows a $40 million Series A and A+ round led by Tiger Global.",
+    "url": "https://selfbook.com/info-hub/hotel-payment-software-platform-selfbook-announces-a-strategic-investment-from-amex-ventures",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook - LinkedIn — Selfbook | 5,719 followers on LinkedIn. The future of hotel bookings. | Uniquely positioned at the intersection of fintech and hospitality, Selfbook revolutionizes hotel bookings and payments from ...",
+    "url": "https://www.linkedin.com/company/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Info Hub | Selfbook — Selfbook Named to Fast Company’s Annual List of the World’s Most Innovative Companies of 2024",
+    "url": "https://selfbook.com/info-hub",
+    "pass": 3
+   },
+   {
+    "quote": "Yotel Grows Direct Bookings and Rewards Loyal Guests - Selfbook — Case Study by Selfbook January 25, 2024 Yotel Grows Direct Bookings and Rewards Loyal Guests Global hotel brand YOTEL is an industry leader on the cutting-edge of hospitality. They’ve leveraged the power of brand, stylish design, and technology to build a forward-thinking guest experience.",
+    "url": "https://selfbook.com/case-study/yotel-grows-direct-bookings",
+    "pass": 3
+   },
+   {
+    "quote": "How The LINE Hotels Doubled Mobile Bookings With Selfbook — Dec 29, 2022 · The LINE’s partnership with Selfbook has paid off significantly across devices, and has shown just how willing consumers are to book on mobile in particular. As soon as a smoother booking process became available, mobile bookings skyrocketed. Another trend that stood out was users’ willingness to make payments using digital",
+    "url": "https://selfbook.com/case-study/how-the-line-hotels-doubled-mobile-bookings-with-selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "List of Selfbook Customers - Apps Run The World — Each quarter our research team identifies companies that are using Selfbook applications such as Selfbook Direct for Reservation and Booking Management and many others from public (Press Releases, Customer References, Testimonials, Case Studies and Success Stories) and proprietary sources, including the customer size, industry, location ...",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Interview with Selfbook Founder Khalid Meniri | A Hotel Life — Selfbook founder Khalid Meniri is on a mission to take hospitality into the future. He chatted to A Hotel Life founder Ben Pundole.",
+    "url": "https://www.ahotellife.com/khalid-meniri/",
+    "pass": 3
+   },
+   {
+    "quote": "A Hotel Life Presents: Selfbook — Jan 6, 2022 · Selfbook is a comprehensive transaction engine that hotels can integrate directly into their own reservation platforms.",
+    "url": "https://www.ahotellife.com/a-hotel-life-presents-selfbook/",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook 2026 Company Profile: Valuation, Funding & Investors ...Selfbook - 2026 Company Profile, Team, Funding & Competitors ...selfbook.com – Financials, Industry Trends & Funding Info – 2026Selfbook Revenue 2024: $5.9M Est., $31.6M RaisedSelfbook: Funding, Team & Investors | Startup IntrosSelfbook — Company Profile | The Company CheckSelfbook - Overview, News & Similar companies | ZoomInfo.com ",
+    "url": "https://pitchbook.com/profiles/company/227127-16",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook - 2026 Company Profile, Team, Funding & Competitors ...selfbook.com – Financials, Industry Trends & Funding Info – 2026Selfbook Revenue 2024: $5.9M Est., $31.6M RaisedSelfbook: Funding, Team & Investors | Startup IntrosSelfbook — Company Profile | The Company CheckSelfbook - Overview, News & Similar companies | ZoomInfo.com — Feb 28, 2026 · Selfbook is a series A company based in New York",
+    "url": "https://tracxn.com/d/companies/selfbook/__0PFSbBPya2Mv5UvECIjWtw6YpT1YZgeb3d7p8SGoA3w",
+    "pass": 3
+   },
+   {
+    "quote": "selfbook.com – Financials, Industry Trends & Funding Info – 2026 — Discover selfbook.com's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/selfbook-com",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook Revenue 2024: $5.9M Est., $31.6M Raised — Jan 3, 2025 · Selfbook 2024 estimated revenue: $5.9M (up from $3.8M in 2023). Total funding: $31.6M across 4 rounds. 46 employees. Founded 2020. Updated Jan 3, 2025.",
+    "url": "https://getlatka.com/companies/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · With $42 million in total funding and approximately 70 employees, Selfbook has built a comprehensive platform that addresses a critical pain point in the hotel industry: the fragmented, outdated booking and payment infrastructure that creates friction for guests and operational complexity for hotels [2].",
+    "url": "https://startupintros.com/orgs/selfbook",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "無人でキャッシュレスな書店の自己紹介です！｜SELFBOOKS Mar 13, 2024 · ごあいさつ 皆さま、お初にお目にかかります。 マザーレイク琵琶湖のほとり、公園と融合した商業施設『ブランチ大津京』にある小さな本屋、SELFBOOKS でございます。 比叡山を背にしたブランチ大津京の全景イベント開催中のブランチ大津京施設の案内板 このような立派な施設の中に ...",
+    "url": "https://note.com/selfbooks/n/n4402ad9a04fd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "無人でキャッシュレスな書店の自己紹介です！｜SELFBOOKS",
+    "url": "https://note.com/selfbooks/n/n4402ad9a04fd",
+    "pass": 3
+   },
+   {
+    "quote": "無人でキャッシュレスな書店の自己紹介です！",
+    "url": "https://note.com/selfbooks/n/n4402ad9a04fd",
+    "pass": 3
+   },
+   {
+    "quote": "マザーレイク琵琶湖のほとり、公園と融合した商業施設『",
+    "url": "https://note.com/selfbooks/n/n4402ad9a04fd",
+    "pass": 3
+   },
+   {
+    "quote": "このような立派な施設の中にそっと佇んでいるSELFBOOKSは、",
+    "url": "https://note.com/selfbooks/n/n4402ad9a04fd",
+    "pass": 3
+   },
+   {
+    "quote": "2019年11月、ブランチ大津京のオープンと共に開店いたしました。",
+    "url": "https://note.com/selfbooks/n/n4402ad9a04fd",
+    "pass": 3
+   },
+   {
+    "quote": "無人書店という仕様なので、常にドアは閉まっています。",
+    "url": "https://note.com/selfbooks/n/n4402ad9a04fd",
+    "pass": 3
+   },
+   {
+    "quote": "スマホで入店登録をし、送られてきたIDを打ち込むとドアが開く",
+    "url": "https://note.com/selfbooks/n/n4402ad9a04fd",
+    "pass": 3
+   },
+   {
+    "quote": "以前は貸し棚を行っていたのですが、いまはサービス休止になっております。（貸し棚サービスの復活は目論んでいます）",
+    "url": "https://note.com/selfbooks/n/n4402ad9a04fd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Selfbook -the journaling app (@journalingApp) / X 75 Selfbook -the journaling app @journalingApp Jun 18, 2023 Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future. #thoughts #journal",
+    "url": "https://x.com/journalingApp",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook Inc (@SelfbookInc) / X Selfbook Inc 0 posts Selfbook Inc @SelfbookInc Company Joined November 2021 8 Following 1 Followers PostsPosts RepliesReplies MediaMedia",
+    "url": "https://x.com/SelfbookInc",
+    "pass": 3
+   },
+   {
+    "quote": "SelfBook (@SelfBook) / X 0 followers · 0 following. Joined Sep 2011. See the latest conversations with @SelfBook",
+    "url": "https://x.com/SELFBOOK",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Selfbook - LinkedIn Selfbook | 5,719 followers on LinkedIn. The future of hotel bookings. | Uniquely positioned at the intersection of fintech and hospitality, Selfbook revolutionizes hotel bookings and payments from ...",
+    "url": "https://www.linkedin.com/company/selfbook",
+    "pass": 3
+   },
+   {
+    "quote": "Ilyas Djeddou - Co-founder & CTO at Selfbook | Fintech ...Gautier Colin - GM Travel & Concierge, Atlas Card | LinkedInKhalid Meniri, Co-Founder & CEO at Selfbook - On hospitality ...Allison Dudley - Client Success Manager @ Selfbook ... - LinkedInIntroducing Selfbook's Direct Distribution Network for hotels ...Khalid Meniri, Co-Founder & CEO at Selfbook - On hospitality ... Co-founder & CTO at Sel",
+    "url": "https://www.linkedin.com/in/ilyas-djeddou",
+    "pass": 3
+   },
+   {
+    "quote": "Gautier Colin - GM Travel & Concierge, Atlas Card | LinkedInKhalid Meniri, Co-Founder & CEO at Selfbook - On hospitality ...Allison Dudley - Client Success Manager @ Selfbook ... - LinkedInIntroducing Selfbook's Direct Distribution Network for hotels ...Khalid Meniri, Co-Founder & CEO at Selfbook - On hospitality ... GM Travel & Concierge, Atlas Card · Experience: Atlas · Education: Oxford Brookes",
+    "url": "https://www.linkedin.com/in/gautier-colin-50101074",
+    "pass": 3
+   },
+   {
+    "quote": "Khalid Meniri, Co-Founder & CEO at Selfbook - On hospitality ... In an interview with Nihar Bobba of the Wharton Fintech podcast, Selfbook Co-Founder and CEO Khalid Meniri talks all things embedded fintech and innovation in the hospitality sector. They discuss ...",
+    "url": "https://www.linkedin.com/posts/selfbook_khalid-meniri-co-founder-ceo-at-selfbook-activity-7087808148157173760-hWMB",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Selfbook - Facebook Selfbook is a booking platform that helps guests pay for their hotel stay seamlessly and securely. By enabling hotels to accept one-click payments and digital wallets, Selfbook empowers them to drive direct bookings and boost revenues.",
+    "url": "https://www.facebook.com/Selfbook-104980475467948/",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook - Facebook Jul 2, 2014 · Selfbook. 9 followers. SELFIE SOCIAL NETWORK AND CRAZY VIDEO",
+    "url": "https://www.facebook.com/p/Selfbook-100070061015612/",
+    "pass": 3
+   },
+   {
+    "quote": "Selfbook - Facebook Nov 25, 2018 · Selfbook. 38 followers. کتابی به سفارش پدرومادرهایی به هوش، برای کودکان باهوش",
+    "url": "https://www.facebook.com/p/Selfbook-100079948432631/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://selfbook.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://selfbook.com/info-hub/selfbook-officially-partners-with-relais-chateaux",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://selfbook.com/case-study/43-lift-in-direct-revenue-at-eden-rock-st-barths",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://selfbook.com/case-study/39-conversion-lift-at-le-pigalle-paris",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://selfbook.com/case-study/11-average-order-value-increase-at-11-howard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://selfbook.com/info-hub/how-much-should-hoteliers-care-about-mobile",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://selfbook.com/_nuxt/image/27201e.auto",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.selfbook.jp/company/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.selfbook.org/home",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://selfbook.com/info-hub/hotel-payment-software-platform-selfbook-announces-a-strategic-investment-from-amex-ventures",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/selfbook",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://selfbook.com/case-study/yotel-grows-direct-bookings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://selfbook.com/case-study/how-the-line-hotels-doubled-mobile-bookings-with-selfbook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ahotellife.com/khalid-meniri/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.superantispyware.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/227127-16",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/selfbook/__0PFSbBPya2Mv5UvECIjWtw6YpT1YZgeb3d7p8SGoA3w",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/selfbook-com",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/selfbook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/selfbooks/n/n4402ad9a04fd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/journalingApp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SelfbookInc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SELFBOOK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/selfbook",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ilyas-djeddou",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gautier-colin-50101074",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/selfbook_khalid-meniri-co-founder-ceo-at-selfbook-activity-7087808148157173760-hWMB",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Selfbook-104980475467948/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Selfbook-100070061015612/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Selfbook-100079948432631/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SELFBOOK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/journalingApp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Selfbook 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Selfbook 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Selfbook Japan",
+   "results": [
+    "https://www.selfbook.jp/company/",
+    "https://www.selfbook.org/home",
+    "https://selfbook.com/info-hub/hotel-payment-software-platform-selfbook-announces-a-strategic-investment-from-amex-ventures",
+    "https://www.linkedin.com/company/selfbook",
+    "https://selfbook.com/info-hub",
+    "http://selfbook.jp/cp-bin/lp",
+    "https://new.selfbook.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Selfbook manufacturing customer case study",
+   "results": [
+    "https://selfbook.com/case-study/yotel-grows-direct-bookings",
+    "https://selfbook.com/case-study/how-the-line-hotels-doubled-mobile-bookings-with-selfbook",
+    "https://www.appsruntheworld.com/customers-database/vendors/view/selfbook",
+    "https://www.ahotellife.com/khalid-meniri/",
+    "https://www.ahotellife.com/a-hotel-life-presents-selfbook/",
+    "https://www.forbes.com/sites/karlmoore/2021/06/30/khalid-meniri-founder--ceo-of-selfbook-is-simplifying-hotel-bookings-and-payments/",
+    "https://www.eomag.io/article/selfbook-khalid-meniri"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Selfbook white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.canva.com/partners/reseller/",
+    "https://upcloud.com/partner-program/",
+    "https://selfbook.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Selfbook founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/227127-16",
+    "https://tracxn.com/d/companies/selfbook/__0PFSbBPya2Mv5UvECIjWtw6YpT1YZgeb3d7p8SGoA3w",
+    "https://compworth.com/company/selfbook-com",
+    "https://getlatka.com/companies/selfbook",
+    "https://startupintros.com/orgs/selfbook",
+    "https://www.thecompanycheck.com/company/b/selfbook/axcz561ampjsnl6uf",
+    "https://www.zoominfo.com/c/selfbook-inc/556379733"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Selfbook",
+   "results": [
+    "https://note.com/selfbooks/n/n4402ad9a04fd",
+    "https://note.com/tasuto11/n/n39e12f23bd81?hl=en",
+    "https://note.com/esell_photobook/n/nd0036c13ddc9?hl=en",
+    "https://note.com/123gmdc/n/n1ae7a9b844c6?hl=en",
+    "https://note.com/kurashijitan/n/n1573d23e0a7b?hl=en",
+    "https://note.com/sariquro/n/n6f58a7805b3c?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:x.com Selfbook",
+   "results": [
+    "https://x.com/journalingApp",
+    "https://x.com/SelfbookInc",
+    "https://x.com:2096/SelfbookHQ",
+    "https://x.com/SELFBOOK",
+    "https://x.com/hashtag/selfbook",
+    "https://x.com/PhotobookSelf",
+    "https://x.com/ChannyCFire2/status/2115649311002501199"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Selfbook",
+   "results": [
+    "https://www.linkedin.com/company/selfbook",
+    "https://www.linkedin.com/in/ilyas-djeddou",
+    "https://www.linkedin.com/in/gautier-colin-50101074",
+    "https://www.linkedin.com/posts/selfbook_khalid-meniri-co-founder-ceo-at-selfbook-activity-7087808148157173760-hWMB",
+    "https://www.linkedin.com/in/allidudley",
+    "https://www.linkedin.com/posts/selfbook_redefining-hotel-commerce-in-the-age-of-agentic-activity-7342978250911989763-yqQ2",
+    "https://www.linkedin.com/posts/mehdi-meniri-14859654_khalid-meniri-co-founder-ceo-at-selfbook-activity-7087867159715946496-00Uk"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Selfbook",
+   "results": [
+    "https://www.facebook.com/Selfbook-104980475467948/",
+    "https://www.facebook.com/p/Selfbook-100070061015612/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/p/Selfbook-100079948432631/",
+    "https://www.facebook.com/p/Selfbook-100064105140540/",
+    "https://www.facebook.com/SBookPublishing/",
+    "https://www.facebook.com/horizonrevenuemanagement/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Selfbook note 社長",
+   "results": [
+    "https://note.com/saiyou_dekirukun/all",
+    "https://exwrite.net/article/17s017_edit/",
+    "https://iphone119.xyz/note",
+    "http://shacho.info/",
+    "https://selfbook.com/",
+    "https://note.com/hashtag/社長",
+    "https://shachonote.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Selfbook X 投稿",
+   "results": [
+    "https://x.com/SELFBOOK",
+    "https://x.com/journalingApp",
+    "https://selfbook.com/",
+    "https://github.com/Misakax/self-book",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://booth.pm/ja/items/5236548",
+    "https://note.com/aikachan_ai/n/n5bf03e58300f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部33頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部33頁・検索12回）"
+ }
+}

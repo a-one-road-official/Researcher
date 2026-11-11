@@ -1,0 +1,742 @@
+{
+ "name": "Avairsense",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信失敗",
+ "researched_at": "2026-11-11T07:37:17.087834+00:00",
+ "official_url": "https://www.avairsense.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Bangalore, India",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Whether you’re travelling the world, going to office or even stepping out of your house. Sense 1 protects your home. Protect your everything from anywhere including your privacy.",
+    "url": "https://avairsense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rain or Shine always have peace of mind. Sense 1 is water and dust proof.",
+    "url": "https://avairsense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Two-Way Audio + High Quality Video",
+    "url": "https://avairsense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rain, Snow, or Sun. Sense 1 will continue to protect in all weather conditions.",
+    "url": "https://avairsense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience true Full High Definition video quality. Day or Night, ever detail matters. Sense 1 utilizes a high dynamic range for balanced image with brighter colors.",
+    "url": "https://avairsense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With an active infrared sensor never miss a alert. The PIR comes with sensitivity control to work according to environment that provides precise detection.",
+    "url": "https://avairsense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sense 1 delivers prompt notifications and helps you monitor your home.",
+    "url": "https://avairsense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sense 1 let's you playback video events detected for upto 7 days with cloud storage.",
+    "url": "https://avairsense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Design Intern",
+    "url": "https://prod.wallofportfolios.in/companies/avairsense/",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense is building the smartest AI-enabled cameras ever. We believe cameras are one of those products that really have not evolved over time. Our first product is Sense 1, a smart home camera that has AI built in to analyze on the edge and create a seamless viewing experience of real-time video and audio from their smartphone.",
+    "url": "https://www.ycombinator.com/companies/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "We are a smart camera company that believes every environment requires a different camera. AI Cameras for Homes. Restaurants, Factories, Dealerships, and many more. We aim to own the data pipeline from start to end and give utmost importance to data security and privacy.",
+    "url": "https://www.ycombinator.com/companies/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "Learning, Building, Improving Everyday.",
+    "url": "https://www.ycombinator.com/companies/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "I started a tiny entertainment company for teens. I now am building OurEye a B2B, SaaS product. It's been a hell of a ride. In between I did the International Baccalaureate Diploma and an Under Grad in Comp Sci.",
+    "url": "https://www.ycombinator.com/companies/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense (originally OurEye.ai) was started in 2020 by 3 college students who identified a need for better video analysis in businesses.",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "They pivoted to the home security market with their flagship product, the Sense 1 smart camera, offering advanced AI features.",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "It utilizes a privacy-focused PIR sensor to trigger motion detection. This ensures user privacy while still keeping an eye on things.",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "The initial product integrated the platform with existing CCTV infrastructure, analyzing video feeds in real-time, and identifying pre-defined actions and objects.",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "This “virtual auditor” system helped businesses monitor standard operating procedures, to ensure factors like proper hygiene practices in restaurants, safety practices in factories, etc.",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "realized that their technology has a broader potential and so they turned their head towards the home security market. This shift led to the innovation of their flagship product, the",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "Utilizing a privacy-focused PIR sensor to trigger motion detection, ensuring user privacy while still keeping an eye on things.",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "Weatherproof and wireless:",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense owns the entire data pipeline, ensuring your data stays safe and secure, prioritizing data security and privacy.",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "Sense 1 has established AvairSense in the smart home market, but its expertise in AI video analytics holds promise for wider applications.",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "From virtual auditors to smart home champions showing their adaptability. With their innovative AI technology and commitment to user privacy, they have positioned themselves to become a leader in the smart home security market.",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "Saudi AI lead-generation platform Mawsool closes pre-seed round led by angel investors",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Qatar programme: up to $1.1M for early-stage founders, $5.5M for growth-stage",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "Edge-Based AI Processing",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive Feature Set in a Wireless Form Factor",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy-First Architecture",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "The company explicitly prioritizes user privacy by analyzing footage locally and reducing reliance on cloud services, with optional cloud storage limited to 7 days of video playback.[1] This stance differentiates AvairSense in a market where consumer concerns about surveillance and data misuse continue to intensify.",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-Vertical Product Strategy",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "Rather than remaining locked into consumer home security, AvairSense positions Sense 1 as the first product in a broader platform designed for diverse environments—restaurants, factories, dealerships, and other commercial spaces.[3] This modular approach to AI camera development suggests the company views itself as building a data pipeline and analytics platform, not just selling hardware.",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "is fundamentally reshaping how devices process information, shifting computation from centralized cloud infrastructure to distributed endpoints. This trend is driven by latency requirements, privacy regulations, and the economics of bandwidth—all factors that favor local processing for security applications.",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "have matured from research projects to production-grade capabilities. The democratization of these technologies through frameworks and pre-trained models means that startups can now compete with incumbents on AI quality, not just distribution.",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": ": Can AvairSense build brand awareness and distribution channels to reach homeowners at scale? Second,",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 1000+ Home Owners :)",
+    "url": "https://avairsense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by designers globally from",
+    "url": "https://prod.wallofportfolios.in/companies/avairsense/",
+    "pass": 3
+   },
+   {
+    "quote": "We are a smart camera company that believes every environment requires a different camera. AI Cameras for Homes. Restaurants, Factories, Dealerships, and many more. We aim to own the data pipeline from start to end and give utmost importance to data security and privacy.",
+    "url": "https://www.ycombinator.com/companies/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "This “virtual auditor” system helped businesses monitor standard operating procedures, to ensure factors like proper hygiene practices in restaurants, safety practices in factories, etc.",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "Rather than remaining locked into consumer home security, AvairSense positions Sense 1 as the first product in a broader platform designed for diverse environments—restaurants, factories, dealerships, and other commercial spaces.[3] This modular approach to AI camera development suggests the company views itself as building a data pipeline and analytics platform, not just selling hardware.",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "7 days replacement + 1 year warranty on hardware",
+    "url": "https://avairsense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We know it's rare that you'd want to see footage when nothing happened. You want to make your home camera a part of your daily life. Get notified on all motion triggers or any event on your favourite messaging app.",
+    "url": "https://avairsense.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/avairsense.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/avairsense.com",
+    "pass": 3
+   },
+   {
+    "quote": ": The multi-vertical strategy suggests ambitions beyond consumer homes. Success in commercial segments (restaurants, retail, logistics) could unlock higher-margin revenue streams and reduce dependence on the crowded consumer market. Third,",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AvairSenseの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Y Combinatorのポートフォリオに掲載される海外スタートアップAvairSenseの企業プロフィール。AvairSense（法人名: OurEye Private Limited）は、インドのベンガルールに拠点を置くAI搭載スマートセキュリティカメラおよび映像解析技術の開発企業である。2020年にSour...",
+    "url": "https://www.firstcvc.jp/global/avairsense.com",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense | Smart AI Camera for Home | Sense 1 — AvairSense builds AI cameras for every industry. Sense 1 is our top-of-the-line home security camera, featuring a built-in battery, motion detection, two-way audio, and cloud storage. With advanced AI technology, Sense 1 can detect persons, pets, vehicles, and more. Secure your home with Sense 1, order yours now.",
+    "url": "https://avairsense.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense | Smart AI Camera for Home | Sense 1 — AvairSense builds AI cameras for every industry. Sense 1 is our top-of-the-line home security camera, featuring a built-in battery, motion detection, two-way audio, and cloud storage.",
+    "url": "https://avairsense.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense Design Team - Wall of Portfolios — Explore portfolios and case studies of designers working at AvairSense. Discover the AvairSense design team, their work, and the creative talent shaping digital experiences.",
+    "url": "https://prod.wallofportfolios.in/companies/avairsense/",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense: We go all out to Build the Smartest AI-Enabled ... — AvairSense is building the smartest AI-enabled cameras ever. We believe cameras are one of those products that really have not evolved over time. Our first product is Sense 1, a smart home camera that has AI built in to analyze on the edge and create a seamless viewing experience of real-time video and audio from their smartphone.",
+    "url": "https://www.ycombinator.com/companies/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense: Smart Cameras for Home Security & AI FeaturesHow AvairSense hit $1M revenue with a 7 person team in 2024.Case Studies - Tata Consultancy ServicesAvairSense (YC W22) | LinkedIn — AvairSense (originally OurEye.ai) was started in 2020 by 3 college students who identified a need for better video analysis in businesses. They pivoted to the home security market with their flagship product, t",
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "pass": 3
+   },
+   {
+    "quote": "How AvairSense hit $1M revenue with a 7 person team in 2024. — Customers See how AvairSense acquires and retains customers with data on acquisition costs and revenue performance. Log in to access the complete customer economics dashboard.",
+    "url": "https://getlatka.com/companies/avairsense.com/customer",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense 2026 Company Profile: Valuation, Funding ...AvairSense - 2025 Company Profile, Team, Funding ... - TracxnAvairSense: Funding, Team & Investors | Startup IntrosAvairSense — Company Profile | The Company CheckHow AvairSense hit $1M revenue with a 7 person team in 2024.Avair Sense Funding | $1M Revenue | Complete AnalysisAvairSense - Crunchbase Company Profile & Funding — AvairSense is hea",
+    "url": "https://pitchbook.com/profiles/company/454320-82",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense - 2025 Company Profile, Team, Funding ... - TracxnAvairSense: Funding, Team & Investors | Startup IntrosAvairSense — Company Profile | The Company CheckHow AvairSense hit $1M revenue with a 7 person team in 2024.Avair Sense Funding | $1M Revenue | Complete AnalysisAvairSense - Crunchbase Company Profile & Funding — Sep 8, 2025 · AvairSense is a seed company based in Bengaluru (India), f",
+    "url": "https://tracxn.com/d/companies/avairsense/__FZITBLZE8mLgvi8nA7qZoc-POurd_2qCbwOIuF4CpTQ",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Backed by the prominent startup accelerator Y Combinator as a participant in its Winter 2022 batch, the enterprise currently operates with a workforce of 14 employees and generates approximately $1 million in annual revenue. AvairSense was founded in the year 2020 by an undisclosed group of founders.",
+    "url": "https://startupintros.com/orgs/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense — Company Profile | The Company Check — About AvairSense AvairSense is a company based in Bengaluru (India) founded in 2020 by Ajay Kumar and Sourav S. AvairSense has raised $279 thousand across 3 funding rounds from investors including Y Combinator, 100X.VC and Amara Ventures. The company has 8 employees as of April 01, 2024. AvairSense offers products and services including Sense 1.",
+    "url": "https://www.thecompanycheck.com/company/b/avairsense/9pr6917o29esh3tax",
+    "pass": 3
+   },
+   {
+    "quote": "How AvairSense hit $1M revenue with a 7 person team in 2024. — Apr 10, 2025 · AvairSense 2024 estimated revenue: $1M ARR. Valuation: $3M. 7 employees. Industry: IoT Platforms. Founded 2020. HQ: India Updated Apr 10, 2025.",
+    "url": "https://getlatka.com/companies/avairsense.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "AvairSense (YC W22) (@AvairSense) / Posts / X AvairSense (YC W22) AvairSense Nov 24 We are officially AvairSense now 🤩 #avairsense #launched 💬 2 🔄 0 🤍 0",
+    "url": "https://x.com/AvairSense",
+    "pass": 3
+   },
+   {
+    "quote": "@AvairSense is your severs down? - x.com ezzyband (Ezzy Bands). 4 likes 0 replies. @AvairSense is your severs down?",
+    "url": "https://x.com/ezzyband/status/1869055423971840371",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense (YC W22) (@AvairSense) / Posts / X - x.com Jan 21, 2021 · AvairSense (YC W22) AvairSense Nov 24 We are officially AvairSense now 🤩 #avairsense #launched 💬 2 🔄 0 🤍 0",
+    "url": "https://x.com/AvairSense",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "AvairSense (YC W22) | LinkedIn AvairSense (YC W22) | 7,505 followers on LinkedIn. The smartest camera ever. | AvairSense is building the smartest AI-enabled cameras ever. We believe cameras are one of those products that really have not evolved over time. Our first product is Sense 1, a smart home camera that has AI built in to analyze on the edge and create a seamless viewing experience of real-t",
+    "url": "https://in.linkedin.com/company/avairsense",
+    "pass": 3
+   },
+   {
+    "quote": "#securitycamera #avairsense #smartsecuritycamera - LinkedIn Wondering how? Our Sense 1 comes packed with these features. Click on the link to know more https://lnkd.in/d6cMWqzG #securitycamera #avairsense #smartsecuritycamera",
+    "url": "https://www.linkedin.com/posts/avairsense_securitycamera-avairsense-smartsecuritycamera-activity-7047536473247522816-TLQz",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense (YC W22) on LinkedIn: 3 things you need to know ... Read our blog to know more 👇 https://lnkd.in/giPmjJFf . . . . . . . . . #homesecurity #avairsense",
+    "url": "https://in.linkedin.com/posts/avairsense_3-things-you-need-to-know-about-sense-1-activity-7024752095488606209-X-8T",
+    "pass": 3
+   },
+   {
+    "quote": "AvairSense (YC W22) on LinkedIn: #cctv #sense1 #smartcamera # ... Meet Sense 1. Also available for preorders at https://lnkd.in/gu5tTh4M. - - #cctv #sense1 #smartcamera #avairsense",
+    "url": "https://www.linkedin.com/posts/avairsense_cctv-sense1-smartcamera-activity-7031247256267739136-OIYR",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "AvairSense | Bangalore - Facebook Jan 30, 2023 · AvairSense, Bangalore. 230 likes. The smartest camera ever.",
+    "url": "https://www.facebook.com/AvairSense/",
+    "pass": 3
+   },
+   {
+    "quote": "Everywhere. Sense 1 is available to purchase on www ... Nov 11, 2023 · Everywhere. Sense 1 is available to purchase on www.avairsense.com | Amazon. Stop using boring old home cameras.",
+    "url": "https://www.facebook.com/reel/334318232544638/",
+    "pass": 3
+   },
+   {
+    "quote": "Sense1 FAQs: Your Top 3 Questions Answered - - - - - - # ... Jun 22, 2023 · Sense1 FAQs: Your Top 3 Questions Answered - - - - - - #sense1 #smartsecuritycamera #smartsecuritysystem #cctv #smartsecurity #avairsense #smartcamera...",
+    "url": "https://www.facebook.com/AvairSense/videos/217491267848247/",
+    "pass": 3
+   },
+   {
+    "quote": "What tips would you give your younger self, if you were ... Mar 28, 2023 · What tips would you give your younger self, if you were starting out as a designer? 👀 Comment down below and let us know! And for more such content follow Avairsense - - - - - - - - - - - - - - - - - - - - #design #designer #ui #uidesign #motiondesigner #ux #uxdesigner #designeruiux #explore #reels #trending #graphicdesigni",
+    "url": "https://www.facebook.com/AvairSense/videos/627803762454282/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://avairsense.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/avairsense.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avairsense.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-revolution.co.jp/media/ai-in-defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mainichi.jp/articles/20261107/k00/00m/010/253000c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://avairsense.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prod.wallofportfolios.in/companies/avairsense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/avairsense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/454320-82",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/avairsense/__FZITBLZE8mLgvi8nA7qZoc-POurd_2qCbwOIuF4CpTQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/avairsense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/avairsense/9pr6917o29esh3tax",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AvairSense",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ezzyband/status/1869055423971840371",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/avairsense",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/avairsense_securitycamera-avairsense-smartsecuritycamera-activity-7047536473247522816-TLQz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/posts/avairsense_3-things-you-need-to-know-about-sense-1-activity-7024752095488606209-X-8T",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/avairsense_cctv-sense1-smartcamera-activity-7031247256267739136-OIYR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AvairSense/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/334318232544638/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AvairSense/videos/217491267848247/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AvairSense/videos/627803762454282/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AvairSense",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Avairsense 日本 導入",
+   "results": [
+    "https://www.firstcvc.jp/global/avairsense.com",
+    "https://avairsense.com/",
+    "https://ai-revolution.co.jp/media/ai-in-defense/",
+    "https://mainichi.jp/articles/20261107/k00/00m/010/253000c",
+    "https://car-repo.jp/blog-entry-2026-honda-new-avancier-teaser-honda-hybrid.html",
+    "https://zenn.dev/mkj/articles/980f90aeee0b0a",
+    "https://aikurabe.com/stats/ai-adoption-japan/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Avairsense 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Avairsense Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Avairsense manufacturing customer case study",
+   "results": [
+    "https://avairsense.com/",
+    "https://prod.wallofportfolios.in/companies/avairsense/",
+    "https://www.ycombinator.com/companies/avairsense",
+    "https://newzchain.com/avairsense-the-startup-making-your-cameras-smarter-and-security-simpler/",
+    "https://getlatka.com/companies/avairsense.com/customer",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://in.linkedin.com/company/avairsense"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Avairsense white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://skyswitch.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Avairsense founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/454320-82",
+    "https://tracxn.com/d/companies/avairsense/__FZITBLZE8mLgvi8nA7qZoc-POurd_2qCbwOIuF4CpTQ",
+    "https://startupintros.com/orgs/avairsense",
+    "https://www.thecompanycheck.com/company/b/avairsense/9pr6917o29esh3tax",
+    "https://getlatka.com/companies/avairsense.com",
+    "https://www.extruct.ai/hub/avairsense-com/",
+    "https://www.crunchbase.com/organization/avairsense"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Avairsense",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/tag/CVE-2026-109618",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/fu_tan56/n/nf7255c13d375",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Avairsense",
+   "results": [
+    "https://x.com/AvairSense",
+    "https://x.com/ezzyband/status/1869055423971840371",
+    "https://x.com/_Avair",
+    "https://x.com/LucasetElliot19/status/2025918594396168683",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/NeerjaSingh_9/status/2119266046494589026",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Avairsense",
+   "results": [
+    "https://in.linkedin.com/company/avairsense",
+    "https://www.linkedin.com/posts/avairsense_securitycamera-avairsense-smartsecuritycamera-activity-7047536473247522816-TLQz",
+    "https://in.linkedin.com/posts/avairsense_3-things-you-need-to-know-about-sense-1-activity-7024752095488606209-X-8T",
+    "https://www.linkedin.com/posts/avairsense_cctv-sense1-smartcamera-activity-7031247256267739136-OIYR",
+    "https://www.linkedin.com/posts/avairsense_smart-camera-that-never-blink-an-eye-activity-7092125860098424832-iB9s",
+    "https://www.linkedin.com/posts/avairsense_smart-cameras-as-baby-monitors-activity-7095006688956579840-Xwdi",
+    "https://www.linkedin.com/posts/avairsense_integrating-smart-security-cameras-with-other-activity-7059506657080332288-yQLn"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Avairsense",
+   "results": [
+    "https://www.facebook.com/AvairSense/",
+    "https://www.facebook.com/reel/334318232544638/",
+    "https://www.facebook.com/AvairSense/videos/217491267848247/",
+    "https://www.facebook.com/AvairSense/videos/627803762454282/",
+    "https://www.facebook.com/AvairSense/videos/963015131720001/",
+    "https://www.facebook.com/AvairSense/videos/3400581213558741/",
+    "https://www.facebook.com/AvairSense/videos/261756456319767/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Avairsense note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://inc42.com/company/avairsense/people/",
+    "https://www.cbinsights.com/company/oureyeai/people",
+    "https://getlatka.com/companies/avairsense.com/customer",
+    "https://in.linkedin.com/company/avairsense",
+    "https://tracxn.com/d/companies/avairsense/__FZITBLZE8mLgvi8nA7qZoc-POurd_2qCbwOIuF4CpTQ",
+    "https://www.zoominfo.com/p/Sourav-S/10595007041"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Avairsense X 投稿",
+   "results": [
+    "https://x.com/AvairSense",
+    "https://avairsense.com/",
+    "https://www.instagram.com/avair.sense/reels/",
+    "https://x.com/yunseon44297145/status/2120126034163151110",
+    "https://x.com/AIvnsfw",
+    "https://x.com/haru_ken/status/2119410201413734543",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

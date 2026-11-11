@@ -1,0 +1,1955 @@
+{
+ "name": "Synthflow",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T07:15:08.524331+00:00",
+ "official_url": "https://synthflow.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金プラン",
+    "value": "Starter $29 / M, Pro $450 / M, Growth $900 / M, Agency $1400 / M Free, Bronze $39 / M, Silver $49 / M, Gold $129 / M",
+    "url": "https://oai-market.com/products/synthflow",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$1.8M",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Enterprise AI Voice Agents for Phone Calls | Synthflow",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Jon Sica, President, Batteries Plus",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yash Sharma, Senior Product Manager, Freshworks",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "100% of calls answered, day and night, and live in production in about a month.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Within a month we were in production — and what started as an efficiency play turned into a revenue opportunity.”",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your numbers, your carrier and your contact center: the agent works with them as they are, and reads and writes your CRM, help desk and calendar during the call, through 200+ integrations.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built‑in connections for Zoom, Five9, RingCentral, 8x8, Twilio, Telnyx, Vonage and Freshcaller. Genesys Cloud and other SIP-compatible carriers or office phone systems connect through an Enterprise setup scoped to your requirements.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The agent reads and updates them during the call, and hands the caller to your team when they need a person.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Regional point of presence",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A data processing agreement (DPA), the contract GDPR requires before a vendor handles personal data.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow workspace data and processing stay in the EU.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose a US or EU workspace at setup to keep Synthflow workspace data and processing in that region. Connected providers can process some requests elsewhere. Agent-level retention controls can delete recordings, transcripts and caller IDs automatically after 30 days.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Promise to Pay secured",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow is an enterprise conversational AI platform whose AI voice agents handle calls for contact centers, BPOs and multi‑location brands, inside the phone systems and CRMs they already run. Its agents answer and make calls, handle contextual routing, book appointments, detect voicemail and send SMS follow-ups.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow AI voice agents use conversational AI to understand callers, respond naturally and complete actions during a phone call. They can be trained around specific business workflows, connected to existing tools, and configured to handle tasks such as answering questions, booking appointments, qualifying leads, routing calls and updating CRM records.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ", RingCentral, 8x8, Twilio, Telnyx, Vonage and Freshcaller. Genesys Cloud and other SIP-compatible carriers or office phone systems connect through an Enterprise setup scoped to your requirements.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. It reads and updates",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How is Synthflow priced?",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "As an annual enterprise agreement, scoped to your call volume, phone system, integrations, security needs and launch support. It has no free plan or trial and no rate by the minute. The",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Synthflow is ISO/IEC 27001 certified, SOC 2 Type II audited and PCI DSS v4.0.1 compliant. It signs the business associate agreement (BAA) that HIPAA requires for patient data. US and EU workspaces keep Synthflow workspace data and processing in the selected region;",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "can process some requests elsewhere.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our conversational AI powers 130+ enterprises — explore their results in the selected case studies.",
+    "url": "https://synthflow.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Aizee Tech Solutions Reactivated Cold Leads with +10% Conversion Rate",
+    "url": "https://synthflow.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "About Synthflow: Voice & Chat Agents for Enterprise-level Customer Support",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow builds AI agents that power customer conversations across phone and chat in production environments and enterprise scale. Here’s the story behind the company, team, and milestones that shaped it.",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow was founded in Berlin in 2023 with a focus on one problem: how to turn AI agents into systems that work reliably in real business environments.",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "We began with voice, solving the latency, telephony, and infrastructure challenges required to run human-like conversations in production. Over time, the platform expanded to support chat-based agents, enabling enterprises to automate conversations across channels without rebuilding their tech stack.",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Co-founder & Chief Product Officer",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Top-10 agentic enterprise tech redefining the future of customer experience.",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Top-5 Fastest Growing Products on G2",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "The market landscape’s highflier, evaluated on both execution strength and market presence.",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Recognized in the AI Infrastructure category, highlighting private AI and cloud companies.",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "This award highlights emerging European AI companies across enterprise technology.",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Highlighted at the OpenAI DevDay for surpassing 100 billion tokens across production AI systems.",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "A ranking of the fastest-growing private technology companies in Europe",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "From our founding in Berlin to AI agents running at enterprise scale: the steps that shaped Synthflow.",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Company founded in Berlin, Germany & pre-seed round led by Atlantic Labs",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow Partner Program: Build & Deliver Voice AI in Production",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow works with partners who help customers deploy AI agents in real customer service environments. Whether you’re advising, integrating, or running operations, our partner model supports selling, delivering, and operating AI agents in production.",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Referral partners introduce Synthflow to customers who are exploring or planning AI deployments. We work closely with referral partners throughout the sales process, handling product expertise, solution design, and delivery while partners focus on customer relationships.",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers and system integrators deliver Synthflow as part of broader customer experience or automation projects. They manage integration, configuration, and ongoing operations, ensuring AI agents work reliably within existing telephony and system environments.",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Technology partners build integrations or complementary products that work alongside Synthflow. These partnerships focus on interoperability, shared customers, and simplifying how AI agents connect with existing platforms.",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partners don’t just resell Synthflow. They work with us across sales, delivery, and operations to bring AI agents into production for real customer use cases.",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partnership at Synthflow is designed for teams that stay involved beyond the sale, taking shared responsibility for customer outcomes in production.",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We are a partner-first organization, providing specialized tools, strong incentive structures, and dedicated support to help partners scale alongside us.",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Position yourself as an AI-first advisor by guiding customers through AI transformation using a production-ready automation platform.",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow AI is engineered for enterprise-grade scale, seamless integration, and mission-critical reliability in production environments.",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "About Synthflow Partner Program",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Who is the Synthflow partner program for?",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Do partners need prior voice or AI experience?",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager",
+    "url": "https://synthflow.ai/customer-stories/freshworks-x-synthflow",
+    "pass": 1
+   },
+   {
+    "quote": "Across Freshworks deployments, the joint integration has enabled measurable improvements for end customers:",
+    "url": "https://synthflow.ai/customer-stories/freshworks-x-synthflow",
+    "pass": 1
+   },
+   {
+    "quote": "Through this integration, Freshworks customers gain conversational routing, automated verification, faster issue resolution, 24/7 coverage, seamless ticket creation, and improved handoffs to human agents. Together, Freshworks and Synthflow enable companies to move beyond managing calls and toward truly mastering conversations.",
+    "url": "https://synthflow.ai/customer-stories/freshworks-x-synthflow",
+    "pass": 1
+   },
+   {
+    "quote": "Answer every call. Qualify leads. Book meeting 24/7.",
+    "url": "https://synthflow.ai/customer-stories/freshworks-x-synthflow",
+    "pass": 1
+   },
+   {
+    "quote": "AI Voice Agent Pricing for Enterprise | Synthflow",
+    "url": "https://synthflow.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI Voice Agent Pricing",
+    "url": "https://synthflow.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow is an enterprise conversational AI platform for AI voice agents, with telephony, integrations, security review, and launch support scoped into one contract.",
+    "url": "https://synthflow.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How Is Synthflow Priced?",
+    "url": "https://synthflow.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow is sold as an annual enterprise agreement, scoped to your call volume, phone system, integrations, security needs and launch support. It has no free plan or trial and no rate by the minute.",
+    "url": "https://synthflow.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow is built for mid-market and enterprise teams deploying AI voice agents for customer calls, and every new deployment starts on an Enterprise contract.",
+    "url": "https://synthflow.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "My order just arrived broken. Can you send a new one?",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I’m sorry. A new one ships today and arrives Thursday.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Within a month we were in production — and what started as an efficiency play turned into a revenue opportunity.”",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your numbers, your carrier and your contact center: the agent works with them as they are, and reads and writes your CRM, help desk and calendar during the call, through 200+ integrations.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built‑in connections for Zoom, Five9, RingCentral, 8x8, Twilio, Telnyx, Vonage and Freshcaller. Genesys Cloud and other SIP-compatible carriers or office phone systems connect through an Enterprise setup scoped to your requirements.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ", RingCentral, 8x8, Twilio, Telnyx, Vonage and Freshcaller. Genesys Cloud and other SIP-compatible carriers or office phone systems connect through an Enterprise setup scoped to your requirements.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With over 175,000+ vendors listed on G2, this is an indicator of a deep customer trust.",
+    "url": "https://synthflow.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "BPO partners use Synthflow as part of outsourced customer service operations. AI agents handle defined call flows while human teams manage exceptions and escalations. This model supports higher call volumes, consistent service quality, and operational efficiency.",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers and system integrators deliver Synthflow as part of broader customer experience or automation projects. They manage integration, configuration, and ongoing operations, ensuring AI agents work reliably within existing telephony and system environments.",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue-focused Workflows",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How does the revenue model work for partners?",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "5k-10k employees",
+    "url": "https://synthflow.ai/customer-stories/freshworks-x-synthflow",
+    "pass": 1
+   },
+   {
+    "quote": "Support coverage was often limited to business hours, and disconnected systems forced customers to repeat information across chat, IVR, and phone. As a result, voice remained the least modernized part of the support stack—despite being the channel where the most urgent, high-intent customer conversations take place.",
+    "url": "https://synthflow.ai/customer-stories/freshworks-x-synthflow",
+    "pass": 1
+   },
+   {
+    "quote": "Thryv (NASDAQ: THRY) powers marketing and customer operations for more than 100,000 small businesses — with a large call center footprint behind it. As the company pushed to modernize customer interactions with AI, the challenge wasn’t capability. It was deployment: how to introduce Voice AI into production without risk.",
+    "url": "https://synthflow.ai/customer-stories/thryv-turns-directory-assistance-into-a-24-7-channel-with-voice-ai",
+    "pass": 1
+   },
+   {
+    "quote": "It’s a game-changing platform for us. Within a month we were in production — and what started as an efficiency play turned into a revenue opportunity. Synthflow is a genuine strategic partner going forward.",
+    "url": "https://synthflow.ai/customer-stories/thryv-turns-directory-assistance-into-a-24-7-channel-with-voice-ai",
+    "pass": 1
+   },
+   {
+    "quote": "3,000+ Employees",
+    "url": "https://synthflow.ai/customer-stories/bpo-operator",
+    "pass": 1
+   },
+   {
+    "quote": "This BPO’s fast-track deployment of Synthflow voice AI enabled it to meet enterprise client expectations at scale—without adding headcount or sacrificing quality. With multilingual, branded AI agents operating across key programs, the company added a modern automation layer and new revenue channel, positioning itself as a forward-thinking partner in the competitive BPO space.",
+    "url": "https://synthflow.ai/customer-stories/bpo-operator",
+    "pass": 1
+   },
+   {
+    "quote": "A top U.S.-based CRM and sales automation platform serving thousands of businesses across industries. With over $100M in annual revenue, this company provides advanced tools for managing customer relationships, marketing automation, and sales pipelines—all within a unified platform.",
+    "url": "https://synthflow.ai/customer-stories/crm-casestudy",
+    "pass": 1
+   },
+   {
+    "quote": "1,000+ Employees",
+    "url": "https://synthflow.ai/customer-stories/crm-casestudy",
+    "pass": 1
+   },
+   {
+    "quote": "In 2025, a leading U.S.-based CRM and sales automation platform generating over $100M in annual revenue partnered with Synthflow to bring AI voice capabilities into their product suite. Their goal: empower users to handle large volumes of sales and support interactions—without increasing headcount or building new infrastructure internally.",
+    "url": "https://synthflow.ai/customer-stories/crm-casestudy",
+    "pass": 1
+   },
+   {
+    "quote": "With no additional internal development required, the CRM provider was able to offer a fully branded voice automation feature to its customers—instantly expanding product value and opening a new revenue channel.",
+    "url": "https://synthflow.ai/customer-stories/crm-casestudy",
+    "pass": 1
+   },
+   {
+    "quote": "Our subjective rating of how independently the product carries out its documented tasks, considering the human setup, input, approval and review it needs. This is not a measured success rate.",
+    "url": "https://aiagentstore.ai/ai-agent/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Connect to providers like Intermedia, RingCentral, NICE and others using elastic SIP. Flexible, carrier-agnostic setup for fast deployment.",
+    "url": "https://www.s3tg.com/synthflow",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow's move upmarket is the reason most teams start looking. A $30,000 floor rules it out for anyone who wanted to prove a use case first, which is the position most buyers are in when they arrive here.",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "Retell is designed for high-stakes use cases where conversation quality and reliability directly impact revenue. Whether assisting customers browsing",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "Fifty One Degrees: How to Use AI to Grow Revenue Without Growing Your Team | AI for Growth",
+    "url": "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "pass": 3
+   },
+   {
+    "quote": "In our latest video, we explain how our cutting-edge technology can help streamline your operations, improve your customer experience, and increase your revenue.",
+    "url": "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI Revenue 2025: $1.1M Est., $1.8M Raised",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI has not published its revenue. GetLatka estimates it at about $1.1M a year (September 2025).",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI founders & employees",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Albert Astabatsyan founded Synthflow AI. Synthflow AI had 10 employees (April 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Synthflow AI's revenue?",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Synthflow AI's revenue at about",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Synthflow AI have?",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees in April 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "1. The Technical Barriers of Voice AI and the Founding Team That Challenged Them",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After launching an initial version in early 2024, they rolled out an enterprise version by the end of the year. Currently, they have acquired",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Large Pre-IPO Startups",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Vector works each account across calls, texts and email, over days and inside your rules, until it reaches an outcome.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow is an enterprise conversational AI platform whose AI voice agents handle calls for contact centers, BPOs and multi‑location brands, inside the phone systems and CRMs they already run. Its agents answer and make calls, handle contextual routing, book appointments, detect voicemail and send SMS follow-ups.",
+    "url": "https://synthflow.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Let's Talk About Your Voice AI Agent – Contact Us Today",
+    "url": "https://synthflow.ai/talk-to-sales",
+    "pass": 1
+   },
+   {
+    "quote": "AI solutions provider Aizee needed an efficient way to reengage a database of over 7,000 cold leads. Traditional outreach methods like mass emails and manual cold calls seemed slower and less effective.",
+    "url": "https://synthflow.ai/customer-stories/lead-reactivation",
+    "pass": 1
+   },
+   {
+    "quote": "Aizee had a database of cold leads previously interested in AI workshops, but they may be aged and with low engagement. Cold calling or mass emailing posed risks as a waste of time and resources.",
+    "url": "https://synthflow.ai/customer-stories/lead-reactivation",
+    "pass": 1
+   },
+   {
+    "quote": "A day before calling, a marketing email was sent to the selected cohort. The team then called 60 leads to test Voice 2.0 and refine messaging. The results exceeded expectations, boosting engagement and renewing confidence in lead reactivation.",
+    "url": "https://synthflow.ai/customer-stories/lead-reactivation",
+    "pass": 1
+   },
+   {
+    "quote": "With Synthflow AI, you get telephone via SIP trunking, multilingual support, and custom workflows, all baked into one unified platform. These AI assistants can handle inbound and outbound calls, book appointments, detect voicemails, and route calls using",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "Platform is primarily voice-centric, lacking native chat, email, or SMS automation without additional integrations.",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "to get a technical call. With a rating of 4.8/5 (781 reviews), Retell provides quick support via Discord and email.",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "Your submission has been sent to your email",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "On the inbound front, Synthflow is good at answering the phone. Synthflow works well as an AI receptionist that can book appointments, qualify leads, and pick up on voicemail.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Omnichannel support across voice, SMS, email, WhatsApp, and chat",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturer, Supplier",
+    "url": "https://synthflow.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow is the name that keeps coming up when people ask about no-code AI voice agents. It's fast to set up, popular with agencies, and used by plenty of small businesses as an AI receptionist. Because it’s no-code, you don’t need to hire a developer just to answer the phone.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot is a strong fit for logistics, industrial operations, and outbound calling at real scale. It’s also an excellent fit for sales prospecting and lead qualification.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agents For Beginners – OpenClaw Case Study",
+    "url": "https://www.youtube.com/watch?v=o8GmlzWM1N0",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "CRM Platform White-Labeled & Scaled to 500K+ calls/month",
+    "url": "https://synthflow.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow Partner Program: Build & Deliver Voice AI in Production",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers & System Integrators",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers and system integrators deliver Synthflow as part of broader customer experience or automation projects. They manage integration, configuration, and ongoing operations, ensuring AI agents work reliably within existing telephony and system environments.",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "About Synthflow Partner Program",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Who is the Synthflow partner program for?",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Can partners resell or white-label Synthflow?",
+    "url": "https://synthflow.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, with white-label in the annual enterprise agreement. You give each client its own workspace under your brand and domain, and see every client in one analytics dashboard. The agreement is scoped to your call volume, phone system, integrations, security needs and launch support.",
+    "url": "https://synthflow.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A $230M multinational BPO operator partnered with Synthflow to modernize voice operations with white-labeled AI agents. In just 60 days, the company deployed 40+ fully branded voice agents across client programs, automating 600K+ calls monthly without adding headcount. This enabled the team to deliver faster, multilingual service while reducing operational overhead.",
+    "url": "https://synthflow.ai/industry/bpo-call-centers",
+    "pass": 1
+   },
+   {
+    "quote": "A top U.S.-based CRM platform partnered with Synthflow to embed white-labeled voice AI into its product suite. Within 60 days, the company launched a fully branded voice automation layer, enabling users to handle over 500K calls per month—without added headcount or infrastructure overhead.",
+    "url": "https://synthflow.ai/industry/bpo-call-centers",
+    "pass": 1
+   },
+   {
+    "quote": "White-Labeled Voice Integration",
+    "url": "https://synthflow.ai/industry/bpo-call-centers",
+    "pass": 1
+   },
+   {
+    "quote": "600K+ Calls Automated in 60 Days: BPO Scales with White-Labeled Voice AI",
+    "url": "https://synthflow.ai/customer-stories/bpo-operator",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow provided a white-labeled voice automation platform that enabled the BPO to deploy more than 40 fully branded AI voice agents in just 60 days. These agents now operate across multiple client programs, managing scheduling, support, and lead qualification with precision and speed.",
+    "url": "https://synthflow.ai/customer-stories/bpo-operator",
+    "pass": 1
+   },
+   {
+    "quote": "With Synthflow’s white-labeled voice AI, the BPO operator unlocked new scalability and efficiency across its enterprise accounts:",
+    "url": "https://synthflow.ai/customer-stories/bpo-operator",
+    "pass": 1
+   },
+   {
+    "quote": "CRM Platform White-Labeled & Scaled to 500K+ calls/month",
+    "url": "https://synthflow.ai/customer-stories/bpo-operator",
+    "pass": 1
+   },
+   {
+    "quote": "CRM Platform Scales to 500K+ Monthly Calls with White-Labeled Voice AI",
+    "url": "https://synthflow.ai/customer-stories/crm-casestudy",
+    "pass": 1
+   },
+   {
+    "quote": "CRM Platform White-Labeled & Scaled to 500K+ calls/month",
+    "url": "https://synthflow.ai/customer-stories/crm-casestudy",
+    "pass": 1
+   },
+   {
+    "quote": "The CRM provider’s customers were looking for better ways to manage call volumes and accelerate responsiveness across teams. But building real-time voice automation in-house posed serious roadblocks: months of engineering work, increased technical debt, and delayed time-to-market. The team needed a fully integrated voice solution they could white-label and launch with minimal effort.",
+    "url": "https://synthflow.ai/customer-stories/crm-casestudy",
+    "pass": 1
+   },
+   {
+    "quote": "Synthflow delivered a turnkey, white-labeled voice AI layer—fully integrated and live in just 60 days. The deployment included:",
+    "url": "https://synthflow.ai/customer-stories/crm-casestudy",
+    "pass": 1
+   },
+   {
+    "quote": "White-Labeled Voice Automation",
+    "url": "https://synthflow.ai/customer-stories/crm-casestudy",
+    "pass": 1
+   },
+   {
+    "quote": "White-Labeled Voice Integration",
+    "url": "https://synthflow.ai/customer-stories/crm-casestudy",
+    "pass": 1
+   },
+   {
+    "quote": "As their agency partner, Peak Demand knew there had to be a smarter, faster way to deliver essential public services.",
+    "url": "https://synthflow.ai/customer-stories/data-collection",
+    "pass": 1
+   },
+   {
+    "quote": "CRM Platform White-Labeled & Scaled to 500K+ calls/month",
+    "url": "https://synthflow.ai/customer-stories/data-collection",
+    "pass": 1
+   },
+   {
+    "quote": "Use the visual builder to create the conversation. Add questions, replies, and actions like scheduling or follow-ups. Pick a voice that fits your brand — or use your own for building:",
+    "url": "https://www.s3tg.com/synthflow",
+    "pass": 3
+   },
+   {
+    "quote": "Resell Synthflow - fully white-labeled version available",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI offers a range of unique features that help small businesses, agencies, and startups launch voice agents for inbound and outbound calls in just a few hours including an",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "4. White-Labeling",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow solves this by providing white label solutions for building voice agents. So, instead of starting from scratch, you plug a ready-made solution and focus on delivering value to clients.",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "However, many agencies have pointed out that, it has:",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AI, on the other hand, is optimized for longer, more structured conversations with deeper customization and enterprise-grade compliance. Agencies get more control over LLMs, voices, and client accounts, making Retell better suited for high-volume, production-grade voice AI businesses than Synthflow.",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI covers most compliance needs for SMBs, agencies, and even healthcare/finance within its enterprise plan, including:",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "AI Lead Qualification Software for Agencies and BPOs",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow is the name that keeps coming up when people ask about no-code AI voice agents. It's fast to set up, popular with agencies, and used by plenty of small businesses as an AI receptionist. Because it’s no-code, you don’t need to hire a developer just to answer the phone.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Small businesses and agencies, especially white-label teams, that want to launch fast without writing code.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Pay-as-you-go per minute, plus add-ons and a white-label fee.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "The no-code Flow Designer and the strongest white-label setup in this category.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Best-in-class white-label platform with client subaccounts, custom branding, billing management, and agency reseller capabilities.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "White-label and agency tool",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies especially love the white-label features.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "The white-label and reseller toolkit costs about $2,000 a month",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "If you're a small business or an agency looking to launch fast without hiring an engineer, yes, Synthflow is worth it. The builder really is easy to use, and the white-label tools are hard to beat anywhere else.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow is a strong pick for small businesses, agencies building white-label products, and service businesses that just need simple, structured calls handled quickly.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "No-code, self-serve, drag-and-drop, with white-label reselling for agencies",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "SMBs and agencies that want speed and self-serve control",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "It's usage-based. The voice engine alone runs around $0.09 a minute, and once you add the language model and telephony, the all-in rate usually lands between $0.15 and $0.37 a minute, depending on your plan and which providers you bring. White-label runs about $2,000 a month. Double-check current numbers directly with Synthflow before you commit.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Keep an eye on bring-your-own-key provider fees, concurrency add-ons, the HIPAA business associate agreement (about 30 percent extra), voice add-ons, and the white-label fee. Add them up, and the real cost often lands well above the plan's sticker price.",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI - Whitelabel your SAAS - for AAA Agencies - YouTube",
+    "url": "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI - Whitelabel your SAAS - for AAA Agencies",
+    "url": "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "pass": 3
+   },
+   {
+    "quote": "Are you an AAA/Automation Agency looking to streamline your business operations and enhance your brand identity?",
+    "url": "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "pass": 3
+   },
+   {
+    "quote": "Look no further than Synthflow AI! Our innovative white label SAAS solution allows you to fully customize your software to mat",
+    "url": "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "pass": 3
+   },
+   {
+    "quote": "Look no further than Synthflow AI! Our innovative white label SAAS solution allows you to fully customize your software to match your unique branding without the hassle and expense of developing your own platform from scratch.",
+    "url": "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on this opportunity to take your business to the next level! Watch our video now to learn more about our whitelabel SAAS solution. SIGN UP FOR SYNTHFLOW ⬇",
+    "url": "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Synthflowの料金・機能アップデート・代替ツール情報を日本語でお届けします",
+    "url": "https://oai-market.com/products/synthflow",
+    "pass": 3
+   },
+   {
+    "quote": "多言語に対応しているため、日本語以外のお客様にも自動で自然な会話ができ、海外とのやり取りやグローバル展開がスムーズに進められます",
+    "url": "https://oai-market.com/products/synthflow",
+    "pass": 3
+   },
+   {
+    "quote": "大規模企業も代理店も、それぞれに最適化されたサポート体制で安心して導入でき、導入初期から最大限の成果が得られます",
+    "url": "https://oai-market.com/products/synthflow",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネス電話自動化Synthflowとは⁉日本語対応や導入方法、活用事例まで徹底解説！ | ameboothのブログ",
+    "url": "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネス電話自動化Synthflowとは⁉日本語対応や導入方法、活用事例まで徹底解説！",
+    "url": "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Synthflow AIの特徴や他ツールとの違い、日本での導入方法から実際の活用法まで、詳しく・分かりやすくご紹介します",
+    "url": "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "pass": 3
+   },
+   {
+    "quote": "：20以上の言語に対応し、日本語もサポート",
+    "url": "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AIは、海外発のプラットフォームですが、日本語にも対応しており、日本国内の企業でも問題なく導入できます",
+    "url": "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の番号も利用できるため、国内業務にもスムーズに対応できます",
+    "url": "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内での運用にあたっては、個人情報保護法や電気通信事業法など、関連法令の遵守が必要です",
+    "url": "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本語での運用に不安がある場合は、導入サポートやコンサルティングサービスの利用も検討しましょう",
+    "url": "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ：Synthflow AIは日本のビジネス現場に新しい価値をもたらす！",
+    "url": "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本語対応や多言語展開、豊富な外部連携により、国内のあらゆる業種・規模の企業で活用が広がっています",
+    "url": "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、Synthflowは、本番環境レベルの導入、迅速なROI（多くの場合数週間）、高い自律処理率、代理店に人気のホワイトラベル機能に重点を置いている点で際立っています",
+    "url": "https://www.youtube.com/watch?v=AaaMvb4Gdg4",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflowは、企業、代理店、SaaS企業、不動産、医療機関など、電話対応の自動化と品質およびコンプライアンスの維持を目指す、通話量の多いあらゆる業種に最適です",
+    "url": "https://www.youtube.com/watch?v=AaaMvb4Gdg4",
+    "pass": 3
+   },
+   {
+    "quote": "代理店は、クライアントへの提供におけるホワイトラベルオプションを高く評価しています",
+    "url": "https://www.youtube.com/watch?v=AaaMvb4Gdg4",
+    "pass": 3
+   },
+   {
+    "quote": "対応言語は日本語を含む30以上（公式表記）です",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "落とし穴1:日本の電話番号はSynthflow単体では持てない",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "日本の番号は、Synthflow単体では取得できません",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "日本で使う場合は、TwilioなどのSIPプロバイダ（電話回線を提供する事業者）で番号を別途契約し、Synthflowに持ち込む形になります",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "Twilioで日本の電話番号を取得するには、2019年11月以降、本人確認情報と住所情報を本人確認書類とともに登録する必要があります",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "つまり「Synthflowに登録すれば、その日のうちに日本の電話番号で運用開始」とはいかず、番号の規制審査には日数がかかることを前提にスケジュールを組む必要があります",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "なお日本国内では2023年10月からソフトバンクがTwilioの取り扱いを始め、2024年1月以降は日本語による24時間サポート窓口も開設されています",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で相談できる契約先があること自体は、クライアントに説明しやすい材料になります",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "日本には、AI電話自動応答の国産サービスIVRy（アイブリー）が既に存在します",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "番号維持費と通話料は別途ですが、日本語で完結し、導入のハードルも低いサービスです",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "個人事業主でもSynthflowの代理店プランは使える?",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、ホワイトラベル代理店ではなく、クライアント自身のアカウントで構築を請け負う型を推奨しています",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "日本の電話代行サービスには、コール数に応じた業界相場が存在します",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "一方でSynthflowを使った日本国内での副業・受託の収益実績を裏付ける一次情報は見つかりませんでした",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【解説】音声AIエージェント「 Synthflow 」でコールセンター ... — 【解説】音声AIエージェント「 Synthflow 」でコールセンター ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow ｜予約受付・顧客対応を自動化するAI音声 ... — Synthflow ｜予約受付・顧客対応を自動化するAI音声 ... OAI Market https://oai-market.com > products > synthflow",
+    "url": "https://oai-market.com/products/synthflow",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネス電話自動化 Synthflow とは⁉ 日本 語対応や 導入 方法 — ビジネス電話自動化 Synthflow とは⁉ 日本 語対応や 導入 方法 アメーバブログ https://ameblo.jp > amebooth > entry-12908377164",
+    "url": "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "pass": 3
+   },
+   {
+    "quote": "音声AIの勝者は誰か？ Synthflow - note — 音声AIの勝者は誰か？ Synthflow - note note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow : Enterprise AI Voice Agents for Phone Calls — Synthflow : Enterprise AI Voice Agents for Phone Calls Synthflow https://synthflow.ai",
+    "url": "https://synthflow.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI - AI Agent | Pricing, Reviews & Alternatives — Synthflow AI - AI Agent | Pricing, Reviews & Alternatives AI Agent Store https://aiagentstore.ai > synthflow-ai",
+    "url": "https://aiagentstore.ai/ai-agent/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow No-Code AI Agents | S3TG — Synthflow No-Code AI Agents | S3TG s3tg.com https://www.s3tg.com > synthflow",
+    "url": "https://www.s3tg.com/synthflow",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AIレビュー：コストのかかるリードを逃す ... - Unite.AI — Synthflow AIレビュー：コストのかかるリードを逃す ... - Unite.AI Unite.AI https://www.unite.ai > synthflow-ai-review",
+    "url": "https://www.unite.ai/ja/synthflow-ai-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI - LinkedIn — Synthflow AI - LinkedIn LinkedIn https://de.linkedin.com > synthflowai",
+    "url": "https://de.linkedin.com/company/synthflowai",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI Review 2026: Pros, Cons, Features & Pricing — Synthflow AI Review 2026: Pros, Cons, Features & Pricing Retell AI https://www.retellai.com > blog > syn...",
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI Review (2026): Pricing, Pros, Cons, & more — Synthflow AI Review (2026): Pricing, Pros, Cons, & more HappyRobot https://www.happyrobot.ai > Hub",
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI Review: I Built 6 Voice AI Agents – is it worth it? — Synthflow AI Review: I Built 6 Voice AI Agents – is it worth it? YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=w6eUBmVwNMY",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Success Stories | Synthflow AI — Customer Success Stories | Synthflow AI Synthflow https://synthflow.ai > customer-stories",
+    "url": "https://synthflow.ai/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI Review: Enterprise Voice Agents for ... - YouTube — Synthflow AI Review: Enterprise Voice Agents for ... - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=AaaMvb4Gdg4",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI'S Voice Technology Goes Live on Zoom Phone ... — Synthflow AI'S Voice Technology Goes Live on Zoom Phone ... Yahoo Finance https://finance.yahoo.com > articles",
+    "url": "https://finance.yahoo.com/technology/ai/articles/synthflow-ais-voice-technology-goes-140000173.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to Become a Successful White Label Reseller - Synthflow — How to Become a Successful White Label Reseller - Synthflow Synthflow AI https://synthflow.ai > blog > white-lab...",
+    "url": "https://synthflow.ai/blog/white-label-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow Partner Program : Build & Deliver Voice AI in ... — Synthflow Partner Program : Build & Deliver Voice AI in ... Synthflow https://synthflow.ai > partners",
+    "url": "https://synthflow.ai/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI - Whitelabel your SAAS - for AAA Agencies — Synthflow AI - Whitelabel your SAAS - for AAA Agencies YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow white - label alternatives for agencies - Assistable.ai — Synthflow white - label alternatives for agencies - Assistable.ai Assistable https://www.assistable.ai > white-label",
+    "url": "https://www.assistable.ai/resources/synthflow/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI Revenue 2025: $1.1M Est., $1.8M Raised — Synthflow AI Revenue 2025: $1.1M Est., $1.8M Raised GetLatka https://getlatka.com > synthflow-ai",
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow - 2026 Company Profile & Team - Tracxn — Synthflow - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/synthflow/__uIHmtov9CfXAgG0qK-_H7ZFuiZMZ3i1HiYosIU1JL4Q",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow CEO on $20M Raise & the Future of AI Voice Agents — Synthflow CEO on $20M Raise & the Future of AI Voice Agents YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=o8GmlzWM1N0",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI raises $20M to transform the $168B global ... — Synthflow AI raises $20M to transform the $168B global ... Synthflow https://synthflow.ai > news > synthflo...",
+    "url": "https://synthflow.ai/news/synthflow-raises-20m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "How Synthflow AI is cutting through the noise in a loud AI ... — How Synthflow AI is cutting through the noise in a loud AI ... TechCrunch https://techcrunch.com > 2025/06/24",
+    "url": "https://techcrunch.com/2025/06/24/how-synthflow-ai-is-cutting-through-the-noise-in-a-loud-ai-voice-category/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Synthflow AIで電話代行副業を受託する｜始め方と契約設計 Synthflow AIで電話代行副業を受託する｜始め方と契約設計 note https://note.com > ビジネス > キャリア・働き方",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "Who is the Winner in Voice AI? Synthflow Breaks ... - note Who is the Winner in Voice AI? Synthflow Breaks ... - note note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【解説】音声AIエージェント「 Synthflow 」でコールセンター ... 【解説】音声AIエージェント「 Synthflow 」でコールセンター ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI：騒がしいAI音声市場を制覇する革新的技術とは？ Synthflow AI：騒がしいAI音声市場を制覇する革新的技術とは？ note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/ai_solution/n/n55b999c01068",
+    "pass": 3
+   },
+   {
+    "quote": "音声AIの勝者は誰か？ Synthflow - note 音声AIの勝者は誰か？ Synthflow - note note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Synthflow AIで電話代行副業を受託する｜始め方と契約設計｜カイ",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AIで電話代行副業を受託する｜始め方と契約設計",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "プログラミング不要で音声AI電話代行を始める方法",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AIの料金・落とし穴・競合ツールとの違い",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "「電話に出られず、問い合わせを逃してしまった」",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "「AIで電話代行を受託したいけど、何から手をつけていいか分からない」",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "「プログラミングができないから、音声AIなんて自分には無理だと思っていた」",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AIというノーコードのツールを使えば、電話代行の副業や受託ビジネスをプログラミングなしで始められます。この記事では、具体的な手順と失敗しない受託の型を解説します。",
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "pass": 3
+   },
+   {
+    "quote": "Who is the Winner in Voice AI? Synthflow Breaks Through the \"Battlefield\" with $20 Million｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Who is the Winner in Voice AI? Synthflow Breaks Through the \"Battlefield\" with $20 Million",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since the emergence of ChatGPT, the conversational AI market has seen explosive growth, with the global market size projected to approach $50 billion by 2031 (MarketsAndMarkets research). Among these, voice-based conversational AI is receiving particular attention. However, voice AI has significantly higher technical hurdles than simple text processing, and few companies have yet demonstrated true",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this landscape, Berlin-based startup Synthflow AI has emerged. Providing a no-code voice AI customer service agent, it has grown rapidly since its founding in 2023, reaching 5 million calls processed per month in just one year. This article explores why Synthflow has managed to stand out in the \"noisy\" voice AI sector.",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. The Technical Barriers of Voice AI and the Founding Team That Challenged Them",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. From Text to Voice: Why Was \"Difficulty\" Attractive?",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【解説】音声AIエージェント「Synthflow」でコールセンター・セールスを自動化｜ゼロトラスト移行設計ノート",
+    "url": "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "pass": 3
+   },
+   {
+    "quote": "【解説】音声AIエージェント「Synthflow」でコールセンター・セールスを自動化",
+    "url": "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "pass": 3
+   },
+   {
+    "quote": "近年、AI技術の進化により、ビジネスプロセスの自動化や効率化が急速に進んでいます。その中でも、",
+    "url": "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "pass": 3
+   },
+   {
+    "quote": "は、音声合成や自然言語処理を活用した革新的なツールとして注目を集めています。特に、コールセンターの自動化や音声アシスタントの開発など、さまざまな業界で導入が進んでいます。",
+    "url": "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、Synthflowの導入には専門的な知識や技術が必要であり、多くの企業が「どのように導入すれば良いのか？」「どのような効果が得られるのか？」といった疑問を抱えています。そこで、",
+    "url": "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "pass": 3
+   },
+   {
+    "quote": "として、企業の課題解決をサポートするビジネスを立ち上げることは、非常に有望な選択肢と言えるでしょう。",
+    "url": "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、Synthflow導入コンサルタントとして、企業がSynthflowを活用して業務効率化を実現するための秘訣を解説します。具体的な事例や導入のポイントを交えながら、Synthflowの魅力と導入の成功方法をお伝えします。",
+    "url": "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflowとは？なぜ今注目されているのか？",
+    "url": "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI：騒がしいAI音声市場を制覇する革新的技術とは？｜AIソリューションオフィス",
+    "url": "https://note.com/ai_solution/n/n55b999c01068",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI：騒がしいAI音声市場を制覇する革新的技術とは？",
+    "url": "https://note.com/ai_solution/n/n55b999c01068",
+    "pass": 3
+   },
+   {
+    "quote": "■ 音声AIカスタマーサービスの新星：Synthflow AI、Accel主導で2000万ドルのシリーズAラウンドを調達",
+    "url": "https://note.com/ai_solution/n/n55b999c01068",
+    "pass": 3
+   },
+   {
+    "quote": "まるでSF映画の世界が現実になったかのような、そんな印象を抱かせる会話型AI市場。MarketsAndMarketsの予測によれば、2031年までに500億ドル規模の巨大市場へと成長すると見込まれています。この競争が激化する市場で、ひときわ異彩を放つ存在、それがベルリンを拠点とする■Synthflow AI■です。",
+    "url": "https://note.com/ai_solution/n/n55b999c01068",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AIは、エンタープライズグレードの品質と容易なセットアップに焦点を当てた、カスタマイズ可能なホワイトラベルの音声AIカスタマーサービスエージェントを構築・展開できるノーコードプラットフォームを提供しています。2023年のローンチ以来、すでに1,000社以上の顧客を獲得し、4,500万件以上の通話に対応してきた実績は、その実力を雄弁に物語っています。",
+    "url": "https://note.com/ai_solution/n/n55b999c01068",
+    "pass": 3
+   },
+   {
+    "quote": "■ 音声AIに賭けた創業者たちの情熱：誕生秘話",
+    "url": "https://note.com/ai_solution/n/n55b999c01068",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AIの共同創業者兼CEOであるHakob Astabatsyan氏は、CPOのAlbert Astabatsyan氏、CTOのSassun Mirzakhan-Saky氏とともに、2023年初頭にOpenAIのChatGPT APIを試行錯誤する中で、このビジネスチャンスを見出しました。当初はテキストベースのAIボットからスタートしましたが、音声AIの複雑さに直面した時、彼らはその可能性に心を奪われたと言います。",
+    "url": "https://note.com/ai_solution/n/n55b999c01068",
+    "pass": 3
+   },
+   {
+    "quote": "「リアルタイムで人間のようにAIが会話するためには、400ミリ秒以下の遅延、そして会話への割り込み処理など、非常に複雑な課題が山積していることに気づきました。」とHakob Astabatsyan氏は語ります。「私たちはこの問題に魅了され、音声ボットに特化することを決意したのです。」",
+    "url": "https://note.com/ai_solution/n/n55b999c01068",
+    "pass": 3
+   },
+   {
+    "quote": "音声AIの勝者は誰か？Synthflow、2,000万ドルで“激戦区”を突き抜ける｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "pass": 3
+   },
+   {
+    "quote": "音声AIの勝者は誰か？Synthflow、2,000万ドルで“激戦区”を突き抜ける",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTの登場以降、対話型AI市場は爆発的な拡大を見せており、2031年には世界市場規模が500億ドルに迫ると予測されています（MarketsAndMarkets調査）。その中で特に注目されているのが、「音声」を介した対話AIです。しかし、音声AIは単なるテキスト処理より遥かに技術的ハードルが高く、未だ真のプロダクト完成度を示す企業は限られています。",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "pass": 3
+   },
+   {
+    "quote": "そんな中、ベルリン発のスタートアップSynthflow AIが登場しました。ノーコードで構築可能な音声AIカスタマーサービスエージェントを提供し、2023年の創業から急成長を遂げ、わずか1年で月間500万件の通話を処理するまでに至っています。本稿では、なぜSynthflowが「ノイズの多い音声AI領域」で頭一つ抜け出せたのかを探ります。",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "pass": 3
+   },
+   {
+    "quote": "1. 音声AIの技術的壁と、それに挑んだ創業チーム",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. テキストから音声へ：なぜ「難しい」が魅力だったのか",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflowの創業は、2023年初頭にChatGPT APIを用いてノーコードのAIアプリを模索する試みに始まります。当初はテキストチャットボットを開発していたものの、音声Botのプロトタイプを試したとき、創業者のHakob Astabatsyanらは驚愕しました。",
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Synthflow (@SynthflowAI) / X Synthflow (@SynthflowAI) / X X https://x.com > SynthflowAI",
+    "url": "https://x.com/SynthflowAI",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Synthflow AI - LinkedIn Synthflow AI - LinkedIn LinkedIn https://de.linkedin.com > synthflowai",
+    "url": "https://de.linkedin.com/company/synthflowai",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI's Post - LinkedIn Synthflow AI's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > sy...",
+    "url": "https://www.linkedin.com/posts/synthflowai_synthflow-is-an-accredited-ai-provider-in-activity-7521603448241397760-nFae",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow AI | LinkedIn Synthflow AI | LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/synthflowai-synthflow-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Hakob Astabatsyan - Co-Founder & CEO at Synthflow AI Hakob Astabatsyan - Co-Founder & CEO at Synthflow AI LinkedIn https://www.linkedin.com > hakob-ast...",
+    "url": "https://www.linkedin.com/in/hakob-astabatsyan",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Synthflow - Effortless Human-Like AI Phone Calls | Berlin-Buch Synthflow - Effortless Human-Like AI Phone Calls | Berlin-Buch Facebook https://www.facebook.com > synthflow",
+    "url": "https://www.facebook.com/synthflow/",
+    "pass": 3
+   },
+   {
+    "quote": "Comparison of assistable.ai and synthflow with gohighlevel? Comparison of assistable.ai and synthflow with gohighlevel? Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/3831242283822226/posts/4284253651854418/",
+    "pass": 3
+   },
+   {
+    "quote": "Hi guys, anyone use GHL and Synthflow ? Got my agent to ... Hi guys, anyone use GHL and Synthflow ? Got my agent to ... Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/698593531630485/posts/1301537504669415/",
+    "pass": 3
+   },
+   {
+    "quote": "Synthflow is reportedly down for some users right now. Are ... Synthflow is reportedly down for some users right now. Are ... Facebook https://www.facebook.com > StatusIsDown > posts > synt...",
+    "url": "https://www.facebook.com/StatusIsDown/posts/synthflow-is-reportedly-down-for-some-users-right-now-are-you-one-of-them-synthf/1160096519923139/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://synthflow.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/customer-stories/freshworks-x-synthflow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/customer-stories/batteries-plus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/customer-stories/thryv-turns-directory-assistance-into-a-24-7-channel-with-voice-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/industry/bpo-call-centers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/talk-to-sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/customer-stories/lead-reactivation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/customer-stories/inbound-calls",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/customer-stories/bpo-operator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/customer-stories/crm-casestudy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/customer-stories/data-collection",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6798ce4f1175544040444d95/6aee32980b3a15fd42052433_6aee3296d2c0532d6378654f_humbnail--Manufacturing-Company-Cuts-Service-Time--35-and-Doubles-Inbound-Orders-1400.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/6989ee7a8ae060b3da8c9b8a_image--partners--01.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/69833f7a7f457f41254f33cb_image--partners--02.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6798ce4f1175544040444d95/6932fdf3bbb7846c53abaa25_freshworks-logo_brandlogos.net_c6t5u.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thebridge.jp/2025/06/ai-voice-technology-sees-funding-surge-of-over-500m-in-the-past-six-months",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://oai-market.com/products/synthflow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiagentstore.ai/ai-agent/synthflow-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.s3tg.com/synthflow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unite.ai/ja/synthflow-ai-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://de.linkedin.com/company/synthflowai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/blog/synhtflow-ai-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=AaaMvb4Gdg4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/AI_Agents/comments/1rf9jok/best_white_label_voice_ai_for_marketing_agencies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/synthflow-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/synthflow/__uIHmtov9CfXAgG0qK-_H7ZFuiZMZ3i1HiYosIU1JL4Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=o8GmlzWM1N0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_solution/n/n55b999c01068",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SynthflowAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/synthflowai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/synthflowai_synthflow-is-an-accredited-ai-provider-in-activity-7521603448241397760-nFae",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/synthflowai-synthflow-ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/hakob-astabatsyan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/synthflow/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/3831242283822226/posts/4284253651854418/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/698593531630485/posts/1301537504669415/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/StatusIsDown/posts/synthflow-is-reportedly-down-for-some-users-right-now-are-you-one-of-them-synthf/1160096519923139/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/synthflowai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SynthflowAI",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Synthflow 日本 導入",
+   "results": [
+    "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "https://thebridge.jp/2025/06/ai-voice-technology-sees-funding-surge-of-over-500m-in-the-past-six-months",
+    "https://oai-market.com/products/synthflow",
+    "https://ameblo.jp/amebooth/entry-12908377164.html",
+    "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "https://www.youtube.com/watch?v=Y7vmCRRCOds",
+    "https://www.nikkei.com/article/DGXZQOUC097DL0Z00C26A3000000/",
+    "https://www.reddit.com/r/AI_Agent_Reviews/comments/1owm0lp/choosing_the_best_ai_receptionist_appointment/?tl=ja",
+    "https://www.upstage.ai/news/introducing-upstage-japan",
+    "https://ai-jisso.jp/products/synthflow-ai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Synthflow 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://synthflow.ai/",
+    "https://aiagentstore.ai/ai-agent/synthflow-ai",
+    "https://www.s3tg.com/synthflow",
+    "https://www.unite.ai/ja/synthflow-ai-review/",
+    "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "https://www.reddit.com/r/AI_Agents/comments/1twk0ae/voice_ai_builders_what_pricing_model_do_you/?tl=ja",
+    "https://synthflow.ai/pricing",
+    "https://oai-market.com/products/synthflow",
+    "https://www.thinkymixer.com/ja-jp/sales-office/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Synthflow Japan",
+   "results": [
+    "https://synthflow.ai/",
+    "https://de.linkedin.com/company/synthflowai",
+    "https://www.retellai.com/blog/synhtflow-ai-review",
+    "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "https://www.youtube.com/watch?v=w6eUBmVwNMY",
+    "https://finance.yahoo.com/news/synthflow-ai-raises-20m-transform-060000621.html",
+    "https://atlantic.vc/portfolio/synthflow",
+    "https://ecosystem.hubspot.com/marketplace/listing/synthflow-ai-phone-calling",
+    "https://x.com/SynthflowAI",
+    "https://ai-jisso.jp/products/synthflow-ai/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Synthflow manufacturing customer case study",
+   "results": [
+    "https://synthflow.ai/customer-stories",
+    "https://www.retellai.com/blog/synhtflow-ai-review",
+    "https://www.happyrobot.ai/hub/synthflow-reviews-and-pricing",
+    "https://www.youtube.com/watch?v=AaaMvb4Gdg4",
+    "https://finance.yahoo.com/technology/ai/articles/synthflow-ais-voice-technology-goes-140000173.html",
+    "https://www.lacy.ai/compare-lacy-vs-synthflow",
+    "https://www.anygen.io/showcase/synthflow-ai/index.html",
+    "https://www.businesswire.com/news/home/20250624442670/en/Synthflow-AI-Raises-%2420M-to-Transform-the-%24168B-Global-Conversational-AI-Market-With-Enterprise-AI-Voice-Agents",
+    "https://www.youtube.com/@SynthflowAI",
+    "https://synthflow.ai/customer-stories/customer-support"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Synthflow white label OR reseller OR partner program",
+   "results": [
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://synthflow.ai/partners",
+    "https://www.reddit.com/r/AI_Agents/comments/1rf9jok/best_white_label_voice_ai_for_marketing_agencies/",
+    "https://www.youtube.com/watch?v=oTUAdwzTtSQ",
+    "https://www.assistable.ai/resources/synthflow/white-label",
+    "https://parallellabs.app/synthflow-ai-vs-parallel-ai-which-white-label-platform-actually-delivers-complete-business-automation-beyond-voice-calls-for-solopreneurs-in-2025/",
+    "https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies",
+    "https://www.pulsyai.com/post/best-synthflow-white-label-alternative",
+    "https://docs.synthflow.ai/admin-dashboard"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Synthflow founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/synthflow-ai",
+    "https://tracxn.com/d/companies/synthflow/__uIHmtov9CfXAgG0qK-_H7ZFuiZMZ3i1HiYosIU1JL4Q",
+    "https://www.youtube.com/watch?v=o8GmlzWM1N0",
+    "https://synthflow.ai/news/synthflow-raises-20m-series-a",
+    "https://techcrunch.com/2025/06/24/how-synthflow-ai-is-cutting-through-the-noise-in-a-loud-ai-voice-category/",
+    "https://pitchbook.com/profiles/company/535509-55",
+    "https://www.linkedin.com/posts/call-centre-helper_synthflowai-cx-voiceai-activity-7351158672842022913-cn5g",
+    "https://www.edtechinnovationhub.com/news/synthflow-ai-lands-20-million-in-funding-as-it-looks-to-make-voice-agents-technology-more-accessible",
+    "https://www.crunchbase.com/organization/synthflow-ai",
+    "https://prospeo.io/c/synthflow-ai-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com Synthflow",
+   "results": [
+    "https://note.com/kai_claudecode/n/neac8ddb3a9a8",
+    "https://note.com/startup_now0708/n/n35b6194d9c94?hl=en",
+    "https://note.com/wasao_consultant/n/na6a4da56eefa",
+    "https://note.com/ai_solution/n/n55b999c01068",
+    "https://note.com/ai_hoppingrabbit/n/ndd2042e806cb",
+    "https://note.com/startup_now0708/n/n76cad9efe5c7?hl=en",
+    "https://note.com/newshoundai/n/nf9b6ba39b227",
+    "https://note.com/startup_now0708/n/n91cc5fb01c84",
+    "https://note.com/vueloo_blog/n/nccfae267ae4f"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Synthflow",
+   "results": [
+    "https://x.com/SynthflowAI",
+    "https://x.com/cole_medin",
+    "https://x.com/aigclink/status/1859179937087078525",
+    "https://x.com/creatine_cycle/status/2114946771415937239",
+    "https://x.com/@wirevoxai",
+    "https://x.com/laurentlequien",
+    "https://x.com/js5dm9b9jwhy1tq/status/2105141350685642843",
+    "https://x.com/behzatrasuli",
+    "https://x.com/t_sato_0420",
+    "https://x.com/synthflowai"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Synthflow",
+   "results": [
+    "https://de.linkedin.com/company/synthflowai",
+    "https://www.linkedin.com/posts/synthflowai_synthflow-is-an-accredited-ai-provider-in-activity-7521603448241397760-nFae",
+    "https://www.linkedin.com/products/synthflowai-synthflow-ai/",
+    "https://www.linkedin.com/in/hakob-astabatsyan",
+    "https://www.linkedin.com/in/matthewcarteralexander",
+    "https://www.linkedin.com/jobs/synthflow-ai-jobs-worldwide",
+    "https://www.linkedin.com/posts/andrewbolis_learn-how-to-make-voice-ai-reliable-activity-7394396294699573249--bvH",
+    "https://www.linkedin.com/in/tim-claudin-1816491a",
+    "https://www.linkedin.com/posts/techintelpro_synthflowai-agenticai-conversationalai-activity-7519057220710428672-p1Ss"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Synthflow",
+   "results": [
+    "https://www.facebook.com/synthflow/",
+    "https://www.facebook.com/groups/3831242283822226/posts/4284253651854418/",
+    "https://www.facebook.com/groups/698593531630485/posts/1301537504669415/",
+    "https://www.facebook.com/StatusIsDown/posts/synthflow-is-reportedly-down-for-some-users-right-now-are-you-one-of-them-synthf/1160096519923139/",
+    "https://www.facebook.com/groups/claudecommunity/posts/1163168812890449/",
+    "https://www.facebook.com/61582032906233/videos/how-much-power-does-it-take-to-burn-from-a-simple-5mw-laser-pointer-to-a-100000w/955361557033735/",
+    "https://www.facebook.com/joykekcom/posts/joykekai-is-live-meet-your-new-ai-team-we-design-build-and-run-ai-agents-that-wo/1792983279499506/",
+    "https://www.facebook.com/fb-answers/ai-voice-technology-for-enterprises/",
+    "https://www.facebook.com/official.revolabai/posts/its-3am-but-weve-got-this-oneour-ai-voice-agent-picks-up-the-calls-your-team-cou/1029434770182754/",
+    "https://www.facebook.com/p/Synthflowai-61555448283479/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Synthflow note 社長",
+   "results": [
+    "https://de.linkedin.com/company/synthflowai",
+    "https://www.youtube.com/watch?v=w6eUBmVwNMY",
+    "https://docs.synthflow.ai/usage",
+    "https://note.com/startup_now0708/n/n35b6194d9c94",
+    "https://techcrunch.com/2024/06/26/synthflow-picks-up-7-4m-for-no-code-voice-assistance-for-smes/",
+    "https://x.com/SynthflowAI",
+    "https://www.accel.com/companies/synthflow-ai",
+    "https://www.businessinsider.com/synthflow-ai-pitch-deck-funding-voice-2025-6",
+    "https://finance.yahoo.com/news/synthflow-ai-raises-20m-transform-060000621.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Synthflow X 投稿",
+   "results": [
+    "https://x.com/SynthflowAI",
+    "https://synthflow.ai/",
+    "https://www.8x8.com/products/integrations/synthflow",
+    "https://www.youtube.com/watch?v=w6eUBmVwNMY",
+    "https://www.retellai.com/blog/synhtflow-ai-review",
+    "https://finance.yahoo.com/technology/ai/articles/synthflow-ais-voice-technology-goes-140000173.html",
+    "https://www.reddit.com/r/automation/comments/1nm967d/synthflow_ai_review_full_guide_on_using_synthflow/?tl=ja",
+    "https://www.youtube.com/@SynthflowAI",
+    "https://x.com/synthflowai",
+    "https://x.com/synthflow"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

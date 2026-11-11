@@ -1,0 +1,1757 @@
+{
+ "name": "Lumafield",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜失注",
+ "researched_at": "2026-11-11T07:28:07.858679+00:00",
+ "official_url": "https://lumafield.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "01-Jan-2019 $10M $10M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/495000-55",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "8,982,958 $0.000100 8% $1.12 $1.12 1x $1.12 15.96%",
+    "url": "https://pitchbook.com/profiles/company/495000-55",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "What changes when you inspect 100% of your products? You find the unknown unknowns, the trends you never thought to look for. You start catching and correcting defects before they ever ship.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The numbers below come from live customer programs.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware pinpoint problems, then AI agents solve them.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Configurable edge hardware scales globally and extends X-ray CT imaging to every stage of the manufacturing process.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quality Agent stands on three layers: the data it captures, the model that makes sense of what it sees, and agents that correct product defects before they ship.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production-ready CT scans in an instant",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-speed production CT",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-speed production CT 3D CT inspection at production scale with internal imaging in as little as 10 seconds per part. Triton verifies the features that determine quality on every unit, reducing escapes, catching process drift early, and building a digitized inspection history that accelerates root-cause analysis.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "100% inline X-ray inspection high-speed, in-line arrayed X-ray system. 2.5D single-pass imaging provides rich defect visibility, and automatedpass/fail decisions drive consistent, repeatable outcomes at up to five parts per second.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inspect every unit, identify issues, and improve outcomes within a single unified system. Monitor your entire operation in real time, from the lab to the factory floor.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Directly access complete data for all of your products. Catch problems early to keep lines moving.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Correlate findings with process data across lines and sites. Isolate cause and quantify risk.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn diagnosis into action on the line. Release with proof, hold or rework when needed, and prevent escapes.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run charts and thresholds to keep processes in control",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lumafield helps us streamline development and production across international business units through one collaborative platform.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When patient safety, mission success, or brand reputation is on the line, the proof is in the product. Leaders across these industries figured that out first.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Patient safety and compliance require internal proof for every device. Inspect sealed assemblies and trace results to lot and serial.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recalls and warranty exposure make internal evidence non-negotiable. Catch issues at the source and protect launch schedules.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your brand reputation rides on every product. Validate internal components, fill, and seals to prevent complaints and returns.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Boards and shareholders are waking up to quality risk. Faced with the threats of recalls, reputation damage, and supply chain exposure, the companies treating visibility as a strategic priority are pulling ahead.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We were impressed right out the gate by how easy the tools were to use and how fast our engineers got up to speed.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I see Lumafield’s platform as our solution for operationalizing all of our product lines.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s assess your program",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your products, timelines, and constraints. We’ll review your goals, share a recommendation, and outline the fastest path to value. That may look like an assessment, a pilot on one line, or resources to help you get ready.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your products have internal complexity that affects safety, performance, or cost",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial CT lets engineers see their work in tremendous detail, both inside and out. Lumafield's Neptune scanner and Voyager visualization software solve critical problems in a range of industries and allow you to take product development to the next level.",
+    "url": "https://www.lumafield.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Inspect seedlings and detect foreign debris in agricultural products.",
+    "url": "https://www.lumafield.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Ship CPG products faster than ever while reducing waste.",
+    "url": "https://www.lumafield.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate product development and ensure patient safety.",
+    "url": "https://www.lumafield.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Inspect assemblies, circuits, and wiring without destroying prototypes.",
+    "url": "https://www.lumafield.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "that fits your mandate. Voyager Cloud centralizes inspection for commercial programs with instant updates and elastic compute.",
+    "url": "https://www.lumafield.com/industries/aerospace-and-defense",
+    "pass": 1
+   },
+   {
+    "quote": "is designed for ITAR workflows and similar requirements, running entirely in isolated U.S.-only infrastructure. Voyager On-Prem keeps reconstruction, analysis, and storage on your network for restricted or offline environments. Every option uses the same browser workflow, so teams do not retrain when policies or customers change. Start with one model and scale or migrate as needs evolve.",
+    "url": "https://www.lumafield.com/industries/aerospace-and-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Voyager helps Eaton streamline product development and production across international business units through one collaborative software platform to share, review, and edit scans in real time.",
+    "url": "https://www.lumafield.com/industries/aerospace-and-defense",
+    "pass": 1
+   },
+   {
+    "quote": "3D-printed bracket",
+    "url": "https://www.lumafield.com/industries/aerospace-and-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial CT quickly and easily pinpoints problems with additive manufacturing processes. Throughout this bracket, we find in-layer porosity, likely due to a powder recoating issue during printing.",
+    "url": "https://www.lumafield.com/industries/aerospace-and-defense",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to safety and quality control, industrial CT is invaluable for analyzing the internal structures of agricultural products. This includes assessing moisture content and distribution, which is critical for products like dried fruits and baked goods. Accurate moisture measurement ensures product consistency and prevents issues like mold growth or spoilage.",
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "pass": 1
+   },
+   {
+    "quote": "system provide comprehensive solutions to these challenges. Our inspection platform offers detailed, non-destructive insights into the internal and",
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "pass": 1
+   },
+   {
+    "quote": "of agricultural and food products, helping companies enhance quality control, ensure safety, and reduce waste. By leveraging industrial CT, companies can improve their production processes, safeguard consumer health, and reduce economic losses due to product recalls and contamination.",
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial CT enables precise measurement of moisture levels and porosity in bread, crucial for preventing mold growth and ensuring consistent texture.",
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "pass": 1
+   },
+   {
+    "quote": "This CT scan of a granola bar reveals a fragment of rock embedded within the product. Industrial CT can detect foreign objects to ensure food safety and quality.",
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "pass": 1
+   },
+   {
+    "quote": "analysis software, engineers can take precise measurements and detect dimensional deviations swiftly. Porosity analysis helps uncover hidden voids, a crucial capability to address issues of material integrity.",
+    "url": "https://www.lumafield.com/industries/athletic-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "enable engineers to compare components with CAD models and other parts to quantify deviations, providing insights to combat misaligned assemblies and ensure seamless fits.",
+    "url": "https://www.lumafield.com/industries/athletic-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Product Design Engineer",
+    "url": "https://www.lumafield.com/industries/athletic-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "3D-printed shoe",
+    "url": "https://www.lumafield.com/industries/athletic-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "In this running shoe with a 3D-printed midsole, CT scans allow for easy inspection of the lattice structure and confirmation of proper powder fusion during the selective laser sintering (SLS) process.",
+    "url": "https://www.lumafield.com/industries/athletic-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive engineers continuously push the boundaries of what’s possible, delivering features and designs that improve safety, reliability, and performance. However, these innovations lead to increasing complexity, and the margin for error in automotive design and manufacturing has narrowed significantly.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "scanning emerges as a potent ally for automotive engineers, offering non-destructive and precise insights into complex assemblies.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "With Voyager, automotive engineers can take precise measurements and detect dimensional deviations swiftly. Porosity analysis helps uncover hidden voids within materials, a crucial capability to address issues of material integrity.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "enable engineers to compare components with CAD models and other parts to quantify deviations, providing insights to combat misaligned assemblies and ensure seamless fits.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Using Voyager, engineers can comprehensively assess the casting quality of this engine block and make improvements to its manufacturing parameters.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Voyager streamlines Assembly Verification in complex parts such as this combination blinker and windshield wiper switch, allowing for quick checks of its spring and latch mechanisms.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": ", to learn about the most prevalent sources of automotive recalls and their potential consequences for the well-being of drivers and passengers on the road.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Never ship another bad product.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your reputation and bottom line with CT inspection.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional inspection techniques like voltage testing, visual inspection, and destructive testing fall short in providing comprehensive insights into the root causes of battery defects. Lumafield's",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "analysis software offer a safe and non-destructive way to inspect batteries, providing invaluable insights into their internal structures and potential defects.",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "Lumafield's Battery Analysis Module automatically takes Anode Overhang measurements within cells and presents intuitive visualizations.",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "technology enables comprehensive assessment of battery cells in as little as 0.1 seconds.",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "The last product you should tear down with a hammer, vice, or a clamp is a battery, because it’s actually a hazard to do that. That’s why CT scanners are an important technology for understanding their inner workings.",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "provides a comprehensive, non-destructive solution to address these challenges effectively. With Lumafield's",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Configurable edge hardware scales globally and extends X-ray CT imaging to every stage of the manufacturing process.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Metrology-grade industrial CT",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial X-ray CT scanner",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Metrology-grade industrial CT Rapid, high-accuracy measurement results from any feature. Neptune measures geometry in 3D across complex parts and challenging materials, shortening design cycles and giving teams a shared, visual basis for decisions. Available in Microfocus, High Power, and Performance configurations.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing needs an operating system.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inspect every unit, identify issues, and improve outcomes within a single unified system. Monitor your entire operation in real time, from the lab to the factory floor.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aluminum engine housings were failing leak tests at one of Nemak’s plants. Lumafield CT revealed shrinkage-based internal porosity, tied them to low fast-shot velocity, and guided a staged water-cooling change that removed elongated pores, reduced scrap, and accelerated feedback.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial CT lets engineers see their work in tremendous detail, both inside and out. Lumafield's Neptune scanner and Voyager visualization software solve critical problems in a range of industries and allow you to take product development to the next level.",
+    "url": "https://www.lumafield.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://www.lumafield.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Lumafield | Industries | Aerospace and Defense",
+    "url": "https://www.lumafield.com/industries/aerospace-and-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://www.lumafield.com/industries/aerospace-and-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial CT quickly and easily pinpoints problems with additive manufacturing processes. Throughout this bracket, we find in-layer porosity, likely due to a powder recoating issue during printing.",
+    "url": "https://www.lumafield.com/industries/aerospace-and-defense",
+    "pass": 1
+   },
+   {
+    "quote": "The Engineer’s Guide to Aerospace Defects",
+    "url": "https://www.lumafield.com/industries/aerospace-and-defense",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial CT enables bulk scanning of grains and seeds to detect contaminants, pests, and defective seeds, as shown here in this package of soy beans.",
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to safety and quality control, industrial CT is invaluable for analyzing the internal structures of agricultural products. This includes assessing moisture content and distribution, which is critical for products like dried fruits and baked goods. Accurate moisture measurement ensures product consistency and prevents issues like mold growth or spoilage.",
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "pass": 1
+   },
+   {
+    "quote": "industrial CT scanner, browser-based",
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "pass": 1
+   },
+   {
+    "quote": "of agricultural and food products, helping companies enhance quality control, ensure safety, and reduce waste. By leveraging industrial CT, companies can improve their production processes, safeguard consumer health, and reduce economic losses due to product recalls and contamination.",
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial CT enables precise measurement of moisture levels and porosity in bread, crucial for preventing mold growth and ensuring consistent texture.",
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "pass": 1
+   },
+   {
+    "quote": "Lumafield's Surface Capture and industrial CT technology can capture all aspects of food packaging, including those hidden by overhangs as well as shiny and reflective surfaces.",
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "pass": 1
+   },
+   {
+    "quote": "This CT scan of a granola bar reveals a fragment of rock embedded within the product. Industrial CT can detect foreign objects to ensure food safety and quality.",
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial CT makes it easy to verify the construction of high-performance assemblies like this titanium golf driver.",
+    "url": "https://www.lumafield.com/industries/athletic-equipment",
+    "pass": 1
+   },
+   {
+    "quote": "Lumafield | Industries | Automotive",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing podcast",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive engineers continuously push the boundaries of what’s possible, delivering features and designs that improve safety, reliability, and performance. However, these innovations lead to increasing complexity, and the margin for error in automotive design and manufacturing has narrowed significantly.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "scanning emerges as a potent ally for automotive engineers, offering non-destructive and precise insights into complex assemblies.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "industrial X-ray CT scanner is complemented by the",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "With Voyager, automotive engineers can take precise measurements and detect dimensional deviations swiftly. Porosity analysis helps uncover hidden voids within materials, a crucial capability to address issues of material integrity.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Using Voyager, engineers can comprehensively assess the casting quality of this engine block and make improvements to its manufacturing parameters.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "The Engineer’s Guide to Automotive Defects",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Defects in automotive components can lead to a spectrum of issues, from a negative perception of the vehicle's overall quality by consumers to severe safety hazards. A single defect has the potential to trigger costly recalls and tarnish the reputation of established automotive brands.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "The Engineer's Guide to Automotive Defects",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": ", to learn about the most prevalent sources of automotive recalls and their potential consequences for the well-being of drivers and passengers on the road.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "industrial CT scanner and",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "analysis software offer multifaceted capabilities that help engineers resolve the range of issues that the automotive industry faces, contributing to safer and more reliable vehicles.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Surface 3D scanners vs. industrial CT: what’s the best way to get an accurate surface scan?",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing podcast",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "industrial CT scanner and",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "shines a light on the hidden world of battery quality control issues and dangerous counterfeits that put consumers and manufacturers at risk. We CT-scanned over 1,000 18650 battery cells from 10 different brands, ranging from reputable OEMs to low-cost and outright counterfeit options.",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "In this lithium-polymer battery, industrial CT reveals considerable layer separation as well as defects with both the tab weld and electrode layers, both of which could lead to thermal runaway.",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial CT empowers battery engineers to meet and exceed the demands of safety, reliability, and innovation as they chart new territory in battery technology.",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: 350% ROI on Lithium Battery Testing",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "View Featured Case Study",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "CPG manufacturers make billions of parts. Small defect rates aren’t small.",
+    "url": "https://www.lumafield.com/industry/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading consumer goods manufacturers",
+    "url": "https://www.lumafield.com/industry/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 beverage manufacturer",
+    "url": "https://www.lumafield.com/industry/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Leading rigid packaging manufacturer",
+    "url": "https://www.lumafield.com/industry/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "This manufacturer previously outsourced CT at a 14-day average turnaround; bringing inspection in-house reduced that cycle to approximately one hour. At 500 planned scans per year, the avoided outsource cost totals an estimated $425,000 annually.",
+    "url": "https://www.lumafield.com/industry/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "From the production line to the design lab, in one platform.",
+    "url": "https://www.lumafield.com/industry/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial X-ray CT scanner",
+    "url": "https://www.lumafield.com/industry/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Voyager puts every scan in a shared, searchable platform that engineers, quality professionals, and supplier partners can access from any site. Standardized inspection workflows run consistently across global plants. Findings flow into PLM, QMS, and MES environments rather than into email threads and exported slide decks.",
+    "url": "https://www.lumafield.com/industry/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://www.lumafield.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing podcast",
+    "url": "https://www.lumafield.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "industrial CT scanner and",
+    "url": "https://www.lumafield.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "analysis software accelerate the inspection of electronics by offering a non-destructive solution that captures detailed internal views of components. This technology allows manufacturers to identify hidden defects, assess assembly quality, and verify component placement with unprecedented precision, enhancing product quality and reducing the risk of failure.",
+    "url": "https://www.lumafield.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Watch our free Webinar (left) to learn more about how industrial CT can help ensure the reliability of sophisticated electronics.",
+    "url": "https://www.lumafield.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial CT enables high-resolution inspection of all critical components of this Apple Thunderbolt 4 (USB-C) Pro Cable, including the blind and buried vias on the 9-layer PCBA.",
+    "url": "https://www.lumafield.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial CT allows for precise visualization and quantification of BGA and solder joint porosity that could lead to electronic failure.",
+    "url": "https://www.lumafield.com/industries/electronics",
+    "pass": 1
+   },
+   {
+    "quote": "analysis software empower electronics engineers and manufacturers to achieve unprecedented levels of quality control, reduce production costs, and enhance product performance, ultimately leading to greater customer satisfaction and brand trust.",
+    "url": "https://www.lumafield.com/industries/electronics",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Your brand reputation rides on every product. Validate internal components, fill, and seals to prevent complaints and returns.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "shines a light on the hidden world of battery quality control issues and dangerous counterfeits that put consumers and manufacturers at risk. We CT-scanned over 1,000 18650 battery cells from 10 different brands, ranging from reputable OEMs to low-cost and outright counterfeit options.",
+    "url": "https://www.lumafield.com/industries/batteries",
+    "pass": 1
+   },
+   {
+    "quote": "By the late 2010s, DJI’s dominance had drawn political scrutiny. U.S. agencies grew uneasy about using Chinese-made equipment for sensitive data collection. The Department of Defense responded with the Blue sUAS program to certify domestically produced drones. The conversation shifted from market competition to national security.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "CT scans of 1,054 18650 batteries revealed major quality differences between OEM, rewrap, and low-cost cells, with defects concentrated in the cheapest brands.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "How Ground Truth Data Builds Trust Between OEMs and Suppliers",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "Anything less than complete visibility into your products means gambling on quality, safety, and ultimately, your brand.",
+    "url": "https://www.lumafield.com/manufacturing-ai/quality-agent",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "In-line arrayed X-ray system",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "100% inline X-ray inspection high-speed, in-line arrayed X-ray system. 2.5D single-pass imaging provides rich defect visibility, and automatedpass/fail decisions drive consistent, repeatable outcomes at up to five parts per second.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recalls and warranty exposure make internal evidence non-negotiable. Catch issues at the source and protect launch schedules.",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Failure Analysis Manager, Fortune 500 semiconductor company",
+    "url": "https://www.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive engineers continuously push the boundaries of what’s possible, delivering features and designs that improve safety, reliability, and performance. However, these innovations lead to increasing complexity, and the margin for error in automotive design and manufacturing has narrowed significantly.",
+    "url": "https://www.lumafield.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 beverage manufacturer",
+    "url": "https://www.lumafield.com/industry/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty part analysis became 75% cheaper and delivered 5x faster results with in-house CT.",
+    "url": "https://www.lumafield.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The second-generation AirPods Pro arrived in September 2022 with Apple's H2 chip at its center. The H2 brought meaningfully better active noise cancellation, Adaptive Transparency mode, improved battery life, and the processing headroom for personalized spatial audio. The high-level layout of the earbuds, though, looked familiar. We scanned them to find out how much had actually changed.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "[Embed video here: Original iPod Classic packaging comparison — showing the size, materials, and inserts of Apple’s early product boxes.]",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "Before Apple’s boxes became fiber sculptures, they were cavernous theaters of plastic and foam. This CT scan of the original iPod box shows how much empty space, weight, and material Apple has since engineered away.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "The fact that the original iPod packaging is now a collectible shows just how far we’ve come. Marketplaces like StockX use Lumafield industrial CT to verify the authenticity of sealed vintage Apple products, a testament to how packaging has become part of the brand’s cultural and material legacy.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "The Vision Pro powers audio through two AudioPods with a dual-driver setup, capable of delivering a surround sound experience calibrated to the user's head and ear geometry. The Quest headsets use a more minimal arrangement, with drivers positioned to channel sound directly toward the ear.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "A note on currency: the original Vision Pro used the M2 chip. Apple updated the headset to M5 in October 2025. The physical design, thermal architecture, and sensor array are unchanged; everything described here applies to both versions.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "We manage to invest embarrassing amounts of engineering and infrastructure into physical objects that are barely worth mentioning.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "Niagara (a privately-held company with around 7,500 employees working in more than a dozen bottling facilities) claims to have reduced the amount of plastic in their half-liter bottle by 60% since 1998, with similarly impressive reductions in their carbon footprint.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "Curious how I keep track of this constant barrage of recalls? Check out our new Recall Roundup tool to access a comprehensive database of product recalls, updated daily from CPSC and NHTSA records. We also discuss recalls in every episode of our podcast, Go/No-Go.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "The fountain pen is the oldest design in this comparison, and in many ways the most mechanically elegant. Its core principle, capillary action, requires no moving parts and no active pressure. Surface tension and adhesion draw ink through a narrow channel from the reservoir to the tip without any external force.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "The felt tip replaces machined metal components with a porous fibrous tip that both carries and regulates ink. There is no ball, no socket, no slit. Ink wicks through the fiber structure to the writing surface by capillary action, and the density and orientation of the fibers determine how much ink flows and how the line looks.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "R&D in a startup is not a separate function. It’s an integral part of the product development process, especially in the early stages when requirements are uncertain, the solution is unclear, and the risk is high.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "There is no need to reinvent the wheel. When researchers have already solved part of a problem or developed a method that fits into our pipeline, we use it. Applying proven components can accelerate development and avoid unnecessary work.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "Part of product development is figuring out where precision matters and where it doesn’t. That doesn’t mean lowering the bar. It means delivering meaningful outcomes based on real constraints. At Lumafield, we’re making advanced analysis software so accessible that you can even access our 3D CT scans on your phone.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "Saucony started working with CT scanning as part of their development process, and it changed how Ciccone's team approaches consistency. We sat down with him and scanned three shoes from Saucony's current lineup: the Omni 9, a stability trainer for everyday wear; the Ride 18, a cushioned shoe built for long miles; and the Endorphin Elite 2, their elite marathon racing shoe.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s start with the biggest misconception: that little triangle made of arrows with a number inside it. Most people think it means the package is recyclable. It doesn’t.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "None of these numbers guarantee recyclability. Whether a bottle is actually recycled depends far more on local infrastructure than on the material itself. The chasing arrows were originally meant for manufacturers, not consumers. Somewhere along the way, they were mistaken for a promise instead of an ingredient label.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "The printed date and lot codes near the neck or label are part of the same traceability system. They let a company track every unit back to a specific line, shift, and time. If there’s ever a contamination issue or recall, those codes are how you identify which batches to pull from shelves.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "As someone who has worked on closures, I can tell you the cap might be the most over-engineered part of the whole bottle.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "The most unusual part of the CameraJet is a 100,000-pixel macro camera with strobing lights, sitting just below the brush head. The camera lens itself is about a millimeter across. The camera sits just below the brush head along with its sensor, lenses, and LEDs. The camera informs Dyson’s Gap Optical Targeting system, which scans 28 images per second to find the spaces between teeth in real time.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "Our CT scan shows the internal layout clearly: the magnetic latch mechanism, the compact component arrangement, and the stick module at the center of it. The engineering is elegant in many respects. The potentiometer is still there.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "The ATYFUER cable, listed at $3.89 and advertised only as a charging cable with no data specs, turns out to be the most interesting comparison in the group.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "Nothing built its reputation on showing you what's inside. The transparent casings, visible screws, and dot-matrix typography are all deliberate: the internal engineering is part of the product's identity in a way almost no other consumer electronics brand attempts. So it felt fitting to put the Nothing Ear 3 through a CT scanner and see what the transparency doesn't show.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "The charging case carries a 500mAh battery, enough for multiple full recharges of both earbuds. The case scan also shows the Super Mic: a dual-MEMS microphone array built into the case itself, designed to function as a standalone microphone for calls when one earbud is removed. The two MEMS microphones are visible as distinct components separate from the charging circuitry.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "This slender shell belongs to a turrid, a family of marine predators. Its tall spire, narrow profile, and fine axial ridges give it a streamlined shape suited to life in shifting sands and gravel, where maneuverability matters more than bulk. The turrid doesn't rely on heavy armor. It relies on being fast and light.",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "Equity package for all full-time employees",
+    "url": "https://www.lumafield.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing Mars: in-line arrayed X-ray system",
+    "url": "https://sojitz.lumafield.com/products/",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty part analysis became 75% cheaper and delivered 5x faster results with in-house CT",
+    "url": "https://www.casestudies.com/company/lumafield",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/495000-55",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield has 138 total employees.",
+    "url": "https://pitchbook.com/profiles/company/495000-55",
+    "pass": 3
+   },
+   {
+    "quote": "What is Lumafield’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/495000-55",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Lumafield is",
+    "url": "https://pitchbook.com/profiles/company/495000-55",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Lumafield have?",
+    "url": "https://fundediq.co/lumafield-lumafield-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/lumafield-lumafield-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/lumafield-lumafield-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "双日株式会社が日本の総代理店として、",
+    "url": "https://sojitz.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "日本総代理店である双日株式会社が、導入のご相談から設置、一次サポートまで対応します",
+    "url": "https://sojitz.lumafield.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The emerging model is regional, not isolationist. Allied sourcing across Japan, Korea, and Taiwan can provide resilience without abandoning cost efficiency. A new phase of flight",
+    "url": "https://www.lumafield.com/podcast",
+    "pass": 1
+   },
+   {
+    "quote": "大手総合商社の双日（東京都千代田区）が販売展開している米国製Ｘ線ＣＴスキャナ「Ｌｕｍａｆｉｅｌｄ（ルマフィールド）」が注目を集めている",
+    "url": "https://www.sanpo-pub.co.jp/topnews/hihakai-news/xct.html",
+    "pass": 3
+   },
+   {
+    "quote": "双日では昨年夏からＬｕｍａｆｉｅｌｄの販売総代理店となり、用途やスペック別に「ネプチューン」「トリトン」「ボイジャー」の各機を展開",
+    "url": "https://www.sanpo-pub.co.jp/topnews/hihakai-news/xct.html",
+    "pass": 3
+   },
+   {
+    "quote": "都内高校生ら62人が熱戦 東京都溶接協会、若手人材育成溶接コンクール",
+    "url": "https://www.sanpo-pub.co.jp/topnews/hihakai-news/xct.html",
+    "pass": 3
+   },
+   {
+    "quote": "最新JIS規格対応、日本国内で入手可能な溶接材料の銘柄一覧！",
+    "url": "https://www.sanpo-pub.co.jp/topnews/hihakai-news/xct.html",
+    "pass": 3
+   },
+   {
+    "quote": "【双日株式会社 JIMTOF 2026出展】Lumafield産業用X線CTの特長と活用事例をご紹介 | 双日 | ニュース | イプロスものづくり",
+    "url": "https://mono.ipros.com/news/detail/202254/",
+    "pass": 3
+   },
+   {
+    "quote": "【双日株式会社 JIMTOF 2026出展】Lumafield産業用X線CTの特長と活用事例をご紹介",
+    "url": "https://mono.ipros.com/news/detail/202254/",
+    "pass": 3
+   },
+   {
+    "quote": "双日株式会社は、東京ビッグサイトで開催される工作機械・製造技術の国際見本市「JIMTOF 2026」に出展いたします",
+    "url": "https://mono.ipros.com/news/detail/202254/",
+    "pass": 3
+   },
+   {
+    "quote": "会場：東京ビッグサイト 南展示棟4ホール",
+    "url": "https://mono.ipros.com/news/detail/202254/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ホトロンの新製品「車両カウントセンサー CCS3」が登場！",
+    "url": "https://mono.ipros.com/news/detail/202254/",
+    "pass": 3
+   },
+   {
+    "quote": "時 間：11:00~11:50(日本時間）",
+    "url": "https://mono.ipros.com/news/detail/202254/",
+    "pass": 3
+   },
+   {
+    "quote": "講 師：メルテックス株式会社 技術研究所 初川 拓朗",
+    "url": "https://mono.ipros.com/news/detail/202254/",
+    "pass": 3
+   },
+   {
+    "quote": "CBAM（炭素国境調整メカニズム）とは？日本企業への影響と対応手順を解説",
+    "url": "https://mono.ipros.com/news/detail/202254/",
+    "pass": 3
+   },
+   {
+    "quote": "CBAMの概要や対象製品、日本企業への影響、制度対応の進め方について、弊社サイト内のコラムで分かりやすく解説しています",
+    "url": "https://mono.ipros.com/news/detail/202254/",
+    "pass": 3
+   },
+   {
+    "quote": "、Lumafieldの信頼できる日本国内パートナーであり、先進的な産業用X線CTソリューションに関心をお持ちの日本の製造業者向けの主な窓口です",
+    "url": "https://www.lumafield.com/lumafield-japan",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社カチカのリモート＆コールドバックアップ業務担当の村島です！",
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "pass": 3
+   },
+   {
+    "quote": "パスもスルーも割とわかりやすい言葉ですが、モジュールというのは微妙に日本語にしづらい言葉ですよね",
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではジュースジャッキングの事例自体が発生していませんのでまだ切迫した問題にはなっていませんが、既に重大問題として取り上げられている",
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "pass": 3
+   },
+   {
+    "quote": "「東京都庁」にあるPCにこのケーブルが刺さっていれば、「歌舞伎町」の路地裏からそのPCを自在に操れる",
+    "url": "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "pass": 3
+   },
+   {
+    "quote": "実際に「Earth Harpy」と呼ばれるスパイ組織が、中国や東南アジアに出張した日本政府関係者や技術者をターゲットに、USBポートを介してマルウェアを感染させていた事例が報告されています",
+    "url": "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Voyager puts every scan in a shared, searchable platform that engineers, quality professionals, and supplier partners can access from any site. Standardized inspection workflows run consistently across global plants. Findings flow into PLM, QMS, and MES environments rather than into email threads and exported slide decks.",
+    "url": "https://www.lumafield.com/industry/consumer-packaged-goods",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/495000-55",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/lumafield-lumafield-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サブスク型の産業用CTスキャナ｜Lumafield（ルマフィールド） — Lumafieldの産業用X線CTスキャナは、装置・解析ソフト・年次保守をまとめたサブスクで導入できます。設置工事も専用設備も不要で、家庭用の100V電源で動きます。日本では双日株式会社が総代理店として、導入から一次サポートまで対応します。",
+    "url": "https://sojitz.lumafield.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield 産業用X線CTスキャナーとソフトウェア — 日本の製造業向けに、先進的な産業用X線CTスキャナーとソフトウェアを提供するLumafield。品質管理や製品開発の効率を向上させるための詳細情報は、信頼できるパートナーである双日にお問い合わせください。",
+    "url": "https://www.lumafield.com/jp/lumafield-japan",
+    "pass": 3
+   },
+   {
+    "quote": "大手総合商社の双日が販売展開、X線CTスキャナ「Lumafield」（ルマフ... — May 18, 2026 · 大手総合商社の双日（東京都千代田区）が販売展開している米国製X線CTスキャナ「Lumafield（ルマフィールド）」が注目を集めている。 航空機におけるタービンブレードや自動車のエンジン ...",
+    "url": "https://www.sanpo-pub.co.jp/topnews/hihakai-news/xct.html",
+    "pass": 3
+   },
+   {
+    "quote": "【双日株式会社 JIMTOF 2026出展】Lumafield産業用X線CTの特長と活用... — Oct 21, 2026 · 双日のニュース。【双日株式会社 JIMTOF 2026出展】Lumafield産業用X線CTの特長と活用事例をご紹介双日株式会社は、東京ビッグサイトで開催される工作機械・製造技術の国際見本市「JIMTOF 2026」に出展いたします。 今回の出展テーマは、「見えない品質を、見える化する。」 当社ブースでは、Lu ...",
+    "url": "https://mono.ipros.com/news/detail/202254/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜Lumafield — Lumafieldのサンプル評価、デモ、導入に関するご相談を日本総代理店の双日が承ります。",
+    "url": "https://sojitz.lumafield.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield — The Quality Command Center for Manufacturing.",
+    "url": "https://www.lumafield.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield 産業用X線CTスキャナーとソフトウェア — 日本の製造業向けに、先進的な産業用X線CTスキャナーとソフトウェアを提供するLumafield。品質管理や製品開発の効率を向上させるための詳細情報は、信頼できるパートナーである双日にお問い合わせください。",
+    "url": "https://www.lumafield.com/lumafield-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield — Lumafield CT revealed shrinkage-based internal porosity, tied them to low fast-shot velocity, and guided a staged water-cooling change that removed elongated pores, reduced scrap, and accelerated feedback.",
+    "url": "https://www.lumafield.com/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・プラットフォーム｜Lumafield — Neptune、Triton、Saturn、Mars、Voyager。Lumafieldの撮影・解析プラットフォームと、導入を検討するための情報をご案内します。",
+    "url": "https://sojitz.lumafield.com/products/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Lumafield — iFixit uses Lumafield's platform to plan teardowns, understand design choices, and advocate for consumers' right to repair their own electronics.",
+    "url": "https://www.lumafield.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story: Informal - Lumafield — Informal is dedicated to bringing their customers the best design and engineering solutions. Lumafield’s easy-to-use Neptune industrial CT scanner and cloud-based Voyager analysis software, made it possible to pinpoint voids in the glue sealant during manufacturing and perfect their customer’s product before launch.",
+    "url": "https://www.lumafield.com/case-studies/customer-story-informal",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield Case Study: Trek – Trek uses Neptune and Voyager to ... — Trek (Sporting Goods Manufacturing) partnered with Lumafield (Computer Hardware Manufacturing) to solve key challenges. \"Trek uses Neptune and Voyager to analyze manufacturing processes and accelerate product development\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/lumafield/case-study/trek-uses-neptune-and-voyager-to-analyze-manufacturing-processes-and-accelerate-product-development",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield B2B Case Studies & Customer Successes — Lumafield helps engineering teams work at the speed of light. Lumafield's Voyager analysis software and Atlas AI co-pilot find answers quickly and facilitate collaboration. Lumafield's Neptune industrial CT scanner arms engineers with X-ray vision, allowing them to look inside their products, inspect invisible features, and pinpoint problems before",
+    "url": "https://www.casestudies.com/company/lumafield",
+    "pass": 3
+   },
+   {
+    "quote": "20 Lumafield Case Studies, Success Stories, & Customer ... — Discover how other companies use Lumafield, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/lumafield/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield – Financial Footprint & Growth Factors – 2026 — At Lumafield, each employee is estimated to contribute about $491.3K in annual revenue. Lumafield has secured approximately $238M through various funding rounds.",
+    "url": "https://compworth.com/company/lumafield",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield 2026 Company Profile: Valuation, Funding ...Lumafield - 2026 Company Profile, Team, Funding & Competitors ...Lumafield: Funding, Investors & Team (Nov 2026) | FundedIQLumafield Revenue 2025: $67.8M Est. - getlatka.comLumafield Announces $75 Million Series C Funding and Bill ...Lumafield — Company Profile, Funding & Investors — Lumafield FAQs When was Lumafield founded? Lumafield was foun",
+    "url": "https://pitchbook.com/profiles/company/495000-55",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield - 2026 Company Profile, Team, Funding & Competitors ... — Oct 19, 2026 · Lumafield is a series C company based in Cambridge (United States), founded in 2019 by Ric Fulop, Jonathan Aharon and Kevin Cedrone. It operates as a Provider of industrial X-ray CT scanners and cloud-based analysis software. Lumafield has raised $142M in funding from investors like Spark Capital, IVP and DCVC, with",
+    "url": "https://tracxn.com/d/companies/lumafield/__fwOsGhor1bwkfzgt09e57-o05ywGdZGGiXWi4AiV01g",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield: Funding, Investors & Team (Nov 2026) | FundedIQ — Lumafield is a Hardware company in Cambridge, United States. Raised $193M across 5 rounds; latest round Nov 2025. Investors, founders and funding history.",
+    "url": "https://fundediq.co/lumafield-lumafield-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield Revenue 2025: $67.8M Est. - getlatka.com — Sep 10, 2026 · Lumafield 2025 estimated revenue: $67.8M. 153 employees. Founded 2019. HQ: United States. Updated Sep 10, 2026.",
+    "url": "https://getlatka.com/companies/lumafield.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "市販品USBケーブルに仕掛けられた罠｜鎌倉ITクリエイター・ファクトリ... Dec 23, 2024 · 用心にも用心を重ねる必要があるんだなと強く思う今日この頃です。 では、本題に入っていきましょう。 市販済USB-Cコネクタに仕掛けられた罠 問題になっているのは、改造USBケーブルです。 産業用CTスキャナメーカーのLumafieldという会社がO.MG製のUSB-Cケー",
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "pass": 3
+   },
+   {
+    "quote": "そのUSBケーブル、実は「スパイ」かも？CTスキャンで判明した改造USB... Aug 1, 2026 · 2. 極小ヘッドに隠された「Wi-Fiアンテナ」と「CPU」 この脅威を白日の下にさらしたのは、アメリカの産業用CTスキャナー企業「Lumafield」による非破壊検査でした。",
+    "url": "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "市販品USBケーブルに仕掛けられた罠｜鎌倉ITクリエイター・ファクトリー データ復旧＆データ保護・災害復旧・事業継続計画支援",
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "pass": 3
+   },
+   {
+    "quote": "鎌倉ITクリエイター・ファクトリー データ復旧＆データ保護・災害復旧・事業継続計画支援",
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社カチカのリモート＆コールドバックアップ業務担当の村島です！",
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "pass": 3
+   },
+   {
+    "quote": "えー、文書読み込み記事をずっと書いておりますが、",
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "pass": 3
+   },
+   {
+    "quote": "マルウェアの侵入路になりうるものが発見された",
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "pass": 3
+   },
+   {
+    "quote": "ということで、緊急にこの文章をアップすることに致しました。",
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "pass": 3
+   },
+   {
+    "quote": "本当にどんなところで罠が待ち構えているかわかったもんじゃありませんね。",
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "pass": 3
+   },
+   {
+    "quote": "問題になっているのは、改造USBケーブルです",
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "pass": 3
+   },
+   {
+    "quote": "そのUSBケーブル、実は「スパイ」かも？CTスキャンで判明した改造USBの戦慄の実態｜AI.zip（エーアイ・ジップ）",
+    "url": "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "pass": 3
+   },
+   {
+    "quote": "そのUSBケーブル、実は「スパイ」かも？CTスキャンで判明した改造USBの戦慄の実態",
+    "url": "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "pass": 3
+   },
+   {
+    "quote": "1. 身近な便利アイテムに潜む「見えない脅威」",
+    "url": "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "pass": 3
+   },
+   {
+    "quote": "目の前に3本のUSBケーブルがあると想像してください。見た目はどれも同じ、ごく普通のType-Cケーブルです。しかし、そのうち1本は接続した瞬間にあなたのデバイスを乗っ取り、全データを盗み出す「凶器」だとしたら。",
+    "url": "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは日常、空港やカフェの無料充電ステーションを無意識に利用し、出所不明なケーブルを「単なる消耗品」として扱っています。しかし、デジタル護身術のエキスパートとして断言します。その無防備な行動は、あなたのデジタルライフを崩壊させる致命的な脆弱性になり得ます。",
+    "url": "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "pass": 3
+   },
+   {
+    "quote": "パソコン博士TAIKI氏が公開した衝撃的な検証によれば、今、一見正常なケーブルの中に高度なハッキング機能を凝縮した「改造USB」が市場に潜伏しています。「たかがケーブル」という油断を突く、スパイ映画顔負けの戦慄の実態を専門的な視点から解剖していきましょう。",
+    "url": "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "pass": 3
+   },
+   {
+    "quote": "2. 極小ヘッドに隠された「Wi-Fiアンテナ」と「CPU」",
+    "url": "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "pass": 3
+   },
+   {
+    "quote": "この脅威を白日の下にさらしたのは、アメリカの産業用CTスキャナー企業「Lumafield」による非破壊検査でした。",
+    "url": "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Lumafield (@lumafield) / X Foldable phones aren’t just a passing trend, especially now that Apple has joined in with their iPhone Duo. Our latest Scan of the Month is all about foldables. The Duo and Huawei’s Pura X Max open like a book, while Motorola’s Razr 2026 flips shut, but their hinges and the waterdrop-shaped folds inside have more in common than you’d think. Scroll through the full scans ",
+    "url": "https://x.com/lumafield",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield Lumafield (@lumafield). 42 likes. Roses are red, violets are blue, here are some CT scans for you. Happy Valentine’s Day. 🌹",
+    "url": "https://x.com/lumafield/status/2022447557566493156",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield on X: \"We're in @wirecutter this week! Talenti ... We're in @wirecutter this week! Talenti gelato jars are notorious for being difficult to open. Wirecutter approached us to see what our CT scans could reveal, so we compared the jars against other screw-top jars from the grocery store. The thread turned out to be much sharper than the threads on o…",
+    "url": "https://x.com/lumafield/status/2084428879859761563",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield Lumafield (@lumafield). 11 likes. Bad Bunny's excellent halftime show came with a surprise for the crowd: this @pixmob LED Badge that lit up during the performance. See how thousands of these illuminated Levi's Stadium on Sunday. 🏈",
+    "url": "https://x.com/lumafield/status/2021373987708862588",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Lumafield - LinkedIn Lumafield | 38,953 followers on LinkedIn. Design, build, and ship products at the speed of light. | Lumafield's manufacturing intelligence platform helps engineers see inside their work with ...",
+    "url": "https://www.linkedin.com/company/lumafield",
+    "pass": 3
+   },
+   {
+    "quote": "Eduardo Torrealba - CEO & Co-Founder @ Lumafield | Helping ...Alex Hao - Head of Product Marketing @ Lumafield | LinkedInJon Bruner - Chief Marketing Officer at Lumafield | LinkedInJonathan Aharon - Lumafield | LinkedInElizabeth Jerzyk - Lumafield | LinkedInHead of People at Lumafield — San Francisco, CA - LinkedIn CEO & Co-Founder @ Lumafield | Helping manufacturers never have another recall · I’",
+    "url": "https://www.linkedin.com/in/eduardo3rd",
+    "pass": 3
+   },
+   {
+    "quote": "Alex Hao - Head of Product Marketing @ Lumafield | LinkedInJon Bruner - Chief Marketing Officer at Lumafield | LinkedInJonathan Aharon - Lumafield | LinkedInElizabeth Jerzyk - Lumafield | LinkedInHead of People at Lumafield — San Francisco, CA - LinkedIn Head of Product Marketing @ Lumafield · I have 9+ years of experience in the tech industry across marketing, commercial and research roles. I am ",
+    "url": "https://www.linkedin.com/in/jualexju",
+    "pass": 3
+   },
+   {
+    "quote": "Jon Bruner - Chief Marketing Officer at Lumafield | LinkedInJonathan Aharon - Lumafield | LinkedInElizabeth Jerzyk - Lumafield | LinkedInHead of People at Lumafield — San Francisco, CA - LinkedIn Chief Marketing Officer at Lumafield · Giving engineers X-ray vision · Experience: Lumafield · Education: University of Chicago · Location: San Francisco · 500+ connections on LinkedIn. View ... Experienc",
+    "url": "https://www.linkedin.com/in/brunerjon",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Lumafield | Cambridge MA - Facebook Lumafield, Cambridge. 948 likes · 7 talking about this. Design, build, and ship products at the speed of light. www.lumafield.com",
+    "url": "https://www.facebook.com/p/Lumafield-100078956104138/",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield | Cambridge MA - Facebook Lumafield, Cambridge. 940 likes · 2 talking about this. Design, build, and ship products at the speed of light. www.lumafield.com",
+    "url": "https://www.facebook.com/Lumafield-104865255472316/",
+    "pass": 3
+   },
+   {
+    "quote": "Lumafield on Reels - Facebook Apr 14, 2026 · Video by Lumafield Last viewed on: Sep 2, 2026 Video by Lumafield",
+    "url": "https://www.facebook.com/100078956104138/videos/1712970093194977/",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to Lumafield. We’re making the power of X-ray CT ... Apr 13, 2022 · Lumafield gives you the full depth insights that have only been available to a small number of manufacturers until now. The best engineering teams use Lumafield to see their work in a new light. Finer detail, better precision, more confidence, clearer vision. Pages Businesses Commercial & Industrial Commercial & Industrial",
+    "url": "https://www.facebook.com/Lumafield-104865255472316/videos/welcome-to-lumafield-were-making-the-power-of-x-ray-ct-accessible-to-engineersle/701395017768758/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lumafield.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sojitz.lumafield.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/industries/aerospace-and-defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/industries/agriculture-and-food",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/industries/athletic-equipment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/industries/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/industries/batteries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/industry/consumer-packaged-goods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/industries/electronics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/industries/medical-devices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/podcast",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/manufacturing-ai/quality-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/jp/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/jp/industries/aerospace-and-defense",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/case-studies/lumafield-intrepid-automation-3d-printing-industrial-ct",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/jp/industries/agriculture-and-food",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://sojitz.lumafield.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sojitz.lumafield.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanpo-pub.co.jp/topnews/hihakai-news/xct.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/news/detail/202254/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.lumafield.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/lumafield-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sojitz.lumafield.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sojitz.lumafield.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lumafield.com/case-studies/customer-story-informal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/lumafield/case-study/trek-uses-neptune-and-voyager-to-analyze-manufacturing-processes-and-accelerate-product-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/lumafield",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/lumafield",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/495000-55",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/lumafield/__fwOsGhor1bwkfzgt09e57-o05ywGdZGGiXWi4AiV01g",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/lumafield-lumafield-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/lumafield",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lumafield/status/2022447557566493156",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lumafield/status/2084428879859761563",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lumafield/status/2021373987708862588",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lumafield",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/eduardo3rd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jualexju",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/brunerjon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Lumafield-100078956104138/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Lumafield-104865255472316/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100078956104138/videos/1712970093194977/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Lumafield-104865255472316/videos/welcome-to-lumafield-were-making-the-power-of-x-ray-ct-accessible-to-engineersle/701395017768758/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lumafield",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lumafield 日本 導入",
+   "results": [
+    "https://sojitz.lumafield.com/",
+    "https://www.lumafield.com/jp/lumafield-japan",
+    "https://www.sanpo-pub.co.jp/topnews/hihakai-news/xct.html",
+    "https://mono.ipros.com/news/detail/202254/",
+    "https://sojitz.lumafield.com/contact/",
+    "https://www.lumafield.com/jp/about",
+    "https://techblitz.com/startup-interview/lumafield/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lumafield 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.lumafield.com/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://surefire.jp/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://sojitz.lumafield.com/",
+    "https://www.lumafield.com/lumafield-japan",
+    "https://www.sanpo-pub.co.jp/topnews/hihakai-news/xct.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Lumafield Japan",
+   "results": [
+    "https://www.lumafield.com/lumafield-japan",
+    "https://sojitz.lumafield.com/",
+    "https://www.lumafield.com/",
+    "https://sojitz.lumafield.com/products/",
+    "https://www.sanpo-pub.co.jp/topnews/hihakai-news/xct.html",
+    "https://techblitz.com/startup-interview/lumafield/",
+    "https://www.lumifield.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lumafield manufacturing customer case study",
+   "results": [
+    "https://www.lumafield.com/case-studies",
+    "https://www.lumafield.com/case-studies/customer-story-informal",
+    "https://www.casestudies.com/company/lumafield/case-study/trek-uses-neptune-and-voyager-to-analyze-manufacturing-processes-and-accelerate-product-development",
+    "https://www.casestudies.com/company/lumafield",
+    "https://www.featuredcustomers.com/vendor/lumafield/case-studies",
+    "https://www.featuredcustomers.com/vendor/lumafield",
+    "https://lax-info.lumafield.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lumafield white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://reseller.amazon.com/",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "https://reseller.laam.pk/",
+    "https://www.reseller.co.nz/",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lumafield founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/lumafield",
+    "https://pitchbook.com/profiles/company/495000-55",
+    "https://tracxn.com/d/companies/lumafield/__fwOsGhor1bwkfzgt09e57-o05ywGdZGGiXWi4AiV01g",
+    "https://fundediq.co/lumafield-lumafield-com-funding/",
+    "https://getlatka.com/companies/lumafield.com",
+    "https://www.lumafield.com/article/lumafield-announces-75-million-series-c-funding-and-bill-cronin-as-head-of-revenue",
+    "https://acquirezy.com/organization/lumafield"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Lumafield",
+   "results": [
+    "https://note.com/calm_nerine9307/n/n7ba9636ba589",
+    "https://note.com/rapid_poppy4296/n/n1bc37f8f92c6",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/ofuton_mizuki/n/n5c4bb0c77910?hl=en",
+    "https://note.com/onemorevision/n/n961533c8dfae?hl=en",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Lumafield",
+   "results": [
+    "https://x.com/lumafield",
+    "https://x.com/lumafield/status/2022447557566493156",
+    "https://x.com/lumafield/status/2084428879859761563",
+    "https://x.com/lumafield/status/2021373987708862588",
+    "https://x.com/lumafield/status/2107607203414966720",
+    "https://x.com/lumafield/status/2079709539012947975",
+    "https://x.com/lumafield/status/2066567457180197001"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Lumafield",
+   "results": [
+    "https://www.linkedin.com/company/lumafield",
+    "https://www.linkedin.com/in/eduardo3rd",
+    "https://www.linkedin.com/in/jualexju",
+    "https://www.linkedin.com/in/brunerjon",
+    "https://www.linkedin.com/in/jonathan-aharon-2b12573",
+    "https://www.linkedin.com/in/elizabeth-jerzyk-057b11166",
+    "https://www.linkedin.com/jobs/view/head-of-people-at-lumafield-4479359788"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Lumafield",
+   "results": [
+    "https://www.facebook.com/p/Lumafield-100078956104138/",
+    "https://www.facebook.com/Lumafield-104865255472316/",
+    "https://www.facebook.com/100078956104138/videos/1712970093194977/",
+    "https://www.facebook.com/Lumafield-104865255472316/videos/welcome-to-lumafield-were-making-the-power-of-x-ray-ct-accessible-to-engineersle/701395017768758/",
+    "https://www.facebook.com/hkepc/videos/注意-️知名維修機構-ifixit-聯同工業-ct-掃描技術團隊-lumafield針對-apple-首款摺疊智能手機-iphone-duo-近期接連傳出的屏幕/1436034782064286/",
+    "https://www.facebook.com/advancedmanufacturingexpo/photos/the-advanced-manufacturing-expo-welcomes-lumafield-to-the-2025-showlumafield-was/1185865833342026/",
+    "https://www.facebook.com/iFixit/videos/you-can-see-everything-the-steam-frame-is-hiding-thanks-to-lumafield/1136143335768888/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lumafield note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Lumafield X 投稿",
+   "results": [
+    "https://x.com/lumafield",
+    "https://www.lumafield.com/",
+    "https://www.lumafield.com/jp/lumafield-japan",
+    "https://sojitz.lumafield.com/",
+    "https://www.instagram.com/lumafield/",
+    "https://voyager.lumafield.com/",
+    "https://x.com/luma_lmlm/status/2119853760327631141"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部39頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部39頁・検索12回）"
+ }
+}

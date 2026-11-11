@@ -1,0 +1,1742 @@
+{
+ "name": "Ringlyn",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T07:53:02.120440+00:00",
+ "official_url": "https://www.ringlyn.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email SMTP",
+    "value": "",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   }
+  ],
+  "料金": [
+   {
+    "label": "Pricing Model",
+    "value": "How Cost Behaves Margin Direction at Scale Forecasting Best Fit",
+    "url": "https://www.ringlyn.com/blog/best-white-label-voice-ai-platforms-2026/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing control",
+    "value": "You set retail prices Vendor sets prices You set prices",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "label": "$197/mo (basic)",
+    "value": "$83/mo ~2.4x $114/mo",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "label": "$297/mo (standard)",
+    "value": "$83/mo ~3.6x $214/mo",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "label": "$497/mo (pro)",
+    "value": "$83/mo ~6.0x $414/mo",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "label": "$997/mo (managed)",
+    "value": "$83/mo ~12x $914/mo",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing model",
+    "value": "Flat platform fee Per-minute that erodes margin at scale Flat $2,497/mo, unlimited sub-accounts",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Human-like AI that answers your calls, books appointments, and captures leads 24/7. No extra staff needed.",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents that screen, interview, and onboard candidates at scale",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Keeps users engaged with all feature upgrades and product launches",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides 24/7 inbound call answering for FAQs and customer triage",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated NPS, feedback & product surveys with detailed personalised questioning",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost Productivity & Scale Outreach (Up to 5x More Calls)",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Businesses can reach up to 5x more prospects compared to manual calling",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Conversion & Customer Engagement (30-40% Higher Success Rates)",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time transcription provides a complete record of all interactions",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated data extraction identifies names, bookings, intent, preferences, and more",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay Secure, Reliable, and Compliance-Ready (100% Data Protection)",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade encryption protects transcripts, audio recordings, and sensitive information",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully compliant with industry security standards for healthcare, finance, and enterprise use",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensures 100% data protection and privacy assurance for mission-critical operations",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated, Tailored Onboarding & Support",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-Grade Security & Compliance",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ringlyn is fully secure, with encrypted transcripts, recordings, and data protection. Built to meet strict compliance needs for industries like healthcare, finance, and enterprise.",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "User expressed interest in the Enterprise plan.",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I see you're on our pricing page. Can I help?\"",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A new prospect is ready for sales.",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ringlyn integrates seamlessly with popular CRMs (Salesforce, HubSpot, Zoho), calendar systems (Google Calendar, Outlook, Calendly), and telephony providers (Twilio, Vonage). We also offer an API for custom integrations.",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Is call data secure and private?",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Security is our priority. All calls are encrypted end-to-end, and data is stored in compliance with GDPR, HIPAA, and other regulations. You maintain ownership of all your data, and we provide options for data retention policies.",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can be up and running in as little as 10 minutes. Our streamlined onboarding process includes connecting your existing systems, configuring your AI agent, and testing it in your environment. For enterprise customers, we offer comprehensive implementation services.",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved CSAT from 79% → 94%, a 15-point increase in 90 days",
+    "url": "https://www.ringlyn.com/case-studies/technova-support-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Support capacity effectively doubled without additional hiring",
+    "url": "https://www.ringlyn.com/case-studies/technova-support-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual support costs reduced by $320,000 while improving service quality",
+    "url": "https://www.ringlyn.com/case-studies/technova-support-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Ringlyn can bring the same enterprise-grade voice automation approach to your technology; customer support; saas workflows.",
+    "url": "https://www.ringlyn.com/case-studies/technova-support-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Voice Agent Pricing | Ringlyn Plans & Costs | Ringlyn",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Transparent AI voice price — flexible plans built for all your agentic calls marketing needs. Pay as you grow.",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority SLA & dedicated support",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-style clarity, without hidden feature gates.",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate information processing",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated onboarding & setup",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to deploy AI voice agents with an enterprise-grade customer experience?",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Frequently Asked Pricing Questions",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "What is Ringlyn's AI voice agent pricing?",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "How to price AI voice agents for my business?",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Building an AI voice agent with Ringlyn requires no coding. You define your agent's persona, upload your knowledge base, connect your telephony provider (Twilio or others), and launch — all from a visual dashboard.",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Ringlyn provide call sentiment analysis, transcripts, and call recording?",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing is easy to justify when the product keeps proving itself.",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Teams choose Ringlyn because it reduces missed opportunities, improves response quality, and removes repetitive phone work from already-busy teams.",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip 18 months of development. Get the full production-ready source code, brand it as your own, and build a",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI wave is here. Most agencies are watching it not profiting from it.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "There's a third option and it's how smart agencies are quietly building their most profitable service line right now.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Imagine Your Own Branded AI Voice Agent Platform. Clients Onboarding Under Your Name. Revenue Coming In While You Sleep.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Ringlyn's Agency License hands you the complete, production-ready source code for a full AI voice agent platform. Yours to brand. Yours to deploy. Yours to sell. We've done the engineering. You take it to market.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Your product, your clients, your margin.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Production-ready AI voice agent platform",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply your branding, set your pricing, configure your platform. Your clients never see Ringlyn they see your product.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Start onboarding clients immediately. You bill them whatever you want. We never appear on your invoice.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "The license is meant to become a real business asset: source code, operating control, brand control, and the freedom to build your own pricing model.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You set the price. You keep the difference.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Not a beta. Not a prototype. A platform already handling real calls for real businesses.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You're not a reseller clipping a thin margin on someone else's product. You're running your own SaaS company, with your own brand, on infrastructure you own outright.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You set the client price and keep the delta.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Every new client improves the return on the same license.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You want to launch your own SaaS product without spending 18 months and a six-figure budget in development",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You're building an AI-focused business and want a head start with proven, production-ready technology",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You are not licensing a demo. This is the full production platform, already handling live call traffic, with the operational surface a real reseller business needs.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Ringlyn supports 6 languages: English, Spanish, French, German, Japanese, and Hindi. Our speech recognition is trained on diverse accents for each language, ensuring accurate understanding across different regions.",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "English, Spanish, French, German, Hindi, and Japanese out of the box — an immediate upsell in any market with a bilingual customer base.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Answer in English, Spanish, French, German, Hindi, and Japanese — an easy upsell in any market with a bilingual customer base.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Sell into international markets with agents that handle English, Spanish, French, German, Hindi, and Japanese out of the box.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "\"Your package will arrive tomorrow before 5 PM.\"",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your package will arrive tomorrow.",
+    "url": "https://www.ringlyn.com/",
+    "pass": 1
+   },
+   {
+    "quote": "recurring revenue stream on top of AI without building anything from scratch.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual Revenue Potential",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You bill clients directly and keep 100% of the revenue.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep 100% Revenue",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Imagine Your Own Branded AI Voice Agent Platform. Clients Onboarding Under Your Name. Revenue Coming In While You Sleep.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You pay $15,000 once. You charge each client $500/month. Ten clients means $5,000/month in recurring revenue. Your license pays for itself in three months. Everything after that is margin and it compounds every time you add a client.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly recurring revenue",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Two-way sync with Google and Outlook calendars so the agent books, confirms, and reminds — the capability that lets you charge premium prices because the client can measure the revenue.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "The licence is a product. What turns it into revenue is distribution — an existing book of clients who already trust you with something adjacent to their phone system. These five profiles convert fastest.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You already generate leads for clients and watch a third of them die in voicemail. A branded AI voice agent closes the loop you created, and it converts a project-based retainer into recurring software revenue on the same account.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Ten Core-tier clients at $700/month is $7,000 in monthly recurring revenue against a one-time licence. Price against what a part-time receptionist costs your client — not against your software cost. The gap between those two numbers is the entire business.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Almost every 'white-label' offer in voice AI is a reseller badge with a revenue share attached. The difference matters more the more successful you become.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Per-seat, per-minute, or 20–30% revenue share",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Expands — fixed cost, growing revenue",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Positioning, first clients, packaging, and the first 90 days of revenue.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "How the major vendors compare on rebranding depth, fees, and revenue share.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Implemented Ringlyn's AI-powered voice assistant to handle all reservation calls 24/7 with seamless calendar integration. The system was trained on Urban Eats' specific menu, seating arrangements, and booking policies, ensuring consistent and accurate responses. Integration with their existing POS and reservation management system took just 48 hours.",
+    "url": "https://www.ringlyn.com/case-studies/urban-eats-restaurant-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Zero missed calls during peak hours, capturing $42,000 in additional monthly revenue",
+    "url": "https://www.ringlyn.com/case-studies/urban-eats-restaurant-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Package Ringlyn as your own AI receptionist product and sell 24/7 call answering to clinics, law firms, dealerships, salons, and home-services companies in your market. Your brand on the dashboard, your name on the invoice, your recurring revenue — with no per-seat fees and no revenue share.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Of the Client Revenue Is Yours",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "The receptionist books straight onto the client's calendar, confirms by SMS, and runs reminder calls to cut no-shows. This is the feature that justifies premium pricing — it produces revenue your client can measure.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Missed calls are a problem every local business already knows it has, which removes the hardest part of selling software: convincing the buyer the problem is real.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring Revenue, Not Project Work",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Both. The platform itself carries your agency branding — your logo, your domain, your product name. Within it, each client tenant has its own greeting, voice, persona, business hours, FAQs, escalation rules, and phone numbers, so every one of their callers gets an experience that sounds like it belongs to that specific business.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Not unless you want to. Our team can deploy and hand over a running environment as part of the engagement. If a client in healthcare or legal requires that call data stay inside a controlled environment, the self-hosted route lets you deploy on your infrastructure — or theirs — while keeping the same branded product.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Own the codebase outright, resell to unlimited clients, and keep 100% of the recurring revenue.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "We already sold websites and ads to dental practices. Adding a branded AI receptionist turned those same accounts into monthly recurring revenue — and it's the first product we've sold where the client calls us to say it worked.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Sell the receptionist. Keep the revenue.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "For metered US voice, our comparison of twelve providers puts the carriage itself at roughly $0.003 to $0.020 per minute depending on provider and direction, plus a small monthly fee for each phone number. That range is the reason SIP trunk prices are hard to quote: a premium retail provider and a wholesale carrier can differ by around twenty times for the same workload.",
+    "url": "https://www.ringlyn.com/sip-trunk-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "There are three ways to be billed for the voice carriage, and choosing between them matters more than shaving a fraction of a cent off the rate.",
+    "url": "https://www.ringlyn.com/sip-trunk-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Per second or minute of voice carried",
+    "url": "https://www.ringlyn.com/sip-trunk-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The same rate can cost very different amounts depending on the billing increment: the unit each call is rounded up to. Per-second billing charges for the actual duration. A 60-second increment rounds every call up to the next full minute. Our comparison notes that some carriers bill in 6-second or 60-second increments, and that this matters because AI calls are often short.",
+    "url": "https://www.ringlyn.com/sip-trunk-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Premium retail providers charge for developer tooling, support, and features, while wholesale carriers sell bare minutes at lower rates but expect you to run more of the stack. Our 2026 comparison found around a twenty-times spread between the cheapest and the most expensive option for the same outbound workload.",
+    "url": "https://www.ringlyn.com/sip-trunk-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "No, not on its own. A trunk carries the call. The speech-to-text, language model, and text-to-speech are separate costs unless you use a bundled platform. Ringlyn bundles the telephony layer into its platform pricing, so you do not buy a trunk separately.",
+    "url": "https://www.ringlyn.com/sip-trunk-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Ringlyn is the white label voice AI platform agencies, MSPs, telecom resellers, and software companies use to launch a branded AI voice agent business. Take the full platform, put your logo and domain on it, set your own pricing, and keep 100% of the recurring revenue — with no per-seat fees and no revenue share.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Share or Per-Seat Fees",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your logo, your colours, your custom domain, your product name. Every screen, every email, and every invoice your clients see carries your brand. Ringlyn never appears at any touchpoint — this is a true private label voice AI product, not a co-branded reseller badge.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Set your own plans, per-minute rates, seat pricing, and overage rules. Charge $300 or $3,000 a month — we never see your price list, never take a revenue share, and never charge you per client.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Call volumes, outcomes, sentiment, transcripts, and ROI dashboards your clients can log into under your brand. Reporting is what keeps white label accounts renewing — so it ships as a first-class part of the platform.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Most 'white label' offers in the voice AI market are thin reseller wrappers with per-minute markups, revenue shares, and a vendor logo you can never fully remove. Ringlyn is structured for people who want to own the asset.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No Revenue Share, Ever",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Competing white label programs quietly take 20–30% of what you bill, or price per minute so your margin shrinks as your clients grow. With Ringlyn you pay once. Every dollar of client revenue after that is yours.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Zero revenue share, zero per-seat fees, and zero per-client charges as you scale",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "It helps, but it is not required. Our team can handle deployment for you as part of the engagement and hand over the running environment with documentation. If you do have developers, the Agency Licence gives them everything they need to customise the platform, add features, and run their own release cycle.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The $15,000 one-time licence: full source code, unlimited clients, and 100% of the recurring revenue.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The full launch playbook: positioning, first clients, packaging, and the first 90 days of revenue.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How the major white-label voice AI vendors compare on rebranding depth, fees, and revenue share.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We were reselling another voice AI tool at a 25% margin and our clients could Google the vendor in ten seconds. Licensing the source code changed the business — it's our product now, our pricing, and the recurring revenue actually belongs to us.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Before setting a price you need an honest cost-to-serve. With a licensed platform your fixed platform cost is already sunk, so the marginal cost of an additional client is narrower than most people assume — but it is not zero, and the human components are the ones people forget.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier rates; roughly fixed, minor regional variation",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Willingness to pay tracks the value of a single captured call almost linearly. A missed call at a nail salon costs maybe $60 of revenue. A missed call at a personal-injury law firm can cost five figures. Your pricing should reflect that gap, and prospects in high-value verticals will not blink at numbers that would horrify a low-ticket business.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers skip setup fees because they feel like friction in the close. They are, in fact, the single most useful line item in the whole model, and for three reasons that have nothing to do with the revenue.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue predictability",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Billing models for white-label voice agents, ranked by what they do to your revenue and your client's behaviour",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Every bespoke integration is a permanent maintenance liability owned by you. Price them as one-time projects.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Discounting to close instead of narrowing scope.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller / revenue share",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Upsells That Raise Revenue Per Account Without New Clients",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Case Study: TechNova Support Solutions | Ringlyn",
+    "url": "https://www.ringlyn.com/case-studies/technova-support-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "You sell into one industry deeply — dental, legal, automotive, property. Embedding a branded voice agent into the workflow you already own is the highest-margin module you can add, and it is very hard for a competitor to displace.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Urban Eats Restaurant Group | Ringlyn",
+    "url": "https://www.ringlyn.com/case-studies/urban-eats-restaurant-group/",
+    "pass": 1
+   },
+   {
+    "quote": "45% reduction in staffing costs for phone operators, redirecting budget to front-of-house service",
+    "url": "https://www.ringlyn.com/case-studies/urban-eats-restaurant-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Horizon Realty | Ringlyn",
+    "url": "https://www.ringlyn.com/case-studies/horizon-realty/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Wellness Medical Clinic | Ringlyn",
+    "url": "https://www.ringlyn.com/case-studies/wellness-medical-clinic/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: BrightPath Education Services | Ringlyn",
+    "url": "https://www.ringlyn.com/case-studies/brightpath-education-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Ringlyn was founded by a team of AI researchers, voice technology specialists, and business operations experts who recognized a critical gap in the market: despite advances in AI, most businesses were still handling calls the same way they had for decades—with human operators, limited hours, and frequent missed opportunities.",
+    "url": "https://www.ringlyn.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-built templates for real estate, healthcare, automotive, restaurants, legal",
+    "url": "https://www.ringlyn.com/blog/white-label-voice-ai-marketing-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Collect early results data from your live clients. Track: calls handled by AI vs. routed to human, appointments booked, call volume vs. previous month. Build a brief case study from the best-performing client.",
+    "url": "https://www.ringlyn.com/blog/white-label-voice-ai-marketing-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Begin systematic outbound sales using the case study as the centerpiece. Target businesses in the same vertical as your first successful client — same industry, similar size, similar call volume patterns.",
+    "url": "https://www.ringlyn.com/blog/white-label-voice-ai-marketing-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "excellent for engineers, steep for non-technical operators.",
+    "url": "https://www.ringlyn.com/blog/best-white-label-voice-ai-platforms-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "not a fit for non-technical operators who want a ready-made branded platform — you'll be doing meaningful development to reach feature parity with a turnkey white-label suite.",
+    "url": "https://www.ringlyn.com/blog/best-white-label-voice-ai-platforms-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "non-technical operators who prioritize an easy visual builder and are comfortable layering on the agency plan for branding.",
+    "url": "https://www.ringlyn.com/blog/best-white-label-voice-ai-platforms-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "has effectively collapsed. This is why agencies, GoHighLevel operators, managed service providers, BPO firms, and vertical SaaS companies are racing to add a",
+    "url": "https://www.ringlyn.com/blog/ai-receptionist-white-label-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Other frequent missteps include trying to serve too many unrelated verticals at once instead of dominating one, skipping the pilot phase that generates the proof needed to sell confidently, and ignoring compliance requirements when signing healthcare or legal clients who need HIPAA-grade handling of sensitive information. The operators who win with a",
+    "url": "https://www.ringlyn.com/blog/ai-receptionist-white-label-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "platform rather than a standalone resold dashboard. This suits product companies and developers who already have a customer base and a UI of their own. It offers the deepest ownership and customization but requires engineering, and you take on the multi-tenant, billing, and client-experience layers yourself. For non-technical operators, the turnkey reseller model is almost always the better fit.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Convert pilots to paid, capture a case study, and template the onboarding so the next client takes hours, not days.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Convert pilots to paid, capture a case study, and push systematic outreach in one niche. Crossing ~9 clients, you cover the platform cost — break-even.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Most disciplined operators recover their startup investment within 1–3 months of landing their first paying clients, then move into compounding profit. The variable that determines your speed isn't the technology — it's how aggressively and consistently you sell into a focused niche.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Break-even is typically around 9 clients. Most disciplined operators recover their startup investment within 1–3 months of landing their first paying clients, then move into compounding profit. The pace depends almost entirely on how aggressively you sell into a focused niche, since the technology and infrastructure are handled by the vendor.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Voice Agent Development Case Study | Divtechnosoft",
+    "url": "https://www.divtechnosoft.com/case-study/ai-voice-agent-platform",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Fully branded white-label AI voice platform.",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Full white-label branding",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Your brand, you own it",
+    "url": "https://www.ringlyn.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Sell an AI Voice Agent Platform Under Your Own Brand",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Example: 10 clients paying $500/month for your branded AI voice agent platform.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "100% White Label",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Your branding everywhere",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI wave is here. Most agencies are watching it not profiting from it.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Building your own AI voice agent platform takes 12–18 months and a serious engineering team. Reselling a generic SaaS means your brand disappears the moment a client Googles the tool you're using.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "There's a third option and it's how smart agencies are quietly building their most profitable service line right now.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Imagine Your Own Branded AI Voice Agent Platform. Clients Onboarding Under Your Name. Revenue Coming In While You Sleep.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply your branding, set your pricing, configure your platform. Your clients never see Ringlyn they see your product.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom domain, your logo, your brand. Completely invisible. Always.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You're not a reseller clipping a thin margin on someone else's product. You're running your own SaaS company, with your own brand, on infrastructure you own outright.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "That's a fundamentally different business than what most agencies are building.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You are not licensing a demo. This is the full production platform, already handling live call traffic, with the operational surface a real reseller business needs.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Call volumes, outcomes, sentiment, transcripts, and ROI dashboards your clients log into under your brand. Reporting is what makes white-label accounts renew.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Five kinds of business are already reselling white-label voice AI",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing and lead-gen agencies",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You own the SMB relationship, the helpdesk, and often the phone system already. Adding a white-label AI receptionist is a natural line extension your clients will assume you should have offered years ago.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Telecom, VoIP and SIP resellers",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "How resellers actually package and price it",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "You set your own price list — we never see it and never take a cut. That said, most resellers land on a three-tier structure, and these are the numbers that hold up in the market today.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Licence vs reseller program vs building it yourself",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Almost every 'white-label' offer in voice AI is a reseller badge with a revenue share attached. The difference matters more the more successful you become.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Typical reseller program",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Your clients see your brand completely your domain, your logo, your product name. Ringlyn is invisible at every touchpoint.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "What is a white-label voice AI platform, exactly?",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label AI Receptionist & Answering Service | Ringlyn",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label AI Receptionist & Answering Service — Under Your Brand",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Package Ringlyn as your own AI receptionist product and sell 24/7 call answering to clinics, law firms, dealerships, salons, and home-services companies in your market. Your brand on the dashboard, your name on the invoice, your recurring revenue — with no per-seat fees and no revenue share.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Answering, Under Your Brand",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Every client call answered in under two seconds, day or night, with a natural human-sounding voice and the client's own greeting. No voicemail, no hold music, no missed after-hours lead — the core promise your white label answering service is sold on.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for Resellers, Not Just End Users",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Why an AI Receptionist Is the Easiest White-Label Product to Sell",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "What Resellers Package and Sell",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "A practical picture of how agencies and answering services build a recurring product on top of the licence.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label AI Receptionist — Frequently Asked Questions",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "What agencies, answering services, and virtual-assistant businesses ask before reselling an AI receptionist.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I white label an AI hotel receptionist for hospitality clients?",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You can configure a tenant as an AI hotel receptionist with its own greeting and persona, answering reservation, check-in and amenity questions and routing to the front desk, housekeeping or the restaurant. It runs under your branding, and each hotel or hospitality group you serve gets its own settings. The Ringlyn AI voice agent for hotels page shows the underlying call flows.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "What is a white label AI receptionist?",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "What should I charge clients for a white label AI receptionist?",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Once your platform is live, a new client receptionist typically takes under an hour to configure using an industry template: set the greeting and persona, load the FAQs and business hours, connect the calendar and CRM, and provision or port the phone number. Most resellers can go from signed contract to answering live calls the same day.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Is this the same as a white label virtual assistant?",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch your branded AI receptionist service",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "See the multi-tenant reseller console live, not in a slide deck",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Request reseller pricing",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Voice AI Platform",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "The full white-label offer: source-code licence, self-hosted deployment, and the economics behind both.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label AI Receptionist Guide",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Virtual Assistant",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Price White-Label Voice Agents",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Voice AI Platform | Brand It, Price It, Resell It | Ringlyn",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sell AI Voice Agents Under Your Own Brand",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Voice AI Platform — Your Brand, Your Pricing, Your Margin",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ringlyn is the white label voice AI platform agencies, MSPs, telecom resellers, and software companies use to launch a branded AI voice agent business. Take the full platform, put your logo and domain on it, set your own pricing, and keep 100% of the recurring revenue — with no per-seat fees and no revenue share.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Branding, Everywhere",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A complete white label AI voice agent platform — branding, billing, multi-tenancy, telephony, and analytics — ready to resell on day one.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Complete White Label Branding",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "You already generate leads for clients and watch a third of them die in voicemail. A branded AI voice agent closes the loop you created, and it converts a project-based retainer into recurring software revenue on the same account.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "After-hours and overflow answering, message capture, SMS confirmations, and a monthly call report. The easiest first sale — it replaces voicemail, not a person.",
+    "url": "https://www.ringlyn.com/agency/",
+    "pass": 1
+   },
+   {
+    "quote": "Every client call answered in under two seconds, day or night, with a natural human-sounding voice and the client's own greeting. No voicemail, no hold music, no missed after-hours lead — the core promise your white label answering service is sold on.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "You do not have to educate a dentist, a plumber, or a personal-injury firm about missed calls. They can tell you exactly how many leads went to voicemail last week. You are selling against a number they already believe.",
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "pass": 1
+   },
+   {
+    "quote": "Your logo, your colours, your custom domain, your product name. Every screen, every email, and every invoice your clients see carries your brand. Ringlyn never appears at any touchpoint — this is a true private label voice AI product, not a co-branded reseller badge.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Inbound and outbound calling, SIP trunking, number provisioning and porting, call transfer, IVR replacement, and voicemail — the hard telephony engineering is already built, tested, and running real traffic.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your custom domain, logo, and product name on every screen, email, and invoice",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No. The product runs on your custom domain with your branding across the application, transactional emails, and invoices. There is no 'powered by' badge and no Ringlyn touchpoint in the client experience. With the Agency Licence you hold the code, so there is nothing phoning home to us either.",
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Solo practitioners and small trades replacing voicemail, not a person",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Just email us any time\" is a promise that costs you an hour a month per account and appears nowhere in your pricing. Package a defined support level per tier and stick to it.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "allow agencies to deploy a fully branded AI phone agent under their own company name — with no reference to the underlying vendor. The end client sees your agency's branding on the dashboard login, the call transcripts, the mobile app, the billing emails, and the AI agent's self-identification on calls ('Hi, this is Aria from [Your Agency Name]').",
+    "url": "https://www.ringlyn.com/blog/white-label-voice-ai-marketing-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Full logo, brand color, and typography customization across all UI surfaces — dashboard, emails, reports, mobile notifications. Some platforms customize only the login screen; others support full CSS theme replacement.",
+    "url": "https://www.ringlyn.com/blog/white-label-voice-ai-marketing-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": ": your domain, your logo, your product name, your transactional emails, your invoices. No 'powered by' badge anywhere in the client experience.",
+    "url": "https://www.ringlyn.com/blog/white-label-voice-ai-agency-vs-self-hosted-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "You already generate their leads and watch a third die in voicemail. You want recurring revenue on accounts you already own.",
+    "url": "https://www.ringlyn.com/blog/white-label-voice-ai-agency-vs-self-hosted-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "What exactly is my client able to discover? Ask them to demo the login page, a transactional email, and an invoice.",
+    "url": "https://www.ringlyn.com/blog/white-label-voice-ai-agency-vs-self-hosted-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Transactional emails, SMS sender IDs, and notifications come from your domain and your name, so clients never receive a message referencing the underlying vendor.",
+    "url": "https://www.ringlyn.com/blog/best-white-label-voice-ai-platforms-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I run the entire client experience on my own custom domain? Can I remove every instance of your branding, including the 'Powered by' footer? Can I add my own voices and name the agents? And do my clients receive emails from my domain rather than yours?",
+    "url": "https://www.ringlyn.com/blog/best-white-label-voice-ai-platforms-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Full CNAME domain, logo, colors, branded emails, and custom agent names — or just a logo swap?",
+    "url": "https://www.ringlyn.com/blog/best-white-label-voice-ai-platforms-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Full — CNAME, logo, colors, emails, agent names",
+    "url": "https://www.ringlyn.com/blog/best-white-label-voice-ai-platforms-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "ensure invoices, payment emails, and receipts carry your brand — not the vendor's — so the financial relationship reinforces ownership.",
+    "url": "https://www.ringlyn.com/blog/best-white-label-voice-ai-platforms-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Configure your domain, logo, colors, and branded emails; decide your retail tiers and load them into Stripe as recurring subscriptions with your markup built in.",
+    "url": "https://www.ringlyn.com/blog/best-white-label-voice-ai-platforms-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "True white-label means the client dashboard lives on your own domain via CNAME, with your logo, colors, branded emails, and custom AI agent names — the vendor is completely invisible. Cosmetic branding is just a logo on the vendor's subdomain. For owning a real business, you need true CNAME white-label so clients experience only your brand at every touchpoint.",
+    "url": "https://www.ringlyn.com/blog/best-white-label-voice-ai-platforms-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "product from the ground up, when in reality you are reselling a mature, production-grade voice AI platform under your own label. This is the same model that powered the rise of white-label website builders, email marketing tools, and CRM platforms — now applied to the fastest-growing category in business automation: AI voice agents that replace or augment a traditional front desk.",
+    "url": "https://www.ringlyn.com/blog/ai-receptionist-white-label-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Every call is picked up on the first ring with a natural, on-brand greeting using the client's business name, eliminating hold times and voicemail dead-ends.",
+    "url": "https://www.ringlyn.com/blog/ai-receptionist-white-label-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI catches every call that would otherwise hit voicemail after hours or when the front desk is already on another line.",
+    "url": "https://www.ringlyn.com/blog/ai-receptionist-white-label-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ", never a vendor subdomain), your logo, colors, favicon and typography across every screen, and branded transactional emails so clients never receive a message referencing the underlying vendor. If the vendor's name appears anywhere your clients can see it, the program is a reskin, not a white-label.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom domain (app.yourbrand.com via CNAME), your logo and colors across the entire dashboard, branded emails, and AI agents that introduce themselves with your chosen names.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Look for rebrandable sales collateral — one-pagers, ROI calculators, pitch decks, case-study templates, and email sequences — that you can put your logo on and use immediately. Co-marketing assets (landing-page copy, ad creative, demo scripts) compress the time it takes to build a credible offer. You should never be starting your marketing from a blank page.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Complete onboarding, configure your brand (domain, logo, emails), and build one flagship demo agent for your chosen vertical.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Configure your custom domain, logo, colors, and branded emails; decide your retail tiers and load them into Stripe as recurring subscriptions with your markup built in.",
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ringlyn - AI-Powered Call Agent for Businesses — Ringlyn is an AI-powered call agent that handles inbound/outbound calls, cold calling, appointment booking, and customer support.",
+    "url": "https://www.ringlyn.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Multilingual Support | Ringlyn — Ringlyn's Multilingual Support makes global customer engagement simple. Whether you're an agency running voice AI solutions for multilingual outbound calls, a SaaS company serving markets in Japan or Europe, or a business expanding into new language markets, Ringlyn handles it all.",
+    "url": "https://www.ringlyn.com/features/multilingual-support/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Call Agent Features | Voice AI Capabilities | Ringlyn — Ringlyn supports Indian English, Japanese, Spanish, French, German, Portuguese, and more. Whether you need an AI Indian voice generator or a Japanese AI voice for Asia-Pacific campaigns, Ringlyn's voice engine adapts to your audience and market.",
+    "url": "https://www.ringlyn.com/features/",
+    "pass": 3
+   },
+   {
+    "quote": "Voice AI Platform for Enterprise — Scalable & Secure | Ringlyn — Ringlyn is the enterprise voice AI platform for inbound and outbound calls at scale — with self-hosted data privacy control, compliance-ready architecture, and fraud-detection workflows.",
+    "url": "https://www.ringlyn.com/voice-ai-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "About Ringlyn | AI-Powered Voice Agent Company | Ringlyn — Learn about Ringlyn's mission to revolutionize business communication with AI voice agents. Meet the team building the future of conversational AI.",
+    "url": "https://www.ringlyn.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Real Results from Ringlyn AI Voice Agents ... — Discover how TechNova improved CSAT from 79% to 94% using AI customer support automation. Complete case study on reducing call times 52% and handling Tier-1 support with conversational AI.",
+    "url": "https://www.ringlyn.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "www.ringlyn.com — Healthcare automation case study with proven results. - [TechNova Support Solutions (Technology & SaaS Customer Support)](https://www.ringlyn.com/case-studies/technova-support-solutions/): Discover how TechNova improved CSAT from 79% to 94% using AI customer support automation.",
+    "url": "https://www.ringlyn.com/case-studies.md",
+    "pass": 3
+   },
+   {
+    "quote": "AI Voice Agent Development Case Study | Divtechnosoft — About Ringlyn Ringlyn is a SaaS platform that uses voice AI to handle business calls, covering lead qualification, appointment booking and customer support, reducing manual agent load and improving responsiveness.",
+    "url": "https://www.divtechnosoft.com/case-study/ai-voice-agent-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Rippling 2026 Company Profile: Valuation, Funding & Investors ...About Ringlyn | AI-Powered Voice Agent Company | Ringlynringlyn | Peerlist Company ProfileRingling Business Solutions - Crunchbase Company Profile ...NeoGenesis Revenue, Funding & Valuation - prospeo.ioCNG 2023 DICKSON-RINGLING 2026 Company Profile: Valuation ... — Rippling has 6,473 total employees. What industry is Rippling in? Rip",
+    "url": "https://pitchbook.com/profiles/company/178355-71",
+    "pass": 3
+   },
+   {
+    "quote": "ringlyn | Peerlist Company Profile — Ringlyn is an AI-powered voice platform that automates customer conversations at scale. It enables businesses to deploy intelligent voice agents for inbound and outbound calls, lead qualification, follow-ups, and real-time support—without human intervention.",
+    "url": "https://peerlist.io/company/ringlyn",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Utkarsh Mohan (@UtkarshMohan07) / Posts / X Ringlyn AI is designed to perform under enterprise scrutiny. We welcome structured evaluations, head-to-head benchmarks, and compliance reviews as standard elements of our enterprise procurement process. The organizations that deploy us at scale do so because they did the work to evaluate properly — and the platform held up.",
+    "url": "https://x.com/UtkarshMohan07",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ringlyn | Ringlyn - LinkedIn Breaks down what actually happens inside Ringlyn — 🔹 𝐏𝐮𝐫𝐩𝐨𝐬𝐞-𝐛𝐮𝐢𝐥𝐭 𝐥𝐨𝐠𝐢𝐜 You define the mission — sales, support,reminders, lead ...",
+    "url": "https://www.linkedin.com/posts/ringlyn_ringlyn-activity-7396419431213670401-vUAm",
+    "pass": 3
+   },
+   {
+    "quote": "Utkarsh Mohan - Founding Engineer@Ringlyn | Voice AI | LinkedIn Founding Engineer@Ringlyn | Voice AI · As a Software Developer, I specialize in building innovative solutions at the intersection of Blockchain, modern web development, and artificial intelligence. My core expertise lies in Blockchain, Next.js, and Generative AI.I am driven by a passion for exploring and experimenting with new tools a",
+    "url": "https://in.linkedin.com/in/utkarsh-mohan6b2a226",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ringlyn Canaya (@ringlyn.canaya) • Facebook, Connect with friends Ringlyn Canaya is on Facebook. Join Facebook to connect with Ringlyn Canaya and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/ringlyn.canaya/",
+    "pass": 3
+   },
+   {
+    "quote": "Ringlyn Feng (Ringlyn) - Facebook Ringlyn Feng. 975 likes · 12 talking about this. China phone case and alass factory WeChat+ 86 17722810297 WhatsApp+ 86 17722810297",
+    "url": "https://www.facebook.com/people/Ringlyn-Feng/61573603194644/",
+    "pass": 3
+   },
+   {
+    "quote": "Ringlyn Ringlyn - Facebook Ringlyn Ringlyn is on Facebook. Join Facebook to connect with Ringlyn Ringlyn and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/ringlyn.ringlyn/",
+    "pass": 3
+   },
+   {
+    "quote": "Ringlyn Canaya - Facebook Ringlyn Canaya is on Facebook. Join Facebook to connect with Ringlyn Canaya and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/ringlyn.canaya.5/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ringlyn.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/case-studies/technova-support-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/case-studies/urban-eats-restaurant-group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/case-studies/horizon-realty/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/case-studies/wellness-medical-clinic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/case-studies/brightpath-education-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/white-label-ai-receptionist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/sip-trunk-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/white-label-voice-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-pricing-margins-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/blog/white-label-voice-ai-marketing-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/blog/white-label-voice-ai-agency-vs-self-hosted-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/blog/best-white-label-voice-ai-platforms-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/blog/ai-receptionist-white-label-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/blog/white-label-ai-voice-agent-reseller-program-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/blog/ai-voice-agent-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ringlyn.com/blog/voice-ai-banking-security-pci-compliance-2026/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.smartwatchlife.jp/71652/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newsdig.tbs.co.jp/articles/-/2877609",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autoprove.net/imported-car/jeep/wrangler/258778/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.divtechnosoft.com/case-study/ai-voice-agent-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/rillion",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/178355-71",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://peerlist.io/company/ringlyn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/UtkarshMohan07",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ringlyn_ringlyn-activity-7396419431213670401-vUAm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/utkarsh-mohan6b2a226",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ringlyn.canaya/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Ringlyn-Feng/61573603194644/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ringlyn.ringlyn/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ringlyn.canaya.5/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ringlyn 日本 導入",
+   "results": [
+    "https://www.ringlyn.com/",
+    "https://www.smartwatchlife.jp/71652/",
+    "https://newsdig.tbs.co.jp/articles/-/2877609",
+    "https://autoprove.net/imported-car/jeep/wrangler/258778/",
+    "https://zettai-akiramen.jp/blog/2026/08/19/smart-ring-made-in-japan/",
+    "https://prtimes.jp/main/html/rd/p/000000007.000171871.html",
+    "https://www.ringlyn.com/blog/voice-ai-technology-2026/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ringlyn 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Ringlyn Japan",
+   "results": [
+    "https://www.ringlyn.com/",
+    "https://www.ringlyn.com/features/multilingual-support/",
+    "https://www.ringlyn.com/features/",
+    "https://www.ringlyn.com/voice-ai-platform/",
+    "https://www.ringlyn.com/about/",
+    "https://www.ringlyn.com/use-cases/restaurants-hotels/",
+    "https://www.sato-pharmaceutical.com/us/usa/products/19-ringl.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ringlyn manufacturing customer case study",
+   "results": [
+    "https://www.ringlyn.com/case-studies/",
+    "https://www.ringlyn.com/case-studies.md",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.divtechnosoft.com/case-study/ai-voice-agent-platform",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://www.rit.edu/advancedmanufacturing/case-studies",
+    "https://www.casestudies.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ringlyn white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ringlyn founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/rillion",
+    "https://pitchbook.com/profiles/company/178355-71",
+    "https://www.ringlyn.com/about/",
+    "https://peerlist.io/company/ringlyn",
+    "https://prospeo.io/c/neogenesis-revenue",
+    "https://pitchbook.com/profiles/company/903252-88",
+    "https://www.crunchbase.com/organization/ringling-business-solutions"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ringlyn",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/khide/n/n9525c65342ab?hl=en",
+    "https://note.com/clownlife/n/nc3ffdd638982?hl=en",
+    "https://note.com/matcha_1122/n/n87d06cc2e20f?hl=en",
+    "https://note.com/lithe_crocus8929/n/n29da0aa24c76"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ringlyn",
+   "results": [
+    "https://x.com/UtkarshMohan07",
+    "https://x.com/ringo_lyn",
+    "https://x.com/NiklasRingling/status/2120233360933155051",
+    "https://x.com/TheRingling",
+    "https://x.com/lynchsvision/status/2119959516905443633",
+    "https://x.com/JohnRingling64",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ringlyn",
+   "results": [
+    "https://www.linkedin.com/posts/ringlyn_ringlyn-activity-7396419431213670401-vUAm",
+    "https://in.linkedin.com/in/utkarsh-mohan6b2a226",
+    "https://in.linkedin.com/in/parthpansuriya28",
+    "https://de.linkedin.com/in/guido-ringling-78007a245",
+    "https://www.linkedin.com/posts/ringlyn_ringlyn-ai-activity-7393885446478622720-O-Yu",
+    "https://bo.linkedin.com/posts/utkarsh-mohan-256b2a226_internship-connections-content-activity-7007952219199160321-7mHT",
+    "https://de.linkedin.com/posts/hilal-cinci_senior-consultant-sap-successfactors-employee-activity-7486329483449368576-Msi5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ringlyn",
+   "results": [
+    "https://www.facebook.com/ringlyn.canaya/",
+    "https://www.facebook.com/people/Ringlyn-Feng/61573603194644/",
+    "https://www.facebook.com/ringlyn.ringlyn/",
+    "https://www.facebook.com/ringlyn.canaya.5/",
+    "https://www.facebook.com/p/Ringlyn-Alegrado-100087546788743/",
+    "https://www.facebook.com/ringlyn.mausaprudencio/",
+    "https://www.facebook.com/ringlyn.aguhar/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ringlyn note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://www.ringlyn.com/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ringlyn X 投稿",
+   "results": [
+    "https://www.ringlyn.com/",
+    "https://x.com/ragini_ran",
+    "https://www.asahi.com/articles/ASVCB1BVGVCBUTIL02HM.html",
+    "https://fantia.jp/fanclubs/90880/posts",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://x.com/raizinkatabami/status/2109552811239481618",
+    "https://www.xvideos.com/?k=素人投稿++無修正"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部19頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部19頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部19頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部19頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部19頁・検索12回）"
+ }
+}

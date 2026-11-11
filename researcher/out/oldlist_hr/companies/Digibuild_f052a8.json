@@ -1,0 +1,978 @@
+{
+ "name": "Digibuild",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AI送信失敗",
+ "researched_at": "2026-11-11T07:47:19.689271+00:00",
+ "official_url": "https://www.digibuild.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "15-May-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/267525-28",
+    "pass": 3
+   },
+   {
+    "label": "3. Equity Crowdfunding",
+    "value": "22-May-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/267525-28",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "27-Dec-2018 $340K $340K  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/267525-28",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "DigiBuild — AI-Powered Construction Procurement",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted Material Management & Procurement Software · YC S'22",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DigiBuild automates the painstaking process of finding, ordering, tracking, and managing materials — helping contractors reduce labor hours, save money on material, and eliminate schedule delays.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Better material prices",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Construction projects are over budget on average. The number one reason is supply chain and material management issues.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Average schedule overrun per project. Lead times are 50% longer since 2020 — and still climbing.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Material prices since 2020. Procurement is no longer optional to manage — it is a direct business risk.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Material management and procurement is a business risk that cannot be ignored. DigiBuild automates the painstaking process so your team can focus on building.”",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DigiProcure — from takeoff to delivery in four steps.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload a drawing set and job schedule. DigiBuild produces a material takeoff and connects you to 10+ suppliers instantly.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RFQs sent to your current suppliers and more within our network with one click. Find better pricing fast.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate paperwork, contracts, and payments. Capture material management data to improve company-wide processes.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The trusted material management and procurement software for builders.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DigiBuild has talked to thousands of customers and boots-on-the-ground construction teams. Our products are made By Builders, For Builders.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Better material prices through competitive quoting",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer scheduling misses with Predictive Scheduling",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Scheduling",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Two products built by builders, for builders.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODUCT 1",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find, order, and track materials to your jobsite. Upload takeoffs, get 10+ supplier quotes instantly, place orders, and track every delivery. Predictive Scheduling keeps you on schedule.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PRODUCT 2",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DigiBuild provides both material procurement and labor to install and furnish. Tech-enabled delivery at below-market rates — 2–5% procurement rate vs. 20–40% traditional sub markup.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Procore · Autodesk · Sage · QB",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DigiBuild is the missing piece to any construction management process. Use it as a complement to your current tools or as a full replacement for procurement workflows.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "50% less procurement time + ~5% better material prices + 90% fewer scheduling misses.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-project deployment",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "VCC uses DigiProcure across multiple active projects — full visibility into every material purchase, delivery, and supplier relationship across their portfolio.",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise procurement",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Streamlined procurement operations and centralized supplier management with DigiBuild's platform, reducing material management overhead across all projects.",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Cut procurement time in half using DigiProcure's RFQ workflow. Getting 10 quotes in the time it used to take to get 1 completely changed their margins.",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive scheduling",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminated material delay surprises using DigiBuild's Must Order By Date alerts. No scheduling misses since onboarding the platform.",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Full audit trail and real-time visibility across all active construction projects, with complete ownership of project data from design through operations.",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Portfolio-scale procurement",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "DigiEndeavour deployed across renovation projects — 2-5% procurement rate vs traditional subcontractor markups of 20-40%, with dedicated project management.",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Getting 10 quotes in the time it used to take to get 1 completely changed our procurement process. Our margins have never been better.",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The predictive scheduling is a game changer. We haven't had a material delay since we started using the platform.",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "DigiBuild gives our ownership team complete visibility into what's happening on every project. We own the data now.",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "See how DigiBuild can save your team time and money on every project.",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "DigiBuild is the construction procurement platform helping GCs, subcontractors, and owners find materials faster, cut costs, and keep projects on schedule.",
+    "url": "https://www.digibuild.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "DigiBuild launched — construction technology for material procurement and project delivery",
+    "url": "https://www.digibuild.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "First enterprise customers — GCs and subcontractors across Florida and the Southeast",
+    "url": "https://www.digibuild.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "DigiProcure launched — AI-powered procurement platform with Must Order By Date scheduling",
+    "url": "https://www.digibuild.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to transform your procurement?",
+    "url": "https://www.digibuild.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "See how DigiBuild can save your team time, money, and scheduling headaches on every project.",
+    "url": "https://www.digibuild.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Easy-to-use software to find, order, and track materials to your job sites. Quickly turn material takeoffs into RFQs, find better pricing, and never miss a delivery again.",
+    "url": "https://www.digibuild.com/solutions/subcontractors",
+    "pass": 1
+   },
+   {
+    "quote": "Why subcontractors choose DigiProcure",
+    "url": "https://www.digibuild.com/solutions/subcontractors",
+    "pass": 1
+   },
+   {
+    "quote": "Better Material Prices — Always",
+    "url": "https://www.digibuild.com/solutions/subcontractors",
+    "pass": 1
+   },
+   {
+    "quote": "More quotes means competitive pricing. Subcontractors on DigiBuild see approximately 5% better material prices on average.",
+    "url": "https://www.digibuild.com/solutions/subcontractors",
+    "pass": 1
+   },
+   {
+    "quote": "DigiBuild has digitized the fragmented and tedious workflows involved in managing construction projects and procuring building materials.",
+    "url": "https://www.digibuild.com/solutions/subcontractors",
+    "pass": 1
+   },
+   {
+    "quote": "Getting 10 quotes in the time it used to take to get 1 completely changed our procurement process. Our margins have never been better.",
+    "url": "https://www.digibuild.com/solutions/subcontractors",
+    "pass": 1
+   },
+   {
+    "quote": "The predictive scheduling is a game changer. We haven't had a material delay since we started using the platform.",
+    "url": "https://www.digibuild.com/solutions/subcontractors",
+    "pass": 1
+   },
+   {
+    "quote": "Run projects on schedule,",
+    "url": "https://www.digibuild.com/solutions/general-contractors",
+    "pass": 1
+   },
+   {
+    "quote": "Manage material purchases and scheduling in one platform where all transactions are tracked and verified. Boost productivity, reduce costs, and eliminate the risk of supply chain surprises.",
+    "url": "https://www.digibuild.com/solutions/general-contractors",
+    "pass": 1
+   },
+   {
+    "quote": "Every stakeholder and material transaction tracked in one place. Full visibility across all your subcontractors, suppliers, and projects.",
+    "url": "https://www.digibuild.com/solutions/general-contractors",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive scheduling and alerts keep every material purchase on track. Must Order By Dates ensure your subs never run out of materials on site.",
+    "url": "https://www.digibuild.com/solutions/general-contractors",
+    "pass": 1
+   },
+   {
+    "quote": "Better Material Prices",
+    "url": "https://www.digibuild.com/solutions/general-contractors",
+    "pass": 1
+   },
+   {
+    "quote": "Access our supplier network and secure competitive pricing for every purchase across every project. Your scale, amplified.",
+    "url": "https://www.digibuild.com/solutions/general-contractors",
+    "pass": 1
+   },
+   {
+    "quote": "Stop managing materials in spreadsheets. DigiBuild gives you a single platform where all purchases, orders, deliveries, and communications are tracked and searchable.",
+    "url": "https://www.digibuild.com/solutions/general-contractors",
+    "pass": 1
+   },
+   {
+    "quote": "Complete visibility across all projects and subs",
+    "url": "https://www.digibuild.com/solutions/general-contractors",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Place orders and track every delivery from the warehouse to your jobsite in a single dashboard with full audit trail.",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders",
+    "url": "https://www.digibuild.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "PlanGrid Co-founders (YC, $900M acquisition by Autodesk)",
+    "url": "https://www.digibuild.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "In interviews carried out with the pilot teams, 75 user stories were collected. A user story is a short, simple description of a feature told from the perspective of the person who desires a new capability, usually a user or customer of the system. It takes the form of:",
+    "url": "https://digibuild-project.eu/project-results/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/267525-28",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild has 28 total employees.",
+    "url": "https://pitchbook.com/profiles/company/267525-28",
+    "pass": 3
+   },
+   {
+    "quote": "What is DigiBuild’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/267525-28",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for DigiBuild is",
+    "url": "https://pitchbook.com/profiles/company/267525-28",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At DigiBuild",
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of DigiBuild?",
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does DigiBuild have?",
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "All stakeholder communication happens in the platform. No more email chains, lost texts, or missed calls about material status.",
+    "url": "https://www.digibuild.com/solutions/general-contractors",
+    "pass": 1
+   },
+   {
+    "quote": "All messaging with GCs and subs happens through the platform. No more juggling email chains — one place for every project.",
+    "url": "https://www.digibuild.com/solutions/suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Construction.live is an agentic AI platform for general contractors and subs managing $2M-$50M commercial projects. It auto-ingests emails, voice notes, photos and documents, files them to the right job, and flags scheduling, billing and scope discrepancies automatically.",
+    "url": "https://www.aecplustech.com/tools/digibuild",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/267525-28",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "DigiBuild — AI-Powered Construction Procurement — DigiBuild automates material management and procurement for construction. Reduce costs 5%, cut labor hours 50%, eliminate scheduling misses.",
+    "url": "https://www.digibuild.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About | DigiBuild — YC S'22 · Est. 2018 Built for the people who build. DigiBuild is the construction procurement platform helping GCs, subcontractors, and owners find materials faster, cut costs, and keep projects on schedule.",
+    "url": "https://www.digibuild.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild Software | LinkedIn — DigiBuild Software | LinkedInのフォロワー数2,129人。Construction AI tool. The first company to bring LLMs to the Construction. Now building on the forefront of agentic AI | We use AI to help contractors, real estate developers, and government entities save money, reduce risk, and improve project outcomes.",
+    "url": "https://jp.linkedin.com/company/digibuild-software",
+    "pass": 3
+   },
+   {
+    "quote": "Products | DigiBuild — Explore DigiBuild's construction software products: DigiProcure for material procurement and DigiEndeavour for turnkey construction services.",
+    "url": "https://www.digibuild.com/products",
+    "pass": 3
+   },
+   {
+    "quote": "For Owners | DigiBuild — DigiBuild gives Owners complete visibility and control over their construction projects — from design through operations.",
+    "url": "https://www.digibuild.com/solutions/owners",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | DigiBuild — Customers GCs, subcontractors, owners, and suppliers trust DigiBuild. From national general contractors to specialty subcontractors and institutional owners — DigiBuild serves the entire construction supply chain.",
+    "url": "https://www.digibuild.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild pricing, case studies, alternatives & more — DigiBuild automates the painstaking process of finding, ordering, tracking, and managing materials. Our frictionless service that incorporates artificial intelligence helps contractors reduce labor hours, save money on material, reduce schedule delays, and captures important data.",
+    "url": "https://www.aecplustech.com/tools/digibuild",
+    "pass": 3
+   },
+   {
+    "quote": "Project Results - Digibuild — DigiBUILD user’s stories, data requirements & specifications through co-creation with stakeholders (WP1)",
+    "url": "https://digibuild-project.eu/project-results/",
+    "pass": 3
+   },
+   {
+    "quote": "B201 | The University of Auckland - Case Study | DigiBuild™ — A great example of DigiBuild™ and #DfMA in action. Going well beyond the traditional use of BIM, DigiBuild™ bridges the gap between design and construction. It returns #efficiencies to the ...",
+    "url": "https://www.linkedin.com/posts/digibuildtm_b201-the-university-of-auckland-case-activity-7242654191045767170-6zUM",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild - 2026 Company Profile, Team, Funding & Competitors ...DigiBuild 2026 Company Profile: Valuation, Funding ...DigiBuild – Estimated Net Worth, Growth & Competitor Overview …DigiBuild Revenue, Funding & Valuation - prospeo.ioDigiBuild Revenue 2024: $3.6M Est. - getlatka.comDigiBuild — Company Profile | The Company CheckDigiBuild: Funding, Team & Investors | Startup Intros — Apr 1, 2026 · D",
+    "url": "https://tracxn.com/d/companies/digibuild/__aGKbs7_e-4D5-1hH_FanlAXYH-7PcY8TVeq45unbuLI",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild 2026 Company Profile: Valuation, Funding ...DigiBuild – Estimated Net Worth, Growth & Competitor Overview …DigiBuild Revenue, Funding & Valuation - prospeo.ioDigiBuild Revenue 2024: $3.6M Est. - getlatka.comDigiBuild — Company Profile | The Company CheckDigiBuild: Funding, Team & Investors | Startup Intros — The current revenue for DigiBuild is . How much funding has DigiBuild raised ove",
+    "url": "https://pitchbook.com/profiles/company/267525-28",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild – Estimated Net Worth, Growth & Competitor Overview … — Discover DigiBuild's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/digibuild",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild Revenue, Funding & Valuation - prospeo.io — DigiBuild has revenue of $85,555, estimated valuation of $273,776. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild Revenue 2024: $3.6M Est. - getlatka.com — Sep 2, 2026 · DigiBuild 2024 estimated revenue: $3.6M. 24 employees. Industry: Inventory Management Software. Founded 2018. HQ: United States. Updated Sep 2, 2026.",
+    "url": "https://getlatka.com/companies/digibuild.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "DigiBuild (@DigiBuild) / X @DigiBuild 3D characters for Indie Game Devs Montréal, Québec Digibuild.biz Joined March 2016 0 Following 2 Followers Mention Media",
+    "url": "https://x.com/DigiBuild",
+    "pass": 3
+   },
+   {
+    "quote": "Digibuild Software Digibuild Software (@DigiBuildInc). 590 views. We use AI powered extreme weather app @Storm_GPS. Here is the weather outlook in DC for UFC Freedom 250. There may be an hour or so delays but these fights should be able to go on. Good luck fighters! @ufc @WhiteHouse",
+    "url": "https://x.com/DigiBuildInc/status/2066311916662698297",
+    "pass": 3
+   },
+   {
+    "quote": "\"#DigiBuildInc\" - Results on X | Live Posts & Updates Results for \"#DigiBuildInc\" on X (Twitter). Find the latest posts, discussions, and updates about #DigiBuildInc. 2 results found.",
+    "url": "https://x.com/hashtag/DigiBuildInc",
+    "pass": 3
+   },
+   {
+    "quote": "Ivan Franco (@theivanfranco) / Posts / X Digibuild Software DigiBuildInc May 5 What a YEAR it has been!! A big thank you @meetthedrapers, @joinrepublic, @YCombinator, our Investors, and Customers for backing our vision, of creating construction software that will solve the biggest challenges construction face; supply chain, contracts, and payments.",
+    "url": "https://x.com/theivanfranco",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild (@DigiBuild) / X 3D characters for Indie Game Devs @DigiBuild 3D characters for Indie Game Devs Montréal, Québec Digibuild.biz Joined March 2016 0 Following 2 Followers Mention Media",
+    "url": "https://x.com/DigiBuild",
+    "pass": 3
+   },
+   {
+    "quote": "Ivan Franco (@theivanfranco) / Posts / X Nov 3, 2017 · Digibuild Software DigiBuildInc May 5 What a YEAR it has been!! A big thank you @meetthedrapers, @joinrepublic, @YCombinator, our Investors, and Customers for backing our vision, of creating construction software that will solve the biggest challenges construction face; supply chain, contracts, and payments.",
+    "url": "https://x.com/theivanfranco",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "DigiBuild Software - LinkedIn DigiBuild Software | 2,146 followers on LinkedIn. Construction AI tool. The first company to bring LLMs to the Construction. Now building on the forefront of agentic AI | We use AI to help ...",
+    "url": "https://www.linkedin.com/company/digibuild-software",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild™ - LinkedIn DigiBuild™ | 430 followers on LinkedIn. Access the savings and peace-of-mind that come with digitally pre-building your construction project. | Access the savings and peace-of-mind that come ...",
+    "url": "https://www.linkedin.com/showcase/digibuildtm",
+    "pass": 3
+   },
+   {
+    "quote": "Eastern Digibuild Solutions - LinkedIn Eastern Digibuild Solutions | 11 followers on LinkedIn. Digital Construction | BIM | Project & Construction Management | VR/AR | Digital Twins | AI | Building The Future with Precision! In today's fast-evolving real estate development landscape, efficiency, accuracy, and seamless collaboration are paramount. We empower all stakeholders with a comprehensive su",
+    "url": "https://ca.linkedin.com/company/easterndigibuildsolutions",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "DigiBuild - Facebook DigiBuild. 32 likes. Buy quality 3D character models perfectly suited for game Development",
+    "url": "https://www.facebook.com/digibuild/",
+    "pass": 3
+   },
+   {
+    "quote": "Digibuild - Facebook Nov 14, 2021 · Digibuild. 110 likes. We are a small landscaping company offering design, drafting, installation and maintenance services Let us help you bring your ideas to life",
+    "url": "https://www.facebook.com/digibuildaus/",
+    "pass": 3
+   },
+   {
+    "quote": "DigiBuild | Durham - Facebook Nov 3, 2024 · DigiBuild, Durham. 392 likes. DigiBuild provide digital simulations of house and garden projects supporting renovators, construction companies and developers across the UK. DigiBuild helps you to...",
+    "url": "https://www.facebook.com/digibuilduk/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.digibuild.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digibuild.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digibuild.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digibuild.com/solutions/subcontractors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digibuild.com/solutions/general-contractors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digibuild.com/solutions/owners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digibuild.com/solutions/suppliers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.mlit.go.jp/tec/constplan/sosei_constplan_tk_000036_00001.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nix-japan-group.co.jp/posts/728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-revolution.co.jp/media/ai-in-construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://etsuran2.mlit.go.jp/TAKKEN/sokatsuKensaku.do",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/digibuild-software",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aecplustech.com/tools/digibuild",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digibuild-project.eu/project-results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/digibuild/__aGKbs7_e-4D5-1hH_FanlAXYH-7PcY8TVeq45unbuLI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/267525-28",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/digibuild",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/digibuild-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/DigiBuild",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DigiBuildInc/status/2066311916662698297",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/DigiBuildInc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/theivanfranco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/digibuild-software",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/showcase/digibuildtm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/easterndigibuildsolutions",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/digibuild/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/digibuildaus/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/digibuilduk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DigiBuild",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/theivanfranco",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Digibuild 日本 導入",
+   "results": [
+    "https://www.digibuild.com/",
+    "https://www.mlit.go.jp/tec/constplan/sosei_constplan_tk_000036_00001.html",
+    "https://nix-japan-group.co.jp/posts/728",
+    "https://ai-revolution.co.jp/media/ai-in-construction/",
+    "https://claude-magazine.com/construction-industry-ai-use-cases",
+    "https://www.takenaka.co.jp/dx/",
+    "https://diamond.jp/articles/-/395504"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Digibuild 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://etsuran2.mlit.go.jp/TAKKEN/sokatsuKensaku.do",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Digibuild Japan",
+   "results": [
+    "https://www.digibuild.com/",
+    "https://www.digibuild.com/about",
+    "https://jp.linkedin.com/company/digibuild-software",
+    "https://www.digibuild.com/products",
+    "https://www.digibuild.com/solutions/owners",
+    "https://www.digitalbuildapp.com/",
+    "https://www.digitalbuild.com.sg/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Digibuild manufacturing customer case study",
+   "results": [
+    "https://www.digibuild.com/customers",
+    "https://www.digibuild.com/",
+    "https://www.aecplustech.com/tools/digibuild",
+    "https://digibuild-project.eu/project-results/",
+    "https://www.linkedin.com/posts/digibuildtm_b201-the-university-of-auckland-case-activity-7242654191045767170-6zUM",
+    "https://www.cbinsights.com/company/digibuild/customers",
+    "https://www.digibuild.am/en/mebel"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Digibuild white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://nebius.com/nebius-partner-program",
+    "https://partners.spectrum.com/",
+    "https://skyswitch.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Digibuild founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/digibuild/__aGKbs7_e-4D5-1hH_FanlAXYH-7PcY8TVeq45unbuLI",
+    "https://pitchbook.com/profiles/company/267525-28",
+    "https://compworth.com/company/digibuild",
+    "https://prospeo.io/c/digibuild-revenue",
+    "https://getlatka.com/companies/digibuild.com",
+    "https://www.thecompanycheck.com/company/b/digibuild/fyz0rb29kqme3d9kf",
+    "https://startupintros.com/orgs/digibuild"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Digibuild",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Digibuild",
+   "results": [
+    "https://x.com/DigiBuild",
+    "https://x.com/DigiBuildInc/status/2066311916662698297",
+    "https://x.com/hashtag/DigiBuildInc",
+    "https://x.com/theivanfranco",
+    "https://x.com/IICA_Costa_Rica/status/2120209740374401161",
+    "https://x.com/RobertJSalvador",
+    "https://x.com/RobertJSalvador/with_replies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Digibuild",
+   "results": [
+    "https://www.linkedin.com/company/digibuild-software",
+    "https://www.linkedin.com/showcase/digibuildtm",
+    "https://ca.linkedin.com/company/easterndigibuildsolutions",
+    "https://sg.linkedin.com/company/digitalbuild-pte-ltd",
+    "https://ae.linkedin.com/company/digibuild-solutions",
+    "https://ae.linkedin.com/company/digibuildconsulting",
+    "https://nl.linkedin.com/in/rebwarobeid"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Digibuild",
+   "results": [
+    "https://www.facebook.com/digibuild/",
+    "https://www.facebook.com/digibuildaus/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/digibuilduk/",
+    "https://www.facebook.com/builddigital/",
+    "https://www.facebook.com/digibuild72/",
+    "https://www.facebook.com/people/DigiBuild/61558652467428/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Digibuild note 社長",
+   "results": [
+    "https://www.digibuild.com/about",
+    "https://www.cbinsights.com/company/digibuild/people",
+    "https://tracxn.com/d/companies/digibuild/__aGKbs7_e-4D5-1hH_FanlAXYH-7PcY8TVeq45unbuLI",
+    "https://www.digibuild.com/",
+    "https://www.zoominfo.com/p/Robert-Salvador/9274776425",
+    "https://pitchbook.com/profiles/company/267525-28",
+    "https://essential.construction/news/digibuild-raises-4m-seed-round-to-fix-construction-supply-chains/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Digibuild X 投稿",
+   "results": [
+    "https://x.com/DigiBuild",
+    "https://www.digibuild.com/",
+    "https://x.com/theivanfranco",
+    "https://www.digitalbuildapp.com/",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://x-force.thinkforce.co.jp/archives/461"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

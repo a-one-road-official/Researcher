@@ -1,0 +1,818 @@
+{
+ "name": "Servo-Robot",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T07:20:04.807863+00:00",
+ "official_url": "https://servo-robot.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：Headquarters : SERVO-ROBOT Inc. St-Bruno-de-Montarville , Quebec , Canada (1983 ( 1983 ) )",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "SERVO-ROBOT offers a wide range of intelligent vision and sensing systems for programming and control of welding robots. All functions are designed to be easy to use and easy to integrate with robotic welding cells.",
+    "url": "https://servo-robot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The functions include: Automatic robot/cobot teaching – Seam tracking and seam finding – Intelligent adaptive control – AI-powered weld inspection – Weld pool and process monitoring",
+    "url": "https://servo-robot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SERVO-ROBOT expertise includes the control of welding robots and AI-powered vision and sensing systems. Our products have been in operation globally in large and medium size industries for over 40 years. We support our customers through our own subsidiaries and a network of partners worldwide.",
+    "url": "https://servo-robot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unique multi-sensing devices integrated into a very compact and rugged package designed for very high-speed & high-accuracy robotic seam finding, and intelligent robotic process control.",
+    "url": "https://servo-robot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent 3D laser vision systems with advanced application software for high-speed and high-accuracy real-time joint tracking and adaptive welding process control.",
+    "url": "https://servo-robot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D robot-vision systems for seam tracking and adaptive welding process control designed for special purpose welding machines. Intelligent laser-vision based modular laser welding heads for adaptive control of laser welding, hybrid laser welding and laser brazing.",
+    "url": "https://servo-robot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent 3D Robot-Vision systems for non-contact precision joint and weld surface mapping. Inspection of weld joint and weld bead geometric features and detection of weld defects with capability of paperless electronic reporting.",
+    "url": "https://servo-robot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Very compact, high-speed 3D seam tracking system optimized for high travel speed processes such as robotic dispensing applications for window frame sealant and automotive sealant (under body coating, seam sealant).",
+    "url": "https://servo-robot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ENSURE THAT YOUR SERVO-ROBOT PRODUCT IS GENUINE.",
+    "url": "https://servo-robot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SUBSCRIBE TO THE SERVO-ROBOT NEWSLETTER TO RECEIVE ALL THE LATEST PRODUCT & EVENT NEWS.",
+    "url": "https://servo-robot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At SERVO-ROBOT, specialists from different fields find challenging, exciting and rewarding work. We welcome passionate and dynamic professionals to join our team!",
+    "url": "https://servo-robot.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "SERVO-ROBOT laser-vision systems are used to perform 3D joint tracking, robotic inspection, intelligent process control and monitoring in applications such as robotic arc and laser welding, laser brazing and robotic dispensing in various fields.",
+    "url": "https://servo-robot.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Providing innovative, durable, cost efficient technology for intelligent robotic processes.",
+    "url": "https://servo-robot.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1983, SERVO-ROBOT has established its world headquarters, production plant and research and development center in the St-Bruno Industrial Park, south of",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   },
+   {
+    "quote": ", Quebec, Canada. More than 95% of SERVO-ROBOT's products are exported outside of Canada every year.",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   },
+   {
+    "quote": "and factories to become more productive and reach their Six Sigma constant improvements goals.",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   },
+   {
+    "quote": "- Turbo prop engine casing",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   },
+   {
+    "quote": "Quality control of weld beads",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.visiononline.org/vision-resources-details.cfm/vision-resources/Welding-Vision-Systems-by-Nello-Zuech-Contributing-Editor/content_id/1184/id/2/category_id/52/newsType_id/0",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   },
+   {
+    "quote": "Servo-Robot Inc. Company Profile",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Policy Recommendations and Advocacy Principles",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "A3 Press Center",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Robot Safety Training",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Certified Vision Professional",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Certified Motion Control Professional (CMCP)",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Workforce Development",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Find Automation Products & Solutions",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Virtual Robot Safety & Risk Assessment Training",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Virtual (Live) Robot Safety for Collaborative Applications Training",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "In-House Robot Safety Training",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile Robots Safety Training",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "New Robotics Product Updates",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Vision Professional Certification (CVP)",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "New Vision Product Updates",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Vision & Imaging Videos",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Motion Control Professional Certification (CMCP)",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "New Motion Control Product Updates",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Motion Control & Motors Videos",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "New AI Product Updates",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Artificial Intelligence Videos",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "A3 Training Hub",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Robot Safety for Collaborative Applications Training",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile Robotics Safety Training",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "In-House Robotic Safety Training",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Very compact, high-speed 3D seam tracking system optimized for high travel speed processes such as robotic dispensing applications for window frame sealant and automotive sealant (under body coating, seam sealant).",
+    "url": "https://servo-robot.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1983, SERVO-ROBOT is the leading manufacturer of 3D robot-vision systems and software dedicated to real-time intelligent control and monitoring of industrial robots.",
+    "url": "https://servo-robot.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1983, SERVO-ROBOT has established its world headquarters, production plant and research and development center in the St-Bruno Industrial Park, south of",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   },
+   {
+    "quote": "Innovations developed in patents mentioned in the above section resulted in concrete solutions easily applicable to markets ranging from automotive to aerospace which has helped many companies",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   },
+   {
+    "quote": "and factories to become more productive and reach their Six Sigma constant improvements goals.",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing companies of Canada",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   },
+   {
+    "quote": "Designing Industrial AI Agents",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Ask the Industrial AI Experts",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Introduction to Industrial Robotics",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Website Design & Development by Amplify Industrial Marketing + Guidance.",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "サーボロボ・ジャパン株式会社 ｜大阪市の総合企業誘致・立地支援サイト - INVEST OSAKA",
+    "url": "https://www.investosaka.jp/list/00000034.html",
+    "pass": 3
+   },
+   {
+    "quote": "カナダのロボット関連企業「サーボ・ロボット社」が大阪市内に日本法人本社、「サーボロボ・ジャパン株式会社」を開設！",
+    "url": "https://www.investosaka.jp/list/00000034.html",
+    "pass": 3
+   },
+   {
+    "quote": "カナダの産業用ロボット関連企業「サーボロボ・インク」の日本法人本社・サーボロボ・ジャパン株式会社が大阪市内にオフィスを開設し、5月から業務を開始しました",
+    "url": "https://www.investosaka.jp/list/00000034.html",
+    "pass": 3
+   },
+   {
+    "quote": "特にレーザーセンサーと3次元レーザービジョンシステムの分野で優れた技術を保有しており、日本を含め世界の製造業に大きな貢献をしています",
+    "url": "https://www.investosaka.jp/list/00000034.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国、日本、韓国、中国、インド",
+    "url": "https://www.investosaka.jp/list/00000034.html",
+    "pass": 3
+   },
+   {
+    "quote": "SERVO-ROBOT Japan,",
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Servo - Robot — Servo - Robot Servo-Robot https://servo-robot.com",
+    "url": "https://servo-robot.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SERVO - ROBOT opens a Technical Center in Japan! — SERVO - ROBOT opens a Technical Center in Japan! Servo-Robot https://servo-robot.com > servo-robot...",
+    "url": "https://servo-robot.com/servo-robot-opens-a-technical-center-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーと販売 代理店 | SERVO - ROBOT Inc — パートナーと販売 代理店 | SERVO - ROBOT Inc Servo-Robot https://servo-robot.com > partners",
+    "url": "https://servo-robot.com/partners/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "販売 代理店 | SERVO - ROBOT Inc — 販売 代理店 | SERVO - ROBOT Inc Servo-Robot https://servo-robot.com > distributors",
+    "url": "https://servo-robot.com/distributors/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "SERVO - ROBOT INC. - LinkedIn — SERVO - ROBOT INC. - LinkedIn LinkedIn https://ca.linkedin.com > company > s...",
+    "url": "https://ca.linkedin.com/company/servo-robot-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "3D ROBOT -VISION SYSTEMS — 3D ROBOT -VISION SYSTEMS SERVO-ROBOT.com https://servo-robot.com > ...",
+    "url": "https://servo-robot.com/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Locations | SERVO - ROBOT Inc — Locations | SERVO - ROBOT Inc Servo-Robot https://servo-robot.com > locations",
+    "url": "https://servo-robot.com/locations/",
+    "pass": 3
+   },
+   {
+    "quote": "Servo - Robot Inc. Company Profile — Servo - Robot Inc. Company Profile A3 Association for Advancing Automation https://www.automate.org > companies",
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "pass": 3
+   },
+   {
+    "quote": "SERVO - ROBOT INC. - LinkedIn — SERVO - ROBOT INC. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/servo-robot-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Servo - Robot Corp. - The Fabricator — Servo - Robot Corp. - The Fabricator The Fabricator https://www.thefabricator.com > serv...",
+    "url": "https://www.thefabricator.com/directory/showroom/servo-robot-corp",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | SERVO - ROBOT Inc — About Us | SERVO - ROBOT Inc Servo-Robot https://servo-robot.com > about-us",
+    "url": "https://servo-robot.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Servo - Robot - 2026 Company Profile & Competitors - Tracxn — Servo - Robot - 2026 Company Profile & Competitors - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/servorobot/__mwa8LFfdmBC3zVdk9tqWdbCKfShrym5w_esqqw_Tpw4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SERVO - ROBOT INC. - LinkedIn SERVO - ROBOT INC. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/servo-robot-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "SERVO - ROBOT Inc. | LinkedIn SERVO - ROBOT Inc. | LinkedIn LinkedIn https://jp.linkedin.com > company > servo-robot-inc-",
+    "url": "https://jp.linkedin.com/company/servo-robot-inc-",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SERVO - ROBOT | Saint-Bruno-de-Montarville QC - Facebook SERVO - ROBOT | Saint-Bruno-de-Montarville QC - Facebook Facebook https://www.facebook.com > ... > Robotics Company",
+    "url": "https://www.facebook.com/ServoRobot/",
+    "pass": 3
+   },
+   {
+    "quote": "Servo - Robot Live Demos at FABTECH 2026 Las Vegas Booth ... Servo - Robot Live Demos at FABTECH 2026 Las Vegas Booth ... Facebook https://www.facebook.com > ... > SERVO-ROBOT > Videos",
+    "url": "https://www.facebook.com/ServoRobot/videos/servo-robot-at-fabtech-2026-in-las-vegasjoin-us-for-live-demos-of-servo-robot-in/1161158613523583/",
+    "pass": 3
+   },
+   {
+    "quote": "Come visit SERVO - ROBOT at FABTECH 2026 in Las Vegas ... Come visit SERVO - ROBOT at FABTECH 2026 in Las Vegas ... Facebook https://www.facebook.com > ServoRobot > posts > come-...",
+    "url": "https://www.facebook.com/ServoRobot/posts/come-visit-servo-robot-at-fabtech-2026-in-las-vegas-check-our-latest-3d-robot-vi/1862404904847192/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://servo-robot.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://servo-robot.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://servo-robot.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://servo-robot.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://servo-robot.com/wp-content/uploads/2024/03/Vector-World-Map2.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://servo-robot.com/partners/servo-robot.com/wp-content/uploads/2017/01/World-Map-03-01.png",
+    "status": "http_404",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.investosaka.jp/list/00000034.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://colab.co.jp/news/news/vlh2pg5zx0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investosaka.jp/list/00000034.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/servo-robot-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.investosaka.jp/list/00000034.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us.mitsubishielectric.com/fa/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yaskawa.eu.com/application",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kawasakirobotics.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appliedmfg.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automate.org/companies/servo-robot-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/servo-robot-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fruitcore-robotics.com/en/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/servorobot/__mwa8LFfdmBC3zVdk9tqWdbCKfShrym5w_esqqw_Tpw4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/servo-robot-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://investors.serverobotics.com/news-releases/news-release-details/serve-robotics-announces-first-quarter-2026-results-3x",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/servo-robot-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ServoRobot/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ServoRobot/videos/servo-robot-at-fabtech-2026-in-las-vegasjoin-us-for-live-demos-of-servo-robot-in/1161158613523583/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ServoRobot/posts/come-visit-servo-robot-at-fabtech-2026-in-las-vegas-check-our-latest-3d-robot-vi/1862404904847192/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/servo-robot-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Servo-Robot 日本 導入",
+   "results": [
+    "https://servo-robot.com/",
+    "https://servo-robot.com/servo-robot-opens-a-technical-center-in-japan/",
+    "https://www.investosaka.jp/list/00000034.html",
+    "https://colab.co.jp/news/news/vlh2pg5zx0/",
+    "https://www.nipponsteel.com/tech/report/sm/pdf/1a138001.pdf",
+    "https://iotnews.jp/manufacturing/243966/",
+    "https://kawasakirobotics.com/jp/products-kaddon/i-cube_t_power-trac4-0_quick-scan/",
+    "https://www.buffett-code.com/company/23d5nled95/",
+    "https://www.youtube.com/watch?v=Aru3IciDjFU"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Servo-Robot 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://servo-robot.com/partners/?lang=ja",
+    "https://servo-robot.com/distributors/?lang=ja",
+    "https://www.investosaka.jp/list/00000034.html",
+    "https://ca.linkedin.com/company/servo-robot-inc-",
+    "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "https://www.buffett-code.com/company/23d5nled95/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1792",
+    "https://www.sourceready.com/supplier/detail/servo-robot-gmbh",
+    "https://automa.net/company/servo-robot-inc",
+    "https://en.siasun.com/ja/会社概要.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Servo-Robot Japan",
+   "results": [
+    "https://servo-robot.com/?lang=ja",
+    "https://servo-robot.com/locations/",
+    "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "https://www.investosaka.jp/list/00000034.html",
+    "https://www.nipponsteel.com/tech/report/sm/pdf/1a138001.pdf",
+    "https://www.facebook.com/ServoRobot/posts/1821707312250285/",
+    "https://servo-robot.com/",
+    "https://www.linkedin.com/company/servo-robot-inc-",
+    "https://robotdb.robotstart.info/company_database/servorobot",
+    "https://www.janomeie.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Servo-Robot manufacturing customer case study",
+   "results": [
+    "https://us.mitsubishielectric.com/fa/en/resources/case-studies/",
+    "https://www.yaskawa.eu.com/application",
+    "https://kawasakirobotics.com/case-studies/",
+    "https://appliedmfg.com/case-studies/",
+    "https://www.fanuc.eu/eu-en/case-studies",
+    "https://www.universal-robots.com/case-stories/",
+    "https://www.motoman.com/en-us/about/media-center/case-studies",
+    "https://ifr.org/case-studies/industry-robots-case-studies",
+    "https://stacks.cdc.gov/view/cdc/128742/cdc_128742_DS1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Servo-Robot white label OR reseller OR partner program",
+   "results": [
+    "https://servo-robot.com/",
+    "https://www.automate.org/companies/servo-robot-inc",
+    "https://www.linkedin.com/company/servo-robot-inc-",
+    "https://www.fruitcore-robotics.com/en/whitelabel",
+    "https://www.thefabricator.com/directory/showroom/servo-robot-corp",
+    "https://tracxn.com/d/companies/servorobot/__mwa8LFfdmBC3zVdk9tqWdbCKfShrym5w_esqqw_Tpw4",
+    "https://www.youtube.com/watch?v=v-hhwzm4g-A",
+    "https://servo-robot.com/new-german-affiliate-servo-robot-gmbh/",
+    "https://kodyrobots.com/partner-with-us/",
+    "https://www.rockwellautomation.com/en-us/company/partnernetwork.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Servo-Robot founded funding employees revenue",
+   "results": [
+    "https://servo-robot.com/about-us/",
+    "https://tracxn.com/d/companies/servorobot/__mwa8LFfdmBC3zVdk9tqWdbCKfShrym5w_esqqw_Tpw4",
+    "https://ca.linkedin.com/company/servo-robot-inc-",
+    "https://investors.serverobotics.com/news-releases/news-release-details/serve-robotics-announces-first-quarter-2026-results-3x",
+    "https://multiples.vc/private-comps/agile-robots-ag",
+    "https://www.linkedin.com/posts/schwab-network_serve-robotics-serv-ceo-on-yy-revenue-activity-7460784050891493376-TXZC",
+    "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "https://newmarketpitch.com/blogs/news/robotics-top-revenue",
+    "https://growjo.com/company/READY_Robotics",
+    "https://www.zoominfo.com/c/servo-robot-inc/91570621"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Servo-Robot",
+   "results": [
+    "https://note.com/startuplog/n/n51841851b410",
+    "https://note.com/qy_research/n/nac34e1085792?hl=en",
+    "https://note.com/company_scope/n/n37f30ab1ec4f?hl=en",
+    "https://note.com/npaka/n/nf59d85ba3538?hl=en",
+    "https://note.com/npaka/n/n4d3851d2ad66?hl=en",
+    "https://note.com/npaka/n/n86eaf3d04766?hl=en",
+    "https://note.com/lucid_quokka6797/n/nf47f56abce94?hl=en",
+    "https://note.com/qy_research/n/n888f356b3a18?hl=en",
+    "https://note.com/embot/n/n2c77391aa165?hl=en",
+    "https://note.com/daija_/n/n185545f53e35?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Servo-Robot",
+   "results": [
+    "https://x.com/UnitreeRobotics/status/2094270984845185473",
+    "https://x.com/DilumSanjaya/status/2095556197877436703",
+    "https://x.com/CyberRobooo/status/2107130617284767847",
+    "https://x.com/DeRonin_/article/2095180126359105955",
+    "https://x.com/JulianSaks/article/2047060711851876600",
+    "https://x.com/DilumSanjaya/status/2080335531108716750",
+    "https://x.com/irvinxyz/article/2089198471290945584",
+    "https://x.com/oprydai/status/2095770740817543297?lang=bn",
+    "https://x.com/AGTPinsights/status/2114298123095056531",
+    "https://x.com/ServoProtocol"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Servo-Robot",
+   "results": [
+    "https://www.linkedin.com/company/servo-robot-inc-",
+    "https://www.linkedin.com/in/jeff-noruk-92a5747",
+    "https://ca.linkedin.com/in/cedricdemersroy",
+    "https://www.linkedin.com/in/shpejtim-avdiu",
+    "https://www.linkedin.com/pulse/application-analysis-advantages-disadvantages-servo-feetech-servo--0mzhc",
+    "https://www.linkedin.com/in/ting-li-23109a106",
+    "https://ca.linkedin.com/in/nataliya-pekar-7171252ab",
+    "https://in.linkedin.com/in/vaishnavi-reddy-kukkala-6b987a193",
+    "https://ca.linkedin.com/company/servo-robot-inc-",
+    "https://jp.linkedin.com/company/servo-robot-inc-"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Servo-Robot",
+   "results": [
+    "https://www.facebook.com/ServoRobot/",
+    "https://www.facebook.com/ServoRobot/videos/servo-robot-at-fabtech-2026-in-las-vegasjoin-us-for-live-demos-of-servo-robot-in/1161158613523583/",
+    "https://www.facebook.com/groups/tinkercad.unofficial/posts/1826374394797851/",
+    "https://www.facebook.com/ServoRobot/posts/come-visit-servo-robot-at-fabtech-2026-in-las-vegas-check-our-latest-3d-robot-vi/1862404904847192/",
+    "https://www.facebook.com/groups/710623908028293/posts/1112891981134815/",
+    "https://www.facebook.com/groups/137714776872278/posts/1569466933697048/",
+    "https://www.facebook.com/groups/873320370652494/posts/1705657340752122/",
+    "https://www.facebook.com/groups/raspberrypiguide/posts/1151889836387062/",
+    "https://www.facebook.com/FUNFTC/posts/2-servo-robot-lift-by-16917-gear-wizardsdecode-ftcdecode-ftcchallenge-firstupdat/1206209951633830/",
+    "https://www.facebook.com/ServoRobot/posts/1821707312250285/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Servo-Robot note 社長",
+   "results": [
+    "https://www.linkedin.com/in/jeff-noruk-92a5747",
+    "https://servo-robot.com/?lang=ja",
+    "https://digilent.com/reference/line-following_servo_robot_kit/line-following_servo_robot_kit?srsltid=AYCX9vILjBuK8WUj0OvysYqC6ZrnUKIv1lcAnRCW4SFJS_Ohh0JumHXY",
+    "https://en.wikipedia.org/wiki/Servo_Robot_Group",
+    "https://content.ndtsupply.com/assets/Uploads/WiKi-SCAN_2.0-Brochure.pdf",
+    "https://cdn.robotshop.com/media/d/dag/rb-dag-04/pdf/32-servo-robot-arm-controller-manual-ra001.pdf",
+    "https://www.en-plasinc.com/equipment/yushin-automation/yushin-robots-reference/yushin-ra-servo-robots/",
+    "https://www.youtube.com/watch?v=HgDEqlhjhrE",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://servo-robot.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Servo-Robot X 投稿",
+   "results": [
+    "https://servo-robot.com/?lang=ja",
+    "https://jp.linkedin.com/company/servo-robot-inc-",
+    "https://www.youtube.com/watch?v=YwUPvFcWgTw",
+    "https://www.thefabricator.com/directory/showroom/servo-robot-corp",
+    "https://servo-robot.com/news_events/?lang=ja",
+    "https://www.thingiverse.com/thing:2433",
+    "https://roboteurs.com/blogs/projects",
+    "https://www.servomagazine.com/magazine/article/i-built-a-military-robot",
+    "https://servo-robot.com/",
+    "https://x.com/ServoProtocol"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部21頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部21頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部21頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部21頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部21頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部21頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部21頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部21頁・検索12回）"
+ }
+}

@@ -1485,6 +1485,12 @@
 - 「EnginZymeは、このシュードウリジンを酵素プロセスで工業スケール製造する技術を開発し、日本の 味の素バイオ・ファーマ（Ajinomoto Bio-Pharma Services） をCDMOパートナーとして特許化プロセスを発表しています」（https://note.com/anri_vc/n/n69a397b68338）
 - 「前回の記事では、Cell-freeバイオモノづくりの基礎と、2024年11月にNasdaqにIPOしたeXoZymesの事例を紹介しました」（https://note.com/anri_vc/n/n69a397b68338）
 
+## Generative Bionics（https://gbionics.ai/）
+- 「Generative Bionics Unveils ‘Gene.01,’ a Smart-Skin Humanoid Robot for Human Collaboration | Physical AI News (Japan)」（https://physicalainews.jp/en/news/generative-bionics-unveils-gene-01-a-smart-skin-humanoid-robot-for-hum-a6449c）
+- 「Translated from the Japanese original:」（https://physicalainews.jp/en/news/generative-bionics-unveils-gene-01-a-smart-skin-humanoid-robot-for-hum-a6449c）
+- 「. The Japanese version is authoritative if they differ.」（https://physicalainews.jp/en/news/generative-bionics-unveils-gene-01-a-smart-skin-humanoid-robot-for-hum-a6449c）
+- 「点検や遠隔操作などEniの産業現場でのGENE.01活用、化学子会社Versalisの素材を使った足部の開発、Eni拠点での生産・組立や計算資源の利用を検討する」（https://humanoidrobot-world.com/robots/033.html）
+
 ## CeiliX（https://www.handlingreels.com/）
 - 「【本格ピッキング講座】🔐入門コース 総まとめ編 神技を会得せよ🇯🇵日本一の #鍵 開け師が解錠練習方法を伝授いたします💪 U9 picked locksports locksmith 神技」（https://www.youtube.com/watch?v=dRoijFIMQTU）
 - 「. Together with robotics partner Kassow Robots, a subsidiary of Bosch Rexroth, CeiliX aims to bring greater efficiency, safety and flexibility to modern intralogistics processes.」（https://packaging-journal.de/en/ceilix-co-operation-ceiling-and-floor-amr/）
@@ -1750,6 +1756,11 @@
 - 「日本も超高齢社会の只中にありますから、御社のサービスが役立つと思います」（https://techblitz.com/startup-interview/true-link-financial/）
 - 「Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...」（https://www.firstcvc.jp/global/truelinkfinancial.com）
 
+## Truebill（https://www.rocketmoney.com/）
+- 「購買履歴や請求書の自動読み込みによる節約の提案は、日本にはない機能、日本でも主婦層などの節約に敏感なユーザーには直接ヒットしそう」（https://note.com/tooshilow/n/n0f078c16b294）
+- 「Truebil raised funding from a Japanese firm worth $14M in January 2019.」（https://en.wikipedia.org/wiki/Truebil）
+- 「In September 2019 it raised $1 million from a Japanese venture capital firm Spiral Ventures.」（https://en.wikipedia.org/wiki/Truebil）
+
 ## Tractian（https://tractian.com/）
 - 「Tractian、OCIを活用し、数百ものAIモデルをより迅速かつ低コストで構築 | Oracle 日本」（https://www.oracle.com/jp/customers/tractian/）
 - 「Xona launched six satellites on a SpaceX Falcon 9 this Tuesday (October 20) and began deploying its commercial network. Four of these are for future customers, including Japan's Topcon, which makes positioning equipment for agriculture and construction. The remaining two are for verifying their own 」（https://note.com/startup_now0708/n/na1f9a03d9b13?hl=en）
@@ -1779,16 +1790,87 @@
 ## Tendo（https://tendo.app/）
 - 「I would be happy if you could get to know Tendo City as a candidate for a new travel destination, and I would be happy even if you just think, 'Oh, there is a place like this in Japan'.」（https://note.com/kappon_32/n/n8dc8c2fabb93?hl=en）
 
+## Teachwithkoala（https://www.teachwithkoala.com/）
+- 「As of Jun 2022, Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Hong Kong, Ireland, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Singapore, Sweden, Switzerland, UK, and USA.」（https://www.teachwithkoala.com/）
+
 ## Tamarind（https://www.tamarind.bio）
 - 「瀧井康勝『366日 誕生花の本』日本ヴォーグ社、1990年11月30日、232頁」（https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89）
 - 「｜旬のもの｜暦生活｜日本の季節を楽しむ暮らし」（https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89）
 - 「この記事では、タマリンドの基本から形態別の使い方、代用品、日本での入手方法まで、まとめて解説する」（https://kyodorecipe.com/ingredient-guide/tamarind/）
+
+## Talus（https://www.talus.bio）
+- 「日本流、フィジカルAIのつくり方」（https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device）
+- 「国を挙げて半導体産業振興を図るインドに日本はどう向き合えばよいのか」（https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device）
+- 「決算調査で判明、日本の大規模ITプロジェクトの真実」（https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device）
+
+## Synthflow（https://synthflow.ai）
+- 「Synthflowの料金・機能アップデート・代替ツール情報を日本語でお届けします」（https://oai-market.com/products/synthflow）
+- 「多言語に対応しているため、日本語以外のお客様にも自動で自然な会話ができ、海外とのやり取りやグローバル展開がスムーズに進められます」（https://oai-market.com/products/synthflow）
+- 「ビジネス電話自動化Synthflowとは⁉日本語対応や導入方法、活用事例まで徹底解説！ | ameboothのブログ」（https://ameblo.jp/amebooth/entry-12908377164.html）
+- 「With over 175,000+ vendors listed on G2, this is an indicator of a deep customer trust.」（https://synthflow.ai/company）
+
+## Svara（https://trysvara.com/）
+- 「While Jews have often been drawn to Eastern traditions, few dedicate nearly a decade to becoming a devout Buddhist in Japan. Lappe is hardcore. But before making her final commitment, she consulted with a rabbi in Tokyo who gave her a copy of “Pirkei Avot.”」（https://forward.com/news/459228/in-chicago-an-lgbtq-talmud-study-center-gets-a-pandemic-boost/）
+- 「Multilingual Support – English (US & UK), Hindi, Spanish, French, Japanese, Italian, Portuguese (Brazil), and Chinese.」（https://apps.apple.com/jp/app/ai-text-to-speech-svara/id6751228607?l=en-US）
+
+## SuiteDash（https://suitedash.com）
+- 「No Japanese / Sept 2026」（https://apps.apple.com/jp/app/covve-business-card-scanner/id1459654107）
+- 「Japanese 49yo f」（https://apps.apple.com/jp/app/covve-business-card-scanner/id1459654107）
+- 「日本語を正確に読み取りできるが、アプリ自体にはまだ日本語設定がないので星-1にしました」（https://apps.apple.com/jp/app/covve-business-card-scanner/id1459654107）
+- 「, a United Arab Emirates based Professional Services organisation with 4000 employees and revenues of $500.0 million,」（https://www.appsruntheworld.com/customers-database/products/view/suitedash）
+
+## Southie Autonomy（https://southieautonomy.com/）
+- 「日本流、フィジカルAIのつくり方」（https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00006/00019/）
+- 「国を挙げて半導体産業振興を図るインドに日本はどう向き合えばよいのか」（https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00006/00019/）
+- 「決算調査で判明、日本の大規模ITプロジェクトの真実」（https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00006/00019/）
+
+## Societies（https://societies.io）
+- 「Japanese Society Structure, Norms and Daily Life - World Culture Post」（https://www.worldculturepost.com/2026/03/japanese-society-structure.html）
+- 「Japanese Society Structure, Norms and Daily Life」（https://www.worldculturepost.com/2026/03/japanese-society-structure.html）
+- 「An in-depth look at how hierarchy, harmony, and everyday practices shape Japanese society and influence modern life in Japan.」（https://www.worldculturepost.com/2026/03/japanese-society-structure.html）
+
+## SocialPilot（https://www.socialpilot.co）
+- 「SocialPilotの料金・機能アップデート・代替ツール情報を日本語でお届けします」（https://oai-market.com/products/socialpilot）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/socialpilot/case-studies）
+
+## Smyte（http://smyte.com）
+- 「Twitter、嫌がらせ対策など手掛ける新興企業Smyteを買収 - CNET Japan」（https://japan.cnet.com/article/35121347/）
+- 「Continue to CNET Japan」（https://japan.cnet.com/article/35121347/）
+- 「を朝日インタラクティブが日本向けに編集したものです」（https://japan.cnet.com/article/35121347/）
 
 ## Slang（https://slang.ai）
 - 「日本語スラングの意味と使い方, 2026年ガイド」（https://wordy.info/ja/blog/japanese-slang）
 - 「日本語スラング: 覚えておきたい表現20選以上」（https://wordy.info/ja/blog/japanese-slang）
 - 「最重要の日本語スラングは、やばい（yabai）です」（https://wordy.info/ja/blog/japanese-slang）
 - 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/slangai/case-studies）
+
+## Sixtyfour（https://sixtyfour.ai/）
+- 「日本語、他17言語」（https://store.steampowered.com/app/2659900/Sixty_Four/?l=japanese）
+
+## Siglo（https://siglo.com/）
+- 「足柄製作所では、日本国産映画フィルム製造開始より映画フィルム用保存容器を製造してきました」（https://siglo.jp/）
+
+## Shef（https://www.shef.com）
+- 「Japanese television cooking show」（https://en.wikipedia.org/wiki/Iron_Chef）
+- 「This article is about the Japanese cooking show. For other versions, see」（https://en.wikipedia.org/wiki/Iron_Chef）
+- 「is a Japanese television」（https://en.wikipedia.org/wiki/Iron_Chef）
+- 「as a Judge that were shown on Food Network were not listed on FilmRise.」（https://en.wikipedia.org/wiki/Iron_Chef）
+
+## Salsify（https://www.salsify.com）
+- 「Ecommerce stores using Salsify in Japan」（https://storeleads.app/reports/technology/Salsify/country/JP）
+- 「Salsify is currently installed on 5 ecommerce stores in Japan.」（https://storeleads.app/reports/technology/Salsify/country/JP）
+- 「Here are the top 5 stores in Japan running Salsify ordered by store rank.」（https://storeleads.app/reports/technology/Salsify/country/JP）
+
+## Safetywing（https://www.safetywing.com）
+- 「【※日本語解説】海外旅行保険セーフティーウィング（Safetywing）を日本語で解説するサイト」（https://xn--dckai5bxcvd6e8ktcd.com/）
+- 「英語のサイトだけど、申し込み方法を日本語で解説してほしい」（https://xn--dckai5bxcvd6e8ktcd.com/）
+- 「本記事はそんな疑問に、実際に加入・利用した経験をもとに日本語でお答えします」（https://xn--dckai5bxcvd6e8ktcd.com/）
+- 「Fleet serves fast-growing startups, scaling SMBs and international companies. Typically they have 10 to 1,000 employees with distributed or international teams. The platform is built for speed, not bureaucracy.」（https://fleet.co/en/our-clients/customerstory-safetywing）
+
+## Ringlyn（https://www.ringlyn.com）
+- 「Ringlyn supports 6 languages: English, Spanish, French, German, Japanese, and Hindi. Our speech recognition is trained on diverse accents for each language, ensuring accurate understanding across different regions.」（https://www.ringlyn.com/）
+- 「English, Spanish, French, German, Hindi, and Japanese out of the box — an immediate upsell in any market with a bilingual customer base.」（https://www.ringlyn.com/agency/）
+- 「Answer in English, Spanish, French, German, Hindi, and Japanese — an easy upsell in any market with a bilingual customer base.」（https://www.ringlyn.com/white-label-ai-receptionist/）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

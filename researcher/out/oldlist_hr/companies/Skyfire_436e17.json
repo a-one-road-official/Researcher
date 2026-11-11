@@ -1,0 +1,1209 @@
+{
+ "name": "Skyfire",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-11T07:38:03.585569+00:00",
+ "official_url": "https://skyfire.xyz",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都港区新橋3−3−13\nTsao Hibiya 8階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000073.000037639.html",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/skyfire",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2015年03月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000073.000037639.html",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2024",
+    "url": "https://startupintros.com/orgs/skyfire",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "give your agent programmatic access and log-in capabilities to websites, applications and agent protocols",
+    "url": "https://skyfire.xyz/",
+    "pass": 1
+   },
+   {
+    "quote": "emerging agentic protocols. Skyfire partners with all major credit card networks to allow tokenized card",
+    "url": "https://skyfire.xyz/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your agents controlled access with a standardized open identity protocol designed to",
+    "url": "https://skyfire.xyz/",
+    "pass": 1
+   },
+   {
+    "quote": "platform, agent, and human principal identities along with user mandates to allow seamless access at scale,",
+    "url": "https://skyfire.xyz/",
+    "pass": 1
+   },
+   {
+    "quote": "User mandate for merchant, product, and amount. Agentic Wallet authorizes tokenized card",
+    "url": "https://skyfire.xyz/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprises should have business rules, logic, and budgets to manage agent transactions.",
+    "url": "https://skyfire.xyz/about/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents must be able to discover and hire resources to accomplish complex tasks without human intervention.",
+    "url": "https://skyfire.xyz/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Skyfire provides this critical missing infrastructure for a market that is set to outpace traditional human-to-human commerce in size and speed.",
+    "url": "https://skyfire.xyz/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Skyfire is built by a team of visionary engineers, AI experts, and fintech pioneers committed to revolutionizing AI commerce. Our experience spans AI infrastructure, payments, and digital identity, ensuring we create a future-proof solution for autonomous transactions.",
+    "url": "https://skyfire.xyz/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We hire remarkable people from diverse backgrounds. If you’re looking for a high impact role at a fast-growing startup, we’d love to hear from you.",
+    "url": "https://skyfire.xyz/about/",
+    "pass": 1
+   },
+   {
+    "quote": "As an early member of the Business Development team, you will drive the full sales cycle to secure high-value partnerships and reference customers within the AI-native and agentic commerce ecosystem. You will shape Skyfire's go-to-market strategy, evangelize the brand at industry events, and establish repeatable sales motions for programmable payment solutions.",
+    "url": "https://skyfire.xyz/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate repetitive tasks to improve efficiency and maintain consistent, secure operations.",
+    "url": "https://skyfire.xyz/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Design and demo AI agents and services using Skyfire and KYAPay, including research, prototyping, and customer/partner integrations.",
+    "url": "https://skyfire.xyz/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Support users with onboarding, documentation, testing, and real-world implementations.",
+    "url": "https://skyfire.xyz/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Represent the platform publicly, educate the community, and gather feedback to improve products.",
+    "url": "https://skyfire.xyz/about/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents need instant access to websites, API services, data and tools - but today's payment systems aren't built for them. Skyfire eliminates the need for human intervention, pre-configured accounts, or existing subscriptions, allowing agents to access and pay for what they need.",
+    "url": "https://skyfire.xyz/use-case/",
+    "pass": 1
+   },
+   {
+    "quote": ": Design and implement demos, videos, and reference implementations of AI agents and services using Skyfire and For example,",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "Conduct protocol research and create prototypes",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "Review existing standards and RFCs; Research new and emerging AI-related protocols and technologies; Prepare prototypes that demonstrate their inter-operation with Skyfire and KYAPay. For example,",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": ": Guide and help our customers set up and use Skyfire and KYAPay by answering questions, providing live help, preparing recipes, and/or implementing and sharing running examples. For example,",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": ": Guide and help our Web Security vendor partners integrate KYAPay tokens into their workflows by answering questions, providing live help, preparing recipes, and/or implementing and sharing running examples. For example,",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure that we ship a quality product",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": ": Create and maintain the documentation for Skyfire and KYAPay and augment it with recipes, demos, reference implementations and prototypes that we develop so customers have a rich set of resources to build with Skyfire and",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "Represent and present",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": ": Represent and present Skyfire and KYAPay at events, meetups, hackathons, online forums, and the like.",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": ": Demystify agentic commerce, Skyfire’s platform and the KYAPay protocol, explain benefits, and share best practices through presentations, articles, tutorials, and videos.",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": ": Collect and relay valuable user and community feedback to internal teams, including product management and engineering, to help improve the",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "Product development skills",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": ": The ability to rapidly prototype and iterate AI-driven features that translate business requirements into deployable product solutions.",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": ": The ability to apply quick, analytical troubleshooting to debug AI prototypes under time constraints for smooth demos and reliable reference implementations.",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": ": The ability to build engaging and easy-to-understand demos and reference implementations along with explanatory videos and written descriptions.",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": ": A proactive and outgoing persona focused on building",
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "pass": 1
+   },
+   {
+    "quote": "You don't have permission to access \"http://www.akamai.com/ja/newsroom/press-release/no-free-crawls-akamai-tollbit-and-skyfire-turn-traffic-into-revenue\" on this server.",
+    "url": "https://www.akamai.com/ja/newsroom/press-release/no-free-crawls-akamai-tollbit-and-skyfire-turn-traffic-into-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SwissQprint社：高速フラットベッド「Kudu」を発表",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "Residential Project Manager",
+    "url": "https://www.casestudies.com/customer/skyfire-energy",
+    "pass": 3
+   },
+   {
+    "quote": "A robot followed a programmed path while laser energy melted ordinary carbon-steel welding wire onto the base.",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing is often reduced to the phrase \"3D printing,\" but the industrial definition is wider.",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "In this case, the goal was not to print a complete new part. The goal was directed deposition on an",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "existing substrate: rebuild the missing surface, keep heat input under control, and preserve the value",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "scrapping the part would mean losing the material, fabrication, machining time, and project schedule.",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic laser wire deposition offered a practical middle path: add material only where needed, then",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "Programmed deposition first, precision machining second.",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Program the robot path",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "It is not finished-shape 3D printing.",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "The process restores material on an existing high-value part",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "The robot program controls deposition location, not the final surface roughness",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "The star, circle, and heart samples are used for operator training and process practice.",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "They are not decorative only: each shape forces the team to control a different problem in",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "Curves, a central valley, and a pointed bottom make it a compact practice part for multi-layer path control.",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision comes from the full chain.",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic laser deposition gives repeatable material placement. Final precision still depends on measuring",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "Residential Project Manager",
+    "url": "https://www.casestudies.com/company/scoop-solar/case-study/how-skyfire-energy-reinforced-a-culture-of-trust-through-a-central-operations-hub",
+    "pass": 3
+   },
+   {
+    "quote": "At 702SEO, we can actually PROVE that we can get the job done. Before choosing your SEO company, always ask for proven CASE STUDIES of work done successfully.",
+    "url": "https://www.skyfireusa.com/case-studies-2/",
+    "pass": 3
+   },
+   {
+    "quote": "to see our success with Media One Pro.",
+    "url": "https://www.skyfireusa.com/case-studies-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Steve Kim is awarded “Entrepreneur of the Year” at the 2013 Business Excellence Forums",
+    "url": "https://www.skyfireusa.com/case-studies-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire delivers an Agentic Commerce Platform, enabling AI to autonomously process payments, verify identities, and access services. It provides crucial financial infrastructure through autonomous payments and Know Your Agent (KYA) identity verification. This allows AI agents to operate and transact independently within the real economy, fostering new digital commerce.",
+    "url": "https://startupintros.com/orgs/skyfire",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded by CEO Amir Sarhangi, alongside Craig DeWitt (Product) and Ankit Agarwal (Engineering). This team of experienced engineers and fintech veterans recognized a critical need for AI financial infrastructure. Their collective experience led to Skyfire, a platform enabling AI agents to conduct secure, global, and instant transactions independent of traditional systems.",
+    "url": "https://startupintros.com/orgs/skyfire",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire serves developers building AI agents and businesses seeking new revenue from the expanding AI market. Its vision is to establish a fully autonomous AI economy. Providing a trusted network for financially empowered, verified agents, the company aims to be the foundational layer for all future AI-driven commercial interactions.",
+    "url": "https://startupintros.com/orgs/skyfire",
+    "pass": 3
+   },
+   {
+    "quote": ": Assigns unique digital wallets to each AI agent, preloadable with USDC or fiat (converted under the hood), enabling instant, low-cost transactions for services like cloud compute or APIs without bank accounts.[1][2][5][7]",
+    "url": "https://startupintros.com/orgs/skyfire",
+    "pass": 3
+   },
+   {
+    "quote": ": Enforces spending limits per transaction or period, pings humans for overspends, maintains activity logs to prove \"good actor\" status, and offers KYA identity for agent verification.[2][5][7]",
+    "url": "https://startupintros.com/orgs/skyfire",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "By enabling transactions between AI agents and digital resources of all kinds including LLMs, data platforms, websites, and API services, we're building the critical infrastructure for the AI Economy. Developers can create AI agents capable of handling complex tasks, creating accounts, paying for services and data, and earning revenue.",
+    "url": "https://skyfire.xyz/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Skyfire is not just changing how AI interacts with the world—it is opening new revenue streams for businesses by giving them access to the world’s fastest-growing consumer base: AI agents.",
+    "url": "https://skyfire.xyz/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Skyfire enables AI agents to transact autonomously, access services seamlessly, and unlock new revenue opportunities for businesses and developers.",
+    "url": "https://skyfire.xyz/use-case/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated revenue collection and distribution.",
+    "url": "https://skyfire.xyz/use-case/",
+    "pass": 1
+   },
+   {
+    "quote": "（NASDAQ: FSLY）と、AI エージェント向けのアイデンティティおよび決済インフラを提供するエージェンティック コマース プラットフォームの Skyfire は本日、エッジにおける信頼性の高いエージェンティック コマースの実現に向けた新たなパートナーシップを発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000073.000037639.html",
+    "pass": 3
+   },
+   {
+    "quote": "You don't have permission to access \"http://www.akamai.com/ja/newsroom/press-release/no-free-crawls-akamai-tollbit-and-skyfire-turn-traffic-into-revenue\" on this server.",
+    "url": "https://www.akamai.com/ja/newsroom/press-release/no-free-crawls-akamai-tollbit-and-skyfire-turn-traffic-into-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Parts where post-deposition machining is already part of the acceptance route",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire serves developers building AI agents and businesses seeking new revenue from the expanding AI market. Its vision is to establish a fully autonomous AI economy. Providing a trusted network for financially empowered, verified agents, the company aims to be the foundational layer for all future AI-driven commercial interactions.",
+    "url": "https://startupintros.com/orgs/skyfire",
+    "pass": 3
+   },
+   {
+    "quote": "(Note: An unrelated earlier Skyfire, a mobile browser and network optimization firm founded in 2007, was acquired by Opera in 2013 and rebranded; it is distinct from this AI payments company.[3])",
+    "url": "https://startupintros.com/orgs/skyfire",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Skyfire Systems have?",
+    "url": "https://fundediq.co/skyfire-systems-skyfire-xyz-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/skyfire-systems-skyfire-xyz-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/skyfire-systems-skyfire-xyz-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "For Skyfire fans, their music is not just entertainment. It is a part of life and a journey of sound. For new listeners, I recommend starting with the album 'Timeless Departure.' If you follow the evolution of their music from there and continue listening to 'Mind Revolution' and then 'Spectral,' you will clearly understand how they have grown and changed.",
+    "url": "https://note.com/coyass/n/n8cb6e529b68c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a general review after leveling a Warrior and Druid to level 51.",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of balance, it's a combination where the Warrior tanks and the Druid heals. I think it's quite strong.",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It seems it would be easier to adjust how much DD the Druid casts depending on how sturdy the Warrior is.",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I chose Pegasus for the Warrior and Drake for the Druid as is standard.",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Fastly と Skyfire が提携、検証済みアイデンティティにより信頼性の高い「エージェンティック コマース」をエッジで実現 | ファストリー株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000073.000037639.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内では日本経済新聞社、ぐるなび、サイバーエージェント、海外では Reddit、Universal Music Group など、世界的に著名な企業が Fastly のサービスを通じてインターネット体験を向上させています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000073.000037639.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区新橋3−3−13",
+    "url": "https://prtimes.jp/main/html/rd/p/000000073.000037639.html",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial Revolution with Inkjet !",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by SkyFire Energy",
+    "url": "https://www.casestudies.com/customer/skyfire-energy",
+    "pass": 3
+   },
+   {
+    "quote": "This was additive manufacturing used as remanufacturing.",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive manufacturing is often reduced to the phrase \"3D printing,\" but the industrial definition is wider.",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "Scoop Solar Case Study: SkyFire Energy – How SkyFire Energy Reinforced a Culture of Trust Through a Central Operations Hub | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/scoop-solar/case-study/how-skyfire-energy-reinforced-a-culture-of-trust-through-a-central-operations-hub",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how SkyFire Energy used Scoop Solar",
+    "url": "https://www.casestudies.com/company/scoop-solar/case-study/how-skyfire-energy-reinforced-a-culture-of-trust-through-a-central-operations-hub",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/scoop-solar/case-study/how-skyfire-energy-reinforced-a-culture-of-trust-through-a-central-operations-hub",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/scoop-solar/case-study/how-skyfire-energy-reinforced-a-culture-of-trust-through-a-central-operations-hub",
+    "pass": 3
+   },
+   {
+    "quote": "Early customers include Denso Corp., and Skyfire's SDK enables quick integration, fueling growth in the burgeoning AI commerce sector.[2]",
+    "url": "https://startupintros.com/orgs/skyfire",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/skyfire-systems-skyfire-xyz-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "温度が最適に近い限り、ヘッド自体の正確なインク温度の維持を心配する必要がなくなるため、OEMにとってインク管理の簡素化に役立つはずだ",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "Wozny氏によれば、これらはグレースケール印刷における現実の生産速度であり、ラボ以外では再現が難しい理論的な数字ではなく、OEM印刷システムの設計者がシステムを計画する際に使用できるものだという",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "ウォズニーは、OEMが複数のヘッドを非常に近くに配置できるように設計されていると説明する： 「私たちはプリントヘッドの端から 5mmのところに 1列目の噴射口を設けています",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "マウンティングシステムは、ヘッドを上部または下部のどちらからでも印刷キャリッジに挿入できるように設計されているため、OEMは設計の柔軟性を高めることができる",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "ヘッドの最終的な位置合わせは OEMに任されているが、ウォズニーはこう付け加えた： 「このプリントヘッドには SGシリーズと同じ高精度アライメント機能があります」",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "これは、必要に応じてヘッドを現場で交換できることを意味するはずだが、それは主に各OEMの印刷機全体の設計による",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "ディマティックスは、OEMが独自の波形を自由に開発できるよう、オープン波形アプローチを好んでいる",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "すでに多くの OEMが、シングルパス捺染印刷、フレキシブルパッケージング、段ボールパッケージング、コーディング・マーキングなど、さまざまなアプリケーションでスカイファイヤーヘッドを使用している",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "中国の OEMの一つである KingTは、サインやディスプレイ、またコンピュータマウスや模型部品などの販促品を含むニッチな用途向けの UVフラットベッドプリンターである KGT 2513に SkyFireを採用することをすでに発表している",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "Dimatixは、SkyFireに対する市場の反応を評価するために、過去 1年間、すでにいくつかの他の OEMと協力してきた",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "ウォズニーはこう付け加えた： 「我々は、これまで協力してきた一握りの OEMと引き続き協力し、彼らのニーズを満たすプリントヘッドを提供していく",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "今年の後半には、他の OEMにもプリントヘッドを提供する予定です」",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "(Note: An unrelated earlier Skyfire, a mobile browser and network optimization firm founded in 2007, was acquired by Opera in 2013 and rebranded; it is distinct from this AI payments company.[3])",
+    "url": "https://startupintros.com/orgs/skyfire",
+    "pass": 3
+   },
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/skyfire-systems-skyfire-xyz-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Fastly と Skyfire が提携、検証済みアイデンティティにより信頼性の... — Jun 15, 2026 · Fastly と Skyfire は共同で、AI エージェントによるトラフィックを、潜在的なセキュリティリスクから「身元が保証された、収益化可能なチャネル ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000073.000037639.html",
+    "pass": 3
+   },
+   {
+    "quote": "Akamai、TollBit、Skyfire の連携でトラフィックの収益化を実現、生成... — Sep 22, 2025 · Akamai の検知機能や制御機能を Skyfire のアイデンティティおよびトランザクションモデルと統合することで、パブリッシャーなどの Web サイトは AI トラフィックの把握と収益の確保を両立し、安全かつ着実に実現するためのツールを入手できます。",
+    "url": "https://www.akamai.com/ja/newsroom/press-release/no-free-crawls-akamai-tollbit-and-skyfire-turn-traffic-into-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SkyfireがAIエージェントにお金を使わせる時代が到来｜生成AI活用研究... — Aug 27, 2024 · Skyfireは現在、B2Bユースケースに焦点を当てており、AIエージェントを利用した自律的な購買や支払いをサポートしています。 たとえば、自動車部品メーカーのDensoでは、AIエージェントが材料を自動的に調達するプロセスを実現しています。",
+    "url": "https://note.com/genaird/n/na1889b6502a5",
+    "pass": 3
+   },
+   {
+    "quote": "Dimatix：SkyFireプリントヘッドを発表 - 大野インクジェットコンサル... — May 30, 2024 · この工場はシリコン MEM製造のために特別に設立され、富士フイルムは両方のプリントヘッドを製造する能力を高めるために、ここ数年で拡張した。 しかし、Sambaとは異なり、SkyFireの最終組立はニューハンプシャー州にある Dimatixのメイン工場で行われる。",
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "pass": 3
+   },
+   {
+    "quote": "EDC Flashlight SKYFIRE — With a fully integrated manufacturing system and advanced R&D capabilities, our main goal is to promote our own brand, find distributors in different countries, and then work together to promote SKYFIRE.",
+    "url": "https://www.skyfiretorch.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire: The Agent Trust Stack — Skyfire gives AI agents verified identity and payment credentials that work across the open internet. No 403 errors. No blocked checkouts. Just authenticated access and real transactions, everywhere.",
+    "url": "https://skyfire.xyz/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring SkyFire Energy as the Customer — Explore case studies featuring SkyFire Energy as the customer — learn how vendors and partners helped SkyFire Energy solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/skyfire-energy",
+    "pass": 3
+   },
+   {
+    "quote": "Robotic Laser Wire Additive Repair Case | SkyFire Robotic Welding — Case study from Huangshi, Hubei: robotic laser wire additive repair restored machining allowance on a large bridge component, with training samples for complex deposition paths.",
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "pass": 3
+   },
+   {
+    "quote": "Scoop Solar Case Study: SkyFire Energy – How SkyFire Energy ... — SkyFire Energy (Renewables & Environment) partnered with Scoop Solar (Internet) to solve key challenges. \"How SkyFire Energy Reinforced a Culture of Trust Through a Central Operations Hub\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/scoop-solar/case-study/how-skyfire-energy-reinforced-a-culture-of-trust-through-a-central-operations-hub",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Skyfire — At 702SEO, we can actually PROVE that we can get the job done. Before choosing your SEO company, always ask for proven CASE STUDIES of work done successfully. To view a sample, click here to see our success with Media One Pro.",
+    "url": "https://www.skyfireusa.com/case-studies-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire - 2026 Company Profile, Team, Funding & Competitors ...Skyfire – Financial Footprint & Growth Factors – 2026Skyfire: Funding, Team & Investors | Startup IntrosSkyfire Systems: Funding, Investors & Team (Oct 2026)Skyfire Systems — Company Profile, Funding & InvestorsSkyfire Systems - Crunchbase Company Profile & FundingSkyfire - 2025 Company Profile, Funding & Competitors - Tracxn — Jun 15,",
+    "url": "https://tracxn.com/d/companies/skyfire/__-gSNwLdAbLR2EH3jQO5ja24BZ2dqjmKWC_BS3-4pf1s",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire – Financial Footprint & Growth Factors – 2026 — Discover Skyfire's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/skyfire",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire: Funding, Team & Investors | Startup Intros — Apr 15, 2026 · Skyfire was co-founded in 2024 by Amir Sarhangi (CEO) and Craig DeWitt, both former executives at Ripple Labs where they helped build a cross-border payments network processing over $50B.",
+    "url": "https://startupintros.com/orgs/skyfire",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire Systems: Funding, Investors & Team (Oct 2026) — Skyfire Systems is an Artificial Intelligence company in San Francisco, United States. Raised $8.5M across 1 round; latest a Seed in Aug 2024.",
+    "url": "https://fundediq.co/skyfire-systems-skyfire-xyz-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire Systems — Company Profile, Funding & Investors — Skyfire Systems company profile with $9M raised across 2 funding rounds, HQ in San Francisco, United States, founded 2022. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/skyfire-systems",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Web and email design for a smartphone and tablet world",
+    "url": "https://www.skyfireusa.com/case-studies-2/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Skyfire Systems team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/skyfire-systems-skyfire-xyz-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/skyfire-systems-skyfire-xyz-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【Skyfire】｜Dr.COYASS - note（ノート） Skyfire is a band from Sweden, and they are known to those in the know in the melodic death metal scene. Their debut album, 'Timeless Departure,' captured the hearts of listeners at once with its sophisticated melody lines and technical performance.",
+    "url": "https://note.com/coyass/n/n8cb6e529b68c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SkyfireがAIエージェントにお金を使わせる時代が到来｜生成AI活用研究... Aug 27, 2024 · 本記事はSkyfire lets AI agents spend your moneyの解説記事となります。 AIエージェントの活用が進む中、現在の大きな課題の一つは決済の制約です。 AIエージェントが旅行を計画することは可能でも、実際に支払いを行う際には人間が介入しなければなりません。",
+    "url": "https://note.com/genaird/n/na1889b6502a5",
+    "pass": 3
+   },
+   {
+    "quote": "[EQ Might][WAR/DRU@15] Our adventure is just beginning! lol For Skyfire, the question is whether mana will hold out. I feel like it might be possible to overcome it depending on how much I can strengthen them with augments.",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/coyass/n/n8cb6e529b68c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Skyfire: Melodic Death Metal that Colors My Musical Journey】",
+    "url": "https://note.com/coyass/n/n8cb6e529b68c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you know this artist, your musical taste is extremely sharp. If you haven't listened to Skyfire yet, you might be missing out on a significant experience in your musical life. Their music shines within the melodic death metal genre, and their unique sound is sure to capture the hearts of metal fans. Every time you encounter their songs, you will feel as if you are being swallowed by a flood of ",
+    "url": "https://note.com/coyass/n/n8cb6e529b68c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I first encountered Skyfire during my high school years. At that time, I was deeply immersed in both metal and hip-hop, searching for my own musical identity. It was my daily routine to visit CD shops with friends after school, and that day I was looking for something new. Then, I came across Skyfire's debut album, 'Timeless Departure' (2001), which was quietly lined up in the corner of a shelf. D",
+    "url": "https://note.com/coyass/n/n8cb6e529b68c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The moment I put the CD in the player, I was shocked. The sound I heard for the first time was melodic yet intense, and somehow sentimental. The song 'Fragments of Time,' in particular, was full of a sense of speed from the opening, with symphonic keyboards and powerful riffs intertwined exquisitely. Every time I listen to this song, I feel a sense of excitement.",
+    "url": "https://note.com/coyass/n/n8cb6e529b68c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire is a band from Sweden, and they are known to those in the know in the melodic death metal scene. Their debut album, 'Timeless Departure,' captured the hearts of listeners at once with its sophisticated melody lines and technical performance.",
+    "url": "https://note.com/coyass/n/n8cb6e529b68c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After that, Skyfire evolved further with the release of 'Mind Revolution' in 2003. This album featured more complex structures and precise arrangements, expanding the band's musical range. 'Haunted by Shadows' and 'Blinded by Euphories' demonstrate their diverse musical approach. 'Blinded by Euphories' is particularly impressive for its emotional melody, which never fades no matter how many times ",
+    "url": "https://note.com/coyass/n/n8cb6e529b68c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even after entering university, Skyfire's music was indispensable to my life. Every day, busy with balancing my studies and band activities, their songs were a source of healing and energy for me. Sometimes, I would listen to their music alone late at night and think about my future musical activities.",
+    "url": "https://note.com/coyass/n/n8cb6e529b68c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SkyfireがAIエージェントにお金を使わせる時代が到来｜生成AI活用研究部",
+    "url": "https://note.com/genaird/n/na1889b6502a5",
+    "pass": 3
+   },
+   {
+    "quote": "SkyfireがAIエージェントにお金を使わせる時代が到来",
+    "url": "https://note.com/genaird/n/na1889b6502a5",
+    "pass": 3
+   },
+   {
+    "quote": "本記事については生成AIを活用して生成された記事となります。解説内容の正確性については読者ご自身でご確認いただきますようお願いいたします。",
+    "url": "https://note.com/genaird/n/na1889b6502a5",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire lets AI agents spend your money",
+    "url": "https://note.com/genaird/n/na1889b6502a5",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェントの活用が進む中、現在の大きな課題の一つは決済の制約です。AIエージェントが旅行を計画することは可能でも、実際に支払いを行う際には人間が介入しなければなりません。Skyfire Systemsはこれを変えるために、AIエージェントが自律的に取引を行える決済ネットワークを構築しました。本記事では、Skyfireの新たな決済システムとその可能性について詳しく解説します。",
+    "url": "https://note.com/genaird/n/na1889b6502a5",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfireは各AIエージェントにデジタルウォレットを割り当て、企業が設定した予算内でのみエージェントが支出できるように設計されています。また、支出の上限や時間内の総額制限を設定できるため、AIエージェントが過剰な支出を行うことを防止します。AIエージェントが設定された制限を超える支出を試みると、人間による確認が求められます。",
+    "url": "https://note.com/genaird/n/na1889b6502a5",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfireの決済ネットワークはブロックチェーン技術を活用しており、デジタル安定通貨（USDC）を使用して取引を行います。このプラットフォームでは、各取引から2%から3%の手数料を徴収し、収益を得ています。",
+    "url": "https://note.com/genaird/n/na1889b6502a5",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfireは現在、B2Bユースケースに焦点を当てており、AIエージェントを利用した自律的な購買や支払いをサポートしています。たとえば、自動車部品メーカーのDensoでは、AIエージェントが材料を自動的に調達するプロセスを実現しています。",
+    "url": "https://note.com/genaird/n/na1889b6502a5",
+    "pass": 3
+   },
+   {
+    "quote": "[EQ Might][WAR/DRU@15] Our adventure is just beginning! lol｜ぎんで",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[EQ Might][WAR/DRU@15] Our adventure is just beginning! lol",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a general review after leveling a Warrior and Druid to level 51.",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "T0 Leveling (up to level 44)",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of balance, it's a combination where the Warrior tanks and the Druid heals. I think it's quite strong.",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since I was leveling with a Ranger and Druid as a group of four halfway through, my evaluation of just the two of them is hypothetical, but I felt that the balance doesn't pale in comparison to other duos like Paladin/Enchanter or Monk/Shaman.",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While I think the DPS is modest and hate generation can be a bit weak, I didn't find it to be much of a problem while using them normally in this level range.",
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Skyfire (@trySkyfire) / X 🤝 We’re thrilled to announce a new partnership with Skyfire, the world’s only payment network built for the AI Agent economy. “At Emergence AI, our mission is to push the boundaries of autonomous agent technology to drive transformative solutions across industries.",
+    "url": "https://x.com/trySkyfire",
+    "pass": 3
+   },
+   {
+    "quote": "SkyFire (@SkyfireTheWolf) / X Specky Spark 1 114 SkyFire @SkyfireTheWolf Jun 25 Curious does anyone else have that one song you and your lover connects to immediately ️ ️ I can start with mine me and the love of my life thul always connect and sing together to @whsprsmusic song league of legendary failures",
+    "url": "https://x.com/SkyfireTheWolf",
+    "pass": 3
+   },
+   {
+    "quote": "Kazoo Skyfire (@KazooSkyfire) / X Kazoo Skyfire @KazooSkyfire Jun 23 I don’t think I can commission anyone outside of Vgen or Skeb or other similar websites anymore :/",
+    "url": "https://x.com/KazooSkyfire",
+    "pass": 3
+   },
+   {
+    "quote": "___Skyfire___ on X: \"This is the best thing I have seen all ... This is the best thing I have seen all day!",
+    "url": "https://x.com/___Skyfire___/status/2111433789796663791",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Skyfire (official) - FacebookSkyFire Energy - FacebookSkyfire - FacebookSkyfire FX | Georgetown TX - FacebookSkyfire AI | Huntsville AL - FacebookSkyfire Productions LLC | Leyden MA - FacebookCC's Skyfire Kitchen | Willow AK - Facebook Jul 23, 2026 · How is this relevant for Skyfire? Well, some plans were discussed while drinking beer this summer (Linus and Jonas, our former bassplayer) that we sh",
+    "url": "https://www.facebook.com/skyfiremusic/",
+    "pass": 3
+   },
+   {
+    "quote": "SkyFire Energy - FacebookSkyfire - FacebookSkyfire FX | Georgetown TX - FacebookSkyfire AI | Huntsville AL - FacebookSkyfire Productions LLC | Leyden MA - FacebookCC's Skyfire Kitchen | Willow AK - Facebook As we celebrate 25 years at SkyFire Energy, we're especially grateful to be part of a country that continues to inspire innovation, resilience, and connection. From our team to yours, we hope y",
+    "url": "https://www.facebook.com/SkyFireEnergy/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire - FacebookSkyfire FX | Georgetown TX - FacebookSkyfire AI | Huntsville AL - FacebookSkyfire Productions LLC | Leyden MA - FacebookCC's Skyfire Kitchen | Willow AK - Facebook Oct 18, 2022 · This is the first real showcase for the new v3 Skyfire platform - we've been able to add 4 new forecasts for North America, and there are more in the pipeline too. Jul 5, 2026 · Excited to be at the Mont",
+    "url": "https://www.facebook.com/skyfireapp/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyfire FX | Georgetown TX - Facebook Jul 5, 2026 · Excited to be at the Montgomery County fairgrounds tonight (and tomorrow night) shooting some fireworks for the rodeo! @skyfire.fx is also at the @chilifestinc tonight and tomorrow making this weekend full of awesome pyrotechnics! #skyfirefx #pyrotechnics #fireworks #rodeo #montgomeryfairgrounds",
+    "url": "https://www.facebook.com/skyfirefx/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://skyfire.xyz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skyfire.xyz/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skyfire.xyz/use-case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skyfire.xyz/jobs/ai-solutions-engineer/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000073.000037639.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.akamai.com/ja/newsroom/press-release/no-free-crawls-akamai-tollbit-and-skyfire-turn-traffic-into-revenue",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/genaird/n/na1889b6502a5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohno-inkjet.com/?p=92776",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/skyfire-energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/scoop-solar/case-study/how-skyfire-energy-reinforced-a-culture-of-trust-through-a-central-operations-hub",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyfireusa.com/case-studies-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/skyfire/__-gSNwLdAbLR2EH3jQO5ja24BZ2dqjmKWC_BS3-4pf1s",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/skyfire",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/skyfire",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/skyfire-systems-skyfire-xyz-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/coyass/n/n8cb6e529b68c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/genaird/n/na1889b6502a5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/trySkyfire",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SkyfireTheWolf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KazooSkyfire",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/___Skyfire___/status/2111433789796663791",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/skyfiremusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SkyFireEnergy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/skyfireapp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/skyfirefx/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/trySkyfire",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Skyfire 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000073.000037639.html",
+    "https://www.akamai.com/ja/newsroom/press-release/no-free-crawls-akamai-tollbit-and-skyfire-turn-traffic-into-revenue",
+    "https://note.com/genaird/n/na1889b6502a5",
+    "https://ohno-inkjet.com/?p=92776",
+    "https://www.skyfiretorch.com/",
+    "https://finwave.jp/archives/4642",
+    "https://autoprove.net/imported-car/jeep/wrangler/258778/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Skyfire 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://skyfire.xyz/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://kaisharesearch.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Skyfire Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Skyfire manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/skyfire-energy",
+    "https://robotlaserwelding.com/case-studies/robotic-laser-wire-additive-repair-huangshi/",
+    "https://www.casestudies.com/company/scoop-solar/case-study/how-skyfire-energy-reinforced-a-culture-of-trust-through-a-central-operations-hub",
+    "https://www.skyfireusa.com/case-studies-2/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://robotlaserwelding.com/case-studies/",
+    "https://www.youtube.com/watch?v=vcFSlnFMByU"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Skyfire white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://www.verkada.com/partners/",
+    "https://partners.spectrum.com/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Skyfire founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/skyfire/__-gSNwLdAbLR2EH3jQO5ja24BZ2dqjmKWC_BS3-4pf1s",
+    "https://compworth.com/company/skyfire",
+    "https://startupintros.com/orgs/skyfire",
+    "https://fundediq.co/skyfire-systems-skyfire-xyz-funding/",
+    "https://acquirezy.com/organization/skyfire-systems",
+    "https://www.crunchbase.com/organization/skyfire-systems",
+    "https://tracxn.com/d/companies/skyfire/__S4mztLaMTwX2eNBlAEc7BxCgYDlA-BF8fLPhcpXwvyM"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Skyfire",
+   "results": [
+    "https://note.com/coyass/n/n8cb6e529b68c?hl=en",
+    "https://note.com/genaird/n/na1889b6502a5",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/jolly_dunlin8812/n/n92ea671b0f5f?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Skyfire",
+   "results": [
+    "https://x.com/trySkyfire",
+    "https://x.com/SkyfireTheWolf",
+    "https://x.com/KazooSkyfire",
+    "https://x.com/___Skyfire___/status/2111433789796663791",
+    "https://x.com/___Skyfire___/status/2119779325964939466",
+    "https://x.com/___Skyfire___/status/2119827052585165262",
+    "https://x.com/Skyfire_1985/status/2109754807460217328"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Skyfire",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Skyfire",
+   "results": [
+    "https://www.facebook.com/skyfiremusic/",
+    "https://www.facebook.com/SkyFireEnergy/",
+    "https://www.facebook.com/skyfireapp/",
+    "https://www.facebook.com/skyfirefx/",
+    "https://www.facebook.com/SkyfireAIinc/",
+    "https://www.facebook.com/skyfireproductionsllc/",
+    "https://www.facebook.com/people/CCs-Skyfire-Kitchen/61580912494442/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Skyfire note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.linkedin.com/in/asarhangi",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Skyfire X 投稿",
+   "results": [
+    "https://x.com/trySkyfire",
+    "https://x-sou.com/ja/u/bao3",
+    "https://ja.jinxxy.com/skyfire28/posts",
+    "https://www.instagram.com/nnnnoooo007/",
+    "https://fetcherx.com/social/twitter/skyfire1987",
+    "https://x.com/Skyfire553239/status/2092770829289636195",
+    "https://skyfire.fanbox.cc/posts"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

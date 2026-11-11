@@ -1,0 +1,1428 @@
+{
+ "name": "Salsify",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AI送信済み",
+ "researched_at": "2026-11-11T07:32:49.951305+00:00",
+ "official_url": "https://www.salsify.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$452.6M",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "PXM Platform | Salsify Product Experience Management",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead the digital shelf with Product Experience Management (PXM).",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Source supplier product content efficiently and at scale with PXM.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The next era of AI-powered shopping, where autonomous agents rely on deep PXM data to compare, recommend, and purchase products.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize product data, boost AI-driven visibility, and win across the new omnichannel.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize all your product content, no matter where it lives.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect across the digital shelf to deliver engaging product experiences.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate manual processes to improve efficiency and accuracy.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate your retail suppliers and product data onboarding.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure up-to-date product data is always available to your customers.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize product data, automate workflows, accelerate launches.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify complex product data across every retail channel.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn complex product content into competitive advantage.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize content, simplify compliance, accelerate launches.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize content, scale rich experiences, sell everywhere.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PXM Product Experience Management",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage all product content in one central system of record.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily syndicate product content to every consumer touch point.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich product pages with below-the-fold content and rich media.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Synchronize standard supply chain, marketing, and ecommerce attributes globally.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously optimize your organization’s product content syndication.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Share secure, on-brand, and always up-to-date digital product catalogs.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate business processes and enhance Salsify workflows with AI.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate the PXM platform with the rest of your enterprise systems architecture.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate supplier onboarding while ensuring your schema requirements are met.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead the digital shelf with Product Experience Management (PXM).",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Source supplier product content efficiently and at scale with PXM.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "The next era of AI-powered shopping, where autonomous agents rely on deep PXM data to compare, recommend, and purchase products.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize product data, boost AI-driven visibility, and win across the new omnichannel.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize all your product content, no matter where it lives.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Connect across the digital shelf to deliver engaging product experiences.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Automate manual processes to improve efficiency and accuracy.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate your retail suppliers and product data onboarding.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure up-to-date product data is always available to your customers.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize product data, automate workflows, accelerate launches.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify complex product data across every retail channel.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Turn complex product content into competitive advantage.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize content, simplify compliance, accelerate launches.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize content, scale rich experiences, sell everywhere.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "PXM Product Experience Management",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Manage all product content in one central system of record.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Easily syndicate product content to every consumer touch point.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich product pages with below-the-fold content and rich media.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Synchronize standard supply chain, marketing, and ecommerce attributes globally.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously optimize your organization’s product content syndication.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Share secure, on-brand, and always up-to-date digital product catalogs.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Automate business processes and enhance Salsify workflows with AI.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate the PXM platform with the rest of your enterprise systems architecture.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate supplier onboarding while ensuring your schema requirements are met.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Sell products faster with Product Listing.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Lead the digital shelf with Product Experience Management (PXM).",
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Source supplier product content efficiently and at scale with PXM.",
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "pass": 1
+   },
+   {
+    "quote": "The next era of AI-powered shopping, where autonomous agents rely on deep PXM data to compare, recommend, and purchase products.",
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize product data, boost AI-driven visibility, and win across the new omnichannel.",
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize all your product content, no matter where it lives.",
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Connect across the digital shelf to deliver engaging product experiences.",
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Automate manual processes to improve efficiency and accuracy.",
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate your retail suppliers and product data onboarding.",
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure up-to-date product data is always available to your customers.",
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize product data, automate workflows, accelerate launches.",
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Win on the digital shelf with a direct-to-retailer network that gives you control over your brand, real-time error checking, and the insights to optimize performance.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our powerful AI and automation tooling helps you seamlessly embed AI into your existing workflows. Deep, authoritative context helps AI shoppers reason and recommend, ensuring your brand wins the sale in this new world of commerce.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Salsify Partner Program",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Salsify Partner Program",
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "pass": 1
+   },
+   {
+    "quote": "For brands looking to join our ecosystem of agencies and consultants — or agencies looking for enablement and joint business planning — Salsify boasts a robust network of agencies and consultants.",
+    "url": "https://www.salsify.com/en-us/partners/solution",
+    "pass": 1
+   },
+   {
+    "quote": "The Salsify Partner Program offers tiered benefit levels to help our partners grow their Salsify business. Help us transform brand manufacturers' digital shelf expressions and business models worldwide.",
+    "url": "https://www.salsify.com/en-us/partners/solution",
+    "pass": 1
+   },
+   {
+    "quote": "Salsify Solution Partner Program",
+    "url": "https://www.salsify.com/en-us/partners/solution",
+    "pass": 1
+   },
+   {
+    "quote": "“Salsify continues to be one of our most effective technology partners when it comes to ensuring that joint clients can onboard quickly and effectively while simultaneously setting them up for long-term success. These new resources being offered in the expanded partner program will be a boon to our continued work with Salsify, driving digital shelf excellence across our shared client base.”",
+    "url": "https://www.salsify.com/en-us/partners/solution",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Salsify Partner Program",
+    "url": "https://www.salsify.com/partners/technology",
+    "pass": 1
+   },
+   {
+    "quote": "These agents learn from your PDPs, websites, reviews, and manuals to represent your brand in the next generation of shopping.",
+    "url": "https://www.salsify.com/product-experience-management/artificial-intelligence-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your content to every channel. Quickly publish new and updated product information in the correct format to any destination — from key distributor sites to data pools and your own brand website or eComm portal.",
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly publish channel-ready content everywhere it needs to go, from your marketing or eCommerce sites to critical business systems to the channel partners that act as your digital front door.",
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Salsify's Intelligent Product Experience Management (PXM) platform powers commerce growth by turning product data into revenue-driving experiences across every shelf – physical, digital, and agentic.",
+    "url": "https://www.salsify.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer, Amplifi",
+    "url": "https://www.salsify.com/en-us/partners/solution",
+    "pass": 1
+   },
+   {
+    "quote": "Come be a part of something big.",
+    "url": "https://www.salsify.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our distributed team members here are empowered to keep a healthy work-life balance, which is why we have flexible vacation hours. Employees take time off based on what’s important to them - from a vacation with friends to catching their child’s school play.",
+    "url": "https://www.salsify.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We love our employees, but we really love when our employees recruit their friends to join our team, so we offer generous bonuses to those who get new members on board.",
+    "url": "https://www.salsify.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We encourage our employees to volunteer in the community that surrounds us. In addition to this, each office has different initiatives serving their locations. In Boston, we partner with Boston Public Schools and host hands-on STEM events bi-annually. In our EMEA offices, our CSE in Paris spearheads efforts for the environment while Lisbon hosts give back events.",
+    "url": "https://www.salsify.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are very supportive of growing families at Salsify, and make it easy for employees to take the time needed to help raise any children they have. In the US, Salsify offers a 16 week paid leave for birthing parents & 10 week paid parental leave program for non-birthing parents to take during the first year of the birth or adoption of a child or children.",
+    "url": "https://www.salsify.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We commit to building and celebrating diversity and inclusion across Salsify to deliver the greatest impact and best experience to our employees and customers.",
+    "url": "https://www.salsify.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Mission: Building a vibrant community where Asian and Pacific Islander employees and allies thrive by amplifying the API experience, championing career development, and promoting education opportunities that celebrate our connections to each other and our Salsify culture.",
+    "url": "https://www.salsify.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Mission: The Black Impact Group is a community of and for Black Salsify employees and their allies, where members are invited to celebrate and learn about Black history and culture while striving to create a more inclusive and equitable workplace.",
+    "url": "https://www.salsify.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Mission: Unidos@Salsify is a community created and composed of Hispanic and Latinx employees and allies. Our mission is to celebrate, educate and amplify Latinx and Hispanic culture and history while advocating for an inclusive work environment and fostering community in the workplace where we strive to be en familia!",
+    "url": "https://www.salsify.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Ask Google for the best carry-on suitcase, and you’ll get 10 links, a handful of ads, and a long evening ahead of you.",
+    "url": "https://www.salsify.com/product-experience-management/artificial-intelligence-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Modern commerce requires moving past manual processes to operate at machine speed. Salsify’s Intelligent PXM platform serves as your operational layer, connecting people, processes, and AI to transform product data into revenue-driving experiences across the physical, digital, and agentic shelves.",
+    "url": "https://www.salsify.com/what-is-the-digital-shelf",
+    "pass": 1
+   },
+   {
+    "quote": "Having a strong digital shelf presence translates into competitive performance in the new omnichannel era of shopping — as the buyer’s journey is no longer linear. Brands that want to win must be found on a wide array of touchpoints across physical, digital, and agentic shelves, offering complete, compelling, and creative product listings and experiences.",
+    "url": "https://www.salsify.com/what-is-the-digital-shelf",
+    "pass": 1
+   },
+   {
+    "quote": "— David Devalois, Head of Enrichment/Merchandising and Searchandising, Carrefour",
+    "url": "https://www.salsify.com/solutions/retailers/automate",
+    "pass": 1
+   },
+   {
+    "quote": "Warren Rupp Achieves Operational Efficiency and an Improved Customer Experience With Salsify PXM",
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President, Digital Platforms, Warren Rupp",
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "The barrier to change is lower than you think. We’ll identify missed opportunities in your current data and build a clear, quantifiable business case for investing in your product data.",
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "Carrefour achieves higher Black Friday conversions with Salsify",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "SMNutrition achieves doubled gross revenue and rapid SKU and market expansion with Salsify",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify Revenue 2024: $200M, $452.6M Raised",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify's annual revenue was $200M in December 2024 (source not recorded), the most recent figure on record.",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify CEO, founders & employees",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Piyush Chaudhari founded Salsify in 2012 and runs it as CEO. Salsify has 575 employees (November 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "What is Salsify's revenue?",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify's annual revenue was",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Salsify have?",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/58998-25",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (4)",
+    "url": "https://pitchbook.com/profiles/company/58998-25",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/58998-25",
+    "pass": 3
+   },
+   {
+    "quote": "To view Salsify’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/58998-25",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify has 585 total employees.",
+    "url": "https://pitchbook.com/profiles/company/58998-25",
+    "pass": 3
+   },
+   {
+    "quote": "What is Salsify’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/58998-25",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Salsify is",
+    "url": "https://pitchbook.com/profiles/company/58998-25",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Sign up to transform brand manufacturers' digital shelf expressions and business models worldwide.",
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "pass": 1
+   },
+   {
+    "quote": "The Salsify Partner Program offers tiered benefit levels to help our partners grow their Salsify business. Help us transform brand manufacturers' digital shelf expressions and business models worldwide.",
+    "url": "https://www.salsify.com/en-us/partners/solution",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study Assistance",
+    "url": "https://www.salsify.com/en-us/partners/solution",
+    "pass": 1
+   },
+   {
+    "quote": "Are you a technology provider we should integrate with to help our customers win on the digital shelf? Sign up to transform brand manufacturers' digital shelf expressions and business models worldwide.",
+    "url": "https://www.salsify.com/partners/technology",
+    "pass": 1
+   },
+   {
+    "quote": "Product Experience Management (PXM) for B2B Manufacturers | Salsify",
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "How PXM Solves Your Biggest B2B Manufacturing Challenges",
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "B2B Manufacturer Resources",
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "Press Release: Salsify and IDEA Partner to Give Electrical Distributors and Manufacturers Direct Access to Product Data",
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturers and distributors face unique challenges in the digital age—complex ...",
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "American Bath Group Uses Salsify Workflows To Scale Product Experiences for Thousands of Products | Salsify Case Study",
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "VitrA Saves 280 Hours of Manual Work With Salsify Catalog Sites | Salsify Case Study",
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Jordan Manufacturing Company, Inc. achieves 99% faster time-to-market with Salsify | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/salsify/case-study/how-jordan-manufacturing-addressed-inefficiency-and-inconsistency",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Jordan Manufacturing Company, Inc. achieves 99% faster time-to-market with Salsify",
+    "url": "https://www.casestudies.com/company/salsify/case-study/how-jordan-manufacturing-addressed-inefficiency-and-inconsistency",
+    "pass": 3
+   },
+   {
+    "quote": "How Jordan Manufacturing Addressed Inefficiency and Inconsistency",
+    "url": "https://www.casestudies.com/company/salsify/case-study/how-jordan-manufacturing-addressed-inefficiency-and-inconsistency",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/salsify/case-study/how-jordan-manufacturing-addressed-inefficiency-and-inconsistency",
+    "pass": 3
+   },
+   {
+    "quote": "Jordan Manufacturing Company, Inc.",
+    "url": "https://www.casestudies.com/company/salsify/case-study/how-jordan-manufacturing-addressed-inefficiency-and-inconsistency",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/salsify/case-study/how-jordan-manufacturing-addressed-inefficiency-and-inconsistency",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Computers and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Furniture and Home Furnishings Manufacturing",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Valve, Ball, and Roller Manufacturing",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Packaging and Containers Manufacturing",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Sporting Goods Manufacturing",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Feizy (rug manufacturer) streamlines ecommerce and slashes SKU build time with Salsify",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Jordan Manufacturing Company, Inc. achieves 99% faster time-to-market with Salsify",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Jordan Manufacturing Company, Inc.",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify empowers brand manufacturers, distributors and retailers to win on the digital shelf.",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Accelerate data onboarding. Send automated data requests, in-platform notifications, and automatic emails to suppliers, resulting in quicker supplier responses. Suppliers not yet using Salsify Supplier Experience Management (SXM) will be invited with automated platform invitations.",
+    "url": "https://www.salsify.com/solutions/retailers/automate",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/58998-25",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Salsifyとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — Salsifyを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！",
+    "url": "https://www.capterra.jp/software/147254/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "PXM Platform | Salsify Product Experience Management — Move faster, work smarter, and scale efficiently with Salsify PXM, the intelligent product experience management platform.",
+    "url": "https://www.salsify.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Salsify Solution Partner — Find a Salsify Solution Partner Salsify’s solution partners are technical experts with a proven track record of helping customers unlock the full value of their Salsify implementation across industries, regions, and use cases. Solution partners are essential in helping brands deliver the digital shelf experiences their customers deserve.",
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "pass": 3
+   },
+   {
+    "quote": "Salsifyが「SalsifyIQ」を発表、エージェンティックコマース向け初のP... — May 6, 2026 · Salsifyが商品データをAIエージェント時代の成長基盤に変える「SalsifyIQ」を発表。Mirakl Agentic ActivationやSyndigo Synapseと並び、ブランド側のエージェント可読化が新たな競争軸に。商品データ戦略のチェックポイントを整理します。",
+    "url": "https://stellagent.ai/ja/insights/salsify-iq-pxm-agentic-commerce",
+    "pass": 3
+   },
+   {
+    "quote": "FitGap | Salsifyとは？強み、注意点を専門家がレビュー — FitGapにおけるすべての評価は、公平性を最優先に、客観的なアルゴリズムを用いて計算されています。製品の評価方法は 「FitGapの評価メソッド」 、シェアデータの算出根拠は 「シェアスコアの算出方法」 をご覧ください。 Salsify の利用環境・機能 利用環境 端末・OS Windows, MacOS スマホ対応 ...",
+    "url": "https://fitgap.com/jp/products/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify Partners — Salsify Partners Salsify partners with the world's top retailers, technology platforms, agencies, and consultancies to help its customer win on the digital shelf.",
+    "url": "https://www.salsify.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Ecommerce stores using Salsify in Japan - Store Leads — Salsify helps brands win on the digital shelf. Get more information from the Salsify website. Salsify is currently installed on 5 ecommerce stores in Japan. In this report, we'll cover the following statistics on usage of Salsify on ecommerce stores.",
+    "url": "https://storeleads.app/reports/technology/Salsify/country/JP",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Salsify - Intelligence Guide, Japan Salsify Data ... — Read questions and answers related to Salsify and Japan from our community of industry experts. See the market experts insights on Salsify in Japan at a glance including real-time offers, market prices, news, insights, suppliers, trade data and more.",
+    "url": "https://www.tridge.com/intelligences/common-salsify/JP/guides",
+    "pass": 3
+   },
+   {
+    "quote": "Jordan Manufacturing Case Study | Salsify — Jordan Manufacturing Addresses Inefficiency and Inconsistency With Salsify The outdoor furniture and accessory manufacturer gets product content into customer’s hands faster with the Salsify Product Information Management (PIM) solution.",
+    "url": "https://www.salsify.com/case-study/jordan-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Jordan Manufacturing Company, Inc. achieves 99% ... — Jordan Manufacturing Company, Inc. (Manufacturing) partnered with Salsify (Computer Software) to solve key challenges. \"How Jordan Manufacturing Addressed Inefficiency and Inconsistency\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/salsify/case-study/how-jordan-manufacturing-addressed-inefficiency-and-inconsistency",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify B2B Case Studies & Customer Successes — See how Salsify solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "How Kids2 Increased Content Accuracy to 96% With Salsify’s AI ... — As a long-time Salsify customer, Kids2 had built a strong foundation for product experience management. But as product content workflows scaled across teams, maintaining consistency between technical product data and marketing copy became increasingly difficult. Structured product information (dimensions, battery requirements, etc",
+    "url": "https://www.salsify.com/resources/case-study/kids2-increased-content-accuracy-salsify-intelligence-suite",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY - cdn.featuredcustomers.com — Anthony Carretta, digital shelf director at Jordan Manufacturing, shares how Salsify’s enhanced product information management (PIM) capabilities helps this home goods manufacturer get product content into customer hands faster.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/salsify_jordan-manufacturing-company-inc_776038.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify Revenue 2024: $200M, $452.6M Raised - getlatka.com — Oct 30, 2026 · Salsify 2024 revenue: $200M (up from $111M in 2021). Valuation (2022): $2B. Total funding: $452.6M across 6 rounds. 575 employees. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify - 2026 Company Profile, Team, Funding & Competitors ...Salsify – Financials, Industry Trends & Funding Info – 2026Salsify 2026 Company Profile: Valuation, Funding & Investors ...Salsify: Funding, Team & Investors | Startup IntrosSalsify Revenue, Funding & Valuation - prospeo.ioSalsify: Funding, Investors & Team (Nov 2026) | FundedIQ — Jun 4, 2026 · Salsify is a series F company based in Bo",
+    "url": "https://tracxn.com/d/companies/salsify/__YL2e22M89IMxqD0hfGWtVQ0YlCT2Jy8rRmEKyQdtP9A",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify – Financials, Industry Trends & Funding Info – 2026 — About This Data Revenue, valuation, and funding figures for Salsify are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods. Employee counts are derived from professional networks and company disclosures. Data Accuracy: While",
+    "url": "https://compworth.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify 2026 Company Profile: Valuation, Funding & Investors ...Salsify: Funding, Team & Investors | Startup IntrosSalsify Revenue, Funding & Valuation - prospeo.ioSalsify: Funding, Investors & Team (Nov 2026) | FundedIQ — Salsify FAQs When was Salsify founded? Salsify was founded in 2012. Where is Salsify headquartered? Salsify is headquartered in Boston, MA. What is the size of Salsify? Salsify ",
+    "url": "https://pitchbook.com/profiles/company/58998-25",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · With around 800 employees and $54.6 million in funding raised, Salsify targets a $13.8 billion market of over 56,000 enterprise and mid-market customers, demonstrating strong growth through scalable tools that handle millions of SKUs and assets for clients like ASICS and Walker Edison [1] [4] [5].",
+    "url": "https://startupintros.com/orgs/salsify",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Ecommerce stores using Salsify in Japan",
+    "url": "https://storeleads.app/reports/technology/Salsify/country/JP",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify is currently installed on 5 ecommerce stores in Japan.",
+    "url": "https://storeleads.app/reports/technology/Salsify/country/JP",
+    "pass": 3
+   },
+   {
+    "quote": "Here are the top 5 stores in Japan running Salsify ordered by store rank.",
+    "url": "https://storeleads.app/reports/technology/Salsify/country/JP",
+    "pass": 3
+   },
+   {
+    "quote": "Here is the ecommerce platform breakdown for stores in Japan with Salsify installed.",
+    "url": "https://storeleads.app/reports/technology/Salsify/country/JP",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Salsify (@Salsify) / X Dec 18, 2012 · Salsify Product Experience Management (PXM) enables brands, retailers, and distributors to improve efficiency, drive growth, and lead on the digital shelf.",
+    "url": "https://x.com/Salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify at The Roundhouse (@_Salsify_) / Posts / X Oct 1, 2018 · Salsify at The Roundhouse _Salsify_ Sep 12 'Sydwell Mayika - Salsify's Mixologist - The Salsify Negroni hanging out with the Cucumber and Thyme Martini duo #salsifyattheroundhouse #campsbay #campsbayrestaurants #finedininglovers #lovecapetown #capetown #comeasyouare 💬 0 🔄 1 🤍 1",
+    "url": "https://x.com/_Salsify_",
+    "pass": 3
+   },
+   {
+    "quote": "Aaron Boland (@Salsify96) / Posts / X Feb 27, 2011 · Aaron Boland (@Salsify96) - Posts - Irish National Stud Graduate 2020. | X (formerly Twitter)",
+    "url": "https://x.com/Salsify96",
+    "pass": 3
+   },
+   {
+    "quote": "Americaneagle.com on X: \" We're excited to recognize ... Americaneagle.com on X: \"🎉 We're excited to recognize @Salsify as https://t.co/Z7h3NG7NON's Featured Partner of the Month for November! Together, we combine ...",
+    "url": "https://x.com/_Americaneagle/status/2119833705065673104",
+    "pass": 3
+   },
+   {
+    "quote": "Chief copywhipper (@Salsify_Creates) / Posts / X Feb 8, 2011 · 💬0 🔄3 🤍12 0 📎 💬1 🔄1 🤍3 0 📎 Chief copywhipperSalsify_Creates Apr 16 Salsify_Creates But I had no say in the hyphenation of 'onsite'. #nohyphen #justsayin 💬0 🔄0 🤍0 0 📎 Chief copywhipperSalsify_Creates Apr 13",
+    "url": "https://x.com/Salsify_Creates",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Salsify - LinkedIn Salsify | 41,878 followers on LinkedIn. The Product Experience Management (PXM) platform that empowers brands and retailers to win on the digital shelf. | In today’s world of always-on online ...",
+    "url": "https://www.linkedin.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify: Jobs | LinkedIn Salsify | 41,876 followers on LinkedIn. The Product Experience Management (PXM) platform that empowers brands and retailers to win on the digital shelf. | In today’s world of always-on online ...",
+    "url": "https://www.linkedin.com/company/salsify/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify - LinkedIn Salsify | 41 858 abonnés sur LinkedIn. The Product Experience Management (PXM) platform that empowers brands and retailers to win on the digital shelf. | In today’s world of always-on online consumption and commerce, consumers are demanding what they want, when they want it. Salsify empowers brand manufacturers, distributors and retailers to win on the digital shelf. Salsify's P",
+    "url": "https://fr.linkedin.com/company/salsify",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify | LinkedIn Salsify's Product Experience Management platform combines PIM, Syndication and Automation with core commerce capabilities designed to enable sales both across retailer/distributor channels as well as marketplaces, social commerce, and direct-to-consumer (D2C) sites.",
+    "url": "https://pt.linkedin.com/company/salsify",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Salsify at The Roundhouse | Camps Bay - FacebookForagerChef - Salsify (pronounced like saulsuhfee) also ...Chicago Gardeners Club | Salsify (pronounced SAUL-suh-fee ...Salsify snacks! Salsify is also called Goatsbeard, Oyster ...This is the coolest root veggie I have ever tried- salsify ...Houston Fruit Trees and Gardening | Salsify (pronounced SAUL ...Meet salsify, the root vegetable you... - Far",
+    "url": "https://www.facebook.com/SalsifyattheRoundhouse/",
+    "pass": 3
+   },
+   {
+    "quote": "ForagerChef - Salsify (pronounced like saulsuhfee) also ... Sep 17, 2025 · Salsify (pronounced like saulsuhfee) also known as oyster root and goats beard, is a common weed in North America and a luxury vegetable hiding in plain sight. If you’ve ever seen large seed heads...",
+    "url": "https://www.facebook.com/Foragerchef/posts/salsify-pronounced-like-saulsuhfee-also-known-as-oyster-root-and-goats-beard-is-/1338495667845814/",
+    "pass": 3
+   },
+   {
+    "quote": "Chicago Gardeners Club | Salsify (pronounced SAUL-suh-fee ... Oct 4, 2025 · Salsify (pronounced SAUL-suh-fee), also known as oyster root or goat’s beard, is both a common North American weed and a luxury vegetable hiding in plain sight. If you’ve ever noticed giant seed...",
+    "url": "https://www.facebook.com/groups/chicagogardens/posts/3352014958285946/",
+    "pass": 3
+   },
+   {
+    "quote": "Salsify snacks! Salsify is also called Goatsbeard, Oyster ... Jul 6, 2026 · Salsify snacks! Salsify is also called Goatsbeard, Oyster plant, or Jack-go-to-bed at noon (now we know why!). It is in the daisy family. Its flowers, stems, and roots are edible plus the milky latex...",
+    "url": "https://www.facebook.com/apothecarymary/videos/salsify-snacks-salsify-is-also-called-goatsbeard-oyster-plant-or-jack-go-to-bed-/2093678698242414/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.salsify.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/solutions/retailers/validate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/en-us/partners/solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/partners/technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/partners/solution/directory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/en-us/partners/solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/partners/technology/directory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/partners/technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/partners/retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/product-experience-management/artificial-intelligence-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/what-is-the-digital-shelf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/solutions/brands/centralize",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/solutions/brands/connect",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/solutions/brands/automate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/solutions/retailers/onboard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/solutions/retailers/automate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/solutions/vertical/industrials",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.salsify.com/hubfs/2022/Partner%20Logos/accenture.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.salsify.com/hubfs/2022/Partner%20Logos/Amplifi_New.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.salsify.com/hubfs/2022/Partner%20Logos/e-comas.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.salsify.com/hubfs/2022/Partner%20Logos/logo-advantage-unified-commerce.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.capterra.jp/software/147254/salsify",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://stellagent.ai/ja/insights/salsify-iq-pxm-agentic-commerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jomon.group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mkikuchi-law.com/17785461217883",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storeleads.app/reports/technology/Salsify/country/JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tridge.com/market-overview/fresh-salsify/JP#market-insights",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/salsify/case-study/how-jordan-manufacturing-addressed-inefficiency-and-inconsistency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/salsify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/salsify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/salsify/__YL2e22M89IMxqD0hfGWtVQ0YlCT2Jy8rRmEKyQdtP9A",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/salsify",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/58998-25",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/Salsify",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_Salsify_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Salsify96",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_Americaneagle/status/2119833705065673104",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/salsify",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/salsify/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/company/salsify",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pt.linkedin.com/company/salsify",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SalsifyattheRoundhouse/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Foragerchef/posts/salsify-pronounced-like-saulsuhfee-also-known-as-oyster-root-and-goats-beard-is-/1338495667845814/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/chicagogardens/posts/3352014958285946/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/apothecarymary/videos/salsify-snacks-salsify-is-also-called-goatsbeard-oyster-plant-or-jack-go-to-bed-/2093678698242414/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Salsify",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Salsify_Creates",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Salsify 日本 導入",
+   "results": [
+    "https://www.capterra.jp/software/147254/salsify",
+    "https://www.salsify.com/",
+    "https://www.salsify.com/partners/solution/directory",
+    "https://stellagent.ai/ja/insights/salsify-iq-pxm-agentic-commerce",
+    "https://fitgap.com/jp/products/salsify",
+    "https://storeleads.app/reports/technology/Salsify/country/JP",
+    "https://ai-pedias.com/blog/ai-product-information-management-2026"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Salsify 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://jomon.group/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.mkikuchi-law.com/17785461217883",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://dairiten-navi.jp/?p=439",
+    "https://www.salsify.com/careers",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://business.nifty.com/gsh/RXCC/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Salsify Japan",
+   "results": [
+    "https://www.salsify.com/partners",
+    "https://www.salsify.com/",
+    "https://storeleads.app/reports/technology/Salsify/country/JP",
+    "https://www.tridge.com/intelligences/common-salsify/JP/guides",
+    "https://www.capterra.jp/software/147254/salsify",
+    "https://note.com/mirainoagri2021/n/ne62321bfd98f?hl=en",
+    "https://slasify.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Salsify manufacturing customer case study",
+   "results": [
+    "https://www.salsify.com/case-study/jordan-manufacturing",
+    "https://www.casestudies.com/company/salsify/case-study/how-jordan-manufacturing-addressed-inefficiency-and-inconsistency",
+    "https://www.casestudies.com/company/salsify",
+    "https://www.salsify.com/resources/case-study/kids2-increased-content-accuracy-salsify-intelligence-suite",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/salsify_jordan-manufacturing-company-inc_776038.pdf",
+    "https://www.featuredcustomers.com/vendor/salsify/case-studies",
+    "https://goamplifi.com/case-studies/manufacturer-flexible-data-strategy-pim"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Salsify white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.remitly.com/us/en/landing/partner-program",
+    "https://www.strikingly.com/reseller-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Salsify founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/salsify",
+    "https://tracxn.com/d/companies/salsify/__YL2e22M89IMxqD0hfGWtVQ0YlCT2Jy8rRmEKyQdtP9A",
+    "https://compworth.com/company/salsify",
+    "https://pitchbook.com/profiles/company/58998-25",
+    "https://startupintros.com/orgs/salsify",
+    "https://prospeo.io/c/salsify-revenue",
+    "https://fundediq.co/salsify-salsify-com-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Salsify",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/arrows_column/n/nc266340c0609",
+    "https://note.com/fukuso_sutaro/n/nf365aa7a3733",
+    "https://note.com/nosuke0607/n/n09d02c47e173"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Salsify",
+   "results": [
+    "https://x.com/Salsify",
+    "https://x.com/_Salsify_",
+    "https://x.com/Salsify96",
+    "https://x.com/_Americaneagle/status/2119833705065673104",
+    "https://x.com/CaLandBird/status/2107521726053810601",
+    "https://x.com/bostonvc",
+    "https://x.com/_javelynn_"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Salsify",
+   "results": [
+    "https://www.linkedin.com/company/salsify",
+    "https://www.linkedin.com/company/salsify/jobs",
+    "https://fr.linkedin.com/company/salsify",
+    "https://pt.linkedin.com/company/salsify",
+    "https://uk.linkedin.com/in/ceumorais",
+    "https://www.linkedin.com/in/robgonzalez",
+    "https://www.linkedin.com/jobs/salsify-jobs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Salsify",
+   "results": [
+    "https://www.facebook.com/SalsifyattheRoundhouse/",
+    "https://www.facebook.com/Foragerchef/posts/salsify-pronounced-like-saulsuhfee-also-known-as-oyster-root-and-goats-beard-is-/1338495667845814/",
+    "https://www.facebook.com/groups/chicagogardens/posts/3352014958285946/",
+    "https://www.facebook.com/apothecarymary/videos/salsify-snacks-salsify-is-also-called-goatsbeard-oyster-plant-or-jack-go-to-bed-/2093678698242414/",
+    "https://www.facebook.com/sooziethefoodie/videos/this-is-the-coolest-root-veggie-i-have-ever-tried-salsify-man-called-us-the-oyst/1135691864292504/",
+    "https://www.facebook.com/groups/1694596147389183/posts/3061499260698858/",
+    "https://www.facebook.com/TheFarmersAlmanac/posts/meet-salsify-the-root-vegetable-you-probably-never-heard-of-sometimes-called-veg/10158088592926459/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Salsify note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.salsify.com/team",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Salsify X 投稿",
+   "results": [
+    "https://x.com/Salsify",
+    "https://www.salsify.com/",
+    "https://x.com/Salsify_Creates",
+    "https://app.salsify.com/users/sign_in",
+    "https://www.salsify.com/support",
+    "https://app.supplierxm.salsify.com/",
+    "https://www.v2ex.com/t/1255227"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

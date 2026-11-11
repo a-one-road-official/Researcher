@@ -1,0 +1,788 @@
+{
+ "name": "Scanwellhealth",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-11T07:28:30.256219+00:00",
+ "official_url": "https://www.bd.com/en-us",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://startupintros.com/orgs/scanwell-health",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Los Angeles, CA, USA",
+    "url": "https://startupintros.com/orgs/scanwell-health",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "[自宅検査スタートアップ]Scanwell Health UTI自宅検査、治療 — Jun 10, 2021 · パンデミックで成長する自宅検査領域のスタートアップを紹介する。1つ目は、尿路感染症（UTI）を対象にしたサービスを展開するScanwellだ。 尿路感染症（UTI）は、女性の5人に1人がなるとされている。 自宅にいながらにして、臨床レベルの検査が可能で、検査結果が出たら（所要時間2分 ...",
+    "url": "https://note.com/saki_oshima/n/n80573f27630f",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health - LinkedIn 日本 — Scanwell Health | LinkedInのフォロワー数2,292人。A clear path to healthy. Scanwell Heath is a BD company. | Scanwell Health empowers health care consumers and companies through at-home medical testing with instant results. Scanwell pairs proven diagnostics with patented computer vision technology to put testing into the hands of people, enabling quick detection of acute illn",
+    "url": "https://jp.linkedin.com/company/scanwellhealth",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | スキャンウェルロジスティクス株式会社 | Scanwell Logist...BD Acquires Scanwell Health, Inc. to Expand and Scale Digital ...Scanwell Health 2026 Company Profile: Valuation, Investors ... — 2008年スキャンウェルロジスティクス日本支店開業。 1981年香港創業の国際物流会社スキャンウェルロジスティクスは全世界56の自社支店を中心に、全世界への様々な国際輸送をご案内しております。 会社案内ページはこちらから Dec 21, 2021 · BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today",
+    "url": "https://www.scanwell.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health - LinkedIn — Scanwell Health empowers health care consumers and companies through at-home medical testing with instant results. Scanwell pairs proven diagnostics with patented computer vision technology to put ...",
+    "url": "https://www.linkedin.com/company/scanwellhealth",
+    "pass": 3
+   },
+   {
+    "quote": "BD Acquires Scanwell Health, Inc. to Expand and Scale Digital ... — Dec 21, 2021 · BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced it has completed the acquisition of privately held Scanwell Health Inc., a leader in...",
+    "url": "https://news.bd.com/2021-12-21-BD-Acquires-Scanwell-Health,-Inc-to-Expand-and-Scale-Digital-At-Home-Testing",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health - LinkedIn — Scanwell Health Medical Equipment Manufacturing Los Angeles, California 2,293 followers A clear path to healthy. Scanwell Heath is a BD company.",
+    "url": "https://www.linkedin.com/company/scanwellhealth",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health | Mysite — THE APPROACH - Mixed Methods Usability Studies: Performed task analysis on observational data and qualitative analysis on follow-up interview. Included an emotional user journey map. - Weekly Testing Program: Post-launch, our reliance on live data for improvements decreased the velocity and depth of our insights.",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "How Scanwell Health Built Its Success with At-Home Diagnostics — Scanwell Health disrupted healthcare with at-home smartphone diagnostics, offering rapid results and convenient testing. Learn how they innovated the industry!",
+    "url": "https://reforgers.com/startups/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "Announcing our investment in Scanwell Health: making ... — Nov 12, 2019 · Announcing our investment in Scanwell Health: making healthcare more accessible with accurate, at-home medical testing Last week, I shared that I am looking for opportunities in femtech, and in the post, I wrote: In the future (and we’re starting to see this happen now), tests will be taken in the home with results delivered",
+    "url": "https://versionone.vc/announcing-scanwell/",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health - 2026 Company Profile, Team, Funding ... — Mar 22, 2026 · Scanwell Health is an acqui-hired company based in Anaheim (United States), founded in 2018 by Stephen Chen. It operates as an App for home-based kit enabled urine diagnosis. Scanwell Health has raised $3.65M in funding from investors like Mayfield, Founders Fund and DCM Ventures. The company has 51 active competitors, incl",
+    "url": "https://tracxn.com/d/companies/scanwellhealth/__0168JiGTvIGwIvB3dMXOp985HBOLKcIxsgp-rzoP1xo",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health Revenue, Funding & Valuation - prospeo.io — Scanwell Health has revenue of $1,500,000, estimated valuation of $4,800,000, $3,500,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health 2026 Company Profile: Valuation, Investors ...Scanwell Health — Company Profile | The Company CheckScanwell Health: Funding, Team & Investors | Startup IntrosScanwell – Company Insights & Financial Strength – 2026Scanwell Health - Products, Competitors, Financials ... — Information on acquisition, funding, cap tables, investors, and executives for Scanwell Health. Use the PitchBook",
+    "url": "https://pitchbook.com/profiles/company/231421-42",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Scanwell Health? Scanwell Health was founded in 2018 by Stephen Chen (Founder/Founding CEO). How much funding has Scanwell Health raised? Scanwell Health has raised $5.7M in total across 3 funding rounds. Who are Scanwell Health's investors?",
+    "url": "https://startupintros.com/orgs/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health — Company Profile | The Company Check — Jul 19, 2026 · Scanwell Health is a company based in Anaheim (United States) founded in 2018 was acquired by Becton Dickinson in December 2021.. Scanwell Health has raised $3.65 million across 3 funding rounds from investors including NIH, BD and Liquid 2 Ventures.",
+    "url": "https://www.thecompanycheck.com/company/b/scanwell-health/nnjnklh76prvpkuik",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "/ -- BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced it has completed the acquisition of privately held Scanwell Health Inc., a leader in smartphone-enabled at-home medical tests.",
+    "url": "https://news.bd.com/2021-12-21-BD-Acquires-Scanwell-Health,-Inc-to-Expand-and-Scale-Digital-At-Home-Testing",
+    "pass": 3
+   },
+   {
+    "quote": "\"The COVID-19 pandemic has accelerated the shift to new care settings, and BD is ready to deliver a smart, connected at-home diagnostic ecosystem to support traditional and telehealth providers and consumers,\" said",
+    "url": "https://news.bd.com/2021-12-21-BD-Acquires-Scanwell-Health,-Inc-to-Expand-and-Scale-Digital-At-Home-Testing",
+    "pass": 3
+   },
+   {
+    "quote": ", president of Life Sciences for BD. \"This acquisition will enable us to expand and scale our digital capabilities in-house to speed time to market for transformative at-home solutions now and in the future.\"",
+    "url": "https://news.bd.com/2021-12-21-BD-Acquires-Scanwell-Health,-Inc-to-Expand-and-Scale-Digital-At-Home-Testing",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike other at-home tests, our test kit had a mandated companion app that would guide the user through the test and would use the phone camera to scan the test stick to produce the result. As we were developing our product, we had to adapt to changes in our customer segments, user needs, and the FDA requirements.",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "Following the app video and written instructions, user open the test kit.",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "PRIORITIES OF THE PRODUCT:",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": ". If the user was unable to scan the test stick, then they would be unable to get their results. Our team had minimal influence due to the highly technical components. However, we advocated for a \"Home Light Check,\" a pre-scan that checked the current environment lighting and would allow the user to practice scanning.",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "Results Comprehension",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": ": Performed task analysis on observational data and qualitative analysis on follow-up interview. Included an emotional user journey map.",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "Weekly Testing Program",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": ": Post-launch, our reliance on live data for improvements decreased the velocity and depth of our insights. For quicker data retrieval, we ran small scale interviews on a weekly basis on focus topics (e.g repeat users, new concepts)",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": ": To stay attuned to the current market, we thoroughly broke down the user journey of competitor's products.",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "- 21.4% improvement in scan success rate after adding a Home Light Check.",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health has approximately",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Product Differentiators:",
+    "url": "https://startupintros.com/orgs/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell’s app uses patented computer vision technology to interpret diagnostic tests via smartphone cameras, providing clinical-grade accuracy comparable to traditional lab tests.",
+    "url": "https://startupintros.com/orgs/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "Post-acquisition, Scanwell’s platform is being integrated into BD’s broader digital health ecosystem to expand test menus and support telehealth providers[1][3][5].",
+    "url": "https://startupintros.com/orgs/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "prnewswire.com/news-releases/scanwell-health-to-launch-first-clinical-grade-rapid-at-home-test-to-aid-in-covid-19-crisis-301027302.html",
+    "url": "https://startupintros.com/orgs/scanwell-health",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "/ -- BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced it has completed the acquisition of privately held Scanwell Health Inc., a leader in smartphone-enabled at-home medical tests.",
+    "url": "https://news.bd.com/2021-12-21-BD-Acquires-Scanwell-Health,-Inc-to-Expand-and-Scale-Digital-At-Home-Testing",
+    "pass": 3
+   },
+   {
+    "quote": ", president of Life Sciences for BD. \"This acquisition will enable us to expand and scale our digital capabilities in-house to speed time to market for transformative at-home solutions now and in the future.\"",
+    "url": "https://news.bd.com/2021-12-21-BD-Acquires-Scanwell-Health,-Inc-to-Expand-and-Scale-Digital-At-Home-Testing",
+    "pass": 3
+   },
+   {
+    "quote": ": To build an at-home COVID-19 Antigen test kit that employees can easily use to get instant, verifiable results to then share with their employers. That was our original target market (B2B2C).",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "This initially was the scariest part of performing an at-home test kit.",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "We had to ensure that the users would be correctly and confidently going through each step of the test kit to get accurate results. Early exploratory research had revealed that users were nervous about performing the test on themselves and getting accurate results. However, this changed as at-home COVID testing became part of regular life.",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": ". As our main target market was employees sharing their results, we needed users to understand what their next steps would be after getting their results.",
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health Revenue",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Scanwell Health",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Scanwell Health?",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Scanwell Health have?",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Post-acquisition, Scanwell’s platform is being integrated into BD’s broader digital health ecosystem to expand test menus and support telehealth providers[1][3][5].",
+    "url": "https://startupintros.com/orgs/scanwell-health",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Medical Equipment Manufacturing",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@DrBenNeel Couldn’t agree more. @scanwellhealth is working on ... Couldn’t agree more. @scanwellhealth is working on an at-home rapid serology test with our partner @lemonaidhealth. Anticipating 5-7 weeks to obtain EUA from the FDA:",
+    "url": "https://x.com/JackJeng/status/1244674066599923713",
+    "pass": 3
+   },
+   {
+    "quote": "$5 at-home UTI tests, FDA cleared. You're welcome. (Not an ad ... Jane Chung (@janejchung). $5 at-home UTI tests, FDA cleared. You're welcome. (Not an ad. I just bought a few tests myself!) @scanwellhealth",
+    "url": "https://x.com/janejchung/status/1024408951289307136",
+    "pass": 3
+   },
+   {
+    "quote": "Jack Jeng on X: \"Germany issuing coronavirus antibody ... Germany issuing coronavirus antibody certificates so some research participants may re-enter society and the workforce.. if the USA adopts a similar approach the @scanwellhealth at-home rapid serology test may help! telegraph.co.uk/news/2020/03/2…",
+    "url": "https://x.com/JackJeng/status/1244855097009377281",
+    "pass": 3
+   },
+   {
+    "quote": "@scanwellhealth | X The latest posts from @scanwellhealth",
+    "url": "https://x.com/scanwellhealth",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Scanwell Health - LinkedIn Scanwell Health Medical Equipment Manufacturing Los Angeles, California 2,293 followers A clear path to healthy. Scanwell Heath is a BD company.",
+    "url": "https://www.linkedin.com/company/scanwellhealth",
+    "pass": 3
+   },
+   {
+    "quote": "BD Acquires Scanwell Health, Inc. to Expand and ... - LinkedIn Today we completed the acquisition of Scanwell Health Inc., a leader in smartphone-enabled at-home medical tests. BD collaborated with Scanwell to develop the app used with the recently launched ...",
+    "url": "https://www.linkedin.com/posts/bd1_bd-acquires-scanwell-health-inc-to-expand-activity-6879029395734962176-aBp7",
+    "pass": 3
+   },
+   {
+    "quote": "Athena Abouta - Senior Support Specialist at Scanwell Health ...BD Acquires Scanwell Health, Inc. to Expand and ... - LinkedInBD Acquires Scanwell Health, Inc. to Expand and Scale Digital ...BD Acquires Scanwell Health, Inc. to Expand and Scale Digital ... Senior Support Specialist at Scanwell Health · Experience: Scanwell Health · Education: Saint Mary's College of California · Location: Portland",
+    "url": "https://www.linkedin.com/in/athena-abouta-3a03021ba",
+    "pass": 3
+   },
+   {
+    "quote": "#dialysis #kidneydisease #ckd #urinetesting #scanwellhealth ... Really proud of our team at Scanwell. Up to 90% of U.S. adults considered at risk for Chronic Kidney Disease (CKD) are not being screened due to low public awareness and logistical barriers to ...",
+    "url": "https://www.linkedin.com/posts/colbi_scanwell-health-moves-beyond-home-uti-testing-activity-6517095991647309824-xMRo",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health - LinkedIn Scanwell Health empowers health care consumers and companies through at-home medical testing with instant results. Scanwell pairs proven diagnostics with patented computer vision technology to put ...",
+    "url": "https://www.linkedin.com/company/scanwellhealth",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Scanwell Health - Facebook Scanwell Health - Facebook ... Scanwell Health",
+    "url": "https://www.facebook.com/Scanwell-Health-103567464954107/",
+    "pass": 3
+   },
+   {
+    "quote": "Zeus - Companies continue to refine digital diagnostic... Companies continue to refine digital diagnostic tools for in-home healthcare at a rapid clip. The latest to launch is an at-home test for urinary tract infections from the Los Angeles-based startup Scanwell Health. The company was founded by Stephen Chen, who literally grew up in the diagnostics testing business.",
+    "url": "https://www.facebook.com/zeus.updates/posts/companies-continue-to-refine-digital-diagnostic-tools-for-in-home-healthcare-at-/1147814832094330/",
+    "pass": 3
+   },
+   {
+    "quote": "Scanwell Health (Acquired by Becton Dickinson) - Facebook Scanwell Health (Acquired by Becton Dickinson)",
+    "url": "https://www.facebook.com/Scanwell-Health-Acquired-by-Becton-Dickinson-105815959248617/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.bd.com/en-us",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/saki_oshima/n/n80573f27630f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/scanwellhealth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.scanwell.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scanwell.com/HOME/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scanwell.com/HOME/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/scanwellhealth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://scanwell.no/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scanwell.com/HOME/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.bd.com/2021-12-21-BD-Acquires-Scanwell-Health,-Inc-to-Expand-and-Scale-Digital-At-Home-Testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/scanwellhealth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hsiaokatherine.com/scanwell-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reforgers.com/startups/scanwell-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.bd.com/2021-12-21-BD-Acquires-Scanwell-Health,-Inc-to-Expand-and-Scale-Digital-At-Home-Testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/scanwellhealth/__0168JiGTvIGwIvB3dMXOp985HBOLKcIxsgp-rzoP1xo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/scanwell-health-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/231421-42",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/scanwell-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/JackJeng/status/1244674066599923713",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/janejchung/status/1024408951289307136",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JackJeng/status/1244855097009377281",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/scanwellhealth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/bd1_bd-acquires-scanwell-health-inc-to-expand-activity-6879029395734962176-aBp7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/athena-abouta-3a03021ba",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/colbi_scanwell-health-moves-beyond-home-uti-testing-activity-6517095991647309824-xMRo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Scanwell-Health-103567464954107/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zeus.updates/posts/companies-continue-to-refine-digital-diagnostic-tools-for-in-home-healthcare-at-/1147814832094330/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Scanwell-Health-Acquired-by-Becton-Dickinson-105815959248617/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/scanwellhealth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scanwellhealth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/scanwellhealth",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Scanwellhealth 日本 導入",
+   "results": [
+    "https://note.com/saki_oshima/n/n80573f27630f",
+    "https://jp.linkedin.com/company/scanwellhealth",
+    "https://www.scanwell.co.jp/news/",
+    "https://www.scanwell.com/HOME/",
+    "https://www.scanwell.co.jp/company/",
+    "https://news.bd.com/2021-12-21-BD-Acquires-Scanwell-Health,-Inc-to-Expand-and-Scale-Digital-At-Home-Testing",
+    "https://pitchbook.com/profiles/company/231421-42"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scanwellhealth 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.scanwell.com/HOME/",
+    "https://www.linkedin.com/company/scanwellhealth",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scanwellhealth Japan",
+   "results": [
+    "https://www.linkedin.com/company/scanwellhealth",
+    "https://scanwell.no/",
+    "https://www.scanwell.com/HOME/",
+    "https://news.bd.com/2021-12-21-BD-Acquires-Scanwell-Health,-Inc-to-Expand-and-Scale-Digital-At-Home-Testing",
+    "https://note.com/saki_oshima/n/n80573f27630f",
+    "https://huntscreens.com/ja/products/scanwell-health",
+    "https://tracxn.com/d/companies/scanwellhealth/__0168JiGTvIGwIvB3dMXOp985HBOLKcIxsgp-rzoP1xo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scanwellhealth manufacturing customer case study",
+   "results": [
+    "https://www.linkedin.com/company/scanwellhealth",
+    "https://www.hsiaokatherine.com/scanwell-health",
+    "https://reforgers.com/startups/scanwell-health",
+    "https://news.bd.com/2021-12-21-BD-Acquires-Scanwell-Health,-Inc-to-Expand-and-Scale-Digital-At-Home-Testing",
+    "https://versionone.vc/announcing-scanwell/",
+    "https://aventure.vc/companies/scanwell-health",
+    "https://investors.bd.com/news-events/press-releases/detail/112/bd-acquires-scanwell-health-inc-to-expand-and-scale-digital-at-home-testing"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scanwellhealth white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://reseller.amazon.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scanwellhealth founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/scanwellhealth/__0168JiGTvIGwIvB3dMXOp985HBOLKcIxsgp-rzoP1xo",
+    "https://prospeo.io/c/scanwell-health-revenue",
+    "https://pitchbook.com/profiles/company/231421-42",
+    "https://startupintros.com/orgs/scanwell-health",
+    "https://www.thecompanycheck.com/company/b/scanwell-health/nnjnklh76prvpkuik",
+    "https://compworth.com/company/scanwell",
+    "https://www.cbinsights.com/company/scanwell-health"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Scanwellhealth",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/keihin_4/n/n7be5d691c5d7",
+    "https://note.com/tag/ポリティカルパン",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/saki_oshima/n/n80573f27630f",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Scanwellhealth",
+   "results": [
+    "https://x.com/JackJeng/status/1244674066599923713",
+    "https://x.com/janejchung/status/1024408951289307136",
+    "https://x.com/",
+    "https://x.com/JackJeng/status/1244855097009377281",
+    "https://x.com/CreoleCockpit_9/status/2114703012320940216",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/_InfoGram_/status/2118253289573949943"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Scanwellhealth",
+   "results": [
+    "https://www.linkedin.com/company/scanwellhealth",
+    "https://www.linkedin.com/posts/bd1_bd-acquires-scanwell-health-inc-to-expand-activity-6879029395734962176-aBp7",
+    "https://www.linkedin.com/in/athena-abouta-3a03021ba",
+    "https://www.linkedin.com/posts/colbi_scanwell-health-moves-beyond-home-uti-testing-activity-6517095991647309824-xMRo",
+    "https://www.linkedin.com/posts/calvin-l-klitz-14286_bd-acquires-scanwell-health-inc-to-expand-activity-6879169573397008384-YlJI",
+    "https://fi.linkedin.com/posts/michaelnasuta_bd-acquires-scanwell-health-inc-to-expand-activity-6879795099216211968-BcBk",
+    "https://in.linkedin.com/posts/tompolen-bd-ceo_bd-acquires-scanwell-health-inc-to-expand-activity-6879088422003310593-v0PK"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Scanwellhealth",
+   "results": [
+    "https://www.facebook.com/Scanwell-Health-103567464954107/",
+    "https://www.facebook.com/zeus.updates/posts/companies-continue-to-refine-digital-diagnostic-tools-for-in-home-healthcare-at-/1147814832094330/",
+    "https://www.facebook.com/scanwellhealth/",
+    "https://www.facebook.com/Scanwell-Health-Acquired-by-Becton-Dickinson-105815959248617/",
+    "https://www.facebook.com/ScanwellGraphics/",
+    "https://www.facebook.com/BigSwing/posts/congrats-to-scanwell-health-for-being-recognized-by-fast-company-in-its-world-ch/2947449221997732/",
+    "https://www.facebook.com/StepStoneVC/posts/scanwell-an-fda-cleared-modern-diagnostics-company-offering-in-home-health-testi/3269184929790820/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scanwellhealth note 社長",
+   "results": [
+    "https://tracxn.com/d/companies/scanwellhealth/__0168JiGTvIGwIvB3dMXOp985HBOLKcIxsgp-rzoP1xo",
+    "https://pitchbook.com/profiles/company/231421-42",
+    "https://www.linkedin.com/company/scanwellhealth",
+    "https://goldhouse.org/people/stephen-chen/",
+    "https://www.crunchbase.com/person/stephen-chen",
+    "https://www.thecompanycheck.com/company/b/scanwell-health/nnjnklh76prvpkuik",
+    "https://biobase.whitefordresearch.com/companies/scanwell-health"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Scanwellhealth X 投稿",
+   "results": [
+    "https://x.com/scanwellhealth",
+    "https://x.com/scanwell",
+    "https://www.linkedin.com/company/scanwellhealth",
+    "https://www.scanwell.online/",
+    "https://scanwell.no/",
+    "https://www.scanwell.online/register.html",
+    "https://www.thecompanycheck.com/company/b/scanwell-health/nnjnklh76prvpkuik"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

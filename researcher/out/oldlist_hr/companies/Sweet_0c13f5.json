@@ -1,0 +1,1650 @@
+{
+ "name": "Sweet",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-11T07:26:41.470472+00:00",
+ "official_url": "https://www.sweet.security",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Sweet Security: Autonomous Protection for the AI Enterprise",
+    "url": "https://www.sweet.security/",
+    "pass": 1
+   },
+   {
+    "quote": "See what’s real. Protect your cloud, apps, and AI from within.",
+    "url": "https://www.sweet.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Security teams run Sweet across cloud and AI, in production",
+    "url": "https://www.sweet.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Sweet lives in runtime, where intent turns into action. It catches ill behavior as it happens, then acts in the moment so nothing breaks in live production.",
+    "url": "https://www.sweet.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect threats the moment they act, and turn every fix into a real-time guardrail that stops them returning, across cloud workloads and autonomous AI agents alike.",
+    "url": "https://www.sweet.security/",
+    "pass": 1
+   },
+   {
+    "quote": "that prior engagements missed — paired with a prioritized remediation plan we could action immediately. The depth and usability set it apart.\"",
+    "url": "https://www.sweet.security/",
+    "pass": 1
+   },
+   {
+    "quote": "remediating vulnerabilities to preventing breaches.",
+    "url": "https://www.sweet.security/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Sweet’s eBPF-based approach was the game changer. It’s so lean and efficient that we could implement it without worrying about performance degradation.\"",
+    "url": "https://www.sweet.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Sweet doesn't just flag AI risk, it blocks a rogue agent the moment it acts, traces the full attack path from prompt to data, and turns the fix into a one-click runtime guardrail. Every finding comes with the action that resolves it.",
+    "url": "https://www.sweet.security/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe that cloud security can be delightful, and we wake up every morning with a purpose of building the most precise, relevant, and intuitive security solution for the cloud. More so, we believe we are critically positioned to address cloud security’s sweet spot, with the evolution of runtime and cloud technologies.",
+    "url": "https://www.sweet.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "SecurityScorecard President",
+    "url": "https://www.sweet.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sweet Security is redefining enterprise cloud protection. As the leading provider of Runtime CNAPP and AI Security solutions, Sweet unifies runtime context with advanced AI intelligence to protect the modern enterprise.",
+    "url": "https://www.sweet.security/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The best security is effortless, smooth, and leaves you with peace of mind—just like a perfectly made dessert. At Sweet Security, we craft cloud protection that’s powerful, seamless, and built to be enjoyed.",
+    "url": "https://www.sweet.security/career",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product Marketing",
+    "url": "https://www.sweet.security/career",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager",
+    "url": "https://www.sweet.security/career",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive (West USA)",
+    "url": "https://www.sweet.security/career",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive (Central USA)",
+    "url": "https://www.sweet.security/career",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive (East USA)",
+    "url": "https://www.sweet.security/career",
+    "pass": 1
+   },
+   {
+    "quote": "Men’s PREPPY（メンズプレッピー）",
+    "url": "https://www.hrks.jp/ad/media/woman/w2030/sweet/",
+    "pass": 3
+   },
+   {
+    "quote": "Proudly powered by WordPress",
+    "url": "https://www.hrks.jp/ad/media/woman/w2030/sweet/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": ") being prepared in a store in",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "are made in a wide variety of shapes and consistencies and with diverse ingredients and preparation methods.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "are popular throughout Japan and each region has its specialties, but many products are regional or seasonal.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": ". Sweet and savory varieties are prepared.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "is prepared with azuki bean jam filling sandwiched between two thin crisp wafers made from mochi.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "is prepared with jelly extracted from",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": ") by boiling. Pressed against a device, jelly is shaped into noodles.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": ". 27 April 2023. Archived from",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "on 26 April 2023",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Nikkei. 24 April 2014. Archived from",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "Lists of prepared foods",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "Breads, grains,",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "This page was last edited on 10 April 2026, at 10:50",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": ". They are made in a wide variety of shapes and consistencies and with diverse ingredients and preparation methods. Some are popular across the country and around the year while others are only available regionally or seasonally.",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "Awarded One Star in 2025 - With a meticulous focus on allowing guests to enjoy seasonal ingredients at their peak, the menu changes approximately every two weeks. The signature dish, \"Grilled Abalone with Seaweed Aroma,\" features thick slices of abalone generously coated in a rich liver sauce, offering an exquisite taste of the sea.",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "Awarded One Star in 2024 - The sister restaurant of the highly exclusive Japanese cuisine establishment, Kyotenjin Noguchi. While maintaining the culinary essence of the main branch, this kappo-style restaurant incorporates ingredients from the chef’s hometown in the Goto Islands. Its signature dish, Nikusui, is a masterpiece made from carefully prepared, top-quality A5-grade sirloin.",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "A restaurant that elevates Osaka's soul food, kushikatsu, to a luxurious level. Skilled chefs meticulously prepare each skewer using carefully selected premium ingredients such as Chateaubriand and foie gras. The skewers are fried in a custom copper pot using a unique oil blend based on cottonseed oil, enhancing the natural flavors of the ingredients.",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "At the teahouse Temari in Hase, Kamakura, you can learn to make traditional Japanese sweets, nerikiri, from a skilled wagashi artisan. After crafting your sweets, watch the artisan demonstrate advanced techniques up close, then enjoy your freshly made treats with matcha you prepared yourself.",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Partnership With Sweet Manufacturing Solves Field Problems",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Plate & Sheet Processing",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Mission and Principles",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "of Springfield, Ohio is a leader in outdoor bulk material handling equipment used for grain storage and industrial applications. Founded in 1955, Sweet’s continuous innovation and reputation for quality have earned worldwide recognition, with its products found in 55 countries on 6 continents.",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "“Even though Benjamin didn’t fabricate the frame for us, they are excellent problem solvers, so I brought them into our root cause analysis and correction efforts,” McClintock states. “We were sawing the angle and drilling bolt holes, then sending the parts to an outside shop to be welded into the picture frame. The welding fit-up wasn’t being done consistently. That turned out to be the culprit.”",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "“Pat and his team brainstormed ideas with us,” recalls Dana Davis, Benjamin Steel’s Processing Technician. “We suggested adding notches and tabs to the individual parts so they could be interlocked when welding to keep the fit-up right. We made a series of prototype parts for Sweet to use and evaluate. We also recommended that they bring the welding in-house to own the quality control.”",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Processing Technology",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Springfield, OH 45502",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "April 15, 2021",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Before selecting a vendor, Melt reached out to industry peers and did a fair amount of online research on prices, lead times, the manufacturing process and the latest innovations in manufacturing. In addition, the company became very well-versed in the importance of using high quality foam in-place polyurethane versus inferior, cheaper alternatives.",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "The Implementation Process",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Melt also was impressed by the seamless experience of working with KPS Global. When asked to describe his experience, Mark doesn’t hesitate.",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "KPSG and Mike Thayer at Manufacturer’s Direct handled everything -design, manufacturing and installation- making my life easier on the path to purchase” stated Mark. “In addition, we were continually impressed with the responsiveness and knowledge of everyone we encountered.”",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Despite being faced with challenges, the installation process was smooth. “The installers had quite a few challenges with uneven floors and walls to work around but, no obstacle stood in their way and, in the end, everything came together perfectly,” said Mark.",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Floral Department Springs into Growth with KPS Global",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Live Fire Training",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Cold Storage Ripening Rooms: How Controlled Environments Improve Produce Quality and Reduce Waste",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "KPS Global's Privacy Policy",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/188090-29",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/188090-29",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "当社7隻目のLNG燃料自動車専用船「SWEET PEA LEADER」が竣工 | 日本郵船株式会社",
+    "url": "https://www.nyk.com/news/2023/20231027_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社が日本シップヤード株式会社（東京都千代田区）に発注していたLNG燃料自動車専用船「SWEET PEA LEADER」（スイートピーリーダー、以下「本船」）が、10月26日、今治造船グループの多度津造船株式会社（香川県仲多度郡）で竣工しました",
+    "url": "https://www.nyk.com/news/2023/20231027_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "本船は今後、トヨタ自動車株式会社向けをはじめとした完成車輸送に従事します",
+    "url": "https://www.nyk.com/news/2023/20231027_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本郵船グループは、中期経営計画 “",
+    "url": "https://www.nyk.com/news/2023/20231027_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "広告代理店・制作会社・印刷会社・クライアント営業担当の皆様",
+    "url": "https://www.hrks.jp/ad/media/woman/w2030/sweet/",
+    "pass": 3
+   },
+   {
+    "quote": "List of Japanese desserts and sweets - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "List of Japanese desserts and sweets",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "The Japanese had been making desserts for centuries before",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "sugar was widely available in Japan",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": ". Many desserts commonly available in Japan can be traced back hundreds of years.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "However, the definition of wagashi is ambiguous, and the line between wagashi and other types of Japanese confectionery is vague. For example, although the original",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "was introduced from Portugal, it has been around for more than 400 years and has been modified to suit Japanese tastes, so it is classified as a wagashi.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "and is recognized as a wagashi in Japan.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "is a seasonal dessert in Japanese cuisine available in the summer.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "is a Japanese confection made from",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "is a traditional Japanese",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "are popular throughout Japan and each region has its specialties, but many products are regional or seasonal.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "is a type of bite-sized Japanese",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "is a Japanese sweet usually eaten at the beginning of the year.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "is a popular traditional Japanese confection; most have an outside made from",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "from Japan which is translated literally to \"water candy\". A clear, thick, sticky",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese tea ceremony",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "\", is a Japanese",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "is a traditional Japanese steamed cake made of",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese cuisine – Sweets",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "List of Japanese dishes – Japanese-style sweets",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "38 Japanese Desserts. (n.d.). Retrieved from",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.japan-talk.com/jt/new/japanese-desserts",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Japan Wagashi Association. Archived from",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Japan 日本のミニケーキ - YouTube",
+    "url": "https://www.youtube.com/channel/UCjph97tJFCf2LiGEciRlIAA",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Traditional Sweets (Wagashi)",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "Wagashi (�a�َq) are traditional Japanese sweets that are typically enjoyed in combination with a cup of",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet azuki bean paste (anko) is a central ingredient in a large number of Japanese sweets. Boiled azuki beans are sweetened with sugar and mashed to create either smooth anko (koshian) or chunky anko (tsubuan). Other common ingredients for wagashi include",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": ", Japanese agar (kanten), sesame paste and chestnuts.",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "is a good place to sample Japanese traditional sweets from",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "Namagashi (lit. raw sweets) are traditional Japanese sweets that are most often associated with wagashi. They are made of rice flour and a sweet bean paste filling, and are delicately shaped by hand to reflect the season. Namagashi are served at the",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "View on JapanEatinerary",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "Exquisite fried dishes crafted by a head chef with experience earning stars in both Switzerland and Japan. The remarkably light tonkatsu is a favorite not only among Japanese diners but also among visitors to Japan. With the theme of \"small portions, many varieties,\" guests can enjoy sampling a wide selection of tonkatsu in smaller portions.",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "Awarded One Star in 2024 - A unique sushi restaurant that blends traditional Edomae (Tokyo-style) sushi with Kyoto-style sushi, such as mackerel sushi and steamed sushi, in its courses. The head chef, who trained as a sushi artisan in Switzerland, carefully selects Swiss wines, making them a perfect pairing to enjoy with the meal.",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "Awarded One Star in 2024 - The sister restaurant of the highly exclusive Japanese cuisine establishment, Kyotenjin Noguchi. While maintaining the culinary essence of the main branch, this kappo-style restaurant incorporates ingredients from the chef’s hometown in the Goto Islands. Its signature dish, Nikusui, is a masterpiece made from carefully prepared, top-quality A5-grade sirloin.",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "TEMPURA & WINE SHINO (Tokyo)",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "Ginza Nominokoji Yamagishi (Tokyo)",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "Kitashinchi Kushikatsu Bon (Osaka)",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "A restaurant that elevates Osaka's soul food, kushikatsu, to a luxurious level. Skilled chefs meticulously prepare each skewer using carefully selected premium ingredients such as Chateaubriand and foie gras. The skewers are fried in a custom copper pot using a unique oil blend based on cottonseed oil, enhancing the natural flavors of the ingredients.",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "See more on JapanEatinerary",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "At the teahouse Temari in Hase, Kamakura, you can learn to make traditional Japanese sweets, nerikiri, from a skilled wagashi artisan. After crafting your sweets, watch the artisan demonstrate advanced techniques up close, then enjoy your freshly made treats with matcha you prepared yourself.",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "J.sweets - Delectable Japanese Sweets – J_sweets_USA",
+    "url": "https://jsweetsstore.com/?srsltid=AYCX9vK6JFqvRPjSxInal_gKELFr6d7l_RyxMU5WZaUnXoO4Nc5PAq_I",
+    "pass": 3
+   },
+   {
+    "quote": "The flavors that define a Japanese autumn.",
+    "url": "https://jsweetsstore.com/?srsltid=AYCX9vK6JFqvRPjSxInal_gKELFr6d7l_RyxMU5WZaUnXoO4Nc5PAq_I",
+    "pass": 3
+   },
+   {
+    "quote": "As the leaves fall, warm up with a cup of tea and Japanese baked treats.",
+    "url": "https://jsweetsstore.com/?srsltid=AYCX9vK6JFqvRPjSxInal_gKELFr6d7l_RyxMU5WZaUnXoO4Nc5PAq_I",
+    "pass": 3
+   },
+   {
+    "quote": "Wagashi (Japanese Traditional Sweets)",
+    "url": "https://jsweetsstore.com/?srsltid=AYCX9vK6JFqvRPjSxInal_gKELFr6d7l_RyxMU5WZaUnXoO4Nc5PAq_I",
+    "pass": 3
+   },
+   {
+    "quote": "J.sweets - Delectable Japanese Sweets",
+    "url": "https://jsweetsstore.com/?srsltid=AYCX9vK6JFqvRPjSxInal_gKELFr6d7l_RyxMU5WZaUnXoO4Nc5PAq_I",
+    "pass": 3
+   },
+   {
+    "quote": "Enoki Shuzo in Kure, Hiroshima, is the brewery that first commercialized Kijoshu in Japan in",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet sake is a versatile drink that pairs well not only with desserts and cheese but also with fruit and Japanese confections. Here are some recommended pairings for each type.",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For Japanese sweets, match the sweetness levels",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet sake goes very well with Japanese sweets that use red bean paste.",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "article on sake that goes well with Japanese sweets",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to choose Japanese sweets that go well with sake | Pairing techniques that make the sweet-on-sweet combination addictive",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The ideal storage temperature is considered to be around 13–16°C (according to Tokyo Gas's lifestyle information media).",
+    "url": "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "当社7隻目のLNG燃料自動車専用船「 SWEET PEA LEADER ... — 当社7隻目のLNG燃料自動車専用船「 SWEET PEA LEADER ... 日本郵船株式会社 https://www.nyk.com > ... > ニュースリリース：2023年",
+    "url": "https://www.nyk.com/news/2023/20231027_02.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet 広告料金など媒体概要 | 総合広告 代理店 株式会社産案 — Sweet 広告料金など媒体概要 | 総合広告 代理店 株式会社産案 株式会社 産案 https://www.san-an.co.jp > media > magazine > item_270",
+    "url": "https://www.san-an.co.jp/media/magazine/magazine_advertising33/item_270",
+    "pass": 3
+   },
+   {
+    "quote": "スウィート sweet 広告掲載料金 媒体資料 - 雑誌広告代理店HRKS — スウィート sweet 広告掲載料金 媒体資料 - 雑誌広告代理店HRKS 雑誌広告代理店HRKS https://www.hrks.jp > ... > 女性２０代から３０代女性誌",
+    "url": "https://www.hrks.jp/ad/media/woman/w2030/sweet/",
+    "pass": 3
+   },
+   {
+    "quote": "List of Japanese desserts and sweets - Wikipedia — List of Japanese desserts and sweets - Wikipedia Wikipedia https://en.wikipedia.org > wiki > List_...",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Japan 日本 のミニケーキ - YouTube — Sweet Japan 日本 のミニケーキ - YouTube YouTube https://www.youtube.com > channel",
+    "url": "https://www.youtube.com/channel/UCjph97tJFCf2LiGEciRlIAA",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Traditional Sweets (Wagashi) - Japan Guide — Japanese Traditional Sweets (Wagashi) - Japan Guide Japan Guide https://www.japan-guide.com > ...",
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "pass": 3
+   },
+   {
+    "quote": "J.sweets - Delectable Japanese Sweets – J_sweets_USA — J.sweets - Delectable Japanese Sweets – J_sweets_USA J.sweets https://jsweetsstore.com",
+    "url": "https://jsweetsstore.com/?srsltid=AYCX9vK6JFqvRPjSxInal_gKELFr6d7l_RyxMU5WZaUnXoO4Nc5PAq_I",
+    "pass": 3
+   },
+   {
+    "quote": "20 Traditional Japanese Sweets & Desserts Tourists Must Try — 20 Traditional Japanese Sweets & Desserts Tourists Must Try Vacaywork https://vacaywork.com > Japan",
+    "url": "https://vacaywork.com/traditional-japanese-sweets-and-desserts-to-try/",
+    "pass": 3
+   },
+   {
+    "quote": "Partnership With Sweet Manufacturing Solves Field Problems — Partnership With Sweet Manufacturing Solves Field Problems Benjamin Steel Company https://www.benjaminsteel.com > swe...",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study : Melt and The Sweet Taste of Success - KPS Global — Case Study : Melt and The Sweet Taste of Success - KPS Global KPS Global https://kpsglobal.com > blog > case-st...",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet 2026 Company Profile: Valuation, Funding & Investors — Sweet 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/188090-29",
+    "pass": 3
+   },
+   {
+    "quote": "Sweets from the Earth's Competitors, Revenue ... - Owler — Sweets from the Earth's Competitors, Revenue ... - Owler Owler https://www.owler.com > company",
+    "url": "https://www.owler.com/company/sweetsfromtheearth",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet - 2026 Company Profile, Team, Funding & Competitors — Sweet - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/sweet/__PbYCrm1nykkbwbVQiJpOOwkK2hA7gKBGuQ2VxMR37iQ",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Nothings: Revenue , Competitors, Alternatives - Growjo — Sweet Nothings: Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Sweet_Nothings",
+    "url": "https://growjo.com/company/Sweet_Nothings",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "BEST FLOWER ARRANGEMENT",
+    "url": "https://www.hrks.jp/ad/media/woman/w2030/sweet/",
+    "pass": 3
+   },
+   {
+    "quote": "“The building has been a food manufacturing facility since the 1890s and we’re elated that Melt will carry on in that tradition,” Mark said.",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/188090-29",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet has 70 total employees.",
+    "url": "https://pitchbook.com/profiles/company/188090-29",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sweet’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/188090-29",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Sweet is",
+    "url": "https://pitchbook.com/profiles/company/188090-29",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet sake is easier to narrow down if you choose based on three factors: whether it is light or rich, the type of aroma, and the drinking occasion.",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The sweet and tart flavor is characteristic of Senkin, with the vibrant acidity derived from the Kimoto method tightening the finish after the sweetness. Although it is pasteurized, the brewery requests that it be kept refrigerated, so please put it in the fridge once it arrives. The brewery is introduced in detail in the",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "raw sake, please store it upright in the refrigerator as soon as it arrives. Details are summarized in the",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Once it arrives, we recommend storing it in the refrigerator and enjoying it well-chilled in small glasses. You can taste a fresh, vibrant sweetness not found in aged Kijoshu.",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Please put nama-zake like Kazenomori or Raifuku in the refrigerator as soon as it arrives.",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Management holds common stock in the company with a small amount of their own capital and receives the fruits of corporate value enhancement at an exponential multiple. Understanding this design makes it clear why executives under PE ownership can earn amounts incomparable to the compensation of listed company directors, and why PE firms say that 'the look in management's eyes changes.'",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By pre-incorporating structures (drag-along/tag-along) that align management with the sale process as shareholders, we avoid situations where management's interests conflict with the fund's at the time of exit. In the case of an IPO, design that looks ahead to lock-ups and post-listing capital policy is required.",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "An example where the top executive personally invested and partnered with a fund is the 2014 MBO of Roland. The president teamed up with Taiyo Pacific Partners to take the company private, and after structural reform, it re-listed in 2020. The structure where the top executive takes risks with their own capital is the very embodiment of the sweet equity philosophy.",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Q3: \"What is the most contentious part of designing an MIP?\"",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, it is said that starch gelatinizes (the state where it becomes soft due to heating) and enzymes become easier to work with starting at approximately 65–75°C. In other words, the enzymes can only work within a narrow temperature range between when gelatinization begins and when the enzymes stop.",
+    "url": "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "is typically made from plant ingredients.",
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Partnership With Sweet Manufacturing Solves Field Problems",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "of Springfield, Ohio is a leader in outdoor bulk material handling equipment used for grain storage and industrial applications. Founded in 1955, Sweet’s continuous innovation and reputation for quality have earned worldwide recognition, with its products found in 55 countries on 6 continents.",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "TKS Industrial Company",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "15 Mansfield Industrial Pkwy.",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Melt: The Sweet Taste of Success | Case Study | KPS Global",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Melt and The Sweet Taste of Success",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "“The building has been a food manufacturing facility since the 1890s and we’re elated that Melt will carry on in that tradition,” Mark said.",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Before selecting a vendor, Melt reached out to industry peers and did a fair amount of online research on prices, lead times, the manufacturing process and the latest innovations in manufacturing. In addition, the company became very well-versed in the importance of using high quality foam in-place polyurethane versus inferior, cheaper alternatives.",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "KPSG and Mike Thayer at Manufacturer’s Direct handled everything -design, manufacturing and installation- making my life easier on the path to purchase” stated Mark. “In addition, we were continually impressed with the responsiveness and knowledge of everyone we encountered.”",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "To download this case study,",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Floral Department Springs into Growth with KPS Global",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Live Fire Training",
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "sales@benjaminsteel.com",
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/188090-29",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "10 Recommended Sweet Sake Selections | Fruity, Easy-to ... 10 Recommended Sweet Sake Selections | Fruity, Easy-to ... note https://note.com > ... > 商品レビュー",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "PE Fund Terminology 107: What are MIP/ Sweet Equity ... - note PE Fund Terminology 107: What are MIP/ Sweet Equity ... - note note https://note.com > petenshoku",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing 5 types of Mister Donut's Sweet Potato Do ... - note Comparing 5 types of Mister Donut's Sweet Potato Do ... - note note https://note.com > ... > 商品レビュー",
+    "url": "https://note.com/life_jaga_farm/n/n74d67d0e37aa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is 'heating too quickly' why your sweet potatoes aren't ... - note Is 'heating too quickly' why your sweet potatoes aren't ... - note note https://note.com > ... > レシピ・作り方",
+    "url": "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "企画展示 Sweet Me 出展作家さまの X投稿 をシェアいたします ... 企画展示 Sweet Me 出展作家さまの X投稿 をシェアいたします ... note https://note.com > アート・デザイン > イラスト",
+    "url": "https://note.com/irukasyorin/n/n6411142158e8",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Senkin underwent a rebranding they called \"Edo-gaeri,\" and the entire Modern series is now Kimoto-brewed.",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "10 Recommended Sweet Sake Selections | Fruity, Easy-to-Drink Brands and How to Choose｜Tasterr（テイスター）",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "10 Recommended Sweet Sake Selections | Fruity, Easy-to-Drink Brands and How to Choose",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When choosing sweet sake, you first want to decide between",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Even within the category of \"sweet,\" the amount you pour and the dishes that pair well differ significantly between sake that offers a light, fruit-like aroma and sake that provides a syrupy sweetness meant to be savored like a dessert.",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have compiled how to read the",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sake Meter Value (SMV)",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "on labels, how to choose by type, and",
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "PE Fund Terminology 107: What are MIP/Sweet Equity? [Explaining Management Incentive Mechanisms with Figures and Case Studies]｜petenshoku",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "PE Fund Terminology 107: What are MIP/Sweet Equity? [Explaining Management Incentive Mechanisms with Figures and Case Studies]",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The success or failure of a buyout investment ultimately depends on whether the management team runs with genuine commitment. The strategies and capital brought in by the fund are merely tools, as it is the management team that makes the day-to-day decisions.",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To elicit that commitment, PE firms use the capital structure itself rather than just compensation schemes. This is the MIP, and the core mechanism within it is sweet equity.",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Management holds common stock in the company with a small amount of their own capital and receives the fruits of corporate value enhancement at an exponential multiple. Understanding this design makes it clear why executives under PE ownership can earn amounts incomparable to the compensation of listed company directors, and why PE firms say that 'the look in management's eyes changes.'",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will organize the definitions, the mechanisms that amplify returns, effective scenarios, and domestic case studies so that job seekers and those looking to change careers can explain them without misunderstanding during interviews. (Please note that the figures provided are illustrative and do not necessarily match actual numerical values.)",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What are MIP/Sweet Equity: Definitions and Mechanisms for Amplifying Returns",
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing 5 types of Mister Donut's Sweet Potato Do. Our couple's #1 pick is Crème Brûlée｜メイ",
+    "url": "https://note.com/life_jaga_farm/n/n74d67d0e37aa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/life_jaga_farm/n/n74d67d0e37aa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing 5 types of Mister Donut's Sweet Potato Do. Our couple's #1 pick is Crème Brûlée",
+    "url": "https://note.com/life_jaga_farm/n/n74d67d0e37aa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mister Donut's \"Sweet Potato Do\" was released on September 2nd. Thinking that it was out again this year, I reserved one of each of the 5 types and bought them all. We shared them among our family of four, so I'll summarize our impressions.",
+    "url": "https://note.com/life_jaga_farm/n/n74d67d0e37aa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The 5 types of Sweet Potato Do",
+    "url": "https://note.com/life_jaga_farm/n/n74d67d0e37aa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I'll say this first: the dough has changed from last year. I'll write honestly, including that point.",
+    "url": "https://note.com/life_jaga_farm/n/n74d67d0e37aa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I reserved them online. They were also available in-store on the day.",
+    "url": "https://note.com/life_jaga_farm/n/n74d67d0e37aa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Last time with Mister Donut, the pre-order dates were set and I had to struggle with the app from the morning, but this time it was normal. I just reserved them via online order two days before the release.",
+    "url": "https://note.com/life_jaga_farm/n/n74d67d0e37aa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is 'heating too quickly' why your sweet potatoes aren't sweet? A former chef explains why you should raise the temperature slowly｜料理と現場のラクする研究所",
+    "url": "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is 'heating too quickly' why your sweet potatoes aren't sweet? A former chef explains why you should raise the temperature slowly",
+    "url": "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Have you ever bought sweet potatoes, boiled them or steamed them, only to find they weren't very sweet? Instead of being fluffy, they were watery and bland. Have you ever had that experience?",
+    "url": "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's easy to think, \"Maybe this year's sweet potatoes just weren't very good,\" but the cause is often not the potato itself, but rather",
+    "url": "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "how you apply the heat",
+    "url": "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Even after working in professional kitchens for a long time, I feel that the basic rule for sweet potatoes is \"don't rush the heat.\" Today, I will break down the mechanism behind why sweet potatoes become sweet and share some heating tips you can use at home.",
+    "url": "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet potatoes are vegetables that get sweeter while being heated",
+    "url": "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "企画展示 🎀Sweet Me 出展作家さまのX投稿をシェアいたします。可愛すぎる作品が大集合♪♪｜新刊書店 イルカ書林（愛知県一宮市）",
+    "url": "https://note.com/irukasyorin/n/n6411142158e8",
+    "pass": 3
+   },
+   {
+    "quote": "企画展示 🎀Sweet Me 出展作家さまのX投稿をシェアいたします。可愛すぎる作品が大集合♪♪",
+    "url": "https://note.com/irukasyorin/n/n6411142158e8",
+    "pass": 3
+   },
+   {
+    "quote": "作家さま方の投稿がとっても可愛いので紹介いたします。",
+    "url": "https://note.com/irukasyorin/n/n6411142158e8",
+    "pass": 3
+   },
+   {
+    "quote": "イルカ書林さんで開かれる展示会「Sweet Me」は9/1(火)からスタートです⟡.·*.",
+    "url": "https://note.com/irukasyorin/n/n6411142158e8",
+    "pass": 3
+   },
+   {
+    "quote": "私は額装作品3点、ミニ原画4点を飾っていただきます。",
+    "url": "https://note.com/irukasyorin/n/n6411142158e8",
+    "pass": 3
+   },
+   {
+    "quote": "https://t.co/s16Sg8R5sI",
+    "url": "https://note.com/irukasyorin/n/n6411142158e8",
+    "pass": 3
+   },
+   {
+    "quote": "https://t.co/2cJjNyE6BS",
+    "url": "https://note.com/irukasyorin/n/n6411142158e8",
+    "pass": 3
+   },
+   {
+    "quote": "https://t.co/NeS6VNhk54",
+    "url": "https://note.com/irukasyorin/n/n6411142158e8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "The Sweet (@SweetOfficial) / X The Sweet (@SweetOfficial) / X X https://x.com > SweetOfficial",
+    "url": "https://x.com/SweetOfficial",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Pill (@sweetpilll) / X Sweet Pill (@sweetpilll) / X X https://x.com > sweetpilll",
+    "url": "https://x.com/sweetpilll",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet - X Sweet - X X https://x.com > sweet",
+    "url": "https://x.com/sweet",
+    "pass": 3
+   },
+   {
+    "quote": "Matthew Sweet (@iammatthewsweet) / X Matthew Sweet (@iammatthewsweet) / X X https://x.com > iammatthewsweet",
+    "url": "https://x.com/iammatthewsweet",
+    "pass": 3
+   },
+   {
+    "quote": "sweet (@sweet_twjp) / X sweet (@sweet_twjp) / X X https://x.com > sweet_twjp",
+    "url": "https://x.com/sweet_twjp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "So Sweet - LinkedIn So Sweet - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/sosweetproteins/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet - LinkedIn Sweet - LinkedIn LinkedIn https://www.linkedin.com > sweetscor",
+    "url": "https://www.linkedin.com/company/sweetscor",
+    "pass": 3
+   },
+   {
+    "quote": "Jay Sweet - Essex, Massachusetts, United States - LinkedIn Jay Sweet - Essex, Massachusetts, United States - LinkedIn LinkedIn https://www.linkedin.com > jay-sweet...",
+    "url": "https://www.linkedin.com/in/jay-sweet-6a97871",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet | LinkedIn Sweet | LinkedIn LinkedIn https://www.linkedin.com > verysweet",
+    "url": "https://www.linkedin.com/company/verysweet",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "The Sweet (@TheSweetOfficial) - Facebook The Sweet (@TheSweetOfficial) - Facebook Facebook https://www.facebook.com > TheSweetOfficial",
+    "url": "https://www.facebook.com/TheSweetOfficial/",
+    "pass": 3
+   },
+   {
+    "quote": "Michael Sweet | Plymouth MA - Facebook Michael Sweet | Plymouth MA - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/TheMichaelSweet/",
+    "pass": 3
+   },
+   {
+    "quote": "How Sweet It Is (@howsweeteats) - Facebook How Sweet It Is (@howsweeteats) - Facebook Facebook https://www.facebook.com > ... > Public figure > Blogger",
+    "url": "https://www.facebook.com/howsweeteats/",
+    "pass": 3
+   },
+   {
+    "quote": "The Sweet | Woodland Hills CA - Facebook The Sweet | Woodland Hills CA - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/SPSweetBand/",
+    "pass": 3
+   },
+   {
+    "quote": "Happy 29th Birthday to the man behind the Sweetnotes Music ... Happy 29th Birthday to the man behind the Sweetnotes Music ... Facebook https://www.facebook.com > SweetnotesDuo > posts > ha...",
+    "url": "https://www.facebook.com/SweetnotesDuo/posts/happy-29th-birthday-to-the-man-behind-the-sweetnotes-music-sir-bj-%EF%B8%8F/691403852845973/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sweet.security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweet.security/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweet.security/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweet.security/career",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/671e67b935e33231695d5a63/6739d4791c22434577c877f1_Evolution%20partners.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercedes-benz.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nyk.com/news/2023/20231027_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.san-an.co.jp/media/magazine/magazine_advertising33/item_270",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sweeet.biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://caiya-llc.com/business/%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84%E4%BB%A3%E7%90%86%E5%BA%97%E8%B2%A9%E5%A3%B2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hrks.jp/ad/media/woman/w2030/sweet/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/channel/UCjph97tJFCf2LiGEciRlIAA",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japan-guide.com/e/e2312.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsweetsstore.com/?srsltid=AYCX9vK6JFqvRPjSxInal_gKELFr6d7l_RyxMU5WZaUnXoO4Nc5PAq_I",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJO8X7va4U4jdJJl48Y5MJ-QM4_gu3xEVnpXYPi8a19hZ0jiXWe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.bt.com/insights/case-studies/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/188090-29",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/pleaseandthankyou",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/sweetsfromtheearth",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sweet/__PbYCrm1nykkbwbVQiJpOOwkK2hA7gKBGuQ2VxMR37iQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/life_jaga_farm/n/n74d67d0e37aa?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SweetOfficial",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sweetpilll",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sweet",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/iammatthewsweet",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sosweetproteins/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sweetscor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jay-sweet-6a97871",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/verysweet",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheSweetOfficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheMichaelSweet/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/howsweeteats/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SPSweetBand/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SweetnotesDuo/posts/happy-29th-birthday-to-the-man-behind-the-sweetnotes-music-sir-bj-%EF%B8%8F/691403852845973/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sweet_twjp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/irukasyorin/n/n6411142158e8",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sweet 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://www.mercedes-benz.co.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.nyk.com/news/2023/20231027_02.html",
+    "https://www.webcg.net/articles/-/54501",
+    "https://shiodome.co.jp/column/19023/",
+    "https://trafficnews.jp/post/725198",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://sweetweb.jp/",
+    "https://note.com/riri_onkochishin/n/n4d620fb73773"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Sweet 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.san-an.co.jp/media/magazine/magazine_advertising33/item_270",
+    "https://sweeet.biz/",
+    "https://caiya-llc.com/business/%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84%E4%BB%A3%E7%90%86%E5%BA%97%E8%B2%A9%E5%A3%B2/",
+    "https://www.hrks.jp/ad/media/woman/w2030/sweet/",
+    "https://japan.zdnet.com/article/20098084/",
+    "https://b-seeds.com/products/tw-24sweetsshop",
+    "https://www.dreamnews.jp/press/0000084831",
+    "https://toukibo.ai-con.lawyer/search-service/result/1120001288646",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sweet Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/List_of_Japanese_desserts_and_sweets",
+    "https://www.youtube.com/channel/UCjph97tJFCf2LiGEciRlIAA",
+    "https://www.japan-guide.com/e/e2312.html",
+    "https://jsweetsstore.com/?srsltid=AYCX9vK6JFqvRPjSxInal_gKELFr6d7l_RyxMU5WZaUnXoO4Nc5PAq_I",
+    "https://vacaywork.com/traditional-japanese-sweets-and-desserts-to-try/",
+    "https://tokyocheapo.com/food-and-drink/sweets/",
+    "https://musubikiln.com/blogs/journal/a-tasty-tour-of-japans-seasonal-summer-sweets?srsltid=AYCX9vLsoLZ3pdxInNaLzjESDMJA9nKE4f3jEE87yGqEWuatG2E1ZbIZ",
+    "https://www.japancandystore.com/collections/sweet-snacks?srsltid=AYCX9vJGIySbjznweyiv1AadwY5HI38DB04Iqgei6pyavDn-U5Ykq2Qa",
+    "https://grokipedia.com/page/asian_pickles_sweet_sour_salty_cured_and_fermented_preserves_from_korea_japan_china_india_and_(book)",
+    "https://www.tasteatlas.com/best-rated-desserts-in-japan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Sweet manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJO8X7va4U4jdJJl48Y5MJ-QM4_gu3xEVnpXYPi8a19hZ0jiXWe",
+    "https://www.benjaminsteel.com/sweet-manufacturing/",
+    "https://kpsglobal.com/blog/case-study-melt-and-the-sweet-taste-of-success/",
+    "https://business.bt.com/insights/case-studies/manufacturing/",
+    "https://www.manufacturingsuccess.org/case-studies",
+    "https://www.sugarcrm.com/customers/case-studies/page/2/",
+    "https://safetychain.com/resources/case-studies",
+    "https://663810.fs1.hubspotusercontent-na1.net/hubfs/663810/2022%20-%20CLEVR%20Success%20Stories%20EBooks/CLEVR%20Success%20Stories%20-%20Manufacturing%20-%20ENG.pdf",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://fredericksteel.com/sweet-manufacturing/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sweet white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sweet founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/188090-29",
+    "https://wefunder.com/pleaseandthankyou",
+    "https://www.owler.com/company/sweetsfromtheearth",
+    "https://tracxn.com/d/companies/sweet/__PbYCrm1nykkbwbVQiJpOOwkK2hA7gKBGuQ2VxMR37iQ",
+    "https://growjo.com/company/Sweet_Nothings",
+    "https://www.youtube.com/watch?v=GT79ZhJ-SdE&vl=ja",
+    "https://rocketreach.co/sweet-additions-profile_b45e8de1fc7574d5",
+    "https://getlatka.com/companies/sweet-technology",
+    "https://www.zoominfo.com/c/sweet/455129480",
+    "https://compworth.com/company/sweet"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Sweet",
+   "results": [
+    "https://note.com/tasterr/n/n21b59d9b3496?hl=en",
+    "https://note.com/petenshoku/n/n0eee35b9190a?hl=en",
+    "https://note.com/life_jaga_farm/n/n74d67d0e37aa?hl=en",
+    "https://note.com/witty_eagle6195/n/nc7caa92f2204?hl=en",
+    "https://note.com/jyoufukyou/n/n26c7a8cb43dc?hl=en",
+    "https://note.com/nature_wx_lab/n/n014b901b2490?hl=en",
+    "https://note.com/sowsweet0402",
+    "https://note.com/hiromi_note815/n/n3eee6001ea4e?hl=en",
+    "https://note.com/yakumofarm/n/nc77c9a731918?hl=en",
+    "https://note.com/sweetspring/n/nf54a640693eb?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Sweet",
+   "results": [
+    "https://x.com/SweetOfficial",
+    "https://x.com/sweetpilll",
+    "https://x.com/sweet",
+    "https://x.com/iammatthewsweet",
+    "https://x.com/sweetdreams",
+    "https://x.com/LSCCountry",
+    "https://x.com/DrMatthewSweet",
+    "https://x.com/Seahawks/status/2109335001741549754",
+    "https://x.com/gzchef/status/2059708742472454247",
+    "https://x.com/lynnsweet"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Sweet",
+   "results": [
+    "https://www.linkedin.com/company/sosweetproteins/",
+    "https://www.linkedin.com/company/sweetscor",
+    "https://www.linkedin.com/in/jay-sweet-6a97871",
+    "https://www.linkedin.com/company/verysweet",
+    "https://www.linkedin.com/products/sweet-systems-sweet-crm/",
+    "https://www.linkedin.com/in/ryan-sweet-4704148",
+    "https://www.linkedin.com/in/tom-sweet-1690929",
+    "https://www.linkedin.com/in/davidsweet",
+    "https://www.linkedin.com/company/sweet-security",
+    "https://www.linkedin.com/in/trevor-sweet"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Sweet",
+   "results": [
+    "https://www.facebook.com/TheSweetOfficial/",
+    "https://www.facebook.com/TheMichaelSweet/",
+    "https://www.facebook.com/howsweeteats/",
+    "https://www.facebook.com/SPSweetBand/",
+    "https://www.facebook.com/TheRobertSweet/",
+    "https://www.facebook.com/sweetpeaknc/",
+    "https://www.facebook.com/mariahcarey/videos/sugar-sugar-sweet-sweet-/1473542497010660/",
+    "https://www.facebook.com/groups/51493669789/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Sweet note 社長",
+   "results": [
+    "https://www.facebook.com/SweetnotesDuo/posts/happy-29th-birthday-to-the-man-behind-the-sweetnotes-music-sir-bj-%EF%B8%8F/691403852845973/",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Sweet X 投稿",
+   "results": [
+    "https://x.com/sweet_twjp",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://prtimes.jp/main/html/rd/p/000000214.000028382.html",
+    "https://note.com/irukasyorin/n/n6411142158e8",
+    "https://ama-dan.jp/2026/09/27/%E3%80%8C%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%9D%E3%83%86%E3%83%88%E3%80%8Dtiktok%E5%8B%95%E7%94%BB%E6%8A%95%E7%A8%BF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E9%96%8B%E5%82%AC%EF%BC%81%EF%BC%81/",
+    "https://www.youtube.com/watch?v=qehpL4nW7g8",
+    "https://www.sweet.security/blog/sweetx-your-new-ai-agent-for-cloud-security",
+    "https://x.com/sweet_twjp/status/2098350250826301454",
+    "https://www.instagram.com/sweetxtheartist/",
+    "https://x.com/hrt03h/status/2088910707479937514"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部43頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部43頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部43頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部43頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部43頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部43頁・検索12回）"
+ }
+}

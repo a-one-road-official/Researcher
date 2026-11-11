@@ -1,0 +1,1825 @@
+{
+ "name": "Sublime",
+ "aliases": [],
+ "context": "旧営業リスト｜Security｜状態なし",
+ "researched_at": "2026-11-11T07:20:06.421538+00:00",
+ "official_url": "https://sublime.security",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "メニューから Preferences > Browse Packages… を選択",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "YUI Compressor でスペースや改行コードが圧縮された .min ファイルの解析を依頼されました",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "properties ファイルも編集できるテキストエディタ Sublime Text",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "以前のエントリーで、Eclipse の無い環境で propertiesファイルを編集する方法として、JDK の「native2ascii」コマンドにより変換を行う方法...",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "WordPressで「ブログ投稿記事一覧」のURLを簡単に取得する方法[ウェブ制作初心者向け]",
+    "url": "https://www.youtube.com/watch?v=_grS_ftUVDU",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Text関連のファイルをどこに保存するかの選択をする（※デフォルトでは「Program Files」に入る）",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "パッケージコントロールがインストールされているか確認する方法は、上部メニューの「Sublime Text」→「Preferences」のところに「Package Control」があればOKです",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "ショートカットキーを押した後に、「Find」「Find Prev」ボタンを押して文字列を探していきます",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "「Find」は現在のカーソル以降の箇所、「Find Prev」は現在のカーソル以前の箇所を遡って探していきます",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond the heavy door, we offer a lively open kitchen counter and fully private rooms.",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "\"An Open Kitchen with a Flat View Creates the Ultimate Sense of Presence\"",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "\"We also have completely private rooms available for 2 to 6 guests.\"",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "【Early Bird Special Price from December 19 to 23】",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "（Price including tax）per person",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "This course includes premium ingredients such as Wagyu beef fillet and lobster.",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "A service charge of 10% will be applied, and there is an additional fee of 5,500 yen (including tax) for bringing your own wine. Please inform us in advance. Please note that there is a separate charge for private rooms: 5,500 yen during lunch hours and 11,000 yen during dinner hours.",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "The private room fee will be charged separately.",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "Parties over 2.5 hours, Celebrations and surprises(Birthday plate), BYO drinks, Sommelier available",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "Children under elementary school age will only be accommodated in private rooms. Please provide their age when making a reservation. A separate charge for the private room will apply.",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "The Kids Plate (for ages 3 to early elementary school) is priced at JPY 2,500 (Tax Included, service charge not included) and requires advance reservation.",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "There are no diaper changing stations. Please refrain from changing diapers inside the restaurant. Parents are responsible for supervising their children and should be considerate of those around them. We may approach you depending on the situation. If you plan to use a stroller, please contact us in advance.",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "Starting April 1, 2025, entering a PIN will be required for credit card payments.",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "We have private rooms available for 2 to 6 people. They can be used for various purposes. *Availability may vary by day, so please feel free to contact us by phone for inquiries.*",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "Your browser's preferred language is set to English.",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime - \"Ensenada\" [Official Music Video]",
+    "url": "https://wmg.jp/sublime",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Process",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime’s technology makes a cleaner, more durable replacement for today’s portland cement with greater efficiency and a small fraction of the carbon footprint.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime’s breakthrough manufacturing process makes cement more efficiently, while co-producing critical minerals. Sublime Cement® is cleaner, more durable, whiter, and is an industry-accepted replacement for today’s portland cement.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime’s technology makes cement more efficiently, while co-producing critical minerals.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "in conventional cement production",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Improves energy efficiency",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime’s process foregoes the kiln, the most energy-intensive part of OPC production, and replaces it with a targeted electrochemical process—reducing the energy intensity of production by 30%-40%.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We’re hiring and looking for builders like you",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our ambient process can",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We are more energy efficient than today’s average kiln, with a path to 40% energy savings. Our ambient process can easily ramp up and down, integrate with a modern grid.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "With financial backing from the world’s most innovative building materials and construction companies, including Holcim, CRH, Siam Cement Group, and Suffolk Construction, we’ve been deploying cement in real-world projects since 2023 and are now scaling up rapidly to meet demand. We partner with pioneers in innovation who are redefining what is possible, pressing forward with data-driven integrity.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Deployed in high-polish interiors and harsh external environments where aesthetic appeal, enhanced durability, and urban heat island effect reduction can be prized.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Future-forward and impact-oriented consumers massively and cheaply reduce their carbon footprint by using Sublime Cement.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We scaled from grams to tonnes within 3 years. Now, we’re building a kiloton-scale plant, unlocking future megaton-scale manufacturing and bringing manufacturing pride back to America.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Google Privacy Policy",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Cost-effective, zero-carbon cement produced via electrochemistry.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The Engine’s public affairs support helped Sublime identify a site and engage local leaders to secure their first pilot manufacturing facility in Holyoke, MA, where the company could easily connect to carbon-free hydropower to produce their clean cement.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "“The Engine has gone above and beyond in providing invaluable public affairs services. Their holistic approach to support has been pivotal in expanding our network and commercial growth prospects”",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Portland cement is made by cooking limestone, sand and clay in massive coal-fired kilns running at 1450°C, a process in which half the limestone is wasted in the air as CO",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "emissions. In contrast, Sublime Cement® forgoes the energy-intensive kiln entirely with a room-temperature electrochemical process that eliminates waste and extracts critical minerals in the process. If powered by renewable energy, Sublime's manufacturing avoids carbon emissions.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The technology promises to create a circular economy for cement. The electrochemical process can start with abundant natural minerals or industrial waste that would otherwise be landfilled — slag from steelmaking, kiln ashes and dust, and even old demolished concrete.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The idea is a game-changer for the sustainability of the construction industry. But in order to meet the massive demand that would come from Microsoft and other large-scale projects, Sublime needed their first commercial facility to retire scale-up risk. In the fall of 2022, Sublime Systems engaged The Engine for help securing a site to build their first commercial manufacturing plant.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The Engine’s public affairs support team gave valuable feedback on Sublime’s initial list of city/site options, and provided helpful introductions to some initial candidates, one of which was Holyoke, MA. Sublime conducted an independent site survey using a real estate advisory firm, and Holyoke ended up surfacing as a top prospect.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "“I grew up in western Massachusetts and represented communities a lot like Holyoke in the State Senate,” said Ben Downing, The Engine’s Chief Growth Officer and a former state senator. “The idea that a solution to one of the biggest climate challenges could also help revitalize one of these communities gives me more hope that I can accurately express.”",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2024, Sublime and the city of Holyoke announced that the company’s first factory would be built in the city over the site of an abandoned paper mill, expected to produce up to 30,000 tons of clean cement annually.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "With the plans in place, The Engine helped Sublime find local staff to lead their community engagement and project development work. \"The Engine has gone above and beyond in providing invaluable public affairs services,” said Joe Hicken, SVP of Business Development and Policy at Sublime Systems.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime’s success is a testament to the power of the Tough Tech ecosystem that The Engine has convened in Massachusetts. When the right public and private partners come together, we have all the resources we need to build the foundation for a more sustainable, prosperous future for our communities.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Startup developed proprietary CO",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "-free electrochemical process to produce low-carbon cement",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "produced there, and rights to co-develop future large-scale facilities",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "produced there through a binding offtake reservation. The two partners have established a dedicated project team to co-develop further facilities to scale up and commercialize Sublime Systems’ technology for swift market deployment.",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Leah Ellis, CEO and Co-Founder, Sublime Systems: “In the cement industry, scale is everything. We are proud to collaborate with Holcim who supports our mission of swift and massive impact. By pairing Sublime’s technology with Holcim’s advanced global operations from manufacturing and logistics to commercial distribution, we can scale up our impact together.”",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems’ technology reinvents the full cement manufacturing process. Based on a proprietary CO",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for Holcim's Building Progress newsletter",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": ") and uncertainties related to the market conditions and the implementation of our plans. Accordingly, we caution you against relying on forward-looking statements. Holcim does not undertake to provide updates of these forward-looking statements.",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "【導入＆日本語化】Sublime Text はプログラミングに最適なエディタ！",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは Sublime Text 3 の導入手順、および日本語化の方法を紹介します",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語化の手順でも必要になるのでインストール必須です",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Text 3 の日本語化",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "上記で導入した Package Control を利用して、日本語化パッケージを取り込みます",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "別のパレットが立ち上がるので Japanize を検索し、選択",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "正常にインストールが終わると、メニューが日本語化されます",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "「C:Usersユーザー名AppDataRoamingSublime Text 3PackagesJapanize」にインストールされている *.jp ファイルを「C:Usersユーザー名AppDataRoamingSublime Text 3PackagesDefault」にコピーします",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "「C:Usersユーザー名AppDataRoamingSublime Text 3PackagesJapanizeMain.sublime-menu（.jpが付かない方）」を「C:Usersユーザー名AppDataRoamingSublime Text 3PackagesUser」にコピーします",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "すると、他のプラグインで上書きされてしまっているトップメニューも日本語化されます",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "IMESupport で Sublime Text 3 での日本語変換候補位置を補正する",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "初期状態の Sublime Text 3 は、日本語入力時の変換候補が画面左下に表示されてしまいます",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "Mac に Sublime Text 3 をインストールして、日本語化する方法 | R",
+    "url": "https://beadored.com/sublime-text-3-install-japanaze/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Text 3のインストールと日本語化（Macの場合） | IT女子のお気に入りフォルダ",
+    "url": "https://beadored.com/sublime-text-3-install-japanaze/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Text 3 の日本語化",
+    "url": "https://beadored.com/sublime-text-3-install-japanaze/",
+    "pass": 3
+   },
+   {
+    "quote": "機能が多すぎるので、メニューは、日本語か、甲州弁がありがたいです",
+    "url": "https://beadored.com/sublime-text-3-install-japanaze/",
+    "pass": 3
+   },
+   {
+    "quote": "再度「Command + Shift + P」で、コマンドパレットを開いて「japanize」と入力",
+    "url": "https://beadored.com/sublime-text-3-install-japanaze/",
+    "pass": 3
+   },
+   {
+    "quote": "「Japanize」フォルダを開いて、ファイル名が「*.jp」となっているファイルをすべて、1で作成した「Default」フォルダにコピー",
+    "url": "https://beadored.com/sublime-text-3-install-japanaze/",
+    "pass": 3
+   },
+   {
+    "quote": "最後に「Japanize」フォルダから「Main.sublime-menu」(.jpがついていない方) を「User」フォルダにコピー",
+    "url": "https://beadored.com/sublime-text-3-install-japanaze/",
+    "pass": 3
+   },
+   {
+    "quote": "おお！慣れ親しんだ日本語になっている！成功です",
+    "url": "https://beadored.com/sublime-text-3-install-japanaze/",
+    "pass": 3
+   },
+   {
+    "quote": "[Sublime Text4対応]サブライムテキストのインストール方法、使い方、日本語化、おすすめな便利機能[MacとWindows] - YouTube",
+    "url": "https://www.youtube.com/watch?v=_grS_ftUVDU",
+    "pass": 3
+   },
+   {
+    "quote": "[Sublime Text4対応]サブライムテキストのインストール方法、使い方、日本語化、おすすめな便利機能[MacとWindows]",
+    "url": "https://www.youtube.com/watch?v=_grS_ftUVDU",
+    "pass": 3
+   },
+   {
+    "quote": "VS Codeの使い方講座！日本語化する拡張機能のインストールも紹介！",
+    "url": "https://www.youtube.com/watch?v=_grS_ftUVDU",
+    "pass": 3
+   },
+   {
+    "quote": "【日本人だけがハマる】コレ知らないと英語は聞こえないまま...英会話教室は教えないリスニングの仕組み",
+    "url": "https://www.youtube.com/watch?v=_grS_ftUVDU",
+    "pass": 3
+   },
+   {
+    "quote": "無料で使えるテキストエディタ、サブライムテキストの最新バージョンSublime Text4のインストール方法から使い方、メリット、拡張機能、ショートカット、日本語化、カラースキーマの変更など、MacとWindows版それぞれ解説しています",
+    "url": "https://www.youtube.com/watch?v=_grS_ftUVDU",
+    "pass": 3
+   },
+   {
+    "quote": "[Sublime Text4対応]サブライムテキストのインストール方法、使い方、日本語化、おすすめな便利機能[MacとWindows] - デザイナーブリッジ",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "[Sublime Text4対応]サブライムテキストのインストール方法、使い方、日本語化、おすすめな便利機能[MacとWindows]",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Text4のインストール、日本語化、使い方のみを解説した、動画バージョンもありますので、そのあたりを詳しく知りたい方は以下のリンクより閲覧下さい",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "サブライムテキストのメニュー項目はインストール時点ではすべて英語になっていますので、英語が苦手という人は日本語に切り替えましょう",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "1回設定するとOKなので、少し手間ですが日本語化しておくべきでしょう",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語化作業は、MacとWindowsで操作方法はほとんど変わりません",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 切り替わったパネル入力欄に、さらに「Japanize」と入力してクリックすると、自動でインストールが開始されます",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "サブライムテキストに戻ってもらうと、メニューバー上部とメニューの中身の一部だけが日本語化されています",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "初期設定の日本語化はきっちりやっておいた方がいい",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "やり方は日本語インストール時に表示される以下の画像の方に書かれているのですが、以下で詳しく解説していきます",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "お疲れ様でした！サブライムテキストの画面を見て、日本語になっているか確認しましょう",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "きちんと日本語になっていますか？ならない場合は、再起動か、工程1から再度挑戦してみてくださいね",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "メニュー一番左の「Sublime Text」メニューの中身だけは日本語になりませんが、不自由は感じないと思いますので、このままで大丈夫です",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "何かパッケージを間違えて入れたり、日本語化で操作を間違えてファイルを消してしまったなど、やり直したいと思った際は、アプリをアンインストールしてから、再度インストールしなおす方がいいでしょう",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語化にも対応しており、長く使うのであれば是非日本語化しておきましょう",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SublimeJP – 福岡を拠点とするWeb広告のコンサルタント",
+    "url": "https://sublimejp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SublimeJP（サブライムジェーピー）",
+    "url": "https://sublimejp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "サブライム株式会社 | システム構築・ITコンサルティング",
+    "url": "https://www.sbl.inc/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都品川区西五反田8丁目1番3号",
+    "url": "https://www.sbl.inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Culture and Etiquette Guide",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "Experience a course French dining centered around fermentation, charcoal, and Japanese flavors, featuring our specialty of 14-day aged fermented mushrooms. As the Michelin-starred Sublime main branch,",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "Indulge in luxurious ingredients such as Japanese Black Wagyu beef fillet, lobster, foie gras, black truffle, and caviar, featuring the world's three most exquisite delicacies.",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区東麻布3-3-9 アネックス麻布十番 1F",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "サブライム / SUBLIME | Warner Music Japan",
+    "url": "https://wmg.jp/sublime",
+    "pass": 3
+   },
+   {
+    "quote": "This same SRH held two parties in Japan shortly after that same year. In March, they brought RKL and Strung Out to Japan, with Hi-STANDARD also performing. In April, they brought Pennywise, and the venues, Kawasaki CLUB CITTA’ and Shibuya ON AIR EAST, were packed.",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I wrote it as fiction based on my experience when I was in Japan. The area in Shinjuku with many small bars is like a magical place; you won't find anything like it anywhere else in the world. The story in the lyrics isn't exactly what happened, but I wrote about a possibility that was in my head, or rather, a kind of story.\"",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And, of course, all the songs on the album are excellent. It feels like we have been shown once again just how diverse Sublime's sound and style are. In this day and age, with the mixture of genres and '90s music and culture once again attracting attention both globally and in Japan, I feel this album arrives as a perfectly timed, current work.",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "音楽は、The Stone Roses、Johnny Marr が特に好き",
+    "url": "https://beadored.com/sublime-text-3-install-japanaze/",
+    "pass": 3
+   },
+   {
+    "quote": "Restaurant listed in Michelin Guide for 3 consecutive years",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "Experience a course French dining centered around fermentation, charcoal, and Japanese flavors, featuring our specialty of 14-day aged fermented mushrooms. As the Michelin-starred Sublime main branch,",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "Carrer de l'Església 1A-1B",
+    "url": "https://www.drcollectors.com/collections/sublime-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime’s process foregoes the kiln, the most energy-intensive part of OPC production, and replaces it with a targeted electrochemical process—reducing the energy intensity of production by 30%-40%.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Holcim completes acquisition of Burdett Group to advance circular construction in Australia",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Holcim completes acquisition of Xella",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/sublime-systems",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems competitors include listed companies like Vistra and OMV, and private ones like Solugen, NextChem, Clean Planet and Electra.",
+    "url": "https://multiples.vc/private-comps/sublime-systems",
+    "pass": 3
+   },
+   {
+    "quote": "Is Sublime Systems publicly listed?",
+    "url": "https://multiples.vc/private-comps/sublime-systems",
+    "pass": 3
+   },
+   {
+    "quote": "When I heard that Kevin Zinger of SRH was managing the new Sublime, I contacted Kevin and ended up interviewing Jakob. The connection from 30 years ago still continues today. Joe Escalante of The Vandals is also part of the management team. Incidentally, this Kevin also used to manage Kottonmouth Kings and runs the label Suburban Noize.",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Feel Like That\" | The Tonight Show Starring Jimmy Fallon",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "And, of course, all the songs on the album are excellent. It feels like we have been shown once again just how diverse Sublime's sound and style are. In this day and age, with the mixture of genres and '90s music and culture once again attracting attention both globally and in Japan, I feel this album arrives as a perfectly timed, current work.",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I think it's because I felt this was what I was supposed to do. I wanted to become a successor to this music, or rather, instead of rejecting it, I wanted to become a part of the Sublime legacy\" (Jakob Nowell).",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When the observation, classification, and collection of nature were carried out in the name of \"science,\" that science functioned as a device that incorporated natural objects exploited from colonies into the institutions of the mother country, converting them into manageable \"knowledge.\"",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In painting up until that point, nature and landscape were always merely \"stage sets\" for human narratives—biblical scenes, myths, and historical events. They were placed behind the human drama unfolding in the foreground as auxiliary environments. This was the position of nature in painting that remained dominant until the 16th century.",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【 導入 ＆ 日本 語化】 Sublime Text はプログラミングに最適な ... — 【 導入 ＆ 日本 語化】 Sublime Text はプログラミングに最適な ... NJ-CLUCKER https://nj-clucker.com > ... > ソフトウェア > Sublime Text",
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "pass": 3
+   },
+   {
+    "quote": "Mac に Sublime Text 3 をインストールして、 日本 語化する方法 — Mac に Sublime Text 3 をインストールして、 日本 語化する方法 beadored.com https://beadored.com > sublime-text-3-install-japanaze",
+    "url": "https://beadored.com/sublime-text-3-install-japanaze/",
+    "pass": 3
+   },
+   {
+    "quote": "[ Sublime Text4対応] サブライム テキストのインストール方法 — [ Sublime Text4対応] サブライム テキストのインストール方法 YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=_grS_ftUVDU",
+    "pass": 3
+   },
+   {
+    "quote": "[ Sublime Text4対応] サブライム テキストのインストール方法 — [ Sublime Text4対応] サブライム テキストのインストール方法 デザイナーブリッジ https://designerbrg.com > 制作関連 > ツール",
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Text のインストールから 日本 語化まで - プロエンジニア — Sublime Text のインストールから 日本 語化まで - プロエンジニア プロエンジニア https://proengineer.internous.co.jp > 言語 > HTML・CSS",
+    "url": "https://proengineer.internous.co.jp/content/columnfeature/7341",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SublimeJP – 福岡を拠点とするWeb広告の ... — 株式会社SublimeJP – 福岡を拠点とするWeb広告の ... 株式会社SublimeJP https://sublimejp.com",
+    "url": "https://sublimejp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Advisory 株式会社 — Sublime Advisory 株式会社 sublime-advisory.com https://www.sublime-advisory.com",
+    "url": "https://www.sublime-advisory.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Reservation - Azabu Juban/French | Tabelog - 食べログ — Sublime Reservation - Azabu Juban/French | Tabelog - 食べログ 食べログ https://tabelog.com > tokyo",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "サブライム / SUBLIME | Warner Music Japan — サブライム / SUBLIME | Warner Music Japan Warner Music Japan https://wmg.jp > sublime",
+    "url": "https://wmg.jp/sublime",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Records and the dawn of Japanese techno — Sublime Records and the dawn of Japanese techno Selected Works | Martyn Pepperell https://selectedworks.substack.com > s...",
+    "url": "https://selectedworks.substack.com/p/sublime-records-and-the-dawn-of-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Japan - Dr. Collectors — Sublime Japan - Dr. Collectors Dr. Collectors https://www.drcollectors.com > subli...",
+    "url": "https://www.drcollectors.com/collections/sublime-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime - スブリーム — Sublime - スブリーム sublime-chanson.com https://sublime-chanson.com > sublime",
+    "url": "https://sublime-chanson.com/en/sublime/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems • Home - Sublime Systems — Sublime Systems • Home - Sublime Systems Sublime Systems https://sublime-systems.com",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems Pilots Clean Cement Factory ... - The Engine — Sublime Systems Pilots Clean Cement Factory ... - The Engine The Engine https://engine.xyz > people > sublime...",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems - LinkedIn — Sublime Systems - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/sublime-cement",
+    "pass": 3
+   },
+   {
+    "quote": "Holcim invests in Sublime Systems to scale up innovative low ... — Holcim invests in Sublime Systems to scale up innovative low ... Holcim https://www.holcim.com > media > in...",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems | Engine Ventures — Sublime Systems | Engine Ventures Engine Ventures https://engineventures.com > companies",
+    "url": "https://engineventures.com/companies/sublime-systems",
+    "pass": 3
+   },
+   {
+    "quote": "Deal Registration - Sublime Security — Deal Registration - Sublime Security Sublime Security https://sublime.security > partners > d...",
+    "url": "https://sublime.security/partners/deal-registration/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Security Launches Channel Partner Program to ... — Sublime Security Launches Channel Partner Program to ... PR Newswire https://www.prnewswire.com > subli...",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Media Group Partner Profile - HubSpot Marketplace — Sublime Media Group Partner Profile - HubSpot Marketplace HubSpot Marketplace https://ecosystem.hubspot.com > subli...",
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/sublime-media-group",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Security Raises $150M in Series C Funding as ... — Sublime Security Raises $150M in Series C Funding as ... PR Newswire https://www.prnewswire.com > subli...",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-raises-150m-in-series-c-funding-as-industry-first-ai-agents-accelerate-growth-302596266.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems Funding , Investors & Competitors | Multiples — Sublime Systems Funding , Investors & Competitors | Multiples Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/sublime-systems",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems Secures Combined $75M in Investments ... — Sublime Systems Secures Combined $75M in Investments ... Sublime Systems https://sublime-systems.com > Blog",
+    "url": "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Hair & Body Works - Owler — Sublime Hair & Body Works - Owler Owler https://www.owler.com > company",
+    "url": "https://www.owler.com/company/sublimehairandesthetics",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime - Crunchbase Company Profile & Funding — Sublime - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > startupy",
+    "url": "https://www.crunchbase.com/organization/startupy",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "There are no diaper changing stations. Please refrain from changing diapers inside the restaurant. Parents are responsible for supervising their children and should be considerate of those around them. We may approach you depending on the situation. If you plan to use a stroller, please contact us in advance.",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "Send information by email",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "We have private rooms available for 2 to 6 people. They can be used for various purposes. *Availability may vary by day, so please feel free to contact us by phone for inquiries.*",
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "pass": 3
+   },
+   {
+    "quote": "info@sublime-systems.com",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Security Launches Channel Partner Program to Redefine Email Security",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Email continues to be one of the most common and impactful entry points for cyberattacks, and organizations are looking for more modern approaches to protecting their users and data,\"",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"We're excited to work with Sublime Security as they expand their channel program and bring their innovative approach to email security to more organizations. Programs that invest in partner enablement and collaboration ultimately help customers deploy stronger defenses against evolving threats.",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"We look for partners who truly understand our differentiators, have a firm grasp of the cybersecurity landscape, have credibility in bringing new vendors to market, and who absolutely believe that incumbent email security providers cannot keep up with modern attacks,\" added Hoyt. \"We're committed to working with strategic partners who can grow with us and where we'll provide mutual benefit.\"",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Security, the agentic email security platform, announced the general availability of Sublime Tailored Phishing Simulations and Training....",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Security Launches Email DLP, Becoming the First Platform to Deliver Agentic Email Security for Both Inbound Threat Detection and Outbound Data Protection",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Security, the agentic email security platform, today announced the general availability of Sublime Email Data Loss Prevention (DLP). Sublime...",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "pass": 3
+   },
+   {
+    "quote": "The funding comes less than a year after Sublime's Series B, driven by growing demand for its AI-native email security solutions",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-raises-150m-in-series-c-funding-as-industry-first-ai-agents-accelerate-growth-302596266.html",
+    "pass": 3
+   },
+   {
+    "quote": ", the agentic email security platform, today announced that it has raised $150M in Series C funding led by Georgian to accelerate its agentic AI capabilities and bring new levels of proactive, automated defense to email security. Other participants include new investors Avenir and 01A, and existing investors Index Ventures, IVP, Citi Ventures, and Slow Ventures.",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-raises-150m-in-series-c-funding-as-industry-first-ai-agents-accelerate-growth-302596266.html",
+    "pass": 3
+   },
+   {
+    "quote": "This investment comes at a critical time, as phishing and other email-based attacks",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-raises-150m-in-series-c-funding-as-industry-first-ai-agents-accelerate-growth-302596266.html",
+    "pass": 3
+   },
+   {
+    "quote": "\"Sublime continues to push the boundary of what we think is possible in email security,\" said Dmitri Alperovitch, Co-founder & Former CTO of CrowdStrike and early Sublime investor. \"They are a true industry disruptor, and as they continue to develop new agentic AI capabilities, legacy solutions will struggle to keep pace.\"",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-raises-150m-in-series-c-funding-as-industry-first-ai-agents-accelerate-growth-302596266.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime's agentic platform stops more email attacks with less work. Our AI agents work like a digital SOC team, automating threat triage in seconds and deploying new defenses in hours. The platform provides full transparency and automatically adapts to stop the unique attacks targeting your organization while eliminating the vendor bottlenecks and one-size-fits-all limits of legacy tools.",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-raises-150m-in-series-c-funding-as-industry-first-ai-agents-accelerate-growth-302596266.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Security, the agentic email security platform, announced the general availability of Sublime Tailored Phishing Simulations and Training....",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-raises-150m-in-series-c-funding-as-industry-first-ai-agents-accelerate-growth-302596266.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Security Launches Email DLP, Becoming the First Platform to Deliver Agentic Email Security for Both Inbound Threat Detection and Outbound Data Protection",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-raises-150m-in-series-c-funding-as-industry-first-ai-agents-accelerate-growth-302596266.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Security, the agentic email security platform, today announced the general availability of Sublime Email Data Loss Prevention (DLP). Sublime...",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-raises-150m-in-series-c-funding-as-industry-first-ai-agents-accelerate-growth-302596266.html",
+    "pass": 3
+   },
+   {
+    "quote": "partnerships@sublime-systems.com",
+    "url": "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "info@sublime-systems.com",
+    "url": "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing Process",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime’s breakthrough manufacturing process makes cement more efficiently, while co-producing critical minerals. Sublime Cement® is cleaner, more durable, whiter, and is an industry-accepted replacement for today’s portland cement.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Can convert almost any rock—including toxic industrial solid waste—into clean cement and pure minerals. We up-cycle the whole rock, leaving nothing wasted, compared to ~50% of limestone feedstock that is wasted in OPC manufacturing.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We test and validate to gain the trust of the world’s largest cement manufacturers, technology hyperscalers, visionary architects, major general contractors, and ready-mix concrete leaders.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We scaled from grams to tonnes within 3 years. Now, we’re building a kiloton-scale plant, unlocking future megaton-scale manufacturing and bringing manufacturing pride back to America.",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From the Romans, to the Industrial Revolution, to now",
+    "url": "https://sublime-systems.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems Pilots Clean Cement Factory with The Engine’s Public…",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems was looking for help siting their pilot manufacturing facility and positioning the company for future state support. To deliver low-carbon cement, Sublime needed access to affordable, clean electricity. Ideally, they would be able to complete a round trip between the location and their headquarters in one day.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The Engine’s public affairs support helped Sublime identify a site and engage local leaders to secure their first pilot manufacturing facility in Holyoke, MA, where the company could easily connect to carbon-free hydropower to produce their clean cement.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "To build a sustainable future for America — rebuilding our crumbling infrastructure, re-industrializing our neglected communities, and expanding our housing capacity — we need a more sustainable concrete foundation.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "emissions. In contrast, Sublime Cement® forgoes the energy-intensive kiln entirely with a room-temperature electrochemical process that eliminates waste and extracts critical minerals in the process. If powered by renewable energy, Sublime's manufacturing avoids carbon emissions.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The technology promises to create a circular economy for cement. The electrochemical process can start with abundant natural minerals or industrial waste that would otherwise be landfilled — slag from steelmaking, kiln ashes and dust, and even old demolished concrete.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The idea is a game-changer for the sustainability of the construction industry. But in order to meet the massive demand that would come from Microsoft and other large-scale projects, Sublime needed their first commercial facility to retire scale-up risk. In the fall of 2022, Sublime Systems engaged The Engine for help securing a site to build their first commercial manufacturing plant.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2024, Sublime and the city of Holyoke announced that the company’s first factory would be built in the city over the site of an abandoned paper mill, expected to produce up to 30,000 tons of clean cement annually.",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems' first clean cement factory will be powered by hydroelectric power and built over the site of an abandoned paper mill in Holyoke, MA. (Photo: Sublime Systems)",
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Investment covers Sublime’s first commercial manufacturing facility, giving Holcim a large share of Sublime Cement",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Holcim has invested in Sublime Systems, a leading low-carbon cement technology startup, to expand its range of highly engineered solutions to decarbonize building at scale. The partnership will advance Sublime’s first commercial manufacturing facility in Massachusetts, U.S.A., giving Holcim a large share of Sublime Cement",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Leah Ellis, CEO and Co-Founder, Sublime Systems: “In the cement industry, scale is everything. We are proud to collaborate with Holcim who supports our mission of swift and massive impact. By pairing Sublime’s technology with Holcim’s advanced global operations from manufacturing and logistics to commercial distribution, we can scale up our impact together.”",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems’ technology reinvents the full cement manufacturing process. Based on a proprietary CO",
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Climeworks is a Zurich-based direct air capture company operating modular plants like Orca and Mammoth in Iceland. The technology extracts CO2 from ambient air for permanent underground storage via mineralization with Carbfix, serving corporate net-zero commitments under Puro.earth certification standards.",
+    "url": "https://multiples.vc/private-comps/sublime-systems",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems Secures Combined $75M in Investments from Global Building Materials Majors, CRH and Holcim, to Accelerate Scale-Up of True-Zero Cement Manufacturing Technology - Sublime Systems",
+    "url": "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Process",
+    "url": "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems Secures Combined $75M in Investments from Global Building Materials Majors, CRH and Holcim, to Accelerate Scale-Up of True-Zero Cement Manufacturing Technology",
+    "url": "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Holcim and CRH, two of the largest global building solutions companies, each separately commit to working with Sublime to deploy the technology in full-scale cement plants; accelerated co-development activities have already commenced",
+    "url": "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "The historical process for manufacturing ordinary portland cement (OPC), the most common type of cement used globally today, involves heating limestone, a mineral that is roughly half CO",
+    "url": "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "“If Sublime is to have a swift and massive impact on climate change, our breakthrough technology must be paired with manufacturing operations, logistics, and distribution",
+    "url": "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime is in active commercial discussions with additional strategic partners across cement, concrete, construction, chemical manufacturing, renewable energy, and more. To inquire about a strategic partnership with Sublime or opportunities to use Sublime Cement™, contact",
+    "url": "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Systems Appoints New Chief Executive Officer, an Executive Chair, and a Board Member as it Continues to Establish its Commercial and Industrial Footprint",
+    "url": "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "pass": 3
+   },
+   {
+    "quote": "This massive importation of plants was not driven by pure intellectual curiosity, but was deeply intertwined with the practical demands of imperialistic resource extraction and the securing of raw materials for the Industrial Revolution.",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Kew Gardens was not merely a botanical research facility, but an intellectual infrastructure of the empire that managed plant resources collected from colonies around the world.",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Sublime Security Launches Channel Partner Program to Redefine Email Security",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "pass": 3
+   },
+   {
+    "quote": "Core elements of Sublime's channel partner program include:",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "pass": 3
+   },
+   {
+    "quote": "Expanded Partner Program with Predictable Margins:",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "pass": 3
+   },
+   {
+    "quote": "To learn more about Sublime's channel partner program,",
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "SUBLIME and the Legacy of California Music Culture - note SUBLIME and the Legacy of California Music Culture - note note https://note.com > 音楽 > ロック",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why Was the \" Sublime \" Born in the 18th Century? - note Why Was the \" Sublime \" Born in the 18th Century? - note note https://note.com > 人文・思想 > 哲学",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1 Free Plugin: \" Sublime \" Free Bass Synth with 125 Presets 1 Free Plugin: \" Sublime \" Free Bass Synth with 125 Presets note https://note.com > ... > DTM・ボカロ",
+    "url": "https://note.com/arai_shoma/n/nd6080aacc436?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Textの人気・新着記事まとめ - note Sublime Textの人気・新着記事まとめ - note note https://note.com > tag > Sublime Text",
+    "url": "https://note.com/tag/Sublime%20Text",
+    "pass": 3
+   },
+   {
+    "quote": "サブライム 『 Sublime 』解説：栄光と悲劇が交錯した - 音楽 サブライム 『 Sublime 』解説：栄光と悲劇が交錯した - 音楽 note https://note.com > 音楽 > ロック",
+    "url": "https://note.com/udiscover/n/n76e6ffc526bf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Beyond 30 Years - SUBLIME and the Legacy of California Music Culture｜ワーナーミュージック・ジャパン洋楽",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond 30 Years - SUBLIME and the Legacy of California Music Culture",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The first time I saw Sublime live was in San Diego, California, in 1995. It was a chance encounter. At the time, there was a joint trade show for board sports and streetwear called ASR, and Sublime performed at an after-party hosted by SRH.",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "was a San Diego-based apparel brand and event promoter. For their events, they booked the cutting-edge local bands of the time, such as",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a group that was taking the scene by storm. Southern California at that time was in the golden age of alternative rock and mixture music rooted in punk, which linked up with the board sports and streetwear scenes to blossom into an incredible youth culture.",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This same SRH held two parties in Japan shortly after that same year. In March, they brought RKL and Strung Out to Japan, with Hi-STANDARD also performing. In April, they brought Pennywise, and the venues, Kawasaki CLUB CITTA’ and Shibuya ON AIR EAST, were packed.",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Sublime I saw in San Diego at that time was literally shocking. They didn't just move freely between genres like punk, reggae, ska, and hip-hop; during intense songs, punks, surfers, and skaters would mosh, and during mellow songs, beautiful beach girls would come to the front and start dancing. I had never seen a scene like that, and the music was also groundbreaking. Hikaru-kun from",
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Artifact Called Landscape [Part 1]: Why Was the \"Sublime\" Born in the 18th Century?｜棚橋弘季 Hiroki Tanahashi",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Artifact Called Landscape [Part 1]: Why Was the \"Sublime\" Born in the 18th Century?",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "棚橋弘季 Hiroki Tanahashi",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this two-part article, I intend to ask the following questions.",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why was the aesthetic concept of the \"sublime\" born in 18th-century Europe?",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why was landscape painting established as an independent genre of painting during that era?",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why did the British Museum attempt to collect, classify, and display natural objects from around the world during that time?",
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1 Free Plugin: \"Sublime\" Free Bass Synth with 125 Presets｜アライショウマ(The Sunnys / NERDS)",
+    "url": "https://note.com/arai_shoma/n/nd6080aacc436?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/arai_shoma/n/nd6080aacc436?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1 Free Plugin: \"Sublime\" Free Bass Synth with 125 Presets",
+    "url": "https://note.com/arai_shoma/n/nd6080aacc436?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "アライショウマ(The Sunnys / NERDS)",
+    "url": "https://note.com/arai_shoma/n/nd6080aacc436?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From the perspective of an active band member, I have introduced the free plugins I checked today (November 6, 2026). Today, I will take a deep dive into one free bass synthesizer.",
+    "url": "https://note.com/arai_shoma/n/nd6080aacc436?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Sublime (Meat Beats) Free Bass Synth",
+    "url": "https://note.com/arai_shoma/n/nd6080aacc436?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Source: Sublime Official Page (Meat Beats) (https://meatbeats.com/p/sublime)",
+    "url": "https://note.com/arai_shoma/n/nd6080aacc436?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a monophonic-only bass synth where every sound is created from a single sine wave. It features a simple design where you add harmonics with Shape and distortion with Fold, keeping the low end clean and free of muddiness.",
+    "url": "https://note.com/arai_shoma/n/nd6080aacc436?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Textの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/Sublime%20Text",
+    "pass": 3
+   },
+   {
+    "quote": "個人でWebサイトをつくる。第5話｜メモ帳卒業！Sublime Textとの出会い",
+    "url": "https://note.com/tag/Sublime%20Text",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Text・VS Code・Notepad++比較｜無料で足りる用途と有料版の違い",
+    "url": "https://note.com/tag/Sublime%20Text",
+    "pass": 3
+   },
+   {
+    "quote": "Figma一強だと思っていた私が、AI時代のUIデザインを学び直す #03",
+    "url": "https://note.com/tag/Sublime%20Text",
+    "pass": 3
+   },
+   {
+    "quote": "MacBook Proに入れてるアプリ第２弾",
+    "url": "https://note.com/tag/Sublime%20Text",
+    "pass": 3
+   },
+   {
+    "quote": "【GitHub】ターミナルでVS Codeのような操作感！次世代テキストエディタ「Fresh」のご紹介",
+    "url": "https://note.com/tag/Sublime%20Text",
+    "pass": 3
+   },
+   {
+    "quote": "現役webデザイナーが選ぶ！コーディングアプリ10選！！",
+    "url": "https://note.com/tag/Sublime%20Text",
+    "pass": 3
+   },
+   {
+    "quote": "はる|18歳学生結婚でwebデザイナーに就職！現役webデザイナーがリアルを語るnote",
+    "url": "https://note.com/tag/Sublime%20Text",
+    "pass": 3
+   },
+   {
+    "quote": "サブライム『Sublime』解説：栄光と悲劇が交錯した、スカ・パンク屈指の名盤｜uDisocver（音楽サイト）",
+    "url": "https://note.com/udiscover/n/n76e6ffc526bf",
+    "pass": 3
+   },
+   {
+    "quote": "サブライム『Sublime』解説：栄光と悲劇が交錯した、スカ・パンク屈指の名盤",
+    "url": "https://note.com/udiscover/n/n76e6ffc526bf",
+    "pass": 3
+   },
+   {
+    "quote": "残念ながら、サブライム（Sublime）が本来どこまで到達できたのかを知る術はない。",
+    "url": "https://note.com/udiscover/n/n76e6ffc526bf",
+    "pass": 3
+   },
+   {
+    "quote": "喜びと無秩序、そしていたずら心に満ちた彼らの波乱万丈の歩みは、今やロック史に刻まれた伝説となっている。しかし、フロントマンのブラッドリー・ノウェル（Bradley Nowell）が、セルフタイトルの3作目『Sublime』の発売をわずか2か月後に控えた時期に急逝したことで、バンドはスカ・パンク史に残る屈指の名盤がもたらすはずだった成功を、自ら享受することはできなかった。",
+    "url": "https://note.com/udiscover/n/n76e6ffc526bf",
+    "pass": 3
+   },
+   {
+    "quote": "ブラッドリー・ノウェルは、わずか28歳でこの世を去り、8年間にわたる地道な活動はあまりにも突然終わりを迎えた。その歩みは、ブラッドリーの幼なじみであるフロイド・“バド”・ゴー（ドラム）とエリック・ウィルソン（ベース）が、カリフォルニア州ロングビーチの高校時代に結成したバンド、The Juice Brosから始まる。この初期バンドには、後にサブライムのマネージャーとなるマイケル・ハッポルトも参加しており、サブライム誕生へとつながる重要な原点となった",
+    "url": "https://note.com/udiscover/n/n76e6ffc526bf",
+    "pass": 3
+   },
+   {
+    "quote": "ビーチ・ミュージックの歴史：太陽と砂浜と波、サーフィンが音楽に与えてきた影響",
+    "url": "https://note.com/udiscover/n/n76e6ffc526bf",
+    "pass": 3
+   },
+   {
+    "quote": "90年代オルタナティブ・ソング・ベスト100選",
+    "url": "https://note.com/udiscover/n/n76e6ffc526bf",
+    "pass": 3
+   },
+   {
+    "quote": "この頃まで、ロングビーチの若者たちは純粋なパンク・ファンだった。しかし、ギタリスト兼ヴォーカリストのブラッドリー・ノウェルと出会ったことで、その音楽的な世界は大きく広がることになる。",
+    "url": "https://note.com/udiscover/n/n76e6ffc526bf",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sublime - X Sublime - X X https://x.com > sublime",
+    "url": "https://x.com/sublime",
+    "pass": 3
+   },
+   {
+    "quote": "Highlights by Sublime (@ sublime ) / X Highlights by Sublime (@ sublime ) / X X https://x.com > sublime > highlights",
+    "url": "https://x.com/sublime/highlights",
+    "pass": 3
+   },
+   {
+    "quote": "“The last Sublime record that will ever be made is Self-Titled ... “The last Sublime record that will ever be made is Self-Titled ... X https://x.com > @sublime",
+    "url": "https://x.com/sublime/status/2036902279949758839",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime on X Sublime on X X https://x.com > @sublime",
+    "url": "https://x.com/sublime/status/2082889846595432590",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime HQ (@sublimehq) / X Sublime HQ (@sublimehq) / X X https://x.com > sublimehq",
+    "url": "https://x.com/sublimehq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sari Azout - Building sublime .app - LinkedIn Sari Azout - Building sublime .app - LinkedIn LinkedIn https://www.linkedin.com > saraazout",
+    "url": "https://www.linkedin.com/in/saraazout",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime Security - LinkedIn Sublime Security - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/sublime-security",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime - LinkedIn Sublime - LinkedIn LinkedIn https://www.linkedin.com > sublimeapp",
+    "url": "https://www.linkedin.com/company/sublimeapp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sublime - Facebook Sublime - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/Sublime/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime | Facebook Sublime | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/719216926551301/",
+    "pass": 3
+   },
+   {
+    "quote": "Sublime : Straight From Long Beach Exhibit at Grammy Museum Sublime : Straight From Long Beach Exhibit at Grammy Museum Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/grammymuseum/videos/if-you-love-sublime-this-ones-for-you-explore-the-legacy-of-sublime-through-hand/1568919758228832/",
+    "pass": 3
+   },
+   {
+    "quote": "Jakob Nowell, Sublime's new frontman, discusses the success ... Jakob Nowell, Sublime's new frontman, discusses the success ... Facebook https://www.facebook.com > ... > ABC News Live > Videos",
+    "url": "https://www.facebook.com/ABCNewsLive/videos/ska-punk-band-sublime-back-decades-later-with-new-music/675355361668125/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sublime.security/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://beadored.com/sublime-text-3-install-japanaze/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=_grS_ftUVDU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://designerbrg.com/sublimetext_howto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sublimejp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sublime-advisory.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/company/135",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbl.inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wmg.jp/sublime",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://selectedworks.substack.com/p/sublime-records-and-the-dawn-of-japanese",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.drcollectors.com/collections/sublime-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sublime-systems.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://engine.xyz/people/sublime-systems-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sublime-cement",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ecosystem.hubspot.com/marketplace/solutions/sublime-media-group",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/sublime-security-raises-150m-in-series-c-funding-as-industry-first-ai-agents-accelerate-growth-302596266.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/sublime-systems",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/sublimehairandesthetics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/arai_shoma/n/nd6080aacc436?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sublime",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sublime/highlights",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sublime/status/2036902279949758839",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sublime/status/2082889846595432590",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/saraazout",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sublime-security",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sublimeapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Sublime/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/719216926551301/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/grammymuseum/videos/if-you-love-sublime-this-ones-for-you-explore-the-legacy-of-sublime-through-hand/1568919758228832/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ABCNewsLive/videos/ska-punk-band-sublime-back-decades-later-with-new-music/675355361668125/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tag/Sublime%20Text",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/udiscover/n/n76e6ffc526bf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sublimehq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Sublime/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sublime 日本 導入",
+   "results": [
+    "https://nj-clucker.com/install-sublime-text-and-japanese-localize/",
+    "https://beadored.com/sublime-text-3-install-japanaze/",
+    "https://www.youtube.com/watch?v=_grS_ftUVDU",
+    "https://designerbrg.com/sublimetext_howto/",
+    "https://proengineer.internous.co.jp/content/columnfeature/7341",
+    "https://qiita.com/heppokofrontend/items/9baff2dc5e43abaa2481",
+    "https://www.buildinsider.net/small/sublimetext/01",
+    "https://it-kyujin.jp/article/detail/232/",
+    "https://ss-complex.com/webdesign_vol14_sublimetext1/",
+    "https://qiita.com/ShoutaWATANABE/items/6ae6e2decf516d68d550"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Sublime 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://sublimejp.com/",
+    "https://www.sublime-advisory.com/",
+    "https://dairitenboshu.com/company/135",
+    "https://www.sbl.inc/",
+    "https://www.yelp.com/biz/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E3%82%B5%E3%83%96%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%94%E3%83%BC-%E7%A6%8F%E5%B2%A1%E5%B8%82",
+    "https://www.sublime.jp/",
+    "https://www.openwork.jp/a0C2x00000YCiLT/compa/a0910000000GAHs/",
+    "https://www.sublime-techno.com/company/",
+    "https://forbesjapan.com/articles/detail/70601",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sublime Japan",
+   "results": [
+    "https://tabelog.com/en/tokyo/A1307/A130702/13211935/",
+    "https://wmg.jp/sublime",
+    "https://selectedworks.substack.com/p/sublime-records-and-the-dawn-of-japanese",
+    "https://www.drcollectors.com/collections/sublime-japan",
+    "https://sublime-chanson.com/en/sublime/",
+    "https://japan-food.guide/en/restaurants/1879",
+    "https://yummydelight.wordpress.com/2017/11/24/%E2%98%85-sublime-%E3%82%B9%E3%83%96%E3%83%AA%E3%83%A0-tokyo/",
+    "https://japantravel.navitime.com/en/area/jp/spot/01138-gez8508/",
+    "https://www.instagram.com/sublime/",
+    "https://www.asiasublime.com/tour/sublime-japan/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sublime manufacturing customer case study",
+   "results": [
+    "https://sublime-systems.com/",
+    "https://engine.xyz/people/sublime-systems-case-study",
+    "https://www.linkedin.com/company/sublime-cement",
+    "https://www.holcim.com/media/company-news/investment-sublime-systems-low-carbon-technology",
+    "https://engineventures.com/companies/sublime-systems",
+    "https://usesublime.io/case-studies/",
+    "https://holcimmaqerventures.com/portfolio/sublime-systems-zero-carbon-cement/",
+    "https://www.weforum.org/organizations/sublime-systems",
+    "https://greentown.org/news/sublime-systems-path-from-bench-scale-prototyping-to-commercial-deployment",
+    "https://www.casestudies.com/company/baubauwerk/case-study/sublime-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Sublime white label OR reseller OR partner program",
+   "results": [
+    "https://sublime.security/partners/deal-registration/",
+    "https://www.prnewswire.com/news-releases/sublime-security-launches-channel-partner-program-to-redefine-email-security-302755741.html",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://ecosystem.hubspot.com/marketplace/solutions/sublime-media-group",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.cloudblue.com/glossary/white-label-reseller/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://www.digitalsuccess.us/blog/top-8-white-label-digital-marketing-partners-for-agencies-2026.html",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sublime founded funding employees revenue",
+   "results": [
+    "https://www.prnewswire.com/news-releases/sublime-security-raises-150m-in-series-c-funding-as-industry-first-ai-agents-accelerate-growth-302596266.html",
+    "https://multiples.vc/private-comps/sublime-systems",
+    "https://sublime-systems.com/sublime-systems-secures-combined-75m-in-investments-from-global-building-materials-majors-crh-and-holcim-to-accelerate-scale-up-of-true-zero-cement-manufacturing-technology/",
+    "https://www.owler.com/company/sublimehairandesthetics",
+    "https://www.crunchbase.com/organization/startupy",
+    "https://sublime.security/blog/sublime-raises-150m-series-c-to-arm-defenders-for-the-post-llm-world/",
+    "https://dealroom.co/companies/sublime/",
+    "https://tracxn.com/d/companies/sublime/__IuvbC04SMCUauwAOJ_l-aL52RdKhJC3jJFmKTP9IDnc",
+    "https://www.canarymedia.com/articles/clean-industry/clean-cement-startup-sublime-cuts-jobs",
+    "https://compworth.com/company/sublime"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Sublime",
+   "results": [
+    "https://note.com/wmj_intl/n/n00648b1c1703?hl=en",
+    "https://note.com/kubinashi_ai/n/ne2e4adc2a5f0?hl=en",
+    "https://note.com/tanahashi/n/n1132b42ceb9c?hl=en",
+    "https://note.com/arai_shoma/n/nd6080aacc436?hl=en",
+    "https://note.com/unimowadachi/n/n0de1654657de",
+    "https://note.com/sirotume328/n/na1e41fd22158?hl=en",
+    "https://note.com/karo229/n/n1270ee0adffe?hl=en",
+    "https://note.com/masathemusic/n/n1c937d16d300",
+    "https://note.com/kagoyacoffee/n/n3a55e4048f2b?hl=en",
+    "https://note.com/tbs5629/n/nc5d09a955332"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Sublime",
+   "results": [
+    "https://x.com/sublime",
+    "https://x.com/sublime/highlights",
+    "https://x.com/sublime/status/2036902279949758839",
+    "https://x.com/sublime/status/2082889846595432590",
+    "https://x.com/sublime/all",
+    "https://x.com/RobertGreene/status/2104994660502675469",
+    "https://x.com/consequence/status/2058968090206220372",
+    "https://x.com/wwwsublimeapp",
+    "https://x.com/sublime/status/2099556342922891318",
+    "https://x.com/sublimehq"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Sublime",
+   "results": [
+    "https://www.linkedin.com/in/saraazout",
+    "https://www.linkedin.com/company/sublime-security",
+    "https://www.linkedin.com/company/sublimeapp",
+    "https://www.linkedin.com/in/re3-rob-davies",
+    "https://www.linkedin.com/products/sublime-security/",
+    "https://www.linkedin.com/company/sublime-cement",
+    "https://www.linkedin.com/in/leah-ellis",
+    "https://es.linkedin.com/in/gnessim",
+    "https://www.linkedin.com/in/timm-hoyt-43a853a"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Sublime",
+   "results": [
+    "https://www.facebook.com/Sublime/",
+    "https://www.facebook.com/groups/719216926551301/",
+    "https://www.facebook.com/grammymuseum/videos/if-you-love-sublime-this-ones-for-you-explore-the-legacy-of-sublime-through-hand/1568919758228832/",
+    "https://www.facebook.com/ABCNewsLive/videos/ska-punk-band-sublime-back-decades-later-with-new-music/675355361668125/",
+    "https://www.facebook.com/FordAmphitheater/videos/sublime-is-back-peep-their-new-album-until-the-sun-explodes-out-now-everywhere-f/1557305842627215/",
+    "https://www.facebook.com/Sublime/videos/bud-and-eric-opened-up-about-the-start-of-this-new-chapter-of-sublime-with-bert-/2319885725515087/",
+    "https://www.facebook.com/consequence/videos/sublimes-jakob-nowell-sings-his-way-through-his-mixtapes-playlist-from-queens-of/1865640620817829/",
+    "https://www.facebook.com/Sublime/videos/weve-got-a-good-good-feelin-our-new-album-until-the-sun-explodes-is-out-nowstrea/980571484947419/",
+    "https://www.facebook.com/SPIN/posts/jakob-nowell-is-proud-of-the-new-sublime-album-until-the-sun-explodes-feeling-th/1468262795333562/",
+    "https://www.facebook.com/sublimewithrome/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sublime note 社長",
+   "results": [
+    "https://note.com/tag/Sublime%20Text",
+    "https://talknote.com/case/sublime/",
+    "https://note.com/inshokunosenshi/n/n619a0a3f6a6e",
+    "https://note.com/udiscover/n/n76e6ffc526bf",
+    "https://www.youtube.com/watch?v=BnOGHVq8efA",
+    "https://medium.com/@r00tb33r/transforming-sublime-text-into-a-powerful-note-taking-tool-8582684f2b2a",
+    "https://andrechaperon.com/newsletter/sublime",
+    "https://sublimeinternet.substack.com/p/making-sublime",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sublime X 投稿",
+   "results": [
+    "https://x.com/sublimehq",
+    "https://www.instagram.com/sublime/",
+    "https://www.facebook.com/Sublime/",
+    "https://www.sublimetext.com/blog/articles/sublime-text-x",
+    "https://www.facebook.com/sullenfamily/posts/sublime-x-sullen-new-capsule-is-live-on/10156051562431829/",
+    "https://www.reddit.com/r/sublime/comments/yl8dcc/the_x_factor_that_set_sublime_a_part_from/",
+    "https://www.sublimex.com.au/terms",
+    "https://1x.com/",
+    "https://www.xvideos.com/tags/sublime",
+    "https://it.xvideos.com/channels/lasublime"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索12回）"
+ }
+}

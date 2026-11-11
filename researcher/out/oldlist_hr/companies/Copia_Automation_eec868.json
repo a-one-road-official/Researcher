@@ -1,0 +1,1315 @@
+{
+ "name": "Copia Automation",
+ "aliases": [],
+ "context": "旧営業リスト｜Factory Software / OT｜送付済み",
+ "researched_at": "2026-11-11T07:42:18.110254+00:00",
+ "official_url": "https://copia.io/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Copia centralizes, secures, and synchronizes every version of your operational logic. Replace risky manual backups and isolated devices with perpetual protection.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "with Copia. Monitor, approve, backup, and recover your industrial code with the Copia platform. Reduce downtime with automated backups and source control for your PLCs.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced PLC programming keeps production running in industries where uptime and reliability are nonnegotiables.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "You build the logic. Master the code and prevent downtime.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "You guard the enterprise. Lead the defense of industrial operations.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“Copia has become an indispensable part of our daily operations. Its impact is felt in every project we undertake, from ideation to implementation and beyond.”",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager, Automation Nth",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“Copia gives us a clear snapshot of everything that has changed in our code, saving us so much time. And it puts it into a friendly format. Being able to verify that code was saved and released, and to know that we’re using the proper code when the customer puts it into their management system — these are game changers. Copia has been transformational for us.”",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides actionable alerts and diagnostics to reduce downtime and accelerate recovery",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Speeds root cause analysis when issues arise, minimizing production impact",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevents defects and failures caused by mismatched or outdated code",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides centralized oversight across sites, plants, and teams, both remotely and securely",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocks insights that drive optimization across the entire industrial footprint",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Programs for OT Backup and Recovery | Copia",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia centralizes, secures, and synchronizes every version of your operational logic. Replace risky manual backups and isolated devices with perpetual protection.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply for the Copia Partner Program",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "The Copia Partner Program is built to help you succeed in the new era of Industrial DevOps. As a partner, you’ll deliver the tools manufacturers rely on to strengthen uptime, collaboration, and code security—while unlocking new opportunities for growth and differentiation in your business. Together, we make modern industrial automation achievable for every customer.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Enablement",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Product and workflow training to help your team deliver Copia’s platform with confidence.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Marketing Opportunities",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Exclusive participation in partner events, roadshows, and industry conferences.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Offer a proven, in-demand, and high-impact Industrial code lifecycle management solution that strengthens your portfolio. Help customers achieve faster recovery, stronger compliance, and improved operational efficiency.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide trusted, expert-led, and results-driven services—from consulting to implementation—to help customers maximize performance, accelerate adoption, and sustain long-term resilience.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia centralizes, secures, and synchronizes every version of your operational logic. Replace risky manual backups and isolated devices with perpetual protection.",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline complex operations, eliminate blind spots, and keep production running at peak performance.",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia brings visibility and control to every layer of your production environment, standardizing how code is tracked, updated, and recovered.",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia’s cloud-based Industrial Code Lifecycle Management Platform empowers companies with unparalleled visibility and control of code across multi-vendor devices to promote continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced PLC programming keeps production running in manufacturing environments where uptime and reliability are non-negotiables.",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore insights, case studies, and best practices driving OT resilience in discrete manufacturing.",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia centralizes, secures, and synchronizes every version of your operational logic. Replace risky manual backups and isolated devices with perpetual protection.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia is redefining how the world’s factories, energy systems, and infrastructure are built and maintained. Our Industrial Code Lifecycle Management Platform connects software engineering practices with operational technology, giving manufacturers resiliency with the visibility, control, and confidence to innovate safely.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re engineers, builders, and problem-solvers driven by one mission:",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re built by engineers, for engineers. Every idea is heard, every problem is solved collaboratively.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our core beliefs inform the ways in which we challenge ourselves, collaborate with one another, and deliver great products. Being at Copia means that you’re part of a driven and ever-growing team dedicated to reimagining the industrial space.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We work together to solve problems and don’t create walls between teams or functions.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Every problem has an inevitable solution. We approach problems with a positive attitude.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Everyone is given the freedom to approach, solve, and own complex problems.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia centralizes, secures, and synchronizes every version of your operational logic. Replace risky manual backups and isolated devices with perpetual protection.",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia gives you control over code changes before they reach your production environments across vendors, sites, and teams. From automating backups of your diverse OT devices to detecting unauthorized code changes, Copia turns fragility into stability everywhere.",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent failures before they happen and bounce back fast when they do.",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Food & Beverage Processing",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Control the code and protect the product.",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Serpa Uses Copia for Modern Source Control Practices",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "1st Annual State of Industrial DevOps Workforce Report",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia fits seamlessly into your existing PLC programming environment.",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia centralizes, secures, and synchronizes every version of your operational logic. Replace risky manual backups and isolated devices with perpetual protection.",
+    "url": "https://copia.io/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Modern production runs on code. Copia keeps it under control. Across industries, we empower teams to manage, protect, and optimize the systems that drive performance, protecting uptime and trust in every operation.",
+    "url": "https://copia.io/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision and productivity demand complete visibility into your industrial code.",
+    "url": "https://copia.io/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Food & Beverage Processing",
+    "url": "https://copia.io/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Safeguard the code that runs your production lines and maintain continuous operations while ensuring every batch meets the highest standards.",
+    "url": "https://copia.io/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia centralizes, secures, and synchronizes every version of your operational logic. Replace risky manual backups and isolated devices with perpetual protection.",
+    "url": "https://copia.io/solutions/industry/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Food & Beverage Processing",
+    "url": "https://copia.io/solutions/industry/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Control the code and protect the product.",
+    "url": "https://copia.io/solutions/industry/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia brings visibility and control to every layer of your production environment, standardizing how code is tracked, updated, and recovered.",
+    "url": "https://copia.io/solutions/industry/food-beverage/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "OT Backup and Recovery for Industrial Automation | Copia",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete Manufacturing",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "for Industrial Automation",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "with Copia. Monitor, approve, backup, and recover your industrial code with the Copia platform. Reduce downtime with automated backups and source control for your PLCs.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Operational Resilience for Industrials",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrials struggle with OT code management. Copia treats this code as a critical asset because it’s the backbone of automation.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "You run the factory floor. Own the data, drive the uptime, and lead the digital shift.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "You guard the enterprise. Lead the defense of industrial operations.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We reduce downtime with a smarter way to manage industrial code.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevents defects and failures caused by mismatched or outdated code",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides centralized oversight across sites, plants, and teams, both remotely and securely",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocks insights that drive optimization across the entire industrial footprint",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world’s most innovative companies.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Unify OT engineering, IT, and security teams around one platform for industrial code lifecycle management.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete Manufacturing",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower customers, reduce downtime, and modernize how the world’s factories run.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia is redefining industrial automation with Git-based version control and built-in disaster recovery. We’re creating a collaborative ecosystem of partners to accelerate the adoption of modern industrial code lifecycle management across manufacturing and distribution.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us at the forefront of industrial modernization and grow your business while shaping the future of operational technology.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "The Copia Partner Program is built to help you succeed in the new era of Industrial DevOps. As a partner, you’ll deliver the tools manufacturers rely on to strengthen uptime, collaboration, and code security—while unlocking new opportunities for growth and differentiation in your business. Together, we make modern industrial automation achievable for every customer.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia partners with innovative, growth-minded organizations that share our vision for smarter, more resilient industrial operations.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Create smarter, seamless, and scalable workflows by integrating your technology with Copia. Deliver enhanced functionality, unified visibility, and a frictionless experience for industrial teams.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Offer a proven, in-demand, and high-impact Industrial code lifecycle management solution that strengthens your portfolio. Help customers achieve faster recovery, stronger compliance, and improved operational efficiency.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Join a network of innovators modernizing industrial automation. Together, we’ll help customers achieve true OT resilience and shape the future of manufacturing.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "PLC Backup and Recovery for Discrete Manufacturing | Copia",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete Manufacturing",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Factories today depend on a growing network of software-driven systems—from PLCs and robots to data aggregation tools and material routing. Managing this complexity manually creates blind spots and increases the risk of costly downtime.",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia’s Solution for Discrete Manufacturing",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia’s cloud-based Industrial Code Lifecycle Management Platform empowers companies with unparalleled visibility and control of code across multi-vendor devices to promote continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced PLC programming keeps production running in manufacturing environments where uptime and reliability are non-negotiables.",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore insights, case studies, and best practices driving OT resilience in discrete manufacturing.",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial DevOps Named a Top Growth Opportunity",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete Manufacturing",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Build the Future of Industrial Automation",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia is redefining how the world’s factories, energy systems, and infrastructure are built and maintained. Our Industrial Code Lifecycle Management Platform connects software engineering practices with operational technology, giving manufacturers resiliency with the visibility, control, and confidence to innovate safely.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform supports the systems that make modern life possible; manufacturing, energy, transportation, and more.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our core beliefs inform the ways in which we challenge ourselves, collaborate with one another, and deliver great products. Being at Copia means that you’re part of a driven and ever-growing team dedicated to reimagining the industrial space.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re always looking for passionate builders who want to modernize industrial technology.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete Manufacturing",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Westfalia Technologies",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "TARGAN Case Study: Versioning Industrial Code",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "1st Annual State of Industrial DevOps Workforce Report",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete Manufacturing",
+    "url": "https://copia.io/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for Your Industrial Environment",
+    "url": "https://copia.io/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision and productivity demand complete visibility into your industrial code.",
+    "url": "https://copia.io/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Quality, safety, and uptime are critical in food and beverage manufacturing.",
+    "url": "https://copia.io/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Safeguard the code that runs your production lines and maintain continuous operations while ensuring every batch meets the highest standards.",
+    "url": "https://copia.io/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/solutions/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete Manufacturing",
+    "url": "https://copia.io/solutions/industry/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Factories today depend on a growing network of software-driven systems—from PLCs and robots to data aggregation tools and material routing. Managing this complexity manually creates blind spots and increases the risk of costly downtime.",
+    "url": "https://copia.io/solutions/industry/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Is your plant prepared to recover fast?",
+    "url": "https://copia.io/solutions/industry/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced PLC programming keeps production running in manufacturing environments where uptime and reliability are non-negotiables.",
+    "url": "https://copia.io/solutions/industry/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore insights, case studies, and best practices driving OT resilience in discrete manufacturing.",
+    "url": "https://copia.io/solutions/industry/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial DevOps Named a Top Growth Opportunity",
+    "url": "https://copia.io/solutions/industry/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia Automation provides unparalleled visibility and control of industrial automation code across multi-vendor devices for continuous quality control, streamlined production, and preemptive crisis management.",
+    "url": "https://copia.io/solutions/industry/food-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Discrete Manufacturing",
+    "url": "https://copia.io/solutions/industry/distribution-materials-handling/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Unifies code changes across OEMs, device types, and configurations",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Programs for OT Backup and Recovery | Copia",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply for the Copia Partner Program",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "The Copia Partner Program is built to help you succeed in the new era of Industrial DevOps. As a partner, you’ll deliver the tools manufacturers rely on to strengthen uptime, collaboration, and code security—while unlocking new opportunities for growth and differentiation in your business. Together, we make modern industrial automation achievable for every customer.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn About the Copia Partner Program",
+    "url": "https://copia.io/company/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“Copia has become an indispensable part of our daily operations. Its impact is felt in every project we undertake, from ideation to implementation and beyond.”",
+    "url": "https://copia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "New revenue opportunities through sales, implementation, and ongoing customer success.",
+    "url": "https://copia.io/company/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Our core beliefs inform the ways in which we challenge ourselves, collaborate with one another, and deliver great products. Being at Copia means that you’re part of a driven and ever-growing team dedicated to reimagining the industrial space.",
+    "url": "https://copia.io/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Distribution and materials handling depend on precision, coordination, and speed. Every part of your operation runs on code. Protect it. When that code is managed manually, inefficiencies and downtime creep in—costing valuable throughput and productivity.",
+    "url": "https://copia.io/solutions/industry/distribution-materials-handling/",
+    "pass": 1
+   },
+   {
+    "quote": "Need an integration that isn’t listed?",
+    "url": "https://copia.io/solutions/vendor/",
+    "pass": 1
+   },
+   {
+    "quote": "Copia’s integration library is actively expanding. If your operation runs a vendor or version not listed here, let us know and we’ll follow up.",
+    "url": "https://copia.io/solutions/vendor/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for Copia Automation - IncFact",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   },
+   {
+    "quote": "Copia Automation Revenue, Growth & Competitor Profile",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   },
+   {
+    "quote": "See Exact Annual Revenue",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Revenues for privately held companies are statistical evaluations.",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the company's size? (Annual sales and employees)",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   },
+   {
+    "quote": "Copia Automation's annual revenues are $10 - $100 million",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   },
+   {
+    "quote": "(see exact revenue data)",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   },
+   {
+    "quote": "Copia Automation Annual Revenue and Growth Rate",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Copia Automation's revenues are gauged from an analysis of company filings.",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   },
+   {
+    "quote": "These are the largest companies by revenue. However, they may not have the largest market share in this industry if they have diversified into other business lines.",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   },
+   {
+    "quote": "While some companies compete with neighboring businesses for customers, other companies may compete to attract skilled employees.",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are in the same general field as Copia Automation and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren't available in previous years.",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Get in-app or email alerts the moment Sysmac Studio code is modified at the device level.",
+    "url": "https://copia.io/solutions/vendor/omron/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Introduction | Copia Docs — Overview Copia Automation brings modern DevOps tooling to industrial automation, standardizing processes to drive quality, efficiency, and uptime at scale.",
+    "url": "https://docs.copia.io/docs",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for Copia ...Laboratory Automation Systems & Equipment | Copia Scientific代理店・取扱店検索 - indexPro総代理店とは？一手販売権・独占販売契約の仕組みやメリット・デメリ... — Oct 12, 2026 · Company Report on Copia Automation with Revenue, Growth, Competitors, & Trends Copia Scientific provides laboratory automation systems and equipment for modern labs, helping improve efficiency, accuracy",
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "pass": 3
+   },
+   {
+    "quote": "Copia — Copia Automation is a version control tool for PLC projects",
+    "url": "https://app.eu.copia.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Copia Automation - LinkedIn — Copia Automation Manufacturing Backup, version control, and recovery for industrial control systems. Make every incident recoverable. About us Copia is the OT backup and recovery platform.",
+    "url": "https://www.linkedin.com/company/copiaautomation",
+    "pass": 3
+   },
+   {
+    "quote": "Copia B2B Case Studies & Customer Successes — Copia Automation provides modern DevOps tooling for industrial automation, offering Git-based version control for PLCs to streamline workflows and enhance collaboration, resulting in faster delivery and maximized uptime.",
+    "url": "https://www.casestudies.com/company/copia",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Nth Case Study - Copia — Automation NTH, a company who specializes in providing custom automation equipment and system integration services to the Life Sciences and Medical Device industries, were immediately drawn to Copia after seeing the tool at an industry trade show. Having previously struggled to compare code over multiple vendors, Copia’s code comparison functionality significant",
+    "url": "https://copia.io/resources/automation-nth-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Westfalia Technologies improves PLC code ... — Westfalia Technologies boosts code quality and operational efficiency with Copia Westfalia Technologies, a leader in automated storage and retrieval systems, faced challenges with managing complex PLC code, scaling its engineering workflows, and ensuring reliable backups. To address these issues, the company partnered with vendor Copia Aut",
+    "url": "https://www.casestudies.com/company/copia/case-study/westfalia-technologies-boosts-code-quality-and-operational-efficiency-with-copia",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program - MyCompanyWorksSign In - CopiaWhite Label SEO Agency for Resellers and Agencies | SEOResellerReseller - WikipediaAdobe Partner DirectoryBecome a Domain Reseller | OpenSRS — If you have clients that start or own businesses, we can make your job both easier and more profitable. The Reseller Program is simple and free to join: you place orders on our website using our secure order f",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Sign In - Copia — Copia Automation is a version control tool for PLC projects",
+    "url": "https://app.copia.io/user/login?redirect_to=/",
+    "pass": 3
+   },
+   {
+    "quote": "Copia 2026 Company Profile: Valuation, Funding & Investors ...Copia – Overview – Funding, Revenue & Growth – 2026Copia - 2026 Company Profile, Team, Funding & Competitors ...Copia Automation - Financials, Funding, Investors, AcquisitionsCopia Automation - Overview, News & Similar companies ...About Us and Our Mission for OT Resilience | CopiaCopia Automation: Funding, Team & Investors | Startup In",
+    "url": "https://pitchbook.com/profiles/company/437879-17",
+    "pass": 3
+   },
+   {
+    "quote": "Copia Automation - Financials, Funding, Investors, Acquisitions — Funding Data Dive into Copia Automation’s funding data, including significant investment rounds, funding trends, total capital raised, and key backers, to understand Copia Automation’s investor confidence and growth trajectory.",
+    "url": "https://www.zoominfo.com/financial/copia-automation-inc/557785137",
+    "pass": 3
+   },
+   {
+    "quote": "Copia Automation - Overview, News & Similar companies ... — View Copia Automation (www.copia.io) location in New York, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/copia-automation-inc/557785137",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Copia Automation (@copiaautomation) / Posts / X Feb 10, 2021 · Copia provides easy recovery for your automation projects. Learn how to use Copia's powerful Commit Checkouts to recover any previous PLC project data and record new changes to it.",
+    "url": "https://x.com/copiaautomation",
+    "pass": 3
+   },
+   {
+    "quote": "Copia Scientific (@ScientificCopia) / Posts / X Aug 21, 2025 · Unify instruments, software, and automation with Copia Scientific. Improve data flow, eliminate inefficiencies, and build a scalable, synchronized lab ecosystem.",
+    "url": "https://x.com/ScientificCopia",
+    "pass": 3
+   },
+   {
+    "quote": "Copia Automation (@copiaautomation) / Posts / X Feb 10, 2021 · Copia Automation (@copiaautomation) - Posts - Delivering modern solutions for industrial automation, with Git-based version control for PLCs to st... | X (formerly Twitter)",
+    "url": "https://x.com/copiaautomation",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Copia Automation - LinkedIn Copia Automation Manufacturing Backup, version control, and recovery for industrial control systems. Make every incident recoverable. About us Copia is the OT backup and recovery platform.",
+    "url": "https://www.linkedin.com/company/copiaautomation",
+    "pass": 3
+   },
+   {
+    "quote": "Matthew Lee - Co-Founder @ Copia Automation | LinkedInAdam Gluck - Copia Automation | LinkedIn11,000+Copia Automation Jobs in United States - LinkedInBrandon H. - Copia Automation | LinkedInAngela Barros - Copia Automation | LinkedInMatt Lawson - Copia Automation | LinkedIn Co-Founder @ Copia Automation · Experience: Copia Automation · Education: The University of Chicago · Location: Brooklyn · 50",
+    "url": "https://www.linkedin.com/in/mattleeee",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Gluck - Copia Automation | LinkedIn11,000+Copia Automation Jobs in United States - LinkedInBrandon H. - Copia Automation | LinkedInAngela Barros - Copia Automation | LinkedInMatt Lawson - Copia Automation | LinkedIn I try to work on problems every day that I find interesting and I think matter. · Experience: Copia Automation · Education: University of Chicago · Location: New York · 500+ conne",
+    "url": "https://www.linkedin.com/in/adam-gluck-24b65935",
+    "pass": 3
+   },
+   {
+    "quote": "11,000+Copia Automation Jobs in United States - LinkedIn Today’s top 11,000+ Copia Automation jobs in United States. Leverage your professional network, and get hired. New Copia Automation jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/copia-automation-jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Copia Automation | New York NY - FacebookCopia provides easy recovery for your... - Copia Automation ...Copia helps you shorten timelines,... - Copia AutomationBreaking news: we are proud to... - Copia Automation | FacebookMaximize your uptime and accelerate... - Copia Automation\"However, it was clear that visibility... - Copia Automation ...Merge Ahead, With Copia!... - Copia Automation | Faceboo",
+    "url": "https://www.facebook.com/copiaautomation/",
+    "pass": 3
+   },
+   {
+    "quote": "Copia provides easy recovery for your... - Copia Automation ... Aug 16, 2022 · Copia provides easy recovery for your automation projects. Learn how to use Copia's powerful Commit Checkouts to recover any previous PLC project data and record new changes to it. Watch the video ...",
+    "url": "https://www.facebook.com/copiaautomation/posts/copia-provides-easy-recovery-for-your-automation-projects-learn-how-to-use-copia/466612435472953/",
+    "pass": 3
+   },
+   {
+    "quote": "Copia helps you shorten timelines,... - Copia Automation Dec 17, 2021 · Copia helps you shorten timelines, maximize uptime, and drive massive productivity gains for your PLC projects. Check out our new video below to learn more and how to start your fully-featured free...",
+    "url": "https://www.facebook.com/copiaautomation/posts/copia-helps-you-shorten-timelines-maximize-uptime-and-drive-massive-productivity/767832714151120/",
+    "pass": 3
+   },
+   {
+    "quote": "Breaking news: we are proud to... - Copia Automation | Facebook Apr 7, 2023 · Breaking news: we are proud to announce that Copia has achieved SOC2 Type 2 compliance, certifying our effective controls and processes related to security, availability, processing integrity,...",
+    "url": "https://www.facebook.com/copiaautomation/posts/-breaking-news-we-are-proud-to-announce-that-copia-has-achieved-soc2-type-2-comp/675804351220426/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://copia.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/company/partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/solutions/industry/discrete-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/solutions/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/solutions/industry/food-beverage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/solutions/industry/distribution-materials-handling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/solutions/vendor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/solutions/vendor/siemens/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/solutions/vendor/rockwell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/solutions/vendor/omron/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/solutions/ot-resiliency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/solutions/ot-resiliency/disaster-recovery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/solutions/ot-resiliency/ransomware-readiness/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/blog/resources_category/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://copia.io/resources/case-study-westfalia-technologies/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201057%20821'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%201324'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "https://copia.io/wp-content/uploads/Copia-Home-Industrial-Leaders.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://copia-group.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.copia.io/docs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.eu.copia.io/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://docs.copia.io/docs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/copia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.copia.io/hubfs/Automation+NTH+Case+Study.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.copia.io/user/login?redirect_to=/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/437879-17",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/copiaio",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/copia/__6aITF0a0PW4GnGmLYd-9_IoZRehmdzlhOEJBCU19vEE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.zoominfo.com/financial/copia-automation-inc/557785137",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/copiaautomation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ScientificCopia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/copiaautomation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mattleeee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/adam-gluck-24b65935",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/copia-automation-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/copiaautomation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/copiaautomation/posts/copia-provides-easy-recovery-for-your-automation-projects-learn-how-to-use-copia/466612435472953/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/copiaautomation/posts/copia-helps-you-shorten-timelines-maximize-uptime-and-drive-massive-productivity/767832714151120/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/copiaautomation/posts/-breaking-news-we-are-proud-to-announce-that-copia-has-achieved-soc2-type-2-comp/675804351220426/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/copiaautomation",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Copia Automation 日本 導入",
+   "results": [
+    "https://copia.io/",
+    "https://copia.io/company/",
+    "https://copia-group.co.jp/",
+    "https://docs.copia.io/docs",
+    "https://copia-group.co.jp/about/",
+    "https://jp.linkedin.com/company/copiaautomation",
+    "https://ja.mfgrobots.com/mfg/acs/1007019873.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Copia Automation 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://copia.io/",
+    "https://copia.io/product/copia-ai/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://incfact.com/company/copiaautomation-newyork-ny/",
+    "https://www.copiasci.com/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Copia Automation Japan",
+   "results": [
+    "https://copia.io/",
+    "https://copia.io/company/",
+    "https://app.eu.copia.io/",
+    "https://docs.copia.io/docs",
+    "https://www.linkedin.com/company/copiaautomation",
+    "https://copia-group.co.jp/about/",
+    "https://copia-group.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Copia Automation manufacturing customer case study",
+   "results": [
+    "https://copia.io/blog/resources_category/case-study/",
+    "https://www.casestudies.com/company/copia",
+    "https://copia.io/resources/automation-nth-case-study/",
+    "https://info.copia.io/hubfs/Automation+NTH+Case+Study.pdf",
+    "https://www.casestudies.com/company/copia/case-study/westfalia-technologies-boosts-code-quality-and-operational-efficiency-with-copia",
+    "https://info.copia.io/hubfs/Amazon+Case+Study.pdf",
+    "https://cdn.prod.website-files.com/66208a35e464442fe887f026/67e587397d3afab0afa6adab_Amazon+Case+Study.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Copia Automation white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://app.copia.io/user/login?redirect_to=/",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://opensrs.com/campaigns/become-a-domain-reseller"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Copia Automation founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/437879-17",
+    "https://compworth.com/company/copiaio",
+    "https://tracxn.com/d/companies/copia/__6aITF0a0PW4GnGmLYd-9_IoZRehmdzlhOEJBCU19vEE",
+    "https://www.zoominfo.com/financial/copia-automation-inc/557785137",
+    "https://www.zoominfo.com/c/copia-automation-inc/557785137",
+    "https://copia.io/company/",
+    "https://startupintros.com/orgs/copia-automation"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Copia Automation",
+   "results": [
+    "https://note.com/copia",
+    "https://note.com/copia/n/nec701e518926",
+    "https://note.com/copia/n/n75e8b96c0909",
+    "https://note.com/copia/n/n5d288779a2b9",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Copia Automation",
+   "results": [
+    "https://x.com/copiaautomation",
+    "https://x.com/ScientificCopia",
+    "https://x.com/gocopia",
+    "https://x.com/CopiaInstitute",
+    "https://x.com/copiascientific",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://help.x.com/zh-tw/using-x"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Copia Automation",
+   "results": [
+    "https://www.linkedin.com/company/copiaautomation",
+    "https://www.linkedin.com/in/mattleeee",
+    "https://www.linkedin.com/in/adam-gluck-24b65935",
+    "https://www.linkedin.com/jobs/copia-automation-jobs",
+    "https://www.linkedin.com/in/b2harrison",
+    "https://www.linkedin.com/in/angelamariebarros",
+    "https://www.linkedin.com/in/matt-lawson-4755a9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Copia Automation",
+   "results": [
+    "https://www.facebook.com/copiaautomation/",
+    "https://www.facebook.com/copiaautomation/posts/copia-provides-easy-recovery-for-your-automation-projects-learn-how-to-use-copia/466612435472953/",
+    "https://www.facebook.com/copiaautomation/posts/copia-helps-you-shorten-timelines-maximize-uptime-and-drive-massive-productivity/767832714151120/",
+    "https://www.facebook.com/copiaautomation/posts/-breaking-news-we-are-proud-to-announce-that-copia-has-achieved-soc2-type-2-comp/675804351220426/",
+    "https://www.facebook.com/copiaautomation/posts/maximize-your-uptime-and-accelerate-your-productivity-with-copiadownload-our-whi/473350088132521/",
+    "https://www.facebook.com/copiaautomation/posts/merge-ahead-with-copia-httpshubslaq015zhhp0you-can-branch-and-merge-siemens-tia-/822013135399744/",
+    "https://www.facebook.com/copiaautomation/posts/however-it-was-clear-that-visibility-ended-the-moment-industrial-code-was-deploy/521303430003853/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Copia Automation note 社長",
+   "results": [
+    "https://copia.io/company/",
+    "https://copia.io/",
+    "https://www.forbes.com/profile/copia-automation/",
+    "https://note.com/copia",
+    "https://copia-group.co.jp/about/",
+    "https://www.cbinsights.com/company/copia-automation/people",
+    "https://www.crunchbase.com/person/adam-gluck-f308"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Copia Automation X 投稿",
+   "results": [
+    "https://x.com/copiaautomation",
+    "https://copia.io/",
+    "https://copia.io/company/",
+    "https://docs.copia.io/docs",
+    "https://x.com/rnd_neo_bot_end/status/2055588521134461169",
+    "https://github.com/copia-automation",
+    "https://help.copia.io/knowledge"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式18頁／PDF・画像3件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式18頁／PDF・画像3件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像3件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像3件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式18頁／PDF・画像3件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像3件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式18頁／PDF・画像3件／外部27頁・検索12回）"
+ }
+}

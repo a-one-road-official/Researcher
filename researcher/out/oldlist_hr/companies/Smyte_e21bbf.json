@@ -1,0 +1,939 @@
+{
+ "name": "Smyte",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T07:42:16.285135+00:00",
+ "official_url": "http://smyte.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Account Based Marketing Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accounting Practice Management Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising Agency Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agile Project Management Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Marketing Tools Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "All-in-One Marketing Tools Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Applicant Tracking Systems Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Billing and Provisioning Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Protection Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Process Management Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Call Center Workforce Management Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chiropractic Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chiropractice Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Claims Processing Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Client Onboarding Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial Property Management Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Construction Project Management Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Content Collaboration Platforms",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Content Collaboration Platforms Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Content Management Systems",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Content Management Systems Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Content Marketing Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Conversational Marketing Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Corrective and Preventive Action Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Retention Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Account Based Marketing Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Accounting Practice Management Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising Agency Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Agile Project Management Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Marketing Tools Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "All-in-One Marketing Tools Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Applicant Tracking Systems Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Billing and Provisioning Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Brand Protection Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Process Management Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Call Center Workforce Management Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Chiropractic Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Chiropractice Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Claims Processing Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Client Onboarding Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial Property Management Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Construction Project Management Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Content Collaboration Platforms",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Content Collaboration Platforms Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Content Management Systems",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Content Management Systems Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Content Marketing Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Conversational Marketing Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Corrective and Preventive Action Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Retention Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "A vendor notified us of their acquisition at 6am this morning and shut down their APIs 30 minutes later, creating a production outage for npm (package publishes and user registrations). The sheer unprofessionalism of this is blowing my mind.",
+    "url": "https://japan.cnet.com/article/35121347/",
+    "pass": 3
+   },
+   {
+    "quote": "36氪Pro",
+    "url": "https://36kr.com/p/1721444270081",
+    "pass": 3
+   },
+   {
+    "quote": "user-generated content,",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/smyte.pdf",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Aerospace Manufacturing Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical Manufacturing Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Warehouse Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Food Manufacturing Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Execution Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Inventory Management Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Other Automotive Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Small Business Manufacturing Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Management System Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Management Systems",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Management Systems Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Manufacturing Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical Manufacturing Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Warehouse Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Food Manufacturing Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Execution Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Inventory Management Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Other Automotive Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Small Business Manufacturing Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Management System Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Management Systems",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Management Systems Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Revenue Cycle Management Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Management Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Recognition Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty Management Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Cycle Management Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Management Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Recognition Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty Management Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "提供：Jaap Arriens/Getty Images",
+    "url": "https://japan.cnet.com/article/35121347/",
+    "pass": 3
+   },
+   {
+    "quote": "A vendor notified us of their acquisition at 6am this morning and shut down their APIs 30 minutes later, creating a production outage for npm (package publishes and user registrations). The sheer unprofessionalism of this is blowing my mind.",
+    "url": "https://japan.cnet.com/article/35121347/",
+    "pass": 3
+   },
+   {
+    "quote": "领投方为Avalon Ventures，原有投资者 Baseline Ventures、Founder Collective、Harrison Metal、Upside Partnership和 Y Combinator均参与跟投",
+    "url": "https://36kr.com/p/1721444270081",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email Archiving Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Management Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Marketing Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Security Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Signature Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Tracking Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transactional Email Software",
+    "url": "https://smyte.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Archiving Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Management Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Marketing Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Security Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Signature Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Tracking Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Transactional Email Software",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "contact@logistics.com",
+    "url": "https://smyte.com/about/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Twitter、嫌がらせ対策など手掛ける新興企業Smyteを買収 - CNET Japan",
+    "url": "https://japan.cnet.com/article/35121347/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to CNET Japan",
+    "url": "https://japan.cnet.com/article/35121347/",
+    "pass": 3
+   },
+   {
+    "quote": "を朝日インタラクティブが日本向けに編集したものです",
+    "url": "https://japan.cnet.com/article/35121347/",
+    "pass": 3
+   },
+   {
+    "quote": "CNET Japanの記事を毎朝メールでまとめ読み（無料）",
+    "url": "https://japan.cnet.com/article/35121347/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Steam：SMITE 2SMITE 2 | ゲームタイトル | PlayStation (日本)Twitter、嫌がらせ対策など手掛ける新興企業Smyteを買収 - CNET JapanSMITE 2 - Official PlayStation™Store US【DMARC導入率 日米業種比較 2026】日本企業に今求められる「Reject」...トップページ - SMITE日本語Wiki获400万美金融资，网络安全公司Smyte要布局互金和SaaS服务领域-36氪 — 2024年8月27日、『SMITE 2』常設クローズドアルファ開始 『SMITE 2』で神となって戦おう。Unreal Engine 5を採用した伝説的な三人称視点アクションMOBA『SMITE』の続編が開幕。これまで4000万人以上に愛されてきた熾烈な争い、激しいアクション、アビリティ重視のバトル、実りあるチームワー",
+    "url": "https://store.steampowered.com/app/2437170/SMITE_2/?l=japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Twitter、嫌がらせ対策など手掛ける新興企業Smyteを買収 - CNET Japan — Jun 25, 2018 · Smyteはこれまでに、クラウドファンディングサイトのIndiegogoやGoFundMe、動画プラットフォームの「musical.ly」などの顧客を擁していた。",
+    "url": "https://japan.cnet.com/article/35121347/",
+    "pass": 3
+   },
+   {
+    "quote": "获400万美金融资，网络安全公司Smyte要布局互金和SaaS服务领域-36氪 — 近日，美国网络安全公司Smyte宣布新增一笔融资，金额在400万美金。 领投方为Avalon Ventures，原有投资者 Baseline Ventures、Founder Collective、Harrison Metal、Upside Partnership和 Y Combinator均参与跟投。",
+    "url": "https://m.36kr.com/p/1721444270081",
+    "pass": 3
+   },
+   {
+    "quote": "Smyte: Combating abuse of user-generated content, messaging ... — Another customer uned Smyte to significantly decrease fraud despite a 20% increase in overall traffic. Every day, Smyte blocks millions of harassing messages and spam accounts, helping to make the Internet a safer place.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/smyte.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Revolution - Smyte — By enabling anywhere-access for managers and operators, Manufacturing Revolution enhances collaboration across roles—shortening lead times, reducing scrap, and boosting operational efficiency.",
+    "url": "https://smyte.com/software/manufacturing-revolution/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Smyte (Acquired by Twitter) - LinkedIn Smyte stops spam, scams, harassment and credit card fraud for marketplaces and social networks. We automatically classify your website and mobile app's event data and stop bad actors at scale.",
+    "url": "https://www.linkedin.com/company/smyte",
+    "pass": 3
+   },
+   {
+    "quote": "Karen Smyte - Therapist/Writer | LinkedInKatryna Smyte - Area Sales Representative at InMode | LinkedInRacheal Smyte - -- | LinkedInNarelle Smythe - Strategic Regulatory Advisor @ Corrs ...Joe Smythe - -- | LinkedInKen Smythe - Founder, Next Round Capital, VC, Growth Equity ... View Karen Smyte’s profile on LinkedIn, a professional community of 1 billion members. Area Sales Representative at InMod",
+    "url": "https://www.linkedin.com/in/karen-smyte-80816379",
+    "pass": 3
+   },
+   {
+    "quote": "Katryna Smyte - Area Sales Representative at InMode | LinkedInRacheal Smyte - -- | LinkedInNarelle Smythe - Strategic Regulatory Advisor @ Corrs ...Joe Smythe - -- | LinkedInKen Smythe - Founder, Next Round Capital, VC, Growth Equity ... Area Sales Representative at InMode · Experience: InMode · Education: Queen's University · Location: Greater Vancouver Metropolitan Area · 500+ connections on Lin",
+    "url": "https://ca.linkedin.com/in/katryna-smyte-79a986149",
+    "pass": 3
+   },
+   {
+    "quote": "Racheal Smyte - -- | LinkedIn -- · Location: Perth. View Racheal Smyte’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://au.linkedin.com/in/racheal-smyte-406418101",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Smyte - Facebook Apr 2, 2018 · Smyte. 111 followers. Smyte stops bad actors on marketplaces and social networks.",
+    "url": "https://www.facebook.com/hellosmyte/",
+    "pass": 3
+   },
+   {
+    "quote": "Smite - FacebookFacebookFacebook - log in or sign upSmyte Smithlin - FacebookIn 1941, Margaret and Dan Smythe... - Mississippi Magazine ...Smyte Wytreoi - Facebook Oct 24, 2026 · Smite. 1,520,865 followers · 97 talking about this. The official account for all things related to the SMITE franchise from Titan Forge Games! SMITE 2 Goes Free to Play January 14! Log into Facebook to connect with friend",
+    "url": "https://www.facebook.com/smitegame/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://smyte.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smyte.com/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://store.steampowered.com/app/2437170/SMITE_2/?l=japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/article/35121347/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.com/p/1721444270081",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.playstation.com/ja-jp/games/smite-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gdm.or.jp/pressrelease/2026/0902/650522",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taimen-eigyo.com/words/so-dairiten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kevinsmythe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SmiteJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.worthpoint.com/worthopedia/11pc-1980s-towle-supreme-cutlery-1868170591",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vistra.com/insights/vistra-appoints-kevin-smythe-country-managing-director-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/eisen-agency/case-study/smyth-automotive-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/mortimer-smythe-designs/case-study/geer-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/smyte.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mortimersmythe.com/application-development-work/our-work",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/smyte",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/karen-smyte-80816379",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/katryna-smyte-79a986149",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/racheal-smyte-406418101",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hellosmyte/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/smitegame/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Smyte 日本 導入",
+   "results": [
+    "https://store.steampowered.com/app/2437170/SMITE_2/?l=japanese",
+    "https://japan.cnet.com/article/35121347/",
+    "https://m.36kr.com/p/1721444270081",
+    "https://www.playstation.com/ja-jp/games/smite-2/",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "https://smite.wiki.fc2.com/wiki/トップページ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "Smyte 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.gdm.or.jp/pressrelease/2026/0902/650522",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://jomon.group/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.smcworld.com/support/agency/ja-jp/kana.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Smyte Japan",
+   "results": [
+    "https://jp.linkedin.com/in/kevinsmythe",
+    "https://x.com/SmiteJapan",
+    "https://www.worthpoint.com/worthopedia/11pc-1980s-towle-supreme-cutlery-1868170591",
+    "https://www.vistra.com/insights/vistra-appoints-kevin-smythe-country-managing-director-japan",
+    "https://www.aviationnews-online.com/article/vistra-appoints-kevin-smythe-as-country-managing-director-for-japan",
+    "http://www.smitegame.com/home/",
+    "https://shopsmythe.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smyte manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/eisen-agency/case-study/smyth-automotive-customer-case-study",
+    "https://www.casestudies.com/company/mortimer-smythe-designs/case-study/geer-customer-case-study",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/smyte.pdf",
+    "https://www.mortimersmythe.com/application-development-work/our-work",
+    "https://smyte.com/software/manufacturing-revolution/",
+    "https://www.prnewswire.com/news-releases/smyte-abuse-management-platform-successfully-reduces-80-of-spammers-on-zendesk-300626649.html",
+    "https://www.alturainnovation.com/case-studies/smythe"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smyte white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smyte founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Smyte",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Smyte",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Smyte",
+   "results": [
+    "https://www.linkedin.com/company/smyte",
+    "https://www.linkedin.com/in/karen-smyte-80816379",
+    "https://ca.linkedin.com/in/katryna-smyte-79a986149",
+    "https://au.linkedin.com/in/racheal-smyte-406418101",
+    "https://au.linkedin.com/in/narelle-smythe-606814236",
+    "https://ca.linkedin.com/in/joe-smythe-b95a97302",
+    "https://www.linkedin.com/in/ken-smythe"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Smyte",
+   "results": [
+    "https://www.facebook.com/hellosmyte/",
+    "https://www.facebook.com/smitegame/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/smyte.smithlin/",
+    "https://www.facebook.com/p/Smyte-Wytreoi-100077142477429/",
+    "https://www.facebook.com/officialmississippimagazine/posts/in-1941-margaret-and-dan-smythe-moved-into-a-traditional-ranch-home-in-tribbett-/1017984610331744/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smyte note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/hashtag/社長",
+    "https://japan.cnet.com/article/35254573/",
+    "https://rocket-boys.co.jp/security-measures-lab/doj_ai_ceo_lawyer_deepfake_fraud_129million_20261109/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smyte X 投稿",
+   "results": [
+    "https://x.com/Smitefv/status/2034623376401334396",
+    "https://x.com/Stemmy_official/status/2120022522112688637",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://www.xvideos.com/?k=sm素人投稿",
+    "https://jp.xhamster.com/search/sm+投稿",
+    "https://www.xvideos.com/tags/素人-投稿"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

@@ -1,0 +1,1169 @@
+{
+ "name": "Runautomat",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T07:43:12.031825+00:00",
+ "official_url": "https://www.runautomat.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$3.8M",
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$3,800,000",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Hiring, not integrating. Get more work done with the same headcount.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise automations",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ace works like any new hire, with its own computer, email, and phone number. It logs into the tools you already use, gets the work done, and checks in when it needs you. Reach it on Slack, Teams, email, text, WhatsApp, or a phone call.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your sales team is trading notes after a prospecting call. Ace reads the whole conversation, pulls out the insights and the action items, and updates the system of record.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rivera call just wrapped. They’re moving off their legacy vendor in Q3 — the security review is the real gate, and the VP wants pricing before Friday.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Done. Summary and three action items are on the Rivera opportunity: security questionnaire to Dana, pricing draft by Thursday, follow-up booked Monday.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Some people only reply on WhatsApp. Add Ace to the thread and it reads, follows up, answers within your instructions, and confirms when it’s done.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Got it. Deposit matches, but the bar minimum went up €200 from the quote. Flagged it to Bailey before I approve.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Employee shall be expected to exercise appropriate judgment in the performance of assigned duties at all times.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Its own voice, its own line. Ace can hold with the venue, talk to a candidate, or answer the number on your job post.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Then let’s lock Saturday and send the revised bar line to Bailey for approval.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise automation,",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Screen recordings or video walkthroughs",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Process documentation (PDDs or SOPs)",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live visibility into progress and performance.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy automations directly into your workflow or product, no complex setup required.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run hosted on cloud or on premise.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Underwriting Support & Case Processing",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate essential processes, from credit dispute resolutions to card issuance and account management. Tailored automations for your specific workflows.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance Processes Automated",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate claims processing with PDF extraction, enhance KYC verification, and manage policy administration.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Claims Processing (PDF Document Extraction)",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate production-critical workflows, eliminate manual steps, and keep operations running at peak efficiency.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase Order Processing",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supplier & Production Line Reporting",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Process Automation | AI Agents for ERP & Supply Chain Ops",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents that run your ERP ops end to end: PO processing, inventory management, supplier reporting, and ERP data entry, directly on SAP, Oracle, and your existing systems. No API. Live in weeks.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate FTE cost for repetitive ERP and procurement data entry. Agents handle the volume at a fraction of the cost.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Agents don't clock out. PO processing, inventory updates, and supplier reporting run continuously with no shift gaps.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "No IT project required. Works on your current ERP and MES without custom development.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase order processing",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enters and validates POs directly in your ERP, cross-checks against procurement rules, and flags exceptions. No manual keying.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Syncs materials and order data across supplier portals and ERP, flagging discrepancies for review before they become production issues.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade automation.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Every action screen-recorded and audit-logged. Deploy in your cloud or ours. SOC 2 Type II certified, ISO 27001, and GDPR compliant.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Role-based controls ensure agents only touch systems they're authorized to use. Humans approve every sensitive action before it executes.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement approvals, exceptions, and supplier decisions always route to a human. Automat executes. Your operations team decides.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "No APIs, no IT project. Automat deploys and manages your agents end to end.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We don't promise 100% automation. Anything low-confidence or out-of-tolerance is flagged and routed to a person with full context, and every action is logged with a complete audit trail.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "PO processing, inventory management, supplier reporting, ERP data entry, and materials management; among others.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Most teams are live in two to four weeks. No IT project, no waiting on a migration.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "PO processing, inventory, and supplier reporting on your existing SAP or Oracle. No API. Live in weeks.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Automat Pricing | AI Coworkers and Automation at Scale",
+    "url": "https://runautomat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Simple, transparent pricing that grows with the work.",
+    "url": "https://runautomat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2, HIPAA, and GDPR",
+    "url": "https://runautomat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud, private, or desktop runtime — custom SLAs",
+    "url": "https://runautomat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise is the full platform, fully managed. Workforce includes the same platform.",
+    "url": "https://runautomat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2, HIPAA, GDPR, and auditability",
+    "url": "https://runautomat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud, private, or desktop runtime",
+    "url": "https://runautomat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How Amdahl's CEO Got Her Days Back with a Proactive AI Teammate",
+    "url": "https://runautomat.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How an early-stage startup founder got her days back for mission-critical priorities, with a proactive AI teammate that knows the work and gets it done before she asks.",
+    "url": "https://runautomat.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Whipsaw, an award-winning San Francisco product design consultancy, extended its team’s capacity without adding headcount with the Automat Workforce agent (Sara)",
+    "url": "https://runautomat.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Centralizing analytical work, increasing client responsiveness and boosting strategic output - all done with Automat Workforce agent",
+    "url": "https://runautomat.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "About Automat: the enterprise agentic process automation company",
+    "url": "https://runautomat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Building the Modern Enterprise Automation Platform",
+    "url": "https://runautomat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional automation software is slow & expensive, that’s why we built Automat. It’s 10X faster and 1/10th the price. It lets companies automate their work without a massive team or budget.",
+    "url": "https://runautomat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "At Google, their team was tasked with finding product applications of LaMDA in early 2020, & they built over 50+ prototypes integrating LaMDA across Google’s products and services. Eventually Gautam (Automat CTO) would go on to implement multiple demos for Google’s first public Demonstration of LaMDA, the AI test kitchen.",
+    "url": "https://runautomat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We believe knowledge work will be primarily done by AI agents, authored by humans. Our goal is to create the tools to make that possible.",
+    "url": "https://runautomat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "No matter your role at Automat, we're all makers who take action. We don't wait for solutions; we create them. See a problem? Innovate and resolve it.",
+    "url": "https://runautomat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Rules move the work. Judgment decides where it goes. Why enterprise RPA and an AI teammate are two halves of the same team.",
+    "url": "https://runautomat.com/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing Streamlined",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supplier & Production Line Reporting",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Process Automation | AI Agents for ERP & Supply Chain Ops",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing & Supply Chain",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The agentic automation for manufacturing",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing workflows,",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing depends on high-volume, time-sensitive data workflows: purchase orders, inventory updates, supplier reports, and ERP entries. These tie up skilled operations staff in repetitive manual work. Legacy ERPs rarely expose a usable API, custom integrations take months, and RPA bots break when ERP layouts change.",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Our team of robotics/ai engineers and operators at Automat work out of a former historic brewery, in the sunny San Francisco Mission District.",
+    "url": "https://runautomat.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "That's the wedge an executive assistant or Chief of Staff normally fills, if you can afford one, and if you can find one who's genuinely good. Annette found that capability in an agent instead. She describes Automat’s Workforce agent (named Dom in this case study) this way:",
+    "url": "https://runautomat.com/customers/how-amdahls-ceo-got-her-days-back-with-a-proactive-ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "Works across the whole team: project managers, the UX/UI team, and the industrial designers",
+    "url": "https://runautomat.com/customers/how-an-award-winning-design-agency-removed-two-siloed-tools-and-got-back-the-capacity-of-an-fte",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Ace works like any new hire, with its own computer, email, and phone number. It logs into the tools you already use, gets the work done, and checks in when it needs you. Reach it on Slack, Teams, email, text, WhatsApp, or a phone call.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Need to move a call on a back-to-back Thursday? Text Ace. It updates the invite, emails the attendees, and confirms when it’s done.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated Mac, iPhone, and email account",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automat Workforce lets you hire Ace, an AI employee with its own computer, phone number, inbox, and logins. You reach Ace the way you reach any teammate, by email, Slack, text, WhatsApp, a doc comment, or a phone call, and it does the operational work you would otherwise hand to a new hire. No integrations or connectors required.",
+    "url": "https://runautomat.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated Mac, email, and company account",
+    "url": "https://runautomat.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“I was digging for a legal memo today. As organized as I thought I was, I just couldn’t seem to locate the document. And Dom went looking on his own. He went through my docs in Mercury and Carta, my emails, my DocuSign, even a Box account and a couple of weird eSign tools I'd been trying - things I didn't remember existed. He found the executed commitment I was looking for.\"",
+    "url": "https://runautomat.com/customers/how-amdahls-ceo-got-her-days-back-with-a-proactive-ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "One early project captures the payoff. Dom spun up his own email and reached out to the customer-support teams at all of our software vendors to manage twelve subscriptions, cutting, adding, and applying credits. That would have been two Sundays of my time that would never have happened.",
+    "url": "https://runautomat.com/customers/how-amdahls-ceo-got-her-days-back-with-a-proactive-ai-teammate",
+    "pass": 1
+   },
+   {
+    "quote": "Whipsaw runs 20 to 30 projects across various stages at any given time. Keeping them on track (parsing kickoff decks, updating Slack, tracking budgets and team hours, triaging email, and coordinating studio logistics) lands on the project managers, project design leads, directors, and leadership.",
+    "url": "https://runautomat.com/customers/how-an-award-winning-design-agency-removed-two-siloed-tools-and-got-back-the-capacity-of-an-fte",
+    "pass": 1
+   },
+   {
+    "quote": ", with an email address in Whipsaw’s Google admin and her own Slack account, inside the tools the team already used every day.",
+    "url": "https://runautomat.com/customers/how-an-award-winning-design-agency-removed-two-siloed-tools-and-got-back-the-capacity-of-an-fte",
+    "pass": 1
+   },
+   {
+    "quote": "Triages email and flags anything important in Slack - tailored to per-user preferences",
+    "url": "https://runautomat.com/customers/how-an-award-winning-design-agency-removed-two-siloed-tools-and-got-back-the-capacity-of-an-fte",
+    "pass": 1
+   },
+   {
+    "quote": "Just as valuable is the peace of mind. Walker no longer combs through every email or worries about missing a client message, because anything important reaches him in Slack, where his attention already is.",
+    "url": "https://runautomat.com/customers/how-an-award-winning-design-agency-removed-two-siloed-tools-and-got-back-the-capacity-of-an-fte",
+    "pass": 1
+   },
+   {
+    "quote": "Using Sara has allowed me to get away from super repetitive, easily automated tasks… it lets me focus more on what’s meaningful, like designing products and solutions for our clients, mentoring the team, and human connection, versus being stuck in my email inbox or finding documents in Google Drive.",
+    "url": "https://runautomat.com/customers/how-an-award-winning-design-agency-removed-two-siloed-tools-and-got-back-the-capacity-of-an-fte",
+    "pass": 1
+   },
+   {
+    "quote": "A powerful app with your connectors, your scopes, your inbox: that’s the delegate. When it books the table, you look like a wizard. When it sends the email, you sent the email. Cowork, GPT-for-business, and the coworker crop are the same shape with better manners.",
+    "url": "https://runautomat.com/blog/digital-teammates-deserve-a-seat-at-the-company-table",
+    "pass": 1
+   },
+   {
+    "quote": "If the agent sends emails as you, every thread is a little lie. The other side thinks they’re talking to you, and your teammates can’t ask the worker who actually did the work.",
+    "url": "https://runautomat.com/blog/digital-teammates-deserve-a-seat-at-the-company-table",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Most ERPs and supplier portals have no usable API. API-first vendors stall on arrival. The deal dies at \"do you have an API?\"",
+    "url": "https://runautomat.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "1,486 shipments documented end-to-end across all 7 carriers ABB ships with",
+    "url": "https://runautomat.com/customers/how-abb-put-ai-agents-to-work-across-four-departments-and-got-back-a-full-fte-year-of-capacity",
+    "pass": 1
+   },
+   {
+    "quote": "The challenge: a lean team carrying manual overhead and always-on client engagement",
+    "url": "https://runautomat.com/customers/how-an-award-winning-design-agency-removed-two-siloed-tools-and-got-back-the-capacity-of-an-fte",
+    "pass": 1
+   },
+   {
+    "quote": "\"Creator” spent years sounding like a cringey made up word before it became a normal part of how marketing works. I think “digital teammate” is headed for the same fate. Eventually it will be boring. The interesting question won’t be whether a company has agents, but how it hires them, manages them, and decides what they are allowed to know.",
+    "url": "https://runautomat.com/blog/digital-teammates-deserve-a-seat-at-the-company-table",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Automat Revenue 2025: $1.9M Est., $3.8M Raised",
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Automat has not published its revenue. GetLatka estimates it at about $1.9M a year (July 2025).",
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Automat CEO & employees",
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Lucas Ochoa is CEO of Automat. Automat has 17 employees (July 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Automat's revenue?",
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Automat's revenue at about",
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Automat have?",
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of July 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Automat Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Automat",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Automat?",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Automat generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Automat have?",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/automat-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "👥 26 employees",
+    "url": "https://www.gritt.io/company/automat-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Everything beyond this point is part of the paid content. After purchasing, you will be able to see all of the following.",
+    "url": "https://note.com/ai_hack_note/n/n3e678c23edd4?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Automat AIの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 出典・生成情報 本ページの企業情報は、公式サイト（https://runautomat.com）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです。 内容の正確性については公式サイト・出典をご確認ください。",
+    "url": "https://www.firstcvc.jp/global/runautomat.com",
+    "pass": 3
+   },
+   {
+    "quote": "Automat | AI Teammates and Managed Automations — Ace works like any new hire, with its own computer, email, and phone number. Or have Automat build and run automations on the software you already use.",
+    "url": "https://runautomat.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Hire Ace, your AI teammate | Automat - studio.runautomat.com — Ace works like any new hire, with its own computer, email, and phone number.",
+    "url": "https://studio.runautomat.com/workforce/interest",
+    "pass": 3
+   },
+   {
+    "quote": "Automat — investors & funding | gritt.io — 📍 San Francisco, United States🗓 Founded 2023👥 26 employees💰 Last funded Feb 2025 Technology, Information and Internet 🌐 runautomat.com Website LinkedIn",
+    "url": "https://www.gritt.io/company/automat-ai/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Full Disclosure] \"Demon Interviewer\" AI Prompt & Agent - A ... Apr 30, 2026 · What you will learn in this article How to design an AI to act as a \"Demon Interviewer\" rather than a \"gentle practice partner\" The full text of the \"Mock Interview Agent\" prompt that works just by pasting it A structure where the 3 phases of Expected Questions → Deep Dive → Feedback run automat",
+    "url": "https://note.com/ai_hack_note/n/n3e678c23edd4?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Full Disclosure] \"Demon Interviewer\" AI Prompt & Agent - A Mock Interview Agent to Retrain You More Strictly Than the Real Thing｜nico｜明日使えるAIハックを発信中",
+    "url": "https://note.com/ai_hack_note/n/n3e678c23edd4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Full Disclosure] \"Demon Interviewer\" AI Prompt & Agent - A Mock Interview Agent to Retrain You More Strictly Than the Real Thing",
+    "url": "https://note.com/ai_hack_note/n/n3e678c23edd4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What you will learn in this article",
+    "url": "https://note.com/ai_hack_note/n/n3e678c23edd4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to design an AI to act as a \"Demon Interviewer\" rather than a \"gentle practice partner\"",
+    "url": "https://note.com/ai_hack_note/n/n3e678c23edd4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The full text of the \"Mock Interview Agent\" prompt that works just by pasting it",
+    "url": "https://note.com/ai_hack_note/n/n3e678c23edd4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A structure where the 3 phases of Expected Questions → Deep Dive → Feedback run automatically",
+    "url": "https://note.com/ai_hack_note/n/n3e678c23edd4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Fully compatible with Claude / ChatGPT / Gemini + how to adjust the \"pressure\" for each model",
+    "url": "https://note.com/ai_hack_note/n/n3e678c23edd4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A resident Agent version that can be deployed as-is",
+    "url": "https://note.com/ai_hack_note/n/n3e678c23edd4?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Automat AI (@automat_ai) / Posts and Replies / X read more here: runautomat.com/blog/automat-r… At Automat we build AI-agents that \"click-around\" on our customers computers, read complex documents and do work for them.",
+    "url": "https://x.com/automat_ai/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Evan Edwards (@EvanatAutomat) / X Automate the follow up and let your team focus on higher value tasks. Check us out at runautomat.com. Automat | AI Agents for Agentic Process Automation From runautomat.com 31 Evan Edwards @EvanatAutomat Jun 15 Idk whats worse: Spain drawing to Cabo Verde in the World Cup or preparing for this CFPB rule change 15 Evan Edwards @EvanatAutomat Jun 4",
+    "url": "https://x.com/EvanatAutomat",
+    "pass": 3
+   },
+   {
+    "quote": "goated dev on X: \"hey, i just made a coin (y = (e^ (k·d) − 1 ... hey, i just made a coin (y = (e^(k·d) − 1) / (e^k − 1) which automatically buys back the token according to the equation above. it scales into the position with size, and buys at uneven time intervals, matching the PONS math completely. kinda cool tech, set it up to run automatically in a contra…",
+    "url": "https://x.com/flyquantxyz/status/2099088456463049114",
+    "pass": 3
+   },
+   {
+    "quote": "Evan Edwards (@EvanatAutomat) / X Automat | AI Agents for Agentic Process Automation From runautomat.com 2 2 43 Evan Edwards @EvanatAutomat Jul 16",
+    "url": "https://x.com/EvanatAutomat",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Lucas Ochoa - CEO @ Automat | ex: Google & Microsoft | LinkedInAutomat - LinkedIn#ai #automations #google #ycombinator | Lucas Ochoa١٠ من وظائف Runautomat Blog After 2026 07 04 في الأردنHey all, today I'm super excited to walk you through a demo ...Gautam Bose - CSO @ Automat | Ex-Google Creative Lab | LinkedInShareef El-Sayed - Supergood | LinkedIn CEO @ Automat | ex: Google & Microsoft · Traditi",
+    "url": "https://www.linkedin.com/in/lucasrunautomat",
+    "pass": 3
+   },
+   {
+    "quote": "#ai #automations #google #ycombinator | Lucas Ochoa To apply, you can send a message directly here, email lucas@runautomat.com, or apply here: https://lnkd.in/gFJm77st #AI #Automations #Google #ycombinator … más 84 6 comentarios",
+    "url": "https://pe.linkedin.com/posts/lucasrunautomat_ai-automations-google-activity-7325187882397171714-1Nzn",
+    "pass": 3
+   },
+   {
+    "quote": "١٠ من وظائف Runautomat Blog After 2026 07 04 في الأردن Jul 4, 2026 · أبرز ١٠ وظيفة في مجال Runautomat Blog After 2026 07 04 اليوم في الأردناستعن بقوة شبكة علاقاتك المهنية واحصل على الوظيفة التي ترغب فيها. يتم إضافة وظائف Runautomat Blog After 2026 07 04 جديدة كل يوم.",
+    "url": "https://jo.linkedin.com/jobs/runautomat-blog-after-2026-07-04-jobs?countryRedirected=1",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://runautomat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/industry/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/customers/how-abb-put-ai-agents-to-work-across-four-departments-and-got-back-a-full-fte-year-of-capacity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/customers/how-amdahls-ceo-got-her-days-back-with-a-proactive-ai-teammate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/customers/how-an-award-winning-design-agency-removed-two-siloed-tools-and-got-back-the-capacity-of-an-fte",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/customers/a-nationwide-real-estate-consultant-frees-up-executive-time-with-an-ai-teammate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/blog/digital-teammates-deserve-a-seat-at-the-company-table",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/690942210854e5c7d0b74b4e/6a86914fa4ab0087ede33f37_images__Customer-Logos__Ento.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/690942210854e5c7d0b74b4e/6a86914d169fdef76a225284_images__Customer-Logos__ABB.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/690942210854e5c7d0b74b4e/6a86914fa4ab0087ede33f37_images__Customer-Logos__Ento.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/690942210854e5c7d0b74b4e/6a86914d169fdef76a225284_images__Customer-Logos__ABB.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/runautomat.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/managed-automations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runjapan.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://studio.runautomat.com/workforce/interest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runautomat.com/blog/automat-for-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/automat/case-study/manufacturing-fortune-500-transforming-purchase-order-processing-with-ai-driven-intelligent-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://convergixautomation.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ninjaone.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/runautomat.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/runautomat-com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/automat-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gritt.io/company/automat-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_hack_note/n/n3e678c23edd4?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/automat_ai/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EvanatAutomat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/flyquantxyz/status/2099088456463049114",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lucasrunautomat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/posts/lucasrunautomat_ai-automations-google-activity-7325187882397171714-1Nzn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jo.linkedin.com/jobs/runautomat-blog-after-2026-07-04-jobs?countryRedirected=1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EvanatAutomat",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Runautomat 日本 導入",
+   "results": [
+    "https://www.firstcvc.jp/global/runautomat.com",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://runautomat.com/",
+    "https://runautomat.com/about",
+    "https://note.com/keep_at_it/n/nede9c9fef1d5",
+    "https://autoprove.net/imported-car/jeep/wrangler/258778/",
+    "https://dx-pro.resocia.jp/rpa_column/045"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runautomat 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://runautomat.com/managed-automations",
+    "https://plus-automation.com/company/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.cisco.com/c/ja_jp/about/localoffices.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runautomat Japan",
+   "results": [
+    "https://runjapan.jp/",
+    "https://studio.runautomat.com/workforce/interest",
+    "https://runautomat.com/",
+    "https://runautomat.com/about",
+    "https://docs.runautomat.com/",
+    "https://www.ycombinator.com/companies/automat",
+    "https://docs.runautomat.com/guides/concepts/extractors"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runautomat manufacturing customer case study",
+   "results": [
+    "https://runautomat.com/customers",
+    "https://runautomat.com/blog/automat-for-manufacturing",
+    "https://www.casestudies.com/company/automat/case-study/manufacturing-fortune-500-transforming-purchase-order-processing-with-ai-driven-intelligent-automation",
+    "https://convergixautomation.com/case-studies",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.marketingscoop.com/ai/intelligent-automation-case-studies/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runautomat white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runautomat founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/runautomat.com",
+    "https://www.extruct.ai/hub/runautomat-com/",
+    "https://prospeo.io/c/automat-revenue",
+    "https://www.gritt.io/company/automat-ai/",
+    "https://fundediq.co/automat-ai-runautomat-com-funding/",
+    "https://runautomat.com/about",
+    "https://www.zoominfo.com/c/automat/5000002309"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Runautomat",
+   "results": [
+    "https://note.com/hidenorikimura/n/na4269eff8813",
+    "https://note.com/sitake1010/n/ndc808e9980ce",
+    "https://note.com/gautamashaka/n/n2802db950907",
+    "https://note.com/ai_hack_note/n/n3e678c23edd4?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/masashi3122/n/n6f41b990b137"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Runautomat",
+   "results": [
+    "https://x.com/automat_ai",
+    "https://x.com/automat_ai/with_replies",
+    "https://x.com/EvanatAutomat",
+    "https://x.com/flyquantxyz/status/2099088456463049114",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/_InfoGram_/status/2118253289573949943"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Runautomat",
+   "results": [
+    "https://www.linkedin.com/in/lucasrunautomat",
+    "https://www.linkedin.com/company/automat-ai/",
+    "https://pe.linkedin.com/posts/lucasrunautomat_ai-automations-google-activity-7325187882397171714-1Nzn",
+    "https://jo.linkedin.com/jobs/runautomat-blog-after-2026-07-04-jobs?countryRedirected=1",
+    "https://www.linkedin.com/in/gautambose",
+    "https://www.linkedin.com/in/shareefelsayed",
+    "https://www.linkedin.com/posts/lucasrunautomat_hey-all-today-im-super-excited-to-walk-activity-7467302404842123264-D2s8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Runautomat",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Runautomat note 社長",
+   "results": [
+    "https://www.linkedin.com/in/lucasrunautomat",
+    "https://note.com/ai_jidouka_note",
+    "https://runautomat.com/about",
+    "http://lucasochoa.com/about",
+    "https://runautomat.com/blog/meet-ace-from-automat",
+    "https://nocap.blog/founder/lucas-ochoa/",
+    "https://www.ycombinator.com/companies/automat"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runautomat X 投稿",
+   "results": [
+    "https://x.com/EvanatAutomat",
+    "https://runautomat.com/",
+    "https://x.com/automat_ai",
+    "https://xboost.now/notes/x-post-automation-tools-2026",
+    "https://docs.runautomat.com/",
+    "https://blog.willeder.com/xauto/",
+    "https://www.theaiventure.com/ai-tweet-generation-claude-guide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}
