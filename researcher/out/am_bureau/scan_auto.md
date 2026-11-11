@@ -857,9 +857,9 @@
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：21件／数字のある品目 24件（88%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - ja.wikipedia.org と news.sharelab.jp：品目の重なり 2/5（40%）
   - note.com と ja.wikipedia.org：品目の重なり 3/8（38%）
+  - www.youtube.com と ja.nc-net.or.jp：品目の重なり 2/7（29%）
   - note.com と www.youtube.com：品目の重なり 3/11（27%）
-  - news.sharelab.jp と eigyo-mfg.com：品目の重なり 1/4（25%）
-  - ja.wikipedia.org と eigyo-mfg.com：品目の重なり 1/5（20%）
+  - news.sharelab.jp と ja.nc-net.or.jp：品目の重なり 1/4（25%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - Amnovis｜顧客・用途［不明］
